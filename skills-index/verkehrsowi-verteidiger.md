@@ -1,6 +1,6 @@
 # verkehrsowi-verteidiger
 
-**9 Skills** · Stand `v445.36.0`
+**9 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../verkehrsowi-verteidiger/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`verkehrsowi-verteidiger-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verkehrsowi-verteidiger/verkehrsowi-verteidiger-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`verkehrsowi-verteidiger-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verkehrsowi-verteidiger/verkehrsowi-verteidiger-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [verkehrsowi-verteidiger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/verkehrsowi-verteidiger.zip) |
+| **Plugin (installierbar)** | ZIP | [verkehrsowi-verteidiger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/verkehrsowi-verteidiger.zip) |
 
 ## So benutzt man einen Skill
 
@@ -36,4 +36,4 @@ English: This index lists source skills, including specialist series accessed th
 | [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verkehrsowi-verteidiger/skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Verkehrsowi Verteidiger ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verkehrsowi-verteidiger/skills/juristischer-argumentationskern/SKILL.md) |
 | [`tatvorwurf-und-materielles-recht-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verkehrsowi-verteidiger/skills/tatvorwurf-und-materielles-recht-bearbeiten/SKILL.md) | VerkehrsOWi-Verteidiger: Tatvorwurf und materielles Recht: Tatbestand, Beteiligung, Irrtum, Rechtfertigung, Schuld und Konkurrenz am belegten Geschehen prüfen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verkehrsowi-verteidiger/skills/tatvorwurf-und-materielles-recht-bearbeiten/SKILL.md) |
 | [`unterlagen-und-quellen-auswerten-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verkehrsowi-verteidiger/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md) | VerkehrsOWi-Verteidiger: Unterlagen und Quellen auswerten: Akte, Belege, Chronologie, Recherche und entscheidende Lücken für den konkreten Fachauftrag nachvollziehbar erschließen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verkehrsowi-verteidiger/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md) |
-| [`verkehrsowi-kommandocenter`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verkehrsowi-verteidiger/skills/verkehrsowi-kommandocenter/SKILL.md) | Für VerkehrsOWi-Verteidiger — Kommandocenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verkehrsowi-verteidiger/skills/verkehrsowi-kommandocenter/SKILL.md) |
+| [`verkehrsowi-kommandocenter`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verkehrsowi-verteidiger/skills/verkehrsowi-kommandocenter/SKILL.md) | Verkehrsbußgeld bis zur konkreten Verteidigungsschrift bearbeiten. Verarbeitet vorhandene Unterlagen, prüft entscheidende Fachfragen und führt den Auftrag zum vollständig formulierten Ergebnis. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verkehrsowi-verteidiger/skills/verkehrsowi-kommandocenter/SKILL.md) |

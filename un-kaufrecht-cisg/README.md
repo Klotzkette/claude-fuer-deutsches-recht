@@ -11,7 +11,7 @@ Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`un-kaufrecht-cisg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/un-kaufrecht-cisg.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`un-kaufrecht-cisg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/un-kaufrecht-cisg.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/un-kaufrecht-cisg.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/un-kaufrecht-cisg-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/un-kaufrecht-cisg-schnellstart.md) |
@@ -46,7 +46,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`un-kaufrecht-cisg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/un-kaufrecht-cisg.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`un-kaufrecht-cisg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/un-kaufrecht-cisg.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`un-kaufrecht-cisg-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/un-kaufrecht-cisg-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`un-kaufrecht-cisg-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/un-kaufrecht-cisg-werkstatt.md) |
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/un-kaufrecht-cisg-hauptproblem.md" download>un-kaufrecht-cisg-hauptproblem.md</a> |
@@ -98,8 +98,8 @@ Eine deutsche Rechtswahl ist nicht schon eine CISG-Abwahl. Umgekehrt setzt das P
 
 | Fassung / Format | Verwendung / Use | Download |
 | --- | --- | --- |
-| Plugin-ZIP | Zehn Fachskills, ein Hauptskill und Quellen / Ten specialist skills, one coordinating skill and references | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/un-kaufrecht-cisg.zip) |
-| Portables Plugin-ZIP | Derselbe Inhalt in einem umschließenden Plugin-Ordner / Same content in a containing folder | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/un-kaufrecht-cisg-portable.zip) |
+| Plugin-ZIP | Zehn Fachskills, ein Hauptskill und Quellen / Ten specialist skills, one coordinating skill and references | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/un-kaufrecht-cisg.zip) |
+| Portables Plugin-ZIP | Derselbe Inhalt in einem umschließenden Plugin-Ordner / Same content in a containing folder | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/un-kaufrecht-cisg-portable.zip) |
 | Werkstatt-Prompt | Ausführlicher eigenständiger Arbeitsablauf vom Vertrag bis zur Dokumentproduktion / Detailed standalone workflow | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/un-kaufrecht-cisg-werkstatt.md" download>Werkstatt als Markdown / Download workshop</a> |
 | Mini-Prompt / Schnellstart | Kompakter CISG-Arbeitsablauf / Compact standalone workflow | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/un-kaufrecht-cisg-schnellstart.md" download>Mini als Markdown / Download quick start</a> |
 | Hauptproblem-Prompt | Einen internationalen Lieferstreit bis zum bestellten Dokument führen / Coordinate a sales dispute through to the requested document | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/un-kaufrecht-cisg-hauptproblem.md" download>Hauptproblem als Markdown / Download coordinating prompt</a> |

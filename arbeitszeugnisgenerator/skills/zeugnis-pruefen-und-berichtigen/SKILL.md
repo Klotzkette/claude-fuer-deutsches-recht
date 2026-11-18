@@ -25,7 +25,7 @@ Lies vollständiges Zeugnis samt Datum und Unterschriftsblock, frühere Fassunge
 
 ## 4. Quellenpflicht
 
-Verwende [Zitierweise](../../../references/zitierweise.md) und [amtlich geprüfte Rechtsanker](../../references/rechtsstand.md). Unterscheide gesicherten Normtext, amtliche Entscheidung, Aktenfund und offene Recherche. Prüfe den einschlägigen Anker vor fallbezogener Verwendung live, insbesondere BAG, Beschluss vom 07.05.2026 - Az. 8 AZB 25/25, Rn. 12 bis 21; BAG, Teilurteil vom 18.06.2025 - Az. 2 AZR 96/24 (B), Rn. 49 bis 69; BAG, Versäumnisurteil vom 06.06.2023 - Az. 9 AZR 272/22, Rn. 14 bis 35. Keine unbelegte pauschale Beweislast für sämtliche Auslassungen oder Formfragen.
+Verwende [Zitierweise](../../references/zitierweise.md) und [amtlich geprüfte Rechtsanker](../../references/rechtsstand.md). Unterscheide gesicherten Normtext, amtliche Entscheidung, Aktenfund und offene Recherche. Prüfe den einschlägigen Anker vor fallbezogener Verwendung live, insbesondere BAG, Beschluss vom 07.05.2026 - Az. 8 AZB 25/25, Rn. 12 bis 21; BAG, Teilurteil vom 18.06.2025 - Az. 2 AZR 96/24 (B), Rn. 49 bis 69; BAG, Versäumnisurteil vom 06.06.2023 - Az. 9 AZR 272/22, Rn. 14 bis 35. Keine unbelegte pauschale Beweislast für sämtliche Auslassungen oder Formfragen.
 
 ## 5. Ausgabeformat
 

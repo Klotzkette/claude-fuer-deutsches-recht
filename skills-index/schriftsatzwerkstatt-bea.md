@@ -1,6 +1,6 @@
 # schriftsatzwerkstatt-bea
 
-**9 Skills** · Stand `v445.35.1`
+**9 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../schriftsatzwerkstatt-bea/README.md) · [Download-Index](../ASSET_INDEX.md)
 
@@ -9,7 +9,7 @@
 | Paket | Format | Link |
 | --- | --- | --- |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [schriftsatzwerkstatt-bea.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/schriftsatzwerkstatt-bea.zip) |
+| **Plugin (installierbar)** | ZIP | [schriftsatzwerkstatt-bea.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/schriftsatzwerkstatt-bea.zip) |
 
 ## App verwenden
 
@@ -19,7 +19,7 @@ Die Skills begleiten die lokale App. Start, Voraussetzungen und Zugriffsgrenzen 
 
 | Skill | Beschreibung | Markdown-Datei |
 | --- | --- | --- |
-| [`01-bea-ordner-annahme`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/01-bea-ordner-annahme/SKILL.md) | Bei Ordner beA-fertig, Schriftsatz versandfertig oder Dateien in Gerichts-PDFs umwandeln: startet die technische Werkstatt ohne juristische Inhaltsänderung. Inventarisiert Originale, klärt fehlende Pflichtdaten und führt durch Version, Anlagen, PDF, Namen und Signatur bis zum... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/01-bea-ordner-annahme/SKILL.md) |
+| [`01-bea-ordner-annahme`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/01-bea-ordner-annahme/SKILL.md) | beA-Werkstatt vom Dateiordner zur geprüften Mappe führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/01-bea-ordner-annahme/SKILL.md) |
 | [`02-schriftsatzversion-festlegen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/02-schriftsatzversion-festlegen/SKILL.md) | Bei mehreren DOCX-, ODT- oder PDF-Fassungen, Kommentaren, Änderungen, Platzhaltern oder unklarem Unterschriftsblock: bestimmt die fachlich freigegebene Schriftsatzversion vor der PDF-Konvertierung. Prüft Version und technische Vollständigkeit ohne juristische Inhaltsänderung;... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/02-schriftsatzversion-festlegen/SKILL.md) |
 | [`03-anlagenfolge-kennzeichnen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/03-anlagenfolge-kennzeichnen/SKILL.md) | Bei fertigem Schriftsatz mit gemischten Belegen: ordnet Anlagen technisch zu, führt vorhandene K- oder B-Nummern fort und bereitet die Kennzeichnung rechts oben vor. Prüft Zitate, Dubletten, Seitenfolge und fehlende Dateien. Liefert einen Anlagenplan ohne neue Bewertung des Be... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/03-anlagenfolge-kennzeichnen/SKILL.md) |
 | [`04-dateien-in-pdf-umwandeln`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/04-dateien-in-pdf-umwandeln/SKILL.md) | Bei fertigem Schriftsatz und Anlagen aus Office, Tabellen, E-Mails, Bildern, Scans oder PDF: erzeugt separate PDF-Arbeitskopien. Behandelt Layout, Druckbereiche, Kopfzeilen, Bildausrichtung, OCR und Anhänge formatspezifisch. Erhält Originale unverändert; Keine bloße Umbenennun... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/04-dateien-in-pdf-umwandeln/SKILL.md) |

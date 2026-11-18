@@ -1,6 +1,6 @@
 # compliance-abteilung-grosskonzern
 
-**9 Skills** · Stand `v445.36.0`
+**9 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../compliance-abteilung-grosskonzern/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`compliance-abteilung-grosskonzern-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`compliance-abteilung-grosskonzern-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [compliance-abteilung-grosskonzern.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/compliance-abteilung-grosskonzern.zip) |
+| **Plugin (installierbar)** | ZIP | [compliance-abteilung-grosskonzern.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/compliance-abteilung-grosskonzern.zip) |
 
 ## So benutzt man einen Skill
 
@@ -28,7 +28,7 @@ English: This index lists source skills, including specialist series accessed th
 
 | Skill | Beschreibung | Markdown-Datei |
 | --- | --- | --- |
-| [`compliance-auftrag-steuern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/compliance-auftrag-steuern/SKILL.md) | Steuert konkrete Aufträge der Konzernrechts- und Compliance-Abteilung bis zum fertigen Arbeitsprodukt. Für Richtlinienauskunft, Ausnahmeentscheidung, Rechtsrecherche und Regulierungsmonitoring sowie die Zuordnung zu KI-Freigabe, Kundenauskunft, Meldestelle, Geschäftspartnerprü... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/compliance-auftrag-steuern/SKILL.md) |
+| [`compliance-auftrag-steuern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/compliance-auftrag-steuern/SKILL.md) | Compliance-Vorfall zur begründeten Entscheidung und Maßnahme führen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert vollständigen Entscheidungsvermerk mit belegtem Befund, stärkster Entlastung, konkreter Maßnahme und gegebenenfalls ausformulie... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/compliance-auftrag-steuern/SKILL.md) |
 | [`geschaeftspartner-freigabe-entscheiden`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/geschaeftspartner-freigabe-entscheiden/SKILL.md) | Entwirft eine nachprüfbare Freigabe, Auflage oder Zurückstellung für eine konkrete Bestellung, Lieferung, Zahlung, Vermittlung oder Erwerbsphase. Klärt Geschäftspartneridentität, Eigentum und Kontrolle, Sanktionen, Vergütung und Korruptionsindikatoren und trennt Entscheidung,... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/geschaeftspartner-freigabe-entscheiden/SKILL.md) |
 | [`geschaeftspartner-und-transaktionen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/geschaeftspartner-und-transaktionen/SKILL.md) | Bearbeitet Integritätsprüfung und Freigaben bei Lieferanten, Vermittlern, Bewirtungen und Unternehmenskäufen. Für Identitäts- und Trefferklärung, Leistungs- und Zahlungsabgleich, Korruptionsrisiko, ausformulierte Auflagen, Vertragsbedingungen und Integration mit Nachtest. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/geschaeftspartner-und-transaktionen/SKILL.md) |
 | [`interne-untersuchung-entscheiden`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/interne-untersuchung-entscheiden/SKILL.md) | Erarbeitet eine belastbare Zwischen- oder Abschlussentscheidung in internen Compliance-Untersuchungen. Führt Vorwürfe, Originalbelege, Gegenbelege, Anhörung und Datenschutz zu einem entscheidungsreifen Befund zusammen und trennt geschützte Untersuchungsakte, Entscheidungsvorla... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/interne-untersuchung-entscheiden/SKILL.md) |

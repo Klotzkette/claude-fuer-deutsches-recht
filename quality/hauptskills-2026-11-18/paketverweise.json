@@ -1,0 +1,2252 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-18",
+  "scope": "Mechanische Korrektur der 96 diagnostizierten nativen Paketverweise; keine historischen SourceMaps oder Evals geändert.",
+  "summary": {
+    "changed_files": 93,
+    "link_occurrences": 96,
+    "local_reference_copies_created": 3,
+    "existing_identical_reference_copies_reused": 1
+  },
+  "copied_references": [
+    {
+      "target": "references/zitierweise.md",
+      "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+      "sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
+      "created": true
+    },
+    {
+      "target": "references/zitierweise.md",
+      "copied_to": "grundbuchamt-assistent/references/zitierweise.md",
+      "sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
+      "created": false
+    },
+    {
+      "target": "references/zitierweise.md",
+      "copied_to": "grundstuecksrecherche/references/zitierweise.md",
+      "sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
+      "created": true
+    },
+    {
+      "target": "references/zitierweise.md",
+      "copied_to": "insolvenzverwaltung-berichtsersteller/references/zitierweise.md",
+      "sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
+      "created": true
+    }
+  ],
+  "files": [
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/SKILL.md",
+      "before_sha256": "3c987ca080892f03f6c2be67a3607539ee61025c2727aa6784fa25888a7b8d1b",
+      "after_sha256": "6f6404e57ae8c50acc03d3459a7d33b6d1c4a716f46886f10abffc0c1a88cff9",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 6162,
+              "original_byte_end": 6196
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ],
+      "main_revision_followup": {
+        "registry": "quality/hauptskills-2026-11-18/revisionen.json",
+        "archive": "quality/hauptskills-2026-11-18/paketlink-zwischenfassungen/arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/SKILL.md.txt",
+        "scope": "Anschließende Sprach- und Gliederungskorrektur im gebundenen Hauptskill-Einzelreview; mechanischer Paketlinkstand unverändert archiviert."
+      }
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/langzeit-arbeitsverhaeltnis.md",
+      "before_sha256": "2cc524db1b087e43d206263a46f782523b3a9d4ec7243578c31a80c1585d7e1c",
+      "after_sha256": "4cf394ad13c05e45fbe3829f22c3dad5d2ff4a7764b1160bca10c322801841b9",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/langzeit-arbeitsverhaeltnis.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 241,
+              "original_byte_end": 278
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/mehrere-positionen-im-zeugnis.md",
+      "before_sha256": "6c596e993fa165b8ef03c72133efb01e6e54a076f7ab94a07ae6ac52db3eb4a4",
+      "after_sha256": "e04cf7c603ee333ae01a5a200a10525972b65c0ddca3f366630f8e7e4742b45c",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/mehrere-positionen-im-zeugnis.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 243,
+              "original_byte_end": 280
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/stammdaten-erhebung.md",
+      "before_sha256": "8bf4d4861d5420c94477211438c3a4d140ada6fb0c55c29b1e371a2268b53cac",
+      "after_sha256": "766edafbe81aed783924bd71e56d10bce71276aa2eeb9257eaccc796a5a40a0d",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/stammdaten-erhebung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 233,
+              "original_byte_end": 270
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/taetigkeitsbeschreibung-erheben.md",
+      "before_sha256": "5fac824fab1168e3f29ef05e94e04324114860f3e594ae11ac2a4f0747db69c6",
+      "after_sha256": "1234d8d074eca1f030aa4973c5f264a377d57f77bae6ae70099b4b58a0c2eaa3",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/taetigkeitsbeschreibung-erheben.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 245,
+              "original_byte_end": 282
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/teilzeit-elternzeit-darstellung.md",
+      "before_sha256": "be294efe90294ad96d8ef7be53b609eddb5dd146c5520db7787b88256cdb1c45",
+      "after_sha256": "9d4bbbad35b789d3d3e1811639d689bd460caa39795f4fe7a81ec20f52c45673",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/teilzeit-elternzeit-darstellung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 248,
+              "original_byte_end": 285
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/zeugnisart-einfach.md",
+      "before_sha256": "14ab07601d344db3719ec1b40602a9bc58b578977e36d4f9ce25c732f90d7eea",
+      "after_sha256": "05a74e1801ad4706b1f84930b1a1e694357ccbf04124f94fd4a5dbd2de55318d",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/zeugnisart-einfach.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 250,
+              "original_byte_end": 287
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/zeugnisart-qualifiziert.md",
+      "before_sha256": "56691529bb64baa5fb0641885eae51877137382f9c3f338b35aef40e91035b1c",
+      "after_sha256": "2203127f6feb5182203271691b2bcf97d91cd834f384cac16fc6d9e00418d652",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/zeugnisart-qualifiziert.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 255,
+              "original_byte_end": 292
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/zeugnisart-zwischenzeugnis.md",
+      "before_sha256": "e12815be40f5dbe431c8530a11025264d70ba9d80140c813ce922182a940981c",
+      "after_sha256": "5b6ea77b6c21d85b1473d2bd35c41650b018b5fddb91b2fcf58874e4acf1394d",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/references/zeugnisart-zwischenzeugnis.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 241,
+              "original_byte_end": 278
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/ausbildungs-und-praktikumszeugnis-erstellen/SKILL.md",
+      "before_sha256": "a8af54084474dcde74079dac9299ced1c74f28896b454fe397f9f55c52626824",
+      "after_sha256": "d3ba7496e76b5c122bfae0580df1e786e77df65037887f564dc725953498997d",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/ausbildungs-und-praktikumszeugnis-erstellen/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 2761,
+              "original_byte_end": 2795
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/ausbildungs-und-praktikumszeugnis-erstellen/references/zeugnisart-ausbildungszeugnis-16-bbig.md",
+      "before_sha256": "f448df2620db758e0987d7d5497fce393904639b9b61f0247a44af6c27fde488",
+      "after_sha256": "4ecdf93aa9f639d7de9f6b57363a970e54f274f7e4cb6ddcd498607eb9516606",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/ausbildungs-und-praktikumszeugnis-erstellen/references/zeugnisart-ausbildungszeugnis-16-bbig.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 483,
+              "original_byte_end": 520
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/ausbildungs-und-praktikumszeugnis-erstellen/references/zeugnisart-praktikum.md",
+      "before_sha256": "28db251aff2aeafad7303160b37c1d75ba0e452c7f4a488bd850674d681130bb",
+      "after_sha256": "b7a45b897621f6e7cdd4b0b8957c637ee50cada6136f81666821d8e0c02500ce",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/ausbildungs-und-praktikumszeugnis-erstellen/references/zeugnisart-praktikum.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 460,
+              "original_byte_end": 497
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/SKILL.md",
+      "before_sha256": "38daba66565294f1fa954ce3918247eff28226fe8af6f2815181e362ffffeaa7",
+      "after_sha256": "60ad599a5964dedf236ae55ecba822bc0ab1c0d2d55b47812c9a9d77a8b50e38",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 4133,
+              "original_byte_end": 4167
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/belastbarkeit-formeln.md",
+      "before_sha256": "4149ae27e08ca4b3d4ee25df859d8eed5223a1f0d87025c541f9417114251720",
+      "after_sha256": "2dbc824942b4b36a1182020aafedddff19c5ce5ba4b260f9d8260df774f05990",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/belastbarkeit-formeln.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 452,
+              "original_byte_end": 489
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/besondere-leistungen-projekte.md",
+      "before_sha256": "9353378aed6ffc4569cb38116c226dbaba8212e50cfd0a259b02b61839d400b6",
+      "after_sha256": "4a172ea81e09a81682866a14b5b65c3b93c899519200c9c81b6e47b5d4c43432",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/besondere-leistungen-projekte.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 464,
+              "original_byte_end": 501
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/compliance-integritaet-formeln.md",
+      "before_sha256": "fa9c663aef0d90c5397213059d04b74c79ca81b7b9f1cbc34a6471f43888315e",
+      "after_sha256": "2c81c85fb5ce93c03128ec4b1dc7954d81b17fdcc2e7946574c4cf00815c0cbd",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/compliance-integritaet-formeln.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 467,
+              "original_byte_end": 504
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/engagement-motivation-formeln.md",
+      "before_sha256": "3027ef8fb96103bc1722d9ef1ac1a01c99b186858c172687150c3e6cc51e1b17",
+      "after_sha256": "2cfdf7fb5077dcd49b4ddf6e59296eb9d9760be187e01779cdb1e4859bf21fc4",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/engagement-motivation-formeln.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 466,
+              "original_byte_end": 503
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/frequenzadverbien-katalog.md",
+      "before_sha256": "d9c39faffaded8be94b9dfbe4e0a9a342d84c9bdf368c9bdd341781386e35b84",
+      "after_sha256": "d7f0663174711c40f50dcc6d04ad96d52d64aef36d876475ad7a45fd0ad8678b",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/frequenzadverbien-katalog.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 456,
+              "original_byte_end": 493
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/fuehrungskraft-bewertung.md",
+      "before_sha256": "140aaec5bcf886282c9bc64e7bbbafd2b2e87ca08c4ff69bce0f532fc3927972",
+      "after_sha256": "25adbe85a2532bea5114c0d37db5724557eb94b1d45deb761f8d371b951ea5d4",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/fuehrungskraft-bewertung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 455,
+              "original_byte_end": 492
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/note-1-formeln-leistung.md",
+      "before_sha256": "46ab160cf395336aec2c0b83c4d8c4f96951d5e459ee9fab50ef61b775bacc41",
+      "after_sha256": "f79346ec4ccbf184a8fbdcff67654a601bd4f4fc8768ca06eead014bcccd67ec",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/note-1-formeln-leistung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 456,
+              "original_byte_end": 493
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/note-2-formeln-leistung.md",
+      "before_sha256": "4f29851083ab3a609f18345b92a6d20c8e25997ac1cc444a6820f2d2952897eb",
+      "after_sha256": "b3e125bc9d70f0f90f36ab4fd2cfc1cbabfcb1cf0bd69a497ede8c3f3df4f388",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/note-2-formeln-leistung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 456,
+              "original_byte_end": 493
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/note-3-formeln-leistung.md",
+      "before_sha256": "25433d846025b47ea077d8f4664a5525ac5e3e1e9590202a8aebae441861ab4a",
+      "after_sha256": "840f9ae3057121c1cc7854c8de6d942e6fb3d14651b898d9235d9d674b1a8b22",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/note-3-formeln-leistung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 456,
+              "original_byte_end": 493
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/note-4-formeln-leistung.md",
+      "before_sha256": "d3f38a07693acd876aa1b5b40b72efd6e2e4ba3263fd6078df3c9338d8bf4511",
+      "after_sha256": "ad18ed57a3e8e673e11a8eebfd42074abb84904a65715e2ceb1d779907198aec",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/note-4-formeln-leistung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 456,
+              "original_byte_end": 493
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/note-5-formeln-leistung.md",
+      "before_sha256": "17f7b4d0c4290b50b8c6c42b6af20d6ae7762fe8d8dae6eb0c694892c81bb649",
+      "after_sha256": "28bff20273263786021fd60ebac4ce2479e6c760c8da0430a9e9487f5734af6b",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/note-5-formeln-leistung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 456,
+              "original_byte_end": 493
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/steigerungsadverbien-katalog.md",
+      "before_sha256": "df512b7427ffd2085c63976baefb5ce44aab40d9d613853d1ba11b66ea90bc54",
+      "after_sha256": "8ab59c209f0f4cfb23b3c42711955a43d11e3fed2305f991f43aaa2eb5ae8ea6",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/steigerungsadverbien-katalog.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 459,
+              "original_byte_end": 496
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/teamarbeit-formeln.md",
+      "before_sha256": "8f0535aaa89a4d9b1f39373e2e8d335ee6ff86eb342a96378075fdd8ddb080e8",
+      "after_sha256": "9b856392b40aaa39bdb3e88544007c11e140f18915926e7a08862167132de84b",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/teamarbeit-formeln.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 449,
+              "original_byte_end": 486
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/verhalten-vorgesetzte-kollegen-kunden.md",
+      "before_sha256": "101df518e157a1552193ed5572cef3a347a0097312e8edd4c98d89887ba26cdd",
+      "after_sha256": "f0801d9b60cacc8426536561ea4efceb0d531390a9af3ae44899563afc8cf1b6",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/references/verhalten-vorgesetzte-kollegen-kunden.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 485,
+              "original_byte_end": 522
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/SKILL.md",
+      "before_sha256": "9d112f5b87a4d4503d226bc9d6e8bd597d9749e825cd3a78c5b8dc51abd16cf0",
+      "after_sha256": "30ad18c29e2afaa82de40786e639458d57f6ccc08866558e43205eeaa716770f",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 3774,
+              "original_byte_end": 3808
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/references/auslassungen-vermeiden.md",
+      "before_sha256": "daa4daa4d7cb2dd527eab1f58c7a66f4bfe60d28a03f85c3c0e096302e3def22",
+      "after_sha256": "6374289a4418cc9454ab7952295e319cfe4e594a0997377af1f0e1abeccee2b8",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/references/auslassungen-vermeiden.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 236,
+              "original_byte_end": 273
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/references/bag-leitentscheidungen-beweislast.md",
+      "before_sha256": "d9337976e785541532f74aa7573895faa50b2252436e79407190d006ec381836",
+      "after_sha256": "8b2314ff9872a8a8583463e5c1ffaa2cc90243aba1348b29e76ab5111e0f7c39",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/references/bag-leitentscheidungen-beweislast.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 5390,
+              "original_byte_end": 5427
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/references/drift-und-schaufenster-vermeiden.md",
+      "before_sha256": "f8b36a09878ad23ad339b8ab19f51825579e340f7692d30ba12b593542cea8ac",
+      "after_sha256": "4e2a8f272dd27627ce98de897990fa411d31c0ada1e07c8671fb2db2d3782bc7",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/references/drift-und-schaufenster-vermeiden.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 246,
+              "original_byte_end": 283
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/references/geheimcodes-vermeiden.md",
+      "before_sha256": "1f65869f21fb36ca6e937de04299cdb749a85fc2208e316092619357535255ce",
+      "after_sha256": "542298ec16ddb0450a938581a89ef816f5b9655d8e66683e7c9d3578005b2864",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/references/geheimcodes-vermeiden.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 235,
+              "original_byte_end": 272
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/references/rechtlicher-anker-109-gewo.md",
+      "before_sha256": "a3318e4a27b2be6522014591b34f4bd758c38cb50be710830c00bbfd8e6646bd",
+      "after_sha256": "3f427551ed64d93ca5c0bb482f77b8c8630096788175dc93b6797468df9bc07a",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/references/rechtlicher-anker-109-gewo.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 8751,
+              "original_byte_end": 8788
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/references/wohlwollensgrundsatz-und-wahrheit.md",
+      "before_sha256": "2d9bd8077b22b8da73a3cf4aa7379194bb395e4dddff93d68e2870a2f5872c3c",
+      "after_sha256": "8f223ef5e43ae9c414ebc8b5b09c8996ea58b2064b17803884b2354fe7f1cd4b",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/references/wohlwollensgrundsatz-und-wahrheit.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 247,
+              "original_byte_end": 284
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/references/zeugnisklarheit-objektiver-empfaengerhorizont.md",
+      "before_sha256": "c2fc9a19ba5aa51da11263c4c286caa5ca714dc23ae12b6d3041206d0092ffe7",
+      "after_sha256": "ad59fa88331da2cfcf9fc3a4570988b1ee607aad5567ef60e7489b0e3bc2f637",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/references/zeugnisklarheit-objektiver-empfaengerhorizont.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 294,
+              "original_byte_end": 331
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/zeugnisabschluss-und-form-gestalten/SKILL.md",
+      "before_sha256": "c0b95e87f22b4b8992185ab3dec6153a76db36b1678047bd9d30fec37a3edcab",
+      "after_sha256": "742f47ed28e483248d0ed0fd8070812a1975a8e84a66d129664b99f226ed1406",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/zeugnisabschluss-und-form-gestalten/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 3095,
+              "original_byte_end": 3129
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/zeugnisabschluss-und-form-gestalten/references/beendigungsgrund-formulieren.md",
+      "before_sha256": "0dc80db9f3f1a68d4e668cb163010a3fd8bca1328546a712481e32d29243f37f",
+      "after_sha256": "04c3e06a2d9d298eadeda8401e07174c16e43c2e32ada52d846e08c0e5d728d2",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/zeugnisabschluss-und-form-gestalten/references/beendigungsgrund-formulieren.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 242,
+              "original_byte_end": 279
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/zeugnisabschluss-und-form-gestalten/references/kopfdaten-und-aussere-form.md",
+      "before_sha256": "5c001c9ebce0ac5cb98faa7346556ebb7a320589c6c5fc49b0265d6b30cd5c67",
+      "after_sha256": "aeb41b9072015a57688666b1c968252776b5426e6a24f7a0fbb1a07d8fb82607",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/zeugnisabschluss-und-form-gestalten/references/kopfdaten-und-aussere-form.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 241,
+              "original_byte_end": 278
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/zeugnisabschluss-und-form-gestalten/references/schlussformel-baukasten.md",
+      "before_sha256": "63e3c69accd3c3ab1da16751b835171759396d8cda003bf1b366663bfa65b2bf",
+      "after_sha256": "c3b1dde8275308bd440d4a25cea2f66f48975cb97c37659d01096c570b5f6106",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/zeugnisabschluss-und-form-gestalten/references/schlussformel-baukasten.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 237,
+              "original_byte_end": 274
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "path": "arbeitszeugnisgenerator/skills/zeugnisabschluss-und-form-gestalten/references/schlussformel-notenwirkung.md",
+      "before_sha256": "5b9866091f732142d93695199caf65ca54b19bc04e30271a43f0678b2ba244d2",
+      "after_sha256": "4f93374b40f99514ed8f72920707c2c02b9363d9c65554d3f1ad88f64f752e6e",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/arbeitszeugnisgenerator/skills/zeugnisabschluss-und-form-gestalten/references/schlussformel-notenwirkung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "arbeitszeugnisgenerator/references/zitierweise.md",
+          "new": "../../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 240,
+              "original_byte_end": 277
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "bauwirtschaft-anfaenger",
+      "path": "bauwirtschaft-rundum/bauwirtschaft-anfaenger/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "371450ab57c9406ec1274b19bc412534fee6e7eca206e0c3fb2e292683eb9e41",
+      "after_sha256": "685305ac42e68451a90092d1c3af035793b33b5223879e60bcd7b37322c0f5c8",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/bauwirtschaft-rundum/bauwirtschaft-anfaenger/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "target": "testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 5197,
+              "original_byte_end": 5259
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "richter-amtsgericht-handelsregister",
+      "path": "gerichtsplugins/richter-amtsgericht-handelsregister/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "a7595cec18e871dda324c2f141133e7e0c89c297d93ecdec955100790b1fa7f0",
+      "after_sha256": "4abab5744729c00259dd7de59e06468971f817077c39cf433b6912d834957372",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/gerichtsplugins/richter-amtsgericht-handelsregister/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "target": "testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 6080,
+              "original_byte_end": 6142
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "richter-amtsgericht-insolvenz-restrukturierung",
+      "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "9a9936f98217827e4128f245c926c8338c09fe7e40f78d15edc765e0ba7ba0c8",
+      "after_sha256": "e521d956aab87ee74d539fd86cd9d5b97628ca5a83987a38a0ade7d6c4be62cd",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "target": "testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 6122,
+              "original_byte_end": 6184
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "richter-amtsgericht-straf",
+      "path": "gerichtsplugins/richter-amtsgericht-straf/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "db8fc2df3adec2b1d13b2c7a1206d4db0d425052ff0551abe4ac4c2d979cb579",
+      "after_sha256": "e5d4bb8ecf464734eef900dec8c3a683d5a6a18cd9587cf760c06a8af6aaa30e",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/gerichtsplugins/richter-amtsgericht-straf/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "target": "testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 6100,
+              "original_byte_end": 6162
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "richter-amtsgericht-zivil",
+      "path": "gerichtsplugins/richter-amtsgericht-zivil/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "f297d19b297adb0e165debac187fa120e2eae8e293e4217083924f65fc88cbde",
+      "after_sha256": "d638cd30678e6b30a412ebbeb66ea3f80f86b9d99316ae468e18763a4a0629fb",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/gerichtsplugins/richter-amtsgericht-zivil/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "target": "testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 6088,
+              "original_byte_end": 6150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "richter-arbeitsgericht",
+      "path": "gerichtsplugins/richter-arbeitsgericht/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "1d8d58e2d5164ff35613520c4dba80c6656970fbeaf31176e5ad1eee86b0264f",
+      "after_sha256": "6519132da3a95fc34fef7a490a347785355503434d48bde6ab97e31092c67d33",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/gerichtsplugins/richter-arbeitsgericht/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "target": "testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 6098,
+              "original_byte_end": 6160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "richter-familiengericht",
+      "path": "gerichtsplugins/richter-familiengericht/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "5a2424c6abd8285ee4cfa3aad5b51240b3f17114bbdb0c3c79062835a5dbc033",
+      "after_sha256": "f69ae767e01468403e65ffb96e4ae20b85e1c52a5671c98ffbc2dfdc307405b0",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/gerichtsplugins/richter-familiengericht/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "target": "testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 6086,
+              "original_byte_end": 6148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "richter-finanzgericht",
+      "path": "gerichtsplugins/richter-finanzgericht/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "0383ba419e13ae7864d7669363e4e8b6521c47452fbd23adc30edb61916a9791",
+      "after_sha256": "c0ee780af03a41506c095833b87e40ebba19002bd76420b2b38fe436d6aa44b1",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/gerichtsplugins/richter-finanzgericht/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "target": "testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 6092,
+              "original_byte_end": 6154
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "richter-landgericht-strafkammer",
+      "path": "gerichtsplugins/richter-landgericht-strafkammer/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "82e51757c6f7d7ad069ce5971833a1ca06426db8dbf6a7cc2265a4058f2bc8d7",
+      "after_sha256": "e5faf3b9934846910891de4e1406bac859c44c7bc354ab33b6753d76cc1d3693",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/gerichtsplugins/richter-landgericht-strafkammer/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "target": "testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 6066,
+              "original_byte_end": 6128
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "richter-landgericht-zivilkammer",
+      "path": "gerichtsplugins/richter-landgericht-zivilkammer/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "94db3b7414549024f0cae00f2e0d4e909f31a366c1842654d2d48b4c1434c304",
+      "after_sha256": "1d4d23469c627b19d3a504f67a5839b4f0468e6df83fdd2470414d36a6574261",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/gerichtsplugins/richter-landgericht-zivilkammer/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "target": "testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 6088,
+              "original_byte_end": 6150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "richter-sozialgericht",
+      "path": "gerichtsplugins/richter-sozialgericht/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "b6326d490a3b765db559a2f76ec12a195c719789fbefcba4499a338b7baca01a",
+      "after_sha256": "56a1583c31cbc4eaf641d70dba0be4c44abe023c9710c04d82cbaf99b7c7fbfa",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/gerichtsplugins/richter-sozialgericht/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "target": "testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 6096,
+              "original_byte_end": 6158
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "richter-verwaltungsgericht",
+      "path": "gerichtsplugins/richter-verwaltungsgericht/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "eb775908c7b30953dbd669cd4562109a227c848f41477622a40596371912e03b",
+      "after_sha256": "91841ee9169cd5cd5de737f7d5c94a8c21b930ad208a5dbb6c5e067c4f62bae8",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/gerichtsplugins/richter-verwaltungsgericht/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../../testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "target": "testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-hochrisiko-mainblick-bewerbung/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 6106,
+              "original_byte_end": 6168
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "grundbuchamt-assistent",
+      "path": "grundbuchamt-assistent/references/rechtsprechung.md",
+      "before_sha256": "3013b4e5952147901978716049baf44fd94c78dbb5108cb675388d98a1bd65bd",
+      "after_sha256": "6f38fe230d8cbf9580df01820fc517507afcc41cb37b7838063274eb8ab188cc",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/grundbuchamt-assistent/references/rechtsprechung.md.txt",
+      "replacements": [
+        {
+          "old": "../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "grundbuchamt-assistent/references/zitierweise.md",
+          "new": "zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 5034,
+              "original_byte_end": 5065
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "grundbuchamt-assistent",
+      "path": "grundbuchamt-assistent/skills/eigentum-vormerkung-und-vollzug/SKILL.md",
+      "before_sha256": "fbad1d8ef799f35b062a16ab11f8dcdc41c40a95e43d33779c6a92827148c8f4",
+      "after_sha256": "74188280dddce1e7a8e941165fbdcacc71a36162b50a379fe689e6658fcdc77d",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/grundbuchamt-assistent/skills/eigentum-vormerkung-und-vollzug/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../grundbuchamt-assistent-werkstatt.md",
+          "target": "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 1943,
+              "original_byte_end": 1984
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "grundbuchamt-assistent",
+      "path": "grundbuchamt-assistent/skills/erbfolge-und-grundbuchberichtigung/SKILL.md",
+      "before_sha256": "9382bf2faa72c17236437be98db116b7514f4c79a264f9bedecfec8aa89de056",
+      "after_sha256": "7b17d55544181aba65b022f441f1abf9b72f65dc0fed5dd6699557295c8addc5",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/grundbuchamt-assistent/skills/erbfolge-und-grundbuchberichtigung/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../grundbuchamt-assistent-werkstatt.md",
+          "target": "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 2725,
+              "original_byte_end": 2766
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "grundbuchamt-assistent",
+      "path": "grundbuchamt-assistent/skills/grundbuch-und-bezugsurkunden-lesen/SKILL.md",
+      "before_sha256": "e01c39efd15538db5f0a781f26002151381c9657ca8da6a63c4973348e331135",
+      "after_sha256": "90b183ac6c1c5a6543c31d4082524033a24af88b971a516b8dd1fb1a8b6ed6c5",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/grundbuchamt-assistent/skills/grundbuch-und-bezugsurkunden-lesen/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../grundbuchamt-assistent-werkstatt.md",
+          "target": "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 2553,
+              "original_byte_end": 2594
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "grundbuchamt-assistent",
+      "path": "grundbuchamt-assistent/skills/grundbuchantrag-und-form-pruefen/SKILL.md",
+      "before_sha256": "830a3a97cc2dfc74ee8fda9f9a723bf07082df9f0005e7ce25f9682618a4a0af",
+      "after_sha256": "f2e5410fe954ddbb5b774aa55a78f2bc4e9222652e27461686c5a5932de38d51",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/grundbuchamt-assistent/skills/grundbuchantrag-und-form-pruefen/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../grundbuchamt-assistent-werkstatt.md",
+          "target": "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 2775,
+              "original_byte_end": 2816
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "grundbuchamt-assistent",
+      "path": "grundbuchamt-assistent/skills/grundbucheinsicht-begruenden/SKILL.md",
+      "before_sha256": "56fb46b32b0aff5c79cc7315df027c86edf9efaa715a5d663114dec2ed29bdfb",
+      "after_sha256": "e3261cdbd8f30b2bc6a24dbfe32d91cab1e63a25f5018c178b4def9a683bf4fb",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/grundbuchamt-assistent/skills/grundbucheinsicht-begruenden/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../grundbuchamt-assistent-werkstatt.md",
+          "target": "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 3105,
+              "original_byte_end": 3146
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "grundbuchamt-assistent",
+      "path": "grundbuchamt-assistent/skills/grundschuld-rang-und-loeschung/SKILL.md",
+      "before_sha256": "200780a15b8dd754d41e64cb0b09d195a2bf43dad4123a69fe16caa95347d7ae",
+      "after_sha256": "3600db1f5b9168ffa7429ed370d79306a423306bfe4650abbf17c053fb26b0d6",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/grundbuchamt-assistent/skills/grundschuld-rang-und-loeschung/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../grundbuchamt-assistent-werkstatt.md",
+          "target": "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 3133,
+              "original_byte_end": 3174
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "grundbuchamt-assistent",
+      "path": "grundbuchamt-assistent/skills/grundschuldbrief-aufgebot-und-wiederfund/SKILL.md",
+      "before_sha256": "b7c124f5705f3bae3ee177867a6ee64beb2a39b630f61a40077a898661fedc4e",
+      "after_sha256": "063b6301a9bab7adcb6dba3e7a45a3164ac13cca2d64945e1ba11a6192c0017d",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/grundbuchamt-assistent/skills/grundschuldbrief-aufgebot-und-wiederfund/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../grundbuchamt-assistent-werkstatt.md",
+          "target": "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 3439,
+              "original_byte_end": 3480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "grundbuchamt-assistent",
+      "path": "grundbuchamt-assistent/skills/vertretung-und-urkundenkette-pruefen/SKILL.md",
+      "before_sha256": "36fbf3ea6c947fe4583967d38b7af08723b56e36c20a975df8a95bff4fa8b9fa",
+      "after_sha256": "b873891f125bf02ca0fb72fdcddc81c2620a4a8443d2d0cfba03a2a3b382cf8f",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/grundbuchamt-assistent/skills/vertretung-und-urkundenkette-pruefen/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../grundbuchamt-assistent-werkstatt.md",
+          "target": "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 2677,
+              "original_byte_end": 2718
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "grundbuchamt-assistent",
+      "path": "grundbuchamt-assistent/skills/vollzug-kosten-und-zugriff-dokumentieren/SKILL.md",
+      "before_sha256": "68b9afa82c0194ab7d72548977360e4fbfd414bd2bc31351c7fbf2dd6caadee0",
+      "after_sha256": "4a7a678e43610eafe8f4ffdc8e3deddfd8c43d2c6e87134ef19ce3fbad58147f",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/grundbuchamt-assistent/skills/vollzug-kosten-und-zugriff-dokumentieren/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../grundbuchamt-assistent-werkstatt.md",
+          "target": "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 2823,
+              "original_byte_end": 2864
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "grundbuchamt-assistent",
+      "path": "grundbuchamt-assistent/skills/zwischenverfuegung-und-beschwerde/SKILL.md",
+      "before_sha256": "715a56616ddc23189bda73dc3bc8ed3a0d244333fb50e41351d0f4bc08148f4e",
+      "after_sha256": "b18a5cb3d7daec5a660631b46a80d9f07b6315b082f43a78898ef6c1b05bc1e2",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/grundbuchamt-assistent/skills/zwischenverfuegung-und-beschwerde/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../grundbuchamt-assistent-werkstatt.md",
+          "target": "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 3824,
+              "original_byte_end": 3865
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "grundstuecksrecherche",
+      "path": "grundstuecksrecherche/references/rechtsquellen.md",
+      "before_sha256": "5d13bbbd5132f306766f469fb12585de2f9e39362ce522d0beb3ab7e710c1f2f",
+      "after_sha256": "2ed7acd5767f30b95279060ceee544b0a35c3ac7ce0b5dce106de2e413206a97",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/grundstuecksrecherche/references/rechtsquellen.md.txt",
+      "replacements": [
+        {
+          "old": "../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "grundstuecksrecherche/references/zitierweise.md",
+          "new": "zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 498,
+              "original_byte_end": 529
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "handelsregister-assistent",
+      "path": "handelsregister-assistent/skills/auslandsvertretung-und-urkunden/SKILL.md",
+      "before_sha256": "e4eab41aaef1b13bc6287fef4a306bc0e7a92c534ebfc3b4d502b4c5162490ba",
+      "after_sha256": "6353f6eb57bfcc35fdcf1971fdf8ce542be7a737957bb7bc86c1c156c702bbaf",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/handelsregister-assistent/skills/auslandsvertretung-und-urkunden/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../handelsregister-assistent-werkstatt.md",
+          "target": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 902,
+              "original_byte_end": 946
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "handelsregister-assistent",
+      "path": "handelsregister-assistent/skills/einreichung-und-vollzug-nachhalten/SKILL.md",
+      "before_sha256": "2c340c5dfb1c8c38db6aa349afb8fc23c114aff10d6ff5dfe617998d288e0664",
+      "after_sha256": "8d8e64418c36b70cab2e3ec71a4d6b79bf8971ed0afe09043d32a95297a00ef4",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/handelsregister-assistent/skills/einreichung-und-vollzug-nachhalten/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../handelsregister-assistent-werkstatt.md",
+          "target": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 900,
+              "original_byte_end": 944
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "handelsregister-assistent",
+      "path": "handelsregister-assistent/skills/gesellschafterliste-erstellen-und-abgleichen/SKILL.md",
+      "before_sha256": "88b21c2f388744bce2ed5bd0b362d2dfeae07908a5932660d9a53895b94ebf89",
+      "after_sha256": "ac129f398ddac60086cfbb9a11d0d2623b4fbb23f2ee622767bd8bf38e55c6a6",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/handelsregister-assistent/skills/gesellschafterliste-erstellen-und-abgleichen/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../handelsregister-assistent-werkstatt.md",
+          "target": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 897,
+              "original_byte_end": 941
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "handelsregister-assistent",
+      "path": "handelsregister-assistent/skills/gruendung-satzung-und-kapital-anmelden/SKILL.md",
+      "before_sha256": "b4b91538887a8520d24d558a96081a495ff503bc3db9fa1d49f0d714f6808b73",
+      "after_sha256": "0af83586c51426c235bd5141b025d35c643053a7b5a5c098b5f15fc07c5b1ab0",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/handelsregister-assistent/skills/gruendung-satzung-und-kapital-anmelden/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../handelsregister-assistent-werkstatt.md",
+          "target": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 829,
+              "original_byte_end": 873
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "handelsregister-assistent",
+      "path": "handelsregister-assistent/skills/hauptproblem-registervorgang-zum-vollzug/SKILL.md",
+      "before_sha256": "fba0e900800d9a5faf4a45ac6edfe4f8d40916f2f32d4e024fa06e7fef23c3e2",
+      "after_sha256": "7b7c914d8437bbe3f37b433cf29853a81504da976a005bfe118a791e78865b49",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/handelsregister-assistent/skills/hauptproblem-registervorgang-zum-vollzug/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../handelsregister-assistent-werkstatt.md",
+          "target": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 1061,
+              "original_byte_end": 1105
+            }
+          ]
+        }
+      ],
+      "main_revision_followup": {
+        "registry": "quality/hauptskills-2026-11-18/revisionen.json",
+        "archive": "quality/hauptskills-2026-11-18/paketlink-zwischenfassungen/handelsregister-assistent/skills/hauptproblem-registervorgang-zum-vollzug/SKILL.md.txt",
+        "scope": "Anschließende Sprach- und Gliederungskorrektur im gebundenen Hauptskill-Einzelreview; mechanischer Paketlinkstand unverändert archiviert."
+      }
+    },
+    {
+      "plugin": "handelsregister-assistent",
+      "path": "handelsregister-assistent/skills/organwechsel-und-prokura/SKILL.md",
+      "before_sha256": "dc4b8fe5f6fbc0c2a19974482563a7149b6b91901384eb6c91d22492916c7a37",
+      "after_sha256": "c56b23258376d5839e83df35a1c869d9240ef46f9ad39c0f3f4669c7948b49ae",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/handelsregister-assistent/skills/organwechsel-und-prokura/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../handelsregister-assistent-werkstatt.md",
+          "target": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 874,
+              "original_byte_end": 918
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "handelsregister-assistent",
+      "path": "handelsregister-assistent/skills/registerdaten-und-datenschutz/SKILL.md",
+      "before_sha256": "552337eedc0fd287c2fc83afd3397714a0ba181db14e2fffeb161d9f821d7944",
+      "after_sha256": "eb21238ba76c0b50aacb4d151e5bc3deca16d1b4068f38a73d9508dbb9b77002",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/handelsregister-assistent/skills/registerdaten-und-datenschutz/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../handelsregister-assistent-werkstatt.md",
+          "target": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 885,
+              "original_byte_end": 929
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "handelsregister-assistent",
+      "path": "handelsregister-assistent/skills/registerrecherche-und-auszuege/SKILL.md",
+      "before_sha256": "c87084ea37700ce1470085485998e4eb38e9600f5ea33ac32bb34cb4eb42b2a6",
+      "after_sha256": "70c657547425ceac61199adea6a94f9b93ee6e0123d876497a80259b353c3526",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/handelsregister-assistent/skills/registerrecherche-und-auszuege/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../handelsregister-assistent-werkstatt.md",
+          "target": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 929,
+              "original_byte_end": 973
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "handelsregister-assistent",
+      "path": "handelsregister-assistent/skills/registerschriftverkehr-und-zwischenverfuegung/SKILL.md",
+      "before_sha256": "2bd447962ea7d8ef30aedd6f737036ae4739d667495bd9ac405918b7910ce003",
+      "after_sha256": "a9991346d691412215a4910ad43f2aa86ca24aac2f0f9c3792ab796229eb2698",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/handelsregister-assistent/skills/registerschriftverkehr-und-zwischenverfuegung/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../handelsregister-assistent-werkstatt.md",
+          "target": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 862,
+              "original_byte_end": 906
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "handelsregister-assistent",
+      "path": "handelsregister-assistent/skills/sitz-zweigniederlassung-und-strukturwechsel/SKILL.md",
+      "before_sha256": "bb4b509189dd1f26159c9a4d57dbe96ebfa92f377b84813959a394e9857fec44",
+      "after_sha256": "7c1270ce14ceedba358b40330a5f5146341f019c2a46691c7d5f8fba1e974462",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/handelsregister-assistent/skills/sitz-zweigniederlassung-und-strukturwechsel/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../handelsregister-assistent-werkstatt.md",
+          "target": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 871,
+              "original_byte_end": 915
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "handelsregister-assistent",
+      "path": "handelsregister-assistent/skills/vertretung-und-registerpublizitaet/SKILL.md",
+      "before_sha256": "78c7a69c02fa1c4a4ec87df2153267b0bdd14feac3abfeb2a927a94a77b445a0",
+      "after_sha256": "adb5563722d210b04818ddf75dd37daa5009bba946a0d6610c6052387e03116d",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/handelsregister-assistent/skills/vertretung-und-registerpublizitaet/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../handelsregister-assistent-werkstatt.md",
+          "target": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "kind": "prompt_download",
+          "new": "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 886,
+              "original_byte_end": 930
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "insolvenzsachbearbeitung",
+      "path": "insolvenzsachbearbeitung/references/testakten-und-arbeitsauftraege.md",
+      "before_sha256": "549b094d9340898726a10d4508a6a8513ee34c3b692a7332ffef039975022c66",
+      "after_sha256": "e426c3284c21c4062727de1ba551929ef5783a08fe33daeb0f4a0e8414fa8c4c",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/insolvenzsachbearbeitung/references/testakten-und-arbeitsauftraege.md.txt",
+      "replacements": [
+        {
+          "old": "../../testakten/insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen/README.md",
+          "target": "testakten/insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 500,
+              "original_byte_end": 580
+            }
+          ]
+        },
+        {
+          "old": "../../testakten/insolvenzsachbearbeitung-werkzeugkiste-augsburg/README.md",
+          "target": "testakten/insolvenzsachbearbeitung-werkzeugkiste-augsburg/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/insolvenzsachbearbeitung-werkzeugkiste-augsburg/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 720,
+              "original_byte_end": 793
+            }
+          ]
+        },
+        {
+          "old": "../../testakten/insolvenzsachbearbeitung-cafe-abendrot-regensburg/README.md",
+          "target": "testakten/insolvenzsachbearbeitung-cafe-abendrot-regensburg/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/insolvenzsachbearbeitung-cafe-abendrot-regensburg/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 918,
+              "original_byte_end": 993
+            }
+          ]
+        },
+        {
+          "old": "../../testakten/insolvenzsachbearbeitung-familie-haberlein-nuernberg/README.md",
+          "target": "testakten/insolvenzsachbearbeitung-familie-haberlein-nuernberg/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/insolvenzsachbearbeitung-familie-haberlein-nuernberg/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 1110,
+              "original_byte_end": 1188
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "insolvenzverwaltung-berichtsersteller",
+      "path": "insolvenzverwaltung-berichtsersteller/references/rechtsquellen.md",
+      "before_sha256": "4f16f0037851fcc366f16d6cccf7e0aa23253d2a8c4156b57552fec6dc79587f",
+      "after_sha256": "cc3af1b4a320157a872d549270f5514e65416d1031b51523e8dd8e120ea733d4",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/insolvenzverwaltung-berichtsersteller/references/rechtsquellen.md.txt",
+      "replacements": [
+        {
+          "old": "../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "insolvenzverwaltung-berichtsersteller/references/zitierweise.md",
+          "new": "zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 12319,
+              "original_byte_end": 12350
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "insolvenzverwaltung-berichtsersteller",
+      "path": "insolvenzverwaltung-berichtsersteller/skills/akte-und-berichtsanlass-steuern/SKILL.md",
+      "before_sha256": "4622c8d0895b9328e37d6b83471305b399b653d14b3cc23bb6533be99404be90",
+      "after_sha256": "6017f7a6373d5582512b0b4f42c81f17ed802673f267847a3f6aaa3a9bfd2f1e",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/insolvenzverwaltung-berichtsersteller/skills/akte-und-berichtsanlass-steuern/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "insolvenzverwaltung-berichtsersteller/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 9080,
+              "original_byte_end": 9114
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "insolvenzverwaltung-berichtsersteller",
+      "path": "insolvenzverwaltung-berichtsersteller/skills/berichtserstellung-steuern/SKILL.md",
+      "before_sha256": "6da37090daca725b46c01e0203da052721cf09b1e72a7b391538a8c0d58b825f",
+      "after_sha256": "3067911331c4e3b589add7d26cea7f03156b44027cb4bb665b3029fa215be5cd",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/insolvenzverwaltung-berichtsersteller/skills/berichtserstellung-steuern/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "insolvenzverwaltung-berichtsersteller/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 10541,
+              "original_byte_end": 10575
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ],
+      "main_revision_followup": {
+        "registry": "quality/hauptskills-2026-11-18/revisionen.json",
+        "archive": "quality/hauptskills-2026-11-18/paketlink-zwischenfassungen/insolvenzverwaltung-berichtsersteller/skills/berichtserstellung-steuern/SKILL.md.txt",
+        "scope": "Anschließende Sprach- und Gliederungskorrektur im gebundenen Hauptskill-Einzelreview; mechanischer Paketlinkstand unverändert archiviert."
+      }
+    },
+    {
+      "plugin": "insolvenzverwaltung-berichtsersteller",
+      "path": "insolvenzverwaltung-berichtsersteller/skills/forderungen-sicherheiten-quote-darstellen/SKILL.md",
+      "before_sha256": "2db9d84a69e94e5bfef4be633dc79a1d7f01a04034581d6df58fffa1ef3c1168",
+      "after_sha256": "bd4ae51fa96f7aba84e3117deb983825de9f0a390315138eb0c39fdb814091b8",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/insolvenzverwaltung-berichtsersteller/skills/forderungen-sicherheiten-quote-darstellen/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "insolvenzverwaltung-berichtsersteller/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 9745,
+              "original_byte_end": 9779
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "insolvenzverwaltung-berichtsersteller",
+      "path": "insolvenzverwaltung-berichtsersteller/skills/masse-verwertung-betrieb-darstellen/SKILL.md",
+      "before_sha256": "272275d51fdf47379b582bd79d0a062cd2af6c4dd045e027dc8ec46eecfee10b",
+      "after_sha256": "8707f3f8e67ac2d9f9058b94eb047ab821d8ee0cb11942ff6a38ed48aa8b4782",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/insolvenzverwaltung-berichtsersteller/skills/masse-verwertung-betrieb-darstellen/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "insolvenzverwaltung-berichtsersteller/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 9146,
+              "original_byte_end": 9180
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "insolvenzverwaltung-berichtsersteller",
+      "path": "insolvenzverwaltung-berichtsersteller/skills/nachtragsverteilung-bearbeiten/SKILL.md",
+      "before_sha256": "61bcd46b0a93b1e6f50d0794db0ca2e7dbf1a8242f87b8aa40cc6c204ad8b9e3",
+      "after_sha256": "7953664a3075a60dffe7fef8333a41770bc0ff81743b1bd524236d4457838390",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/insolvenzverwaltung-berichtsersteller/skills/nachtragsverteilung-bearbeiten/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "insolvenzverwaltung-berichtsersteller/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 9202,
+              "original_byte_end": 9236
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "insolvenzverwaltung-berichtsersteller",
+      "path": "insolvenzverwaltung-berichtsersteller/skills/prozesse-anfechtung-haftung-darstellen/SKILL.md",
+      "before_sha256": "e3f30c5891482cc737ac33a3f102f9f06f262aac4c22358a285a370209d7547a",
+      "after_sha256": "f31904576653161711a8d493d19541b62651fb9ffd9d3736de2038f9bd3b8860",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/insolvenzverwaltung-berichtsersteller/skills/prozesse-anfechtung-haftung-darstellen/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "insolvenzverwaltung-berichtsersteller/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 8967,
+              "original_byte_end": 9001
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "insolvenzverwaltung-berichtsersteller",
+      "path": "insolvenzverwaltung-berichtsersteller/skills/schlussbericht-erstellen/SKILL.md",
+      "before_sha256": "fa20034d7da30acd34f8c79031577ad3a561183486036f8deb27080504a20853",
+      "after_sha256": "ccb1d5955c51fde33edbb15788c8c5a739da61604f4e5c23b00190e9b5db222e",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/insolvenzverwaltung-berichtsersteller/skills/schlussbericht-erstellen/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "insolvenzverwaltung-berichtsersteller/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 9721,
+              "original_byte_end": 9755
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "insolvenzverwaltung-berichtsersteller",
+      "path": "insolvenzverwaltung-berichtsersteller/skills/schlussrechnung-konten-abgleichen/SKILL.md",
+      "before_sha256": "773b69b3cd17cd50af1c3811b17261d05a32e3173eff04d1cd2ae7f2654f9a61",
+      "after_sha256": "db3b35f56dc98877923eeb8c557b8d278e6b5b847975bd1b2bff8528148c195a",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/insolvenzverwaltung-berichtsersteller/skills/schlussrechnung-konten-abgleichen/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "insolvenzverwaltung-berichtsersteller/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 9014,
+              "original_byte_end": 9048
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "insolvenzverwaltung-berichtsersteller",
+      "path": "insolvenzverwaltung-berichtsersteller/skills/schlussverteilung-aufhebung-vorbereiten/SKILL.md",
+      "before_sha256": "a1586c0a05c855f07a89fad4116a4408837e09ae4ef0982ee19c51e33fa48905",
+      "after_sha256": "297d042b846e1af3443ca6accf5a6ce4a370f8e5c348554bf413954b4ee42432",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/insolvenzverwaltung-berichtsersteller/skills/schlussverteilung-aufhebung-vorbereiten/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "insolvenzverwaltung-berichtsersteller/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 9632,
+              "original_byte_end": 9666
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "insolvenzverwaltung-berichtsersteller",
+      "path": "insolvenzverwaltung-berichtsersteller/skills/steuern-kosten-verguetung-darstellen/SKILL.md",
+      "before_sha256": "e9d2db5d8e7bba92441b8477051df6e04947650b29598a86c0256379a79f47e7",
+      "after_sha256": "40d007aea308b2dde61cfbe968dd296ab7c1c7e98ce6fbb2d366800b30c001bc",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/insolvenzverwaltung-berichtsersteller/skills/steuern-kosten-verguetung-darstellen/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "insolvenzverwaltung-berichtsersteller/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 8928,
+              "original_byte_end": 8962
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "insolvenzverwaltung-berichtsersteller",
+      "path": "insolvenzverwaltung-berichtsersteller/skills/zwischenbericht-erstellen/SKILL.md",
+      "before_sha256": "e948b957c6da337d8beec5df402bdc6fffd4666eea8db144fd4fe3ab99697ba9",
+      "after_sha256": "dd893d8afad0de9e99a3397374d395078b89817be5b287dd74c26b6141800597",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/insolvenzverwaltung-berichtsersteller/skills/zwischenbericht-erstellen/SKILL.md.txt",
+      "replacements": [
+        {
+          "old": "../../../references/zitierweise.md",
+          "target": "references/zitierweise.md",
+          "kind": "local_reference",
+          "copied_to": "insolvenzverwaltung-berichtsersteller/references/zitierweise.md",
+          "new": "../../references/zitierweise.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 8920,
+              "original_byte_end": 8954
+            }
+          ],
+          "copied_sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+        }
+      ]
+    },
+    {
+      "plugin": "kanzlei-website-redaktion",
+      "path": "kanzlei-website-redaktion/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "c58160c975d72905d14de220bcf1fef1830999b8d363cfa7c977549fc78d6972",
+      "after_sha256": "382ae98da29432c44d2db85cf7015fb29800af4ea59a8073a7934873db1ad07e",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/kanzlei-website-redaktion/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "target": "testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-transparenz-pegnesus-redaktion/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 5115,
+              "original_byte_end": 5174
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "kommunale-haftpflicht",
+      "path": "kommunale-haftpflicht/references/geburtsschaden-und-interner-ausgleich.md",
+      "before_sha256": "e8e91cdfee2f776844fbf55ab0490e6363ed30182c7a16c64a916c58e0cc97bc",
+      "after_sha256": "56e52718166012cb5d93fdd96f828d1dd46857a95646f2fbd2e2c9f2f979352d",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/kommunale-haftpflicht/references/geburtsschaden-und-interner-ausgleich.md.txt",
+      "replacements": [
+        {
+          "old": "../../testakten/akha-wuerzburg-geburtsschaden/README.md",
+          "target": "testakten/akha-wuerzburg-geburtsschaden/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/akha-wuerzburg-geburtsschaden/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 176,
+              "original_byte_end": 231
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "krankenhaus-it-ki",
+      "path": "krankenhaus-it-ki/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "85482c37039fc783cc9898ff53c067626b450364b3f9e3cf2042c511376c6fc4",
+      "after_sha256": "53c2d9fcb4a164a480e85e54cbedb477398dd9add7eceee6753cd95a3ae64449",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/krankenhaus-it-ki/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "target": "testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 5491,
+              "original_byte_end": 5553
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "startup-gruender",
+      "path": "startup-gruender/references/ki-normen-und-fallpruefung.md",
+      "before_sha256": "f97d82291cce554e152add0bd3c49ecda31f6bb04404dd5507d76e4df1b15ac0",
+      "after_sha256": "60b2ed19a291cef1223312374805a81cb7c5ebd7bef587c54c35ff30ca6bd72a",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/startup-gruender/references/ki-normen-und-fallpruefung.md.txt",
+      "replacements": [
+        {
+          "old": "../../testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "target": "testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/ki-konformitaet-eichengrund-logistik/README.md",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 5478,
+              "original_byte_end": 5540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plugin": "transparenzregister-assistent",
+      "path": "transparenzregister-assistent/references/rechtsprechung-und-rechtsstand.md",
+      "before_sha256": "07af4cc8773a3e5e2a30b923c77f732f66387641c4bda9ea1e7e58afa8ba943c",
+      "after_sha256": "b8d4d413fcfb49581a19acdc888695fceb11b5164fd5b6162ce9b7ca43b409f5",
+      "archive": "quality/hauptskills-2026-11-18/paketlink-vorfassungen/transparenzregister-assistent/references/rechtsprechung-und-rechtsstand.md.txt",
+      "replacements": [
+        {
+          "old": "../../quality/source-audits/registerwerkstaetten-2026-10-01/transparenzregister.json",
+          "target": "quality/source-audits/registerwerkstaetten-2026-10-01/transparenzregister.json",
+          "kind": "public_repository",
+          "new": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/quality/source-audits/registerwerkstaetten-2026-10-01/transparenzregister.json",
+          "occurrences": 1,
+          "original_byte_spans": [
+            {
+              "original_byte_start": 268,
+              "original_byte_end": 352
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "replay_validated_files": 93,
+    "native_packages_checked": 312,
+    "builder_reachability_failures": []
+  }
+}

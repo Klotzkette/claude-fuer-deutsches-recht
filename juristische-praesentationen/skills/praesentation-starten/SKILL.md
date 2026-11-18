@@ -1,9 +1,17 @@
 ---
 name: praesentation-starten
-description: "Führt einen juristischen Präsentationsauftrag von vorhandenen Unterlagen zu vortragsfertigen Folien mit Sprechernotizen. Klärt nur offene Angaben zu Anlass, Publikum und Dauer, wählt die passende Vortragsform und begleitet Dateierzeugung, Quellenprüfung und Überarbeitung."
+description: "Rechtsfrage in eine belegte Präsentation übersetzen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Juristische Präsentation starten
+# Rechtsfrage in eine belegte Präsentation übersetzen
+
+Bestimme Publikum, Anlass, Zeitrahmen und zu vermittelnde Entscheidung aus vorhandenen Unterlagen; übernimm vorhandene Gestaltungsvorgaben.
+
+**Entscheidung im Arbeitsablauf:** Wähle pro Folie eine tragende Aussage, belege Rechtsbehauptungen und unterscheide Falltatsache, Beispiel und Prognose. Eine Grafik darf keine unsichere Annahme als Ergebnis darstellen.
+
+**Bis zum Ergebnis weiterarbeiten:** Erzeuge die tatsächlich mögliche Präsentation mit verständlichen Folien, Quellen und passenden Sprechernotizen; kennzeichne fehlenden Export statt eine Datei zu behaupten. Eine neue Entscheidung verlangt Änderung der betroffenen Aussage, Grafik und Notiz; bloßes Ergänzen einer Quellenfolie reicht nicht.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

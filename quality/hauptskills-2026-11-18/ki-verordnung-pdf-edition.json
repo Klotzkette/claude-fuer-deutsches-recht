@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "edition_tag": "ki-verordnung-v445.35.2",
+  "previous_inventory": "quality/ki-verordnung-2026-10-09/umfang.json",
+  "previous_inventory_sha256": "56f2d67c23131f8b75114e2b6ecffa1ae02ece532af9097e01cd9ea6f8aaa6e7",
+  "retrieved_on": "2026-11-18",
+  "scope": "Drei unveränderte Originaldownloads des historischen Tags, bytegenau an die vorhandenen Quellhashes der PDF-Edition gebunden. Der heutige Werkstatttext wird dadurch weder als unverändert noch als erneut fachlich geprüft ausgewiesen. Kein Neurendern, keine Aktualitäts- oder Live-Ausführungsbehauptung. Die vierte Werkstatt ist nach Abzug ihres exakt kanonischen Visualisierungsblocks weiterhin unmittelbar an den Editionshash gebunden.",
+  "files": [
+    {
+      "plugin": "ki-verordnung-verbotene-praktiken",
+      "source": "ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-werkstatt.md",
+      "archive": "quality/hauptskills-2026-11-18/ki-verordnung-pdf-edition/ki-verordnung-verbotene-praktiken-werkstatt.md.txt",
+      "sha256": "f1fad486ea4bedf7ab5cff65f0ca359b3806448f9bf9ccba979f1377388753e9",
+      "download_url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-verbotene-praktiken-werkstatt.md"
+    },
+    {
+      "plugin": "ki-verordnung-register-meldungen",
+      "source": "ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-werkstatt.md",
+      "archive": "quality/hauptskills-2026-11-18/ki-verordnung-pdf-edition/ki-verordnung-register-meldungen-werkstatt.md.txt",
+      "sha256": "d9d8f16eb502dd1460fac704b6c03bcdfe072584dac51312bcc3969b8bcfb81b",
+      "download_url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-register-meldungen-werkstatt.md"
+    },
+    {
+      "plugin": "ki-verordnung-konformitaet",
+      "source": "ki-verordnung-konformitaet/ki-verordnung-konformitaet-werkstatt.md",
+      "archive": "quality/hauptskills-2026-11-18/ki-verordnung-pdf-edition/ki-verordnung-konformitaet-werkstatt.md.txt",
+      "sha256": "dc6d09beb2a780ff9038582cedc8fd927ee31b97b79b1ac43e26e28cfbe4712c",
+      "download_url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-konformitaet-werkstatt.md"
+    }
+  ]
+}

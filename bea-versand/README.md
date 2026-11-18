@@ -17,7 +17,7 @@ Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`bea-versand.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bea-versand.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`bea-versand.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/bea-versand.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/bea-versand.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.md) · [TXT herunterladen / Download TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.txt) |
 | Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index](../testakten/README.md) |
@@ -46,7 +46,7 @@ Ohne Installation den vollständigen Werkstatt-Prompt unten als MD oder TXT heru
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`bea-versand.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bea-versand.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`bea-versand.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/bea-versand.zip) |
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`bea-versand-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.md) · [`bea-versand-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
@@ -78,7 +78,7 @@ Das funktioniert mit Schriftsätzen ebenso wie mit Anschreiben, Anträgen, Stell
 
 ## 1.6. Plugin herunterladen
 
-[beA-Versand als installierbares Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bea-versand.zip)
+[beA-Versand als installierbares Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/bea-versand.zip)
 
 Das Paket enthält einen Skill sowie die zugehörige Quellenreferenz und Manifeste für Claude und Codex. Die Testakte und der eigenständig verwendbare Werkstatt-Prompt sind separate Downloads.
 

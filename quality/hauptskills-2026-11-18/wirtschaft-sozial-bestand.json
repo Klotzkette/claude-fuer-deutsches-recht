@@ -1,0 +1,562 @@
+[
+  {
+    "plugin": "aktienrecht-hauptversammlung-ag-se",
+    "source": "./aktienrecht-hauptversammlung-ag-se",
+    "theme": "aktg_hv",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "aktienrecht-hauptversammlung-ag-se/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "f4f79507d150c0e307e20f1fdb7f4690a087a45723f40569e288ada0634c280e"
+  },
+  {
+    "plugin": "antidiskriminierung-agg",
+    "source": "./antidiskriminierung-agg",
+    "theme": "arbeits",
+    "main_skill": "agg-fall-zum-schreiben-fuehren",
+    "path": "antidiskriminierung-agg/skills/agg-fall-zum-schreiben-fuehren/SKILL.md",
+    "before_sha256": "11ba7976472cf053bd04b1054c3629f6f6e285b5d8d3f73e81f0a425b5d2d51a"
+  },
+  {
+    "plugin": "arbeitsrecht",
+    "source": "./arbeitsrecht",
+    "theme": "arbeits",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "arbeitsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "069ee06c099454cf3a8c4b325c59f95915085890ec95d42287309d53941314b8"
+  },
+  {
+    "plugin": "arbeitsrecht-kuendigungsschutzklagewerkstatt",
+    "source": "./arbeitsrecht-kuendigungsschutzklagewerkstatt",
+    "theme": "arbeits",
+    "main_skill": "kuendigungsschutzmandat-steuern",
+    "path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/skills/kuendigungsschutzmandat-steuern/SKILL.md",
+    "before_sha256": "fd9444fdce180a7a06dcc569e0f5f26f447576f5c84165b8efcb3ec49c4118ec"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "source": "./arbeitszeugnisgenerator",
+    "theme": "zeugnis",
+    "main_skill": "arbeitszeugnis-erstellen",
+    "path": "arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/SKILL.md",
+    "before_sha256": "7f0e297b1367ddd9302d84950de63fc4e250628dc42de51e84b86b1c0ee4eb26"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "source": "./arbeitszeugnispruefer",
+    "theme": "zeugnis",
+    "main_skill": "einstieg-routing",
+    "path": "arbeitszeugnispruefer/skills/einstieg-routing/SKILL.md",
+    "before_sha256": "80cdb1a81b160f7003345730faec15ede815ff8ae64ad8ac3ec64386b169dbbd"
+  },
+  {
+    "plugin": "aufsichtsrat-ag-se-praxis",
+    "source": "./aufsichtsrat-ag-se-praxis",
+    "theme": "gesellschaft",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "aufsichtsrat-ag-se-praxis/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "0165e63a9e70be2fa8f8a7f99fa848a4f0d67a3e6f930d3024dabcb5add7b070"
+  },
+  {
+    "plugin": "bank-rechtsabteilung",
+    "source": "./bank-rechtsabteilung",
+    "theme": "bank",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "bank-rechtsabteilung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "801c4c29a039d88524ac7e708b9310986192020f7f3e95c356ec48d83d28a8db"
+  },
+  {
+    "plugin": "bav-strategie-konzern",
+    "source": "./bav-strategie-konzern",
+    "theme": "bav",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "bav-strategie-konzern/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "a334f13c2137037221914bf63288999cee2b54f3c805f83bbce687347f6b8509"
+  },
+  {
+    "plugin": "compliance-abteilung-grosskonzern",
+    "source": "./compliance-abteilung-grosskonzern",
+    "theme": "gesellschaft",
+    "main_skill": "compliance-auftrag-steuern",
+    "path": "compliance-abteilung-grosskonzern/skills/compliance-auftrag-steuern/SKILL.md",
+    "before_sha256": "56b0e8f9752fa91ba759ffee787a40d231159a2848544e877905fc1a68d437ba"
+  },
+  {
+    "plugin": "corporate-kanzlei",
+    "source": "./corporate-kanzlei",
+    "theme": "ma_finanzierung",
+    "main_skill": "kommandocenter",
+    "path": "corporate-kanzlei/skills/kommandocenter/SKILL.md",
+    "before_sha256": "66153fe47ead7a5cf3250d57ad823e5a88f592f0b4d7a783916dee46a0d0616d"
+  },
+  {
+    "plugin": "due-diligence",
+    "source": "./due-diligence",
+    "theme": "ma_finanzierung",
+    "main_skill": "due-diligence-steuern",
+    "path": "due-diligence/skills/due-diligence-steuern/SKILL.md",
+    "before_sha256": "cceb614b06c5776dd4e784f6b74554d5f198e9c92127c825fa00d23e233c876a"
+  },
+  {
+    "plugin": "fachanwalt-arbeitsrecht",
+    "source": "./fachanwalt-arbeitsrecht",
+    "theme": "arbeits",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-arbeitsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "8becede4d8fc66cd73a6236282129fb68bdb84bb962c58774c6ede958dc20843"
+  },
+  {
+    "plugin": "fachanwalt-bank-kapitalmarktrecht",
+    "source": "./fachanwalt-bank-kapitalmarktrecht",
+    "theme": "bank",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-bank-kapitalmarktrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "a52255a99f52aca955bf66c18a2848436fe63a0b1449c10bbbc49f410bd51805"
+  },
+  {
+    "plugin": "fachanwalt-handels-gesellschaftsrecht",
+    "source": "./fachanwalt-handels-gesellschaftsrecht",
+    "theme": "gesellschaft",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-handels-gesellschaftsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "2e50fbb2de4a57d15395827bdc779a21b73d94dd2ea8761ce5e75e8672f820f7"
+  },
+  {
+    "plugin": "fachanwalt-insolvenz-sanierungsrecht",
+    "source": "./fachanwalt-insolvenz-sanierungsrecht",
+    "theme": "sanierung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-insolvenz-sanierungsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "05a7a0044354eb1af27cb2cda0d1398e394c1916a0358d7bd31400f47e714cb2"
+  },
+  {
+    "plugin": "fachanwalt-sozialrecht",
+    "source": "./fachanwalt-sozialrecht",
+    "theme": "sozial",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-sozialrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "675d0f24dd73e7be317383bb8c730ce58672bfc5648e7c137d889b1e71a780c2"
+  },
+  {
+    "plugin": "forschungszulage-antragstellung",
+    "source": "./forschungszulage-antragstellung",
+    "theme": "forschungszulage",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "forschungszulage-antragstellung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "73da8eb6a78d11ada3a2a0b04685c6f223c182f09ffd66cf57a53c54809d5d55"
+  },
+  {
+    "plugin": "fortbestehensprognose",
+    "source": "./fortbestehensprognose",
+    "theme": "sanierung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fortbestehensprognose/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "4e22f25b9b9f4ea26ad354f31a6f1082c87c6fd9b2c20d58d728fbb97c0aa9f8"
+  },
+  {
+    "plugin": "geldwaeschebeauftragter",
+    "source": "./geldwaeschebeauftragter",
+    "theme": "geldwaesche",
+    "main_skill": "geldwaescheproblem-loesen",
+    "path": "geldwaeschebeauftragter/skills/geldwaescheproblem-loesen/SKILL.md",
+    "before_sha256": "bba804a6eb934b8ce2694fe57acfb3ec08e656d130e037aa3e00c1c3d1c570d2"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "source": "./geldwaeschepraevention-aml-kyc",
+    "theme": "geldwaesche",
+    "main_skill": "einstieg-routing",
+    "path": "geldwaeschepraevention-aml-kyc/skills/einstieg-routing/SKILL.md",
+    "before_sha256": "cf68aa19c5ca6bb6ed0d13efa8be599dc468b5542020fa34d53884142ebdf75b"
+  },
+  {
+    "plugin": "gesellschafterstreit",
+    "source": "./gesellschafterstreit",
+    "theme": "gesellschaft",
+    "main_skill": "gesellschafterstreit-loesen",
+    "path": "gesellschafterstreit/skills/gesellschafterstreit-loesen/SKILL.md",
+    "before_sha256": "544288c84ad40199b1e154bcc22aaf3d0632945ec2b4cea8bf77832fefdee869"
+  },
+  {
+    "plugin": "gesellschaftervereinbarung",
+    "source": "./gesellschaftervereinbarung",
+    "theme": "gesellschaft",
+    "main_skill": "vereinbarung-erstellen",
+    "path": "gesellschaftervereinbarung/skills/vereinbarung-erstellen/SKILL.md",
+    "before_sha256": "63edb3f0d4203bf6b7e5a0fcf7f96961982e128d385907fb624c01ab6477f31b"
+  },
+  {
+    "plugin": "gesellschaftsgruender",
+    "source": "./gesellschaftsgruender",
+    "theme": "gesellschaft",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gesellschaftsgruender/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "15bd36c86886623a6e3995b7176ab996e2b7ec67398e8969c3c4aa874181ee9e"
+  },
+  {
+    "plugin": "gesellschaftsrecht",
+    "source": "./gesellschaftsrecht",
+    "theme": "gesellschaft",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gesellschaftsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "df54abd90410bfb7f26f123036b86c851ee10db56d4784033ab4bec44ab96ca8"
+  },
+  {
+    "plugin": "gesellschaftsrecht-legal-english",
+    "source": "./gesellschaftsrecht-legal-english",
+    "theme": "gesellschaft",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gesellschaftsrecht-legal-english/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "3cfc196aece0a7009e8d73a63ce762796fed8e9821f94c0895b30e405a795584"
+  },
+  {
+    "plugin": "gesellschaftsrechtliche-treuepflicht",
+    "source": "./gesellschaftsrechtliche-treuepflicht",
+    "theme": "gesellschaft",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gesellschaftsrechtliche-treuepflicht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "f2789007a984083fe693038366b9ce01b366d97cd2a85af9acf7b87257329444"
+  },
+  {
+    "plugin": "gmbh-gesellschafterversammlung",
+    "source": "./gmbh-gesellschafterversammlung",
+    "theme": "gesellschaft",
+    "main_skill": "gesellschafterversammlung-organisieren",
+    "path": "gmbh-gesellschafterversammlung/skills/gesellschafterversammlung-organisieren/SKILL.md",
+    "before_sha256": "5339368f2fa1aa1cf4bc5368ba638b0747dd70bdb2202c7a2b3acfeb178916d0"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "source": "./grosskanzlei-corporate-ma",
+    "theme": "ma_finanzierung",
+    "main_skill": "deal-os-orchestrator",
+    "path": "grosskanzlei-corporate-ma/skills/deal-os-orchestrator/SKILL.md",
+    "before_sha256": "4a971b430083be8fc7cb074289a1bfeab18360453ec0101ea320be846f636fbf"
+  },
+  {
+    "plugin": "grundsteuerrecht",
+    "source": "./grundsteuerrecht",
+    "theme": "grundsteuerrecht",
+    "main_skill": "bescheide-und-fristen-ordnen",
+    "path": "grundsteuerrecht/skills/bescheide-und-fristen-ordnen/SKILL.md",
+    "before_sha256": "43c72e03d2ec79d799c1d27c8102491f09854a0852b50b5dc3975f2ec8151b6e"
+  },
+  {
+    "plugin": "handelsrecht-hgb",
+    "source": "./handelsrecht-hgb",
+    "theme": "handelsrecht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "handelsrecht-hgb/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "d94467138164485f5a47b0ef14996e8a9e9ba84f338bc860c131b87da0f6576e"
+  },
+  {
+    "plugin": "handelsregister-assistent",
+    "source": "./handelsregister-assistent",
+    "theme": "gesellschaft",
+    "main_skill": "hauptproblem-registervorgang-zum-vollzug",
+    "path": "handelsregister-assistent/skills/hauptproblem-registervorgang-zum-vollzug/SKILL.md",
+    "before_sha256": "30b179bda72d7b1af9262a9ac4d078a2c7052c56a2dbf6f1ccda0d02d97b61da"
+  },
+  {
+    "plugin": "handelsregister-praxis",
+    "source": "./handelsregister-praxis",
+    "theme": "gesellschaft",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "handelsregister-praxis/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "7467c055f34d62a62ec87a2e06b5334b334e20a20923cf765f75499952d8a10e"
+  },
+  {
+    "plugin": "handelsvertreterrecht",
+    "source": "./handelsvertreterrecht",
+    "theme": "handelsrecht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "handelsvertreterrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "82d8b9f6feccb062622abb204724019aca1f47ac1265ec0fe081afe0b411bc6d"
+  },
+  {
+    "plugin": "hinweisgeberschutz-compliance",
+    "source": "./hinweisgeberschutz-compliance",
+    "theme": "hinweisgeber",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "hinweisgeberschutz-compliance/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "08c1bc266c4e564e789226901755d30f620c320a3f6b19efe462314dde95fa9b"
+  },
+  {
+    "plugin": "insiderrecht-compliance",
+    "source": "./insiderrecht-compliance",
+    "theme": "kapitalmarkt",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "insiderrecht-compliance/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "78dd25f97c5826187018ed501c7af2378f36e5805fa96f537e4eab9546320613"
+  },
+  {
+    "plugin": "insolvenzanfechtung",
+    "source": "./insolvenzanfechtung",
+    "theme": "insolvenzanfechtung",
+    "main_skill": "anfechtung-steuern",
+    "path": "insolvenzanfechtung/skills/anfechtung-steuern/SKILL.md",
+    "before_sha256": "4322e09ccde945500bf14d6de9b87a2d99f02e9ca535a913da5c453772d148b1"
+  },
+  {
+    "plugin": "insolvenzforderungen-checker",
+    "source": "./insolvenzforderungen-checker",
+    "theme": "insolvenz",
+    "main_skill": "forderungen-pruefen-und-tabelle-vorbereiten",
+    "path": "insolvenzforderungen-checker/skills/forderungen-pruefen-und-tabelle-vorbereiten/SKILL.md",
+    "before_sha256": "ec5974a9eb684340fd24d1873d10c3eef268d0d7b1040a30b3901f61a2b0e84f"
+  },
+  {
+    "plugin": "insolvenzforderungsanmeldungspruefung",
+    "source": "./insolvenzforderungsanmeldungspruefung",
+    "theme": "insolvenz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "insolvenzforderungsanmeldungspruefung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "88d77f45f541e1fc1c1ec7348c29df3d3872079ecfc8919e40bf4a0c854a7d4d"
+  },
+  {
+    "plugin": "insolvenzplan-starug-planwerkstatt",
+    "source": "./insolvenzplan-starug-planwerkstatt",
+    "theme": "sanierung",
+    "main_skill": "kommandocenter",
+    "path": "insolvenzplan-starug-planwerkstatt/skills/kommandocenter/SKILL.md",
+    "before_sha256": "154ac0405c624c718ec724d7f66f1ab1ba392785eb223c13cb3030c15bd6e490"
+  },
+  {
+    "plugin": "insolvenzrecht",
+    "source": "./insolvenzrecht",
+    "theme": "insolvenz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "insolvenzrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "15e798563ca2da6fe2ef95b9a76a04ea4fe29e0b962a4a9a4c22d856f044a0ab"
+  },
+  {
+    "plugin": "insolvenzsachbearbeitung",
+    "source": "./insolvenzsachbearbeitung",
+    "theme": "insolvenz",
+    "main_skill": "insolvenzsachbearbeitung-steuern",
+    "path": "insolvenzsachbearbeitung/skills/insolvenzsachbearbeitung-steuern/SKILL.md",
+    "before_sha256": "d76f8d1b6eb25b80461f1839bbd5973b13b9d1931e0dcffb8ec6aaf114adf9bc"
+  },
+  {
+    "plugin": "insolvenzverwaltung",
+    "source": "./insolvenzverwaltung",
+    "theme": "insolvenz",
+    "main_skill": "kommandocenter",
+    "path": "insolvenzverwaltung/skills/kommandocenter/SKILL.md",
+    "before_sha256": "356fbecd7bf284eaf3f2fb4e7104bdcaeca39669f0bb470f13c0d37572503d38"
+  },
+  {
+    "plugin": "insolvenzverwaltung-berichtsersteller",
+    "source": "./insolvenzverwaltung-berichtsersteller",
+    "theme": "insolvenz",
+    "main_skill": "berichtserstellung-steuern",
+    "path": "insolvenzverwaltung-berichtsersteller/skills/berichtserstellung-steuern/SKILL.md",
+    "before_sha256": "cdd626fd2cb8c9e67c68c0ea542edea2249c1da78df65ee75f01cc39793a98cd"
+  },
+  {
+    "plugin": "internal-investigations-praxis",
+    "source": "./internal-investigations-praxis",
+    "theme": "investigations",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "internal-investigations-praxis/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "e1112dd9f15f8b2728c73f0b8183f625721a43bb2da355c17ff95d93eba04e82"
+  },
+  {
+    "plugin": "ki-verordnung-register-meldungen",
+    "source": "./ki-verordnung-register-meldungen",
+    "theme": "gesellschaft",
+    "main_skill": "register-und-meldung-loesen",
+    "path": "ki-verordnung-register-meldungen/skills/register-und-meldung-loesen/SKILL.md",
+    "before_sha256": "67afeef20bd8bffca8abf9df10217ba9f31fb5544cb63dfe8c522059003bcf1a"
+  },
+  {
+    "plugin": "krankenkassenrecht-krankenversicherung",
+    "source": "./krankenkassenrecht-krankenversicherung",
+    "theme": "sozial",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "krankenkassenrecht-krankenversicherung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "e11dde188dea0175e9e4b74f8c32d0edc771845255dab891bddd62c67d2533f0"
+  },
+  {
+    "plugin": "krisenfrueherkennung-starug",
+    "source": "./krisenfrueherkennung-starug",
+    "theme": "sanierung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "krisenfrueherkennung-starug/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "e09c5a81aab05b99848d2eab89f6f7db69ba92d880583c8291142694d1356c01"
+  },
+  {
+    "plugin": "liquiditaetsplanung",
+    "source": "./liquiditaetsplanung",
+    "theme": "liquiditaet",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "liquiditaetsplanung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "7f10475bc42413c1dacfcb0fb71d26bde2540597ade5d34d54b3a195d5b1a4bd"
+  },
+  {
+    "plugin": "mittelstand-corporate-ma",
+    "source": "./mittelstand-corporate-ma",
+    "theme": "ma_finanzierung",
+    "main_skill": "deal-kommandocenter",
+    "path": "mittelstand-corporate-ma/skills/deal-kommandocenter/SKILL.md",
+    "before_sha256": "e9504a58c0f03c3292833cd14f25d8e5337069633f6e361760338bfe3b08d2c4"
+  },
+  {
+    "plugin": "pflegerecht-sgb-xi",
+    "source": "./pflegerecht-sgb-xi",
+    "theme": "sozial",
+    "main_skill": "pflegefall-bearbeiten",
+    "path": "pflegerecht-sgb-xi/skills/pflegefall-bearbeiten/SKILL.md",
+    "before_sha256": "db4cfa81f1dbf195a59d39e9432c06106c3e0bca09afdd247dd7cac8f2bf2952"
+  },
+  {
+    "plugin": "private-equity-praxis",
+    "source": "./private-equity-praxis",
+    "theme": "ma_finanzierung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "private-equity-praxis/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "c879927bc25dd04756d1bbf4580d46a18ca014a7862ea931154c26f161aeab0a"
+  },
+  {
+    "plugin": "rentenpruefer",
+    "source": "./rentenpruefer",
+    "theme": "renten",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "rentenpruefer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "7cbb0e8c789e86cc6ea4c03e17b1eb9896fa1db14daabc056e4e3eb435348b97"
+  },
+  {
+    "plugin": "richter-amtsgericht-handelsregister",
+    "source": "./gerichtsplugins/richter-amtsgericht-handelsregister",
+    "theme": "gesellschaft",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/richter-amtsgericht-handelsregister/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "c39c8e1575630c24d62c60d48828e500fc761e09e96dcf7b51853942039c3322"
+  },
+  {
+    "plugin": "richter-amtsgericht-insolvenz-restrukturierung",
+    "source": "./gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung",
+    "theme": "insolvenz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "3e2c4fb21a23520b96c72f50faf0964f1dd28bf95cf9f8a6522e45c7b5d64084"
+  },
+  {
+    "plugin": "richter-arbeitsgericht",
+    "source": "./gerichtsplugins/richter-arbeitsgericht",
+    "theme": "arbeits",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/richter-arbeitsgericht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "0070a7f147e7391f09b167037306b91fcdc1048242e198e8a0a09407853d3c34"
+  },
+  {
+    "plugin": "richter-finanzgericht",
+    "source": "./gerichtsplugins/richter-finanzgericht",
+    "theme": "finanzgericht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/richter-finanzgericht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "b078f3053eb540e5f7b2a5ddac1f11cec20174d9da102bbb56782f5157ae8709"
+  },
+  {
+    "plugin": "richter-sozialgericht",
+    "source": "./gerichtsplugins/richter-sozialgericht",
+    "theme": "sozial",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/richter-sozialgericht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "08959408d1085aeebc12828eafef1b2a5d3cc7ec822d5d6cf3d3d5ba6c17f79f"
+  },
+  {
+    "plugin": "selbstvertreter-sozialgericht",
+    "source": "./selbstvertreter-sozialgericht",
+    "theme": "sozial",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "selbstvertreter-sozialgericht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "9ae84c936d0ce85b7a655c5757fb998c8e5fe1264a874ffc7194fd858ab45cb1"
+  },
+  {
+    "plugin": "solo-selbststaendige-praxis",
+    "source": "./solo-selbststaendige-praxis",
+    "theme": "selbststaendige",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "solo-selbststaendige-praxis/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "01d6eac584d78db6b3e5c2ae1b78636c1a63c3de7bd9164c345f195ae65b69a2"
+  },
+  {
+    "plugin": "sozialrecht-fuer-laien",
+    "source": "./sozialrecht-fuer-laien",
+    "theme": "sozial",
+    "main_skill": "meinen-sozialfall-starten",
+    "path": "sozialrecht-fuer-laien/skills/meinen-sozialfall-starten/SKILL.md",
+    "before_sha256": "60e1004123745d2f84ed5ce947d83f7478735b577e03f0ad4900faa6f8b24c73"
+  },
+  {
+    "plugin": "startup-gruender",
+    "source": "./startup-gruender",
+    "theme": "gesellschaft",
+    "main_skill": "gruendung-begleiten",
+    "path": "startup-gruender/skills/gruendung-begleiten/SKILL.md",
+    "before_sha256": "5a969e4964c8f7d5de21b3381bbea1df87f69f068151fa64770596501a61e332"
+  },
+  {
+    "plugin": "startup-hr-personalabteilung-berlin",
+    "source": "./startup-hr-personalabteilung-berlin",
+    "theme": "hr",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "startup-hr-personalabteilung-berlin/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "2d3f0da98bb671d1cd4601ada588820103e84a8a4bc4fd6f9ae5fe65ecc0bdaa"
+  },
+  {
+    "plugin": "steuerrecht-anwalt-und-berater",
+    "source": "./steuerrecht-anwalt-und-berater",
+    "theme": "steuer",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "steuerrecht-anwalt-und-berater/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "623aef0689d2f3b217239f60217cf144c70e1f369f78c5a3c7be6c4eb3acfb8c"
+  },
+  {
+    "plugin": "transparenzregister-assistent",
+    "source": "./transparenzregister-assistent",
+    "theme": "geldwaesche",
+    "main_skill": "hauptproblem-unklare-kontrolle-loesen",
+    "path": "transparenzregister-assistent/skills/hauptproblem-unklare-kontrolle-loesen/SKILL.md",
+    "before_sha256": "bd5015434e21784b17fef41708d197f04c60c819437c16e8fad37506ffc1d5c0"
+  },
+  {
+    "plugin": "us-bankruptcy-code",
+    "source": "./us-bankruptcy-code",
+    "theme": "us_insolvency",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "us-bankruptcy-code/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "d1e8fd164ee08c18da8cecaaba795135bd8d8a242c642e0da218901e01e4f05f"
+  },
+  {
+    "plugin": "venture-capital-geber",
+    "source": "./venture-capital-geber",
+    "theme": "ma_finanzierung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "venture-capital-geber/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "fb59c9d20c204c69893659e2679e6b2708d518300c32a4976f4a2b07422fa64a"
+  },
+  {
+    "plugin": "verbraucherinsolvenz-schuldenbereinigung",
+    "source": "./verbraucherinsolvenz-schuldenbereinigung",
+    "theme": "insolvenz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "verbraucherinsolvenz-schuldenbereinigung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "db48ee7ce82d376408e260406cc984c14a75fdb501323037475a3cb52e8432de"
+  },
+  {
+    "plugin": "wandeldarlehen-lebenszyklus",
+    "source": "./wandeldarlehen-lebenszyklus",
+    "theme": "ma_finanzierung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "wandeldarlehen-lebenszyklus/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "18973db3e1235ea0caf13d642f050aa5f4a486136a330b2582385f7e47a178ea"
+  },
+  {
+    "plugin": "zahlungsunfaehigkeits-und-ueberschuldungspruefer",
+    "source": "./zahlungsunfaehigkeits-und-ueberschuldungspruefer",
+    "theme": "insolvenz",
+    "main_skill": "insolvenzreife-stichtagsbezogen-pruefen",
+    "path": "zahlungsunfaehigkeits-und-ueberschuldungspruefer/skills/insolvenzreife-stichtagsbezogen-pruefen/SKILL.md",
+    "before_sha256": "06d4cbbb0c9029ee68dd08a62ab78242e26950dbb5ca1a741ab0682979339202"
+  }
+]

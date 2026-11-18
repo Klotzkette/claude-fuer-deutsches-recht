@@ -1,9 +1,23 @@
 ---
 name: nachtragsmanagement-hauptproblem
-description: Führt Auftragnehmer nach dem Zuschlag vom konkreten Nachtragsproblem über die passende Fachprüfung zum benötigten Dokument und koordiniert die zehn Fachskills.
+description: "Bauänderung bis zum prüfbaren Nachtrag und zur Antwort bearbeiten. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Nachtragsmanagement nach dem Zuschlag
+# Bauänderung bis zum prüfbaren Nachtrag und zur Antwort bearbeiten
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Vertrag, Leistungsverzeichnis, Anordnung, Bautagebuch und Kalkulation nebeneinanderlegen; ursprüngliches Soll und tatsächlich verlangte Änderung mit Datum und befugter Person sichern.
+
+2. Mehrmenge, geänderte oder zusätzliche Leistung, Behinderung und Annahmeverzug unterscheiden. BGB oder einbezogene VOB/B und vereinbarte Preisregel bestimmen, bevor Kosten berechnet werden.
+
+3. Nur den passenden Fachweg für Anspruchsgrund, Bauzeit oder Preis öffnen. Bei § 642 BGB die Dauer des Annahmeverzugs und bereitgehaltene Mittel belegen; spätere Kostensteigerungen nicht automatisch zuschlagen.
+
+4. Anspruch und Höhe getrennt begründen, Gegenposition und nicht belegte Kosten offenlegen; Nachtragsangebot oder Prüfantwort ausformulieren. Bei öffentlichem Auftrag zusätzlich die vergaberechtliche Änderungszulässigkeit entscheiden.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -53,6 +67,16 @@ Das Endprodukt besteht aus vollständigen, ausformulierten Sätzen. Skelette, Ha
 ## 6. Beispiele
 
 Für die fiktive Klinik-Fundamentvertiefung prüfen Sie 220 m³ Beton, 34.000 kg Stahl und 920 m² Schalung im Verhältnis zum ursprünglichen Rohbauvertrag. Für die Wohnhaus-Brandwand prüfen Sie 140 m² Mauerwerk, 44 m³ Beton und 8.000 kg Stahl. Die zusätzlichen Bauzeitforderungen sind in beiden Fällen streitig und werden nicht aus der technischen Freigabe abgeleitet. Bei Tunnel, Straße, Leitplanke, Fabrik und Apothekenbauteil werden technische Besonderheiten über den jeweiligen Vertrag, die Anordnung und die Belege eingeordnet, nicht über eine pauschale Branchenregel.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Urteil vom 08.08.2019 – VII ZR 34/18](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2018/VII_ZR__34-18.pdf?__blob=publicationFile&v=1): Rn.17–20 und 27–29: Preisabrede vorrangig; tatsächlich erforderliche Kosten bei reiner Mehrmenge. **Grenze:** Keine pauschale Übertragung auf §2 Absatz5/6 VOB/B.
+
+- [BGH, Urteil vom 21.11.2019 – VII ZR 10/19](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR__10-19.pdf?__blob=publicationFile&v=1): Rn.15 und21–24: Voraussetzungen des Preisverlangens und Klarstellung zu BGK/AGK. **Grenze:** Keine Beseitigung tatsächlich erforderlicher Baustellenkosten; Mehrmengenfall.
+
+- [BGH, Versäumnisurt. v. 26.10.2017 – VII ZR 16/17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__16-17.pdf?__blob=publicationFile&v=1): Rn.18–21 und25–28: zeitliche Grenze von §642, Vorhaltung und spätere Kostensteigerung. **Grenze:** Andere Anspruchsgrundlagen und deren Voraussetzungen bleiben gesondert zu prüfen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

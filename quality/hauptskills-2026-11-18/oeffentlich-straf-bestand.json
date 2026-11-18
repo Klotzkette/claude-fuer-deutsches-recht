@@ -1,0 +1,610 @@
+[
+  {
+    "plugin": "aktenaufbereiter-strafrecht",
+    "source": "./aktenaufbereiter-strafrecht",
+    "theme": "strafjustiz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "aktenaufbereiter-strafrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "f99e041170daa5996ff59f7bc53f169d4c0fc4a9084154144fcfb2e155a6edf7"
+  },
+  {
+    "plugin": "apothekenrecht",
+    "source": "./apothekenrecht",
+    "theme": "apotheke",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "apothekenrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "18829632b74fa67865f8baa1412337ecc3c2d8511a295574aaca8bc886f47624"
+  },
+  {
+    "plugin": "beamtenrecht",
+    "source": "./beamtenrecht",
+    "theme": "beamten",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "beamtenrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "e556f549debf86951e2486e1150d5f7546f46e7c33683444938a65c4302eff32"
+  },
+  {
+    "plugin": "berliner-asog-polizeirecht",
+    "source": "./berliner-asog-polizeirecht",
+    "theme": "verwaltung",
+    "main_skill": "asog-mandat-zum-ergebnis",
+    "path": "berliner-asog-polizeirecht/skills/asog-mandat-zum-ergebnis/SKILL.md",
+    "before_sha256": "c32bfb4bb3365c6a9fd7a322d0c6af0cc777ca3e544067ef948b44b7cf935a2f"
+  },
+  {
+    "plugin": "berliner-gewerbeaufsicht-betrieb",
+    "source": "./berliner-gewerbeaufsicht-betrieb",
+    "theme": "verwaltung",
+    "main_skill": "betrieb-hauptproblem-zum-ergebnis-fuehren",
+    "path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-hauptproblem-zum-ergebnis-fuehren/SKILL.md",
+    "before_sha256": "f7b74757dd25fd688fe9050fd31bb269f532f28a98ed83a9c7bff8c40630f7be"
+  },
+  {
+    "plugin": "berliner-hochschulrecht-professoren",
+    "source": "./berliner-hochschulrecht-professoren",
+    "theme": "bildung",
+    "main_skill": "professur-mandat-zum-ergebnis-fuehren",
+    "path": "berliner-hochschulrecht-professoren/skills/professur-mandat-zum-ergebnis-fuehren/SKILL.md",
+    "before_sha256": "ab149d41d97beee9ab8364f2e5605584b9def8b0e730717600db80319771b251"
+  },
+  {
+    "plugin": "berliner-schulrecht-eltern-schueler",
+    "source": "./berliner-schulrecht-eltern-schueler",
+    "theme": "bildung",
+    "main_skill": "berlin-bildungsmandat-steuern",
+    "path": "berliner-schulrecht-eltern-schueler/skills/berlin-bildungsmandat-steuern/SKILL.md",
+    "before_sha256": "a2f0fbe323405211f08d41ef23e18b254efe872901c1e8cb4dc174dd9e3cb0b9"
+  },
+  {
+    "plugin": "berliner-versammlungsrecht",
+    "source": "./berliner-versammlungsrecht",
+    "theme": "verwaltung",
+    "main_skill": "versammlung-mandat-zum-ergebnis",
+    "path": "berliner-versammlungsrecht/skills/versammlung-mandat-zum-ergebnis/SKILL.md",
+    "before_sha256": "d8bce2f02cee138310b3a041d32edd3b856ece6b3468c443e19162e4f0575cfb"
+  },
+  {
+    "plugin": "berufsgerichtliche-verfahren-freie-berufe",
+    "source": "./berufsgerichtliche-verfahren-freie-berufe",
+    "theme": "berufsrecht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "berufsgerichtliche-verfahren-freie-berufe/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "33473e1e4e8b367a253392c912cc3c46a4cc67dffcd7dd3247032a99b2ea5c7b"
+  },
+  {
+    "plugin": "berufsrecht-anwaelte",
+    "source": "./berufsrecht-anwaelte",
+    "theme": "berufsrecht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "berufsrecht-anwaelte/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "df734c4f9195209202fb7866b685ba419d3585bac45f11e825d1282b7194bd1a"
+  },
+  {
+    "plugin": "berufsrecht-ki-vertragspruefung",
+    "source": "./berufsrecht-ki-vertragspruefung",
+    "theme": "berufsrecht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "berufsrecht-ki-vertragspruefung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "0d0211768fea1bee817b80c506849a47f67f8f87c87f38b1ba8f5c4b869d6aab"
+  },
+  {
+    "plugin": "berufsrecht-notare",
+    "source": "./berufsrecht-notare",
+    "theme": "berufsrecht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "berufsrecht-notare/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "cceac615452de8b881b778704b9922af4f04dbc8ad495bf70ff74a9e395fe136"
+  },
+  {
+    "plugin": "berufsrecht-patentanwaelte",
+    "source": "./berufsrecht-patentanwaelte",
+    "theme": "berufsrecht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "berufsrecht-patentanwaelte/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "7cf1b998a80b502333d58c34dff0abfa4682ce3dc12d566a876f40bfedb9ca92"
+  },
+  {
+    "plugin": "berufsrecht-steuerberater",
+    "source": "./berufsrecht-steuerberater",
+    "theme": "berufsrecht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "berufsrecht-steuerberater/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "6d1268823bfe50580e57b03bf5b5c8acaa8b5cb17d18918e4b23d03b02dbdb86"
+  },
+  {
+    "plugin": "berufsrecht-wirtschaftspruefer",
+    "source": "./berufsrecht-wirtschaftspruefer",
+    "theme": "berufsrecht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "berufsrecht-wirtschaftspruefer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "2d2bda32632588dac2294bff954940f0cb49f69caa85bd5afb600e4f2b11539f"
+  },
+  {
+    "plugin": "betaeubungsmittelrecht",
+    "source": "./betaeubungsmittelrecht",
+    "theme": "straf",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "betaeubungsmittelrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "dd34833adaf1d138f434d0defb270d4b84dd8fd818bdf457d94821aace0ab542"
+  },
+  {
+    "plugin": "betriebskosten-hausverwaltung",
+    "source": "./betriebskosten-hausverwaltung",
+    "theme": "verwaltung",
+    "main_skill": "belege-bis-zur-abrechnung",
+    "path": "betriebskosten-hausverwaltung/skills/belege-bis-zur-abrechnung/SKILL.md",
+    "before_sha256": "8711bfd05a81462a9d6408d4989e5984815c3b92fbe6490f79e3ad2529e8ee34"
+  },
+  {
+    "plugin": "bundesnetzagentur-verfahren",
+    "source": "./bundesnetzagentur-verfahren",
+    "theme": "regulierung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "bundesnetzagentur-verfahren/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "3cd35208e6273baa3eb2c7cdba0ca94ee5e9e347bef2839052cc5e3ff9772464"
+  },
+  {
+    "plugin": "bundeswehrrecht-wehrrecht",
+    "source": "./bundeswehrrecht-wehrrecht",
+    "theme": "wehr",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "bundeswehrrecht-wehrrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "cb9be213e8aa98d7e79054eff027b85f4b0580a4b41d56ecab2c24de846e95ea"
+  },
+  {
+    "plugin": "denkmalschutzrecht",
+    "source": "./denkmalschutzrecht",
+    "theme": "denkmalschutz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "denkmalschutzrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "129d143a450d75739d70cece848c5448449f0b6fdce6daf91b33eb0b35706784"
+  },
+  {
+    "plugin": "einigungsvertrag-vermoegensrecht",
+    "source": "./einigungsvertrag-vermoegensrecht",
+    "theme": "einigungsvertrag",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "einigungsvertrag-vermoegensrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "d5e97e0dfcb95f11e7dfcf5f82cb243bc6f8ece67f0ad6eeb349f11e673a1f66"
+  },
+  {
+    "plugin": "email-umformulierer-berufsrecht",
+    "source": "./email-umformulierer-berufsrecht",
+    "theme": "berufsrecht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "email-umformulierer-berufsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "79de229fe8268e4d4ad9c722a627f2ef006805caa0242c1b5e568ce7969f3a32"
+  },
+  {
+    "plugin": "energierecht",
+    "source": "./energierecht",
+    "theme": "energie",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "energierecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "02ac0c6d8ebec2ed375e8ecdb691431a9506088ea2564071c31a0d796ffe467d"
+  },
+  {
+    "plugin": "enteignung-artikel-14",
+    "source": "./enteignung-artikel-14",
+    "theme": "verfass",
+    "main_skill": "eingriff-und-verfahrensstand-einordnen",
+    "path": "enteignung-artikel-14/skills/eingriff-und-verfahrensstand-einordnen/SKILL.md",
+    "before_sha256": "65aed579a4d0e2aa542f679df7a7b19cfb0d4658f76288e548b560ee15cb9034"
+  },
+  {
+    "plugin": "fachanwalt-agrarrecht",
+    "source": "./fachanwalt-agrarrecht",
+    "theme": "agrar",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-agrarrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "9a5a7d7016109a552210a86806c33eb42b5b51c99e6d179473fc1f7f5248accf"
+  },
+  {
+    "plugin": "fachanwalt-medizinrecht",
+    "source": "./fachanwalt-medizinrecht",
+    "theme": "medizin",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-medizinrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "6d454a6c7f7567f370ef89bdb656661957d9804584ba477cb03b991cde9dff30"
+  },
+  {
+    "plugin": "fachanwalt-migrationsrecht",
+    "source": "./fachanwalt-migrationsrecht",
+    "theme": "migration",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-migrationsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "5a3f27d06cbbc101c7ab935059b347d8ced3c47521098bba0497957d75859d8e"
+  },
+  {
+    "plugin": "fachanwalt-sportrecht",
+    "source": "./fachanwalt-sportrecht",
+    "theme": "sport",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-sportrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "9b61318b307df236107b0f02d80c016e98af2b77c9e23951ea28a97f99a5d7c1"
+  },
+  {
+    "plugin": "fachanwalt-strafrecht",
+    "source": "./fachanwalt-strafrecht",
+    "theme": "straf",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-strafrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "1760e0f7f91ed9b7fef34d0aaeef9d3407f79a58d722a4025d65e4a9cf670441"
+  },
+  {
+    "plugin": "fachanwalt-verwaltungsrecht",
+    "source": "./fachanwalt-verwaltungsrecht",
+    "theme": "verwaltung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-verwaltungsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "b4841530412f88ec0d6ce66e060bd92925b4b8cfd1755059c035ff1ef7be5f16"
+  },
+  {
+    "plugin": "goae-gebuehrenordnung-aerzte",
+    "source": "./goae-gebuehrenordnung-aerzte",
+    "theme": "goae",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "goae-gebuehrenordnung-aerzte/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "744a035e84e306bec379f87bf7f76f6a56c9e5a62ace0ea30387e0a2fce6f7cf"
+  },
+  {
+    "plugin": "haushaltsrecht-bho-bund-laender",
+    "source": "./haushaltsrecht-bho-bund-laender",
+    "theme": "haushalt",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "haushaltsrecht-bho-bund-laender/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "5cddecd2b12493c5f0a052430448e59904388ee391d9d8ad3ee126e6a7e54b3c"
+  },
+  {
+    "plugin": "hochschulrecht-laender",
+    "source": "./hochschulrecht-laender",
+    "theme": "bildung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "hochschulrecht-laender/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "88bc31628d27a3c275ace6781d448d06cc1241a001f4819c30fd1d13ae0027e3"
+  },
+  {
+    "plugin": "informationsfreiheit-presseauskunft",
+    "source": "./informationsfreiheit-presseauskunft",
+    "theme": "informationszugang",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "informationsfreiheit-presseauskunft/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "122665ed03e287521c5ed9e882e5e3c9abde1a9603e5e6928f40b4ee4912ad38"
+  },
+  {
+    "plugin": "kartellrecht-marktabgrenzung-pruefung",
+    "source": "./kartellrecht-marktabgrenzung-pruefung",
+    "theme": "kartell",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "kartellrecht-marktabgrenzung-pruefung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "f33ce52e1ed169a4ca5534510a9b06ed99aaf9b9d64079d496395a5e77a59e52"
+  },
+  {
+    "plugin": "kommunalrecht-laender",
+    "source": "./kommunalrecht-laender",
+    "theme": "kommunal",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "kommunalrecht-laender/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "b91dc88a7498284ce80af14a10ba1e7bb002a733644a569d3b2dfa83cba8a35f"
+  },
+  {
+    "plugin": "krankenhausrecht",
+    "source": "./krankenhausrecht",
+    "theme": "krankenhaus",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "krankenhausrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "8a86c2b2db9b401dcb4f50d731c1125e77d4b5ef4029314d3785113eabaa0aa3"
+  },
+  {
+    "plugin": "kriegsdienstverweigerung-wehrdienst",
+    "source": "./kriegsdienstverweigerung-wehrdienst",
+    "theme": "dienst",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "kriegsdienstverweigerung-wehrdienst/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "b43691f8f08701a1899cfef379baa7b15e4e07f246ed80a51fce1954776e8c2b"
+  },
+  {
+    "plugin": "legistik-werkstatt",
+    "source": "./legistik-werkstatt",
+    "theme": "normsetzung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "legistik-werkstatt/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "5d54f62327c2e5ec6bd447faf6d85c9b465a9ed8cdd8e18b9d82afe83da52df7"
+  },
+  {
+    "plugin": "lobbyregister-bundestag",
+    "source": "./lobbyregister-bundestag",
+    "theme": "lobbyregister",
+    "main_skill": "lobbyregister-kommandocenter",
+    "path": "lobbyregister-bundestag/skills/lobbyregister-kommandocenter/SKILL.md",
+    "before_sha256": "de54dcd13212c1442bf46ab0c59f2c722dc51eda494e234a68ea467eb358c02f"
+  },
+  {
+    "plugin": "luftrecht-flughafenrecht",
+    "source": "./luftrecht-flughafenrecht",
+    "theme": "luftrecht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "luftrecht-flughafenrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "b505b7beee442d8a7a512f1929cdaa9ea566eeecb18fa76032ce9ac846377684"
+  },
+  {
+    "plugin": "meinungspruefer",
+    "source": "./meinungspruefer",
+    "theme": "verfass",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "meinungspruefer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "c35041126052e109807c4b1e52d6e80e2f3d2064a9adf7641b4cc9dbd15ccd33"
+  },
+  {
+    "plugin": "normenkontrollrat-nkr",
+    "source": "./normenkontrollrat-nkr",
+    "theme": "nkr",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "normenkontrollrat-nkr/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "08a3e6585b2961b2a8dd8b857fc7f15567aae1a79a85c0b835ad6b2a52014fae"
+  },
+  {
+    "plugin": "oeffentliches-wirtschaftsrecht",
+    "source": "./oeffentliches-wirtschaftsrecht",
+    "theme": "wirtschaftsverwaltung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "oeffentliches-wirtschaftsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "1f32a83162833c9049142e632e1703f1595e8acbdd68e9e9791a5049299e9a08"
+  },
+  {
+    "plugin": "ordnungswidrigkeitenrecht",
+    "source": "./ordnungswidrigkeitenrecht",
+    "theme": "owi_praxis",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "ordnungswidrigkeitenrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "1da629e55a112f034a6192ba5fb0c912a40b21de9c465e92f766d79ce7fe5853"
+  },
+  {
+    "plugin": "parteienrecht-parteiorganisation",
+    "source": "./parteienrecht-parteiorganisation",
+    "theme": "parteienrecht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "parteienrecht-parteiorganisation/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "ea26f3cffc5a599b6f9f1fb5832a1cd67777682903b81139034a5a23892d095f"
+  },
+  {
+    "plugin": "pruefungsrecht-hochschule",
+    "source": "./pruefungsrecht-hochschule",
+    "theme": "bildung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "pruefungsrecht-hochschule/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "a0df8fbbfa4c9488e2f356bc147c4058c342a90c6d5acc0abdbe7f815ff8cafe"
+  },
+  {
+    "plugin": "regulatorisches-recht",
+    "source": "./regulatorisches-recht",
+    "theme": "regulierung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "regulatorisches-recht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "7d0427c0b5f56a3bf1171ba29f59dfdfbfdcadd01ef88f6f6f4ba65cbb0f7a4c"
+  },
+  {
+    "plugin": "richter-amtsgericht-straf",
+    "source": "./gerichtsplugins/richter-amtsgericht-straf",
+    "theme": "strafjustiz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/richter-amtsgericht-straf/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "bf13a9a98306e3f52a9b7437775dd6a2a14d348cb806f6d821744435398b8fa6"
+  },
+  {
+    "plugin": "richter-bverfg-verfassungsbeschwerden",
+    "source": "./gerichtsplugins/richter-bverfg-verfassungsbeschwerden",
+    "theme": "verfass",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "2f11234fb775e9765ed5b87b792ec6f9a46fa329098bce8893745b08eb265395"
+  },
+  {
+    "plugin": "richter-landgericht-strafkammer",
+    "source": "./gerichtsplugins/richter-landgericht-strafkammer",
+    "theme": "strafjustiz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/richter-landgericht-strafkammer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "51c3c4d641ceedd8dd0065bae932f17df2acc990472441412263f0385468f69d"
+  },
+  {
+    "plugin": "richter-verwaltungsgericht",
+    "source": "./gerichtsplugins/richter-verwaltungsgericht",
+    "theme": "verwaltungsgericht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/richter-verwaltungsgericht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "beab24ba638fa4b77a34077dd51a96e87cf184731cc4a39036ea533a7d43ad04"
+  },
+  {
+    "plugin": "roemisch-katholisches-kirchenrecht",
+    "source": "./roemisch-katholisches-kirchenrecht",
+    "theme": "kirchenrecht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "roemisch-katholisches-kirchenrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "fca370bbe85613683112a5bebc32804132bbfbaef6dd4d64844039b0fe438798"
+  },
+  {
+    "plugin": "schoeffen-handelsrichter-praxis",
+    "source": "./schoeffen-handelsrichter-praxis",
+    "theme": "ehrenamtliche_richter",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "schoeffen-handelsrichter-praxis/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "16b1eeb74601b2b8df627aab99335dc61425f1f32b846e564104330dfda2f7b5"
+  },
+  {
+    "plugin": "schulrecht-laender",
+    "source": "./schulrecht-laender",
+    "theme": "bildung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "schulrecht-laender/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "f326c3afd8909be84a585ee32198aa1c23dfec24fac3afa8785b510e4419a0f2"
+  },
+  {
+    "plugin": "staatsanwaltschaft-amtsanwaltschaft",
+    "source": "./gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft",
+    "theme": "strafjustiz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "90b096950e6e344c90e17942a18a5aae3f63b820c6420fef128334e10b6e46ea"
+  },
+  {
+    "plugin": "staatsanwaltschaft-praxis-einstieg",
+    "source": "./gerichtsplugins/staatsanwaltschaft-praxis-einstieg",
+    "theme": "strafjustiz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "fe53c5a4be7c446f6b4e57afffac822c358641af2759f5d36b0754c7425c2737"
+  },
+  {
+    "plugin": "strafanzeige-vorbereiter",
+    "source": "./strafanzeige-vorbereiter",
+    "theme": "straf",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "strafanzeige-vorbereiter/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "45ea779fb1371c7ef8b856a258f3b549c91f18a37c5ecbcaf07b8c49beed6882"
+  },
+  {
+    "plugin": "strafbefehl-verteidiger",
+    "source": "./strafbefehl-verteidiger",
+    "theme": "straf",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "strafbefehl-verteidiger/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "793d459b595357a68b43d7b90993a699ff2ffa6548090d57749225459dc1f8ba"
+  },
+  {
+    "plugin": "strafvollzug-jva",
+    "source": "./strafvollzug-jva",
+    "theme": "straf",
+    "main_skill": "strafvollzug-fall-steuern",
+    "path": "strafvollzug-jva/skills/strafvollzug-fall-steuern/SKILL.md",
+    "before_sha256": "ad6f1ca30bc134062385935d87aa0ad0cec5c817692adf24d38e9a1843c936ae"
+  },
+  {
+    "plugin": "strafzumessung",
+    "source": "./strafzumessung",
+    "theme": "strafjustiz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "strafzumessung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "6806701f231cdc355f6d2a09f003cec9a9d0de5879c9f77becfb8ca48b5c6e10"
+  },
+  {
+    "plugin": "strassennutzung-genehmigungen",
+    "source": "./strassennutzung-genehmigungen",
+    "theme": "strassennutzung-genehmigungen",
+    "main_skill": "strassenstatus-widmung-und-zustaendigkeit",
+    "path": "strassennutzung-genehmigungen/skills/strassenstatus-widmung-und-zustaendigkeit/SKILL.md",
+    "before_sha256": "61bdce54701d552627931beed05dca4d08561897c9dff8437a52b71724067d8c"
+  },
+  {
+    "plugin": "strassenrecht-infrastruktur",
+    "source": "./strassenrecht-infrastruktur",
+    "theme": "strassenrecht",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "strassenrecht-infrastruktur/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "50376a7a5b004e5641e8d8e1cb5bd91e8b7cafe6288e899f220e1ae35e77ffe6"
+  },
+  {
+    "plugin": "strassenverkehrsrecht-stvo",
+    "source": "./strassenverkehrsrecht-stvo",
+    "theme": "stvo",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "strassenverkehrsrecht-stvo/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "9d4de5d9dac6fb31cbb33da36ffa99e91d8cf1668569605f99b7c16efe5fb78e"
+  },
+  {
+    "plugin": "tierschutzrecht",
+    "source": "./tierschutzrecht",
+    "theme": "tierschutz",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "tierschutzrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "1277174fa3a906c585a177abdb8bbf56a5d8c84a19eac0cd2795e0379fa68f9e"
+  },
+  {
+    "plugin": "umweltrecht",
+    "source": "./umweltrecht",
+    "theme": "umweltplanung",
+    "main_skill": "kommandocenter",
+    "path": "umweltrecht/skills/kommandocenter/SKILL.md",
+    "before_sha256": "75a87008a343fa79aff206e3e3a41f552352b4d2f88c7d15302b0f09d7250177"
+  },
+  {
+    "plugin": "umweltschutzverband-verbandsklage",
+    "source": "./umweltschutzverband-verbandsklage",
+    "theme": "umweltverband",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "umweltschutzverband-verbandsklage/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "8d79bcc7a625554e5ab25be80435c2550be212fb599670bffb52756c986b2484"
+  },
+  {
+    "plugin": "untersuchungshaft",
+    "source": "./untersuchungshaft",
+    "theme": "straf",
+    "main_skill": "uhaft-verfahren-steuern",
+    "path": "untersuchungshaft/skills/uhaft-verfahren-steuern/SKILL.md",
+    "before_sha256": "c994bd3d6d270e2cfe7032bf5e5580348ef32f62861237f79945e1da032c3745"
+  },
+  {
+    "plugin": "verfassungsrecht",
+    "source": "./verfassungsrecht",
+    "theme": "verfass",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "verfassungsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "e2c1424b796285c56ffa5ae12e46b54921b6260a24d3f5d99e1ac81567d538b8"
+  },
+  {
+    "plugin": "vergesellschaftung-artikel-15",
+    "source": "./vergesellschaftung-artikel-15",
+    "theme": "verfass",
+    "main_skill": "vergesellschaftungsvorhaben-einordnen",
+    "path": "vergesellschaftung-artikel-15/skills/vergesellschaftungsvorhaben-einordnen/SKILL.md",
+    "before_sha256": "0ebdf7daef149b7489e99dde67ac2a06d66f4611f9851a46f8852b51a8ae16a4"
+  },
+  {
+    "plugin": "verhaeltnismaessigkeitspruefer",
+    "source": "./verhaeltnismaessigkeitspruefer",
+    "theme": "verfass",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "verhaeltnismaessigkeitspruefer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "6b78a75d4c477c95bd35654cbc8f3db89cd17690bb3210344073ad2b7bdf258b"
+  },
+  {
+    "plugin": "verkehr-infrastrukturrecht",
+    "source": "./verkehr-infrastrukturrecht",
+    "theme": "umweltplanung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "verkehr-infrastrukturrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "50aa4b83a60c9a32588eb16ab4c8a05fc4124ad6fa426ccd2f5e4d12a2392db2"
+  },
+  {
+    "plugin": "verkehrsowi-verteidiger",
+    "source": "./verkehrsowi-verteidiger",
+    "theme": "straf",
+    "main_skill": "verkehrsowi-kommandocenter",
+    "path": "verkehrsowi-verteidiger/skills/verkehrsowi-kommandocenter/SKILL.md",
+    "before_sha256": "f2cb5bc4c2c17d99a48502baea2eaae265ebb9d4bce3a412db3d1f7937307c2f"
+  },
+  {
+    "plugin": "versammlungsrecht",
+    "source": "./versammlungsrecht",
+    "theme": "versammlung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "versammlungsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "077d70fc0b9e6db3472cdd2061a7137ae4140699a9b0837df0a864ddae9572ff"
+  },
+  {
+    "plugin": "wahlkampfrecht-praxis",
+    "source": "./wahlkampfrecht-praxis",
+    "theme": "verfass",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "wahlkampfrecht-praxis/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "03095c4b5601d6e87800c8161455096f430f082db957e93557e790b8961c197d"
+  },
+  {
+    "plugin": "weltraumrecht",
+    "source": "./weltraumrecht",
+    "theme": "weltraum",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "weltraumrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "5d2b17168b28c017e5500184659a68a505fc09852614c033f448efe5820d62e4"
+  }
+]

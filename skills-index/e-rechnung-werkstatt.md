@@ -1,6 +1,6 @@
 # e-rechnung-werkstatt
 
-**7 Skills** · Stand `v445.35.6`
+**7 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../e-rechnung-werkstatt/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`e-rechnung-werkstatt-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=e-rechnung-werkstatt/e-rechnung-werkstatt-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`e-rechnung-werkstatt-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=e-rechnung-werkstatt/e-rechnung-werkstatt-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [e-rechnung-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/e-rechnung-v445.35.6/e-rechnung-werkstatt.zip) |
+| **Plugin (installierbar)** | ZIP | [e-rechnung-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/e-rechnung-werkstatt.zip) |
 
 ## So benutzt man einen Skill
 
@@ -29,7 +29,7 @@ English: This index lists source skills, including specialist series accessed th
 
 | Skill | Beschreibung | Markdown-Datei |
 | --- | --- | --- |
-| [`e-rechnung-erstellen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=e-rechnung-werkstatt/skills/e-rechnung-erstellen/SKILL.md) | Erstellt aus Word, PDF, Scans, Bildern, Tabellen, E-Mails und vorhandenen Rechnungsdaten eine belegte E-Rechnung. Führt von der Materialauswertung über Pflichtangaben und Steuerprüfung zu ZUGFeRD oder XRechnung einschließlich tatsächlicher Validierung und nutzbarer Ausgabedate... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=e-rechnung-werkstatt/skills/e-rechnung-erstellen/SKILL.md) |
+| [`e-rechnung-erstellen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=e-rechnung-werkstatt/skills/e-rechnung-erstellen/SKILL.md) | Aus Belegen eine geprüfte E-Rechnung erstellen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=e-rechnung-werkstatt/skills/e-rechnung-erstellen/SKILL.md) |
 | [`format-und-empfaengerregeln-klaeren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=e-rechnung-werkstatt/skills/format-und-empfaengerregeln-klaeren/SKILL.md) | Bestimmt das geeignete E-Rechnungsformat und die konkreten Empfängervorgaben für B2B, B2G und sonstige Fälle. Klärt ZUGFeRD-Profil, XRechnung-Version, elektronische Adressen, Leitweg-ID, Bestellbezug und Übermittlungsweg ohne Identifikatoren zu erfinden. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=e-rechnung-werkstatt/skills/format-und-empfaengerregeln-klaeren/SKILL.md) |
 | [`rechnung-berichtigen-und-ausgabe-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=e-rechnung-werkstatt/skills/rechnung-berichtigen-und-ausgabe-pruefen/SKILL.md) | Unterscheidet Formatübertragung, Rechnungskorrektur, Storno und Gutschrift und prüft die endgültige E-Rechnung auf Inhalt, Dubletten, Steuerausweis und Versionsidentität. Liefert konsistente Ausgabedateien mit nachvollziehbarem Prüf- und Übermittlungsstatus. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=e-rechnung-werkstatt/skills/rechnung-berichtigen-und-ausgabe-pruefen/SKILL.md) |
 | [`steuerlogik-und-rechnungsarten-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=e-rechnung-werkstatt/skills/steuerlogik-und-rechnungsarten-pruefen/SKILL.md) | Prüft Leistung, Steuerschuldner, Steuersatz, Befreiung und Rechnungsart vor der E-Rechnungserzeugung. Behandelt gemischte Steuersätze, Kleinunternehmer, Reverse Charge, Anzahlungen, Schlussrechnungen, Gutschriften und Fremdwährung mit nachvollziehbaren Beträgen und technischen... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=e-rechnung-werkstatt/skills/steuerlogik-und-rechnungsarten-pruefen/SKILL.md) |

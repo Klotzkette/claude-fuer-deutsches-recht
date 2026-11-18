@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-18",
+  "plugins": 76,
+  "changed_primary_skills": 76,
+  "added_references": 76,
+  "checks": {
+    "frontmatter_quick_validate": "76/76 pass",
+    "current_file_hashes": "76/76 match",
+    "reference_hashes": "76/76 match",
+    "original_local_link_targets": "all preserved",
+    "all_new_local_links": "all resolve",
+    "canonical_visual_blocks": "76/76 byte-identical",
+    "maximum_active_skill_lines": 86,
+    "actual_model_or_client_run": "not performed"
+  },
+  "failures": [],
+  "reference_introduction_followup": {
+    "changed_references": 14,
+    "reference_hashes": "76/76 match",
+    "repository_markdown_structure": "validate-markdown-structure OK (34188 Dateien)",
+    "scope": "Nur Referenzeinleitungen ergänzt; Hauptskill-Formatnachführung und deren Hashbindung erfolgen durch Integration."
+  }
+}

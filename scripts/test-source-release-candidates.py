@@ -11,6 +11,7 @@ from pathlib import Path
 import tempfile
 import unittest
 import zipfile
+import yaml
 from unittest.mock import patch
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -52,19 +53,26 @@ class SourceReleaseCandidates(unittest.TestCase):
                     with self.assertRaises(json.JSONDecodeError):
                         module.published_proof_status(candidate, True)
 
-    def test_workflows_only_enable_candidate_mode_for_pull_requests(self):
+    def test_workflows_separate_current_checkout_from_historical_release(self):
         for name in ("insolvenzanfechtung", "insolvenzsachbearbeitung"):
             text = (ROOT / ".github/workflows" / f"{name}-release.yml").read_text(encoding="utf-8")
-            self.assertIn('if [ "$GITHUB_EVENT_NAME" = pull_request ]; then candidate=(--candidate); fi', text)
-            self.assertIn('"${candidate[@]}"', text)
+            steps = yaml.safe_load(text)['jobs']['release']['steps']
+            release = [step for step in steps if f'python3 scripts/build-{name}-release.py' in step.get('run', '')]
+            checkout = [step for step in steps if 'python3 scripts/check-insolvenz-components-checkout.py' in step.get('run', '')]
+            self.assertEqual(len(release), 1)
+            self.assertEqual(len(checkout), 1)
+            self.assertEqual(release[0].get('if'), "github.event_name == 'workflow_dispatch'")
+            self.assertEqual(checkout[0].get('if'), "github.event_name == 'pull_request'")
+            self.assertNotIn('--candidate', release[0]['run'])
             self.assertNotIn("--write-proof", text)
 
-    def test_anfechtung_workflow_build_and_verify_use_the_fixed_component_scope(self):
+    def test_anfechtung_checkout_build_and_verify_do_not_republish_historical_scope(self):
         text = (ROOT/'.github/workflows/insolvenzanfechtung-release.yml').read_text(encoding='utf-8')
-        commands = re.findall(r'^\s*python3 scripts/build-skill-quality-release\.py[^\n]*', text, re.M)
+        commands = re.findall(r'^\s*python3 scripts/check-insolvenz-components-checkout\.py[^\n]*', text, re.M)
         self.assertEqual(len(commands), 2)
         for command in commands:
-            self.assertIn('--scope scripts/data/insolvenzanfechtung-pruefumfang.json', command)
+            self.assertIn('--component insolvenzanfechtung', command)
+            self.assertNotIn('--scope', command)
             self.assertNotIn('skill-quality-release-scope.json', command)
         self.assertNotIn('--verify', commands[0])
         self.assertIn('--verify', commands[1])

@@ -17,6 +17,7 @@ from markdown_it import MarkdownIt
 from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_BYTES
 from release_routing import validate_plugin_version
+from main_skill_revisions import historical_bytes, index as main_skill_revisions
 from werkstatt_visualisierung import BEGIN, block, load_profiles, remove_block
 from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 from skill_sources import active_owner, fachinhalt_path, original_skill_sources, registry
@@ -63,12 +64,17 @@ class ImportTests(unittest.TestCase):
         record = SOURCE_FILES.get(original.relative_to(ROOT).as_posix())
         if record is not None:
             self.assertEqual(target.relative_to(ROOT).as_posix(), record["path"])
+            source = historical_bytes(ROOT, target, record["sha256"])
             self.assertEqual(hashlib.sha256(source).hexdigest(), record["sha256"])
             source = MIGRATION["restore_original"](source, record["edits"])
             self.assertEqual(hashlib.sha256(source).hexdigest(), record["original_sha256"])
         else:
             # Der unverändert separat installierte beA-Begleiter hat keine Migration.
             self.assertEqual(target, original)
+            revision = main_skill_revisions(ROOT).get(target.relative_to(ROOT).as_posix())
+            if revision is not None:
+                source = historical_bytes(ROOT, target, revision["before_sha256"])
+                self.assertEqual(hashlib.sha256(source).hexdigest(), revision["before_sha256"])
         return source
 
     def test_snapshot_is_complete_and_unchanged(self):

@@ -1,9 +1,23 @@
 ---
 name: wirtschaftsvertrag-bis-zur-unterschrift-erstellen
-description: Erstellt und verhandelt deutsche B2B-Wirtschaftsverträge aus vorhandenen Unterlagen bis zum unterschriftsreifen Entwurf. Klärt die entscheidende wirtschaftliche Bindung und setzt denselben Vertrag nach Antworten fort. Keine vollständige Unternehmenskaufberatung und kein eigenständiger Lizenzvertragsgenerator.
+description: "Wirtschaftsvertrag vom Geschäftsziel zur unterschriftsreifen Fassung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# 1. Wirtschaftsvertrag bis zur Unterschrift erstellen
+# Wirtschaftsvertrag vom Geschäftsziel zur unterschriftsreifen Fassung führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Term Sheet, vorhandene Fassungen, Parteien und tatsächlichen Leistungsaustausch übernehmen; gewünschte Rechtswahl, Gerichtsstand und Zeichnungsbefugnis feststellen.
+
+2. Leistung, Preis, Abnahme, Risiken, Beendigung und Folgepflichten entlang des Geschäftsmodells ordnen. Zwingendes Recht und AGB-Grenzen können durch Rechtswahl oder Vertragsüberschrift nicht beseitigt werden.
+
+3. Nur bei konkreter Schnittstelle Fachwege zu Vertrieb, IP, Daten, Sicherheiten oder internationalem Handel öffnen; Handelsvertreterausgleich und CISG eigenständig prüfen, wenn die Transaktion sie auslöst.
+
+4. Alle akzeptierten Entscheidungen in dieselbe vollständige Vertragsfassung mit konsistenten Definitionen und Anlagen übernehmen; echte Verhandlungspunkte in einer kurzen Begleitliste isolieren.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -56,6 +70,16 @@ Liefern Sie das bestellte Vertragsdokument in vollständigen, ausformulierten S�
 ## 6. Beispiele
 
 „Erstellen Sie den Rahmenliefervertrag aus unserem Angebot und den Einkaufsbedingungen.“ Sie klären nur die unvereinbare Mengenbindung und liefern danach den vollständigen Vertrag. Nach „Vier Wochen sind verbindlich, danach nur Materialfreigabe“ aktualisieren Sie Abruf, Storno, Kapazität und Preis derselben Fassung. Bei „Die Gegenseite lehnt das ab“ folgen konkreter Gegenentwurf und Verhandlungsantwort. Bei „Bitte unterschriftsreif“ prüfen Sie offene Entscheidungen und Form; eine ungeklärte Vollmacht bleibt eine konkrete Sperre, keine fingierte Genehmigung.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [EuGH, Urteil vom 09.11.2000, Az. C-381/98, Ingmar, amtlicher Leitsatz](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A61998CJ0381): Rechte aus Artikel 17 und 18 der Richtlinie 86/653/EWG bei Tätigkeit des Vertreters in einem Mitgliedstaat trotz Drittstaatensitz des Unternehmers und entsprechender Rechtswahl. **Grenze:** Nur gelesene Leitsatzaussage bestätigt, nicht vollständige Gründe. Keine automatische Anwendung aller HGB-Regeln, kein bestimmter Ausgleich und keine pauschale Vertragshändleranalogie.
+
+- [BGH, Urteil vom 13.11.2025, III ZR 165/24, Rn. 32–36](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2024/III_ZR_165-24.pdf?__blob=publicationFile&v=1): Transparenz nach typischem aufmerksamen Adressaten und Klauselzusammenhang beurteilen; widersprüchliche Laufzeit- und Kündigungsregeln bleiben intransparent. **Grenze:** Nicht jede sprachlich verbesserbare Klausel ist unwirksam; keine Freigabe widersprüchlicher Belastungen.
+
+- [BGH, Urteil vom 20.03.2014 – VII ZR 248/13, Rn. 22–32](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1): Tatsächliches Zur-Disposition-Stellen des Klauselkerns belegen; bloße Verhandlungsbestätigung/Abwahl des AGB-Rechts reichen nicht. **Grenze:** Konkreter Bau-Sicherheitenfall begründet keine allgemeine Prozentgrenze.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

@@ -1,121 +1,80 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in US Bankruptcy Code ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "US-Bankruptcy-Fall vom Docket zum konkreten Antrag oder Plan bearbeiten. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert vollständigen englischen Motion-, Objection- oder Planabschnitt beziehungsweise deutschen Analysevermerk mit konkretem Relief, Rechtsgrundlage, Belegen und zuständigem Gericht."
 ---
 
-# Juristischer Argumentationskern - US Bankruptcy Code
+# US-Bankruptcy-Fall vom Docket zum konkreten Antrag oder Plan bearbeiten
 
-## 1. Direktstart
+## 1. Vom vorhandenen Material zum fertigen Ergebnis
 
-Bestimme Chapter, Verfahrensstand, Vermögenswert und betroffene Forderung aus den US-Unterlagen. Begründe den beauftragten Prüfvermerk zu Stay, Forderung, Finanzierung, Verkauf oder Plan.
+1.1. **Aktenstart.** Lies Petition, Docket, Orders, Claims Register, Sicherheiten und Cash-Flow; bestimme Chapter, Court, District, Circuit und Rolle von Debtor, Trustee oder Gläubiger. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
-Erfasse Parteien und Sitzstaaten, Vertrags- und Gerichtsstandsklauseln, Anknüpfungstatsachen und Fristen. Lass die Übersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
+1.2. **Entscheidende Weiche.** Prüfe sofortige Stay-Wirkung, Estate-Zugehörigkeit und gerichtliche Befugnis vor Verwertung, Zahlung oder Vollstreckung. Bestimme einschlägige Federal und Local Rules, Bar Dates und maßgebliche Orders; deutsches Insolvenzrecht ersetzt sie nicht.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.3. **Gezielte Vertiefung.** Bei Chapter 11 prüfe Cash Collateral, DIP-Finanzierung, Claims, Klassifizierung und Confirmation. Bei Drittfreistellung Purdue-Grenze, bei Structured Dismissal Prioritäten und Zustimmung; Chapter 15 und deutsche Anerkennung gesondert prüfen. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
 
-## 2. Die tragende These
+1.4. **Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
 
-Formuliere das Ergebnis für US Bankruptcy Code in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie.
+1.5. **Fertigstellen und fortschreiben.** Liefere vollständigen englischen Motion-, Objection- oder Planabschnitt beziehungsweise deutschen Analysevermerk mit konkretem Relief, Rechtsgrundlage, Belegen und zuständigem Gericht. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+## 2. Bedingte Fachwege und materielle Prüfung
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
-## 3. Materienspezifische Tatbestandsarbeit
-
-| Prüfpunkt | Konkrete Arbeitsfrage |
+| Verfahrenszweig | Konkrete Prüfung |
 | --- | --- |
-| Auslands-Zergliederung | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente und Fristen als Raster erfassen |
-| Forum | internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo- und Parallelverfahrensrisiken benennen |
-| Anwendbares Recht | Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen |
-| Materielle Prüfung nach dem berufenen Recht | bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden |
-| Durchsetzung | Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt |
+| Chapter und Court | Eligibility, Venue, Jurisdiction, Petition und maßgebliche Orders |
+| Sofortwirkung | Stay, Estate, Cash Collateral, Adequate Protection, DIP-Finanzierung |
+| Forderung und Vertrag | Proof of Claim, Bar Date, Objection, Priority, Assumption/Rejection |
+| Verwertung und Anspruch | Sale, Credit Bid, Avoidance, Setoff und gesicherte Rechte |
+| Plan und Ende | Klassen, Voting, Feasibility, Cramdown, Releases und Discharge |
+| Ausland | Chapter 15, deutsche Anerkennung, Zustellung und Durchsetzung; Rechtswahl/Schiedsvereinbarung nur bei entsprechender Einzelfrage, nicht als Ersatz für Bankruptcy-Recht |
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+### 2.1. Verknüpfung mit den tragenden Fachskills
 
 Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
 
-3.1.1. [Administrative Expenses Paragraf 503](../administrative-expenses-503/FACHINHALT.md)
-3.1.2. [Automatic Stay Paragraf 362](../automatic-stay-362/FACHINHALT.md)
-3.1.3. [Bankruptcy Appeals](../bankruptcy-appeals/FACHINHALT.md)
-3.1.4. [Cash Collateral Paragraf 363](../cash-collateral-363/FACHINHALT.md)
+2.1.1. [Administrative Expenses Paragraf 503](../administrative-expenses-503/FACHINHALT.md)
+2.1.2. [Automatic Stay Paragraf 362](../automatic-stay-362/FACHINHALT.md)
+2.1.3. [Bankruptcy Appeals](../bankruptcy-appeals/FACHINHALT.md)
+2.1.4. [Cash Collateral Paragraf 363](../cash-collateral-363/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
-## 4. Normenanker
+## 3. Tragende Normen fallbezogen anwenden
 
-4.1. Brüssel-Ia-VO Artikel 4, 7 und 25: allgemeiner und besonderer Gerichtsstand sowie Gerichtsstandsvereinbarung.
-4.2. Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
-4.3. Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
-4.4. CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
-4.5. New Yorker Übereinkommen Artikel II und V: Schiedsvereinbarung und Anerkennungsversagungsgründe.
-4.6. ZPO Paragraf 293: Ermittlung ausländischen Rechts durch das Gericht.
+11 U.S.C. §§ 362–365: Stay, Nutzung, Finanzierung und Verträge; §§ 501–503, 506–507: Claims und Rang; §§ 541, 547–548: Estate und Avoidance; §§ 1107, 1121–1129: Chapter 11 und Plan; §§ 1501 ff.: Chapter 15. 28 U.S.C. §§ 1334, 157, Federal Rules of Bankruptcy Procedure, Local Rules und konkrete Orders prüfen. Bei deutscher Schnittstelle §§ 335 ff. InsO und § 293 ZPO gesondert; Brüssel Ia, Rom I/II oder CISG sind kein US-Bankruptcy-Prüfschema.
 
-Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+## 4. Rechtsprechung als Entscheidungshilfe
 
-## 5. Rechtsprechung und Quellenstatus
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
 
-5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+1. [U.S. Supreme Court, Opinion vom 14.01.2021, City of Chicago v. Fulton, No. 19-357, 592 U.S. 154 (2021), Mehrheitsgründe S. 3–7](https://www.supremecourt.gov/opinions/20pdf/19-357_6k47.pdf). **Anwendung:** Bloßes Behalten bereits vor Verfahrenseröffnung entzogenen Vermögens ist nicht allein ein Verstoß gegen 11 U.S.C. 362(a)(3). Bestehenden Besitzstand, neue Verwertung und Zahlungsdruck tatsächlich trennen. **Grenze:** Andere Stay-Verbote und Turnover nach 11 U.S.C. 542 bleiben gesondert zu prüfen; keine allgemeine Freigabe für Sicherheitenverwertung oder Zurückbehaltungsdruck.
 
-5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-23.
 
-## 6. Beweislast und Gegenangriff
+2. [U.S. Supreme Court, Opinion vom 27.06.2024 – No. 23-124, Harrington v. Purdue Pharma](https://www.supremecourt.gov/opinions/23pdf/23-124_8nk0.pdf). **Anwendung:** Im Chapter-11-Plan keine nicht einvernehmliche Entschuldung nicht insolventer Dritter auf die allgemeine Planermächtigung stützen; betroffene Ansprüche und Zustimmung konkret prüfen. **Grenze:** Die Mehrheit ließ die Definition einvernehmlicher Releases, vollständige Anspruchsbefriedigung und Rückabwicklung bereits vollzogener Pläne offen; besondere gesetzliche Regeln gesondert prüfen.
 
-Ausgangspunkt für dieses Plugin: Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden.
+   **Quellenstatus:** Am 18.11.2026 amtlichen Syllabus und Mehrheitsgründe S. 15–20, insbesondere IV, gelesen; abweichende Meinung nicht als tragende Entscheidung verwendet.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+3. [U.S. Supreme Court, Opinion vom 22.03.2017 – No. 15-649, Czyzewski v. Jevic Holding Corp](https://www.supremecourt.gov/opinions/16pdf/15-649_k53m.pdf). **Anwendung:** Bei einer Structured Dismissal die abschließende Verteilung auf Abweichung von gesetzlichen Prioritäten und Zustimmung der benachteiligten Gläubiger prüfen. **Grenze:** Keine generelle Unzulässigkeit jeder vergleichsweisen oder vorläufigen Zahlung. Der hier verwendete Nachweis erfasst den im Syllabus beschriebenen Endverteilungsfall.
 
-## 7. Prüffolge
+   **Quellenstatus:** Am 18.11.2026 amtlichen Syllabus und Beginn der Opinion gelesen; spätere Versuche, weitere Seiten abzurufen, liefen in Timeouts. Keine vollständige Gründeprüfung behauptet.
 
-7.1. Welche Klausel regelt Forum und Recht, und ist sie wirksam vereinbart.
-7.2. Welches Gericht oder Schiedsgericht ist zuständig, und wo droht ein Parallelverfahren.
-7.3. Welches Sachrecht ist berufen, und gilt CISG oder nationales Recht.
-7.4. Wie wird der Inhalt ausländischen Rechts belastbar ermittelt.
-7.5. Wo wird vollstreckt, und welche Anerkennungs-, Zustellungs- oder Sanktionshürde steht davor.
+## 5. Beweis, Gegenposition und Fristen
 
-## 8. Juristisches Schreiben
+Bestimme burden of proof und Beweismaß für die konkrete Motion, Objection oder Adversary Proceeding nach Code, Federal Rules, bindendem Circuit-Recht und Order. Bei Proof of Claim formelle Beweiswirkung und substantiierte Objection unterscheiden; deutsches Amtsermittlungs- oder Beweislastrecht nicht übertragen. Priorität, Consent und angemessene Bekanntgabe sind einzeln zu belegen.
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Auslands-Zergliederung, Forum, Anwendbares Recht, Materielle Prüfung nach dem berufenen Recht: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Für jede tragende Aussage die Datei und genaue Stelle, beim Zeugen das Beweisthema und bei Berechnungen Eingaben und Rechenweg nennen. Gegenposition anhand derselben Belege fair prüfen. Fristbeginn, Fristdauer, Form, Adressat und nachgewiesenen Zugang getrennt erfassen; eine fehlende Tatsache nur an der entscheidenden Stelle nachfordern.
 
-## 9. Ausgabemodi
+## 6. Fertige Fassung und Abschlussprüfung
 
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+Liefere vollständigen englischen Motion-, Objection- oder Planabschnitt beziehungsweise deutschen Analysevermerk mit konkretem Relief, Rechtsgrundlage, Belegen und zuständigem Gericht. Ergebnis oder bestimmter Antrag zuerst, danach konkrete Tatsachen, tragende Rechtsregel, Subsumtion, Gegenposition und Antwort. Haupt- und Hilfslinie nur soweit sachlich erforderlich. Vollständige Sätze und ein unmittelbar weiterverwendbarer Text; keine leeren Vorlagen oder bloßen Skill-Empfehlungen.
 
-## 10. Qualitätskontrolle
-
-10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie verwendbar?
+Prüfe Namen, Rolle, Zuständigkeit, Gesetzesfassung, Frist, Form, Beträge und Anlagen auf Widerspruch. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine erfundenen Randnummern. Bei neuem Beleg denselben Entwurf fortschreiben und die dadurch geänderte Rechtsfolge benennen. Visualisierung nur bei verfügbarem Werkzeug; sonst verständliche Tabelle oder Textskizze. Ohne ausgeführte Handlung keine Einreichung, Freigabe oder erfolgreiche Datenübermittlung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 11. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

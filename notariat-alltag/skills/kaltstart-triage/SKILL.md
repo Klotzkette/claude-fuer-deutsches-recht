@@ -1,13 +1,27 @@
 ---
 name: kaltstart-triage
-description: "Hauptworkflow für Notariatsmitarbeiter: führt Kundenunterlagen bis zur konkreten Urkunden- oder Anmeldevorlage an den Notar. Wählt zwischen Entwurf, Änderung und Vollzug, übernimmt belegte Daten und steuert nur den benötigten Fachskill samt gezielten Rückfragen."
+description: "Notariellen Vorgang von der Akte zur beurkundungs- oder vollzugsreifen Fassung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# 1. Hauptworkflow vom Kundenordner zur Urkundenmappe
+# Notariellen Vorgang von der Akte zur beurkundungs- oder vollzugsreifen Fassung führen
 
 ## 1. Zweck und Anwendungsfall
 
-Bereite für Notariatsmitarbeiter die bestellte Urkunde, Erklärung oder Registeranmeldung vor und führe sie nach Rückfragen zur konsistenten Vorlage. Die Aufgabe endet nicht bei einer Materialübersicht. Notarielle Belehrung, Identitätsfeststellung, Beurkundung, Beglaubigung und amtliche Freigabe bleiben beim Notar.
+Dieser Hauptworkflow bereitet für Notariatsmitarbeiter die bestellte Urkunde, Erklärung oder Registeranmeldung vor und führt sie nach Rückfragen zur konsistenten Vorlage. Die Aufgabe endet nicht bei einer Materialübersicht. Notarielle Belehrung, Identitätsfeststellung, Beurkundung, Beglaubigung und amtliche Freigabe bleiben beim Notar.
+
+### 1.1. Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1.1.1. Beteiligte, Urkunden, Vollmachten, Register und Geschäftsziel aus vorhandener Akte erfassen; Beurkundung, Beglaubigung und Vollzug unterscheiden.
+
+1.1.2. Identität, Vertretungsmacht, Geschäftsfähigkeit, Form und erforderliche Belehrung vor Gestaltung prüfen. Verbraucherwartezeit nur im einschlägigen Anwendungsfall und mit belegter Ausnahme behandeln.
+
+1.1.3. Bei Vorsorge, Erbfolge, Ehevertrag, Grundstück oder Registervollzug den jeweiligen Fachweg öffnen; Risiken von Bestimmtheit, Inhaltskontrolle und Vollzug nicht in einer pauschalen Freigabe zusammenziehen.
+
+1.1.4. Urkundenentwurf, Vollzugsanweisung oder Rückfrage vollständig formulieren; fehlende Genehmigung und Registerunterlage mit konkreter Folge benennen und bereits bearbeitbare Teile fertigstellen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 2. Eingaben
 
@@ -66,6 +80,16 @@ Liefere ein ausformuliertes Dokument, getrennt davon offene Punkte und die erfor
 ## 6. Beispiel
 
 Im Ordner liegen Bankauftrag, Kaufvertrag und zwei Ausweiskopien. Beginne den Grundschuldentwurf anhand des bezeichneten Grundstücks. Frage nicht nochmals nach dem Kaufzweck. Ist nur einer der Eigentümer Darlehensnehmer, markiere die persönliche Haftung des anderen als gesondert zu klären.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 20 bis 22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1): Sachlicher Verkürzungsgrund und anderweitiger Übereilungsschutz, sonst vorzeitige Beurkundung ablehnen. **Grenze:** Amtshaftung; keine automatische Vertragsnichtigkeit und kein allgemeines Zweiwochengebot.
+
+- [BGH, Beschluss vom 06.07.2016, XII ZB 61/16, Randnummern 17 bis 20 und 46 bis 48](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2016/XII_ZB__61-16.pdf?__blob=publicationFile&v=1): Qualifizierte Gefahr in besonderer Gesundheitsvollmacht; konkretisierte Behandlungsentscheidung bei Patientenverfügung. **Grenze:** Historische Normen; heute BGB1820/1827/1829 prüfen. Keine pauschale Aussage zur heutigen Kontrollbetreuung.
+
+- [BGH, Beschluss vom 08.02.2017, XII ZB 604/15, Randnummern 17 bis 23](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2015/XII_ZB_604-15.pdf?__blob=publicationFile&v=1): Gesamtzusammenhang der schriftlichen Patientenverfügung auslegen; keine isolierte Unwirksamkeitsdiagnose allgemeiner Formeln. **Grenze:** Keine medizinische Vollständigkeitsforderung und keine eigene Therapieentscheidung des Modells.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

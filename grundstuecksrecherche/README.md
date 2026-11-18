@@ -8,7 +8,7 @@
 
 ## 1.1. Lokale App starten
 
-**Version:** `445.35.1`
+**Version:** `445.36.8`
 
 Die Grundstücksrecherche ist ein App-only-Plugin mit zwei begleitenden Skills. Es gibt zwei Betriebsarten: die App mit Python-Laufzeit und eine herunterladbare HTML-Website, deren `index.html` Sie direkt öffnen können. Beide bieten eine Karte, die Flurstücksauswahl und vier bearbeitbare Auskunftsentwürfe.
 
@@ -51,7 +51,7 @@ Mit `--case vorgang.json` wird dessen Ort vorbereitet; erst `--include-case` sch
 
 English: Use `Vorgang` → `Website als ZIP herunterladen`, extract the complete archive and open `index.html`. No Python or server is required on the receiving computer. Document editing and generation run in the browser; live maps and searches still require internet and provider permission for browser access. Case details are excluded unless explicitly selected.
 
-[Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/grundstuecksrecherche.zip) · [Plugin-Dateien](.) · [Repository](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/grundstuecksrecherche.md) · [Download-Index](../ASSET_INDEX.md)
+[Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/grundstuecksrecherche.zip) · [Plugin-Dateien](.) · [Repository](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/grundstuecksrecherche.md) · [Download-Index](../ASSET_INDEX.md)
 
 Das ZIP ist der Installationsweg nach Veröffentlichung dieser Version; der lokale Start verwendet die Dateien im Arbeitsverzeichnis.
 <!-- END direkt-loslegen (autogen) -->

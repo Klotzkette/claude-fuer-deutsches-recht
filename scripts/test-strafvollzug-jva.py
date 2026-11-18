@@ -26,7 +26,8 @@ from openpyxl import load_workbook
 from pypdf import PdfReader
 import yaml
 
-from release_routing import case_asset_url, plugin_asset_url
+from release_routing import case_asset_url, plugin_asset_url, validate_plugin_version
+from main_skill_revisions import historical_bytes
 from testakte_disclaimer import NOTICE_BYTES, pdf_content_errors
 from testakte_einzelpdf_common import document_arcname_pairs
 from testakte_zip_common import (
@@ -156,6 +157,15 @@ def assets():
     return result
 
 
+def current_package_version():
+    catalog = json.loads((ROOT / '.claude-plugin/marketplace.json').read_text())
+    entries = [p for p in catalog['plugins'] if p['name'] == NAME]
+    if len(entries) != 1 or entries[0]['source'] != './' + NAME:
+        raise ValueError('Eindeutige aktuelle Pluginquelle erforderlich')
+    validate_plugin_version(entries[0], catalog['version'], root=ROOT)
+    return entries[0]['version']
+
+
 class JVAComponentTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
@@ -169,7 +179,7 @@ class JVAComponentTests(unittest.TestCase):
     def test_manifests_skills_commands_and_local_links(self):
         for rel in ("plugin.json", ".claude-plugin/plugin.json", ".codex-plugin/plugin.json"):
             obj = json.loads((PLUGIN / rel).read_text())
-            self.assertEqual((obj["name"], obj["version"]), (NAME, "1.1.0"))
+            self.assertEqual((obj["name"], obj["version"]), (NAME, current_package_version()))
         catalog = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
         entries = [p for p in catalog["plugins"] if p["name"] == NAME]
         self.assertEqual(len(entries), 1)
@@ -210,8 +220,8 @@ class JVAComponentTests(unittest.TestCase):
             if kind != "werkstatt":
                 self.assertLessEqual(path.stat().st_size, 7500)
             self.assertEqual(profile[key]["prompt_sha256" if kind == "hauptproblem" else "sha256"], sha(path))
-        self.assertEqual(profile["focus_review"]["skill_sha256"],
-                         sha(PLUGIN / "skills/strafvollzug-fall-steuern/SKILL.md"))
+        expected = profile["focus_review"]["skill_sha256"]
+        self.assertEqual(expected, hashlib.sha256(historical_bytes(ROOT, PLUGIN / "skills/strafvollzug-fall-steuern/SKILL.md", expected, plugin=NAME)).hexdigest())
 
     def test_original_inventory_and_court_annexes(self):
         self.assertEqual([c["slug"] for c in self.cases], list(LEGACY_CASES))
@@ -330,7 +340,7 @@ class JVAComponentTests(unittest.TestCase):
     def test_download_notices_links_and_component_routes(self):
         downloads = module("validate-testakten-readme-downloads.py")
         readme = (PLUGIN / "README.md").read_text()
-        self.assertIn("/strafvollzug-jva-v1.1.0/", plugin_asset_url(NAME))
+        self.assertRegex(plugin_asset_url(NAME, root=ROOT), r'/[^/]+-v'+re.escape(current_package_version())+r'/'+NAME+r'\.zip$')
         errors = []
         downloads.validate_download_notices(f"{NAME}/README.md", readme, errors)
         downloads.validate_release_routes(f"{NAME}/README.md", readme, errors)

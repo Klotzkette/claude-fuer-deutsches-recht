@@ -1,9 +1,17 @@
 ---
 name: grundstuecksrecherche-starten
-description: Startet die lokale Grundstücksrecherche-App und begleitet Stadtsuche, verifizierte NRW-Katasterauswahl oder manuelle Flurstückserfassung. Erklärt fehlende Ausführungs- oder Browsermöglichkeiten ohne eine Einbettung vorzutäuschen.
+description: "Grundstücksrecherche bis zum belegten Ergebnis steuern. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# 1. Grundstücksrecherche starten
+# Grundstücksrecherche bis zum belegten Ergebnis steuern
+
+Übernimm Adresse, Flurstück oder Suchgebiet und den konkreten Rechercheauftrag in die verfügbare Anwendung; prüfe die eindeutige Zuordnung des Grundstücks.
+
+**Entscheidung im Arbeitsablauf:** Trenne öffentlich zugängliche Planungs- und Kartendaten von Grundbuch-, Eigentümer- oder sonstigen zugangsbeschränkten Informationen. Dokumentiere Quelle, Stand und räumliche Deckung jeder Aussage.
+
+**Bis zum Ergebnis weiterarbeiten:** Erzeuge die tatsächlich verfügbare Ergebnisansicht und den bestellten Bericht mit belegten Feststellungen, Kartenbezug und gezielten Nachforderungen. Eine andere Flurstücksnummer verlangt Neuabgleich aller räumlichen Aussagen; ein Kartenhinweis beweist weder Eigentum noch lastenfreien Erwerb.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1.1. Zweck und Anwendungsfall
 

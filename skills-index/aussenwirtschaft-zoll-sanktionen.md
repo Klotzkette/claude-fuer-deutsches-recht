@@ -1,6 +1,6 @@
 # aussenwirtschaft-zoll-sanktionen
 
-**11 Skills** · Stand `v445.36.0`
+**11 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../aussenwirtschaft-zoll-sanktionen/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`aussenwirtschaft-zoll-sanktionen-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`aussenwirtschaft-zoll-sanktionen-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [aussenwirtschaft-zoll-sanktionen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/aussenwirtschaft-zoll-sanktionen.zip) |
+| **Plugin (installierbar)** | ZIP | [aussenwirtschaft-zoll-sanktionen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/aussenwirtschaft-zoll-sanktionen.zip) |
 
 ## So benutzt man einen Skill
 
@@ -28,7 +28,7 @@ English: This index lists source skills, including specialist series accessed th
 
 | Skill | Beschreibung | Markdown-Datei |
 | --- | --- | --- |
-| [`aussenwirtschaft-kommandocenter`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-kommandocenter/SKILL.md) | Für Kommandocenter Außenwirtschaft: Mehrfach-Sachverhalts-Steuerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-kommandocenter/SKILL.md) |
+| [`aussenwirtschaft-kommandocenter`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-kommandocenter/SKILL.md) | Außenwirtschaftsvorgang zur begründeten Handlungsentscheidung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-kommandocenter/SKILL.md) |
 | [`cbam-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aussenwirtschaft-zoll-sanktionen/skills/cbam-bearbeiten/SKILL.md) | Bestimme betroffene Einfuhren, Zeitraum, Rolle und belastbare Emissionsdaten für CBAM; Kompetenzurteil und konkretes Pflichtenprogramm getrennt behandeln. Die zugeordneten Fachmodule und Vorlagen werden nach dem konkreten Auftrag gelesen und zusammengeführt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aussenwirtschaft-zoll-sanktionen/skills/cbam-bearbeiten/SKILL.md) |
 | [`ermittlung-rechtsbehelf-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aussenwirtschaft-zoll-sanktionen/skills/ermittlung-rechtsbehelf-bearbeiten/SKILL.md) | Bearbeite behördliche Prüfung, freiwillige Offenlegung, Straf- und Bußgeldrisiko, Beweissicherung und Rechtsbehelf; Selbstkorrektur nicht automatisch als Selbstanzeige behandeln. Die zugeordneten Fachmodule und Vorlagen werden nach dem konkreten Auftrag gelesen und zusammengef... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aussenwirtschaft-zoll-sanktionen/skills/ermittlung-rechtsbehelf-bearbeiten/SKILL.md) |
 | [`gueter-genehmigung-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aussenwirtschaft-zoll-sanktionen/skills/gueter-genehmigung-bearbeiten/SKILL.md) | Klassifiziere Ware, Software und Technologie, kläre Endverwendung und zuständige Genehmigungsart und bereite den belegten Antrag vor. Die zugeordneten Fachmodule und Vorlagen werden nach dem konkreten Auftrag gelesen und zusammengeführt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aussenwirtschaft-zoll-sanktionen/skills/gueter-genehmigung-bearbeiten/SKILL.md) |

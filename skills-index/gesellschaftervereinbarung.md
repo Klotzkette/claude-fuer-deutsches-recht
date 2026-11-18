@@ -1,6 +1,6 @@
 # gesellschaftervereinbarung
 
-**11 Skills** · Stand `v1.1.0`
+**11 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gesellschaftervereinbarung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`gesellschaftervereinbarung-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`gesellschaftervereinbarung-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [gesellschaftervereinbarung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/gesellschaftervereinbarung.zip) |
+| **Plugin (installierbar)** | ZIP | [gesellschaftervereinbarung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/gesellschaftervereinbarung.zip) |
 
 ## So benutzt man einen Skill
 
@@ -39,4 +39,4 @@ English: This index lists source skills, including specialist series accessed th
 | [`mitspracherechte-gestalten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/skills/mitspracherechte-gestalten/SKILL.md) | Gestaltet Gesellschaftermehrheiten, Beirat, Informationsrechte und Zustimmungsvorbehalte für konkrete GmbH-Beteiligungen. Prüft Nenner, Interessenkonflikte und die Abstimmung von Satzung und Nebenvereinbarung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/skills/mitspracherechte-gestalten/SKILL.md) |
 | [`rechte-und-gruenderleistungen-sichern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/skills/rechte-und-gruenderleistungen-sichern/SKILL.md) | Klärt Software, Erfindungen, Marken, Gründerleistungen und Wettbewerbsbindungen vor einer Beteiligungsrunde. Erstellt konkrete Rechteübertragungen, Nachforderungen und Vollzugsbedingungen statt pauschaler Eigentumsgarantien. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/skills/rechte-und-gruenderleistungen-sichern/SKILL.md) |
 | [`term-sheet-verhandeln`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/skills/term-sheet-verhandeln/SKILL.md) | Entwirft und überarbeitet Term Sheets für GmbH-Beteiligungen. Trennt unverbindliche Eckpunkte von bindenden Nebenabreden und übersetzt widersprüchliche Investorenwünsche in konkrete verhandelbare Regelungen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/skills/term-sheet-verhandeln/SKILL.md) |
-| [`vereinbarung-erstellen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/skills/vereinbarung-erstellen/SKILL.md) | Führt Term Sheet, Satzung, Anteilsliste und Verhandlungsstand zu einer vollständigen GmbH-Gesellschaftervereinbarung. Steuert Kapital, Mitspracherechte, Anteilsverkehr, Gründerbindung, Erlösverteilung und notarielle Umsetzung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/skills/vereinbarung-erstellen/SKILL.md) |
+| [`vereinbarung-erstellen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/skills/vereinbarung-erstellen/SKILL.md) | Gesellschaftervereinbarung vom Interessenkonflikt zum Vertrag ausarbeiten. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert zusammenhängenden Vereinbarungsentwurf mit Definitionen, konkreten Auslösern, Rechtsfolgen und abgestimmtem Verhältnis zu... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/skills/vereinbarung-erstellen/SKILL.md) |

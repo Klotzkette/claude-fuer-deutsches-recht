@@ -6,7 +6,7 @@ Die E-Rechnung-Werkstatt erstellt aus vorhandenen Rechnungen, Verträgen, Leistu
 
 ## 1 Benutzung
 
-Installieren Sie das [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/e-rechnung-v445.35.6/e-rechnung-werkstatt.zip) oder verwenden Sie einen eigenständigen Prompt:
+Installieren Sie das [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/e-rechnung-werkstatt.zip) oder verwenden Sie einen eigenständigen Prompt:
 
 | Arbeitsmodus | Datei | Direktdownload |
 | --- | --- | --- |

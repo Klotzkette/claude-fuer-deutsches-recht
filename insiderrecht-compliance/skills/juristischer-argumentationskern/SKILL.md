@@ -1,34 +1,25 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Insiderrecht Compliance ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Insiderinformation bis zur dokumentierten Veröffentlichungsentscheidung prüfen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert begründeten Ad-hoc-/Aufschubvermerk mit vollständigem Meldungsentwurf, Entscheidungsträger, Zeitachse und erneuter Prüfung bei Zustandsänderung."
 ---
 
-# Juristischer Argumentationskern - Insiderrecht Compliance
+# Insiderinformation bis zur dokumentierten Veröffentlichungsentscheidung prüfen
 
-## 1. Direktstart
+## 1. Vom vorhandenen Material zum fertigen Ergebnis
 
-Ordne Information, Zeitpunkt, Beteiligte und belegte Kenntnis. Begründe die Entscheidung über Ad-hoc-Mitteilung, Aufschub, Insiderliste oder Handelsfreigabe.
+1.1. **Aktenstart.** Erstelle aus Deal-Chronologie, Gremienunterlagen, Finanzzahlen und Empfängerliste den jeweiligen Wissensstand mit Uhrzeit. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.2. **Entscheidende Weiche.** Prüfe präzise, nicht öffentliche und potenziell erheblich preisrelevante Information instrumentenbezogen. Bei gestrecktem Vorgang können Zwischenschritte relevant sein; eine feststehende Richtung der Kurswirkung ist nicht mit Präzision gleichzusetzen.
 
-## 2. Die tragende These
+1.3. **Gezielte Vertiefung.** Bei beabsichtigtem Aufschub prüfe die zum Stichtag geltenden MAR-Voraussetzungen, Vertraulichkeit und Dokumentation. Bei Leck oder Gerücht prüfe deren Folgen erneut; bei Handelsgeschäft Informationsbesitz und Nutzung ohne automatische Schuldvermutung würdigen. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
 
-Formuliere das Ergebnis für Insiderrecht Compliance in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+1.4. **Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1.5. **Fertigstellen und fortschreiben.** Liefere begründeten Ad-hoc-/Aufschubvermerk mit vollständigem Meldungsentwurf, Entscheidungsträger, Zeitachse und erneuter Prüfung bei Zustandsänderung. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+## 2. Bedingte Fachwege und materielle Prüfung
 
-## 3. Materienspezifische Tatbestandsarbeit
+Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
 | Prüfpunkt | Konkrete Arbeitsfrage |
 | --- | --- |
@@ -38,82 +29,51 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 | Kontrollen | Insiderliste, Handelsverbotszeitraum, Freigabe, Eigengeschäftsmeldung, Datenzugriff und Eskalation dokumentieren |
 | Arbeitsprodukt | Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort erstellen |
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+### 2.1. Verknüpfung mit den tragenden Fachskills
 
 Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
 
-3.1.1. [Aufsichtsrats-Sonderprüfung – Insiderrecht](../aufsichtsrat-sonderpruefung-insiderrecht/FACHINHALT.md)
-3.1.2. [Datenraum-Management in Transaktionen – Insiderrechtliche Anforderungen](../datenraum-kapitalerhoehung-insiderrecht/FACHINHALT.md)
-3.1.3. [Insiderinformation nach Art. 7 MAR](../ins-001-insiderinformation-art7/FACHINHALT.md)
-3.1.4. [M&A-Zwischenschritte](../ins-002-zwischenschritte-ma/FACHINHALT.md)
+2.1.1. [Aufsichtsrats-Sonderprüfung – Insiderrecht](../aufsichtsrat-sonderpruefung-insiderrecht/FACHINHALT.md)
+2.1.2. [Datenraum-Management in Transaktionen – Insiderrechtliche Anforderungen](../datenraum-kapitalerhoehung-insiderrecht/FACHINHALT.md)
+2.1.3. [Insiderinformation nach Art. 7 MAR](../ins-001-insiderinformation-art7/FACHINHALT.md)
+2.1.4. [M&A-Zwischenschritte](../ins-002-zwischenschritte-ma/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
-## 4. Normenanker
+## 3. Tragende Normen fallbezogen anwenden
 
-4.1. MAR Artikel 7: Insiderinformation mit Präzision, Kursrelevanz und Zwischenschritten eines gestreckten Vorgangs.
-4.2. MAR Artikel 8 und Artikel 14: Insidergeschäfte, Empfehlungen, Veranlassung und unrechtmäßige Offenlegung.
-4.3. MAR Artikel 17: unverzügliche Veröffentlichung und dokumentierter Aufschub der Ad-hoc-Mitteilung.
-4.4. MAR Artikel 18 und Artikel 19: Insiderlisten und Eigengeschäfte von Führungskräften.
-4.5. MAR Artikel 11 und die einschlägigen delegierten Rechtsakte: Marktsondierung, Einwilligung, Belehrung und Aufzeichnung.
-4.6. WpHG und WpHGMaAnzV: nationale Zuständigkeit, Meldung, Aufsicht, Sanktion und Verfahrensanforderungen in aktueller Fassung.
+MAR Art. 7–11 sowie 14, 17–19: Information, Insidergeschäft, Offenlegung, Marktsondierung, Verbot, Veröffentlichung und Kontrollen. Je Stichtag Änderungen durch den EU Listing Act und gestaffelte Anwendung berücksichtigen. Sanktion und Verfahrensrecht gesondert zuordnen.
 
-Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+## 4. Rechtsprechung als Entscheidungshilfe
 
-## 5. Rechtsprechung und Quellenstatus
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
 
-5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+1. [EuGH, Urteil vom 28.06.2012, C-19/11, Geltl, EU:C:2012:397, Rn. 38–40, 49–56](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62011CJ0019). **Anwendung:** Bei mehrstufigen Vorhaben Zwischenschritte auf eigene Präzision prüfen; realistische Erwartung anhand vorhandener Tatsachen bestimmen, nicht durch große Kurswirkung eine beliebig geringe Wahrscheinlichkeit ausgleichen. **Grenze:** Entscheidung zu Vorgängerrichtlinien; keine unmittelbare Aussage zu den seit Juni/Juli 2026 geänderten Veröffentlichungspflichten nach Artikel 17 MAR.
 
-5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-23.
 
-## 6. Beweislast und Gegenangriff
+2. [EuGH, Urteil vom 11.03.2015 – C-628/13, Lafonta](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?from=EN&uri=CELEX%3A62013CA0628). **Anwendung:** Bei der Präzisionsprüfung nicht zusätzlich verlangen, dass bereits die Richtung einer möglichen Kursreaktion feststeht. **Grenze:** Tenor zur früheren Marktmissbrauchsrichtlinie; heutigen MAR-Normtext, Informationsbegriff und Anwendungstermin gesondert prüfen. Keine Aussage, dass jede vage Information präzise wäre.
 
-Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+   **Quellenstatus:** Am 18.11.2026 amtliche Tenorveröffentlichung im EUR-Lex-Suchindex gelesen; direkter Abruf durch Bot-Schutz gesperrt. Keine Volltextprüfung der Gründe.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+3. [EuGH, Urteil vom 23.12.2009 – C-45/08, Spector Photo Group](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62008CA0045). **Anwendung:** Bei Handel unter Informationsbesitz Nutzung und mögliche Widerlegung konkret untersuchen; Verteidigungsrechte in der Beweiswürdigung erhalten. **Grenze:** Frühere Richtlinie und deren Nutzungsvermutung; keine unwiderlegliche Schuldvermutung und keine ungeprüfte Übertragung auf heutige strafrechtliche Anforderungen.
 
-## 7. Prüffolge
+   **Quellenstatus:** Am 18.11.2026 amtliche Tenorveröffentlichung 2010/C 51/09, PDF-S. 1–2, gelesen. Kein Volltext der Entscheidungsgründe.
 
-7.1. Welche konkrete Information bestand zu welchem Zeitpunkt in welcher Präzision.
-7.2. Warum wäre sie für einen verständigen Anleger erheblich oder nicht erheblich.
-7.3. Wer kannte die Information wann und welche Handlung folgte daraus.
-7.4. Sind Veröffentlichung oder Aufschub vollständig begründet und dokumentiert.
-7.5. Welche Meldungs-, Listen-, Handelsverbots- oder Aufsichtsfolge läuft.
+## 5. Beweis, Gegenposition und Fristen
 
-## 8. Juristisches Schreiben
+Informationsqualität, Kenntniszeitpunkt und Verhalten sind einzeln zu belegen. Aus einem Handelsgeschäft folgt keine unwiderlegliche Schuldvermutung. Verwaltungs-, Zivil- und Strafverfahren haben unterschiedliche Beweismaßstäbe; die alte unionsrechtliche Nutzungsvermutung ersetzt weder heutige MAR-Prüfung noch Verteidigungsrechte.
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Information, Person und Handlung, Ad-hoc-Entscheidung, Kontrollen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Für jede tragende Aussage die Datei und genaue Stelle, beim Zeugen das Beweisthema und bei Berechnungen Eingaben und Rechenweg nennen. Gegenposition anhand derselben Belege fair prüfen. Fristbeginn, Fristdauer, Form, Adressat und nachgewiesenen Zugang getrennt erfassen; eine fehlende Tatsache nur an der entscheidenden Stelle nachfordern.
 
-## 9. Ausgabemodi
+## 6. Fertige Fassung und Abschlussprüfung
 
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+Liefere begründeten Ad-hoc-/Aufschubvermerk mit vollständigem Meldungsentwurf, Entscheidungsträger, Zeitachse und erneuter Prüfung bei Zustandsänderung. Ergebnis oder bestimmter Antrag zuerst, danach konkrete Tatsachen, tragende Rechtsregel, Subsumtion, Gegenposition und Antwort. Haupt- und Hilfslinie nur soweit sachlich erforderlich. Vollständige Sätze und ein unmittelbar weiterverwendbarer Text; keine leeren Vorlagen oder bloßen Skill-Empfehlungen.
 
-## 10. Qualitätskontrolle
-
-10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt verwendbar?
+Prüfe Namen, Rolle, Zuständigkeit, Gesetzesfassung, Frist, Form, Beträge und Anlagen auf Widerspruch. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine erfundenen Randnummern. Bei neuem Beleg denselben Entwurf fortschreiben und die dadurch geänderte Rechtsfolge benennen. Visualisierung nur bei verfügbarem Werkzeug; sonst verständliche Tabelle oder Textskizze. Ohne ausgeführte Handlung keine Einreichung, Freigabe oder erfolgreiche Datenübermittlung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 11. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

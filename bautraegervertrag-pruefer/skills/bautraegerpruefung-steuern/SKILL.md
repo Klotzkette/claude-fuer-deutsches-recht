@@ -1,9 +1,23 @@
 ---
 name: bautraegerpruefung-steuern
-description: "Führt Erwerber-, Bauträger-, GdWE- oder Verwalteraufträge durch Vertrags-, Raten-, Abnahme- und Mängelprüfung bis zum bestellten Schreiben, Gutachten oder Beschlussentwurf; hält Rollen, Belege und offene Freigaben auseinander."
+description: "Bauträgervertrag bis zur konkreten Prüf- und Verhandlungsfassung bearbeiten. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Bauträgerprüfung vom Auftrag bis zum fertigen Dokument
+# Bauträgervertrag bis zur konkreten Prüf- und Verhandlungsfassung bearbeiten
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Notariellen Entwurf, Baubeschreibung, Teilungserklärung, Zahlungsplan und vorhandenen Schriftwechsel gemeinsam lesen. Erwerberrolle, Beurkundungsstand und Sonder- oder Gemeinschaftseigentum bestimmen.
+
+2. Fälligkeit und MaBV-Sicherung vor Zahlung prüfen; Baufortschritt, Abnahme und Übergabe auseinanderhalten. Eine unwirksame Ratenregel nicht stillschweigend durch eine vermeintlich passende Staffel ersetzen.
+
+3. Bei Mängeln zunächst Abnahmezustand und Anspruchsinhaber klären; nur dann Fachwege zu Verjährung, Gemeinschaftseigentum, Vorschuss oder Schadensersatz laden. Tatsächliche Beseitigungskosten und fiktive Schadensberechnung unterscheiden.
+
+4. Konkrete Änderungsfassung oder Anspruchsschreiben mit Beleg, Betrag, Frist und Gegenposition erstellen; Vollzugs- und Zahlungsrisiken im selben Ergebnis priorisieren.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -73,6 +87,16 @@ Eine Tabelle, Zeitachse, Klauselgegenüberstellung oder Ratenansicht ergänzt nu
 
 - „Die Erwerberin soll morgen die Rohbaurate zahlen.“ Ergebnis: belegte Fälligkeits- und Saldenprüfung mit fertig formulierter Antwort; fehlende Freistellung gezielt nachfordern.
 - „Wir vertreten den Bauträger; die GdWE verlangt Vorschuss.“ Ergebnis: Auftrag und Prozessführungsbefugnis klären, Mangel/Frist/Abnahme prüfen und die bestellte Erwiderung formulieren, ohne in den Erwerbermodus zurückzufallen.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Urteil vom 22.12.2000, VII ZR 310/99, amtlicher Volltext S. 11–16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/1999/VII_ZR_310-99.pdf?__blob=publicationFile&v=1): Verfrühte erste Rate führte zur Unwirksamkeit des gesamten Zahlungsplans; MaBV-Stufen ersetzen ihn nicht automatisch. **Grenze:** Vertrag von 1994 und damalige Rechtslage; heutige Fälligkeit zusätzlich nach Paragraf 650v BGB und Paragraf 1 AbschlagsV prüfen, keine automatische Gesamtrückzahlung.
+
+- [BGH, Beschluss vom 12.09.2013, VII ZR 308/12, Rn. 6–11](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2012/VII_ZR_308-12.pdf?__blob=publicationFile&v=1): Formularmäßige Abnahmevollmacht für bauträgerbestimmten Erstverwalter wegen ungesicherter Neutralität beanstanden; bloße Widerruflichkeit genügt nicht. **Grenze:** Kein Verbot jeder unabhängigen Vertreterabnahme oder der Verwalterbestellung; eigene Abnahme und Verjährung gesondert prüfen.
+
+- [BGH, Urteil vom 22.02.2018, VII ZR 46/17, Rn. 31–37 und 48–54](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1): Bei behaltenem mangelhaftem Werk Beseitigungsabsicht feststellen: kein kleiner Schadensersatz nach fiktiven Beseitigungskosten, aber zweckgebundener abzurechnender Vorschuss bei geplanter Beseitigung grundsätzlich auch nach Schadensersatzwahl. **Grenze:** Werkvertragsrecht, keine allgemeine Übertragung auf Kauf oder Delikt; Anspruchsvoraussetzungen und tatsächliche Dispositionen bleiben gesondert zu prüfen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

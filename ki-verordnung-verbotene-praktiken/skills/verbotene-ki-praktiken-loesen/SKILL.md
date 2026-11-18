@@ -1,9 +1,17 @@
 ---
 name: verbotene-ki-praktiken-loesen
-description: "Führt die vollständige Artikel-5-Prüfung: System und Stichtag, passende Verbotsmerkmale, belegte Ausnahmen, Entscheidungsvorlage, konkrete Nachfragen und anschließende Korrekturmaßnahmen."
+description: "Verbotene KI-Praktiken anhand der tatsächlichen Wirkung prüfen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Verbotene KI-Praktiken insgesamt klären
+# Verbotene KI-Praktiken anhand der tatsächlichen Wirkung prüfen
+
+Rekonstruiere Funktion, Ziel, betroffene Personen, Einsatzort, Datenarten und mögliche Folgen anhand von Produktunterlagen und realem Nutzungsvorgang.
+
+**Entscheidung im Arbeitsablauf:** Prüfe jede naheliegende Verbotsalternative mit ihren eigenen Merkmalen und Ausnahmen. Trenne bloßes Risiko, verbotenes Verhalten und möglicherweise zulässigen Hochrisikoeinsatz.
+
+**Bis zum Ergebnis weiterarbeiten:** Erstelle die bestellte Stoppeinschätzung, Umgestaltung oder begründete Freigabevorlage mit genau benannter Funktion und erforderlichen Nachweisen. Eine andere Nutzergruppe oder biometrische Funktion kann den Verbotsbefund ändern; eine organisatorische Zusage ersetzt keine tatsächliche Begrenzung des Systems.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

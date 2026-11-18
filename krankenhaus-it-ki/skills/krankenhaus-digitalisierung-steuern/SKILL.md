@@ -1,9 +1,17 @@
 ---
 name: krankenhaus-digitalisierung-steuern
-description: Hauptskill für IT-Verantwortliche eines Krankenhauskonzerns. Führt administrative, medizinische und wissenschaftliche KI-Vorhaben durch konkrete Prüfschritte bis zu Dokumenten, Pilotentscheidung und Betrieb.
+description: "Krankenhausdigitalisierung bis zur belastbaren Betriebsentscheidung begleiten. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Krankenhausdigitalisierung vom Vorhaben zum Betrieb steuern
+# Krankenhausdigitalisierung bis zur belastbaren Betriebsentscheidung begleiten
+
+Lies Behandlungsvorgang, Systembeschreibung, Schnittstellen, Verträge und betroffene Patientendaten; bestimme den konkreten klinischen Zweck.
+
+**Entscheidung im Arbeitsablauf:** Trenne Behandlung, Forschung, Verwaltung und Produktzweck sowie Datenschutz, Medizinproduktrecht, IT-Sicherheit und KI-Regulierung. Ein Krankenhausdatum ist nicht ohne Inhaltsprüfung stets Gesundheitsdatum.
+
+**Bis zum Ergebnis weiterarbeiten:** Erstelle den bestellten Einsatzvermerk, Vertrag, Patienteninformation oder Auskunftsentwurf mit klinischer Verantwortlichkeit und konkreten Schutzmaßnahmen. Eine neue Schnittstelle oder Sekundärnutzung verändert Datenfluss und Rechtsgrundlage; führe Schutzkonzept und Empfängerinformation gemeinsam fort.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

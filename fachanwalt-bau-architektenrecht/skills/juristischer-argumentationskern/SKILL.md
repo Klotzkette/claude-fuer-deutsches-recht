@@ -1,9 +1,9 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Fachanwalt Bau Architektenrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Bau- und Architektenstreit bis zum Anspruchs- oder Abwehrentwurf führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Juristischer Argumentationskern - Fachanwalt Bau Architektenrecht
+# Bau- und Architektenstreit bis zum Anspruchs- oder Abwehrentwurf führen
 
 ## 1. Direktstart
 
@@ -13,20 +13,19 @@ Gleiche Vertrag, Leistungsstand, Abnahme- und Mängelbelege ab. Führe die Posit
 1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
-## 2. Die tragende These
+## 2. Vom Aktenstand zum fertigen Ergebnis
 
-Formuliere das Ergebnis für Fachanwalt Bau Architektenrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung.
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1. Vertrag, Leistungsbild, Planstände, Behinderungsanzeigen, Abnahme und Rechnungen zeitlich ordnen; Bauherr, Unternehmer und Planer mit ihren jeweiligen Pflichten getrennt halten.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2. Mangel, Mengenänderung, Anordnung und Annahmeverzug unterscheiden. Anspruchsgrund, Fälligkeit und Höhe getrennt prüfen; die tatsächliche Planungs- und Koordinationspflicht aus Vertrag und Projekt ableiten.
+
+3. Nur die relevanten Fachwege für Planungshaftung, Vergütung, Bauzeit, Abnahme oder Sicherung laden. Fiktive Werkmängelkosten nicht mit Vorschuss und § 642 nicht mit vollem Umsatz gleichsetzen.
+
+4. Anspruchsschreiben, Erwiderung oder Klage mit konkreter Leistung, Beleg, Frist und Berechnung ausformulieren; Mitverantwortung und stärkste vertragliche Gegenposition beantworten.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3. Materienspezifische Tatbestandsarbeit
 
@@ -60,15 +59,15 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 5. Rechtsprechung als Entscheidungshilfe
 
-5.1. BGH, Urteil vom 22.02.2018 - VII ZR 46/17: fiktive Mängelbeseitigungskosten sind im Werkvertragsrecht nicht mehr als Schaden abrechenbar.
-5.2. BGH, Urteil vom 08.11.2007 - VII ZR 183/05: Architekt und Unternehmer können bei Baumangel und Überwachungsfehler gesamtschuldnerisch haften.
-5.3. BGH, Urteil vom 24.01.2008 - VII ZR 280/05: Bedenkenhinweis muss rechtzeitig, inhaltlich klar und adressatengerecht erfolgen.
-5.4. BGH, Urteil vom 10.10.2013 - VII ZR 19/12: Eine formularmäßige Verkürzung der Verjährung von Mängelansprüchen gegen Architekten auf zwei Jahre ab Abnahme ist unwirksam; eine Teilabnahme folgt nicht schon aus einer Vertragsklausel, nach der die Verjährung mit Abnahme der letzten Unternehmerleistung beginnt.
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+- [BGH, Urteil vom 30.01.2020, VII ZR 33/19, Rn. 38–42 und 47–58](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR__33-19.pdf?__blob=publicationFile&v=1): Bei fehlender Bestellermitwirkung Anspruchsgrund ohne zusätzlichen Kostennachteil, Höhe nach konkreter unproduktiver Vorhaltung und Vergütungsanteilen; möglicher Ersatzauftrag muss kein echter Füllauftrag sein. **Grenze:** Keine vollständige Umsatzkompensation und keine späteren Lohn-/Materialmehrkosten; Abwägung statt Kündigungsabrechnung, Annahmeverzug gesondert nachzuweisen.
+
+- [BGH, Urteil vom 22.02.2018, VII ZR 46/17, Rn. 31–37 und 48–54](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1): Bei behaltenem mangelhaftem Werk Beseitigungsabsicht feststellen: kein kleiner Schadensersatz nach fiktiven Beseitigungskosten, aber zweckgebundener abzurechnender Vorschuss bei geplanter Beseitigung grundsätzlich auch nach Schadensersatzwahl. **Grenze:** Werkvertragsrecht, keine allgemeine Übertragung auf Kauf oder Delikt; Anspruchsvoraussetzungen und tatsächliche Dispositionen bleiben gesondert zu prüfen.
+
+- [BGH, Urteil vom 15.01.2026, VII ZR 119/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1): Ausführungsplaner muss Vorplanung zumutbar prüfen und Bedenken an Besteller richten; Zurechnung fremder Planungs-/Koordinationsbeiträge nach konkreter Mitwirkung. **Grenze:** Verträge 2009/2010 und damalige HOAI; keine automatische Phasenhaftung oder pauschale Quote.
 
 ## 6. Beweislast und Gegenangriff
 
@@ -79,14 +78,11 @@ Ausgangspunkt für dieses Plugin: Auftragnehmer für Leistung, Nachtrag und Behi
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Ergebnis fortführen und abschließen
 
-7.1. Welches Vertragssoll ist beweisbar vereinbart.
-7.2. Ist abgenommen oder abnahmereif.
-7.3. Welche Mängelrechte sind nach Fristsetzung eröffnet.
-7.4. Welche Bauzeit- oder Nachtragsfolge ist kausal belegt.
-7.5. Welche technische Frage muss ein Sachverständiger klären.
-7.6. Welche Festsetzung oder städtebauliche Vertragsbindung begrenzt Planung, Genehmigung oder Kostenweitergabe.
+7.1. Die Entscheidung aus Abschnitt 2 mit der folgenden Fachprüfung und den belegten Aktenangaben zusammenführen. Neu gelieferte Tatsachen ersetzen die betroffene Annahme; Berechnung, Antrag und Folgeabschnitte derselben Fassung anschließend aktualisieren.
+7.2. Im fertigen Produkt je tragendem Punkt Rechtsregel, konkrete Tatsache, Beleg, Beweislast beziehungsweise Ermittlungsauftrag, stärkste Gegenposition und Antwort verbinden. Fristbeginn, Ereignis, Fristart und erforderliche Handlung ausdrücklich unterscheiden.
+7.3. Das verlangte Schreiben, den Vertrag, Schriftsatz, Entscheidungsentwurf oder Vermerk vollständig ausformulieren. Nur tatsächlich entscheidungserhebliche Restlücken außerhalb des Empfängertexts als konkrete nächste Aufgabe kennzeichnen.
 
 ## 8. Juristisches Schreiben
 

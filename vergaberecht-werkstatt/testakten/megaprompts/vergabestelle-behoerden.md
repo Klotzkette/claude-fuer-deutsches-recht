@@ -66,7 +66,7 @@ Schwellenwerte 2026/2027 nicht als ungeordnete Verordnungsliste behandeln: Deleg
 
 Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten; weitere Pluginskills bleiben über das Routing erreichbar.
 
-- `vergabe-os-master-orchestrator`: Primärer Kaltstart ohne Skillwahl für jeden neuen Vergabestellenfall mit Ordner, ZIP, mehreren Dateien oder Systemexport.
+- `vergabe-os-master-orchestrator`: Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen.
 - `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing`: Ein einzelnes Dokument oder eine konkrete Frage schnell einordnen: Rolle, Stand, rote Frist, Rechtsregime, Fundstelle, Output-Weiche und nächstes Spezialmodul.
 - `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing`: Orientiert die Vergabestelle ohne Unterlagen: klärt Rolle, Bedarf, Phase, Auftraggeber- und Auftragsart, Regime, Rechtsweg, Zuständigkeit, mögliche rote Frist und nächsten Output.
 - `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: workflow-fristen-und-risikoampel`: Auf Auftraggeberseite: Fristen- und Risikoampel für Vergabeverfahren erstellen: Rüge, Angebotsfrist, Stillhaltefrist, Nachprüfung, OLG-Beschwerde, Zuständigkeit und Sofortmaßnahme.
@@ -90,7 +90,7 @@ Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten;
 
 ## Inhaltsverzeichnis
 
-1. `vergabe-os-master-orchestrator` - Vergabestellen-Cockpit: sichert Verfahren, Fristen, Unterlagen, Wertung, Rechtsschutz und Veröffentlichung. - Primärer Kaltstart ohne Skillwahl für jeden neuen Vergabestellenfall mit Ordner, ZIP, mehreren Dateien.
+1. `vergabe-os-master-orchestrator` - Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen - Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen.
 2. `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: workflow-kaltstart-und-routing` - Kaltstart und Routing - Schnelltriage der Vergabestelle für ein einzelnes Dokument oder eine konkrete Frage: bestimmt Rolle, Phase.
 3. `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: einstieg-routing` - Einstieg und Routing - Orientiert die Vergabestelle ohne Unterlagen: klärt Rolle, Bedarf, Phase, Auftraggeber- und Auftragsart, Regime.
 4. `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: workflow-fristen-und-risikoampel` - Fristen- und Risikoampel - Auf Auftraggeberseite: Fristen- und Risikoampel für Vergabeverfahren erstellen: Rüge, Angebotsfrist, Stillhaltefrist.
@@ -114,11 +114,11 @@ Die folgenden Fachmodule sind in diesem Ein-Datei-Prompt vollständig enthalten;
 
 ---
 
-## Arbeitsmodul: Vergabestellen-Cockpit: sichert Verfahren, Fristen, Unterlagen, Wertung, Rechtsschutz und Veröffentlichung.
+## Arbeitsmodul: Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen
 
-_Primärer Kaltstart ohne Skillwahl für jeden neuen Vergabestellenfall mit Ordner, ZIP, mehreren Dateien oder Systemexport. Immer zuerst einsetzen, wenn die Aufgabe noch nicht eng abgegrenzt ist. Sichert Fristen und Regime, ordnet Quellen, LV, Bestangebot, Upload und Rechtsschutz und routet danach gezielt zu höchstens drei Fachskills._
+_Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen._
 
-### Vergabestellen-Cockpit: sichert Verfahren, Fristen, Unterlagen, Wertung, Rechtsschutz und Veröffentlichung.
+### Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen
 
 **Arbeitsname:** Neuer Vergabestellenfall automatisch vorbereiten, ordnen und in den ersten Behördenoutput führen.
 
@@ -352,6 +352,16 @@ Wenn vorhandene Datenquellen Bedarf, Priorisierung, Bündelung, LV, Budget oder 
 - `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: bieterfragen-antworten-management`, `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 22-ruegeerwiderung`, `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 23-stellungnahme-vergabekammer`, `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 26-akteneinsicht-vergabekammer` und `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 24-vorlage-an-den-vergabesenat` für Rüge, VK, Akteneinsicht, OLG und Vergleichslage.
 - `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: markterkundung-und-vorbefassung`, `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: losbildung-mittelstandsfoerderung`, `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: rahmenvereinbarung-abrufe-mini-wettbewerb` und `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: inhouse-interkommunal` für Vorbereitung, Bündelung und Beschaffungsstruktur.
 - `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: uvgo-unterschwellenvergabe`, `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: sektorenvergabe-sektvo`, `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: konzessionsvergabe-konzvgv` und `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: vob-a-bauvergabe` für Sonderregime.
+
+#### Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der Entscheidungskarte beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtlicher Leitsatz a.: Der Preisabstand im kuenstlichen Fall begruendet zusammen mit der Schaetzung einen konkreten Aufklaerungsbedarf, nicht einen automatischen Ausschluss. **Grenze:** Nur amtliche Leitsaetze im Suchindex gelesen; direkter BGH-Volltextabruf scheiterte mit HTTP 403. Keine feste gesetzliche Prozentschwelle oder vollstaendige Uebertragung auf heutige Sonderregime behauptet.
+
+- EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.: Die Behoerde begruendet Geheimhaltungsbedarf je Aktenteil und erhaelt den streiterheblichen wesentlichen Informationsgehalt fuer den Rechtsschutz. **Grenze:** Nur amtliche Pressezusammenfassung, nicht bindend und kein gepruefter Urteilsvolltext. Die Kammerentscheidung ueber konkrete Akteneinsicht wird nicht vorweggenommen.
+
+- EuGH, Urteil vom 29.03.2012 - C-599/10: Amtlicher Text, Rn.40-44 zur Angebotsklarstellung. **Grenze:** Frühere Richtlinie und nichtoffenes Dienstleistungsverfahren; heutige VOB/A eigenständig.
 
 ---
 

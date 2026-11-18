@@ -1,0 +1,91 @@
+{
+  "method": "scoped_primary_source_review",
+  "date": "2026-11-18",
+  "limits": "Nur bezeichnete Passagen. EUR-Lex-Abrufsperren nicht als erfolgreicher Volltextnachweis gewertet. Historische Quellenprotokolle unverändert.",
+  "sources": [
+    {
+      "id": "US-FOURTH-ESTATE",
+      "url": "https://www.supremecourt.gov/opinions/18pdf/17-571_e29f.pdf",
+      "citation": "Supreme Court, Opinion vom 04.03.2019, No. 17–571, Fourth Estate v. Wall-Street.com",
+      "passages": "Opinion Seiten 1–7, insbesondere II.A",
+      "status": "tragende_passagen_gelesen",
+      "application": "Behördliche Registrierung beziehungsweise gesonderter Ablehnungsfall statt bloßer Antragseinreichung für regulären Zugang nach Section 411(a).",
+      "limit": "Gesetzliche Ausnahmen und US-work-Einordnung gesondert; keine vollständige Prüfung aller späteren Entscheidungen.",
+      "checked_on": "2026-11-18"
+    },
+    {
+      "id": "US-TITLE17-CH4",
+      "url": "https://www.copyright.gov/title17/92chap4.html",
+      "citation": "17 U.S.C. Chapter 4, Sections 407–412",
+      "passages": "Sections 407, 408(a)–(c), 409, 410–412",
+      "status": "normpassagen_gelesen",
+      "application": "Schutzentstehung, Deposit, Registrierung, Klagezugang und Rechtsfolgen trennen.",
+      "limit": "Keine Prüfung der aktuellen Gebühren, aller Antragsformate oder sämtlicher Ausnahmen.",
+      "checked_on": "2026-11-18"
+    },
+    {
+      "id": "BGG-11",
+      "url": "https://www.gesetze-im-internet.de/bgg/__11.html",
+      "citation": "§ 11 BGG",
+      "passages": "Absätze 1–4",
+      "status": "normtext_gelesen",
+      "application": "Adressatenbezogene Sollregel, Erläuterung auf Verlangen und gestufter Bedarf für Leichte Sprache.",
+      "limit": "Keine pauschale Pflicht, sämtliche Bescheide vollständig neu zu verfassen.",
+      "checked_on": "2026-11-18"
+    },
+    {
+      "id": "SGBI-14",
+      "url": "https://www.gesetze-im-internet.de/sgb_1/__14.html",
+      "citation": "§ 14 SGB I",
+      "passages": "vollständige Einzelnorm",
+      "status": "normtext_gelesen",
+      "application": "Beratung über Rechte und Pflichten durch zuständigen Leistungsträger.",
+      "limit": "Nicht mit § 43 SGB I über vorläufige Leistungen verwechseln.",
+      "checked_on": "2026-11-18"
+    },
+    {
+      "id": "DSGVO-AUTOMATISIERUNG",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2025-02/cp250022de.pdf",
+      "citation": "EuGH, Urteil vom 27.02.2025, C-203/22, Dun & Bradstreet Austria",
+      "passages": "amtliche Pressemitteilung 22/25, beide Seiten",
+      "status": "nur_pressemitteilung_gelesen",
+      "application": "Verständliche Information über tatsächlich angewandtes Verfahren und personenbezogene Daten; Geheimnisse und Drittdaten verlangen Abwägung.",
+      "limit": "Pressemitteilung, kein neuer Volltextnachweis und keine daraus gewonnenen Randnummern.",
+      "checked_on": "2026-11-18"
+    },
+    {
+      "id": "BGH-DATENSCHADEN",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2025-05/vi_zr__10-24a.pdf",
+      "citation": "BGH, Urteil vom 18.11.2024, VI ZR 10/24",
+      "passages": "Tenor, Sachverhalt, Rn. 15–23 in der amtlich bei Curia bereitgestellten Kopie",
+      "status": "tragende_passagen_gelesen",
+      "application": "Verstoß, Schaden und Kausalität getrennt belegen; Verschulden nach Art. 82 Abs. 3 DSGVO unterscheiden.",
+      "limit": "Keine heutige Volllektüre sämtlicher 44 Seiten.",
+      "checked_on": "2026-11-18"
+    },
+    {
+      "plugin": "datenschutzrecht",
+      "citation": "EuGH, Urteil vom 05.11.2026 – C-205/25",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?cid=1268955&dir=&docid=316753&doclang=DE&mode=req&occ=first&pageIndex=0&part=1&text=",
+      "checked_on": "2026-11-18",
+      "application": "Bei Beschwerden ist auch die Aufsichtsbehörde Verantwortliche. Datenbezogene Auskunft von allgemeiner Akteneinsicht trennen; Drittdaten möglichst gezielt schwärzen statt pauschal abzulehnen.",
+      "scope": "Rn. 29–47, 58–59 und 67–69 sowie Tenor im amtlichen Text gelesen; 18.11.2026. Keine allgemeine Vollaktenfreigabe."
+    },
+    {
+      "plugin": "datenschutzrecht",
+      "citation": "EuGH, Urteil vom 19.03.2026 – C-526/24, Brillen Rottler",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?cid=4531354&dir=&docid=310078&doclang=DE&mode=req&occ=first&pageIndex=0&part=1&text=",
+      "checked_on": "2026-11-18",
+      "application": "Auch der erste Antrag kann missbräuchlich sein. Die Zahl der Anträge allein trägt die Ablehnung nicht; konkrete Missbrauchstatsachen und Schadensnachweis unterscheiden.",
+      "scope": "Amtliche Zusammenfassung gelesen, kein neuer Volltextnachweis; 18.11.2026. Ein ungewöhnlicher Antrag oder die Forderung nach Ersatz rechtfertigt nicht für sich die Verweigerung."
+    },
+    {
+      "plugin": "datenschutz-sanktionsverfahren-verteidigung",
+      "citation": "EuGH, Urteil vom 10.02.2026 – C-97/23 P, WhatsApp Ireland/EDSA",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-02/cp260011de.pdf",
+      "checked_on": "2026-11-18",
+      "application": "Bei verbindlichem EDSA-Beschluss zusätzlich den unionsgerichtlichen Rechtsschutz prüfen. Nationale Endentscheidung und unmittelbar betreffenden EDSA-Beschluss getrennt zuordnen.",
+      "scope": "Amtliche Pressemitteilung 11/26 vollständig gelesen; 18.11.2026. Zulässigkeitsentscheidung mit Zurückverweisung, keine endgültige Sachentscheidung über den Datenschutzverstoß."
+    }
+  ]
+}

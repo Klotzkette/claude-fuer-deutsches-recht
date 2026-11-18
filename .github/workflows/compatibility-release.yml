@@ -17,6 +17,11 @@ on:
       - 'scripts/*skill-cap*'
       - 'scripts/data/skill-cap-registry.schema.json'
       - 'scripts/*skill-quality-release*'
+      - 'scripts/main_skill_revisions.py'
+      - 'scripts/package_link_revisions.py'
+      - 'scripts/test-main-skill-revisions.py'
+      - 'scripts/test-package-link-revisions.py'
+      - 'quality/hauptskills-2026-11-18/**'
       - 'scripts/test-skill-registry-preparation.py'
       - 'scripts/add-finale-entscheidung-skill.py'
       - 'scripts/test-final-decision-generator.py'
@@ -106,6 +111,7 @@ jobs:
           python3 scripts/validate-yaml-frontmatter.py
           python3 scripts/validate-runtime-performance.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
+          python3 scripts/main_skill_revisions.py
           python3 scripts/audit-prompt-profile-routing.py
           python3 scripts/sync-werkstatt-visualisierung.py --check
           python3 scripts/validate-manufacturer-plugins.py
@@ -115,6 +121,8 @@ jobs:
           python3 scripts/test-skill-cap-migration.py
           python3 scripts/test-skill-cap-integration.py
           python3 scripts/test-skill-quality-release.py
+          python3 scripts/test-main-skill-revisions.py
+          python3 scripts/test-package-link-revisions.py
           python3 scripts/test-skill-registry-preparation.py
           python3 scripts/test-final-decision-generator.py
           python3 scripts/test-plugin-consolidation.py

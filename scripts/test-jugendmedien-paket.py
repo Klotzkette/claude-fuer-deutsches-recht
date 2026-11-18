@@ -17,10 +17,12 @@ import importlib.util
 import io
 import json
 from pathlib import Path
+import re
 import shutil
 import sys
 import tempfile
 import unittest
+from urllib.parse import parse_qs, urlparse
 import zipfile
 
 
@@ -44,6 +46,11 @@ REFERENCES = {
     "references/fallpruefung.md",
     "references/zitierweise.md",
     "references/arbeitsoberflaeche-und-visualisierung.md",
+}
+PROMPT_SNAPSHOTS = {
+    f"{NAME}-{kind}.{ext}"
+    for kind in ("werkstatt", "schnellstart")
+    for ext in ("md", "txt")
 }
 
 
@@ -94,7 +101,6 @@ class JugendmedienPaketTests(unittest.TestCase):
     def expected_sources(self) -> dict[str, Path]:
         # Unabhängig von source_files/package_path: Ein versehentlich erweitertes
         # Ausschlussmuster des Builders darf fehlende Referenzen nicht legitimieren.
-        prompt_names = set(self.scope["plugins"][0]["prompts"])
         excluded = {".git", ".venv", "node_modules", "__pycache__", "testakte", "testakten"}
         files = {
             p.relative_to(PLUGIN).as_posix(): p
@@ -103,7 +109,7 @@ class JugendmedienPaketTests(unittest.TestCase):
             and not excluded.intersection(p.relative_to(PLUGIN).parts)
             and p.name not in {"CLAUDE.md", ".DS_Store"}
             and p.suffix != ".pyc"
-            and p.relative_to(PLUGIN).as_posix() not in prompt_names
+            and p.relative_to(PLUGIN).as_posix() not in PROMPT_SNAPSHOTS
         }
         for filename in ("LICENSE", "LICENSE-APACHE", "LICENSE-MIT", "NOTICE"):
             if filename not in files and (ROOT / filename).is_file():
@@ -135,15 +141,85 @@ class JugendmedienPaketTests(unittest.TestCase):
             self.assertFalse(any(set(Path(name).parts) & {"testakte", "testakten"} for name in native.namelist()))
 
     def test_prompt_snapshots_remain_separate_and_byte_exact(self):
-        prompts = self.scope["plugins"][0]["prompts"]
-        self.assertEqual(set(prompts), {f"{NAME}-{kind}.{ext}" for kind in ("werkstatt", "schnellstart") for ext in ("md", "txt")})
-        for filename in prompts:
-            self.assertEqual((self.dist / filename).read_bytes(), (PLUGIN / filename).read_bytes())
+        plugin_scope = self.scope["plugins"][0]
+        prompts = set(plugin_scope["prompts"])
+        preserved = plugin_scope.get("preserved_prompts", {})
+        self.assertFalse(prompts & set(preserved))
+        self.assertEqual(prompts | set(preserved), PROMPT_SNAPSHOTS)
+        self.assertEqual(set(self.report["prompts"]), prompts)
+        for filename in PROMPT_SNAPSHOTS:
+            with self.subTest(prompt=filename):
+                data = (PLUGIN / filename).read_bytes()
+                digest = hashlib.sha256(data).hexdigest()
+                if filename in preserved:
+                    self.assertEqual(preserved[filename], digest)
+                    self.assertFalse((self.dist / filename).exists())
+                else:
+                    self.assertEqual((self.dist / filename).read_bytes(), data)
+                    self.assertEqual(self.report["prompts"][filename], digest)
         for kind in ("werkstatt", "schnellstart"):
-            self.assertEqual((self.dist / f"{NAME}-{kind}.md").read_bytes(), (self.dist / f"{NAME}-{kind}.txt").read_bytes())
-        self.assertEqual(set(p.name for p in self.dist.iterdir()), set(prompts) | {
+            self.assertEqual((PLUGIN / f"{NAME}-{kind}.md").read_bytes(), (PLUGIN / f"{NAME}-{kind}.txt").read_bytes())
+        self.assertEqual(set(p.name for p in self.dist.iterdir()), prompts | {
             f"{NAME}.zip", f"{NAME}-portable.zip", RELEASE.REPORT, RELEASE.CHECKSUMS,
         })
+
+    def test_all_four_prompt_download_routes_remain_available_in_readme(self):
+        # Die bestehende separate Publikation erfolgt über download.html, nicht
+        # über das neue Plugin-ZIP. Dies prüft die belegten öffentlichen Routen;
+        # eine erfolgreiche Netzabfrage wird damit nicht behauptet.
+        links = re.findall(r"\]\(([^)]+)\)", (PLUGIN / "README.md").read_text())
+        published_paths = set()
+        for target in links:
+            url = urlparse(target)
+            if (url.scheme, url.netloc, url.path) == (
+                "https", "klotzkette.github.io", "/claude-fuer-deutsches-recht/download.html"
+            ):
+                published_paths.update(parse_qs(url.query).get("path", []))
+        self.assertTrue({f"{NAME}/{filename}" for filename in PROMPT_SNAPSHOTS} <= published_paths)
+
+    def test_preserved_snapshot_loss_hash_mismatch_and_changed_source_are_rejected(self):
+        # Eigene kleine Scope-Fixture: Keine Produktdatei wird manipuliert und
+        # aktuelle Paketversionen beeinflussen nicht die vier Prompt-Negativfälle.
+        for mutation in ("missing", "hash", "changed-source", "duplicate"):
+            with self.subTest(mutation=mutation), tempfile.TemporaryDirectory(dir=self.base) as folder:
+                root = Path(folder)
+                directory = root / NAME
+                directory.mkdir()
+                for filename in PROMPT_SNAPSHOTS:
+                    shutil.copyfile(PLUGIN / filename, directory / filename)
+                (root / ".claude-plugin").mkdir()
+                (root / ".claude-plugin/marketplace.json").write_text(json.dumps({
+                    "version": self.scope["version"],
+                    "plugins": [{"name": NAME, "source": "./" + NAME, "version": self.scope["version"]}],
+                }))
+                (root / "scripts").mkdir()
+                (root / "scripts/scoped-release-assets.json").write_text(json.dumps({
+                    "schema_version": 1,
+                    "assets": {f"{NAME}{suffix}.zip": self.scope["tag"] for suffix in ("", "-portable")},
+                }))
+                scope = copy.deepcopy(self.scope)
+                row = scope["plugins"][0]
+                row["prompts"] = []
+                row["preserved_prompts"] = {
+                    filename: hashlib.sha256((directory / filename).read_bytes()).hexdigest()
+                    for filename in PROMPT_SNAPSHOTS
+                }
+                RELEASE.validate_scope(scope, root)
+                filename = f"{NAME}-werkstatt.md"
+                if mutation == "missing":
+                    del row["preserved_prompts"][filename]
+                    error = "nicht vollständig deklariert"
+                elif mutation == "hash":
+                    row["preserved_prompts"][filename] = "0" * 64
+                    error = "muss neu veröffentlicht werden"
+                elif mutation == "changed-source":
+                    (directory / filename).write_bytes(b"Ungepruefter neuer Prompt\n")
+                    error = "muss neu veröffentlicht werden"
+                else:
+                    row["prompts"].append(filename)
+                    error = "doppelt deklarierter"
+                with self.assertRaisesRegex(ValueError, error):
+                    RELEASE.validate_scope(scope, root)
 
     def test_missing_local_source_is_rejected_before_packaging(self):
         files = self.expected_sources()

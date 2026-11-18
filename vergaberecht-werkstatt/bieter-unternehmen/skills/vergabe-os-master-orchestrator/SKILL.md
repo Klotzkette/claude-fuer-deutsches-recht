@@ -1,13 +1,27 @@
 ---
 name: vergabe-os-master-orchestrator
-description: 'Primärer Kaltstart ohne Skillwahl für jeden neuen Bieterfall mit Vergabeordner, ZIP, mehreren Dateien oder Portalexport. Immer zuerst einsetzen, wenn die Aufgabe noch nicht eng abgegrenzt ist. Sichert Abgabe- und Rügefristen, ordnet LV, Nachweise, Freeze, Upload und Rechtsschutz und routet danach gezielt zu höchstens drei Fachskills.'
+description: "Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Bieter-Cockpit: prüft Unterlagen, Formate, Fristen, Angebotsabgabe, Rüge, VK-Antrag und OLG-Strategie.
+# Bieterinteressen durch das Vergabeverfahren bis zum konkreten Schreiben führen
 
 **Arbeitsname:** Neuer Bieterfall automatisch vorbereiten, Angebotsfähigkeit prüfen und nächsten Bieteroutput bauen.
 
 <!-- BEGIN output-format-block (autogen) -->
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Bekanntmachung, aktuelle Unterlagen, Fragen und Mitteilungen auslesen; Bieterrolle, Auftragstyp, Regime, Verfahrensbeginn und Abgabestand festhalten.
+
+2. Teilnahmefähigkeit, Angebotserfüllung und strategisch relevante Wertung getrennt bearbeiten. Eine erkennbare diskriminierende Vorgabe rechtzeitig als Frage oder Rüge behandeln, statt auf späteren Ausschluss zu warten.
+
+3. Bei Niedrigpreis, Eignungsleihe, Aufklärung oder Ausschluss den passenden bestehenden Fachweg öffnen. Nachgereichte Erklärung darf die Identität des Angebots und die ursprüngliche Eignung nicht unzulässig verändern.
+
+4. Das bestellte Angebotsschreiben, die Aufklärungsantwort oder Rüge vollständig schreiben; Auswirkungen auf Zuschlagschance, Fristen und Belegbedarf im selben Ergebnis fortführen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## Output-Format (verbindlich)
 
@@ -229,6 +243,16 @@ Kurzbild, Startbildschirm, Phasenkarte, Fristenampel, Dokumentenmatrix, Belegmat
 - `angebotsoeffnung-formfehler-preisblatt` für formale Ausschluss- und Preisblattfehler nach Angebotsabgabe.
 - `vergabekammer-termin-simulation`, `vergleichsverhandlung-strategie` und `verg-mehrparteien-konflikt-und-interessen` für Termin, Vergleich und Beigeladene.
 - `de-facto-vergabe-135-gwb-fristen` und `de-facto-vergabe-klage` für Direktauftrag, fehlende Bekanntmachung, Interimsauftrag oder wesentliche Vertragsänderung.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtliche Leitsaetze a bis c.](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1&Gericht=bgh&anz=272&nr=77591&pos=9): Die Preisantwort muss die Kalkulation belegbar erklaeren und vertrauliche Teile gesondert behandeln. Ein auffaelliger Abstand kann eine Pruefung ausloesen, ist aber kein fertiger Ausschlussnachweis. **Grenze:** Amtliche Leitsaetze ueber den Suchindex gelesen; direkter BGH-PDF-Abruf mit HTTP 403 gescheitert. Keine Volltext- oder Randnummernverifikation. Aktuelle Rechtsfolgen separat an Paragraf 60 VgV abgeglichen.
+
+- [EuGH, Urteil vom 29.03.2012 – C-599/10](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A62010CJ0599%3AEN%3AHTML): Amtlicher Text, Rn.40–44 zur Angebotsklarstellung. **Grenze:** Frühere Richtlinie und nichtoffenes Dienstleistungsverfahren; heutige VOB/A eigenständig.
+
+- [EuGH, Urteil vom 05.04.2017 – C-298/15, ECLI:EU:C:2017:266, Rn. 68 bis 69 und 76 (Borta)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62015CJ0298): Bedingungen und Kriterien müssen klar und vorab erkennbar sein; erhebliche Änderungen verlangen eine angemessene Anpassungszeit und eine Prüfung der Publizität. **Grenze:** Der Ausgangsfall betraf einen unterschwelligen Hafenbauauftrag mit grenzüberschreitendem Interesse. Er belegt weder die Auftraggebereigenschaft einer GmbH noch die Fristen und Losausnahmen der VOB/A 2026.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 1. Verständlich arbeiten und sichtbar prüfen

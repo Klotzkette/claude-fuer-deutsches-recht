@@ -1,9 +1,9 @@
 ---
 name: berichtserstellung-steuern
-description: Steuert als Hauptproblemskill den vollständigen Zwischen- und Schlussberichtslauf. Hält Produkte, Stichtage, Fassungen, Belege, Gates, Freigaben, Fristen und Übergaben zusammen und führt zum nächsten prüfbaren Dokument.
+description: "Insolvenzbericht aus Akte und Rechnung fertigstellen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert vollständigen gerichtlichen Bericht mit nachvollziehbarer Vermögens-, Einnahmen-/Ausgaben- und Verteilungsdarstellung sowie konkreten Anträgen."
 ---
 
-# Berichtserstellung steuern
+# Insolvenzbericht aus Akte und Rechnung fertigstellen
 
 ## 1. Zweck und Anwendungsfall
 
@@ -46,6 +46,19 @@ Ordnen Sie jede Information entweder der Periode bis zum Stichtag, dem Nachlauf 
 
 ## 3. Ablauf und Checkliste
 
+**Aktenstart.** Lies Berichtsauftrag, Zeitraum, Vorbericht, Kontoauszüge, Vermögensverzeichnis, Tabelle und Verwertungsnachweise; stimme Anfangs- und Endbestände ab. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
+
+**Entscheidende Weiche.** Entscheide Eröffnungs-, Zwischen-, Schlussbericht oder Bericht bei Masseunzulänglichkeit anhand des tatsächlichen Stands. Offene wesentliche Verwertungsvorgänge lassen sich nicht durch einen als Schlussbericht bezeichneten Text erledigen.
+
+**Gezielte Vertiefung.** Bei Reserven benenne Rechtsgrund, Betrag und Verwendung; bei Masseunzulänglichkeit Schlussverfahren und Verteilung gesondert prüfen. Jede Abweichung zum Vorbericht erhält Ursache und Beleg; keine erfundene Schlussreife. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
+
+**Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
+
+**Fertigstellen und fortschreiben.** Liefere vollständigen gerichtlichen Bericht mit nachvollziehbarer Vermögens-, Einnahmen-/Ausgaben- und Verteilungsdarstellung sowie konkreten Anträgen. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
+
+**Fachliche Durchführung und bestehende Verzweigungen:**
+
+
 ### 3.1 Fachworkflow
 
 1. Bestimmen Sie das bestellte Endprodukt und zerlegen Sie es in die erforderlichen BER-Produkte. Beginnen Sie mit der Aktenroute, wenn BER-INT fehlt oder veraltet ist.
@@ -77,7 +90,7 @@ Die Übergabe ist produktgenau. Sie enthält eine Zeile je Ausgangs- und Zielpro
 
 Der Hauptskill übernimmt nur die in den Fachprodukten dokumentierten Rechtsquellen. Für Abschlussreife ist BGH, Beschluss vom 11.11.2021 – IX ZB 19/20, Rn. 12 und 14 bis 21, ein zentraler Anker mit den in der Quellenkarte beschriebenen Grenzen. Für Verteilung und Nachtrag werden nur die jeweils einschlägigen, dort verifizierten Anker übernommen. Der Hauptskill erfindet keinen zusätzlichen Rechtsprechungsnachweis.
 
-Prüfen Sie die aktuelle amtliche Fassung der einschlägigen Normen und den zeitlichen Anwendungsbereich. Verwenden Sie die [amtliche Quellenkarte](../../references/rechtsquellen.md), die [Arbeitsweise](../../references/arbeitsweise.md) sowie die [Produkt- und Gatematrix](../../references/produkte-gates-und-uebergaben.md). Für die Form der Nachweise gilt ergänzend die [Zitierweise des Repositorys](../../../references/zitierweise.md).
+Prüfen Sie die aktuelle amtliche Fassung der einschlägigen Normen und den zeitlichen Anwendungsbereich. Verwenden Sie die [amtliche Quellenkarte](../../references/rechtsquellen.md), die [Arbeitsweise](../../references/arbeitsweise.md) sowie die [Produkt- und Gatematrix](../../references/produkte-gates-und-uebergaben.md). Für die Form der Nachweise gilt ergänzend die [Zitierweise des Repositorys](../../references/zitierweise.md).
 
 Zitieren Sie eine Entscheidung nur für die in der Quellenkarte verifizierte Aussage und nennen Sie die Aussagegrenze. Prüfen Sie Gericht, Entscheidungsform, Datum, Aktenzeichen, Randnummer und amtlichen Volltext vor produktiver Verwendung erneut. Erfinden Sie keine Fundstelle und ergänzen Sie keine Literatur aus Modellwissen. Ist eine tragende Quelle nicht zugänglich, kennzeichnen Sie die Rechtsfrage als offen; Tatsachenabgleich, Rechnung und unabhängige Berichtsteile werden weiterbearbeitet.
 
@@ -120,6 +133,30 @@ Nach Freigabe des Schlussberichts geht ein Kostenbeschluss ein. Der Hauptskill i
 ### 6.3 Stichtagsgleicher Text bei abweichender Tabelle
 
 `BER-SB` und `BER-SR` tragen den 30. Juni, `BER-FQ` beruht jedoch noch auf dem gerichtlichen Tabellenstand vom 15. Mai und enthält eine später festgestellte Forderung nicht. Der Hauptskill bezeichnet nicht das ganze Paket als stichtagsgleich. Er weist die fachlich zulässige Datenasymmetrie sichtbar aus, verlangt eine Deltaüberleitung der Forderungsbasis und sperrt Quote und `BER-SVA`, bis die Folgeprodukte auf dem freigegebenen Stand neu erzeugt wurden.
+
+
+
+### 6.4. Rechtsprechung im konkreten Arbeitsschritt
+
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
+
+1. [BGH, Beschluss vom 11.11.2021, IX ZB 19/20, Rn. 12 und 14 bis 21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2020/IX_ZB__19-20.pdf?__blob=publicationFile&v=1). **Anwendung:** Abschlussreife verlangt grundsätzlich beendete Verwaltertätigkeit; laufende wesentliche Verwertung bleibt als Sperre sichtbar. **Grenze:** Kein Automatismus, wonach jeder später unerwartete Zufluss den früheren Abschluss fehlerhaft macht.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-22.
+
+2. [BGH, Beschluss vom 20.11.2014, IX ZB 16/14, Rn. 11 bis 21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZB__16-14.pdf?__blob=publicationFile&v=1). **Anwendung:** Verteilungsmasse wird nach konkreten Masseverbindlichkeiten und zulässigen Rückbehalten vollständig hergeleitet. **Grenze:** Die besondere Rückstellung des Falls ist keine allgemeine Reserveermächtigung.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-22.
+
+3. [BGH, Beschluss vom 24.03.2022, IX ZB 35/21, Rn. 7 bis 13](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZB__35-21.pdf?__blob=publicationFile&v=1). **Anwendung:** Masseunzulänglichkeit erhält eine eigene Abschlussroute außerhalb der regulären Schlussverteilung. **Grenze:** Keine pauschale Rangzuordnung jeder einzelnen Verbindlichkeit.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-22.
+
+#### 6.4.1. Beweis und Abschluss
+
+Unterscheide das Insolvenzverfahren mit § 5 InsO, die Glaubhaftmachung eines Gläubigerantrags nach § 14 InsO und einen streitigen Zivilprozess. Der Anfechtungskläger muss die anspruchsbegründenden Tatsachen darlegen und beweisen; sekundäre Darlegungslast oder Beweisvereitelung verlangen besondere Voraussetzungen. Ein außenstehender Empfänger muss fehlende Schuldnerbuchhaltung nicht generell ersetzen. Bei Organhaftung, Tabellenfeststellung und Planbestätigung gelten jeweils eigene Nachweisregeln. Rechnung, Indizienwürdigung und offene Datenlücke bleiben getrennt.
+
+Die belegten Ergebnisse in der angeforderten fertigen Fassung ausformulieren. Frist, Form, Zuständigkeit, Beträge und Anlagen gegeneinander prüfen. Eine Visualisierung nur mit tatsächlich verfügbaren Werkzeugen verwenden; andernfalls Tabelle oder Textskizze. Keine Übermittlung oder erfolgreiche Einreichung behaupten, die nicht stattgefunden hat.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

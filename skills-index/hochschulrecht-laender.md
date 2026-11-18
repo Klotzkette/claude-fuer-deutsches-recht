@@ -1,6 +1,6 @@
 # hochschulrecht-laender
 
-**8 Skills** · Stand `v445.36.0`
+**8 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../hochschulrecht-laender/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`hochschulrecht-laender-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hochschulrecht-laender/hochschulrecht-laender-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`hochschulrecht-laender-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hochschulrecht-laender/hochschulrecht-laender-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [hochschulrecht-laender.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/hochschulrecht-laender.zip) |
+| **Plugin (installierbar)** | ZIP | [hochschulrecht-laender.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/hochschulrecht-laender.zip) |
 
 ## So benutzt man einen Skill
 
@@ -29,7 +29,7 @@ English: This index lists source skills, including specialist series accessed th
 | Skill | Beschreibung | Markdown-Datei |
 | --- | --- | --- |
 | [`arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hochschulrecht-laender/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) | Hochschulrecht der Bundesländer: Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hochschulrecht-laender/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) |
-| [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hochschulrecht-laender/skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Hochschulrecht Länder ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hochschulrecht-laender/skills/juristischer-argumentationskern/SKILL.md) |
+| [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hochschulrecht-laender/skills/juristischer-argumentationskern/SKILL.md) | Hochschulvorgang bis zum begründeten Antrag bearbeiten. Verarbeitet vorhandene Unterlagen, prüft entscheidende Fachfragen und führt den Auftrag zum vollständig formulierten Ergebnis. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hochschulrecht-laender/skills/juristischer-argumentationskern/SKILL.md) |
 | [`kaltstart-triage`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hochschulrecht-laender/skills/kaltstart-triage/SKILL.md) | Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Hochschulrecht der Bundesländer. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hochschulrecht-laender/skills/kaltstart-triage/SKILL.md) |
 | [`konflikt-massnahme-und-rechtsschutz-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hochschulrecht-laender/skills/konflikt-massnahme-und-rechtsschutz-bearbeiten/SKILL.md) | Hochschulrecht der Bundesländer: Konflikt Maßnahme und Rechtsschutz: Schulische oder hochschulische Maßnahmen, Beschwerde und gerichtlichen Rechtsschutz mit Fristen führen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hochschulrecht-laender/skills/konflikt-massnahme-und-rechtsschutz-bearbeiten/SKILL.md) |
 | [`lehre-alltag-und-foerderung-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hochschulrecht-laender/skills/lehre-alltag-und-foerderung-bearbeiten/SKILL.md) | Hochschulrecht der Bundesländer: Lehre Alltag und Förderung: Unterricht, Lehre, Teilnahme, Förderung und Ausgleich nach tatsächlichem Bildungsweg bearbeiten. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hochschulrecht-laender/skills/lehre-alltag-und-foerderung-bearbeiten/SKILL.md) |

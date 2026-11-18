@@ -1,46 +1,27 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Liquiditätsplanung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Liquiditätsplanung aus Einzelbelegen bis zur Finanzierungsentscheidung erstellen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert nachrechenbaren Liquiditätsplan und ausformulierten Befund mit Basis-/Risikoszenario, Finanzierungslücke und konkreter Handlung je Fälligkeit."
 ---
 
-<!-- decimal-anchor --> <a id="juristischer-argumentationskern---liquiditätsplanung"></a>
+# Liquiditätsplanung aus Einzelbelegen bis zur Finanzierungsentscheidung erstellen
 
-# 1. Juristischer Argumentationskern - Liquiditätsplanung
+Bei Insolvenzgründen die [Prüfregeln für §§ 17–19 InsO](../../references/insolvenzpruefung.md) und die [amtliche Entscheidungskarte](../../references/rechtsprechung/INDEX.md) heranziehen. Operative Warnfarben sind keine rechtliche Freigabe.
 
-Bei einer Aussage zu Insolvenzgründen die [Prüfregeln für §§ 17–19 InsO](../../references/insolvenzpruefung.md) und die [amtliche Entscheidungskarte](../../references/rechtsprechung/INDEX.md) heranziehen. Operative Warnfarben sind keine rechtliche Freigabe; Status, Prognose, Belege und rechtliche Schlussfolgerung getrennt halten.
+## 1. Vom vorhandenen Material zum fertigen Ergebnis
 
-<!-- decimal-anchor --> <a id="direktstart"></a>
+1.1. **Aktenstart.** Stimme Konten, Kasse, OPOS, Fälligkeiten, Linien und erwartete Eingänge je Rechtsträger und Stichtag ab; ungeklärte Positionen bleiben sichtbar. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
-## 1.1. Direktstart
+1.2. **Entscheidende Weiche.** Trenne operativen Wochenplan, Dreiwochenprüfung nach § 17 InsO und längerfristige Prognose. Bilde bei dynamischer Prüfung Aktiva I/II und Passiva I/II ab; Bilanzgewinn, freie Linie und tatsächliche Abrufbarkeit sind verschiedene Größen.
 
-Gleiche Bankbestände, fällige Verbindlichkeiten und belastbare Zuflüsse stichtagsbezogen ab. Liefere den verlangten Liquiditätsstatus, Forecast oder begründeten Vermerk zu Finanzierung und Handlungsbedarf.
+1.3. **Gezielte Vertiefung.** Bei bestrittenen Schulden prüfe objektiven Bestand statt pauschalem Abschlag; bei Drittmitteln tatsächliche Verfügbarkeit statt allein Anspruchstitel; bei Rangrücktritt Statuswirkung ohne fiktiven Zufluss. Gegenläufige Krisenindizien separat würdigen. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.4. **Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
 
-Wähle die benötigte Dreiwochen- oder 13-, 26- beziehungsweise 52-Wochen-Vorschau. Verifiziere Rechtsprechung vor der Verwendung in einer aktuell abrufbaren Quelle.
+1.5. **Fertigstellen und fortschreiben.** Liefere nachrechenbaren Liquiditätsplan und ausformulierten Befund mit Basis-/Risikoszenario, Finanzierungslücke und konkreter Handlung je Fälligkeit. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
 
-<!-- decimal-anchor --> <a id="die-tragende-these"></a>
+## 2. Bedingte Fachwege und materielle Prüfung
 
-## 1.2. Die tragende These
-
-Formuliere das Ergebnis für Liquiditätsplanung in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder begründete Prüfung konkreter Zahlungen.
-
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
-
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
-
-<!-- decimal-anchor --> <a id="materienspezifische-tatbestandsarbeit"></a>
-
-## 1.3. Materienspezifische Tatbestandsarbeit
+Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
 | Prüfpunkt | Konkrete Arbeitsfrage |
 | --- | --- |
@@ -52,99 +33,75 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 <!-- decimal-anchor --> <a id="verknüpfung-mit-den-tragenden-fachskills"></a>
 
-### 1.3.1. Verknüpfung mit den tragenden Fachskills
+### 2.1. Verknüpfung mit den tragenden Fachskills
 
 Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
 
-3.1.1. [Ampel: Zahlen, Schwellenwerte und Berechnung](../ampel-zahlen-schwellenwerte-berechnung/FACHINHALT.md)
-3.1.2. [Ausgabengruppen: Fristennotiz und nächster Schritt](../ausgabengruppen-fristennotiz-naechster/FACHINHALT.md)
-3.1.3. [Fristen- und Risikoampel Liquiditätsplanung](../fristen-und-risikoampel/FACHINHALT.md)
-3.1.4. [Wochen: Fristen, Form, Zuständigkeit und Rechtsweg](../wochen-fristen-form-zustaendigkeit-rechtsweg/FACHINHALT.md)
+2.1.1. [Ampel: Zahlen, Schwellenwerte und Berechnung](../ampel-zahlen-schwellenwerte-berechnung/FACHINHALT.md)
+2.1.2. [Ausgabengruppen: Fristennotiz und nächster Schritt](../ausgabengruppen-fristennotiz-naechster/FACHINHALT.md)
+2.1.3. [Fristen- und Risikoampel Liquiditätsplanung](../fristen-und-risikoampel/FACHINHALT.md)
+2.1.4. [Wochen: Fristen, Form, Zuständigkeit und Rechtsweg](../wochen-fristen-form-zustaendigkeit-rechtsweg/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
 <!-- decimal-anchor --> <a id="normenanker"></a>
 
-## 1.4. Normenanker
+## 3. Tragende Normen fallbezogen anwenden
 
-4.1. InsO Paragraf 17: Zahlungsunfähigkeit als harte Grenze der Liquiditätsplanung.
-4.2. InsO Paragraf 18: drohende Zahlungsunfähigkeit als Sanierungs- und Planungswarnsignal.
-4.3. InsO Paragraf 19: Überschuldung bei juristischen Personen.
-4.4. StaRUG Paragraf 1: Krisenfrüherkennung und Krisenmanagement.
-4.5. GmbHG Paragraf 43: Sorgfaltspflichten der Geschäftsführung.
-4.6. AktG Paragraf 91 Absatz 2: Überwachungssystem für bestandsgefährdende Entwicklungen.
+InsO §§ 17–19 nach Stichtagsrecht: Zahlungsfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung; §§ 15a/15b für einschlägige Organpflichten. Fälligkeit, Stundung, Aufrechnung, Nachrang und Kreditabruf anhand der jeweiligen Vereinbarung prüfen; ein operativer Liquiditätspuffer ist kein gesetzlicher Grenzwert.
 
-Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+## 4. Rechtsprechung als Entscheidungshilfe
 
-<!-- decimal-anchor --> <a id="rechtsprechung-und-quellenstatus"></a>
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
 
-## 1.5. Rechtsprechung und Quellenstatus
+1. [BGH, Urteil vom 19.12.2017 – II ZR 88/16, Rn. 50–62, 68–70](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1). **Anwendung:** Passiva II in der zeitraumbezogenen Liquiditätsbilanz berücksichtigen; Konzernforderung nur bei belegtem rechtzeitigem Zufluss. Nicht die bloße Kündbarkeit als Liquidität ansetzen. **Grenze:** Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte.
 
-5.1. BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zehnprozentregel mit beiden Ausnahmen: unter zehn Prozent keine Entwarnung bei absehbarer erheblicher Vergrößerung; ab zehn Prozent regelmäßig Zahlungsunfähigkeit, sofern nicht mit an Sicherheit grenzender Wahrscheinlichkeit baldige vollständige oder nahezu vollständige Schließung und zumutbares Zuwarten feststehen.
-5.2. BGH, Urteil vom 19.12.2017 - II ZR 88/16: In der zeitraumbezogenen Liquiditätsbilanz sind auch die binnen drei Wochen neu fällig werdenden und eingeforderten Verbindlichkeiten einzubeziehen; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
-5.3. BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nicht aufgeschlüsselten und unbelegten Liquiditätsstatus zunächst einfach bestreiten; der Insolvenzverwalter muss seine Positionen nachvollziehbar belegen.
-5.4. BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Ob eine streitige Verbindlichkeit einzustellen ist, richtet sich nach der objektiven Rechtslage; ein vorläufig vollstreckbarer Titel ist bei eingeleiteter Vollstreckung in voller Nennhöhe zu passivieren.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-28.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+2. [BGH, Urteil vom 28.06.2022 – II ZR 112/21, Rn. 12–16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_112-21.pdf?__blob=publicationFile&v=1). **Anwendung:** Darlegung auch mit Stichtagsstatus und tagesgenauem Finanzplan oder aussagekräftiger Folge tagesgenauer Status. Keine starre Zahl von Stichproben und keine Abschaffung der Passiva II bei Bilanzmethode. **Grenze:** Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-28.
+
+3. [BGH, Urteil vom 23.01.2025 – IX ZR 229/22, Rn. 34–43](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1). **Anwendung:** Objektiver Bestand und Fälligkeit; Nennwert des vorläufig vollstreckbaren Titels bei Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung. Betrifft Passiva, nicht eigene Aktivforderungen. **Grenze:** Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-28.
+
+4. [BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1). **Anwendung:** BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 24–32: Tatsächlich verfügbare Drittmittel zählen auch ohne einklagbaren Anspruch gegen den Geldgeber. Frage nach Kontoauszug, Zahlweg, Betrag und Zeitpunkt; eine bloße Hoffnung genügt nicht. Über längere Zeit bis zur Eröffnung unbezahlte erhebliche Schulden im Gesamtbild würdigen, einschließlich tatsächlicher Zahlungen von Angehörigen oder verbundenen Unternehmen. Ein außenstehender Prozessgegner muss keine ihm unbekannten Schuldnerfinanzen rekonstruieren; vorgelegte Urkunden werden nicht zu seiner eigenen Wahrnehmung. Das Urteil verweist insoweit zurück und stellt Zahlungsunfähigkeit nicht abschließend fest. **Grenze:** Gezielte Ergänzung; frühere Quellenprüfdaten bleiben erhalten. Keine abschließende Insolvenzfeststellung aus IX ZR 18/25 und keine Gruppenfreigabe aus IX ZB 18/25.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-30.
+
+5. [BGH, Urteil vom 05.03.2015 – IX ZR 133/14, Rn. 15–24, 32, 35–42](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_133-14.pdf?__blob=publicationFile&v=1). **Anwendung:** Rangtiefe und vorinsolvenzliche Durchsetzungssperre am Vertrag prüfen. Forderung bleibt bestehen; kein Zufluss und keine automatische handelsbilanzielle Ausbuchung. Aufhebung nach beseitigter Insolvenzreife differenzieren. **Grenze:** Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-28.
+
+### 4.1. Weitere vorhandene Fallabgrenzungen
+
+Diese bereits vorhandenen Hinweise bleiben mit ihrem bisherigen Quellenstand erhalten; sie wurden am 18.11.2026 nur redaktionell auf Anschluss an den Workflow gelesen, nicht sämtlich neu anhand der Volltexte geprüft. Die obigen Karten konkretisieren die jeweils ausgewählten Anker.
+
+4.1.1. BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zehnprozentregel mit beiden Ausnahmen: unter zehn Prozent keine Entwarnung bei absehbarer erheblicher Vergrößerung; ab zehn Prozent regelmäßig Zahlungsunfähigkeit, sofern nicht mit an Sicherheit grenzender Wahrscheinlichkeit baldige vollständige oder nahezu vollständige Schließung und zumutbares Zuwarten feststehen.
+4.1.2. BGH, Urteil vom 19.12.2017 - II ZR 88/16: In der zeitraumbezogenen Liquiditätsbilanz sind auch die binnen drei Wochen neu fällig werdenden und eingeforderten Verbindlichkeiten einzubeziehen; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
+4.1.3. BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nicht aufgeschlüsselten und unbelegten Liquiditätsstatus zunächst einfach bestreiten; der Insolvenzverwalter muss seine Positionen nachvollziehbar belegen.
+4.1.4. BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Ob eine streitige Verbindlichkeit einzustellen ist, richtet sich nach der objektiven Rechtslage; ein vorläufig vollstreckbarer Titel ist bei eingeleiteter Vollstreckung in voller Nennhöhe zu passivieren.
+
+4.1.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+4.1.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
 <!-- decimal-anchor --> <a id="beweislast-und-gegenangriff"></a>
 
-## 1.6. Beweislast und Gegenangriff
+## 5. Beweis, Gegenposition und Fristen
 
-Ausgangspunkt für dieses Plugin: Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an.
+Unterscheide das Insolvenzverfahren mit § 5 InsO, die Glaubhaftmachung eines Gläubigerantrags nach § 14 InsO und einen streitigen Zivilprozess. Der Anfechtungskläger muss die anspruchsbegründenden Tatsachen darlegen und beweisen; sekundäre Darlegungslast oder Beweisvereitelung verlangen besondere Voraussetzungen. Ein außenstehender Empfänger muss fehlende Schuldnerbuchhaltung nicht generell ersetzen. Bei Organhaftung, Tabellenfeststellung und Planbestätigung gelten jeweils eigene Nachweisregeln. Rechnung, Indizienwürdigung und offene Datenlücke bleiben getrennt.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+Für jede tragende Aussage die Datei und genaue Stelle, beim Zeugen das Beweisthema und bei Berechnungen Eingaben und Rechenweg nennen. Gegenposition anhand derselben Belege fair prüfen. Fristbeginn, Fristdauer, Form, Adressat und nachgewiesenen Zugang getrennt erfassen; eine fehlende Tatsache nur an der entscheidenden Stelle nachfordern.
 
-<!-- decimal-anchor --> <a id="prüffolge"></a>
+## 6. Fertige Fassung und Abschlussprüfung
 
-## 1.7. Prüffolge
+Liefere nachrechenbaren Liquiditätsplan und ausformulierten Befund mit Basis-/Risikoszenario, Finanzierungslücke und konkreter Handlung je Fälligkeit. Ergebnis oder bestimmter Antrag zuerst, danach konkrete Tatsachen, tragende Rechtsregel, Subsumtion, Gegenposition und Antwort. Haupt- und Hilfslinie nur soweit sachlich erforderlich. Vollständige Sätze und ein unmittelbar weiterverwendbarer Text; keine leeren Vorlagen oder bloßen Skill-Empfehlungen.
 
-7.1. Welche Zahlungen sind heute, sieben Tage, dreißig Tage und dreizehn Wochen fällig.
-7.2. Welche Zuflüsse sind sicher, bedingt, streitig oder nur geplant.
-7.3. Welche Zahlungen dürfen aus Haftungsgründen nicht mehr ohne Prüfung geleistet werden.
-7.4. Welche Krise wird durch welchen Status belegt.
-7.5. Welche Entscheidung der Geschäftsleitung ist jetzt dokumentationspflichtig.
-
-<!-- decimal-anchor --> <a id="juristisches-schreiben"></a>
-
-## 1.8. Juristisches Schreiben
-
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Datenraum, Dreizehn-Wochen-Plan, Stressszenarien, Insolvenznähe: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
-
-<!-- decimal-anchor --> <a id="ausgabemodi"></a>
-
-## 1.9. Ausgabemodi
-
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
-
-<!-- decimal-anchor --> <a id="qualitätskontrolle"></a>
-
-## 1.10. Qualitätskontrolle
-
-10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder begründete Prüfung konkreter Zahlungen verwendbar?
+Prüfe Namen, Rolle, Zuständigkeit, Gesetzesfassung, Frist, Form, Beträge und Anlagen auf Widerspruch. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine erfundenen Randnummern. Bei neuem Beleg denselben Entwurf fortschreiben und die dadurch geänderte Rechtsfolge benennen. Visualisierung nur bei verfügbarem Werkzeug; sonst verständliche Tabelle oder Textskizze. Ohne ausgeführte Handlung keine Einreichung, Freigabe oder erfolgreiche Datenübermittlung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 2. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

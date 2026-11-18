@@ -1,9 +1,9 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in HOAI Leistungsphasen Praxis ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "HOAI-Leistung und Honorar vom Vertragsstand zur prüfbaren Abrechnung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Juristischer Argumentationskern - HOAI Leistungsphasen Praxis
+# HOAI-Leistung und Honorar vom Vertragsstand zur prüfbaren Abrechnung führen
 
 ## 1. Direktstart
 
@@ -13,20 +13,19 @@ Gleiche Planungsauftrag, Leistungsphase, tatsächlich erbrachte Leistungen und N
 1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
-## 2. Die tragende These
+## 2. Vom Aktenstand zum fertigen Ergebnis
 
-Formuliere das Ergebnis für HOAI Leistungsphasen Praxis in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Leistungsstandsmatrix, Honorarblatt, Nachtragsangebot, Bedenkenhinweis, Mängelvermerk oder Projektbericht.
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1. Vertragsdatum, vereinbartes Leistungsbild, Planungsstände, Honorarvereinbarung und Änderungsaufträge auslesen; anwendbare HOAI-Fassung ausdrücklich festlegen.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2. Geschuldete Leistung und tatsächliche Leistungserbringung vor Honorarhöhe prüfen; Leistungsphase ist keine pauschale Erfüllungsbescheinigung. Anrechenbare Kosten, Honorarzone und Teilbeauftragung belegen.
+
+3. Bei Altvertrag, Zusatzleistung, Vorplanung oder Planungsmangel den passenden Fachweg öffnen; alte Mindestsatzrechtsprechung nicht auf die HOAI 2021 übertragen.
+
+4. Honorarprüfung, Rechnungserwiderung oder Leistungsnachweis mit Rechenweg, belegten Annahmen und konkreten Einwendungen fertigstellen; offene Fachbewertung von Rechtsfolge trennen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3. Materienspezifische Tatbestandsarbeit
 
@@ -60,15 +59,15 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 5. Rechtsprechung als Entscheidungshilfe
 
-5.1. EuGH, Urteil vom 04.07.2019 - C-377/17: Die verbindlichen Mindest- und Höchstsätze der früheren HOAI verstießen gegen die Dienstleistungsrichtlinie.
-5.2. EuGH, Urteil vom 18.01.2022 - C-261/20: In einem Rechtsstreit ausschließlich zwischen Privaten muss das alte nationale Mindestsatzrecht nicht allein aufgrund des Unionsrechts unangewendet bleiben.
-5.3. BGH, Urteil vom 02.06.2022 - VII ZR 174/19: Paragraf 7 HOAI 2013 lässt sich im Altvertrag nicht gegen seinen Wortlaut richtlinienkonform umdeuten; das damalige Mindestsatzrecht blieb zwischen Privaten anwendbar.
-5.4. EuGH, Urteil vom 4. Juli 2019, C-377/17: Die verbindlichen Mindest- und Höchstsätze der damaligen HOAI verstießen gegen die Dienstleistungsrichtlinie
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+- [BGH, Urteil vom 02.06.2022, VII ZR 174/19, Rn. 17–29](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR_174-19A.pdf?__blob=publicationFile&v=1): Mindestsatzaufstockung aus HOAI-2013-Altvertrag zwischen Privaten nicht allein wegen Richtlinienverstoßes ablehnen; damalige Ausnahme und konkreten Vertrauensschutz prüfen. **Grenze:** Reiner Inlandssachverhalt zwischen Privaten; keine Übertragung auf HOAI 2021, öffentliche Auftraggeber oder fehlenden Stufenabruf.
+
+- [BGH, Urteil vom 09.11.2023, Az. VII ZR 190/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR_190-22.pdf?__blob=publicationFile&v=1): Individuelle Skontoklausel des Architekten für den Bauherrn: keine erlaubte Nebenleistung nach Paragraf 5 RDG. HOAI und Planervollmacht ersetzen keine Befugnis; Randnummern 28 bis 38. **Grenze:** Rubrum, Leitsatz und Randnummern 25 bis 40 am 26.09.2026 im amtlichen PDF gelesen. Kein Verbot sämtlicher Vergabemitwirkung. Eigene Angelegenheit, anwaltliches Mandat und technische Zusammenstellung getrennt; Erfüllungsgehilfe heilt unbefugte Verpflichtung nicht.
+
+- [BGH, Urteil vom 15.01.2026, VII ZR 119/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1): Ausführungsplaner muss Vorplanung zumutbar prüfen und Bedenken an Besteller richten; Zurechnung fremder Planungs-/Koordinationsbeiträge nach konkreter Mitwirkung. **Grenze:** Verträge 2009/2010 und damalige HOAI; keine automatische Phasenhaftung oder pauschale Quote.
 
 ## 6. Beweislast und Gegenangriff
 
@@ -79,13 +78,11 @@ Ausgangspunkt für dieses Plugin: Planer für beauftragte und erbrachte Leistung
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Ergebnis fortführen und abschließen
 
-7.1. Welche HOAI-Fassung und welche Vertragsregel gelten für den konkreten Zeitraum.
-7.2. Welcher werkvertragliche Erfolg und welche Leistungsphase wurden tatsächlich beauftragt.
-7.3. Welche Leistung ist erbracht, abgenommen, mangelhaft, geändert oder zusätzlich verlangt.
-7.4. Wie setzt sich das Honorar rechnerisch zusammen und welcher Beleg trägt jede Position.
-7.5. Welche Planungs-, Koordinations- oder Überwachungspflicht ist für Schaden und Nachtrag kausal.
+7.1. Die Entscheidung aus Abschnitt 2 mit der folgenden Fachprüfung und den belegten Aktenangaben zusammenführen. Neu gelieferte Tatsachen ersetzen die betroffene Annahme; Berechnung, Antrag und Folgeabschnitte derselben Fassung anschließend aktualisieren.
+7.2. Im fertigen Produkt je tragendem Punkt Rechtsregel, konkrete Tatsache, Beleg, Beweislast beziehungsweise Ermittlungsauftrag, stärkste Gegenposition und Antwort verbinden. Fristbeginn, Ereignis, Fristart und erforderliche Handlung ausdrücklich unterscheiden.
+7.3. Das verlangte Schreiben, den Vertrag, Schriftsatz, Entscheidungsentwurf oder Vermerk vollständig ausformulieren. Nur tatsächlich entscheidungserhebliche Restlücken außerhalb des Empfängertexts als konkrete nächste Aufgabe kennzeichnen.
 
 ## 8. Juristisches Schreiben
 

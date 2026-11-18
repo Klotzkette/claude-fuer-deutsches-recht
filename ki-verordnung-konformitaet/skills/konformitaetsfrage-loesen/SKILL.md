@@ -1,9 +1,17 @@
 ---
 name: konformitaetsfrage-loesen
-description: "Prüft die Konformität konkreter KI-Systeme: Verfahrenswahl, Risikomanagement, Qualitätsmanagement, Daten, Aufsicht, Nachweise, Erklärung und Änderungen. Erstellt ein belastbares Dossier mit begründeten offenen Punkten."
+description: "Konformitätsprüfung bis zur prüfbaren Dokumentation führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Konformitätsfrage vollständig lösen
+# Konformitätsprüfung bis zur prüfbaren Dokumentation führen
+
+Ordne System, Version, Zweck, Wirtschaftsakteur und einschlägigen Konformitätsweg den vorhandenen technischen Unterlagen zu.
+
+**Entscheidung im Arbeitsablauf:** Trenne gesetzliche Pflicht, technische Norm, Konformitätsvermutung und tatsächliche Prüfung. Prüfe Änderungsstand, Risikomanagement, Daten, Tests und Nachweise auf denselben freizugebenden Stand.
+
+**Bis zum Ergebnis weiterarbeiten:** Erstelle die beauftragte Dokumentation oder Lückenliste mit konkreten Nachforderungen und erforderlichen Freigabeschritten; keine selbst erfundene Zertifizierung. Eine wesentliche Änderung oder neue bestimmungsgemäße Verwendung kann Rolle und Prüfweg ändern; passe Erklärung und Dokumentation gemeinsam an.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

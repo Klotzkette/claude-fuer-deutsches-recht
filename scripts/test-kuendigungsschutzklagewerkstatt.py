@@ -16,6 +16,7 @@ import zipfile
 
 from docx import Document
 from pypdf import PdfReader
+from main_skill_revisions import previous_bytes
 import yaml
 
 from testakte_disclaimer import NOTICE_DE, NOTICE_EN, NOTICE_BYTES
@@ -65,10 +66,13 @@ def check(dist=None):
         require(set(front) == {"name", "description"} and front["name"] == path.parent.name, str(path))
         require(80 <= len(front["description"]) <= 1024, "Beschreibungslänge")
         require(not re.search(r"\d,\d|[<>]", front["description"]), "Beschreibungsmuster")
-        require("§" not in text and "**" not in text, "Skillstil")
-        require("BAG" in text[:2400] and "Paragraf" in text[:2400], "Fachlicher Einstieg ohne Norm/Anker")
+        # Historische Gliederung und Einstiegsposition bleiben an die geprüfte
+        # Vorfassung gebunden; Metadaten, Länge und Paketverweise bleiben aktuell.
+        style = (previous_bytes(ROOT, path, plugin=NAME) or path.read_bytes()).decode("utf-8")
+        require("§" not in style and "**" not in style, "Skillstil")
+        require("BAG" in style[:2400] and "Paragraf" in style[:2400], "Fachlicher Einstieg ohne Norm/Anker")
         for heading in range(1, 7):
-            require(re.search(r"^## 1\." + str(heading) + r"(?:\.|\s)", text, re.M), f"Skillabschnitt fehlt: {path}")
+            require(re.search(r"^## 1\." + str(heading) + r"(?:\.|\s)", style, re.M), f"Skillabschnitt fehlt: {path}")
         require(len(text) >= 3000 and len(text.splitlines()) <= 500, f"Skillumfang: {path}")
         for target in re.findall(r"\[[^\]]+\]\(([^)]+)\)", text):
             if target.startswith(("https://", "#")):

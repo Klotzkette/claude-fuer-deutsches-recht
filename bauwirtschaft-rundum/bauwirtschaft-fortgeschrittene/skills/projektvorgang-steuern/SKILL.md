@@ -1,9 +1,23 @@
 ---
 name: projektvorgang-steuern
-description: Führt fortgeschrittene Bauprojektvorgänge aus vorhandenen Unterlagen bis zum geprüften Arbeitsprodukt. Verbindet technische, kaufmännische und rechtliche Fachprüfung, wählt die passende Route und begrenzt Dateizugriff, Fortschreibung und externe Handlungen.
+description: "Komplexen Bauvorgang entscheidungsreif bearbeiten. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Projektvorgang fachübergreifend steuern
+# Komplexen Bauvorgang entscheidungsreif bearbeiten
+
+## Fallführung bis zum fertigen Ergebnis
+
+Vorhandene Akte und Antworten nutzen; nur entscheidende Lücken erfragen und unabhängige Teile fertigstellen.
+
+1. Vertragsbaseline, Planrevisionen, Anordnungen und Bautagesberichte auf einen gemeinsamen Stichtag bringen; bereits entschiedene Punkte übernehmen.
+
+2. Änderungsereignisse nach Anspruchsgrund trennen und Ursache, Behinderung, Ressourceneinsatz und Folgekosten zeitlich verknüpfen. Terminfortschreibung allein ist kein sicherer Vergütungsauftrag.
+
+3. Bei überlagerten Störungen Fachwege zu Bauzeit, Nachtragsbewertung und Verantwortungsabgrenzung gezielt kombinieren; ihre Ergebnisse auf Doppelzählung und widersprechende Annahmen prüfen.
+
+4. Prüfbare Hauptberechnung und klar getrennte Alternative mit Belegen ausgeben; Nachtragsantwort, Anzeige oder Entscheidungsvermerk im gleichen Arbeitsgang fertigstellen.
+
+Fachprüfungen nur beim konkreten Anlass öffnen; ihre Aktenfunde, Belege, Normen und Gegenposition in das bestellte fertige Dokument übernehmen.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -36,22 +50,16 @@ Lesen Sie zunächst freigegebene Akte, letzten Bearbeitungsstand, Auftrag, Rolle
 
 Es gibt keine mitgelieferte Hintergrundüberwachung. Ein Fristenregister ist eine Momentaufnahme. Wiederkehrende Bearbeitung nur bei vorhandenem, ausdrücklich beauftragtem Mechanismus mit festem Ordner, Laufzeit, Turnus, Prüfer, Fehlerkanal und Abschaltung. Fehlt dieser, eine Wiedervorlage vorschlagen, nicht als eingerichtet melden.
 
-## 4. Quellenpflicht
+## Quellen, Ausgabe und Fortsetzung
 
-Es gelten [Zitierweise](../../references/zitierweise.md) und [Quellenkarte](../../references/quellenkarte.md). Tatsachenfundstelle, geprüfte Primärquelle und eigene Schlussfolgerung trennen. Kein Aktenzeichen, Literaturzitat oder aktueller Rechtsstand aus Erinnerung. Die Quellenkarte ist ein datierter Prüfstand, keine Aktualitätsgarantie.
+Die [Quellen-, Ausgabe- und Beispieldetails](../../references/hauptworkflow-entscheidungen.md) bei der jeweiligen Route mitlesen. Fertige Dokumente vollständig ausformulieren; Beleg, stärkste Gegenposition und nächste Handlung nennen. Nachgereichte Unterlagen in derselben Fassung fortführen.
 
-## 5. Ausgabeformat
+## Tragende Entscheidungsanker
 
-Liefern Sie das verlangte Dokument mit vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten; tabellarische Belege dürfen ergänzen. Formatstandard: Times New Roman 11 pt, soweit technisch möglich, ausschließlich dezimale Gliederung. Bei reinem Text einen getrennten Exporthinweis geben. Empfängertext, interne Prüfnotiz und technische Laufgrenzen getrennt ausgeben. Vor Abschluss Endprodukt, Rechnungen, Fundstellen und offen gebliebene Entscheidungen kontrollieren.
-
-## 6. Beispiele
-
-„Prüfen Sie die neue Abschlagsrechnung, die Akte ist schon vorhanden.“ Lesen Sie den letzten Prüfstand, bearbeiten Sie nur neue oder berichtigte Positionen und stimmen Sie tatsächliche Vorzahlungen ab. Kein erneuter Fragebogen zum ganzen Projekt.
-
-„Überwachen Sie ab jetzt alle Nachträge.“ Erstellen Sie das aktuelle Nachtragsregister. Klären Sie höchstens zwei entscheidende Angaben zu Zugriffsbereich und beauftragtem Überwachungsmechanismus. Ohne Einrichtung keine Überwachungszusage.
+Die [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) mit Primärfundstellen, konkreten Prüfentscheidungen und Übertragungsgrenzen enthält VII ZR 10/24 zur Terminfortschreibung, VII ZR 16/17 zur Entschädigungsdauer und VII ZR 34/18 zur Mehrmengenvergütung. Der dort ausgewiesene frühere Quellenstand ist keine neue Volltextprüfung.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 7. Verständlich arbeiten und sichtbar prüfen
+## 4. Verständlich arbeiten und sichtbar prüfen
 
 Erkläre Beteiligte, Vorgang und nächste Entscheidung kurz. Zeige Projektabschnitte oder Bauteile mit Bedarf, Planstand, Abhängigkeit, Termin, Kostenbezug und Beleg. Eine kleine Ablauf- oder Planänderungsansicht soll den konkreten Engpass sichtbar machen.
 

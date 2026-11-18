@@ -6,6 +6,12 @@ on:
       - 'bav-strategie-konzern/**'
       - 'testakten/bav-*/**'
       - 'scripts/*bav*'
+      - '.claude-plugin/marketplace.json'
+      - 'scripts/build-skill-quality-release.py'
+      - 'scripts/validate-release-zips.py'
+      - 'scripts/release_routing.py'
+      - 'scripts/scoped-release-assets.json'
+      - 'scripts/scoped-release-package-versions.json'
       - 'scripts/data/bav-konzern-faelle/**'
       - 'scripts/data/skill-source-replacements.json'
       - 'scripts/skill_sources.py'
@@ -89,7 +95,13 @@ jobs:
           python3 scripts/test-skill-cap-migration.py
           python3 scripts/test-skill-package-links.py
           python3 scripts/test-skill-sources.py
-      - name: Pakete aus dem geprüften Commit bauen
+      - name: Aktuelles Plugin und vier unveränderte Arbeitsakten prüfen
+        if: github.event_name == 'pull_request'
+        run: |
+          python3 scripts/check-bav-konzern-checkout.py --dist "$RUNNER_TEMP/bav-checkout" --expected-commit "$EXPECTED_COMMIT"
+          python3 scripts/test-bav-konzern-checkout.py --dist "$RUNNER_TEMP/bav-checkout"
+      - name: Historisches Komponentenrelease aus dem geprüften Commit bauen
+        if: github.event_name == 'workflow_dispatch'
         run: |
           python3 scripts/build-bav-konzern-release.py --dist "$RUNNER_TEMP/bav-dist" --expected-commit "$EXPECTED_COMMIT"
           python3 scripts/build-bav-konzern-release.py --dist "$RUNNER_TEMP/bav-dist" --verify --expected-commit "$EXPECTED_COMMIT"
@@ -98,8 +110,10 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: bav-konzern-pakete
-          path: ${{ runner.temp }}/bav-dist/*
+          name: bav-konzern-pruefnachweise
+          path: |
+            ${{ runner.temp }}/bav-dist/*
+            ${{ runner.temp }}/bav-checkout/*
           if-no-files-found: ignore
           retention-days: 7
       - name: Nach vollständiger Downloadprüfung veröffentlichen

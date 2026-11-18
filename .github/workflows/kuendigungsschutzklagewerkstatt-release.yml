@@ -15,6 +15,8 @@ on:
       - 'quality/seewerk-quellenauszuege.json'
       - 'scripts/validate-testakten-dokumentqualitaet.py'
       - 'scripts/*kuendigungsschutz*'
+      - 'scripts/*classic-components-checkout.py'
+      - 'scripts/build-skill-quality-release.py'
       - 'scripts/data/kuendigungsschutz-akten.json'
       - 'quality/evals/arbeitsrecht-kuendigungsschutzklagewerkstatt.json'
       - '.github/workflows/kuendigungsschutzklagewerkstatt-release.yml'
@@ -57,6 +59,15 @@ jobs:
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
           python3 scripts/test-kuendigungsschutzklagewerkstatt.py
           python3 scripts/test-seewerk-akten.py
+      - name: Aktuellen Checkout ohne Veröffentlichungsanspruch prüfen
+        if: github.event_name == 'pull_request'
+        run: |
+          python3 scripts/test-classic-components-checkout.py
+          python3 scripts/check-classic-components-checkout.py kuendigungsschutz --dist "$RUNNER_TEMP/kuendigungsschutz-dist"
+          python3 scripts/check-classic-components-checkout.py kuendigungsschutz --dist "$RUNNER_TEMP/kuendigungsschutz-dist" --verify
+      - name: Historischen Komponentenrelease bauen und prüfen
+        if: github.event_name == 'workflow_dispatch'
+        run: |
           python3 scripts/build-kuendigungsschutz-release.py --dist "$RUNNER_TEMP/kuendigungsschutz-dist"
           python3 scripts/test-kuendigungsschutzklagewerkstatt.py --dist "$RUNNER_TEMP/kuendigungsschutz-dist"
       - uses: actions/upload-artifact@v4

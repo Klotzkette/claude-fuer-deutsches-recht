@@ -1,6 +1,6 @@
 # bauvergabe-bieter
 
-**11 Skills** · Stand `v445.35.1`
+**11 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bauvergabe/bauvergabe-bieter/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -13,7 +13,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`bauvergabe-bieter-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-bieter/bauvergabe-bieter-schnellstart.md) |
 | **Derselbe Schnellstart-Prompt als Text** | TXT | [`bauvergabe-bieter-schnellstart.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-bieter/bauvergabe-bieter-schnellstart.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [bauvergabe-bieter.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/bauvergabe-bieter.zip) |
+| **Plugin (installierbar)** | ZIP | [bauvergabe-bieter.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/bauvergabe-bieter.zip) |
 
 ## So benutzt man einen Skill
 
@@ -31,7 +31,7 @@ English: This index lists source skills, including specialist series accessed th
 | Skill | Beschreibung | Markdown-Datei |
 | --- | --- | --- |
 | [`angebot-nebenangebote-und-abgabe-sichern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-bieter/skills/angebot-nebenangebote-und-abgabe-sichern/SKILL.md) | Hauptangebot, Nebenangebote und Abgabe sichern in öffentlichen Bauvergaben. Erstellt ein konkretes Arbeitsprodukt aus den vorhandenen Unterlagen und prüft Rolle, Rechtsgrundlage, Belege und nächste Handlung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-bieter/skills/angebot-nebenangebote-und-abgabe-sichern/SKILL.md) |
-| [`bauangebot-steuern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-bieter/skills/bauangebot-steuern/SKILL.md) | Steuert Bauvergabe Bieter über mehrere Phasen und setzt die Bearbeitung nach neuen Unterlagen fort; liefert vollständige Dokumente mit rollengetrennten Entscheidungen und Fristen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-bieter/skills/bauangebot-steuern/SKILL.md) |
+| [`bauangebot-steuern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-bieter/skills/bauangebot-steuern/SKILL.md) | Bauangebot von den Vergabeunterlagen bis zur fristgerechten Abgabe führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenpositio... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-bieter/skills/bauangebot-steuern/SKILL.md) |
 | [`baukalkulation-und-preisblatt-erstellen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-bieter/skills/baukalkulation-und-preisblatt-erstellen/SKILL.md) | Baukalkulation und Preisblatt erstellen in öffentlichen Bauvergaben. Erstellt ein konkretes Arbeitsprodukt aus den vorhandenen Unterlagen und prüft Rolle, Rechtsgrundlage, Belege und nächste Handlung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-bieter/skills/baukalkulation-und-preisblatt-erstellen/SKILL.md) |
 | [`bid-no-bid-entscheiden`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-bieter/skills/bid-no-bid-entscheiden/SKILL.md) | Teilnahme und Angebotsbudget entscheiden in öffentlichen Bauvergaben. Erstellt ein konkretes Arbeitsprodukt aus den vorhandenen Unterlagen und prüft Rolle, Rechtsgrundlage, Belege und nächste Handlung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-bieter/skills/bid-no-bid-entscheiden/SKILL.md) |
 | [`bieterfragen-und-ruegen-formulieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-bieter/skills/bieterfragen-und-ruegen-formulieren/SKILL.md) | Bieterfragen und Rügen formulieren in öffentlichen Bauvergaben. Erstellt ein konkretes Arbeitsprodukt aus den vorhandenen Unterlagen und prüft Rolle, Rechtsgrundlage, Belege und nächste Handlung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-bieter/skills/bieterfragen-und-ruegen-formulieren/SKILL.md) |

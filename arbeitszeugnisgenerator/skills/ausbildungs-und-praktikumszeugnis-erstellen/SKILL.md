@@ -23,7 +23,7 @@ Lies Ausbildungs- oder Praktikumsvertrag, Ausbildungsplan, Tätigkeitsnachweise,
 
 ## 4. Quellenpflicht
 
-Lies [Zitierweise](../../../references/zitierweise.md) und für Status oder Form den einschlägigen Abschnitt der [Rechtsprüfung](../../references/rechtsstand.md). Die amtlichen Normen Paragraf 16, Paragraf 26, Paragraf 3 und gegebenenfalls Paragraf 21 BBiG tragen die jeweiligen Weichen. BAG, Urteil vom 27.04.2021 - Az. 9 AZR 262/20 betrifft Arbeitszeugnisse; individuelle Fließtextbewertung dient hier als Gestaltungsorientierung, nicht als ungeprüfte direkte Anspruchsgrundlage.
+Lies [Zitierweise](../../references/zitierweise.md) und für Status oder Form den einschlägigen Abschnitt der [Rechtsprüfung](../../references/rechtsstand.md). Die amtlichen Normen Paragraf 16, Paragraf 26, Paragraf 3 und gegebenenfalls Paragraf 21 BBiG tragen die jeweiligen Weichen. BAG, Urteil vom 27.04.2021 - Az. 9 AZR 262/20 betrifft Arbeitszeugnisse; individuelle Fließtextbewertung dient hier als Gestaltungsorientierung, nicht als ungeprüfte direkte Anspruchsgrundlage.
 
 ## 5. Ausgabeformat
 

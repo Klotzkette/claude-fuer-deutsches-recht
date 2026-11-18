@@ -11,7 +11,7 @@ Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`agb-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/phishing-v445.35.4/agb-werkstatt.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`agb-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/agb-werkstatt.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/agb-werkstatt.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=agb-werkstatt/agb-werkstatt-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=agb-werkstatt/agb-werkstatt-schnellstart.md) |
@@ -45,7 +45,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`agb-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/phishing-v445.35.4/agb-werkstatt.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`agb-werkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/agb-werkstatt.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`agb-werkstatt-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=agb-werkstatt/agb-werkstatt-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`agb-werkstatt-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=agb-werkstatt/agb-werkstatt-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
@@ -83,8 +83,8 @@ Der bestehende AGB-Recht-Prüfer bleibt unverändert. Dieses kleinere Paket ist 
 
 | Unterlage | Zweck | Download |
 | --- | --- | --- |
-| Plugin | Elf einzeln aufrufbare Skills samt Quellenkarten | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/phishing-v445.35.4/agb-werkstatt.zip) |
-| Portables Paket | Dasselbe Plugin mit äußerem Paketordner | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/phishing-v445.35.4/agb-werkstatt-portable.zip) |
+| Plugin | Elf einzeln aufrufbare Skills samt Quellenkarten | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/agb-werkstatt.zip) |
+| Portables Paket | Dasselbe Plugin mit äußerem Paketordner | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/agb-werkstatt-portable.zip) |
 | Werkstatt | Ausführlicher eigenständiger Arbeitsablauf ohne Plugininstallation | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=agb-werkstatt/agb-werkstatt-werkstatt.md" download>Werkstatt als Markdown</a> |
 | Schnellstart | Kompakter eigenständiger Auftrag unter 7500 Zeichen und Bytes | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=agb-werkstatt/agb-werkstatt-schnellstart.md" download>Mini-Prompt als Markdown</a> |
 | Hauptproblem | Aus verstreuten Unterlagen verwendbare AGB erstellen | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=agb-werkstatt/agb-werkstatt-hauptproblem.md" download>Hauptproblem-Prompt als Markdown</a> |

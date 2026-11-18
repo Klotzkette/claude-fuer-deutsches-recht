@@ -1,6 +1,6 @@
 # diesel-schadensersatz
 
-**8 Skills** · Stand `v445.36.0`
+**8 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../diesel-schadensersatz/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`diesel-schadensersatz-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/diesel-schadensersatz-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`diesel-schadensersatz-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/diesel-schadensersatz-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [diesel-schadensersatz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/diesel-schadensersatz.zip) |
+| **Plugin (installierbar)** | ZIP | [diesel-schadensersatz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/diesel-schadensersatz.zip) |
 
 ## So benutzt man einen Skill
 
@@ -28,7 +28,7 @@ English: This index lists source skills, including specialist series accessed th
 
 | Skill | Beschreibung | Markdown-Datei |
 | --- | --- | --- |
-| [`01-kaltstart-aktenaufnahme`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/skills/01-kaltstart-aktenaufnahme/SKILL.md) | Default für neue oder ungeordnete Dieselakten und gemischte Uploads. Sichert Dateien und Fundstellen, bildet Fallkern, Lücken und Arbeitsstand und nennt genau einen nächsten Skill. Nicht für Anspruchs- oder Klageentwürfe. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/skills/01-kaltstart-aktenaufnahme/SKILL.md) |
+| [`01-kaltstart-aktenaufnahme`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/skills/01-kaltstart-aktenaufnahme/SKILL.md) | Dieselfall vom Fahrzeugbeleg zur begründeten Forderung führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/skills/01-kaltstart-aktenaufnahme/SKILL.md) |
 | [`06-anspruchstriage-fallstrategie`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/skills/06-anspruchstriage-fallstrategie/SKILL.md) | Zentrale Weiche nach vorhandenem Fallkern. Wählt Anspruchsspur und wirtschaftliche Strategie, zeigt Stopps und nennt genau einen nächsten Skill. Fehlende Einzeldaten lösen nur den dafür zuständigen Fachskill aus. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/skills/06-anspruchstriage-fallstrategie/SKILL.md) |
 | [`arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) | Schadensersatz in Diesel-Abgasfällen: Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) |
 | [`arbeitsprodukt-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/skills/arbeitsprodukt-bearbeiten/SKILL.md) | Schadensersatz in Diesel-Abgasfällen: Arbeitsprodukt: Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behördenantwort oder Verteidigungsschreiben erstellen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/skills/arbeitsprodukt-bearbeiten/SKILL.md) |

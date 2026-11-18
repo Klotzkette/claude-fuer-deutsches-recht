@@ -1,0 +1,698 @@
+[
+  {
+    "plugin": "agb-recht-pruefer",
+    "source": "./agb-recht-pruefer",
+    "theme": "verbraucher",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "agb-recht-pruefer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "c92b6ec8ad87fc77258a225a87084e1265ac59260f1b58a62feeb996fb275978"
+  },
+  {
+    "plugin": "agb-werkstatt",
+    "source": "./agb-werkstatt",
+    "theme": "bgb",
+    "main_skill": "agb-hauptproblem-loesen",
+    "path": "agb-werkstatt/skills/agb-hauptproblem-loesen/SKILL.md",
+    "before_sha256": "748aa35272bf08ea99152374350d991856eff341a4b91517ebd78ab23e3ba369"
+  },
+  {
+    "plugin": "aktenauszug-gerichtsverfahren",
+    "source": "./aktenauszug-gerichtsverfahren",
+    "theme": "zivilprozess",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "aktenauszug-gerichtsverfahren/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "6af16087d4443eea512755c610ca8eb9cb71dac2fe0a52858d844701e9eba5b5"
+  },
+  {
+    "plugin": "anlagen-zu-schriftsaetzen",
+    "source": "./anlagen-zu-schriftsaetzen",
+    "theme": "zivilprozess",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "anlagen-zu-schriftsaetzen/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "465eefe7b8a7d716fdae4a27131aec4f19c282fcd7fedde19a23c853c05112c7"
+  },
+  {
+    "plugin": "aussenwirtschaft-zoll-sanktionen",
+    "source": "./aussenwirtschaft-zoll-sanktionen",
+    "theme": "transport_handel",
+    "main_skill": "aussenwirtschaft-kommandocenter",
+    "path": "aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-kommandocenter/SKILL.md",
+    "before_sha256": "d37d74fe434a4dc58dbbc034aa12f20e017a9906433363e3029731aefa777dee"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "source": "./bautraegervertrag-pruefer",
+    "theme": "bau",
+    "main_skill": "bautraegerpruefung-steuern",
+    "path": "bautraegervertrag-pruefer/skills/bautraegerpruefung-steuern/SKILL.md",
+    "before_sha256": "6d330440235f560f5856859750306e14e709b76cff3ede0c68715904fe4ca53c"
+  },
+  {
+    "plugin": "bauunternehmer-einkauf",
+    "source": "./bauunternehmer-einkauf",
+    "theme": "bau",
+    "main_skill": "einkauf-steuern",
+    "path": "bauunternehmer-einkauf/skills/einkauf-steuern/SKILL.md",
+    "before_sha256": "2f375abec69ef38b4a9ada30c752aa30745b30b27a5e461ad8c5cd9ce5e34b6b"
+  },
+  {
+    "plugin": "bauvergabe-bieter",
+    "source": "./bauvergabe/bauvergabe-bieter",
+    "theme": "vergabe",
+    "main_skill": "bauangebot-steuern",
+    "path": "bauvergabe/bauvergabe-bieter/skills/bauangebot-steuern/SKILL.md",
+    "before_sha256": "a693d87b387128961c828311f4fec28e827afa5512bd3a21df7ec5b5d4d607a9"
+  },
+  {
+    "plugin": "bauvergabe-nachtragsmanagement",
+    "source": "./bauvergabe/bauvergabe-nachtragsmanagement",
+    "theme": "bau",
+    "main_skill": "nachtragsmanagement-hauptproblem",
+    "path": "bauvergabe/bauvergabe-nachtragsmanagement/skills/nachtragsmanagement-hauptproblem/SKILL.md",
+    "before_sha256": "6fe6e2ab809c8bfa2a7f604b610745555b039c14e8beada07f7e8f6e0852b38a"
+  },
+  {
+    "plugin": "bauvergabe-rechtsschutz",
+    "source": "./bauvergabe/bauvergabe-rechtsschutz",
+    "theme": "vergabe",
+    "main_skill": "bauvergaberechtsschutz-steuern",
+    "path": "bauvergabe/bauvergabe-rechtsschutz/skills/bauvergaberechtsschutz-steuern/SKILL.md",
+    "before_sha256": "5a47322c0d7c1d50d6db42de4d5fc48e18dc8bf06453ec49342c3c54a5e49e92"
+  },
+  {
+    "plugin": "bauvergabe-unterlagen",
+    "source": "./bauvergabe/bauvergabe-unterlagen",
+    "theme": "vergabe",
+    "main_skill": "bauvergabe-unterlagen-steuern",
+    "path": "bauvergabe/bauvergabe-unterlagen/skills/bauvergabe-unterlagen-steuern/SKILL.md",
+    "before_sha256": "cdd0e5d886ed10a5c7e4aacc38446afcd9d905ae4ed7c6e30c3f885f5cf7313d"
+  },
+  {
+    "plugin": "bauvergabe-verfahren",
+    "source": "./bauvergabe/bauvergabe-verfahren",
+    "theme": "vergabe",
+    "main_skill": "bauvergabe-verfahren-steuern",
+    "path": "bauvergabe/bauvergabe-verfahren/skills/bauvergabe-verfahren-steuern/SKILL.md",
+    "before_sha256": "d6e0b2fd4d3dfe2ecb378b4eb78d30798f80012083e9386b4655bbc2dd7c19e7"
+  },
+  {
+    "plugin": "bauwirtschaft",
+    "source": "./bauwirtschaft",
+    "theme": "bauwirtschaft",
+    "main_skill": "bauprojekt-starten-und-arbeitsstand-fortfuehren",
+    "path": "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md",
+    "before_sha256": "fad7befdfe2ab95ea8a2c0f0ac7efe3c606e76f2817eecb22b40ab79ea1b9024"
+  },
+  {
+    "plugin": "bauwirtschaft-anfaenger",
+    "source": "./bauwirtschaft-rundum/bauwirtschaft-anfaenger",
+    "theme": "bauwirtschaft",
+    "main_skill": "bauaufgabe-zum-arbeitsprodukt-fuehren",
+    "path": "bauwirtschaft-rundum/bauwirtschaft-anfaenger/skills/bauaufgabe-zum-arbeitsprodukt-fuehren/SKILL.md",
+    "before_sha256": "a3f515f60a48bcfac2c4b534eb5a055cb2aea1799ade3301c1386120d9821e18"
+  },
+  {
+    "plugin": "bauwirtschaft-fortgeschrittene",
+    "source": "./bauwirtschaft-rundum/bauwirtschaft-fortgeschrittene",
+    "theme": "bauwirtschaft",
+    "main_skill": "projektvorgang-steuern",
+    "path": "bauwirtschaft-rundum/bauwirtschaft-fortgeschrittene/skills/projektvorgang-steuern/SKILL.md",
+    "before_sha256": "94cb82bac7ad1f83e39640aa2ae0bc88711cecc4b54db7f82ad11485dc10664a"
+  },
+  {
+    "plugin": "bereicherungs-und-anfechtungsrecht-pruefer",
+    "source": "./bereicherungs-und-anfechtungsrecht-pruefer",
+    "theme": "bgb",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "bereicherungs-und-anfechtungsrecht-pruefer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "e928a81636df477a5a81ff0237da97b28817d7e0ce163e8cbea95432c97caf79"
+  },
+  {
+    "plugin": "betreuungsrecht",
+    "source": "./betreuungsrecht",
+    "theme": "betreuung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "betreuungsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "e980ac0aa47fd17f1bf246ffa4387607e9dc59c8da4bdb81d8648fa3f21f102d"
+  },
+  {
+    "plugin": "bgb-at-pruefer",
+    "source": "./bgb-at-pruefer",
+    "theme": "bgb",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "bgb-at-pruefer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "12fbbdfac7d53053f198cf8cfe96dbfa686628871d84aa1e095098a7988548e6"
+  },
+  {
+    "plugin": "bgb-bt-pruefer",
+    "source": "./bgb-bt-pruefer",
+    "theme": "bgb",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "bgb-bt-pruefer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "569f3aad5d52432d8d5ba8dc1d445d3471a739101bbe886415942b756533df15"
+  },
+  {
+    "plugin": "bieter-unternehmen",
+    "source": "./vergaberecht-werkstatt/bieter-unternehmen",
+    "theme": "vergabe",
+    "main_skill": "vergabe-os-master-orchestrator",
+    "path": "vergaberecht-werkstatt/bieter-unternehmen/skills/vergabe-os-master-orchestrator/SKILL.md",
+    "before_sha256": "1850a1c85ec1544f1190a525e6fc5c517b0d6e05cb5fba63795beac5c19d3e58"
+  },
+  {
+    "plugin": "commercial-courts-deutschland",
+    "source": "./commercial-courts-deutschland",
+    "theme": "commercial_court",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "commercial-courts-deutschland/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "10ff50bd0e734ef1a22b527e83f519b87f0686dbd60a99a38b7b7b892222afa0"
+  },
+  {
+    "plugin": "corporate-contract-law",
+    "source": "./corporate-contract-law",
+    "theme": "corporate-contract-law",
+    "main_skill": "wirtschaftsvertrag-bis-zur-unterschrift-erstellen",
+    "path": "corporate-contract-law/skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md",
+    "before_sha256": "d5b6abc288e03054162596d607cf8fb6dbde082a0db28f9d6ed89a89ac25d4e2"
+  },
+  {
+    "plugin": "eigenbedarfskuendigungschecker",
+    "source": "./eigenbedarfskuendigungschecker",
+    "theme": "miet",
+    "main_skill": "eigenbedarf-pruefen-und-klaeren",
+    "path": "eigenbedarfskuendigungschecker/skills/eigenbedarf-pruefen-und-klaeren/SKILL.md",
+    "before_sha256": "e812bca6dfdf5e2612de47e759af17215d0fe957125773f6468f80d11e53c926"
+  },
+  {
+    "plugin": "erbbaurecht-praxis",
+    "source": "./erbbaurecht-praxis",
+    "theme": "immobilien",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "erbbaurecht-praxis/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "def244c8dabcb00af38e500eeb6ab356a0b50d16987a9bc3827b90a73e963e2e"
+  },
+  {
+    "plugin": "eu-sanktionspruefer",
+    "source": "./eu-sanktionspruefer",
+    "theme": "transport_handel",
+    "main_skill": "eu-sanktionsfall-steuern",
+    "path": "eu-sanktionspruefer/skills/eu-sanktionsfall-steuern/SKILL.md",
+    "before_sha256": "82f6e29e5019b6046a7a3a5855d2bd92277de1b38b60e2775b5162a5eac65893"
+  },
+  {
+    "plugin": "europaeisches-prozessrecht",
+    "source": "./europaeisches-prozessrecht",
+    "theme": "eu_prozess",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "europaeisches-prozessrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "66e4e4f5681b2447c13e6b19041779ee87ea53f6c6c64e65eafbbc714739562d"
+  },
+  {
+    "plugin": "fachanwalt-bau-architektenrecht",
+    "source": "./fachanwalt-bau-architektenrecht",
+    "theme": "bau",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-bau-architektenrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "0a3b8737a4194ba9d35b27d611b0a99e8d3330c565737eb76fb1f5f6d1e6bdde"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "source": "./fachanwalt-erbrecht",
+    "theme": "erbrecht",
+    "main_skill": "erbfall-mandat-klaeren",
+    "path": "fachanwalt-erbrecht/skills/erbfall-mandat-klaeren/SKILL.md",
+    "before_sha256": "f76c9ddf5d3d3926c6ed96841e218ee167c1f1e5198fcc0d2486d4d69c823b83"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "source": "./fachanwalt-familienrecht",
+    "theme": "famil",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-familienrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "65d6c33a97d6916faaae11947bbf972c3b2d58693ab6ffdac992c4e7cd82e73c"
+  },
+  {
+    "plugin": "fachanwalt-internationales-wirtschaftsrecht",
+    "source": "./fachanwalt-internationales-wirtschaftsrecht",
+    "theme": "international",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-internationales-wirtschaftsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "9fe84b8dac361c1cd3759668e316e4907d90fd1df0ad2eeda6baee84434c03d1"
+  },
+  {
+    "plugin": "fachanwalt-miet-wohnungseigentumsrecht",
+    "source": "./fachanwalt-miet-wohnungseigentumsrecht",
+    "theme": "miet",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-miet-wohnungseigentumsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "9d658ef1cece4dfd5e93398e5736ffb8902d98fb5e5e5178e56d53f733e5bf7f"
+  },
+  {
+    "plugin": "fachanwalt-transport-speditionsrecht",
+    "source": "./fachanwalt-transport-speditionsrecht",
+    "theme": "transport_handel",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-transport-speditionsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "1c29a86f0a79ad6348e87454e5a49e3d7f6d1ac9c67cb78b5f06c0b0f7a3bfbb"
+  },
+  {
+    "plugin": "fachanwalt-vergaberecht",
+    "source": "./fachanwalt-vergaberecht",
+    "theme": "vergabe",
+    "main_skill": "vergabe-os-master-orchestrator",
+    "path": "fachanwalt-vergaberecht/skills/vergabe-os-master-orchestrator/SKILL.md",
+    "before_sha256": "a0170101170dbe0bcc6216c911d38ff4d39d7c4b3a7ce4b27719686a0aff65e4"
+  },
+  {
+    "plugin": "fachanwalt-verkehrsrecht",
+    "source": "./fachanwalt-verkehrsrecht",
+    "theme": "verkehr",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-verkehrsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "434b8da444e053e5f4a0ceda43f08ffbfccca349d8921a18ded736c882536a2a"
+  },
+  {
+    "plugin": "fachanwalt-versicherungsrecht",
+    "source": "./fachanwalt-versicherungsrecht",
+    "theme": "versicherung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fachanwalt-versicherungsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "c4e854b0674bc6f0979cd11488959ffbe45fe3334e34b6bdeabb3ed8a12b641e"
+  },
+  {
+    "plugin": "factoring-recht",
+    "source": "./factoring-recht",
+    "theme": "forderung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "factoring-recht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "16bd008902b82628f85c5a2299020d7090133504062b5999aa99c7952b588be9"
+  },
+  {
+    "plugin": "fahrgastrechte",
+    "source": "./fahrgastrechte",
+    "theme": "fahrgast",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fahrgastrechte/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "3fbbf91462beaff1fcab204223840cd17c0fe67021d91e4a35b417d175446bd6"
+  },
+  {
+    "plugin": "festlandchina-wirtschaftsverkehr",
+    "source": "./festlandchina-wirtschaftsverkehr",
+    "theme": "international",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "festlandchina-wirtschaftsverkehr/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "cce385ad412cbe8f095302c87937fa5d098ebb1aa578015480940b411ff721be"
+  },
+  {
+    "plugin": "fluggastrechte",
+    "source": "./fluggastrechte",
+    "theme": "fluggast",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "fluggastrechte/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "8939e3cc69a78a5c432a8ad4e8fc7bdc8cf9567de1c8be52683f4abd188af015"
+  },
+  {
+    "plugin": "forderungsmanagement-klagewerkstatt",
+    "source": "./forderungsmanagement-klagewerkstatt",
+    "theme": "forderung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "forderungsmanagement-klagewerkstatt/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "b27b517c8e9b10c6b39d853fe65b60c8a8e442d14b3a76f6b9b002174528676e"
+  },
+  {
+    "plugin": "franchiserecht-praxis",
+    "source": "./franchiserecht-praxis",
+    "theme": "vertragsgestaltung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "franchiserecht-praxis/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "6927b770e6e26c741e2b1e5192f9d563093899c4a66dc5c2f9c623d34c5470b8"
+  },
+  {
+    "plugin": "grundbuchamt-assistent",
+    "source": "./grundbuchamt-assistent",
+    "theme": "immobilien",
+    "main_skill": "grundbuchvorgang-zum-ergebnis-fuehren",
+    "path": "grundbuchamt-assistent/skills/grundbuchvorgang-zum-ergebnis-fuehren/SKILL.md",
+    "before_sha256": "5bba69d4cf369faadeb7f889b7cd522e5c86ae4cce445d5c181bd51a1c343902"
+  },
+  {
+    "plugin": "grundbuchamt-praxis",
+    "source": "./grundbuchamt-praxis",
+    "theme": "immobilien",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "grundbuchamt-praxis/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "21092e2b306e595d62f190ab5ab3c71d99276fb1c344e2924110f8dcb57dc241"
+  },
+  {
+    "plugin": "gvb-reinigungsvergabe",
+    "source": "./gvb-reinigungsvergabe",
+    "theme": "vergabe",
+    "main_skill": "a1-reinigungsauftrag-und-vergabeverfahren",
+    "path": "gvb-reinigungsvergabe/skills/a1-reinigungsauftrag-und-vergabeverfahren/SKILL.md",
+    "before_sha256": "9397857bc49c3c1599400cb3f4509c88793b34db3bc6ba67d118dec27b4842fa"
+  },
+  {
+    "plugin": "hoai-leistungsphasen-praxis",
+    "source": "./hoai-leistungsphasen-praxis",
+    "theme": "hoai",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "hoai-leistungsphasen-praxis/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "80478a6e4d7047ccd0919b489fc59953ffba0091fa94d33ea0604eebc922793a"
+  },
+  {
+    "plugin": "immobilienrechtspraxis",
+    "source": "./immobilienrechtspraxis",
+    "theme": "immobilien",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "immobilienrechtspraxis/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "3b059abdca9cff264155c44ee69e811161b2e03451353b1dc63202be7df6cb96"
+  },
+  {
+    "plugin": "internationales-handelsrecht-lex-mercatoria",
+    "source": "./internationales-handelsrecht-lex-mercatoria",
+    "theme": "transport_handel",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "internationales-handelsrecht-lex-mercatoria/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "44080a59ff2bf29147df19881cee392dc5bd35f1a3ab4b5829bd8d40167f066a"
+  },
+  {
+    "plugin": "kommunale-haftpflicht",
+    "source": "./kommunale-haftpflicht",
+    "theme": "schadensregulierung",
+    "main_skill": "kommunalen-haftpflichtfall-bearbeiten",
+    "path": "kommunale-haftpflicht/skills/kommunalen-haftpflichtfall-bearbeiten/SKILL.md",
+    "before_sha256": "ff7f07b8eed0d85c10b92563ce5c3643ecdfde814ac119a242bb909747c93f72"
+  },
+  {
+    "plugin": "konkurrenten-rechtsschutz",
+    "source": "./vergaberecht-werkstatt/konkurrenten-rechtsschutz",
+    "theme": "vergabe",
+    "main_skill": "konkurrenzrechtsschutz-orchestrator",
+    "path": "vergaberecht-werkstatt/konkurrenten-rechtsschutz/skills/konkurrenzrechtsschutz-orchestrator/SKILL.md",
+    "before_sha256": "cea9bbb16ae2a0405fd6f1a2094ed52219db6463be33d035600ea59e98d2c08c"
+  },
+  {
+    "plugin": "leasingrecht-praxis",
+    "source": "./leasingrecht-praxis",
+    "theme": "vertragsgestaltung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "leasingrecht-praxis/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "1f48b893d0d9748c6246e0708288da300e964a398d7235ac5a1252d847c0327f"
+  },
+  {
+    "plugin": "mietchecker",
+    "source": "./mietchecker",
+    "theme": "miet",
+    "main_skill": "miete-pruefen-und-klaeren",
+    "path": "mietchecker/skills/miete-pruefen-und-klaeren/SKILL.md",
+    "before_sha256": "263f9fbbda74407db2ddf8e8fda7cdc5011d89f6bc865eaf15e2e0ab2d9d7b74"
+  },
+  {
+    "plugin": "mietrecht",
+    "source": "./mietrecht",
+    "theme": "miet",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "mietrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "9ddd61cf596439220fe474535ba07ced221df8146de26fae1c8bd177ab816b68"
+  },
+  {
+    "plugin": "nachbarschaftsstreit-pruefer",
+    "source": "./nachbarschaftsstreit-pruefer",
+    "theme": "nachbar",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "nachbarschaftsstreit-pruefer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "f5834991a93786a63ae6cd10a2b3e35a14153fbf0f9994d8e931b2a225f71cb0"
+  },
+  {
+    "plugin": "nda-abgleich",
+    "source": "./nda-abgleich",
+    "theme": "vertragsgestaltung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "nda-abgleich/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "7c2dc9605222b51ecae9e70523b288212daa88dfb5bb13ef7a92fef6a751d6c9"
+  },
+  {
+    "plugin": "nda-verschwiegenheit-generator-checker",
+    "source": "./nda-verschwiegenheit-generator-checker",
+    "theme": "vertragsgestaltung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "nda-verschwiegenheit-generator-checker/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "5e3a8619c29e510b3a1784e67f3c8e90ccb5b45d256daf0c135f2b943bb3b583"
+  },
+  {
+    "plugin": "normenkontrolle-bauleitplanung",
+    "source": "./normenkontrolle-bauleitplanung",
+    "theme": "bauplanung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "normenkontrolle-bauleitplanung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "ce0484893e09e4f55e1b04edf2ed4e8fbff46e958d4c9f4b0fde6e21caa82d3f"
+  },
+  {
+    "plugin": "notariat-alltag",
+    "source": "./notariat-alltag",
+    "theme": "notariat",
+    "main_skill": "kaltstart-triage",
+    "path": "notariat-alltag/skills/kaltstart-triage/SKILL.md",
+    "before_sha256": "c925e8b4128d83e08a19ec4a6a4c65644484c8b412ff0b368a6a230c57666beb"
+  },
+  {
+    "plugin": "playbook-pruefer",
+    "source": "./playbook-pruefer",
+    "theme": "vertragsgestaltung",
+    "main_skill": "playbook-pruefung-durchfuehren",
+    "path": "playbook-pruefer/skills/playbook-pruefung-durchfuehren/SKILL.md",
+    "before_sha256": "038c7ec8c4f4d3c48d5282252a645fc081d327273df2aa11115ca3182b61167a"
+  },
+  {
+    "plugin": "prozessrecht",
+    "source": "./prozessrecht",
+    "theme": "zivilprozess",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "prozessrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "5e111df3f5ad80e3cc040bf15af1858412ce92957c2b29fe110d3915763c07ad"
+  },
+  {
+    "plugin": "rechtsabteilung-forderungsmanagement-immobilienunternehmen",
+    "source": "./rechtsabteilung-forderungsmanagement-immobilienunternehmen",
+    "theme": "forderung",
+    "main_skill": "06-fallziel-renofa-triage",
+    "path": "rechtsabteilung-forderungsmanagement-immobilienunternehmen/skills/06-fallziel-renofa-triage/SKILL.md",
+    "before_sha256": "f68d635f01789e1e733e764eb3a7dc490801fe21b3521ed77e6d26b0c3ad24d1"
+  },
+  {
+    "plugin": "relationstechnik-zivilrecht",
+    "source": "./gerichtsplugins/relationstechnik-zivilrecht",
+    "theme": "justiz_zivil",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/relationstechnik-zivilrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "3f2c4c5b66851544fdf186bfd6a37c87423b3c7b788cc6418daab1d5843cff31"
+  },
+  {
+    "plugin": "richter-amtsgericht-zivil",
+    "source": "./gerichtsplugins/richter-amtsgericht-zivil",
+    "theme": "justiz_zivil",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/richter-amtsgericht-zivil/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "ae6174229483ec29c723328e67313e95a07285852223ad79a613d049852f8124"
+  },
+  {
+    "plugin": "richter-familiengericht",
+    "source": "./gerichtsplugins/richter-familiengericht",
+    "theme": "famil",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/richter-familiengericht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "8e554d2dd8cce0853b251936b29a812960d997870d8ff3bca19e9c9471969517"
+  },
+  {
+    "plugin": "richter-landgericht-zivilkammer",
+    "source": "./gerichtsplugins/richter-landgericht-zivilkammer",
+    "theme": "justiz_zivil",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "gerichtsplugins/richter-landgericht-zivilkammer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "7846665d0c3bdc7a696b9f24d370be97683c87a165ab7c2fbc0a354420c0b697"
+  },
+  {
+    "plugin": "schadensregulierung",
+    "source": "./schadensregulierung",
+    "theme": "schadensregulierung",
+    "main_skill": "haftpflichtschaden-regulieren",
+    "path": "schadensregulierung/skills/haftpflichtschaden-regulieren/SKILL.md",
+    "before_sha256": "5d15e9c79aa623421d597bd721b1bac9cec473f60eb9de72e4ed9699886c96d7"
+  },
+  {
+    "plugin": "schriftform-und-textform-bgb",
+    "source": "./schriftform-und-textform-bgb",
+    "theme": "bgb",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "schriftform-und-textform-bgb/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "eb08fddf40d7c8ac62902277049f4275076e4eaf3da3dfcefd55570305f2adc9"
+  },
+  {
+    "plugin": "seerecht-schifffahrtsrecht",
+    "source": "./seerecht-schifffahrtsrecht",
+    "theme": "transport_handel",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "seerecht-schifffahrtsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "5a1be1804199204c5b27efc4eab407ea439a905f0c7fc6cb26d00d85a9db4eda"
+  },
+  {
+    "plugin": "sektorenvergabe-workflow",
+    "source": "./sektorenvergabe-workflow",
+    "theme": "vergabe",
+    "main_skill": "sektorenvergabe-steuern",
+    "path": "sektorenvergabe-workflow/skills/sektorenvergabe-steuern/SKILL.md",
+    "before_sha256": "5e64b08867e0e36072b81bdb8f647fd3a0289b9f31848e6ba12f44a6202f7dca"
+  },
+  {
+    "plugin": "selbstvertreter-amtsgericht",
+    "source": "./selbstvertreter-amtsgericht",
+    "theme": "zivilprozess",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "selbstvertreter-amtsgericht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "6a736542cf7a357f0652ce82beedd6896f9d86a92afc1f9fe34548a405548d41"
+  },
+  {
+    "plugin": "sozialversicherungspflicht-pruefer",
+    "source": "./sozialversicherungspflicht-pruefer",
+    "theme": "versicherung",
+    "main_skill": "sozialversicherungspflicht-pruefen",
+    "path": "sozialversicherungspflicht-pruefer/skills/sozialversicherungspflicht-pruefen/SKILL.md",
+    "before_sha256": "667d08bf6a91061f33016adc07f7a71dae4f88ef2829d28b26476e5e0b1d09b9"
+  },
+  {
+    "plugin": "un-kaufrecht-cisg",
+    "source": "./un-kaufrecht-cisg",
+    "theme": "transport_handel",
+    "main_skill": "cisg-kaufmandat-steuern",
+    "path": "un-kaufrecht-cisg/skills/cisg-kaufmandat-steuern/SKILL.md",
+    "before_sha256": "6611cf1bce8e7ab3291d36f405e55a393df7f720b8bfce5bc473002fc1f2c748"
+  },
+  {
+    "plugin": "urteilsbauer-relationsmacher",
+    "source": "./urteilsbauer-relationsmacher",
+    "theme": "justiz_zivil",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "urteilsbauer-relationsmacher/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "371c105c47932d02e92735678c8a18b5b9b7cc38071d8f949a1511a8175f2889"
+  },
+  {
+    "plugin": "us-sanktionspruefer",
+    "source": "./us-sanktionspruefer",
+    "theme": "transport_handel",
+    "main_skill": "us-sanktionsmandat-steuern",
+    "path": "us-sanktionspruefer/skills/us-sanktionsmandat-steuern/SKILL.md",
+    "before_sha256": "2d16badf536006c26c25e7a633d03180557bbc68d46d641e93011233d47a8d37"
+  },
+  {
+    "plugin": "verbraucher-rechtsstaat-alltag",
+    "source": "./verbraucher-rechtsstaat-alltag",
+    "theme": "verbraucher",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "verbraucher-rechtsstaat-alltag/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "3e6aeac2334065fdc590c99ebc9190f9fd223d5c15149316f75f7b45ffc5444b"
+  },
+  {
+    "plugin": "verbraucherschutzrecht-pruefer",
+    "source": "./verbraucherschutzrecht-pruefer",
+    "theme": "verbraucher",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "verbraucherschutzrecht-pruefer/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "e85c323ca371fc2689eb5a029f14de83529e1b5a77ba42cf3d36cbc2508526e3"
+  },
+  {
+    "plugin": "verbraucherschutzverband-durchsetzung",
+    "source": "./verbraucherschutzverband-durchsetzung",
+    "theme": "verbraucher",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "verbraucherschutzverband-durchsetzung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "eb5415970d4a9aa954b47c8fef55c4db2f062cbfc757984f92bbeaffd9f74caf"
+  },
+  {
+    "plugin": "vereinsrecht-vereinsmanager",
+    "source": "./vereinsrecht-vereinsmanager",
+    "theme": "verein",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "vereinsrecht-vereinsmanager/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "521076d79e5f2009e84d6b8be7fb3d5bb108067a683e75b7426d0fd3bbfe78c2"
+  },
+  {
+    "plugin": "vergabestelle-behoerden",
+    "source": "./vergaberecht-werkstatt/vergabestelle-behoerden",
+    "theme": "vergabe",
+    "main_skill": "vergabe-os-master-orchestrator",
+    "path": "vergaberecht-werkstatt/vergabestelle-behoerden/skills/vergabe-os-master-orchestrator/SKILL.md",
+    "before_sha256": "29a745b847c9bd6902c4a40de09b128a91d89381e738bb33c9e6a219650d9a6b"
+  },
+  {
+    "plugin": "versicherungsrecht",
+    "source": "./versicherungsrecht",
+    "theme": "versicherung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "versicherungsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "4db02bff2f77fcac244583e4ac33970d6096627919b253f6bda265fbbea00186"
+  },
+  {
+    "plugin": "vertragsausfueller",
+    "source": "./vertragsausfueller",
+    "theme": "vertragsgestaltung",
+    "main_skill": "kommandocenter-mehrsprachige-vertraege",
+    "path": "vertragsausfueller/skills/kommandocenter-mehrsprachige-vertraege/SKILL.md",
+    "before_sha256": "0c8fe822eaf70a645aad6fba2dc423694f438786b09b35a13019f8b8d8496f5e"
+  },
+  {
+    "plugin": "vertragserstellung",
+    "source": "./vertragserstellung",
+    "theme": "vertragserstellung",
+    "main_skill": "vertrag-vom-auftrag-bis-zur-endfassung-erstellen",
+    "path": "vertragserstellung/skills/vertrag-vom-auftrag-bis-zur-endfassung-erstellen/SKILL.md",
+    "before_sha256": "0dab551745996ada99b4e758527e5b69bc6fb020306ee657c93daa0850fec550"
+  },
+  {
+    "plugin": "vertragsrecht",
+    "source": "./vertragsrecht",
+    "theme": "vertragsgestaltung",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "vertragsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "94193a63a982c7d210919736f9d81d8c0f64b36ecbd4f2a35755bed7606b37cb"
+  },
+  {
+    "plugin": "weg-hausverwaltung",
+    "source": "./weg-hausverwaltung",
+    "theme": "weg",
+    "main_skill": "juristischer-argumentationskern",
+    "path": "weg-hausverwaltung/skills/juristischer-argumentationskern/SKILL.md",
+    "before_sha256": "1df41212f2a2715e59261fbba7f2a84acb1b761c671033d4046a56d68a97ef71"
+  },
+  {
+    "plugin": "wirtschaftsanwalt",
+    "source": "./wirtschaftsanwalt",
+    "theme": "wirtschaftsanwalt",
+    "main_skill": "unternehmensmandat-bis-zum-dokument-bearbeiten",
+    "path": "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md",
+    "before_sha256": "b10da34aca6fd911769d99f355d0411111e7ecdaa459e84ce481ddac09e2132c"
+  },
+  {
+    "plugin": "zugewinnausgleich",
+    "source": "./zugewinnausgleich",
+    "theme": "zugewinnausgleich",
+    "main_skill": "vermoegensbelege-bis-zur-gesamtberechnung",
+    "path": "zugewinnausgleich/skills/vermoegensbelege-bis-zur-gesamtberechnung/SKILL.md",
+    "before_sha256": "82fcc92f29ab7a67b2bb78589d0fbd890b24b97debd11043b720da1d5928cfbf"
+  },
+  {
+    "plugin": "zwangsverwaltung-zvg",
+    "source": "./zwangsverwaltung-zvg",
+    "theme": "zwangsverwaltung",
+    "main_skill": "kommandocenter",
+    "path": "zwangsverwaltung-zvg/skills/kommandocenter/SKILL.md",
+    "before_sha256": "871424918d31bafafeee730516285edeab7170b7791e2374a787357e879c1557"
+  },
+  {
+    "plugin": "zwangsvollstreckung",
+    "source": "./zwangsvollstreckung",
+    "theme": "vollstreckung",
+    "main_skill": "kommandocenter",
+    "path": "zwangsvollstreckung/skills/kommandocenter/SKILL.md",
+    "before_sha256": "512fbbbc4f7db0101c5845b09675df7a963f073077a6216eb807281a0a848abc"
+  }
+]

@@ -1,9 +1,9 @@
 ---
 name: einstieg-routing
-description: "Führt vom vorhandenen Zeugnis zum passenden Analyse-, Vergleichs- oder Beratungsauftrag und liefert das bestellte Ergebnis mit den erforderlichen Schreiben."
+description: "Arbeitszeugnis prüfen und korrigierten Text liefern. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert vollständige verbesserte Zeugnisfassung und gegebenenfalls ein begründetes Berichtigungsverlangen mit präzise benannten Änderungen."
 ---
 
-# Arbeitszeugnisauftrag bearbeiten
+# Arbeitszeugnis prüfen und korrigierten Text liefern
 
 ## 1. Zweck und Anwendungsfall
 
@@ -14,6 +14,19 @@ Bearbeite einen klaren Auftrag unmittelbar. Ein ausdrücklich begrenzter Analyse
 Lies vollständiges Zeugnis, Vorfassungen, Tätigkeitsnachweise, Beurteilungen, Zusagen, Schriftwechsel und gegebenenfalls Vergleich oder Titel. Entnimm Rolle, Zeitraum, Ziel und Fristen zuerst diesen Unterlagen. Bei Dateien ohne ausdrückliche Aufgabe beginne mit der Arbeitnehmerprüfung, sofern der Kontext nicht dagegen spricht; eine eindeutige Einschränkung des Auftrags geht vor. Eine Anfrage zur Überarbeitung des Prompts selbst startet kein fiktives Mandat.
 
 ## 3. Ablauf
+
+**Aktenstart.** Vergleiche das vollständige Zeugnis mit Aufgabenprofil, Vorversion, Beurteilungen und Vergleich; behandle isolierte Wörter nicht automatisch als Geheimcode. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
+
+**Entscheidende Weiche.** Prüfe Vollständigkeit, Klarheit, innere Notenkonsistenz und belegbare Leistungsbewertung. Trenne objektiven Fehler, beweisbedürftige bessere Note und bloßen Stilwunsch.
+
+**Gezielte Vertiefung.** Bei tituliertem Zeugnis unterscheide Vollstreckung von neuer Berichtigungsklage. Bei entfernter Schlussformel prüfe Zusage oder Maßregelung; bei Form- und Unterschriftsmangel den konkreten Aussteller und vereinbarten Zeugnisweg. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
+
+**Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
+
+**Fertigstellen und fortschreiben.** Liefere vollständige verbesserte Zeugnisfassung und gegebenenfalls ein begründetes Berichtigungsverlangen mit präzise benannten Änderungen. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
+
+**Fachliche Durchführung und bestehende Verzweigungen:**
+
 
 ### 3.1. Arbeitsumfang und Maßstab
 
@@ -52,6 +65,38 @@ Enddokumente werden vollständig ausformuliert; Skelette, Halbsätze und reine A
 - „Vergleiche nur die beiden Verhaltensabsätze“ führt zu Textvergleich und begründeter Ersatzfassung, nicht zu zwei ungefragten Briefen.
 - „Prüfen Sie mein Zeugnis insgesamt“ führt aus Arbeitnehmerperspektive nach erforderlicher Sachverhaltsklärung zur vollständigen Beratung einschließlich der angezeigten Schreiben.
 - „Mein Arbeitgeber hat noch gar kein Zeugnis erteilt“ führt zur Prüfung und Formulierung des bestellten Erteilungsverlangens.
+
+
+
+### 6.1. Rechtsprechung im konkreten Arbeitsschritt
+
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
+
+1. [BAG, Urteil vom 27.04.2021, 9 AZR 262/20](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/). **Anwendung:** Individuelle Leistungs- und Verhaltensbeurteilung regelmäßig als gewichteter Text statt schulzeugnisartiger Einzelnotentabelle. **Grenze:** Kein allgemeines Listenverbot; übersichtliche Tätigkeitslisten bleiben möglich und das Urteil spricht keine bessere Note zu.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-25.
+
+2. [BAG, Urteil vom 18.11.2014, 9 AZR 584/13](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/). **Anwendung:** Wer eine gute statt durchschnittlicher Bewertung verlangt, muss entsprechende Leistungstatsachen darlegen; Branchenhäufigkeiten ersetzen sie nicht. **Grenze:** Volltext Rn. 8 bis 13; keine Beweislastregel für jeden Formmangel.
+
+   **Quellenstatus:** Am 18.11.2026 amtlichen HTML-Volltext, insbesondere Rn. 7–14 zur Darlegungs- und Beweislast, erneut gelesen.
+
+3. [BAG, Urteil vom 25.01.2022, 9 AZR 146/21](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/). **Anwendung:** Fehlenden erstmaligen Dank nicht als allgemeinen gesetzlichen Berichtigungsanspruch behandeln. **Grenze:** Zusage, Vereinbarung und Maßregelung wegen berechtigter Beanstandung gesondert prüfen.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-25.
+
+4. [BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/). **Anwendung:** Nachteilige Entfernung einer erteilten Schlussformel nach berechtigter Beanstandung an Paragraf 612a BGB prüfen. **Grenze:** Zulässige Rechtsausübung muss wesentliches Motiv sein; zeitliche Folge allein genügt nicht.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-25.
+
+5. [BAG, Beschluss vom 07.05.2026 – Az. 8 AZB 25/25, Rn. 12 bis 22](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/). **Anwendung:** Arbeitnehmerentwurf mit Abweichung nur aus wichtigem Grund als mögliche Konkretisierung eines vollstreckbaren Titels prüfen. **Grenze:** Eindeutiger maßgeblicher Entwurf sowie Wahrheit und Klarheit bleiben erforderlich; konkrete Einwendungen können Zwangsgeld verhindern.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-30.
+
+#### 6.1.1. Beweis und Abschluss
+
+Wer eine überdurchschnittliche Zeugnisnote verlangt, muss die dafür tragenden Leistungen vortragen und gegebenenfalls beweisen; Branchenhäufigkeit guter Noten ersetzt diese Tatsachen nicht. Abweichende vertragliche Zusagen, ein tituliertes Vorschlagsrecht, unrichtige Tätigkeitsangaben und Maßregelung sind eigenständige Prüfungen. Eine gesetzlich nicht geschuldete Schlussformel ist nicht mit einer verbindlich zugesagten oder später maßregelnd entfernten Formel gleichzusetzen.
+
+Die belegten Ergebnisse in der angeforderten fertigen Fassung ausformulieren. Frist, Form, Zuständigkeit, Beträge und Anlagen gegeneinander prüfen. Eine Visualisierung nur mit tatsächlich verfügbaren Werkzeugen verwenden; andernfalls Tabelle oder Textskizze. Keine Übermittlung oder erfolgreiche Einreichung behaupten, die nicht stattgefunden hat.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

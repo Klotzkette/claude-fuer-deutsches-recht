@@ -110,11 +110,29 @@ def validate_scope(scope: dict, root: Path) -> dict[str, dict]:
             raise ValueError(f"{name}: Quelle liegt außerhalb des Repositorys")
         actual_prompts = {f"{name}-{kind}.{ext}" for kind in ("werkstatt", "schnellstart", "hauptproblem")
                           for ext in ("md", "txt") if (directory / f"{name}-{kind}.{ext}").is_file()}
-        if set(prompts) != actual_prompts:
-            raise ValueError(f"{name}: bestehender Promptbestand ist nicht vollständig deklariert: {sorted(actual_prompts ^ set(prompts))}")
+        # Unveränderte eigenständige Prompts brauchen bei einer reinen Skillrunde
+        # keinen weiteren Download. Sie bleiben vollständig deklariert und an
+        # ihren geprüften Quellstand gebunden; kein stilles Weglassen.
+        retained = plugin.get("preserved_prompts", {})
+        if not isinstance(retained, dict) or set(retained) & set(prompts):
+            raise ValueError(f"{name}: ungültiger oder doppelt deklarierter erhaltener Promptbestand")
+        if set(prompts) | set(retained) != actual_prompts:
+            raise ValueError(f"{name}: bestehender Promptbestand ist nicht vollständig deklariert: {sorted(actual_prompts ^ (set(prompts) | set(retained)))}")
+        for filename, expected in retained.items():
+            if (not isinstance(expected, str) or not re.fullmatch(r"[0-9a-f]{64}", expected)
+                    or sha256_file(directory / filename) != expected):
+                raise ValueError(f"{name}: erhaltener Prompt wurde verändert und muss neu veröffentlicht werden: {filename}")
         validate_plugin_version(entries[name], market["version"], root=root)
         if entries[name]["version"] != scope["version"]:
             raise ValueError(f"{name}: Marketplace-Version passt nicht zum Scope")
+    if scope.get("required_main_workflow_reviews") is not None:
+        if scope["required_main_workflow_reviews"] is not True:
+            raise ValueError("Hauptworkflow-Nachprüfung muss ausdrücklich true sein")
+        from main_skill_revisions import validate_all, index
+        validate_all(root)
+        reviewed_plugins = {row["plugin"] for row in index(root).values()}
+        if seen != reviewed_plugins:
+            raise ValueError("Release-Scope und geprüfte Hauptworkflow-Fortschreibungen weichen ab")
     required_reviews = scope.get("required_file_reviews", {})
     if (not isinstance(required_reviews, dict) or not set(required_reviews) <= seen
             or any(type(count) is not int or count < 1 for count in required_reviews.values())):

@@ -1,9 +1,9 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Fluggastrechte ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Fluggastanspruch vom Buchungsverlauf zum bezifferten Anspruch führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Juristischer Argumentationskern - Fluggastrechte
+# Fluggastanspruch vom Buchungsverlauf zum bezifferten Anspruch führen
 
 ## 1. Direktstart
 
@@ -15,20 +15,19 @@ Gleiche Buchung und tatsächlichen Flugverlauf ab. Prüfe den Anspruch für den 
 
 Prüfe vor jeder Verwendung die herangezogene Entscheidung in einer aktuell zugänglichen Quelle.
 
-## 2. Die tragende These
+## 2. Vom Aktenstand zum fertigen Ergebnis
 
-Formuliere das Ergebnis für Fluggastrechte in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1. Buchung, ausführende Fluggesellschaft, Teilstrecken, tatsächliche Ankunft und Störungsbegründung auswerten; einheitliche Buchung und getrennte Tickets unterscheiden.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2. Räumlichen Anwendungsbereich und Ausgleichstatbestand bestimmen; Entfernung, Endzielverspätung, Unterstützungsleistung und Ticketerstattung separat berechnen.
+
+3. Bei außergewöhnlichen Umständen den konkreten Ereignis- und Kausalitätsnachweis sowie zumutbare Maßnahmen im Fachweg prüfen. Streik, technischer Defekt und externe Störung nicht pauschal gleich behandeln.
+
+4. Anspruchsschreiben oder Erwiderung mit Betrag und Belegen vollständig formulieren; Pressemitteilung als solche markieren und unbekannte Tatsachen nicht durch vermeintliche Flugstatistiken ersetzen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3. Materienspezifische Tatbestandsarbeit
 
@@ -62,15 +61,15 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 5. Rechtsprechung als Entscheidungshilfe
 
-5.1. EuGH, Urteil vom 22.12.2008 - C-549/07: Wallentin-Hermann verlangt für außergewöhnliche Umstände ein nicht zur normalen Tätigkeit gehörendes, tatsächlich nicht beherrschbares Ereignis sowie den Nachweis aller zumutbaren Maßnahmen.
-5.2. EuGH, Urteil vom 19.11.2009 - C-402/07 und C-432/07: Sturgeon stellt eine Ankunftsverspätung von mindestens drei Stunden für die Ausgleichsleistung grundsätzlich einer Annullierung gleich.
-5.3. EuGH, Urteil vom 31.05.2018 - C-537/17: Bei einheitlicher Buchung kann ein Flug mit Umstieg und Flugzeugwechsel außerhalb der Union ein einheitlicher Anschlussflug im Anwendungsbereich der Verordnung sein.
-5.4. EuGH, Urteil vom 23.03.2021 - C-28/20: Ein rechtmäßig organisierter Streik des eigenen Personals zur Durchsetzung von Arbeitsbedingungen ist grundsätzlich kein außergewöhnlicher Umstand.
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+- [EuGH, Urteil vom 22.12.2008, C-549/07, Wallentin-Hermann](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=ecli:ECLI:EU:C:2008:771): Rn. 23–27, 39–43: Technisches Ereignis und externe Ursache unterscheiden; Mindestwartung ersetzt nicht Nachweis zumutbarer Maßnahmen. **Grenze:** Verdeckter externer Fabrikationsfehler kann anders liegen; keine wirtschaftlich untragbaren Maßnahmen verlangt.
+
+- [EuGH, Urteil vom 19.11.2009, C-402/07 und C-432/07, Sturgeon](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62007CJ0402): Rn. 61–63: Ausgleich bei mindestens drei Stunden Endzielverlust, Kürzung in passender Langstreckenkategorie prüfen. **Grenze:** Keine begriffliche Gleichstellung zur Annullierung; Entlastung und Anwendungsbereich bleiben erforderlich.
+
+- [EuGH, Urteil vom 31.05.2018, C-537/17, Wegener](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CJ0537): Rn. 16–25: Einheitliche EU-Abflugbuchung bleibt trotz Flugzeugwechsel im Drittstaat zusammenhängende Beförderung. **Grenze:** Keine automatische Übertragung auf getrennte Buchungen oder Rückflug.
 
 ## 6. Beweislast und Gegenangriff
 
@@ -81,14 +80,11 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Ergebnis fortführen und abschließen
 
-7.1. Gilt die VO (EG) 261/2004 für Abflug, Ankunft, Unternehmen und Buchungskette.
-7.2. Welche Störung liegt vor und wie groß ist die Verspätung am Endziel.
-7.3. Welche Distanzstufe, Kürzung und bereits erbrachte Leistung bestimmen den Betrag.
-7.4. Hat das Unternehmen Ereignis, Kausalität und zumutbare Gegenmaßnahmen konkret belegt.
-7.5. Welche Betreuungskosten oder individuellen Schäden bestehen neben der Ausgleichsleistung.
-7.6. Welches Gericht ist international, örtlich und sachlich zuständig.
+7.1. Die Entscheidung aus Abschnitt 2 mit der folgenden Fachprüfung und den belegten Aktenangaben zusammenführen. Neu gelieferte Tatsachen ersetzen die betroffene Annahme; Berechnung, Antrag und Folgeabschnitte derselben Fassung anschließend aktualisieren.
+7.2. Im fertigen Produkt je tragendem Punkt Rechtsregel, konkrete Tatsache, Beleg, Beweislast beziehungsweise Ermittlungsauftrag, stärkste Gegenposition und Antwort verbinden. Fristbeginn, Ereignis, Fristart und erforderliche Handlung ausdrücklich unterscheiden.
+7.3. Das verlangte Schreiben, den Vertrag, Schriftsatz, Entscheidungsentwurf oder Vermerk vollständig ausformulieren. Nur tatsächlich entscheidungserhebliche Restlücken außerhalb des Empfängertexts als konkrete nächste Aufgabe kennzeichnen.
 
 ## 8. Juristisches Schreiben
 

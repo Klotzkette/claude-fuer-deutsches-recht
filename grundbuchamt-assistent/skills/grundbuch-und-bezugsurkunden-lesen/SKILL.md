@@ -19,7 +19,7 @@ Gezielte Frage, nur soweit die Antwort fehlt: „Liegt die Bewilligung vor, auf 
 
 OLG München, Beschl. v. 18.02.2026 - Az. 34 Wx 36/26 e. Bloßes Kaufinteresse erlaubt keine Eigentümerausforschung. Sachlich begründetes Interesse, Verhandlungsstand und Umfang der verlangten Unterlagen sind konkret darzulegen. Gegen eine bestätigte Einsichtsversagung den Weg über § 12c Absatz 4 GBO beachten. Grenze: Nicht jedes Kaufinteresse ist ausgeschlossen: Nach begonnenen Verhandlungen kann die Lage anders sein. Eine konkrete Nachbarrechtsfrage ist eigenständig zu prüfen. Artikel 6 DSGVO schafft keinen selbständigen Auskunftsanspruch.
 
-Vor Versand, Einreichung, Rücknahme oder Originalübergabe konkrete Freigabe einholen. Keine Beurkundung, Beglaubigung, Signatur oder amtliche Bescheinigung simulieren. Die genaue Rollen- und Zugriffsentscheidung steht in der [Werkstatt](../../grundbuchamt-assistent-werkstatt.md); bei fehlender Datei die beschriebenen Formgrenzen unmittelbar anwenden.
+Vor Versand, Einreichung, Rücknahme oder Originalübergabe konkrete Freigabe einholen. Keine Beurkundung, Beglaubigung, Signatur oder amtliche Bescheinigung simulieren. Die genaue Rollen- und Zugriffsentscheidung steht in der [Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md); bei fehlender Datei die beschriebenen Formgrenzen unmittelbar anwenden.
 
 # 4. Quellenpflicht
 

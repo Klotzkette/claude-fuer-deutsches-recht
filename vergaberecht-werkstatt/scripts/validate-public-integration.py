@@ -63,7 +63,7 @@ def main() -> int:
         except ValueError as error:
             errors.append(str(error))
         manifest = json.loads((ROOT / role / ".claude-plugin/plugin.json").read_text(encoding="utf-8"))
-        if manifest["name"] != role or manifest["version"] != plugin["version"]:
+        if any(manifest.get(key) != plugin.get(key) for key in ("name", "version", "description")):
             errors.append(f"{role}: Plugin-Identitaet stimmt nicht")
         if manifest["author"] != {"name": "Klotzkette", "email": "39582916+Klotzkette@users.noreply.github.com"}:
             errors.append(f"{role}: Autor stimmt nicht")

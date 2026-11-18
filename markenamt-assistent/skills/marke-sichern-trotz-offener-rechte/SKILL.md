@@ -1,9 +1,17 @@
 ---
 name: marke-sichern-trotz-offener-rechte
-description: Einen DPMA- oder EUIPO-Fall bei Fristdruck und ungeklärter Inhaber- oder Beweislage priorisieren und bis zur fertigen Anmeldung oder Verteidigung führen.
+description: "Markenverfahren vom Zeichen bis zum begründeten Antrag führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Marke sichern trotz offener Rechte
+# Markenverfahren vom Zeichen bis zum begründeten Antrag führen
+
+Sichere Zeichenform, Waren- und Dienstleistungsverzeichnis, Anmelder, Priorität, Registerstand und laufenden Bescheid.
+
+**Entscheidung im Arbeitsablauf:** Trenne absolute Schutzhindernisse, ältere Rechte, Benutzung und Verfahrensfristen. Ordne jede Beanstandung der konkreten Ware oder Dienstleistung zu.
+
+**Bis zum Ergebnis weiterarbeiten:** Erstelle das bestellte Verzeichnis, die Anmeldeempfehlung, Bescheidserwiderung oder Widerspruchsbegründung mit bestimmten Anträgen und tatsächlichen Nachweisen. Eine Einschränkung des Verzeichnisses verlangt neuen Schutzumfangsabgleich; eine Registerrecherche ist keine Garantie, dass keinerlei ältere Rechte bestehen.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

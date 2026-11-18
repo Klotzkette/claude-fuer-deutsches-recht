@@ -1,9 +1,9 @@
 ---
 name: compliance-auftrag-steuern
-description: "Steuert konkrete Aufträge der Konzernrechts- und Compliance-Abteilung bis zum fertigen Arbeitsprodukt. Für Richtlinienauskunft, Ausnahmeentscheidung, Rechtsrecherche und Regulierungsmonitoring sowie die Zuordnung zu KI-Freigabe, Kundenauskunft, Meldestelle, Geschäftspartnerprüfung oder Organbericht."
+description: "Compliance-Vorfall zur begründeten Entscheidung und Maßnahme führen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert vollständigen Entscheidungsvermerk mit belegtem Befund, stärkster Entlastung, konkreter Maßnahme und gegebenenfalls ausformuliertem Melde- oder Antwortentwurf."
 ---
 
-# Compliance-Auftrag steuern
+# Compliance-Vorfall zur begründeten Entscheidung und Maßnahme führen
 
 ## 1 Zweck und Anwendungsfall
 
@@ -14,6 +14,19 @@ Bearbeiten Sie den vorhandenen Auftrag bis zur entscheidungsreifen Empfehlung, a
 Lesen Sie Auftrag, Entscheidungstermin, Unterlagen, delegierte Befugnisse, aktuelle Vorgaben und gewünschtes Ergebnis. Erfassen Sie fehlende Angaben nur, soweit sie die beauftragte Entscheidung verändern. Bei einer SE klären Sie Organmodell und Zuständigkeit anhand Satzung und Geschäftsordnung; übernehmen Sie kein AG-Schema ungeprüft. Dateien ohne Auftrag erfordern zunächst die Klärung von Arbeitsprodukt oder Adressat.
 
 ## 3 Ablauf und Checkliste
+
+**Aktenstart.** Lies Meldung, betroffene Gesellschaft, Prozess, Datenkategorien und vorhandene Kontrollnachweise. Halte gesicherte Vorgänge und Verdacht getrennt. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
+
+**Entscheidende Weiche.** Ordne akute Sicherung, rechtliche Untersuchung und spätere Abhilfe verschiedenen Verantwortlichen zu. Bei personenbezogenen Daten prüfe Zweck, Zugriff, Aufbewahrung und Auskunft; beim Konzernvergleich gilt keine automatische Weitergabefreiheit.
+
+**Gezielte Vertiefung.** Bei Kartell- oder Marktverhaltenssignal prüfe konkrete Kontakte, Markt und Zeitraum; bei automatisierter Entscheidung die tatsächliche Entscheidungswirkung. Behördenmeldung, interne Untersuchung und arbeitsrechtliche Sanktion benötigen je eigene Voraussetzungen. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
+
+**Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
+
+**Fertigstellen und fortschreiben.** Liefere vollständigen Entscheidungsvermerk mit belegtem Befund, stärkster Entlastung, konkreter Maßnahme und gegebenenfalls ausformuliertem Melde- oder Antwortentwurf. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
+
+**Fachliche Durchführung und bestehende Verzweigungen:**
+
 
 ### 3.1 Beleglage und Zuständigkeit
 
@@ -52,6 +65,38 @@ Liefern Sie das bestellte Arbeitsprodukt in vollständigen, ausformulierten Sät
 ## 6 Beispiele
 
 Bei ME-08 wird ein Monitorhinweis zu einer Aufgabe mit betroffenem Gerät, Ereignisauslöser, getrennten Fristen und verantwortlicher Stelle. Bei ME-09 wird aus dem Versionsvergleich eine ausformulierte Vertragsänderung. Ein späterer Export ändert nur die davon betroffenen Feststellungen und ihren Entscheidungsvorschlag.
+
+
+
+### 6.1. Rechtsprechung im konkreten Arbeitsschritt
+
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
+
+1. [EuGH, Urteil vom 7. Dezember 2023, C-634/21](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62021CJ0634). **Anwendung:** Prüft bei personenbezogenen Bewertungen die tatsächliche maßgebliche Verwendung. **Grenze:** Konkrete Datenverarbeitung und Wirkung für natürliche Personen prüfen. Die KI-Verordnung erfordert eine eigenständige Einordnung.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-08.
+
+2. [EuGH, Urteil vom 4. Mai 2023, C-487/21, Rn. 32, 39–45](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX%3A62021CJ0487). **Anwendung:** Erhält Kundendaten und benötigten Kontext in der Datenkopie. Wählt einen geeigneten Auszug oder das ganze Dokument, soweit dies für die wirksame Rechtsausübung erforderlich ist. **Grenze:** Kopie der personenbezogenen Daten und einzelfallbezogene Abwägung nach Art. 15 Abs. 4 DSGVO. Eine rote KI-Markierung ersetzt keine Entscheidung.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-10.
+
+3. [EuGH, Urteil vom 12. Januar 2023, C-154/21, Rn. 43–51](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=celex%3A62021CJ0154). **Anwendung:** Ordnet nachgewiesene konkrete Empfänger der Kundenauskunft zu. **Grenze:** Kategorien bei objektiv fehlender Identifizierbarkeit oder nachgewiesener offenkundiger Unbegründetheit oder Exzessivität.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-10.
+
+4. [EuGH, Urteil vom 22. Juni 2023, C-579/21, Rn. 73–83](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A62021CJ0579). **Anwendung:** Bei Zugriffsprotokollen Datum und Zweck der Abfragen von der Identität weisungsgebundener Beschäftigter trennen. **Grenze:** Identität der Beschäftigten bei Unerlässlichkeit für die wirksame Rechtsausübung und unter Berücksichtigung ihrer Rechte und Freiheiten prüfen. Der Fall betrifft interne Zugriffe.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-10.
+
+5. [EuG, Urt. v. 11.11.2026 – Az. T-523/24, Kerry und Kerry Ingredients (UK)/Kommission, ECLI:EU:T:2026:744, Rn. 80–85, 195–201, 222–225](https://publications.europa.eu/resource/celex/62024TJ0523.ENG.html). **Anwendung:** Sicherheitsnachweis bei Zulassung/Verlängerung von Raucharoma-Primärprodukten und begrenzte Bedeutung der Übergangsfrist. **Grenze:** Keine allgemeine Rückruf-Beweislast, keine Schokoladen-/Süßstoffentscheidung; Rechtskraft nicht geprüft.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-14.
+
+#### 6.1.1. Beweis und Abschluss
+
+Eine interne Prüfung ist kein Prozess mit pauschal zugeteilter Beweislast. Trenne bestätigte Tatsache, Verdachtsindiz, plausible Entlastung und nicht aufklärbaren Punkt; dokumentiere Herkunft und zulässigen Zugriff. Für späteren Rechtsstreit, Sanktion oder Meldung den jeweiligen gesetzlichen Maßstab gesondert bestimmen. HinSchG-Repressalienvermutung, GwG-Meldeschwelle und Datenschutz-Rechtmäßigkeit sind keine austauschbaren Beweisregeln.
+
+Die belegten Ergebnisse in der angeforderten fertigen Fassung ausformulieren. Frist, Form, Zuständigkeit, Beträge und Anlagen gegeneinander prüfen. Eine Visualisierung nur mit tatsächlich verfügbaren Werkzeugen verwenden; andernfalls Tabelle oder Textskizze. Keine Übermittlung oder erfolgreiche Einreichung behaupten, die nicht stattgefunden hat.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

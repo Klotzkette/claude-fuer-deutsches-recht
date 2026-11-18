@@ -1,9 +1,17 @@
 ---
 name: 01-kaltstart-aktenaufnahme
-description: "Default für neue oder ungeordnete Dieselakten und gemischte Uploads. Sichert Dateien und Fundstellen, bildet Fallkern, Lücken und Arbeitsstand und nennt genau einen nächsten Skill. Nicht für Anspruchs- oder Klageentwürfe."
+description: "Dieselfall vom Fahrzeugbeleg zur begründeten Forderung führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Kaltstart und Aktenaufnahme
+# Dieselfall vom Fahrzeugbeleg zur begründeten Forderung führen
+
+Ordne Kaufvertrag, Fahrzeugidentifikation, Motor, Zulassung, Softwarestand, Rückrufunterlagen und Nutzung genau diesem Fahrzeug und Erwerbszeitpunkt zu.
+
+**Entscheidung im Arbeitsablauf:** Trenne vorsätzliche sittenwidrige Schädigung von Schutzgesetzverletzung und Differenzschaden. Prüfe Einrichtung, Behördeninformation, Verschulden, Verjährung und Vorteilsausgleich anhand fahrzeugbezogener Belege.
+
+**Bis zum Ergebnis weiterarbeiten:** Erstelle die beauftragte Anspruchsbewertung oder den vollständigen Schriftsatz mit passendem Haupt- und Hilfsbegehren und nachvollziehbarer Schadensrechnung. Ein späterer KBA-Bescheid verlangt Abgleich von Version und Informationsgrundlage; geringe Jahresfahrleistung kann eine andere Nutzungsbewertung erfordern, ohne eine Pauschalquote zu rechtfertigen.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## Zweck und Anwendungsfall
 

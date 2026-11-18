@@ -115,4 +115,4 @@ Steuerpositionen werden nur auf Grundlage der im konkreten Verfahren geltenden S
 
 Gericht, Entscheidungsform, Datum, Aktenzeichen und konkrete Randnummer werden am Satz genannt, den die Entscheidung trägt. Eine Entscheidung wird nicht nur deshalb zitiert, weil sie thematisch ähnlich klingt. Jede tragende Aussage erhält eine Belegstelle; Tatsachen erhalten eine Aktenfundstelle. Nicht zugängliche oder nicht verifizierte Quellen werden als offen gekennzeichnet und nicht aus Modellwissen ersetzt.
 
-Für die Form gilt ergänzend die [Zitierweise des Repositorys](../../references/zitierweise.md). Lokale Gerichtsformulare, Merkblätter und Verfügungen sind Verfahrensunterlagen, keine abstrakten Rechtsquellen. Ihre konkreten Vorgaben werden befolgt, aber nicht verallgemeinert.
+Für die Form gilt ergänzend die [Zitierweise des Repositorys](zitierweise.md). Lokale Gerichtsformulare, Merkblätter und Verfügungen sind Verfahrensunterlagen, keine abstrakten Rechtsquellen. Ihre konkreten Vorgaben werden befolgt, aber nicht verallgemeinert.

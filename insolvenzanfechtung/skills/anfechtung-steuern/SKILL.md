@@ -1,9 +1,9 @@
 ---
 name: anfechtung-steuern
-description: "Steuert die vollständige Insolvenzanfechtung aus Verwalter- oder Empfängersicht. Verbindet zehn Fachrouten, führt Vorgänge und Belege fort und liefert das bestellte Memo, Schreiben, den Schriftsatz oder Vergleich mit nachvollziehbaren Grenzen."
+description: "Insolvenzanfechtung handlungs- und beweisbezogen ausarbeiten. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert bezifferte Anfechtungsforderung, Klage oder Abwehr mit je Handlung vollständiger Tatbestands- und Beweisführung."
 ---
 
-# Insolvenzanfechtung vom Akteneingang bis zum Endprodukt steuern
+# Insolvenzanfechtung handlungs- und beweisbezogen ausarbeiten
 
 ## 1. Zweck und Anwendungsfall
 
@@ -20,6 +20,19 @@ Lesen Sie die vom Nutzer benannten Unterlagen und übernehmen Sie Rolle, Verfahr
 Nehmen Sie einen laufenden Bearbeitungsstand auf, sofern vorhanden. Er enthält führende Dateifassung, Vorgangskennungen, Belegstatus, Normfassung, offene Tatsachen, Fristobjekt, Betragsrechnung und nächsten Schritt. Ein vorheriges KI-Ergebnis ist eine Arbeitshypothese und keine verifizierte Quelle. Kontrollieren Sie seine tragenden Belege, ohne sämtliche unstreitigen Angaben bei jedem Folgeschritt neu zu erheben.
 
 ## 3. Ablauf und Checkliste
+
+**Aktenstart.** Lies Zahlungsbelege, Verträge, Mahnungen, Sicherheiten und Eröffnungsdaten; erfasse jede Rechtshandlung mit Empfänger, Betrag und maßgeblichem Zeitpunkt. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
+
+**Entscheidende Weiche.** Prüfe Gläubigerbenachteiligung, richtigen Anfechtungstatbestand und zeitliche Anwendbarkeit vor Kenntnis und Vorsatz. Trenne Verpflichtungsgeschäft, Zahlung und Besicherung; unterschiedliche Handlungen dürfen nicht zu einer pauschalen Krisenzahlung verschmelzen.
+
+**Gezielte Vertiefung.** Bei kongruenter Deckung genügt erkannte Zahlungsunfähigkeit nicht automatisch für Benachteiligungsvorsatz. Bei Sale-and-lease-back oder Liquiditätstausch tatsächlichen Vermögenseffekt berechnen; außenstehende Gegner erhalten keine pauschale interne Buchhaltungslast. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
+
+**Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
+
+**Fertigstellen und fortschreiben.** Liefere bezifferte Anfechtungsforderung, Klage oder Abwehr mit je Handlung vollständiger Tatbestands- und Beweisführung. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
+
+**Fachliche Durchführung und bestehende Verzweigungen:**
+
 
 ### 3.1 Ersten Arbeitsstand liefern
 
@@ -82,6 +95,38 @@ Alle Endprodukte werden vollständig ausformuliert in grammatikalisch vollständ
 „Prüfen Sie das Forderungsschreiben und entwerfen Sie die Antwort“ führt nach Aktenlektüre zur begründeten Antwort mit getrennter interner Risikonotiz. Der Skill verlangt nicht zuerst einen vollständigen allgemeinen Insolvenzfragebogen.
 
 „Erstellen Sie eine Anfechtungsklage zu den drei belegten Zahlungen“ führt über Zeitpunkt, Tatbestand, Betrag und Beweise zur ausformulierten Klage. Fehlt nur eine entscheidende Vertragszustimmung, wird diese gezielt nachgefragt, während Rubrum, Zahlungssachverhalt und unstreitige Teile bereits ausgearbeitet werden.
+
+
+
+### 6.1. Rechtsprechung im konkreten Arbeitsschritt
+
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
+
+1. [BGH, Urteil vom 6. Mai 2021 – IX ZR 72/20, ECLI:DE:BGH:2021:060521UIXZR72.20.0, insbesondere Rn. 30 bis 37 und 40 bis 42](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2020/IX_ZR__72-20.pdf?__blob=publicationFile&v=1). **Anwendung:** Bei kongruenten Deckungen nicht aus bekannter Zahlungsunfähigkeit allein auf Benachteiligungsvorsatz schließen. Erforderlich ist die ex ante belegte Vorstellung, andere Gläubiger auch künftig nicht vollständig befriedigen zu können; die entsprechenden Kenntnistatsachen des Empfängers sind eigenständig zu würdigen. Für Zahlungseinstellung sind ausdrückliche Erklärungen oder gleichgewichtige Indizien erforderlich. Eine bloße Ratenbitte oder wiederholte Verzögerung ist kein automatischer Vollbeweis. **Grenze:** Abschaffung der Vorsatzanfechtung, generelle Unanfechtbarkeit insolventer Zahlungen oder mechanische Übertragung der Anforderungen kongruenter Deckungen auf jede inkongruente Sicherung.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-22.
+
+2. [BGH, Urteil vom 18. April 2024 – IX ZR 129/22, ECLI:DE:BGH:2024:180424UIXZR129.22.0, Rn. 20 bis 27](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_129-22.pdf?__blob=publicationFile&v=1). **Anwendung:** Ein außenstehender Empfänger muss aus einer nicht durch Einzelbelege erläuterten, nur zusammengefassten Liquiditätstabelle keine nicht vorhandenen internen Kenntnisse gewinnen. Umfang des erforderlichen Bestreitens hängt von Substantiierung des Verwaltervortrags und eigener Kenntnis ab. Forderung, Fälligkeit, liquide Mittel und Belege sind so aufzubereiten, dass konkrete Einwendungen möglich sind. **Grenze:** Pauschales Nichtwissen ist bei eigenen Handlungen immer zulässig; jede Liquiditätsrechnung benötigt ausnahmslos jeden Buchhaltungsbeleg als Anlage; der außenstehende Empfänger ist materiell von Anfechtung befreit.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-22.
+
+3. [BGH, Urteil vom 21. Mai 2026 – IX ZR 168/24, ECLI:DE:BGH:2026:210526UIXZR168.24.0, insbesondere Rn. 24 bis 35, 40 bis 45 und 55 bis 62](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_168-24.pdf?__blob=publicationFile&v=1). **Anwendung:** Verpflichtungsgeschäft und einzelne Erfüllungshandlungen getrennt prüfen. Das Sale-and-lease-back-Verpflichtungsgeschäft ist nicht allein wegen angemessenen Kaufpreises eine Deckung. Interne Krisenmails an Organ/Gesellschafter sind nicht automatisch nach außen hervorgetretene Zahlungseinstellung, können aber Krisenwissen belegen. Aufrechnung mit einem Altdarlehen schafft keinen für § 142 ausreichenden Aktivzufluss. Ein Sanierungsansatz muss Ursachen adressieren; bloßes kurzfristiges Schließen einer Liquiditätslücke genügt nicht ohne Weiteres. **Grenze:** Interne Nachrichten sind generell unbeachtlich; alle Sale-and-lease-back-Geschäfte sind anfechtbar; Gesellschafterstellung allein ersetzt Kenntnis- oder Vorsatzbeweis. Eine Nachricht an einen Gesellschafter kann anders zu würdigen sein, wenn dieser tatsächlich als Gläubiger auftritt.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-22.
+
+4. [BGH, Urteil vom 17.09.2026 – IX ZR 229/23, Rn. 13–16, 24, 28–29, 37–38](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304032026.zip). **Anwendung:** Tilgung, atypisch vorfinanzierte Warenlieferung und Zinszahlungen getrennt prüfen. Die Anfechtung der Befriedigung einer Gesellschafterdarlehensforderung nach § 135 Abs. 1 Nr. 2 InsO setzt den insolvenzrechtlichen Nachrang durch. **Grenze:** Art. 13 EuInsVO a. F. hindert diese Rangdurchsetzung nicht. Art. 16 der Neufassung und gewöhnliche Fremdfinanzierung gesondert prüfen. Zinszahlungen zur Tatsachenfeststellung zurückverwiesen.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-10.
+
+5. [BGH, Urt. v. 24.09.2026 – Az. IX ZR 65/25, Rn. 13–20](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__65-25.pdf?__blob=publicationFile&v=1). **Anwendung:** Eine nach außen erklärte Unfähigkeit, eine erhebliche fällige Schuld binnen drei Wochen auch nicht ratenweise zu zahlen, im Gesamtbild würdigen. **Grenze:** Bloße Ratenbitte und spätere Zahlungsversprechen verlangen eigene Würdigung. Die Kenntnis nach § 130 InsO ist gesondert zu prüfen.
+
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-11-13.
+
+#### 6.1.1. Beweis und Abschluss
+
+Unterscheide das Insolvenzverfahren mit § 5 InsO, die Glaubhaftmachung eines Gläubigerantrags nach § 14 InsO und einen streitigen Zivilprozess. Der Anfechtungskläger muss die anspruchsbegründenden Tatsachen darlegen und beweisen; sekundäre Darlegungslast oder Beweisvereitelung verlangen besondere Voraussetzungen. Ein außenstehender Empfänger muss fehlende Schuldnerbuchhaltung nicht generell ersetzen. Bei Organhaftung, Tabellenfeststellung und Planbestätigung gelten jeweils eigene Nachweisregeln. Rechnung, Indizienwürdigung und offene Datenlücke bleiben getrennt.
+
+Die belegten Ergebnisse in der angeforderten fertigen Fassung ausformulieren. Frist, Form, Zuständigkeit, Beträge und Anlagen gegeneinander prüfen. Eine Visualisierung nur mit tatsächlich verfügbaren Werkzeugen verwenden; andernfalls Tabelle oder Textskizze. Keine Übermittlung oder erfolgreiche Einreichung behaupten, die nicht stattgefunden hat.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

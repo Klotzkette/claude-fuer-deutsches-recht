@@ -1,8 +1,16 @@
 ---
 name: rollen-und-anwendungsdatum
-description: Bestimmt für konkrete KI-Kommunikationsfunktionen Anbieter, Betreiber und den zeitlichen Anwendungsbereich von Artikel 50. Nutzen bei unklarer Kanzleirolle, Beschäftigtenkonten oder behaupteter Omnibus-Schonfrist, nicht für eine vollständige Hochrisiko-Zertifizierung.
+description: "Transparenzpflichten in konkrete Hinweise und Nachweise übersetzen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
-# Rollen und Anwendungsdatum
+# Transparenzpflichten in konkrete Hinweise und Nachweise übersetzen
+
+Lies tatsächliche Nutzerinteraktion, generierte Inhalte, Zielgruppe und Rollenverteilung; sichere Verwendungszeitpunkt und Ausgabekanal.
+
+**Entscheidung im Arbeitsablauf:** Prüfe je Tatbestandsalternative die anwendbare Transparenzpflicht und Ausnahme. Trenne sichtbaren Nutzerhinweis, technische Kennzeichnung und daneben erforderliche Datenschutzinformation.
+
+**Bis zum Ergebnis weiterarbeiten:** Formuliere die konkreten Hinweise für den jeweiligen Bildschirm oder Inhalt und beschreibe den überprüfbaren technischen Nachweis. Eine redaktionelle Bearbeitung oder neue Zielgruppe verlangt erneute Prüfung der passenden Ausnahme; ein allgemeiner Hinweis im Impressum genügt nicht automatisch.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

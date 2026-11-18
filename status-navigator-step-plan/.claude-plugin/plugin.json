@@ -1,6 +1,6 @@
 {
   "name": "status-navigator-step-plan",
-  "version": "445.36.0",
+  "version": "445.36.8",
   "description": "Dokumentenlagen in eine Excel-Arbeitsmappe mit Überblick, vorhandenen und fehlenden Unterlagen sowie nächsten Arbeitsschritten überführen. Optional eine interaktive Übersicht erzeugen, wenn die Oberfläche dies unterstützt. Keine rechtliche Bewertung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

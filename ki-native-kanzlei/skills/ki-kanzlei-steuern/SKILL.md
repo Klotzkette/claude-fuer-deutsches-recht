@@ -1,9 +1,17 @@
 ---
 name: ki-kanzlei-steuern
-description: "Führt Kanzleiaufträge vom Posteingang über Fachprodukt und menschliche Freigabe bis zur erlaubten Ausführung, Nachweiskontrolle und Abrechnung. Verbindet Mandatslauf und begrenzte Computersitzung mit echten Werkzeugen; standardmäßig Simulation. Für Tagesstart und mehrere Fachschritte, nicht für eine isolierte Fristrechnung."
+description: "KI-gestütztes Mandat bis zum fertigen Arbeitsprodukt steuern. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# KI-native Kanzlei: das Mandat vom Auftrag bis zum Ergebnis führen
+# KI-gestütztes Mandat bis zum fertigen Arbeitsprodukt steuern
+
+Lies Auftrag und bestehende Mandatsunterlagen, bestimme das bestellte Ergebnis und den entscheidenden Engpass; nutze vorhandene Aktenstände weiter.
+
+**Entscheidung im Arbeitsablauf:** Verbinde Fachprüfung, Quellenkontrolle, Berechnung und Dokumentbearbeitung in einem Arbeitsstand. Wähle nur tatsächlich verfügbare Werkzeuge und begrenze Datenzugriff auf den Auftrag.
+
+**Bis zum Ergebnis weiterarbeiten:** Erstelle das vollständig ausgearbeitete Dokument oder die bestellte Anwendung mit belegten Tatsachen, nachvollziehbarer Gegenprüfung und tatsächlich geprüfter Ausgabe. Neue Unterlagen werden in denselben Entwurf eingearbeitet; ein Werkzeugfehler verlangt einen funktionsfähigen Ersatzweg oder einen konkret benannten verbleibenden Schritt.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

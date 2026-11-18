@@ -1,9 +1,9 @@
 ---
 name: register-und-meldung-loesen
-description: "Prüft Register- und Meldepflichten der KI-Verordnung nach Rolle, System, Anlass und Zeitrecht. Erstellt Datensätze, Erstberichte, Ergänzungen und Anschreiben und hält Freigabe sowie tatsächlichen Eingang nach."
+description: "KI-Register- und Meldepflicht bis zur konkreten Einreichungsfassung prüfen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert ausgefüllten Registrierungs- oder Meldungsentwurf mit belegten Pflichtfeldern, belastbarer Fristenrechnung und klar markierten offenen Tatsachen."
 ---
 
-# Register und Meldungsfrage vollständig lösen
+# KI-Register- und Meldepflicht bis zur konkreten Einreichungsfassung prüfen
 
 ## 1. Zweck und Anwendungsfall
 
@@ -14,6 +14,19 @@ Prüft Register- und Meldepflichten der KI-Verordnung nach Rolle, System, Anlass
 Auftrag, Systembeschreibung, tatsächlicher Einsatz, Rolle, vorhandene Nachweise, Behördenkontakt, Zeitleiste und vorhandene Fassungen. Fehlende entscheidende Angaben gezielt bündeln; vorhandene Angaben nicht erneut abfragen.
 
 ## 3. Ablauf und Checkliste
+
+**Aktenstart.** Lies Systemzweck, Version, Einsatzkontext, Verantwortlichkeiten, Risikobewertung und Ereignisdokumentation; ermittle Anbieter-, Betreiber- oder sonstige Rolle. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
+
+**Entscheidende Weiche.** Prüfe die am maßgeblichen Tag geltende und anwendbare Fassung der KI-Verordnung. Trenne Hochrisikoeinstufung, Dokumentation einer Ausnahme, Registrierung und Meldung eines schwerwiegenden Vorfalls; ein Registereintrag heilt keine falsche Einstufung.
+
+**Gezielte Vertiefung.** Bei Art. 6 Abs. 4 begründe die konkrete Ausnahme und ihren Registrierungsanschluss; bei Vorfall rekonstruiere Kenntnis, Ursache, Auswirkungen und fristauslösenden Tatbestand. Behördlicher Adressat und Portal müssen tatsächlich zuständig und verfügbar sein. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
+
+**Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
+
+**Fertigstellen und fortschreiben.** Liefere ausgefüllten Registrierungs- oder Meldungsentwurf mit belegten Pflichtfeldern, belastbarer Fristenrechnung und klar markierten offenen Tatsachen. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
+
+**Fachliche Durchführung und bestehende Verzweigungen:**
+
 
 Beginnen Sie mit dem bestellten Ergebnis und den bereits vorhandenen Dateien. Erfassen Sie System und Version, tatsächlichen Verwendungszweck, Rolle, betroffene Staaten, Verfahrensstand und gewünschtes Produkt. Klären Sie zuerst eine akute Gefahr oder laufende äußere Frist. Bearbeiten Sie neben dieser Sofortfrage die bereits möglichen Teile des Hauptauftrags weiter.
 
@@ -38,11 +51,11 @@ Wählen Sie die einschlägigen Fachschritte aus der folgenden Zuordnung. Überge
 
 Ordnen Sie technische Nachweise ihrem konkreten Registerfeld oder Meldeanlass zu. Verwenden Sie die [Nachweisreferenz](../../references/nachweise-und-standards.md): ISO-Managementzertifikat, Bescheinigung der notifizierten Stelle, EU-Konformitätserklärung, Folgenabschätzung und Testbericht haben unterschiedliche Funktionen. Ein technisch belastbarer Bericht entscheidet nicht allein über Pflicht, Zuständigkeit oder Frist. Verwenden Sie die fünf [Testanker](../../references/testanker.md), um den betroffenen Datensatz und seine Begründung bei einer entscheidenden Tatsachenänderung fortzuschreiben.
 
-### 3.90. Fortsetzung und Übermittlung
+### 3.2. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.
 
-### 3.91. Abschlusskontrolle
+### 3.3. Abschlusskontrolle
 
 Lesen Sie die Endfassung gegen die Belege und die aktuelle Rechtslage. Kontrollieren Sie Rollen, Fristen, Versionen, Empfänger, Anlagen und begründete Aussagegrenzen. Ein fertig ausgefüllter Bogen ist kein Nachweis materieller Rechtmäßigkeit. Nennen Sie am Schluss das gelieferte Produkt und, soweit nötig, die konkrete noch erforderliche Entscheidung. Behaupten Sie keine fremde Freigabe und keinen erfolgreichen Versand ohne Beleg.
 
@@ -57,6 +70,20 @@ Ein begründetes Hauptprodukt, die dazu erforderlichen ausformulierten Anschreib
 ## 6. Beispiele
 
 Ein Anbieter liefert Zertifikat und Werbebroschüre, aber die Systemversion des Kunden weicht ab. Der Auftrag ist erst mit einem tragfähigen Produkt erledigt: Versionsabgleich, begründete Entscheidung, gezielte Nachforderung und ein entsprechend begrenzter Entwurf. Die bloße Aufzählung einschlägiger Artikel genügt nicht.
+
+
+
+### 6.1. Rechtsprechung im konkreten Arbeitsschritt
+
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
+
+Für die neuen Register- und Meldepflichten wird hier kein vermeintlicher Gerichtspräzedenzfall erfunden. Art. 6 Abs. 4, Art. 49 und die einschlägigen Vorfallmeldevorschriften anhand des am Ereignistag geltenden amtlichen Texts prüfen. Der vorhandene normative Fallanker bleibt ein Normnachweis, keine Rechtsprechung.
+
+#### 6.1.1. Nachweis und Abschluss
+
+Dokumentationspflicht, behördliche Nachweisanforderung und spätere Beweislast getrennt behandeln. Zweckbestimmung, Rolle, Risikoeinstufung, maßgebliche Version und Kenntniszeitpunkt jeweils belegen. Fehlende Systemunterlagen sind eine konkrete Lücke; daraus folgt weder automatisch die Ausnahme noch eine nachgewiesene Pflichtverletzung. Bei einem Vorfall gesicherte Auswirkungen, Ursache und noch offene Untersuchungsergebnisse getrennt melden.
+
+Die belegten Ergebnisse in der angeforderten fertigen Fassung ausformulieren. Frist, Form, Zuständigkeit, Beträge und Anlagen gegeneinander prüfen. Eine Visualisierung nur mit tatsächlich verfügbaren Werkzeugen verwenden; andernfalls Tabelle oder Textskizze. Keine Übermittlung oder erfolgreiche Einreichung behaupten, die nicht stattgefunden hat.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

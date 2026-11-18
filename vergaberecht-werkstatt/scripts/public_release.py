@@ -25,7 +25,7 @@ PROMPT_SUFFIXES = {
 }
 
 sys.path.append(str(ROOT.parent / "scripts"))
-from release_routing import plugin_asset_url, validate_plugin_version
+from release_routing import plugin_asset_url, scoped_asset_url, validate_plugin_version, verified_scoped_package_version
 from quality_lab import validate_prompt_review
 
 
@@ -57,7 +57,23 @@ def plugin_download(name: str) -> str:
 
 
 def check_plugin_version(plugin: dict) -> None:
-    validate_plugin_version(plugin, VERSION, root=ROOT.parent)
+    parent = ROOT.parent
+    marketplace = json.loads((parent / ".claude-plugin/marketplace.json").read_text(encoding="utf-8"))
+    role = plugin["name"]
+    entries = [entry for entry in marketplace["plugins"] if entry["name"] == role]
+    if len(entries) != 1 or entries[0].get("source") != f"./{COMPONENT}/{role}":
+        raise ValueError(f"{role}: eindeutige öffentliche Rollenquelle fehlt")
+    if plugin.get("version") != entries[0].get("version"):
+        raise ValueError(f"{role}: lokale und öffentliche Rollenfassung weichen ab")
+    validate_plugin_version(plugin, marketplace["version"], root=parent)
+    asset = f"{role}.zip"
+    route = scoped_asset_url(asset, root=parent)
+    if route is None:
+        raise ValueError(f"{role}: exakte Komponentenroute fehlt")
+    tag = route.rsplit("/", 2)[-2]
+    if not (tag.endswith(f"-v{plugin['version']}") or
+            verified_scoped_package_version(asset, tag, plugin["version"], root=parent)):
+        raise ValueError(f"{role}: Komponentenroute passt nicht zur Rollenfassung")
 
 
 def markdown_download(relative: str) -> str:

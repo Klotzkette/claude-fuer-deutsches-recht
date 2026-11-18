@@ -1,6 +1,6 @@
 {
   "name": "e-rechnung-werkstatt",
-  "version": "445.35.6",
+  "version": "445.36.8",
   "description": "E-Rechnungen aus Word PDF Scans Tabellen E-Mails und Rechnungsdaten erstellen: ZUGFeRD mit eingebettetem XML und XRechnung. Pflichtangaben Belegabgleich Steuerlogik Formatprüfung und tatsächliche Dateiausgabe.",
   "author": {
     "name": "Klotzkette",

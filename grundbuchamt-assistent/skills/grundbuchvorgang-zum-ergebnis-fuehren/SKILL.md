@@ -1,9 +1,9 @@
 ---
 name: grundbuchvorgang-zum-ergebnis-fuehren
-description: Hauptproblem-Skill für Grundbuchvorgänge von der vorhandenen Akte über Einsicht, Form, Berechtigung und Rückfragen bis zum fertigen Schreiben und überprüften Vollzugsstand.
+description: "Grundbuchvorgang von der Urkunde zum vollziehbaren Ergebnis führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# 1. Zweck und Anwendungsfall
+# Grundbuchvorgang von der Urkunde zum vollziehbaren Ergebnis führen
 
 Führe den konkreten Grundbuchvorgang zum beauftragten Ergebnis. Lies zuerst Auszug, Urkunden und Gerichtsschreiben. Antworte kurz, nenne den nächsten bearbeitbaren Schritt und frage nur nach Angaben, die dafür wirklich fehlen. Ohne Unterlagen kläre Grundstück, Rolle, Ziel und eine laufende Frist. Das Plugin hat zehn Fachskills und diesen elften Hauptproblem-Skill; es ersetzt weder Notar noch Grundbuchamt.
 
@@ -12,6 +12,20 @@ Führe den konkreten Grundbuchvorgang zum beauftragten Ergebnis. Lies zuerst Aus
 Grundbuchbezirk und Blatt, Eigentümer und betroffene Rechte, aktueller Auszug, Urkunden, Antrag und Zugangsnachweise, Vertretungsmacht, gerichtliches Aktenzeichen und gewünschtes Ergebnis. Führe widersprüchliche Fassungen mit Datum weiter. Ein Darlehenssaldo ist keine Aussage über den Fortbestand der Grundschuld.
 
 # 3. Ablauf / Checkliste
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Antrag, Grundbuchstand, Urkunden, Beteiligte und Vollmachten auslesen; Eintragung, Berichtigung, Einsicht und Rechtsmittel als unterschiedliche Vorgänge behandeln.
+
+2. Bewilligung, Einigung und formgerechten Nachweis einzeln prüfen. Erbfolge aus öffentlicher Verfügung nicht pauschal mit Erbscheinpflicht gleichsetzen; konkrete auslegungs- oder nachweisbedürftige Umstände benennen.
+
+3. Bei fehlendem Brief, Erbfolge oder berechtigtem Einsichtsinteresse den entsprechenden Fachweg laden. Ein Kaufinteresse rechtfertigt keine grenzenlose Einsicht und ein wiedergefundener kraftloser Brief lebt nicht automatisch auf.
+
+4. Eintragungsantrag, Zwischenverfügung, Beschwerde oder Vollzugsvermerk vollständig formulieren; jedes Hindernis einer behebbaren Tatsache und zulässigen Nachweisform zuordnen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3.1. Richtigen Weg bestimmen
 
@@ -65,6 +79,16 @@ Liefere das verlangte Dokument in vollständigen, ausformulierten Sätzen. Skele
 # 6. Beispiele
 
 „Der neue Brief wurde im September an die Bank versandt; heute lag der alte hinter dem Kopierer. Verfasse die notwendigen Schreiben und halte beide Briefnummern auseinander.“ Bearbeite den Wiederfund aus den vorhandenen Belegen, stelle nur entscheidende Rückfragen und produziere die Schreiben. Versende nichts eigenmächtig.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [OLG München, Beschluss vom 18.02.2026 - Az. 34 Wx 36/26 e](https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2026-N-1941): Bloßes Kaufinteresse erlaubt keine Eigentümerausforschung. Sachlich begründetes Interesse, Verhandlungsstand und Umfang der verlangten Unterlagen sind konkret darzulegen. Gegen eine bestätigte Einsichtsversagung den Weg über § 12c Absatz 4 GBO beachten. **Grenze:** Nicht jedes Kaufinteresse ist ausgeschlossen: Nach begonnenen Verhandlungen kann die Lage anders sein. Eine konkrete Nachbarrechtsfrage ist eigenständig zu prüfen. Artikel 6 DSGVO schafft keinen selbständigen Auskunftsanspruch.
+
+- [BGH, Beschluss vom 21.05.2026 - Az. V ZB 90/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZB__90-25.pdf?__blob=publicationFile&v=1): § 42 ZVG eröffnet jedermann Einsicht in die dort erfassten Teile einer konkreten Versteigerungsakte ohne vorherige Schwärzung personenbezogener Daten. Überlassene Inhalte dürfen nicht öffentlich verbreitet oder zu verfahrensfremden Zwecken an Dritte weitergegeben werden. **Grenze:** Das ist keine allgemeine Öffnung des Grundbuchs und kein Anspruch auf die komplette Versteigerungsakte. Für übrige Aktenteile gilt insbesondere § 299 Absatz 2 ZPO. Gericht und Verfahrensart zuerst bestimmen.
+
+- [BGH, Beschluss vom 20.11.2025 - Az. V ZB 40/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZB__40-24.pdf?__blob=publicationFile&v=1): Bei öffentlich beurkundeter Verfügung können Personenstandsurkunden nicht namentlich genannte Abkömmlinge identifizieren. Das Fehlen weiterer Abkömmlinge kann durch einfache Erklärungen in der Form des § 29 Absatz 1 GBO nachgewiesen werden. Verbleibende konkrete tatsächliche Zweifel sind entscheidend. **Grenze:** Keine formlose E-Mail als Ersatz; keine automatische Erbscheinbefreiung bei konkreten Zweifeln oder privatschriftlichem Testament. Eine eidesstattliche Versicherung ist im Verfahren nach § 35 Absatz 1 GBO nicht das gesetzliche Nachweismittel.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 4. Verständlich arbeiten und sichtbar prüfen

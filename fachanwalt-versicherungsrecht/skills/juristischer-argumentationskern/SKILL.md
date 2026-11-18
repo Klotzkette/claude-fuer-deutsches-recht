@@ -1,9 +1,9 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Fachanwalt Versicherungsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Versicherungsmandat vom Bedingungswerk zum begründeten Leistungsentwurf führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Juristischer Argumentationskern - Fachanwalt Versicherungsrecht
+# Versicherungsmandat vom Bedingungswerk zum begründeten Leistungsentwurf führen
 
 ## 1. Direktstart
 
@@ -13,20 +13,19 @@ Lies Bedingungen, Antrag und Schadenunterlagen zum konkreten Vertrag. Begründe 
 1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
-## 2. Die tragende These
+## 2. Vom Aktenstand zum fertigen Ergebnis
 
-Formuliere das Ergebnis für Fachanwalt Versicherungsrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag.
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1. Versicherungsschein, vollständige Bedingungen, Nachträge, Antrag, Schadenmeldung und Ablehnung auslesen; Vertragssparte und maßgebliche Fassung sichern.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2. Versicherungsfall und Deckungsumfang zuerst prüfen, danach Ausschluss, Obliegenheit, Kausalität und Kürzung. Beweislast je Prüfungspunkt statt pauschal dem Versicherungsnehmer zuordnen.
+
+3. Bei BU die tatsächliche Gesamttätigkeit, bei PKV die konkrete Kalkulations- oder Leistungsfrage und bei Sachschaden den genauen Ausschlusswortlaut im passenden Fachweg bearbeiten.
+
+4. Leistungsforderung oder begründete Abwehr mit Betrag, Auskunft, Belegen und Frist schreiben; außergewöhnliche Kürzungsfälle und tarifbezogene Urteile nicht als allgemeine Leistungsfreiheit verwenden.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3. Materienspezifische Tatbestandsarbeit
 
@@ -60,15 +59,15 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 5. Rechtsprechung als Entscheidungshilfe
 
-5.1. BGH, Urteil vom 10.03.2016 - I ZR 147/14: Der Versicherungsmakler muss das konkrete Risiko analysieren und eine sachgerechte Entscheidungsgrundlage schaffen; eine uninformierte sachwidrige Weisung darf er nicht einfach hinnehmen.
-5.2. BGH, Urteil vom 30.11.2017 - I ZR 143/16: Die Maklerpflicht kann Hilfestellung bei der Schadenregulierung und den Hinweis auf anspruchsvernichtende Ausschlussfristen umfassen.
-5.3. BGH, Urteil vom 22.06.2011 - IV ZR 225/10: Bei grob fahrlässiger Herbeiführung des Versicherungsfalls kann die Kürzung nach Paragraf 81 Absatz 2 VVG ausnahmsweise bis auf null reichen; erforderlich ist eine Einzelfallabwägung.
-5.4. BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Bei arglistiger Verletzung der vorvertraglichen Anzeigepflicht kann der Versicherer trotz fehlender Belehrung nach Paragraf 19 Absatz 5 VVG zurücktreten.
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+- [BGH, Urteil vom 19.07.2017, IV ZR 535/15](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_535-15.pdf?__blob=publicationFile&v=1): Zeitanteil einer nicht mehr möglichen Teilhandlung nicht isolieren, wenn diese untrennbarer Bestandteil eines beruflichen Gesamtvorgangs ist. **Grenze:** Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; kein automatischer Vollbeweis bedingungsgemäßer Berufsunfähigkeit.
+
+- [BGH, Urteil vom 22.06.2011, IV ZR 225/10](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2010/IV_ZR_225-10.pdf?__blob=publicationFile&v=1): Bei besonders schwerer grober Fahrlässigkeit kann Paragraf 81 Absatz 2 VVG ausnahmsweise vollständige Kürzung tragen. **Grenze:** Amtlicher Leitsatz; Alkohol-Fahruntüchtigkeit individuell würdigen, nicht auf jede verspätete Auskunft übertragen.
+
+- [BGH, Urteil vom 09.09.2026, IV ZR 259/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_259-25.pdf?__blob=publicationFile&v=1): Klausel zu Schäden durch Leckage infolge Gebäudereparaturen auf Wortlaut, Gebäudezusammenhang, Erheblichkeit und Ursache prüfen. **Grenze:** Wirksamkeit nur dieser Klausel; Bedeutung der Leckage als technischer Defekt blieb offen, kein allgemeiner Ausschluss jedes Wasserschadens bei Bauarbeiten.
 
 ## 6. Beweislast und Gegenangriff
 
@@ -79,13 +78,11 @@ Ausgangspunkt für dieses Plugin: Versicherungsnehmer für Versicherungsfall und
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Ergebnis fortführen und abschließen
 
-7.1. Welche Sparte und welche Bedingungen gelten.
-7.2. Ist der Versicherungsfall nach Zeit, Ort, Ursache und Schaden belegt.
-7.3. Welche Ausschlüsse oder Obliegenheiten werden geltend gemacht.
-7.4. Welche Belehrung und Kausalität sind beweisbar.
-7.5. Welche Leistung oder Quote ist schlüssig.
+7.1. Die Entscheidung aus Abschnitt 2 mit der folgenden Fachprüfung und den belegten Aktenangaben zusammenführen. Neu gelieferte Tatsachen ersetzen die betroffene Annahme; Berechnung, Antrag und Folgeabschnitte derselben Fassung anschließend aktualisieren.
+7.2. Im fertigen Produkt je tragendem Punkt Rechtsregel, konkrete Tatsache, Beleg, Beweislast beziehungsweise Ermittlungsauftrag, stärkste Gegenposition und Antwort verbinden. Fristbeginn, Ereignis, Fristart und erforderliche Handlung ausdrücklich unterscheiden.
+7.3. Das verlangte Schreiben, den Vertrag, Schriftsatz, Entscheidungsentwurf oder Vermerk vollständig ausformulieren. Nur tatsächlich entscheidungserhebliche Restlücken außerhalb des Empfängertexts als konkrete nächste Aufgabe kennzeichnen.
 
 ## 8. Juristisches Schreiben
 

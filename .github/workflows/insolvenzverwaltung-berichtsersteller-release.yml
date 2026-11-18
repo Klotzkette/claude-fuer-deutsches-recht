@@ -3,6 +3,8 @@ name: Insolvenzverwaltung Zwischen- und Schlussbericht-Ersteller
 on:
   pull_request:
     paths:
+      - 'scripts/check-insolvenz-components-checkout.py'
+      - 'scripts/test-insolvenz-components-checkout.py'
       - 'insolvenzverwaltung-berichtsersteller/**'
       - 'testakten/insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg/**'
       - 'testakten/insolvenzverwaltung-nordlicht-handels-kiel/**'
@@ -59,10 +61,19 @@ jobs:
           python3 scripts/audit-skill-activation.py
           python3 scripts/validate-markdown-structure.py
           node scripts/validate-marketplace-import.mjs
-      - name: Lesefassungen und Pakete bauen und prüfen
+      - name: Aktuellen Checkout samt vier Akten prüfen
+        if: github.event_name == 'pull_request'
+        run: |
+          python3 scripts/test-insolvenz-components-checkout.py
+          python3 scripts/check-insolvenz-components-checkout.py --component insolvenzverwaltung-berichtsersteller --dist "$RUNNER_TEMP/insolvenzverwaltung-berichtsersteller-dist"
+          python3 scripts/check-insolvenz-components-checkout.py --component insolvenzverwaltung-berichtsersteller --dist "$RUNNER_TEMP/insolvenzverwaltung-berichtsersteller-dist" --verify
+      - name: Historischen Komponentenrelease bauen und prüfen
+        if: github.event_name == 'workflow_dispatch'
         run: |
           python3 scripts/build-insolvenzverwaltung-berichtsersteller-release.py --dist "$RUNNER_TEMP/insolvenzverwaltung-berichtsersteller-dist"
           python3 scripts/test-insolvenzverwaltung-berichtsersteller.py --dist "$RUNNER_TEMP/insolvenzverwaltung-berichtsersteller-dist"
+      - name: Unveränderte geprüfte Akten und Nachweise sichern
+        run: |
           git diff --exit-code -- \
             testakten/insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg/gesamt-pdf \
             testakten/insolvenzverwaltung-nordlicht-handels-kiel/gesamt-pdf \

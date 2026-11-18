@@ -1,6 +1,6 @@
 # bea-versand
 
-**1 Skills** · Stand `v445.35.3`
+**1 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bea-versand/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`bea-versand-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.md) |
 | **Derselbe Werkstatt-Prompt als Text** | TXT | [`bea-versand-werkstatt.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [bea-versand.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bea-versand.zip) |
+| **Plugin (installierbar)** | ZIP | [bea-versand.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/bea-versand.zip) |
 
 ## So benutzt man einen Skill
 
@@ -27,4 +27,4 @@ English: This plugin contains one directly installed skill. The workshop is a se
 
 | Skill | Beschreibung | Markdown-Datei |
 | --- | --- | --- |
-| [`bea-anlagen-versand`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/skills/bea-anlagen-versand/SKILL.md) | Bereitet beliebige Hauptdokumente mit Anlagen für den beA-Versand vor. Ermittelt Anlagen aus Dokument und Kontext, ordnet Originale inhaltlich zu, konvertiert Kopien in PDF, stempelt die erste Anlagenseite und benennt die Dateien für den beA-Upload. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/skills/bea-anlagen-versand/SKILL.md) |
+| [`bea-anlagen-versand`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/skills/bea-anlagen-versand/SKILL.md) | Hauptdokument und Anlagen versandfertig aufbereiten. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/skills/bea-anlagen-versand/SKILL.md) |

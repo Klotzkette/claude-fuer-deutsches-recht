@@ -11,7 +11,7 @@ Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`gvb-reinigungsvergabe.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gvb-reinigungsvergabe-v1.0.0/gvb-reinigungsvergabe.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`gvb-reinigungsvergabe.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/gvb-reinigungsvergabe.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/gvb-reinigungsvergabe.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md) |
@@ -49,7 +49,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`gvb-reinigungsvergabe.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gvb-reinigungsvergabe-v1.0.0/gvb-reinigungsvergabe.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`gvb-reinigungsvergabe.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/gvb-reinigungsvergabe.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`gvb-reinigungsvergabe-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`gvb-reinigungsvergabe-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
@@ -71,8 +71,8 @@ Die [zehn ursprünglichen Markdown-Assistenten](../weitere-unterlagen/sektorenve
 
 | Fassung | Zweck | Download |
 | --- | --- | --- |
-| Plugin | Zehn Skills und örtlich zugeordnete Referenzen; Marketplace-Eintrag `gvb-reinigungsvergabe` | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gvb-reinigungsvergabe-v1.0.0/gvb-reinigungsvergabe.zip) |
-| Portables Plugin | Derselbe Inhalt mit umschließendem Plugin-Ordner | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gvb-reinigungsvergabe-v1.0.0/gvb-reinigungsvergabe-portable.zip) |
+| Plugin | Zehn Skills und örtlich zugeordnete Referenzen; Marketplace-Eintrag `gvb-reinigungsvergabe` | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/gvb-reinigungsvergabe.zip) |
+| Portables Plugin | Derselbe Inhalt mit umschließendem Plugin-Ordner | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/gvb-reinigungsvergabe-portable.zip) |
 | Werkstatt | Ausführlicher eigenständiger Ablauf von Bedarf bis Nachprüfung | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md" download>Werkstatt-Prompt als Markdown</a> |
 | Schnellstart | Kompakter eigenständiger Ablauf unter 7.500 Zeichen und Bytes | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md" download>Mini-Prompt als Markdown</a> |
 

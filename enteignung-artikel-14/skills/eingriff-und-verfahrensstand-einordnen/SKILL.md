@@ -1,45 +1,65 @@
 ---
 name: eingriff-und-verfahrensstand-einordnen
-description: Ordnet angekündigte Grundstückszugriffe nach Artikel 14 GG anhand vorhandener Akten ein und erstellt einen konkreten Mandantenbrief. Verwenden bei Kaufangebot, Anhörung oder unklarer Entziehungsankündigung, nicht als eigenständige Vergesellschaftungsprüfung nach Artikel 15.
+description: "Grundstückszugriff von Anhörung bis Rechtsschutz bearbeiten. Verarbeitet vorhandene Unterlagen, prüft entscheidende Fachfragen und führt den Auftrag zum vollständig formulierten Ergebnis."
 ---
 
-# 1. Zweck
+# Grundstückszugriff von Anhörung bis Rechtsschutz bearbeiten
 
-Bestimme, was der Staat tatsächlich verlangt: Eigentum, ein Nutzungsrecht, Besitz oder bloße Beachtung einer Nutzungsregel. Liefere einen verständlichen Brief mit der nächsten belegbaren Handlung, nicht nur eine Normenübersicht.
+## 1. Aus der vorhandenen Akte beginnen
 
-## 2. Eingaben
+1.1. Erstelle das bestellte Ergebnis: vollständiger Mandantenbrief, Anhörungsbeitrag, Verhandlungsvorschlag oder konkret beauftragter Rechtsschutzantrag. Nutze vorhandene Dateien, Angaben und frühere Entwürfe zuerst. Maßgebliches Material: Eigentum, Besitz, Flurstück, Planfeststellung, Erwerbsangebot, Anhörung, Besitzeinweisung und Zustellungen. Erfasse Rolle, Ziel, Rechtsstand und tatsächlichen Zugang aus diesen Quellen; bereits beantwortete Punkte nicht erneut abfragen.
 
-Lies zunächst den freigegebenen Ordner einschließlich E-Mail-Anhängen und Zustellungsbelegen. Erfasse Eigentümer, unmittelbaren Besitzer, Flurstück, Vorhaben und neuestes Behördenschreiben. Bei leerem Start frage nach Rolle und Schreiben; bei Dateien ohne Auftrag biete nach Sichtung Einordnung oder unmittelbare Antwort an. Bei klarem Auftrag beginne ohne erneute Vollaufnahme.
+1.2. Sichere die tatsächlich laufende Frist anhand Auslöser, Zustellung/Bekanntgabe, anwendbarer Vorschrift, Berechnung und zuständigem Empfänger. Wenn eine fristwahrende Handlung vor vollständiger Sachaufklärung nötig ist, fertige sie mit dem vorhandenen belastbaren Stand aus und bezeichne die noch zu ergänzende Begründung. Eine Frist ohne belegten Auslöser bleibt ungeklärt.
 
-## 3. Arbeitsablauf
+## 2. Den Fall in die richtige Fachroute führen
 
-1. Ordne jedes Schreiben dem Verfahrensstand zu: freihändiges Angebot, Enteignungsantrag, Ladung, Besitzeinweisung, Enteignungsbeschluss oder Ausführung. Eine Planfestsetzung ist kein bereits erfolgter Eigentumsentzug.
-2. Prüfe Artikel 14 Absatz 1 Satz 2 gegen Absatz 3: Zuordnungsänderung und Güterbeschaffung, nicht allein wirtschaftliche Belastungsintensität. Bei struktureller Überführung in Gemeinwirtschaft Artikel 15 gesondert abgrenzen; keinen BauGB-Antrag dafür erzeugen.
-3. Bestimme die behauptete gesetzliche Grundlage. Bei BauGB Zweck nach Paragraf 85 und Voraussetzungen nach 87; bei Fachplanung erst Spezialgesetz und dessen Rechtsweg prüfen. Paragraf 104 bezeichnet die Behörde, nicht die Ermächtigung zum Zugriff.
-4. Lies Zugangsbelege und tatsächliche Anträge. Trenne eine von der Behörde erbetene Antwortfrist von einer Rechtsbehelfsfrist. Bei anstehendem Baubeginn Besitzlage sofort prüfen, ohne ein nicht vorhandenes Eilverfahren zu behaupten.
-5. Schreibe den Brief aus Sicht des Auftraggebers. Nenne die stärkste gesicherte Feststellung und die entscheidende offene Frage. Nach neuem Beschluss aktualisiere Frist, Empfänger und Handlung; vorhandene Daten bleiben erhalten.
+2.1. Kaufverhandlung, Eigentumsentzug, Nutzungsregel und vorzeitige Besitzüberlassung unterscheiden. Gesetzliche Enteignungsgrundlage und Gemeinwohlzweck getrennt von Projektzulassung prüfen.
 
-### 3.1. Berliner Bericht richtig einordnen
+2.2. Flächenerforderlichkeit, mildere Trassen- oder Erwerbsalternative und ernsthafte Erwerbsbemühungen belegen; Entschädigung und Folgeschaden nach jeweiliger Spezialnorm und Zuständigkeit bestimmen.
 
-Wenn der Auftrag den Berliner Kommissionsbericht anführt, nutze die [Abgrenzung und Gegenargumente](../../references/berliner-kommissionsbericht.md). Ein Übergang vieler Grundstücke ist nicht allein wegen seiner Größe Vergesellschaftung; maßgeblich ist auch die gesetzlich gesicherte gemeinwirtschaftliche Wirtschaftsweise. Das Berliner Rahmengesetz von 2026 ist kein vollziehender Enteignungstitel und am 30.09.2026 noch nicht in Kraft. Erläutere im Brief, ob der Auftrag eine Grundstückseingabe oder einen eigenständigen Artikel-15-Prüfweg benötigt. Die Kommissionsmehrheit ersetzt keine gerichtliche Klärung.
+2.3. Planungsrechtliche Zulassung ersetzt nicht sämtliche Enteignungsvoraussetzungen; wirtschaftlicher Wertverlust allein begründet keine Enteignung. Nutzungsbeschränkung mit möglichen Ausgleichswegen gesondert prüfen.
 
-### 3.2. Naturschutzrechtliche Nutzungsbeschränkung
+2.4. Verknüpfe jeden entscheidenden Punkt mit konkreter Fundstelle und der daraus folgenden Passage im Arbeitsprodukt. Widersprüchliche Angaben nebeneinander prüfen; Akteninhalt, Schlussfolgerung und offene Tatsache auseinanderhalten. Darlegungs- und Beweislast sowie Beweismaß folgen aus der jeweiligen Anspruchs- oder Eingriffsnorm, nicht aus einer allgemeinen Rollenvermutung.
 
-Bei aufgegebener rechtmäßiger Forstnutzung wegen naturschutzrechtlicher Verbote nicht in die BauGB-Enteignungsroute wechseln. BVerwG, Urteil vom 26.03.2026, 10 C 4.25, Rn. 18–19 und 23–31, behandelt Paragraf 68 Absatz 1 BNatSchG als Ausgleich einer Inhalts- und Schrankenbestimmung. Zuerst andere Abhilfe, insbesondere Ausnahme oder Befreiung nach Paragraf 67, und deren Verfahrensstand ermitteln. Flächenplan und bisherige rechtmäßige Nutzung sichern. Privatnützigkeit der nicht gänzlich unbedeutenden beeinträchtigten Teilflächen prüfen; die Wirtschaftlichkeit des Gesamtbetriebs ist kein ausreichendes Gegenargument.
+## 3. Nur die benötigte Vertiefung öffnen
 
-Eine behauptete andere Nutzung muss auf diesen Flächen tatsächlich möglich und wirtschaftlich nennenswert sein. Nach neuen Befunden Flächenumfang, Kausalität und verbleibende Nutzung neu bewerten. Rn. 33–41 und Tenor: Zurückverweisung zur Tatsachenklärung, kein zugesprochener Geldbetrag, keine volle Verkehrswertgarantie. Landesrecht, Anspruchsgegner und Rechtsweg eigenständig prüfen. Diese Entscheidung trägt weder einen Artikel-15-Maßstab noch einen pauschalen Anspruch bei jedem Wertverlust; amtlichen Volltext im Quellenregister verwenden.
+Wähle anhand der vollständigen vorhandenen Fachrouten (einschließlich Sonderfristen und besonderen Rechtswegen) den passenden Ablauf. Lies dafür die [erhaltene Fachgliederung und Quellenkarten](../../references/hauptworkflow-fachpruefung.md). Sie enthält auch vorhandene Spezialverbindungen; nicht jede dort aufgeführte Route gehört zu jedem Auftrag. Aktive Fachskills werden nach dem konkreten Streitpunkt gewählt:
 
-## 4. Quellenprüfung
+3.1. [Grundstück, Rechte und Beteiligte](../grundstueck-rechte-und-beteiligte-klaeren/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-Nutze [Rechtsgrundlagen](../../references/rechtsgrundlagen.md), insbesondere Artikel 14 und 15, BauGB 85, 87, 104 sowie BVerfG vom 06.12.2016, Rn. 243–246. Die atomrechtliche Entscheidung ersetzt keine Prüfung der konkreten Straßenplanung. Beachte die [Zitierweise](../../references/zitierweise.md).
+3.2. [Enteignungszweck und Alternativen](../enteignungszweck-und-alternativen-pruefen/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-## 5. Ausgabeformat
+3.3. [Vorzeitige Besitzeinweisung](../vorzeitige-besitzeinweisung-pruefen/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-Vollständiger Mandantenbrief mit Betreff, Grundstück, dokumentiertem Stand, verständlicher Einordnung, konkretem Vorschlag und gezielter Unterlagenanforderung. Zustellungs- und Freigabehinweise separat. DOCX/PDF in Times New Roman 11 pt und dezimaler Gliederung; ohne Exportmöglichkeit vollständigen Text liefern. Nichts versenden oder Originale verändern.
+3.4. [Baulandsachen und Eilrechtsschutz](../baulandsachen-und-eilrechtsschutz-bearbeiten/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-## 6. Beispiele
+Fehlt eine automatische Skillauswahl, bearbeite den einschlägigen Fachtext selbst. Eine Übergabe an einen Spezialschritt beendet den Hauptauftrag nicht: integriere dessen Ergebnis in das bereits begonnene Auftragsdokument.
 
-„Die Stadt will 620 Quadratmeter; hier ist der Ordner“ führt zunächst zur Aktenlektüre und zwei passenden Angeboten, nicht zu zehn Fragen. „Ein Bebauungsplan senkt den Wert meines Gartens“ löst keine automatische Enteignungsentschädigung aus. „Das Land soll alle Energienetze übernehmen“ wird als andere Eingriffskategorie abgegrenzt.
+## 4. Rechtsprechung am Entscheidungspunkt einsetzen
+
+Die folgenden Anker nur bei passender Streitfrage einsetzen; Prüfstand und ausführliche Einordnung stehen in der verlinkten Quellenkarte. Übernommene Bestandsprüfung und frischer Primärabruf bleiben dort getrennt. Keine nicht gelesenen Randnummern, Literaturstellen oder behauptete neueste Rechtsprechung ergänzen.
+
+4.1. [BVerfG, Urteil vom 17.12.2013, Az. 1 BvR3139/08 und1 BvR3386/08, Rn.166,183.](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/12/rs20131217_1bvr313908.html): Gemeinwohlziel, Projekt und konkrete Flächenerforderlichkeit getrennt prüfen. Grenze: Bergrechtlicher Ausgangsfall, kein BauGB-Rechtswegbeleg und kein vorweggenommener Ausgang der Göttinger Akte.
+
+4.2. [BVerfG, Urteil vom 06.12.2016, Az. 1 BvR2821/11,1 BvR321/12 und1 BvR1456/12, Rn.243–246.](https://mkuem.rlp.de/fileadmin/14/Themen/Umweltschutz/Strahlenschutz/Urteil_BVG_zum_Verfassungsbeschwerdeverfahren.pdf): Zuordnungsänderung und Güterbeschaffung statt bloßer Belastungsintensität. Grenze: Atomrechtlicher Sachverhalt; keine pauschale Entschädigungsaussage für kommunale Verkehrsflächen.
+
+4.3. [BVerwG, Urteil vom 26.03.2026, 10 C 4.25](https://www.bverwg.de/260326U10C4.25.0): Bei naturschutzrechtlich unterbundener zuvor rechtmäßig ausgeübter Nutzung ist für Paragraf 68 Absatz 1 BNatSchG die Privatnützigkeit der nicht gänzlich unbedeutenden betroffenen Teilflächen maßgeblich. Weiterbestehende Rentabilität des Gesamtforstbetriebs genügt nicht. Andere Abhilfe, insbesondere Ausnahme/Befreiung, hat Vorrang. Grenze: Inhalts- und Schrankenbestimmung nach Artikel 14 Absatz 1 Satz 2 GG; keine Enteignung und keine Artikel-15-Regel. Aufhebung und Zurückverweisung zur Tatsachenklärung, kein Entschädigungszuspruch. Keine feste Flächenschwelle oder Verkehrswert-/Vollentschädigungsgarantie; nur Belastung jenseits der Sozialbindung. Landesrecht und Rechtsweg gesondert.
+
+4.4. [BVerfG, Beschluss vom 02.03.1999, Az. 1 BvL 7/91, Randnummern 92 bis 104](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1999/03/ls19990302_1bvl000791.html): Zumutbare Nutzung und wirtschaftliche Belastung bei eigentumsbezogenen Alternativen konkret belegen. Grenze: Denkmalschutzfall; kein allgemeiner Anspruch auf maximale Rendite oder unbegrenzte Entschädigung.
+
+## 5. Lücken schließen und denselben Entwurf fortschreiben
+
+5.1. Frage nur nach der fehlenden Angabe, die Rechtsfolge, Beweis, Antrag oder Frist verändert. Benenne dazu den betroffenen Punkt und das benötigte Dokument oder Datum. Arbeite an den bereits entscheidbaren Abschnitten weiter; eine offene Kernfrage wird kenntlich gemacht und nicht als Tatsache ergänzt.
+
+5.2. Fortsetzungsszenario: Die Behörde reduziert die benötigte Fläche, hält aber den Baubeginn aufrecht: Flächen-, Entschädigungs- und Besitzantrag im selben Dokument anpassen. Neue Angaben mit bisherigen Belegen abgleichen, dadurch überholte Annahmen entfernen und die geänderten Schlussfolgerungen im bestehenden Dokument einarbeiten. Keine neue Aufnahme des ganzen Falls verlangen.
+
+## 6. Vollständig formuliertes Ergebnis übergeben
+
+6.1. Das Endprodukt ist: vollständiger Mandantenbrief, Anhörungsbeitrag, Verhandlungsvorschlag oder konkret beauftragter Rechtsschutzantrag. Formuliere es in vollständigen Sätzen. Begehren oder Entscheidung, tragende Tatsachen, passende Rechtsregel, stärkste Gegenposition, Antwort und praktische Folge müssen zusammenpassen. Eine Tabelle, Quellenliste oder Weiterleitung allein erfüllt den Schreibauftrag nicht.
+
+6.2. Prüfe abschließend Frist, Form, Zuständigkeit, Namen, Zahlen, Fundstellen, Anlagen und Reichweite des Begehrens. Bezeichne entscheidende verbleibende Lücken und deren Folgen konkret. Trenne interne Quellen-/Fristnotiz und tatsächlichen Bearbeitungsstatus vom Empfängertext. Soweit technisch möglich Times New Roman 11 pt und dezimale Gliederung; in Markdown einen nötigen Exporthinweis getrennt halten.
+
+6.3. Eine nützliche Ansicht unterstützt die Fallentscheidung und wird mit neuen Angaben fortgeschrieben. Nutze nur tatsächlich verfügbare Funktionen; sonst genügt eine belegte Tabelle oder Skizze. Externe Einreichung, Versand und Verzicht nur innerhalb konkreter Autorisierung; ohne bestätigten Eingang keine erfolgreiche Einreichung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

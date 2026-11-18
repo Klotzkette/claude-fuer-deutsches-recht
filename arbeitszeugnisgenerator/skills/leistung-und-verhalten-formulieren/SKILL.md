@@ -25,7 +25,7 @@ Erfasse Anforderungsprofil, Beobachtungszeitraum, Zielvereinbarungen, Ergebnisse
 
 ## 4. Quellenpflicht
 
-Es gelten [Zitierweise](../../../references/zitierweise.md) und die [Rechtsprüfung](../../references/rechtsstand.md). Tragend: BAG, Urteil vom 18.11.2014 - Az. 9 AZR 584/13, Rn. 8 bis 13, 18 bis 24; BAG, Urteil vom 27.04.2021 - Az. 9 AZR 262/20, Rn. 17 bis 20; BAG, Urteil vom 15.11.2011 - Az. 9 AZR 386/10, Rn. 15 bis 27. Formulierungsbeispiele sind redaktionelle Varianten, keine vom Gericht gebilligten Einzelnoten.
+Es gelten [Zitierweise](../../references/zitierweise.md) und die [Rechtsprüfung](../../references/rechtsstand.md). Tragend: BAG, Urteil vom 18.11.2014 - Az. 9 AZR 584/13, Rn. 8 bis 13, 18 bis 24; BAG, Urteil vom 27.04.2021 - Az. 9 AZR 262/20, Rn. 17 bis 20; BAG, Urteil vom 15.11.2011 - Az. 9 AZR 386/10, Rn. 15 bis 27. Formulierungsbeispiele sind redaktionelle Varianten, keine vom Gericht gebilligten Einzelnoten.
 
 ## 5. Ausgabeformat
 

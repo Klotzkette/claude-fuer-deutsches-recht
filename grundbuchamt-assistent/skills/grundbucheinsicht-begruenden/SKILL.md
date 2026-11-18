@@ -21,7 +21,7 @@ OLG München, Beschl. v. 18.02.2026 - Az. 34 Wx 36/26 e. Bloßes Kaufinteresse e
 
 BGH, Beschl. v. 21.05.2026 - Az. V ZB 90/25. § 42 ZVG eröffnet jedermann Einsicht in die dort erfassten Teile einer konkreten Versteigerungsakte ohne vorherige Schwärzung personenbezogener Daten. Überlassene Inhalte dürfen nicht öffentlich verbreitet oder zu verfahrensfremden Zwecken an Dritte weitergegeben werden. Grenze: Das ist keine allgemeine Öffnung des Grundbuchs und kein Anspruch auf die komplette Versteigerungsakte. Für übrige Aktenteile gilt insbesondere § 299 Absatz 2 ZPO. Gericht und Verfahrensart zuerst bestimmen.
 
-Vor Versand, Einreichung, Rücknahme oder Originalübergabe konkrete Freigabe einholen. Keine Beurkundung, Beglaubigung, Signatur oder amtliche Bescheinigung simulieren. Die genaue Rollen- und Zugriffsentscheidung steht in der [Werkstatt](../../grundbuchamt-assistent-werkstatt.md); bei fehlender Datei die beschriebenen Formgrenzen unmittelbar anwenden.
+Vor Versand, Einreichung, Rücknahme oder Originalübergabe konkrete Freigabe einholen. Keine Beurkundung, Beglaubigung, Signatur oder amtliche Bescheinigung simulieren. Die genaue Rollen- und Zugriffsentscheidung steht in der [Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md); bei fehlender Datei die beschriebenen Formgrenzen unmittelbar anwenden.
 
 # 4. Quellenpflicht
 

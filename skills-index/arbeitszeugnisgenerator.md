@@ -1,6 +1,6 @@
 # arbeitszeugnisgenerator
 
-**5 Skills** · Stand `v445.35.3`
+**5 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../arbeitszeugnisgenerator/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`arbeitszeugnisgenerator-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnisgenerator/arbeitszeugnisgenerator-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`arbeitszeugnisgenerator-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnisgenerator/arbeitszeugnisgenerator-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [arbeitszeugnisgenerator.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitszeugnisgenerator.zip) |
+| **Plugin (installierbar)** | ZIP | [arbeitszeugnisgenerator.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/arbeitszeugnisgenerator.zip) |
 
 ## So benutzt man einen Skill
 
@@ -28,7 +28,7 @@ English: This index lists source skills, including specialist series accessed th
 
 | Skill | Beschreibung | Markdown-Datei |
 | --- | --- | --- |
-| [`arbeitszeugnis-erstellen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/SKILL.md) | Erstellt einfache, qualifizierte und Zwischenzeugnisse aus Personalunterlagen. Erfasst tatsächliche Aufgaben, Rollenwechsel und Beurteilungszeiträume und liefert einen individuellen Entwurf mit getrennten Beleglücken. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/SKILL.md) |
+| [`arbeitszeugnis-erstellen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/SKILL.md) | Arbeitszeugnis anhand belegter Leistungen ausformulieren. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert zusammenhängendes unterschriftsreifes Zeugnis mit individueller Tätigkeitsdarstellung und konsistenter Leistungs- und Verhaltensbewertung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnisgenerator/skills/arbeitszeugnis-erstellen/SKILL.md) |
 | [`ausbildungs-und-praktikumszeugnis-erstellen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnisgenerator/skills/ausbildungs-und-praktikumszeugnis-erstellen/SKILL.md) | Erstellt Ausbildungszeugnisse und Praktikumsnachweise nach dem tatsächlichen Rechtsstatus. Trennt gesetzlichen Grundinhalt, gewünschte Bewertung und Prüfungszeugnis und formuliert belegte Lernfortschritte. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnisgenerator/skills/ausbildungs-und-praktikumszeugnis-erstellen/SKILL.md) |
 | [`leistung-und-verhalten-formulieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/SKILL.md) | Formuliert belegte Leistungs-, Führungs- und Verhaltensbeurteilungen. Gewichtet Ergebnisse und Gegenbelege, wählt passende Gesamtformeln und erhält sachliche Unterschiede statt alle Sätze auf eine Wunschnote zu bringen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnisgenerator/skills/leistung-und-verhalten-formulieren/SKILL.md) |
 | [`zeugnis-pruefen-und-berichtigen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/SKILL.md) | Prüft und berichtigt vorhandene Zeugnisse anhand von Wortlaut, Akte und Rechtslage. Liefert gezielte Änderungen oder Anspruchsschreiben und trennt Bewertungsstreit, Maßregelung, Vergleich und Vollstreckung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnisgenerator/skills/zeugnis-pruefen-und-berichtigen/SKILL.md) |

@@ -1,3 +1,9 @@
+# Hauptskills 445.36.8 – 18. November 2026
+
+312 Hauptskills verbinden vorhandene Unterlagen, entscheidende Fachprüfungen und belegte Gegenargumente mit einem vollständig ausgearbeiteten Ergebnis. Neue Angaben werden im selben Entwurf fortgeführt. Die Rechtsprechungsanker benennen Anwendung, Grenze und tatsächlichen Quellenstatus; ausgewählte Primärquellen sind zusätzlich geprüft. Technische Skillnamen und die vorhandenen Testakten bleiben erhalten.
+
+Die installierbaren Pakete erhalten die erforderlichen lokalen Verweise. Historische Qualitätsnachweise bleiben unverändert und werden durch archivierte Vorfassungen sowie eine gesonderte, hashgebundene Fortschreibung ergänzt. Eigenständige Prompts behalten ihre bisherigen Downloads. [Umfang, Quellen und Prüfgrenzen](quality/hauptskills-2026-11-18/README.md), [Releaseumfang](docs/releases/qualitaetsrunde-v445.36.8.md).
+
 # Vier gemeinsame Fachplugins 445.36.5 – 15. November 2026
 
 Bauträgervertragsprüfung, Arbeitszeugnisprüfung, Sozialversicherungsstatus und Bau-Einkauf erhalten jeweils einen gemeinsamen Einstieg mit 10, 8, 14 und 14 auswählbaren Skills. Die Fachtexte, Vorlagen und beide bisherigen Fallbestände bleiben erhalten. Historische Quellordner führen zum gemeinsamen Plugin; sie bleiben als nachprüfbarer Bestand zugänglich.

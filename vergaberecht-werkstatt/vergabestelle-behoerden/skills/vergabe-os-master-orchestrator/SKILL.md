@@ -1,13 +1,27 @@
 ---
 name: vergabe-os-master-orchestrator
-description: 'Primärer Kaltstart ohne Skillwahl für jeden neuen Vergabestellenfall mit Ordner, ZIP, mehreren Dateien oder Systemexport. Immer zuerst einsetzen, wenn die Aufgabe noch nicht eng abgegrenzt ist. Sichert Fristen und Regime, ordnet Quellen, LV, Bestangebot, Upload und Rechtsschutz und routet danach gezielt zu höchstens drei Fachskills.'
+description: "Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Vergabestellen-Cockpit: sichert Verfahren, Fristen, Unterlagen, Wertung, Rechtsschutz und Veröffentlichung.
+# Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen
 
 **Arbeitsname:** Neuer Vergabestellenfall automatisch vorbereiten, ordnen und in den ersten Behördenoutput führen.
 
 <!-- BEGIN output-format-block (autogen) -->
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Bedarf, Akte, Verantwortlichkeit, Auftragsart, Wert, Regime und Beginn erfassen; Auftraggeberrolle und dokumentierte Entscheidungen während des Vorgangs beibehalten.
+
+2. Unterlagen, Eignung, Ausschluss, Preis und Zuschlagswertung getrennt bearbeiten. Verfahrensänderung und Nachforderung nur im geltenden Regime und mit Gleichbehandlung prüfen.
+
+3. Den Fachweg für den konkreten Engpass öffnen, etwa Unterlagenkorrektur, Niedrigpreisprüfung, Akteneinsicht oder Abschluss. Geheimhaltungsinteressen konkret abwägen; Unterlagen nicht pauschal wegen Bieterkennzeichnung zurückhalten.
+
+4. Vergabevermerk und beauftragtes Bieterschreiben vollständig erstellen; Entscheidung, Gegenargument, Beleg, Frist und zulässigen nächsten Schritt nachvollziehbar zusammenführen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## Output-Format (verbindlich)
 
@@ -244,6 +258,16 @@ Wenn vorhandene Datenquellen Bedarf, Priorisierung, Bündelung, LV, Budget oder 
 - `bieterfragen-antworten-management`, `22-ruegeerwiderung`, `23-stellungnahme-vergabekammer`, `26-akteneinsicht-vergabekammer` und `24-vorlage-an-den-vergabesenat` für Rüge, VK, Akteneinsicht, OLG und Vergleichslage.
 - `markterkundung-und-vorbefassung`, `losbildung-mittelstandsfoerderung`, `rahmenvereinbarung-abrufe-mini-wettbewerb` und `inhouse-interkommunal` für Vorbereitung, Bündelung und Beschaffungsstruktur.
 - `uvgo-unterschwellenvergabe`, `sektorenvergabe-sektvo`, `konzessionsvergabe-konzvgv` und `vob-a-bauvergabe` für Sonderregime.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtlicher Leitsatz a.](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1&Gericht=bgh&anz=272&nr=77591&pos=9): Der Preisabstand im kuenstlichen Fall begruendet zusammen mit der Schaetzung einen konkreten Aufklaerungsbedarf, nicht einen automatischen Ausschluss. **Grenze:** Nur amtliche Leitsaetze im Suchindex gelesen; direkter BGH-Volltextabruf scheiterte mit HTTP 403. Keine feste gesetzliche Prozentschwelle oder vollstaendige Uebertragung auf heutige Sonderregime behauptet.
+
+- [EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.](https://curia.europa.eu/jcms/jcms/p1_3865069/fr/): Die Behoerde begruendet Geheimhaltungsbedarf je Aktenteil und erhaelt den streiterheblichen wesentlichen Informationsgehalt fuer den Rechtsschutz. **Grenze:** Nur amtliche Pressezusammenfassung, nicht bindend und kein gepruefter Urteilsvolltext. Die Kammerentscheidung ueber konkrete Akteneinsicht wird nicht vorweggenommen.
+
+- [EuGH, Urteil vom 29.03.2012 – C-599/10](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A62010CJ0599%3AEN%3AHTML): Amtlicher Text, Rn.40–44 zur Angebotsklarstellung. **Grenze:** Frühere Richtlinie und nichtoffenes Dienstleistungsverfahren; heutige VOB/A eigenständig.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 1. Verständlich arbeiten und sichtbar prüfen

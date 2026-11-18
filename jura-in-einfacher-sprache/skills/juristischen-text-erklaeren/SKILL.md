@@ -1,9 +1,17 @@
 ---
 name: juristischen-text-erklaeren
-description: Erklärt einen Vertrag, Bescheid oder Gerichtsbrief in einfachen Worten. Trennt Aussage des Dokuments von geprüfter Rechtslage, beantwortet die konkrete Verständnisfrage und zeigt, welche Handlung oder Rückfrage daraus tatsächlich folgt.
+description: "Rechtsfrage verständlich erklären und eine nutzbare Antwort geben. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# 1. Juristischen Text erklären
+# Rechtsfrage verständlich erklären und eine nutzbare Antwort geben
+
+Lies den konkreten Brief oder die Frage und bestimme, welche Entscheidung die Person jetzt treffen muss.
+
+**Entscheidung im Arbeitsablauf:** Erkläre Begehren, Rechtsfolge und entscheidende Ausnahme in vertrauten Worten; halte belegte Frist und mögliche Handlungswege auseinander.
+
+**Bis zum Ergebnis weiterarbeiten:** Gib die verständliche Erklärung und bei entsprechendem Auftrag den fertigen Antwortentwurf aus, ohne unnötiges Lehrbuchwissen davorzustellen. Eine neue Information wird in dieselbe Erklärung und Antwort eingearbeitet; ein einfacherer Satz darf keine Anspruchsvoraussetzung oder Ausnahme verlieren.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

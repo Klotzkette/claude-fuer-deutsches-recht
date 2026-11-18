@@ -24,7 +24,7 @@ Benötigt werden Zeugnisart, bestätigter Inhalt, Vertragsende, Beendigungsart u
 
 ## 4. Quellenpflicht
 
-Es gelten [Zitierweise](../../../references/zitierweise.md) und die [Rechtsprüfung](../../references/rechtsstand.md). Paragraf 109 Absatz 3 GewO, Paragraf 16 Absatz 1 BBiG, Paragraf 630 und Paragraf 126a BGB jeweils passend zum Status prüfen. Schlussformeln: BAG, Urteil vom 25.01.2022 - Az. 9 AZR 146/21, Rn. 12 bis 24; BAG, Urteil vom 11.12.2012 - Az. 9 AZR 227/11, Rn. 9 bis 20. Änderungsschutz: BAG, Versäumnisurteil vom 06.06.2023 - Az. 9 AZR 272/22, Rn. 17 bis 23. Die alten Datums- und Unterschriftsanker nicht über ihren belegten Aussagegehalt hinaus verwenden.
+Es gelten [Zitierweise](../../references/zitierweise.md) und die [Rechtsprüfung](../../references/rechtsstand.md). Paragraf 109 Absatz 3 GewO, Paragraf 16 Absatz 1 BBiG, Paragraf 630 und Paragraf 126a BGB jeweils passend zum Status prüfen. Schlussformeln: BAG, Urteil vom 25.01.2022 - Az. 9 AZR 146/21, Rn. 12 bis 24; BAG, Urteil vom 11.12.2012 - Az. 9 AZR 227/11, Rn. 9 bis 20. Änderungsschutz: BAG, Versäumnisurteil vom 06.06.2023 - Az. 9 AZR 272/22, Rn. 17 bis 23. Die alten Datums- und Unterschriftsanker nicht über ihren belegten Aussagegehalt hinaus verwenden.
 
 ## 5. Ausgabeformat
 

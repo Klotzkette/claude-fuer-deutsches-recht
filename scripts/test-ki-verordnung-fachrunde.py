@@ -33,7 +33,9 @@ import yaml
 
 import quality_lab
 from prompt_profiles import PROMPT_SUFFIXES
-from release_routing import plugin_asset_url, case_asset_url, validate_plugin_version
+from release_routing import RELEASE_BASE, plugin_asset_url, case_asset_url, validate_plugin_version
+from main_skill_revisions import historical_bytes, index as main_skill_revisions
+from werkstatt_visualisierung import BEGIN, block, remove_block
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME, pdf_content_errors
 from testakte_einzelpdf_common import document_arcname_pairs
 from testakte_zip_common import working_dump_archive_pairs
@@ -41,21 +43,13 @@ from testakte_zip_common import working_dump_archive_pairs
 ROOT = Path(__file__).resolve().parents[1]
 VERSION = '445.35.2'
 TAG = 'ki-verordnung-v' + VERSION
-# Die veröffentlichte Fachrunde bleibt am ursprünglichen Tag prüfbar.
-# Im Hauptzweig haben diese drei Einzelpakete einen eigenen Nachfolger.
-EMPLOYMENT_SUCCESSORS = {
-    'ki-governance', 'ki-verordnung-hochrisiko-pruefer', 'ki-vo-ai-act-pruefer',
-}
-EMPLOYMENT_TAG = 'ki-arbeit-reskilling-v445.35.4'
-EMPLOYMENT_VERSION = '445.35.4'
-PACKAGE_SUCCESSORS = {
-    **{slug: (EMPLOYMENT_VERSION, EMPLOYMENT_TAG) for slug in EMPLOYMENT_SUCCESSORS},
-    'steuerrecht-anwalt-und-berater': ('445.35.5', 'steuerrecht-ustva-v445.35.5'),
-}
+# Aktenpins und PDF-Edition bleiben historisch. Installierbare Plugins und ihr
+# Index folgen ihrer jeweiligen Marketplace-Version und konkreten Komponentenroute.
 
 
 SCOPE_PATH = ROOT / 'scripts/data/ki-verordnung-release-scope.json'
 QUALITY = ROOT / 'quality/ki-verordnung-2026-10-09'
+PDF_EDITION = ROOT / 'quality/hauptskills-2026-11-18/ki-verordnung-pdf-edition.json'
 SPECIALISTS = (
     'ki-verordnung-verbotene-praktiken',
     'ki-verordnung-hochrisiko-pruefer',
@@ -96,7 +90,24 @@ class FachrundeTests(unittest.TestCase):
         cls.scope = read_json(SCOPE_PATH)
         cls.marketplace = read_json(ROOT / '.claude-plugin/marketplace.json')
         cls.entries = {p['name']: p for p in cls.marketplace['plugins']}
+        cls.package_pins = read_json(ROOT / 'scripts/scoped-release-assets.json')
+        cls.main_revisions = main_skill_revisions(ROOT)
         cls.release = load_script('build-ki-verordnung-release.py')
+
+    def without_canonical_visual(self, text, slug, *, kind='skill'):
+        if BEGIN in text:
+            self.assertEqual(block(text, slug, kind=kind), text,
+                             f'{slug}: nur der unveränderte kanonische Visualblock ist ausnehmbar')
+        return remove_block(text)
+
+    def handbook_source(self, path, slug):
+        """Historische PDF-Edition nur aus belegter Vorfassung rekonstruieren."""
+        revision = self.main_revisions.get(path.relative_to(ROOT).as_posix())
+        data = path.read_bytes()
+        if revision is not None:
+            data = historical_bytes(ROOT, path, revision['before_sha256'], plugin=slug)
+            self.assertEqual(sha(data), revision['before_sha256'], path)
+        return self.without_canonical_visual(data.decode('utf-8'), slug).encode('utf-8')
 
     def assert_pdf(self, data, label):
         self.assertTrue(data.startswith(b'%PDF-'), label)
@@ -122,13 +133,15 @@ class FachrundeTests(unittest.TestCase):
         self.assertEqual(len(set(self.scope['cases'])), 14)
         self.assertTrue(set(SPECIALISTS) <= set(self.scope['plugins']))
         self.assertEqual(set(self.scope['new_cases']), NEW_CASES)
+        self.assertEqual(self.package_pins['schema_version'], 1)
         for slug in self.scope['plugins']:
             with self.subTest(plugin=slug):
                 self.assertIn(slug, self.entries)
                 entry = self.entries[slug]
                 directory = self.release.plugin_directory(slug)
-                expected_version, expected_tag = PACKAGE_SUCCESSORS.get(slug, (VERSION, TAG))
-                self.assertEqual(entry['version'], expected_version)
+                expected_version = entry['version']
+                self.assertIn(f'{slug}.zip', self.package_pins['assets'])
+                expected_tag = self.package_pins['assets'][f'{slug}.zip']
                 manifest = read_json(directory / '.claude-plugin/plugin.json')
                 self.assertEqual(manifest['name'], slug)
                 self.assertEqual(manifest['version'], expected_version)
@@ -137,10 +150,16 @@ class FachrundeTests(unittest.TestCase):
                     self.assertEqual(read_json(codex)['name'], slug)
                     self.assertEqual(read_json(codex)['version'], expected_version)
                 validate_plugin_version(entry, self.marketplace['version'], root=ROOT)
-                self.assertTrue(plugin_asset_url(slug, root=ROOT).endswith(f'/{expected_tag}/{slug}.zip'))
+                self.assertEqual(plugin_asset_url(slug, root=ROOT),
+                                 f'{RELEASE_BASE}/download/{expected_tag}/{slug}.zip')
         for slug in self.scope['cases']:
             for suffix in ('', '-einzelpdfs'):
-                self.assertTrue(case_asset_url(slug, suffix, root=ROOT).endswith(f'/{TAG}/testakte-{slug}{suffix}.zip'))
+                # Die bereits ausgelieferten Grundakten und historischen PDF-Ausgaben
+                # haben bewusst getrennte, feste Pins; keine automatische Neuversionierung.
+                case_tag = (TAG if suffix else 'grundakten-ergaenzung-v1.0.0'
+                            if slug == 'ki-register-fuldatal-sozialhilfe' else 'grundakten-sammlung-v1.0.0')
+                self.assertEqual(case_asset_url(slug, suffix, root=ROOT),
+                                 f'{RELEASE_BASE}/download/{case_tag}/testakte-{slug}{suffix}.zip')
         # Every documented peripheral correction must be shipped, including legal README corrections.
         for correction in read_json(QUALITY / 'peripherie-korrekturen.json'):
             directory = (ROOT / correction['datei']).parent
@@ -150,6 +169,18 @@ class FachrundeTests(unittest.TestCase):
                     self.assertIn(read_json(manifest)['name'], self.scope['plugins'], correction['datei'])
                     break
                 directory = directory.parent
+
+    def test_historical_scope_is_independent_of_latest_quality_release(self):
+        original_read = read_json
+
+        def without_latest_scope(path):
+            if path.name == 'skill-quality-release-scope.json':
+                raise AssertionError('Eine spätere schmale Qualitätsrunde ist keine Vorgabe für alle 80 Plugins')
+            return original_read(path)
+
+        with mock.patch(__name__ + '.read_json', side_effect=without_latest_scope):
+            self.setUpClass()
+            self.test_scope_versions_and_routes()
 
     def test_four_specialists_skills_prompts_and_profiles(self):
         for slug in SPECIALISTS:
@@ -167,7 +198,8 @@ class FachrundeTests(unittest.TestCase):
                     self.assertEqual(meta['name'], path.parent.name)
                     self.assertLessEqual(len(meta['description']), 360, path)
                     self.assertNotIn('§', meta['description'], path)
-                    self.assertEqual(re.findall(r'^## (\d+)\.? ', body, re.M), list('123456'), path)
+                    core = self.without_canonical_visual(body, slug)
+                    self.assertEqual(re.findall(r'^## (\d+)\.? ', core, re.M), list('123456'), path)
                     for required in ('Times New Roman', '11 pt', 'ausformuliert'):
                         self.assertIn(required.lower(), body.lower(), path)
                 for kind in ('werkstatt', 'schnellstart', 'hauptproblem'):
@@ -243,7 +275,7 @@ class FachrundeTests(unittest.TestCase):
                               mock.call('komponente', [], 'v' + VERSION)])
         for slug in self.scope['plugins']:
             text = (ROOT / 'skills-index' / f'{slug}.md').read_text(encoding='utf-8')
-            expected_version = PACKAGE_SUCCESSORS.get(slug, (VERSION, TAG))[0]
+            expected_version = self.entries[slug]['version']
             self.assertIn(f'Stand `v{expected_version}`', text, slug)
 
     def test_official_source_archives(self):
@@ -337,6 +369,14 @@ class FachrundeTests(unittest.TestCase):
 
     def test_eight_handbook_pdfs_and_source_hashes(self):
         records = read_json(QUALITY / 'umfang.json')
+        edition = read_json(PDF_EDITION)
+        self.assertEqual(edition['schema_version'], 1)
+        self.assertEqual(edition['edition_tag'], TAG)
+        self.assertEqual(edition['previous_inventory'], (QUALITY / 'umfang.json').relative_to(ROOT).as_posix())
+        self.assertEqual(edition['previous_inventory_sha256'], sha((QUALITY / 'umfang.json').read_bytes()))
+        self.assertEqual(len(edition['files']), 3)
+        editions = {row['plugin']: row for row in edition['files']}
+        self.assertEqual(set(editions), set(SPECIALISTS) - {'ki-verordnung-hochrisiko-pruefer'})
         self.assertCountEqual([r['plugin'] for r in records], SPECIALISTS)
         for record in records:
             with self.subTest(plugin=record['plugin']):
@@ -344,16 +384,37 @@ class FachrundeTests(unittest.TestCase):
                 self.assertEqual(record['skill_count'], 11)
                 self.assertEqual(len(record['skills']), 11)
                 for skill in record['skills']:
-                    self.assertEqual(sha((ROOT / skill['source']).read_bytes()), skill['source_sha256'], skill['source'])
+                    self.assertEqual(sha(self.handbook_source(ROOT / skill['source'], slug)),
+                                     skill['source_sha256'], skill['source'])
                 handbook = ROOT / 'docs/handbuecher' / f'{slug}-skills-handbuch.pdf'
                 self.assertEqual(sha(handbook.read_bytes()), record['handbook_sha256'], handbook)
                 reader = self.assert_pdf(handbook.read_bytes(), handbook.name)
                 self.assertEqual(len(reader.pages), record['handbook_pages'])
                 workshop = record['workshop']
-                self.assertEqual(sha((ROOT / workshop['source']).read_bytes()), workshop['source_sha256'], workshop['source'])
+                if slug in editions:
+                    archived = editions[slug]
+                    name = Path(workshop['source']).name
+                    self.assertEqual(archived['source'], workshop['source'])
+                    self.assertEqual(archived['sha256'], workshop['source_sha256'])
+                    self.assertEqual(archived['archive'], f'quality/hauptskills-2026-11-18/ki-verordnung-pdf-edition/{name}.txt')
+                    self.assertEqual(archived['download_url'], f'{RELEASE_BASE}/download/{TAG}/{name}')
+                    source = (ROOT / archived['archive']).read_bytes()
+                else:
+                    source = self.without_canonical_visual((ROOT / workshop['source']).read_text(), slug,
+                                                           kind='workshop').encode('utf-8')
+                self.assertEqual(sha(source), workshop['source_sha256'], workshop['source'])
                 pdf = ROOT / 'docs/handbuecher' / f'{slug}-werkstatt-lesefassung.pdf'
                 self.assertEqual(sha(pdf.read_bytes()), workshop['pdf_sha256'], pdf)
                 self.assertEqual(len(self.assert_pdf(pdf.read_bytes(), pdf.name).pages), workshop['pages'])
+
+    def test_visual_exclusion_does_not_accept_foreign_text_or_extra_chapters(self):
+        slug = SPECIALISTS[0]
+        text = (ROOT / slug / 'skills/anwendungsbereich-stichtag-klaeren/SKILL.md').read_text()
+        self.assertIn(BEGIN, text)
+        for modified in (text.replace('## 7. Verständlich', '## 7. Beliebiger Zusatz: Verständlich'),
+                         text + '\n## 8. Ungeprüftes Zusatzkapitel\n\nFremder Inhalt.\n'):
+            with self.subTest(text=modified[-80:]), self.assertRaises(AssertionError):
+                self.without_canonical_visual(modified, slug)
 
     def test_release_archives_bytes_and_checksums(self):
         if DIST is None:

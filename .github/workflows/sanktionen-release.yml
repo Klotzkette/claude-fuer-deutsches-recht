@@ -7,6 +7,8 @@ on:
       - 'us-sanktionspruefer/**'
       - 'testakten/sanktionen-*/**'
       - 'scripts/*sanktionen*'
+      - 'scripts/*classic-components-checkout.py'
+      - 'scripts/build-skill-quality-release.py'
       - 'scripts/data/sanktionen-akten.json'
       - 'quality/evals/eu-sanktionspruefer.json'
       - 'quality/evals/us-sanktionspruefer.json'
@@ -51,6 +53,15 @@ jobs:
           python3 scripts/validate-testakten-readme-downloads.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
           python3 scripts/test-sanktionen.py
+      - name: Aktuellen Checkout ohne Veröffentlichungsanspruch prüfen
+        if: github.event_name == 'pull_request'
+        run: |
+          python3 scripts/test-classic-components-checkout.py
+          python3 scripts/check-classic-components-checkout.py sanktionen --dist "$RUNNER_TEMP/sanktionen-dist"
+          python3 scripts/check-classic-components-checkout.py sanktionen --dist "$RUNNER_TEMP/sanktionen-dist" --verify
+      - name: Historischen Komponentenrelease bauen und prüfen
+        if: github.event_name == 'workflow_dispatch'
+        run: |
           python3 scripts/build-sanktionen-release.py --dist "$RUNNER_TEMP/sanktionen-dist"
           python3 scripts/test-sanktionen.py --dist "$RUNNER_TEMP/sanktionen-dist"
       - uses: actions/upload-artifact@v4

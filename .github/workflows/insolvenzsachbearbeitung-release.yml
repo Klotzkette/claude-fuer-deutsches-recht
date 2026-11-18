@@ -3,6 +3,8 @@ name: Insolvenzsachbearbeitung und vier Verfahrensakten
 on:
   pull_request:
     paths:
+      - 'scripts/check-insolvenz-components-checkout.py'
+      - 'scripts/test-insolvenz-components-checkout.py'
       - 'insolvenzsachbearbeitung/**'
       - 'insolvenzforderungen-checker/**'
       - 'testakten/insolvenzsachbearbeitung-*/**'
@@ -61,15 +63,24 @@ jobs:
           python3 scripts/test-insolvenzforderungen-export.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
           python3 scripts/test-source-release-candidates.py
-      - name: Lesefassungen und Pakete bauen und prüfen
+      - name: Historische Akten und Lesefassungen vorbereiten
+        if: github.event_name == 'workflow_dispatch'
         run: |
           mkdir -p "$RUNNER_TEMP/sachbearbeitungsakten"
           python3 scripts/build-insolvenzsachbearbeitung-betriebsakten.py --package-only --dist "$RUNNER_TEMP/sachbearbeitungsakten"
           python3 scripts/build-insolvenzsachbearbeitung-verbraucherakte.py --package-only --dist "$RUNNER_TEMP/sachbearbeitungsakten"
           python3 scripts/test-insolvenzsachbearbeitung-betriebsakten.py --dist "$RUNNER_TEMP/sachbearbeitungsakten"
-          candidate=()
-          if [ "$GITHUB_EVENT_NAME" = pull_request ]; then candidate=(--candidate); fi
-          python3 scripts/build-insolvenzsachbearbeitung-release.py --dist "$RUNNER_TEMP/insolvenzsachbearbeitung-dist" --case-assets "$RUNNER_TEMP/sachbearbeitungsakten" "${candidate[@]}"
+      - name: Aktuellen Checkout samt vier Akten prüfen
+        if: github.event_name == 'pull_request'
+        run: |
+          python3 scripts/test-insolvenz-components-checkout.py
+          python3 scripts/check-insolvenz-components-checkout.py --component insolvenzsachbearbeitung --dist "$RUNNER_TEMP/insolvenzsachbearbeitung-dist"
+          python3 scripts/check-insolvenz-components-checkout.py --component insolvenzsachbearbeitung --dist "$RUNNER_TEMP/insolvenzsachbearbeitung-dist" --verify
+          python3 scripts/test-insolvenzsachbearbeitung-betriebsakten.py --dist "$RUNNER_TEMP/insolvenzsachbearbeitung-dist" --current-checkout --report "$RUNNER_TEMP/betriebsakten-checkout-pruefung.json"
+      - name: Historischen Komponentenrelease bauen und prüfen
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          python3 scripts/build-insolvenzsachbearbeitung-release.py --dist "$RUNNER_TEMP/insolvenzsachbearbeitung-dist" --case-assets "$RUNNER_TEMP/sachbearbeitungsakten"
           python3 scripts/test-insolvenzsachbearbeitung.py --dist "$RUNNER_TEMP/insolvenzsachbearbeitung-dist"
       - name: Geprüfte Pakete sichern
         if: always()

@@ -1,9 +1,9 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Erbbaurecht Praxis ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Erbbaurechtsvorgang von der Urkunde zur konkreten Vollzugsentscheidung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Juristischer Argumentationskern - Erbbaurecht Praxis
+# Erbbaurechtsvorgang von der Urkunde zur konkreten Vollzugsentscheidung führen
 
 ## 1. Direktstart
 
@@ -13,20 +13,19 @@ Gleiche Erbbaurechtsvertrag, Grundbuch, Rang und Zustimmungserklärungen ab. Ber
 1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
-## 2. Die tragende These
+## 2. Vom Aktenstand zum fertigen Ergebnis
 
-Formuliere das Ergebnis für Erbbaurecht Praxis in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix.
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1. Erbbaurechtsvertrag, Erbbaugrundbuch, Grundstücksgrundbuch und Nachträge mit aktuellem Stand lesen; Laufzeit, Rang, Zustimmungsvorbehalt und Entgeltbasis erfassen.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2. Dingliches Recht und schuldrechtliche Abrede unterscheiden; Erbbauzinsanpassung aus der konkreten Wertsicherung und ihrem Bezugszeitpunkt berechnen, ohne ungenutzte Erhöhungen als Vertragsänderung zu behandeln.
+
+3. Bei Heimfall, Veräußerung, Belastung oder Zeitablauf den passenden Fachweg laden. Entschädigung, Zustimmung und grundbuchfähige Nachweise getrennt bestimmen.
+
+4. Die verlangte Anpassungserklärung, Zustimmung, Abwehr oder Urkundenklausel vollständig mit Rechenweg und Belegstellen erstellen; Rang- und Vollzugshindernisse konkret benennen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3. Materienspezifische Tatbestandsarbeit
 
@@ -60,12 +59,15 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 5. Rechtsprechung als Entscheidungshilfe
 
-5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
 
-5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+- [BGH, Urteil vom 11.12.2009, V ZR 110/09, Rn. 9–16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2009/V_ZR_110-09.pdf?__blob=publicationFile&v=1): Frühere nicht ausgeschöpfte Anpassung ändert den Vertragsmaßstab nicht automatisch; ursprüngliche Abrede und spätere Änderungsvereinbarung auseinanderhalten. **Grenze:** Mittelwert aus Einkommen und Lebenshaltungskosten folgt konkreter Klausel; keine Universalformel, Wohnzweckgrenze und Dreijahresabstand gesondert prüfen.
+
+- [BGH, Urteil vom 23. Juni 2023, V ZR 89/22, amtliche Leitsätze](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__89-22.pdf?__blob=publicationFile&v=1): Widersprüchliche Flurstücks- und Objektangaben nicht mechanisch korrigieren; gemeinsame Vorstellung beider Parteien und formbedürftigen Gegenstand klären. **Grenze:** Grundstückskauf und Vertragsauslegung, keine allgemeine Heilung fehlerhafter Datenübernahme. Amtliche Leitsätze geprüft.
+
+- [BGH, Beschluss vom 18.12.2025 – V ZB 8/25, Rn. 6–12, 17–20 und 28–36](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZB___8-25.pdf?__blob=publicationFile&v=1): Paragraf 892 BGB kann bei rechtsgeschäftlicher vorweggenommener Erbfolge eingreifen. Für Paragraf 53 Absatz 1 Satz 1 GBO fortbestehende Unrichtigkeit nach einem Zwischenerwerb prüfen. **Grenze:** Keine Übertragung auf Gesamtrechtsnachfolge. Der konkrete Kenntnisstand und Grundbuchstand blieben nach Zurückverweisung zu klären.
 
 ## 6. Beweislast und Gegenangriff
 
@@ -76,13 +78,11 @@ Ausgangspunkt für dieses Plugin: Antragsteller für Antrag, Bewilligung, Vertre
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Ergebnis fortführen und abschließen
 
-7.1. Welches dingliche oder schuldrechtliche Ziel soll mit welchem Rechtsgeschäft erreicht werden.
-7.2. Welche Form, Zustimmung, Genehmigung oder Vollmacht ist Wirksamkeits- oder Vollzugsvoraussetzung.
-7.3. Welche Eintragung, Belastung oder Rangstelle trägt oder gefährdet das Ziel.
-7.4. Welche Urkunde und welcher Nachweis genügen dem Grundbuchverfahren.
-7.5. Welcher Antrag oder welche Vollzugshandlung ist jetzt konkret einzureichen.
+7.1. Die Entscheidung aus Abschnitt 2 mit der folgenden Fachprüfung und den belegten Aktenangaben zusammenführen. Neu gelieferte Tatsachen ersetzen die betroffene Annahme; Berechnung, Antrag und Folgeabschnitte derselben Fassung anschließend aktualisieren.
+7.2. Im fertigen Produkt je tragendem Punkt Rechtsregel, konkrete Tatsache, Beleg, Beweislast beziehungsweise Ermittlungsauftrag, stärkste Gegenposition und Antwort verbinden. Fristbeginn, Ereignis, Fristart und erforderliche Handlung ausdrücklich unterscheiden.
+7.3. Das verlangte Schreiben, den Vertrag, Schriftsatz, Entscheidungsentwurf oder Vermerk vollständig ausformulieren. Nur tatsächlich entscheidungserhebliche Restlücken außerhalb des Empfängertexts als konkrete nächste Aufgabe kennzeichnen.
 
 ## 8. Juristisches Schreiben
 

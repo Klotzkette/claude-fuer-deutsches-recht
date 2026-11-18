@@ -1,9 +1,23 @@
 ---
 name: erbfall-mandat-klaeren
-description: "Ordnet einen neuen oder unklaren Erbfall aus Urkunden, Kenntnisdaten und Mandantenrolle, sichert Sofortfristen und liefert eine erste Entscheidung mit gezielter Unterlagenanforderung."
+description: "Erbfall vom Aktenstand zum konkreten erbrechtlichen Arbeitsprodukt führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Erbfall und Mandatsziel klären
+# Erbfall vom Aktenstand zum konkreten erbrechtlichen Arbeitsprodukt führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Sterbedaten, Verwandtschaft, Verfügungen, Nachlassbestand und bereits erklärte Annahme oder Ausschlagung aus Unterlagen übernehmen; Auslandsbezug und akute Frist feststellen.
+
+2. Erbenstellung, Pflichtteilsberechtigung, Auskunft, Bewertung und Durchsetzung nacheinander prüfen. Notarielles Nachlassverzeichnis ersetzt weder Vollständigkeitskontrolle noch erforderliche Mitwirkung.
+
+3. Bei streitigem Testament, Schenkung, Auslandsform oder Steuerwert den passenden Fachweg laden. Steuerliche Bewertung und zivilrechtlichen Wert nicht gleichsetzen; Verjährungsbeginn nach konkreter Kenntnis prüfen.
+
+4. Den bestellten Antrag, Auskunftstext, Vergleich oder Anspruchsschriftsatz vollständig formulieren; streitige Positionen und ihre Beweislast in eine nachvollziehbare Nachlassberechnung übernehmen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -48,6 +62,16 @@ Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette,
 ## 6. Beispiele
 
 Eine Eröffnungsmitteilung ohne Begleittext führt zur Kenntnis- und Ausschlagungsprüfung sowie einem konkreten nächsten Dokument, nicht zu einer Liste sämtlicher Skills.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Urteil vom 20.05.2020, IV ZR 193/19, Randnummern 8 bis 11](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1): Erbe verweigert für notarielle Ermittlung erforderliche Bankzustimmung: konkret unzureichend ermitteltes Verzeichnis ergänzen und Mitwirkung verlangen. **Grenze:** Kein beliebiger Anspruch auf neues Verzeichnis bei bloßen Zweifeln; Wertermittlung und Versicherung an Eides statt haben eigene Voraussetzungen.
+
+- [BGH, Urteil vom 12.03.2025, IV ZR 88/24, Randnummern 17 bis 25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2024/IV_ZR__88-24.pdf?__blob=publicationFile&v=1): Pflichtteil entsteht mit Erbfall; Kenntnis rechtlicher Vaterschaft und grob fahrlässig verzögerte Feststellung für Verjährungsbeginn getrennt würdigen. **Grenze:** Zurückverweisung zur Einzelfallklärung, keine automatische Verjährung; Rechtsausübungssperre allein hemmt nicht nach Paragraf 205 BGB.
+
+- [BGH, Urteil vom 21.01.2026 – IV ZR 40/25, Rn. 9–16, 21, 27–33](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__40-25.pdf?__blob=publicationFile&v=1): Testamentsformstatut nach vorrangigem Haager Übereinkommen entscheidet auch über Folgen territorial überschrittener Amtsbefugnis. **Grenze:** Niederländisches Testament im konkreten Fall; keine allgemeine Erlaubnis ausländischer Notare zu Amtstätigkeit in Deutschland.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

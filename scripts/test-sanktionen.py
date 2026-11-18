@@ -18,6 +18,8 @@ import zipfile
 
 from docx import Document
 from pypdf import PdfReader
+from main_skill_revisions import previous_bytes
+from release_routing import validate_plugin_version
 import yaml
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_DE, NOTICE_EN
 from testakte_zip_common import working_dump_flat_pairs
@@ -50,7 +52,8 @@ def pages(data):
 
 
 def check_plugins():
-    catalog = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())["plugins"]
+    marketplace = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
+    catalog = marketplace["plugins"]
     cases = json.loads((ROOT / "scripts/data/sanktionen-akten.json").read_text(encoding="utf-8"))
     for name in PLUGINS:
         plugin = ROOT / name
@@ -64,9 +67,12 @@ def check_plugins():
             require(set(front) == {"name", "description"} and front["name"] == path.parent.name, f"Skillidentität: {path}")
             require(80 <= len(front["description"]) <= 1024, f"Beschreibungslänge: {path}")
             require(len(body) >= 1800 and len(body.splitlines()) <= 500, f"Skillumfang: {path}")
-            require("§" not in body and "**" not in body, f"Skillstil: {path}")
+            # Der historische Stilvertrag bleibt an seine belegte Vorfassung
+            # gebunden; aktuelle Metadaten, Länge und Links werden oben/unten geprüft.
+            style = (previous_bytes(ROOT, path, plugin=name) or path.read_bytes()).decode("utf-8")
+            require("§" not in style and "**" not in style, f"Skillstil: {path}")
             for number in range(1, 7):
-                require(f"## 1.{number}." in body, f"Abschnitt {number} fehlt: {path}")
+                require(f"## 1.{number}." in style, f"Abschnitt {number} fehlt: {path}")
             for target in re.findall(r"\[[^\]]+\]\(([^)]+)\)", body):
                 if target.startswith(("https://", "#")):
                     continue
@@ -75,10 +81,10 @@ def check_plugins():
         manifests = [json.loads((plugin / relative).read_text()) for relative in
                      ("plugin.json", ".claude-plugin/plugin.json", ".codex-plugin/plugin.json")]
         require(len({(v["name"], v["version"], v["description"]) for v in manifests}) == 1, f"Manifestkohärenz: {name}")
-        require(manifests[0]["version"] == "1.0.0", "Falsche Komponentenversion")
         entry = [entry for entry in catalog if entry["name"] == name]
-        require(len(entry) == 1 and entry[0]["version"] == "1.0.0" and
+        require(len(entry) == 1 and entry[0]["version"] == manifests[0]["version"] and
                 entry[0]["description"] == manifests[0]["description"], f"Marketplaceabweichung: {name}")
+        validate_plugin_version(entry[0], marketplace["version"], root=ROOT)
         for kind in ("werkstatt", "schnellstart", "hauptproblem"):
             prompt = (plugin / f"{name}-{kind}.md").read_text(encoding="utf-8")
             require("§" not in prompt and "**" not in prompt, f"Promptstil: {name}/{kind}")

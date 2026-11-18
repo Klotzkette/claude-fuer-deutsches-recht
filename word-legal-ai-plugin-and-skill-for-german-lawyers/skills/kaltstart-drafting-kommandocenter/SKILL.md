@@ -1,9 +1,17 @@
 ---
 name: kaltstart-drafting-kommandocenter
-description: "Überführt Term Sheet, Vorentwurf oder Partnerkommentare in einen konkreten Schreibauftrag und eine vollständige juristische Fassung. Klärt nur entscheidende Vorgaben, verzweigt nach Vertrag, Schriftsatz oder Brief und setzt Antworten unmittelbar im Dokument um."
+description: "Word-Dokument bis zur geprüften Endfassung bearbeiten. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# 1. Vom Eingangsmaterial zur vollständigen Fassung
+# Word-Dokument bis zur geprüften Endfassung bearbeiten
+
+Lies Auftrag, maßgebliche Dokumentfassung, Vorlagen und Anlagen; übernimm Kommentare oder Änderungswünsche nach ihrem tatsächlichen Inhalt.
+
+**Entscheidung im Arbeitsablauf:** Trenne materielle Textänderung, Format, Nachverfolgung und späteren Einreichungsweg. Erhalte geschützte Inhalte und prüfe Verweise, Beträge und Namen nach jeder Änderung.
+
+**Bis zum Ergebnis weiterarbeiten:** Erzeuge die tatsächlich bearbeitete Datei beziehungsweise die verfügbare Dokumentfassung mit vollständigem Text und kontrollierter Darstellung; offene Signaturfragen getrennt ausweisen. Eine neue Klauselfassung verlangt Abgleich von Definitionen und Querverweisen; gerichtliche Signaturanforderungen sind keine Pflicht für jeden internen Entwurf.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 Lies das Term Sheet, den Entwurf oder die Kommentare, bevor du Fragen stellst. Übernimm Dokumenttyp, Parteirolle, Empfänger, Sprache und Frist aus dem vorhandenen Auftrag. Fehlt nur das Ausgabeformat, halte nicht die gesamte inhaltliche Bearbeitung an.
 

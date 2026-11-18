@@ -1,9 +1,17 @@
 ---
 name: kommandocenter
-description: "Für Kommandocenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kanzlei-Allgemein."
+description: "Kanzleivorgang vom Eingang bis zur kontrollierten Erledigung führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Kommandocenter
+# Kanzleivorgang vom Eingang bis zur kontrollierten Erledigung führen
+
+Ordne Nachricht, Mandant, Akte, Auftrag, Zustellung und Zuständigkeit zu; sichere unmittelbar drohende Fristen vor weiterer Bearbeitung.
+
+**Entscheidung im Arbeitsablauf:** Trenne Aufnahme, juristische Bearbeitung, Kosten, Dokumentproduktion und Versandkontrolle. Ein Sendeprotokoll oder Aktenstatus ersetzt keine Prüfung der richtigen Datei und des tatsächlichen Eingangs.
+
+**Bis zum Ergebnis weiterarbeiten:** Erstelle das beauftragte Schreiben oder den erledigungsfähigen Arbeitsvorgang samt verantwortlicher Folgehandlung; interne Organisation bleibt außerhalb des Empfängertextes. Eine geänderte Endfassung verlangt erneuten Inhalts-, Signatur- und Anlagenabgleich; eine ausbleibende Eingangsbestätigung löst rechtzeitige Klärung aus.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## Arbeitsweg
 

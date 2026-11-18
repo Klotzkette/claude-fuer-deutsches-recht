@@ -1,9 +1,23 @@
 ---
 name: us-sanktionsmandat-steuern
-description: Führt US-Sanktionsprüfungen für Unternehmen und deutsche Kanzleien vom konkreten Geschäft über Trefferklärung und Zuständigkeit zum fertigen Vermerk, Schreiben oder Antrag. Hauptskill mit neun gezielt eingesetzten Fachschritten.
+description: "US-Sanktionsmandat zur begrenzten und belegten Handlungsentscheidung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# 1. US-Sanktionsmandat bis zum fertigen Dokument führen
+# US-Sanktionsmandat zur begrenzten und belegten Handlungsentscheidung führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Transaktion, US-Personenbezug, Währung, Finanzintermediäre, Güter und Eigentümerkette aus vorhandenen Nachweisen bestimmen; primäre und sekundäre Risiken trennen.
+
+2. Konkretes Sanktionsprogramm, Listeneintrag, Eigentumszurechnung und territoriale Anknüpfung prüfen. Blockierte Vermögenswerte, verbotene Transaktion und Lizenzfähigkeit sind eigene Fragen.
+
+3. Bei 50-Prozent-Regel, Wiederausfuhr, Ausnahme oder Konflikt mit EU-Blocking-Recht den passenden Fachweg laden; tatsächliche Endverwendung und Gegenbelege prüfen, historische Gerichtsgrenzen nicht als aktuelle allgemeine OFAC-Freigabe darstellen.
+
+4. Entscheidungsvermerk oder Lizenz-/Geschäftsschreiben mit präzisem Umfang ausformulieren; ungeklärtes Nexus- oder Eigentumsmerkmal gezielt nachfordern und keine abgeschlossene Listensuche behaupten.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1.1. Zweck und Anwendungsfall
 
@@ -33,6 +47,16 @@ Ausformulierungspflicht: vollständige Sätze im Vermerk, Mandantenschreiben, Ba
 ## 1.6. Beispiele
 
 Ein Unternehmen legt eine angehaltene Zahlung und zwei Beteiligungslisten vor. Kläre zuerst, ob die Bank blockiert oder lediglich nachfragt; ermittle anschließend Eigentum und US-Zahlungsweg. Ergebnis ist je nach Befund ein belegtes Bankanschreiben oder ein Meldungs-/Lizenzentwurf, nicht „Treffer prüfen“. Eine Kanzlei mit gelistetem Mandanten erhält getrennte Aussagen zu Mandatsleistung, Honorar und Fremdgeld, keinen pauschalen Mandatsabbruch.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [Fifth Circuit, 26.11.2024, No. 23-50669, Van Loon v. Department of the Treasury](https://www.ca5.uscourts.gov/opinions/pub/23/23-50669-CV0.pdf): Eigentumsbegriff bei den konkret untersuchten unveränderlichen Smart Contracts und Reichweite der IEEPA-Befugnis. **Grenze:** Keine allgemeine Freigabe von Kryptowerten, sämtlichen technischen Systemen oder anderen blockierten Personen; spätere OFAC-Entlistung und heutiger Listenstand separat.
+
+- [EuGH, 21.12.2021, C-124/20, Bank Melli Iran, ECLI:EU:C:2021:1035](https://curia.europa.eu/jcms/upload/docs/application/pdf/2021-12/cp210227en.pdf): Befolgung erfasster US-Rechtsakte, Nachweis und Verhältnismäßigkeit bei Vertragsbeendigung innerhalb des Blocking Statute. **Grenze:** Nur amtliche Mitteilung und Register überprüft, keine erfundenen Volltext-Randnummern. Persönlicher und sachlicher Anwendungsbereich sowie Anhang zuerst prüfen.
+
+- [N.D. Texas, Memorandum Opinion and Order, 31.12.2019, No. 3:17-CV-1930-B, Exxon Mobil v. Mnuchin](https://www.govinfo.gov/content/pkg/USCOURTS-txnd-3_17-cv-01930/pdf/USCOURTS-txnd-3_17-cv-01930-2.pdf): Historische Erkennbarkeit des Verbots als Grenze der dortigen Geldsanktion. **Grenze:** Kontextgebundener Fair-Notice-Befund; kein heutiger Ausschluss der FAQ 400 und keine pauschale Aussage über endgültigen Rechtsmittelstand.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 2. Verständlich arbeiten und sichtbar prüfen

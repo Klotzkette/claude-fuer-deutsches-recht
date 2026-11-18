@@ -1,6 +1,6 @@
 # 1. Transparenzregister: geprüfte Rechtsgrundlagen und Anwendungsgrenzen
 
-Prüfstand: 01.10.2026. Die folgenden Nachweise wurden für dieses Plugin in amtlichen Quellen geöffnet. Gelesene Passagen und Quellenfingerabdrücke stehen zusätzlich im [Quellenprotokoll](../../quality/source-audits/registerwerkstaetten-2026-10-01/transparenzregister.json). Bei einem späteren Auftrag Gesetzesfassung, Folgeentscheidungen und Portalstand erneut prüfen. Keine allgemeine Aktualitätsgarantie aus dem Prüfdatum ableiten.
+Prüfstand: 01.10.2026. Die folgenden Nachweise wurden für dieses Plugin in amtlichen Quellen geöffnet. Gelesene Passagen und Quellenfingerabdrücke stehen zusätzlich im [Quellenprotokoll](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/quality/source-audits/registerwerkstaetten-2026-10-01/transparenzregister.json). Bei einem späteren Auftrag Gesetzesfassung, Folgeentscheidungen und Portalstand erneut prüfen. Keine allgemeine Aktualitätsgarantie aus dem Prüfdatum ableiten.
 
 ## 1.1. EuGH: Registerzugang bei Trusts und ähnlichen Rechtsvereinbarungen
 

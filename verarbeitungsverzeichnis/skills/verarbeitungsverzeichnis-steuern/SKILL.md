@@ -1,9 +1,17 @@
 ---
 name: verarbeitungsverzeichnis-steuern
-description: Steuert das Verarbeitungsverzeichnis eines Unternehmens von der Erhebung über Rollenprüfung und DSFA-Vorprüfung bis zur laufenden Änderung und Ausgabe. Verbindet belastbare Nachweise mit einer versionierten Datei und konkreten nächsten Aufgaben.
+description: "Verarbeitungsvorgänge bis zum belastbaren Verzeichnis erfassen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Verarbeitungsverzeichnis anlegen und im Alltag pflegen
+# Verarbeitungsvorgänge bis zum belastbaren Verzeichnis erfassen
+
+Lies tatsächliche Prozesse, Systeme, Verträge, Datenkategorien, Empfänger und Löschabläufe; verwende die bereits bekannten Unternehmensangaben.
+
+**Entscheidung im Arbeitsablauf:** Ordne Zweck, Rolle, Rechtsgrundlage, Betroffene, Übermittlung, Aufbewahrung und Schutzmaßnahme jedem konkreten Vorgang zu. Eine Systembezeichnung allein ist noch keine Verarbeitungstätigkeit.
+
+**Bis zum Ergebnis weiterarbeiten:** Erstelle das Verzeichnis mit nachvollziehbaren Einträgen und gezielten offenen Fragen; ergänze erforderliche Risiko- oder Vertragsprüfung, ohne deren Ergebnis zu erfinden. Eine neue Schnittstelle oder Zweckänderung aktualisiert den betroffenen Eintrag und seine Folgeprüfung; ein ausgefülltes Verzeichnis beweist keine materielle Rechtmäßigkeit.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

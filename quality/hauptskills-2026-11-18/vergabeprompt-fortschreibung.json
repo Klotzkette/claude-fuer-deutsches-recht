@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-11-18",
+  "previous_audit": "quality/skill-consolidation/2026-11-14/vergaberecht-role-routing-followup.json",
+  "files": [
+    {
+      "path": "vergaberecht-werkstatt/testakten/megaprompts/vergabestelle-behoerden.md",
+      "before_sha256": "83ff6d650acb758010108c51325391802de6b7546f4493247e7545cf4ae5136b",
+      "after_sha256": "20619936d77627292b722eff8677ef6ce325c8efcf557ad0e63d263dd68f9afc",
+      "before_snapshot": "quality/hauptskills-2026-11-18/vergabeprompt-vorfassungen/vergabestelle-behoerden.md.gz",
+      "before_snapshot_sha256": "cef3083e0171cdef131a67b987c78a8118d102bb55724731f821285363cb030f",
+      "generator": "vergaberecht-werkstatt/scripts/generate-megaprompt.py",
+      "review_scope": "Deterministische Nachführung des vorhandenen Generators aus den überprüften Hauptskillfassungen; keine Änderung von Testaktendaten oder redaktionellen Kurzprompts."
+    },
+    {
+      "path": "vergaberecht-werkstatt/testakten/megaprompts/bieter-unternehmen.md",
+      "before_sha256": "1e9052af497afcf141efac1218688b345688eaa6f8fa726c9b4ddd309fca696a",
+      "after_sha256": "e07045415b74c24057db938d40d4bed7b0823dc4cb004a5ae5255722f9523266",
+      "before_snapshot": "quality/hauptskills-2026-11-18/vergabeprompt-vorfassungen/bieter-unternehmen.md.gz",
+      "before_snapshot_sha256": "4223947db61da7ddb3385f2ed5cd271a13bbb4e4cfc5ca414a0dd6cb95386536",
+      "generator": "vergaberecht-werkstatt/scripts/generate-megaprompt.py",
+      "review_scope": "Deterministische Nachführung des vorhandenen Generators aus den überprüften Hauptskillfassungen; keine Änderung von Testaktendaten oder redaktionellen Kurzprompts."
+    },
+    {
+      "path": "vergaberecht-werkstatt/testakten/megaprompts/konkurrenten-rechtsschutz.md",
+      "before_sha256": "99f89a13ea549a62f9b057ff19216c3b9e5a7145ebb655a56f4411e6cb28a987",
+      "after_sha256": "1698f68471af93bc295e044e6db6cbb874d4615713a0f95b195de34d93294954",
+      "before_snapshot": "quality/hauptskills-2026-11-18/vergabeprompt-vorfassungen/konkurrenten-rechtsschutz.md.gz",
+      "before_snapshot_sha256": "19c5903b4e59b076ec21aea41c52b5c447d27cf6388aa5af1ca95ac8a5609fed",
+      "generator": "vergaberecht-werkstatt/scripts/generate-megaprompt.py",
+      "review_scope": "Deterministische Nachführung des vorhandenen Generators aus den überprüften Hauptskillfassungen; keine Änderung von Testaktendaten oder redaktionellen Kurzprompts."
+    }
+  ],
+  "previous_audit_sha256": "653b3eb97d097cf3e6393ec2119d3a43276cab4d99b20c6ff995b131297e8d92"
+}

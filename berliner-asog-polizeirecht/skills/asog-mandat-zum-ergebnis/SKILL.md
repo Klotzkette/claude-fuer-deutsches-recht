@@ -1,57 +1,72 @@
 ---
 name: asog-mandat-zum-ergebnis
-description: Übergreifender Hauptskill für Berliner Polizei- und Ordnungsmandate von der konkreten Maßnahme über gezielte Rückfragen zum vollständigen Antrag, Rechtsbehelf oder Beratungsschreiben.
+description: "Berliner Polizeimaßnahmen bis zum konkreten Rechtsschutz bearbeiten. Verarbeitet vorhandene Unterlagen, prüft entscheidende Fachfragen und führt den Auftrag zum vollständig formulierten Ergebnis."
 ---
 
-# 1. Zweck und Anwendungsfall
+# Berliner Polizeimaßnahmen bis zum konkreten Rechtsschutz bearbeiten
 
-Steuere das konkrete Berliner ASOG-Mandat bis zum bestellten Ergebnis. Vorhandene Akte zuerst lesen, nur entscheidende Lücken nachfragen. Keine operative Einsatzplanung und keine pauschale Strafverteidigung.
+## 1. Aus der vorhandenen Akte beginnen
 
-# 2. Eingaben
+1.1. Erstelle das bestellte Ergebnis: konkreter Antrag, Rechtsbehelf oder Mandantenbrief mit getrennt begründeten Teilmaßnahmen und passendem Rechtsweg. Nutze vorhandene Dateien, Angaben und frühere Entwürfe zuerst. Maßgebliches Material: jede Einzelmaßnahme mit Uhrzeit, Zweck, handelnder Stelle, mündlicher Anordnung, Bestätigung und späteren Wirkungen. Erfasse Rolle, Ziel, Rechtsstand und tatsächlichen Zugang aus diesen Quellen; bereits beantwortete Punkte nicht erneut abfragen.
 
-Maßnahme mit Zeitpunkt, Behörde, Ziel, vollständigem Wortlaut, Zugang, Wirkungsdauer und vorhandenen Belegen. Erkenne akute Freiheitsentziehung oder drohenden irreversiblen Vollzug sofort.
+1.2. Sichere die tatsächlich laufende Frist anhand Auslöser, Zustellung/Bekanntgabe, anwendbarer Vorschrift, Berechnung und zuständigem Empfänger. Wenn eine fristwahrende Handlung vor vollständiger Sachaufklärung nötig ist, fertige sie mit dem vorhandenen belastbaren Stand aus und bezeichne die noch zu ergänzende Begründung. Eine Frist ohne belegten Auslöser bleibt ungeklärt.
 
-# 3. Ablauf / Checkliste
+## 2. Den Fall in die richtige Fachroute führen
 
-Sie bearbeiten aus Betroffenen- und Beratungssicht einen konkreten Vorgang nach Berliner Polizei- und Ordnungsrecht. Lesen Sie die vorhandenen Unterlagen zuerst. Erstellen Sie das beauftragte Schreiben, Gutachten oder den Rechtsbehelfsentwurf; eine Normliste erledigt den Auftrag nicht. Liegen Ziel, Rolle, Sachverhalt und Termin schon vor, fragen Sie diese nicht erneut ab. Ohne Akte genügen zuerst Maßnahme, Datum, handelnde Stelle, fortdauernde Wirkung und gewünschtes Ergebnis. Versprechen Sie keinen Erfolg.
+2.1. Eine zusammengesetzte Kontrolle in Identitätsfeststellung, Festhalten, Durchsuchung, Wegnahme und Datenverarbeitung zerlegen; jede Maßnahme erhält ihre eigene Befugnis und ihren eigenen Beendigungszeitpunkt.
 
-Trennen Sie jede Teilmaßnahme nach Zeitpunkt, Zweck, Adressat und Wirkung. Prävention, Strafverfolgung, Vollstreckung und spätere Datenverarbeitung sind eigene Prüfungen. Aufgabenregelung ist keine Eingriffsbefugnis. Spezialrecht hat innerhalb seiner Reichweite Vorrang. In der aktuellen Fassung verweist § 2 Absatz 4 ASOG auf § 13 Absatz 1 und 2 LOG BE; Seit 19.07.2026 gilt die ZustV vom 23.06.2026 mit dem Gesamtkatalog; alte ZustKatOrd-Auszüge nicht als aktuelle Zuständigkeitsgrundlage ausgeben. Der Normkopf berücksichtigt auch Änderungen mit eigenem Inkrafttreten. Historische Eingriffe, aktuelle Fortdauer und zukünftige Normfassungen sauber trennen.
+2.2. Bei Erledigung Wiederholungsgefahr, Rehabilitation und qualifizierten Grundrechtseingriff konkret belegen; bei fortdauernder Verwahrung aktuelle Rückgabehindernisse statt nur ursprünglichen Sicherstellungsgrund prüfen.
 
-Arbeiten Sie nach der einschlägigen Fachroute:
+2.3. Ex-ante-Prognose und spätere Kenntnis trennen. Die Behörde darf fehlende ursprüngliche Gefahrentatsachen nicht durch einen späteren Zufallsfund ersetzen; eingriffsbezogene Amtsermittlung und Mitwirkung benennen.
 
-1. Zuständigkeit und Gefahr: Schutzgut, ex ante belegte Prognose, besondere Gefahrenschwelle, §§ 11–17 ASOG, Verantwortlichkeit und Auswahl prüfen. Eine bloße Beschwerde ersetzt keine Gefahr, ein später ausgebliebener Schaden widerlegt nicht automatisch eine vertretbare Anscheinsgefahr.
-2. Identitätskontrolle: §§ 18, 21, 23 ASOG von §§ 81b, 163b StPO und deren unterschiedlichen Zwecken abgrenzen. Bei kriminalitätsbelasteten Orten § 17a, aktuelle Karte und Verordnung lesen; die Übergangsregel des § 69 Absatz 1 endete am 30.06.2026. Weiteres Festhalten und Speicherung separat begründen.
-3. Platzverweis: § 29 Absatz 1 von Absatz 2 mit individueller Straftatenprognose unterscheiden. Mündliche Anordnung, schriftliche Bestätigung und mögliche neue Regelung trennen. Gebiet, Dauer, Ausnahmen und Ende bestimmen; erledigter Verweis und Zukunftshinweis nicht vermischen.
-4. Gewahrsam: §§ 30–33, Art. 104 GG und tatsächliche Zeitleiste prüfen. Richterentscheidung unverzüglich, keine freie Wartezeit bis zur Höchstgrenze. § 31 Absatz 2 enthält bei Ende vor richterlicher Entscheidung eine Monatsfrist ab Beendigung und verlangt berechtigtes Interesse. § 65 grundsätzlich Amtsgericht Tiergarten; Beschwerde nach § 31 Absatz 3 Landgericht Berlin II. Besondere Datenanordnungen nach § 65 gesondert. Qualifizierte Fortdauer nach § 33 Absatz 2 ist kein Standardgewahrsam; Identitätsfeststellung höchstens zwölf Stunden und stets früher beenden, wenn der Zweck erreicht ist.
-5. Durchsuchung: §§ 34–37, Räume, Suchzweck, vorheriger Kenntnisstand, Richtervorbehalt, Gefahr im Verzug und Durchführung prüfen. Öffentlich zugängliche Geschäftsräume und private Zimmer nicht gleichsetzen. Wegnahme eines Telefons erlaubt nicht automatisch Datenanalyse.
-6. Sicherstellung: §§ 38–41, aktueller Verwahrgrund, letzter Gewahrsamsinhaber, heutige Verweigerungsgründe und tatsächliche Herausgabe prüfen. § 41 Absatz 4 enthält Kosten; Absatz 3 betrifft Erlös. Bloße Kostenankündigung ist kein Kostenbescheid. Strafprozessuale Freigabe und neue präventive Sicherstellung getrennt prüfen.
-7. Daten: Tatsächlichen Zweck zuerst bestimmen. Für §-30-BlnDSG-Zwecke § 50 ASOG mit §§ 41/43 BlnDSG und § 48 ASOG mit einschlägigen §§ 44/61 BlnDSG; außerhalb insbesondere DSGVO mit §§ 48a/50 ASOG und BlnDSG-Ergänzungen. Auskunft, Berichtigung, Löschung und Einschränkung begründet auswählen. Eigene falsche Verknüpfung nicht durch Forderung nach fremden Personendaten lösen. Prüffrist ist keine automatische Mindestspeicherdauer.
-8. Vollstreckung und Kosten: Grundverfügung, Vollziehbarkeit, Zwangsmittel und Kosten getrennt. Bundes-VwVG in Berlin über § 8 VwVfG BE mit Maßgaben; unmittelbarer Zwang nach UZwG Bln. Tatsächlich bezahlte Kosten, bloße Angebote und rechtliche Erstattungsfähigkeit auseinanderhalten.
-9. Rechtsschutz: Ziel und Sonderzuweisung vor Klageart. § 80 Absatz 5 VwGO von § 123 unterscheiden; öffentliche Kosten mit § 80 Absatz 2/6 prüfen. Erledigung, Fortsetzungsfeststellungsinteresse, Frist, Gericht, Gegner, Form und Eingang ausdrücklich klären. § 6 VwVfG BE für Akteneinsicht eigenständig prüfen; nicht allein Bundes-§ 29. § 2 Absatz 2 VwVfG BE nicht als allgemeine Polizeiausnahme verwenden.
-10. Sonderlagen: Berliner VersFG BE und Art. 26 VvB bei Versammlungen vorschalten. Gewaltschutz, private Rechte und Unterkunft gesondert prüfen. Keine operativen Einsatz-, Überwachungs- oder Umgehungsanleitungen. Rechtewahrnehmung durch Dokumentation, sichere Kommunikation, geeignete Anträge und anwaltliche Vertretung.
+2.4. Verknüpfe jeden entscheidenden Punkt mit konkreter Fundstelle und der daraus folgenden Passage im Arbeitsprodukt. Widersprüchliche Angaben nebeneinander prüfen; Akteninhalt, Schlussfolgerung und offene Tatsache auseinanderhalten. Darlegungs- und Beweislast sowie Beweismaß folgen aus der jeweiligen Anspruchs- oder Eingriffsnorm, nicht aus einer allgemeinen Rollenvermutung.
 
-Nutzen Sie passende Rechtsprechung, keine angehängte Universalliste. BVerfG, Beschluss vom 30.09.2025 – 2 BvR 460/25, Rn. 27–46, schützt auch Unterkunftszimmer und verlangt vorausschauende Prüfung des Suchzwecks; AufenthG-Zuständigkeit nicht nach Berlin-ASOG übertragen. OVG Berlin-Brandenburg, Urteil vom 24.03.2026 – OVG 3 B 20/25, Gründe 1/2, trennt rechtswidrige Durchsuchung und teilrechtskräftige Begleitmaßnahme. BVerwG, Urteil vom 24.04.2024 – 6 C 2.22, Rn. 16–27, verneint eine automatische Feststellungsbefugnis allein wegen kurzer Erledigung. BVerfG, Urteil vom 01.10.2024 – 1 BvR 1160/19, Rn. 132–193, verlangt tragfähige Speicherzwecke und Dauer; der BKAG-Tenor hebt Berliner Normen nicht pauschal auf. OVG Berlin-Brandenburg, Beschluss vom 23.07.2026 – OVG 6 S 181/26, Gründe 1–3, differenziert Vernichtungsreste und prüft beA-Form sowie konkrete Glaubhaftmachung technischer Störung. Amtliches HTML ohne Randnummern nach Gliederung nachweisen.
+## 3. Nur die benötigte Vertiefung öffnen
 
-Fragen Sie nur, was Antrag oder Begründung verändert. Bearbeiten Sie belegte Teile sofort. Nach Antwort gleichen Sie neue Angaben mit bisherigen Belegen ab, korrigieren betroffene Passagen und liefern die fortgeschriebene Fassung. Keine starre Rückfragenzahl und keine ungefragte Eskalation zu Gericht. Entwurf, freigegebene Fassung, tatsächlicher Versand und bestätigter Eingang bleiben getrennt.
+Wähle anhand der vollständigen vorhandenen Fachrouten (einschließlich Sonderfristen und besonderen Rechtswegen) den passenden Ablauf. Lies dafür die [erhaltene Fachgliederung und Quellenkarten](../../references/hauptworkflow-fachpruefung.md). Sie enthält auch vorhandene Spezialverbindungen; nicht jede dort aufgeführte Route gehört zu jedem Auftrag. Aktive Fachskills werden nach dem konkreten Streitpunkt gewählt:
 
-Das Endprodukt besteht aus vollständigen Sätzen mit konkretem Begehren und nachvollziehbarer Begründung. Keine Skelette oder halbfertigen Textbausteine. Soweit technisch möglich Times New Roman 11 pt und dezimale Gliederung. Fehlende entscheidende Tatsachen deutlich markieren, keine erfundenen Belege oder Fristen. Quellenprüfung und technische Übergabenotiz getrennt vom Empfängertext. Versand, Einreichung und Verzicht nur nach konkreter Autorisierung; bei fehlendem Zugang den fertigen Entwurf übergeben und keinen Vollzug behaupten.
+3.1. [Zuständigkeit, Gefahr und Verantwortlichkeit](../asog-zustaendigkeit-gefahr-und-stoerer/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-Die zehn Fachskills dieses Plugins vertiefen die jeweils einschlägige Route. Nutze sie nach Bedarf; wenn automatische Auswahl fehlt, arbeite selbst anhand der mitgelieferten Referenzen weiter.
+3.2. [Sicherstellung, Verwahrung und Herausgabe](../asog-sicherstellung-verwahrung-herausgabe/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-# 4. Quellenpflicht
+3.3. [Polizeidaten, Auskunft und Korrektur](../asog-polizeidaten-auskunft-und-korrektur/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-Lies [Normen und Verfahren](../../references/normen-und-verfahren.md), [Rechtsprechung](../../references/rechtsprechung.md) und [Zitierweise](../../references/zitierweise.md). Verifiziere aktuelle Primärquellen; keine Quellen aus ungesichertem Modellwissen als geprüft ausgeben.
+3.4. [Rechtsbehelf, Eilrechtsschutz und Folgen](../asog-rechtsbehelf-eilrechtsschutz-und-folgen/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-# 5. Ausgabeformat
+Fehlt eine automatische Skillauswahl, bearbeite den einschlägigen Fachtext selbst. Eine Übergabe an einen Spezialschritt beendet den Hauptauftrag nicht: integriere dessen Ergebnis in das bereits begonnene Auftragsdokument.
 
-Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Tabellen ergänzen den begründeten Text. Trenne interne Quellen-, Frist- und Übergabenotizen vom fertigen Empfängerdokument. Bei Chat oder Markdown nenne den Formatwunsch nur im getrennten Exporthinweis. Prüfe vor Abschluss, dass das beauftragte Dokument tatsächlich vorliegt und entscheidende offene Angaben klar markiert sind.
+## 4. Rechtsprechung am Entscheidungspunkt einsetzen
 
-# 6. Beispiele
+Für Nachweise und Literatur die [paketlokalen Regeln zur Zitierweise und Quellenprüfung](../../references/zitierweise.md) anwenden.
 
-„Mein Lastenrad ist noch verwahrt, obwohl die Verwechslung aufgeklärt scheint. Bitte fertigen Sie die Herausgabeanfrage.“ Lies Bescheinigung, Eigentums- und Gewahrsamsunterlagen und aktuellen Schriftverkehr, kläre nur offene Rückgabevoraussetzungen und liefere das vollständige Schreiben. Nach Antwort setze am gleichen Vorgang fort.
+Die folgenden Anker nur bei passender Streitfrage einsetzen; Prüfstand und ausführliche Einordnung stehen in der verlinkten Quellenkarte. Übernommene Bestandsprüfung und frischer Primärabruf bleiben dort getrennt. Keine nicht gelesenen Randnummern, Literaturstellen oder behauptete neueste Rechtsprechung ergänzen.
+
+4.1. [BVerfG, Beschluss vom 30.09.2025 – 2 BvR 460/25](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250930_2bvr046025.html): Wohnraum in einer Gemeinschaftsunterkunft ist geschützt. Zielgerichtetes Aufspüren einer Person verlangt eine vorausschauende Prüfung des Durchsuchungscharakters und grundsätzlich vorherige richterliche Kontrolle. Grenze: Abschiebungsfall nach AufenthG; dessen Zuständigkeit und Ermächtigung nicht als ASOG-Norm übertragen. Keine automatische Rechtswidrigkeit jeder Begleitmaßnahme.
+
+4.2. [BVerwG, Urteil vom 24.04.2024 – 6 C 2.22](https://www.bverwg.de/240424U6C2.22.0): Kurzfristige Erledigung genügt außerhalb anderer anerkannter Interessen nicht allein; qualifizierten Grundrechtseingriff oder konkrete Wiederholungsgefahr, Rehabilitation oder präjudizielle Bedeutung prüfen. Grenze: NRW-Aufenthaltsverbot; weder Berliner Eingriffstatbestand noch genereller Ausschluss nachträglichen Rechtsschutzes.
+
+4.3. [BVerwG, Urteil vom 27.03.2024 – 6 C 1.22](https://www.bverwg.de/270324U6C1.22.0): Kommunikative Blockade nicht vorschnell aus dem Versammlungsbegriff herausdefinieren. Die Ausnahme bei von Anfang an durchgehend unfriedlicher Versammlung ist eng; Dauer und Modalitäten des Gewahrsams bleiben eigenständig aufzuklären. Grenze: Fall aus Baden-Württemberg unter Bundes-VersG und damaligem Landesrecht. Berliner VersFG und Berliner Rechtswegzuweisung separat; keine Kollektivhaftung friedlicher Teilnehmender.
+
+4.4. [BVerfG, Urteil vom 01.10.2024 – 1 BvR 1160/19](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/10/rs20241001_1bvr116019.html): Zweckerreichung, zweckändernde Nutzung und vorsorgende Speicherung unterscheiden. Speicherung benötigt tragfähige Schwellen, individuelle Prognose und angemessene Dauer; alte Prognosen nicht automatisch fortschreiben. Grenze: BKAG-Verfahren mit eigenem Tenor. ASOG/BlnDSG und konkrete Datei separat prüfen; nicht jede Verfahrenseinstellung führt ausnahmslos zur Löschung.
+
+4.5. [OVG Berlin-Brandenburg, Urteil vom 15.11.2018 – OVG 1 B 2.18](https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/14012): Die Rückgabe an den früheren Gewahrsamsinhaber ist von der Prüfung einer anderen berechtigten Person zu unterscheiden; Eigentumsnachweis nicht reflexhaft als einzige Rückgabevoraussetzung behandeln. Grenze: Brandenburgisches Polizeigesetz. Damals herangezogene Berliner Parallele nicht über spätere Änderungen von § 41 ASOG hinweg anwenden; heutige Verweigerungsgründe prüfen.
+
+## 5. Lücken schließen und denselben Entwurf fortschreiben
+
+5.1. Frage nur nach der fehlenden Angabe, die Rechtsfolge, Beweis, Antrag oder Frist verändert. Benenne dazu den betroffenen Punkt und das benötigte Dokument oder Datum. Arbeite an den bereits entscheidbaren Abschnitten weiter; eine offene Kernfrage wird kenntlich gemacht und nicht als Tatsache ergänzt.
+
+5.2. Fortsetzungsszenario: Die Polizei gibt das Fahrrad zurück, behält aber Daten: Herausgabeantrag erledigungsbezogen überarbeiten, verbleibendes Datenbegehren eigenständig im selben Auftragsdokument begründen. Neue Angaben mit bisherigen Belegen abgleichen, dadurch überholte Annahmen entfernen und die geänderten Schlussfolgerungen im bestehenden Dokument einarbeiten. Keine neue Aufnahme des ganzen Falls verlangen.
+
+## 6. Vollständig formuliertes Ergebnis übergeben
+
+6.1. Das Endprodukt ist: konkreter Antrag, Rechtsbehelf oder Mandantenbrief mit getrennt begründeten Teilmaßnahmen und passendem Rechtsweg. Formuliere es in vollständigen Sätzen. Begehren oder Entscheidung, tragende Tatsachen, passende Rechtsregel, stärkste Gegenposition, Antwort und praktische Folge müssen zusammenpassen. Eine Tabelle, Quellenliste oder Weiterleitung allein erfüllt den Schreibauftrag nicht.
+
+6.2. Prüfe abschließend Frist, Form, Zuständigkeit, Namen, Zahlen, Fundstellen, Anlagen und Reichweite des Begehrens. Bezeichne entscheidende verbleibende Lücken und deren Folgen konkret. Trenne interne Quellen-/Fristnotiz und tatsächlichen Bearbeitungsstatus vom Empfängertext. Soweit technisch möglich Times New Roman 11 pt und dezimale Gliederung; in Markdown einen nötigen Exporthinweis getrennt halten.
+
+6.3. Eine nützliche Ansicht unterstützt die Fallentscheidung und wird mit neuen Angaben fortgeschrieben. Nutze nur tatsächlich verfügbare Funktionen; sonst genügt eine belegte Tabelle oder Skizze. Externe Einreichung, Versand und Verzicht nur innerhalb konkreter Autorisierung; ohne bestätigten Eingang keine erfolgreiche Einreichung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 1. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

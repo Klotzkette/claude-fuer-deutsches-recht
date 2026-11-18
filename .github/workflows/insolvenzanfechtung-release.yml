@@ -3,6 +3,8 @@ name: Insolvenzanfechtung und fünf Verfahrensakten
 on:
   pull_request:
     paths:
+      - 'scripts/check-insolvenz-components-checkout.py'
+      - 'scripts/test-insolvenz-components-checkout.py'
       - 'README.md'
       - 'testakten/README.md'
       - 'ASSET_INDEX.md'
@@ -90,7 +92,8 @@ jobs:
           python3 scripts/test-fintech-bremen-anfechtung-ergaenzung.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
           python3 scripts/test-source-release-candidates.py
-      - name: Lesefassungen und Pakete bauen und prüfen
+      - name: Historische Akten und Lesefassungen vorbereiten
+        if: github.event_name == 'workflow_dispatch'
         run: |
           mkdir -p "$RUNNER_TEMP/anfechtungsakten"
           python3 scripts/build-insolvenzanfechtung-akten.py --package-only --dist "$RUNNER_TEMP/anfechtungsakten"
@@ -107,16 +110,18 @@ jobs:
           PYTHON
           cp testakten/fintech-darlehen-vertragsuebernahme-bremen/gesamt-pdf/fintech-darlehen-vertragsuebernahme-bremen_gesamt.pdf "$RUNNER_TEMP/anfechtungsakten/"
           python3 scripts/test-fintech-bremen.py --assets "$RUNNER_TEMP/anfechtungsakten"
-          candidate=()
-          if [ "$GITHUB_EVENT_NAME" = pull_request ]; then candidate=(--candidate); fi
-          if [ "$(python3 -c 'import json; print(json.load(open("insolvenzanfechtung/plugin.json"))["version"])')" = '1.1.0' ]; then
-            python3 scripts/build-insolvenzanfechtung-release.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist" --case-assets "$RUNNER_TEMP/anfechtungsakten" "${candidate[@]}"
-            python3 scripts/test-insolvenzanfechtung.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist"
-          else
-            # Fachlich fester Komponenten-Prüfumfang; unabhängig von späteren Qualitätsrunden.
-            python3 scripts/build-skill-quality-release.py --scope scripts/data/insolvenzanfechtung-pruefumfang.json --dist "$RUNNER_TEMP/insolvenzanfechtung-dist"
-            python3 scripts/build-skill-quality-release.py --scope scripts/data/insolvenzanfechtung-pruefumfang.json --dist "$RUNNER_TEMP/insolvenzanfechtung-dist" --verify
-          fi
+      - name: Aktuellen Checkout samt fünf Akten prüfen
+        if: github.event_name == 'pull_request'
+        run: |
+          python3 scripts/test-insolvenz-components-checkout.py
+          python3 scripts/check-insolvenz-components-checkout.py --component insolvenzanfechtung --dist "$RUNNER_TEMP/insolvenzanfechtung-dist"
+          python3 scripts/check-insolvenz-components-checkout.py --component insolvenzanfechtung --dist "$RUNNER_TEMP/insolvenzanfechtung-dist" --verify
+          python3 scripts/test-fintech-bremen.py --assets "$RUNNER_TEMP/insolvenzanfechtung-dist"
+      - name: Historischen Komponentenrelease bauen und prüfen
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          python3 scripts/build-insolvenzanfechtung-release.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist" --case-assets "$RUNNER_TEMP/anfechtungsakten"
+          python3 scripts/test-insolvenzanfechtung.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist"
       - name: Geprüfte Pakete sichern
         if: always()
         uses: actions/upload-artifact@v4

@@ -1,9 +1,17 @@
 ---
 name: e-rechnung-erstellen
-description: "Erstellt aus Word, PDF, Scans, Bildern, Tabellen, E-Mails und vorhandenen Rechnungsdaten eine belegte E-Rechnung. Führt von der Materialauswertung über Pflichtangaben und Steuerprüfung zu ZUGFeRD oder XRechnung einschließlich tatsächlicher Validierung und nutzbarer Ausgabedateien."
+description: "Aus Belegen eine geprüfte E-Rechnung erstellen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# E-Rechnung aus vorhandenen Unterlagen erstellen
+# Aus Belegen eine geprüfte E-Rechnung erstellen
+
+Lies Auftrag, Leistungsbeleg und Rechnungsentwurf; bestimme Aussteller, Empfänger, Leistungszeit, Beträge und verlangtes Format anhand vorhandener Angaben.
+
+**Entscheidung im Arbeitsablauf:** Trenne sachliche Rechnungskorrektur von Formatkonvertierung. Kläre Steuerbehandlung und fehlende Pflichtangaben gezielt; wähle XRechnung oder ZUGFeRD mit dem tatsächlich verlangten Profil und Empfängerkanal.
+
+**Bis zum Ergebnis weiterarbeiten:** Erzeuge die vereinbarte strukturierte Datei und gegebenenfalls eingebettete Darstellung; prüfe Schema, Geschäftsregeln, Rechenwerte und sichtbare Übereinstimmung mit dem verwendeten Validator. Eine Gutschrift oder neue Steuersatzangabe verlangt Neuberechnung und erneute Validierung; ein erfolgreiches XML-Schema ersetzt weder materielle Steuerprüfung noch bestätigten Rechnungseingang.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Anwendungsfall
 

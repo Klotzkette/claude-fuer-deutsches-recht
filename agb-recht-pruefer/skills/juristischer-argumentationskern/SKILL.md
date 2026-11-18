@@ -1,9 +1,9 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Agb Recht Prüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "AGB vom Vertragstext zur belastbaren Klauselfassung. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Juristischer Argumentationskern - Agb Recht Prüfer
+# AGB vom Vertragstext zur belastbaren Klauselfassung
 
 ## 1. Direktstart
 
@@ -15,20 +15,19 @@ Bei einer Preiserhöhung lies die Preis- und Änderungsklauseln zusammen mit der
 1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
 1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
 
-## 2. Die tragende These
+## 2. Vom Aktenstand zum fertigen Ergebnis
 
-Formuliere das Ergebnis für Agb Recht Prüfer in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich.
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1. Vertragsfassung, Abschlussweg, Verwender und Verbraucher- oder Unternehmerrolle aus der Akte bestimmen; bei Änderungen die ursprüngliche Zustimmung und die Änderungsmitteilung mitlesen.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+2. Zuerst Individualabrede, Einbeziehung und überraschende Klausel prüfen, dann kontrollfreie Leistungsbeschreibung von Preisnebenabrede trennen. Transparenz und Inhaltskontrolle jeweils am gesamten Klauselgefüge begründen.
+
+3. Nur für den betroffenen Klauseltyp den unten verlinkten Fachweg zu Arbeitsvertrag, VOB/B, Vertragsstrafe oder Kündigungsfiktion öffnen. Unwirksamkeit, Teilbarkeit und gesetzliche Ersatzfolge getrennt entscheiden.
+
+4. Originaltext, konkrete Benachteiligung und stärkstes Verwenderargument gegenüberstellen; die beauftragte Ersatzklausel vollständig schreiben und ihre Folgen für Preise, Laufzeit und Haftung nachziehen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 3. Materienspezifische Tatbestandsarbeit
 
@@ -62,15 +61,15 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 5. Rechtsprechung als Entscheidungshilfe
 
-5.1. [BGH, Urteil vom 01.10.2026, III ZR 205/25, Rn. 20–32](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313222026.zip): Im Zusammenspiel der AGB blieb offen, ob Verbraucher die Erhöhung einer Mitgliedsgebühr ablehnen und den Vertrag zum bisherigen Preis fortführen konnten. Der BGH bejaht einen Transparenzverstoß nach § 307 Abs. 1 Satz 2 BGB. Prüfe im eigenen Vertrag, ob der Verwender ein einseitiges Änderungsrecht beansprucht, wovon es abhängt und welche Möglichkeiten bei einem Widerspruch tatsächlich bestehen. Das Klauselurteil entscheidet weder über jedes Preisanpassungsmodell noch unmittelbar über einzelne Rückzahlungsansprüche.
-5.2. [BGH, Urteil vom 10.07.2025, III ZR 59/24, Rn. 12–14, 19–28](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&nr=142278): Bei einer dynamischen AGB-Verweisung im postalischen DSL-Antragsformular führte der unbeschränkte Änderungsspielraum zu einem Transparenzverstoß. Im Verbandsprozess den Kontrollmaßstab nach §§ 307–309 BGB von der konkreten Einbeziehung nach § 305 Abs. 2 BGB unterscheiden. Bei einer klar auf die Abschlussfassung begrenzten Verweisung ist die Auslegung gesondert zu prüfen.
-5.3. [BGH, Versäumnisurteil vom 19.09.2007, VIII ZR 141/06, Rn. 11–15](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2007-9-19&Gericht=bgh&nr=41931): Eine umfassende Freizeichnung auch für Körper- oder Gesundheitsschäden und sonstige Schäden bei grobem Verschulden kann im Unternehmerverkehr an § 307 BGB scheitern. Prüfe dort nach § 310 Abs. 1 BGB gesondert die Interessen und Gebräuche im Geschäftsverkehr. Das Urteil bestimmt keine allgemeine Grenze für jede betragsmäßige Haftungsbeschränkung.
-5.4. [BGH, Urteil vom 19.07.2019, V ZR 75/18, Rn. 28–31](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019-7-19&Gericht=bgh&nr=101705): Auch eine formularmäßige Verjährungsverkürzung kann mittelbar gegen § 309 Nr. 7 BGB verstoßen. Im Verwaltervertrag erfasste die generelle Verkürzung auch die geschützten Schadensersatzansprüche. Prüfe deshalb Verjährungsregel, Haftungsausschluss und ihre jeweiligen Ausnahmen zusammen.
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+- [BGH, Urteil vom 01.10.2026, III ZR 205/25, Rn. 20–32](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313222026.zip): Prüfe Preis-, Widerspruchs- und Kündigungsklauseln gemeinsam. Lege fest, ob und bis wann Widerspruch den bisherigen Preis erhält und wann eine Kündigung wirkt. **Grenze:** Die Entscheidung zur konkreten AGB-Gruppe begründet kein allgemeines Erhöhungsverbot und spricht keine individuelle Erstattung zu. Die weitere Angriffsrichtung zur Kostenstruktur blieb für die Entscheidung offen.
+
+- [BGH, Urteil vom 13.03.2025, III ZR 426/23, Rn. 46 und 50](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR_426-23.pdf?__blob=publicationFile&v=1): Bei Klauselausfall verbleibenden Wortlaut auf selbständigen Sinn prüfen; Vertreterregelung war von Wahlarztvereinbarung abtrennbar. **Grenze:** Keine geltungserhaltende Neufassung; Wirksamkeit der Vertreterregelung offen, Krankenhausrecht nicht allgemein übertragen.
+
+- [BGH, Urteil vom 13.11.2025, III ZR 165/24, Rn. 32–36](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2024/III_ZR_165-24.pdf?__blob=publicationFile&v=1): Transparenz nach typischem aufmerksamen Adressaten und Klauselzusammenhang beurteilen; widersprüchliche Laufzeit- und Kündigungsregeln bleiben intransparent. **Grenze:** Nicht jede sprachlich verbesserbare Klausel ist unwirksam; keine Freigabe widersprüchlicher Belastungen.
 
 ## 6. Beweislast und Gegenangriff
 
@@ -81,13 +80,11 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzun
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Ergebnis fortführen und abschließen
 
-7.1. Wer verlangt welche Rechtsfolge aus welchem Vertrag oder gesetzlichen Anspruch.
-7.2. Ist der Vertrag wirksam zustande gekommen und welche Form- oder Vertretungsfrage kann kippen.
-7.3. Welche Klausel ist Individualabrede, AGB oder überraschende bzw. intransparente Regelung.
-7.4. Welche Pflichtverletzung oder welcher Mangel ist mit welchem Beleg bewiesen.
-7.5. Welche Einwendung ist entscheidungserheblich und wer trägt sie.
+7.1. Die Entscheidung aus Abschnitt 2 mit der folgenden Fachprüfung und den belegten Aktenangaben zusammenführen. Neu gelieferte Tatsachen ersetzen die betroffene Annahme; Berechnung, Antrag und Folgeabschnitte derselben Fassung anschließend aktualisieren.
+7.2. Im fertigen Produkt je tragendem Punkt Rechtsregel, konkrete Tatsache, Beleg, Beweislast beziehungsweise Ermittlungsauftrag, stärkste Gegenposition und Antwort verbinden. Fristbeginn, Ereignis, Fristart und erforderliche Handlung ausdrücklich unterscheiden.
+7.3. Das verlangte Schreiben, den Vertrag, Schriftsatz, Entscheidungsentwurf oder Vermerk vollständig ausformulieren. Nur tatsächlich entscheidungserhebliche Restlücken außerhalb des Empfängertexts als konkrete nächste Aufgabe kennzeichnen.
 
 ## 8. Juristisches Schreiben
 

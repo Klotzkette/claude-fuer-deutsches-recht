@@ -1,34 +1,25 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Richter Finanzgericht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Finanzgerichtliche Sache vom Bescheid zur begründeten Entscheidung führen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert vollständigen gerichtlichen Hinweis, AdV-Beschluss oder Urteil mit nachrechenbarem Betrag, Beweiswürdigung und richtigem Ausspruch."
 ---
 
-# Juristischer Argumentationskern - Richter Finanzgericht
+# Finanzgerichtliche Sache vom Bescheid zur begründeten Entscheidung führen
 
-## 1. Direktstart
+## 1. Vom vorhandenen Material zum fertigen Ergebnis
 
-Gleiche angefochtene Festsetzung, Einspruchsakte und Klagebegehren ab. Begründe die notwendige Sachaufklärung oder entwirf die Entscheidung aus den feststellbaren Besteuerungsgrundlagen.
+1.1. **Aktenstart.** Lies angegriffenen Bescheid, Einspruchsentscheidung, Änderungsbescheide, Akten und Berechnung; bestimme Steuerart, Zeitraum und Streitgegenstand. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.2. **Entscheidende Weiche.** Prüfe Zulässigkeit, Bindungen und verbleibende Beschwer vor materieller Steuerfestsetzung. Bei AdV ernstliche Zweifel und Vollziehungsinteresse prüfen, ohne die Hauptsache vorwegzunehmen; Berechnungsfehler im gesamten angefochtenen Umfang berücksichtigen.
 
-## 2. Die tragende These
+1.3. **Gezielte Vertiefung.** Bei Schätzung inneren Betriebsvergleich und Datenqualität würdigen; bei Grundlagenbescheid dessen Bindungswirkung; bei Eilrechtsschutz günstige und ungünstige Fehler desselben Bescheids zusammen berechnen. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
 
-Formuliere das Ergebnis für Richter Finanzgericht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage.
+1.4. **Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1.5. **Fertigstellen und fortschreiben.** Liefere vollständigen gerichtlichen Hinweis, AdV-Beschluss oder Urteil mit nachrechenbarem Betrag, Beweiswürdigung und richtigem Ausspruch. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+## 2. Bedingte Fachwege und materielle Prüfung
 
-## 3. Materienspezifische Tatbestandsarbeit
+Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
 | Prüfpunkt | Konkrete Arbeitsfrage |
 | --- | --- |
@@ -38,89 +29,70 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 | Belege, Buchführung | Belege, Buchführung, Rechnung, DBA und unionsrechtliche Sperren trennen |
 | Arbeitsprodukt | Einspruch, Klage, Stellungnahme, Risikomatrix oder Berechnung erstellen |
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+### 2.1. Verknüpfung mit den tragenden Fachskills
 
 Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
 
-3.1.1. [01 Zulässigkeit Finanzgerichtsklage](../01-zulaessigkeit-finanzgerichtsklage/SKILL.md)
-3.1.2. [04 Steuerbescheid Prüfen](../04-steuerbescheid-pruefen/SKILL.md)
-3.1.3. [02 Amtsermittlung Finanzgericht](../02-amtsermittlung-finanzgericht/SKILL.md)
-3.1.4. [09 Urteil Finanzgericht und Revision](../09-urteil-finanzgericht-und-revision/SKILL.md)
+2.1.1. [01 Zulässigkeit Finanzgerichtsklage](../01-zulaessigkeit-finanzgerichtsklage/SKILL.md)
+2.1.2. [04 Steuerbescheid Prüfen](../04-steuerbescheid-pruefen/SKILL.md)
+2.1.3. [02 Amtsermittlung Finanzgericht](../02-amtsermittlung-finanzgericht/SKILL.md)
+2.1.4. [09 Urteil Finanzgericht und Revision](../09-urteil-finanzgericht-und-revision/SKILL.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
-## 4. Normenanker
+## 3. Tragende Normen fallbezogen anwenden
 
-4.1. AO Paragraf 85: Legalität und Gleichmäßigkeit der Besteuerung.
-4.2. AO Paragraf 88: Amtsermittlung.
-4.3. AO Paragraf 173: Aufhebung oder Änderung wegen neuer Tatsachen.
-4.4. EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
-4.5. EStG Paragraf 49: beschränkte Steuerpflicht.
-4.6. FGO Paragraf 76: Sachaufklärung im Finanzgerichtsverfahren.
+3.1. AO Paragraf 85: Legalität und Gleichmäßigkeit der Besteuerung.
+3.2. AO Paragraf 88: Amtsermittlung.
+3.3. AO Paragraf 173: Aufhebung oder Änderung wegen neuer Tatsachen.
+3.4. EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
+3.5. EStG Paragraf 49: beschränkte Steuerpflicht.
+3.6. FGO Paragraf 76: Sachaufklärung im Finanzgerichtsverfahren.
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 4. Rechtsprechung als Entscheidungshilfe
 
-5.1. BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
-5.2. BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
-5.3. BFH, Urteil vom 25.06.2025, XI R 17/22: Der erstmalige Umsatzsteuerausweis in einer berichtigten Eingangsrechnung ermöglicht keinen rückwirkenden Vorsteuerabzug. Von der Berichtigung einer bereits rückwirkungsfähigen Rechnung unterscheiden. [Amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520301/).
-5.4. EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04: Kittel-Rechtsprechung zum Vorsteuerabzug bei Kenntnis von Umsatzsteuerbetrug.
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
 
-5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+1. [BFH, Beschluss vom 06.06.2025, II B 43/24 (AdV)](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520179/). **Anwendung:** Gewichtige Gegenargumente bei summarischer Prüfung reichen ohne Überwiegen; dokumentierte Doppelzählung auf beantragten Mehrsteuerbetrag beziehen. **Grenze:** Amtlicher Volltext gelesen, tragend Gründe II.1; Schenkungsteuerfall liefert nur allgemeinen AdV-Maßstab, nicht materielles Ergebnis anderer Steuerarten.
 
-## 6. Beweislast und Gegenangriff
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-22.
 
-Ausgangspunkt für dieses Plugin: Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise.
+2. [BFH, Beschluss vom 04.03.2026, VI B 44/25 (AdV)](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610056/). **Anwendung:** Ernstliche Zweifel an einem Einzelansatz tragen keine AdV, soweit gegenläufige Fehler desselben Bescheids die Entlastung aufzehren. Beide Korrekturen und verbleibenden Aussetzungsbetrag berechnen. **Grenze:** Verböserungsverbot beachten; keine Verrechnung beliebiger anderer Steuerjahre. Materielle Auslegung des § 50d Absatz 9 Satz 4 EStG blieb im Eilverfahren offen.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-01.
 
-## 7. Prüffolge
+3. [BFH, Urteil vom 18.06.2025 – X R 19/21](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/). **Anwendung:** Mit zumutbarem Aufwand zuverlässigere Schätzung wählen; eigene Betriebsdaten und Nachkalkulation prüfen. **Grenze:** Kein Methodenwahlrecht des Steuerpflichtigen, keine zwingende zweite Kontrollrechnung; alte Prüfungsjahre 2013/2014.
 
-7.1. Welche Steuerart und welcher Zeitraum sind betroffen.
-7.2. Welche nationale Norm begründet die Steuerpflicht.
-7.3. Welche Korrektur- oder Rechtsbehelfsfrist läuft.
-7.4. Welche Belege tragen die Besteuerungsgrundlage.
-7.5. Welche DBA- oder Unionsrechtsfrage begrenzt die Besteuerung.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-01.
 
-## 8. Juristisches Schreiben
+### 4.1. Weitere vorhandene Fallabgrenzungen
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Steuerart, Zeitraum, Nationalen Tatbestand, persönliche Steuerpflicht und Einkunfts- oder Umsatzlogik, Verfahrensrecht, Belege, Buchführung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Diese bereits vorhandenen Hinweise bleiben mit ihrem bisherigen Quellenstand erhalten; sie wurden am 18.11.2026 nur redaktionell auf Anschluss an den Workflow gelesen, nicht sämtlich neu anhand der Volltexte geprüft. Die obigen Karten konkretisieren die jeweils ausgewählten Anker.
 
-## 9. Ausgabemodi
+4.1.1. BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
+4.1.2. BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
+4.1.3. BFH, Urteil vom 25.06.2025, XI R 17/22: Der erstmalige Umsatzsteuerausweis in einer berichtigten Eingangsrechnung ermöglicht keinen rückwirkenden Vorsteuerabzug. Von der Berichtigung einer bereits rückwirkungsfähigen Rechnung unterscheiden. [Amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520301/).
+4.1.4. EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04: Kittel-Rechtsprechung zum Vorsteuerabzug bei Kenntnis von Umsatzsteuerbetrug.
 
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+4.1.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+4.1.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
-## 10. Qualitätskontrolle
+## 5. Beweis, Gegenposition und Fristen
 
-10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage verwendbar?
+Finanzamt und Finanzgericht ermitteln den Sachverhalt von Amts wegen; Mitwirkungspflichten und objektive Feststellungslast bleiben anspruchs- und tatbestandsbezogen. Steuererhöhende und steuermindernde Tatsachen nicht ohne Prüfung von Vermutungen, Dokumentationspflichten und Beweiserleichterungen pauschal zuordnen. Eine Schätzungsbefugnis erlaubt keine beliebige Höhe. Eilrechtsschutz erfordert eine eigene summarische Prüfung und zutreffende Differenzrechnung.
 
-## Beitrag zum Streitstoff in diesem Verfahren
+Für jede tragende Aussage die Datei und genaue Stelle, beim Zeugen das Beweisthema und bei Berechnungen Eingaben und Rechenweg nennen. Gegenposition anhand derselben Belege fair prüfen. Fristbeginn, Fristdauer, Form, Adressat und nachgewiesenen Zugang getrennt erfassen; eine fehlende Tatsache nur an der entscheidenden Stelle nachfordern.
 
-Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirkung, Schätzung, Beweisangebot und Entscheidungsreife. Er macht sichtbar, welche Tatsache aus Buchführung, Prüfungsbericht, Steuerakte oder Parteivortrag stammt und welche Aufklärungsanordnung nach FGO-Logik erforderlich bleibt.
+## 6. Fertige Fassung und Abschlussprüfung
+
+Liefere vollständigen gerichtlichen Hinweis, AdV-Beschluss oder Urteil mit nachrechenbarem Betrag, Beweiswürdigung und richtigem Ausspruch. Ergebnis oder bestimmter Antrag zuerst, danach konkrete Tatsachen, tragende Rechtsregel, Subsumtion, Gegenposition und Antwort. Haupt- und Hilfslinie nur soweit sachlich erforderlich. Vollständige Sätze und ein unmittelbar weiterverwendbarer Text; keine leeren Vorlagen oder bloßen Skill-Empfehlungen.
+
+Prüfe Namen, Rolle, Zuständigkeit, Gesetzesfassung, Frist, Form, Beträge und Anlagen auf Widerspruch. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine erfundenen Randnummern. Bei neuem Beleg denselben Entwurf fortschreiben und die dadurch geänderte Rechtsfolge benennen. Visualisierung nur bei verfügbarem Werkzeug; sonst verständliche Tabelle oder Textskizze. Ohne ausgeführte Handlung keine Einreichung, Freigabe oder erfolgreiche Datenübermittlung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 11. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

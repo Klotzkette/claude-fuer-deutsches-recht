@@ -1,6 +1,6 @@
 # gvb-reinigungsvergabe
 
-**10 Skills** · Stand `v1.0.0`
+**10 Skills** · Stand `v445.36.8`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gvb-reinigungsvergabe/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`gvb-reinigungsvergabe-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`gvb-reinigungsvergabe-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [gvb-reinigungsvergabe.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gvb-reinigungsvergabe-v1.0.0/gvb-reinigungsvergabe.zip) |
+| **Plugin (installierbar)** | ZIP | [gvb-reinigungsvergabe.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/gvb-reinigungsvergabe.zip) |
 
 ## So benutzt man einen Skill
 
@@ -28,7 +28,7 @@ English: This index lists source skills, including specialist series accessed th
 
 | Skill | Beschreibung | Markdown-Datei |
 | --- | --- | --- |
-| [`a1-reinigungsauftrag-und-vergabeverfahren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/skills/a1-reinigungsauftrag-und-vergabeverfahren/SKILL.md) | Ordnet Reinigungsbedarf eines Berliner Verkehrsunternehmens nach Sektorenbezug, Losen und Auftragswert ein. Erstellt Vergabevermerk und Terminplan; Einstieg vor Veröffentlichung oder bei noch ungeklärtem Verfahrensweg. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/skills/a1-reinigungsauftrag-und-vergabeverfahren/SKILL.md) |
+| [`a1-reinigungsauftrag-und-vergabeverfahren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/skills/a1-reinigungsauftrag-und-vergabeverfahren/SKILL.md) | Reinigungsbeschaffung vom Bedarf zur nachvollziehbaren Vergabeentscheidung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gege... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/skills/a1-reinigungsauftrag-und-vergabeverfahren/SKILL.md) |
 | [`a2-reinigungsleistung-und-mengen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/skills/a2-reinigungsleistung-und-mengen/SKILL.md) | Erstellt Leistungsbeschreibung, objektbezogenes Leistungsverzeichnis und Mengenherleitung für Stations-, Fahrzeug- und Betriebsraumreinigung. Klärt Sperrfenster, Flächenabgrenzung und abrechenbare Sonderleistungen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/skills/a2-reinigungsleistung-und-mengen/SKILL.md) |
 | [`a3-eignung-wertung-reinigungsvertrag`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/skills/a3-eignung-wertung-reinigungsvertrag/SKILL.md) | Gestaltet Eignungsnachweise, transparente Preis- und Qualitätswertung und vollständige Reinigungsverträge. Verknüpft Berliner Tarifvorgaben mit Nachtarbeit, Vertretung, Versicherung und kontrollierbarer Abrechnung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/skills/a3-eignung-wertung-reinigungsvertrag/SKILL.md) |
 | [`a4-unterlagen-und-preisblatt-abgleichen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/skills/a4-unterlagen-und-preisblatt-abgleichen/SKILL.md) | Prüft Reinigungsvergabeunterlagen auf Widersprüche zwischen Mengen, Zeitfenstern, Vertrag, Preisblatt und Bekanntmachung. Rechnet Positionen und Optionen nach und liefert berichtigte Fassungen mit Freigabeübersicht. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/skills/a4-unterlagen-und-preisblatt-abgleichen/SKILL.md) |

@@ -1,23 +1,21 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in US Copyright Registrierung Verlag ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "US-Copyright vom Werk zur passenden Registrierungs- und Prozessentscheidung führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Juristischer Argumentationskern - US Copyright Registrierung Verlag
+# US-Copyright vom Werk zur passenden Registrierungs- und Prozessentscheidung führen
 
-## 1. Direktstart
+## 1. Auftrag und vorhandenen Stand aufnehmen
 
-Ordne Werk, Rechteinhaber, Veröffentlichung und Anmeldeunterlagen. Begründe die US-Registrierungsposition oder Reaktion auf die betreffende Nutzung mit den fallbezogenen Nachweisen.
+Bestimme Werk, Urheber, Rechteinhaber, Entstehung, Erstveröffentlichung, US-work-Status und bisherigen Registrierungsstand.
 
-Erfasse Parteien und Sitzstaaten, Vertrags- und Gerichtsstandsklauseln, Anknüpfungstatsachen und Fristen. Lass die Übersicht in das beauftragte Arbeitsprodukt einfließen und gib sie separat aus, wenn sie beauftragt ist.
+Beginne bei klarem Auftrag mit dem bestellten Ergebnis. Frage nur nach Angaben, die Rechtsfolge, Frist, Beweis oder konkrete Gestaltung ändern. Bearbeitbare Teile ausarbeiten; die Antwort anschließend in denselben Entwurf übernehmen.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) verbinden die folgenden Fachprüfungen mit dem fertigen Arbeitsprodukt.
 
 ## 2. Die tragende These
 
-Formuliere das Ergebnis für US Copyright Registrierung Verlag in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie.
+Formuliere das Ergebnis für US Copyright Registrierung Verlag in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Registrierungsantrag, Rechtevermerk, Antwort auf eine Beanstandung oder begründete Prozessvorbereitung.
 
 Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
@@ -34,57 +32,61 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 | Prüfpunkt | Konkrete Arbeitsfrage |
 | --- | --- |
-| Auslands-Zergliederung | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente und Fristen als Raster erfassen |
-| Forum | internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo- und Parallelverfahrensrisiken benennen |
-| Anwendbares Recht | Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen |
-| Materielle Prüfung nach dem berufenen Recht | bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden |
-| Durchsetzung | Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt |
+| Werk und Rechte | Werkart, menschlicher schöpferischer Beitrag, Fixierung, Urheber und Rechteübertragung anhand der Originalunterlagen klären |
+| Veröffentlichung | Ort, Zeitpunkt und Form der Erstveröffentlichung sowie US-work-Status bestimmen; Online-Zugänglichkeit nicht ungeprüft gleichsetzen |
+| Registrierung | Passenden Antragsweg, Werkangaben, Deposit, Gebühr und Registerkorrespondenz prüfen; keinen amtlichen Vollzug behaupten |
+| Verfahrenszugang | Behördenentscheidung nach Section 411(a), Ablehnungsfall und gesetzliche Ausnahmen von bloßem Antragseingang unterscheiden |
+| Rechtsfolge | Zeitpunkt der Verletzung und Registrierung, Section 412, Schadensart und gewünschte Maßnahme getrennt prüfen |
 
 ### 3.1. Verknüpfung mit den tragenden Fachskills
 
 Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
 
-3.1.1. [Anti-Circumvention Paragraf 1201](../anticircumvention-1201/FACHINHALT.md)
-3.1.2. [Architectural Works Paragraf 120](../architectural-works-120/FACHINHALT.md)
-3.1.3. [Attorney’s Fees Paragraf 505](../attorneys-fees-505/FACHINHALT.md)
-3.1.4. [Compilations und Derivative Works](../compilations-derivative-works-103/FACHINHALT.md)
+3.1.1. Bei unklarer Urheberschaft oder Übertragung: [Werk und Rechtekette klären](../werk-und-rechtskette-bearbeiten/SKILL.md).
+3.1.2. Für Werkart, Antragsweg, Deposit und Behördenrückfragen: [Registrierung vorbereiten und begleiten](../registrierung-bearbeiten/SKILL.md).
+3.1.3. Bei bereits erfolgter Verletzung: [Rechtsfolgen und Verfahrensweg prüfen](../remedies-und-forum-bearbeiten/SKILL.md); Sections 411 und 412 getrennt behandeln.
+3.1.4. Für den vollständigen Antrags- oder Antworttext: [Arbeitsprodukt ausarbeiten und kontrollieren](../arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md).
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
 ## 4. Normenanker
 
-4.1. Brüssel-Ia-VO Artikel 4, 7 und 25: allgemeiner und besonderer Gerichtsstand sowie Gerichtsstandsvereinbarung.
-4.2. Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
-4.3. Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
-4.4. CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
-4.5. New Yorker Übereinkommen Artikel II und V: Schiedsvereinbarung und Anerkennungsversagungsgründe.
-4.6. ZPO Paragraf 293: Ermittlung ausländischen Rechts durch das Gericht.
+4.1. [17 U.S.C. Sections 407–410](https://www.copyright.gov/title17/92chap4.html): Deposit, Anmeldung, Angaben und Registrierungsentscheidung sind unterschiedliche Schritte. Anmeldung ist nicht Schutzentstehung.
 
-Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+4.2. [17 U.S.C. Section 411(a)](https://www.copyright.gov/title17/92chap4.html#411): regulären Zugang zur Verletzungsklage bei einem United States work und den gesondert geregelten Ablehnungsfall prüfen; gesetzliche Ausnahmen nicht übergehen.
+
+4.3. [17 U.S.C. Section 412](https://www.copyright.gov/title17/92chap4.html#412): Registrierungszeitpunkt für statutory damages und attorney's fees gesondert prüfen. Fehlende oder späte Registrierung bedeutet nicht pauschal den Verlust aller Rechte oder sämtlicher Schadensersatzmöglichkeiten.
+
+4.4. Bei einem tatsächlich beauftragten deutschen Verfahren Inhalt und Ermittlung des ausländischen Rechts sowie internationales Privat- und Verfahrensrecht gesondert prüfen. CISG, Rom-I-Verordnung und Schiedsrecht ersetzen die US-Registrierungsprüfung nicht.
 
 ## 5. Rechtsprechung und Quellenstatus
 
-5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+Die folgenden Anker sind im Repository bereits einzeln dokumentiert. Ihr jeweiliger Prüfstand und Umfang bleiben sichtbar; daraus folgt keine neue Volltextprüfung aller Entscheidungen. Prüfe die Übertragbarkeit und spätere Entwicklung für den konkreten Auftrag.
 
-5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+5.1. Supreme Court of the United States, Opinion vom 04.03.2019, No. 17-571, Fourth Estate v. Wall-Street.com, Gründe II.A. Anwendung: Für reguläre Klage nach Section 411(a) Behördenentscheidung statt bloßer ordnungsgemäßer Antragseinreichung abwarten. Grenze und Prüfzugang: US-work-Einordnung, Ablehnung mit Zustellung an den Register und gesetzliche Sonderfälle separat; keine Aussage, dass Schutz oder frühere Ansprüche insgesamt entfallen. [Entscheidungsnachweis](https://www.supremecourt.gov/opinions/18pdf/17-571_e29f.pdf) — tragende Passagen der Opinion, Seiten 1–7, am 18.11.2026 erneut im amtlichen Text geprüft; keine Vollprüfung sämtlicher späterer Entscheidungen.
+
+Die [Quellenkarten und Entscheidungsfolge](../../references/hauptworkflow-und-rechtsprechung.md) verbinden Beleg, Anwendung und Aussagegrenze. Unterscheide Urteilsvolltext, amtlich veröffentlichten Leitsatz, Pressemitteilung und noch offene Recherche; keine Randnummern aus einer Pressemitteilung ableiten.
 
 ## 6. Beweislast und Gegenangriff
 
-Ausgangspunkt für dieses Plugin: Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden.
+Bestimme Darlegungs-, Nachweis- und Beweislast für das konkrete Merkmal und Verfahren. Trenne gesetzliche Vermutungen, sekundäre Darlegung und behördliche Ermittlung. Offene Tatsachen werden nicht allein wegen ihrer Herkunft aus einer Parteiakte als bewiesen behandelt.
 
 6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
 6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
 6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
 6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
 
-## 7. Prüffolge
+## 7. Vom Prüfschritt zum fertigen Ergebnis
 
-7.1. Welche Klausel regelt Forum und Recht, und ist sie wirksam vereinbart.
-7.2. Welches Gericht oder Schiedsgericht ist zuständig, und wo droht ein Parallelverfahren.
-7.3. Welches Sachrecht ist berufen, und gilt CISG oder nationales Recht.
-7.4. Wie wird der Inhalt ausländischen Rechts belastbar ermittelt.
-7.5. Wo wird vollstreckt, und welche Anerkennungs-, Zustellungs- oder Sanktionshürde steht davor.
+7.1. Trenne Schutzentstehung, Anmeldung, behördliche Registrierungsentscheidung und Voraussetzungen der Klage. Prüfe Rechtsfolgen verspäteter Registrierung und gesetzliche Ausnahmen separat.
+
+7.2. Vertiefe nur den entscheidenden Engpass mit dem passenden Fachskill oder Referenztext aus Abschnitt 3. Übergib Tatsachenstand, Teilfrage und Beleg. Übernimm die Antwort in denselben Entwurf; eine bloße Weiterleitung beendet den Auftrag nicht.
+
+7.3. Erstelle das beauftragte Anmeldepaket oder den Verfahrensvermerk mit konkreter Werkangabe, erforderlichem Deposit, Rechtekette und offenen Nachweisen.
+
+7.4. Ein eingegangener Registerbescheid verändert den Verfahrensstand; eine bloße Eingangsbestätigung ist noch keine Registrierungsentscheidung. Allgemeine EU-Vertragsanknüpfung ersetzt diese US-Prüfung nicht.
+
+7.5. Gleiche vor Abschluss tragende Aussage, Quelle, Gegenargument, Rechnung und konkrete Rechtsfolge ab. Liefere den bestellten vollständigen Text, nicht nur den Prüfplan.
 
 ## 8. Juristisches Schreiben
 
@@ -92,7 +94,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Anknüpfung, Zuständigke
 8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
 8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
 8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Auslands-Zergliederung, Forum, Anwendbares Recht, Materielle Prüfung nach dem berufenen Recht: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+8.5. Typische fertige Ausgabe: vollständig vorbereitete Antragsangaben mit Deposit-Zuordnung, ausformulierter Beanstandungsantwort oder begründetem Verfahrensvermerk zu Registrierungsstand und Rechtsfolgen.
 
 ## 9. Ausgabemodi
 
@@ -112,7 +114,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Anknüpfung, Zuständigke
 10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
 10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
 10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-10.7. Ist das Ergebnis unmittelbar als Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie verwendbar?
+10.7. Ist das Ergebnis unmittelbar als Registrierungsantrag, Rechtevermerk, Antwort auf eine Beanstandung oder begründete Prozessvorbereitung verwendbar?
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 11. Verständlich arbeiten und sichtbar prüfen

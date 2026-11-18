@@ -4,7 +4,7 @@ Für diese Aufgaben verwenden Sie das gemeinsame Plugin **[arbeitszeugnispruefer
 
 ## 1. Gemeinsames Plugin verwenden
 
-[Anleitung und Skills](../arbeitszeugnispruefer/README.md) · [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.5/arbeitszeugnispruefer.zip) · [Werkstatt-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md) · [Mini-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md)
+[Anleitung und Skills](../arbeitszeugnispruefer/README.md) · [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/arbeitszeugnispruefer.zip) · [Werkstatt-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md) · [Mini-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md)
 
 Im Marketplace wird das gemeinsame Paket `arbeitszeugnispruefer` ausgewählt. Dieser bisherige Pfad bleibt als Wegweiser und vollständiges Quellarchiv erhalten. Seine Manifeste und Fachtexte dokumentieren den früheren Paketstand; für die laufende Arbeit gilt die zusammengeführte Anleitung.
 

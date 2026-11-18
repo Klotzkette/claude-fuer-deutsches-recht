@@ -1,9 +1,23 @@
 ---
 name: bauvergabe-verfahren-steuern
-description: Steuert die Führung eines Bauvergabeverfahrens auf Auftraggeberseite und verbindet genau zehn bauspezifische Fachschritte. Bei einem Einzelauftrag direkt den passenden Fachskill verwenden.
+description: "Bauvergabeverfahren von der Akte zum nächsten rechtswirksamen Schritt führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Bauvergabeverfahren auf Auftraggeberseite steuern
+# Bauvergabeverfahren von der Akte zum nächsten rechtswirksamen Schritt führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Aus Verfahrensakte den erreichten Stand, Auftraggeberrolle, Rechtsregime, Beginn und die nächste Frist erkennen; bereits freigegebene Grundlagen nicht neu abfragen.
+
+2. Eingang und Form vor Eignung und Wertung prüfen; Mangeltyp, Nachforderbarkeit und Ausschlussfolge einzeln begründen. Aufklärung darf kein neues Angebot oder nachträglich andere Zuschlagsregeln schaffen.
+
+3. Je nach Befund nur den Fachweg für Öffnung, Eignung, Nachforderung, Preisprüfung, Bieterfrage oder Abschluss laden. Neue Erkenntnisse in Wertung und Dokumentation desselben Verfahrens zurückführen.
+
+4. Vergabevermerk und bestelltes Bieterschreiben ausformulieren; Zuschlag oder Aufhebung anhand der bisherigen Entscheidungen, Unterrichtung und Wartefristen absichern.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -71,6 +85,16 @@ Für Münster ist der 12.10.2026, für Bielefeld der 19.10.2026 als fiktive Ver�
 Münster: Die Beanstandung regionaler Baustellenerfahrung führt zur Prüfung des unbekannten Kriteriums. Bielefeld: Referenznachforderung und Eignungsleihe werden anhand der ursprünglichen Forderung und gesicherten Kapazität dokumentiert.
 
 Bei den kanonischen Testakten bilden Unterlagen, Verfahren, Bieterarbeit, Rechtsschutz und Nachträge fünf getrennte Stufen derselben fiktiven Akte. Vorbereitung ist September 2026; die Fortsetzung 2027 verwendet für die Simulation den eingefrorenen Rechtsstand 06.10.2026. Im Echtfall ist dieser neu zu prüfen. Für die Nutzung des installierten Skills müssen keine Testakten oder Werkstattdateien vorhanden sein.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [EuGH, Urteil vom 05.04.2017 – C-298/15, ECLI:EU:C:2017:266, Rn. 68 bis 69 und 76 (Borta)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62015CJ0298): Bedingungen und Kriterien müssen klar und vorab erkennbar sein; erhebliche Änderungen verlangen eine angemessene Anpassungszeit und eine Prüfung der Publizität. **Grenze:** Der Ausgangsfall betraf einen unterschwelligen Hafenbauauftrag mit grenzüberschreitendem Interesse. Er belegt weder die Auftraggebereigenschaft einer GmbH noch die Fristen und Losausnahmen der VOB/A 2026.
+
+- [EuGH, Urteil vom 29.03.2012 – C-599/10, ECLI:EU:C:2012:191, Rn. 40 bis 45 (SAG ELV Slovensko u. a.)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62010CJ0599): Aufklärung muss die Bieter gleich behandeln und darf nicht tatsächlich zu einem neuen Angebot führen; auffällige Preise erfordern eine konkrete Prüfung. **Grenze:** Die Entscheidung erging zur Richtlinie 2004/18/EG. Die heutige bauvergaberechtliche Nachforderungspflicht, Preispositionsausnahme und Frist folgen eigenständig aus Paragraf 16a EU VOB/A 2026.
+
+- [BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtliche Leitsaetze a bis c.](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1&Gericht=bgh&anz=272&nr=77591&pos=9): Die Preisantwort muss die Kalkulation belegbar erklaeren und vertrauliche Teile gesondert behandeln. Ein auffaelliger Abstand kann eine Pruefung ausloesen, ist aber kein fertiger Ausschlussnachweis. **Grenze:** Amtliche Leitsaetze ueber den Suchindex gelesen; direkter BGH-PDF-Abruf mit HTTP 403 gescheitert. Keine Volltext- oder Randnummernverifikation. Aktuelle Rechtsfolgen separat an Paragraf 60 VgV abgeglichen.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

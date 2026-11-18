@@ -1,61 +1,72 @@
 ---
 name: versammlung-mandat-zum-ergebnis
-description: Hauptskill für Berliner Versammlungsmandate von vorhandenen Unterlagen und gezielten Rückfragen bis zur ausformulierten Anzeige, Kooperationsantwort, Beschränkungsprüfung oder dem beauftragten Rechtsbehelf.
+description: "Berliner Versammlung von Konzept bis Rechtsschutz bearbeiten. Verarbeitet vorhandene Unterlagen, prüft entscheidende Fachfragen und führt den Auftrag zum vollständig formulierten Ergebnis."
 ---
 
-# 1. Berliner Versammlungsmandat zum Ergebnis führen
+# Berliner Versammlung von Konzept bis Rechtsschutz bearbeiten
 
-## 1.1. Zweck und Anwendungsfall
+## 1. Aus der vorhandenen Akte beginnen
 
-Führe das konkrete Berliner Versammlungsmandat zum bestellten Ergebnis. Erfasse Rolle, Ziel, Ort, Zeit und Verfahrensstand aus der Akte; beginne bei ausreichenden Angaben unmittelbar mit dem Entwurf. Die zehn Fachrouten dienen der Vertiefung, nicht einer erneuten Mandatsaufnahme. Keine Lehrerdisziplinarverfahren, keine Gewerbeanmeldung und keine taktische Vereitelung anderer Versammlungen.
+1.1. Erstelle das bestellte Ergebnis: vollständige Anzeige, Kooperationsantwort, Änderungseingabe oder Eilschrift mit konkretem Veranstaltungskonzept. Nutze vorhandene Dateien, Angaben und frühere Entwürfe zuerst. Maßgebliches Material: Einladung, Bekanntgabezeit, Route, Programm, Infrastruktur, Kooperationsverlauf und konkrete Beschränkungen. Erfasse Rolle, Ziel, Rechtsstand und tatsächlichen Zugang aus diesen Quellen; bereits beantwortete Punkte nicht erneut abfragen.
 
-## 1.2. Eingaben
+1.2. Sichere die tatsächlich laufende Frist anhand Auslöser, Zustellung/Bekanntgabe, anwendbarer Vorschrift, Berechnung und zuständigem Empfänger. Wenn eine fristwahrende Handlung vor vollständiger Sachaufklärung nötig ist, fertige sie mit dem vorhandenen belastbaren Stand aus und bezeichne die noch zu ergänzende Begründung. Eine Frist ohne belegten Auslöser bleibt ungeklärt.
 
-Auftrag und Vertretungsrolle; Einladung und erste Bekanntgabe; Programm/Route; Behördenkontakte; Bescheide mit Zugang und Vollziehbarkeit; Belege zu Gefahren oder Alternativen; vorhandene Entwürfe. Trenne den Termin der Einladung vom Beginn der Veranstaltung und eine behördliche Antwortfrist von einer gerichtlichen Rechtsbehelfsfrist.
+## 2. Den Fall in die richtige Fachroute führen
 
-## 1.3. Ablauf / Checkliste
+2.1. Gesamtveranstaltung und jeden Gegenstand funktional bestimmen. Camp, Übernachtung, Versorgung und reine Fremdunterkunft nicht gleich behandeln; Schutzbereich und zulässige Beschränkung getrennt prüfen.
 
-### 1.3.1. Den richtigen Vorgang bestimmen
+2.2. Jede Behördenregel mit Gefahr, tragender Prognosetatsache und milderer räumlicher oder zeitlicher Alternative verbinden; Drittgefahren und Eigengefahren unterscheiden. Bei Nachbereitung einzelne Maßnahmen und Erledigung prüfen.
 
-Prüfe §§ 1 und 2 VersFG BE, Art. 8 GG und Art. 26 VvB. Öffentliche Meinungsbildung, mindestens zwei örtlich zusammenkommende Personen und überwiegender kommunikativer Zweck entscheiden. Benenne öffentlich/nichtöffentlich sowie unter freiem Himmel/geschlossene Räume. Das Berliner Gesetz gilt grundsätzlich für beide Öffentlichkeitsformen; einzelne Befugnisse haben engere Voraussetzungen. Eine Anzeige ist kein Genehmigungsantrag.
+2.3. Nicht das politische Anliegen bewerten, sondern kommunikativen Zweck und konkrete Gefahren belegen. Kooperationsbereitschaft ist weder pauschale Rechtmäßigkeitsbedingung noch Verzicht auf Rechte.
 
-### 1.3.2. Die tragende Fachroute wählen
+2.4. Verknüpfe jeden entscheidenden Punkt mit konkreter Fundstelle und der daraus folgenden Passage im Arbeitsprodukt. Widersprüchliche Angaben nebeneinander prüfen; Akteninhalt, Schlussfolgerung und offene Tatsache auseinanderhalten. Darlegungs- und Beweislast sowie Beweismaß folgen aus der jeweiligen Anspruchs- oder Eingriffsnorm, nicht aus einer allgemeinen Rollenvermutung.
 
-1. `versammlung-begriff-und-grundrechte` für Schutzbereich und gemischte Konzepte.
-2. `versammlung-anzeige-und-kooperation` für die 48 Stunden vor Einladung und Eil-/Spontanfragen.
-3. `versammlung-ort-route-und-flaechen` für Straße, Privatflächen und besondere Orte.
-4. `versammlung-beschraenkungen-laerm-verkehr` für einzelne belastende Regelungen.
-5. `versammlung-gegenversammlung-und-kollision` für Hör-/Sichtweite und Drittgefahren.
-6. `versammlung-protestcamp-und-infrastruktur` für Programm, Dauer und Gegenstandsfunktion.
-7. `versammlung-leitung-ordner-und-teilnahme` für Verantwortliche und Ausschlüsse.
-8. `versammlung-polizei-beobachtung-und-daten` für Kontrollen und Bild-/Tondaten.
-9. `versammlung-verbot-aufloesung-und-einzelmassnahmen` für Maßnahmentrennung und ASOG-Grenzen.
-10. `versammlung-rechtsschutz-und-nachbereitung` für den passenden Rechtsbehelf und dessen Fristen.
+## 3. Nur die benötigte Vertiefung öffnen
 
-Fehlt eine technische Weiterleitung, bearbeite die einschlägige Fachroute mit den mitgelieferten Referenzen selbst. § 12 Absatz 1 verlangt Anzeige 48 Stunden vor Einladung. Eilversammlung spätestens mit Einladung anzeigen; wirkliche Spontanbildung ist nach Absatz 7 ausgenommen. §§ 3 und 4 verlangen Schutz, Ausgleich und Kooperation. Ein fehlendes Gespräch macht nicht jeden Bescheid automatisch formell rechtswidrig: VG Berlin, Urteil vom 19.02.2026 – 1 K 196/24, Rn. 24–26.
+Wähle anhand der vollständigen vorhandenen Fachrouten (einschließlich Sonderfristen und besonderen Rechtswegen) den passenden Ablauf. Lies dafür die [erhaltene Fachgliederung und Quellenkarten](../../references/hauptworkflow-fachpruefung.md). Sie enthält auch vorhandene Spezialverbindungen; nicht jede dort aufgeführte Route gehört zu jedem Auftrag. Aktive Fachskills werden nach dem konkreten Streitpunkt gewählt:
 
-### 1.3.3. Tatsachen und Rechtsfolge verbinden
+3.1. [1. Anzeige und Kooperation bearbeiten](../versammlung-anzeige-und-kooperation/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-Zu jeder Beschränkung konkrete Gefahr, Quelle, Zeitpunkt und mildere Alternative prüfen. § 14 Absatz 4 verlangt bei Drittgefahren vorrangige Maßnahmen gegen Dritte. Campqualität und jeweilige Infrastruktur gesondert prüfen: BVerwG, Urteile vom 24.05.2022 – 6 C 9.20, Rn. 18–30, und 27.11.2024 – 6 C 4.23, Rn. 34–49. Keine reine Fremdübernachtung durch politische Überschrift schützen. Gegenprotest ist grundrechtlich geschützt, darf aber nicht fremde Rechte beliebig verdrängen: BVerfG, Beschluss vom 01.10.2025 – 1 BvR 2428/20, Rn. 83–105. Bei Einzelmaßnahmen §§ 10, 16–18 VersFG BE statt pauschaler Polizeifestigkeit anwenden; strafprozessualen Zweck gesondert feststellen.
+3.2. [1. Protestcamp und Infrastruktur begründen](../versammlung-protestcamp-und-infrastruktur/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-### 1.3.4. Rückfragen in das Produkt einarbeiten
+3.3. [1. Beschränkungen, Lärm und Verkehr prüfen](../versammlung-beschraenkungen-laerm-verkehr/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-Stelle höchstens die jetzt entscheidenden zusammenhängenden Fragen in einer kurzen Runde, aber keine künstliche Gesamtgrenze für notwendige spätere Klärungen. Eine neue Nachricht ändert den bestehenden Entwurf nur an betroffenen Stellen. Markiere fehlende Tatsachen klar, erfinde keine Einladungszeit und keinen Eingang. Bei ausreichender Tatsachengrundlage liefere vollständig; keine bloße Gliederung anstelle des bestellten Schriftsatzes. § 80 Absatz 5 und § 123 VwGO nach Eingriff unterscheiden, Erfolgsaussichten und Dringlichkeit fallbezogen prüfen. Nicht ungefragt prozessieren.
+3.4. [1. Rechtsschutz und Nachbereitung führen](../versammlung-rechtsschutz-und-nachbereitung/SKILL.md) vertiefen, wenn die hierzu gehörige Tatsachen-, Norm- oder Verfahrensfrage noch entscheidungserheblich offen ist; das Teilresultat in die betroffene Begründung oder Regelung des laufenden Entwurfs übernehmen.
 
-## 1.4. Quellenpflicht
+Fehlt eine automatische Skillauswahl, bearbeite den einschlägigen Fachtext selbst. Eine Übergabe an einen Spezialschritt beendet den Hauptauftrag nicht: integriere dessen Ergebnis in das bereits begonnene Auftragsdokument.
 
-Lies [Berliner Fachreferenz](../../references/berlin-versammlung-fachreferenz.md) und [Zitierweise](../../references/zitierweise.md). Norm und tragende gerichtliche Passage vor Verwendung am Fall prüfen. Fundstellen enthalten Gericht, Form, Datum, Aktenzeichen und Randnummer. Änderungen des Gesetzes, bloße Entwürfe und ortsbezogene Verordnungen auseinanderhalten. Die VO vom 16.12.2025, GVBl. S. 695, ergänzt einen symbolträchtigen Ort, schafft aber kein generelles Kundgebungsverbot. Keine nicht gelesenen Kommentarstellen übernehmen.
+## 4. Rechtsprechung am Entscheidungspunkt einsetzen
 
-## 1.5. Ausgabeformat
+Für Nachweise und Literatur die [paketlokalen Regeln zur Zitierweise und Quellenprüfung](../../references/zitierweise.md) anwenden.
 
-Das beauftragte Ergebnis liegt vollständig ausformuliert in grammatisch sauberen Sätzen vor. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Formatiere soweit technisch möglich Times New Roman 11 pt mit ausschließlich dezimaler Gliederung und Leerzeilen. Adressatengerechte Sie-Form, konkrete Frist und nächster Schritt. Quellenkontrolle und Exporthinweise getrennt vom Empfängertext. Für bloße Beratung ist keine Einreichung erforderlich; eine beauftragte Übermittlung nur mit geprüftem Text, Kanal und Umfang vornehmen. Kein Versand, keine gerichtliche Annahme oder Registrierung ohne Nachweis behaupten.
+Die folgenden Anker nur bei passender Streitfrage einsetzen; Prüfstand und ausführliche Einordnung stehen in der verlinkten Quellenkarte. Übernommene Bestandsprüfung und frischer Primärabruf bleiben dort getrennt. Keine nicht gelesenen Randnummern, Literaturstellen oder behauptete neueste Rechtsprechung ergänzen.
 
-## 1.6. Beispiele
+4.1. [BVerfG, Beschluss vom 01.10.2025 – 1 BvR 2428/20](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/10/rs20251001_1bvr242820.html): Eigenständige nicht völlig untergeordnete Gegenkommunikation kann geschützt sein; Behinderung ist nicht automatisch Unfriedlichkeit; Schutzbereich und Strafbarkeit auseinanderhalten. Grenze: Prüfungsgegenstand § 21 BundesVersG; für Berlin §§ 8/26/27 mit eigenen Voraussetzungen. Keine generelle Straflosigkeit und keine schlechthin erforderliche Auflösung vor jeder Sanktion.
 
-Eine Initiative legt einen Bescheid über einen Fahrradkorso und eine neuere Baustellenfreigabe vor. Schreibe die konkrete Änderungsbitte, ohne erneut Thema und Leitung abzufragen. Für ein Kiezcamp kläre nur die widersprechenden Schlafplatzzahlen und erstelle dann das verbesserte Konzept. Nach einer Mahnwache mit Kamera kläre Aufnahmeart und Rechtsgrundlage, statt eine nicht belegte Speicherung zu behaupten.
+4.2. [BVerwG, Urteil vom 27.11.2024 – 6 C 4.23](https://www.bverwg.de/271124U6C4.23.0): Mitveranstalter, Unterkunft für Teilnehmende anderer Versammlungen, Gesamtgepräge und konkretes Feststellungsinteresse. Grenze: Hamburger Fall unter BundesVersG; auswärtige Gäste nicht automatisch eigene Campinfrastruktur. Geändertes Vorhaben kann Wiederholungsinteresse anders beeinflussen als wesentlich gleichbleibendes.
+
+4.3. [BVerwG, Urteil vom 27.03.2024 – 6 C 1.22](https://www.bverwg.de/270324U6C1.22.0): Versammlungsbegriff nicht nach missbilligtem Zweck verkürzen; fortdauernde Maßnahmen brauchen fortdauernde Voraussetzungen. Grenze: Historischer baden-württembergischer Polizeifall; dortige Befugnisse nicht nach Berlin übertragen. Nicht alle Maßnahmen waren rechtswidrig; bei von Beginn an kollektiv unfriedlicher Zusammenkunft keine allgemeine Auflösungsvoraussetzung.
+
+4.4. [BVerwG, Urteil vom 25.10.2017 – 6 C 46.16](https://www.bverwg.de/251017U6C46.16.0): Objektiv einschüchternde staatliche Maßnahmen können Teilnahmeentscheidung bereits im Vorfeld beeinträchtigen. Grenze: Sehr niedriger unangekündigter Tornadoüberflug; nicht jede offene Polizeipräsenz gleich gewichten. Keine neue Berliner Befugnis aus altem Recht Mecklenburg-Vorpommerns.
+
+4.5. [BVerfG, Urteil vom 22.02.2011 – 1 BvR 699/06](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/02/rs20110222_1bvr069906.html): Unmittelbare Grundrechtsbindung öffentlich beherrschter Unternehmen und allgemein eröffnete Kommunikationsräume. Grenze: Keine beliebige private Zutrittsbefugnis; § 20 VersFG BE unterscheidet öffentliche Beherrschung und rein private Flächen mit eigener Abwägung.
+
+## 5. Lücken schließen und denselben Entwurf fortschreiben
+
+5.1. Frage nur nach der fehlenden Angabe, die Rechtsfolge, Beweis, Antrag oder Frist verändert. Benenne dazu den betroffenen Punkt und das benötigte Dokument oder Datum. Arbeite an den bereits entscheidbaren Abschnitten weiter; eine offene Kernfrage wird kenntlich gemacht und nicht als Tatsache ergänzt.
+
+5.2. Fortsetzungsszenario: Nach Routenänderung entfällt der Konflikt an einer Kreuzung: Antrag und Gefahrengegenprobe gezielt überarbeiten, verbleibende Lärmfrage getrennt fortführen. Neue Angaben mit bisherigen Belegen abgleichen, dadurch überholte Annahmen entfernen und die geänderten Schlussfolgerungen im bestehenden Dokument einarbeiten. Keine neue Aufnahme des ganzen Falls verlangen.
+
+## 6. Vollständig formuliertes Ergebnis übergeben
+
+6.1. Das Endprodukt ist: vollständige Anzeige, Kooperationsantwort, Änderungseingabe oder Eilschrift mit konkretem Veranstaltungskonzept. Formuliere es in vollständigen Sätzen. Begehren oder Entscheidung, tragende Tatsachen, passende Rechtsregel, stärkste Gegenposition, Antwort und praktische Folge müssen zusammenpassen. Eine Tabelle, Quellenliste oder Weiterleitung allein erfüllt den Schreibauftrag nicht.
+
+6.2. Prüfe abschließend Frist, Form, Zuständigkeit, Namen, Zahlen, Fundstellen, Anlagen und Reichweite des Begehrens. Bezeichne entscheidende verbleibende Lücken und deren Folgen konkret. Trenne interne Quellen-/Fristnotiz und tatsächlichen Bearbeitungsstatus vom Empfängertext. Soweit technisch möglich Times New Roman 11 pt und dezimale Gliederung; in Markdown einen nötigen Exporthinweis getrennt halten.
+
+6.3. Eine nützliche Ansicht unterstützt die Fallentscheidung und wird mit neuen Angaben fortgeschrieben. Nutze nur tatsächlich verfügbare Funktionen; sonst genügt eine belegte Tabelle oder Skizze. Externe Einreichung, Versand und Verzicht nur innerhalb konkreter Autorisierung; ohne bestätigten Eingang keine erfolgreiche Einreichung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 2. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

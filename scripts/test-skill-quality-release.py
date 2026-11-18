@@ -83,6 +83,28 @@ class QualityReleaseTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             B.validate_scope(scope, self.root)
 
+    def test_explicit_unchanged_prompts_may_keep_existing_publication(self):
+        row = self.scope["plugins"][0]
+        row["preserved_prompts"] = {name: B.sha256_file(self.root / self.source / name) for name in row["prompts"]}
+        row["prompts"] = []
+        self.build()
+        self.assertEqual({p.name for p in self.dist.iterdir()}, {"beispiel.zip", "beispiel-portable.zip", B.REPORT, B.CHECKSUMS})
+        self.write(f"{self.source}/beispiel-werkstatt.md", "Ungepruefte neue Promptfassung")
+        with self.assertRaisesRegex(ValueError, "muss neu veröffentlicht werden"):
+            B.validate_scope(self.scope, self.root)
+
+    def test_preserved_prompts_cannot_hide_missing_extra_or_duplicate_file(self):
+        row = self.scope["plugins"][0]
+        row["preserved_prompts"] = {row["prompts"][0]: B.sha256_file(self.root / self.source / row["prompts"][0])}
+        with self.assertRaisesRegex(ValueError, "doppelt deklarierter"):
+            B.validate_scope(self.scope, self.root)
+        row["prompts"] = []
+        with self.assertRaisesRegex(ValueError, "nicht vollständig"):
+            B.validate_scope(self.scope, self.root)
+        row["preserved_prompts"]["fremd.txt"] = "0" * 64
+        with self.assertRaisesRegex(ValueError, "nicht vollständig"):
+            B.validate_scope(self.scope, self.root)
+
     def test_extra_assets_cannot_expand_scope_to_arbitrary_documents(self):
         for extras in ([{"name": "interne-testakte.pdf"}], [{"name": "ki-native-kanzlei-skills-handbuch.pdf"}]):
             scope = {**self.scope, "additional_assets": extras}

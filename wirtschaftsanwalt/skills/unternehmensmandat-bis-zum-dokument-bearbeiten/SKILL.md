@@ -1,9 +1,23 @@
 ---
 name: unternehmensmandat-bis-zum-dokument-bearbeiten
-description: Bearbeitet die laufende Beratung eines mittelständischen Unternehmens bis zum konkreten Dokument und zur begründeten Geschäftsentscheidung. Verknüpft Vertrags-, Personal-, Gesellschafts-, Daten- und Liquiditätsfolgen im fortgeführten Mandatsstand; kein allgemeiner Einzelmandatseinstieg und kein bloßes Routing.
+description: "Unternehmensmandat von der Akte zum fertigen Entscheidungs- und Vertragsprodukt führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# 1. Unternehmensentscheidung mit verknüpften Rechtsfolgen ausarbeiten
+# Unternehmensmandat von der Akte zum fertigen Entscheidungs- und Vertragsprodukt führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Gesellschaft, handelnde Personen, Auftrag, Dokumentstand, Fristen und wirtschaftliches Ziel aus vorhandenen Unterlagen bestimmen; Rollen und Vertretung sauber zuordnen.
+
+2. Den tragenden Engpass identifizieren: Vertrag, Gesellschaft, Personal, Forderung oder Krise. Wirtschaftliche Momentaufnahme, rechtlichen Tatbestand und konkreten Handlungsauftrag voneinander trennen.
+
+3. Nur die tatsächlich betroffenen Fachwege laden; Zugang einer Erklärung anhand belastbarer Zustellbelege und Liquiditätsfragen anhand vollständiger Fälligkeiten und verfügbarer Mittel prüfen.
+
+4. Bestelltes Schreiben, Vertrag, Beschluss oder Vermerk vollständig ausformulieren; Fachrückgaben und neu erhaltene Fakten unmittelbar in dieselbe Fassung integrieren und konkrete Folgehandlung benennen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## 1. Zweck und Anwendungsfall
 
@@ -68,6 +82,16 @@ Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette,
 „Der Lieferant sperrt Ersatzteile; nächste Woche sind Löhne fällig. Schreiben Sie einen Nachtrag für zwei gesicherte Teillieferungen.“ Prüfe Leistungsanspruch, tatsächlich finanzierbare Zahlungen und Zeichnungsbefugnis; liefere den Nachtrag und getrennt die konkrete Liquiditätswarnung, falls die Daten Anlass geben.
 
 „Die Banklinie wurde verbindlich verlängert.“ Aktualisiere Finanzierung und Empfehlung im bestehenden Stand. Mängelrechte und Personalfristen bleiben gesondert.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24, Randnummern 15 bis 21](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/): Amtlicher Volltext: Einlieferungsbeleg und bloßer Sendungsstatus trugen im konkreten Fall keinen Anscheinsbeweis des Zugangs. **Grenze:** Kein allgemeines Einschreibenverbot; Randnummer 18 lässt andere Nachweiskonstellation offen.
+
+- [BGH, Urteil vom 28.06.2022, Az. II ZR 112/21, Randnummern 12 bis 17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_112-21.pdf?__blob=publicationFile&v=1): Identifiziertes lokales Urteils-PDF gelesen; aussagekräftige Liquiditätsstatus als Darlegungsmittel. Amtlicher Suchnachweis bestätigt Metadaten und Leitsatz. **Grenze:** Webvolltextabruf gescheitert. Kein Diagnoseautomat, keine ungeprüfte Übertragung der Aussagen zu altem Paragraf 64 GmbHG auf heutige Zahlungen oder persönliche Haftungsfreiheit.
+
+- [EuGH, Urteil vom 09.11.2000, Az. C-381/98, Ingmar, amtlicher Leitsatz](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A61998CJ0381): Rechte aus Artikel 17 und 18 der Richtlinie 86/653/EWG bei Tätigkeit des Vertreters in einem Mitgliedstaat trotz Drittstaatensitz des Unternehmers und entsprechender Rechtswahl. **Grenze:** Nur gelesene Leitsatzaussage bestätigt, nicht vollständige Gründe. Keine automatische Anwendung aller HGB-Regeln, kein bestimmter Ausgleich und keine pauschale Vertragshändleranalogie.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 7. Verständlich arbeiten und sichtbar prüfen

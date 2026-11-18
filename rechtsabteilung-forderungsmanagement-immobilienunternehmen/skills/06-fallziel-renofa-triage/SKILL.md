@@ -1,9 +1,23 @@
 ---
 name: 06-fallziel-renofa-triage
-description: "Verbindlicher interner Router nach Intake, Fallkarte oder Änderungskarte. Prüft Fallziel, Rolle, RDG, Paragraf 79 ZPO, interne 10000-EUR-Freigabe und Eskalation. Wählt automatisch Zahlung, Kündigung, Räumung, Mieterhöhung, Verteidigung, Kosten oder Vollstreckung und zeigt statt eines Skillmenüs genau eine nächste Arbeitsaktion."
+description: "Immobilienforderung intern bis zum verwendbaren Schreiben oder Klageentwurf führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Fallziel und Renofa-Triage
+# Immobilienforderung intern bis zum verwendbaren Schreiben oder Klageentwurf führen
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Mietvertrag, Forderungskonto, Buchungen, Zahlungsnachweise und Auftraggebergesellschaft auswerten; eigene Arbeitgeberforderung und konzernbezogene Bearbeitung klar zuordnen.
+
+2. Fälligkeit, Zahlung, Verzug, Kündigungsrisiko und Kosten getrennt prüfen. Zahlungseingang im ERP beweist nicht allein verspätete Mieterleistung; rechtzeitigen Zahlungsauftrag und Deckung berücksichtigen.
+
+3. Bei Klage, Vertretung oder Vollstreckung den einschlägigen Fachweg laden; Wohnraumsache, Streitwert, Beschäftigtenstatus, Konzernverbindung und Vollmacht separat prüfen. Interne Wertgrenzen sind keine gesetzlichen Anwaltszwänge.
+
+4. Eigenes Unternehmensschreiben, Saldenklärung oder Klageentwurf vollständig ausformulieren; keine anwaltliche Mandantenrolle oder Befugnis zur fremden Inkassotätigkeit erfinden.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## Zweck und Anwendungsfall
 
@@ -61,6 +75,16 @@ Startkarte oder Änderungskarte, Routing-Entscheidung Renofa ja oder nein, beibe
 
 - Reiner Wohnraum-Mietrückstand von 6.200 EUR: grüne Ampel, eigene Bearbeitung, Verweis auf den Zahlungsklage-Skill.
 - Der Mieter kündigt Berufung an: rote Ampel, Eskalation an die Stammkanzlei nach Skill 08.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Urteil vom 05.10.2016 – VIII ZR 222/15](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Gericht=bgh&anz=1&nr=76934&pos=0): Zahlungsauftrag, Kontodeckung und Banklaufzeit getrennt prüfen statt allein auf den SAP-Buchungstag abzustellen. **Grenze:** Aus dem dokumentierten Quellstand übernommen; am Importdatum nicht erneut live verifiziert. Vor Anwendung im Einzelfall aktuellen Volltext und Tatsachen kontrollieren.
+
+- [BGH, Urteil vom 25.10.2007, III ZR 91/07, Rn. 6–12](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__91-07.pdf?__blob=publicationFile&v=1): Ein einseitiges Zahlungsziel auf einer Rechnung begründet regelmäßig keinen Kalenderverzug; bei Verbrauchern fehlt ohne besonderen Hinweis auch die Wirkung nach Paragraf 286 Absatz 3 BGB. Erst verzugsbegründende Anwaltskosten sind nicht bereits Verzugsschaden. **Grenze:** Eine Rechnung kann eine eindeutige Mahnung enthalten; vereinbartes oder wirksam nach Paragraf 315 BGB bestimmtes Zahlungsziel bleibt gesondert zu prüfen.
+
+- [BGH, Beschluss vom 21.03.2023, VIII ZB 80/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1): Fristgebundene Verteidigungsanzeige ihrer eigenen Eingangsbestätigung zuordnen, nicht einer beigefügten Anlage. **Grenze:** Amtlicher Leitsatz gelesen; Volltextzugriff gestört. Ausgangskontrolle bewirkt weder Fristverlängerung noch eine Aussage zur Schlüssigkeit.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 1. Verständlich arbeiten und sichtbar prüfen

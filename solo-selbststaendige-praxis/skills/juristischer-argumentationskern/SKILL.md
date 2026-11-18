@@ -1,34 +1,25 @@
 ---
 name: juristischer-argumentationskern
-description: "Schaltet sich ein, wenn in Solo Selbstständige Praxis ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge."
+description: "Rechtsproblem Solo-Selbstständiger bis zum nutzbaren Dokument lösen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert vollständige Vertragsklausel, Rechnungserläuterung, Zahlungsaufforderung oder Abwehr mit konkreter Berechnung und nächstem rechtlichen Schritt."
 ---
 
-# Juristischer Argumentationskern - Solo Selbstständige Praxis
+# Rechtsproblem Solo-Selbstständiger bis zum nutzbaren Dokument lösen
 
-## 1. Direktstart
+## 1. Vom vorhandenen Material zum fertigen Ergebnis
 
-Ordne Auftrag, Vertragsmodell, Leistungen und Rechnungen anhand der vorhandenen Belege. Erstelle den passenden Entwurf zu Vertrag, Rechnung, Statusprüfung oder zuständiger Anmeldung.
+1.1. **Aktenstart.** Lies Angebot, Vertrag, Rechnung, Abnahme-/Leistungsnachweis und Korrespondenz; bestimme Auftraggeber, konkreten Auftrag und geschuldeten Erfolg oder Dienst. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
-1.1. Lies zuerst die auftragsrelevanten Unterlagen und halte erkennbare Fristen fest. Prüfe Namen, Fassungen und Anlagen, soweit sie für das Ergebnis eine Rolle spielen.
-1.2. Beginne bei klarem Auftrag mit dem verlangten Arbeitsprodukt. Frage nur nach Tatsachen, die Anspruch, Einwendung, Antrag, Frist oder Beweisführung ändern. Arbeite an den übrigen Teilen weiter und übernimm die Antwort in denselben Entwurf.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+1.2. **Entscheidende Weiche.** Trenne Werk-, Dienst- und gegebenenfalls Arbeitsverhältnis; prüfe Vergütung, Abnahme, Mangel, Fälligkeit und Einwendungen. Eine Bezeichnung als Freelancer entscheidet den sozialversicherungsrechtlichen Status nicht.
 
-## 2. Die tragende These
+1.3. **Gezielte Vertiefung.** Bei freier Kündigung eines Werkvertrags rechne Vergütung und ersparte Aufwendungen; bei Statuszweifeln tatsächliche Eingliederung und Weisungsbindung; bei Vertriebsfunktion Vertreterrecht. Verjährung, Ausschlussfrist und Liquiditätswirkung getrennt erfassen. Öffne nur den dadurch erforderlichen vorhandenen Fachskill oder Fachtext. Übernimm Befund, Beleg und Rechtsfolge unmittelbar in dasselbe Arbeitsprodukt; die Übergabe beendet den Auftrag nicht.
 
-Formuliere das Ergebnis für Solo Selbstständige Praxis in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Angebot, Auftrag, Rechnung, Mahnung, Statusmatrix, Behördenantwort oder Monatscheck.
+1.4. **Lücke und Gegenposition.** Frage nur nach einer Information, die Antrag, Rechtsfolge, Frist, Betrag oder entscheidenden Nachweis verändert. Benenne ihre Auswirkung und arbeite an den übrigen Teilen weiter. Stelle dem vorläufigen Ergebnis den stärksten belegbaren Gegenbefund gegenüber; Unsicherheit wird als solche begründet, nicht durch erfundene Tatsachen geschlossen.
 
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+1.5. **Fertigstellen und fortschreiben.** Liefere vollständige Vertragsklausel, Rechnungserläuterung, Zahlungsaufforderung oder Abwehr mit konkreter Berechnung und nächstem rechtlichen Schritt. Eine spätere Antwort oder Unterlage wird an der betroffenen Stelle eingearbeitet; ändere daraus folgende Rechnung, Antrag und Begründung gemeinsam. Ein Menü, eine reine Fragenliste oder der Verweis auf einen Folgeskill ist kein Endprodukt.
 
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+## 2. Bedingte Fachwege und materielle Prüfung
 
-## 3. Materienspezifische Tatbestandsarbeit
+Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
 | Prüfpunkt | Konkrete Arbeitsfrage |
 | --- | --- |
@@ -38,89 +29,68 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 | Zahlungsausfall | Leistungsnachweis, Fälligkeit, Verzug, Mahnung, Einwendung, Mahn- oder Klageweg und Vollstreckbarkeit bestimmen |
 | Versicherung und Haftung | Tätigkeitsrisiko, Deckung, Ausschluss, Schadenanzeige, Selbstbehalt und Haftungsbegrenzung abgleichen |
 
-### 3.1. Verknüpfung mit den tragenden Fachskills
+### 2.1. Verknüpfung mit den tragenden Fachskills
 
 Öffne den zur Streitfrage passenden Arbeitsweg oder Fachtext. Übernimm dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in das bestellte Ergebnis.
 
-3.1.1. [Forderungen Mahnung und Streit: Entscheidet zwischen mahnverfahren](../mahnbescheid-oder-klage/FACHINHALT.md)
-3.1.2. [Sozialversicherung und Vorsorge: Macht aus kasse/drv/ksk-bescheid eine verständliche widerspruchsstrategie](../sozialrechtlicher-bescheid-widerspruch/FACHINHALT.md)
-3.1.3. [Marketing E-Commerce und Plattformen: Sortiert uwg/urheber/marke/dsgvo-abmahnung und fristen](../abmahnung-erhalten/FACHINHALT.md)
-3.1.4. [Versicherung Haftung und Risiko: Prüft erwartung](../beratungshaftung/FACHINHALT.md)
+2.1.1. [Forderungen Mahnung und Streit: Entscheidet zwischen mahnverfahren](../mahnbescheid-oder-klage/FACHINHALT.md)
+2.1.2. [Sozialversicherung und Vorsorge: Macht aus kasse/drv/ksk-bescheid eine verständliche widerspruchsstrategie](../sozialrechtlicher-bescheid-widerspruch/FACHINHALT.md)
+2.1.3. [Marketing E-Commerce und Plattformen: Sortiert uwg/urheber/marke/dsgvo-abmahnung und fristen](../abmahnung-erhalten/FACHINHALT.md)
+2.1.4. [Versicherung Haftung und Risiko: Prüft erwartung](../beratungshaftung/FACHINHALT.md)
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
-## 4. Normenanker
+## 3. Tragende Normen fallbezogen anwenden
 
-4.1. BGB Paragraf 611a und Paragraf 631: Abgrenzung von Arbeits-, Dienst- und Werkvertrag.
-4.2. HGB Paragraf 84: selbstständiger Handelsvertreter und Abgrenzung nach freier Tätigkeitsgestaltung.
-4.3. SGB IV Paragraf 7 und Paragraf 7a: Beschäftigung und Statusfeststellungsverfahren.
-4.4. GewO Paragraf 14: Anzeige des selbstständigen Gewerbebetriebs.
-4.5. UStG Paragraf 14 und Paragraf 19: Rechnungspflichten und Kleinunternehmerregelung.
-4.6. EStG Paragraf 4 Absatz 3: Einnahmenüberschussrechnung bei Vorliegen der Voraussetzungen.
+3.1. BGB Paragraf 611a und Paragraf 631: Abgrenzung von Arbeits-, Dienst- und Werkvertrag.
+3.2. HGB Paragraf 84: selbstständiger Handelsvertreter und Abgrenzung nach freier Tätigkeitsgestaltung.
+3.3. SGB IV Paragraf 7 und Paragraf 7a: Beschäftigung und Statusfeststellungsverfahren.
+3.4. GewO Paragraf 14: Anzeige des selbstständigen Gewerbebetriebs.
+3.5. UStG Paragraf 14 und Paragraf 19: Rechnungspflichten und Kleinunternehmerregelung.
+3.6. EStG Paragraf 4 Absatz 3: Einnahmenüberschussrechnung bei Vorliegen der Voraussetzungen.
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
 
-## 5. Rechtsprechung und Quellenstatus
+## 4. Rechtsprechung als Entscheidungshilfe
 
-5.1. BGH, Urteil vom 28.05.2020 - I ZR 7/16, Planet49, nur bei Einwilligungs- und Cookie-Fragen verwenden
-5.2. BGH, Urteil vom 06.10.2021 - XI ZR 234/20, Randnummer 51: Keine geltungserhaltende Reduktion. Teilbarkeit nur bei selbständig verständlichen Regelungen prüfen
+Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, tragende Tatsache und Übertragungsgrenze in das bestellte Dokument; ein angehängtes Zitat ersetzt keine Subsumtion. Die folgenden Karten verbinden vorhandene dokumentierte Vorprüfungen mit ausdrücklich bezeichneten punktuellen Nachprüfungen vom 18.11.2026. Sie sind keine umfassende Aktualitäts- oder Negativrecherche. Bei rechtserheblicher neuer Gesetzeslage, abweichendem Sachverhalt oder nur vorläufigem Bericht den fehlenden Volltext beziehungsweise Normstand gezielt nachprüfen.
 
-5.3. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.4. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+1. [BGH, Urteil vom 19.01.2017, VII ZR 193/15, Randnummern 25 bis 45](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZR_193-15.pdf?__blob=publicationFile&v=1). **Anwendung:** Volltext gelesen: Mängelrechte grundsätzlich ab Abnahme, davor Erfüllungsrecht; Ausnahme beim endgültigen Abrechnungsverhältnis, nicht allein durch Vorschussverlangen. **Grenze:** Keine Übertragung auf Dienstverträge; die Entscheidung erlaubt keine pauschale Abnahmeverweigerung bei unwesentlichen Mängeln und keine automatische Freigabe des gesamten Werklohns.
 
-## 6. Beweislast und Gegenangriff
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-25.
 
-Ausgangspunkt für dieses Plugin: Selbstständiger für Leistung, Rechnung, Belege und Abgaben; Auftraggeber oder Behörde für Einwendung, Statusbewertung und belastende Feststellung.
+2. [BGH, Urteil vom 06.12.2017, VIII ZR 246/16, Rn. 23 bis 40](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2016/VIII_ZR_246-16.pdf?__blob=publicationFile&v=1). **Anwendung:** Prüfumfang an Aufwand, Möglichkeiten und Verdacht ausrichten; umfassende neutrale Sachverständigenprüfung in AGB auf unangemessene Benachteiligung prüfen. **Grenze:** Futterfette ohne konkreten Dioxinverdacht; keine generelle Befreiung von Untersuchung, besonderen Sicherheitsregeln oder unverzüglicher Anzeige.
 
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-23.
 
-## 7. Prüffolge
+3. [BGH, Urteil vom 20.09.2006, VIII ZR 100/05, Rn. 16 bis 24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2005/VIII_ZR_100-05.pdf?__blob=publicationFile&v=1). **Anwendung:** Flüchtiger aktueller Systemzugang ersetzt keinen geordneten Buchauszug; Genehmigungsfiktion durch Schweigen verletzt zwingende Informationsrechte. **Grenze:** Versicherungsvertreterfall; kein Verbot elektronischer Buchauszüge, eindeutige tatsächliche Abrechnungseinigung und einzelne Zahlungsansprüche gesondert.
 
-7.1. Ist die Person tatsächlich selbstständig oder nach Vertragswirklichkeit eingegliedert und weisungsabhängig.
-7.2. Welche Leistung, Abnahme, Vergütung und Mitwirkung sind vereinbart und belegt.
-7.3. Welche Anmeldung, Abgabe oder Zahlungsfrist läuft.
-7.4. Welche Rechnung, Ausgabe oder Steuerbehandlung ist durch Unterlagen gesichert.
-7.5. Welcher kleinste sichere Geschäfts- oder Behördenbrief löst den nächsten Engpass.
+   **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-23.
 
-## 8. Juristisches Schreiben
+### 4.1. Weitere vorhandene Fallabgrenzungen
 
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Auftragsblatt: Kunde, Leistung, Ergebnis, Mitwirkung, Termin, Preis, Abnahme, Rechte, Haftung und Zahlung; Statusmatrix: Weisung, Eingliederung, Arbeitsort, Arbeitszeit, Vertretung, Unternehmerrisiko, Marktauftritt und Beleg.
+Diese bereits vorhandenen Hinweise bleiben mit ihrem bisherigen Quellenstand erhalten; sie wurden am 18.11.2026 nur redaktionell auf Anschluss an den Workflow gelesen, nicht sämtlich neu anhand der Volltexte geprüft. Die obigen Karten konkretisieren die jeweils ausgewählten Anker.
 
-## 9. Ausgabemodi
+4.1.1. BGH, Urteil vom 28.05.2020 - I ZR 7/16, Planet49, nur bei Einwilligungs- und Cookie-Fragen verwenden
+4.1.2. BGH, Urteil vom 06.10.2021 - XI ZR 234/20, Randnummer 51: Keine geltungserhaltende Reduktion. Teilbarkeit nur bei selbständig verständlichen Regelungen prüfen
 
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+4.1.3. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+4.1.4. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
-## 10. Fachliche Formulierungsansätze
+## 5. Beweis, Gegenposition und Fristen
 
-10.1. Auftragsblatt: Kunde, Leistung, Ergebnis, Mitwirkung, Termin, Preis, Abnahme, Rechte, Haftung und Zahlung.
-10.2. Statusmatrix: Weisung, Eingliederung, Arbeitsort, Arbeitszeit, Vertretung, Unternehmerrisiko, Marktauftritt und Beleg.
-10.3. Monatscheck: Einnahmen, Ausgaben, offene Rechnungen, Abgaben, Rücklage, Fristen und nächste Handlung.
+Ordne Vertragsschluss, Leistung, Abnahme, Mangel, Rüge, Kausalität, Schaden und Erfüllung nach dem konkreten Anspruch zu. Informationsrechte und sekundäre Darlegungslast verlangen eigene Voraussetzungen; fehlende Unterlagen beweisen weder Mangelfreiheit noch Verschulden. Bei einem Gutachten oder Datenraumfund die Wahrnehmbarkeit und tatsächliche Kenntnis gesondert belegen.
 
-## 11. Qualitätskontrolle
+Für jede tragende Aussage die Datei und genaue Stelle, beim Zeugen das Beweisthema und bei Berechnungen Eingaben und Rechenweg nennen. Gegenposition anhand derselben Belege fair prüfen. Fristbeginn, Fristdauer, Form, Adressat und nachgewiesenen Zugang getrennt erfassen; eine fehlende Tatsache nur an der entscheidenden Stelle nachfordern.
 
-11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-11.7. Ist das Ergebnis unmittelbar als Angebot, Auftrag, Rechnung, Mahnung, Statusmatrix, Behördenantwort oder Monatscheck verwendbar?
+## 6. Fertige Fassung und Abschlussprüfung
+
+Liefere vollständige Vertragsklausel, Rechnungserläuterung, Zahlungsaufforderung oder Abwehr mit konkreter Berechnung und nächstem rechtlichen Schritt. Ergebnis oder bestimmter Antrag zuerst, danach konkrete Tatsachen, tragende Rechtsregel, Subsumtion, Gegenposition und Antwort. Haupt- und Hilfslinie nur soweit sachlich erforderlich. Vollständige Sätze und ein unmittelbar weiterverwendbarer Text; keine leeren Vorlagen oder bloßen Skill-Empfehlungen.
+
+Prüfe Namen, Rolle, Zuständigkeit, Gesetzesfassung, Frist, Form, Beträge und Anlagen auf Widerspruch. Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle, keine erfundenen Randnummern. Bei neuem Beleg denselben Entwurf fortschreiben und die dadurch geänderte Rechtsfolge benennen. Visualisierung nur bei verfügbarem Werkzeug; sonst verständliche Tabelle oder Textskizze. Ohne ausgeführte Handlung keine Einreichung, Freigabe oder erfolgreiche Datenübermittlung behaupten.
 
 <!-- BEGIN werkstatt-visualisierung -->
-## 12. Verständlich arbeiten und sichtbar prüfen
+## 7. Verständlich arbeiten und sichtbar prüfen
 
 Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
 

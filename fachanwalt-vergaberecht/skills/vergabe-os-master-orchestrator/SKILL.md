@@ -1,10 +1,24 @@
 ---
 name: vergabe-os-master-orchestrator
-description: "Für Vergabe Os Master Orchestrator: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Vergabemandat vom Aktenstand zur konkreten Vergabe- oder Rechtsschutzhandlung führen. Nutzt vorhandene Falldaten, entscheidet die maßgeblichen rechtlichen Abzweigungen und verbindet passende Fachprüfungen mit einem vollständig ausgearbeiteten Ergebnis einschließlich Belegen, Gegenposition und Fristen."
 ---
 
-# Vergabe-OS für Anfaenger und Profis: erkennt Rolle, Schwellenwert, Verfahrensstand, Fristen, Rechtsweg, Dokumentenlage und fuehrt in Padlet, Tabellen, Schriftsatz, Memo oder Vergabeakte.
+# Vergabemandat vom Aktenstand zur konkreten Vergabe- oder Rechtsschutzhandlung führen
 
+
+## Fallführung bis zum fertigen Ergebnis
+
+Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+
+1. Mandatsrolle, Auftraggebertyp, Auftragsgegenstand, Regime, Beginn und nächsten Verfahrensschritt aus der Akte bestimmen; Bieter- und Auftraggeberinteressen nicht wechseln.
+
+2. Eignung, technische Anforderungen, Wertung und Verfahrensfehler als getrennte Prüfungen führen. Kooperation, Inhouse-Fall und Beschaffung nach ihren tatsächlichen Leistungsbeziehungen unterscheiden.
+
+3. Nur den passenden Fachweg zu Teilnahmewettbewerb, Eignungsleihe, Bewertungsmethode, Rüge oder Nachprüfung laden; dokumentierte Kriterien bleiben Maßstab der Entscheidung.
+
+4. Vergabevermerk, Aufklärungsantwort, Rüge oder Antrag mit konkreter Abhilfe vollständig schreiben; Fristen, Geheimhaltung und Gegenargumente derselben Rolle zuordnen.
+
+**Fachprüfung zurückführen:** Die nachstehenden Fachwege nur beim genannten Anlass verwenden, keine vollständige Menüfolge abarbeiten. Auftrag, relevante Aktenstellen und genaue Rechtsfrage mitgeben; Tatsachen, Norm, Gegenposition und Ergebnis der Fachprüfung in das bereits bestellte Dokument einarbeiten. Ein Verweis auf einen anderen Skill ist noch kein fertiges Ergebnis.
 
 ## Arbeitsweg
 
@@ -62,6 +76,16 @@ Kurzbild, Phasenkarte, Fristenampel, Skill-Routing, Arbeitsplan, Mandantennaechs
 - Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+
+## Entscheidungsanker für diesen Arbeitsweg
+
+Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
+
+- [BGH, Beschluss vom 4. April 2017, X ZB 3/17, Postdienstleistungen, Randnummern 39–48 und Hinweise 50–53](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2017/X_ZB___3-17.pdf?__blob=publicationFile&v=1): Bei streitigen Konzeptnoten zwischen zulässigem Notenmodell und konkret dokumentierter Bewertung unterscheiden; Angebotszusagen und Vergleichsbegründung abgleichen. **Grenze:** Keine eigene Wunschbenotung oder automatische Neuwertung allein wegen fehlender Punktebeschreibung; besondere Komplexität in Randnummer 48 offengelassen, Hinweise zur konkreten Wertung nicht als bereits festgestellter Wertungsfehler darstellen.
+
+- [EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria, ECLI:EU:C:2026:135](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A62025CO0316): Bloßer entgeltlicher Leistungseinkauf keine öffentliche Zusammenarbeit; tatsächliche gemeinsame Beiträge und Ziele verlangen. **Grenze:** Italienisches Kraftfahrzeugsteuerregister; horizontale Kooperation von vertikaler Inhouse-Vergabe trennen.
+
+- [EuGH, Urteil vom 16.04.2026 – C-568/24, Sof Medica, ECLI:EU:C:2026:305](https://juris.curia.europa.eu/juris/document/document.jsf?docid=310678&doclang=EN): Technische Anforderungen müssen sachlich verhältnismäßig sein; objektive Rechtfertigung nicht zwingend schon bei Bekanntmachung veröffentlichen. Produkttypbindung ohne Gleichwertigkeitszusatz nur eng bei zwangsläufigem Sachbezug. **Grenze:** Fehlende Veröffentlichung ist keine materielle Rechtfertigung; keine Befreiung von nationalen Dokumentationspflichten. Nationales Gericht prüft konkrete OP-Räume.
 
 <!-- BEGIN werkstatt-visualisierung -->
 ## 1. Verständlich arbeiten und sichtbar prüfen

@@ -22,7 +22,8 @@ import yaml
 from testakte_einzelpdf_common import document_arcname_pairs
 from testakte_zip_common import source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_DE, NOTICE_EN
-from release_routing import case_asset_url, plugin_asset_url
+from release_routing import case_asset_url, plugin_asset_url, validate_plugin_version
+from main_skill_revisions import historical_bytes
 from vvt_workbook_pdf import render as render_workbook
 
 ROOT=Path(__file__).resolve().parents[1]
@@ -35,10 +36,19 @@ def module(path):
 
 def sha(path):return hashlib.sha256(path.read_bytes()).hexdigest()
 
+def current_package_version():
+    catalog = json.loads((ROOT / '.claude-plugin/marketplace.json').read_text())
+    entries = [p for p in catalog['plugins'] if p['name'] == NAME]
+    if len(entries) != 1 or entries[0]['source'] != './' + NAME:
+        raise ValueError('Eindeutige aktuelle Pluginquelle erforderlich')
+    validate_plugin_version(entries[0], catalog['version'], root=ROOT)
+    return entries[0]['version']
+
+
 class VVTComponentTests(unittest.TestCase):
     def test_manifests_skills_commands_and_local_links(self):
         for rel in ('plugin.json','.claude-plugin/plugin.json','.codex-plugin/plugin.json'):
-            obj=json.loads((PLUGIN/rel).read_text()); self.assertEqual((obj['name'],obj['version']),(NAME,'1.0.0'))
+            obj=json.loads((PLUGIN/rel).read_text()); self.assertEqual((obj['name'],obj['version']),(NAME,current_package_version()))
         skills=list((PLUGIN/'skills').glob('*/SKILL.md')); self.assertEqual(len(skills),8)
         for path in skills:
             content=path.read_text(); meta=yaml.safe_load(content.split('---',2)[1])
@@ -52,10 +62,11 @@ class VVTComponentTests(unittest.TestCase):
             parts=path.read_text().split('---',2); self.assertEqual(parts[0],'')
             self.assertTrue(yaml.safe_load(parts[1])['description']);self.assertIn('$ARGUMENTS',parts[2])
         for path in PLUGIN.rglob('*.md'):
+            link_root = ROOT if path == PLUGIN/'README.md' else PLUGIN
             for target in re.findall(r'\]\(([^ )]+)\)',path.read_text()):
                 if target.startswith(('http:','https:','#')):continue
                 dest=(path.parent/target.split('#')[0]).resolve()
-                self.assertTrue(dest.is_relative_to(PLUGIN.resolve()),f'{path}: {target}')
+                self.assertTrue(dest.is_relative_to(link_root.resolve()),f'{path}: {target}')
                 self.assertTrue(dest.exists(),f'{path}: {target}')
 
     def test_prompt_pairs_and_frozen_review_hashes(self):
@@ -65,7 +76,8 @@ class VVTComponentTests(unittest.TestCase):
             self.assertEqual(path.read_bytes(),path.with_suffix('.txt').read_bytes())
             if kind!='werkstatt':self.assertLessEqual(path.stat().st_size,7500)
             self.assertEqual(profile[key]['prompt_sha256' if kind=='hauptproblem' else 'sha256'],sha(path))
-        self.assertEqual(profile['focus_review']['skill_sha256'],sha(PLUGIN/'skills/verarbeitungsverzeichnis-steuern/SKILL.md'))
+        expected = profile['focus_review']['skill_sha256']
+        self.assertEqual(expected, hashlib.sha256(historical_bytes(ROOT, PLUGIN/'skills/verarbeitungsverzeichnis-steuern/SKILL.md', expected, plugin=NAME)).hexdigest())
 
     def test_case_inputs_registers_and_original_workbook_roundtrips(self):
         vvt=module(PLUGIN/'scripts/vvt.py'); roles=set()
@@ -119,7 +131,7 @@ class VVTComponentTests(unittest.TestCase):
             self.assertEqual(vvt.import_xlsx(dest,next(folder.glob('*.xlsx')),'Clara Winde','Vorlage prüfen'),document)
 
     def test_component_routes(self):
-        self.assertIn('/verarbeitungsverzeichnis-v1.0.0/',plugin_asset_url(NAME))
+        self.assertRegex(plugin_asset_url(NAME, root=ROOT), r'/[^/]+-v'+re.escape(current_package_version())+r'/'+NAME+r'\.zip$')
         for case in CASES:
             self.assertIn('/grundakten-sammlung-v1.0.0/', case_asset_url(case))
             self.assertIn('/verarbeitungsverzeichnis-v1.0.0/', case_asset_url(case, '-einzelpdfs'))

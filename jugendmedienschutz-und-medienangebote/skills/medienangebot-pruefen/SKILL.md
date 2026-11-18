@@ -1,9 +1,17 @@
 ---
 name: medienangebot-pruefen
-description: "Prüft ein Spiel ein Videoangebot oder einen Onlinedienst auf Jugendschutz und Medienpflichten. Verbindet die konkreten Funktionen mit JuSchG JMStV MStV und einschlägigem DSA und führt bis zum begründeten Prüfbericht und Maßnahmenplan."
+description: "Medienangebot bis zum begründeten Betriebsschritt prüfen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
 ---
 
-# Medienangebot prüfen und den nächsten Betriebsschritt vorbereiten
+# Medienangebot bis zum begründeten Betriebsschritt prüfen
+
+Lies konkreten Inhalt, Funktionsbeschreibung, Zielgruppen, Alterszugang und geplanten Vertrieb; sichere nur seriöse, erforderliche Beispieldaten.
+
+**Entscheidung im Arbeitsablauf:** Trenne Inhaltseinstufung, technische Zugangslösung, Anbieterpflichten, Werbung und Plattformrecht. Prüfe die tatsächlich einschlägigen Regeln und deren zeitliche Fassung.
+
+**Bis zum Ergebnis weiterarbeiten:** Erstelle den beauftragten Einstufungsvermerk, Anbietertext oder Maßnahmenplan mit verständlicher Begründung und konkreten offenen Nachweisen. Eine neue Chatfunktion oder andere Zielgruppe verlangt erneute Prüfung der betroffenen Risiken; eine Altersangabe allein beweist keine wirksame Zugangsbeschränkung.
+
+[Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) vertiefen die Entscheidung und benennen den jeweiligen Quellenstatus. Nutze bestehende Fachschritte bedarfsgerecht und arbeite deren Ergebnis in denselben Entwurf ein.
 
 ## 1. Zweck und Auftrag
 

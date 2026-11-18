@@ -9,7 +9,7 @@ Pr체fen Sie Bautr채gervertr채ge, Raten und Sicherheiten, Bausoll, Abnahme und M�
 
 | Zugang | Verwendung |
 | --- | --- |
-| [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.5/bautraegervertrag-pruefer.zip) | Installierbares Paket mit zehn Skills, Fachvertiefungen und Referenzen. |
+| [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/bautraegervertrag-pruefer.zip) | Installierbares Paket mit zehn Skills, Fachvertiefungen und Referenzen. |
 | [Skill-Verzeichnis](../skills-index/bautraegervertrag-pruefer.md) | Die ausw채hlbaren Arbeitswege mit Beschreibungen. |
 | [Werkstatt-Prompt als Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md) | Eigenst채ndiger ausf체hrlicher Prompt f체r mehrstufige Vertrags- und Aktenbearbeitung. |
 | [Mini-Prompt als Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md) | Kompakter Einstieg in eine konkrete Raten-, Klausel- oder M채ngelfrage. |
