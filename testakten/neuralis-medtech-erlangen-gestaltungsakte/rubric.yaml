@@ -1,0 +1,25 @@
+name: neuralis-medtech-erlangen-gestaltungsakte
+plugin: sozialversicherungspflicht-pruefer
+description: Drei Aktenstände zur Rechtsmacht eines Minderheitsgeschäftsführers und zur notariellen Vorbereitung eines weiteren Gestaltungstermins.
+checks:
+  - id: satzungsgrundlage
+    check_type: file_exists
+    description: Die Grundakte enthält die native Satzungsfassung vom Februar 2023.
+    path: Grundakte/A02_Gesellschaftsvertrag_2023.docx
+  - id: registervollzug
+    check_type: file_exists
+    description: Der erste Änderungsversuch kann anhand der Eintragungsmitteilung zeitlich eingeordnet werden.
+    path: 01_Bescheid_und_erste_Aenderung/B10_Eintragungsmitteilung.pdf
+  - id: offener-entwurf
+    check_type: file_exists
+    description: Für den zweiten Termin liegt der bearbeitbare Arbeitsentwurf zu Zustimmung und Beirat vor.
+    path: 02_Gestaltungsvorschlaege/G02_Arbeitsentwurf_Zustimmung_und_Beirat.docx
+  - id: stichtage
+    check_type: human_review
+    description: Wirksame Satzungsfassungen, Zugang des Bescheids und tatsächliche Weisung anhand der jeweiligen Belege auseinanderhalten.
+  - id: rechtsmacht
+    check_type: human_review
+    description: Für jede Variante die Stimmrechte im Regelfall und im zustimmungspflichtigen Einzelfall sowie Änderung und Entzug dieser Rechte prüfen.
+  - id: vollzug
+    check_type: human_review
+    description: Die Vorschläge nach Interessen, Mehrheiten, Beurkundung, Eintragung und zeitlichen Grenzen beurteilen, ohne einen zweiten Vollzug zu unterstellen.

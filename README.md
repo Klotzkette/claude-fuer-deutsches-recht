@@ -31,7 +31,7 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 | **Werkstatt-Prompts** | 310 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |
 | **Schnellstart-/Mini-Prompts** | 309 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 631 zentral / 644 gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und 7 Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Testakten** | 633 zentral / 646 gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und 7 Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
 Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 3163 Skills benutzbar bleibt.
 
@@ -60,7 +60,7 @@ Die Akten enthalten je nach Fall Schriftstücke, Tabellen, E-Mails, Bilder und w
 | Ordner `Grundakte` im Originalformat-ZIP, soweit vorhanden | Mit den Eingangsunterlagen beginnen. Weitere Verfahrensschritte und Übungsergebnisse lassen sich anschließend über die übrige Akte erschließen. |
 
 - [29 Workshopakten mit konkreten Beweisfragen und nachgereichten Unterlagen](./docs/releases/testakten-praxis-v1.0.0.md)
-- [631 zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Auswahl nach Rechtsgebiet](./testakten/README.md#2-testakten-nach-thema-finden) · [Grundakten](./testakten/README.md#11-mit-den-eingangsunterlagen-beginnen)
+- [633 zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Auswahl nach Rechtsgebiet](./testakten/README.md#2-testakten-nach-thema-finden) · [Grundakten](./testakten/README.md#11-mit-den-eingangsunterlagen-beginnen)
 - Pluginlokale Bestände der [Kündigungsschutzklagewerkstatt](./arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/), des [Arbeitszeugnisgenerators](./arbeitszeugnisgenerator/testakte/), des [Arbeitszeugnisprüfers](./arbeitszeugnispruefer/testakte/), des [UN-Kaufrechts](./un-kaufrecht-cisg/testakte/) und der [Untersuchungshaft](./untersuchungshaft/testakte/)
 - [Sieben Akten der Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [Übungsakten der Gerichts-Plugins über die Rollenübersicht](./gerichtsplugins/README.md) · [Weitere Beispielsammlungen](#weitere-unterlagen-zum-testen)
 
@@ -78,7 +78,7 @@ Die Bestandszahl im Verzeichnis zählt zentrale Aktenordner, pluginlokale Bestä
 | --- | --- |
 | **Plugins** | 312 |
 | **Skills (SKILL.md)** | 3163 im Quellbestand |
-| **Testakten** | 631 zentral / 644 gesamt |
+| **Testakten** | 633 zentral / 646 gesamt |
 | **Fachanwaltsprofile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v445.35.3` als Basisversion des [Marketplace-Manifests](./.claude-plugin/marketplace.json). Die [Fachübersicht](./references/rechtsgebiete-uebersicht.md) nennt die jeweilige Version jedes Plugins. |
 

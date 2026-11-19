@@ -1,0 +1,43 @@
+From: Eva Dorn <e.dorn@neuralis.example>
+To: Caroline Benkert <c.benkert@neuralis.example>
+Subject: E-2306-19 / Wer hat an welcher Stelle freigegeben?
+Date: Fri, 21 Jul 2023 11:16:00 +0200
+Message-ID: <a06_einkauf_freigabekette@neuralis.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="Neuralis-1fca6a9240ca1a08779f"
+
+--Neuralis-1fca6a9240ca1a08779f
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Caroline,
+
+anbei der Export zu der einen Bestellung. Die erste Zeile ist unsere Bedarfsa=
+nmeldung. Henrik hatte das Ger=C3=A4t mit dem Lieferanten ausgesucht, nach de=
+m Eintrag am Mittwoch konnte er die Bestellung aber noch nicht ausl=C3=B6sen.=
+ Die Freigabe des Beirats und die unterschriebene Bestellung liegen an versch=
+iedenen Stellen im System.
+
+Der Auftrag geh=C3=B6rt zusammen, obwohl der Lieferant den Schrank im Juni an=
+liefert und den Einbau erst nach den Betriebsferien abrechnen m=C3=B6chte. Di=
+e f=C3=BCnf Zeilen im Journal enthalten dementsprechend f=C3=BCnfmal denselbe=
+n Auftragswert.
+
+Viele Gr=C3=BC=C3=9Fe
+Eva Dorn =C2=B7 Einkauf
+
+--Neuralis-1fca6a9240ca1a08779f
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="A07_Einkaufsjournal.csv"
+MIME-Version: 1.0
+
+77u/Vm9yZ2FuZztaZWl0cHVua3Q7QWt0aW9uO0JldHJhZyBuZXR0byBFVVI7QmVkaWVuZXINCkUt
+MjMwNi0xOTsyMC4wNi4yMDIzIDE1OjM0O0JlZGFyZiBhbmdlbGVndDs2MjQwMCwwMDtWb2d0DQpF
+LTIzMDYtMTk7MjEuMDYuMjAyMyAwOToxMDtGcmVpZ2FiZSBhdXNzdGVoZW5kOzYyNDAwLDAwO0Vp
+bmthdWYNCkUtMjMwNi0xOTsyNi4wNi4yMDIzIDA4OjQzO0JlaXJhdHNiZXNjaGx1c3MgaGludGVy
+bGVndDs2MjQwMCwwMDtCZW5rZXJ0DQpFLTIzMDYtMTk7MjcuMDYuMjAyMyAxMDoyNjtBbmdlYm90
+c2FubGFnZSBlcmfDpG56dDs2MjQwMCwwMDtFaW5rYXVmDQpFLTIzMDYtMTk7MjcuMDYuMjAyMyAx
+MTowODtCZXN0ZWxsdW5nIGF1c2dlbMO2c3Q7NjI0MDAsMDA7Vm9ndA0K
+
+--Neuralis-1fca6a9240ca1a08779f--

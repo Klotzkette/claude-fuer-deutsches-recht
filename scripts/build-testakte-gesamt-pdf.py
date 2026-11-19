@@ -1143,6 +1143,8 @@ def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
     """Gibt (status, info) zurueck. status in {ok, skip, error}."""
     name = testakte_dir.name
     project_builders = {
+        "autohaus-boeblingen": "testakte_gestufte_lesefassung.py",
+        "neuralis-medtech-erlangen-gestaltungsakte": "testakte_gestufte_lesefassung.py",
         "bauvergabe-klinikum-muenster": "build-bauvergabe-pakete.py",
         "bauvergabe-wohnhaus-bielefeld": "build-bauvergabe-pakete.py",
         "bauwirtschaft-neubau-achtfamilienhaus-hildesheim": "build-bauwirtschaft-hildesheim-pakete.py",

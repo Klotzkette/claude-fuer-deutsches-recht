@@ -1,0 +1,21 @@
+name: autohaus-boeblingen
+plugin: liquiditaetsplanung
+description: Eine gemeinsame Akte zur rollierenden Finanzplanung sowie zur Prüfung der Zahlungsunfähigkeit und Überschuldung eines Autohauses.
+checks:
+  - id: freitagsplan
+    check_type: file_exists
+    description: Die Grundakte enthält den unveränderten Freitagsplan mit 13 Wochen und monatlicher Fortschreibung.
+    path: Grundakte/P01_Terminplan.xlsx
+  - id: nachgereichte-kontoverfuegung
+    check_type: file_exists
+    description: Der nachgereichte historische Kontoauszug zur Verfügung klärt den Teilbetrag mit Sperre.
+    path: Nachlieferung/N01_Dispositionsbestaetigung.pdf
+  - id: liquiditaetsstatus
+    check_type: human_review
+    description: Für den 25. September 2026 die verfügbaren 28.000 Euro und die weiteren 86.000 Euro den fälligen 52.000 Euro und den innerhalb von drei Wochen fällig werdenden 78.000 Euro mit ihren Belegen gegenüberstellen. Die Restlücke von 16.000 Euro und ihre rechtliche Aussagekraft würdigen.
+  - id: prognose-und-bewertung
+    check_type: human_review
+    description: Den Finanzierungspfad bis 25. September 2027 nachrechnen. Fahrzeugablösen, Kommission und Gesellschafterdarlehen prüfen. Das handelsrechtliche Eigenkapital von 31.000 Euro und die Unterdeckung zu Verwertungswerten von 77.000 Euro herleiten.
+  - id: erkenntnisgrenze
+    check_type: human_review
+    description: Trennen, welche am Montag eingegangene Unterlage den Freitagszustand belegt und welche neue Entwicklung sie erstmals dokumentiert. Frühere Eintrittszeitpunkte anhand der noch fehlenden Unterlagen eingrenzen.

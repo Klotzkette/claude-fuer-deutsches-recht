@@ -36,6 +36,7 @@ from testakte_einzelpdf_common import (
     document_arcname_pairs,
     ext_of,
 )
+from testakte_gestufte_lesefassung import NEURALIS, checked_neuralis_prints
 from testakte_office_pdf import OFFICE_BATCH_SIZE, OFFICE_EXTS, OfficeRenderError, render_office, render_office_batch
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME, without_notice_pages
 
@@ -202,6 +203,14 @@ def add_testakte(zipf: zipfile.ZipFile, testakte_dir: Path) -> int:
 def add_testakte_many(zipfiles: list[zipfile.ZipFile], testakte_dir: Path) -> int:
     """Rendert jede Quelle einmal und schreibt sie in mehrere Zielarchive."""
     count = 0
+    if testakte_dir.name == NEURALIS:
+        for zipf in zipfiles:
+            write_pdf(zipf, NOTICE_FILENAME, NOTICE_BYTES)
+        for arcname, data in checked_neuralis_prints(testakte_dir):
+            for zipf in zipfiles:
+                write_pdf(zipf, arcname, data)
+            count += 1
+        return count
     pairs = document_arcname_pairs(testakte_dir)
     if pairs:
         for zipf in zipfiles:

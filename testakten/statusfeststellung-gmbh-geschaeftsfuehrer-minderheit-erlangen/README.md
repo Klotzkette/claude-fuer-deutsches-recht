@@ -1,5 +1,7 @@
 # Statusfeststellungsakte GmbH-Geschäftsführer Minderheitsbeteiligung Erlangen
 
+Für die Beratung vor einem zweiten Notartermin gibt es die [dreistufige Gestaltungsakte Neuralis](../neuralis-medtech-erlangen-gestaltungsakte/README.md). Sie beginnt vor dem Statusantrag. Erst danach folgen der Bescheid, eine eng begrenzte Satzungsänderung und die offenen Vorschläge der Berater. Die unten stehenden Downloads enthalten den historischen Verlauf bis zum sozialgerichtlichen Vergleich.
+
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 

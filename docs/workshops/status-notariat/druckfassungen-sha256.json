@@ -1,0 +1,170 @@
+[
+  {
+    "source": "Grundakte/A01_Datenraum_Labor.eml",
+    "source_sha256": "7d1d438f733d0f73141654409b8aac792d342282c58f04453a0bb87dbcef2d0a",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/Grundakte/A01_Datenraum_Labor.pdf",
+    "pdf_sha256": "4553f77f64abb6fe7382b4bf57a7e71dc09c85483550abc34ca5add9055c57e3"
+  },
+  {
+    "source": "Grundakte/A02_Gesellschaftsvertrag_2023.docx",
+    "source_sha256": "90e96f1d1788f4230b54da62fb686f340d82e0cb830e5f6e1def74eb04c58f6e",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/Grundakte/A02_Gesellschaftsvertrag_2023.pdf",
+    "pdf_sha256": "6971042277b0e9636c81b7619bc2ef5324cc6356034fa22011bc2af77c6bc1a1"
+  },
+  {
+    "source": "Grundakte/A03_Anstellungsvertrag_Vogt.docx",
+    "source_sha256": "e536ec13cc653d2d53c9b907e3256207843add44a480a5f87b773351aa28623e",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/Grundakte/A03_Anstellungsvertrag_Vogt.pdf",
+    "pdf_sha256": "8f1c43fbbe492d0921efef43c4cf0813a00aacf2983fbbc2045b4afd985b0e74"
+  },
+  {
+    "source": "Grundakte/A04_Anteilsstand_Maerz.pdf",
+    "source_sha256": "708714f39decac1927dd6a023ebbfcceaae31e45408749ee19606dd05dbab272",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/Grundakte/A04_Anteilsstand_Maerz.pdf",
+    "pdf_sha256": "708714f39decac1927dd6a023ebbfcceaae31e45408749ee19606dd05dbab272"
+  },
+  {
+    "source": "Grundakte/A05_Beirat_Investitionsfreigabe.pdf",
+    "source_sha256": "0e4c02b460025c2bdc523e08729338c57f673c877808f28f9ac28418abe1d1eb",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/Grundakte/A05_Beirat_Investitionsfreigabe.pdf",
+    "pdf_sha256": "0e4c02b460025c2bdc523e08729338c57f673c877808f28f9ac28418abe1d1eb"
+  },
+  {
+    "source": "Grundakte/A06_Einkauf_Freigabekette.eml",
+    "source_sha256": "408dfbe7429d91ea2a34a9b0723211f2302565c5d8012d1905b48638b7e82125",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/Grundakte/A06_Einkauf_Freigabekette.pdf",
+    "pdf_sha256": "d9fa9b2dd707f720928996261b653121c45e4a3e8a36c3d485979601e60f78c8"
+  },
+  {
+    "source": "Grundakte/A07_Einkaufsjournal.csv",
+    "source_sha256": "1fca6a9240ca1a08779ff886b0376c49434587e9a51129ea4cf0a7ffbeb583df",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/Grundakte/A07_Einkaufsjournal.pdf",
+    "pdf_sha256": "c7cce761365bf91cfacf1470396d6566bea23aea4c0e111f60e5b65a482a08bf"
+  },
+  {
+    "source": "Grundakte/A08_Lohnjournal_Fruehjahr.xlsx",
+    "source_sha256": "92f1c31d149bf8e93e17fb29569bff6d2d5d2859c1178f34fe143f327c75af17",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/Grundakte/A08_Lohnjournal_Fruehjahr.pdf",
+    "pdf_sha256": "a01f77bd8248c471174a4e9e30e61c8a0744a4a194edfb68e152dab98f7b5d76"
+  },
+  {
+    "source": "Grundakte/A09_Bank_Sicherheitenstand.pdf",
+    "source_sha256": "de9b5dbb759bd406e53b308c5ed717ec938aa9b9403b2bca4bca3c5b7e7aeac4",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/Grundakte/A09_Bank_Sicherheitenstand.pdf",
+    "pdf_sha256": "de9b5dbb759bd406e53b308c5ed717ec938aa9b9403b2bca4bca3c5b7e7aeac4"
+  },
+  {
+    "source": "Grundakte/A10_Abwesenheitsvertretung.eml",
+    "source_sha256": "5c950595205f5f3cef0ef8645d9fe2433566da0513fca859eee011972fa8e1e4",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/Grundakte/A10_Abwesenheitsvertretung.pdf",
+    "pdf_sha256": "b8b3bd6b7d98962110f8a50909cb02e3b4e25e044ad39702094c93559841edf4"
+  },
+  {
+    "source": "01_Bescheid_und_erste_Aenderung/B01_Antrag_Erwerbsstatus.pdf",
+    "source_sha256": "d066c69ab8b7b1c8830150cfc5d1e7ecf43f0e2398616983e0bb281fcdbf1367",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B01_Antrag_Erwerbsstatus.pdf",
+    "pdf_sha256": "d066c69ab8b7b1c8830150cfc5d1e7ecf43f0e2398616983e0bb281fcdbf1367"
+  },
+  {
+    "source": "01_Bescheid_und_erste_Aenderung/B02_Anhoerung.pdf",
+    "source_sha256": "0236ac4ab80a80cadbede7b1815fa6f7d1163bc646e69915b0019d6559407522",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B02_Anhoerung.pdf",
+    "pdf_sha256": "0236ac4ab80a80cadbede7b1815fa6f7d1163bc646e69915b0019d6559407522"
+  },
+  {
+    "source": "01_Bescheid_und_erste_Aenderung/B03_Aeusserung_der_Beteiligten.pdf",
+    "source_sha256": "9df3ab0dc4cd282dcf49cad9073b84c17494375848cfce69c81b234cd448fcb3",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B03_Aeusserung_der_Beteiligten.pdf",
+    "pdf_sha256": "9df3ab0dc4cd282dcf49cad9073b84c17494375848cfce69c81b234cd448fcb3"
+  },
+  {
+    "source": "01_Bescheid_und_erste_Aenderung/B04_Bescheid_Erwerbsstatus.pdf",
+    "source_sha256": "febadc5fb48311ad32453e2f5c121acf0852640967b963e864036887a0be6b0b",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B04_Bescheid_Erwerbsstatus.pdf",
+    "pdf_sha256": "febadc5fb48311ad32453e2f5c121acf0852640967b963e864036887a0be6b0b"
+  },
+  {
+    "source": "01_Bescheid_und_erste_Aenderung/B05_Post_und_Termin.eml",
+    "source_sha256": "f54c76f134ce589ba9bcdb6c7eae35f642a28cc8442b0ebf627ea932a1f0cf2f",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/01_Bescheid_und_erste_Aenderung/B05_Post_und_Termin.pdf",
+    "pdf_sha256": "ec3f8265f569697955124f57e9ac31d24c1b61707fa74de8b8c3efc253ed3146"
+  },
+  {
+    "source": "01_Bescheid_und_erste_Aenderung/B05a_Eingang_Widerspruch.pdf",
+    "source_sha256": "02eea89e4790cbf8bbeff79ce8ddb712892db7b91256015d0efdb3efe1a35737",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B05a_Eingang_Widerspruch.pdf",
+    "pdf_sha256": "02eea89e4790cbf8bbeff79ce8ddb712892db7b91256015d0efdb3efe1a35737"
+  },
+  {
+    "source": "01_Bescheid_und_erste_Aenderung/B06_Vertretungsnachweis_Fonds.pdf",
+    "source_sha256": "1b32dce0547d14e94ff8fe626403d8d2d0277f216fc8d7f872a29dc408225445",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B06_Vertretungsnachweis_Fonds.pdf",
+    "pdf_sha256": "1b32dce0547d14e94ff8fe626403d8d2d0277f216fc8d7f872a29dc408225445"
+  },
+  {
+    "source": "01_Bescheid_und_erste_Aenderung/B07_Urkunde_126_2026.pdf",
+    "source_sha256": "9c027a9337a7b873d75bb66e440c84b475216249aec49cf0c34cbd61cf03c80e",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B07_Urkunde_126_2026.pdf",
+    "pdf_sha256": "9c027a9337a7b873d75bb66e440c84b475216249aec49cf0c34cbd61cf03c80e"
+  },
+  {
+    "source": "01_Bescheid_und_erste_Aenderung/B08_Satzungswortlaut_mit_Bescheinigung.pdf",
+    "source_sha256": "0a845675eae97df72c0f790b23dcdd1bff3e8176a68714f71326b64fa44d8120",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B08_Satzungswortlaut_mit_Bescheinigung.pdf",
+    "pdf_sha256": "0a845675eae97df72c0f790b23dcdd1bff3e8176a68714f71326b64fa44d8120"
+  },
+  {
+    "source": "01_Bescheid_und_erste_Aenderung/B09_Anmeldung_und_Eingang.pdf",
+    "source_sha256": "f9db19d5a21a3d61718951e7195f759b6d3e5e6ebf80a768dc36c90e49ced988",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B09_Anmeldung_und_Eingang.pdf",
+    "pdf_sha256": "f9db19d5a21a3d61718951e7195f759b6d3e5e6ebf80a768dc36c90e49ced988"
+  },
+  {
+    "source": "01_Bescheid_und_erste_Aenderung/B10_Eintragungsmitteilung.pdf",
+    "source_sha256": "0c04509a34b77ba899de35c9b56b4d7a9d9b8340def11189b80a90c5d78f5fdb",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B10_Eintragungsmitteilung.pdf",
+    "pdf_sha256": "0c04509a34b77ba899de35c9b56b4d7a9d9b8340def11189b80a90c5d78f5fdb"
+  },
+  {
+    "source": "01_Bescheid_und_erste_Aenderung/B11_Einkaufsweisung_Abstimmung.pdf",
+    "source_sha256": "323e8f3d82dca43b43f5df3b6b283727ea1e1ddcca3c8140c7434fd4cb09dcf4",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B11_Einkaufsweisung_Abstimmung.pdf",
+    "pdf_sha256": "323e8f3d82dca43b43f5df3b6b283727ea1e1ddcca3c8140c7434fd4cb09dcf4"
+  },
+  {
+    "source": "01_Bescheid_und_erste_Aenderung/B12_Anforderung_Einzelfreigabe.eml",
+    "source_sha256": "015fc0b4ffadb267a9e02ec6bb44f964a3c4f3b2ed066b01aaa8c7d210d6b088",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/01_Bescheid_und_erste_Aenderung/B12_Anforderung_Einzelfreigabe.pdf",
+    "pdf_sha256": "6879310dc75b60e7c756fac41a2cc9e7ac61a8e37eeec88639f6ff5ac82dbe39"
+  },
+  {
+    "source": "02_Gestaltungsvorschlaege/G01_Anwaltsbrief_an_Dr_Vogt.pdf",
+    "source_sha256": "2d290d405498d11f768bf950f976c368ce3d838fe49537ed5d4b4a6453e29aeb",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/gestaltung/G01_Anwaltsbrief_an_Dr_Vogt.pdf",
+    "pdf_sha256": "2d290d405498d11f768bf950f976c368ce3d838fe49537ed5d4b4a6453e29aeb"
+  },
+  {
+    "source": "02_Gestaltungsvorschlaege/G02_Arbeitsentwurf_Zustimmung_und_Beirat.docx",
+    "source_sha256": "6c0898381a8dfbd892e3d9fa63f0ab795eac9b287050ac6059064768ea396fef",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/gestaltung/G02_Arbeitsentwurf_Zustimmung_und_Beirat.pdf",
+    "pdf_sha256": "dac85885749bd7f6ac80c47b856132cf9146bf2776ce20c1e7961b39a413a71a"
+  },
+  {
+    "source": "02_Gestaltungsvorschlaege/G03_Anfrage_der_Fondsanwaeltin.eml",
+    "source_sha256": "fed5019a635435fcbde012c4b64f9bb1bb1d6a2d588a86279eb45cebcdcab92d",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/gestaltung/G03_Anfrage_der_Fondsanwaeltin.pdf",
+    "pdf_sha256": "c6fe15dcf50b4c96e018c4dc0b7919031efbf99d6dba916455fa1cce2e0ed41a"
+  },
+  {
+    "source": "02_Gestaltungsvorschlaege/G04_Vorschlag_Teilanteil_und_Vollzug.docx",
+    "source_sha256": "35dd5fa20a090ee9c862ef03d255ef538b4ef5cc7cf89e615a6b3ff177b8fd08",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/gestaltung/G04_Vorschlag_Teilanteil_und_Vollzug.pdf",
+    "pdf_sha256": "9e426ccb3be2580e6d5e590d1bbacfd022cad19e64cd31d31d18f68d368ea29c"
+  },
+  {
+    "source": "02_Gestaltungsvorschlaege/G05_Anfrage_zur_Entwurfsbesprechung.eml",
+    "source_sha256": "c0e6d2c68e6b2246df07b541c34858a0c686c68bc124254d1277c5f400f15fde",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/gestaltung/G05_Anfrage_zur_Entwurfsbesprechung.pdf",
+    "pdf_sha256": "fab7f99410d78483f2710a4306e5c5f0b426428db9a98ea0fcdc9eb25bc3872b"
+  }
+]

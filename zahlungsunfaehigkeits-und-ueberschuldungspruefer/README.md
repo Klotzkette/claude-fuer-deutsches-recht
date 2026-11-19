@@ -54,6 +54,10 @@ Die Wordvorlagen enthalten ausgearbeitete Begründungsvarianten und beschriftete
 
 Die drei Fälle verbinden 24 monatliche Bankauszüge pro Unternehmen mit Buchungsdaten, offenen Posten, Geschäftskorrespondenz und den zugehörigen Belegen. Papierartige Briefe und Rechnungen, E-Mails mit Anlagen, Excel und CSV bleiben als Originaldateien erhalten. Die Akten verlangen insbesondere die Prüfung von Verfügbarkeit, Fälligkeit, Durchsetzbarkeit, Bewertungsannahmen und dem damaligen Kenntnisstand.
 
+### Autohaus Böblingen gemeinsam mit der Liquiditätsplanung
+
+Prüfen Sie zuerst die am Stichtag frei verfügbaren Mittel und fälligen Verpflichtungen. Würdigen Sie anschließend Fortbestehensprognose, Fahrzeugbestand und Sicherungsrechte anhand derselben Unterlagen, die der Liquiditätsplanung zugrunde liegen. [Zur Autohausakte und zu beiden Prüfaufträgen](../testakten/autohaus-boeblingen/README.md) · [Liquiditätsplaner](../liquiditaetsplanung/README.md)
+
 ## 4. Nachbesprechung
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.

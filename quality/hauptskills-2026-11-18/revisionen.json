@@ -3633,6 +3633,12 @@
       "publication_followup": {
         "previous_archive": "quality/paketnavigation-2026-11-19/bestand/sozialversicherungspflicht-pruefer/README.md.txt",
         "after_sha256": "46328d29f7ca6c4076d7dad0dc109e0fca5f5cde433a2104f06fff911e8754fc"
+      },
+      "case_index_addition": {
+        "slug": "neuralis-medtech-erlangen-gestaltungsakte",
+        "title": "Neuralis MedTech in Erlangen – Wer kann die Geschäftsführung anweisen?",
+        "previous_count": 12,
+        "after_sha256": "a78088f16f56b79a819fb5d39987457cbc0e6865158d89156168eb3adb7f8e77"
       }
     },
     {

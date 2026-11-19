@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "firma": "Autohaus Schönbuchring GmbH",
+  "stichtag": "2026-09-25",
+  "bank": 18000,
+  "kasse": 2000,
+  "kkfrei": 8000,
+  "passivaI": 52000,
+  "passivaII": 78000,
+  "vollstaendig": true,
+  "ein": [
+    {
+      "label": "Bestätigte Kundenavis F01 bis F07",
+      "w": [
+        36500,
+        24500,
+        25000
+      ]
+    }
+  ],
+  "aus": [
+    {
+      "label": "Altverbindlichkeiten im Zahlungslauf",
+      "w": [
+        52000,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Neu fällige Verbindlichkeiten",
+      "w": [
+        22000,
+        31000,
+        25000
+      ]
+    }
+  ],
+  "ofGesamt": 108000,
+  "ofErwartet": 86000,
+  "ofTituliert": 0,
+  "ofZweifel": 22000,
+  "indizien": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "notes": "Bewertung zum 25.09. nach Vorlage N01. B02 Buchsaldo 50.000; N03 verfügbar 18.000 Euro. Die ausgefüllten Eingaben sind eine Kontrollrechnung. P01 zeigt weitere zehn Wochen und den Anschluss bis September 2027."
+}

@@ -12,6 +12,8 @@ from release_routing import check_asset_limit
 
 SPECIAL_ASSETS = {"marketplace.json", "checksums-sha256.txt", "release-bestand.json",
                   "ki-native-kanzlei-skills-handbuch.pdf",
+                  "autohaus-boeblingen_gesamt.pdf",
+                  "neuralis-medtech-erlangen-gestaltungsakte_gesamt.pdf",
                   "insolvenzanfechtung-tatbestandswerkstaetten.pdf",
                   "bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf",
                   "bav-carve-out-rheinbogen-automation_gesamt.pdf",

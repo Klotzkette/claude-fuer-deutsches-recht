@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import re
 from pathlib import Path
 
@@ -64,6 +65,33 @@ def index(root):
     return result
 
 
+def before_case_index_addition(root, path, current, addition):
+    """Entfernt nur den belegten Falltabelleneintrag und setzt dessen Zähler zurück."""
+    from release_routing import case_asset_url
+
+    slug = addition["slug"]
+    count = addition["previous_count"]
+    if (not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", slug)
+            or type(count) is not int or count < 2 or digest(current) != addition["after_sha256"]):
+        raise ValueError("Unbelegte Erweiterung des Testaktenindexes")
+    case = inside(root, "testakten/" + slug)
+    title = (case / "README.md").read_text(encoding="utf-8").splitlines()[0]
+    if title != "# " + addition["title"]:
+        raise ValueError("Titel der registrierten Testakte stimmt nicht")
+    base = Path(os.path.relpath(case, path.parent)).as_posix()
+    cells = [f"[{title[2:]}]({base}/README.md)",
+             f"[Gesamt-PDF]({base}/gesamt-pdf/{slug}_gesamt.pdf)"]
+    for suffix in ("", "-einzelpdfs"):
+        name = f"testakte-{slug}{suffix}.zip"
+        cells.append(f"[`{name}`]({case_asset_url(slug, suffix, root=root)})")
+    line = ("| " + " | ".join(cells) + " |\n").encode()
+    def counter(n):
+        return f"[{n} zugeordnete Akten](#zugeordnete-testakten)".encode()
+    if current.count(line) != 1 or current.count(counter(count + 1)) != 1:
+        raise ValueError("Fallzeile oder Aktenzähler weichen vom geprüften Index ab")
+    return current.replace(line, b"", 1).replace(counter(count + 1), counter(count), 1)
+
+
 def metadata_previous_bytes(root, path, *, plugin=None, expected_hash=None):
     """Nur exakte Downloadlink-/Manifestversionspflege, keine Fachtext-Ausnahme."""
     relative = path.relative_to(root).as_posix()
@@ -86,6 +114,11 @@ def metadata_previous_bytes(root, path, *, plugin=None, expected_hash=None):
         raise ValueError("Falscher Metadatenarchivpfad")
     old = inside(root, row["archive"]).read_bytes()
     current = path.read_bytes()
+    addition = row.get("case_index_addition")
+    if addition is not None:
+        if path != source / "README.md":
+            raise ValueError("Aktenindex außerhalb des Plugin-README")
+        current = before_case_index_addition(root, path, current, addition)
     last_reviewed = current
     followup = row.get("publication_followup")
     if followup is not None:
@@ -110,6 +143,8 @@ def metadata_previous_bytes(root, path, *, plugin=None, expected_hash=None):
             raise ValueError("Manifest-Fortschreibung verändert mehr als die Paketversion")
     else:
         raise ValueError("Keine zulässige Release-Metadatendatei")
+    if addition is not None and digest(current) == expected_hash:
+        return current
     if expected_hash is not None and digest(last_reviewed) == expected_hash:
         return last_reviewed
     return old
