@@ -19,6 +19,19 @@ GENERATOR_PATHS = (
     "scripts/build-testakten-einzelpdf-zips.py", "scripts/build-testakte-gesamt-pdf.py",
     "scripts/testakte_office_pdf.py", "scripts/testakte_einzelpdf_common.py",
 )
+# Die beiden Standardbuilder haben nach der bAV-Freigabe ausschließlich neue
+# Fallzweige erhalten. Je Datei sind der vollständige Nachfolger und die
+# hinzugefügten Zeilen (beidseitig einschließlich, ab 1) fest gebunden.
+# Ohne diese Zeilen müssen sich exakt die Bytes des freigegebenen Generators
+# ergeben. Das historische Inventar gilt so auch in einem Checkout ohne Git.
+PARTNERAKTEN_ADDITIONS = {
+    "scripts/build-testakten-einzelpdf-zips.py": (
+        "a2c9736564f156de55b287c1700771ec3b19d7ef997112fe6872f5dd4c01b7aa", 205, 214,
+    ),
+    "scripts/build-testakte-gesamt-pdf.py": (
+        "2ebe7db530d5ec38878295e34176a10201b4b37cda2cd9d069595672bc0bf15b", 1146, 1147,
+    ),
+}
 EXPECTED_SLUGS = frozenset({"bav-strategie-konzern-meissner-rheinwerk-ag", "bav-carve-out-rheinbogen-automation",
                            "bav-rentnergesellschaft-rheinhafen-logistik", "bav-pensionskasse-niederrhein-verbund"})
 
@@ -33,7 +46,7 @@ def pdf_facts(data):
     return {"sha256": sha(data), "pages": len(reader.pages), "text_sha256": sha(text.encode())}
 
 
-def checked_file(root, record):
+def checked_file(root, record, *, generator=False):
     path = Path(record["path"])
     if path.is_absolute() or ".." in path.parts:
         raise ValueError(f"Unsicherer Inventarpfad {path}")
@@ -43,8 +56,17 @@ def checked_file(root, record):
     if not file.is_file():
         raise ValueError(f"Reguläre Quelle fehlt: {path}")
     data = file.read_bytes()
-    if sha(data) != record["sha256"]:
-        raise ValueError(f"Quellhash abweichend: {path}")
+    digest = sha(data)
+    if digest != record["sha256"]:
+        addition = PARTNERAKTEN_ADDITIONS.get(path.as_posix()) if generator else None
+        if addition is None or digest != addition[0]:
+            raise ValueError(f"Quellhash abweichend: {path}")
+        _, first, last = addition
+        lines = data.splitlines(keepends=True)
+        historical = b"".join(lines[: first - 1] + lines[last:])
+        if sha(historical) != record["sha256"]:
+            raise ValueError(f"Historischer Generator nicht bytegleich rekonstruierbar: {path}")
+        return historical
     return data
 
 
@@ -65,7 +87,7 @@ def verify_inventory(root: Path) -> dict:
     if len(inventory["generators"]) != len(GENERATOR_PATHS):
         raise ValueError("Doppelte Generatorbindung")
     for record in inventory["generators"]:
-        checked_file(root, record)
+        checked_file(root, record, generator=True)
     for case in inventory["cases"]:
         slug = case["slug"]
         directory = root / "testakten" / slug
