@@ -1,0 +1,66 @@
+[
+  {
+    "id": "N22",
+    "filename": "N22_2026-10-30_Mandantenpost_zum_Vorgang_Lesekai.pdf",
+    "date": "2026-10-30",
+    "kind": "email",
+    "brand": "client",
+    "title": "Der Ausdruck aus der Rotationsmappe",
+    "subject": "Lesekai, Nachlieferung vom 15. Oktober 2020",
+    "sender": "Lisa Muster <lisa.muster@postfach.example>",
+    "recipient": "Dr. Johanna Falkenhorst <j.falkenhorst@falkenhorst-flow.example>",
+    "reference": "F26-041LM",
+    "sections": [{"paragraphs": [
+      "Gesendet: 30.10.2026, 16:48 Uhr",
+      "Sehr geehrte Frau Dr. Falkenhorst,",
+      "bei der Vorbereitung auf unser Gespräch habe ich den Ausdruck mit dem Namen Lesekai gefunden. Er lag im Umschlag mit den Schulungsbelegen aus meiner Vertriebsrotation. Die Teilnehmer durften die Blätter damals zur persönlichen Dokumentation behalten. Ich habe den Ausdruck heute eingescannt. Mehr als diese eine Seite liegt mir zu der Bestellung nicht vor. Auf mein früheres dienstliches Postfach habe ich keinen Zugriff.",
+      "Ich erinnere mich an die telefonische Rückfrage wegen der achtzig Exemplare und daran, dass ich die Nachlieferung im Programm eingetragen habe. Wer die Rechnung ausgelöst hat, habe ich nicht gesehen. Frau Seidels Nachricht lag damals auf meinem Tisch, weil ich mir die Abgrenzung zwischen Bestelländerung und Preiskorrektur merken wollte.",
+      "Die Mappe war seit meinem Wechsel zurück ins Design zu Hause. Im Juni habe ich auf Ihre Bitte meinen digitalen Ordner mit Arbeitsproben durchsucht, die Papiermappe mit dem Aufkleber »Schulung Vertrieb« aber nicht geöffnet. Die andere Nachricht vom März 2026 zu meiner Bewerbung stammt weiterhin aus meinem privaten Postfach. Ich kann Ihnen das Papier zu unserem Gespräch mitbringen.",
+      "Mit freundlichen Grüßen"
+    ]}],
+    "signature": "Lisa Muster",
+    "attachments": ["Scan des Ausdrucks vom 15.10.2020, eine Seite"]
+  },
+  {
+    "id": "N23",
+    "filename": "N23_2020-10-15_Ausdruck_Lesekai_Nachlieferung.pdf",
+    "date": "2020-10-15",
+    "kind": "email",
+    "brand": "employer",
+    "title": "Rückmeldung zur Nachlieferung Lesekai",
+    "subject": "AW: SO-2020-586 / achtzig Exemplare Sachbuch",
+    "sender": "Leonie Seidel <leonie.seidel@uferwerk.example>",
+    "recipient": "Lisa Muster <lisa.muster@uferwerk.example>",
+    "reference": "SO-2020-586",
+    "sections": [{"paragraphs": [
+      "Gesendet: 15.10.2020, 14:26 Uhr",
+      "Liebe Frau Muster,",
+      "der Versand sieht Ihre korrigierte Liefermenge jetzt im Auftrag SO-2020-586. Die fehlenden achtzig Exemplare gehen als Nachlieferung an die Buchhandlung Lesekai. Bitte lassen Sie die ursprüngliche Rechnungsanschrift stehen. Für eine Gutschrift bräuchte die Buchhaltung einen eigenen Vorgang.",
+      "In Ihrer Rückfrage ging es auch um den Preis. Bei dieser Nachlieferung bleibt der im Erstauftrag erfasste Konditionssatz stehen. Die Frage nach einer Sonderkondition für die nächste größere Bestellung nehme ich mit in das Kundengespräch. Dazu geben wir heute noch keine Zusage.",
+      "Wenn der Versand den Lieferschein geschlossen hat, können Sie die Wiedervorlage aus der Vertretungsliste nehmen.",
+      "Viele Grüße"
+    ]}],
+    "signature": "Leonie Seidel\nVertriebsinnendienst | Uferwerk Verlag GmbH"
+  },
+  {
+    "id": "N24",
+    "filename": "N24_2026-10-30_Rueckfragen_zur_Rotationsmappe.pdf",
+    "date": "2026-10-30",
+    "kind": "letter",
+    "brand": "employee_firm",
+    "title": "Ihre Rotationsmappe aus dem Vertrieb",
+    "subject": "Berufung Muster gegen Uferwerk Verlag GmbH",
+    "sender": "RAin Dr. Johanna Falkenhorst",
+    "recipient": "Frau Lisa Muster\nRheinsteig 8\n78462 Konstanz",
+    "reference": "F26-041LM",
+    "sections": [{"paragraphs": [
+      "Sehr geehrte Frau Muster,",
+      "Ihr Scan von heute Nachmittag ist lesbar. Für den Termin legen Sie bitte den gesamten Umschlag so zur Seite, wie Sie ihn gefunden haben. Bringen Sie auch das Deckblatt mit, falls daraus hervorgeht, wer die Unterlagen zusammengestellt hat.",
+      "Zu der Nachlieferung interessiert mich der Weg vom Anruf bis zum Lieferschein. Welche Felder konnten Sie unter Ihrer eigenen Kennung ändern? Woher wissen Sie noch, dass der Versand die Menge übernommen hatte? Wenn Sie sich nur wegen der E-Mail an einen Schritt erinnern, sagen Sie das bitte ausdrücklich. Das gilt ebenso für die Konditionen und für den späteren Rechnungslauf.",
+      "Auf der Rechteübersicht von Frau Berg ist derselbe Vorgang handschriftlich vermerkt. Für das Gespräch brauche ich Ihre eigene Erinnerung daran, wer beim Anlegen dabeisaß und wer später kontrollierte. Ob die Bestellung schon in der ersten Instanz besprochen wurde und was sich gegenüber dem heutigen CRM geändert hat, kläre ich gesondert mit Ihnen.",
+      "Bitte notieren Sie auch, wo die Mappe während des ersten Verfahrens lag und nach welchen Unterlagen Sie damals gesucht haben. Das Original bleibt bis zur Besprechung bei Ihnen.",
+      "Mit freundlichen Grüßen"
+    ]}],
+    "signature": "Dr. Johanna Falkenhorst\nRechtsanwältin"
+  }
+]

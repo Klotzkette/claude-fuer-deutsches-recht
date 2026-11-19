@@ -1,0 +1,4 @@
+Buchungstag;Buchungsstelle;Bewegung EUR;Gegenkonto;Zuordnung
+28.06.2025;ModeFuchs;698,00;Altenhausen;Kundenzahlung
+30.06.2025;ModeFuchs;-698,00;InkassoZentrale;Weiterleitung
+01.07.2025;InkassoZentrale;698,00;ModeFuchs;IZ-MF-2025-1749

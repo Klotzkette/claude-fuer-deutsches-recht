@@ -27,6 +27,16 @@ English: Start with the `Grundakte` folder in the original-format ZIP. It contai
 
 <!-- END gesamt-pdf-section (autogen) -->
 
+## Workshop mit späterem Belegeingang
+
+Die Bewertung der Werkhalle hängt von der Zufahrt für schwere Fahrzeuge ab. Die Bewertungsunterlagen aus der Grundakte werden im Ordner `Nachlieferung` durch den E-Mail-Wechsel mit der Gutachterin, ihr Besichtigungsbuch und einen Archivvermerk ergänzt. Vergleichen Sie, was am 20. April und am 18. Mai über eine Veräußerung bekannt war, und rechnen Sie beide Nutzungsvarianten.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Vollständige Originalakte mit getrennter Nachlieferung herunterladen](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/workshops/insolvenzreife-nachlieferungen/downloads/metallbau-berlin-zehlendorf-mit-nachlieferung.zip)
+
 ## 1. Arbeitsauftrag
 
 Öffnen Sie zunächst nur `Grundakte` im Originalformat-ZIP. Erstellen Sie aus den übergebenen Dateien ein Quellenverzeichnis, ordnen Sie zusammengehörende Belege zu und benennen Sie fehlende Unterlagen. Verfahrensdokumente aus `10_Verfahren` und die gesonderte Stichtagskontrolle können später hinzugezogen werden.

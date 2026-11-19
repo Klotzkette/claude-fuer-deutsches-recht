@@ -59,6 +59,7 @@ Die Akten enthalten je nach Fall Schriftstücke, Tabellen, E-Mails, Bilder und w
 | Originalformat-ZIP | Mit bearbeitbaren Word-Dateien, Excel-Tabellen, E-Mails, Screenshots und anderen Originaldateien arbeiten. |
 | Ordner `Grundakte` im Originalformat-ZIP, soweit vorhanden | Mit den Eingangsunterlagen beginnen. Weitere Verfahrensschritte und Übungsergebnisse lassen sich anschließend über die übrige Akte erschließen. |
 
+- [29 Workshopakten mit konkreten Beweisfragen und nachgereichten Unterlagen](./docs/releases/testakten-praxis-v1.0.0.md)
 - [631 zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Auswahl nach Rechtsgebiet](./testakten/README.md#2-testakten-nach-thema-finden) · [Grundakten](./testakten/README.md#11-mit-den-eingangsunterlagen-beginnen)
 - Pluginlokale Bestände der [Kündigungsschutzklagewerkstatt](./arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/), des [Arbeitszeugnisgenerators](./arbeitszeugnisgenerator/testakte/), des [Arbeitszeugnisprüfers](./arbeitszeugnispruefer/testakte/), des [UN-Kaufrechts](./un-kaufrecht-cisg/testakte/) und der [Untersuchungshaft](./untersuchungshaft/testakte/)
 - [Sieben Akten der Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [Übungsakten der Gerichts-Plugins über die Rollenübersicht](./gerichtsplugins/README.md) · [Weitere Beispielsammlungen](#weitere-unterlagen-zum-testen)

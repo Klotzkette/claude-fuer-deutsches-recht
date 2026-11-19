@@ -1,0 +1,4 @@
+﻿Zeit_MESZ;Kontoansicht;Buchsaldo_EUR;Reserviert_EUR;Verfuegbar_EUR;Quelle
+18.05.2026 07:58;vor Tagesdisposition;95000,00;0,00;95000,00;Kundenanzeige vor Sperrsetzung
+18.05.2026 08:05;Sperre aktiv;95000,00;55000,00;40000,00;Kartenvertrag Ziffer 8
+18.05.2026 10:20;Dispositionsabfrage;95000,00;55000,00;40000,00;erneute Abfrage Firmenkasse

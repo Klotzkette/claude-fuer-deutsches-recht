@@ -1,0 +1,992 @@
+[
+  {
+    "path": "testakten/compliance-hameln-schokolade-charge-k17",
+    "title": "Zwei Paletten für Tor 2",
+    "anchors": [
+      "Grundakte/G16_Abholavis_Freitag.eml",
+      "Grundakte/08_Lieferung_und_Bestandsmeldung_K17.csv",
+      "Massnahmen_und_Auswertung/M09_Ruecklaufstand_K17_1111.csv"
+    ],
+    "received": "2026-11-06T09:19:00+01:00",
+    "sender": "Imke Tegtmeier <imke.tegtmeier@bruchkakao.example>",
+    "recipient": "Qualitätssicherung <qs@bruchkakao.example>",
+    "subject": "AV-026309 | Die Rampe fragt nach dem zweiten Etikett",
+    "letter": "Das Tor hat gerade angerufen. Am Puffer hängen zwei Zettel für die Mittagsabholung. Einer trägt den Zusatz „Nachdruck“. Der Schichtordner zählt bedruckte Etiketten, unser Monitor dagegen Paletten. Ich möchte nicht, dass wir den doppelten Ausdruck als dritte Palette an den Handel melden. Ich habe die Gerätezeilen der letzten Viertelstunde aus dem Druckjournal gezogen.\n\nDer Fahrer hat bislang weder gegengezeichnet noch seinen Abholcode hinterlegt. Neben Tor 2 steht noch die Palette für den Werkverkauf. Bitte ruft am Tor an, bevor die nächste Schicht den Puffer räumt. Ich bin bis zur Übergabe am Versandtisch erreichbar.",
+    "register": "Versanddruckjournal Puffer 2",
+    "rows": [
+      [
+        "Zeit MEZ",
+        "Palette",
+        "Stück auf Etikett",
+        "Gerät / Vorgang"
+      ],
+      [
+        "09:02",
+        "K17-P01",
+        "480",
+        "T2-01 / Erstdruck"
+      ],
+      [
+        "09:04",
+        "K17-P02",
+        "480",
+        "T2-01 / Erstdruck"
+      ],
+      [
+        "09:13",
+        "K17-P02",
+        "480",
+        "T2-02 / Nachdruck wegen Papierstau"
+      ],
+      [
+        "09:16",
+        "K17-P03",
+        "480",
+        "W1-01 / interner Stellplatz"
+      ]
+    ],
+    "later": "2026-11-11T14:20:00+01:00",
+    "office": "Marktforde Handelshaus · Kassenservice",
+    "heading": "Übergabebogen für Rücknahmen am Kundendienst",
+    "paragraphs": "Am Mittwoch um 08:00 Uhr hatte das Haus für alle Filialen 101 zurückgegebene Tafeln an den Lieferanten gemeldet. Die Filiale 014 hat uns für sechs ihrer bereits enthaltenen Rücknahmen die Belegkennungen geschickt. Zwei Vorgänge stammen von demselben Haushalt. Die Nummer auf dem Erstattungsbon ist die Kassentransaktion und erlaubt keine sichere Zählung der Käufer.\n\nAn der Abendkasse vom 10. November wurde der Ausdruck KT-143 zweimal abgelegt. Die zweite Ausfertigung trägt dieselbe Transaktionsnummer und Uhrzeit. Wir haben sie auf dem Papierstapel belassen, weil die Filialleitung beide Ausdrucke mitgeliefert hat. Heute nach 08:00 Uhr eingegangene Ware wird auf einem neuen Tagesbogen geführt.",
+    "second_register": "Kundendienst Filiale 014 · Teilmenge bereits gemeldeter Rücknahmen",
+    "second_rows": [
+      [
+        "Beleg",
+        "Tag / Uhr",
+        "Stück",
+        "Ablage"
+      ],
+      [
+        "KT-141",
+        "10.11. 14:11",
+        "2",
+        "Original"
+      ],
+      [
+        "KT-142",
+        "10.11. 15:42",
+        "1",
+        "Original"
+      ],
+      [
+        "KT-143",
+        "10.11. 18:06",
+        "3",
+        "Original"
+      ],
+      [
+        "KT-143",
+        "10.11. 18:06",
+        "3",
+        "Kassenkopie"
+      ]
+    ],
+    "auftrag": "Klären Sie für die 09:30-Uhr-Entscheidung die tatsächlich zur Abholung vorgesehenen Stückzahlen. Arbeiten Sie später heraus, welche Rücknahmen bereits im Händlerstand enthalten sind.",
+    "baseline": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-k17-v1.1.0/testakte-compliance-hameln-schokolade-charge-k17.zip",
+      "sha256": "cf9fcd1e0708850de5ff6dd3fd622955571caee7cd2a2f254ed750fc84680251"
+    }
+  },
+  {
+    "path": "testakten/forderungsmanagement-baeckerei-behaeltertausch-hamburg",
+    "title": "Der Feiertag im Tourenjournal",
+    "anchors": [
+      "Grundakte/12_Mandatsanfrage.eml",
+      "02_Nachlieferung_2026-11-12_und_13/07_Fahrzeugereignisse_2026-01_bis_09.csv",
+      "02_Nachlieferung_2026-11-12_und_13/08_Zuordnungshistorie.csv"
+    ],
+    "received": "2026-11-06T09:16:00+01:00",
+    "sender": "Jette Finkenwerder <jette@backbord.example>",
+    "recipient": "Lene Sieveking <lene@sieveking-wulff.example>",
+    "subject": "Schlüsselbuch zur ersten Januarwoche",
+    "letter": "Frau Sieveking, im Büro lag unser Schlüsselbuch unter dem alten Kalender. Wir haben am Neujahrstag keinen Verkauf gemacht. Man kann sich trotzdem vom Nachbarhof her unserem Müllplatz nähern. Der geschlossene Laden beweist deshalb wenig. Wenn Herr Hinrichs seine Initialen bei „Hof zu“ einträgt, meint er die Seitentür zur Backstube.\n\nIch schicke die drei abgeschriebenen Zeilen mit. Die linke Seite trägt eine Notiz über klemmende Türschlösser. Einen Behälter oder eine Fahrzeugnummer hat niemand eingetragen. Für den 2. Januar erinnere ich mich an die Frühschicht, aber nicht an einen Wagen.",
+    "register": "Schlüsselbuch der Backstube · Jahreswechsel",
+    "rows": [
+      [
+        "Datum",
+        "Uhrzeit",
+        "Eintrag",
+        "Zeichen"
+      ],
+      [
+        "31.12.2025",
+        "13:38",
+        "Seitentür zugeschlossen",
+        "TH"
+      ],
+      [
+        "02.01.2026",
+        "04:47",
+        "Backstube geöffnet",
+        "JF"
+      ],
+      [
+        "02.01.2026",
+        "09:25",
+        "Seitenschlüssel an Büro",
+        "TH"
+      ]
+    ],
+    "later": "2026-11-16T10:40:00+01:00",
+    "office": "Elbmarsch Wertstofflogistik GmbH · Disposition",
+    "heading": "Auskunft zur Ausgabezeit des Tourenexports",
+    "paragraphs": "Auf Rückfrage haben wir die ersten zwei Zeilen der Tour H03 erneut aus der Fahrzeugsicherung gelesen. Das Datum des Hubvorgangs kommt vom Bordgerät. Das Feld „Abrechnung_Kunde“ wird beim Abruf aus der Abrechnungsdatenbank zugespielt. Der am 12. November gesicherte Export ist kein Abzug des Kundenstamms vom Neujahrsmorgen.\n\nDie zwei Zeilen des Dispositionsjournals geben den technischen Ablauf der Abfrage wieder. Sie belegen keine persönliche Wahrnehmung des Fahrers zum Inhalt des Behälters. Der Import vom 2. Januar und die jeweilige Rechnung müssten mit der ursprünglichen Abrechnungsdatei verglichen werden. Für diesen Ausdruck hatte ich nur Leserechte am Tourensystem. Eine Rechnungskorrektur habe ich nicht gebucht.",
+    "second_register": "Abfragejournal · Tour H03 / Datensatzherkunft",
+    "second_rows": [
+      [
+        "Feld",
+        "Bezugsdatum",
+        "Kennung",
+        "Datenquelle"
+      ],
+      [
+        "Hub",
+        "01.01.2026",
+        "EW-01-KA-LH-01",
+        "Bordgerät HH-EW 431"
+      ],
+      [
+        "Hub",
+        "02.01.2026",
+        "EW-01-KA-LH-02",
+        "Bordgerät HH-EW 431"
+      ],
+      [
+        "Kundenfeld",
+        "12.11.2026",
+        "B1047",
+        "Abrechnungszuordnung beim Export"
+      ],
+      [
+        "Standortfeld",
+        "01.01.2026",
+        "KA-LH",
+        "Position des Hubvorgangs"
+      ]
+    ],
+    "auftrag": "Prüfen Sie die Neujahrsposition gesondert. Welche Feststellung lässt das Schlüsselbuch zu, und was ändert sich durch die später belegte Herkunft des Kundenfeldes?",
+    "baseline": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsakten-v1.0.0/testakte-forderungsmanagement-baeckerei-behaeltertausch-hamburg.zip",
+      "sha256": "8595120d1aa5a18126cfa264cf4b8a90eb88ec9d8d97aba3c412c79da541169b"
+    }
+  },
+  {
+    "path": "testakten/berufskrankheit-asbest-schlosser-werft-bremen",
+    "title": "Die Rückseite von Tageszettel 1578",
+    "anchors": [
+      "15_kolonnenbuch_fundstellen_asbest.csv",
+      "23_email_archiv_uebersendung.eml"
+    ],
+    "received": "2026-07-07T09:12:00+02:00",
+    "sender": "Ute Strauß <archiv@weserkrone-werft.example>",
+    "recipient": "Kanzlei Am Wall <post@kanzlei-am-wall.example>",
+    "subject": "Nordlicht, Auftrag N-78/16 | Lesesaalbestellung",
+    "letter": "Frau Weddigen, ich habe für Ihre Bestellung im Lesesaal noch einmal die Signaturen aufgenommen. Auf der Mikroverfilmung wurden zuerst sämtliche Vorderseiten abgelichtet. Die Rückseiten stehen auf einer eigenen Rolle. Wer nach der Blattzahl weiterklickt, landet beim nächsten Arbeiter und nicht auf der Rückseite von Herrn Harms.\n\nDer Mai-Auftrag enthält sowohl Halle als auch Maschinenraum. Wann der einzelne Mann wo stand, ist auf der Vorderseite nicht eingetragen. Ich kann Ihnen die zweite Rolle am 20. Juli vorlegen. Einen Materiallieferschein für denselben Arbeitsgang habe ich in diesem Karton nicht gefunden.",
+    "register": "Lesesaal · Bereitstellung 20. Juli",
+    "rows": [
+      [
+        "Signatur",
+        "Träger",
+        "Eintrag",
+        "Zuordnung"
+      ],
+      [
+        "H3-M78-V",
+        "Film 6 Bild 44",
+        "09.05.1978",
+        "1578 Vorderseite"
+      ],
+      [
+        "H3-M78-V",
+        "Film 6 Bild 45",
+        "10.05.1978",
+        "1578 Vorderseite"
+      ],
+      [
+        "H3-M78-R",
+        "Film 9 Bild 18",
+        "Bleistift N-78/16",
+        "Rückseite Tag 09"
+      ],
+      [
+        "H3-M78-R",
+        "Film 9 Bild 19",
+        "Bleistift N-78/16",
+        "Rückseite Tag 10"
+      ]
+    ],
+    "later": "2026-07-21T11:05:00+02:00",
+    "office": "Betriebsarchiv Weserkrone · Lesesaal",
+    "heading": "Befund beim Abgleich der beiden Rollen",
+    "paragraphs": "Die Vorderseiten beider Tage nennen Personalnummer 1578. Der Rückseiteneintrag vom 9. Mai verteilt acht Stunden auf zwei Orte. Nur die letzten drei Stunden sind ausdrücklich dem Maschinenraum zugewiesen. Am 10. Mai ist neben der Summe von acht Stunden ein senkrechter Strich zu sehen. Ob er eine Wiederholung der vorherigen Ortsangabe bedeuten sollte, lässt sich im Film nicht feststellen.\n\nAuf keiner der vier Aufnahmen steht eine gemessene Faserkonzentration. Die Zeitangaben wurden seinerzeit für die Zuordnung des Lohnaufwands erfasst. Rückschlüsse auf eine konkrete Exposition bedürfen weiterer Unterlagen. Die beiden Filmrollen bleiben vor Ort eingesehen. Die Werkstattbuchungen wurden unverändert abgeschrieben.",
+    "second_register": "Abschrift Rückseiten · interne Zeitverteilung",
+    "second_rows": [
+      [
+        "Datum",
+        "Stunden",
+        "Kostenstelle",
+        "Ortsvermerk"
+      ],
+      [
+        "09.05.1978",
+        "5",
+        "R-214",
+        "Halle, Rohrstücke richten"
+      ],
+      [
+        "09.05.1978",
+        "3",
+        "R-214",
+        "Maschinenraum Backbord"
+      ],
+      [
+        "10.05.1978",
+        "8",
+        "R-214",
+        "Strich, Bezug nicht lesbar"
+      ]
+    ],
+    "auftrag": "Ordnen Sie die beiden Schichten personenbezogen zu. Trennen Sie Arbeitszeit, belegten Arbeitsort und offenen Expositionsnachweis.",
+    "baseline": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-berufskrankheit-asbest-schlosser-werft-bremen.zip",
+      "sha256": "7b1bbaf9d194539ed872de6dc491a19aaddc67cc383a385bad286a679856b94a"
+    }
+  },
+  {
+    "path": "testakten/sozialrecht-elektrorollstuhl-koerner-oldenburg",
+    "title": "Mit dem Schlüssel vor der Hoftür",
+    "anchors": [
+      "31_tuer_hof_ladeplatz_hausverwaltung.docx",
+      "32_erprobungsnotizen_hilfsmittel_2026-05-18.docx"
+    ],
+    "received": "2026-06-10T08:42:00+02:00",
+    "sender": "Dr. Maren Körner <maren.koerner@privatpost.de>",
+    "recipient": "Anja Voss <anpassung@rehatechnik-albrecht.example>",
+    "subject": "Hofsteg am Theaterwall | Termin zur Türprobe",
+    "letter": "Frau Voss, Vater fragte beim Frühstück, wie er den Schlüssel herumdrehen soll, während er den Türflügel aufhält. Am Montag war ich dabei und habe die Tür gehalten. Wenn ich zur Arbeit fahre, kann er damit nicht rechnen. Der Hausmeister hat mir die Reinigungszeiten aufgeschrieben. Dann steht der Wagen des Dienstes oft vor dem Drücker. Den tatsächlichen Durchgang kann man nur vor Ort beurteilen.\n\nFür den weiteren Versuch bringen Sie bitte den Stuhl mit der gleichen Armauflage wie beim Hoftermin. Vater möchte auch den Rückweg aus dem Hof versuchen, solange die Kräfte reichen. Den Weg von der Wohnung bis zum Abstellplatz müssen wir gesondert klären.",
+    "register": "Theaterwall 62 · Reinigungsplan Erdgeschoss",
+    "rows": [
+      [
+        "Tag",
+        "Zeitfenster",
+        "Bereich",
+        "Abstellung laut Plan"
+      ],
+      [
+        "Montag",
+        "07:15–07:45",
+        "Hofsteg",
+        "Nische neben Tür"
+      ],
+      [
+        "Mittwoch",
+        "07:15–07:45",
+        "Treppenabsatz",
+        "Putzraum"
+      ],
+      [
+        "Freitag",
+        "07:15–07:45",
+        "Hofsteg",
+        "Nische neben Tür"
+      ]
+    ],
+    "later": "2026-06-16T15:10:00+02:00",
+    "office": "RehaTechnik Albrecht · Außendienst",
+    "heading": "Zusatztermin am unteren Hofzugang",
+    "paragraphs": "Am Dienstag waren Vater, Tochter und Fachberaterin ab 14:10 Uhr am unteren Hofzugang. Der Boden war trocken. Der Reinigungswagen stand im Putzraum. Herr Körner kam bereits im Sitz zum Versuch. Weder der Weg vom ersten Obergeschoss noch die Straße waren Teil der Beobachtung. Die Tochter griff nur bei den im Bogen bezeichneten Versuchen ein.\n\nDer Griff am Schlüssel war mit Handschlaufe besser erreichbar. Sobald die Türfeder gegen den Fußschutz drückte, brach Herr Körner ab. Beim letzten Versuch stand die Tür auf und die Tochter hielt sie bis zur Durchfahrt. Ein anderer Türschließer und ein Türöffner wurden besprochen. Eine Zusage der Eigentümerin oder eine Montage lag beim Termin nicht vor.",
+    "second_register": "Beobachtungsblatt 16. Juni · Hofseite",
+    "second_rows": [
+      [
+        "Beginn",
+        "Richtung",
+        "Türzustand",
+        "Beobachtung"
+      ],
+      [
+        "14:15",
+        "vom Hof",
+        "geschlossen",
+        "Schlüssel erreichbar, Flügel fällt zurück"
+      ],
+      [
+        "14:22",
+        "vom Hof",
+        "geschlossen",
+        "Abbruch vor der Schwelle"
+      ],
+      [
+        "14:35",
+        "zum Hof",
+        "gehalten",
+        "Durchfahrt mit Hilfestellung der Tochter"
+      ]
+    ],
+    "auftrag": "Prüfen Sie, welche Teilstrecke selbstständig nutzbar war. Benennen Sie den noch fehlenden Nachweis für den gesamten Weg von der Wohnung auf die Straße.",
+    "baseline": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip",
+      "sha256": "e8c7222f501f7ca5bd59c4d1c5476245f114201e33d012e1b77755ddabb14a47"
+    }
+  },
+  {
+    "path": "testakten/steuerrecht-freiburg-oderkonto-schenkungsteuer",
+    "title": "Wer hat den Camper reserviert?",
+    "anchors": [
+      "02_Kontoumsaetze.csv",
+      "09_Bankprotokoll_Autorisierung.pdf",
+      "06_Wohnmobil_Anzahlung.pdf"
+    ],
+    "received": "2025-07-18T10:21:00+02:00",
+    "sender": "Max Urban <verkauf@kaisersteg-reisemobile.example>",
+    "recipient": "Matthias Vetter <matthias.vetter@vetter-privat.example>",
+    "subject": "RM-518 | Eingangsbestätigung des Verkaufs",
+    "letter": "Guten Morgen Herr Vetter, der Betrag von 24.000 Euro ist mit der Referenz RM-518 angekommen. Ich habe das Fahrzeug aus der öffentlichen Liste genommen. Der Bestellschein nennt Sie als Käufer. Für die Stellplatzzusage hat der Betreiber im Hintergrund noch keine Rückmeldung gegeben. Unser Büro führt das vereinbarte Auflösungsfenster bis einschließlich 24. Juli im Terminkalender.\n\nDie Kontoverbindung für eine eventuelle Rückabwicklung entnehmen wir dem Zahlungseingang. Bitte senden Sie keine neue IBAN per einfacher Nachricht. Das Feld für einen weiteren Kontakt in der Kundenkartei ist leer. Eine etwaige weitere Person müsste für die spätere Übergabe namentlich benannt werden. Der Fahrzeugschlüssel ist noch bei uns im Tresor.",
+    "register": "Verkaufstagebuch · Vorgang RM-518",
+    "rows": [
+      [
+        "Zeitpunkt",
+        "Beleg",
+        "Feld",
+        "Eintrag"
+      ],
+      [
+        "18.07. 08:53",
+        "RM-518",
+        "Ansprechpartner",
+        "Matthias Vetter"
+      ],
+      [
+        "18.07. 09:06",
+        "RM-518",
+        "Zweitkontakt",
+        "leer"
+      ],
+      [
+        "18.07. 10:12",
+        "RM-518",
+        "Zahlungseingang",
+        "24.000 EUR"
+      ],
+      [
+        "18.07. 10:17",
+        "RM-518",
+        "Fahrzeugschlüssel",
+        "Verkaufstresor"
+      ]
+    ],
+    "later": "2026-10-22T10:05:00+02:00",
+    "office": "Kaisersteg Reisemobile GmbH · Auftragsarchiv",
+    "heading": "Aktenauskunft zum Feld „Käufer“",
+    "paragraphs": "Bei der Übernahme des Verkaufsprogramms wurde die Kontaktkarte von der Probefahrt der späteren Bestellung zugeordnet. Im Verkaufsarchiv ist auf dem Bestellschein allein Matthias Vetter als Käufer erfasst. Die technische Vorbelegung des Kontaktfelds erklärt, warum sein Name auch in den anderen Ansichten erscheint. Die Auftragsunterlagen und die Bankbelege führen wir getrennt.\n\nHerr Vetter erklärte die Auflösung am 23. Juli wegen der ausgebliebenen Stellplatzzusage. Den Rücklauf haben wir am 25. Juli zur Referenz RM-518 gebucht. Wer wirtschaftlich über das Geld verfügen durfte, war nicht Gegenstand unseres Geschäfts. Für die Erinnerung an das Telefonat mit Herrn Vetter verweise ich auf meine Notiz im Bestellbeleg. Das Fahrzeug hat unseren Platz nicht verlassen.",
+    "second_register": "Historie RM-518 · Übergabe und Rücklauf",
+    "second_rows": [
+      [
+        "Datum",
+        "Bearbeitung",
+        "Geschäftsvorgang"
+      ],
+      [
+        "18.07.2025",
+        "Anlage",
+        "Kontaktdaten aus Probefahrt übernommen"
+      ],
+      [
+        "23.07.2025",
+        "Disposition",
+        "Auflösung wegen fehlender Stellplatzzusage"
+      ],
+      [
+        "25.07.2025",
+        "Buchhaltung",
+        "24.000 EUR zurück, Referenz RM-518"
+      ],
+      [
+        "25.07.2025",
+        "Archiv",
+        "Verkaufsakte geschlossen"
+      ]
+    ],
+    "auftrag": "Vergleichen Sie Händlervermerke, Zahlungsautorisierung und privaten Mailverkehr. Begründen Sie getrennt, was für die Verwendung des Geldes und was für die interne Vereinbarung der Eheleute spricht.",
+    "baseline": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-steuerrecht-freiburg-oderkonto-schenkungsteuer.zip",
+      "sha256": "7c8fee2dcac8e654c3e820523eed772710de23bbe4f9b98680f0ab1fe408c7b3"
+    }
+  },
+  {
+    "path": "quality/steuerrecht-freiburg/tomasius-solo",
+    "title": "Vier Hauskostenbuchungen für die Wohnung in Rom",
+    "anchors": [
+      "14_Wohnung_Rom/11_Objektkonto_LT7_2025.csv",
+      "14_Wohnung_Rom/05_Rom_Verwalterabrechnung_2025.pdf"
+    ],
+    "received": "2026-01-14T16:20:00+01:00",
+    "sender": "Studio Bellandi <amministrazione@studio-bellandi.example>",
+    "recipient": "Hubertus Tomasius <hubertus@tomasius.example>",
+    "subject": "LT7-2025 | Welche Zahl steht neben der Miete?",
+    "letter": "Herr Tomasius, Ihr Mieter bittet für seine Ablage um eine Trennung der gezahlten Beträge. Im Konto steht jeden Monat eine Gutschrift über 680 Euro. Unser Mietkartenprogramm zeigt 620 Euro auf dem Mietkonto und 60 Euro auf dem Vorschusskonto. Beide Ansichten greifen auf denselben Zahlungseingang zu.\n\nFür die vier Hauskostenvorschüsse der Verwaltung finden Sie anbei die Belegkennungen. Auf der Dezemberseite stehen daneben auch andere Eigentümerbuchungen. Das Wort condominio im Ausdruck genügt nicht, um sie dem Mieter zuzurechnen. Bitte teilen Sie uns vor einem Ausgleich mit, welche Unterlagen der Berater bereits hat.",
+    "register": "Quartalsblatt Interno 7 · Belegversand",
+    "rows": [
+      [
+        "Beleg",
+        "Valuta",
+        "Betrag EUR",
+        "Konto der Verwaltung"
+      ],
+      [
+        "NK-2025-1",
+        "31.03.2025",
+        "165,00",
+        "Hauskosten Mietpartei"
+      ],
+      [
+        "NK-2025-2",
+        "30.06.2025",
+        "165,00",
+        "Hauskosten Mietpartei"
+      ],
+      [
+        "NK-2025-3",
+        "30.09.2025",
+        "165,00",
+        "Hauskosten Mietpartei"
+      ],
+      [
+        "NK-2025-4",
+        "30.12.2025",
+        "165,00",
+        "Hauskosten Mietpartei"
+      ]
+    ],
+    "later": "2026-01-22T09:45:00+01:00",
+    "office": "Studio Bellandi Amministrazioni Immobiliari · Mieterkonten",
+    "heading": "Abstimmblatt vor Freigabe der Nebenkostenmitteilung",
+    "paragraphs": "Die Monatsgutschriften des Professors Oliver Mercer sind im Bankjournal und im Mietmodul sichtbar. Das Bankjournal ist für das Datum maßgeblich. Eine aus den Modulen zusammenkopierte Liste kann dieselbe Gutschrift insgesamt zweimal zeigen. Bevor wir dem Mieter eine Abrechnung schicken, trennen wir deshalb die Zahlungsreferenz vom Buchungszweck.\n\nFür 2025 stehen den zwölf Vorschüssen die vier Quartalsbelastungen des Mieterkontos gegenüber. Die Eigentümerkosten CONDO-2025 gehören auf ein anderes Blatt. Der verbleibende Vorschusssaldo stand zum Jahresende im Nebenbuch. Eine gesonderte Überweisung an den Mieter ist im Objektkonto für 2025 nicht verzeichnet. Die Originalrechnungen der Hausgemeinschaft können Sie unter der Objektkennung LT7 anfordern.",
+    "second_register": "Mietmodul · Beispiel einer Zahlungsreferenz",
+    "second_rows": [
+      [
+        "Referenz",
+        "Wertstellung",
+        "Ansicht",
+        "Betrag EUR"
+      ],
+      [
+        "MIETE-12",
+        "03.12.2025",
+        "Bankgutschrift gesamt",
+        "680,00"
+      ],
+      [
+        "MIETE-12",
+        "03.12.2025",
+        "Mietanteil",
+        "620,00"
+      ],
+      [
+        "MIETE-12",
+        "03.12.2025",
+        "Vorschussanteil",
+        "60,00"
+      ],
+      [
+        "CONDO-2025",
+        "30.12.2025",
+        "Eigentümerbelastung",
+        "186,00"
+      ]
+    ],
+    "auftrag": "Rekonstruieren Sie Zuflüsse und Vorschusssaldo für 2025 auf Basis der zwölf Bankgutschriften. Markieren Sie noch benötigte Belege zur persönlichen Zurechnung und zum italienischen Steuerverfahren.",
+    "baseline": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/Testakte_Tomasius_2025_Grundakte.zip",
+      "sha256": "6f609f769c50ad5e06cbfe2385db70c93ce240458397254bdfe12ae61d7077ab"
+    }
+  },
+  {
+    "path": "testakten/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain",
+    "title": "Der verlegte Gitarrentermin",
+    "anchors": [
+      "07-raum-und-unterrichtsplan.csv",
+      "25-sms-export-vertretungen-krankmeldungen.txt"
+    ],
+    "received": "2026-03-06T17:11:00+01:00",
+    "sender": "Meinhard Seidenbusch <ms@atelier-saitengang.example>",
+    "recipient": "Sekretariat <sekretariat@klingenhain-musik.example>",
+    "subject": "Freitag, Einzeltermin B. im Studio",
+    "letter": "Timo war heute bei mir im Studio. Seine Mutter hat direkt mit mir abgesprochen, dass sie ihn nach der Arbeit hierher bringt. Am Dienstag war im Plan noch der Schulraum zu sehen. An der Rezeption wollte sie deshalb nachfragen, ob wir den Termin doppelt hätten. Ich habe ihr eine Karte mit dem privaten Studiotermin mitgegeben.\n\nFür die Schulgruppe am Nachmittag habe ich im Portal die Anwesenheitsliste geöffnet. Ob der Eintrag dort vollständig gespeichert wurde, kann ich von zu Hause aus nicht sehen. Bitte schaut in die beiden getrennten Listen, bevor eine Rechnung geändert wird. Mein privater Kalender zeigt Namen und Uhrzeit, aber keine Vertragsnummer der Schule.",
+    "register": "Studioauszug · Freitag 6. März",
+    "rows": [
+      [
+        "Zeit",
+        "Ort",
+        "Vorgang",
+        "Erfassung"
+      ],
+      [
+        "15:00",
+        "Privatstudio",
+        "Einzeltermin B.",
+        "eigener Kalender"
+      ],
+      [
+        "16:00",
+        "Schulgebäude",
+        "Gruppentermin laut Schulplan",
+        "Schulportal"
+      ],
+      [
+        "16:12",
+        "Schulgebäude",
+        "Gruppenliste geöffnet",
+        "Schulportal"
+      ]
+    ],
+    "later": "2026-06-10T12:40:00+02:00",
+    "office": "Klingenhain Musikschule · Verwaltung",
+    "heading": "Zuordnung der beiden Listen vom 6. März",
+    "paragraphs": "Für die Vorlage an die Kanzlei hat die Verwaltung die Raumplanung mit den tatsächlichen Einträgen abgeglichen. Der Einzeltermin B. war im Schulportal nur eine Freihaltung. Der Datensatz ging nicht in den Beitragslauf der Schule. Die danebenstehende Gruppe wurde aus dem regulären Schulangebot gebucht. Wer den Unterricht inhaltlich vorbereitet hat, wird im Beitragslauf nicht erfasst.\n\nDie Schule kann keine private Rechnung des Herrn Seidenbusch herausgeben. Für eine vollständige Zuordnung des Einzeltermins müssten er oder die Mutter die Abrechnung und die Terminabsprache vorlegen. Eine einzelne Verlegung sagt noch nichts darüber aus, wie die festen Schulgruppen über das ganze Halbjahr organisiert waren.",
+    "second_register": "Portaljournal · Termin- und Abrechnungsfelder",
+    "second_rows": [
+      [
+        "Schlüssel",
+        "Eingetragener Ort",
+        "Art des Eintrags",
+        "Beitragslauf"
+      ],
+      [
+        "KH-B-0603",
+        "Schulraum",
+        "Freihaltung",
+        "ausgeschlossen"
+      ],
+      [
+        "KH-G-0603",
+        "Schulgebäude",
+        "Gruppenangebot",
+        "enthalten"
+      ],
+      [
+        "KH-G-0603",
+        "Portal",
+        "Anwesenheitsliste",
+        "ohne Einzelpreis"
+      ]
+    ],
+    "auftrag": "Ordnen Sie Privatunterricht und Schulgruppe getrennt zu. Welche Feststellungen zur Ausführung tragen beide Register und welche Vertrags- oder Zahlungsbelege fehlen noch?",
+    "baseline": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip",
+      "sha256": "90c976f42a5e3f6efa15cbe22fc0634f31ef7fd20b081254486f9b23d2a8f360"
+    }
+  },
+  {
+    "path": "testakten/bauunternehmer-einkauf-altstadt-bordsteine",
+    "title": "Was ist aus dem Stadtbestand wirklich verwendbar?",
+    "anchors": [
+      "Grundakte/01_Bedarf/04_Aufmass_RB_M2.csv",
+      "Nachlauf/01_Clarification_Grauwinkler.eml"
+    ],
+    "received": "2026-11-04T09:35:00+01:00",
+    "sender": "Bauhof Süd <lager@bauhof-rosenbogen.example>",
+    "recipient": "Maren Franke <maren.franke@krimpfort.example>",
+    "subject": "Rosenbogen | Kennzeichnung der Stapel vom Aufmaß",
+    "letter": "Frau Franke, ein Fahrer hat nach den 220 Metern auf der Inventarkarte gefragt. Er stand vor dem oberen Stapel und wollte schon alles aufladen. Die Kreidezeichen am Fuß sehen nach Regen ähnlich aus. Wir haben die drei für den Abruf vorgesehenen Stapel deshalb mit weißen Schildern versehen. Die vierte Reihe am Zaun trägt noch das gelbe Schild „Auswahl offen“.\n\nUnsere Laufmeter sind am Kopf erfasst. Bei einem Bogen wird der spätere Zuschnitt erst an der Schablone festgelegt. Die weißen Schilder bezeichnen die Bereitstellung zur Aufarbeitung. Eine zugeschnittene, zur Bettung abgenommene Endlänge hat der Bauhof niemandem zugesichert.",
+    "register": "Lagerplatz Rosenbogen · Ausgabeplan",
+    "rows": [
+      [
+        "Stapel",
+        "Abschnitt",
+        "Erfasst m",
+        "Schild"
+      ],
+      [
+        "S-A",
+        "Platzkante West",
+        "84",
+        "weiß"
+      ],
+      [
+        "S-B",
+        "Hang und Stichgasse",
+        "58",
+        "weiß"
+      ],
+      [
+        "S-C",
+        "Rosenbogen Ost",
+        "38",
+        "weiß"
+      ],
+      [
+        "S-Q",
+        "Zaunreihe",
+        "40",
+        "gelb"
+      ]
+    ],
+    "later": "2026-11-24T08:40:00+01:00",
+    "office": "Krimpfort SE & Co. KG · Bauleitung Rosenbogen",
+    "heading": "Rückgabe der Probestücke nach dem Mustertermin",
+    "paragraphs": "Zur Besprechung der Bearbeitung am 23. November entnahm der Bauhof vier gerade Stücke aus S-A. Die Kennzeichnungen betreffen ein Los und vier einzelne Steine. Die Werkstatt hat nach dem Planschliff erneut dieselbe Sichtkante gemessen. Ein Stück zeigt am Fuß eine offene Ader. Es liegt in der markierten Prüfzone und darf vor der Entscheidung der Bauleitung nicht in die Lieferkiste zurück.\n\nDer Musterlauf enthält weder Bogen- noch Übergangssteine. Die kleine Stichprobe erlaubt keine Hochrechnung der Ausbeute für sämtliche 180 Meter. Die Aufmaßbasis des verschickten LV bleibt für die Angebotsprüfung erhalten. Die spätere Lagerdisposition soll den tatsächlichen Stückbefund getrennt fortführen.",
+    "second_register": "Messzettel Stichprobe S-A · Längen am Kopf",
+    "second_rows": [
+      [
+        "Stein",
+        "Vorher m",
+        "Nachher m",
+        "Zustand"
+      ],
+      [
+        "A-031",
+        "1,06",
+        "1,01",
+        "bearbeitet"
+      ],
+      [
+        "A-032",
+        "1,11",
+        "1,07",
+        "bearbeitet"
+      ],
+      [
+        "A-033",
+        "1,04",
+        "1,00",
+        "Prüfzone"
+      ],
+      [
+        "A-034",
+        "0,98",
+        "0,94",
+        "bearbeitet"
+      ]
+    ],
+    "auftrag": "Gleichen Sie die Bereitstellung für OZ 01.0010 mit dem Aufmaß ab. Ermitteln Sie anschließend die bestätigte Länge der vier Musterstücke unter Behandlung des Prüfstücks als offenen Posten.",
+    "baseline": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-altstadt-bordsteine.zip",
+      "sha256": "57496d81b41eef65e156cc3b095215201140980d491fb04ed44e586dc538dd24"
+    }
+  },
+  {
+    "path": "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort",
+    "title": "Die Rückwand hinter E4-075",
+    "anchors": [
+      "04a_Tuerregister_500.csv",
+      "50_Freigaberunde_Entscheidung_offen.eml"
+    ],
+    "received": "2026-11-04T11:18:00+01:00",
+    "sender": "Bauleitung Weserbogen <bauleitung.weserbogen@krimpfort.example>",
+    "recipient": "Projekteinkauf <einkauf@krimpfort.example>",
+    "subject": "Etappe C | Fotos vom Wandanschluss angefordert",
+    "letter": "Ich war mit der Trockenbaukolonne oben im vierten Geschoss. Im Plan haben die zehn Büroöffnungen am Sonderuntergrund alle dieselbe Kennung W-S. Vor Ort sind drei davon schon einseitig beplankt. Das Register listet das Sollmaß der Rohbauöffnung. Die Kollegen im Einkauf fragten nach dem Befestigungsraum hinter der sichtbaren Kante. Der ist bei geschlossener Platte ohne weitere Unterlage nicht zu sehen.\n\nFür den Aufmaßtermin haben wir die ersten vier Türen auf dem Laufzettel markiert. Bitte die Einträge als Stichprobe führen. Wer den Hersteller nach einer Bestätigung fragt, sollte den konkreten Aufbau mitgeben. Die zehn Öffnungen gehören bereits zur Gesamtmenge von 500.",
+    "register": "Begehungsliste Ebene E4 · Ausschnitt",
+    "rows": [
+      [
+        "Tür-ID",
+        "LV-Typ",
+        "Soll B × H mm",
+        "Sichtprüfung am 04.11."
+      ],
+      [
+        "E4-073",
+        "B2 / W-S",
+        "1135 × 2135",
+        "beidseitig zugänglich"
+      ],
+      [
+        "E4-074",
+        "B2 / W-S",
+        "1135 × 2135",
+        "Rohseite einsehbar"
+      ],
+      [
+        "E4-075",
+        "B2 / W-S",
+        "1135 × 2135",
+        "einseitig geschlossen"
+      ],
+      [
+        "E4-076",
+        "B2 / W-S",
+        "1135 × 2135",
+        "einseitig geschlossen"
+      ]
+    ],
+    "later": "2026-12-07T08:35:00+01:00",
+    "office": "Krimpfort SE & Co. KG · Bauleitung Weserbogen",
+    "heading": "Aufmaßblatt zum Sonderanschluss am 7. Dezember",
+    "paragraphs": "Zwei der vier Stellen wurden heute vor dem Schließen fotografiert und mit der Planposition abgeglichen. Bei E4-075 ist nur das Maß an der Vorderkante zugänglich gewesen. Die Hinterlegung wurde dort nicht geöffnet. Für E4-076 war der Arbeitsbereich wegen einer anderen Kolonne belegt. Es wurde kein Ersatzwert aus der Nachbarachse übernommen.\n\nDiese Unterlage beantwortet die Aufmaßfrage an einzelnen Stellen. Die Lieferanten müssen zur angebotenen Systemfamilie und zum Anschluss an den vorhandenen Untergrund Stellung nehmen. Die Bauleitung hat weder eine Familie freigegeben noch den Zusatzpreis einer Montagevariante anerkannt. Die Fotos bleiben im Bautagebuch unter den untenstehenden Kennungen abrufbar.",
+    "second_register": "Aufmaß 07.12. · Ausschnitt Ebene E4",
+    "second_rows": [
+      [
+        "Tür-ID",
+        "Breite vorn mm",
+        "Bildkennung",
+        "Hinterlegung gesehen"
+      ],
+      [
+        "E4-073",
+        "1134",
+        "BT-411",
+        "ja"
+      ],
+      [
+        "E4-074",
+        "1137",
+        "BT-412",
+        "ja"
+      ],
+      [
+        "E4-075",
+        "1135",
+        "BT-413",
+        "offen"
+      ],
+      [
+        "E4-076",
+        "nicht gemessen",
+        "keine",
+        "offen"
+      ]
+    ],
+    "auftrag": "Vergleichen Sie die Stichprobe mit den zehn W-S-Einträgen. Welche Lieferantenaussage muss für welche Öffnung eingeholt werden, bevor der Einkauf die Systemfrage bewerten kann?",
+    "baseline": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip",
+      "sha256": "d7397a21fdc4f67aec23c8c2fd258bde8b15696dd5c1f92fc4f3ff23fd793701"
+    }
+  },
+  {
+    "path": "testakten/bauunternehmer-einkauf-lueftungszentralen-krimpfort",
+    "title": "Die Pumpenleitung hinter Gerät S03",
+    "anchors": [
+      "Nachlauf/01_Betriebsleitung_Terminfenster.eml",
+      "Nachlauf/06_PolderVent_Anschlussdaten.csv"
+    ],
+    "received": "2026-10-15T13:20:00+02:00",
+    "sender": "TGA-Koordination <tga.huntepark@krimpfort.example>",
+    "recipient": "Maren Franke <maren.franke@krimpfort.example>",
+    "subject": "S01 bis S03 | Vorleistung zwischen Gerät und Schacht",
+    "letter": "In der Vorbesprechung lagen zwei überlagerte Grundrisse auf dem Tisch. Bei S03 befindet sich der Schacht auf dem neueren Blatt auf der anderen Seite des Wartungsgangs. Der zunächst eingetragene Weg war die Luftlinie zwischen Achsen. Wir brauchen die wirkliche Trasse einschließlich des Bogens um die Revisionsfläche, falls ein Gerät eine externe Pumpengruppe benötigt.\n\nFür S01 und S02 habe ich den Gang gemessen. Bei S03 blieb die Schleuse zum Nachbarbereich während des Klinikbetriebs zu. Nehmen Sie den offenen Wert bitte in die Rückfragen an die Anbieter auf. Das Leistungsverzeichnis ist heute bereits versandt worden.",
+    "register": "TGA-Aufmaß · südlicher Technikgang",
+    "rows": [
+      [
+        "Gerät",
+        "Streckenanteil",
+        "Länge m",
+        "Status"
+      ],
+      [
+        "S01",
+        "Gerät bis Anschluss",
+        "5,0",
+        "vor Ort"
+      ],
+      [
+        "S02",
+        "Gerät bis Anschluss",
+        "5,0",
+        "vor Ort"
+      ],
+      [
+        "S03",
+        "Achse bis Schacht",
+        "4,2",
+        "Plan, Luftlinie"
+      ],
+      [
+        "S03",
+        "Umgehung Revisionsfläche",
+        "offen",
+        "Schleuse gesperrt"
+      ]
+    ],
+    "later": "2026-11-10T15:45:00+01:00",
+    "office": "Klinik am Huntepark · Technischer Betrieb",
+    "heading": "Befund nach Zugang zum Technikgang S03",
+    "paragraphs": "Mit dem Bereitschaftsdienst konnten wir heute den Schacht im südlichen Gang begehen. Gemessen wurde die Strecke einer Leitung entlang der vorgesehenen Trasse, vom Gerätestutzen zunächst bis zur Revisionskante und von dort bis zur vorgesehenen Pumpenstation. Erforderliche Vor- und Rückläufe sind bei einer Mengenermittlung gesondert anzusetzen. Die Preiseinheit im konkreten Angebot ist dafür zu klären.\n\nDer Zugang für das Aufmaß sichert noch keine Freigabe für die nächtliche Einbringung. Die Klinik entscheidet über die vierstündigen Betriebsfenster mit dem Bereitschaftsdienst. Bauliche Durchbrüche und die endgültige Stationsanordnung sind von der TGA-Planung zu bestätigen. Der Preis für das Zusatzstück ist in diesem Blatt offen.",
+    "second_register": "S03 · Einfache Trasse vorläufiger Stationsort",
+    "second_rows": [
+      [
+        "Teilweg",
+        "Start",
+        "Ende",
+        "m"
+      ],
+      [
+        "1",
+        "Stutzen S03",
+        "Revisionskante",
+        "3,1"
+      ],
+      [
+        "2",
+        "Revisionskante",
+        "Wandbogen",
+        "2,4"
+      ],
+      [
+        "3",
+        "Wandbogen",
+        "Stationsachse",
+        "2,0"
+      ]
+    ],
+    "auftrag": "Ermitteln Sie den vorläufigen Trassenbedarf für S03. Halten Sie die Maßeinheit des Angebots und die Rückfrage zur nächtlichen Einbringung getrennt.",
+    "baseline": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-lueftungszentralen-krimpfort.zip",
+      "sha256": "0add372c16b22bcc647d0172ef37d14c6b035c978505cf7d320d482e58563ee5"
+    }
+  },
+  {
+    "path": "testakten/notariat-berlin-mumbai-gesellschafterliste",
+    "title": "Das Registerbuch im zweiten Archivkasten",
+    "anchors": [
+      "32_Deshmukh_kein_zweiter_Berlinflug.eml",
+      "34_Rao_Vollmachtsweg_noch_offen.eml"
+    ],
+    "received": "2026-11-06T11:38:00+01:00",
+    "sender": "Kavita Rao <kavita.rao@konkan-meridian.example>",
+    "recipient": "Dr. Fenja Linden <kanzlei@linden-notariat.example>",
+    "subject": "Spreekern | Minute book and office copies",
+    "letter": "Dear Dr Linden, the board papers and the signed minute book are kept in different cabinets. I have asked the records desk for both. The working scan marked BM-09-C came from the folder used to circulate the text ahead of the meeting. The signed resolutions already sent to Berlin are filed separately. The label on the folder only records its creation date. It does not say when the directors gave their consent.\n\nThe book with the signatures has not been sent to Berlin. Our local adviser is welcome to view the relevant pages in Mumbai and describe precisely what was inspected. Please tell us which date and which transaction the report is to address. The records desk cannot certify the legal consequences of an appointment or of an act already carried out.",
+    "register": "Office records · Mumbai / dispatch register",
+    "rows": [
+      [
+        "Reference",
+        "Date shown",
+        "Record type",
+        "Custody"
+      ],
+      [
+        "BM-09-C",
+        "01 Sep 2026",
+        "circulation folder",
+        "board office"
+      ],
+      [
+        "M-2024-D",
+        "2024",
+        "appointment papers",
+        "company archive"
+      ],
+      [
+        "SPA-BE",
+        "12 Oct 2026",
+        "Berlin appointment",
+        "transaction file"
+      ],
+      [
+        "POA-11",
+        "06 Nov 2026",
+        "draft for discussion",
+        "company secretary"
+      ]
+    ],
+    "later": "2026-11-10T10:55:00+01:00",
+    "office": "Notariat Dr. Fenja Linden · Berlin",
+    "heading": "Telefonvermerk über den Abgleich der Büroexemplare",
+    "paragraphs": "Frau Rao rief auf die Anforderung nach dem Sitzungsbuch zurück. Im Archiv liegt jetzt ein gebundener Band bereit. Der vorgelegte Auszug und die bereits übersandte Umlauffassung tragen dieselbe Vorgangsnummer. Ein sichtbarer Vermerk auf der Rückseite des Archivblatts ist im Scan der Umlauffassung nicht enthalten. Auf Nachfrage erklärte Frau Rao, sie habe den Band am Telefon vorliegen, könne aber weder die Unterschriften beglaubigen noch den genauen Zeitpunkt der Eintragung aus eigener Wahrnehmung bestätigen.\n\nEine schriftliche Auskunft des örtlichen Beraters ist angefragt. Die Bestellung der handelnden Person, die Befugnis zum konkreten Anteilsgeschäft am 12. Oktober und die Zeichnung eines heute erwogenen Vollmachts- oder Genehmigungsdokuments werden dafür als drei getrennte Fragen formuliert. Das System zeigt keinen Versand einer unterzeichneten neuen Vollmacht. Bislang handelt es sich um einen Telefonbefund.",
+    "second_register": "Vollzugsakte · Nachforderungskontrolle",
+    "second_rows": [
+      [
+        "Dokument",
+        "Stand 10.11.",
+        "Vorgelegt als"
+      ],
+      [
+        "Sitzungsbuch",
+        "zur Einsicht in Mumbai",
+        "telefonisch beschrieben"
+      ],
+      [
+        "Auszug für die Akte",
+        "angefragt",
+        "noch nicht eingegangen"
+      ],
+      [
+        "Entwurf Spezialvollmacht",
+        "Arbeitsstand",
+        "nicht unterzeichnet"
+      ]
+    ],
+    "auftrag": "Formulieren Sie die präzise Anforderung an den örtlichen Berater. Ordnen Sie Unterlagen, Beweiswert und Bezugsdatum für Bestellung, Anteilskauf und mögliche Vollmacht.",
+    "baseline": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-notariat-berlin-mumbai-gesellschafterliste.zip",
+      "sha256": "65bdd4e7df417deb700c6efcd3331cbb762f352cfc6ab773ea9de0bb43be3267"
+    }
+  },
+  {
+    "path": "testakten/notariat-berlin-vae-vertretungsnachweis",
+    "title": "Zwei Dinge in einem Kurierumschlag",
+    "anchors": [
+      "31_Originalbefund_Legalisationskette.pdf",
+      "32_Farouqi_Vollmachtsentwurf_ohne_Ausfuehrung.eml"
+    ],
+    "received": "2026-11-06T13:05:00+01:00",
+    "sender": "Lina Farouqi <lina.farouqi@alsafa-horizon.example>",
+    "recipient": "Dr. Joris Wendt <kanzlei@wendt-notariat.example>",
+    "subject": "Havelquarz | filing desk copy list",
+    "letter": "Dear Dr Wendt, our assistant put the copy certificate and a printout of the proposed authority on the same desk for scanning. The printout has a different paper size and was not attached when the copy was compared on 23 October. I am sending the desk list so that the administrative grouping is not mistaken for a single instrument.\n\nThe consultant has been asked for the wording in force on the date of the share purchase. She has not yet returned a written answer. There is no appointment for a signature on the proposed power. Please quote the separate references if you ask the bank which item it still needs.",
+    "register": "Dubai filing desk · counter list",
+    "rows": [
+      [
+        "Item",
+        "Reference",
+        "Date on document",
+        "Desk marking"
+      ],
+      [
+        "Memorandum amendment",
+        "DN-2026-1007-5638",
+        "07 Oct",
+        "A"
+      ],
+      [
+        "Copy comparison",
+        "DCR-2026-1023-9914",
+        "23 Oct",
+        "A"
+      ],
+      [
+        "Proposed authority",
+        "PA-HQ-W1",
+        "06 Nov",
+        "B – loose sheet"
+      ]
+    ],
+    "later": "2026-11-10T09:30:00+01:00",
+    "office": "Notariat Dr. Joris Wendt · Vollzug",
+    "heading": "Abgleich des zweiten Kurierumschlags",
+    "paragraphs": "Die Geschäftsstelle hat die heute eingegangene Arbeitssendung geöffnet. Das anliegende Verzeichnis nennt nochmals die Referenz DCR-2026-1023-9914. In der Sendung lag hierzu ein weiterer Büroausdruck. Das geheftete Stück aus dem früheren Eingang ist weiterhin gesondert aufbewahrt. Der zweite Umschlag enthält daneben eine lose, nicht unterschriebene Fassung PA-HQ-W1.\n\nDie Sachbearbeitung hat beide Eingänge unter verschiedenen Blattnummern erfasst und die früheren Befestigungen unangetastet gelassen. Die Anlage gibt die Eingangsbeobachtung wieder. Eine Entscheidung über die Zeichnungsberechtigung am 14. Oktober, den Inhalt der früher bescheinigten Kopie oder die Ausführung einer neuen Vollmacht ist damit nicht verbunden.",
+    "second_register": "Posteingang · Nebenakte UVZ 527/2026",
+    "second_rows": [
+      [
+        "Teil",
+        "Referenz auf Blatt",
+        "Merkmal",
+        "Ablage"
+      ],
+      [
+        "Begleitliste",
+        "DCR-2026-1023-9914",
+        "Büroausdruck",
+        "Arbeitskorrespondenz"
+      ],
+      [
+        "Loser Entwurf",
+        "PA-HQ-W1",
+        "keine Unterschrift",
+        "Entwürfe"
+      ],
+      [
+        "Vorbestand",
+        "DN-2026-1007-5638",
+        "bestehender Verbund",
+        "unverändert"
+      ]
+    ],
+    "auftrag": "Stellen Sie den Dokumentenweg je Schriftstück dar. Welche Frage an die örtliche Fachperson ist nach Eingang des zweiten Umschlags weiterhin offen?",
+    "baseline": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-notariat-berlin-vae-vertretungsnachweis.zip",
+      "sha256": "53e67b43a04f675589b138419d390cea46beba9cd1265c2a47bd3217cd44fc2c"
+    }
+  }
+]

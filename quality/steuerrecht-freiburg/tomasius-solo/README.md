@@ -44,3 +44,22 @@ Der Nachtrag ergänzt 22 Dateien. Die 379 bisherigen Aktenstücke sind bytegleic
 [Fachskill](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/SKILL.md) · [Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/ustva/werkstatt.md) · [Mini](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/ustva/mini.md)
 
 [Freiburger Steuerwerkstatt](../README.md) · [Steuerrechts-Plugin](../../../steuerrecht-anwalt-und-berater/README.md)
+
+<!-- BEGIN praxisnachtrag-2026-11 -->
+## Belegnachtrag · Vier Hauskostenbuchungen für die Wohnung in Rom
+
+Am 14.01.2026 um 16:20 Uhr geht die E-Mail „LT7-2025 | Welche Zahl steht neben der Miete?“ mit dem Datenauszug „Quartalsblatt Interno 7 · Belegversand“ ein. Beides liegt in der Vollakte unter `Praxisnachtrag/Grundakte`. Am 22.01.2026 um 09:45 Uhr folgen „Abstimmblatt vor Freigabe der Nebenkostenmitteilung“ und „Mietmodul · Beispiel einer Zahlungsreferenz“ im separaten Ordner `Praxisnachtrag/Nachlieferung`. Für die Vorführung lassen sich die beiden Eingänge zeitlich getrennt öffnen.
+
+Rekonstruieren Sie Zuflüsse und Vorschusssaldo für 2025 auf Basis der zwölf Bankgutschriften. Markieren Sie noch benötigte Belege zur persönlichen Zurechnung und zum italienischen Steuerverfahren.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlagen | Download |
+| --- | --- |
+| Vollständige Originalakte mit beiden Eingängen | [Vollakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/tomasius-solo-mit-nachtrag.zip) |
+| Vier zusätzliche Belege in EML, CSV und PDF | [Nachtrag in Originalformaten](../../../docs/testakten-praxisnachtraege/tomasius-solo-nachtrag.zip) |
+| Dieselben vier Belege als Einzeldokumente | [Vier Einzel-PDFs als ZIP](../../../docs/testakten-praxisnachtraege/tomasius-solo-nachtrag-einzelpdfs.zip) |
+| Lesefassung nur dieser vier Belege | [Vierseitiges PDF mit Lesezeichen](../../../docs/testakten-praxisnachtraege/tomasius-solo-nachtrag.pdf) |
+<!-- END praxisnachtrag-2026-11 -->

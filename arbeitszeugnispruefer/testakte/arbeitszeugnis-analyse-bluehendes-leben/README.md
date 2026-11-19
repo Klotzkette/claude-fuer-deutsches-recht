@@ -2,6 +2,16 @@
 
 Diese Aktenmappe begleitet das Plugin [`arbeitszeugnispruefer`](../../README.md) mit zehn Arbeitszeugnissen aus verschiedenen Branchen und Berufen. Die Unterlagen sind formal freundlich, im üblichen Wohlwollens-Stil verfasst und enthalten bewusst unterschiedliche Noten- und Signalebenen.
 
+## Vollakte mit Originalbelegen und Nachreichungen
+
+Für Hartmut Greifenklau lässt sich das Zeugnis mit der Einsatzdokumentation zur Gruppenanreise und der späteren Rückmeldung der Hoteldirektorin vergleichen. Im getrennten Floristikvorgang fragt Wiebke Hagedorn nach einer Kassendifferenz. Die spätere Nachricht über einen Wechselgeldumschlag gibt Anlass, die erste Einschätzung zu überprüfen. Die späteren Nachreichungen stehen in einem eigenen Ordner.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Vollakte mit Nachträgen herunterladen (ZIP)](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnispruefer-mit-nachtrag.zip)
+
 ## Akte komplett lesen
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.

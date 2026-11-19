@@ -1,0 +1,44 @@
+From: insolvenzservice@kieler-volksbank.testakte.example
+To: m.clausen@hartmann.testakte.example
+Date: Wed, 24 Apr 2024 10:16:00 +0200
+Subject: 10 IN 127/13 =?utf-8?b?4oCT?= Buchungsjournal zum Zahlungslauf
+In-Reply-To: <09_bank_bestaetigung_zahlungslauf@testakte.example>
+Message-ID:
+ <insolvenzverwaltung-nordlicht-handels-kiel.nachtrag@aktenpost.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="akte-689b0ee6c98179a59eda01d3"
+
+--akte-689b0ee6c98179a59eda01d3
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Guten Morgen Frau Clausen,
+
+auf Ihren R=C3=BCckruf sende ich Ihnen das Protokoll zur Sammel=C3=BCberweisu=
+ng. Die um 09:00 Uhr am Dienstag abgefragte R=C3=BCckl=C3=A4uferliste ist ein=
+ eigener Abfragebestand. Sie enth=C3=A4lt keinen Nachweis daf=C3=BCr, wann ei=
+nzelne Empf=C3=A4ngerbanken gutgeschrieben haben. Im telefonischen Gespr=C3=
+=A4ch war die Zahl 120.462 Euro zweimal gefallen. Die erste Anzeige war die S=
+umme der freigegebenen Datei, die zweite die Belastung Ihres Kontos.
+
+Beide Anzeigen geh=C3=B6ren zur selben Ausf=C3=BChrung. Bitte verwenden Sie f=
+=C3=BCr die Abstimmung den Laufbezug NL-SV-2204. Aus dem beigef=C3=BCgten Kon=
+trollstreifen lassen sich weder einzelne Gl=C3=A4ubiger noch ihre Empfangszei=
+tpunkte entnehmen. Falls daf=C3=BCr Einzelnachweise ben=C3=B6tigt werden, geb=
+en Sie uns bitte die betreffende Zahlungsreferenz an.
+
+Insolvenzservice, Kieler Volksbank
+
+--akte-689b0ee6c98179a59eda01d3
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Zahlungslauf_Kontrollstreifen.csv"
+Content-Type: text/csv; charset="utf-8"
+MIME-Version: 1.0
+
+QmV6dWc7WmVpdDtCdWNodW5nc2FydDtLb250b3dpcmt1bmcgRVVSO0tvbnRyb2xsc3VtbWUgRVVS
+DQpOTC1TVi0yMjA0OzIyLjA0LjIwMjQ7RnJlaWdhYmUgRGF0ZWk7MCwwMDsxMjA0NjIsMDANCk5M
+LVNWLTIyMDQ7MjIuMDQuMjAyNDtBdXNmw7xocnVuZyBTYW1tZWzDvGJlcndlaXN1bmc7LTEyMDQ2
+MiwwMDsxMjA0NjIsMDANCk5MLVNWLTIyMDQ7MjMuMDQuMjAyNCAwOTowMDtSw7xja2zDpHVmZXJh
+YmZyYWdlOzAsMDA7MCwwMA0K
+
+--akte-689b0ee6c98179a59eda01d3--

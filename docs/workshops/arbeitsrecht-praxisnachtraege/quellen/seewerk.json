@@ -1,0 +1,21 @@
+[
+  {
+    "filename": "E17_Teilantwort_Wartungsfenster.eml",
+    "sender": "Datenschutzpostfach Seewerk <datenschutz@seewerk-guss.example>",
+    "recipient": "Daniel Muster <daniel.muster@privatpost.example>",
+    "date": "Mon, 23 Nov 2026 11:46:00 +0100",
+    "id": "<sw-ds-20417-231126-1146@seewerk-guss.example>",
+    "subject": "Ihre Anfrage vom 29. Oktober – technischer Auszug zum 16. Oktober",
+    "attachment": "E18_Anlagenjournal_16_Oktober_2026.csv",
+    "body": "Sehr geehrter Herr Muster,\n\nSie hatten im Personalgespräch auch nach der Datengrundlage für den Abgleich mit Ihrer Frühschicht gefragt. Die Instandhaltung hat heute Morgen die Ereignisse der Schmelzanlage 1 für das Zeitfenster 05:55 bis 08:05 Uhr am 16. Oktober exportiert. Sie erhalten diese Datei in der von der Instandhaltung gelieferten Form. Das System protokolliert Ortszeit am Werk Radolfzell. Jede Zeile zeigt einen Zustandswechsel. Zwischen zwei Zeilen wird kein fortlaufender Takt gespeichert.\n\nDie Meldungen mit dem Auslöser »SPS« erzeugt die Anlagensteuerung. Die Grenzen des Wartungsfensters werden aus dem Instandhaltungsjournal eingespielt. Der Probelauf vor 08:00 Uhr zählt im Chargenbuch nicht als Produktionslauf. Der Export enthält weder Anmeldekennungen von Beschäftigten noch Aufzeichnungen des Zeiterfassungsterminals.\n\nMit dieser Nachricht beantworten wir zunächst die technische Rückfrage. Die Prüfung Ihrer Anfrage nach weiteren personenbezogenen Daten und den Kameraaufzeichnungen ist noch nicht abgeschlossen. Eine Videodatei ist dieser Antwort nicht beigefügt.\n\nMit freundlichen Grüßen\nDatenschutzpostfach · Werk Radolfzell\nSeewerk Präzisionsguss GmbH"
+  },
+  {
+    "filename": "E19_Mandantenpost_nach_Teilantwort.eml",
+    "sender": "Daniel Muster <daniel.muster@privatpost.example>",
+    "recipient": "Rechtsanwältin Lea Brandt <lea.brandt@seeblick-recht.example>",
+    "date": "Mon, 23 Nov 2026 12:23:00 +0100",
+    "id": "<dm-231126-1223@privatpost.example>",
+    "subject": "Nachtrag zu meiner Mail von heute Morgen – Testlauf am 16.10.",
+    "body": "Sehr geehrte Frau Brandt,\n\nkurz vor zwölf ist zum ersten Mal etwas aus dem Datenschutzpostfach gekommen, das über die Eingangsbestätigung hinausgeht. Die Nachricht und die Tabelle habe ich im gemeinsamen Mandatsordner im Original abgelegt. Zum Zeitpunkt meiner Nachricht von heute Morgen hatte ich beides noch nicht. Über die Kamera schreiben sie nur, dass sie das noch prüfen.\n\nDer Begriff Testlauf wird im Werk oft missverstanden. Bei einer Funktionskontrolle kann die Anlage schon melden, dass sie läuft, obwohl noch gar keine Charge aufgelegt ist. Als Schichtleiter konnte ich während einer Wartung auch am Schichtbuch im Nebenraum arbeiten. Für den 16. Oktober kann ich heute nicht mehr jeder Viertelstunde eine bestimmte Tätigkeit oder Person zuordnen. Insbesondere weiß ich nicht, wer um 07:53 Uhr am Bedienpult stand.\n\nDie Uhr am Zeiterfassungsterminal hing am Eingang beim Umkleidetrakt. Ob diese Uhr mit der Steuerung der Schmelzanlage synchronisiert war, ist mir nicht bekannt. Mir ist wichtig, dass die Tabelle nicht als Liste meiner persönlichen An- und Abmeldungen verstanden wird. Zur Frühschicht würde ich gerne mit Ihnen das Chargenbuch und meinen Schichtplan noch einmal nebeneinander ansehen.\n\nMit freundlichen Grüßen\nDaniel Muster"
+  }
+]

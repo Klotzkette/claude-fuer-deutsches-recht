@@ -130,3 +130,22 @@ Das Einzel-PDF-ZIP enthält die Lesefassungen der einzelnen Dokumente. Die Lesez
 English: The original-format ZIP starts with the initial records under `Grundakte`. They include planning, market research, the final bill of quantities and the first four bids. Later correspondence is available outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
+
+<!-- BEGIN praxisnachtrag-2026-11 -->
+## Belegnachtrag · Die Rückwand hinter E4-075
+
+Am 04.11.2026 um 11:18 Uhr geht die E-Mail „Etappe C | Fotos vom Wandanschluss angefordert“ mit dem Datenauszug „Begehungsliste Ebene E4 · Ausschnitt“ ein. Beides liegt in der Vollakte unter `Praxisnachtrag/Grundakte`. Am 07.12.2026 um 08:35 Uhr folgen „Aufmaßblatt zum Sonderanschluss am 7. Dezember“ und „Aufmaß 07.12. · Ausschnitt Ebene E4“ im separaten Ordner `Praxisnachtrag/Nachlieferung`. Für die Vorführung lassen sich die beiden Eingänge zeitlich getrennt öffnen.
+
+Vergleichen Sie die Stichprobe mit den zehn W-S-Einträgen. Welche Lieferantenaussage muss für welche Öffnung eingeholt werden, bevor der Einkauf die Systemfrage bewerten kann?
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlagen | Download |
+| --- | --- |
+| Vollständige Originalakte mit beiden Eingängen | [Vollakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/bauunternehmer-einkauf-brandschutztueren-krimpfort-mit-nachtrag.zip) |
+| Vier zusätzliche Belege in EML, CSV und PDF | [Nachtrag in Originalformaten](../../docs/testakten-praxisnachtraege/bauunternehmer-einkauf-brandschutztueren-krimpfort-nachtrag.zip) |
+| Dieselben vier Belege als Einzeldokumente | [Vier Einzel-PDFs als ZIP](../../docs/testakten-praxisnachtraege/bauunternehmer-einkauf-brandschutztueren-krimpfort-nachtrag-einzelpdfs.zip) |
+| Lesefassung nur dieser vier Belege | [Vierseitiges PDF mit Lesezeichen](../../docs/testakten-praxisnachtraege/bauunternehmer-einkauf-brandschutztueren-krimpfort-nachtrag.pdf) |
+<!-- END praxisnachtrag-2026-11 -->

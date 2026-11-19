@@ -181,3 +181,13 @@ Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blanko
 | Insolvenzplan Möbelwerk Havelberg GmbH | [Datei öffnen](pruefmaterial-insolvenz/insolvenzplan-moebelwerk-havelberg.docx) |
 
 <!-- END pruefmaterial-insolvenz -->
+
+## Weitere Unterlagen im Mandat
+
+Der ergänzende Kontennachweis macht die zwei Zahlungsbuchungen und die Anrechnung in der Forderungskartei getrennt nachvollziehbar. Die Vollakte enthält die bisherige Originalfassung und beide zusätzlichen Belege im Ordner `Nachlieferung`. Die separat angebotenen PDF-Fassungen zeigen den vorherigen Aktenstand.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Vollständige Originalakte mit Nachlieferung herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren-mit-nachtrag.zip)

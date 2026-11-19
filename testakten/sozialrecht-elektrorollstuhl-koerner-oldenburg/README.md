@@ -121,3 +121,22 @@ Die Akte ist so angelegt, dass mit ihr drei Rollen sofort arbeiten können:
 ## Hinweis zur Bearbeitung
 
 Die Bewertung von Gehfähigkeit, Eignung der Alternativen und Erfolgsaussichten ist anhand der medizinischen Befunde, des gerichtlichen Gutachtens und der angeführten Rechtsprechung vorzunehmen. Parteivortrag, medizinische Feststellungen und gerichtliche Beweisaufnahme bleiben in den Aktenstücken nachvollziehbar getrennt.
+
+<!-- BEGIN praxisnachtrag-2026-11 -->
+## Belegnachtrag · Mit dem Schlüssel vor der Hoftür
+
+Am 10.06.2026 um 08:42 Uhr geht die E-Mail „Hofsteg am Theaterwall | Termin zur Türprobe“ mit dem Datenauszug „Theaterwall 62 · Reinigungsplan Erdgeschoss“ ein. Beides liegt in der Vollakte unter `Praxisnachtrag/Grundakte`. Am 16.06.2026 um 15:10 Uhr folgen „Zusatztermin am unteren Hofzugang“ und „Beobachtungsblatt 16. Juni · Hofseite“ im separaten Ordner `Praxisnachtrag/Nachlieferung`. Für die Vorführung lassen sich die beiden Eingänge zeitlich getrennt öffnen.
+
+Prüfen Sie, welche Teilstrecke selbstständig nutzbar war. Benennen Sie den noch fehlenden Nachweis für den gesamten Weg von der Wohnung auf die Straße.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlagen | Download |
+| --- | --- |
+| Vollständige Originalakte mit beiden Eingängen | [Vollakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/sozialrecht-elektrorollstuhl-koerner-oldenburg-mit-nachtrag.zip) |
+| Vier zusätzliche Belege in EML, CSV und PDF | [Nachtrag in Originalformaten](../../docs/testakten-praxisnachtraege/sozialrecht-elektrorollstuhl-koerner-oldenburg-nachtrag.zip) |
+| Dieselben vier Belege als Einzeldokumente | [Vier Einzel-PDFs als ZIP](../../docs/testakten-praxisnachtraege/sozialrecht-elektrorollstuhl-koerner-oldenburg-nachtrag-einzelpdfs.zip) |
+| Lesefassung nur dieser vier Belege | [Vierseitiges PDF mit Lesezeichen](../../docs/testakten-praxisnachtraege/sozialrecht-elektrorollstuhl-koerner-oldenburg-nachtrag.pdf) |
+<!-- END praxisnachtrag-2026-11 -->

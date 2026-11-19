@@ -1,0 +1,68 @@
+Date: Wed, 15 Jul 2026 16:42:00 +0200
+Message-ID: <PR-R2@akteneingang.example>
+In-Reply-To: <PR-R1@akteneingang.example>
+From: Finja Klaas <kontoservice@uckermark-kontorbank.example>
+To: Frida von Weiden <eingang@uckerwerft.example>
+Subject: AW: 15 IN 983/26 | Kartenreserve und =?utf-8?q?Verf=C3=BCgungsstand?=
+ um acht Uhr
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--PR-AUSKUNFT-20260715"
+
+----PR-AUSKUNFT-20260715
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Frau von Weiden,
+
+die beiden Ansichten stammen vom selben Konto, aber aus zwei Uhrzeiten. Der B=
+etrag von 55.000 Euro wurde am 18. Mai um 08:05 Uhr f=C3=BCr R=C3=BCckbelastu=
+ngen gesperrt. Die Bank hat daf=C3=BCr kein zweites Konto belastet. Nach Sper=
+rsetzung konnte die Disposition bis zu 40.000 Euro verwenden. Die angezeigten=
+ 75.000 Euro Kreditrahmen sind bereits ausgesch=C3=B6pft.
+
+Dem Archivexport liegen die Zeitstempel des Buchungssystems zugrunde. Bis zum=
+ 8. Juni ist im Reservenjournal keine Freigabe verzeichnet. Innerhalb dieses =
+Zeitraums ist auch keine der reservierten Kartenbuchungen r=C3=BCckbelastet w=
+orden. F=C3=BCr die weitere Verwertbarkeit m=C3=BCssen Sie die Sicherungsabre=
+de und die noch offenen Kartenrisiken gesondert w=C3=BCrdigen.
+
+Mit freundlichen Gr=C3=BC=C3=9Fen
+Finja Klaas, Kontoservice
+
+----PR-AUSKUNFT-20260715
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="03_Dispositionsjournal.csv"
+MIME-Version: 1.0
+
+77u/WmVpdF9NRVNaO0tvbnRvYW5zaWNodDtCdWNoc2FsZG9fRVVSO1Jlc2VydmllcnRfRVVSO1Zl
+cmZ1ZWdiYXJfRVVSO1F1ZWxsZQ0KMTguMDUuMjAyNiAwNzo1ODt2b3IgVGFnZXNkaXNwb3NpdGlv
+bjs5NTAwMCwwMDswLDAwOzk1MDAwLDAwO0t1bmRlbmFuemVpZ2Ugdm9yIFNwZXJyc2V0enVuZw0K
+MTguMDUuMjAyNiAwODowNTtTcGVycmUgYWt0aXY7OTUwMDAsMDA7NTUwMDAsMDA7NDAwMDAsMDA7
+S2FydGVudmVydHJhZyBaaWZmZXIgOA0KMTguMDUuMjAyNiAxMDoyMDtEaXNwb3NpdGlvbnNhYmZy
+YWdlOzk1MDAwLDAwOzU1MDAwLDAwOzQwMDAwLDAwO2VybmV1dGUgQWJmcmFnZSBGaXJtZW5rYXNz
+ZQ0K
+
+----PR-AUSKUNFT-20260715
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="04_Disponentenbuch.txt"
+MIME-Version: 1.0
+
+VWNrZXJib2dlbiBSb3RvcmNoYXJ0ZXIgR21iSCAvIERpZW5zdMO8YmVyZ2FiZSB2b20gMTguIE1h
+aSAyMDI2CjA3OjU4IERpZSBGcsO8aHNjaGljaHQgw7xiZXJuaW1tdCBkaWUgc2VjaHMgTWFzY2hp
+bmVuIGltIEVpbnNhdHpwbGFuLiBBdWYgZGVtIFBhcGllcmF1c2RydWNrIGbDvHJzIFdvY2hlbmVu
+ZGUgc3RlaHQgbm9jaCBkZXIgQnVjaHNhbGRvLiBCZWltIMOWZmZuZW4gZGVyIEZpcm1lbmt1bmRl
+bmFuc2ljaHQgZXJzY2hlaW50IHp1ZXJzdCBkaWUgVW1zYXR6c2VpdGUgdW5kIG5hY2ggZWluZW0g
+d2VpdGVyZW4gS2xpY2sgZGllIERpc3Bvc2l0aW9uLgowODoxMSBEaWUgRGlzcG9uZW50aW4gdmVy
+bWVya3Qg4oCeNTUgZ2VzcGVycnTigJwgYXVmIGRlbSBUYWdlc2JsYXR0IHVuZCBsZWd0IGRpZSBa
+YWhsdW5nc2xpc3RlIHp1ciBSw7xja3NwcmFjaGUgaW5zIFBvc3RmYWNoIGRlciBCZXRyaWVic2xl
+aXR1bmcuIERlciBQaWxvdCBhbSBWb3JmZWxkIHdpcmQgYXVmIGRlbiB2ZXJlaW5iYXJ0ZW4gVGFu
+a2tyZWRpdCBkZXIgU3RhdGlvbiB2ZXJ3aWVzZW4uIEVpbmUgw5xiZXJ3ZWlzdW5nIHdpcmQgYmVp
+IGRpZXNlciBBYmZyYWdlIG5pY2h0IGF1c2dlbMO2c3QuCjEwOjIwIEVybmV1dGUgQW5tZWxkdW5n
+IGR1cmNoIGRpZSBGaXJtZW5rYXNzZS4gRGllIFJlc2VydmUgc3RlaHQgdW52ZXLDpG5kZXJ0IGlt
+IERpc3Bvc2l0aW9uc2ZlbnN0ZXIuIERlciBCdWNoc2FsZG8gYXVmIGRlciBVbXNhdHpzZWl0ZSB6
+ZWlndCB1bnZlcsOkbmRlcnQgOTUuMDAwIEV1cm8uIERpZSBiZWlkZW4gQWJmcmFnZW4gd2VyZGVu
+IGRlbSBLb250b3NlcnZpY2UgenVyIHNww6R0ZXJlbiBLbMOkcnVuZyB2b3JnZW1lcmt0Lgo=
+
+----PR-AUSKUNFT-20260715--

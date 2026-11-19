@@ -93,3 +93,22 @@ Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF st
 English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
+
+<!-- BEGIN praxisnachtrag-2026-11 -->
+## Belegnachtrag · Zwei Dinge in einem Kurierumschlag
+
+Am 06.11.2026 um 13:05 Uhr geht die E-Mail „Havelquarz | filing desk copy list“ mit dem Datenauszug „Dubai filing desk · counter list“ ein. Beides liegt in der Vollakte unter `Praxisnachtrag/Grundakte`. Am 10.11.2026 um 09:30 Uhr folgen „Abgleich des zweiten Kurierumschlags“ und „Posteingang · Nebenakte UVZ 527/2026“ im separaten Ordner `Praxisnachtrag/Nachlieferung`. Für die Vorführung lassen sich die beiden Eingänge zeitlich getrennt öffnen.
+
+Stellen Sie den Dokumentenweg je Schriftstück dar. Welche Frage an die örtliche Fachperson ist nach Eingang des zweiten Umschlags weiterhin offen?
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlagen | Download |
+| --- | --- |
+| Vollständige Originalakte mit beiden Eingängen | [Vollakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/notariat-berlin-vae-vertretungsnachweis-mit-nachtrag.zip) |
+| Vier zusätzliche Belege in EML, CSV und PDF | [Nachtrag in Originalformaten](../../docs/testakten-praxisnachtraege/notariat-berlin-vae-vertretungsnachweis-nachtrag.zip) |
+| Dieselben vier Belege als Einzeldokumente | [Vier Einzel-PDFs als ZIP](../../docs/testakten-praxisnachtraege/notariat-berlin-vae-vertretungsnachweis-nachtrag-einzelpdfs.zip) |
+| Lesefassung nur dieser vier Belege | [Vierseitiges PDF mit Lesezeichen](../../docs/testakten-praxisnachtraege/notariat-berlin-vae-vertretungsnachweis-nachtrag.pdf) |
+<!-- END praxisnachtrag-2026-11 -->

@@ -44,3 +44,22 @@ Die Krimpfort SE & Co. KG beschafft Naturstein für die Sanierung eines fiktiven
 Der Goslarer Masterplan beschreibt historische Granitborde, die in weiten Teilen der Altstadt erhalten sind. Er ordnet die vielerorts überlieferte Bürgersteigform dem letzten Drittel des 19. Jahrhunderts zu. Im Fall bezeichnet „Biedermeier“ die gewünschte gestalterische Wirkung. Die fiktive Begehung lässt das Alter der einzelnen Bestandssteine offen. [Stadt Goslar, Masterplan Altstadt, Abschnitt 6.2.2](https://www.goslar.de/fileadmin/media-goslar/stadt/welterbe/masterplan_altstadt_goslar.pdf)
 
 DIN EN 1343 betrifft Anforderungen und Prüfverfahren für Natursteinbordsteine im Außenbereich. Die Toleranzen, Einbauprofile und Kriterien für die Musterstrecke stehen als Projektanforderungen in den Aktenstücken. Die GAEB-Dateien nutzen DA XML 3.3 mit dem Schema für das Leistungsverzeichnis, Ausgabe 2021-05. [DIN EN 1343](https://www.dinmedia.de/de/norm/din-en-1343/153609394) · [GAEB DA XML 3.3](https://www.gaeb.de/de/produkte/gaeb-datenaustausch/versionen/gaeb-da-xml-version-3-3-stand-2023-01/)
+
+<!-- BEGIN praxisnachtrag-2026-11 -->
+## Belegnachtrag · Was ist aus dem Stadtbestand wirklich verwendbar?
+
+Am 04.11.2026 um 09:35 Uhr geht die E-Mail „Rosenbogen | Kennzeichnung der Stapel vom Aufmaß“ mit dem Datenauszug „Lagerplatz Rosenbogen · Ausgabeplan“ ein. Beides liegt in der Vollakte unter `Praxisnachtrag/Grundakte`. Am 24.11.2026 um 08:40 Uhr folgen „Rückgabe der Probestücke nach dem Mustertermin“ und „Messzettel Stichprobe S-A · Längen am Kopf“ im separaten Ordner `Praxisnachtrag/Nachlieferung`. Für die Vorführung lassen sich die beiden Eingänge zeitlich getrennt öffnen.
+
+Gleichen Sie die Bereitstellung für OZ 01.0010 mit dem Aufmaß ab. Ermitteln Sie anschließend die bestätigte Länge der vier Musterstücke unter Behandlung des Prüfstücks als offenen Posten.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlagen | Download |
+| --- | --- |
+| Vollständige Originalakte mit beiden Eingängen | [Vollakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/bauunternehmer-einkauf-altstadt-bordsteine-mit-nachtrag.zip) |
+| Vier zusätzliche Belege in EML, CSV und PDF | [Nachtrag in Originalformaten](../../docs/testakten-praxisnachtraege/bauunternehmer-einkauf-altstadt-bordsteine-nachtrag.zip) |
+| Dieselben vier Belege als Einzeldokumente | [Vier Einzel-PDFs als ZIP](../../docs/testakten-praxisnachtraege/bauunternehmer-einkauf-altstadt-bordsteine-nachtrag-einzelpdfs.zip) |
+| Lesefassung nur dieser vier Belege | [Vierseitiges PDF mit Lesezeichen](../../docs/testakten-praxisnachtraege/bauunternehmer-einkauf-altstadt-bordsteine-nachtrag.pdf) |
+<!-- END praxisnachtrag-2026-11 -->

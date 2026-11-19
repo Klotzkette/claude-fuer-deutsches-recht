@@ -48,3 +48,22 @@ Die arbeitstechnische Nachermittlung enthält zwei nachvollziehbare Rechenvarian
 - [Hessisches LSG Urteil vom 4. Mai 2021 L 3 U 174/20 zu medizinischen und technischen Brückenbefunden](https://www.sozialgerichtsbarkeit.de/node/169770/pdf)
 - [DGUV Begutachtungsempfehlung für asbestbedingte Berufskrankheiten](https://publikationen.dguv.de/versicherungleistungen/berufskrankheiten/2459/empfehlung-fuer-die-begutachtung-asbestbedingter-berufskrankheiten-falkensteiner-empfehlung)
 - [IFA BK-Report Faserjahre](https://www.dguv.de/ifa/publikationen/reports-download/reports-2013/bk-report-1-2013/index.jsp)
+
+<!-- BEGIN praxisnachtrag-2026-11 -->
+## Belegnachtrag · Die Rückseite von Tageszettel 1578
+
+Am 07.07.2026 um 09:12 Uhr geht die E-Mail „Nordlicht, Auftrag N-78/16 | Lesesaalbestellung“ mit dem Datenauszug „Lesesaal · Bereitstellung 20. Juli“ ein. Beides liegt in der Vollakte unter `Praxisnachtrag/Grundakte`. Am 21.07.2026 um 11:05 Uhr folgen „Befund beim Abgleich der beiden Rollen“ und „Abschrift Rückseiten · interne Zeitverteilung“ im separaten Ordner `Praxisnachtrag/Nachlieferung`. Für die Vorführung lassen sich die beiden Eingänge zeitlich getrennt öffnen.
+
+Ordnen Sie die beiden Schichten personenbezogen zu. Trennen Sie Arbeitszeit, belegten Arbeitsort und offenen Expositionsnachweis.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlagen | Download |
+| --- | --- |
+| Vollständige Originalakte mit beiden Eingängen | [Vollakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/berufskrankheit-asbest-schlosser-werft-bremen-mit-nachtrag.zip) |
+| Vier zusätzliche Belege in EML, CSV und PDF | [Nachtrag in Originalformaten](../../docs/testakten-praxisnachtraege/berufskrankheit-asbest-schlosser-werft-bremen-nachtrag.zip) |
+| Dieselben vier Belege als Einzeldokumente | [Vier Einzel-PDFs als ZIP](../../docs/testakten-praxisnachtraege/berufskrankheit-asbest-schlosser-werft-bremen-nachtrag-einzelpdfs.zip) |
+| Lesefassung nur dieser vier Belege | [Vierseitiges PDF mit Lesezeichen](../../docs/testakten-praxisnachtraege/berufskrankheit-asbest-schlosser-werft-bremen-nachtrag.pdf) |
+<!-- END praxisnachtrag-2026-11 -->

@@ -100,3 +100,22 @@ English: Start with `Grundakte`, then open the court-intake folder. Keep the lat
 ## 4 Reproduzierbarkeit
 
 Die Originale werden mit `scripts/build-hamburg-baeckerei-akte.py --qa-dir <temporäres Verzeichnis>` erzeugt. Der Tabellenbuilder verwendet dieselben Ereignisdaten; die Qualitätsprüfung gleicht Rechnungsbeträge, Teilzahlungen, Ereignisse, Zeitstände und E-Mail-Anhänge ab. Rechtsquellen und Prüfergebnisse stehen außerhalb der Arbeitsakte im Repository.
+
+<!-- BEGIN praxisnachtrag-2026-11 -->
+## Belegnachtrag · Der Feiertag im Tourenjournal
+
+Am 06.11.2026 um 09:16 Uhr geht die E-Mail „Schlüsselbuch zur ersten Januarwoche“ mit dem Datenauszug „Schlüsselbuch der Backstube · Jahreswechsel“ ein. Beides liegt in der Vollakte unter `Praxisnachtrag/Grundakte`. Am 16.11.2026 um 10:40 Uhr folgen „Auskunft zur Ausgabezeit des Tourenexports“ und „Abfragejournal · Tour H03 / Datensatzherkunft“ im separaten Ordner `Praxisnachtrag/Nachlieferung`. Für die Vorführung lassen sich die beiden Eingänge zeitlich getrennt öffnen.
+
+Prüfen Sie die Neujahrsposition gesondert. Welche Feststellung lässt das Schlüsselbuch zu, und was ändert sich durch die später belegte Herkunft des Kundenfeldes?
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlagen | Download |
+| --- | --- |
+| Vollständige Originalakte mit beiden Eingängen | [Vollakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/forderungsmanagement-baeckerei-behaeltertausch-hamburg-mit-nachtrag.zip) |
+| Vier zusätzliche Belege in EML, CSV und PDF | [Nachtrag in Originalformaten](../../docs/testakten-praxisnachtraege/forderungsmanagement-baeckerei-behaeltertausch-hamburg-nachtrag.zip) |
+| Dieselben vier Belege als Einzeldokumente | [Vier Einzel-PDFs als ZIP](../../docs/testakten-praxisnachtraege/forderungsmanagement-baeckerei-behaeltertausch-hamburg-nachtrag-einzelpdfs.zip) |
+| Lesefassung nur dieser vier Belege | [Vierseitiges PDF mit Lesezeichen](../../docs/testakten-praxisnachtraege/forderungsmanagement-baeckerei-behaeltertausch-hamburg-nachtrag.pdf) |
+<!-- END praxisnachtrag-2026-11 -->

@@ -14,8 +14,8 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm_gesamt.pdf`](gesamt-pdf/gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/testakte-gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/testakte-gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm-einzelpdfs.zip) |
 
 Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
@@ -46,6 +46,8 @@ Eine Familien-GmbH gerät wegen eines großen offenen Kundenzahlungseingangs unt
 | `11_liquiditaetsplan_12_wochen.csv` | Zwölf-Wochen-Plan mit und ohne erwarteten Kundenzahlungseingang |
 | `12_kapitalangebote_und_stimmrechte.csv` | Beteiligungen, Angebote und mögliche Verwässerung |
 | `13_foto_whiteboard_kapitalrunde.jpg` | Mobiltelefonfoto der internen Eckdaten |
+| `14_varianten_nennbetraege.csv` | Getrennte Nennbetragsrechnungen für Beschluss und Alternativangebot |
+| `15_korrespondenz_nachlieferung.eml` | Mandantenmail zur Herkunft der gemischten Prozentangaben |
 
 ## Bearbeitung
 

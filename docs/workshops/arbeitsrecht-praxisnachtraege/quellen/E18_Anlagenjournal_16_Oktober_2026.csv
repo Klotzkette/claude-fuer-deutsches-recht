@@ -1,0 +1,8 @@
+Ereignis_ID;Datum;Ortszeit;Anlage;Meldepunkt;Status_ab_Ereignis;Ausloeser
+663901;16.10.2026;05:58:42;Schmelzanlage 1;Betriebsart;Bereitschaft;SPS
+663902;16.10.2026;06:00:00;Schmelzanlage 1;Wartungsfenster;Wartung aktiv;Instandhaltungsjournal
+663903;16.10.2026;06:07:14;Schmelzanlage 1;Versorgungseinheit;Pruefkreis offen;SPS
+663904;16.10.2026;07:42:31;Schmelzanlage 1;Versorgungseinheit;Pruefkreis geschlossen;SPS
+663905;16.10.2026;07:53:18;Schmelzanlage 1;Funktionskontrolle;Testlauf ohne Produktionscharge;SPS
+663906;16.10.2026;08:00:00;Schmelzanlage 1;Wartungsfenster;Wartung beendet;Instandhaltungsjournal
+663907;16.10.2026;08:02:09;Schmelzanlage 1;Betriebsart;Bereitschaft;SPS

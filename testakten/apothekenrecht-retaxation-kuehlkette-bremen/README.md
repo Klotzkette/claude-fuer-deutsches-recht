@@ -14,8 +14,8 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/apothekenrecht-retaxation-kuehlkette-bremen_gesamt.pdf`](gesamt-pdf/apothekenrecht-retaxation-kuehlkette-bremen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-apothekenrecht-retaxation-kuehlkette-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-apothekenrecht-retaxation-kuehlkette-bremen.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-apothekenrecht-retaxation-kuehlkette-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-apothekenrecht-retaxation-kuehlkette-bremen-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-apothekenrecht-retaxation-kuehlkette-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/testakte-apothekenrecht-retaxation-kuehlkette-bremen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-apothekenrecht-retaxation-kuehlkette-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/testakte-apothekenrecht-retaxation-kuehlkette-bremen-einzelpdfs.zip) |
 
 Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
@@ -45,6 +45,8 @@ Die Adler-Apotheke am Wall gibt zwei Packungen eines hochpreisigen, kühlpflicht
 | `10_temperaturprotokoll_kuehlkette.csv` | Rohwerte aus Fahrzeug-, Box- und Apothekenlogger |
 | `11_abrechnung_und_zahlungsfluss.csv` | Einkauf, Auszahlung, Retaxankündigung und Verrechnungsvormerkung |
 | `12_foto_loggeranzeige.jpg` | Mobiltelefonfoto der Loggeranzeige |
+| `13_zuordnung_transportprotokoll.csv` | Dispositionsauszug zu Außenfühler und Boxlogger |
+| `14_korrespondenz_nachlieferung.eml` | Antwort des Großhandels zu Messorten, Siegel und Ende der Transportmessung |
 
 ## Bearbeitung
 

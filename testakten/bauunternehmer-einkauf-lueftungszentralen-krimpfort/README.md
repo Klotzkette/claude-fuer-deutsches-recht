@@ -41,3 +41,22 @@ Laden Sie für den Angebotsvergleich zunächst nur den Ordner `Grundakte` aus de
 | Originale mit Grundakte und Nachlauf | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-lueftungszentralen-krimpfort.zip) |
 | Lesefassungen der Einzelstücke | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-lueftungszentralen-krimpfort-einzelpdfs.zip) |
 <!-- END gesamt-pdf-section (autogen) -->
+
+<!-- BEGIN praxisnachtrag-2026-11 -->
+## Belegnachtrag · Die Pumpenleitung hinter Gerät S03
+
+Am 15.10.2026 um 13:20 Uhr geht die E-Mail „S01 bis S03 | Vorleistung zwischen Gerät und Schacht“ mit dem Datenauszug „TGA-Aufmaß · südlicher Technikgang“ ein. Beides liegt in der Vollakte unter `Praxisnachtrag/Grundakte`. Am 10.11.2026 um 15:45 Uhr folgen „Befund nach Zugang zum Technikgang S03“ und „S03 · Einfache Trasse vorläufiger Stationsort“ im separaten Ordner `Praxisnachtrag/Nachlieferung`. Für die Vorführung lassen sich die beiden Eingänge zeitlich getrennt öffnen.
+
+Ermitteln Sie den vorläufigen Trassenbedarf für S03. Halten Sie die Maßeinheit des Angebots und die Rückfrage zur nächtlichen Einbringung getrennt.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlagen | Download |
+| --- | --- |
+| Vollständige Originalakte mit beiden Eingängen | [Vollakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/bauunternehmer-einkauf-lueftungszentralen-krimpfort-mit-nachtrag.zip) |
+| Vier zusätzliche Belege in EML, CSV und PDF | [Nachtrag in Originalformaten](../../docs/testakten-praxisnachtraege/bauunternehmer-einkauf-lueftungszentralen-krimpfort-nachtrag.zip) |
+| Dieselben vier Belege als Einzeldokumente | [Vier Einzel-PDFs als ZIP](../../docs/testakten-praxisnachtraege/bauunternehmer-einkauf-lueftungszentralen-krimpfort-nachtrag-einzelpdfs.zip) |
+| Lesefassung nur dieser vier Belege | [Vierseitiges PDF mit Lesezeichen](../../docs/testakten-praxisnachtraege/bauunternehmer-einkauf-lueftungszentralen-krimpfort-nachtrag.pdf) |
+<!-- END praxisnachtrag-2026-11 -->

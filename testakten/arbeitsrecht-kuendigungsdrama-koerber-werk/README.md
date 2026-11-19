@@ -162,3 +162,13 @@ Arbeitsakte zum Plugin `fachanwalt-arbeitsrecht`.
 - Klageschrift-Entwurf in Arbeit (geplante Einreichung bis 09.06.2025)
 - Parallele Ansprüche (Equal Pay, TzBfG) noch nicht eingeklagt — werden im Kontext der Güteverhandlung angekündigt
 - Nächster Schritt: Klageeinreichung beim ArbG Frankfurt (Oder), Az. wird nach Eingang zugeteilt
+
+## Weitere Unterlagen im Mandat
+
+Der Nachtrag vom 2. Juni dokumentiert, was Stellenplan, Aufgabenverteilung und lokale Freigabeansicht jeweils zeigen. Die Vollakte enthält die bisherige Originalfassung und beide zusätzlichen Belege im Ordner `Nachlieferung`. Die separat angebotenen PDF-Fassungen zeigen den vorherigen Aktenstand.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Vollständige Originalakte mit Nachlieferung herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitsrecht-kuendigungsdrama-koerber-werk-mit-nachtrag.zip)

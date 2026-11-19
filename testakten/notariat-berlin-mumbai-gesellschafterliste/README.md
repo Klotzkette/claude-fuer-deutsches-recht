@@ -95,3 +95,22 @@ Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF st
 English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
+
+<!-- BEGIN praxisnachtrag-2026-11 -->
+## Belegnachtrag · Das Registerbuch im zweiten Archivkasten
+
+Am 06.11.2026 um 11:38 Uhr geht die E-Mail „Spreekern | Minute book and office copies“ mit dem Datenauszug „Office records · Mumbai / dispatch register“ ein. Beides liegt in der Vollakte unter `Praxisnachtrag/Grundakte`. Am 10.11.2026 um 10:55 Uhr folgen „Telefonvermerk über den Abgleich der Büroexemplare“ und „Vollzugsakte · Nachforderungskontrolle“ im separaten Ordner `Praxisnachtrag/Nachlieferung`. Für die Vorführung lassen sich die beiden Eingänge zeitlich getrennt öffnen.
+
+Formulieren Sie die präzise Anforderung an den örtlichen Berater. Ordnen Sie Unterlagen, Beweiswert und Bezugsdatum für Bestellung, Anteilskauf und mögliche Vollmacht.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlagen | Download |
+| --- | --- |
+| Vollständige Originalakte mit beiden Eingängen | [Vollakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/notariat-berlin-mumbai-gesellschafterliste-mit-nachtrag.zip) |
+| Vier zusätzliche Belege in EML, CSV und PDF | [Nachtrag in Originalformaten](../../docs/testakten-praxisnachtraege/notariat-berlin-mumbai-gesellschafterliste-nachtrag.zip) |
+| Dieselben vier Belege als Einzeldokumente | [Vier Einzel-PDFs als ZIP](../../docs/testakten-praxisnachtraege/notariat-berlin-mumbai-gesellschafterliste-nachtrag-einzelpdfs.zip) |
+| Lesefassung nur dieser vier Belege | [Vierseitiges PDF mit Lesezeichen](../../docs/testakten-praxisnachtraege/notariat-berlin-mumbai-gesellschafterliste-nachtrag.pdf) |
+<!-- END praxisnachtrag-2026-11 -->
