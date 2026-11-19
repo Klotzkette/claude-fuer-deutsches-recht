@@ -1,6 +1,6 @@
 {
   "name": "zahlungsunfaehigkeits-und-ueberschuldungspruefer",
-  "version": "445.36.8",
+  "version": "445.36.9",
   "description": "Rekonstruiert Zahlungsunfähigkeit und insolvenzrechtliche Überschuldung aus Bank- und Buchungsunterlagen. Prüft die Dreiwochenbilanz, Zahlungseinstellung, Fortbestehensprognose, stille Reserven und Nachrang. Mit Stichtagsrechner und drei Anfechtungsakten.",
   "author": {
     "name": "Klotzkette",

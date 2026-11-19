@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "jugendmedienschutz-und-medienangebote",
-  "version": "445.36.8",
+  "version": "445.36.9",
   "description": "Jugendschutz für Browsergames, KI-Szenarien, Medienangebote und Nutzerkommunikation. Zehn Skills prüfen JuSchG, JMStV, MStV und Schnittstellen zu DSA, Datenschutz und KI-Verordnung bis zum konkreten Dokument.",
   "author": {
     "name": "Klotzkette",

@@ -272,11 +272,12 @@ jobs:
             fi
             echo "Baue $plugin.zip"
             (cd "$source" && zip -rq "${GITHUB_WORKSPACE}/dist/${plugin}.zip" . \
-              -x '*.DS_Store' '*__pycache__*' '*.pyc' 'CLAUDE.md' \
+              -x '*.DS_Store' '*__pycache__*' '*.pyc' 'CLAUDE.md' 'README.md' \
                  'testakte/*' 'testakten/*' \
                  '*-werkstatt.md' '*-schnellstart.md' '*-hauptproblem.md' \
                  '*-werkstatt.txt' '*-schnellstart.txt' '*-hauptproblem.txt' \
                  '*-werkstatt.docx' '*-werkstatt.pdf')
+            python3 scripts/package_readme.py "dist/${plugin}.zip" "$source"
             ls -la "dist/${plugin}.zip"
           done < dist/plugin-map.tsv
           # Manifest fuer Marketplace-Komfort

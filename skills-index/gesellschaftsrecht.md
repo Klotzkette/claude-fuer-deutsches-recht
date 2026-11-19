@@ -1,6 +1,6 @@
 # gesellschaftsrecht
 
-**11 Skills** · Stand `v445.36.8`
+**11 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gesellschaftsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`gesellschaftsrecht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/gesellschaftsrecht-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`gesellschaftsrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/gesellschaftsrecht-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [gesellschaftsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/gesellschaftsrecht.zip) |
+| **Plugin (installierbar)** | ZIP | [gesellschaftsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/gesellschaftsrecht.zip) |
 
 ## So benutzt man einen Skill
 

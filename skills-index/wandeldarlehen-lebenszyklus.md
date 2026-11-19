@@ -1,6 +1,6 @@
 # wandeldarlehen-lebenszyklus
 
-**10 Skills** · Stand `v445.36.8`
+**10 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../wandeldarlehen-lebenszyklus/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`wandeldarlehen-lebenszyklus-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wandeldarlehen-lebenszyklus/wandeldarlehen-lebenszyklus-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`wandeldarlehen-lebenszyklus-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wandeldarlehen-lebenszyklus/wandeldarlehen-lebenszyklus-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [wandeldarlehen-lebenszyklus.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/wandeldarlehen-lebenszyklus.zip) |
+| **Plugin (installierbar)** | ZIP | [wandeldarlehen-lebenszyklus.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/wandeldarlehen-lebenszyklus.zip) |
 
 ## So benutzt man einen Skill
 

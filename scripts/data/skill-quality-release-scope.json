@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "445.36.8",
-  "tag": "qualitaetsrunde-v445.36.8",
-  "title": "312 Hauptskills: fachliche Workflows und eingeordnete Rechtsprechung",
+  "version": "445.36.9",
+  "tag": "qualitaetsrunde-v445.36.9",
+  "title": "Plugin-Pakete mit nutzbarer README-Navigation",
   "required_main_workflow_reviews": true,
   "plugins": [
     {

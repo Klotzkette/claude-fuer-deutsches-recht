@@ -1,6 +1,6 @@
 # bea-versand
 
-**1 Skills** · Stand `v445.36.8`
+**1 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bea-versand/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`bea-versand-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.md) |
 | **Derselbe Werkstatt-Prompt als Text** | TXT | [`bea-versand-werkstatt.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [bea-versand.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/bea-versand.zip) |
+| **Plugin (installierbar)** | ZIP | [bea-versand.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/bea-versand.zip) |
 
 ## So benutzt man einen Skill
 

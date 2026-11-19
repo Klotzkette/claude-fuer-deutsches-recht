@@ -1,6 +1,6 @@
 # europaeisches-prozessrecht
 
-**6 Skills** · Stand `v445.36.8`
+**6 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../europaeisches-prozessrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`europaeisches-prozessrecht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=europaeisches-prozessrecht/europaeisches-prozessrecht-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`europaeisches-prozessrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=europaeisches-prozessrecht/europaeisches-prozessrecht-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [europaeisches-prozessrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/europaeisches-prozessrecht.zip) |
+| **Plugin (installierbar)** | ZIP | [europaeisches-prozessrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/europaeisches-prozessrecht.zip) |
 
 ## So benutzt man einen Skill
 

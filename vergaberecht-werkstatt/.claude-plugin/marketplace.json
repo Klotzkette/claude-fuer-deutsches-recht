@@ -10,7 +10,7 @@
     {
       "name": "vergabestelle-behoerden",
       "source": "./vergabestelle-behoerden",
-      "version": "445.36.8",
+      "version": "445.36.9",
       "description": "Vergabestellen legen Ordner, ZIP oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen und Regime, baut Bestangebot, LV und Uploadpaket und verteidigt Rüge, VK und OLG.",
       "category": "german-law",
       "tags": [
@@ -43,7 +43,7 @@
     {
       "name": "bieter-unternehmen",
       "source": "./bieter-unternehmen",
-      "version": "445.36.8",
+      "version": "445.36.9",
       "description": "Bieter legen Vergabeunterlagen, Unternehmensdaten oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen, Nachweise, Qualitätsvorsprung, Angebotsfreeze, Upload, Rüge, VK und OLG.",
       "category": "german-law",
       "tags": [
@@ -73,7 +73,7 @@
     {
       "name": "konkurrenten-rechtsschutz",
       "source": "./konkurrenten-rechtsschutz",
-      "version": "445.36.8",
+      "version": "445.36.9",
       "description": "Konkurrenten legen Unterlagen, Informationsschreiben oder Portalbelege ab und starten ohne Skillwahl. Das Plugin sichert Rüge- und Zuschlagsfristen, Angriff, Beweiskette, Akteneinsicht, VK, OLG und Kosten.",
       "category": "german-law",
       "tags": [

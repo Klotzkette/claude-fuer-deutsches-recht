@@ -18,7 +18,7 @@ Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`juristische-praesentationen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/juristische-praesentationen.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`juristische-praesentationen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/juristische-praesentationen.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/juristische-praesentationen.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=juristische-praesentationen/juristische-praesentationen-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=juristische-praesentationen/juristische-praesentationen-schnellstart.md) |
@@ -60,7 +60,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`juristische-praesentationen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/juristische-praesentationen.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`juristische-praesentationen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/juristische-praesentationen.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`juristische-praesentationen-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=juristische-praesentationen/juristische-praesentationen-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`juristische-praesentationen-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=juristische-praesentationen/juristische-praesentationen-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
@@ -86,7 +86,7 @@ Im Plugin ist `praesentation-starten` der Einstieg. Wer bereits genau weiß, was
 
 | Bestandteil | Wofür? | Zugriff |
 | --- | --- | --- |
-| Plugin | Zehn Kernskills plus zwei optionale Bonus-Skills und unterstützende Dateien | [Installations-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/juristische-praesentationen.zip) |
+| Plugin | Zehn Kernskills plus zwei optionale Bonus-Skills und unterstützende Dateien | [Installations-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/juristische-praesentationen.zip) |
 | Werkstatt-Prompt | Ausführlicher eigenständiger Ablauf für juristische Vorträge, Belegdarstellungen und Entscheidungsvorlagen | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=juristische-praesentationen/juristische-praesentationen-werkstatt.md" download>Werkstatt als Markdown herunterladen</a> |
 | Schnellstart / Mini-Prompt | Kompakter eigenständiger Ablauf mit denselben entscheidenden Abgrenzungen | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=juristische-praesentationen/juristische-praesentationen-schnellstart.md" download>Schnellstart als Markdown herunterladen</a> |
 | Präsentationsvorlage | Bearbeitbare PPTX als gesonderte Gestaltungsgrundlage | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/juristische-praesentationen/assets/juristische-praesentation-vorlage.pptx" download>PowerPoint-Vorlage herunterladen</a> |

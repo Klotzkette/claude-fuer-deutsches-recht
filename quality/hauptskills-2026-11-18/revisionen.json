@@ -3617,7 +3617,11 @@
       "method": "release_metadata_only",
       "archive": "quality/hauptskills-2026-11-18/bestand/gesellschafterstreit/README.md.txt",
       "before_sha256": "8fe4e236ee69c87c550cb58fd1b198e99b8c6cb5fdfb6082efe4247e933b62ff",
-      "after_sha256": "c3ca032ff5d1f5c9d0a4b31a0f8fc5fbcc12c748ef8258896c0ef1d2d3746bdc"
+      "after_sha256": "c3ca032ff5d1f5c9d0a4b31a0f8fc5fbcc12c748ef8258896c0ef1d2d3746bdc",
+      "publication_followup": {
+        "previous_archive": "quality/paketnavigation-2026-11-19/bestand/gesellschafterstreit/README.md.txt",
+        "after_sha256": "522a9ede0f28c6ee4f249a917bdfd33e23435307dadc8c9024fea94e9aecf0c8"
+      }
     },
     {
       "plugin": "sozialversicherungspflicht-pruefer",
@@ -3625,7 +3629,11 @@
       "method": "release_metadata_only",
       "archive": "quality/hauptskills-2026-11-18/bestand/sozialversicherungspflicht-pruefer/README.md.txt",
       "before_sha256": "48bba693346dca12631c9eac9330e613850c1fbb3dbe7c6db557ebea71c5898d",
-      "after_sha256": "a7cf3004005f15e556abfda82feee24086dbaa71faacae43c510bbe98e5278e4"
+      "after_sha256": "a7cf3004005f15e556abfda82feee24086dbaa71faacae43c510bbe98e5278e4",
+      "publication_followup": {
+        "previous_archive": "quality/paketnavigation-2026-11-19/bestand/sozialversicherungspflicht-pruefer/README.md.txt",
+        "after_sha256": "46328d29f7ca6c4076d7dad0dc109e0fca5f5cde433a2104f06fff911e8754fc"
+      }
     },
     {
       "plugin": "wirtschaftsanwalt",
@@ -3633,7 +3641,11 @@
       "method": "release_metadata_only",
       "archive": "quality/hauptskills-2026-11-18/bestand/wirtschaftsanwalt/.claude-plugin/plugin.json.txt",
       "before_sha256": "02ead4cd8f95e86010a112aef16ba4d8cc3ad270d05adea40f5fe097981a89b0",
-      "after_sha256": "e6734f6c5acb48f9a241c31251f15851e1fc4622d6c5cba15f03200ee7c3d6d6"
+      "after_sha256": "e6734f6c5acb48f9a241c31251f15851e1fc4622d6c5cba15f03200ee7c3d6d6",
+      "publication_followup": {
+        "previous_archive": "quality/paketnavigation-2026-11-19/bestand/wirtschaftsanwalt/.claude-plugin/plugin.json.txt",
+        "after_sha256": "a125d12d975744467c0e3222d52799a32f7dca3e8f07f506757571d866008156"
+      }
     },
     {
       "plugin": "wirtschaftsanwalt",
@@ -3641,7 +3653,11 @@
       "method": "release_metadata_only",
       "archive": "quality/hauptskills-2026-11-18/bestand/wirtschaftsanwalt/.codex-plugin/plugin.json.txt",
       "before_sha256": "dcbccc26c254d50b86ea19d94a881f263e1cdec76cfb59557dd6084bd930ff27",
-      "after_sha256": "0d4989503ce981ab9c539e51a1c842288f0d919d506866b2498cb2a4439589ee"
+      "after_sha256": "0d4989503ce981ab9c539e51a1c842288f0d919d506866b2498cb2a4439589ee",
+      "publication_followup": {
+        "previous_archive": "quality/paketnavigation-2026-11-19/bestand/wirtschaftsanwalt/.codex-plugin/plugin.json.txt",
+        "after_sha256": "e6710625ecac86f3c4089811efd924f3fc65c20f7b768139f55803881c0402e9"
+      }
     },
     {
       "plugin": "wirtschaftsanwalt",
@@ -3649,7 +3665,11 @@
       "method": "release_metadata_only",
       "archive": "quality/hauptskills-2026-11-18/bestand/wirtschaftsanwalt/README.md.txt",
       "before_sha256": "56e22a294c10a6d392046f78a4324cb641eaecccab9ea46cde3ebac0e3d7c4c2",
-      "after_sha256": "3ee323ed31a51018aab7ba038f03e58be0940b6a526dacf6fe28081ea689879e"
+      "after_sha256": "3ee323ed31a51018aab7ba038f03e58be0940b6a526dacf6fe28081ea689879e",
+      "publication_followup": {
+        "previous_archive": "quality/paketnavigation-2026-11-19/bestand/wirtschaftsanwalt/README.md.txt",
+        "after_sha256": "0f83bf8191e3b38f58fd52c8938197424e363acbbe9cb5ff2f1367b51db262aa"
+      }
     }
   ]
 }

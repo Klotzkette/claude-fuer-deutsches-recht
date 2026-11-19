@@ -1,6 +1,6 @@
 # berufsrecht-notare
 
-**9 Skills** · Stand `v445.36.8`
+**9 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../berufsrecht-notare/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`berufsrecht-notare-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-notare/berufsrecht-notare-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`berufsrecht-notare-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-notare/berufsrecht-notare-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [berufsrecht-notare.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/berufsrecht-notare.zip) |
+| **Plugin (installierbar)** | ZIP | [berufsrecht-notare.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/berufsrecht-notare.zip) |
 
 ## So benutzt man einen Skill
 

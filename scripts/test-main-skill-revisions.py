@@ -136,6 +136,53 @@ class RevisionTests(unittest.TestCase):
         path=self.metadata_record('beispiel/README.md',old,new.replace(b'Anleitung',b'Andere Rechtsaussage'))
         with self.assertRaisesRegex(ValueError,'mehr als eigene Paketlinks'):rev.previous_bytes(self.root,path)
 
+    def test_followup_preserves_both_previous_editions_and_rejects_changed_text(self):
+        relative = 'beispiel/README.md'
+        url = b'https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/'
+        old = b'# Anleitung\n' + url + b'alt-v1.0.0/beispiel.zip\n'
+        prior = old.replace(b'alt-v1.0.0', b'mitte-v2.0.0')
+        current = old.replace(b'alt-v1.0.0', b'neu-v3.0.0')
+        path = self.metadata_record(relative, old, prior)
+        archive = 'quality/paketnavigation-2026-11-19/bestand/' + relative + '.txt'
+        saved = put(self.root, archive, prior)
+        record = rev.load(self.root / rev.REGISTRY)
+        followup = {'previous_archive': archive, 'after_sha256': rev.digest(current)}
+        record['integration_files'][0]['publication_followup'] = followup
+        put(self.root, rev.REGISTRY, record)
+        put(self.root, 'scripts/scoped-release-assets.json', {'schema_version': 1, 'assets': {'beispiel.zip': 'neu-v3.0.0'}})
+        path.write_bytes(current)
+        for edition in (old, prior, current):
+            self.assertEqual(rev.historical_bytes(self.root, path, rev.digest(edition)), edition)
+        saved.write_bytes(old)
+        with self.assertRaises(ValueError):
+            rev.previous_bytes(self.root, path)
+        saved.write_bytes(prior)
+        wrong = current.replace(b'Anleitung', b'Geaenderte Rechtsaussage')
+        path.write_bytes(wrong)
+        followup['after_sha256'] = rev.digest(wrong)
+        put(self.root, rev.REGISTRY, record)
+        with self.assertRaisesRegex(ValueError, 'mehr als eigene Paketlinks'):
+            rev.previous_bytes(self.root, path)
+
+    def test_case_download_sections_preserve_all_original_bytes(self):
+        from case_navigation_revision import CASES, EVIDENCE, previous_case_readme
+        repository = Path(__file__).resolve().parents[1]
+        evidence = rev.load(repository / EVIDENCE)
+        put(self.root, EVIDENCE, evidence)
+        for relative in CASES:
+            with self.subTest(path=relative):
+                content = (repository / relative).read_bytes()
+                original = previous_case_readme(self.root, relative, content)
+                self.assertEqual(rev.digest(original), evidence[relative]['before_sha256'])
+                with self.assertRaises(ValueError):
+                    previous_case_readme(self.root, relative, content + b'Anderer Sachverhalt')
+        relative = sorted(CASES)[0]
+        changed = (repository / relative).read_bytes().replace(b'Vollakte mit Originalbelegen', b'Andere rechtliche Folgerung', 1)
+        evidence[relative]['after_sha256'] = rev.digest(changed)
+        put(self.root, EVIDENCE, evidence)
+        with self.assertRaises(ValueError):
+            previous_case_readme(self.root, relative, changed)
+
     def test_metadata_manifest_cannot_change_description(self):
         put(self.root,'.claude-plugin/marketplace.json',{'plugins':[{'name':'beispiel','source':'./beispiel','version':'2.0.0'}]})
         old=json.dumps({'name':'beispiel','version':'1.0.0','description':'Fachauftrag'}).encode()

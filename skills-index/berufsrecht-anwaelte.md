@@ -1,6 +1,6 @@
 # berufsrecht-anwaelte
 
-**9 Skills** · Stand `v445.36.8`
+**9 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../berufsrecht-anwaelte/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`berufsrecht-anwaelte-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-anwaelte/berufsrecht-anwaelte-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`berufsrecht-anwaelte-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-anwaelte/berufsrecht-anwaelte-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [berufsrecht-anwaelte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/berufsrecht-anwaelte.zip) |
+| **Plugin (installierbar)** | ZIP | [berufsrecht-anwaelte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/berufsrecht-anwaelte.zip) |
 
 ## So benutzt man einen Skill
 

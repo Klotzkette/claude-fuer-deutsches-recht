@@ -1,6 +1,6 @@
 # betriebskosten-hausverwaltung
 
-**10 Skills** · Stand `v445.36.8`
+**10 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../betriebskosten-hausverwaltung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`betriebskosten-hausverwaltung-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betriebskosten-hausverwaltung/betriebskosten-hausverwaltung-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`betriebskosten-hausverwaltung-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betriebskosten-hausverwaltung/betriebskosten-hausverwaltung-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [betriebskosten-hausverwaltung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/betriebskosten-hausverwaltung.zip) |
+| **Plugin (installierbar)** | ZIP | [betriebskosten-hausverwaltung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/betriebskosten-hausverwaltung.zip) |
 
 ## So benutzt man einen Skill
 

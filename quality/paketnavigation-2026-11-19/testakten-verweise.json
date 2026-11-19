@@ -1,0 +1,56 @@
+{
+  "arbeitszeugnispruefer/testakte/arbeitszeugnis-analyse-bluehendes-leben/README.md": {
+    "before_sha256": "d04846223ee2ee12016e303db8c8c3bbcf3fbdacd68de4a7510f43e5091402a8",
+    "after_sha256": "e1949cb0da696c1b125bfe325ed184b23e7a317e2765a458117355aad5973e0a",
+    "insertions": [
+      {
+        "offset": 355,
+        "length": 881,
+        "sha256": "700d8ba4b39ffdb68fc3ee807c4e4e8392f2616bc5f32e7367605a034f83ce8a"
+      }
+    ]
+  },
+  "bautraegervertragspruefer/testakte/README.md": {
+    "before_sha256": "172ba2e57ca4fadeaf13c4536c3dfdb50c3e97aa447f05a2e6f38a9e64969c54",
+    "after_sha256": "c16b58265351a3f098573a1d989554c65f479924b2c7ea2a98bff377eefc5bc6",
+    "insertions": [
+      {
+        "offset": 687,
+        "length": 848,
+        "sha256": "8746ab3c9a227616f354eea918277b62199c992fd49caa09b2a0b26ef4edecb3"
+      }
+    ]
+  },
+  "bautraegervertragspruefer/testakte/bautraegervertrag-marewald/README.md": {
+    "before_sha256": "48ca806a22a969bc19fb2eea999edd82ec4069e82f15294c548038ed1ab1b42a",
+    "after_sha256": "b15315f4fde1fb85bb51eb08d46de2fa8a40f1bdc410bbc8fbbf3b8269bda030",
+    "insertions": [
+      {
+        "offset": 956,
+        "length": 228,
+        "sha256": "dc90ce7860f6f1afcbe08b8b53cb430ad7f0969e2642a802f47f7be575a4d3f1"
+      },
+      {
+        "offset": 1853,
+        "length": 848,
+        "sha256": "8746ab3c9a227616f354eea918277b62199c992fd49caa09b2a0b26ef4edecb3"
+      }
+    ]
+  },
+  "bautraegervertragspruefer/testakte/bautraegervertrag/README.md": {
+    "before_sha256": "4fe5e3438a3a93294e283c7d6e116f689ece71c84e719506c225b13b4c9b75ee",
+    "after_sha256": "09d6b7e837db5ff073ddd9f279b05309a9732b5e773f9f668b322a7f4bf46528",
+    "insertions": [
+      {
+        "offset": 928,
+        "length": 228,
+        "sha256": "dc90ce7860f6f1afcbe08b8b53cb430ad7f0969e2642a802f47f7be575a4d3f1"
+      },
+      {
+        "offset": 1753,
+        "length": 848,
+        "sha256": "8746ab3c9a227616f354eea918277b62199c992fd49caa09b2a0b26ef4edecb3"
+      }
+    ]
+  }
+}

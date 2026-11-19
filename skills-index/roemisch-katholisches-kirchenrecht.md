@@ -1,6 +1,6 @@
 # roemisch-katholisches-kirchenrecht
 
-**8 Skills** · Stand `v445.36.8`
+**8 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../roemisch-katholisches-kirchenrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`roemisch-katholisches-kirchenrecht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`roemisch-katholisches-kirchenrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [roemisch-katholisches-kirchenrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/roemisch-katholisches-kirchenrecht.zip) |
+| **Plugin (installierbar)** | ZIP | [roemisch-katholisches-kirchenrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/roemisch-katholisches-kirchenrecht.zip) |
 
 ## So benutzt man einen Skill
 

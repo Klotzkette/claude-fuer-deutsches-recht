@@ -1,6 +1,6 @@
 # berliner-schulrecht-eltern-schueler
 
-**11 Skills** · Stand `v445.36.8`
+**11 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../berliner-schulrecht-eltern-schueler/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -15,7 +15,7 @@
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`berliner-schulrecht-eltern-schueler-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-schulrecht-eltern-schueler/berliner-schulrecht-eltern-schueler-hauptproblem.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | TXT | [`berliner-schulrecht-eltern-schueler-hauptproblem.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-schulrecht-eltern-schueler/berliner-schulrecht-eltern-schueler-hauptproblem.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [berliner-schulrecht-eltern-schueler.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/berliner-schulrecht-eltern-schueler.zip) |
+| **Plugin (installierbar)** | ZIP | [berliner-schulrecht-eltern-schueler.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/berliner-schulrecht-eltern-schueler.zip) |
 
 ## So benutzt man einen Skill
 

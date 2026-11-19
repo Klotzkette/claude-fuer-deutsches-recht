@@ -1,6 +1,6 @@
 # grundstuecksrecherche
 
-**2 Skills** · Stand `v445.36.8`
+**2 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../grundstuecksrecherche/README.md) · [Download-Index](../ASSET_INDEX.md)
 
@@ -9,7 +9,7 @@
 | Paket | Format | Link |
 | --- | --- | --- |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [grundstuecksrecherche.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/grundstuecksrecherche.zip) |
+| **Plugin (installierbar)** | ZIP | [grundstuecksrecherche.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/grundstuecksrecherche.zip) |
 
 ## App verwenden
 

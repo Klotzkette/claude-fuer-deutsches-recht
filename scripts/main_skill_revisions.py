@@ -64,7 +64,7 @@ def index(root):
     return result
 
 
-def metadata_previous_bytes(root, path, *, plugin=None):
+def metadata_previous_bytes(root, path, *, plugin=None, expected_hash=None):
     """Nur exakte Downloadlink-/Manifestversionspflege, keine Fachtext-Ausnahme."""
     relative = path.relative_to(root).as_posix()
     registry = root / REGISTRY
@@ -86,7 +86,14 @@ def metadata_previous_bytes(root, path, *, plugin=None):
         raise ValueError("Falscher Metadatenarchivpfad")
     old = inside(root, row["archive"]).read_bytes()
     current = path.read_bytes()
-    if digest(old) != row.get("before_sha256") or digest(current) != row.get("after_sha256"):
+    last_reviewed = current
+    followup = row.get("publication_followup")
+    if followup is not None:
+        archive = "quality/paketnavigation-2026-11-19/bestand/" + relative + ".txt"
+        if followup.get("previous_archive") != archive or digest(current) != followup.get("after_sha256"):
+            raise ValueError("Unbelegte Fortschreibung der Paketmetadaten")
+        last_reviewed = inside(root, archive).read_bytes()
+    if digest(old) != row.get("before_sha256") or digest(last_reviewed) != row.get("after_sha256"):
         raise ValueError("Metadatenfortschreibung seit Prüfung verändert")
     if path == source / "README.md":
         from release_routing import scoped_asset_url
@@ -103,6 +110,8 @@ def metadata_previous_bytes(root, path, *, plugin=None):
             raise ValueError("Manifest-Fortschreibung verändert mehr als die Paketversion")
     else:
         raise ValueError("Keine zulässige Release-Metadatendatei")
+    if expected_hash is not None and digest(last_reviewed) == expected_hash:
+        return last_reviewed
     return old
 
 
@@ -133,7 +142,14 @@ def previous_bytes(root, path, *, plugin=None):
         raise ValueError(f"{relative}: falscher Archivpfad")
     old = inside(root, archive_name).read_bytes()
     current = path.read_bytes()
-    if digest(old) != row.get("before_sha256") or digest(current) != row.get("after_sha256"):
+    last_reviewed = current
+    followup = row.get("publication_followup")
+    if followup is not None:
+        archive = "quality/paketnavigation-2026-11-19/bestand/" + relative + ".txt"
+        if followup.get("previous_archive") != archive or digest(current) != followup.get("after_sha256"):
+            raise ValueError("Unbelegte Fortschreibung der Paketmetadaten")
+        last_reviewed = inside(root, archive).read_bytes()
+    if digest(old) != row.get("before_sha256") or digest(last_reviewed) != row.get("after_sha256"):
         raise ValueError(f"{relative}: Hauptskill-Vorfassung oder Neufassung seit Prüfung verändert")
     if old == current:
         raise ValueError(f"{relative}: unveränderte Datei als Fortschreibung deklariert")
@@ -180,8 +196,23 @@ def historical_bytes(root, path, expected, *, plugin=None):
     current = Path(path).read_bytes()
     if digest(current) == expected:
         return current
+    from case_navigation_revision import CASES, previous_case_readme
+    root, path = Path(root).resolve(), Path(path).resolve()
+    if path.name == "README.md" and "testakte" in path.parts:
+        relative = path.relative_to(root).as_posix()
+        if relative in CASES:
+            if plugin and plugin != relative.split("/", 1)[0]:
+                raise ValueError("Aktenseite gehört zu einem anderen Plugin")
+            prior = previous_case_readme(root, relative, current)
+            return prior if digest(prior) == expected else current
     old = previous_bytes(root, path, plugin=plugin)
-    return old if old is not None and digest(old) == expected else current
+    if old is not None and digest(old) == expected:
+        return old
+    if old is not None and path.name in {"README.md", "plugin.json"}:
+        intermediate = metadata_previous_bytes(root, path, plugin=plugin, expected_hash=expected)
+        if intermediate is not None and digest(intermediate) == expected:
+            return intermediate
+    return current
 
 
 def validate_all(root):

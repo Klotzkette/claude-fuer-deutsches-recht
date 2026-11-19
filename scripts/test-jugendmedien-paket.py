@@ -133,8 +133,16 @@ class JugendmedienPaketTests(unittest.TestCase):
             self.assertEqual(set(portable.namelist()), {f"{NAME}/{name}" for name in expected})
             for name, source in expected.items():
                 with self.subTest(member=name):
-                    self.assertEqual(native.read(name), source.read_bytes())
-                    self.assertEqual(portable.read(f"{NAME}/{name}"), source.read_bytes())
+                    data = source.read_bytes()
+                    if name == "README.md":
+                        # All cross-repository paths in this specific source are
+                        # explicit blob/main URLs. Check their exact rendering
+                        # independently of the packaging helper.
+                        prefix = b"https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/"
+                        revision = self.report["source_state"]["commit"].encode("ascii")
+                        data = data.replace(prefix + b"main/", prefix + revision + b"/")
+                    self.assertEqual(native.read(name), data)
+                    self.assertEqual(portable.read(f"{NAME}/{name}"), data)
             for manifest in (".claude-plugin/plugin.json", ".codex-plugin/plugin.json", "plugin.json"):
                 data = json.loads(native.read(manifest))
                 self.assertEqual((data["name"], data["version"]), (NAME, self.scope["version"]))

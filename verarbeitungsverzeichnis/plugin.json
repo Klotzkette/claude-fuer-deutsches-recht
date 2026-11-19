@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "verarbeitungsverzeichnis",
-  "version": "445.36.8",
+  "version": "445.36.9",
   "description": "Verzeichnisse von Verarbeitungstätigkeiten für Unternehmen anlegen und laufend pflegen. Rollen, Rechtsgrundlagen, Löschung, Dienstleister, Risiken und DSFA prüfen; Änderungen nachvollziehen und Excel, Word sowie strukturierte Austauschdateien erzeugen.",
   "author": {
     "name": "Klotzkette",
