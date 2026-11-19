@@ -1,0 +1,34 @@
+From: Tobias Wieland <dispo@wuermquell.example>
+To: Jule Kopp <j.kopp@schoenbuchring.example>
+Subject: BB 4416 / der abweichende Betrag im Auftragsschirm
+Date: Mon, 28 Sep 2026 09:02:00 +0200
+Message-ID: <n05.sr26@schoenbuchring.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="sr26-geldverkehr-N05"
+
+--sr26-geldverkehr-N05
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Guten Morgen Frau Kopp,
+
+im Abruf vom Freitag standen Buchsaldo und Auftragsrahmen auf unterschiedlich=
+en Reitern. Anbei die Ereignisse aus dem zweiten Reiter, wie soeben besproche=
+n. Die Vertragsauskunft ist Ihnen als gesondertes Schreiben N01 zugegangen.
+
+Tobias Wieland
+
+--sr26-geldverkehr-N05
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="N03_Freigabejournal.csv"
+MIME-Version: 1.0
+
+77u/WmVpdCBNRVNaO0tvbnRva2VubnVuZztBcnQ7QmV0cmFnIEVVUjtSZWZlcmVueg0KMjQuMDku
+MjAyNiAxNjoxNTtCQiA0NDE2O1NwZXJyZSBha3RpdjszMjAwMCwwMDtLRC0xNzg0DQoyNS4wOS4y
+MDI2IDE3OjMwO0JCIDQ0MTY7QnVjaHNhbGRvOzUwMDAwLDAwO0FCUy0yNQ0KMjUuMDkuMjAyNiAx
+NzozMDtCQiA0NDE2O2VmZmVrdGl2ZXIgVmVyZsO8Z3VuZ3NiZXRyYWc7MTgwMDAsMDA7RElTLTI1
+DQoyOC4wOS4yMDI2IDA4OjMwO0JCIDQ0MTY7U3BlcnJlIHdlaXRlciBha3RpdjszMjAwMCwwMDtL
+RC0xNzg0DQo=
+
+--sr26-geldverkehr-N05--

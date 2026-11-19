@@ -1,0 +1,291 @@
+{
+  "caseName": "Autohaus Schönbuchring GmbH",
+  "dates": [
+    {
+      "date": "2026-09-25",
+      "liquidity": {
+        "complete": true,
+        "nearClosure": {
+          "result": "not_established",
+          "source": "N01, P02, N06 und Händlerankauf N02",
+          "reason": "Kein disponibler Überbrückungskredit oder fristgerechter Kaufpreisanspruch. Vor dem 16. Oktober besteht keine belastbare weitere Finanzierungszusage."
+        },
+        "assets": [
+          {
+            "id": "B01",
+            "description": "Verfügbarer Teil des Betriebskontos",
+            "source": "B02 25.09. und N01, N03 17:30",
+            "amountCents": 1800000,
+            "decision": "include",
+            "kind": "cash",
+            "availableOn": "2026-09-25"
+          },
+          {
+            "id": "B03",
+            "description": "Barbestand",
+            "source": "B03 letzter Bon 005731",
+            "amountCents": 200000,
+            "decision": "include",
+            "kind": "cash",
+            "availableOn": "2026-09-25"
+          },
+          {
+            "id": "B04",
+            "description": "Abrufbare Zweitbanklinie",
+            "source": "B04 KK 870",
+            "amountCents": 800000,
+            "decision": "include",
+            "kind": "cash",
+            "availableOn": "2026-09-25"
+          },
+          {
+            "id": "F01",
+            "description": "Flieder Kurierdienst KG / AR-482",
+            "source": "O02 und O03, Avis FK-42",
+            "amountCents": 1800000,
+            "decision": "include",
+            "kind": "inflow",
+            "availableOn": "2026-09-29"
+          },
+          {
+            "id": "F02",
+            "description": "Pflegedienst Höhenrain / AR-489",
+            "source": "O02 und O03, Avis PH-91",
+            "amountCents": 1100000,
+            "decision": "include",
+            "kind": "inflow",
+            "availableOn": "2026-09-30"
+          },
+          {
+            "id": "F03",
+            "description": "Karosseriehaus Deufringen / AR-493",
+            "source": "O02 und O03, Avis KD-16",
+            "amountCents": 750000,
+            "decision": "include",
+            "kind": "inflow",
+            "availableOn": "2026-10-02"
+          },
+          {
+            "id": "F04",
+            "description": "Wohnmobile Glashütte KG / AR-497",
+            "source": "O02 und O03, Avis WG-7",
+            "amountCents": 1600000,
+            "decision": "include",
+            "kind": "inflow",
+            "availableOn": "2026-10-06"
+          },
+          {
+            "id": "F05",
+            "description": "Taxizentrale Mönchhalde / AR-500",
+            "source": "O02 und O03, Avis TM-34",
+            "amountCents": 850000,
+            "decision": "include",
+            "kind": "inflow",
+            "availableOn": "2026-10-09"
+          },
+          {
+            "id": "F06",
+            "description": "Getriebepool Nagold / AR-505",
+            "source": "O02 und O03, Avis GN-22",
+            "amountCents": 1500000,
+            "decision": "include",
+            "kind": "inflow",
+            "availableOn": "2026-10-14"
+          },
+          {
+            "id": "F07",
+            "description": "Lerchenweg Sozialmobil / AR-511",
+            "source": "O02 und O03, Avis LS-55",
+            "amountCents": 1000000,
+            "decision": "include",
+            "kind": "inflow",
+            "availableOn": "2026-10-16"
+          },
+          {
+            "id": "SP",
+            "description": "Gesperrter Teil des Buchguthabens",
+            "source": "N01 und N03, KD 1784",
+            "amountCents": 3200000,
+            "decision": "exclude",
+            "reason": "Für die ganze Dreiwochenfrist gesperrt.",
+            "kind": "cash",
+            "availableOn": "2026-09-25"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "K01",
+            "description": "Lackzentrum Böblinger Tal / Lack- und Karosserieaufträge",
+            "source": "O01 EA-971 und O04, Abschnitt 1",
+            "amountCents": 1900000,
+            "decision": "include",
+            "dueOn": "2026-09-18"
+          },
+          {
+            "id": "K02",
+            "description": "Radsatz Heckengäu KG / Herbstbevorratung",
+            "source": "O01 EA-988 und O04, Abschnitt 1",
+            "amountCents": 1200000,
+            "decision": "include",
+            "dueOn": "2026-09-21"
+          },
+          {
+            "id": "K03",
+            "description": "Gewerbehof Hulbsteig KG / Septemberpacht",
+            "source": "O01 M-2609 und O04, Abschnitt 1",
+            "amountCents": 1150000,
+            "decision": "include",
+            "dueOn": "2026-09-22"
+          },
+          {
+            "id": "K04",
+            "description": "Prüftechnik Calw GmbH / Hebebühnenservice",
+            "source": "O01 EA-1004 und O04, Abschnitt 1",
+            "amountCents": 950000,
+            "decision": "include",
+            "dueOn": "2026-09-25"
+          },
+          {
+            "id": "K05",
+            "description": "Fahrzeugtransporte Birk / Hoftransport Juli/August",
+            "source": "O01 EA-1011 und O04, Abschnitt 1",
+            "amountCents": 940000,
+            "decision": "include",
+            "dueOn": "2026-09-29"
+          },
+          {
+            "id": "K06",
+            "description": "Teilekontor Schönrain / Bremssätze und Kleinmaterial",
+            "source": "O01 EA-1013 und O04, Abschnitt 1",
+            "amountCents": 1260000,
+            "decision": "include",
+            "dueOn": "2026-10-02"
+          },
+          {
+            "id": "K07",
+            "description": "Aufbereitung Schiltach / Rahmenlos Vorführwagen",
+            "source": "O01 EA-9882 und O04, Abschnitt 1",
+            "amountCents": 1540000,
+            "decision": "include",
+            "dueOn": "2026-10-06"
+          },
+          {
+            "id": "K08",
+            "description": "Serviceverbund Gäu / Garantiearbeiten August",
+            "source": "O01 EA-9917 und O04, Abschnitt 1",
+            "amountCents": 1560000,
+            "decision": "include",
+            "dueOn": "2026-10-09"
+          },
+          {
+            "id": "K09",
+            "description": "Energiepark Hulb / Ladesäulen und Werkstattstrom",
+            "source": "O01 EA-1044 und O04, Abschnitt 1",
+            "amountCents": 1420000,
+            "decision": "include",
+            "dueOn": "2026-10-13"
+          },
+          {
+            "id": "K10",
+            "description": "Diagnosepool Glems / Diagnosegeräte und Lizenzen",
+            "source": "O01 EA-1050 und O04, Abschnitt 1",
+            "amountCents": 1080000,
+            "decision": "include",
+            "dueOn": "2026-10-16"
+          }
+        ]
+      },
+      "overindebtedness": {
+        "complete": true,
+        "forecast": {
+          "result": "negative",
+          "through": "2027-09-25",
+          "failureOn": "2026-10-02",
+          "source": "P01 13 Wochen und Anschluss, B04, N01, P02 und N06",
+          "reason": "Spätestens am Ende von Woche 1 fehlen 9.500 Euro. Der Plan kann die fälligen Zahlungen ohne unverbindliche neue Mittel nicht abbilden. Der unbestätigte Zuschuss und das spätere Kaufangebot schließen die Lücke nicht."
+        },
+        "assets": [
+          {
+            "id": "A01",
+            "description": "Hausbank und Barkasse",
+            "source": "B01–B03, N01; Bank brutto inkl. Sicherungsguthaben",
+            "amountCents": 5200000,
+            "decision": "include"
+          },
+          {
+            "id": "A02",
+            "description": "Lieferforderungen",
+            "source": "O02, N04; sieben Avis und Vergleichsofferte",
+            "amountCents": 9400000,
+            "decision": "include"
+          },
+          {
+            "id": "A03",
+            "description": "Fahrzeuge im Eigenbestand",
+            "source": "V01, N02; sechs Lagerfahrzeuge",
+            "amountCents": 17400000,
+            "decision": "include"
+          },
+          {
+            "id": "A04",
+            "description": "Werkstattausstattung",
+            "source": "N02; Hebebühnen, Diagnose und Kabine",
+            "amountCents": 4100000,
+            "decision": "include"
+          },
+          {
+            "id": "A05",
+            "description": "Ersatzteile und Räder",
+            "source": "N02; Rücknahmeangebot nach Sortierung",
+            "amountCents": 1700000,
+            "decision": "include"
+          },
+          {
+            "id": "A06",
+            "description": "Aktive Rechnungsabgrenzung",
+            "source": "F01, N02; nicht abtretbares Wartungspaket",
+            "amountCents": 0,
+            "decision": "include"
+          }
+        ],
+        "liabilities": [
+          {
+            "id": "P01",
+            "description": "Lieferanten und Vermieter",
+            "source": "O01 K01–K10; zehn bestehende Verpflichtungen",
+            "amountCents": 13000000,
+            "decision": "include"
+          },
+          {
+            "id": "P02",
+            "description": "Einkaufsfinanzierung",
+            "source": "V01, V02; Summe sechs Ablösebeträge",
+            "amountCents": 14000000,
+            "decision": "include"
+          },
+          {
+            "id": "P03",
+            "description": "Investitionsdarlehen",
+            "source": "F01, B04, N01; Betriebskonto getrennt",
+            "amountCents": 5000000,
+            "decision": "include"
+          },
+          {
+            "id": "P04",
+            "description": "Gesellschafterdarlehen",
+            "source": "F02; Endfälligkeit 31.03.2027",
+            "amountCents": 11500000,
+            "decision": "include"
+          },
+          {
+            "id": "P05",
+            "description": "Gewährleistungsrückstellung",
+            "source": "F01, N02; noch offene Einzelvorgänge",
+            "amountCents": 2000000,
+            "decision": "include"
+          }
+        ]
+      }
+    }
+  ]
+}

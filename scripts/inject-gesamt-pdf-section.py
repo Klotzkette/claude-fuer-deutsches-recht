@@ -175,6 +175,14 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
             "ZIP links refer to the latest published release.",
             "ZIP links refer to the case companion release for the stated marketplace version.",
         )
+    if slug in {'autohaus-boeblingen', 'neuralis-medtech-erlangen-gestaltungsakte'}:
+        intro = ('Öffnen Sie im Akten-ZIP zuerst den Ordner `Grundakte`. Geben Sie die weiteren '
+                 'Ordner erst für den nächsten Arbeitsauftrag hinzu. Das Einzel-PDF-ZIP bewahrt '
+                 'dieselben Aktenstände und enthält jede Unterlage als eigene PDF.')
+        trailer = ('Im Gesamt-PDF führen Lesezeichen zu den Aktenständen und einzelnen Belegen. '
+                   'Die ZIPs enthalten nur die Arbeitsunterlagen und den Herkunftshinweis.')
+        english = ('English: Begin with the initial records in `Grundakte`. Both ZIP editions retain '
+                   'the separate stages. The combined PDF includes bookmarks for individual documents.')
     return f"""{MARKER_BEGIN}
 ## Akte komplett herunterladen
 

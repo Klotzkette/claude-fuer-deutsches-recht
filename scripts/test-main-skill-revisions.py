@@ -136,6 +136,35 @@ class RevisionTests(unittest.TestCase):
         path=self.metadata_record('beispiel/README.md',old,new.replace(b'Anleitung',b'Andere Rechtsaussage'))
         with self.assertRaisesRegex(ValueError,'mehr als eigene Paketlinks'):rev.previous_bytes(self.root,path)
 
+    def test_reviewed_case_row_cannot_hide_unrelated_edits(self):
+        slug = "erste-akte"
+        base = "../testakten/" + slug
+        relative = "beispiel/README.md"
+        title = "Unsere Akte"
+        put(self.root, f"testakten/{slug}/README.md", ("# " + title + "\n").encode())
+        old = b"# Handbuch\n[2 zugeordnete Akten](#zugeordnete-testakten)\n"
+        path = self.metadata_record(relative, old, old)
+        version = "akten-v1.0.0"
+        names = [f"testakte-{slug}{suffix}.zip" for suffix in ("", "-einzelpdfs")]
+        put(self.root, "scripts/scoped-release-assets.json", {"schema_version": 1,
+            "assets": {name: version for name in names}})
+        cells = [f"[{title}]({base}/README.md)", f"[Gesamt-PDF]({base}/gesamt-pdf/{slug}_gesamt.pdf)"]
+        url = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/" + version
+        cells.extend(f"[`{name}`]({url}/{name})" for name in names)
+        current = old.replace(b"[2 ", b"[3 ") + ("| " + " | ".join(cells) + " |\n").encode()
+        record = rev.load(self.root / rev.REGISTRY)
+        addition = {"slug": slug, "title": title, "previous_count": 2, "after_sha256": rev.digest(current)}
+        record["integration_files"][0]["case_index_addition"] = addition
+        put(self.root, rev.REGISTRY, record)
+        path.write_bytes(current)
+        self.assertEqual(rev.previous_bytes(self.root, path), old)
+        unrelated = current.replace(b"Handbuch", b"Neue Rechtsaussage")
+        path.write_bytes(unrelated)
+        addition["after_sha256"] = rev.digest(unrelated)
+        put(self.root, rev.REGISTRY, record)
+        with self.assertRaises(ValueError):
+            rev.previous_bytes(self.root, path)
+
     def test_followup_preserves_both_previous_editions_and_rejects_changed_text(self):
         relative = 'beispiel/README.md'
         url = b'https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/'
