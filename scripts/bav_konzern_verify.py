@@ -66,6 +66,7 @@ def checked_file(root, record, *, generator=False):
         historical = b"".join(lines[: first - 1] + lines[last:])
         if sha(historical) != record["sha256"]:
             raise ValueError(f"Historischer Generator nicht bytegleich rekonstruierbar: {path}")
+        return historical
     return data
 
 
