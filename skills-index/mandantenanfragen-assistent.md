@@ -1,6 +1,6 @@
 # mandantenanfragen-assistent
 
-**10 Skills** · Stand `v445.36.8`
+**10 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../mandantenanfragen-assistent/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`mandantenanfragen-assistent-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=mandantenanfragen-assistent/mandantenanfragen-assistent-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`mandantenanfragen-assistent-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=mandantenanfragen-assistent/mandantenanfragen-assistent-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [mandantenanfragen-assistent.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/mandantenanfragen-assistent.zip) |
+| **Plugin (installierbar)** | ZIP | [mandantenanfragen-assistent.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/mandantenanfragen-assistent.zip) |
 
 ## So benutzt man einen Skill
 

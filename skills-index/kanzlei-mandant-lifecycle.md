@@ -1,6 +1,6 @@
 # kanzlei-mandant-lifecycle
 
-**8 Skills** · Stand `v445.36.8`
+**8 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../kanzlei-mandant-lifecycle/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`kanzlei-mandant-lifecycle-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kanzlei-mandant-lifecycle/kanzlei-mandant-lifecycle-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`kanzlei-mandant-lifecycle-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kanzlei-mandant-lifecycle/kanzlei-mandant-lifecycle-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [kanzlei-mandant-lifecycle.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/kanzlei-mandant-lifecycle.zip) |
+| **Plugin (installierbar)** | ZIP | [kanzlei-mandant-lifecycle.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/kanzlei-mandant-lifecycle.zip) |
 
 ## So benutzt man einen Skill
 

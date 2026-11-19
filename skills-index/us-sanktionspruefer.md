@@ -1,6 +1,6 @@
 # us-sanktionspruefer
 
-**10 Skills** · Stand `v445.36.8`
+**10 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../us-sanktionspruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`us-sanktionspruefer-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-sanktionspruefer/us-sanktionspruefer-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`us-sanktionspruefer-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-sanktionspruefer/us-sanktionspruefer-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [us-sanktionspruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/us-sanktionspruefer.zip) |
+| **Plugin (installierbar)** | ZIP | [us-sanktionspruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/us-sanktionspruefer.zip) |
 
 ## So benutzt man einen Skill
 

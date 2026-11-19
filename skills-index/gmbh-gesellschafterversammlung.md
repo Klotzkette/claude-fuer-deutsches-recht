@@ -1,6 +1,6 @@
 # gmbh-gesellschafterversammlung
 
-**6 Skills** · Stand `v445.36.8`
+**6 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gmbh-gesellschafterversammlung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`gmbh-gesellschafterversammlung-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`gmbh-gesellschafterversammlung-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [gmbh-gesellschafterversammlung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/gmbh-gesellschafterversammlung.zip) |
+| **Plugin (installierbar)** | ZIP | [gmbh-gesellschafterversammlung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/gmbh-gesellschafterversammlung.zip) |
 
 ## So benutzt man einen Skill
 

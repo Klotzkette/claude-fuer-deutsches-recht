@@ -1,6 +1,6 @@
 # zahlungsunfaehigkeits-und-ueberschuldungspruefer
 
-**11 Skills** · Stand `v445.36.8`
+**11 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`zahlungsunfaehigkeits-und-ueberschuldungspruefer-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`zahlungsunfaehigkeits-und-ueberschuldungspruefer-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zahlungsunfaehigkeits-und-ueberschuldungspruefer/zahlungsunfaehigkeits-und-ueberschuldungspruefer-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [zahlungsunfaehigkeits-und-ueberschuldungspruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/zahlungsunfaehigkeits-und-ueberschuldungspruefer.zip) |
+| **Plugin (installierbar)** | ZIP | [zahlungsunfaehigkeits-und-ueberschuldungspruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/zahlungsunfaehigkeits-und-ueberschuldungspruefer.zip) |
 
 ## So benutzt man einen Skill
 

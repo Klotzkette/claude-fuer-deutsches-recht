@@ -1,6 +1,6 @@
 # zwangsverwaltung-zvg
 
-**9 Skills** · Stand `v445.36.8`
+**9 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../zwangsverwaltung-zvg/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`zwangsverwaltung-zvg-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zwangsverwaltung-zvg/zwangsverwaltung-zvg-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`zwangsverwaltung-zvg-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zwangsverwaltung-zvg/zwangsverwaltung-zvg-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [zwangsverwaltung-zvg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/zwangsverwaltung-zvg.zip) |
+| **Plugin (installierbar)** | ZIP | [zwangsverwaltung-zvg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/zwangsverwaltung-zvg.zip) |
 
 ## So benutzt man einen Skill
 

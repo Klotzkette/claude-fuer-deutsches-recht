@@ -1,6 +1,6 @@
 # insolvenzforderungen-checker
 
-**11 Skills** · Stand `v445.36.8`
+**11 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../insolvenzforderungen-checker/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -13,7 +13,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`insolvenzforderungen-checker-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-schnellstart.md) |
 | **Derselbe Schnellstart-Prompt als Text** | TXT | [`insolvenzforderungen-checker-schnellstart.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-schnellstart.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [insolvenzforderungen-checker.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/insolvenzforderungen-checker.zip) |
+| **Plugin (installierbar)** | ZIP | [insolvenzforderungen-checker.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/insolvenzforderungen-checker.zip) |
 
 ## So benutzt man einen Skill
 

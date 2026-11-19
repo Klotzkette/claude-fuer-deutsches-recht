@@ -1,6 +1,6 @@
 # preussisches-allgemeines-landrecht-pralr
 
-**9 Skills** · Stand `v445.36.8`
+**9 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../preussisches-allgemeines-landrecht-pralr/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`preussisches-allgemeines-landrecht-pralr-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=preussisches-allgemeines-landrecht-pralr/preussisches-allgemeines-landrecht-pralr-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`preussisches-allgemeines-landrecht-pralr-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=preussisches-allgemeines-landrecht-pralr/preussisches-allgemeines-landrecht-pralr-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [preussisches-allgemeines-landrecht-pralr.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/preussisches-allgemeines-landrecht-pralr.zip) |
+| **Plugin (installierbar)** | ZIP | [preussisches-allgemeines-landrecht-pralr.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/preussisches-allgemeines-landrecht-pralr.zip) |
 
 ## So benutzt man einen Skill
 

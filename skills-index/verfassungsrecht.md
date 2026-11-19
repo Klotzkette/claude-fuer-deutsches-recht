@@ -1,6 +1,6 @@
 # verfassungsrecht
 
-**9 Skills** · Stand `v445.36.8`
+**9 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../verfassungsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`verfassungsrecht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verfassungsrecht/verfassungsrecht-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`verfassungsrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verfassungsrecht/verfassungsrecht-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [verfassungsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/verfassungsrecht.zip) |
+| **Plugin (installierbar)** | ZIP | [verfassungsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/verfassungsrecht.zip) |
 
 ## So benutzt man einen Skill
 

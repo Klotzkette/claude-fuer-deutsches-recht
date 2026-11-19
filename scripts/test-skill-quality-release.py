@@ -67,6 +67,58 @@ class QualityReleaseTests(unittest.TestCase):
         self.assertIn("beispiel-werkstatt.txt", read_checksums(self.dist / B.CHECKSUMS))
         self.assertTrue((self.root / self.source / "testakte/downloads/testakte-alt.zip").exists())
 
+    def test_readme_links_in_both_packages_use_checkout_or_shipped_member(self):
+        from package_readme import REPOSITORY, add_to_archive
+        source = self.write(f"{self.source}/README.md", (
+            "[Skill](skills/vertrag-pruefen/SKILL.md) [Dateien](.) [hier](#beginn)\n"
+            "[`Katalog`](../../skills-index/Fall%20%C3%84.md?plain=1#rubrik)\n"
+            "[Aktenordner](testakte/) [Werkstatt](beispiel-werkstatt.md)\n"
+            "[Ziel]: <../../skills-index/Fall Ä.md> 'Quellenblatt'\n"
+            "[Website](https://example.org) [Mail](mailto:kanzlei@example.org)\n"
+            "Ein Beispiel: `[fiktiv](../../faellt-ins-leere.md)`\n"
+            "```md\n[ebenso](../../beispiel.md)\n```\n"
+        ))
+        original = source.read_bytes()
+        self.write("skills-index/Fall Ä.md", "# Rubrik")
+        subprocess.run(["git", "init", "-q"], cwd=self.root, check=True)
+        subprocess.run(["git", "add", "."], cwd=self.root, check=True)
+        subprocess.run(["git", "-c", "user.name=Fixture", "-c", "user.email=fixture@example.invalid",
+                        "commit", "-qm", "Fixture"], cwd=self.root, check=True)
+        commit = subprocess.check_output(["git", "rev-parse", "HEAD"], cwd=self.root, text=True).strip()
+        report = B.build(self.dist, self.scope, self.root, expected_commit=commit)
+        with zipfile.ZipFile(self.dist / "beispiel.zip") as native, zipfile.ZipFile(self.dist / "beispiel-portable.zip") as portable:
+            output = native.read("README.md")
+            self.assertEqual(output, portable.read("beispiel/README.md"))
+            self.assertEqual(source.read_bytes(), original)
+            expected = original.decode().replace("../../skills-index/Fall%20%C3%84.md", f"{REPOSITORY}/blob/{commit}/skills-index/Fall%20%C3%84.md")
+            expected = expected.replace("../../skills-index/Fall Ä.md", f"{REPOSITORY}/blob/{commit}/skills-index/Fall%20%C3%84.md")
+            expected = expected.replace("(testakte/)", f"({REPOSITORY}/tree/{commit}/{self.source}/testakte)")
+            expected = expected.replace("(beispiel-werkstatt.md)", f"({REPOSITORY}/blob/{commit}/{self.source}/beispiel-werkstatt.md)")
+            self.assertEqual(output.decode(), expected)
+            self.assertEqual(report["source_state"]["commit"], commit)
+            # The collection uses the real ZIP member list and adds the root README last.
+            global_zip = self.base / "collection.zip"
+            with zipfile.ZipFile(global_zip, "w") as collection:
+                for item in native.infolist():
+                    if item.filename != "README.md":
+                        collection.writestr(item, native.read(item))
+        add_to_archive(global_zip, self.root, source.parent, commit)
+        with zipfile.ZipFile(global_zip) as collection:
+            self.assertEqual(collection.read("README.md"), output)
+        with self.assertRaisesRegex(ValueError, "bereits"):
+            add_to_archive(global_zip, self.root, source.parent, commit)
+        # Replacing the rendered README with the historical broken bytes must fail.
+        files = B.source_files(self.root, source.parent)
+        stale = self.base / "stale.zip"
+        B.write_zip(stale, files)
+        with self.assertRaisesRegex(ValueError, "README"):
+            B.verify_zip(stale, files, readme=output)
+
+    def test_broken_repository_readme_target_fails_build(self):
+        self.write(f"{self.source}/README.md", "[Nicht vorhanden](../../fehlende-datei.md)\n")
+        with self.assertRaisesRegex(ValueError, "Ziel im Repository fehlt"):
+            self.build()
+
     def test_only_named_prompt_txt_is_release_asset(self):
         for name in ("beispiel-werkstatt.txt", "beispiel-schnellstart.txt", "beispiel-hauptproblem.txt"):
             path = self.write(name, "Prompt")

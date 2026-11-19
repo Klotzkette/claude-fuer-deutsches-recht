@@ -1,6 +1,6 @@
 # factoring-recht
 
-**8 Skills** · Stand `v445.36.8`
+**8 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../factoring-recht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`factoring-recht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=factoring-recht/factoring-recht-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`factoring-recht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=factoring-recht/factoring-recht-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [factoring-recht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/factoring-recht.zip) |
+| **Plugin (installierbar)** | ZIP | [factoring-recht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/factoring-recht.zip) |
 
 ## So benutzt man einen Skill
 

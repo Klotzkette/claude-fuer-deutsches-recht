@@ -1,6 +1,6 @@
 # barrierefreiheit-web-checker
 
-**9 Skills** · Stand `v445.36.8`
+**9 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../barrierefreiheit-web-checker/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`barrierefreiheit-web-checker-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=barrierefreiheit-web-checker/barrierefreiheit-web-checker-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`barrierefreiheit-web-checker-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=barrierefreiheit-web-checker/barrierefreiheit-web-checker-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [barrierefreiheit-web-checker.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/barrierefreiheit-web-checker.zip) |
+| **Plugin (installierbar)** | ZIP | [barrierefreiheit-web-checker.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/barrierefreiheit-web-checker.zip) |
 
 ## So benutzt man einen Skill
 

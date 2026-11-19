@@ -1,6 +1,6 @@
 # aktenauszug-gerichtsverfahren
 
-**8 Skills** · Stand `v445.36.8`
+**8 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../aktenauszug-gerichtsverfahren/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`aktenauszug-gerichtsverfahren-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`aktenauszug-gerichtsverfahren-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [aktenauszug-gerichtsverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/aktenauszug-gerichtsverfahren.zip) |
+| **Plugin (installierbar)** | ZIP | [aktenauszug-gerichtsverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/aktenauszug-gerichtsverfahren.zip) |
 
 ## So benutzt man einen Skill
 

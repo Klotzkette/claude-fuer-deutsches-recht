@@ -6,7 +6,7 @@ Beginnen Sie mit **Medienangebot prüfen** und geben Sie die vorhandenen Produkt
 
 ## 1. Installation und Arbeitsweise
 
-[Claude-/Codex-Paket herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/jugendmedienschutz-und-medienangebote.zip) · [Portables Paket herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/jugendmedienschutz-und-medienangebote-portable.zip)
+[Claude-/Codex-Paket herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/jugendmedienschutz-und-medienangebote.zip) · [Portables Paket herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/jugendmedienschutz-und-medienangebote-portable.zip)
 
 In Claude Code lässt sich das Paket über den Marketplace `klotzkette-german-legal-skills` auswählen. Das native Paket enthält auch ein Codex-Manifest. Die portable Variante stellt Skills und Quellen für kompatible Importe bereit; sie ist keine Zusage, dass jede ChatGPT-Oberfläche Plugins installieren kann. In einer reinen Chatoberfläche verwenden Sie einen der eigenständigen Prompts. Zusätzliche Konten, Zugangsdaten oder externe Server benötigt dieses Paket nicht.
 

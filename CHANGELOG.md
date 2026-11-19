@@ -1,3 +1,7 @@
+# Paketnavigation 445.36.9 – 19. November 2026
+
+Die Anleitungen der 312 Plugin-Pakete führen zu mitgelieferten Dateien und zu den passenden Übersichten und Testakten im öffentlichen Repository. Die 27 portablen Fassungen verwenden dieselben Linkziele. [Releaseumfang und Downloadprüfung](docs/releases/qualitaetsrunde-v445.36.9.md).
+
 # Hauptskills 445.36.8 – 18. November 2026
 
 312 Hauptskills verbinden vorhandene Unterlagen, entscheidende Fachprüfungen und belegte Gegenargumente mit einem vollständig ausgearbeiteten Ergebnis. Neue Angaben werden im selben Entwurf fortgeführt. Die Rechtsprechungsanker benennen Anwendung, Grenze und tatsächlichen Quellenstatus; ausgewählte Primärquellen sind zusätzlich geprüft. Technische Skillnamen und die vorhandenen Testakten bleiben erhalten.

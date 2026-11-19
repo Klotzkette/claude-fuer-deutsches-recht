@@ -1,6 +1,6 @@
 # informationsfreiheit-presseauskunft
 
-**7 Skills** · Stand `v445.36.8`
+**7 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../informationsfreiheit-presseauskunft/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`informationsfreiheit-presseauskunft-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`informationsfreiheit-presseauskunft-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [informationsfreiheit-presseauskunft.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/informationsfreiheit-presseauskunft.zip) |
+| **Plugin (installierbar)** | ZIP | [informationsfreiheit-presseauskunft.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/informationsfreiheit-presseauskunft.zip) |
 
 ## So benutzt man einen Skill
 

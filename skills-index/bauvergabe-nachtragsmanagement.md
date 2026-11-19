@@ -1,6 +1,6 @@
 # bauvergabe-nachtragsmanagement
 
-**11 Skills** · Stand `v445.36.8`
+**11 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bauvergabe/bauvergabe-nachtragsmanagement/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -13,7 +13,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`bauvergabe-nachtragsmanagement-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-nachtragsmanagement/bauvergabe-nachtragsmanagement-schnellstart.md) |
 | **Derselbe Schnellstart-Prompt als Text** | TXT | [`bauvergabe-nachtragsmanagement-schnellstart.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-nachtragsmanagement/bauvergabe-nachtragsmanagement-schnellstart.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [bauvergabe-nachtragsmanagement.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/bauvergabe-nachtragsmanagement.zip) |
+| **Plugin (installierbar)** | ZIP | [bauvergabe-nachtragsmanagement.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/bauvergabe-nachtragsmanagement.zip) |
 
 ## So benutzt man einen Skill
 

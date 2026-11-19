@@ -1,6 +1,6 @@
 # schriftsatz-versandwerkstatt
 
-**10 Skills** · Stand `v445.36.8`
+**10 Skills** · Stand `v445.36.9`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../schriftsatz-versandwerkstatt/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`schriftsatz-versandwerkstatt-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatz-versandwerkstatt/schriftsatz-versandwerkstatt-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`schriftsatz-versandwerkstatt-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatz-versandwerkstatt/schriftsatz-versandwerkstatt-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [schriftsatz-versandwerkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.8/schriftsatz-versandwerkstatt.zip) |
+| **Plugin (installierbar)** | ZIP | [schriftsatz-versandwerkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/schriftsatz-versandwerkstatt.zip) |
 
 ## So benutzt man einen Skill
 

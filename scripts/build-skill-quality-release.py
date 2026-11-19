@@ -3,7 +3,8 @@
 
 Keine Testakte wird erzeugt oder als Release-Asset mitveröffentlicht. Native
 Plugins bleiben flach; bereits vorhandene portable Varianten behalten ihren
-Plugin-Unterordner. Jeder Dateiinhalt wird gegen den Checkout verglichen.
+Plugin-Unterordner. Für die Paket-README wird die Navigation anhand des
+Archivinhalts und des Quellcommits gesetzt. Alle übrigen Dateien bleiben bytegleich.
 """
 from __future__ import annotations
 
@@ -21,6 +22,7 @@ import subprocess
 import tempfile
 import zipfile
 
+from package_readme import render_readme
 from prompt_profiles import PROMPT_SUFFIXES
 from release_asset_common import expected_asset_metadata, read_checksums, sha256_file, write_checksums
 from release_routing import check_asset_limit, scoped_asset_url, validate_plugin_version
@@ -287,16 +289,16 @@ def verify_reachability(files: dict[str, Path]) -> list[str]:
     return active
 
 
-def write_zip(target: Path, files: dict[str, Path], prefix: str = "") -> None:
+def write_zip(target: Path, files: dict[str, Path], prefix: str = "", *, readme: bytes | None = None) -> None:
     with zipfile.ZipFile(target, "x", compression=zipfile.ZIP_DEFLATED) as archive:
         for name, path in sorted(files.items()):
             item = zipfile.ZipInfo(prefix + name, STAMP)
             item.compress_type = zipfile.ZIP_DEFLATED
             item.external_attr = (stat.S_IFREG | stat.S_IMODE(path.stat().st_mode)) << 16
-            archive.writestr(item, path.read_bytes())
+            archive.writestr(item, readme if name == "README.md" and readme is not None else path.read_bytes())
 
 
-def verify_zip(target: Path, files: dict[str, Path], prefix: str = "") -> dict[str, str]:
+def verify_zip(target: Path, files: dict[str, Path], prefix: str = "", *, readme: bytes | None = None) -> dict[str, str]:
     with zipfile.ZipFile(target) as archive:
         expected = {prefix + name: path for name, path in files.items()}
         names = archive.namelist()
@@ -305,7 +307,7 @@ def verify_zip(target: Path, files: dict[str, Path], prefix: str = "") -> dict[s
         hashes = {}
         for name, path in sorted(expected.items()):
             data = archive.read(name)
-            if data != path.read_bytes():
+            if data != (readme if name == prefix + "README.md" and readme is not None else path.read_bytes()):
                 raise ValueError(f"{target.name}/{name}: Inhalt weicht vom Quellstand ab")
             hashes[name] = hashlib.sha256(data).hexdigest()
         return hashes
@@ -337,6 +339,7 @@ def validate_assets(dist: Path, scope: dict, root: Path, *, expected_commit: str
         raise ValueError("Release-Nachweis passt nicht zum vollständigen Scope")
     if expected_commit and report.get("source_state") != {"commit": expected_commit, "clean": True}:
         raise ValueError("Release-Nachweis stammt nicht vom freigegebenen sauberen Commit")
+    commit = checkout_state(root, expected_commit)["commit"]
     checksums = read_checksums(dist / CHECKSUMS)
     if set(checksums) != expected - {CHECKSUMS}:
         raise ValueError("Prüfsummenbestand ist unvollständig oder enthält zusätzliche Dateien")
@@ -349,12 +352,13 @@ def validate_assets(dist: Path, scope: dict, root: Path, *, expected_commit: str
         files = source_files(root, directory)
         manifests = check_manifests(files, name, scope["version"])
         active = verify_reachability(files)
+        readme = render_readme(root, directory, files, commit)
         evidence = report["plugins"][name]
         if evidence["skills"] != active or evidence["manifests"] != manifests:
             raise ValueError(f"{name}: Skill-/Manifestnachweis stimmt nicht")
         for variant in plugin["variants"]:
             filename = name + ("-portable" if variant == "portable" else "") + ".zip"
-            hashes = verify_zip(dist / filename, files, name + "/" if variant == "portable" else "")
+            hashes = verify_zip(dist / filename, files, name + "/" if variant == "portable" else "", readme=readme)
             if evidence["archives"][filename] != hashes:
                 raise ValueError(f"{filename}: Quellhashinventar stimmt nicht")
         CHECKS.validate_plugin_zip(dist, name, scope["version"])
@@ -393,12 +397,13 @@ def build(dist: Path, scope: dict, root: Path = ROOT, *, expected_commit: str | 
         files = source_files(root, directory)
         manifests = check_manifests(files, name, scope["version"])
         active = verify_reachability(files)
+        readme = render_readme(root, directory, files, state["commit"])
         evidence = {"source": entries[name]["source"], "skills": active, "manifests": manifests, "archives": {}}
         for variant in plugin["variants"]:
             filename = name + ("-portable" if variant == "portable" else "") + ".zip"
             prefix = name + "/" if variant == "portable" else ""
-            write_zip(dist / filename, files, prefix)
-            evidence["archives"][filename] = verify_zip(dist / filename, files, prefix)
+            write_zip(dist / filename, files, prefix, readme=readme)
+            evidence["archives"][filename] = verify_zip(dist / filename, files, prefix, readme=readme)
         report["plugins"][name] = evidence
         for filename in plugin["prompts"]:
             source = directory / filename
