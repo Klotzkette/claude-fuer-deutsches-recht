@@ -23,7 +23,7 @@ from PIL import Image
 from pypdf import PdfReader
 import pdfplumber
 
-from bav_konzern_verify import verify_inventory, INVENTORY, sha
+from bav_konzern_verify import verify_inventory, INVENTORY, PARTNERAKTEN_ADDITIONS, sha
 from testakte_file_filter import include_in_working_dump
 from testakte_grundakte import check_intake_member
 from testakte_einzelpdf_common import document_arcname_pairs
@@ -258,6 +258,29 @@ def mutation_regression(root):
             except ValueError:
                 return
             raise AssertionError("Manipulation wurde nicht erkannt")
+        for generator in inventory["generators"]:
+            addition = PARTNERAKTEN_ADDITIONS.get(generator["path"])
+            if not addition:
+                continue
+            path = copy / generator["path"]
+            original = path.read_bytes()
+            if sha(original) == addition[0]:
+                _, first, last = addition
+                lines = original.splitlines(keepends=True)
+                before, extra, after = lines[: first - 1], lines[first - 1:last], lines[last:]
+                # Die registrierte Bezeichnung allein darf an anderer Stelle
+                # oder mit anderen Zielprogrammen keine Freigabe begründen.
+                path.write_bytes(b"".join(before[:-1] + extra + before[-1:] + after))
+                rejected()
+                changed = b"".join(extra).replace(b"neuralis-medtech-erlangen-gestaltungsakte", b"fremde-testakte", 1)
+                path.write_bytes(b"".join(before) + changed + b"".join(after))
+                rejected()
+                path.write_bytes(b"".join(before + after))
+                assert sha(path.read_bytes()) == generator["sha256"]
+            path.write_bytes(original + b"\n# ungebundene Aenderung\n")
+            rejected()
+            path.write_bytes(original)
+
         source = copy / inventory["cases"][0]["sources"][0]["path"]
         original = source.read_bytes()
         source.write_bytes(original + b" stale")
