@@ -58,3 +58,22 @@ Im Ordner `Massnahmen_und_Auswertung` finden Sie die Krisenanordnung, die Behör
 ## 6 Material zur Nachbesprechung
 
 [Moderation und Kontrollrechnungen](../../quality/hameln-compliance/nachbesprechung/compliance-hameln-schokolade-charge-k17.md) · [Hamelner Compliance-Werkstatt](../../compliance-abteilung-grosskonzern/README.md)
+
+<!-- BEGIN praxisnachtrag-2026-11 -->
+## Belegnachtrag · Zwei Paletten für Tor 2
+
+Am 06.11.2026 um 09:19 Uhr geht die E-Mail „AV-026309 | Die Rampe fragt nach dem zweiten Etikett“ mit dem Datenauszug „Versanddruckjournal Puffer 2“ ein. Beides liegt in der Vollakte unter `Praxisnachtrag/Grundakte`. Am 11.11.2026 um 14:20 Uhr folgen „Übergabebogen für Rücknahmen am Kundendienst“ und „Kundendienst Filiale 014 · Teilmenge bereits gemeldeter Rücknahmen“ im separaten Ordner `Praxisnachtrag/Nachlieferung`. Für die Vorführung lassen sich die beiden Eingänge zeitlich getrennt öffnen.
+
+Klären Sie für die 09:30-Uhr-Entscheidung die tatsächlich zur Abholung vorgesehenen Stückzahlen. Arbeiten Sie später heraus, welche Rücknahmen bereits im Händlerstand enthalten sind.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlagen | Download |
+| --- | --- |
+| Vollständige Originalakte mit beiden Eingängen | [Vollakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/compliance-hameln-schokolade-charge-k17-mit-nachtrag.zip) |
+| Vier zusätzliche Belege in EML, CSV und PDF | [Nachtrag in Originalformaten](../../docs/testakten-praxisnachtraege/compliance-hameln-schokolade-charge-k17-nachtrag.zip) |
+| Dieselben vier Belege als Einzeldokumente | [Vier Einzel-PDFs als ZIP](../../docs/testakten-praxisnachtraege/compliance-hameln-schokolade-charge-k17-nachtrag-einzelpdfs.zip) |
+| Lesefassung nur dieser vier Belege | [Vierseitiges PDF mit Lesezeichen](../../docs/testakten-praxisnachtraege/compliance-hameln-schokolade-charge-k17-nachtrag.pdf) |
+<!-- END praxisnachtrag-2026-11 -->

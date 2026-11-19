@@ -1,0 +1,5 @@
+Vorgang;Zeitpunkt;Objekt;Ereignis;Rückgabe
+427-11;09.03.2026 18:32;Datenraum 4.27;Anmeldung;OK
+427-12;09.03.2026 18:33;Baubeschreibung;Metadaten angezeigt;Version im Frontendprotokoll leer
+427-13;09.03.2026 18:34;Baubeschreibung;Download angefordert;Verbindung abgebrochen
+427-14;09.03.2026 18:38;Aufteilungsplan Auszug;Download beendet;200 OK

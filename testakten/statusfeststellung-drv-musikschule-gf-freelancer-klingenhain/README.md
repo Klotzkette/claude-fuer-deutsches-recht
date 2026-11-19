@@ -54,3 +54,22 @@ Diese Akte bündelt eine Status- und Betriebsprüfungsakte einer gemeinnützigen
 | `24-verfahrenskalender.csv` | Fristen, Anhörung, Bescheid, Widerspruch, Zahlungsdruck |
 | `25-sms-export-vertretungen-krankmeldungen.txt` | SMS-Auszug Diensthandy Sekretariat: Krankmeldungen, Raumverlegungen, zentrale Preisfestsetzung, Konferenzpflicht |
 | `26-email-rechtsstelle-kuendigung-familie-k.eml` | E-Mail-Wechsel Verwaltungsleitung/Remstädt zur Kündigung Familie K. mit Weisung, Diktatvorlage und Pauschalen-Bitte |
+
+<!-- BEGIN praxisnachtrag-2026-11 -->
+## Belegnachtrag · Der verlegte Gitarrentermin
+
+Am 06.03.2026 um 17:11 Uhr geht die E-Mail „Freitag, Einzeltermin B. im Studio“ mit dem Datenauszug „Studioauszug · Freitag 6. März“ ein. Beides liegt in der Vollakte unter `Praxisnachtrag/Grundakte`. Am 10.06.2026 um 12:40 Uhr folgen „Zuordnung der beiden Listen vom 6. März“ und „Portaljournal · Termin- und Abrechnungsfelder“ im separaten Ordner `Praxisnachtrag/Nachlieferung`. Für die Vorführung lassen sich die beiden Eingänge zeitlich getrennt öffnen.
+
+Ordnen Sie Privatunterricht und Schulgruppe getrennt zu. Welche Feststellungen zur Ausführung tragen beide Register und welche Vertrags- oder Zahlungsbelege fehlen noch?
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlagen | Download |
+| --- | --- |
+| Vollständige Originalakte mit beiden Eingängen | [Vollakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain-mit-nachtrag.zip) |
+| Vier zusätzliche Belege in EML, CSV und PDF | [Nachtrag in Originalformaten](../../docs/testakten-praxisnachtraege/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain-nachtrag.zip) |
+| Dieselben vier Belege als Einzeldokumente | [Vier Einzel-PDFs als ZIP](../../docs/testakten-praxisnachtraege/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain-nachtrag-einzelpdfs.zip) |
+| Lesefassung nur dieser vier Belege | [Vierseitiges PDF mit Lesezeichen](../../docs/testakten-praxisnachtraege/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain-nachtrag.pdf) |
+<!-- END praxisnachtrag-2026-11 -->

@@ -27,6 +27,16 @@ English: Start with the `Grundakte` folder in the original-format ZIP. It contai
 
 <!-- END gesamt-pdf-section (autogen) -->
 
+## Workshop mit späterem Belegeingang
+
+Der Verlängerungsantrag über 90.000 Euro steht noch im Portal, als die Frühschicht ihre Zahlungen disponiert. Arbeiten Sie zunächst mit der Grundakte. Öffnen Sie danach die beiden E-Mails, das Linienprotokoll und das Rückrufjournal im Ordner `Nachlieferung`. Klären Sie für den 11. Mai, wer einen Auftrag tatsächlich freigeben konnte und welche Aussage der angezeigte Rahmen zulässt.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Vollständige Originalakte mit getrennter Nachlieferung herunterladen](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/workshops/insolvenzreife-nachlieferungen/downloads/keramikfabrik-cottbus-mit-nachlieferung.zip)
+
 ## 1. Arbeitsauftrag
 
 Öffnen Sie zunächst nur `Grundakte` im Originalformat-ZIP. Erstellen Sie aus den übergebenen Dateien ein Quellenverzeichnis, ordnen Sie zusammengehörende Belege zu und benennen Sie fehlende Unterlagen. Verfahrensdokumente aus `10_Verfahren` und die gesonderte Stichtagskontrolle können später hinzugezogen werden.

@@ -192,3 +192,13 @@ Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blanko
 | Internes Gutachten (PDF) | [Datei öffnen](pruefmaterial-insolvenz/Internes-Insolvenzanfechtungsgutachten.pdf) |
 
 <!-- END pruefmaterial-insolvenz -->
+
+## Weitere Unterlagen im Mandat
+
+Ein Bankjournal trennt die Freigabe des Zahlungslaufs, die Belastung des Massekontos und die spätere Rückläuferabfrage. Die Vollakte enthält die bisherige Originalfassung und beide zusätzlichen Belege im Ordner `Nachlieferung`. Die separat angebotenen PDF-Fassungen zeigen den vorherigen Aktenstand.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Vollständige Originalakte mit Nachlieferung herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/insolvenzverwaltung-nordlicht-handels-kiel-mit-nachtrag.zip)

@@ -1,0 +1,18 @@
+{
+  "arbeitsrecht-kuendigungsdrama-koerber-werk": {
+    "source": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip",
+    "sha256": "6b2c356efc46e75eea3b4a8f406dd96bc4f4d36a0f5e605c0a3cbf9cca9ff58f"
+  },
+  "inkasso-zahlungsklage-modefuchs": {
+    "source": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-inkasso-zahlungsklage-modefuchs.zip",
+    "sha256": "5f476f83ff52a21944fbf8dbdbd0d3fb13e282bd007013359d9d473ceef7f2f9"
+  },
+  "insolvenzverwaltung-moebelwerk-havelberg-regelverfahren": {
+    "source": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip",
+    "sha256": "1931874d5b8ecc96ebc8ee9dd4b299fb45b8ffa52e757b42a0de5e9d6adec9c4"
+  },
+  "insolvenzverwaltung-nordlicht-handels-kiel": {
+    "source": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip",
+    "sha256": "76d67b7ff638677b9f076c135b2516981f7b16e18c6d9be79a980741f9120d59"
+  }
+}

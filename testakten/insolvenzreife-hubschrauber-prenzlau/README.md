@@ -27,6 +27,16 @@ English: Start with the `Grundakte` folder in the original-format ZIP. It contai
 
 <!-- END gesamt-pdf-section (autogen) -->
 
+## Workshop mit späterem Belegeingang
+
+Die Frühschicht und die Firmenkasse melden am selben Morgen unterschiedliche verfügbare Beträge für dasselbe Konto. Prüfen Sie zuerst die vorhandenen Auszüge und die Sicherungsabrede. Öffnen Sie anschließend die Korrespondenz, das Dispositionsjournal und das Schichtbuch im Ordner `Nachlieferung`. Ermitteln Sie den nach der Tagesdisposition am 18. Mai verfügbaren Betrag und verfolgen Sie das Buchguthaben getrennt im Vermögensstatus.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Vollständige Originalakte mit getrennter Nachlieferung herunterladen](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/workshops/insolvenzreife-nachlieferungen/downloads/hubschrauber-prenzlau-mit-nachlieferung.zip)
+
 ## 1. Arbeitsauftrag
 
 Öffnen Sie zunächst nur `Grundakte` im Originalformat-ZIP. Erstellen Sie aus den übergebenen Dateien ein Quellenverzeichnis, ordnen Sie zusammengehörende Belege zu und benennen Sie fehlende Unterlagen. Verfahrensdokumente aus `10_Verfahren` und die gesonderte Stichtagskontrolle können später hinzugezogen werden.

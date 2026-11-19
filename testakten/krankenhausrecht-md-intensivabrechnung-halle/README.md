@@ -14,8 +14,8 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/krankenhausrecht-md-intensivabrechnung-halle_gesamt.pdf`](gesamt-pdf/krankenhausrecht-md-intensivabrechnung-halle_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-krankenhausrecht-md-intensivabrechnung-halle.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-krankenhausrecht-md-intensivabrechnung-halle.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-krankenhausrecht-md-intensivabrechnung-halle-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-krankenhausrecht-md-intensivabrechnung-halle-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-krankenhausrecht-md-intensivabrechnung-halle.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/testakte-krankenhausrecht-md-intensivabrechnung-halle.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-krankenhausrecht-md-intensivabrechnung-halle-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/testakte-krankenhausrecht-md-intensivabrechnung-halle-einzelpdfs.zip) |
 
 Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
@@ -45,6 +45,8 @@ Das Klinikum Saalebogen rechnet einen langen intensivmedizinischen Verlauf mit 1
 | `10_saps_tiss_tageswerte.csv` | Sämtliche Tageswerte mit Quellen- und Freigabestatus |
 | `11_rechnung_aufrechnung_fallliste.csv` | Abgleich von Rechnung, Zahlung und Aufrechnungsfällen |
 | `12_foto_archivkiste_14.jpg` | Mobiltelefonfoto der aufgefundenen Archivkiste |
+| `13_journal_scanauftrag.csv` | Journal der beiden Scanläufe für den Tagesbogen vom 17. Januar |
+| `14_korrespondenz_nachlieferung.eml` | Rückfrage zu Seitenzahl, Objektkennung und Eingangsnachweis |
 
 ## Bearbeitung
 

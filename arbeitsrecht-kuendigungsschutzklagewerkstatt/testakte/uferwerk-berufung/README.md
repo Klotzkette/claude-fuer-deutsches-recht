@@ -16,4 +16,16 @@ Alle Personen, Parteien und Vorgänge sind erfunden. Reservierte .example-Domain
 
 [PDF-Akte als ZIP herunterladen](../downloads/testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip)
 
+## Der wiedergefundene Vorgang Lesekai
+
+Am Nachmittag des 30. Oktober, nach Einlegung der Berufung, findet Lisa Muster einen Papierausdruck zu einer Nachlieferung aus ihrer Vertriebsrotation. N22 dokumentiert, wann und wo die Mandantin gesucht hat. N23 enthält Frau Seidels damalige Rückmeldung zur Bestellung von achtzig Exemplaren. N24 hält die Rückfragen der Anwältin an Frau Muster fest. Arbeiten Sie heraus, welche eigenen Tätigkeiten sich damit belegen lassen, was für die Stelle im Jahr 2026 offenbleibt und welche Fragen die späte Vorlage aufwirft.
+
+Die Vollakte enthält 97 einzelne PDFs mit 188 Seiten und eine README.txt. Im PDF-Verzeichnis stehen die 94 PDFs des Grundbestands. Die drei zusätzlichen Dokumente sind in der README.txt verzeichnet. Die Berufungsbegründung bleibt der Arbeitsauftrag.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Uferwerk mit Nachtrag Lesekai herunterladen · vollständige PDF-Akte (ZIP)](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitsrecht-muster-uferwerk-berufung-mit-nachtrag.zip)
+
 [Werkstatt und Mini-Prompt](../../README.md) · [Aktenregister](../README.md)

@@ -14,8 +14,8 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig_gesamt.pdf`](gesamt-pdf/eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig-einzelpdfs.zip) |
 
 Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
@@ -45,6 +45,8 @@ Die Lipsia Speichertechnik AG erhält eine Kommissionsentscheidung zur Rückford
 | `10_rueckforderungsberechnung_stadt.csv` | Quartalsbezogene Berechnungsdaten |
 | `11_anlagen_und_vertraulichkeit.csv` | Anlagenstatus mit vertraulichen und offenen Fassungen |
 | `12_foto_fristskizze.jpg` | Mobiltelefonfoto der handschriftlichen Fristskizze |
+| `13_versandordner_kontrolle.csv` | Abgleich von versandtem Verzeichnis und späterer Arbeitskopie |
+| `14_korrespondenz_nachlieferung.eml` | Kanzleirückfrage zu Anlagenbezeichnung, Gegenlese und Registerauszug |
 
 ## Bearbeitung
 

@@ -506,7 +506,7 @@ Alle Personen, Unternehmen, Anschriften und Vorgangsnummern sind erfunden. Konta
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Alle ZIPs sind flach. README.txt steht zuerst und enthält den zweisprachigen Hinweis. PDFs enthalten weder Warnhinweis noch Lösungsseiten. Native Dateien sind zusätzlich einzeln unten zugänglich; der Gehaltsstand von 2025 ist nicht in die unterschriebene Änderungsvereinbarung von 2019 hineindatiert.
+Die Einzel-PDF- und Anlagen-ZIPs haben ein flaches Verzeichnis. README.txt steht zuerst und enthält den zweisprachigen Hinweis. PDFs enthalten weder Warnhinweis noch Lösungsseiten. Native Dateien sind zusätzlich einzeln unten zugänglich; der Gehaltsstand von 2025 ist nicht in die unterschriebene Änderungsvereinbarung von 2019 hineindatiert.
 
 ## 1.3. Dokumentenverzeichnis
 
@@ -518,6 +518,9 @@ Alle ZIPs sind flach. README.txt steht zuerst und enthält den zweisprachigen Hi
 
 [Plugin-Aktenregister](../../arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/README.md) · [Alle Fallakten](../README.md) · [Repository-Start](../../README.md) · [Download-Index](../../ASSET_INDEX.md)
 """
+        if variant:
+            supplement = (ROOT / "docs/workshops/arbeitsrecht-praxisnachtraege/seewerk-download.md").read_text(encoding="utf-8")
+            readme = readme.replace("## 1.3. Dokumentenverzeichnis", supplement + "\n## 1.3. Dokumentenverzeichnis")
         (directory/"README.md").write_text(readme,encoding="utf-8")
         report={"slug":slug,"title":title,"documents":len(items),"pages":len(writer.pages),"files":documents}
         reports.append(report)

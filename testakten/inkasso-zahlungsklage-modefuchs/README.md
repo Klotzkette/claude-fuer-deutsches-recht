@@ -85,3 +85,13 @@ Die EML enthalten die Anhänge als eingebettete Dateien. Dieselben Belege liegen
 ## 1.5. Abgrenzung
 
 Technische Prüfdaten, frühere Metadaten, Claim-Gate-Beispiele und Lösungsmemos liegen getrennt unter `quality/fixtures/modefuchs`. Sie gehören nicht zu den Akten-Downloads. Die fachliche Bewertung erfolgt anhand der Unterlagen; die Aufbereitung als PDF oder ZIP ersetzt weder eine rechtliche Freigabe noch eine elektronische Einreichung.
+
+## Weitere Unterlagen im Mandat
+
+Kontenblatt und Antwort der Sachbearbeitung verbinden die Direktzahlung mit ihrer Weiterleitung. Für den Abgleich sind Buchungsstelle und Gegenkonto maßgeblich. Die Vollakte enthält die bisherige Originalfassung und beide zusätzlichen Belege im Ordner `Nachlieferung`. Die separat angebotenen PDF-Fassungen zeigen den vorherigen Aktenstand.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Vollständige Originalakte mit Nachlieferung herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/inkasso-zahlungsklage-modefuchs-mit-nachtrag.zip)

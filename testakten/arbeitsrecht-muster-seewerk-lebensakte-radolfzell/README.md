@@ -37,7 +37,17 @@ English: Start with the `Grundakte` folder in the original-format ZIP. It contai
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Alle ZIPs sind flach. README.txt steht zuerst und enthält den zweisprachigen Hinweis. PDFs enthalten weder Warnhinweis noch Lösungsseiten. Native Dateien sind zusätzlich einzeln unten zugänglich; der Gehaltsstand von 2025 ist nicht in die unterschriebene Änderungsvereinbarung von 2019 hineindatiert.
+Die Einzel-PDF- und Anlagen-ZIPs haben ein flaches Verzeichnis. README.txt steht zuerst und enthält den zweisprachigen Hinweis. PDFs enthalten weder Warnhinweis noch Lösungsseiten. Native Dateien sind zusätzlich einzeln unten zugänglich; der Gehaltsstand von 2025 ist nicht in die unterschriebene Änderungsvereinbarung von 2019 hineindatiert.
+
+## Am Mittag kommt das Maschinenjournal
+
+Daniel Muster hat seiner Anwältin um 10:15 Uhr geschrieben, dass auf seine Auskunftsanfrage bisher nur eine Eingangsbestätigung vorliegt. Um 11:46 Uhr trifft eine Teilantwort mit sieben Anlagenmeldungen ein. Um 12:23 Uhr meldet er sich wieder. Öffnen Sie im Workshop zunächst die 22 Eingangsbelege unter `Grundakte/` und nehmen Sie anschließend `Nachtrag/` hinzu. Lassen sich aus dem Probelauf um 07:53 Uhr Rückschlüsse auf Arbeitszeit oder Anwesenheit ziehen? Vergleichen Sie Ereignisquelle, Schichtplan, Zeitjournal und Wartungsnotiz. Die angehängte CSV und das lose Exemplar sind ein und derselbe Beleg.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Seewerk mit Maschinenjournal herunterladen · 44 ursprüngliche und 3 zusätzliche Unterlagen (ZIP)](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitsrecht-muster-seewerk-lebensakte-radolfzell-mit-nachtrag.zip)
 
 ## 1.3. Dokumentenverzeichnis
 

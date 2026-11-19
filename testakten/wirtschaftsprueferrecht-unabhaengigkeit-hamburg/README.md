@@ -14,8 +14,8 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/wirtschaftsprueferrecht-unabhaengigkeit-hamburg_gesamt.pdf`](gesamt-pdf/wirtschaftsprueferrecht-unabhaengigkeit-hamburg_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-2-v445.35.3/testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg-einzelpdfs.zip) |
 
 Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
@@ -45,6 +45,8 @@ Eine Wirtschaftsprüfungspraxis prüft den Abschluss eines kapitalmarktorientier
 | `10_honorare_netzwerk_2023_2026.csv` | Mehrjährige Honorar- und Leistungsdaten des Netzwerks |
 | `11_zugriffs_und_aenderungslog.csv` | Zeitgestempelter Zugriffs- und Versionsverlauf |
 | `12_foto_datenraum_status.jpg` | Mobiltelefonfoto der Datenraum-Statusanzeige |
+| `13_arbeitsplatz_abgleich.csv` | Protokollauszug der der Mitarbeiterin vorgelegten vier Ereignisse |
+| `14_korrespondenz_nachlieferung.eml` | Datierte Stellungnahme der Prüfungsmanagerin zu zwei Kommentaren |
 
 ## Bearbeitung
 

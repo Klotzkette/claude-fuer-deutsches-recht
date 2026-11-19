@@ -10,6 +10,8 @@ from email.message import EmailMessage
 from email.policy import SMTP
 from pathlib import Path
 
+from schulungsakten_nachlieferungen import LIEFERUNGEN, write_nachlieferung
+
 from PIL import Image, ImageDraw, ImageFont
 from docx import Document
 from docx.enum.table import WD_CELL_VERTICAL_ALIGNMENT, WD_TABLE_ALIGNMENT
@@ -939,7 +941,9 @@ def main() -> int:
     build_eu_prozessrecht()
     build_treuepflicht()
     build_wirtschaftsprueferrecht()
-    print("Fünf priorisierte Schulungsakten mit 61 Primärunterlagen erzeugt.")
+    for slug in LIEFERUNGEN:
+        write_nachlieferung(ROOT / slug)
+    print("Fünf priorisierte Schulungsakten mit 71 Primärunterlagen erzeugt.")
     return 0
 
 
