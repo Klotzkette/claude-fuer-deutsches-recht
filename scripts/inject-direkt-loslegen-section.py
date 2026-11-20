@@ -384,6 +384,14 @@ def first_product(directory: Path, plugin_name: str) -> str:
 
 
 def quickstart_section(plugin_name: str, directory: Path) -> str:
+    if plugin_name == "allgemeines-notariat":
+        return """## In 30 Sekunden starten
+
+Öffnen Sie die [Notariatsakten](testakten/README.md), wählen Sie einen Fall und laden Sie zunächst nur dessen Ordner `Grundakte`. Arbeiten Sie mit dem Hauptskill `amtsgeschaeft-fuehren` oder mit dem eigenständigen Mini-Prompt.
+
+> Prüfen Sie für die Notarin den Willen der Beteiligten und die vorliegenden Nachweise. Entwerfen Sie das Schreiben, das wir heute an die Beteiligten richten können. Nennen Sie im getrennten Vermerk die Entscheidungen, die noch das persönliche Gespräch oder einen weiteren Nachweis erfordern.
+
+Geben Sie anschließend eine Nachreichung aus derselben Akte hinzu und lassen Sie die betroffene Passage im Entwurf anpassen."""
     if plugin_name == "sektorenvergabe-workflow":
         return """## In 30 Sekunden starten
 
@@ -521,6 +529,8 @@ def testakte_count(directory: Path, akten_slugs: list[str]) -> int:
 
 
 def testakte_download_cell(directory: Path, akten_slugs: list[str]) -> str:
+    if (directory / "testakten/README.md").is_file():
+        return "[Fallauswahl und Akten-Downloads](testakten/README.md)"
     count = testakte_count(directory, akten_slugs)
     if count:
         label = "eine zugeordnete Akte" if count == 1 else f"{count} zugeordnete Akten"

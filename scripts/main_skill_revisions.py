@@ -65,6 +65,36 @@ def index(root):
     return result
 
 
+def before_notariat_marketplace_count(root, path, current, *, plugin=None):
+    """Rekonstruiert die zwei generierten Zähler vor Aufnahme des allgemeinen Notariats."""
+    sentence = "Dieses Plugin gehört zum Marketplace mit 313 Plugins.".encode()
+    if path.name != "README.md" or sentence not in current:
+        return current
+    begin = b"<!-- BEGIN direkt-loslegen (autogen) -->\n"
+    end = b"\n<!-- END direkt-loslegen (autogen) -->"
+    if current.count(begin) != 1 or current.count(end) != 1:
+        return current
+    prefix, _, rest = current.partition(begin)
+    block, delimiter, suffix = rest.partition(end)
+    start = b"\n" + sentence + " Für die Installation nimm das Einzel-ZIP.".encode()
+    notice = b"\n> Marketplace-Hinweis: " + sentence + b" Das Sammelpaket "
+    if not delimiter or block.count(start) != 1 or block.count(notice) != 1:
+        return current
+
+    catalog = load(root / ".claude-plugin/marketplace.json")["plugins"]
+    if not any(item["name"] == "allgemeines-notariat" for item in catalog):
+        return current
+    relative = path.relative_to(root).as_posix()
+    if not any((not plugin or item["name"] == plugin)
+               and item["name"] != "allgemeines-notariat"
+               and relative == (Path(item["source"]) / "README.md").as_posix()
+               for item in catalog):
+        return current
+    for anchor in (start, notice):
+        block = block.replace(anchor, anchor.replace(b"313", b"312"), 1)
+    return prefix + begin + block + end + suffix
+
+
 def before_case_index_addition(root, path, current, addition):
     """Entfernt nur den belegten Falltabelleneintrag und setzt dessen Zähler zurück."""
     from release_routing import case_asset_url
@@ -114,6 +144,8 @@ def metadata_previous_bytes(root, path, *, plugin=None, expected_hash=None):
         raise ValueError("Falscher Metadatenarchivpfad")
     old = inside(root, row["archive"]).read_bytes()
     current = path.read_bytes()
+    if path == source / "README.md":
+        current = before_notariat_marketplace_count(root, path, current, plugin=row["plugin"])
     addition = row.get("case_index_addition")
     if addition is not None:
         if path != source / "README.md":
@@ -233,6 +265,9 @@ def historical_bytes(root, path, expected, *, plugin=None):
         return current
     from case_navigation_revision import CASES, previous_case_readme
     root, path = Path(root).resolve(), Path(path).resolve()
+    prior = before_notariat_marketplace_count(root, path, current, plugin=plugin)
+    if prior != current and digest(prior) == expected:
+        return prior
     if path.name == "README.md" and "testakte" in path.parts:
         relative = path.relative_to(root).as_posix()
         if relative in CASES:

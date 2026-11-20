@@ -41,6 +41,8 @@ Der [Fallkatalog mit Eingangspost](../docs/grundakten-lebenswelt/README.md) füh
 
 ## 2. Testakten nach Thema finden
 
+[Notariat – sieben Amtsgeschäfte und dreizehn weitere Übungsakten](../allgemeines-notariat/testakten/README.md)
+
 Die Links führen zu den fachlich zugeordneten Akten der jeweiligen Plugins. Dort wählen Sie den konkreten Fall aus. Die vollständige [alphabetische Liste](#verfügbare-akten) darunter enthält zusätzlich Kurzbeschreibungen und die Spalte „Passt zu“. Mit der Seitensuche Ihres Browsers finden Sie dort auch speziellere Themen, Ortsnamen und Aktennamen.
 
 | Rechtsgebiet oder Arbeitsaufgabe | Passende Akten |

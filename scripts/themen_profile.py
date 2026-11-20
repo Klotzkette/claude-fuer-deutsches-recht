@@ -6344,6 +6344,7 @@ EXACT_PROFILE_KEYS: dict[str, str] = {
     "nda-verschwiegenheit-generator-checker": "vertragsgestaltung",
     "normenkontrollrat-nkr": "nkr",
     "nachbarschaftsstreit-pruefer": "nachbar",
+    "allgemeines-notariat": "notariat",
     "notariat-alltag": "notariat",
     "ordnungswidrigkeitenrecht": "owi_praxis",
     "oeffentliches-wirtschaftsrecht": "wirtschaftsverwaltung",

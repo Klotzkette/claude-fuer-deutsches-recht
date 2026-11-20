@@ -1,0 +1,197 @@
+{
+  "id": "hofuebergabe-tuebingen",
+  "titel": "Wer hat im Winter den Schlüssel zum Heizraum?",
+  "ort": "Tübingen",
+  "einstieg": "Am Schönbuchrand betreut Jette Reber die Obstwiesen ihres Vaters. Er will ihr Hofstelle und eigene Wiesen übergeben und mit seiner Frau im Erdgeschoss bleiben. Was auf dem Küchentisch als „unten alles für uns“ bezeichnet wurde, sieht auf dem alten Grundriss anders aus.",
+  "auftrag": "Bereiten Sie das Beratungsgespräch und einen belegten Überlassungsentwurf vor. Arbeiten Sie heraus, wem welche Flächen gehören, wer wo wohnen oder mitbenutzen möchte und wessen Zustimmung oder Mitwirkung noch einzuholen ist.",
+  "unterlagen": [
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-08-24",
+      "titel": "Übergabe am Apfelrain – hoffentlich vor der Ernte besprechen",
+      "von": "Gottfried Reber",
+      "an": "Notariat an der Ammer",
+      "text": [
+        "Unser kleiner Mostobstbetrieb liegt draußen auf der Tübinger Gemarkung im fiktiven Gewann Apfelrain. Meine Tochter Jette macht seit drei Jahren die Arbeit mit mir. Ich möchte ihr die Hofstelle und meine eigenen Wiesen lebzeitig übertragen. Mit meiner Frau Ruth möchte ich unten wohnen bleiben. Die Kelter sollen Jette und ihre Aushilfe weiter benutzen können.",
+        "Meine Frau und ich sind seit 1989 verheiratet. Die Grundstücke habe ich 1994 von meinen Eltern bekommen. Es gibt auch eine gepachtete Wiese. Bitte werfen Sie die Flächen nicht in einen Topf. Mein Sohn Malte hat gefragt, ob er bei dem Termin dabei sein muss. Eine Auszahlung ist am Küchentisch bloß besprochen worden."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "datum": "2026-08-24",
+      "titel": "Flächenliste für die diesjährige Mosternte",
+      "von": "Jette Reber",
+      "an": "Gottfried Reber",
+      "text": [
+        "Flurstück | Lage | Fläche in ha | Herkunft der Angabe | Nutzung",
+        "721/3 | Hofstelle Apfelrain 4 | 0,28 | altes Bestandsverzeichnis Blatt 7118 | Wohnhaus und Kelter",
+        "724/1 | Obere Reihe | 1,14 | altes Bestandsverzeichnis Blatt 7118 | Mostäpfel",
+        "728/2 | Hintere Kuppe | 0,96 | altes Bestandsverzeichnis Blatt 7118 | Birnbäume und Wendeplatz",
+        "729/1 | Wiesenrain | 0,62 | Pachtmappe Seitz | Lagerbirnen, kein eigenes Land"
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2026-08-25",
+      "titel": "Auszug aus Gottfrieds Überlassungsmappe von 1994",
+      "von": "Gottfried Reber, private Hofablage",
+      "an": "Notariat an der Ammer",
+      "text": [
+        "Arbeitsabschrift von Bestandsverzeichnis und Eigentümerseite eines unbeglaubigten Ausdrucks vom 26. März 2019, Blatt 7118 der fiktiven Mustergemarkung Tübingen. Eigentümer ist Gottfried Reber. Die drei aufgeführten Flurstücke lauten 721/3, 724/1 und 728/2.",
+        "Die lose beigefügte Kopie der Abteilung III führt eine Buchgrundschuld für die Schurwaldbank über 95.000 Euro zu allen drei Grundstücken. Das Datum der letzten Eintragung ist auf der Kopie abgeschnitten. Eine Person mit dem Namen Reber hat „Trocknung?“ an den Rand geschrieben. Es fehlen ein aktueller vollständiger Grundbuchstand und die zugrunde liegende Sicherungsvereinbarung."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "datum": "2026-08-25",
+      "titel": "Das Erdgeschoss, vom Hof aus gesehen",
+      "von": "Ruth Reber",
+      "an": "Jette Reber und Notariat an der Ammer",
+      "text": [
+        "Wenn man zum Hof hereinkommt, liegen links die beiden Zimmer, unsere Küche und das Bad. Zum roten Zimmer im Norden sagt der alte Plan „Abstellraum“. Dort schläft Gottfried seit der Schulteroperation. Im Sommer ist die Gartentür unser Haupteingang. Den Flur vor der Waschküche brauchen alle, weil nur von dort die Treppe zu Jettes Wohnung und die Tür zur Heizung abgehen.",
+        "Mir geht es vor allem darum, dass ich hier bleiben kann, wenn Gottfried vor mir stirbt. Dass alle Kosten bei Jette landen, haben wir nie ausgemacht. Wir haben einen Heizölzähler für das Haus, aber längst noch keinen Wärmezähler pro Wohnung. Wer im Fall einer Reparatur den Installateur beauftragt, war bei unserem letzten Gespräch offen."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2026-08-26",
+      "titel": "Wiesenrain – Auszug aus der Pachtvereinbarung",
+      "von": "Herta Seitz, Verpächterin",
+      "an": "Gottfried Reber",
+      "text": [
+        "Private Arbeitsabschrift der Vereinbarung vom 1. Januar 2020 über das Flurstück 729/1. Verpächterin ist Herta Seitz, Pächter ist Gottfried Reber. Als jährliches Entgelt sind 180 Euro vorgesehen. Die vereinbarte Laufzeit reicht bis 31. Dezember 2029.",
+        "In der Korrespondenzadresse steht noch der Name des früheren Hofkontos. Eine Übernahme durch Jette Reber ist im mitgebrachten Exemplar nicht vermerkt. Frau Seitz bat letzte Woche am Telefon darum, zunächst zu erfahren, wer schneidet und wer die Pacht überweist. Der Eintrag auf Jettes Ernteliste bezeichnet den Arbeitsaufwand für die Bäume."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-08-26",
+      "titel": "Zum Betrag für Malte hatte ich einen Vorschlag gemacht",
+      "von": "Jette Reber",
+      "an": "Notariat an der Ammer",
+      "text": [
+        "Mein Vorschlag beim Essen waren 36.000 Euro, verteilt über sechs Ernten mit je 6.000 Euro. Vater wollte erst mit Malte sprechen. Malte sagt, er habe das als sofort fälligen Betrag verstanden. Zugesagt habe ich ihm einen Zahlungstermin bisher nicht. Der Kühlcontainer auf dem Hof ist noch finanziert.",
+        "Die Kelter im Nebengebäude nutze ich betrieblich. Ich möchte unsere Eltern gern ins Haus schreiben lassen. Den Durchgang zur Heizung kann ich aber nicht jedes Mal über ihr Schlafzimmer nehmen. Mutter hat dazu jetzt eine Beschreibung gemacht. Bitte lassen Sie Vater und Mutter ihre Wünsche auch selbst erläutern."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "chat",
+      "datum": "2026-08-27",
+      "titel": "Familienchat vor dem Wochenende",
+      "von": "Ruth, Jette und Malte Reber",
+      "an": "Familiengruppe Apfelrain",
+      "text": [
+        "Malte: Als wir am Tisch saßen, war doch von 36.000 die Rede. Ich habe im November den nächsten Abschlag für den Dachdecker. Kann ich mit irgendetwas fest rechnen?",
+        "Jette: Ich hatte über sechs Ernten gerechnet, nicht über sechs Wochen. Bevor ich die Rückmeldung von der Bank habe, kann ich keinen Termin zusagen.",
+        "Ruth: Beim roten Zimmer hängt noch das Schild Speisekammer. Zeichnet bitte ein, welches Zimmer wir meinen. Und fragt mich auch, was ich im Garten brauche.",
+        "Malte: Dann schreibt „Gespräch offen“ neben meinen Namen. Ich spreche erst mit Papa, bevor wir darüber noch einen ganzen Abend Nachrichten schicken."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-08-28",
+      "titel": "Zu welchen Flächen fragen wir an?",
+      "von": "Notarfachwirtin Pia Mühl, Notariat an der Ammer",
+      "an": "Jette Reber",
+      "text": [
+        "Ihr Vater nennt drei eigene Grundstücke und eine gepachtete Wiese. Bitte schicken Sie uns Ihre Flächenübersicht mit der Herkunft der Angaben. Wir benötigen außerdem die neueste verfügbare Planzeichnung des Erdgeschosses, auch wenn es nur ein Plan aus der Heizungsmappe ist.",
+        "Die räumliche Zuordnung und der Zugang zum Heizraum betreffen sowohl Ihre Eltern als auch Sie. Wir würden die unterschiedlichen Wünsche zunächst im Gespräch mit allen drei Betroffenen aufnehmen. Bitte reservieren Sie für die abschließende Fassung noch keinen Unterzeichnungstermin."
+      ],
+      "antwort_auf": 6
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-08-28",
+      "titel": "Hier ist die Flächenliste – Heizungsplan kommt nach",
+      "von": "Jette Reber",
+      "an": "Notarfachwirtin Pia Mühl",
+      "text": [
+        "Anbei die Aufstellung aus meinem Ernteordner. Meine Summe von drei Hektar enthält die Wiese von Frau Seitz. Rechnet man nur die drei Stücke auf Vaters altem Blatt zusammen, kommt man auf 2,38 Hektar einschließlich Hofstelle. Deshalb sieht die Zahl in der Fördermappe auf den ersten Blick anders aus.",
+        "Ich fahre heute noch zu meinen Eltern und schaue in die graue Mappe vom Heizungsbauer. Den Heizraum haben wir seit dem Umbau nur vom Durchgang aus betreten. Ich möchte auf dem Plan nicht freihändig Wände versetzen."
+      ],
+      "antwort_auf": 8,
+      "anlage_nr": 2
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "tabelle",
+      "datum": "2026-09-01",
+      "titel": "Raumliste nach Begehung mit Ruth und Jette",
+      "von": "Jette Reber",
+      "an": "Notariat an der Ammer",
+      "text": [
+        "Raum oder Zugang | Bezeichnung im Heizungsplan 2015 | Feststellung bei Begehung | Offener Wunsch",
+        "Südwestseite, Gartentür | Wohnen | eigener Ausgang zur Terrasse | Weg vom Gartentor zur Terrasse im Winter",
+        "Nordzimmer | Abstellraum | zurzeit Schlafzimmer von Gottfried | genaue Bezeichnung im anzufordernden Grundriss",
+        "Flur beim Treppenansatz | Vorplatz | beide Wohnungen und Heizraum zugänglich | Schlüsselsatz für Jette und Wartungsdienst",
+        "Waschküche und Zählerwand | Waschen | Maschine der Eltern und gemeinsame Wasseruhr | Zählerzugang und Kosten",
+        "Garten am Birnbaum | außerhalb der Planzeichnung | bisher zwei Gemüsebeete der Eltern | Größe sowie Weg zur Kelter klären"
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "datum": "2026-09-02",
+      "titel": "Banktermin zur Übergabe – wie ist das mit dem Rang?",
+      "von": "Luise Kentner, Schurwaldbank",
+      "an": "Gottfried und Jette Reber",
+      "text": [
+        "Wir führen zum Kühl- und Trocknungsausbau noch 28.400 Euro valutierendes Darlehen, Stichtag 31. August. Das sagt allein nichts über die Höhe des eingetragenen Rechts aus. Für die gewünschte Übernahme der persönlichen Zahlungsverpflichtung benötigen wir einen gesonderten Antrag der Tochter.",
+        "Für unsere Entscheidung möchten wir wissen, wer das Wohnungsrecht erhält, welche Räume betroffen sind und in welchem Rang Sie es eintragen lassen möchten. Die Bank hat weder einer Schuldübernahme noch einem Rangwechsel zugestimmt. Bitte geben Sie diese Nachricht für die weitere Vorbereitung an das Notariat."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "datum": "2026-09-03",
+      "titel": "Meine Bitte zum Wohnen, falls einer von uns zuerst stirbt",
+      "von": "Ruth Reber",
+      "an": "Notarin Johanna Ammer",
+      "text": [
+        "Gottfried und ich haben uns gestern allein hingesetzt. Jeder von uns soll selbst ein gesichertes Recht behalten, wenn der andere stirbt. Bei einem späteren Umzug in ein Pflegeheim haben wir unterschiedliche Vorstellungen. Gottfried denkt an die Vermietung, während ich mich damit unwohl fühle, wenn fremde Leute durch Jettes Flur müssen.",
+        "Die Öllieferungen könnten wir für unsere Räume zahlen, sofern wir die Verteilung verstehen. Bei Dach, Kessel und Abdichtung wollen wir vor einer Zusage wissen, welche Kosten tatsächlich auf uns entfallen würden. Bitte schicken Sie uns zunächst einen Vorschlag für das Gespräch. Wir entscheiden das nicht in der Familiengruppe."
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "tabelle",
+      "datum": "2026-09-03",
+      "titel": "Raum- und Kostenvereinbarung – Besprechungsblatt",
+      "von": "Notariat an der Ammer",
+      "an": "Familie Reber",
+      "text": [
+        "Bereich | Angabe der Eltern | Angabe der Erwerberin | Einigung oder Nachweis",
+        "1.1 Allein benutzte Räume je Person | [Raum] | [Planstelle] | [Fassung]",
+        "1.2 Zugänge und gemeinsam genutzte Anlagen | [Weg oder Anlage] | [Schlüssel und Erreichbarkeit] | [Abrede]",
+        "2.1 Laufende Kosten | [Art und Aufteilung] | [Abrechnung] | [Beleg]",
+        "2.2 Erneuerung und größere Reparaturen | [Gewerk] | [Auftrag und Kosten] | [Regelung]",
+        "3.1 Fortzug, Pflege und Tod | [persönlicher Wunsch] | [Folgen] | [offene Entscheidung]"
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "notiz",
+      "datum": "2026-09-03",
+      "titel": "Anfrage zu den auf dem Hofgrundstück gesicherten Krediten",
+      "von": "Notariat an der Ammer",
+      "an": "Sachbearbeitung",
+      "text": [
+        "1. Bezugsobjekt und Erlaubnis zur Anfrage",
+        "Die Anfrage betrifft [Grundbuch und Flurstücke]. Die Ermächtigung der betroffenen Person ist am [Datum] in [Unterlage] dokumentiert.",
+        "2. Gewünschte Auskunft",
+        "Wir bitten um Auskunft zum aktuellen Bestand von [Recht], zur persönlichen Schuld von [Person] und zu den Bedingungen für die erwogene [Maßnahme].",
+        "3. Rücklauf und weiterer Termin",
+        "Antworten werden unter [Vorgangszeichen] gesammelt. Für die Besprechung mit [Personen] bleiben [Punkte] offen."
+      ]
+    }
+  ]
+}

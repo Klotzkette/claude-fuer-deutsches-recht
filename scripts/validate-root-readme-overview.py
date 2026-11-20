@@ -58,11 +58,12 @@ def count_values(marketplace: dict) -> dict[str, int | str]:
             if child.is_dir() and child.name not in SKIP_TESTAKTEN
         ]
 
-    separate = REPO / "vergaberecht-werkstatt/testakten"
+    suites = {REPO / "vergaberecht-werkstatt/testakten"}
+    suites.update(plugin_source(plugin) / "testakten" for plugin in plugins)
     separate_testakten = [
-        child for child in separate.iterdir()
-        if child.is_dir() and child.name not in SKIP_TESTAKTEN
-    ] if separate.is_dir() else []
+        readme.parent for suite in suites for readme in suite.glob("*/README.md")
+        if readme.parent.name not in SKIP_TESTAKTEN and (readme.parent / "gesamt-pdf").is_dir()
+    ]
 
     return {
         "plugins": len(plugins),

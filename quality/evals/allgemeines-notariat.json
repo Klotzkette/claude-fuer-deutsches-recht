@@ -1,0 +1,505 @@
+{
+  "schema_version": 1,
+  "plugin": "allgemeines-notariat",
+  "reviewed_on": "2026-11-20",
+  "selection": {
+    "target_skill": "amtsgeschaeft-fuehren",
+    "positive": [
+      "Im Notariat liegt ein Kaufvertragsentwurf mit zwei Grundbuchblättern und widersprüchlichen Ablöseunterlagen. Bereiten Sie Beratung, Entwurf und Vollzug zur Entscheidung der Notarin vor.",
+      "Führen Sie die notarielle Bearbeitung des familiären Übergabevertrags vom Erstgespräch über die Wohnungsregelung bis zur gesicherten Grundbucheinreichung."
+    ],
+    "negative": [
+      "Vertreten Sie nur den Käufer als Prozessanwältin in einer Klage auf Schadensersatz wegen eines Baumangels.",
+      "Erstellen Sie aus den Jahresbelegen die Umsatzsteuervoranmeldung eines Vereins."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/beurkg/__17.html",
+      "checked_on": "2026-11-20",
+      "supports": "Willensermittlung, Belehrung und Gestaltung des Verfahrens bei Verbraucherverträgen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bnoto/__14.html",
+      "checked_on": "2026-11-20",
+      "supports": "Unparteilichkeit der Amtsperson und Grenzen ihrer Mitwirkung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/beurkg/__22.html",
+      "checked_on": "2026-11-20",
+      "supports": "Feststellungen und Verfahrenshilfen bei Hör-, Sprach- oder Sehbehinderung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1093.html",
+      "checked_on": "2026-11-20",
+      "supports": "Umfang und Ausgestaltung des dinglichen Wohnungsrechts."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__2271.html",
+      "checked_on": "2026-11-20",
+      "supports": "Widerruf wechselbezüglicher Verfügungen und Bindung nach dem Tod des Ehegatten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1643.html",
+      "checked_on": "2026-11-20",
+      "supports": "Familiengerichtliche Genehmigung und Ausnahme bei elterlicher Ausschlagung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1944.html",
+      "checked_on": "2026-11-20",
+      "supports": "Frist und Kenntnis sowie Bekanntgabe einer letztwilligen Verfügung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1945.html",
+      "checked_on": "2026-11-20",
+      "supports": "Form und Adressat der Ausschlagungserklärung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__67.html",
+      "checked_on": "2026-11-20",
+      "supports": "Anmeldung und Beleg der Vorstandsänderung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__71.html",
+      "checked_on": "2026-11-20",
+      "supports": "Wirksamkeit der Satzungsänderung mit Eintragung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__77.html",
+      "checked_on": "2026-11-20",
+      "supports": "Anmeldeberechtigte und Beglaubigungsform."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
+      "checked_on": "2026-11-20",
+      "supports": "Form von Verpflichtung und Abtretung sowie gesellschaftsvertragliche Vinkulierung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__40.html",
+      "checked_on": "2026-11-20",
+      "supports": "Mitwirkender Notar und Listenpflicht nach wirksamer Veränderung."
+    },
+    {
+      "url": "https://india.diplo.de/in-de/service/2772638-2772638",
+      "checked_on": "2026-11-20",
+      "supports": "Im deutsch-indischen Verhältnis kein Apostilleverkehr, routinemäßige Legalisation eingestellt. Behördliche Urkundenüberprüfung erfolgt im Einzelfall."
+    },
+    {
+      "url": "https://uae.diplo.de/ae-de/service/seite-legalisation-1374640",
+      "checked_on": "2026-11-20",
+      "supports": "Regelmäßige Legalisation emiratischer öffentlicher Urkunden für Deutschland. Dokumenttyp und behördliche Zuständigkeit sind gesondert zu prüfen."
+    }
+  ],
+  "cases": [
+    {
+      "id": "wohnung-stuttgart",
+      "target_skill": "amtsgeschaeft-fuehren",
+      "request": "Die Eheleute Ott sollen rechtzeitig vor dem Umzug eine Wohnung samt Stellplatz erwerben. Legen Sie den Arbeitsstand aus der Grundakte an. Führen Sie ihn mit den später eingegangenen Unterlagen fort. Schreiben Sie ein gemeinsames Anschreiben zur Vorbereitung des Termins und einen internen Entwurf für die Fälligkeitskontrolle. In der beigefügten Lesefassung sind die ersten 9 Stücke die Grundakte. Die folgenden 3 Stücke sind Nachreichungen für den zweiten Durchgang. Die letzte Unterlage ist eine Arbeitsvorlage.",
+      "input_files": [
+        "allgemeines-notariat/testakten/wohnung-stuttgart/gesamt-pdf/testakte-notariat-wohnung-stuttgart_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Schlüsselkennzeichnung 17 und Kaufpreisangabe 12 werden mit der Zuordnungsliste und den zwei Grundbuchblättern abgeglichen. Ein späterer Anstrich in der Garage ersetzt keine grundbuchliche Zuordnung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die beteiligten Banken, ihre Sicherheiten, der Stand der Ablöseunterlagen und die Belege für den Vollzug werden getrennt zugeordnet. Eine nachgereichte Kopie und ein genannter Betrag reichen allein für die Fälligstellung nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bei § 17 Abs. 2a BeurkG wird der tatsächliche Unternehmer- und Verbraucherstatus ermittelt. Der Umzugswunsch ersetzt weder Rechtsprüfung noch gesicherte Kaufpreisfälligkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Das Anschreiben erläutert beiden Seiten, was bis zu einem Termin oder einer Schlüsselübergabe noch fehlt. Die Freigabe bleibt bei der zuständigen Amtsperson.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hofuebergabe-tuebingen",
+      "target_skill": "ueberlassung-und-wohnungsrecht-gestalten",
+      "request": "Vater Reber will seiner Tochter den Hof überlassen und dort mit seiner Frau wohnen bleiben. Arbeiten Sie erst mit der Grundakte, dann mit den Nachreichungen. Erstellen Sie eine ausformulierte Regelung für das Wohnungsrecht und verzeichnen Sie die Punkte, die vor der Beurkundung noch der Entscheidung bedürfen. In der beigefügten Lesefassung sind die ersten 9 Stücke die Grundakte. Die folgenden 3 Stücke sind Nachreichungen für den zweiten Durchgang. Die letzte Unterlage ist eine Arbeitsvorlage.",
+      "input_files": [
+        "allgemeines-notariat/testakten/hofuebergabe-tuebingen/gesamt-pdf/testakte-notariat-hofuebergabe-tuebingen_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Für jede betroffene Fläche belegt der Entwurf Eigentum oder Nutzung und übernimmt keine fremde oder bloß gepachtete Parzelle als Schenkungsgegenstand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Begehung wird mit Grundriss und Wünschen beider Eltern abgeglichen. Alleinige und gemeinschaftliche Räume, Zugang, Kosten und Fortbestand für den Überlebenden werden konkret behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Bank nennt im konkreten Fall eine Valuta von 28.400 Euro. Darlehenssaldo, nominal eingetragenes Recht, Rangwunsch und ausstehende Bankzustimmung werden getrennt behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "testament-luebeck",
+      "target_skill": "testament-und-erbvertrag-gestalten",
+      "request": "Almut Krogmann möchte ihren Partner absichern. Arbeiten Sie die Grundakte durch und ergänzen Sie Ihre Bewertung nach Eingang der zweiten Seite aus dem blauen Ordner. Formulieren Sie eine verständliche Nachricht an Almut und eine vorläufige Gestaltung, soweit ihr festgestellter Wille und die Bindungen das tragen. In der beigefügten Lesefassung sind die ersten 9 Stücke die Grundakte. Die folgenden 3 Stücke sind Nachreichungen für den zweiten Durchgang. Die letzte Unterlage ist eine Arbeitsvorlage.",
+      "input_files": [
+        "allgemeines-notariat/testakten/testament-luebeck/gesamt-pdf/testakte-notariat-testament-luebeck_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der ursprüngliche Durchschlag und beide später übermittelten Textseiten werden mit Urheber, Inhalt und Beweiswert identifiziert. Aus dem Wunsch nach einer Änderung allein wird keine Testierfreiheit abgeleitet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Bindungswirkung wird für die einzelnen früheren Anordnungen und die konkrete Familienkonstellation nach §§ 2270, 2271 BGB begründet. Ein Erbvertrag wird nicht ohne Beleg unterstellt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Entwurf beachtet die nachgewiesene Eigentumslage der Wohnung, arbeitet die Alternativen zur Absicherung des Partners aus und lässt private Gegenstände und Pflichtteilsfragen nur mit gesicherter Zuordnung einfließen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vorsorgevollmacht-bonn",
+      "target_skill": "vorsorgevollmacht-beurkunden",
+      "request": "Eine Angehörige organisiert den Termin für eine Vorsorgevollmacht. Die Kommunikationsbedürfnisse der vollmachtgebenden Person sind aus den Unterlagen ersichtlich. Bereiten Sie den barrierearmen Termin und die Besprechung ohne Angehörige vor. Formulieren Sie eine auf die eigene Willensbildung abgestimmte Entwurfsfassung. In der beigefügten Lesefassung sind die ersten 9 Stücke die Grundakte. Die folgenden 3 Stücke sind Nachreichungen für den zweiten Durchgang. Die letzte Unterlage ist eine Arbeitsvorlage.",
+      "input_files": [
+        "allgemeines-notariat/testakten/vorsorgevollmacht-bonn/gesamt-pdf/testakte-notariat-vorsorgevollmacht-bonn_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Kommunikationshilfe, Geschäftsfähigkeit und Wille zur konkreten Vollmacht werden eigenständig ermittelt. Die Behinderung allein liefert keine Feststellung fehlender Geschäftsfähigkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Einzelgespräch von Ilse Rösler wird als eigene Willensäußerung ausgewertet. Das vorausgefüllte Formular ihrer Nichte und die bestehende Bankvollmacht werden nach Herkunft und Reichweite gesondert geprüft.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Je nach tatsächlicher Hör-, Sprach- oder Sehfähigkeit werden die passenden Verfahrensschritte nach §§ 22 ff. BeurkG erläutert. Feststellungen zu Verlesung, Anwesenheit, Verzicht und Unterschrift werden nicht vorweggenommen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "erbausschlagung-kassel",
+      "target_skill": "erbausschlagung-fuer-minderjaehrige-pruefen",
+      "request": "Beurteilen Sie zunächst allein anhand der Grundakte, welche eigene Erklärung Lina abgegeben hat und was für ihre Tochter Mara noch zu tun ist. Öffnen Sie erst dann die Nachreichungen. Führen Sie den Fristenvermerk für beide gesetzlichen Vertreter fort und schreiben Sie den Eltern, was jetzt zu veranlassen ist. In der beigefügten Lesefassung sind die ersten 10 Stücke die Grundakte. Die folgenden 3 Stücke sind Nachreichungen für den zweiten Durchgang. Die letzte Unterlage ist eine Arbeitsvorlage.",
+      "input_files": [
+        "allgemeines-notariat/testakten/erbausschlagung-kassel/gesamt-pdf/testakte-notariat-erbausschlagung-kassel_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Nachweis vom 28.09. betrifft nur die Mutter. Die Niederschrift nennt Mara als Kind, ohne eine Erklärung für sie zu enthalten. Gemeinsame Sorge und Vertretung werden vom Getrenntleben unterschieden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Berufung erst infolge der elterlichen Ausschlagung und die spätere mögliche anfängliche Mitberufung werden getrennt geprüft. Die Ausnahme nach § 1643 Abs. 3 Satz 1 BGB wird mit § 1643 Abs. 1 und § 1851 Nr. 1 BGB abgeglichen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Für Kenntnis und Bekanntgabe werden Tod, Termine am Gericht und die beiden Daten 08.10. und 09.10. auseinandergehalten. Den Zugang der Erklärungen beim zuständigen Gericht sowie den Verlauf eines erforderlichen Genehmigungsverfahrens behandelt der Vermerk gesondert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Der spätere Kreditsaldo von 8.940 Euro wird auf den Todestag bezogen. Aus diesem Einzelposten wird weder ein gesicherter Gesamtnachlasswert noch eine bereits erfolgte Annahme oder gerichtliche Genehmigung abgeleitet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vereinsvorstand-jena",
+      "target_skill": "vereinsvorstand-zum-register-anmelden",
+      "request": "Der Fördervertrag des Kinos liegt bereit. Stellen Sie aus den Primärbelegen zusammen, für welche Vorstandsämter eine Anmeldung tragfähig vorbereitet werden kann. Klären Sie nach Eingang des Zählvermerks, welche Rückfragen zu Wahl, Annahme, Satzung und Unterschriften bleiben. Antworten Sie der Geschäftsstelle. In der beigefügten Lesefassung sind die ersten 9 Stücke die Grundakte. Die folgenden 3 Stücke sind Nachreichungen für den zweiten Durchgang. Die letzte Unterlage ist eine Arbeitsvorlage.",
+      "input_files": [
+        "allgemeines-notariat/testakten/vereinsvorstand-jena/gesamt-pdf/testakte-notariat-vereinsvorstand-jena_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Registerstand mit gemeinsamer Vertretung und die abweichende Webfassung werden nach Herkunft und Eintragungsstand eingeordnet. Eine hochgeladene Arbeitsfassung begründet allein keine Einzelvertretungsmacht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Vorsitz, Kassenwartung und laufende Stellvertretung werden einzeln bearbeitet. Der doppelt angekreuzte Stimmzettel wird mit Wahlergebnis und Mehrheit abgeglichen. Die offen gebliebene Annahme des Vorsitzes wird eigens aufgeklärt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Vor einer Anmeldung werden die Unterzeichnenden nach wirksamer Bestellung und Satzung bestimmt. Die Antwort an die Geschäftsstelle unterscheidet Anmeldung, Eintragung und Unterschrift unter den Fördervertrag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anteilskauf-osnabrueck",
+      "target_skill": "gmbh-anteilskauf-und-liste-vollziehen",
+      "request": "Rika Hellmann möchte zum Jahreswechsel die Fertigung und die Gesellschaft übernehmen. Bereiten Sie den Verhandlungsentwurf zunächst anhand der Grundakte vor. Ergänzen Sie nach den Bank- und Registerunterlagen die konkreten Bedingungen für die Übertragung sowie eine vollziehbare Anweisung für die Gesellschafterliste. In der beigefügten Lesefassung sind die ersten 10 Stücke die Grundakte. Die folgenden 4 Stücke sind Nachreichungen für den zweiten Durchgang. Die letzte Unterlage ist eine Arbeitsvorlage.",
+      "input_files": [
+        "allgemeines-notariat/testakten/anteilskauf-osnabrueck/gesamt-pdf/testakte-notariat-anteilskauf-osnabrueck_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Nr. 2 über 15.000 Euro wird mit Liste und Abruf abgeglichen. Die abweichende Nummer 1 wird als interne Kennung aus der Ausschüttungsplanung identifiziert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Aus 35.000 Euro Eigenmitteln und 105.000 Euro Kredit werden 140.000 Euro Erstzahlung. Der Erwerb hängt nur von den tatsächlich vereinbarten und belegten Voraussetzungen ab. Die persönliche Bürgschaft für die Betriebsmittellinie ist gesondert zu behandeln.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Antwort zur Feier ist keine Zustimmung. Beschlusszuständigkeit, Stimmen, Erklärung für die Gesellschaft, § 181 BGB sowie notarieller Formbedarf werden an den konkreten Personen und Klauseln getrennt geprüft.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Die Liste wird als Arbeitsentwurf geführt. Einreichung und Übersendung nach § 40 Abs. 2 GmbHG erfolgen erst nach nachgewiesener wirksamer Veränderung. Geplanter Tätigkeitswechsel und Geschäftsführerbestellung werden nicht als Anteilserwerb ausgegeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dnoti-mumbai",
+      "target_skill": "beteiligte-und-vertretung-pruefen",
+      "request": "Sie sind die anfragende Urkundsperson. Erstellen Sie anhand Ihres Schreibens zur Investorin aus Mumbai den Vermerk zu den Beurkundungsvoraussetzungen sowie zur Nachweisbeschaffung nach der Zurückweisung. Erläutern Sie, wie der Verzicht auf einen weiteren Berlinflug den Vertretungsnachweis verändert.",
+      "input_files": [
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/31_DNotI_Anfrage_Mumbai.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die bei der ursprünglichen Beurkundung verfügbaren Tatsachen werden vom späteren Kenntnisstand und der künftigen Bevollmächtigung getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Organstellung und die Ermächtigung gerade zu diesem Geschäft werden an unterschiedlichen Nachweisen geprüft. Weder der Siegelabdruck noch die neue Vollmacht beheben eine Lücke beim Vollmachtgeber.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Formverkehr im deutsch-indischen Verhältnis wird nach der Auskunft der zuständigen Stellen eingeordnet. Die behördliche Amtshilfe wird als möglicher Prüfweg mit konkreter Nachforderung erläutert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dnoti-dubai",
+      "target_skill": "vollzug-und-freigaben-steuern",
+      "request": "Bearbeiten Sie die notariatsinterne Freigabefrage aus der Dubai-Anfrage für die bereits bestehende Berliner GmbH. Erstellen Sie mit dem vorliegenden Schreiben einen Vermerk zu Rechtsform, Vertretungsnachweis, Beweiswert der vorgelegten Kopien und zur Vollmacht für einen in Deutschland auftretenden Vertreter.",
+      "input_files": [
+        "testakten/notariat-berlin-vae-vertretungsnachweis/29_DNotI_Anfrage_Dubai.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Al Safa Horizon Technologies LLC ist nach der Anfrage eine Gesellschaft in Dubai außerhalb der Freizonen. Die Zuständigkeit der Lizenz- und Registerstelle wird konkret geprüft. DIFC- oder ADGM-Recht wird nicht pauschal herangezogen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Legalisation wird an der konkreten öffentlichen Urkunde und an der für die Kette verfügbaren Ausfertigung geprüft. Eine inhaltliche Bestätigung der Vertretungsmacht wird hieraus nicht abgeleitet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Vollmachtskette, Urkundenechtheit, Umfang der Ermächtigung und Zugang zu den Originalen werden gesondert beantwortet. Wo ein Beleg fehlt, enthält der Vermerk eine präzise Nachforderung und eine vorläufige Vollzugsentscheidung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-11-20",
+    "method": "desk_review",
+    "files": [
+      "allgemeines-notariat/allgemeines-notariat-werkstatt.md",
+      "allgemeines-notariat/allgemeines-notariat-schnellstart.md"
+    ],
+    "opening_change": "Der Einstieg verlangt das konkrete Amtsgeschäft, die verfügbaren Belege und die nächste Entscheidung der Amtsperson. Interessengegensätze und belastbare Alternativen sind vor einem beurkundungsreifen Entwurf herauszuarbeiten.",
+    "norms": [
+      "§ 14 BNotO, §§ 17, 22 ff. BeurkG",
+      "§§ 1643, 1851 Nr. 1, 1944, 1945, 1953, 2270, 2271 BGB",
+      "§§ 67, 71, 77 BGB und §§ 15, 40 GmbHG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 12. März 2026 – III ZR 182/25, Leitsatz 1, Rn. 25–29.",
+        "url": "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KORE705352026.html#randnummer-25",
+        "application": "Beim Entwurf einer Klausel zum gemeindlichen Vorkaufsrecht muss erkennbar sein, ob allein das Bestehen des Vorkaufsrechts oder auch das Fehlen eines Ausübungsausschlusses die Rechtsfolge auslöst.",
+        "limit": "Die Entscheidung betrifft eine mehrdeutige Klausel im Grundstückskauf. Auf andere Geschäfte lässt sich die Frage nach der eindeutigen Auslösebedingung übertragen, nicht das konkrete Vorkaufsrecht."
+      },
+      {
+        "citation": "BGH, Urteil vom 7. Februar 2013 – III ZR 121/12, BGHZ 196, 166, Leitsätze a bis c.",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=63475",
+        "application": "Bei einem von § 17 Abs. 2a BeurkG erfassten Vertrag trägt ein bloßer Terminwunsch die Verkürzung der Regelfrist nicht. Das Datum und der Inhalt der Entwurfsübermittlung sowie der Schutzbedarf werden am Einzelfall geprüft.",
+        "limit": "Entscheidung zum damaligen Verbraucherschutzrecht. Beim privaten Wohnungsverkauf sind Unternehmer- und Verbrauchereigenschaft vorab gesondert festzustellen."
+      },
+      {
+        "citation": "BGH, Beschluss vom 20. September 2011 – II ZB 17/10, Leitsatz.",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=58010",
+        "application": "Eine Gesellschafterliste, die eine aufschiebend bedingte Abtretung vor Bedingungseintritt lediglich ankündigt, trägt den Vollzug nicht.",
+        "limit": "Zeitpunkt des Eintritts, erforderliche Zustimmung und Zahlungsnachweis ergeben sich im konkreten Fall aus Abrede und Belegen."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten-, Quellen- und Ablaufprüfung. Ein bestandener Live-Modelltest oder eine notarielle Beurkundung wurden nicht beobachtet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-11-20",
+    "method": "desk_review",
+    "opening_modes": [
+      "Bei klarem Einzelauftrag direkt einen konkreten Urkundenbaustein oder eine begründete Vollzugsentscheidung formulieren.",
+      "Bei Eingangsakten zuerst die tatsächlich vorliegenden Nachrichten, Urkundenfassungen, Registerstände und Datumsbelege auswerten.",
+      "Ohne Unterlagen die entscheidende Beteiligtenkonstellation, den Gegenstand und genau die für die nächste Entscheidung fehlenden Belege erfragen."
+    ],
+    "continuation": "Im selben Entwurf nach Nachreichung die belegte Tatsache, ihre Folge für Regelung oder Vollzug sowie offene Nachweise kenntlich machen. Vor jeder Freigabe die Phase und Zuständigkeit prüfen.",
+    "enrichment": "Bei konkurrierenden Stichtagen oder Bedingungen eine Fristenübersicht oder einen Vollzugsplan neben dem Entwurf anbieten. Eine bearbeitbare Ansicht setzt eine tatsächlich verfügbare Oberfläche voraus.",
+    "limits": "Die fachliche Entscheidung, persönliche Wahrnehmungen und Beurkundung liegen bei der Amtsperson. Die dokumentierte Prüfung betrifft den lesbaren Arbeitsweg."
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Der ausgearbeitete Ablauf trennt die Sachprüfung vor Beurkundung vom späteren Vollzug und ordnet Belege, Freigabeentscheidungen und Amtsvermerk den sieben konkreten Geschäften zu.",
+    "changes": [
+      "Fälligkeitsvoraussetzungen aus der Grundakte und neue Einzelbelege im selben Kaufvertragsentwurf bearbeiten.",
+      "Bei Auslandsbeteiligung die Nachweiskette vor Beurkundung, nach dem Registereinwand und bei späterer Bevollmächtigung getrennt bewerten."
+    ],
+    "sha256": "9cde57ff547e112589795551cd1c8ac9f682c5a9421146267228c9ba9ab85125"
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der kurze eigenständige Auftrag führt zum beauftragten Empfängerentwurf und trennt offene Beweisfragen im Amtsvermerk. Sein erster Entscheidungsanker erklärt die praktische Reichweite der Gestaltungspflicht.",
+    "changes": [
+      "Fachentscheidungen zu Lastenfreistellung, Ausschlagung, Barrierefreiheit, Register und Nachfolge ausdrücklich eingeordnet.",
+      "Rückfragen betreffen den entscheidungserheblichen Beleg und führen anschließend zum fortgesetzten Entwurf."
+    ],
+    "sha256": "9497f97f423ec0ffd1ecefbfe7464a55829d32391171710f12a99a47c3d4cd78"
+  },
+  "artifact_hashes": {
+    "allgemeines-notariat/testakten/wohnung-stuttgart/gesamt-pdf/testakte-notariat-wohnung-stuttgart_gesamt.pdf": "bca0bc847ad07887d824206a9cef62152bba60af3b11d76b170944bb15dfec2c",
+    "allgemeines-notariat/testakten/hofuebergabe-tuebingen/gesamt-pdf/testakte-notariat-hofuebergabe-tuebingen_gesamt.pdf": "354f9a25fe5fffb59a7a3278c5beedfcfa03cb83592b06dee11dea03753633fe",
+    "allgemeines-notariat/testakten/testament-luebeck/gesamt-pdf/testakte-notariat-testament-luebeck_gesamt.pdf": "e96390bbf1df6c1b5149e830c5ec397978f461a486d919e64f9feec284c0a29c",
+    "allgemeines-notariat/testakten/vorsorgevollmacht-bonn/gesamt-pdf/testakte-notariat-vorsorgevollmacht-bonn_gesamt.pdf": "620c3d2cb915b22f206c128a9dfc3915aa4434618eeb8c4c69f43c481fce0bc6",
+    "allgemeines-notariat/testakten/erbausschlagung-kassel/gesamt-pdf/testakte-notariat-erbausschlagung-kassel_gesamt.pdf": "d6fb07673ce480a3cded24bdf219b0538c727796a0abae8f709e6b3200c03658",
+    "allgemeines-notariat/testakten/vereinsvorstand-jena/gesamt-pdf/testakte-notariat-vereinsvorstand-jena_gesamt.pdf": "83fd187983f628c7f0d4712059aa4bfb1e36de38f6f220bb7b2a4f6f31880722",
+    "allgemeines-notariat/testakten/anteilskauf-osnabrueck/gesamt-pdf/testakte-notariat-anteilskauf-osnabrueck_gesamt.pdf": "b11be68fa25982569ccf25b2354bf10856589f0a5ca7711042761a93e8de3a5d",
+    "testakten/notariat-berlin-mumbai-gesellschafterliste/31_DNotI_Anfrage_Mumbai.pdf": "50d32beea7e099e8ee46ee0a37687941968a594028f61dbc707edc921dc7456e",
+    "testakten/notariat-berlin-vae-vertretungsnachweis/29_DNotI_Anfrage_Dubai.pdf": "df06ca4d53dac9d4e4fb6b2453e4cad9885725ccf7bfa7fc1fac7adff90e2c27"
+  },
+  "reviewed_file_hashes": {
+    "allgemeines-notariat/skills/amtsgeschaeft-fuehren/SKILL.md": "165c46fe3324d06884bd1053e6d9d6259267d17403cf84afb1e8004effcc8ab8",
+    "allgemeines-notariat/references/arbeitsoberflaeche-und-visualisierung.md": "179eb0b9c44c99e749e7ed4fc54bae2e2a0f1cfd0627da4ccbdd5adb66d6655d",
+    "allgemeines-notariat/references/amtsgeschaefte-quellen.md": "51d8e0cb3cfb3e01e8c8235b3eea1a85f894602adfdeb6cdec2ed5a1893a724a"
+  }
+}

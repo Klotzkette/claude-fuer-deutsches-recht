@@ -1,0 +1,31 @@
+name: Allgemeines Notariat und zwanzig Arbeitsakten
+
+on:
+  pull_request:
+    paths:
+      - 'allgemeines-notariat/**'
+      - 'scripts/data/allgemeines-notariat/**'
+      - 'scripts/data/notariat-bestandsakten.json'
+      - 'scripts/build-allgemeines-notariat.py'
+      - 'scripts/test-allgemeines-notariat.py'
+      - '.github/workflows/allgemeines-notariat.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pruefung:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - name: Originale, Antwortketten, Anlagen und PDF-Seiten lesen
+        run: python scripts/test-allgemeines-notariat.py
+      - name: Installationspaket und Kursmappe aus dem Checkout bauen und abgleichen
+        run: |
+          python scripts/build-allgemeines-notariat.py --dist "$RUNNER_TEMP/notariat" --cache "$RUNNER_TEMP/bestandsakten"
+          python scripts/test-allgemeines-notariat.py --dist "$RUNNER_TEMP/notariat" --cache "$RUNNER_TEMP/bestandsakten"

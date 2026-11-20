@@ -78,11 +78,13 @@ def inventory_counts(plugins: list[dict]) -> dict[str, int]:
         for child in (REPO / "testakten").iterdir()
         if child.is_dir() and child.name not in SKIP_TESTAKTEN
     )
-    procurement = REPO / "vergaberecht-werkstatt/testakten"
+    # Die Vergabewerkstatt wird aus ihrem eigenen Marketplace installiert.
+    suites = {REPO / "vergaberecht-werkstatt/testakten"}
+    suites.update(REPO / source_rel(plugin) / "testakten" for plugin in plugins)
     separate_testakten = sum(
-        1 for child in procurement.iterdir()
-        if child.is_dir() and child.name not in SKIP_TESTAKTEN
-    ) if procurement.is_dir() else 0
+        1 for suite in suites for readme in suite.glob("*/README.md")
+        if readme.parent.name not in SKIP_TESTAKTEN and (readme.parent / "gesamt-pdf").is_dir()
+    )
     return {
         "plugins": len(plugins),
         "skills": skills,
@@ -112,7 +114,7 @@ def build_directory(plugins: list[dict]) -> str:
             f"| **Werkstatt-Prompts** | {counts['werkstatt']} | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |",
             "| HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |",
             f"| **Schnellstart-/Mini-Prompts** | {counts['schnellstart']} | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |",
-            f"| **Testakten** | {counts['central_testakten']} zentral / {counts['testakten']} gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und {counts['separate_testakten']} Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |",
+            f"| **Testakten** | {counts['central_testakten']} zentral / {counts['testakten']} gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und {counts['separate_testakten']} einzeln geführte Fälle der Vergaberecht-Werkstatt und des allgemeinen Notariats. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [Allgemeines Notariat](./allgemeines-notariat/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |",
             "",
             f"Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz {counts['skills']} Skills benutzbar bleibt.",
             "",
