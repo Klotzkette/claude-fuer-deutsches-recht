@@ -57,6 +57,18 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 312 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
+## Die lokale Übungsakte
+
+Für den ersten Durchgang öffnen Sie im Arbeits-ZIP `Grundakte/00_Posteingang`. Die vollständige Akte enthält auch die späteren Verfahrensstücke. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Fall | Originalunterlagen und Eingangspost | Lesefassungen |
+| --- | --- | --- |
+| Testakte ArbG Musterstadt 3 Ca 567/26 — Kündigungsschutzklage betriebsbedingt mit streitiger Sozialauswahl | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-gericht-richter-arbeitsgericht.zip) | [Druckpaket 18](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-18.zip) |
+
 Das Plugin unterstützt die richterliche Bearbeitung arbeitsgerichtlicher Verfahren: Streitgegenstand und Verfahrensstand einordnen, den Güte- oder Kammertermin vorbereiten und ein begründetes Urteil oder einen Beschluss entwerfen. Es vertritt weder Arbeitgeber noch Arbeitnehmer und entwirft keine Kündigung als Parteimaßnahme.
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.
 
@@ -75,7 +87,7 @@ ArbGG, BGB, KSchG, BetrVG, TzBfG, AGG, EFZG, BUrlG, GVG, ZPO
 - Skills mit ihren Referenzen: siehe vollständige Liste unten. Werkstatt und Schnellstart sind separate Markdown-Dateien, keine zusätzlichen Skills.
 - **Werkstatt-Prompt** (`richter-arbeitsgericht-werkstatt.md`)
 - **Schnellstart-Prompt** (`richter-arbeitsgericht-schnellstart.md`)
-- **Testakte** (`testakte/README.md`) — aus Richtersicht
+- **Testakte** ([Aktenverzeichnis](testakte/README.md)) — aus Richtersicht
 
 ## Skill-Liste
 

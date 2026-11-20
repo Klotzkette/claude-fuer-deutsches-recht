@@ -68,6 +68,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-akha-fiktives-verletzungsrisiko.zip) · [Druckpaket 01](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-01.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/akha-fiktives-verletzungsrisiko_gesamt.pdf`](gesamt-pdf/akha-fiktives-verletzungsrisiko_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-fiktives-verletzungsrisiko.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-akha-fiktives-verletzungsrisiko.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-fiktives-verletzungsrisiko-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-akha-fiktives-verletzungsrisiko-einzelpdfs.zip) |

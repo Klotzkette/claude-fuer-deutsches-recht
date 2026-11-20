@@ -39,6 +39,16 @@ Die fiktive Wolkenwerft Worlds GmbH aus Freiburg plant ein Browsergame mit KI-Sz
 
 Die [Testakte mit Downloads](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/jugendmedienschutz-und-medienangebote/testakte/README.md) enthält eine Grundakte ohne Lösung, gesonderte Nachreichungen und ausfüllbare Vorlagen. Damit lässt sich zuerst der geplante Start prüfen und später anhand eines Vorfalls und einer Aufsichtsanfrage weiterarbeiten. Die Grundakte nimmt diese späteren Erkenntnisse nicht vorweg.
 
+Die erste Projektpost zum Browsergame liegt in `Grundakte/00_Posteingang`. Von dort können Sie die Fragen der Redaktion und des Anbieters mit den übrigen Produktunterlagen abgleichen. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Fall | Originalunterlagen und Eingangspost | Lesefassungen |
+| --- | --- | --- |
+| Wolkenwerft und das Browsergame Inselatlas | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-jugendmedien-wolkenwerft.zip) | [Druckpaket 24](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-24.zip) |
+
 ## 4. Rechtsstand und Grenzen
 
 Quellenstand ist der **18. November 2026**. Die [Quellensammlung](references/amtliche-quellen.md) erläutert die Änderungen des JMStV, die seit Juni 2026 geltende Kennzeichnung und die Schnittstellen zum DSA. Die [Fallprüfung](references/fallpruefung.md) hält entscheidende Abgrenzungen und Gegenproben fest. Für einen späteren Einsatz sind die dann maßgeblichen Fassungen und Entwicklungen erneut zu prüfen.

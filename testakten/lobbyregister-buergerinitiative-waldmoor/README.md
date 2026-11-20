@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-lobbyregister-buergerinitiative-waldmoor.zip) · [Druckpaket 28](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-28.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf`](gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-lobbyregister-buergerinitiative-waldmoor.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-lobbyregister-buergerinitiative-waldmoor.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-lobbyregister-buergerinitiative-waldmoor-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-lobbyregister-buergerinitiative-waldmoor-einzelpdfs.zip) |

@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-bgb-nachhilfevertrag-ausfallhonorar-bonn.zip) · [Druckpaket 09](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-09.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bgb-nachhilfevertrag-ausfallhonorar-bonn_gesamt.pdf`](gesamt-pdf/bgb-nachhilfevertrag-ausfallhonorar-bonn_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bgb-nachhilfevertrag-ausfallhonorar-bonn.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-bgb-nachhilfevertrag-ausfallhonorar-bonn.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bgb-nachhilfevertrag-ausfallhonorar-bonn-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-bgb-nachhilfevertrag-ausfallhonorar-bonn-einzelpdfs.zip) |

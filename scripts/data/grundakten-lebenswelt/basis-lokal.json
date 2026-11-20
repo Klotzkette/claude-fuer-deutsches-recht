@@ -1,0 +1,1653 @@
+{
+  "gerichtsplugins/relationstechnik-zivilrecht/testakte": {
+    "id": "gericht-relationstechnik-zivilrecht",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/relationstechnik-zivilrecht/testakte/00-rubrum.md",
+        "size": 2395,
+        "sha256": "65c812c8f15498b496820f50900f10490d53e729ed7d03a7071224d6c7654310"
+      },
+      {
+        "path": "gerichtsplugins/relationstechnik-zivilrecht/testakte/01-klageschrift.md",
+        "size": 3051,
+        "sha256": "61ef8b316b4d361852d56d9d748f75875b6ecf62b080f475a46efbd5e15f492b"
+      },
+      {
+        "path": "gerichtsplugins/relationstechnik-zivilrecht/testakte/02-klageerwiderung.md",
+        "size": 3438,
+        "sha256": "2df1ae49f6c6cf9a9416bda54dc1dcaea732c22363d4392894d6bc58d4dcf7f6"
+      },
+      {
+        "path": "gerichtsplugins/relationstechnik-zivilrecht/testakte/03-anlage-k1-werkvertrag.md",
+        "size": 1779,
+        "sha256": "dd83bf4a34acdf7a73243eee4b957bb03651f36d707337a981d1a5caab0bdb41"
+      },
+      {
+        "path": "gerichtsplugins/relationstechnik-zivilrecht/testakte/04-anlage-k2-schlussrechnung.md",
+        "size": 1065,
+        "sha256": "57a67f642e7e27ed34c11794cdc295ffd1f4b48385545fab82fbb501b8826d97"
+      },
+      {
+        "path": "gerichtsplugins/relationstechnik-zivilrecht/testakte/05-anlage-k3-abnahmeprotokoll.md",
+        "size": 943,
+        "sha256": "66c0c114c04808046fd896d023759f1f98291604eddbc528502e7b43a529843d"
+      },
+      {
+        "path": "gerichtsplugins/relationstechnik-zivilrecht/testakte/06-anlage-b1-maengelanzeige-und-kostenvoranschlag.md",
+        "size": 2630,
+        "sha256": "c016b414fa63a01b6c054e02823c2a071544ab3a38888a8304025d40772881cc"
+      },
+      {
+        "path": "gerichtsplugins/relationstechnik-zivilrecht/testakte/07-hinweis-und-beweisbeschluss.md",
+        "size": 3274,
+        "sha256": "618197a1206e8356d87258adbb1c2890aea9fed0961ac0f639d81958445e473e"
+      },
+      {
+        "path": "gerichtsplugins/relationstechnik-zivilrecht/testakte/08-urteilsentwurf.md",
+        "size": 5369,
+        "sha256": "caea750dd840aa40b23282ef1219394fdba21f402baf8b82c001c4885ee76739"
+      }
+    ],
+    "eingang": [
+      "03-anlage-k1-werkvertrag.docx",
+      "04-anlage-k2-schlussrechnung.docx"
+    ]
+  },
+  "gerichtsplugins/richter-amtsgericht-handelsregister/testakte": {
+    "id": "gericht-richter-amtsgericht-handelsregister",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-handelsregister/testakte/00-rubrum.md",
+        "size": 2788,
+        "sha256": "21600a6173a4a4a87e365692294185319f245d1d504f6137b2c4a5d2106bb1d5"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-handelsregister/testakte/01-anmeldung.md",
+        "size": 2555,
+        "sha256": "8faecee4a3d9e2ea1d3d8ae3587385b79818cbec41540613e8edf24dffa8804c"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-handelsregister/testakte/02-stellungnahme-gesellschaft.md",
+        "size": 2092,
+        "sha256": "e0dc4af4bf7f7f8eab37761c4367b6b92171c26d30c8fdb3f327a1cca221ef59"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-handelsregister/testakte/03-anlage-1-gesellschafterbeschluss.md",
+        "size": 1095,
+        "sha256": "20cfab951d2cf52b4f9eababd5768543630f648d58634cdff9b71d86c3441855"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-handelsregister/testakte/04-anlage-2-gesellschafterliste.md",
+        "size": 628,
+        "sha256": "ab2750030cc42001b031e2b1dfa13fea1c92388efb31fff9bcf7af715fc77b3a"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-handelsregister/testakte/05-anlage-3-versicherung-geschaeftsfuehrer.md",
+        "size": 1394,
+        "sha256": "bc406afdd9d865e7eac88c58e9b151a83949de71bf3d97a83406675a561ceb9d"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-handelsregister/testakte/06-anlage-4-registerauszug.md",
+        "size": 784,
+        "sha256": "c9738bb4946c34b4db34869329a9aa949dd4e0b9dc1b665d03823247dcbd1de9"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-handelsregister/testakte/07-zwischenverfuegung-und-aufklaerungsverfuegung.md",
+        "size": 2673,
+        "sha256": "2a720f8f61b3ac96d3646c94e687d83f48f504550f52e9eecd2382b5167d5f47"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-handelsregister/testakte/08-eintragungs-oder-zwischenverfuegung.md",
+        "size": 4656,
+        "sha256": "b979a20ee67465245cb9671edc8c821329e44a112cb636084680310a8ee4a946"
+      }
+    ],
+    "eingang": [
+      "03-anlage-1-gesellschafterbeschluss.docx",
+      "06-anlage-4-registerauszug.docx"
+    ]
+  },
+  "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/testakte": {
+    "id": "gericht-richter-amtsgericht-insolvenz-restrukturierung",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/testakte/00-rubrum.md",
+        "size": 2604,
+        "sha256": "1f5d1259ad159084feae5c679f26e67bca576535f379474524cae43ae49d0d4d"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/testakte/01-glaeubigerantrag.md",
+        "size": 3313,
+        "sha256": "d9ed1fc498ca7a960d8e516af0b42636fd170cbc516946daece42d54d25bd06d"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/testakte/02-stellungnahme-schuldnerin.md",
+        "size": 2832,
+        "sha256": "707cdcf4c46b39b8348e3475e82c82119196255ecef5a60a1805e821cdd1f58e"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/testakte/03-anlage-g1-vollstreckungsbescheid.md",
+        "size": 1157,
+        "sha256": "07a68ad9ae6827c54a71d8d624c74fd1e52f380a0a941d7c514cefb242b3a12a"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/testakte/04-anlage-g2-fruchtlose-pfaendung.md",
+        "size": 1460,
+        "sha256": "5717345a18a4de407a517e6a912457c9ee7226bdbe90aaca54d6b2f31ed6056b"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/testakte/05-anlage-s1-liquiditaetsstatus.md",
+        "size": 1067,
+        "sha256": "2f6f0aeaf158b0f976eeb9d97f1f1a98358a24f0a06c81884a01c3db513cf29e"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/testakte/06-anlage-s2-handelsregisterauszug.md",
+        "size": 804,
+        "sha256": "c3c8a0ac19c1cf5a3265b2f8e4cbb4a2a6307adecc8fe45c4eb2d5b3f6532365"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/testakte/07-hinweis-und-sicherungsbeschluss.md",
+        "size": 3058,
+        "sha256": "cca9d9414dab673df7f2da9429fac15fc7f8c64f0558d9b5ac733116039c263c"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/testakte/08-eroeffnungsbeschluss-oder-abweisung.md",
+        "size": 4415,
+        "sha256": "4453439400d2277da3a42ce6c3328164d367aaa5175559a8d4c2459f0f491c2d"
+      }
+    ],
+    "eingang": [
+      "05-anlage-s1-liquiditaetsstatus.docx",
+      "06-anlage-s2-handelsregisterauszug.docx"
+    ]
+  },
+  "gerichtsplugins/richter-amtsgericht-straf/testakte": {
+    "id": "gericht-richter-amtsgericht-straf",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-straf/testakte/00-rubrum.md",
+        "size": 2635,
+        "sha256": "6d12df963d9b81fbfc26851dc72f83c5433807d11c00cf2136a45646afba4924"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-straf/testakte/01-anklageschrift.md",
+        "size": 3602,
+        "sha256": "3a05e783c4bd6e61fb5c56f34f5e32c4d10d2f7f454a58a2a42a27e778f06b95"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-straf/testakte/02-einlassung-beschuldigter.md",
+        "size": 3161,
+        "sha256": "8c4b323d357531ea35b89f5dc9468954ae2deb0744c561c9cd9e7b33c9eb4575"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-straf/testakte/03-anlage-a1-vernehmungsprotokoll-pohl.md",
+        "size": 1482,
+        "sha256": "b714701a916f97d5a39620aefd7bfaa0c63a88896a4258d1da512f5b1cce7d35"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-straf/testakte/04-anlage-a2-spurensicherungsbericht-dna.md",
+        "size": 1172,
+        "sha256": "ef85d819d96710169ac332735ba5a040eb8f31eacf3984542f7a468b0f7c508a"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-straf/testakte/05-anlage-a3-auswertevermerk-privatvideo.md",
+        "size": 1127,
+        "sha256": "52ef11072d5f9f154c69bee71c77ddbf968494552e9a45170708d5d33ae45c01"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-straf/testakte/06-anlage-a4-bundeszentralregisterauszug.md",
+        "size": 389,
+        "sha256": "1c472ac702dc709c391dc10e84183b2f12dd20468876d2c4874cac52501896d9"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-straf/testakte/07-eroeffnungs-und-beweisbeschluss.md",
+        "size": 3052,
+        "sha256": "054118c407f2b8042aad1f9625edd5a438674c8197dda6210d58eb6924cb1f09"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-straf/testakte/08-urteilsentwurf.md",
+        "size": 4348,
+        "sha256": "bd3f7612dabbf3800e66300641d8138df82c492bcc88ff9509695e88af0e3722"
+      }
+    ]
+  },
+  "gerichtsplugins/richter-amtsgericht-zivil/testakte": {
+    "id": "gericht-richter-amtsgericht-zivil",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-zivil/testakte/00-rubrum.md",
+        "size": 1563,
+        "sha256": "61b03ab5ab627afc4f7f7dc6200d309a0dd57ae8910d8c0a8698e8146aefe2c4"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-zivil/testakte/01-klageschrift.md",
+        "size": 2650,
+        "sha256": "d3e6ed955b2b592eebbde1acde2bb70dbc1863317ed948147cb90f39ac733766"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-zivil/testakte/02-klageerwiderung.md",
+        "size": 2082,
+        "sha256": "0e3ebc9a43d18a74b760253987c51310c7d5f69798c980f9fb16e856797f222b"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-zivil/testakte/03-anlage-k1-reparaturrechnung.md",
+        "size": 795,
+        "sha256": "ddd2d2c3e4deec9a305e2589912cb71fa69d876ff3eb747c2cc0faf139abbf41"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-zivil/testakte/04-anlage-k2-unfallmeldung-polizei.md",
+        "size": 1120,
+        "sha256": "cb45f6d01ecc0ceae9e1125572cbb09178a168093b040e8da176d7279e9de0fc"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-zivil/testakte/05-anlage-k3-aufforderungsschreiben.md",
+        "size": 1005,
+        "sha256": "a9a059fac8d8d34717c79d8c73122fb3a448b09e2978a16e9d6c1434d9d61f98"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-zivil/testakte/06-anlage-b1-lichtbilder.md",
+        "size": 1051,
+        "sha256": "1753bc9b691ae5328642ceb49e91f0cd58abcd1ee1db78183e4107d7f9a4b23a"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-zivil/testakte/07-hinweis-und-beweisbeschluss.md",
+        "size": 1933,
+        "sha256": "99bab60d50423566e4ee841bb75b5792f752f4be97bf6134b15998797ab53889"
+      },
+      {
+        "path": "gerichtsplugins/richter-amtsgericht-zivil/testakte/08-urteilsentwurf.md",
+        "size": 3256,
+        "sha256": "8285b301bb27bb8dd64cd09a011a81b35e4d1226abc41d631d0fb100606850df"
+      }
+    ],
+    "eingang": [
+      "03-anlage-k1-reparaturrechnung.docx",
+      "04-anlage-k2-unfallmeldung-polizei.docx"
+    ]
+  },
+  "gerichtsplugins/richter-arbeitsgericht/testakte": {
+    "id": "gericht-richter-arbeitsgericht",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/richter-arbeitsgericht/testakte/00-rubrum.md",
+        "size": 2585,
+        "sha256": "3e8e2079337ade60f52e228c6b2d007cda97d05ebcae0d211639f8e04357b5f0"
+      },
+      {
+        "path": "gerichtsplugins/richter-arbeitsgericht/testakte/01-klageschrift.md",
+        "size": 3648,
+        "sha256": "c51d00cf5941411daa40d40eeb0d831c05394754715c97dec3336bd74660fb5f"
+      },
+      {
+        "path": "gerichtsplugins/richter-arbeitsgericht/testakte/02-klageerwiderung.md",
+        "size": 2785,
+        "sha256": "81aba6123a61040569d98cf89fddc5b6787b172a97132f4a0fe8e6985b9e2cca"
+      },
+      {
+        "path": "gerichtsplugins/richter-arbeitsgericht/testakte/03-anlage-k1-kuendigungsschreiben.md",
+        "size": 1256,
+        "sha256": "99549e748caa52f4dcb2d6a9496bd803b534885cc21f1d5c111ee32e251f1ba7"
+      },
+      {
+        "path": "gerichtsplugins/richter-arbeitsgericht/testakte/04-anlage-k2-arbeitsvertrag.md",
+        "size": 1111,
+        "sha256": "dcc085a82968ca7d60e6e3dff2cbfed9bf996334fe8c238234068b50ea4b74c2"
+      },
+      {
+        "path": "gerichtsplugins/richter-arbeitsgericht/testakte/05-anlage-b1-betriebsratsanhoerung.md",
+        "size": 1479,
+        "sha256": "2edba5f33dea33b699c2145ef12df9cb6681c2a88a3b2706fab6373a34539b05"
+      },
+      {
+        "path": "gerichtsplugins/richter-arbeitsgericht/testakte/06-anlage-b2-dienstleistungsvertrag.md",
+        "size": 1019,
+        "sha256": "4adfd3209d34796d9cf3a8da3a8790ee57c070382a478ac3435512cc291a2b52"
+      },
+      {
+        "path": "gerichtsplugins/richter-arbeitsgericht/testakte/07-hinweis-und-aufklaerungsbeschluss.md",
+        "size": 3224,
+        "sha256": "932ed852f40ab32e4babe8221c52467f4ef31b9d12a2f85ddff5dcc9c7468082"
+      },
+      {
+        "path": "gerichtsplugins/richter-arbeitsgericht/testakte/08-urteilsentwurf.md",
+        "size": 5282,
+        "sha256": "f52fe8d2cd22c0d037c5dc05b98c1d70e8911a5ce2e1effaa62672e864816ec9"
+      }
+    ],
+    "eingang": [
+      "03-anlage-k1-kuendigungsschreiben.docx",
+      "04-anlage-k2-arbeitsvertrag.docx"
+    ]
+  },
+  "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/testakte": {
+    "id": "gericht-richter-bverfg-verfassungsbeschwerden",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/testakte/00-rubrum.md",
+        "size": 2693,
+        "sha256": "e2bdab124f1caaa5c7440a1268800057c535dbb27d38b6c86e3d0bde8ac51103"
+      },
+      {
+        "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/testakte/01-verfassungsbeschwerde.md",
+        "size": 5566,
+        "sha256": "7ad237f28999ce811d0d65a2bffcbe2a3ff9a5cdb91e1bba5fc3c22c5399de86"
+      },
+      {
+        "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/testakte/02-stellungnahme-landesregierung.md",
+        "size": 2298,
+        "sha256": "cbeef1a8216f9e1fede7de85e3cd2fc274c47d53ec263f9dbb1f6d0caff95ed4"
+      },
+      {
+        "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/testakte/03-anlage-bf1-berufungsurteil.md",
+        "size": 1089,
+        "sha256": "615f78bdec007c30ac81e9dd4c5f5efb6182603949c6e5e6e9d34bcd77c0e470"
+      },
+      {
+        "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/testakte/04-anlage-bf2-schriftsatz-beweisantritt.md",
+        "size": 1057,
+        "sha256": "637bf153422258f4873004418223027044e5159a6389d7b043d2e2610aa95957"
+      },
+      {
+        "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/testakte/05-anlage-bf3-anhoerungsruege.md",
+        "size": 1323,
+        "sha256": "bdc745efa336e8edfd776fa3666b8e580883cbac46ee1cd37981e9946e09b2f8"
+      },
+      {
+        "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/testakte/06-anlage-bf4-zurueckweisungsbeschluss.md",
+        "size": 926,
+        "sha256": "39268d725259e259bbb1ec428f5e3f9bbeafbd7d4768ba260dd310c58afbaca4"
+      },
+      {
+        "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/testakte/07-hinweis-und-stellungnahmeverfuegung.md",
+        "size": 2507,
+        "sha256": "82697bacdb889fdb75119c273ed3965371a5f54a4831a20962e51b0140f87197"
+      },
+      {
+        "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/testakte/08-votum-mit-tenorvorschlag.md",
+        "size": 6035,
+        "sha256": "41c40cf6db02befdf66339e69087df18746a3ac254286658d61815d6822db14b"
+      }
+    ]
+  },
+  "gerichtsplugins/richter-familiengericht/testakte": {
+    "id": "gericht-richter-familiengericht",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/richter-familiengericht/testakte/00-rubrum.md",
+        "size": 2165,
+        "sha256": "f4fe2f9eead1db43de0e0109970f5221370875af8eeb5a7a2505d055dd8768a9"
+      },
+      {
+        "path": "gerichtsplugins/richter-familiengericht/testakte/01-antragsschrift.md",
+        "size": 3860,
+        "sha256": "a2fffa618cf54df6873b0dae87802738f741ceb3fe111a7584f2daf293e578be"
+      },
+      {
+        "path": "gerichtsplugins/richter-familiengericht/testakte/02-antragserwiderung.md",
+        "size": 2872,
+        "sha256": "2d2b743eb71eb29bddcd5227156aa7e6898213830825f1e6a00cdeb6fd067249"
+      },
+      {
+        "path": "gerichtsplugins/richter-familiengericht/testakte/03-anlage-as1-jugendamtsurkunde-vaterschaft.md",
+        "size": 633,
+        "sha256": "7130dca03769aa2403fe731d42633b5c3c18c87a18af068b01610463465410bc"
+      },
+      {
+        "path": "gerichtsplugins/richter-familiengericht/testakte/04-anlage-as2-mahnung-und-auskunftsaufforderung.md",
+        "size": 1496,
+        "sha256": "704997d5e024dfc97a0ce35e95bc6532a45474aaf576861f7101a5c8c48efcaa"
+      },
+      {
+        "path": "gerichtsplugins/richter-familiengericht/testakte/05-anlage-ag1-einkommensteuerbescheid.md",
+        "size": 668,
+        "sha256": "45e4cb4074727bdce0a838766a59394bf070bcda013b7b45825d922285e92e6c"
+      },
+      {
+        "path": "gerichtsplugins/richter-familiengericht/testakte/06-anlage-ag2-betriebswirtschaftliche-auswertung.md",
+        "size": 568,
+        "sha256": "3585f86f41ee535e4d5a1f2b8eabeab3b9944e43957e0da54956d98fb14fb85b"
+      },
+      {
+        "path": "gerichtsplugins/richter-familiengericht/testakte/07-hinweis-und-aufklaerungsbeschluss.md",
+        "size": 3272,
+        "sha256": "e2cc63726794e0c53dad31045cb5ee5111697530e9d5898f08ee76393303f0c1"
+      },
+      {
+        "path": "gerichtsplugins/richter-familiengericht/testakte/08-beschlussentwurf.md",
+        "size": 5544,
+        "sha256": "9d555a0a17043543f35dcacbb00fa66df1084d4e20bb766b985fb1cec22791b8"
+      }
+    ],
+    "eingang": [
+      "03-anlage-as1-jugendamtsurkunde-vaterschaft.docx",
+      "05-anlage-ag1-einkommensteuerbescheid.docx"
+    ]
+  },
+  "gerichtsplugins/richter-finanzgericht/testakte": {
+    "id": "gericht-richter-finanzgericht",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/richter-finanzgericht/testakte/00-rubrum.md",
+        "size": 2233,
+        "sha256": "68b924000e7372035d8b125a130bee967b220bea335f782de12fb41732ffddd6"
+      },
+      {
+        "path": "gerichtsplugins/richter-finanzgericht/testakte/01-klageschrift.md",
+        "size": 3618,
+        "sha256": "59812cbcb68cfc6754d8cdfa8907a7cb914fdb231047627976055b2419518a2b"
+      },
+      {
+        "path": "gerichtsplugins/richter-finanzgericht/testakte/02-klageerwiderung.md",
+        "size": 2578,
+        "sha256": "882b114e0fc175f9ce7bd677d5fcb1be4612fcff0b68055d959199d2d1917e2f"
+      },
+      {
+        "path": "gerichtsplugins/richter-finanzgericht/testakte/03-anlage-k1-einkommensteuerbescheid.md",
+        "size": 1222,
+        "sha256": "5f570f7e5d9bc74989a658a1bcaaec2ae2c1b179df27f55637cff3f27b43f82a"
+      },
+      {
+        "path": "gerichtsplugins/richter-finanzgericht/testakte/04-anlage-k2-betriebspruefungsbericht.md",
+        "size": 1605,
+        "sha256": "ef8e57c212aa83a1a4ebb6e2d21652baf0234eba5e0e44da2dca5d4de906266a"
+      },
+      {
+        "path": "gerichtsplugins/richter-finanzgericht/testakte/05-anlage-k3-einspruchsentscheidung.md",
+        "size": 1715,
+        "sha256": "fb5990710a99cb109796edc9cf9711fb8f097b2ea716460582425d4a4ac2cb88"
+      },
+      {
+        "path": "gerichtsplugins/richter-finanzgericht/testakte/06-anlage-b1-kalkulationsschema-finanzamt.md",
+        "size": 1826,
+        "sha256": "3d72fe7beae47a7779070294c5dc05bc807334f9fb5e1bb447009936311c2e71"
+      },
+      {
+        "path": "gerichtsplugins/richter-finanzgericht/testakte/07-aufklaerungsanordnung-und-hinweis.md",
+        "size": 2611,
+        "sha256": "832268f3ce5f249a76938ee7f4b92fffd9ad76e5a8daf56b8397aa030d2207ac"
+      },
+      {
+        "path": "gerichtsplugins/richter-finanzgericht/testakte/08-urteilsentwurf.md",
+        "size": 4274,
+        "sha256": "4a056d1296abc0b2f227d65be8854ee31988cf5b9b3008d2b876de7d529280ba"
+      }
+    ],
+    "eingang": [
+      "03-anlage-k1-einkommensteuerbescheid.docx"
+    ]
+  },
+  "gerichtsplugins/richter-landgericht-strafkammer/testakte": {
+    "id": "gericht-richter-landgericht-strafkammer",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/richter-landgericht-strafkammer/testakte/00-rubrum.md",
+        "size": 3119,
+        "sha256": "9eebb2f80277cf4537952215e1d7efa82540ddc3184ea7919e2ab6c0bf0626f9"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-strafkammer/testakte/01-anklageschrift.md",
+        "size": 3825,
+        "sha256": "dd934dbcf835443608cfeeb8fb36239e0e1b3dec4f6a1b0e3f6ccc0d914e94a8"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-strafkammer/testakte/02-einlassung-beschuldigte.md",
+        "size": 3173,
+        "sha256": "9ad3ecccf133db244e7317c875d7ee6f100c72124d8acdc9a46d1dbe25bb67c7"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-strafkammer/testakte/03-anlage-vernehmungsprotokoll-zeugin.md",
+        "size": 2122,
+        "sha256": "b907d05f8021103a53073661bc73910221c0578f8e8034f1015a9d3c12896b4e"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-strafkammer/testakte/04-anlage-spurensicherung-und-tatwaffe.md",
+        "size": 1812,
+        "sha256": "70c5a971d1f38c1ef183b348569463f77dcc13a7e35a47fb55fa46b53f55626e"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-strafkammer/testakte/05-anlage-bundeszentralregisterauszug.md",
+        "size": 1288,
+        "sha256": "1aecde883a15974714999253ca83eafe552058de767fe6f52541b9a4b3680596"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-strafkammer/testakte/06-anlage-videoauswertung.md",
+        "size": 1457,
+        "sha256": "253ecace48829e4cfd6c0c33b0202684bd639bae45445ef4cf0d85c8b9a4db05"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-strafkammer/testakte/07-eroeffnungs-und-hinweisbeschluss.md",
+        "size": 4227,
+        "sha256": "3bb2615fde01b7d63e8448eefa1668e2420ea7046f9c3849e1feb4b277a2bff5"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-strafkammer/testakte/08-urteilsentwurf.md",
+        "size": 6864,
+        "sha256": "09c0c69f544b46389404fecc0374c93d1ab5fbcd1642e47ae870eb8582c1ec02"
+      }
+    ]
+  },
+  "gerichtsplugins/richter-landgericht-zivilkammer/testakte": {
+    "id": "gericht-richter-landgericht-zivilkammer",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/richter-landgericht-zivilkammer/testakte/00-rubrum.md",
+        "size": 2286,
+        "sha256": "c8efcf4417f42337e239c9993cc33bc43a40be99bee474e017438a2bb8227fc8"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-zivilkammer/testakte/01-klageschrift.md",
+        "size": 3346,
+        "sha256": "effa641cb3cace41e1a9880d1cc356d2626d5e9d4954588fbd4ceaa90cbb7e03"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-zivilkammer/testakte/02-klageerwiderung.md",
+        "size": 3284,
+        "sha256": "12302a6520a877e62f1a66cd793ce6e711bdaec7b853021ac5f281fc7b124d3f"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-zivilkammer/testakte/03-anlage-k1-bauvertrag.md",
+        "size": 1738,
+        "sha256": "f30e29cb3bca2d4811a9af006caf8d8c16d1af6730800876c92be38984228ab2"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-zivilkammer/testakte/04-anlage-k2-schlussrechnung.md",
+        "size": 987,
+        "sha256": "c42a7d3d5258ad4db153d19bdc6f49265e5bcb9a0e1f67fff276e77463ad2649"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-zivilkammer/testakte/05-anlage-k3-abnahmeprotokoll.md",
+        "size": 1403,
+        "sha256": "7dd59eeed596872eab9ea15ab06eea55d4f89dbc3889ec6c8cfa4ceea5638eef"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-zivilkammer/testakte/06-anlage-b1-privatgutachten.md",
+        "size": 1290,
+        "sha256": "bb4943b5743670affde7e03a9b9e4ae7e4db13413ad9dd9967e3f5a59be32b43"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-zivilkammer/testakte/07-hinweis-und-beweisbeschluss.md",
+        "size": 2957,
+        "sha256": "66cf40186241cd885f0ddfdfea03d38f4f0d5823970c6befd48311f469ee8980"
+      },
+      {
+        "path": "gerichtsplugins/richter-landgericht-zivilkammer/testakte/08-urteilsentwurf.md",
+        "size": 4207,
+        "sha256": "aa5383099828ac957f5f3da844140d034432c2b4298f9155a0ce21dc0153cfb3"
+      }
+    ],
+    "eingang": [
+      "03-anlage-k1-bauvertrag.docx",
+      "04-anlage-k2-schlussrechnung.docx"
+    ]
+  },
+  "gerichtsplugins/richter-sozialgericht/testakte": {
+    "id": "gericht-richter-sozialgericht",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/richter-sozialgericht/testakte/00-rubrum.md",
+        "size": 2534,
+        "sha256": "aa3801d4f450d0c7187eacb8d86d36e3c0957a8e14002abcf9fa4503dcd4bdad"
+      },
+      {
+        "path": "gerichtsplugins/richter-sozialgericht/testakte/01-klageschrift.md",
+        "size": 3894,
+        "sha256": "2d0227c6460002cd4649837590c78227f0a610fe5aed3170dcaa317a2b86a906"
+      },
+      {
+        "path": "gerichtsplugins/richter-sozialgericht/testakte/02-klageerwiderung.md",
+        "size": 2883,
+        "sha256": "2e287a75c7c6e5c49b3352f731744a652bda0fc14a638cb42d77272e00c021f2"
+      },
+      {
+        "path": "gerichtsplugins/richter-sozialgericht/testakte/03-anlage-k1-rentenbescheid.md",
+        "size": 1577,
+        "sha256": "cc88a57d9006fcc99707753aec25e4cbe819953d431e3ed066ef6240e42f8c1b"
+      },
+      {
+        "path": "gerichtsplugins/richter-sozialgericht/testakte/04-anlage-k2-attest-orthopaedie.md",
+        "size": 1344,
+        "sha256": "68ca864b37e60768b4ae4565394e7f2fe44776c26ada79cf90ab193b1bc71f65"
+      },
+      {
+        "path": "gerichtsplugins/richter-sozialgericht/testakte/05-anlage-k3-attest-psychiatrie.md",
+        "size": 1213,
+        "sha256": "76da927fd3c825dc873caaec1cf16941a4e678ebef4628375eca26d0ce66f144"
+      },
+      {
+        "path": "gerichtsplugins/richter-sozialgericht/testakte/06-anlage-b1-aerztliches-gutachten-rv.md",
+        "size": 1876,
+        "sha256": "53127d4129604bbc178500639392476bfa5a19a9dc0d5bcfbc7a3c2c47811984"
+      },
+      {
+        "path": "gerichtsplugins/richter-sozialgericht/testakte/07-hinweis-und-beweisbeschluss.md",
+        "size": 3235,
+        "sha256": "cd2680b9fce23afee068246781fcf380bb18dee4b521e02c3e884e9bad1b9a4f"
+      },
+      {
+        "path": "gerichtsplugins/richter-sozialgericht/testakte/08-urteilsentwurf.md",
+        "size": 4917,
+        "sha256": "b04175ad0cfcd7ec0129f595144567b7d1075ee56184e995ca36a336f25d3975"
+      }
+    ],
+    "eingang": [
+      "04-anlage-k2-attest-orthopaedie.docx",
+      "05-anlage-k3-attest-psychiatrie.docx"
+    ]
+  },
+  "gerichtsplugins/richter-verwaltungsgericht/testakte": {
+    "id": "gericht-richter-verwaltungsgericht",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/richter-verwaltungsgericht/testakte/00-rubrum.md",
+        "size": 2586,
+        "sha256": "2a49dbb65e51153a0149a42a3e342a2d5c0ad7385c767fbe78577f4fd40f4c64"
+      },
+      {
+        "path": "gerichtsplugins/richter-verwaltungsgericht/testakte/01-klage-und-eilantrag.md",
+        "size": 3441,
+        "sha256": "f5dd26c066e62c5edeeb74ca53bd28b1d5b2b96e0150254ff35d19ae4067096d"
+      },
+      {
+        "path": "gerichtsplugins/richter-verwaltungsgericht/testakte/02-stellungnahme-behoerde.md",
+        "size": 2700,
+        "sha256": "0d53d3217bfeb6077d6846c33fe29f6b3ced004b6dacf25790a8b95067a5f14e"
+      },
+      {
+        "path": "gerichtsplugins/richter-verwaltungsgericht/testakte/03-anlage-k1-untersagungsbescheid.md",
+        "size": 1952,
+        "sha256": "40f18045bc0714e571e71529343171693da31259993d970eae1441f69f1d0fed"
+      },
+      {
+        "path": "gerichtsplugins/richter-verwaltungsgericht/testakte/04-anlage-k2-rueckstandsaufstellung-finanzamt.md",
+        "size": 905,
+        "sha256": "c123b80c55a9625af4af51d80ee4e82ae3e2c92359d12b3354c6495b52c717a5"
+      },
+      {
+        "path": "gerichtsplugins/richter-verwaltungsgericht/testakte/05-anlage-k3-ratenzahlungsvereinbarung.md",
+        "size": 1008,
+        "sha256": "40d1b3012cd06db72ac41ebaac10adba4e11dd8e325f1d4c42a72d3ad350c539"
+      },
+      {
+        "path": "gerichtsplugins/richter-verwaltungsgericht/testakte/06-anlage-b1-mitteilung-einzugsstelle.md",
+        "size": 849,
+        "sha256": "cb45ac72660d4130076c3007cec37a7ad142f8c8519a3c919b181abc712578d9"
+      },
+      {
+        "path": "gerichtsplugins/richter-verwaltungsgericht/testakte/07-hinweis-und-aufklaerungsbeschluss.md",
+        "size": 2377,
+        "sha256": "f72892d3f15c311ed66feeccfed81764999335b257dc56d79918861340a4ae82"
+      },
+      {
+        "path": "gerichtsplugins/richter-verwaltungsgericht/testakte/08-urteilsentwurf.md",
+        "size": 4264,
+        "sha256": "a1183b887865a9ac53e7be77d75dca591f48205b467687edd08094d0bdd5d6f5"
+      }
+    ],
+    "eingang": [
+      "04-anlage-k2-rueckstandsaufstellung-finanzamt.docx",
+      "05-anlage-k3-ratenzahlungsvereinbarung.docx"
+    ]
+  },
+  "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/testakte": {
+    "id": "gericht-staatsanwaltschaft-amtsanwaltschaft",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/testakte/00-rubrum.md",
+        "size": 2888,
+        "sha256": "3bdf63d7f17124843dbe201c73bed7f1acfb665af490f2e59a8b426dff2f07e5"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/testakte/01-anzeige-und-ermittlungsvorgang.md",
+        "size": 3196,
+        "sha256": "c894edeb8167f6fe1b262bd0b047a7dc727db11ea024b627ebe2d81b33e5092d"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/testakte/02-beschuldigtenvernehmung.md",
+        "size": 2750,
+        "sha256": "638fa03308299ff973bb46130a4a5fcc390f7cfc596213d2f672bc71713e826e"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/testakte/03-anlage-zahlungsnachweise.md",
+        "size": 1181,
+        "sha256": "4ff82dd8cd41cf7a373805edfc9805b4b8d22defdac9ac588f708cfb62930b4c"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/testakte/04-anlage-kontoauswertung.md",
+        "size": 1665,
+        "sha256": "60ae9e534fa7a011b05eeef5160fc84d410ea8f21bef1c09f34e2b284d3df86d"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/testakte/05-anlage-handelsregisterauszug.md",
+        "size": 953,
+        "sha256": "da9df50317499bba790df7e9d41f29bd96182c01b18d0f96f02aecf1977644bc"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/testakte/06-anlage-mailverkehr.md",
+        "size": 1338,
+        "sha256": "3d3ea1097da7d1453c40b21fb1a6c8b9fddbb08af19280fee472cd7f7c1fee7c"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/testakte/07-ermittlungsanweisung-und-hinweis.md",
+        "size": 2380,
+        "sha256": "45847b5ef372e783b50030162d5485836d10fa62e6a9a3ffb4feb6db21f268f7"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/testakte/08-abschlussentscheidung-anklage-oder-strafbefehl.md",
+        "size": 4978,
+        "sha256": "4f2b90e377d901e4e2bcc55528de61af91d680369984d6a9624752fbcf0ead46"
+      }
+    ],
+    "eingang": [
+      "03-anlage-zahlungsnachweise.docx",
+      "06-anlage-mailverkehr.docx"
+    ]
+  },
+  "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/testakte": {
+    "id": "gericht-staatsanwaltschaft-praxis-einstieg",
+    "manuskripte": [
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/testakte/00-rubrum.md",
+        "size": 2535,
+        "sha256": "3b69c0271819f1d34119df20ad375099f3a1a4f87c43906badcb74192451c15d"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/testakte/01-ermittlungsvorgang-mit-anzeige.md",
+        "size": 2611,
+        "sha256": "d62d1345b5d1fcc3eccc5454c9986dd3bb3159198244306296b06a571d5f22a9"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/testakte/02-beschuldigtenvernehmung.md",
+        "size": 2397,
+        "sha256": "c03d088b6b625aa0ec5dff37e9bea86a5aaf82ac4534ddf5358d1a55a7d68b1e"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/testakte/03-anlage-1-strafantrag.md",
+        "size": 1197,
+        "sha256": "f35beac19cdcb6357d1855a56d86526217af5badd8f29eb44962041406c831be"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/testakte/04-anlage-2-vernehmungsprotokoll-zeuge.md",
+        "size": 1904,
+        "sha256": "b94453f9fab73dbcc01d858d5d189db966a0dfb73ce6033286569507744ee7b7"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/testakte/05-anlage-3-lichtbilder-und-warenliste.md",
+        "size": 1383,
+        "sha256": "63b2c46eba69e8e532e0e617c2d8a9e70fceeac32ee149bfb3961963abecb2d8"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/testakte/06-anlage-4-bzr-auszug.md",
+        "size": 898,
+        "sha256": "f52d8f9da99f9c3938fc6aaf5da38f168a94c3c1eb1562124e5161852bd782c3"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/testakte/07-ermittlungsverfuegung.md",
+        "size": 2272,
+        "sha256": "58eeff25f06870dc176b460fd00bfb26b17308238a2fd3759e49ecf47823b950"
+      },
+      {
+        "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/testakte/08-abschlussverfuegung.md",
+        "size": 3777,
+        "sha256": "b23c7c1bd3a5e6657de4b18233d290a89b53573f9202357d9f89d39e0a2b640c"
+      }
+    ],
+    "eingang": [
+      "05-anlage-3-lichtbilder-und-warenliste.docx"
+    ]
+  },
+  "vergaberecht-werkstatt/testakten/01-reinigung-grundschule-musterstadt": {
+    "id": "vergabewerkstatt-01-reinigung-grundschule-musterstadt",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-01-reinigung-grundschule-musterstadt.zip",
+      "size": 2393884,
+      "sha256": "1c6c253ea40a66d826f2990c9289ae5a70bd92393a069a3b18fbf96ecf0a8c1d"
+    },
+    "print": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-01-reinigung-grundschule-musterstadt-einzelpdfs.zip",
+      "size": 1885590,
+      "sha256": "4d995fb9a3c40291f949e510e0854e147384f5da30c8fc92ee04f3eeed61a9f7"
+    },
+    "eingang": [
+      "01_bedarfsvermerk_markterkundung.docx",
+      "01_bedarfsvermerk_markterkundung.pdf",
+      "02_auftragswert_schaetzung.docx",
+      "02_auftragswert_schaetzung.pdf",
+      "02_auftragswert_schaetzung.xlsx"
+    ]
+  },
+  "vergaberecht-werkstatt/testakten/02-laptopbeschaffung-landesamt-musterland": {
+    "id": "vergabewerkstatt-02-laptopbeschaffung-landesamt-musterland",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-02-laptopbeschaffung-landesamt-musterland.zip",
+      "size": 2220842,
+      "sha256": "a2ef048409d89a11012b5badec0b13fdbc9f133e7826c7a91a01f02b9348d622"
+    },
+    "print": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-02-laptopbeschaffung-landesamt-musterland-einzelpdfs.zip",
+      "size": 1756015,
+      "sha256": "92a86400e11780695c2bf808b83ed07d4f14b9f893a63ca5cd446ad815ed1f59"
+    },
+    "eingang": [
+      "01_bedarfsvermerk_markterkundung.docx",
+      "01_bedarfsvermerk_markterkundung.pdf"
+    ]
+  },
+  "vergaberecht-werkstatt/testakten/03-bauleistung-stadthalle-musterstadt": {
+    "id": "vergabewerkstatt-03-bauleistung-stadthalle-musterstadt",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-03-bauleistung-stadthalle-musterstadt.zip",
+      "size": 2228055,
+      "sha256": "048890927d49b137b581e6f02618850ef41a7962983070fd6f1f7e6c1a78bf2c"
+    },
+    "print": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-03-bauleistung-stadthalle-musterstadt-einzelpdfs.zip",
+      "size": 1763824,
+      "sha256": "885f87534943a8638bcee6dd697282a7d27f512f50f1d914b5532659cd4027e5"
+    },
+    "eingang": [
+      "02_vergabeunterlagen_pruefbericht.docx",
+      "02_vergabeunterlagen_pruefbericht.pdf"
+    ]
+  },
+  "vergaberecht-werkstatt/testakten/04-it-beratung-ministerium-musterland": {
+    "id": "vergabewerkstatt-04-it-beratung-ministerium-musterland",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-04-it-beratung-ministerium-musterland.zip",
+      "size": 2372327,
+      "sha256": "591816a03439fb1052bc174af39c0e14e6c6db5cd900aba2b23750bfb3c7e168"
+    },
+    "print": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-04-it-beratung-ministerium-musterland-einzelpdfs.zip",
+      "size": 1856764,
+      "sha256": "036ba2c13a204b10f3e46c14a161f5b3190dd35b80f4e6d2f017d9948cd9f2fa"
+    },
+    "eingang": [
+      "02_bietergemeinschaftsvertrag_auszug.docx"
+    ]
+  },
+  "vergaberecht-werkstatt/testakten/05-insolvenz-auftragnehmerwechsel-132-gwb": {
+    "id": "vergabewerkstatt-05-insolvenz-auftragnehmerwechsel-132-gwb",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-05-insolvenz-auftragnehmerwechsel-132-gwb.zip",
+      "size": 2783225,
+      "sha256": "85b2541e659e965c0b7f0cfd756275541b0fe69e0db909924498f6340262d2de"
+    },
+    "print": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-05-insolvenz-auftragnehmerwechsel-132-gwb-einzelpdfs.zip",
+      "size": 2123346,
+      "sha256": "37e9e4f4eff2c4b8514142eeaa7c729360925b56fd4c8158def0eeaa29ed2d53"
+    }
+  },
+  "vergaberecht-werkstatt/testakten/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis": {
+    "id": "vergabewerkstatt-06-konkurrentenrechtsschutz-rechenzentrum-musterkreis",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-06-konkurrentenrechtsschutz-rechenzentrum-musterkreis.zip",
+      "size": 2592410,
+      "sha256": "dd9c91d4250af6cb587fd62af142f2489d5d1d7f5855269c22175f9690a3e9a3"
+    },
+    "print": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-06-konkurrentenrechtsschutz-rechenzentrum-musterkreis-einzelpdfs.zip",
+      "size": 2040825,
+      "sha256": "fee805f8459d003fdb54fbd9eaa060f004dda0f9cd4ea0870b144f5df2957d6e"
+    },
+    "eingang": [
+      "02_vergabeunterlagen_wertungsmatrix_pruefung.docx",
+      "02_vergabeunterlagen_wertungsmatrix_pruefung.pdf",
+      "02_vergabeunterlagen_wertungsmatrix_pruefung.xlsx"
+    ]
+  },
+  "vergaberecht-werkstatt/testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung": {
+    "id": "vergabewerkstatt-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip",
+      "size": 6438427,
+      "sha256": "93b41772ccec584ae4fa5c47481d7d3f5b06f659cbd06fe6234742bedc23465c"
+    },
+    "print": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung-einzelpdfs.zip",
+      "size": 5296849,
+      "sha256": "4a07ec7790e952cb712e78866c89753049829aae370a4ac23fd8782f16509e83"
+    },
+    "eingang": [
+      "01_ausschreibungsbekanntmachung_ted.docx",
+      "01_ausschreibungsbekanntmachung_ted.pdf",
+      "02_vergabeunterlagen_leistungsbeschreibung.docx",
+      "02_vergabeunterlagen_leistungsbeschreibung.pdf"
+    ]
+  },
+  "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte": {
+    "id": "arbeitsrecht-muster-uferwerk-berufung",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitsrecht-muster-uferwerk-berufung-mit-nachtrag.zip",
+      "size": 8774955,
+      "sha256": "dc58b47c4c476fbb8ad7eca268dbc5582579970e909fb427cf725ea60fdf8635"
+    },
+    "eingang": [
+      "V01_2008-01-14_Bewerbung_als_Grafikdesignerin.pdf",
+      "V04_2008-02-05_Angebot_einer_unbefristeten_Beschaftigung.pdf",
+      "V05_2008-02-08_Arbeitsvertrag_Lisa_Muster.pdf",
+      "V07_2008-08-22_Probezeitgesprach.pdf",
+      "V17_2020-03-16_Vereinbarung_uber_die_vorubergehende_Rotation_in_den_Vertrieb.pdf",
+      "V18_2020-04-02_CRM_Zugriff_und_Einarbeitung_im_Vertriebsinnendienst.pdf",
+      "V19_2020-07-13_Mailfolge_zur_Handleraktion_und_eigenstandigen_Auftragsbearbeitung.pdf",
+      "V20_2020-12-18_Abschlussgesprach_zur_neunmonatigen_Vertriebsrotation.pdf",
+      "V27_2026-03-02_Interne_Ausschreibung_Sachbearbeitung_Sales_Operations.pdf"
+    ]
+  },
+  "jugendmedienschutz-und-medienangebote/testakte": {
+    "id": "jugendmedien-wolkenwerft",
+    "source": {
+      "path": "jugendmedienschutz-und-medienangebote/testakte/downloads/testakte-jugendmedien-wolkenwerft-originaldateien.zip",
+      "size": 988567,
+      "sha256": "ae5b3c614ca0e7418cce69e452ffe09831bd9652da7bdb4e0caf35dc0da323f1"
+    },
+    "lesestuecke": [
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G01_Auftrag_und_erste_Unterlagen.pdf",
+        "size": 113147,
+        "sha256": "433501b8abbd73d7bb858d5798b0fe8d09cc54cdf9eb2976ada58bbbbc3f4c82"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G02_Unternehmen_Finanzierung_und_Beteiligung.pdf",
+        "size": 88097,
+        "sha256": "79a2382c66b318afb1056c01d51d43a85dd164ae4d2bbd692c6539a7ffad227a"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G03_Produkthandbuch_Inselatlas.pdf",
+        "size": 147602,
+        "sha256": "311cdba25515ce6f1b8990e1d3f5d23ed4c13629b7f456de41b7d21a437a0d57"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G04_Registrierung_Alter_und_Gastzugang.pdf",
+        "size": 147086,
+        "sha256": "487521c4daa54b063e50179b4f7c6d0128b4b0ad1a5a5a682b5405ae24140a37"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G05_Nutzungsbedingungen_Entwurf.pdf",
+        "size": 143880,
+        "sha256": "33ed10afd4f0fcc72c2917c0b356f752a20431c3f954d25d05c37a88e55322fb"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G06_Moderationshandbuch_Arbeitsstand.pdf",
+        "size": 145349,
+        "sha256": "a6d195bb49d1ee48c640339b7ce22f2082a8f5b5f84226f1ff90aad20d452dec"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G07_KI_Szenarien_und_Beobachtungen.pdf",
+        "size": 147765,
+        "sha256": "3715b612bc6909499bad9064aac747cef1a1b6736083c1ec755124c5e40bedc7"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G08_Anbietervereinbarung_Lumenpfad_Entwurf.pdf",
+        "size": 88688,
+        "sha256": "faf6497853217d45a7a5f2b67d19433b49522168c4c70532ae58dd1c4ea2de34"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G09_Releasebesprechung_Protokoll.pdf",
+        "size": 88441,
+        "sha256": "44500a20dd133a47b81f94a46f98c040d00554dd6e27bd2f910d4a2065b73019"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G10_Supportuebergabe_und_Ereignisnotizen.pdf",
+        "size": 88129,
+        "sha256": "e4382ebded6126d3fcd758e825ebafdc4544619075192be27299eb0dc53be9b1"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G11_Betriebsplan_und_Verantwortlichkeiten.pdf",
+        "size": 88515,
+        "sha256": "2d2b235617c37b5f38184afa6a494a73f6de366ef2513f85bdc36f48eb138549"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G12_E_Mail_Bitte_zunächst_den_tatsächlichen_Stand_ausein.pdf",
+        "size": 84407,
+        "sha256": "78c71bfaf912569ddbd5e0a8bf16a5ece13c9e3b39933c4c30960e3cd62929ea"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G13_E_Mail_Einladung_für_meine_Tochter_–_warum_ohne_Alte.pdf",
+        "size": 84884,
+        "sha256": "bc1c22624b444499d6a926c6a5eaf401073272fd345225352880bab0eced7271"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G14_E_Mail_Ihre_Anfrage_zu_Aufnahme_und_Beratung_–_noch_.pdf",
+        "size": 84477,
+        "sha256": "d29a2fe45cc19bf6ad92d06ed2598c4c85adb9f32049740caf70859c38f0a0d2"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G15_E_Mail_Kampagne.pdf",
+        "size": 84584,
+        "sha256": "2019336a133922e2454cce8708460f9f9c8fc1dd4dffd7e0eed13de4b13adf96"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G16_E_Mail_Re.pdf",
+        "size": 84819,
+        "sha256": "182372c5cd1304df830f208007b3efda23db9343aab79551a45e8136f8e6d7de"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G17_E_Mail_Korrektur_meiner_Aussage_zum_Gastzugang.pdf",
+        "size": 84812,
+        "sha256": "5f2a614175d5c83680bb81212dfa306bd44ae633fc0e539a4e79d02e0fc2f6dc"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G18_E_Mail_Beteiligungsanlagen_fehlen_weiterhin.pdf",
+        "size": 84200,
+        "sha256": "96d9e49641f3303a642603afeccd719c4820cf3eeba11327a349d2a056f26292"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G19_E_Mail_Mein_geteilter_Raum_war_offenbar_nicht_privat.pdf",
+        "size": 84585,
+        "sha256": "3564be04836d47c01a6961f117d624a94ef5130b8a36e4f256db40849ce6a4c6"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G20_Messwerte_Oktober_2026.pdf",
+        "size": 86837,
+        "sha256": "c1cc5071422d52c9b7c17500b216bf80d8f0693379aa0665767335e4534d13a2"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G21_Ticketverlauf.pdf",
+        "size": 85245,
+        "sha256": "09bdab9f28a0fddaf687252b8ea14cfa2f9ef5840e64b5c5f728f4d5fd4774e7"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G22_Feature_Flags_2026_11_18.pdf",
+        "size": 84646,
+        "sha256": "566eb6bf8ff451e995e48337a2a074d41b0cc04e75833b45bfd5b42b3d2684e4"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G23_Inseln_Sichtbarkeit_und_Zustand.pdf",
+        "size": 84777,
+        "sha256": "de251cf8b9f480c37683677bf0d8433380e003a57240a8121e0d1c4beb14dfc1"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G24_URL_Wege_und_Texte.pdf",
+        "size": 85408,
+        "sha256": "5f3b9305a13bea50c7fbfe85b668cf03755abf34605ffc4e0fd12e377dcf672b"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/G25_Testdurchlaeufe_und_Luecken.pdf",
+        "size": 86957,
+        "sha256": "8a5e67c916ba256ba860098b0a6c719e09e0cc3fa9d79b01e072c08aa7ee7c40"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/N01_Neue_Beschwerde_weitergeleiteter_Link.pdf",
+        "size": 84773,
+        "sha256": "aac555ce62b889c7c8ff4e48aa163a1b42ad073bf1256339d877615eb16cc180"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/N02_Releaseaenderung_ohne_Gesamtfreigabe.pdf",
+        "size": 135349,
+        "sha256": "68afee723858769e332ac82e35e44bb2297acc2bdd510be2c6bcfcfccca9b4ec"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/N03_Fiktive_LfK_Anhoerung.pdf",
+        "size": 87907,
+        "sha256": "457ad311f21b96517507989a105fd629074a78d2d9b6be1621d24c271cd32e71"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/N04_Nachgereichte_Beteiligungsnotiz.pdf",
+        "size": 85167,
+        "sha256": "58648d140f278a2b9d1fa885f25c227ba986ee9c546ca92a152a166d9d9bc139"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/V01_Leere_Sachverhalts_und_Belegmatrix.pdf",
+        "size": 125437,
+        "sha256": "a0d75d84677a69f78742633f976219c25e98fedf636f8f7e9e376e4c602be75e"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/V02_Leere_Funktionsentscheidung_Beta.pdf",
+        "size": 128915,
+        "sha256": "a90274533b052e169635c7a221f870a1d51c6fbd191ab2d10efdc94a1d46b46c"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/V03_Leere_Stellungnahme_Anhoerung.pdf",
+        "size": 130655,
+        "sha256": "f58e86f0c366f0ff36dd34dc1b84dc0a584a6151932ff888ffdfad815342ea08"
+      },
+      {
+        "path": "jugendmedienschutz-und-medienangebote/testakte/lesefassung/V04_Leere_Pruef_und_Massnahmenliste.pdf",
+        "size": 84882,
+        "sha256": "26094c29529e7457c41df855bfdbc5642d552330917d970187b3b24d2f668afb"
+      }
+    ]
+  },
+  "bautraegervertragspruefer/testakte/bautraegervertrag": {
+    "id": "bautraeger-bautraegervertrag",
+    "originale": [
+      {
+        "path": "bautraegervertragspruefer/testakte/bautraegervertrag/bautraegervertrag.docx",
+        "size": 34329,
+        "sha256": "fb035a05f8fda1766f312b4c019bcf9a9cd85378dd6963abdd4c67d13d5a7574"
+      },
+      {
+        "path": "bautraegervertragspruefer/testakte/bautraegervertrag/bautraegervertrag.pdf",
+        "size": 102318,
+        "sha256": "9e81db3647a707d0771f2a43a2a974564c4cb28374e9616476ca31e4148b1497"
+      }
+    ],
+    "print": {
+      "path": "bautraegervertragspruefer/testakte/bautraegervertrag/bautraegervertrag-einzel-pdfs.zip",
+      "size": 118450,
+      "sha256": "28d4638cb6ae9688e796d7685fa243728ddca73075206e0bfa216bff4b51ac4c"
+    },
+    "auswahlen": [
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/bautraegervertragspruefer-mit-nachtrag.zip",
+          "size": 897048,
+          "sha256": "3ceb92d823bebf9a4e490b8eea0ed49a07d2205f4ff87ecdf82433c1dbdeb4ea"
+        },
+        "dateien": [
+          "Grundakte/Hohenwartshofen/01_Reservierung.eml",
+          "Grundakte/Hohenwartshofen/02_Umsatzbeleg_Reservierung.csv",
+          "Nachreichungen/Hohenwartshofen/03_Datenraum.eml",
+          "Nachreichungen/Hohenwartshofen/04_Portaljournal.csv"
+        ]
+      }
+    ]
+  },
+  "bautraegervertragspruefer/testakte/bautraegervertrag-marewald": {
+    "id": "bautraeger-bautraegervertrag-marewald",
+    "originale": [
+      {
+        "path": "bautraegervertragspruefer/testakte/bautraegervertrag-marewald/bautraegervertrag-marewald.docx",
+        "size": 25144,
+        "sha256": "ac3d0749bb6a46b43f4524de4c066a2824a64bf1a8d83c73ec29cf6c092a8261"
+      },
+      {
+        "path": "bautraegervertragspruefer/testakte/bautraegervertrag-marewald/bautraegervertrag-marewald.pdf",
+        "size": 70286,
+        "sha256": "2868b2595249446c39327239f48d731aa6885c8d9f0683e72c9924e15b5566d5"
+      }
+    ],
+    "print": {
+      "path": "bautraegervertragspruefer/testakte/bautraegervertrag-marewald/bautraegervertrag-marewald-einzel-pdfs.zip",
+      "size": 86458,
+      "sha256": "af62abafd1871d6a638b67128040eb21dc79e413a6ff604805bb9cc9728d9be2"
+    },
+    "auswahlen": [
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/bautraegervertragspruefer-mit-nachtrag.zip",
+          "size": 897048,
+          "sha256": "3ceb92d823bebf9a4e490b8eea0ed49a07d2205f4ff87ecdf82433c1dbdeb4ea"
+        },
+        "dateien": [
+          "Grundakte/Marewald/01_Ratenanforderung.eml",
+          "Grundakte/Marewald/02_Kontoauszug_Kaeuferin.csv",
+          "Nachreichungen/Marewald/03_Bauleitung.eml",
+          "Nachreichungen/Marewald/04_Bautagebuch_Auszug.csv"
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/01-gunhilde-brachvogel-riemenschneider-pta": {
+    "id": "personalakte-01-gunhilde-brachvogel-riemenschneider-pta",
+    "manuskripte": [
+      {
+        "path": "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/01-gunhilde-brachvogel-riemenschneider-pta/personalakte.md",
+        "size": 4464,
+        "sha256": "009899349cc83fae4e57e3f8ce14c3bce41f583e394c1f1d20f9128c825fe1a6"
+      }
+    ],
+    "auswahlen": [
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnisgenerator-mit-nachtrag.zip",
+          "size": 98133,
+          "sha256": "3c4b6a334bf6c05038e0bcbd1d9316a34ae6ef34c3a245bcff4af9780c12cf38"
+        },
+        "dateien": [
+          "Grundakte/Adlerapotheke/01_Heimrunde.eml",
+          "Grundakte/Adlerapotheke/02_Kassenjournal_Sortiment.csv",
+          "Nachreichungen/Adlerapotheke/03_Kasse_Abgrenzung.eml",
+          "arbeitszeugnis-analyse-bluehendes-leben__01-gunhilde-brachvogel-riemenschneider-pta__Arbeitszeugnis_01-gunhilde-brachvogel-riemenschneider-pta.pdf"
+        ]
+      },
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnispruefer-mit-nachtrag.zip",
+          "size": 80151,
+          "sha256": "0a3f336d82a8e7cb0687dca513dac46d1abf08b02eb312357a3269c18106a228"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__01-gunhilde-brachvogel-riemenschneider-pta__Arbeitszeugnis_01-gunhilde-brachvogel-riemenschneider-pta.pdf"
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/02-volkmar-eitel-hartung-rechtsanwalt": {
+    "id": "personalakte-02-volkmar-eitel-hartung-rechtsanwalt",
+    "manuskripte": [
+      {
+        "path": "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/02-volkmar-eitel-hartung-rechtsanwalt/personalakte.md",
+        "size": 4107,
+        "sha256": "0103c36748c96823dea4545b40139d62e7bdad2a1f19ea8f6fc779dc64b1ae08"
+      }
+    ],
+    "auswahlen": [
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnisgenerator-mit-nachtrag.zip",
+          "size": 98133,
+          "sha256": "3c4b6a334bf6c05038e0bcbd1d9316a34ae6ef34c3a245bcff4af9780c12cf38"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__02-volkmar-eitel-hartung-rechtsanwalt__Arbeitszeugnis_02-volkmar-eitel-hartung-rechtsanwalt.pdf"
+        ]
+      },
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnispruefer-mit-nachtrag.zip",
+          "size": 80151,
+          "sha256": "0a3f336d82a8e7cb0687dca513dac46d1abf08b02eb312357a3269c18106a228"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__02-volkmar-eitel-hartung-rechtsanwalt__Arbeitszeugnis_02-volkmar-eitel-hartung-rechtsanwalt.pdf"
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/03-edelgard-schwerdtfeger-mta-radiologie": {
+    "id": "personalakte-03-edelgard-schwerdtfeger-mta-radiologie",
+    "manuskripte": [
+      {
+        "path": "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/03-edelgard-schwerdtfeger-mta-radiologie/personalakte.md",
+        "size": 2910,
+        "sha256": "617bd6e348a40a36593d18e562900e98f0a52c6d67357c278709f026e0467340"
+      }
+    ],
+    "auswahlen": [
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnisgenerator-mit-nachtrag.zip",
+          "size": 98133,
+          "sha256": "3c4b6a334bf6c05038e0bcbd1d9316a34ae6ef34c3a245bcff4af9780c12cf38"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__03-edelgard-schwerdtfeger-mta-radiologie__Arbeitszeugnis_03-edelgard-schwerdtfeger-mta-radiologie.pdf"
+        ]
+      },
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnispruefer-mit-nachtrag.zip",
+          "size": 80151,
+          "sha256": "0a3f336d82a8e7cb0687dca513dac46d1abf08b02eb312357a3269c18106a228"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__03-edelgard-schwerdtfeger-mta-radiologie__Arbeitszeugnis_03-edelgard-schwerdtfeger-mta-radiologie.pdf"
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/04-friedhelm-poettering-lagermeister": {
+    "id": "personalakte-04-friedhelm-poettering-lagermeister",
+    "manuskripte": [
+      {
+        "path": "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/04-friedhelm-poettering-lagermeister/personalakte.md",
+        "size": 3011,
+        "sha256": "634427aa451ec3a93d6760694816fc3600e0ce4348cd98e11caee2bbaddabc3f"
+      }
+    ],
+    "auswahlen": [
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnisgenerator-mit-nachtrag.zip",
+          "size": 98133,
+          "sha256": "3c4b6a334bf6c05038e0bcbd1d9316a34ae6ef34c3a245bcff4af9780c12cf38"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__04-friedhelm-poettering-lagermeister__Arbeitszeugnis_04-friedhelm-poettering-lagermeister.pdf"
+        ]
+      },
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnispruefer-mit-nachtrag.zip",
+          "size": 80151,
+          "sha256": "0a3f336d82a8e7cb0687dca513dac46d1abf08b02eb312357a3269c18106a228"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__04-friedhelm-poettering-lagermeister__Arbeitszeugnis_04-friedhelm-poettering-lagermeister.pdf"
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/05-walpurga-dietrichsen-hofstaetter-zfa": {
+    "id": "personalakte-05-walpurga-dietrichsen-hofstaetter-zfa",
+    "manuskripte": [
+      {
+        "path": "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/05-walpurga-dietrichsen-hofstaetter-zfa/personalakte.md",
+        "size": 3271,
+        "sha256": "e8c36440b5ffb573ad5d8c9d118234704e5606275fb6d030e47f5c557292a1d6"
+      }
+    ],
+    "auswahlen": [
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnisgenerator-mit-nachtrag.zip",
+          "size": 98133,
+          "sha256": "3c4b6a334bf6c05038e0bcbd1d9316a34ae6ef34c3a245bcff4af9780c12cf38"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__05-walpurga-dietrichsen-hofstaetter-zfa__Arbeitszeugnis_05-walpurga-dietrichsen-hofstaetter-zfa.pdf"
+        ]
+      },
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnispruefer-mit-nachtrag.zip",
+          "size": 80151,
+          "sha256": "0a3f336d82a8e7cb0687dca513dac46d1abf08b02eb312357a3269c18106a228"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__05-walpurga-dietrichsen-hofstaetter-zfa__Arbeitszeugnis_05-walpurga-dietrichsen-hofstaetter-zfa.pdf"
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/06-reinhilde-eisentraeger-filialleiterin-sparkasse": {
+    "id": "personalakte-06-reinhilde-eisentraeger-filialleiterin-sparkasse",
+    "manuskripte": [
+      {
+        "path": "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/06-reinhilde-eisentraeger-filialleiterin-sparkasse/personalakte.md",
+        "size": 3693,
+        "sha256": "5d7ab1adfa74ecc55b24c281f9ba89189c860acb398be8ed9673485834161cca"
+      }
+    ],
+    "auswahlen": [
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnisgenerator-mit-nachtrag.zip",
+          "size": 98133,
+          "sha256": "3c4b6a334bf6c05038e0bcbd1d9316a34ae6ef34c3a245bcff4af9780c12cf38"
+        },
+        "dateien": [
+          "Grundakte/Marktredwitz/01_Uebergabe.eml",
+          "Nachreichungen/Marktredwitz/02_Kreditjournal_2026-02-25.csv",
+          "arbeitszeugnis-analyse-bluehendes-leben__06-reinhilde-eisentraeger-filialleiterin-sparkasse__Arbeitszeugnis_06-reinhilde-eisentraeger-filialleiterin-sparkasse.pdf"
+        ]
+      },
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnispruefer-mit-nachtrag.zip",
+          "size": 80151,
+          "sha256": "0a3f336d82a8e7cb0687dca513dac46d1abf08b02eb312357a3269c18106a228"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__06-reinhilde-eisentraeger-filialleiterin-sparkasse__Arbeitszeugnis_06-reinhilde-eisentraeger-filialleiterin-sparkasse.pdf"
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/07-dietram-auerwald-bornhoeft-spedition": {
+    "id": "personalakte-07-dietram-auerwald-bornhoeft-spedition",
+    "manuskripte": [
+      {
+        "path": "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/07-dietram-auerwald-bornhoeft-spedition/personalakte.md",
+        "size": 3124,
+        "sha256": "befe7a7dab045052c012dc53f207dc7f4378283b67ff2fa0315ff20840ebe2f3"
+      }
+    ],
+    "auswahlen": [
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnisgenerator-mit-nachtrag.zip",
+          "size": 98133,
+          "sha256": "3c4b6a334bf6c05038e0bcbd1d9316a34ae6ef34c3a245bcff4af9780c12cf38"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__07-dietram-auerwald-bornhoeft-spedition__Arbeitszeugnis_07-dietram-auerwald-bornhoeft-spedition.pdf"
+        ]
+      },
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnispruefer-mit-nachtrag.zip",
+          "size": 80151,
+          "sha256": "0a3f336d82a8e7cb0687dca513dac46d1abf08b02eb312357a3269c18106a228"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__07-dietram-auerwald-bornhoeft-spedition__Arbeitszeugnis_07-dietram-auerwald-bornhoeft-spedition.pdf"
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/08-hartmut-greifenklau-hotel-empfangsleiter": {
+    "id": "personalakte-08-hartmut-greifenklau-hotel-empfangsleiter",
+    "manuskripte": [
+      {
+        "path": "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/08-hartmut-greifenklau-hotel-empfangsleiter/personalakte.md",
+        "size": 2728,
+        "sha256": "8883b38507898c61e3e815e7b1c38902983122d80c0d509f1dd5e69413f3fff1"
+      }
+    ],
+    "auswahlen": [
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnisgenerator-mit-nachtrag.zip",
+          "size": 98133,
+          "sha256": "3c4b6a334bf6c05038e0bcbd1d9316a34ae6ef34c3a245bcff4af9780c12cf38"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__08-hartmut-greifenklau-hotel-empfangsleiter__Arbeitszeugnis_08-hartmut-greifenklau-hotel-empfangsleiter.pdf"
+        ]
+      },
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnispruefer-mit-nachtrag.zip",
+          "size": 80151,
+          "sha256": "0a3f336d82a8e7cb0687dca513dac46d1abf08b02eb312357a3269c18106a228"
+        },
+        "dateien": [
+          "Grundakte/Hotel_Bautzen/01_Mandantenauftrag.eml",
+          "Grundakte/Hotel_Bautzen/02_Empfangsjournal.csv",
+          "Nachreichungen/Hotel_Bautzen/03_Direktion.eml",
+          "arbeitszeugnis-analyse-bluehendes-leben__08-hartmut-greifenklau-hotel-empfangsleiter__Arbeitszeugnis_08-hartmut-greifenklau-hotel-empfangsleiter.pdf"
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/09-ortrud-falckenstein-altenpflegerin": {
+    "id": "personalakte-09-ortrud-falckenstein-altenpflegerin",
+    "manuskripte": [
+      {
+        "path": "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/09-ortrud-falckenstein-altenpflegerin/personalakte.md",
+        "size": 4000,
+        "sha256": "c3a0e3eb60955af15f27a4c5bfdd51ce1a82f8de573471b4f30cf724ab7c1d9c"
+      }
+    ],
+    "auswahlen": [
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnisgenerator-mit-nachtrag.zip",
+          "size": 98133,
+          "sha256": "3c4b6a334bf6c05038e0bcbd1d9316a34ae6ef34c3a245bcff4af9780c12cf38"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__09-ortrud-falckenstein-altenpflegerin__Arbeitszeugnis_09-ortrud-falckenstein-altenpflegerin.pdf"
+        ]
+      },
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnispruefer-mit-nachtrag.zip",
+          "size": 80151,
+          "sha256": "0a3f336d82a8e7cb0687dca513dac46d1abf08b02eb312357a3269c18106a228"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__09-ortrud-falckenstein-altenpflegerin__Arbeitszeugnis_09-ortrud-falckenstein-altenpflegerin.pdf"
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/10-burchard-holzapfel-industriemechaniker": {
+    "id": "personalakte-10-burchard-holzapfel-industriemechaniker",
+    "manuskripte": [
+      {
+        "path": "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/10-burchard-holzapfel-industriemechaniker/personalakte.md",
+        "size": 3367,
+        "sha256": "18173083c23aea630f9492dda6b83019e85dfd3bff289ec8226e9ea03fd6b7fb"
+      }
+    ],
+    "auswahlen": [
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnisgenerator-mit-nachtrag.zip",
+          "size": 98133,
+          "sha256": "3c4b6a334bf6c05038e0bcbd1d9316a34ae6ef34c3a245bcff4af9780c12cf38"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__10-burchard-holzapfel-industriemechaniker__Arbeitszeugnis_10-burchard-holzapfel-industriemechaniker.pdf"
+        ]
+      },
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnispruefer-mit-nachtrag.zip",
+          "size": 80151,
+          "sha256": "0a3f336d82a8e7cb0687dca513dac46d1abf08b02eb312357a3269c18106a228"
+        },
+        "dateien": [
+          "arbeitszeugnis-analyse-bluehendes-leben__10-burchard-holzapfel-industriemechaniker__Arbeitszeugnis_10-burchard-holzapfel-industriemechaniker.pdf"
+        ]
+      }
+    ]
+  },
+  "scripts/data/pluginakten-praxis-2026-11-19/arbeitszeugnispruefer/Grundakte/Floristik": {
+    "id": "arbeitszeugnis-floristik-kassenabschluss",
+    "auswahlen": [
+      {
+        "quelle": {
+          "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitszeugnispruefer-mit-nachtrag.zip",
+          "size": 80151,
+          "sha256": "0a3f336d82a8e7cb0687dca513dac46d1abf08b02eb312357a3269c18106a228"
+        },
+        "dateien": [
+          "Grundakte/Floristik/01_Kassenfrage.eml",
+          "Grundakte/Floristik/02_Kassenabschluss_2026-05-30.csv",
+          "Nachreichungen/Floristik/03_Wechselgeld.eml"
+        ]
+      }
+    ]
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mieterhoehung-becker-tempelhof.zip": {
+    "id": "immobilien-mieterhoehung-becker-tempelhof",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-mieterhoehung-becker-tempelhof.zip",
+      "size": 273044,
+      "sha256": "869954c22b7a3d81aece77df80531cf5313601684f6b7440add87c00ba645400"
+    },
+    "print": {
+      "path": "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mieterhoehung-becker-tempelhof-einzel-pdfs.zip",
+      "size": 63595,
+      "sha256": "4d9f955c884265a02ecc4d9a54e5d90711a303901c793fa295359299c152a4cb"
+    }
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mieterklage-schimmel-schulz-verteidigung.zip": {
+    "id": "immobilien-mieterklage-schimmel-schulz-verteidigung",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-mieterklage-schimmel-schulz-verteidigung.zip",
+      "size": 327921,
+      "sha256": "ff048a301f3759f351c3a2727db8f9dcc63ec366d53473533bc93ab666f49c68"
+    },
+    "print": {
+      "path": "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mieterklage-schimmel-schulz-verteidigung-einzel-pdfs.zip",
+      "size": 83946,
+      "sha256": "c6280dfc278e265752769795737937aa9c790425bd4627477c6dbafa50fb2c05"
+    }
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mietrueckstand-demir-fuenf-raten-absichtlich.zip": {
+    "id": "immobilien-mietrueckstand-demir-fuenf-raten-absichtlich",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-mietrueckstand-demir-fuenf-raten-absichtlich.zip",
+      "size": 333454,
+      "sha256": "5d410fa255c8dd854903f73a116a1595c7a43b730bf0f762b2b62814f2251735"
+    },
+    "print": {
+      "path": "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mietrueckstand-demir-fuenf-raten-absichtlich-einzel-pdfs.zip",
+      "size": 61253,
+      "sha256": "9baf6837cf16301b6145afbb5d8e3c07a49d8d80fde4d0876c319e6b06f50a78"
+    }
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mietrueckstand-lange-zwei-raten-versehen.zip": {
+    "id": "immobilien-mietrueckstand-lange-zwei-raten-versehen",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-mietrueckstand-lange-zwei-raten-versehen.zip",
+      "size": 296997,
+      "sha256": "b85d84631790c29162921f729ccb9e1b271e884d686deb3cb4c819d1aa7acc36"
+    },
+    "print": {
+      "path": "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mietrueckstand-lange-zwei-raten-versehen-einzel-pdfs.zip",
+      "size": 50115,
+      "sha256": "fd7c164acbfd9e409c87106f23dcb406ecbaf4b8dbb35207d111e0ac02443357"
+    }
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mietrueckstand-meier-wilhelmstrasse.zip": {
+    "id": "immobilien-mietrueckstand-meier-wilhelmstrasse",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-mietrueckstand-meier-wilhelmstrasse.zip",
+      "size": 310104,
+      "sha256": "6f8b7062861d946a4698e87bc7f65498bd6cce2f7d08b1fdb40b54e9c9d76bec"
+    },
+    "print": {
+      "path": "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mietrueckstand-meier-wilhelmstrasse-einzel-pdfs.zip",
+      "size": 65505,
+      "sha256": "dd91c007ed8d64cae599226eb7a1a27d9092a96ac1020c10e1805ad29c834e1b"
+    }
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-nebenkosten-braun-nachzahlung-unbezahlt.zip": {
+    "id": "immobilien-nebenkosten-braun-nachzahlung-unbezahlt",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-nebenkosten-braun-nachzahlung-unbezahlt.zip",
+      "size": 288831,
+      "sha256": "730cc703e04fa52d180365bc3ababdbde87a16da6b22e4d2d1de58249bd0f7d6"
+    },
+    "print": {
+      "path": "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-nebenkosten-braun-nachzahlung-unbezahlt-einzel-pdfs.zip",
+      "size": 76089,
+      "sha256": "8f40e75aeba972512746b690eca55a3214f44f237c86d4f66ea9f8566adec2d2"
+    }
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-raeumungsklage-kowalski-friedrichshain.zip": {
+    "id": "immobilien-raeumungsklage-kowalski-friedrichshain",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-raeumungsklage-kowalski-friedrichshain.zip",
+      "size": 336559,
+      "sha256": "48ad91cd171c388f9cd8600ddae838859460b7e6e1fa76946aef20a11d2e9199"
+    },
+    "print": {
+      "path": "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-raeumungsklage-kowalski-friedrichshain-einzel-pdfs.zip",
+      "size": 58590,
+      "sha256": "22de8a278c794c48935af40b001f248bc7d3ee810f24a28b355ca9f70a79c600"
+    }
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-ratenplan-riedel-gebrochen.zip": {
+    "id": "immobilien-ratenplan-riedel-gebrochen",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-ratenplan-riedel-gebrochen.zip",
+      "size": 333399,
+      "sha256": "825842d3545614da6f7279b255217adf519547716f7f75eba4e5a14da81c628d"
+    },
+    "print": {
+      "path": "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-ratenplan-riedel-gebrochen-einzel-pdfs.zip",
+      "size": 53365,
+      "sha256": "58995e3d2c25256cbbba997c34949cb22292ad485bbc7cd323af1241be4f825a"
+    }
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-vollstreckung-krueger-titel-teilzahlung.zip": {
+    "id": "immobilien-vollstreckung-krueger-titel-teilzahlung",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-vollstreckung-krueger-titel-teilzahlung.zip",
+      "size": 313462,
+      "sha256": "076d71c6d43329f22fdeb3d80594eacb63792bd45e790476d2e5b18295c00245"
+    },
+    "print": {
+      "path": "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-vollstreckung-krueger-titel-teilzahlung-einzel-pdfs.zip",
+      "size": 64098,
+      "sha256": "c7b8a284ab58462dcef5569043b24f1f982b063773d5b85038f2867897822dbd"
+    }
+  },
+  "quality/steuerrecht-freiburg/tomasius-solo": {
+    "id": "steuerrecht-freiburg-tomasius-solo",
+    "source": {
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/tomasius-solo-mit-nachtrag.zip",
+      "size": 36525880,
+      "sha256": "2df827984007543588e1ca5502f821c26dc1f515d971181a252a66e8a62f61ac"
+    },
+    "nur_original": true
+  }
+}

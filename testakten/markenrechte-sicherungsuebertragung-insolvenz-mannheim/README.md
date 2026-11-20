@@ -18,6 +18,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim.zip) · [Druckpaket 29](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-29.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/markenrechte-sicherungsuebertragung-insolvenz-mannheim_gesamt.pdf`](gesamt-pdf/markenrechte-sicherungsuebertragung-insolvenz-mannheim_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/urheberrecht-ip-insolvenz-testakten-v1.0.1/testakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim-einzelpdfs.zip) |

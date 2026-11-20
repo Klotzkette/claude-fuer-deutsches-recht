@@ -29,6 +29,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-compliance-hameln-montageinsel-sozialplan.zip) · [Druckpaket 11](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-11.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-montageinsel-sozialplan_gesamt.pdf`](gesamt-pdf/compliance-hameln-montageinsel-sozialplan_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-montageinsel-sozialplan.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.1.0/testakte-compliance-hameln-montageinsel-sozialplan.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-montageinsel-sozialplan-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-hameln-praxis-v1.1.0/testakte-compliance-hameln-montageinsel-sozialplan-einzelpdfs.zip) |

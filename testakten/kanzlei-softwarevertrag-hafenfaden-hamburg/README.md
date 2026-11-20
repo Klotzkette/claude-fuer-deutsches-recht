@@ -38,6 +38,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-kanzlei-softwarevertrag-hafenfaden-hamburg.zip) · [Druckpaket 24](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-24.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/kanzlei-softwarevertrag-hafenfaden-hamburg_gesamt.pdf`](gesamt-pdf/kanzlei-softwarevertrag-hafenfaden-hamburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kanzlei-softwarevertrag-hafenfaden-hamburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-kanzlei-softwarevertrag-hafenfaden-hamburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-kanzlei-softwarevertrag-hafenfaden-hamburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.35.0/testakte-kanzlei-softwarevertrag-hafenfaden-hamburg-einzelpdfs.zip) |

@@ -97,6 +97,32 @@ class PreservationTests(unittest.TestCase):
         self.write(name, b"Subject: Urspruengliche Nachricht\r\n\r\nManipulierter Inhalt\r\n")
         self.assertTrue(any(name in e and "verändert" in e for e in self.check()))
 
+    def test_only_catalog_row_for_this_case_at_its_table_position_is_allowed(self):
+        slug = "akha-wuerzburg-kitaplatz"
+        name = f"testakten/{slug}/README.md"
+        divider = "| --- | --- | --- |\n"
+        original = (
+            "# Originalstand\n\n<!-- BEGIN gesamt-pdf-section (autogen) -->\n"
+            "| Was | Format | Quelle |\n" + divider + "| Ursprungsakte | PDF | Beleg |\n"
+            "<!-- END gesamt-pdf-section (autogen) -->\n\nHistorische Angabe\n"
+        )
+        row = V["central_row"](slug) + "\n"
+        self.write(name, original)
+        self.protect(name)
+        enhanced = original.replace(divider, divider + row)
+        self.write(name, enhanced)
+        self.assertEqual(self.check(), [])
+        for altered in (
+            enhanced.replace("Historische Angabe", "Geänderter Sachverhalt"),
+            enhanced.replace(row, row * 2),
+            enhanced.replace(row, V["central_row"]("akha-wuerzburg-glatteis") + "\n"),
+            enhanced.replace("lesepaket-01.zip", "lesepaket-99.zip"),
+            original + row,
+        ):
+            with self.subTest(text=altered):
+                self.write(name, altered)
+                self.assertTrue(any(name in e and "verändert" in e for e in self.check()))
+
     def test_binary_and_undeclared_text_remain_byte_exact(self):
         self.write(".gitattributes", "*.pdf binary\n")
         self.write("testakten/fall/notiz.txt", b"Original\n")

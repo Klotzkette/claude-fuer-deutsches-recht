@@ -19,6 +19,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-uhaft-vollzug-falkenried-koeln.zip) · [Druckpaket 42](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-42.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/uhaft-vollzug-falkenried-koeln_gesamt.pdf`](gesamt-pdf/uhaft-vollzug-falkenried-koeln_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-uhaft-vollzug-falkenried-koeln.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-uhaft-vollzug-falkenried-koeln.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-uhaft-vollzug-falkenried-koeln-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-vollzug-falkenried-koeln-einzelpdfs.zip) |

@@ -1,0 +1,1129 @@
+{
+  "gerichtsplugins/relationstechnik-zivilrecht/testakte": {
+    "bezug": [
+      "03-anlage-k1-werkvertrag.md",
+      "05-anlage-k3-abnahmeprotokoll.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Die Treppe am Lindenweg",
+        "von": "Hildegard Sauer",
+        "an": "Edelholz Berlin GmbH, Tischlerei",
+        "text": [
+          "Ich bin gestern noch einmal alle Stufen abgegangen. Auf Ihrem Blatt sind Übergabe und Unterschrift zusammen eingetragen. Können Sie mir die Aufnahme schicken, auf der man sieht, welche Stelle wir damals an der Treppe markiert haben?"
+        ],
+        "datum": "2026-04-15"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Rückfrage zum Protokoll vom Einbau",
+        "von": "Bernhard Holzmann",
+        "an": "Montageleitung",
+        "text": [
+          "Für die Rechnung ist die Treppe als Ganzes angesetzt. In meinem Exemplar des Protokolls stehen handschriftliche Zusätze. Wer war beim Durchgang vor Ort und kann erklären, welche Bemerkungen erst nach dem Durchgang ergänzt wurden?"
+        ]
+      }
+    ]
+  },
+  "gerichtsplugins/richter-amtsgericht-handelsregister/testakte": {
+    "bezug": [
+      "03-anlage-1-gesellschafterbeschluss.md",
+      "04-anlage-2-gesellschafterliste.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Datumsangaben beim Wechsel von Voss zu Karg",
+        "von": "Hildegard Sauer",
+        "an": "Notariat",
+        "text": [
+          "Wir möchten den Geschäftsführerwechsel der Edelholz Berlin GmbH melden. Unser unterschriebener Beschluss trägt den 2. Juni. Für Ausscheiden und Amtsbeginn stehen andere Tage im Text. Welche Originalerklärungen brauchen Sie, um den Ablauf zu prüfen?"
+        ],
+        "datum": "2026-06-02"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Mappe zum Geschäftsführerwechsel",
+        "von": "Büro Edelholz Berlin",
+        "an": "Hildegard Sauer",
+        "text": [
+          "Person|Datum im Schriftstück|Offene Frage",
+          "Reinhard Voss|31. Mai als Ende genannt|Welche Erklärung ging ihm wann zu?",
+          "Bruno Karg|1. Juni als Beginn genannt|Wann hat er das Amt angenommen?",
+          "Alleingesellschafterin|2. Juni auf dem Beschluss|Welche Fassung wurde unterzeichnet?"
+        ]
+      }
+    ]
+  },
+  "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/testakte": {
+    "bezug": [
+      "03-anlage-g1-vollstreckungsbescheid.md",
+      "04-anlage-g2-fruchtlose-pfaendung.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Offener Betrag aus den Zuschnitten für Edelholz",
+        "von": "Sägewerk Sauer GmbH, Buchhaltung",
+        "an": "Geschäftsführung",
+        "text": [
+          "Zum titulierten Betrag von 184.500 Euro suchen wir neuere Zahlungseingänge. Der Kundenname wird auf den Auszügen nicht immer gleich abgekürzt. Hat jemand eine Teilzahlung nach Erteilung des Titels einem anderen Beleg zugeordnet?"
+        ],
+        "datum": "2026-03-30"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Rückmeldung vom Vollstreckungsversuch",
+        "von": "Büro Sägewerk Sauer",
+        "an": "Geschäftsführung",
+        "text": [
+          "Der Bericht betrifft einen bestimmten Versuch zu einem bestimmten Zeitpunkt. Ob Edelholz danach Geld erhalten oder anderen Gläubigern gezahlt hat, kann ich aus diesem Blatt nicht erkennen."
+        ]
+      }
+    ]
+  },
+  "gerichtsplugins/richter-amtsgericht-straf/testakte": {
+    "bezug": [
+      "03-anlage-a1-vernehmungsprotokoll-pohl.md",
+      "05-anlage-a3-auswertevermerk-privatvideo.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Mein Rundgang in der Tiefgarage",
+        "von": "Gerold Pohl",
+        "an": "Hausverwaltung Erlenweg 9",
+        "text": [
+          "Ich habe auf meinem Kontrollgang am Abend des 12. April etwas in der Nähe von Stellplatz 14 gesehen. Für die Rückfrage brauche ich den damaligen Garagenplan. Welche Leuchten zwischen meinem Standpunkt und dem Stellplatz waren zur Wartung gemeldet?"
+        ],
+        "datum": "2026-04-13"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Stellplatz und Blickrichtung",
+        "von": "Hausverwaltung Erlenweg",
+        "an": "Objektakte",
+        "text": [
+          "Der Plan zeigt die nummerierten Stellflächen, nicht die an jenem Abend dort abgestellten Fahrzeuge. Vor einer Aussage über die Sicht vom Gang aus sollte Gerold Pohl seinen eigenen Standort auf einer Kopie markieren."
+        ]
+      }
+    ]
+  },
+  "gerichtsplugins/richter-amtsgericht-zivil/testakte": {
+    "bezug": [
+      "03-anlage-k1-reparaturrechnung.md",
+      "04-anlage-k2-unfallmeldung-polizei.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Reparatur meines Golf nach dem Unfall am Kreisverkehr",
+        "von": "Hildegard Sauer",
+        "an": "Auto Riffel GmbH",
+        "text": [
+          "Ich habe Ihre Rechnung R-2026-0488. Für den Termin brauche ich auch die Aufnahmen bei Annahme, bevor der Wagen repariert wurde. Ist dokumentiert, welche Beschädigungen bei der Annahme bereits sichtbar waren?"
+        ],
+        "datum": "2026-03-25"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Rechnung und Schadenbilder",
+        "von": "Kundendienst Auto Riffel",
+        "an": "Werkstattakte MU-SA 412",
+        "text": [
+          "Die Arbeitspositionen sind nach Fahrzeugteilen sortiert. Sie sagen noch nichts über die Stellung des Golf im Kreisverkehr. Die Kundin fragt, welche Fotos am Wagen selbst und welche schon an der Unfallstelle aufgenommen wurden."
+        ]
+      }
+    ]
+  },
+  "gerichtsplugins/richter-arbeitsgericht/testakte": {
+    "bezug": [
+      "03-anlage-k1-kuendigungsschreiben.md",
+      "04-anlage-k2-arbeitsvertrag.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Wer erledigt die Aufgaben aus meiner Buchhaltung künftig?",
+        "von": "Hildegard Sauer",
+        "an": "Betriebsrat Edelholz",
+        "text": [
+          "Das Kündigungsschreiben habe ich am 28. April bekommen. Vor der Beratung möchte ich erklären, was ich in der Buchhaltung tatsächlich bearbeitet habe. Wisst ihr, welche dieser Arbeiten laut Planung nach außen gehen sollen?"
+        ],
+        "datum": "2026-04-28"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Mein letzter Durchlauf in der Buchhaltung",
+        "von": "Hildegard Sauer",
+        "an": "Erstberatung",
+        "text": [
+          "Der Vertrag nennt nur Sachbearbeitung. Ein Teil meiner Arbeit besteht darin, Rückfragen aus anderen Abteilungen persönlich aufzunehmen. Ich kann anhand eines abgeschlossenen Monats zeigen, welche Schritte dabei im Haus geblieben sind."
+        ]
+      }
+    ]
+  },
+  "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/testakte": {
+    "bezug": [
+      "03-anlage-bf1-berufungsurteil.md",
+      "04-anlage-bf2-schriftsatz-beweisantritt.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Seite vier meiner Berufungserwiderung",
+        "von": "Dr. Petra Falk",
+        "an": "Hildegard Sauer",
+        "text": [
+          "Für die Prüfung im Verfahren um den Unfall im Kreisverkehr brauche ich das beim Gericht eingegangene Exemplar mit dem Beweisantritt. Haben Sie noch die damalige Übersendung mit Anlage und den Zustellumschlag des Urteils?"
+        ],
+        "datum": "2026-03-04"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Polizeibeamter als Zeuge",
+        "von": "Kanzleibüro Dr. Falk",
+        "an": "Handakte Sauer",
+        "text": [
+          "Der Name steht im Schriftsatz unter einer bestimmten Behauptung. Die Unfallaufnahme und die Wahrnehmung des unmittelbaren Unfallhergangs sind verschiedene Fragen. Für die Besprechung soll der ganze Absatz vor und nach dem Beweisangebot vorliegen."
+        ]
+      }
+    ]
+  },
+  "gerichtsplugins/richter-familiengericht/testakte": {
+    "bezug": [
+      "03-anlage-as1-jugendamtsurkunde-vaterschaft.md",
+      "06-anlage-ag2-betriebswirtschaftliche-auswertung.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Unterlagen für den Unterhalt von Jonas",
+        "von": "Hildegard Sauer",
+        "an": "Konrad Welp",
+        "text": [
+          "Bei der Ablage finde ich die Urkunde des Jugendamts zur Vaterschaft. Für Jonas' laufenden Unterhalt brauche ich eine nachvollziehbare Auskunft über dein Einkommen. Ist deine jüngste betriebswirtschaftliche Auswertung bereits um die privaten Entnahmen bereinigt?"
+        ],
+        "datum": "2026-05-29"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Wofür schon Geld ankam",
+        "von": "Hildegard Sauer",
+        "an": "Familienberatung",
+        "text": [
+          "Bei einzelnen Überweisungen steht nur Jonas' Name. Geschenke für einen besonderen Anlass und regelmäßige Unterhaltszahlungen habe ich bisher in derselben Liste notiert. Für die Besprechung kann ich die Verwendungszwecke im Original zeigen."
+        ]
+      }
+    ]
+  },
+  "gerichtsplugins/richter-finanzgericht/testakte": {
+    "bezug": [
+      "04-anlage-k2-betriebspruefungsbericht.md",
+      "06-anlage-b1-kalkulationsschema-finanzamt.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Kasse meiner Gaststätte im Jahr 2023",
+        "von": "Hildegard Sauer",
+        "an": "Steuerberatung",
+        "text": [
+          "Die Betriebsprüfung hat mit einem rechnerischen Aufschlag gearbeitet. Bei uns hängt der Erlös auch davon ab, was als Ausschank, Eigenverbrauch oder Schwund erfasst wurde. Welche Einkaufs- und Tagesbelege brauchen Sie zuerst?"
+        ],
+        "datum": "2025-10-29"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Unterlagen hinter der Kassenkalkulation",
+        "von": "Gaststätte Sauer",
+        "an": "Steuerberatung",
+        "text": [
+          "Unterlage|Was daraus hervorgeht|Rückfrage",
+          "Einkaufsrechnung|Eingekaufte Gebindemenge|Wann tatsächlich verbraucht?",
+          "Tagesabschluss|Gebuchte Einnahmen|Wie behandelt das System Stornos?",
+          "Schwundzettel|Beobachtung im Betrieb|Für welche Tage vorhanden?"
+        ]
+      }
+    ]
+  },
+  "gerichtsplugins/richter-landgericht-strafkammer/testakte": {
+    "bezug": [
+      "03-anlage-vernehmungsprotokoll-zeugin.md",
+      "06-anlage-videoauswertung.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Was ich von der Kasse aus erkennen konnte",
+        "von": "Hildegard Sauer",
+        "an": "Stationsleitung der Tankstelle",
+        "text": [
+          "Die Polizei hat nach meiner Sicht auf den Verkaufsraum gefragt. Ich war hinter dem Kassentresen. Können Sie den Raumplan und die Schichtbesetzung des 18. Mai aufheben? Die Kameraperspektive war nicht dieselbe wie meine."
+        ],
+        "datum": "2026-05-20"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Schichtwechsel nach dem Vorfall",
+        "von": "Stationsleitung",
+        "an": "Objektakte Tankstelle",
+        "text": [
+          "Der Kassenabschluss wurde erst nach dem Vorfall erstellt. Wer eine Person selbst im Laden gesehen hat und wer erst später das Video angesehen hat, sollte für Rückfragen getrennt festgehalten werden."
+        ]
+      }
+    ]
+  },
+  "gerichtsplugins/richter-landgericht-zivilkammer/testakte": {
+    "bezug": [
+      "03-anlage-k1-bauvertrag.md",
+      "05-anlage-k3-abnahmeprotokoll.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Letzte Rechnung für das Haus im Lindenweg",
+        "von": "Hildegard Sauer",
+        "an": "Edelholz Bau Berlin GmbH",
+        "text": [
+          "Bei der Schlussrechnung über den Restwerklohn möchte ich die Abschläge einzeln zuordnen. Im Abnahmeprotokoll stehen noch Einträge. Welche davon waren beim Rechnungsdatum tatsächlich erledigt und wer war bei der Nachschau dabei?"
+        ],
+        "datum": "2026-03-25"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Einfamilienhaus und Nacharbeiten",
+        "von": "Bauleitung Edelholz Bau",
+        "an": "Abrechnung",
+        "text": [
+          "Die Schlussrechnung S-2026-0117 enthält den vereinbarten Pauschalfestpreis. Die Handwerker haben einzelne Nacharbeiten über Tageszettel zurückgemeldet. Eine solche Rückmeldung ist noch keine Bestätigung der Bauherrin über den Zustand."
+        ]
+      }
+    ]
+  },
+  "gerichtsplugins/richter-sozialgericht/testakte": {
+    "bezug": [
+      "04-anlage-k2-attest-orthopaedie.md",
+      "05-anlage-k3-attest-psychiatrie.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Was in meinem Arbeitsalltag mit dem Rücken passiert",
+        "von": "Hildegard Sauer",
+        "an": "Praxis Dr. Veit",
+        "text": [
+          "Sie kennen meine Rückenbeschwerden seit Jahren. Beim länger dauernden Sitzen und Stehen geht es mir unterschiedlich. Wäre es für Ihren Befund hilfreich, wenn ich eine Arbeitswoche mit den tatsächlich notwendigen Unterbrechungen aufschreibe?"
+        ],
+        "datum": "2026-04-12"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Kein gleichmäßiger Tag",
+        "von": "Hildegard Sauer",
+        "an": "Rentenberatung",
+        "text": [
+          "An guten Tagen erledige ich mehrere kurze Wege nacheinander. Nach einer schlechten Nacht bleiben Aufgaben liegen. Wie oft das geschieht, habe ich bisher nicht gezählt. Meine Kalendernotizen und die Termine in den beiden Praxen möchte ich zum Gespräch mitbringen."
+        ]
+      }
+    ]
+  },
+  "gerichtsplugins/richter-verwaltungsgericht/testakte": {
+    "bezug": [
+      "04-anlage-k2-rueckstandsaufstellung-finanzamt.md",
+      "05-anlage-k3-ratenzahlungsvereinbarung.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Welcher Rückstand ist nach unseren Zahlungen noch offen?",
+        "von": "Bernd Tasche",
+        "an": "Buchhaltung Edelholz",
+        "text": [
+          "Das Ordnungsamt nennt Rückstände bei Finanzamt und Einzugsstelle. Für den Abgleich brauche ich Buchungstag und Wertstellung der letzten Raten. Ist das Aktenzeichen auf der Überweisung jeweils dem richtigen Konto zugeordnet worden?"
+        ],
+        "datum": "2026-05-05"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Drei Stellen für den Ratenabgleich",
+        "von": "Buchhaltung Edelholz",
+        "an": "Bernd Tasche",
+        "text": [
+          "Quelle|Kennzeichen|Was offen ist",
+          "Finanzamt|Steuerart und Zeitraum|Gebuchter Restbetrag",
+          "Einzugsstelle|Beitragsmonat|Ob jüngste Zahlung zugeordnet wurde",
+          "Hausbank|Verwendungszweck|Datum der Wertstellung"
+        ]
+      }
+    ]
+  },
+  "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/testakte": {
+    "bezug": [
+      "03-anlage-zahlungsnachweise.md",
+      "06-anlage-mailverkehr.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Mein bestellter Massivholzschrank",
+        "von": "Margarete Kühn",
+        "an": "Kundenservice Edelholz",
+        "text": [
+          "Ich habe nach der Bestellung vom 18. Februar am Folgetag 3.150 Euro überwiesen. Der Schrank ist noch nicht bei mir. Bitte sagen Sie mir, ob es schon eine konkrete Lieferung oder nur eine Eingangsbestätigung für das Geld gibt."
+        ],
+        "datum": "2026-03-10"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Was der Bankbeleg zeigt",
+        "von": "Margarete Kühn",
+        "an": "Eigene Bestellunterlagen",
+        "text": [
+          "Der Beleg nennt Betrag, Datum und Empfängerkonto. Er zeigt mir nicht, wer die Bestellung gelesen oder den Auftrag in der Werkstatt eingeplant hat. Die E-Mail-Antworten möchte ich in ihrer ursprünglichen Reihenfolge aufheben."
+        ]
+      }
+    ]
+  },
+  "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/testakte": {
+    "bezug": [
+      "04-anlage-2-vernehmungsprotokoll-zeuge.md",
+      "05-anlage-3-lichtbilder-und-warenliste.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Warenliste zum Vorfall in der Bahnhofstraße",
+        "von": "Tobias Renn",
+        "an": "Filialleitung Markthalle Musterstadt",
+        "text": [
+          "Zu den Lichtbildern vom 14. Mai brauche ich die damaligen Verkaufspreise der abgebildeten Artikel. Bitte prüfen Sie, ob alle Positionen auf dem Foto zu erkennen sind oder ob die einzelnen Artikel erst später am Tresen erfasst wurden."
+        ],
+        "datum": "2026-05-14"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Fotos und Beobachtungsorte",
+        "von": "Filialleitung Markthalle",
+        "an": "Vorgangsakte",
+        "text": [
+          "Die Zusammenstellung der Waren ist nach dem Vorfall entstanden. Wer welche Ware vorher gesehen hat, ergibt sich daraus nicht. Für die Befragung bitten wir die anwesenden Beschäftigten jeweils um ihren eigenen Standort."
+        ]
+      }
+    ]
+  },
+  "vergaberecht-werkstatt/testakten/01-reinigung-grundschule-musterstadt": {
+    "bezug": [
+      "01_bedarfsvermerk_markterkundung.md",
+      "04_leistungsbeschreibung_lv.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Übergang vom Unterricht in die Ferienbetreuung",
+        "von": "Schulleitung Grundschule Am Park",
+        "an": "Gebäudemanagement Musterstadt",
+        "text": [
+          "Im Raumplan sieht man dieselbe Fläche für zwei Nutzungen. Ein Klassenraum ist nach dem Unterricht keineswegs jeden Tag leer. Brauchen Sie die tatsächlichen Belegungszeiten von Mensa, Sporthalle und Betreuung getrennt für das Reinigungsangebot?"
+        ],
+        "datum": "2026-06-09"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Wo der bisherige Takt zu kurz greift",
+        "von": "Hausdienst Grundschule Am Park",
+        "an": "Gebäudemanagement",
+        "text": [
+          "Bereich|Nutzung|Vor Ausschreibung prüfen",
+          "Sanitärtrakt|Unterricht und Ganztag|Besonderer Bedarf mittags",
+          "Sporthalle|Schulsport und weitere Belegung|Wer den Schlüssel übergibt",
+          "Mensa|Essensausgabe|Zeitfenster nach Betriebsschluss"
+        ]
+      }
+    ]
+  },
+  "vergaberecht-werkstatt/testakten/02-laptopbeschaffung-landesamt-musterland": {
+    "bezug": [
+      "01_bedarfsvermerk_markterkundung.md",
+      "02_leistungsbeschreibung_produktneutral.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Laptops am vorhandenen Arbeitsplatz testen",
+        "von": "IT-Betrieb Landesamt Musterland",
+        "an": "Einkauf",
+        "text": [
+          "Bei den 800 Geräten geht es auch um die schon eingesetzten Docks und Monitore. Können wir eine typische Büroausstattung und eine für den Außendienst auflisten, mit der Anbieter die Funktion nachweisen können?"
+        ],
+        "datum": "2026-06-10"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Vor-Ort-Service über 36 Monate",
+        "von": "Service-Desk Landesamt",
+        "an": "IT-Betrieb",
+        "text": [
+          "Der Service-Desk nimmt Meldungen auch außerhalb des Hauptgebäudes auf. Eine Rückmeldung per Telefon und eine tatsächlich wieder arbeitsfähige Person sind zwei Zeitpunkte. Vor der Leistungsbeschreibung ist zu klären, welcher davon gemessen wird."
+        ]
+      }
+    ]
+  },
+  "vergaberecht-werkstatt/testakten/03-bauleistung-stadthalle-musterstadt": {
+    "bezug": [
+      "01_bekanntmachung_pruefnotiz.md",
+      "02_vergabeunterlagen_pruefbericht.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Dachfenster im laufenden Veranstaltungsbetrieb",
+        "von": "Kalkulation Stadthalle",
+        "an": "Technische Projektleitung",
+        "text": [
+          "Im Leistungsverzeichnis steht ein Fabrikat. Für die Kalkulation brauche ich die konkreten Maße, Anschlüsse und Leistungswerte, an denen andere Fenster gemessen würden. Wann sind die Dachbereiche bei laufendem Veranstaltungsbetrieb überhaupt zugänglich?"
+        ],
+        "datum": "2026-06-17"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Vierzehn Monate und belegte Säle",
+        "von": "Bauablaufplanung",
+        "an": "Angebotsteam",
+        "text": [
+          "Die Bauzeit allein sagt nicht, an welchen Tagen die Säle für Arbeiten frei sind. Zur Angebotsbesprechung brauchen wir den Veranstaltungskalender und die Wege, die für Gäste offen bleiben müssen."
+        ]
+      }
+    ]
+  },
+  "vergaberecht-werkstatt/testakten/04-it-beratung-ministerium-musterland": {
+    "bezug": [
+      "01_teilnahmewettbewerb_pruefnotiz.md",
+      "02_bietergemeinschaftsvertrag_auszug.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Gemeinsamer Bereitschaftsdienst für das Ministerium",
+        "von": "Beratung Mustertal GmbH",
+        "an": "Beratung Norddeutschland",
+        "text": [
+          "Wir decken die Werktage, Sie haben die Rufbereitschaft. Wer würde in einer gemeinsamen Bewerbung welchen Teil verbindlich übernehmen? Aus einer Adresse vor Ort kann ich weder die verfügbare Person noch ihre Reaktionszeit ablesen."
+        ],
+        "datum": "2026-07-04"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Eignungsnachweise aufteilen",
+        "von": "Angebotsteam Mustertal",
+        "an": "Bietergemeinschaft",
+        "text": [
+          "Anforderung|Möglicher Nachweis|Offen",
+          "Umsatz|Abschlüsse beider Partner|Anteil je Mitglied",
+          "Referenzen|Drei und zwei Aufträge|Passen die jeweiligen Leistungen?",
+          "Bereitschaft|Dienstplan|Wer übernimmt das Wochenende?"
+        ]
+      }
+    ]
+  },
+  "vergaberecht-werkstatt/testakten/05-insolvenz-auftragnehmerwechsel-132-gwb": {
+    "bezug": [
+      "01_sachverhalt_auftragnehmerinsolvenz.md",
+      "09_asset_deal_uebertragungsverzeichnis.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Wer betreut die Fachverfahren nach dem Insolvenzantrag?",
+        "von": "Amt für Digitalisierung Hafenburg",
+        "an": "IT-Betrieb",
+        "text": [
+          "Der Dienstplan nennt noch NordSys Services, neue Ansprechpersonen sollen zur Erwerbergesellschaft gehören. Bitte halten Sie für jedes Fachverfahren fest, wer tatsächlich Support leistet und welche Zugangsberechtigung weiter gültig ist."
+        ],
+        "datum": "2026-10-29"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Betrieb läuft, Vertragspartner offen",
+        "von": "Beschaffungsstelle Hafenburg",
+        "an": "Vertragsakte",
+        "text": [
+          "Unsere Fachbereiche melden laufenden Support. Das allein zeigt nicht, ob Personal, Werkzeuge und Verträge rechtswirksam übergegangen sind. Für den nächsten Gesprächstermin benötigen wir die konkrete Liste der Betriebsmittel und der übernommenen Leistungen."
+        ]
+      }
+    ]
+  },
+  "vergaberecht-werkstatt/testakten/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis": {
+    "bezug": [
+      "01_bekanntmachung_und_ausgangslage.md",
+      "02_vergabeunterlagen_wertungsmatrix_pruefung.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Was kostet die jährliche Notfallübung?",
+        "von": "Datacenter Westfalen GmbH",
+        "an": "Kalkulation Rechenzentrumsbetrieb",
+        "text": [
+          "Die Ausschreibung des Musterkreises nennt Hosting, Sicherungen und eine Übung jedes Jahr. Ist mit 'Übung' ein Tischtest oder ein tatsächlicher Umschalttermin gemeint? Die beiden Möglichkeiten binden sehr unterschiedliche Personalzeiten."
+        ],
+        "datum": "2026-07-22"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Vier Jahre plus mögliche Verlängerung",
+        "von": "Betrieb Datacenter Westfalen",
+        "an": "Angebotsteam",
+        "text": [
+          "Wiederkehrende Kosten sind in der Kalkulation je Betriebsjahr anzusetzen. Die erste Einrichtung fällt nur einmal an. Für den Preisvergleich ist offen, mit welchem Gewicht die Verlängerungsoptionen einfließen."
+        ]
+      }
+    ]
+  },
+  "vergaberecht-werkstatt/testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung": {
+    "bezug": [
+      "02_vergabeunterlagen_leistungsbeschreibung.md",
+      "03_eignungsanforderungen_kriterienkatalog.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Welche Referenz deckt den ausgeschriebenen Bereitschaftsdienst?",
+        "von": "Angebotsteam CyberShield",
+        "an": "Referenzmanagement",
+        "text": [
+          "In Schwerin sollen SOC-Leistungen und ISB-Beratung belegt werden. Eine Referenz nennt das Projekt, aber nicht unseren Anteil im Verbund. Können die damaligen Auftraggeber den eigenen Leistungsumfang und die Laufzeit bestätigen?"
+        ],
+        "datum": "2026-02-28"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Was man vor Abgabe aus dem Referenzblatt erfährt",
+        "von": "Referenzmanagement CyberShield",
+        "an": "Angebotsteam",
+        "text": [
+          "Punkt|Vorhanden|Noch zu klären",
+          "Zeitraum|Projektlaufzeit|Eigener Leistungszeitraum",
+          "SOC|Bezeichnung des Projekts|Konkreter Dienstumfang",
+          "ISB-Beratung|Ansprechstelle|Wer leistete die Beratung?"
+        ]
+      }
+    ]
+  },
+  "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte": {
+    "bezug": [
+      "downloads/testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip!V18_2020-04-02_CRM_Zugriff_und_Einarbeitung_im_Vertriebsinnendienst.pdf",
+      "downloads/testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip!V19_2020-07-13_Mailfolge_zur_Handleraktion_und_eigenstandigen_Auftragsbearbeitung.pdf"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Meine Händleraktion aus der Rotation",
+        "von": "Lisa Muster",
+        "an": "Ehemalige Ansprechperson im Vertriebsinnendienst",
+        "text": [
+          "Ich habe noch den CRM-Zugang aus der damaligen Einarbeitung in Erinnerung, komme aber nicht mehr an die Vorgänge. Welche Händleranfragen habe ich während der Rotation tatsächlich selbst bearbeitet und welche nur an jemanden weitergereicht?"
+        ],
+        "datum": "2026-03-25"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Wiederkehrende Arbeit außerhalb der Grafik",
+        "von": "Lisa Muster",
+        "an": "Unterlagen für das erste Gespräch",
+        "text": [
+          "In meinem Vertrag steht Grafikdesign. Die Händleraktion lief seinerzeit über den Vertriebsinnendienst. Auf den Mailausdrucken ist teilweise das gemeinsame Postfach zu sehen. Für die Besprechung möchte ich die Bearbeitungen, die wirklich von mir stammen, einzeln zuordnen können."
+        ]
+      }
+    ]
+  },
+  "jugendmedienschutz-und-medienangebote/testakte": {
+    "bezug": [
+      "lesefassung/G03_Produkthandbuch_Inselatlas.pdf",
+      "lesefassung/G04_Registrierung_Alter_und_Gastzugang.pdf"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Gastansicht vor der Registrierung",
+        "von": "Produktteam Inselatlas",
+        "an": "Jugendschutzkoordination Wolkenwerft",
+        "text": [
+          "Bei einer Vorführung sahen wir mit einem Gastzugang andere Schaltflächen als mit einem angelegten Profil. Welche Funktionen sind in der tatsächlich angebotenen Fassung schon vor einer Altersangabe erreichbar? Ich möchte den Ablauf aus Sicht einer Familie nachvollziehen."
+        ]
+      },
+      {
+        "typ": "chat",
+        "titel": "Zwei Ansichten beim Familientest",
+        "von": "Produktteam Wolkenwerft",
+        "an": "Besprechung Inselatlas",
+        "text": [
+          "Support: Bei mir öffnet sich der Gastzugang, ohne dass eine Altersfrage erscheint.",
+          "Produktteam: Warst du schon mit einem anderen Profil auf demselben Gerät angemeldet?",
+          "Support: Das weiß ich nicht mehr. Ich notiere beim nächsten Durchgang Version, Gerätezustand und die sichtbaren Schaltflächen.",
+          "Moderation: Markiert bitte, ab wann man überhaupt etwas an andere weitergeben kann."
+        ]
+      }
+    ]
+  },
+  "bautraegervertragspruefer/testakte/bautraegervertrag": {
+    "bezug": [
+      "bautraegervertrag.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Alter Gesellschaftsname auf dem Papier zur Wohnung",
+        "von": "Dr. Eberwein Übelacker-Strohmeyer",
+        "an": "Notariat von Sickingen-Querfurt",
+        "text": [
+          "Im Vertragsentwurf steht ein Hinweis auf eine frühere Firma. Auf meiner Finanzierungsunterlage findet sich der andere Name. Welche Gesellschaft soll der Bank für die Fälligkeitsmitteilung und den Zahlungsempfänger genannt werden?"
+        ],
+        "datum": "2026-03-13"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Vollmacht und erste Kaufpreisrate",
+        "von": "Finanzierungsberatung des Käufers",
+        "an": "Erwerberakte Berlin",
+        "text": [
+          "Die Vertreterin tritt mit einer gesonderten Vollmacht auf. Die erste Rate ist eine andere Frage als die Vertretung bei der Unterschrift. Für die Auszahlung wollen wir den Nachweis der Fälligkeit und den begünstigten Kontoinhaber nebeneinander sehen."
+        ]
+      }
+    ]
+  },
+  "bautraegervertragspruefer/testakte/bautraegervertrag-marewald": {
+    "bezug": [
+      "bautraegervertrag-marewald.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Türangaben vor dem Bemusterungstermin",
+        "von": "Dr. Henrike Salentin-Voßkamp",
+        "an": "Marewald Wohnbau GmbH & Co. KG",
+        "text": [
+          "In der Baubeschreibung sind Innentüren und Wohnungseingangstür getrennt aufgeführt. Welche Ausführung ist im Preis für meine Wohnung enthalten? In der Besichtigung wurde mir eine Ausstattungsvariante gezeigt, deren Nummer ich nicht notiert habe."
+        ],
+        "datum": "2026-06-11"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Unterlagen für die nächste Auszahlung",
+        "von": "Dr. Henrike Salentin-Voßkamp",
+        "an": "Finanzierungsunterlagen",
+        "text": [
+          "Die Bank fragt nach Fälligkeit und Sicherheiten. Der Verkaufsprospekt zeigt den vorgesehenen Ausbau. Für den erreichten Bautenstand habe ich bislang keine eigene Bestätigung. Welche Unterlage erwartet die Bank für welche Rate?"
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/01-gunhilde-brachvogel-riemenschneider-pta": {
+    "bezug": [
+      "personalakte.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Rezeptur, Bestandsabgleich und die beiden Praktikantinnen",
+        "von": "Gunhilde Brachvogel-Riemenschneider",
+        "an": "Dr. Hermenegild Saalfeld",
+        "text": [
+          "Vor meinem Wechsel würde ich gern klären, welche Aufgaben Sie im Zeugnis nennen. Seit 2021 leite ich jedes Ausbildungsjahr zwei PTA-Praktikantinnen an. Wer kann aus den Rezepturplänen belegen, wann ich diese Aufgabe tatsächlich übernommen habe?"
+        ],
+        "datum": "2026-02-24"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Monatsabschluss am Bestandsschrank",
+        "von": "Apothekenleitung Zum Schwarzen Adler",
+        "an": "Personalakte Brachvogel-Riemenschneider",
+        "text": [
+          "Die Monatsabgleiche und das Tagesgeschäft an der Kasse laufen über unterschiedliche Bücher. Die Unterschriften auf den Bestandsblättern können ihre Verantwortung zeigen, ohne einzelne Rezepturaufträge oder Namen von Patienten herauszugeben."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Apotheke Zum Schwarzen Adler · Personalbüro",
+        "an": "Personalakte Gunhilde Brachvogel-Riemenschneider",
+        "titel": "Tätigkeitsnachweis – Gunhilde Brachvogel-Riemenschneider",
+        "text": [
+          "Gunhilde Brachvogel-Riemenschneider · Apotheke Zum Schwarzen Adler.",
+          "Pharmazeutisch-technische Assistentin seit dem 1. Oktober 2018.",
+          "Beratung und Abgabe von Arzneimitteln am Handverkauf. Herstellung von Rezepturen in der Apotheke. Monatlicher Bestandsabgleich im Betäubungsmittelbuch."
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/02-volkmar-eitel-hartung-rechtsanwalt": {
+    "bezug": [
+      "personalakte.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Meine Arbeit in Bauprozessen und im Vergaberecht",
+        "von": "Volkmar Eitel-Hartung",
+        "an": "Dr. Stollwerck",
+        "text": [
+          "Die Termine vor Land- und Oberlandesgerichten stehen im Kalender unter dem Namen der Kanzlei. Für mein Zeugnis möchte ich die selbst wahrgenommenen Termine von denen trennen, zu denen ich nur Schriftsätze vorbereitet habe. Können wir das mit den Terminsvermerken abgleichen?"
+        ],
+        "datum": "2026-01-27"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Anonymisierte Tätigkeitsübersicht",
+        "von": "Dezernatsassistenz Bau- und Architektenrecht",
+        "an": "Dr. Stollwerck",
+        "text": [
+          "Eine Vergabesache kann mehrere Teilakten haben. Eine bloße Zählung der Aktenzeichen wäre als Tätigkeitsbeschreibung irreführend. Die Assistenz kann Aufgaben nach Verhandlung, schriftlicher Bearbeitung und Beratung ordnen, ohne Mandantennamen mitzuteilen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Pörtner Pörtner und Stollwerck · Personalbüro",
+        "an": "Personalakte Volkmar Eitel-Hartung",
+        "titel": "Tätigkeitsnachweis – Volkmar Eitel-Hartung",
+        "text": [
+          "Volkmar Eitel-Hartung · Pörtner Pörtner und Stollwerck.",
+          "Angestellter Rechtsanwalt seit dem 1. September 2019 im Dezernat Bau-, Architekten- und Vergaberecht.",
+          "Bearbeitung von Nachträgen und Mängelrügen im privaten Baurecht. Vertretung mittelständischer Bauunternehmen vor Land- und Oberlandesgerichten. Beratung öffentlicher Auftraggeber in Vergabeverfahren."
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/03-edelgard-schwerdtfeger-mta-radiologie": {
+    "bezug": [
+      "personalakte.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Welche Arbeitsschritte habe ich selbst angeleitet?",
+        "von": "Edelgard Schwerdtfeger",
+        "an": "Praxisleitung Radiologie Hof",
+        "text": [
+          "Im Dienstplan ist häufig nur das jeweilige Gerät vermerkt. Bei der Besetzung mit neuen Kolleginnen war ich zusätzlich für die Einarbeitung eingeteilt. Welche Schichtunterlagen können wir für die Tätigkeitsbeschreibung ansehen, ohne Patientendaten zu übernehmen?"
+        ],
+        "datum": "2025-04-25"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Was die Terminliste über eine MTRA aussagt",
+        "von": "Anmeldung Radiologie",
+        "an": "Praxisleitung",
+        "text": [
+          "Die Terminliste zeigt Geräteauslastung und Zeitfenster. Sie weist nicht in jeder Zeile aus, wer die Untersuchung vorbereitet und wer die Person begleitet hat. Für konkrete Aufgaben kann man die Besetzungsliste desselben Dienstes heranziehen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Radiologische Gemeinschaftspraxis Dres. Pürckhauer/Hagedorn · Personalbüro",
+        "an": "Personalakte Edelgard Schwerdtfeger",
+        "titel": "Tätigkeitsnachweis – Edelgard Schwerdtfeger",
+        "text": [
+          "Edelgard Schwerdtfeger · Radiologische Gemeinschaftspraxis Dres. Pürckhauer/Hagedorn.",
+          "Medizinisch-technische Radiologieassistentin seit dem 1. Februar 2014.",
+          "Durchführung konventioneller Röntgenuntersuchungen einschließlich Mammographien. Assistenz bei CT-Untersuchungen. Vorbereitung und Lagerung der Patientinnen und Patienten am 1,5-Tesla-MRT."
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/04-friedhelm-poettering-lagermeister": {
+    "bezug": [
+      "personalakte.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Ab wann war ich Lagermeister?",
+        "von": "Friedhelm Poettering",
+        "an": "Personalbüro Großkopf Söhne",
+        "text": [
+          "Im Eintrittsformular von 2009 bin ich Fachkraft für Lagerlogistik. Die Bestellung zum Lagermeister kam 2016 dazu. Können wir beide Zeiträume getrennt darstellen und die Tätigkeit vor der Bestellung anhand der damaligen Einteilung überprüfen?"
+        ],
+        "datum": "2025-11-25"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Zwei Stationen im selben Lager",
+        "von": "Lagerbüro Großkopf Söhne",
+        "an": "Personalbüro",
+        "text": [
+          "Abschnitt|Unterlage|Rückfrage",
+          "Eintritt im Mai 2009|Beschäftigtenstamm|Anfängliche Aufgaben in der Lagerlogistik",
+          "Bestellung 2016|Bestellungsschreiben|Wann begann die Einteilung der Kollegen?",
+          "Inventur|Zähl- und Freigabeliste|Wer zählte und wer verantwortete den Abschluss?"
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Eisenwarenhandlung Großkopf Söhne KG · Personalbüro",
+        "an": "Personalakte Friedhelm Poettering",
+        "titel": "Tätigkeitsnachweis – Friedhelm Poettering",
+        "text": [
+          "Friedhelm Poettering · Eisenwarenhandlung Großkopf Söhne KG.",
+          "Seit dem 1. Mai 2009 Fachkraft für Lagerlogistik, 2016 Bestellung zum Lagermeister.",
+          "Überwachung von Wareneingang und Warenausgang. Disposition des Hochregallagers und von vier Außenlagern. Führung von sechs Lagermitarbeitern und zwei Auszubildenden."
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/05-walpurga-dietrichsen-hofstaetter-zfa": {
+    "bezug": [
+      "personalakte.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Meine Tätigkeit in Assistenz und Prophylaxe",
+        "von": "Walpurga Dietrichsen-Hofstaetter",
+        "an": "Praxis Dr. Berstecher",
+        "text": [
+          "Auf dem Kalender steht bei einem Termin nur das Behandlungszimmer. Ob ich die Behandlung assistiert oder den Platz vorbereitet habe, lässt sich daran nicht erkennen. Können wir für die Beschreibung meiner Tätigkeit die damaligen Aufgabenlisten hinzunehmen?"
+        ],
+        "datum": "2025-07-28"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Tätigkeit und Arbeitszeit getrennt erfragen",
+        "von": "Praxisbüro Dr. Berstecher",
+        "an": "Personalakte Dietrichsen-Hofstaetter",
+        "text": [
+          "Das Ende ist mit dem 31. Juli dokumentiert. Den Beschäftigungsumfang kann das Lohnbüro bestätigen. Die fachlichen Aufgaben im Behandlungsraum muss dagegen jemand aus dem damaligen Praxisteam beschreiben."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Zahnarztpraxis Dr. Berstecher · Personalbüro",
+        "an": "Personalakte Walpurga Dietrichsen-Hofstaetter",
+        "titel": "Tätigkeitsnachweis – Walpurga Dietrichsen-Hofstaetter",
+        "text": [
+          "Walpurga Dietrichsen-Hofstaetter · Zahnarztpraxis Dr. Berstecher.",
+          "Zahnmedizinische Fachangestellte seit dem 1. März 2017.",
+          "Assistenz bei konservierenden, prothetischen und chirurgischen Behandlungen. Prophylaxe und professionelle Zahnreinigung im Rahmen der Qualifikation. Aufbereitung der Instrumente."
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/06-reinhilde-eisentraeger-filialleiterin-sparkasse": {
+    "bezug": [
+      "personalakte.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Zwischenzeugnis vor der Elternzeit",
+        "von": "Reinhilde Eisentraeger",
+        "an": "Personalabteilung Sparkasse Hochfranken-Süd",
+        "text": [
+          "Ich bin seit der Ausbildung im Haus, leite die Geschäftsstelle Marktredwitz aber erst seit Juli 2018. Können Sie beide Stationen auseinanderhalten? Der Eintritt in die Elternzeit ist kein Ende meiner Beschäftigung."
+        ],
+        "datum": "2026-02-24"
+      },
+      {
+        "typ": "chat",
+        "titel": "Wann begann die Filialverantwortung?",
+        "von": "Geschäftsstelle Marktredwitz",
+        "an": "Übergabeteam",
+        "text": [
+          "Reinhilde: Im Stammsatz steht September 2008. Das war meine Ausbildung.",
+          "Personal: Für die Filialleitung haben wir ein gesondertes Bestellungsschreiben.",
+          "Reinhilde: Dann nehmt bitte das für die Leitungszeit. Welche Aufgaben ihr für die Vertretung verteilt, erläutere ich beim Übergabetermin."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Sparkasse Hochfranken-Süd · Personalbüro",
+        "an": "Personalakte Reinhilde Eisentraeger",
+        "titel": "Tätigkeitsnachweis – Reinhilde Eisentraeger",
+        "text": [
+          "Reinhilde Eisentraeger · Sparkasse Hochfranken-Süd.",
+          "Ausbildungsbeginn am 1. September 2008, Leitung der Geschäftsstelle Marktredwitz seit dem 1. Juli 2018.",
+          "Leitung der Geschäftsstelle mit acht Beschäftigten. Betreuung gehobener Privatkunden und kleiner Firmenkunden. Kreditentscheidungen innerhalb der eingeräumten Kompetenz und Vorlagen für den Vorstand."
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/07-dietram-auerwald-bornhoeft-spedition": {
+    "bezug": [
+      "personalakte.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Was im Tourenplan von meiner Disposition übrig bleibt",
+        "von": "Dietram Auerwald-Bornhoeft",
+        "an": "Disposition Logistik Nord-Süd",
+        "text": [
+          "Bei einer umgeplanten Tour zeigt das System am Ende nur die letzte Zuordnung. Für mein Zeugnis möchte ich erklären, welche Entscheidungen ich während der laufenden Schicht selbst getroffen habe. Welche Übergabevermerke sind dafür noch greifbar?"
+        ],
+        "datum": "2025-12-22"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Rückfragen bei einem verspäteten Lkw",
+        "von": "Schichtleitung Spedition",
+        "an": "Personalbüro",
+        "text": [
+          "Auf den Frachtdaten steht der Name des Fahrers. Die Abstimmung mit Kunden und Folgetouren findet in der Disposition statt. Die Rückmeldungen zu Herrn Auerwald-Bornhoeft bitte bei den damals zuständigen Schichten einholen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Logistik Nord-Süd GmbH · Personalbüro",
+        "an": "Personalakte Dietram Auerwald-Bornhoeft",
+        "titel": "Tätigkeitsnachweis – Dietram Auerwald-Bornhoeft",
+        "text": [
+          "Dietram Auerwald-Bornhoeft · Logistik Nord-Süd GmbH.",
+          "Sachbearbeiter für Speditionsdisposition seit dem 1. Juni 2015.",
+          "Disposition von Komplett- und Teilladungen im nationalen und europäischen Fernverkehr. Auftragsbearbeitung im Speditionsprogramm CarLo. Erstellung von Frachtdokumenten einschließlich CMR-Frachtbriefen und Gefahrgutpapieren."
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/08-hartmut-greifenklau-hotel-empfangsleiter": {
+    "bezug": [
+      "personalakte.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Tagungsanreise und Spätdienst am Empfang",
+        "von": "Hartmut Greifenklau",
+        "an": "Hoteldirektion Sächsischer Hof Bautzen",
+        "text": [
+          "Bei Gruppenanreisen habe ich die Besetzung des Empfangs vorbereitet, war aber nicht in jeder Folgeschicht anwesend. Können wir für die Tätigkeitsbeschreibung Einsatzplanung und tatsächlich von mir betreute Schichten getrennt ansehen?"
+        ],
+        "datum": "2025-09-25"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Welche Abteilung war beim Bankett zuständig?",
+        "von": "Reservierung Sächsischer Hof",
+        "an": "Hoteldirektion",
+        "text": [
+          "Ein Bankett erscheint im gemeinsamen Belegungsplan und erzeugt zusätzliche Arbeit am Empfang. Die gastronomische Durchführung lag bei einem anderen Team. Für Herrn Greifenklau lässt sich am ehesten die Anreiseabstimmung mit der Rezeption nachvollziehen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Hotel Sächsischer Hof Bautzen · Personalbüro",
+        "an": "Personalakte Hartmut Greifenklau",
+        "titel": "Tätigkeitsnachweis – Hartmut Greifenklau",
+        "text": [
+          "Hartmut Greifenklau · Hotel Sächsischer Hof Bautzen.",
+          "Leiter des Empfangs seit dem 1. April 2020.",
+          "Leitung des Empfangsteams mit sieben Beschäftigten. Planung der Schichten und Urlaubsvertretungen. Bearbeitung der Reservierungen im Hotelverwaltungssystem Protel."
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/09-ortrud-falckenstein-altenpflegerin": {
+    "bezug": [
+      "personalakte.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Jahre in der Pflege und im Wohnbereich Lindenhof",
+        "von": "Ortrud Falckenstein",
+        "an": "Pflegedienstleitung Haus Birkenhain",
+        "text": [
+          "Vor meinem Ruhestand möchte ich die Tätigkeitszeiten ordnen. Die Pflegearbeit begann 1995, die Leitung des Wohnbereichs erst 2010. Können wir außerdem zeigen, welchen Teil der Praxisanleitung ich selbst übernommen habe?"
+        ],
+        "datum": "2026-05-26"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Wohnbereich Lindenhof",
+        "von": "Pflegedienstleitung Haus Birkenhain",
+        "an": "Personalbüro",
+        "text": [
+          "Die Belegungszahl des Bereichs beschreibt die Größe der Aufgabe. Für den Nachweis der Leitungsarbeit werden Dienstplanung und Übergaben gebraucht. Persönliche Pflegeberichte einzelner Bewohner sind für diese Darstellung entbehrlich."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Seniorenresidenz Haus Birkenhain · Personalbüro",
+        "an": "Personalakte Ortrud Falckenstein",
+        "titel": "Tätigkeitsnachweis – Ortrud Falckenstein",
+        "text": [
+          "Ortrud Falckenstein · Seniorenresidenz Haus Birkenhain.",
+          "Examinierte Altenpflegerin seit dem 1. August 1995, seit dem 1. Januar 2010 zusätzlich Leitung des Wohnbereichs Lindenhof.",
+          "Verantwortung für die pflegerische Versorgung im Wohnbereich. Fachliche und disziplinarische Führung von 14 Pflegekräften. Pflegeprozessplanung einschließlich Sturzprophylaxe, Dekubitusprophylaxe und Schmerzmanagement."
+        ]
+      }
+    ]
+  },
+  "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/10-burchard-holzapfel-industriemechaniker": {
+    "bezug": [
+      "personalakte.md"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Frühschichtführung ab April 2018",
+        "von": "Burchard Holzapfel",
+        "an": "Meisterbüro Vogelsang, Werk II",
+        "text": [
+          "Ich war schon vor der Bestellung zur Schichtführung in der mechanischen Fertigung tätig. Für mein Zeugnis möchte ich die Arbeit an der Maschine und die spätere Einteilung der Frühschicht nachvollziehbar trennen. Habt ihr die damalige Übergaberegelung noch?"
+        ],
+        "datum": "2025-10-28"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Was Herr Holzapfel in welcher Rolle tat",
+        "von": "Meisterbüro Werk II",
+        "an": "Personalbüro",
+        "text": [
+          "Vorgang|Beleg im Werk|Zu unterscheiden",
+          "Fertigungsauftrag|Auftragsbegleitkarte|Eigener Arbeitsgang",
+          "Schichtstart|Einteilung am Brett|Zuordnung der Arbeiten",
+          "Übergabe|Schichtbuch|Weitergabe offener Störungen"
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Maschinenbau Vogelsang, Werk II · Personalbüro",
+        "an": "Personalakte Burchard Holzapfel",
+        "titel": "Tätigkeitsnachweis – Burchard Holzapfel",
+        "text": [
+          "Burchard Holzapfel · Maschinenbau Vogelsang, Werk II.",
+          "Industriemechaniker seit dem 1. März 2011, seit dem 1. April 2018 Schichtführer der Frühschicht.",
+          "Führung der Frühschicht in der mechanischen Fertigung mit neun Mitarbeitern. Einrichten und Bedienen konventioneller und CNC-gesteuerter Werkzeugmaschinen. Verantwortung für Material- und Werkzeugausgabe innerhalb der Schicht."
+        ]
+      }
+    ]
+  },
+  "scripts/data/pluginakten-praxis-2026-11-19/arbeitszeugnispruefer/Grundakte/Floristik": {
+    "bezug": [
+      "01_Kassenfrage.eml",
+      "02_Kassenabschluss_2026-05-30.csv"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "titel": "Kassenübernahme am Marktsamstag",
+        "von": "Wiebke Hagedorn",
+        "an": "Filialleitung Floristik",
+        "text": [
+          "Auf dem Zettel im Tresor stehen 39,80 Euro Differenz neben meiner Unterschrift. Ich habe die Kasse erst nach zwölf übernommen. Können wir den Übergabestand und den späteren Tagesabschluss getrennt ansehen, bevor das in unser Zeugnisgespräch einfließt?"
+        ],
+        "datum": "2026-06-04"
+      },
+      {
+        "typ": "chat",
+        "titel": "Zettel im Tresor",
+        "von": "Floristikteam",
+        "an": "Übergabe am Marktsamstag",
+        "text": [
+          "Wiebke: Auf meiner Kopie sehe ich nur die Endsumme. Gab es bei der Übergabe nach zwölf eine eigene Zählung?",
+          "Frühschicht: Der Abschlusszettel und das Blatt für die Übergabe sind verschiedene Dinge.",
+          "Wiebke: Dann bringt bitte beide Originale mit. Meine Unterschrift ist zu sehen, aber welche Zahl schon bei der Übernahme feststand, erkenne ich nicht."
+        ]
+      }
+    ]
+  }
+}

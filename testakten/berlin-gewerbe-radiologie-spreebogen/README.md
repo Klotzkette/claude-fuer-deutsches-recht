@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-berlin-gewerbe-radiologie-spreebogen.zip) · [Druckpaket 08](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-08.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/berlin-gewerbe-radiologie-spreebogen_gesamt.pdf`](gesamt-pdf/berlin-gewerbe-radiologie-spreebogen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-berlin-gewerbe-radiologie-spreebogen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-berlin-gewerbe-radiologie-spreebogen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-berlin-gewerbe-radiologie-spreebogen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-berlin-gewerbe-radiologie-spreebogen-einzelpdfs.zip) |

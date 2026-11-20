@@ -2,6 +2,8 @@
 
 Stand: v445.35.3, automatisch aktualisierte Asset-Übersicht
 
+[Vollständige Arbeitsakten mit Eingangspost und Druckpaketen](./docs/grundakten-lebenswelt/README.md)
+
 [Repository-Start](README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Skill-Gesamtübersicht](SKILLS.md) · [Schwerpunkt-Prompts](SCHWERPUNKTE.md) · [HOAI-Phasen-Werkstätten](docs/bauwirtschaft-hoai-phasen.md) · [Qualitätslabor](QUALITY.md) · [Testakten](testakten/README.md) · [Aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)
 
 ## Sammel-Assets

@@ -57,6 +57,18 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 312 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
+## Die lokale Übungsakte
+
+Für den ersten Durchgang öffnen Sie im Arbeits-ZIP `Grundakte/00_Posteingang`. Die vollständige Akte enthält auch die späteren Verfahrensstücke. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Fall | Originalunterlagen und Eingangspost | Lesefassungen |
+| --- | --- | --- |
+| Testakte BVerfG 1 BvR 2317/26 — Verfassungsbeschwerde wegen Verletzung des rechtlichen Gehörs | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-gericht-richter-bverfg-verfassungsbeschwerden.zip) | [Druckpaket 18](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-18.zip) |
+
 Aus einer vorliegenden Verfassungsbeschwerde und den fachgerichtlichen Entscheidungen entsteht ein Votum zur Zulässigkeit, Annahme und gegebenenfalls Begründetheit oder ein beauftragter Beschlussentwurf. Maßgeblich ist die gerichtliche Vorprüfung; fehlender Vortrag wird nicht aus der Sicht des Beschwerdeführers ergänzt oder als bereits erhoben behandelt.
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.
 
@@ -75,7 +87,7 @@ GG, BVerfGG, BVerfGGO, Geschäftsordnung BVerfG
 - Skills mit ihren Referenzen: siehe vollständige Liste unten. Werkstatt und Schnellstart sind separate Markdown-Dateien, keine zusätzlichen Skills.
 - **Werkstatt-Prompt** (`richter-bverfg-verfassungsbeschwerden-werkstatt.md`)
 - **Schnellstart-Prompt** (`richter-bverfg-verfassungsbeschwerden-schnellstart.md`)
-- **Testakte** (`testakte/README.md`) — aus Richtersicht
+- **Testakte** ([Aktenverzeichnis](testakte/README.md)) — aus Richtersicht
 
 ## Skill-Liste
 

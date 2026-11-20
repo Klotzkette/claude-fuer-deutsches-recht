@@ -46,6 +46,19 @@ Birkenpfuhl bietet Gesamt-PDF, Originaldateien-ZIP und Einzel-PDF-ZIP. Die beide
 Die Originalunterlagen, ZIPs und Builder der beiden lokalen Vertragsakten bleiben an ihren bisherigen Pfaden. Birkenpfuhl bleibt in der zentralen Testaktensammlung. Die drei Akten werden separat von der Plugin-Installation verwendet.
 <!-- END direkt-loslegen (autogen) -->
 
+### Schriftverkehr zum Vertragsentwurf
+
+Wählen Sie das Bauvorhaben und beginnen Sie mit den Erwerberunterlagen in `Grundakte/00_Posteingang`. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Fall | Originalunterlagen und Eingangspost | Lesefassungen |
+| --- | --- | --- |
+| Bauträgervertrag Hohenwartshofen | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-bautraeger-bautraegervertrag.zip) | [Druckpaket 05](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-05.zip) |
+| Bauträgervertrag Marewald | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-bautraeger-bautraegervertrag-marewald.zip) | [Druckpaket 05](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-05.zip) |
+
 ## 2. Die Mandatsrolle bestimmt die Bearbeitung
 
 | Rolle | Typische Aufgabe |

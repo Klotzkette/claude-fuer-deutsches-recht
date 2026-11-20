@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-aml-kanzlei-grundstueck-berlin.zip) · [Druckpaket 02](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-02.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/aml-kanzlei-grundstueck-berlin_gesamt.pdf`](gesamt-pdf/aml-kanzlei-grundstueck-berlin_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-aml-kanzlei-grundstueck-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-aml-kanzlei-grundstueck-berlin.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-aml-kanzlei-grundstueck-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/geldwaeschebeauftragter-v445.34.0/testakte-aml-kanzlei-grundstueck-berlin-einzelpdfs.zip) |

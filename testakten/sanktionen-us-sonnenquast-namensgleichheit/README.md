@@ -25,6 +25,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-sanktionen-us-sonnenquast-namensgleichheit.zip) · [Druckpaket 34](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-34.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/sanktionen-us-sonnenquast-namensgleichheit_gesamt.pdf`](gesamt-pdf/sanktionen-us-sonnenquast-namensgleichheit_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sanktionen-us-sonnenquast-namensgleichheit.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-sanktionen-us-sonnenquast-namensgleichheit.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sanktionen-us-sonnenquast-namensgleichheit-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-us-sonnenquast-namensgleichheit-einzelpdfs.zip) |

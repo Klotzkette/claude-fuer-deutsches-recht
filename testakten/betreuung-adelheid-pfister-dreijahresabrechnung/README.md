@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-betreuung-adelheid-pfister-dreijahresabrechnung.zip) · [Druckpaket 09](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-09.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/betreuung-adelheid-pfister-dreijahresabrechnung_gesamt.pdf`](gesamt-pdf/betreuung-adelheid-pfister-dreijahresabrechnung_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-betreuung-adelheid-pfister-dreijahresabrechnung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-betreuung-adelheid-pfister-dreijahresabrechnung.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-betreuung-adelheid-pfister-dreijahresabrechnung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/betreuungsrecht-v445.33.3/testakte-betreuung-adelheid-pfister-dreijahresabrechnung-einzelpdfs.zip) |

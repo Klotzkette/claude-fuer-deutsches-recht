@@ -19,6 +19,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-grundbuchamt-kopiererbrief.zip) · [Druckpaket 19](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-19.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/grundbuchamt-kopiererbrief_gesamt.pdf`](gesamt-pdf/grundbuchamt-kopiererbrief_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-grundbuchamt-kopiererbrief.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-grundbuchamt-kopiererbrief.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-grundbuchamt-kopiererbrief-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-grundbuchamt-kopiererbrief-einzelpdfs.zip) |

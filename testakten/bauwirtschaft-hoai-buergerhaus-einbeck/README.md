@@ -56,6 +56,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-bauwirtschaft-hoai-buergerhaus-einbeck.zip) · [Druckpaket 06](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-06.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bauwirtschaft-hoai-buergerhaus-einbeck_gesamt.pdf`](gesamt-pdf/bauwirtschaft-hoai-buergerhaus-einbeck_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bauwirtschaft-hoai-buergerhaus-einbeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-bauwirtschaft-hoai-buergerhaus-einbeck.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bauwirtschaft-hoai-buergerhaus-einbeck-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-bauwirtschaft-hoai-buergerhaus-einbeck-einzelpdfs.zip) |

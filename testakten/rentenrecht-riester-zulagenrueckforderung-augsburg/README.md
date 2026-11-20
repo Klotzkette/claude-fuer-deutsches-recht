@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-rentenrecht-riester-zulagenrueckforderung-augsburg.zip) · [Druckpaket 33](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-33.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf`](gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-riester-zulagenrueckforderung-augsburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-rentenrecht-riester-zulagenrueckforderung-augsburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-riester-zulagenrueckforderung-augsburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-rentenrecht-riester-zulagenrueckforderung-augsburg-einzelpdfs.zip) |

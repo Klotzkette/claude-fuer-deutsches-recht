@@ -33,6 +33,7 @@ Die Krimpfort SE & Co. KG beschafft Naturstein für die Sanierung eines fiktiven
 
 | Fassung | Download |
 | --- | --- |
+| **Vollakte mit Eingangspost** | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-bauunternehmer-einkauf-altstadt-bordsteine.zip) · [Druckpaket 05](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-05.zip) |
 | Originalformate mit Grundakte und Nachlauf | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-altstadt-bordsteine.zip) |
 | Einzelne Lesefassungen nach Aktenordner | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-altstadt-bordsteine-einzelpdfs.zip) |
 | Gesamte Lesefassung mit Lesezeichen | [Gesamt-PDF](gesamt-pdf/bauunternehmer-einkauf-altstadt-bordsteine_gesamt.pdf) |

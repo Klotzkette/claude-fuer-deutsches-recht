@@ -13,6 +13,7 @@ Beginnen Sie im Originalformat-ZIP mit `Grundakte`. Dort liegen die beim ersten 
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-bav-carve-out-rheinbogen-automation.zip) · [Druckpaket 07](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-07.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bav-carve-out-rheinbogen-automation_gesamt.pdf`](gesamt-pdf/bav-carve-out-rheinbogen-automation_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bav-carve-out-rheinbogen-automation.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.4/testakte-bav-carve-out-rheinbogen-automation.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bav-carve-out-rheinbogen-automation-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.4/testakte-bav-carve-out-rheinbogen-automation-einzelpdfs.zip) |

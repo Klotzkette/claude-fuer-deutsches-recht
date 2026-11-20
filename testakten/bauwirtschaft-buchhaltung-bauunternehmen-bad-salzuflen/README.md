@@ -47,6 +47,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen.zip) · [Druckpaket 06](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-06.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen_gesamt.pdf`](gesamt-pdf/bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen-einzelpdfs.zip) |

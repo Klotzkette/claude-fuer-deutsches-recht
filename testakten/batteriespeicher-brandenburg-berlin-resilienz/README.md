@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-batteriespeicher-brandenburg-berlin-resilienz.zip) · [Druckpaket 04](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-04.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf`](gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-batteriespeicher-brandenburg-berlin-resilienz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-batteriespeicher-brandenburg-berlin-resilienz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-batteriespeicher-brandenburg-berlin-resilienz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-batteriespeicher-brandenburg-berlin-resilienz-einzelpdfs.zip) |

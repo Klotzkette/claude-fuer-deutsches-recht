@@ -230,6 +230,18 @@ Schwellenwerte werden alle zwei Jahre angepasst. Für 2026/2027 gilt die Delegie
 
 Testakten mit vollständigen Vergabeunterlagen, Bieterunterlagen und Streitakten. Anonymisierte Beispiele aus realistischen Branchen (Reinigungsdienstleistung, IT-Beschaffung, Bauleistungen, Beratungsleistung, Rechenzentrumsbetrieb) sowie eine umfangreiche IT-SIG-2-Nachprüfungsakte für die Marktrollen.
 
+Für Übungen mit der ersten Post der Vergabestelle, des Bieters oder des Konkurrenten wählen Sie im [Katalog der Arbeitsakten mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen) einen der folgenden Fallordner. Öffnen Sie im Arbeits-ZIP zuerst `Grundakte/00_Posteingang`.
+
+| Fall | Fallordner im Katalog |
+| --- | --- |
+| Reinigung einer Grundschule in Musterstadt | `vergabewerkstatt-01-reinigung-grundschule-musterstadt` |
+| Laptops für das Landesamt Musterland | `vergabewerkstatt-02-laptopbeschaffung-landesamt-musterland` |
+| Bauleistungen für die Stadthalle Musterstadt | `vergabewerkstatt-03-bauleistung-stadthalle-musterstadt` |
+| IT-Beratung für das Ministerium Musterland | `vergabewerkstatt-04-it-beratung-ministerium-musterland` |
+| Auftragnehmerwechsel nach Insolvenz | `vergabewerkstatt-05-insolvenz-auftragnehmerwechsel-132-gwb` |
+| Rechenzentrum im Musterkreis | `vergabewerkstatt-06-konkurrentenrechtsschutz-rechenzentrum-musterkreis` |
+| IT-Sicherheitsvergabe in Schwerin | `vergabewerkstatt-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung` |
+
 ## Dashboard- und Applet-Arbeitsweise
 
 Alle drei Plugins sind als geführte Workbench angelegt. Bei komplexen Vergaben oder Streitfällen sollen sie nicht mit langen allgemeinen Erläuterungen starten, sondern mit einem kompakten Arbeitsdashboard:

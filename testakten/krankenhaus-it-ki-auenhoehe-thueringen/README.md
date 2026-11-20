@@ -18,6 +18,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-krankenhaus-it-ki-auenhoehe-thueringen.zip) · [Druckpaket 27](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-27.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/krankenhaus-it-ki-auenhoehe-thueringen_gesamt.pdf`](gesamt-pdf/krankenhaus-it-ki-auenhoehe-thueringen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-krankenhaus-it-ki-auenhoehe-thueringen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-krankenhaus-it-ki-auenhoehe-thueringen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-krankenhaus-it-ki-auenhoehe-thueringen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/krankenhaus-it-ki-v445.33.1/testakte-krankenhaus-it-ki-auenhoehe-thueringen-einzelpdfs.zip) |

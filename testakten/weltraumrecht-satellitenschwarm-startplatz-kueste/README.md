@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip) · [Druckpaket 45](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-45.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/weltraumrecht-satellitenschwarm-startplatz-kueste_gesamt.pdf`](gesamt-pdf/weltraumrecht-satellitenschwarm-startplatz-kueste_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-weltraumrecht-satellitenschwarm-startplatz-kueste-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-2-v445.35.3/testakte-weltraumrecht-satellitenschwarm-startplatz-kueste-einzelpdfs.zip) |

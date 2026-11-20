@@ -70,6 +70,18 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
+## Die lokale Übungsakte
+
+Für den ersten Durchgang öffnen Sie im Arbeits-ZIP `Grundakte/00_Posteingang`. Die vollständige Akte enthält auch die späteren Verfahrensstücke. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Fall | Originalunterlagen und Eingangspost | Lesefassungen |
+| --- | --- | --- |
+| Testakte AG Musterstadt 5 Ds 142 Js 8910/26 — Diebstahl eines Pedelecs mit streitiger Privatvideoaufnahme | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-gericht-richter-amtsgericht-straf.zip) | [Druckpaket 17](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-17.zip) |
+
 Wenn du das hier öffnest, willst du eine Strafsache am Amtsgericht richterlich vorbereiten: Eröffnung, Hauptverhandlung, Beweisaufnahme, Beweiswürdigung, Tenor, Strafzumessung und Urteilsgründe.
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.
 
@@ -88,7 +100,7 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 - Skills mit ihren Referenzen: siehe vollständige Liste unten. Werkstatt und Schnellstart sind separate Markdown-Dateien, keine zusätzlichen Skills.
 - **Werkstatt-Prompt** (`richter-amtsgericht-straf-werkstatt.md`)
 - **Schnellstart-Prompt** (`richter-amtsgericht-straf-schnellstart.md`)
-- **Testakte** (`testakte/README.md`) — aus Richtersicht
+- **Testakte** ([Aktenverzeichnis](testakte/README.md)) — aus Richtersicht
 
 ## Skill-Liste
 

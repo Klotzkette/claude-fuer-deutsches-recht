@@ -19,6 +19,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-markenamt-rumpelrad.zip) · [Druckpaket 28](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-28.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/markenamt-rumpelrad_gesamt.pdf`](gesamt-pdf/markenamt-rumpelrad_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-markenamt-rumpelrad.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-markenamt-rumpelrad.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-markenamt-rumpelrad-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-markenamt-rumpelrad-einzelpdfs.zip) |
