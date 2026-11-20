@@ -11,7 +11,9 @@ from email.parser import BytesParser
 from pathlib import Path
 from zipfile import ZipFile
 
+from akteneingang.fassungspruefung import fachvergleich, veroeffentlichter_bestand
 from akteneingang.quellen import ROOT, Sources, catalogs, digest, editorial, members
+from akteneingang.vertiefung import fachauswahl
 from akteneingang.verweise import routes
 from docx import Document
 from openpyxl import load_workbook
@@ -26,7 +28,19 @@ def require(condition, message):
 
 
 def verify(job):
-    _case, slug, group, record, article, index, dist, cache, local_index = job
+    (
+        _case,
+        slug,
+        group,
+        record,
+        article,
+        index,
+        dist,
+        cache,
+        local_index,
+        prior,
+        local,
+    ) = job
     filename = "lebensakte-" + slug + ".zip"
     data = (dist / filename).read_bytes()
     require(digest(data) == index["original"]["sha256"], slug + " Originalhash")
@@ -47,6 +61,8 @@ def verify(job):
     )
     existing = {digest(blob) for name, blob in archive.items() if name not in incoming}
     sources = Sources(cache, local_index)
+    if prior:
+        fachvergleich(archive, article, prior, local, sources)
     for version in ("source", "praxis", "vertieft"):
         if version in record:
             old = members(sources.read(record[version]))
@@ -138,6 +154,12 @@ def main():
     parser.add_argument("--cache", type=Path)
     parser.add_argument("--local-index", type=Path)
     parser.add_argument("--jobs", type=int, default=3)
+    parser.add_argument("--vertiefung", action="store_true")
+    parser.add_argument(
+        "--vorstand",
+        type=Path,
+        help="Lokale Kopie der geprüften Gesamtausgabe für den Vorher-Nachher-Vergleich",
+    )
     args = parser.parse_args()
     catalog = catalogs()
     articles = editorial()
@@ -153,6 +175,10 @@ def main():
         "Zentralbestand unvollständig",
     )
     require(set(catalog) == set(articles), "Unvollständige Zuordnung")
+    previous = {}
+    if args.vertiefung:
+        catalog, articles, mapping = fachauswahl(catalog, articles)
+        previous = veroeffentlichter_bestand(args.vorstand)
     index = json.loads((args.dist / "release-bestand.json").read_text())
     require(set(index) == {s for s, g in mapping.values()}, "Fehlende Ausgabe")
     expected = (
@@ -182,6 +208,8 @@ def main():
             args.dist,
             args.cache,
             args.local_index,
+            previous[slug] if args.vertiefung else None,
+            args.vorstand,
         )
         for case, (slug, group) in mapping.items()
     ]

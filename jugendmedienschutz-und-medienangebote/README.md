@@ -47,7 +47,7 @@ Die erste Projektpost zum Browsergame liegt in `Grundakte/00_Posteingang`. Von d
 
 | Fall | Originalunterlagen und Eingangspost | Lesefassungen |
 | --- | --- | --- |
-| Wolkenwerft und das Browsergame Inselatlas | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-jugendmedien-wolkenwerft.zip) | [Druckpaket 24](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-24.zip) |
+| Wolkenwerft und das Browsergame Inselatlas | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-jugendmedien-wolkenwerft.zip) | [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-jugendmedien-wolkenwerft.zip) |
 
 ## 4. Rechtsstand und Grenzen
 

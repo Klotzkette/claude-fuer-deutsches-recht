@@ -2,6 +2,8 @@
 
 # 1. Sozialrecht für Laien
 
+[Grundakten für Sozialrecht mit Eingangspost, Rückfragen und Belegen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/Fachakten.md#sozialrecht)
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 <!-- decimal-anchor --> <a id="was-ist-das-hier"></a>
 

@@ -29,7 +29,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-vvt-praxis-rosenquell-bamberg.zip) · [Druckpaket 44](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-44.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-vvt-praxis-rosenquell-bamberg.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-vvt-praxis-rosenquell-bamberg.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/vvt-praxis-rosenquell-bamberg_gesamt.pdf`](gesamt-pdf/vvt-praxis-rosenquell-bamberg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-vvt-praxis-rosenquell-bamberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-vvt-praxis-rosenquell-bamberg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-vvt-praxis-rosenquell-bamberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/verarbeitungsverzeichnis-v1.0.0/testakte-vvt-praxis-rosenquell-bamberg-einzelpdfs.zip) |

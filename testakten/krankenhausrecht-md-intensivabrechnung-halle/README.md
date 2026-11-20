@@ -13,7 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-krankenhausrecht-md-intensivabrechnung-halle.zip) · [Druckpaket 27](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-27.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-krankenhausrecht-md-intensivabrechnung-halle.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-krankenhausrecht-md-intensivabrechnung-halle.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/krankenhausrecht-md-intensivabrechnung-halle_gesamt.pdf`](gesamt-pdf/krankenhausrecht-md-intensivabrechnung-halle_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-krankenhausrecht-md-intensivabrechnung-halle.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/testakte-krankenhausrecht-md-intensivabrechnung-halle.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-krankenhausrecht-md-intensivabrechnung-halle-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/testakte-krankenhausrecht-md-intensivabrechnung-halle-einzelpdfs.zip) |

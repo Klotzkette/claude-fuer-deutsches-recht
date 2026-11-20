@@ -13,7 +13,7 @@ Beginnen Sie im Originalformat-ZIP mit `Grundakte`. Dort liegen die beim ersten 
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) · [Druckpaket 07](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-07.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf`](gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.4/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.4/testakte-bav-strategie-konzern-meissner-rheinwerk-ag-einzelpdfs.zip) |

@@ -25,6 +25,8 @@ Ein möglicher Einstieg: „Ich vertrete die antragstellende Person. Lesen Sie d
 
 ### 1.1 Mit den Eingangsunterlagen beginnen
 
+Die [Fachauswahl mit fortgeführter Eingangspost](../docs/grundakten-lebenswelt/Fachakten.md) führt direkt zu den fünf Rechtsgebieten und ihren Arbeits-ZIPs.
+
 Der [Fallkatalog mit Eingangspost](../docs/grundakten-lebenswelt/README.md) führt zu den vollständigen Originalformat-ZIPs aller 633 zentralen Akten sowie zu den weiteren Plugin- und Projektakten. Im Ordner `Grundakte/00_Posteingang` liegen die fallbezogenen Nachrichten und Rückfragen zum Einstieg. Die folgenden Sammelpakete dokumentieren frühere Bearbeitungsstände. Das Paket für 512 Fälle enthält einen Ordner `Grundakte`. Er bündelt die belegbaren Ausgangsunterlagen für die erste Bearbeitung. Entpacken Sie die Akte und laden Sie für diesen Arbeitsschritt nur den Ordner `Grundakte`. Die Ergänzung enthält 13 weitere Originalformat-ZIPs mit Grundakte. Die Fallseiten verlinken die Einzel-ZIPs und die Lesefassung. Das gesonderte Paket mit 60 Fällen aus Steuerrecht, Forderungsmanagement, Pflege und Sozialversicherungsstatus steht ebenfalls hier zum Download bereit.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.

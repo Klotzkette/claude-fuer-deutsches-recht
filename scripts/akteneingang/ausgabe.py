@@ -12,7 +12,9 @@ from zipfile import ZipFile
 from pypdf import PdfReader, PdfWriter
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
 
-from .dokumente import add_member, render, simple
+from .arbeitsfassungen import ergaenze
+from .dokumente import add_member, render
+from .korrespondenz import poststuecke
 from .quellen import ROOT, digest, localpath, members, safe_member
 
 
@@ -217,14 +219,13 @@ def build(case, record, redaktion, sources):
     if not any(n.startswith("Grundakte/") for n in native):
         for name in record.get("eingang", []):
             native["Grundakte/" + name] = native.pop(name)
+    if redaktion.get("fortschreibungen"):
+        ergaenze(native, printed, redaktion["fortschreibungen"])
     added_native, added_print = {}, {}
     docs = redaktion["unterlagen"]
     if len(docs) < 2 or len({d["typ"] for d in docs}) < 2 or not redaktion["bezug"]:
         raise ValueError("Unvollständige Eigenredaktion: " + case)
-    for number, item in enumerate(docs, 1):
-        identity = f"{case}/{number}/{item['titel']}"
-        ext, original, pdf = render(item, identity)
-        stem = f"{number:02d}_" + simple(item["titel"])[:82].rstrip("-")
+    for stem, ext, original, pdf in poststuecke(case, docs):
         name = "Grundakte/00_Posteingang/" + stem + "." + ext
         if name in native:
             raise ValueError("Namenskollision: " + name)

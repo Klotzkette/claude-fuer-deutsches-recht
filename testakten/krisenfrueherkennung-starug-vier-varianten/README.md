@@ -13,7 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-krisenfrueherkennung-starug-vier-varianten.zip) · [Druckpaket 27](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-27.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-krisenfrueherkennung-starug-vier-varianten.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-krisenfrueherkennung-starug-vier-varianten.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/krisenfrueherkennung-starug-vier-varianten_gesamt.pdf`](gesamt-pdf/krisenfrueherkennung-starug-vier-varianten_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-krisenfrueherkennung-starug-vier-varianten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-ergaenzung-v1.0.0/testakte-krisenfrueherkennung-starug-vier-varianten.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-krisenfrueherkennung-starug-vier-varianten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-ergaenzung-v1.0.0/testakte-krisenfrueherkennung-starug-vier-varianten-einzelpdfs.zip) |

@@ -1,0 +1,28 @@
+{
+  "tag": "grundakten-fachakten-v1.1.0",
+  "ausgangsedition": "grundakten-lebenswelt-v1.0.0",
+  "originalarchive": 268,
+  "druckfassungen": 267,
+  "fachzuordnungen": {
+    "Datenschutzrecht": 70,
+    "Gesellschaftsrecht": 77,
+    "Insolvenzrecht": 65,
+    "Kündigungsschutz und Arbeitsrecht": 63,
+    "Sozialrecht": 64
+  },
+  "fortgeschriebene_eingangsdokumente": 302,
+  "zusaetzliche_arbeitsfassungen": 10,
+  "weitere_belege": 623,
+  "eingangspost_insgesamt": 1164,
+  "neue_nach_form": {
+    "brief": 7,
+    "chat": 8,
+    "eml": 311,
+    "notiz": 195,
+    "tabelle": 102
+  },
+  "bezogene_antworten": 284,
+  "eingebettete_anlagen": 99,
+  "bestand_sha256": "f37390f954204f7315de91651cca858fa245f14beb266945b03d7344eb5df7d3",
+  "pruefsummenliste_sha256": "4cf7a8cf44481d44a1fbd4709a790ccc28e5bade6ec3b71f65a93a32c5cfa071"
+}

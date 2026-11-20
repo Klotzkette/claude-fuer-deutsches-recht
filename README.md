@@ -2,7 +2,7 @@
 
 **Plugins, Skills und Prompts für die deutsche Rechtspraxis.** Die Sammlung richtet sich an Kanzleien, Rechtsabteilungen und Berater. Sie hilft dabei, Akten zu erschließen, Quellen zu prüfen und Verträge, Schriftsätze, Memos oder Entscheidungsvorlagen auszuarbeiten. Mit den Testakten kannst du die Arbeitsabläufe an erfundenen Fällen erproben.
 
-[Fallauswahl für den Workshop: vollständige Arbeitsakten mit Eingangspost](./docs/grundakten-lebenswelt/README.md)
+[Fallauswahl für den Workshop: vollständige Arbeitsakten mit Eingangspost](./docs/grundakten-lebenswelt/README.md) · [Fachakten mit Schriftwechsel nach Rechtsgebiet](./docs/grundakten-lebenswelt/Fachakten.md)
 
 [Schnellstart](#schnellstart) · [Plugin-Katalog](#was-ist-drin) · [Skills](./SKILLS.md) · [Werkstatt-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) · [Mini-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) · [Testakten](./testakten/README.md) · [Downloads](./ASSET_INDEX.md) · [Installation](./INSTALLATION_EINFACH.md) · [English](#english-quick-guide)
 

@@ -54,6 +54,8 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 ## Zugeordnete Testakten
 
+[Grundakten für Sozialrecht mit Eingangspost, Rückfragen und Belegen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/Fachakten.md#sozialrecht)
+
 Entpacken Sie das Originalformat-ZIP und laden Sie für den ersten Durchlauf nur `Grundakte`. Dort liegen die Eingangsunterlagen, einschließlich eines gegebenenfalls anzufechtenden Ausgangsbescheids. Die späteren Verfahrensstücke liegen außerhalb dieses Ordners. Die Gesamt-PDF ist separat abrufbar.
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.

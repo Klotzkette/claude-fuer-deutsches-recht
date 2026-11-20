@@ -5,6 +5,8 @@ from __future__ import annotations
 from functools import lru_cache
 
 from .quellen import URL, catalogs
+from .vertiefung import TAG as FACHTAG
+from .vertiefung import fachredaktion
 
 TAG = "grundakten-lebenswelt-v1.0.0"
 
@@ -26,8 +28,19 @@ def all_routes():
     return routes(catalogs())
 
 
-def links(key):
+@lru_cache(maxsize=1)
+def fachpfade():
+    return frozenset(fachredaktion())
+
+
+def links(key, historisch=False):
     slug, group = all_routes()[key]
+    if not historisch and key in fachpfade():
+        base = URL + FACHTAG + "/"
+        return (
+            f"[Arbeits-ZIP mit Eingangspost]({base}lebensakte-{slug}.zip)",
+            f"[Druckfassungen dieses Falls]({base}druckakte-{slug}.zip)",
+        )
     base = URL + TAG + "/"
     return (
         f"[Arbeits-ZIP mit Eingangspost]({base}lebensakte-{slug}.zip)",
@@ -35,11 +48,11 @@ def links(key):
     )
 
 
-def central_row(slug, columns=3):
+def central_row(slug, columns=3, historisch=False):
     key = "testakten/" + slug
     if key not in all_routes():
         return ""
-    native, group = links(key)
+    native, group = links(key, historisch)
     label = "Vollakte mit Eingangspost"
     return (
         f"| **{label}** | ZIP | {native} · {group} |"

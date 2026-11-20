@@ -18,7 +18,7 @@ from zoneinfo import ZoneInfo
 
 import reportlab
 from docx import Document
-from docx.shared import Cm, Pt
+from docx.shared import Cm, Pt, RGBColor
 from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
@@ -216,6 +216,18 @@ def read_pdf(item):
         par(item["von"], "Helvetica-Bold", 10, 13),
         par("An " + item["an"], "Helvetica", 10, 13),
     ]
+    if item.get("_fachfassung") and kind == "brief":
+        story = [
+            par(item["von"], "Helvetica-Bold", 16, 20, accent),
+            Spacer(1, 30),
+            par(item["an"], "Helvetica", 11, 15),
+            Spacer(1, 25),
+            par(item["titel"], "Times-Bold", 14, 18),
+        ]
+    if item.get("_antworttitel"):
+        story.append(par("Bezug: " + item["_antworttitel"], "Helvetica", 9, 13))
+    if item.get("_anlagetitel"):
+        story.append(par("Anlage: " + item["_anlagetitel"], "Helvetica", 9, 13))
     if item.get("datum"):
         story.append(
             par(
@@ -329,9 +341,32 @@ def render(item, identity):
         doc.sections[0].header.paragraphs[0].text = item["von"]
         doc.sections[0].left_margin = Cm(2.5)
         doc.add_heading(item["titel"], 0)
-        doc.add_paragraph(
-            "Für " + item["an"] + ("  ·  " + item["datum"] if item.get("datum") else "")
-        )
+        if item.get("_fachfassung"):
+            kopf = doc.sections[0].header.paragraphs[0].runs[0]
+            kopf.font.name = "Calibri"
+            kopf.font.size = Pt(10)
+            kopf.font.color.rgb = RGBColor.from_string("285763")
+            doc.sections[0].top_margin = Cm(2.7)
+            norm.paragraph_format.space_after = Pt(9)
+            norm.paragraph_format.line_spacing = 1.16
+            block = doc.add_table(rows=0, cols=2)
+            fakten = [("Aufgenommen von", item["von"]), ("Für", item["an"])]
+            if item.get("datum"):
+                fakten.append(
+                    ("Datum", date.fromisoformat(item["datum"]).strftime("%d.%m.%Y"))
+                )
+            for feld, wert in fakten:
+                left, right = block.add_row().cells
+                left.width = Cm(4)
+                left.paragraphs[0].add_run(feld).italic = True
+                right.paragraphs[0].add_run(wert)
+            doc.add_paragraph()
+        else:
+            doc.add_paragraph(
+                "Für "
+                + item["an"]
+                + ("  ·  " + item["datum"] if item.get("datum") else "")
+            )
         for line in item["text"]:
             doc.add_paragraph(line)
         return "docx", office_bytes(doc), printed
