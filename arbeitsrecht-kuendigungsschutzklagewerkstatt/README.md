@@ -203,12 +203,6 @@ Die zusätzlichen Angaben aus dem Mandantengespräch und die Quellenprüfung ste
 
 Die ursprüngliche Workshopfassung enthält die einzelnen PDFs und README.txt in einem ZIP. Die fünf bisherigen Fallfassungen behalten ihre drei Ausgabeformen.
 
-> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
->
-> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
-
-[Uferwerk-PDF-Akte als ZIP](testakte/downloads/testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip)
-
 Für einen Einstieg mit der ersten Mandantenpost enthält die vollständige Arbeitsakte zusätzlich `Grundakte/00_Posteingang`. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
@@ -218,6 +212,7 @@ Für einen Einstieg mit der ersten Mandantenpost enthält die vollständige Arbe
 | Fall | Originalunterlagen und Eingangspost | Lesefassungen |
 | --- | --- | --- |
 | Muster gegen Uferwerk – Berufung | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-arbeitsrecht-muster-uferwerk-berufung.zip) | [Druckpaket 04](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-04.zip) |
+| Uferwerk-Berufungsakte in 94 Einzel-PDFs | [Uferwerk-PDF-Akte als ZIP](testakte/downloads/testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip) | PDF-Akte |
 
 ## 1.5. Rechtsprechung mit ihrem passenden Anwendungsbereich
 
