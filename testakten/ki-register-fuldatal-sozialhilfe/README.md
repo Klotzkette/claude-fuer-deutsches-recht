@@ -16,6 +16,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-ki-register-fuldatal-sozialhilfe.zip) · [Druckpaket 26](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-26.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/ki-register-fuldatal-sozialhilfe_gesamt.pdf`](gesamt-pdf/ki-register-fuldatal-sozialhilfe_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-register-fuldatal-sozialhilfe.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-ergaenzung-v1.0.0/testakte-ki-register-fuldatal-sozialhilfe.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-register-fuldatal-sozialhilfe-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-register-fuldatal-sozialhilfe-einzelpdfs.zip) |

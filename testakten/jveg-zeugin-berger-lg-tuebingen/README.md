@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-jveg-zeugin-berger-lg-tuebingen.zip) · [Druckpaket 24](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-24.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/jveg-zeugin-berger-lg-tuebingen_gesamt.pdf`](gesamt-pdf/jveg-zeugin-berger-lg-tuebingen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-jveg-zeugin-berger-lg-tuebingen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-jveg-zeugin-berger-lg-tuebingen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-jveg-zeugin-berger-lg-tuebingen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-jveg-zeugin-berger-lg-tuebingen-einzelpdfs.zip) |

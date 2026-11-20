@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz.zip) · [Druckpaket 40](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-40.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf`](gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz-einzelpdfs.zip) |

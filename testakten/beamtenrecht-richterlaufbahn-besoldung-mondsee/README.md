@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip) · [Druckpaket 07](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-07.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/beamtenrecht-richterlaufbahn-besoldung-mondsee_gesamt.pdf`](gesamt-pdf/beamtenrecht-richterlaufbahn-besoldung-mondsee_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee-einzelpdfs.zip) |

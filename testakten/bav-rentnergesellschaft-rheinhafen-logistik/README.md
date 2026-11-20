@@ -13,6 +13,7 @@ Beginnen Sie im Originalformat-ZIP mit `Grundakte`. Dort liegen die beim ersten 
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-bav-rentnergesellschaft-rheinhafen-logistik.zip) · [Druckpaket 07](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-07.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bav-rentnergesellschaft-rheinhafen-logistik_gesamt.pdf`](gesamt-pdf/bav-rentnergesellschaft-rheinhafen-logistik_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bav-rentnergesellschaft-rheinhafen-logistik.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.4/testakte-bav-rentnergesellschaft-rheinhafen-logistik.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bav-rentnergesellschaft-rheinhafen-logistik-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bav-strategie-konzern-v445.36.4/testakte-bav-rentnergesellschaft-rheinhafen-logistik-einzelpdfs.zip) |

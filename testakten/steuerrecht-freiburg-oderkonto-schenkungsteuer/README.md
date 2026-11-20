@@ -21,6 +21,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-steuerrecht-freiburg-oderkonto-schenkungsteuer.zip) · [Druckpaket 39](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-39.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/steuerrecht-freiburg-oderkonto-schenkungsteuer_gesamt.pdf`](gesamt-pdf/steuerrecht-freiburg-oderkonto-schenkungsteuer_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-steuerrecht-freiburg-oderkonto-schenkungsteuer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-steuerrecht-freiburg-oderkonto-schenkungsteuer.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-steuerrecht-freiburg-oderkonto-schenkungsteuer-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-oderkonto-v1.0.1/testakte-steuerrecht-freiburg-oderkonto-schenkungsteuer-einzelpdfs.zip) |

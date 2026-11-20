@@ -23,6 +23,7 @@ Alle Unternehmen, Personen, Vorgänge und betrieblichen Daten sind erfunden. Kon
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-forderungsmanagement-baeckerei-behaeltertausch-hamburg.zip) · [Druckpaket 17](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-17.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/forderungsmanagement-baeckerei-behaeltertausch-hamburg_gesamt.pdf`](gesamt-pdf/forderungsmanagement-baeckerei-behaeltertausch-hamburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-forderungsmanagement-baeckerei-behaeltertausch-hamburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsakten-v1.0.0/testakte-forderungsmanagement-baeckerei-behaeltertausch-hamburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-forderungsmanagement-baeckerei-behaeltertausch-hamburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsakten-v1.0.0/testakte-forderungsmanagement-baeckerei-behaeltertausch-hamburg-einzelpdfs.zip) |

@@ -307,6 +307,8 @@ class DownloadNoticeTests(unittest.TestCase):
             '<a href="alle-testakten-einzelpdfs.zip">Einzel-PDFs</a>\n</p>\n',
             '> [Sammelpaket](alles-komplettpaket.zip)\n',
             '[PDF](<testakte/gesamt-pdf/testakte_gesamt.pdf> "Lesefassung")\n',
+            '[Posteingang](lebensakte-arbeitsrecht-muster-uferwerk-berufung.zip)\n',
+            '[Lesefassungen](lesepaket-02.zip)\n',
         )
         for group in groups:
             with self.subTest(group=group):
@@ -391,6 +393,7 @@ class DownloadNoticeTests(unittest.TestCase):
         paths = set(download_readmes(ROOT))
         for relative in (
             "README.md", "ASSET_INDEX.md", "testakten/README.md", "mietrecht/README.md",
+            "docs/grundakten-lebenswelt/README.md",
             "gerichtsplugins/richter-landgericht-strafkammer/README.md",
             "arbeitszeugnispruefer/testakte/arbeitszeugnis-analyse-bluehendes-leben/README.md",
         ):

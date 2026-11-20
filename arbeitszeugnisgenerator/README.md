@@ -59,6 +59,27 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 Aus Personalunterlagen entsteht ein deutsches Arbeitszeugnis mit zutreffenden Tätigkeiten und klarer Sprache. Bei einem qualifizierten Zeugnis muss die gewünschte Bewertung durch Tatsachen getragen sein; ein einfaches Zeugnis bleibt bewertungsfrei.
 
+## Personalakten für die Zeugniserstellung
+
+Öffnen Sie die Akte einer Person und beginnen Sie mit der Korrespondenz in `Grundakte/00_Posteingang`. Tätigkeitsnachweise, Personalunterlagen und spätere Ergänzungen stehen in derselben Akte. [Fallordner im Druckpaket nachschlagen](../docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Fall | Originalunterlagen und Eingangspost | Lesefassungen |
+| --- | --- | --- |
+| Gunhilde Brachvogel-Riemenschneider · PTA | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-personalakte-01-gunhilde-brachvogel-riemenschneider-pta.zip) | [Druckpaket 31](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-31.zip) |
+| Volkmar Eitel-Hartung · Rechtsanwalt | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-personalakte-02-volkmar-eitel-hartung-rechtsanwalt.zip) | [Druckpaket 31](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-31.zip) |
+| Edelgard Schwerdtfeger · MTA Radiologie | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-personalakte-03-edelgard-schwerdtfeger-mta-radiologie.zip) | [Druckpaket 31](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-31.zip) |
+| Friedhelm Poettering · Lagermeister | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-personalakte-04-friedhelm-poettering-lagermeister.zip) | [Druckpaket 31](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-31.zip) |
+| Walpurga Dietrichsen-Hofstätter · ZFA | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-personalakte-05-walpurga-dietrichsen-hofstaetter-zfa.zip) | [Druckpaket 31](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-31.zip) |
+| Reinhilde Eisenträger · Filialleiterin einer Sparkasse | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-personalakte-06-reinhilde-eisentraeger-filialleiterin-sparkasse.zip) | [Druckpaket 31](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-31.zip) |
+| Dietram Auerwald-Bornhoeft · Spedition | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-personalakte-07-dietram-auerwald-bornhoeft-spedition.zip) | [Druckpaket 31](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-31.zip) |
+| Hartmut Greifenklau · Empfangsleiter im Hotel | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-personalakte-08-hartmut-greifenklau-hotel-empfangsleiter.zip) | [Druckpaket 31](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-31.zip) |
+| Ortrud Falckenstein · Altenpflegerin | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-personalakte-09-ortrud-falckenstein-altenpflegerin.zip) | [Druckpaket 31](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-31.zip) |
+| Burchard Holzapfel · Industriemechaniker | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-personalakte-10-burchard-holzapfel-industriemechaniker.zip) | [Druckpaket 31](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-31.zip) |
+
 ## Wenn du das brauchst
 
 - **Personalabteilung** muss für einen ausscheidenden Mitarbeiter ein qualifiziertes Arbeitszeugnis erstellen und braucht passende Formeln zur Wunschnote.

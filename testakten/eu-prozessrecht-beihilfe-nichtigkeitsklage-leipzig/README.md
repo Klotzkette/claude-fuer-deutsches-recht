@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig.zip) · [Druckpaket 16](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-16.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig_gesamt.pdf`](gesamt-pdf/eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/testakte-eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig-einzelpdfs.zip) |

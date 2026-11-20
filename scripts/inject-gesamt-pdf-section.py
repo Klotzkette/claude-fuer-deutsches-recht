@@ -42,6 +42,9 @@ MARKER_BEGIN = "<!-- BEGIN gesamt-pdf-section (autogen) -->"
 MARKER_END = "<!-- END gesamt-pdf-section (autogen) -->"
 
 
+from akteneingang.verweise import central_row
+
+
 def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -> str:
     zip_url = case_asset_url(slug, root=REPO_ROOT)
     einzel_url = case_asset_url(slug, "-einzelpdfs", root=REPO_ROOT)
@@ -183,6 +186,9 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
                    'Die ZIPs enthalten nur die Arbeitsunterlagen und den Herkunftshinweis.')
         english = ('English: Begin with the initial records in `Grundakte`. Both ZIP editions retain '
                    'the separate stages. The combined PDF includes bookmarks for individual documents.')
+    intake_row = central_row(slug)
+    if intake_row:
+        rows = intake_row + "\n" + rows
     return f"""{MARKER_BEGIN}
 ## Akte komplett herunterladen
 

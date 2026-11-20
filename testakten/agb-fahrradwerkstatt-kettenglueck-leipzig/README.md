@@ -23,6 +23,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-agb-fahrradwerkstatt-kettenglueck-leipzig.zip) · [Druckpaket 01](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-01.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/agb-fahrradwerkstatt-kettenglueck-leipzig_gesamt.pdf`](gesamt-pdf/agb-fahrradwerkstatt-kettenglueck-leipzig_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-agb-fahrradwerkstatt-kettenglueck-leipzig.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-agb-fahrradwerkstatt-kettenglueck-leipzig.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-agb-fahrradwerkstatt-kettenglueck-leipzig-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/agb-werkstatt-v1.0.0/testakte-agb-fahrradwerkstatt-kettenglueck-leipzig-einzelpdfs.zip) |

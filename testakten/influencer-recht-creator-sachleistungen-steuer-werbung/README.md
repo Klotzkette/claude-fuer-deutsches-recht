@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip) · [Druckpaket 21](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-21.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/influencer-recht-creator-sachleistungen-steuer-werbung_gesamt.pdf`](gesamt-pdf/influencer-recht-creator-sachleistungen-steuer-werbung_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-influencer-recht-creator-sachleistungen-steuer-werbung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-influencer-recht-creator-sachleistungen-steuer-werbung-einzelpdfs.zip) |

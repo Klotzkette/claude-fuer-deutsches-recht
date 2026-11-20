@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock.zip) · [Druckpaket 39](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-39.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock_gesamt.pdf`](gesamt-pdf/steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-steuer-kleinbetrieb-sachbezuege-lohnpruefung-rostock-einzelpdfs.zip) |

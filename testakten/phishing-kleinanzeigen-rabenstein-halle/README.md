@@ -29,6 +29,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-phishing-kleinanzeigen-rabenstein-halle.zip) · [Druckpaket 31](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-31.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/phishing-kleinanzeigen-rabenstein-halle_gesamt.pdf`](gesamt-pdf/phishing-kleinanzeigen-rabenstein-halle_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-phishing-kleinanzeigen-rabenstein-halle.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-phishing-kleinanzeigen-rabenstein-halle.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-phishing-kleinanzeigen-rabenstein-halle-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/phishing-v445.35.4/testakte-phishing-kleinanzeigen-rabenstein-halle-einzelpdfs.zip) |

@@ -27,6 +27,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-jva-nrw-unterbringung-gesundheit.zip) · [Druckpaket 24](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-24.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/jva-nrw-unterbringung-gesundheit_gesamt.pdf`](gesamt-pdf/jva-nrw-unterbringung-gesundheit_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-jva-nrw-unterbringung-gesundheit.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-jva-nrw-unterbringung-gesundheit.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-jva-nrw-unterbringung-gesundheit-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/testakte-jva-nrw-unterbringung-gesundheit-einzelpdfs.zip) |

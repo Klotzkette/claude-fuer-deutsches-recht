@@ -32,7 +32,11 @@ def is_case_download(destination: str, *, case_readme: bool = False) -> bool:
     name = path.rsplit("/", 1)[-1]
     parts = path.split("/")
     if name.endswith(".zip"):
-        return "testakte" in name or name == "alles-komplettpaket.zip"
+        return (
+            "testakte" in name or name == "alles-komplettpaket.zip"
+            or name.startswith("lebensakte-")
+            or re.fullmatch(r"lesepaket-[0-9]{2}\.zip", name) is not None
+        )
     if not name.endswith(".pdf"):
         return False
     return (
@@ -112,7 +116,7 @@ def ensure_download_notices(text: str, *, case_readme: bool = False) -> str:
 
 def download_readmes(root: Path) -> list[Path]:
     """Only README/download documentation, never skills or source documents."""
-    paths = {root / "README.md", root / "ASSET_INDEX.md"}
+    paths = {root / "README.md", root / "ASSET_INDEX.md", root / "docs/grundakten-lebenswelt/README.md"}
     paths.update(root.glob("*/README.md"))
     paths.update((root / "testakten").rglob("README.md"))
     marketplace = root / ".claude-plugin" / "marketplace.json"

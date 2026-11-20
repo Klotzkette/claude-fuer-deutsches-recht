@@ -121,6 +121,7 @@ Rechnen Sie den Entscheidungsstand am 4. Dezember vor 16 Uhr und den Rückfall n
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip) · [Druckpaket 05](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-05.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bauunternehmer-einkauf-brandschutztueren-krimpfort_gesamt.pdf`](gesamt-pdf/bauunternehmer-einkauf-brandschutztueren-krimpfort_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort-einzelpdfs.zip) |

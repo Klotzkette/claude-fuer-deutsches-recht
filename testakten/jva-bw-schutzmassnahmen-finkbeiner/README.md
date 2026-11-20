@@ -33,6 +33,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-jva-bw-schutzmassnahmen-finkbeiner.zip) · [Druckpaket 24](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-24.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/jva-bw-schutzmassnahmen-finkbeiner_gesamt.pdf`](gesamt-pdf/jva-bw-schutzmassnahmen-finkbeiner_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-jva-bw-schutzmassnahmen-finkbeiner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-ergaenzung-v1.0.0/testakte-jva-bw-schutzmassnahmen-finkbeiner.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-jva-bw-schutzmassnahmen-finkbeiner-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.1.0/testakte-jva-bw-schutzmassnahmen-finkbeiner-einzelpdfs.zip) |

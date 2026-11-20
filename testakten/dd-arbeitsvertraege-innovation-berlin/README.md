@@ -31,6 +31,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-dd-arbeitsvertraege-innovation-berlin.zip) · [Druckpaket 14](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-14.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/dd-arbeitsvertraege-innovation-berlin_gesamt.pdf`](gesamt-pdf/dd-arbeitsvertraege-innovation-berlin_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-dd-arbeitsvertraege-innovation-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-dd-arbeitsvertraege-innovation-berlin.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-dd-arbeitsvertraege-innovation-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.1/testakte-dd-arbeitsvertraege-innovation-berlin-einzelpdfs.zip) |

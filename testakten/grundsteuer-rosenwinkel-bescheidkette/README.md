@@ -15,6 +15,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-grundsteuer-rosenwinkel-bescheidkette.zip) · [Druckpaket 19](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-19.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/grundsteuer-rosenwinkel-bescheidkette_gesamt.pdf`](gesamt-pdf/grundsteuer-rosenwinkel-bescheidkette_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-grundsteuer-rosenwinkel-bescheidkette.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-grundsteuer-rosenwinkel-bescheidkette-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-grundsteuer-rosenwinkel-bescheidkette-einzelpdfs.zip) |

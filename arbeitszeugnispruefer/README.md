@@ -70,6 +70,18 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 Prüfe und analysiere ein vorliegendes deutsches Arbeitszeugnis bis zum beauftragten Ergebnis. Der gemeinsame Prüfer verbindet die ausführliche Arbeitnehmerberatung mit begrenzten Analyseaufträgen, Satz- und Fassungsvergleichen sowie den besonderen Fragen von Ausbildung und Führung. Die [Arbeitsmodi](references/arbeitszeugnis-auslegung-und-arbeitsmodi.md) zeigen, welche Unterlagen und Endprodukte zum konkreten Auftrag gehören.
 
+## Floristik und Kassenabschluss
+
+Beginnen Sie mit der Eingangspost und vergleichen Sie die Beobachtungen zum Kassenabschluss mit der Darstellung im Zeugnis. [Fallordner im Druckpaket nachschlagen](../docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Fall | Originalunterlagen und Eingangspost | Lesefassungen |
+| --- | --- | --- |
+| Floristik – der Kassenabschluss | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-arbeitszeugnis-floristik-kassenabschluss.zip) | [Druckpaket 04](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-04.zip) |
+
 ## Wenn du das brauchst
 
 - **Arbeitnehmerinnen und Arbeitnehmer** wollen eine verständliche Prüfung, konkrete Ersatzsätze und eine realistische Empfehlung.

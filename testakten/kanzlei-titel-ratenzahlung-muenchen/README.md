@@ -38,6 +38,7 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-kanzlei-titel-ratenzahlung-muenchen.zip) · [Druckpaket 25](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-25.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/kanzlei-titel-ratenzahlung-muenchen_gesamt.pdf`](gesamt-pdf/kanzlei-titel-ratenzahlung-muenchen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kanzlei-titel-ratenzahlung-muenchen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.35.0/testakte-kanzlei-titel-ratenzahlung-muenchen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-kanzlei-titel-ratenzahlung-muenchen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.35.0/testakte-kanzlei-titel-ratenzahlung-muenchen-einzelpdfs.zip) |

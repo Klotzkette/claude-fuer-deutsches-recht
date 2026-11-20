@@ -1,0 +1,316 @@
+{
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mieterhoehung-becker-tempelhof.zip": {
+    "bezug": [
+      "vertrag__mietvertrag.docx",
+      "hausverwaltung__telefonnotiz-aufzug-balkon.docx"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "von": "Heike Becker",
+        "an": "Mietenservice Tempelhof",
+        "titel": "Wo beginnt die Balkonfläche auf Ihrem Plan?",
+        "datum": "2026-09-17",
+        "text": [
+          "Ich lege für den Termin morgen den Mietvertrag von Wolfgang und mir auf den Küchentisch. Dort stehen 78,50 Quadratmeter. Auf unserer Kopie des Plans läuft die Maßkette durch die Außenwand bis zur Brüstung. Ob davon schon etwas in den 78,50 steckt, kann ich nicht sehen. Bitte bringen Sie die Rechnung hinter Ihrer Zahl mit.",
+          "An der Haustür bitte bei Becker klingeln. Vom Hof aus kommt man ohne Schlüssel nur bis zum Kellereingang."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Objektbetreuung Tempelhof",
+        "an": "Technisches Archiv",
+        "titel": "Anruf aus der Verwaltung wegen der alten Bauakte",
+        "datum": "2026-09-17",
+        "text": [
+          "Im Ordner Manfred-von-Richthofen-Straße 18 stecken zwei übereinandergelegte Grundrisse, einer trägt einen handschriftlichen Rand „Spiegelbild“. Keiner hat eine lesbare Wohnungsnummer. Ich habe beide im Fach gelassen, bis Herr Wuttke vor Ort den Zugang zum Balkon abgleicht.",
+          "Die Aufzugwartung im benachbarten Haus wird auf dieselbe Kostenstelle gebucht. Ein Eintrag auf der Kostenstelle allein hilft bei dieser Wohnung wenig."
+        ]
+      }
+    ]
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mieterklage-schimmel-schulz-verteidigung.zip": {
+    "bezug": [
+      "vertrag__mietvertrag.docx",
+      "korrespondenz__terminbestaetigung-hausverwaltung-2026-01-09.docx"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "von": "Lisa Schulz",
+        "an": "Hausverwaltung Charlottenburg",
+        "titel": "Dunkler Streifen hinter dem Schrank am Kaiserdamm",
+        "datum": "2026-01-08",
+        "text": [
+          "Wir haben den kleinen Schrank im Schlafzimmer vorgezogen. Hinter der Rückwand sitzt ein dunkelgrauer Streifen, neben dem Fenster ist nichts zu sehen. Das Bild auf Daniels Handy sieht wegen des Blitzes viel heller aus. Soll der Schrank bis zum Termin so stehen bleiben?",
+          "Eine Messung haben wir nicht gemacht. Der Temperaturwert an der Küchenstation stammt aus der Küche. Für eine Besichtigung brauche ich eine Uhrzeit, mit der ich meinen Dienst tauschen kann."
+        ]
+      },
+      {
+        "typ": "chat",
+        "von": "Daniel Schulz",
+        "an": "Schulz zu Hause",
+        "titel": "Schrank an der Außenwand",
+        "datum": "2026-01-08",
+        "text": [
+          "Lisa: Hast du das erste Bild noch, als der Schrank halb davorstand?",
+          "Daniel: Ja. Auf dem zweiten sieht man nur die Stelle unten am Fuß. Das erste ist das mit dem Zollstock.",
+          "Lisa: Bitte die beiden Originale auf dem Handy lassen. Ich rufe erst die Hausverwaltung an. Der Zollstock ist im Bild, weil ich den Abstand zur Wand wissen wollte."
+        ]
+      }
+    ]
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mietrueckstand-demir-fuenf-raten-absichtlich.zip": {
+    "bezug": [
+      "vertrag__mietvertrag.docx",
+      "korrespondenz__mieter-zahlungsstopp.pdf"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "von": "Cem Demir",
+        "an": "Mieterservice Donaustraße",
+        "titel": "Termin für das Schlafzimmerfenster, 4. OG links",
+        "datum": "2026-05-20",
+        "text": [
+          "Sobald es auf die Hofseite regnet, zieht es am unteren Flügel. Auf dem Bild lässt sich das natürlich schlecht erkennen. Ich möchte beim Termin dabei sein, damit der Monteur am richtigen Fenster schaut. Einmal stand jemand vor der Tür, als ich schon zur Schicht unterwegs war.",
+          "Können Sie mir zwei Zeitfenster nennen und den Auftrag unter meiner Wohnung führen? Die Sache mit der Zahlung habe ich Ihrer anderen Abteilung heute geschrieben."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Disposition Fenstertechnik",
+        "an": "Tourenplanung Neukölln",
+        "titel": "Rückrufzettel Donaustraße 38",
+        "datum": "2026-05-21",
+        "text": [
+          "Im Arbeitsauftrag steht „Fenster prüfen“, ohne Zimmerangabe. Der Mieter beschreibt die Hofseite. Vor Beladung des Wagens klären, ob nur eingestellt oder ein Beschlag mitgebracht werden soll. Für eine Ersatzteilbestellung fehlt die Prägung am Flügel.",
+          "Noch kein Termin bestätigt. Der Telefonvermerk ist keine Abnahme und keine Feststellung der Ursache."
+        ]
+      }
+    ]
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mietrueckstand-lange-zwei-raten-versehen.zip": {
+    "bezug": [
+      "vertrag__mietvertrag.docx",
+      "bank__bank-avis-kontowechsel-dauerauftrag.pdf"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "von": "Jana Lange",
+        "an": "Sandra Berger",
+        "titel": "Hauptstraße 72 – Dauerauftrag nach dem Bankwechsel",
+        "datum": "2026-07-01",
+        "text": [
+          "Am Telefon hatte ich nur die Banking-App offen. Die Miete erscheint dort in der Liste mit den Aufträgen. Wenn ich in die Einzelansicht gehe, steht darunter aber als nächster Termin Juli. Für Mai und Juni sehe ich auf dem neuen Konto keinen Abgang. Können Sie im Mietkonto bitte beide Monate getrennt prüfen?",
+          "Den Auszug des alten Kontos muss ich mir aus dem Archiv holen. Ich möchte nicht noch einmal überweisen, was vielleicht nur unter einer anderen Referenz angekommen ist."
+        ]
+      },
+      {
+        "typ": "tabelle",
+        "von": "Jana Lange",
+        "an": "Mietenbuchhaltung",
+        "titel": "Mein Abgleich beim Bankwechsel",
+        "datum": "2026-07-01",
+        "text": [
+          "Monat | Fundstelle | Was ich sehe",
+          "Mai | neues Konto, Umsatzsuche | kein Mietabgang unter dem Empfängernamen",
+          "Juni | Liste der Daueraufträge | Auftrag sichtbar, Ausführung aus der Liste nicht ersichtlich",
+          "Juli | Detailansicht | nächster Ausführungstermin angezeigt"
+        ]
+      }
+    ]
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-mietrueckstand-meier-wilhelmstrasse.zip": {
+    "bezug": [
+      "vertrag__mietvertrag.docx",
+      "hausverwaltung__telefonnotiz-klingelschild-und-keller.docx"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "von": "Mietenbuchhaltung",
+        "an": "Hausbetreuung Wilhelmstraße",
+        "titel": "Teilbetrag im März – bitte den Namen am Kasten prüfen",
+        "datum": "2026-04-08",
+        "text": [
+          "Auf der Buchungszeile stehen 500 Euro, aber keine Aussage dazu, ob noch ein zweiter Betrag unterwegs ist. Bevor wir Herrn Meier anschreiben, brauche ich die Zustellangabe aus dem Haus. Steht sein Name weiterhin am Briefkasten der Wohnung links? Bitte bei der nächsten regulären Runde nachsehen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Objektservice Wilhelmstraße",
+        "an": "Mietenbuchhaltung",
+        "titel": "Was die Hausrunde zur Anschrift sagen kann",
+        "datum": "2026-04-09",
+        "text": [
+          "Die Hausbetreuung hat für die nächste Begehung das dritte Obergeschoss links vorgemerkt. Der Schlüsselkasten im Büro ist für Gemeinschaftsräume. Daraus kann niemand ablesen, ob Herr Meier die Wohnung nutzt.",
+          "Der Märzumsatz liegt der Hausbetreuung nicht vor. Rückfragen zu Zahlungen bitte unmittelbar an die Buchhaltung richten."
+        ]
+      }
+    ]
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-nebenkosten-braun-nachzahlung-unbezahlt.zip": {
+    "bezug": [
+      "vertrag__mietvertrag.docx"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "von": "Lukas Braun",
+        "an": "Betriebskostenservice",
+        "titel": "Greifswalder Straße – welchen Beleg kann ich einsehen?",
+        "datum": "2026-07-21",
+        "text": [
+          "In der Abrechnung für 2025 steht Hausservice als ein Betrag. In unserem Treppenhaus hing beim Winterdienst ein Zettel für mehrere Häuser. Ich würde gern sehen, welcher Teil auf die Nummer 201 entfällt und ob die Einsätze dort gesondert erfasst wurden. Kann ich zur Einsicht nach Feierabend kommen?"
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Betriebskostenservice",
+        "an": "Objektbuchhaltung Berlin",
+        "titel": "Beleganforderung für die Einsicht Braun",
+        "datum": "2026-07-22",
+        "text": [
+          "Im Zahlungslauf ist der Dienstleister einmal als Empfänger geführt. Der Lauf enthält Rechnungen für mehrere Objekte. Bitte für den Termin die Rechnung, ihren Verteiler und die Leistungsnachweise für die Greifswalder Straße herauslegen.",
+          "Ein Haken bei „bezahlt“ im Export erklärt Herrn Braun noch nicht, welcher Anteil seiner Wohnung zugeordnet wurde."
+        ]
+      }
+    ]
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-raeumungsklage-kowalski-friedrichshain.zip": {
+    "bezug": [
+      "vertrag__mietvertrag.docx"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "von": "Aleksandra Kowalska",
+        "an": "Mietenservice Friedrichshain",
+        "titel": "Zwei verschiedene Anliegen zu meiner Wohnung",
+        "datum": "2026-06-01",
+        "text": [
+          "Ich habe beim Jobcenter nach den Mietzahlungen gefragt und brauche von Ihnen eine Aufstellung nach Monaten. Die Stelle hat mir am Telefon noch keinen Betrag und keinen Überweisungstag genannt. Bitte schreiben Sie auch meine Vertragsnummer darauf, damit der Brief zur richtigen Akte kommt.",
+          "Falls ich eine andere Wohnung finde, an wen müsste ich mich wegen der Schlüssel wenden? Ich habe noch keinen Auszugstermin."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Mietenservice Friedrichshain",
+        "an": "Objektbetreuung",
+        "titel": "Schlüsselbuch – Anfrage von Frau Kowalska",
+        "datum": "2026-06-02",
+        "text": [
+          "Die Mieterin wollte den Ablauf einer möglichen Rückgabe wissen. Im Schlüsselbuch wurde kein Rücknahmedatum eingetragen. Für eine tatsächliche Übergabe wären ein Termin, die Zahl der Schlüssel und die Zählerstände aufzunehmen.",
+          "Die angefragte Saldenaufstellung erstellt die Mietbuchhaltung. Dem Hausdienst liegt kein Leistungsbescheid vor."
+        ]
+      }
+    ]
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-ratenplan-riedel-gebrochen.zip": {
+    "bezug": [
+      "vertrag__mietvertrag.docx",
+      "zahlung__zahlungsavis-rate-1-2026-05-15.pdf"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "von": "Nora Riedel",
+        "an": "Forderungsmanagement",
+        "titel": "Ratenplan und laufende Miete – zwei Verwendungszwecke",
+        "datum": "2026-05-15",
+        "text": [
+          "Die erste Rate habe ich heute getrennt von der Miete überwiesen. Auf meinem Handy sehe ich in der Kurzansicht jedes Mal bloß Ihren Firmennamen. Reicht „Rate 1“ zusammen mit meiner Vertragsnummer, oder haben Sie für die Vereinbarung ein eigenes Zeichen? Ich will vermeiden, dass mein Dauerauftrag für die Wohnung dabei verschwindet."
+        ]
+      },
+      {
+        "typ": "tabelle",
+        "von": "Mietenbuchhaltung",
+        "an": "Sachbearbeitung Ratenpläne",
+        "titel": "Zuordnung Riedel bei Eingang der ersten Rate",
+        "datum": "2026-05-15",
+        "text": [
+          "Vorgang | Beleg für Zuordnung | Buchungsfrage",
+          "Laufende Wohnungsmiete | Vertrag Reinickendorfer Straße 61 | Monatsmiete separat abgleichen",
+          "Erste vereinbarte Rate | Avis 15. Mai | Referenz und Valuta mit Bankauszug verbinden",
+          "Künftige Raten | Ratenvereinbarung | Fälligkeit vormerken, Zahlung erst nach Eingang buchen"
+        ]
+      }
+    ]
+  },
+  "projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/downloads/testakte-vollstreckung-krueger-titel-teilzahlung.zip": {
+    "bezug": [
+      "vertrag__mietvertrag.docx",
+      "zahlung__zahlungsavis-teilzahlung-500.pdf"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "von": "Zahlungsverkehr",
+        "an": "Forderungsmanagement Wedding",
+        "titel": "Krüger – 500 Euro auf dem Sammelkonto",
+        "datum": "2026-06-15",
+        "text": [
+          "Im heutigen Auszug erscheint eine Gutschrift über 500 Euro. Mit der Seestraße finde ich den früheren Mietvertrag, in der Post steht eine andere Anschrift. Unter welchem Vertragskonto führen Sie den Vorgang inzwischen? Bitte vor dem nächsten Schreiben den Wertstellungstag und die Buchungsreferenz übernehmen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Forderungsmanagement Wedding",
+        "an": "Wiedervorlage Zahlungsabgleich",
+        "titel": "Telefonvermerk zur Zuordnung der Gutschrift",
+        "datum": "2026-06-16",
+        "text": [
+          "Am Bildschirm war der Zahlungseingang zu sehen, die Aufteilung auf einzelne Positionen dagegen noch nicht. Die Kollegin im Zahlungsverkehr kann die Bankreferenz bestätigen. Für die Aufteilung benötigt sie das aktuelle Forderungskonto.",
+          "Zur Beschäftigung von Herrn Krüger liegt dem Zahlungsverkehr keine Auskunft vor. Die neue Postanschrift lässt keinen Schluss auf sein Arbeitsverhältnis zu."
+        ]
+      }
+    ]
+  },
+  "quality/steuerrecht-freiburg/tomasius-solo": {
+    "bezug": [
+      "13_Musikschule_Erwerbsstatus/01_Stundenplan_und_Verwaltungsablauf.eml",
+      "14_Wohnung_Rom/01_Rom_Mietvertrag_DE_EN.docx",
+      "14_Wohnung_Rom/11_Objektkonto_LT7_2025.csv"
+    ],
+    "unterlagen": [
+      {
+        "typ": "eml",
+        "von": "Hubertus Tomasius",
+        "an": "Mara Kirschner, Musikschule",
+        "titel": "Wenn der Raum belegt ist – wer informiert die Gruppe?",
+        "datum": "2025-09-19",
+        "text": [
+          "Beim Abgleich meines Kalenders mit Ihrem Raumplan ist mir aufgefallen, dass ich den Nachholtermin nicht einfach an die Stelle einer ausgefallenen Geigenstunde setzen kann. Könnten Sie mir sagen, wer den Raum freigibt und wer den Eltern bei einer Verschiebung schreibt? Für meine Honoraraufstellung brauche ich den tatsächlich unterrichteten Tag.",
+          "Ich führe die Klavierstunden bisher unter dem Namen der Gruppe, nicht unter der Raumnummer. Deshalb passen zwei Einträge auf den ersten Blick nicht zusammen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Hubertus Tomasius",
+        "an": "Steuerkanzlei, Einkommensteuer",
+        "titel": "Rom – was ich mit dem Objektkonto mitgeben kann",
+        "datum": "2026-01-12",
+        "text": [
+          "Zum Jahreswechsel habe ich für die Wohnung nahe dem Lateran den zweisprachigen Vertrag und den Umsatzexport zusammengesucht. Der englische Text ist Teil desselben Mietvertrags. Die Verwaltungsabrechnung kommt getrennt vom Kontoauszug. Ein Geldeingang auf dem italienischen Konto ist noch keine Überweisung auf mein Freiburger Konto.",
+          "Die Unterlagen meiner Familie zur Herkunft der Wohnung liegen in einem anderen Ordner. Bitte die laufenden Mieten für 2025 zunächst anhand des Objektkontos prüfen und mir genau sagen, welchen Erwerbsbeleg Sie darüber hinaus brauchen."
+        ]
+      },
+      {
+        "typ": "tabelle",
+        "von": "Hubertus Tomasius",
+        "an": "Steuerkanzlei",
+        "titel": "Mein Ablagezettel beim Sortieren der Einnahmen",
+        "datum": "2026-01-12",
+        "text": [
+          "Absender oder Tätigkeit | Woran ich die Zahlung erkenne | Zugehörige Ablage",
+          "Datenschutzmandat | laufender Auftrag des Unternehmens | Ausgangsrechnung und Freiburger Bankauszug",
+          "Redaktionshonorar | Gutschrift des Verlags | Abrechnung des Verlags statt eigener Rechnung",
+          "Musikschule | tatsächlich erteilte Stunden | Raumplan und Honorarabrechnung",
+          "Vermietung Rom | Überweisung auf Objektkonto LT7 | Mietvertrag und italienischer Umsatzexport"
+        ]
+      }
+    ]
+  }
+}

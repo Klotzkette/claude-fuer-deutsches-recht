@@ -23,6 +23,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-arbeitsrecht-ki-weisung-und-quellen.zip) · [Druckpaket 03](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-03.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/arbeitsrecht-ki-weisung-und-quellen_gesamt.pdf`](gesamt-pdf/arbeitsrecht-ki-weisung-und-quellen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-arbeitsrecht-ki-weisung-und-quellen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-arbeitsrecht-ki-weisung-und-quellen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-arbeitsrecht-ki-weisung-und-quellen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-arbeit-reskilling-v445.35.4/testakte-arbeitsrecht-ki-weisung-und-quellen-einzelpdfs.zip) |

@@ -114,6 +114,14 @@ Der Einkommensteuer-Nachtrag verbindet die tatsächliche Tätigkeit an der Musik
 
 [Tomasius-Akte mit Grundakte als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/Testakte_Tomasius_2025_Grundakte.zip)
 
+Die vollständige Originalformat-Akte führt die erste Post des Freiburger Mandanten unter `Grundakte/00_Posteingang`.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Tomasius · vollständiges Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-steuerrecht-freiburg-tomasius-solo.zip)
+
 ## Umsatzsteuer-Voranmeldung aus Belegen
 
 Das [Fachmodul Umsatzsteuer-Voranmeldung erstellen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/FACHINHALT.md) ordnet Originalbelege, Zahlungen und Steuertatbestände dem konkreten Zeitraum zu. Es liefert eine geprüfte Feldtabelle für Mein ELSTER und führt bei vorhandenem verifiziertem Zugang den beauftragten Import oder lokalen Abgabeweg fort. Der Nutzer wählt sein Zertifikat lokal und gibt PIN beziehungsweise Passwort im geschützten Anmeldefeld ein.

@@ -57,6 +57,18 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 312 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
+## Die lokale Übungsakte
+
+Für den ersten Durchgang öffnen Sie im Arbeits-ZIP `Grundakte/00_Posteingang`. Die vollständige Akte enthält auch die späteren Verfahrensstücke. [Fallordner im Druckpaket nachschlagen](../../docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Fall | Originalunterlagen und Eingangspost | Lesefassungen |
+| --- | --- | --- |
+| Testakte StA Musterstadt 312 Js 4471/26 — Ermittlungsverfahren wegen Betrugs (Fake-Onlineshop) | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-gericht-staatsanwaltschaft-amtsanwaltschaft.zip) | [Druckpaket 18](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-18.zip) |
+
 Wenn du das hier öffnest, willst du einen Vorgang aus Sicht der Staatsanwaltschaft oder Amtsanwaltschaft bearbeiten: Tatverdacht, Ermittlungsmaßnahmen, Verfahrensabschluss, Anklage, Strafbefehl, Einstellung und Sitzungsvertretung.
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.
 
@@ -75,7 +87,7 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 - Skills mit ihren Referenzen: siehe vollständige Liste unten. Werkstatt und Schnellstart sind separate Markdown-Dateien, keine zusätzlichen Skills.
 - **Werkstatt-Prompt** (`staatsanwaltschaft-amtsanwaltschaft-werkstatt.md`)
 - **Schnellstart-Prompt** (`staatsanwaltschaft-amtsanwaltschaft-schnellstart.md`)
-- **Testakten** (`testakte/README.md`) — aus staatsanwaltschaftlicher Sicht
+- **Testakten** ([Aktenverzeichnis](testakte/README.md)) — aus staatsanwaltschaftlicher Sicht
 
 ## Skill-Liste
 

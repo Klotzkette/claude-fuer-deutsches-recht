@@ -13,6 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-vw-finanzierung-koch-widerrufsjoker.zip) · [Druckpaket 44](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-44.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/vw-finanzierung-koch-widerrufsjoker_gesamt.pdf`](gesamt-pdf/vw-finanzierung-koch-widerrufsjoker_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-vw-finanzierung-koch-widerrufsjoker.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-vw-finanzierung-koch-widerrufsjoker.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-vw-finanzierung-koch-widerrufsjoker-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-vw-finanzierung-koch-widerrufsjoker-einzelpdfs.zip) |

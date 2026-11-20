@@ -69,6 +69,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-projekteinkauf-klinker-reklamation.zip) · [Druckpaket 32](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-32.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/projekteinkauf-klinker-reklamation_gesamt.pdf`](gesamt-pdf/projekteinkauf-klinker-reklamation_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-projekteinkauf-klinker-reklamation.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-projekteinkauf-klinker-reklamation.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-projekteinkauf-klinker-reklamation-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/projekteinkauf-baubranche-v445.35.10/testakte-projekteinkauf-klinker-reklamation-einzelpdfs.zip) |

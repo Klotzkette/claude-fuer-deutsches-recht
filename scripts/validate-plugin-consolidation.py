@@ -8,6 +8,7 @@ import json
 from pathlib import Path
 import subprocess
 
+from akteneingang.verweise import central_row
 from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -33,8 +34,36 @@ def git_blob(path: Path) -> str:
     return result.hexdigest()
 
 
+def before_intake_links(name: str, content: bytes) -> bytes:
+    """Entnimmt nur die zu diesem Fall gehörige Zusatzzeile am vorgesehenen Tabellenplatz."""
+    parts = Path(name).parts
+    if len(parts) != 3 or parts[0] != "testakten" or parts[2] != "README.md":
+        return content
+    marker = b"<!-- BEGIN gesamt-pdf-section (autogen) -->"
+    end_marker = b"<!-- END gesamt-pdf-section (autogen) -->"
+    before, begin, tail = content.partition(marker)
+    section, end, after = tail.partition(end_marker)
+    if not begin or not end:
+        return content
+    lines = section.splitlines(keepends=True)
+    for index, line in enumerate(lines[:-1]):
+        divider = line.rstrip(b"\r\n")
+        if divider not in {b"| --- | --- |", b"| --- | --- | --- |"}:
+            continue
+        row = central_row(parts[1], divider.count(b"|") - 1)
+        eol = line[len(divider):]
+        if row and lines[index + 1] == row.encode() + eol:
+            return before + begin + b"".join(lines[:index + 1] + lines[index + 2:]) + end + after
+        break
+    return content
+
+
+def content_blob(content: bytes) -> str:
+    return hashlib.sha1(f"blob {len(content)}\0".encode() + content).hexdigest()
+
+
 def same_stored_blob(path: Path, expected: str, root: Path, name: str, baseline: str | None) -> bool:
-    """Vergleicht Bytes; berücksichtigt nur deklarierte Git-Zeilenendennormalisierung.
+    """Vergleicht historische Bytes mit der deklarativ erzeugten Fallnavigation als einziger Ergänzung.
 
     Ein CRLF-Checkout einer ausdrücklich als Text markierten E-Mail hat andere
     Bytes als ihr gespeicherter LF-Blob. Maßgeblich sind ausschließlich die
@@ -43,6 +72,11 @@ def same_stored_blob(path: Path, expected: str, root: Path, name: str, baseline:
     """
     if git_blob(path) == expected:
         return True
+    content = None
+    if Path(name).name == "README.md" and name.startswith("testakten/"):
+        content = before_intake_links(name, path.read_bytes())
+        if content_blob(content) == expected:
+            return True
     if not baseline:
         return False
     result = subprocess.run(
@@ -61,12 +95,13 @@ def same_stored_blob(path: Path, expected: str, root: Path, name: str, baseline:
     explicit_eol = attrs.get("eol") in {"lf", "crlf"}
     if not (explicit_text or explicit_eol):
         return False
-    content = path.read_bytes()
+    if content is None:
+        content = path.read_bytes()
     # Auch bei versehentlich falschem Textattribut bleiben binäre Inhalte exakt.
     if b"\0" in content:
         return False
     normalized = content.replace(b"\r\n", b"\n")
-    return hashlib.sha1(f"blob {len(normalized)}\0".encode() + normalized).hexdigest() == expected
+    return content_blob(normalized) == expected
 
 
 def check(root: Path, registry: dict, inventory: dict) -> list[str]:
