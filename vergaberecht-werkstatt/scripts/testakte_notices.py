@@ -11,7 +11,7 @@ WARNING = (
 MARKDOWN_WARNING = "> " + WARNING.replace("\n\n", "\n>\n> ")
 README_NOTICE = "HINWEIS / NOTICE\n=================\n\n" + WARNING + "\n"
 CASE_DOWNLOAD = re.compile(
-    r"\]\([^\s)]*(?:testakte[^\s)]*\.zip|lebensakte-[^\s)]+\.zip|lesepaket-[0-9]{2}\.zip|alles-komplettpaket\.zip|"
+    r"\]\([^\s)]*(?:testakte[^\s)]*\.zip|alles-komplettpaket\.zip|"
     r"/archive/refs/heads/main\.zip|\.pdf)(?:[?#][^\s)]*)?\)"
 )
 INTERNAL_NAME = re.compile(

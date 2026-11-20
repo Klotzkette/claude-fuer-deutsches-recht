@@ -296,7 +296,7 @@ Die fachliche Leitung prüft dabei nicht nur den Textentwurf, sondern auch Chron
 
 Die [neun Fälle und der Mietspiegel mit jeweils drei Downloadformen](../projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/TESTAKTEN.md) gehören zum Projekt. Für den ersten Durchlauf genügt der Ordner `Grundakte` im Arbeits-ZIP. Beginne mit Lange (Bankwechsel, Kulanz und Belegdublette), danach Braun (Betriebskosten und Beleglücken). Lade je Fall nur eine Darreichungsform, damit dasselbe Aktenstück nicht mehrfach im Eingang landet.
 
-Wählen Sie den Haushalt und öffnen Sie zuerst `Grundakte/00_Posteingang`. Dort beginnt die Bearbeitung mit Mieterpost und Unterlagen der Verwaltung. [Fallordner im Druckpaket nachschlagen](../docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+Wählen Sie den Haushalt und öffnen Sie zuerst `Grundakte/00_Posteingang`. Dort beginnt die Bearbeitung mit Mieterpost und Unterlagen der Verwaltung. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

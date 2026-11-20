@@ -230,21 +230,17 @@ Schwellenwerte werden alle zwei Jahre angepasst. Für 2026/2027 gilt die Delegie
 
 Testakten mit vollständigen Vergabeunterlagen, Bieterunterlagen und Streitakten. Anonymisierte Beispiele aus realistischen Branchen (Reinigungsdienstleistung, IT-Beschaffung, Bauleistungen, Beratungsleistung, Rechenzentrumsbetrieb) sowie eine umfangreiche IT-SIG-2-Nachprüfungsakte für die Marktrollen.
 
-Für die Aktenarbeit öffnen Sie die ursprüngliche Post der Vergabestelle, des Bieters oder des Konkurrenten in `Grundakte/00_Posteingang`. Die Angebots- und Verfahrensunterlagen liegen in derselben Fallakte. [Fallordner im Druckpaket nachschlagen](../docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+Für Übungen mit der ersten Post der Vergabestelle, des Bieters oder des Konkurrenten wählen Sie im [Katalog der Arbeitsakten mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen) einen der folgenden Fallordner. Öffnen Sie im Arbeits-ZIP zuerst `Grundakte/00_Posteingang`.
 
-> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
->
-> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
-
-| Fall | Originalunterlagen und Eingangspost | Lesefassungen |
-| --- | --- | --- |
-| Reinigung einer Grundschule in Musterstadt | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-vergabewerkstatt-01-reinigung-grundschule-musterstadt.zip) | [Druckpaket 43](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-43.zip) |
-| Laptops für das Landesamt Musterland | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-vergabewerkstatt-02-laptopbeschaffung-landesamt-musterland.zip) | [Druckpaket 43](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-43.zip) |
-| Bauleistungen für die Stadthalle Musterstadt | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-vergabewerkstatt-03-bauleistung-stadthalle-musterstadt.zip) | [Druckpaket 43](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-43.zip) |
-| IT-Beratung für das Ministerium Musterland | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-vergabewerkstatt-04-it-beratung-ministerium-musterland.zip) | [Druckpaket 43](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-43.zip) |
-| Auftragnehmerwechsel nach Insolvenz | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-vergabewerkstatt-05-insolvenz-auftragnehmerwechsel-132-gwb.zip) | [Druckpaket 43](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-43.zip) |
-| Rechenzentrum im Musterkreis | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-vergabewerkstatt-06-konkurrentenrechtsschutz-rechenzentrum-musterkreis.zip) | [Druckpaket 43](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-43.zip) |
-| IT-Sicherheitsvergabe in Schwerin | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-vergabewerkstatt-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip) | [Druckpaket 43](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-43.zip) |
+| Fall | Fallordner im Katalog |
+| --- | --- |
+| Reinigung einer Grundschule in Musterstadt | `vergabewerkstatt-01-reinigung-grundschule-musterstadt` |
+| Laptops für das Landesamt Musterland | `vergabewerkstatt-02-laptopbeschaffung-landesamt-musterland` |
+| Bauleistungen für die Stadthalle Musterstadt | `vergabewerkstatt-03-bauleistung-stadthalle-musterstadt` |
+| IT-Beratung für das Ministerium Musterland | `vergabewerkstatt-04-it-beratung-ministerium-musterland` |
+| Auftragnehmerwechsel nach Insolvenz | `vergabewerkstatt-05-insolvenz-auftragnehmerwechsel-132-gwb` |
+| Rechenzentrum im Musterkreis | `vergabewerkstatt-06-konkurrentenrechtsschutz-rechenzentrum-musterkreis` |
+| IT-Sicherheitsvergabe in Schwerin | `vergabewerkstatt-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung` |
 
 ## Dashboard- und Applet-Arbeitsweise
 

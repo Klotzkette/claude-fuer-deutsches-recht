@@ -39,7 +39,7 @@ Die fiktive Wolkenwerft Worlds GmbH aus Freiburg plant ein Browsergame mit KI-Sz
 
 Die [Testakte mit Downloads](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/jugendmedienschutz-und-medienangebote/testakte/README.md) enthält eine Grundakte ohne Lösung, gesonderte Nachreichungen und ausfüllbare Vorlagen. Damit lässt sich zuerst der geplante Start prüfen und später anhand eines Vorfalls und einer Aufsichtsanfrage weiterarbeiten. Die Grundakte nimmt diese späteren Erkenntnisse nicht vorweg.
 
-Die erste Projektpost zum Browsergame liegt in `Grundakte/00_Posteingang`. Von dort können Sie die Fragen der Redaktion und des Anbieters mit den übrigen Produktunterlagen abgleichen. [Fallordner im Druckpaket nachschlagen](../docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+Die erste Projektpost zum Browsergame liegt in `Grundakte/00_Posteingang`. Von dort können Sie die Fragen der Redaktion und des Anbieters mit den übrigen Produktunterlagen abgleichen. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

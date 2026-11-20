@@ -72,7 +72,7 @@ Prüfe und analysiere ein vorliegendes deutsches Arbeitszeugnis bis zum beauftra
 
 ## Floristik und Kassenabschluss
 
-Beginnen Sie mit der Eingangspost und vergleichen Sie die Beobachtungen zum Kassenabschluss mit der Darstellung im Zeugnis. [Fallordner im Druckpaket nachschlagen](../docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+Beginnen Sie mit der Eingangspost und vergleichen Sie die Beobachtungen zum Kassenabschluss mit der Darstellung im Zeugnis. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

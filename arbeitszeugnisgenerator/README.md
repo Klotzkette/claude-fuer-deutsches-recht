@@ -61,7 +61,7 @@ Aus Personalunterlagen entsteht ein deutsches Arbeitszeugnis mit zutreffenden T�
 
 ## Personalakten für die Zeugniserstellung
 
-Öffnen Sie die Akte einer Person und beginnen Sie mit der Korrespondenz in `Grundakte/00_Posteingang`. Tätigkeitsnachweise, Personalunterlagen und spätere Ergänzungen stehen in derselben Akte. [Fallordner im Druckpaket nachschlagen](../docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+Öffnen Sie die Akte einer Person und beginnen Sie mit der Korrespondenz in `Grundakte/00_Posteingang`. Tätigkeitsnachweise, Personalunterlagen und spätere Ergänzungen stehen in derselben Akte. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

@@ -48,7 +48,7 @@ Die Originalunterlagen, ZIPs und Builder der beiden lokalen Vertragsakten bleibe
 
 ### Schriftverkehr zum Vertragsentwurf
 
-Wählen Sie das Bauvorhaben und beginnen Sie mit den Erwerberunterlagen in `Grundakte/00_Posteingang`. [Fallordner im Druckpaket nachschlagen](../docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+Wählen Sie das Bauvorhaben und beginnen Sie mit den Erwerberunterlagen in `Grundakte/00_Posteingang`. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

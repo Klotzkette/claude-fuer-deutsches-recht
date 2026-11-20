@@ -22,6 +22,11 @@ SHARED_NAVIGATION = {
     f"https://github.com/{REPOSITORY}/blob/main/{relative}": relative
     for relative in ("README.md", "SKILLS.md", "ASSET_INDEX.md")
 }
+CASE_CATALOG = "docs/grundakten-lebenswelt/README.md"
+SHARED_NAVIGATION[
+    f"https://github.com/{REPOSITORY}/blob/main/{CASE_CATALOG}"
+    "#weitere-arbeitsakten-und-eigenständige-pluginfassungen"
+] = CASE_CATALOG
 ORIGINAL_COUNTS = dict(zip(PROMPT_SUFFIXES, (122, 113, 20)))
 
 
