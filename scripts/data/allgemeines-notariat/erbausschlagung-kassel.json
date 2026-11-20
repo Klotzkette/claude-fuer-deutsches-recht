@@ -1,0 +1,191 @@
+{
+  "id": "erbausschlagung-kassel",
+  "titel": "Zwei Briefe für Mara – wer erbt nach Ruth Hartmann?",
+  "ort": "Kassel",
+  "einstieg": "Lina Mohr hat nach dem Tod ihrer Mutter für sich selbst ausgeschlagen. Für ihre elfjährige Tochter Mara bittet sie um einen Termin. Der Vater hat gemeinsames Sorgerecht und kennt bislang nur ein Handyfoto. Auf einer zweiten beschriebenen Seite steht Maras Name.",
+  "auftrag": "Bereiten Sie die Erstberatung beider Eltern vor. Legen Sie für jede Person fest, ab welchem belegten Ereignis eine Frist in Betracht kommt. Welche Unterlagen, Erklärungen und gegebenenfalls gerichtlichen Schritte braucht die Familie, und welche Handlung duldet keinen Aufschub?",
+  "unterlagen": [
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "titel": "Für meine Tochter ausschlagen – kann ich nach dem Frühdienst kommen?",
+      "von": "Lina Mohr",
+      "an": "Notariat am Weinbergbogen",
+      "datum": "2026-10-01",
+      "text": [
+        "Guten Morgen, beim Nachlassgericht in Kassel habe ich am Montag wegen meiner Mutter unterschrieben. Dort stand nur mein eigener Name auf dem Blatt. Der blaue Durchschlag liegt bei. Meine Tochter Mara ist elf. Ich möchte vor allem vermeiden, dass sie sich später mit dem alten Ladenkredit herumschlagen muss.",
+        "Ich arbeite im Schichtdienst. Dienstag wäre ich gegen halb drei bei Ihnen. Ihr Vater wohnt in einem anderen Haushalt in Kassel. Er weiß, dass Oma gestorben ist. Die Briefe vom Gericht habe bisher ich geöffnet. Sagen Sie uns bitte, ob wir gemeinsam kommen müssen und was wir vor dem Termin unbedingt besorgen sollen. Viele Grüße, Lina Mohr."
+      ],
+      "anlage_nr": 2
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Abschrift der Erklärung vom 28. September",
+      "von": "Amtsgericht Kassel, Nachlassabteilung",
+      "an": "Lina Mohr",
+      "datum": "2026-09-28",
+      "text": [
+        "Familienabschrift aus dem Vorgang 540 VI 184/26. Nachlass Ruth Hartmann, geboren am 17. Mai 1952, verstorben am 10. September 2026, letzter gewöhnlicher Aufenthalt Kassel. Die Erschienene Lina Mohr, geborene Hartmann, erklärt die Ausschlagung der ihr nach ihrer Mutter angefallenen Erbschaft aus jedem Berufungsgrund.",
+        "Als Kind der Erschienenen ist Mara Mohr, geboren am 4. Juni 2015, im Personalblatt angegeben. Eine Erklärung für Mara wurde bei diesem Termin nicht aufgenommen. Die Niederschrift datiert auf den 28. September 2026. Die der Familie überlassene Kopie enthält den vorgenannten Text und den Vermerk über die Aufnahme bei Gericht."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "titel": "Familienblatt aus Linas rotem Ordner",
+      "von": "Lina Mohr",
+      "an": "Notariat am Weinbergbogen",
+      "datum": "2026-09-30",
+      "text": [
+        "Meine Mutter Ruth war verwitwet. Mein Vater liegt seit 2018 auf dem Hauptfriedhof. Außer mir hatte meine Mutter keine Kinder. Ich habe nur Mara. Maras Vater ist David Mohr. Wir waren bei ihrer Geburt verheiratet und leben seit Februar 2024 getrennt. Es gibt nach meiner Erinnerung keine gerichtliche Entscheidung zur elterlichen Sorge.",
+        "Mara ist unter meiner Anschrift in Kassel gemeldet, ist aber regelmäßig von Mittwoch bis Freitag bei David. Ich hatte der Schule seinerzeit eine Vollmacht für Ausflüge gegeben. Für Erbsachen haben wir untereinander nichts vereinbart. Die Geburtsurkunde habe ich in der Schublade gefunden, das Familienstammbuch hat David."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Begleitbrief zur Testamentseröffnung – in Linas Mappe",
+      "von": "Amtsgericht Kassel, Nachlassabteilung",
+      "an": "Lina Mohr",
+      "datum": "2026-09-21",
+      "text": [
+        "Nachlasssache Ruth Hartmann, Geschäftszeichen 540 VI 184/26. Zu Ihrer Kenntnis übersenden wir eine Abschrift der bei Gericht eröffneten Verfügung vom 12. Januar 2022 und der Eröffnungsniederschrift.",
+        "Für Rückfragen geben Sie bitte das Geschäftszeichen an. Diese Mitteilung trifft keine Feststellung über die Zusammensetzung des Nachlasses oder die Bewertung einzelner Vermögensgegenstände.",
+        "Handschriftlicher Eingangsvermerk von Lina auf dem Umschlag: „Donnerstag, 24.9., nach Arbeit geöffnet“. Die Abschrift des Testaments lag zwischen den beiden Blättern."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Verfügung vom 12. Januar 2022 – Abschrift aus der Gerichtsmitteilung",
+      "von": "Ruth Hartmann",
+      "an": "Nachlassunterlagen der Familie",
+      "datum": "2022-01-12",
+      "text": [
+        "Wenn ich sterbe, soll meine Tochter Lina alles bekommen, das ich hinterlasse. Sollte sie beim Erbfall nicht mehr leben oder das Erbe ausschlagen, soll meine Enkelin Mara an ihre Stelle treten.",
+        "Den Schreibtisch darf Lina so lange im früheren Laden stehen lassen, wie sie ihn dort braucht. Der Vermieter kennt meine Tochter vom Schlüsselwechsel. Kassel, 12. Januar 2022. Auf der vom Gericht übersandten Kopie ist der Name „Ruth Hartmann“ unter dem handschriftlichen Text lesbar."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "chat",
+      "titel": "Familiengruppe – Foto vom Schreibtisch",
+      "von": "Lina Mohr",
+      "an": "Familiengruppe Hartmann",
+      "datum": "2026-09-29",
+      "text": [
+        "Katja: Beim Ausräumen habe ich einen zweiten gefalteten Zettel gefunden. Auf einer Seite steht oben 2024 und in der Mitte „Lina und Mara“. Ich habe beide Seiten, aber nur die erste fotografiert.",
+        "Lina: Bitte nichts wegwerfen. Auf dem Foto endet es nach „teilen“. Kannst du das Blatt beim Gericht abgeben und dir die Abgabe aufschreiben?",
+        "David: Danke für die Nachricht. Geht es um das Erbe oder um die kleinen Fotoalben? Ich kann aus dem Ausschnitt nicht erkennen, wer was bekommen sollte.",
+        "Katja: Ich bin morgen bis mittags in Kassel. Ich nehme den Originalzettel mit. Die Schublade hatte ich erst heute ganz herausgezogen."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "titel": "Ladenschlüssel, Konto und offene Post – auf dem Küchentisch erfasst",
+      "von": "Lina Mohr",
+      "an": "Familienordner Hartmann",
+      "datum": "2026-09-30",
+      "text": [
+        "Fundstück | Betrag in EUR | Quelle und offener Bezug",
+        "Girokonto | 2.184,60 | Auszug per 31.08.; laufende Umsätze im September fehlen.",
+        "Werkstattmaschine | 1.900,00 | Unverbindlicher Telefonpreis bei funktionsfähiger Maschine. Die Nummer auf dem Typenschild ist noch unbekannt.",
+        "Ladenkredit | 12.640,00 | Restkapital laut Jahressaldo 31.12.2025. Die letzte Tilgung ist nicht erfasst.",
+        "Kaution für den Laden | 3.000,00 | Mietvertrag von 2017. Rückzahlung hängt vom Zustand der Räume ab.",
+        "Bestattung | 3.260,00 | Auftrag unterschrieben von Lina. Kundin und Rechnungsempfängerin im Auftrag prüfen."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "titel": "Was mir vom Gericht und von Lina vorliegt",
+      "von": "David Mohr",
+      "an": "Notariat am Weinbergbogen",
+      "datum": "2026-10-01",
+      "text": [
+        "Frau Mohr hat mir heute Ihre Adresse geschickt. Ich habe die Nachricht über Ruths Tod am 11. September gelesen. Von Linas eigener Ausschlagung habe ich zuerst gestern Abend am Telefon erfahren, den Durchschlag sehe ich heute zum ersten Mal. Über Mara kam an meiner Anschrift bisher keine Gerichtspost an.",
+        "Ich möchte niemandem im Weg stehen. Am 6. Oktober bin ich erst nach vier wieder in Kassel. Vor einem Termin möchte ich wissen, was auf dem Blatt von 2024 steht und ob wir persönlich für eine Rechnung einstehen würden. Die E-Mail meiner Frau mit dem Foto ersetzt für mich keinen lesbaren Brief. Grüße, David Mohr."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "titel": "Anruf in der Filiale – was zum Kredit mitgeteilt wurde",
+      "von": "Lina Mohr",
+      "an": "Eigene Gesprächsnotizen",
+      "datum": "2026-10-01",
+      "text": [
+        "10.20 Uhr, Rückruf der Sachbearbeitung. Nach Angabe der Filiale liefen im Frühjahr Zahlungen zum Ladenkredit. Ohne Nachweis will die Bank mir weder den heutigen Saldo noch Angaben zu einer Versicherung nennen. Ein von mir genannter Betrag wurde auch telefonisch nicht bestätigt.",
+        "Ich habe keinen Auftrag für das Konto erteilt. Das Fahrzeug habe ich nicht abgeholt. Die Schlüssel liegen beim Vermieter, der sie für die Übergabe zählen wollte. Für seine Nachfrage habe ich mir Freitag als Rückruftag eingetragen."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "titel": "AW: Was mir vom Gericht und von Lina vorliegt",
+      "von": "Notariat am Weinbergbogen",
+      "an": "David Mohr",
+      "datum": "2026-10-02",
+      "text": [
+        "Sehr geehrter Herr Mohr, vielen Dank für Ihre Nachricht. Bitte bewahren Sie die Post an Ihre Tochter mit den Umschlägen auf und notieren Sie, wer wann welche Seite vollständig lesen konnte. Bringen Sie auch die Familienunterlagen zur gemeinsamen Sorge mit.",
+        "Wir halten Montag einen telefonischen Rückruf frei. Bitte melden Sie sich schon vorher, wenn das Gericht Ihnen persönlich schreibt. Wir klären dann anhand der Eröffnungsunterlagen mit Ihnen und Frau Mohr, welche Erklärung für welche Person in Betracht kommt."
+      ],
+      "antwort_auf": 8
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "brief",
+      "titel": "Gerichtsmitteilung zu dem Blatt vom 9. Mai 2024",
+      "von": "Amtsgericht Kassel, Nachlassabteilung",
+      "an": "Mara Mohr, zu Händen ihrer Eltern",
+      "datum": "2026-10-06",
+      "text": [
+        "Zum Geschäftszeichen 540 VI 184/26 übersenden wir eine Abschrift der nachträglich eingereichten und eröffneten handschriftlichen Verfügung vom 9. Mai 2024. Die wiedergegebene Passage lautet: „Lina und Mara sollen sich mein ganzes Erbe zur Hälfte teilen. Die Regelung in meinem früheren Brief passt so nicht mehr.“ Die Abschrift zeigt darunter Datum und Namenszug der Erblasserin.",
+        "Die Mitteilung betrifft die Bekanntgabe des Wortlauts. Eine Feststellung zu seiner rechtlichen Auslegung oder zur Wirksamkeit früherer Erklärungen enthält sie nicht. Der in der Familienmappe liegende Umschlag ist an die Anschrift von Lina adressiert. Sie hat darauf „8.10. geöffnet“ vermerkt."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "titel": "Den ganzen Brief habe ich am Freitag gesehen",
+      "von": "David Mohr",
+      "an": "Notariat am Weinbergbogen",
+      "datum": "2026-10-09",
+      "text": [
+        "Danke für Ihren Rückruf zu meiner Nachricht vom 1. Oktober. Hier ist die Kopie, die Lina gestern aus Maras Umschlag nahm. Ich habe sie heute früh bei der Übergabe von Maras Geigenkasten gelesen. Die erste Seite mit einem Datum von 2022 kannte ich aus Linas Ordner, den vollständigen Text von 2024 sehe ich heute erstmals.",
+        "Wir sind uns über den Besuch im Notariat einig. Wer welche Erklärung abgeben kann und wie sich die beiden Verfügungen auswirken, würden wir gern so bald wie möglich besprechen. Ich habe für meinen Arbeitgeber noch keinen Termin bestätigt."
+      ],
+      "anlage_nr": 11,
+      "antwort_auf": 10
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "brief",
+      "titel": "Kreditauskunft zur Ablage bei der Nachlassbearbeitung",
+      "von": "Nordhessische Werkstattbank, Kundenservice",
+      "an": "Nachlassgericht Kassel, Abschrift an Lina Mohr",
+      "datum": "2026-10-12",
+      "text": [
+        "Auf die Anfrage im Nachlass Ruth Hartmann zum früheren Ladenkredit teilen wir für die Vermögensaufnahme mit, dass das Darlehenskonto am Todestag einen Sollsaldo von 8.940,00 EUR aufwies. Der im Jahresauszug 2025 enthaltene Saldo war höher. Eine Restschuldversicherung ist im elektronischen Vertragsregister zu diesem Vertrag nicht verzeichnet.",
+        "Unsere Auskunft umfasst ausschließlich dieses Darlehenskonto. Die laufenden Geschäftskonten, etwaige Sicherungsrechte und der Marktwert der Maschine sind hier nicht geprüft. Eine Zahlungsaufforderung an ein Familienmitglied ist mit dieser Auskunft nicht verbunden."
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "tabelle",
+      "titel": "Arbeitsblatt für Anfall, Kenntnis und Erklärung",
+      "von": "Notariat am Weinbergbogen",
+      "an": "Bearbeitende Person",
+      "datum": "2026-10-01",
+      "text": [
+        "Für wen und in welcher Rolle? | Tatsächliches Ereignis mit Datum und Beleg | Möglicher Fristbeginn und offener Nachweis | Nächster Schritt und Wiedervorlage",
+        "Lina im eigenen Namen | [Quelle und Datum] | [Berechnung und Unsicherheit] | [Eingang beim Gericht nachweisen]",
+        "Lina für Mara | [Kenntnis für welchen Berufungsgrund?] | [Gerichtliche Bekanntgabe prüfen] | [Verfahrensschritt eintragen]",
+        "David für Mara | [Zeitpunkt und Inhalt seiner Kenntnis] | [Zugang und Fristverlauf prüfen] | [Erklärung und Termin abstimmen]",
+        "Familiengericht | [Unterlagen zu Sorge und Berufung] | [Genehmigungsbedarf im Einzelfall begründen] | [Beleg für gerichtlichen Zugang oder Rechtskraft ergänzen]"
+      ]
+    }
+  ]
+}

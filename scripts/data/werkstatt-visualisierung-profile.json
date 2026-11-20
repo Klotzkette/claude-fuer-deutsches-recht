@@ -2805,6 +2805,15 @@
       "mode": "prompt",
       "rationale": "Eigene Inhalte, KI-Szenarien, öffentliche Beiträge und private Kommunikation anhand einer Funktionskarte bis zum begründeten Empfängertext prüfen.",
       "plain_labels": true
+    },
+    "allgemeines-notariat": {
+      "entry_skills": [
+        "amtsgeschaeft-fuehren"
+      ],
+      "theme": "notariat",
+      "mode": "prompt",
+      "rationale": "Beteiligte, dokumentierten Willen, Formweg und konkrete Vollzugsvoraussetzungen auseinanderhalten; eine neue Auskunft im betroffenen Entwurf verarbeiten.",
+      "plain_labels": true
     }
   }
 }

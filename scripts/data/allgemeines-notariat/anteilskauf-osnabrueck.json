@@ -1,0 +1,218 @@
+{
+  "id": "anteilskauf-osnabrueck",
+  "titel": "Die letzte Schicht des Gründers – Anteil Nr. 2 in Osnabrück",
+  "ort": "Osnabrück",
+  "einstieg": "Die Betriebsleiterin Rika Hellmann möchte die Mehrheit an der Haseufer Feinlehren GmbH übernehmen. Der Gründer hat seinem Team den Jahreswechsel als Übergabetag genannt. Der Vertrag soll schon im November zum Notar. Eine abweichende Liste im Datenraum, die Zustimmungsklausel und 40.000 Euro gestundeter Kaufpreis lassen offen, welcher Nachweis die Übergabe tatsächlich auslösen soll.",
+  "auftrag": "Klären Sie mit allen Beteiligten Anteilsgegenstand, Zustimmung, Kaufpreisweg, Wirksamkeit der Abtretung und den getrennten Wechsel der Geschäftsführung. Erstellen Sie einen verhandlungsfähigen Entwurf mit konkreten offenen Punkten sowie eine fallbezogene Vollzugsanweisung für die Gesellschafterliste.",
+  "unterlagen": [
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "titel": "Nachfolge bei Haseufer – ein Termin vor der Inventur?",
+      "von": "Eike Sander, Gesellschafter und Geschäftsführer",
+      "an": "Notariat am Katharinenwall",
+      "datum": "2026-11-02",
+      "text": [
+        "Guten Morgen, ich habe hier vor 28 Jahren mit einer Schleifmaschine und einer Schieblehre angefangen. Rika führt die Frühschicht, kennt die Großkunden und möchte meine 60 Prozent übernehmen. Den Leuten habe ich gesagt, dass sie ab Januar das letzte Wort im Betrieb hat. Meine Schwester Vera behält ihre 40 Prozent.",
+        "Den Zettel vom Küchentisch füge ich bei. Für mich reicht es, wenn die große Rate ankommt und der Rest ordentlich auf Papier steht. Ob meine alte Bürgschaft bei der Hausbank wirklich verschwindet, steht für mich auf einem anderen Blatt. Die Bank hat jede Seite einzeln geschickt. Bitte laden Sie Rika und Vera ebenfalls zur Vorbesprechung ein."
+      ],
+      "anlage_nr": 2
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "titel": "Gespräch beim Schichtwechsel – gemeinsame Eckpunkte",
+      "von": "Eike Sander und Rika Hellmann",
+      "an": "Arbeitsmappe Nachfolge",
+      "datum": "2026-10-28",
+      "text": [
+        "1. Was wir miteinander besprochen haben",
+        "Eike möchte seine gesamte Beteiligung an Rika als Privatperson verkaufen. Auf dem Tisch lagen 180.000 Euro als fester Preis. Rika kann 140.000 Euro über Eigenmittel und ihre Erwerbsfinanzierung aufbringen. 40.000 Euro sollen zunächst bei Eike stehen bleiben. Über Zinsen und eine Sicherheit für den Rest haben wir noch nicht gesprochen.",
+        "2. Übergabe im Betrieb",
+        "Ab 1. Januar soll Rika die Produktion eigenverantwortlich leiten. Beide wünschen die Bestellung zur Geschäftsführerin. Eike möchte Ende Dezember aufhören, ist aber zu einer kurzen Übergabe bereit. Es wurden weder eine Abberufung noch eine Bestellung beschlossen.",
+        "3. Offene Sätze auf dem Papier",
+        "Rika hat neben „Übergang nach Zahlung“ das Wort „Bankrate“ geschrieben. Eike hat neben „Bürgschaft raus“ ein Fragezeichen gesetzt. Die Gesprächsnotiz ist eine Verhandlungsunterlage für den Notartermin. Die Beteiligten möchten sich erst mit einer notariellen Vereinbarung binden."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Gesellschafterliste vom 12. März 2019 – Datenraumkopie",
+      "von": "Haseufer Feinlehren GmbH, Gesellschaftsordner",
+      "an": "Beteiligte der Nachfolge",
+      "datum": "2019-03-12",
+      "text": [
+        "Gesellschafterliste nach Zusammenlegung der von Eike Sander gehaltenen Altanteile. Diese Lesekopie gibt die im Handelsregister aufgenommene Liste wieder. Sitz der Gesellschaft ist Osnabrück. Das Stammkapital beträgt 25.000 Euro.",
+        "Die laufende Nummer 2 hat einen Nennbetrag von 15.000 Euro und vermittelt 60 Prozent. Inhaber ist Eike Sander, geboren am 24. August 1961, wohnhaft in Osnabrück. Die laufende Nummer 3 hat einen Nennbetrag von 10.000 Euro und vermittelt 40 Prozent. Inhaberin ist Vera Veerkamp, geboren am 22. März 1965, wohnhaft in Bramsche.",
+        "Die Nummer 1 ist entfallen. Auf der Datenraumkopie ist der Aufnahmetag 15. März 2019 vermerkt. Der letzte Abruf dieser Datei war im September 2023. Ein aktueller Abruf für den Kauf liegt dieser Ablage noch nicht bei."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "titel": "Inhaber laut Controlling-Export zur Jahresplanung",
+      "von": "Betriebscontrolling Haseufer Feinlehren GmbH",
+      "an": "Geschäftsführung",
+      "datum": "2026-10-30",
+      "text": [
+        "Feld aus Vorlage 2016 | Nummer | Betrag in EUR | Verwendungszweck im Export",
+        "E. Sander | 1 | 15.000,00 | Interne Eigentümerkennung bei Auswertung der Ausschüttung",
+        "V. Veerkamp | 3 | 10.000,00 | Zweite Ausschüttungsempfängerin",
+        "Summe | – | 25.000,00 | Auswertung geschrieben für Jahresplanung; kein Registerabruf"
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Gesellschaftsvertrag – Klauseln im Ordner „Satzung 2019“",
+      "von": "Haseufer Feinlehren GmbH",
+      "an": "Geschäftsführung und Gesellschafter",
+      "datum": "2019-02-15",
+      "text": [
+        "1. Anteile und Übertragungen",
+        "Die Abtretung eines Geschäftsanteils oder eines Teils davon an Personen, die der Gesellschaft bisher nicht als Gesellschafter angehören, bedarf der vorherigen Zustimmung der Gesellschaft. Der Zustimmung der Gesellschaft muss ein Beschluss der Gesellschafter zugrunde liegen. Über diesen Beschluss stimmen die übrigen Gesellschafter ab. Der veräußernde Gesellschafter hat hierbei kein Stimmrecht.",
+        "2. Form der Entscheidung",
+        "Die Zustimmungserklärung der Gesellschaft ist dem Veräußerer und dem Erwerber in Textform mitzuteilen. Die Beschlussfassung außerhalb einer Versammlung ist zulässig, wenn sämtliche Gesellschafter mit dem gewählten Verfahren einverstanden sind. Die Beschlussfassung und die Stimmenabgabe sind in einer Niederschrift festzuhalten.",
+        "3. Geschäftsführung",
+        "Ist nur ein Geschäftsführer bestellt, vertritt er die Gesellschaft allein. Sind mehrere bestellt, vertreten zwei Geschäftsführer oder ein Geschäftsführer gemeinsam mit einem Prokuristen. Die Gesellschafter können einem Geschäftsführer Einzelvertretungsbefugnis erteilen. Diese Leseabschrift umfasst nur die für die Besprechung herausgesuchten Klauseln."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "titel": "Veras Antwort zum Übergabefest",
+      "von": "Vera Veerkamp",
+      "an": "Eike Sander",
+      "datum": "2026-10-30",
+      "text": [
+        "Eike, für die Feier am 8. Januar kannst du mich mit zwei Personen einplanen. Mit Rika als Chefin im Werk kann ich sehr gut leben. Beim Kauf kenne ich bisher nur den Betrag aus deinem Anruf. Wenn ein Teil des Preises erst im kommenden Jahr kommt, möchte ich vor meiner Entscheidung wissen, ob die Firma dafür geradestehen soll.",
+        "Ich bin am 12. November wieder im Büro. Schickt mir für eine Entscheidung bitte die Nummer des Anteils und den Stand der Verhandlung. Hiermit habe ich dir vorerst nur für den Abend zugesagt. Liebe Grüße, Vera."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Finanzierungsangebot für den Anteilserwerb – Eckblatt",
+      "von": "Bank am Hasebogen, Firmenkundenteam",
+      "an": "Rika Hellmann",
+      "datum": "2026-10-29",
+      "text": [
+        "Wir haben für Ihren persönlichen Anteilserwerb ein Darlehen von 105.000 Euro zur Entscheidung vorbereitet. Die ergänzenden Eigenmittel von 35.000 Euro sind vor Auszahlung nachzuweisen. Das Kreditangebot ist bis 25. November befristet. Eine Auszahlung setzt die beiderseits unterzeichnete Kreditdokumentation und die vom Kreditteam noch zu bestätigende Auszahlungsreife voraus.",
+        "Eine Haftung der Haseufer Feinlehren GmbH für Ihr Erwerbsdarlehen ist im Angebot nicht verlangt. Die bisherige Bürgschaft von Herrn Eike Sander für die Betriebsmittellinie der Gesellschaft ist einem anderen Kreditkonto zugeordnet. Über deren Freigabe entscheidet die Firmenkundenbetreuung gesondert. Aus diesem Eckblatt kann kein Freigabebetrag abgeleitet werden."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "titel": "Kaufpreis und Finanzierung – Rikas Monatsplanung",
+      "von": "Rika Hellmann",
+      "an": "Eigene Besprechungsvorbereitung",
+      "datum": "2026-11-01",
+      "text": [
+        "Position | Betrag in EUR | Vorgesehener Zeitpunkt | Nachweis heute",
+        "Preis aus Verhandlung | 180.000,00 | Beurkundungstermin offen | Eckpunkte vom 28.10.",
+        "Eigenmittel | 35.000,00 | Zur ersten Rate | Guthaben auf Tagesgeld",
+        "Persönliches Darlehen | 105.000,00 | Nach Auszahlungsfreigabe | Eckblatt vom 29.10.",
+        "Gestundeter Restpreis | 40.000,00 | Wunsch: vier Raten zu je 10.000 EUR | Erstes Gespräch; feste Termine fehlen",
+        "Betriebsmittellinie der GmbH | 85.000,00 | Laufende Finanzierung der Gesellschaft | Persönliche Bürgschaft von Eike; separat besprechen"
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "chat",
+      "titel": "Was soll im Januar auf dem Briefpapier stehen?",
+      "von": "Rika Hellmann",
+      "an": "Signal-Gruppe Übergabe Haseufer",
+      "datum": "2026-11-02",
+      "text": [
+        "Rika: Die Druckerei will morgen wissen, ob sie mich ab Januar als Geschäftsführerin setzen soll. Ich unterschreibe das bisher als Leiterin Fertigung.",
+        "Eike: Warte mit der Bestellung. Beim letzten Bankgespräch hieß es auch, dass die Unterschriftenkarte für den Betrieb ein eigener Vorgang ist.",
+        "Vera: Ich halte den Termin am 12. frei. Gebt mir vorher den Satzungsordner und die Fragen zur Stundung.",
+        "Rika: Gut, dann bekommt die Druckerei vorerst nur die neue Durchwahl. Die alte Karte für das Geschäftskonto bleibt bei Eike im Safe."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "titel": "Sprechzettel von Rika für das gemeinsame Gespräch",
+      "von": "Rika Hellmann",
+      "an": "Eigene Unterlagen",
+      "datum": "2026-11-03",
+      "text": [
+        "Ich möchte die letzten 40.000 Euro aus meinem Gehalt bezahlen und habe keine Zusage der Gesellschaft eingeplant. Eigentlich müsste ich mit den Gesellschafterrechten arbeiten können, sobald Eike die 140.000 Euro erhalten hat. Sonst würde ich ein Jahr lang die Risiken des Geschäfts mittragen, hätte aber in der Versammlung nichts zu sagen.",
+        "Wir haben über Ausschüttungen und den Gewinn für das laufende Wirtschaftsjahr noch nicht gesprochen. In der Planung stehen 26.000 Euro Geschäftsgewinn, bevor die Jahresabschlussarbeiten beginnen. Das ist kein feststehender ausschüttbarer Betrag. Eike erwartet die Zahlen seines Steuerbüros im Dezember."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "brief",
+      "titel": "Abrufvermerk zur zuletzt aufgenommenen Liste",
+      "von": "Sina Lott, Notariatsmitarbeiterin",
+      "an": "Notariat am Katharinenwall",
+      "datum": "2026-11-10",
+      "text": [
+        "Für die Besprechung habe ich das Registerblatt der Haseufer Feinlehren GmbH und die im Registerordner aufgenommene jüngste Gesellschafterliste eingesehen. Die jüngste Liste ist weiterhin die vom 12. März 2019. Für Eike Sander ist die laufende Nummer 2 mit 15.000 Euro ausgewiesen, für Vera Veerkamp die Nummer 3 mit 10.000 Euro. Als Geschäftsführer ist Eike Sander eingetragen.",
+        "Zu seiner Vertretung ist im Register Einzelvertretungsbefugnis, jedoch keine Befreiung von § 181 BGB angegeben. Im Verzeichnis der eingereichten Dokumente habe ich außerdem eine Satzungsneufassung von 2019 gefunden. Eine Bewilligung des Kaufvertrags durch die Gesellschaft ist dort nicht dokumentiert."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "titel": "AW: Veras Antwort zum Übergabefest",
+      "von": "Eike Sander",
+      "an": "Vera Veerkamp",
+      "datum": "2026-11-11",
+      "text": [
+        "Liebe Vera, die 40.000 Euro will ich von Rika persönlich bekommen. Als Grundlage für den Termin schicke ich die Besprechungsfassung mit den vier Fälligkeiten. Damit bist du über die Kaufpreisidee informiert. Lass uns mit dem Notariat besprechen, wie du über die Zustimmung abstimmst und wer die Erklärung für die Gesellschaft abgibt. Ich würde sonst zugleich für mich selbst und für die Firma am Tisch sitzen.",
+        "Die Bürgschaft bei der Bank soll aus meiner Sicht weiter verhandelt werden. Rika braucht bis dahin keine neuen Briefbögen bestellen. Die Liste haben wir mit der zusammengelegten Nummer im Registerordner gefunden."
+      ],
+      "antwort_auf": 6,
+      "anlage_nr": 13
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "notiz",
+      "titel": "Restkaufpreis – Besprechungsfassung der vier Termine",
+      "von": "Eike Sander und Rika Hellmann",
+      "an": "Vera Veerkamp und Notariat",
+      "datum": "2026-11-10",
+      "text": [
+        "1. Zahlungsplan als Verhandlungsgrundlage",
+        "Vom Kaufpreis von 180.000 Euro sollen 140.000 Euro als erste Zahlung an den Verkäufer gehen. Rika will die verbleibenden 40.000 Euro persönlich in vier Raten zu jeweils 10.000 Euro zahlen, fällig am 31. März, 30. Juni, 30. September und 31. Dezember 2027. Fällt ein Termin auf einen bankfreien Tag, steht eine Bestimmung zum Zahlungseingang noch aus.",
+        "2. Nachweis und Sicherheit",
+        "Beide möchten verhindern, dass eine bloße Überweisungsanweisung ausreicht. Über eine schriftliche Empfangsbestätigung, einen Kontoauszug oder andere Nachweise sollen beim Notariat die praktikablen Alternativen besprochen werden. Eike hat zur Sicherheit für die gestundete Forderung noch keine Auswahl getroffen. Die Gesellschaft hat keine Sicherheit versprochen.",
+        "3. Übergang der Gesellschafterrechte",
+        "Rika wünscht den Übergang nach Eingang von 140.000 Euro. Eike möchte vorher wissen, wie er die vier künftigen Fälligkeiten absichern kann. Die Fassung wurde zur Besprechung versandt. Eine Zustimmung der Gesellschaft oder eine Anweisung zum Listenvollzug enthält sie nicht."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "titel": "Kreditabteilung – Betriebsmittellinie und Bürgschaft",
+      "von": "Bank am Hasebogen, Firmenkundenbetreuung",
+      "an": "Eike Sander",
+      "datum": "2026-11-12",
+      "text": [
+        "Sehr geehrter Herr Sander, zur heutigen Besprechung können wir mitteilen, dass die Kreditabteilung derzeit die Neubesicherung der Betriebsmittellinie von 85.000 Euro prüft. Die früher abgegebene Bürgschaft von maximal 50.000 Euro wird durch den Anteilskauf allein nicht automatisch aus unserem Bestand ausgebucht.",
+        "Bitte teilen Sie uns den gewünschten Termin für das gesonderte Kreditgespräch mit. Eine schriftliche Entlassung aus der Bürgschaft liegt noch nicht vor. Den Erwerbskredit von Frau Hellmann bearbeiten die Kollegen aus der privaten Nachfolgefinanzierung separat."
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "tabelle",
+      "titel": "Vollzugskarte für Anteil, Zustimmung und Liste",
+      "von": "Notariat am Katharinenwall",
+      "an": "Vollzugssachbearbeitung",
+      "datum": "2026-11-03",
+      "text": [
+        "Vorgang | Erforderlicher Erklärender oder Beleg | Was ist noch offen? | Nachweis eingegangen am | Freigabe durch",
+        "Identität des Geschäftsanteils | [Lfd. Nr., Nennbetrag, Liste, Stand] | [Abgleich] | [Datum] | [Name]",
+        "Gesellschaftsinterne Entscheidung | [Zuständigkeit, Stimmen, Verfahren] | [Rückfrage] | [Datum] | [Name]",
+        "Erklärung gegenüber den Parteien | [Vertretung, Interessenkollision, Zustellnachweis] | [Rückfrage] | [Datum] | [Name]",
+        "Bedingung der Abtretung | [Kaufpreisbestandteil und vereinbarter Beleg] | [Rückfrage] | [Datum] | [Name]",
+        "Liste und Mitteilung | [Wirksamkeit und notarieller Mitwirkungsbezug] | [Zeitpunkt] | [Datum] | [Name]",
+        "Geschäftsführung und Bank | [Eigener Beschluss, Anmeldung und Bankunterlagen] | [Rückfrage] | [Datum] | [Name]"
+      ]
+    }
+  ]
+}

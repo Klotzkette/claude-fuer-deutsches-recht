@@ -212,6 +212,37 @@ class RevisionTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             previous_case_readme(self.root, relative, changed)
 
+    def test_catalog_growth_only_reverses_the_two_generated_counts(self):
+        market = ".claude-plugin/marketplace.json"
+        entries = [{"name": "beispiel", "source": "./beispiel"}]
+        put(self.root, market, {"plugins": entries + [
+            {"name": "allgemeines-notariat", "source": "./allgemeines-notariat"}]})
+        put(self.root, "scripts/scoped-release-assets.json", {"schema_version": 1, "assets": {}})
+        sentence = "Dieses Plugin gehört zum Marketplace mit 312 Plugins."
+        old = ("# Beispiel\n<!-- BEGIN direkt-loslegen (autogen) -->\n## Was ist das hier?\n\n"
+               + sentence + " Für die Installation nimm das Einzel-ZIP.\n"
+               + "> Marketplace-Hinweis: " + sentence + " Das Sammelpaket steht bereit.\n"
+               + "<!-- END direkt-loslegen (autogen) -->\n" + sentence + " Fachtext.\n").encode()
+        new = old.replace(b"312 Plugins", b"313 Plugins", 2)
+        path = self.metadata_record("beispiel/README.md", old, old)
+        path.write_bytes(new)
+        self.assertEqual(rev.previous_bytes(self.root, path, plugin="beispiel"), old)
+        self.assertEqual(rev.historical_bytes(self.root, path, rev.digest(old), plugin="beispiel"), old)
+        for changed in (new.replace(b"312 Plugins", b"313 Plugins"),
+                        new.replace(b"Fachtext", b"Fachauftrag"),
+                        new.replace(b"313 Plugins", b"314 Plugins"),
+                        new.replace(b"313 Plugins", b"312 Plugins", 1)):
+            with self.subTest(changed=changed):
+                path.write_bytes(changed)
+                with self.assertRaises(ValueError):
+                    rev.historical_bytes(self.root, path, rev.digest(old), plugin="beispiel")
+        nested = put(self.root, "beispiel/references/README.md", new)
+        self.assertEqual(rev.historical_bytes(self.root, nested, rev.digest(old)), new)
+        put(self.root, market, {"plugins": entries})
+        path.write_bytes(new)
+        with self.assertRaises(ValueError):
+            rev.previous_bytes(self.root, path, plugin="beispiel")
+
     def test_metadata_manifest_cannot_change_description(self):
         put(self.root,'.claude-plugin/marketplace.json',{'plugins':[{'name':'beispiel','source':'./beispiel','version':'2.0.0'}]})
         old=json.dumps({'name':'beispiel','version':'1.0.0','description':'Fachauftrag'}).encode()

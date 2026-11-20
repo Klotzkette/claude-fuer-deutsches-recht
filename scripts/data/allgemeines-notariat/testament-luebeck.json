@@ -1,0 +1,191 @@
+{
+  "id": "testament-luebeck",
+  "titel": "Der blaue Ordner hinter der Seekarte",
+  "ort": "Lübeck",
+  "einstieg": "Die verwitwete Buchbinderin Almut Krogmann lebt mit ihrem Partner Ben Cordes in ihrer Wohnung in Lübeck. Sie möchte ihn dort absichern und auch seine Tochter berücksichtigen. Von einem gemeinschaftlichen Testament mit ihrem verstorbenen Mann ist zunächst nur ein alter Durchschlag greifbar.",
+  "auftrag": "Führen Sie ein persönliches erbrechtliches Beratungsgespräch mit Almut Krogmann und bereiten Sie einen öffentlichen Testamentsentwurf nur so weit vor, wie ihre frühere Verfügung, ihr eigener Wille und ihre Vermögensverhältnisse es tragen.",
+  "unterlagen": [
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-07-06",
+      "titel": "Kann Ben nach meinem Tod in der Wohnung bleiben?",
+      "von": "Almut Krogmann",
+      "an": "Notariat am Klughafen",
+      "text": [
+        "Ich habe 38 Jahre als Buchbinderin gearbeitet. Ben und ich wohnen seit 2020 in meiner Eigentumswohnung im fiktiven Lübecker Windenhof 8. Wenn ich zuerst sterbe, soll er nicht zwischen den Umzugskisten sitzen. Meine Tochter Liske soll die Wohnung auf lange Sicht behalten. Ob das zwingend sofort so sein muss, möchte ich mit Ihnen besprechen.",
+        "Bens Tochter Daria hat mich durch die Schließung der Werkstatt begleitet. Ihr soll etwas aus dem Verkauf meiner Pressen zugutekommen. Ich habe den Geldbetrag noch nicht festgelegt. Mit meinem verstorbenen Mann Hauke habe ich vor vielen Jahren einmal zwei Seiten von Hand geschrieben. Ich möchte Ihnen zunächst allein erklären, was ich mir wünsche."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "datum": "2026-07-06",
+      "titel": "Wer bei uns zur Familie gehört",
+      "von": "Almut Krogmann",
+      "an": "Notariat am Klughafen",
+      "text": [
+        "Hauke und ich haben 1986 geheiratet. Unsere gemeinsame Tochter Liske wurde 1989 geboren. Weitere Kinder haben wir beide nicht. Hauke starb am 22. Mai 2018. Liske ist verheiratet und lebt in Kiel. Ihr Sohn Levin wurde 2021 geboren. Er spielt bei meinen bisherigen Überlegungen noch keine eigene Rolle.",
+        "Ben Cordes und ich sind weder verheiratet noch verpartnert. Seine Tochter Daria aus seiner früheren Beziehung ist erwachsen. Ich habe sie nicht adoptiert. Wenn ich „unsere beiden Mädchen“ sage, meine ich Liske und Daria im Familienalltag. Im alten Schriftstück steht, soweit ich mich erinnere, nur Liskes Name."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2026-07-07",
+      "titel": "Lose Kopie aus dem Schreibtisch – Text vom 14. Februar 2009",
+      "von": "Almut Krogmann, private Urkundenmappe",
+      "an": "Notariat am Klughafen",
+      "text": [
+        "Arbeitswiedergabe der ersten Kopierseite eines handschriftlichen Texts, die Almut aus dem Schreibtisch mitgebracht hat. Überschrift „Unser letzter Wille“. Der lesbare Text lautet: „Wir, Hauke und Almut Krogmann, setzen uns gegenseitig zu alleinigen Erben ein. Nach dem Tod des Letzten von uns soll unsere Tochter Liske unser beider Erbin sein.“",
+        "Darunter ist ein halber Bleistiftkreis mit der Zahl 2 zu sehen. Der Kopierer hat den unteren Rand abgeschnitten. Auf der Kopie sind weder ein möglicher weiterer Satz noch die Unterschriften sichtbar. Almut beschriftete die Hülle „Hauke, Februar 2009“. Sie hat das damalige Original nach eigener Angabe nach Haukes Tod an das Nachlassgericht gegeben."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2026-07-07",
+      "titel": "Begleitschreiben nach dem Todesfall 2018",
+      "von": "Almut Krogmann, Nachlassordner",
+      "an": "Notariat am Klughafen",
+      "text": [
+        "Arbeitswiedergabe des am 20. Juni 2018 in der privaten Postmappe abgelegten gerichtlichen Begleitschreibens, fiktives Aktenzeichen 13 IV 218/18, Amtsgericht Lübeck, Nachlassabteilung. Adressatin ist Almut Krogmann. Das Schreiben nimmt auf die Eröffnung der Verfügung vom 14. Februar 2009 nach dem Tod des Hauke Krogmann Bezug.",
+        "Unter „Anlagen“ sind Abschrift der eröffneten Verfügung und Eröffnungsniederschrift verzeichnet. Die Anlagen befanden sich nicht mehr hinter diesem Schreiben. Rechts am Rand steht in Almuts Schrift „Liske hat auch Post“. Aus dem Begleitschreiben ergibt sich der Inhalt der eröffneten Verfügung nicht."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "datum": "2026-07-08",
+      "titel": "Welche Werte im Juli tatsächlich greifbar sind",
+      "von": "Almut Krogmann",
+      "an": "Persönliche Unterlagen zum Gespräch",
+      "text": [
+        "Position | Größenordnung | Stand und Quelle | Offener Punkt",
+        "Wohnung Windenhof 8 | 345.000 EUR | mündliche Einschätzung der Verwalterin, Juni 2026 | aktueller Grundbuchstand und genauer Wert",
+        "Giro- und Tagesgeld | 39.600 EUR | Kontoübersicht 30. Juni 2026 | daraus werden laufende Kosten bezahlt",
+        "Zwei Buchpressen | 9.800 EUR | schriftliches Kaufinteresse, 1. Juli | noch nicht verkauft, Transport offen",
+        "Erinnerungsstücke aus der Werkstatt | kein Wert ermittelt | Almut kennt die Gegenstände | alte Ahle bereits an Liske übergeben"
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-07-08",
+      "titel": "Die Wohnung und mein monatlicher Anteil",
+      "von": "Ben Cordes",
+      "an": "Almut Krogmann",
+      "text": [
+        "Du wolltest wissen, was mein Dauerauftrag von 440 Euro eigentlich deckt. Ich schreibe als Zweck seit dem Einzug „Haushalt“. Davon gehen Lebensmittel, mein Anteil am Hausgeld und der Glasfaseranschluss ab. Einen schriftlichen Mietvertrag haben wir nie unterschrieben. Zur Finanzierung des Wohnungskaufs habe ich damals nichts beigetragen.",
+        "Für das Gespräch bei der Notarin: Ich könnte die laufenden Betriebskosten tragen. Ob ich nach deinem Tod auf unbestimmte Zeit sämtliche Sonderumlagen zahlen könnte, weiß ich nicht. Wenn ich freiwillig zu Daria ziehe, möchte ich keinen Wohnraum leer stehen lassen. Du darfst diese E-Mail im Gespräch zeigen."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "chat",
+      "datum": "2026-07-09",
+      "titel": "Der blaue Ordner – Austausch mit Liske",
+      "von": "Almut und Liske Krogmann",
+      "an": "Privater Familienchat",
+      "text": [
+        "Liske: Ich habe beim Auszug meines Sohnes die große Seekarte vom Schrank genommen. Dahinter war ein blauer Ordner mit Papas Versicherungsbriefen. Soll ich dir den vorbeibringen?",
+        "Almut: Schau nur nach dem Umschlag vom Gericht aus dem Juni nach seinem Tod. Ich möchte nicht, dass wir uns am Telefon gegenseitig den Text aus dem Gedächtnis vorsagen.",
+        "Liske: Da liegt ein Fensterumschlag. Ich bringe ihn ungeöffnet am Sonntag. Stehen die Pressen eigentlich noch bei dir?",
+        "Almut: Ja. Die Druckwerkstatt hat ein Angebot gemacht. Die Spedition passt mit der großen Presse nur durch den Hof."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2026-07-09",
+      "titel": "Angebot für die beiden Werkstattpressen",
+      "von": "Druckwerkstatt Strandbogen eG",
+      "an": "Almut Krogmann",
+      "text": [
+        "Wir bestätigen unser Kaufinteresse vom 1. Juli für die zwei in Ihrer Werkstatt besichtigten Handpressen. Für die große Presse bieten wir 6.400 Euro, für die zweite 3.400 Euro. Wir würden erst nach Besichtigung des Transportwegs und schriftlicher Einigung über den Abholtermin verbindlich bestellen.",
+        "Eine Anzahlung ist nicht geflossen. Die Transportkosten sind in den genannten Beträgen noch nicht berücksichtigt. Bitte lassen Sie die kleinere Presse bis zur Entscheidung zusammen mit den zugehörigen Anschlägen am bisherigen Standort stehen."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "datum": "2026-07-10",
+      "titel": "Telefonaufnahme zur Terminvorbereitung",
+      "von": "Hanna Solt, Notariat am Klughafen",
+      "an": "Notarin Friederike Werth",
+      "text": [
+        "Frau Krogmann bat ausdrücklich um einen Termin ohne Begleitung. Den blauen Ordner will sie nach dem Wochenende selbst vorbeibringen. Sie möchte darin gemeinsam auffinden, was tatsächlich vom Gericht stammt. Ihre Tochter ist über den Termin unterrichtet. Die Mutter hat derzeit niemanden ermächtigt, Entwürfe oder Gesprächsnotizen für sie zu empfangen.",
+        "Zum ersten Erbfall sagte sie, sie sei in der Wohnung geblieben und habe die Konten ihres Mannes mit der Bank geregelt. Ob das Grundbuch damals berichtigt wurde, erinnert sie nicht sicher. Das angeforderte Blatt soll Eigentumsverhältnisse und Belastungen klären. Einen Entwurf oder eine konkrete Verteilung hat das Notariat am Telefon nicht zugesagt."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "brief",
+      "datum": "2026-07-13",
+      "titel": "Der Rücklauf aus dem blauen Ordner – beide Textseiten",
+      "von": "Almut Krogmann, fiktive Arbeitsabschrift der 2018 eröffneten Verfügung",
+      "an": "Notariat am Klughafen",
+      "text": [
+        "Wiedergabe der zwei Seiten aus dem 2018 versandten Abschriftensatz, Kennzeichen 13 IV 218/18. Auf Seite 1 stehen die gegenseitige Alleinerbeneinsetzung und „Nach dem Tod des Letzten von uns soll unsere Tochter Liske unser beider Erbin sein.“ Der Satz setzt sich auf der Rückseite nicht fort.",
+        "Auf Seite 2 folgt in derselben Handschrift „Wer länger lebt, darf unter unseren Abkömmlingen anders verteilen, wenn ein Enkel etwas braucht. Was aus meiner Werkstatt einmal wird, soll Almut in Ruhe entscheiden.“ Unter dem Datum 14. Februar 2009 sind die Namen Hauke und Almut Krogmann als Unterzeichnende wiedergegeben. Die handschriftliche Urschrift ist nicht Teil dieser Arbeitsakte.",
+        "Die Pressen standen im gemeinsamen Werkstattraum. Almut berichtet, Hauke habe dort vor allem Rahmen repariert, während sie Buchbindearbeiten übernommen habe. Der Wortlaut ordnet die einzelnen Gegenstände keinem von beiden ausdrücklich zu."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "datum": "2026-07-14",
+      "titel": "Meine Vorstellung zu Ben und dem Verkauf der Pressen",
+      "von": "Almut Krogmann",
+      "an": "Notarin Friederike Werth",
+      "text": [
+        "Ich habe die beiden Blattseiten jetzt wieder gesehen. Der Satz mit „meiner Werkstatt“ ist von Haukes Hand geschrieben. Die größere Presse gehörte schon vor der Hochzeit mir, die kleinere haben wir 2004 vom gemeinsamen Konto gekauft. Für die ältere finde ich wohl noch eine Lieferkarte. Ich will die Pressen während meines Lebens selbst verkaufen, sobald die Abholung geklärt ist.",
+        "Ben soll genug Zeit zum Bleiben haben, auch wenn das länger als ein Jahr wäre. Für mich ist offen, was bei einem späteren Auszug oder einer größeren Dachrechnung sinnvoll ist. Bitte nennen Sie mir im Gespräch die Möglichkeiten, die mit dem früheren gemeinsamen Text vereinbar sein können. Für eine Weitergabe an die Familie entscheide ich erst hinterher."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "brief",
+      "datum": "2026-07-15",
+      "titel": "Kurzmitteilung zum Grundbuch der Wohnung",
+      "von": "Almut Krogmann, Eingangskopie aus ihrer Objektmappe",
+      "an": "Notariat am Klughafen",
+      "text": [
+        "Fiktive Lesefassung des aktuell eingeholten Bestands vom 14. Juli 2026, Wohnungsgrundbuch Lübeck Blatt 6729. Bestandsverzeichnis: Wohnung Nr. 5 mit Keller Nr. 5, verbunden mit 83/1.000 Miteigentumsanteilen. Als Eigentümerin ist Almut Krogmann allein verzeichnet. Der Eintragungstext verweist auf eine Berichtigung 2018.",
+        "In der vorgelegten Fassung ist weder ein Wohnungsrecht für Ben Cordes noch dessen Miteigentum verzeichnet. Weitere Fragen zum wirtschaftlichen Verhältnis ihrer Haushalte sind anhand persönlicher Angaben und der Zahlungsunterlagen zu klären. Die Arbeitsfassung enthält keine Auflassungs- oder Bestellungserklärung."
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "notiz",
+      "datum": "2026-07-15",
+      "titel": "Gesprächsbogen – eigene Wünsche und frühere Verfügungen",
+      "von": "Notariat am Klughafen",
+      "an": "Persönliche Testamentsberatung",
+      "text": [
+        "1. Person und Gesprächssituation",
+        "[Wer ist anwesend, wer soll Unterlagen erhalten und welche Wünsche äußert die testierende Person selbst?]",
+        "2. Frühere Verfügung",
+        "[Wortlaut, Datum, Herkunft, Vollständigkeit und noch zu überprüfende Unterlagen eintragen.]",
+        "3. Vorstellungen zu einzelnen Personen",
+        "[Für jede begünstigte Person den Zweck, gewünschte Dauer, Kosten und Auswirkungen bei späteren Änderungen in den Worten der testierenden Person festhalten.]",
+        "4. Bearbeitungsstand",
+        "[Welche Gestaltung kann vorbereitet werden, welche Frage muss vor einer konkreten Verfügung noch geklärt werden?]"
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "tabelle",
+      "datum": "2026-07-15",
+      "titel": "Arbeitsblatt für konkurrierende Zuordnungen",
+      "von": "Notariat am Klughafen",
+      "an": "Notarielle Entwurfsprüfung",
+      "text": [
+        "Gegenstand oder Wunsch | Beleg und Wortlaut | Entscheidender offener Punkt | Weiterbearbeitung",
+        "[Vermögensposition] | [Eigentumsnachweis] | [Zeitpunkt und Herkunft] | [Rückfrage]",
+        "[Person] | [frühere Verfügung] | [Reichweite für den neuen Wunsch] | [Textfassung]",
+        "[Nutzung der Wohnung] | [Vereinbarung] | [Dauer, Kosten oder Beendigung] | [Gesprächspunkt]"
+      ]
+    }
+  ]
+}

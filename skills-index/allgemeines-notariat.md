@@ -1,0 +1,42 @@
+# allgemeines-notariat
+
+**10 Skills** · Stand `v1.0.0`
+
+[Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../allgemeines-notariat/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
+
+## Downloads
+
+| Paket | Format | Link |
+| --- | --- | --- |
+| **Großer Prompt (Werkstatt)** | Markdown | [`allgemeines-notariat-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/allgemeines-notariat-werkstatt.md) |
+| **Derselbe Werkstatt-Prompt als Text** | TXT | [`allgemeines-notariat-werkstatt.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/allgemeines-notariat-werkstatt.txt) |
+| **Kleiner Prompt (Schnellstart)** | Markdown | [`allgemeines-notariat-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/allgemeines-notariat-schnellstart.md) |
+| **Derselbe Schnellstart-Prompt als Text** | TXT | [`allgemeines-notariat-schnellstart.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/allgemeines-notariat-schnellstart.txt) |
+| **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+| **Plugin (installierbar)** | ZIP | [allgemeines-notariat.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/allgemeines-notariat-v1.0.0/allgemeines-notariat.zip) |
+
+## So benutzt man einen Skill
+
+Diese alphabetische Liste zeigt alle Skills im Quellbestand. Umfangreiche Spezialserien werden im installierten Paket teilweise über einen Fachrouter geöffnet und sind dann keine eigenen Menüeinträge. Werkstatt und Schnellstart sind eigenständige Ein-Datei-Prompts außerhalb des Plugin-ZIPs.
+
+English: This index lists source skills, including specialist series accessed through topic routers in the installed package. Workshop and quick-start files are separate standalone prompts. A skill download provides unchanged Markdown, not an installation; additional references or tools may be required.
+
+- **Schnelltest mit einer Datei:** oben auf den Schnellstart-Markdown klicken, die `.md` als Anhang in den Chatbot ziehen.
+- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausführlichen Arbeitsmodus verwenden.
+- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen und entpacken. Es enthält neben jeder `SKILL.md` auch deren Markdown-Referenzen; beim manuellen Einsatz die benötigten Dateien gemeinsam bereitstellen.
+- **Einzelnen Skill laden:** in der Tabelle auf den Skillnamen oder auf `MD herunterladen` klicken. Beide Wege speichern dieselbe Markdown-Datei.
+
+## Skills in diesem Plugin
+
+| Skill | Beschreibung | Markdown-Datei |
+| --- | --- | --- |
+| [`amtsgeschaeft-fuehren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/amtsgeschaeft-fuehren/SKILL.md) | Führt die persönliche notarielle Prüfung bei Grundstück, Gesellschaft, Familie, Verein und Nachlass. Erarbeitet aus dem konkreten Begehren einen neutralen Entwurf, eine begründete Amtsentscheidung und den nächsten Vollzugsschritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/amtsgeschaeft-fuehren/SKILL.md) |
+| [`beteiligte-und-vertretung-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/beteiligte-und-vertretung-pruefen/SKILL.md) | Klärt für den konkreten Akt Identität, Vertretungsmacht, ausländische Nachweisketten und Verfahrensform. Entwirft die erforderliche Anforderung oder Genehmigung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/beteiligte-und-vertretung-pruefen/SKILL.md) |
+| [`erbausschlagung-fuer-minderjaehrige-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/erbausschlagung-fuer-minderjaehrige-pruefen/SKILL.md) | Prüft Berufungsgrund, Ausschlagungsfrist, elterliche Vertretung und familiengerichtliche Genehmigung. Erstellt Erklärung, Genehmigungsantrag oder fristbezogene Unterlagenanforderung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/erbausschlagung-fuer-minderjaehrige-pruefen/SKILL.md) |
+| [`gmbh-anteilskauf-und-liste-vollziehen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/gmbh-anteilskauf-und-liste-vollziehen/SKILL.md) | Bereitet Verpflichtung, Abtretung und Zustimmungen beim GmbH-Anteilskauf vor und bestimmt den belegten Zeitpunkt für die neue Gesellschafterliste. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/gmbh-anteilskauf-und-liste-vollziehen/SKILL.md) |
+| [`testament-und-erbvertrag-gestalten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/testament-und-erbvertrag-gestalten/SKILL.md) | Ermittelt den persönlichen letzten Willen, prüft Vorbindungen und entwirft für Patchworkfamilien Erbeinsetzung, Ersatz, Vermächtnis und Änderungsbefugnis. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/testament-und-erbvertrag-gestalten/SKILL.md) |
+| [`ueberlassung-und-wohnungsrecht-gestalten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/ueberlassung-und-wohnungsrecht-gestalten/SKILL.md) | Ordnet Flurstücke, Gegenleistungen und Versorgung bei einer Übergabe. Entwirft Überlassungsvertrag, Wohnungsrecht, Rangregelung und erforderliche Nachforderungen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/ueberlassung-und-wohnungsrecht-gestalten/SKILL.md) |
+| [`vereinsvorstand-zum-register-anmelden`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/vereinsvorstand-zum-register-anmelden/SKILL.md) | Prüft Satzung, Einladung, Wahl, Annahme und Vertretungsregel bei einem e. V. Erstellt Anmeldung, Belegverzeichnis und gezielte Berichtigungsanfrage. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/vereinsvorstand-zum-register-anmelden/SKILL.md) |
+| [`vollzug-und-freigaben-steuern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/vollzug-und-freigaben-steuern/SKILL.md) | Hält nach dem Termin Rangstellen, Bedingungen, Treuhandauflagen und Registeranträge auseinander. Erstellt die nächste zulässige Vollzugshandlung oder die konkrete Nachforderung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/vollzug-und-freigaben-steuern/SKILL.md) |
+| [`vorsorgevollmacht-beurkunden`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/vorsorgevollmacht-beurkunden/SKILL.md) | Bereitet ein persönliches, barrieregerechtes Vollmachtsgespräch vor und entwirft Umfang, Kontrollen, Ausfertigungsregeln und das geeignete Beurkundungsverfahren. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/vorsorgevollmacht-beurkunden/SKILL.md) |
+| [`wohnungskauf-und-lastenausgleich-gestalten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/wohnungskauf-und-lastenausgleich-gestalten/SKILL.md) | Bereitet einen Bestandswohnungskauf vom Grundbuch- und Entwurfsabgleich bis zur gesicherten Kaufpreisfälligkeit und Eigentumsumschreibung vor. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/wohnungskauf-und-lastenausgleich-gestalten/SKILL.md) |

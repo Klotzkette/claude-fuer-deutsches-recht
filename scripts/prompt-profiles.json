@@ -809,6 +809,18 @@
       ],
       "megaprompt": false,
       "hand_curated": true
+    },
+    "allgemeines-notariat": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
     }
   }
 }

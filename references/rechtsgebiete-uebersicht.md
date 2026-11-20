@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.35.3: 312 Plugins, 3163 Skills.
+Stand v445.35.3: 313 Plugins, 3173 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -13,6 +13,7 @@ Stand v445.35.3: 312 Plugins, 3163 Skills.
 | [`aktenaufbereiter-strafrecht`](../aktenaufbereiter-strafrecht/) | Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergänzbar. Erkennt Lücken und Widersprüche. Kein Ersatz für Aktenlektüre. | `445.36.9` | 13 |
 | [`aktenauszug-gerichtsverfahren`](../aktenauszug-gerichtsverfahren/) | Strukturierter Aktenauszug für deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie Verfahrensgeschichte tabellarische Gegenüberstellung der Parteivorträge Beweismittel und Rechtsargumente für schnelle Einarbeitung in Akten. | `445.36.9` | 8 |
 | [`aktienrecht-hauptversammlung-ag-se`](../aktienrecht-hauptversammlung-ag-se/) | Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung, virtuelle HV, Q&A, Abstimmung, Niederschrift, Anfechtungsrisiko und Post-HV. | `445.36.9` | 8 |
+| [`allgemeines-notariat`](../allgemeines-notariat/) | Amtsgeschäfte deutscher Notarinnen und Notare von der ersten Anfrage bis zum Vollzug. Zehn Skills für Grundstücke, Nachfolge, Vorsorge, Erbausschlagung, Vereinsregister und GmbH-Anteile. | `1.0.0` | 10 |
 | [`anlagen-zu-schriftsaetzen`](../anlagen-zu-schriftsaetzen/) | Gerichtsprozess-Dokumentenproduktion bis zur beA-fertigen Versandmappe: liest Schriftsatz und Anlagenordner, führt K/B/AST/AG fort, konvertiert und stempelt jede PDF-Seite, prüft ERVV, Signatur, Dateinamen, Empfänger und Eingang und liefert Verzeichnis, Manifest und Freigabevermerk. | `445.36.9` | 9 |
 | [`antidiskriminierung-agg`](../antidiskriminierung-agg/) | Antidiskriminierung nach dem AGG: Bewerbungen, Arbeitsbedingungen, Beschwerden, Wohnraum und Dienstleistungen prüfen. Zehn Workflows verbinden Fristen, Indizien, Rechtfertigung und konkrete Schreiben mit kultursensibler Sachverhaltsaufnahme. | `445.36.9` | 10 |
 | [`anwaltschaft-generell`](../anwaltschaft-generell/) | Anwaltschaft - Mandate im Alltag: zehn Skills für wirtschaftsrechtliche Dokumentarbeit vom belegten Aktenstand über Ansprüche, Verträge, Arbeit und Datenschutz bis zum Schreiben, Vergleich oder Schriftsatz. | `445.36.9` | 10 |

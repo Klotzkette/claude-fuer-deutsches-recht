@@ -1,0 +1,72 @@
+{
+  "wohnung-stuttgart": {
+    "quelle_sha256": "bfb9fdf1b62047a788b9c66a7f1085e2aa510d27674d9a57db69230148cd8dd7",
+    "aktenstuecke": 14,
+    "seiten": 14,
+    "sha256": {
+      "downloads/testakte-notariat-wohnung-stuttgart.zip": "9f632b1dbb4d939eea0db15980ef9f7355611b6b0a313ae84f6cc38bba4ef208",
+      "downloads/testakte-notariat-wohnung-stuttgart-einzelpdfs.zip": "ace8db7d3ebdd3d9339945ba85ce74a2b1159bc5167959c28dc2c55ac829a307",
+      "gesamt-pdf/testakte-notariat-wohnung-stuttgart_gesamt.pdf": "bca0bc847ad07887d824206a9cef62152bba60af3b11d76b170944bb15dfec2c"
+    }
+  },
+  "hofuebergabe-tuebingen": {
+    "quelle_sha256": "a2c00dceaafbadc0d971aa91f58a1147d2cc6a3bb1d93bfc4f4af7c0448691bc",
+    "aktenstuecke": 14,
+    "seiten": 14,
+    "sha256": {
+      "downloads/testakte-notariat-hofuebergabe-tuebingen.zip": "fdcddcebf906399ff643296f7c16855f67a7b1a69638c23641bb49176021942e",
+      "downloads/testakte-notariat-hofuebergabe-tuebingen-einzelpdfs.zip": "eac5114e3f24be477454d0a94ae1c57381a2e50e526a868da39d059f73ae1659",
+      "gesamt-pdf/testakte-notariat-hofuebergabe-tuebingen_gesamt.pdf": "354f9a25fe5fffb59a7a3278c5beedfcfa03cb83592b06dee11dea03753633fe"
+    }
+  },
+  "testament-luebeck": {
+    "quelle_sha256": "28d2ff6d3d6ad2822b4892088bda713a25e54eb966e329822e7480eeb0abd1be",
+    "aktenstuecke": 14,
+    "seiten": 14,
+    "sha256": {
+      "downloads/testakte-notariat-testament-luebeck.zip": "7b2a97940c857bca4bb96965b49be6d40abed181438b0633e7dc1707332e2355",
+      "downloads/testakte-notariat-testament-luebeck-einzelpdfs.zip": "4bb65fb35caf22f89679c55087a9d645bfad809f5ac98cd243fe4428fd3e8337",
+      "gesamt-pdf/testakte-notariat-testament-luebeck_gesamt.pdf": "e96390bbf1df6c1b5149e830c5ec397978f461a486d919e64f9feec284c0a29c"
+    }
+  },
+  "vorsorgevollmacht-bonn": {
+    "quelle_sha256": "243a8f31908aba304ace3ef9df7a12be83612ce1c9b1a241e5b35e656ab4ea4c",
+    "aktenstuecke": 14,
+    "seiten": 14,
+    "sha256": {
+      "downloads/testakte-notariat-vorsorgevollmacht-bonn.zip": "4ab2e4989c41683b6e44a82552fd3023744f01467bda0d01aec2f67f580e0d87",
+      "downloads/testakte-notariat-vorsorgevollmacht-bonn-einzelpdfs.zip": "c20a1ac9cc881b58f25654af4f306553a879b00c876e7e7addec11d5b99b9fd6",
+      "gesamt-pdf/testakte-notariat-vorsorgevollmacht-bonn_gesamt.pdf": "620c3d2cb915b22f206c128a9dfc3915aa4434618eeb8c4c69f43c481fce0bc6"
+    }
+  },
+  "erbausschlagung-kassel": {
+    "quelle_sha256": "598361e1d98e5135eea0f1ecf04b2dd53b41e542e10558ebbf17e4ed57200596",
+    "aktenstuecke": 14,
+    "seiten": 14,
+    "sha256": {
+      "downloads/testakte-notariat-erbausschlagung-kassel.zip": "716507e189a39cada48276470a0bf6cef8bc5b5524e8e567b9c2c70a76e83aed",
+      "downloads/testakte-notariat-erbausschlagung-kassel-einzelpdfs.zip": "a369366608573fba940de4b7c31c399ea316971cb6ff52d1d2ef49c7be14a4ff",
+      "gesamt-pdf/testakte-notariat-erbausschlagung-kassel_gesamt.pdf": "d6fb07673ce480a3cded24bdf219b0538c727796a0abae8f709e6b3200c03658"
+    }
+  },
+  "vereinsvorstand-jena": {
+    "quelle_sha256": "6738f704c89ba32cdaf99d90ac15fd8cea7ea1ded40a3c48db74e98692b162fc",
+    "aktenstuecke": 13,
+    "seiten": 13,
+    "sha256": {
+      "downloads/testakte-notariat-vereinsvorstand-jena.zip": "67eb218547f6452bc9eab2eeed128a72ba588cc5ea01679f86338c4f934e961b",
+      "downloads/testakte-notariat-vereinsvorstand-jena-einzelpdfs.zip": "af27f27d372af3705b8360c49109448dbefd9cd7db245309cfbf6e924f4cdd9c",
+      "gesamt-pdf/testakte-notariat-vereinsvorstand-jena_gesamt.pdf": "83fd187983f628c7f0d4712059aa4bfb1e36de38f6f220bb7b2a4f6f31880722"
+    }
+  },
+  "anteilskauf-osnabrueck": {
+    "quelle_sha256": "78294cb9d7cd0fd22e559e665be02e5853118e4f35d1d4148b6579522ee4d8b1",
+    "aktenstuecke": 15,
+    "seiten": 15,
+    "sha256": {
+      "downloads/testakte-notariat-anteilskauf-osnabrueck.zip": "fd0e6ea23672f1f24f3995e830e7ea8ef211189ce55278d1f9fea45d1fecac66",
+      "downloads/testakte-notariat-anteilskauf-osnabrueck-einzelpdfs.zip": "922aa700cd403a874fa7c6a5719c622b0d764c516c7d455bd99682cd81409926",
+      "gesamt-pdf/testakte-notariat-anteilskauf-osnabrueck_gesamt.pdf": "b11be68fa25982569ccf25b2354bf10856589f0a5ca7711042761a93e8de3a5d"
+    }
+  }
+}

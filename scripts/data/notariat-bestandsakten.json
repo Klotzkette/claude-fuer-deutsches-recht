@@ -1,0 +1,80 @@
+{
+  "aml-notariat-kaufpreis-drittzahlung-muenster": {
+    "titel": "1. Kaufpreisbelege und Drittzahlung in Münster",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-aml-notariat-kaufpreis-drittzahlung-muenster.zip",
+    "sha256": "8284a6d7b499f01a0b90d329a2b2997585898ec4cf5a7cae1c0cfc30418be88c",
+    "size": 73296
+  },
+  "aml-notariat-kaufpreis-wuerzburg": {
+    "titel": "Würzburg Die Quittung in der Keksdose",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-aml-notariat-kaufpreis-wuerzburg.zip",
+    "sha256": "405313a38f2c8424b9ea62b5147647d7009fed83878473f07a18cea11f3c1b3f",
+    "size": 1486460
+  },
+  "gesellschaftsrecht-egbr-grundbuch-register-bremen": {
+    "titel": "Zwei Blätter, ein falscher Name · Kontorwerft eGbR",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-gesellschaftsrecht-egbr-grundbuch-register-bremen.zip",
+    "sha256": "fb6539ca9ec6206ef2370e8c3f84d7e5376d5115b22f453d38aeb332704c9ce2",
+    "size": 1940799
+  },
+  "neuralis-medtech-erlangen-gestaltungsakte": {
+    "titel": "Neuralis MedTech in Erlangen – Wer kann die Geschäftsführung anweisen?",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-neuralis-medtech-erlangen-gestaltungsakte.zip",
+    "sha256": "5476f4eb8490afd0d4cdec627f17b75cd4b51c6f77e36c200f18b172992f68b2",
+    "size": 1521394
+  },
+  "notariat-alltag-waldwinkel-gmbh-immobilien-erbfall": {
+    "titel": "Akte Waldwinkel: GmbH-Anteile, Hofgrundstück, Erbfolge und drei Registerrückfragen",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip",
+    "sha256": "fd8290bf7192a57464a57e370e65ff15a5cf6c419fd291a1cb66ec09d7e6b092",
+    "size": 432510
+  },
+  "notariat-anteilsuebertragung-verpfaendung-bremen": {
+    "titel": "Anteilsverkauf und Bankverpfändung in Bremen",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-notariat-anteilsuebertragung-verpfaendung-bremen.zip",
+    "sha256": "e7b30666b6efb0cb5c643a9a301b159bee8735e19dc9539d553ccf5a5b2778f1",
+    "size": 126292
+  },
+  "notariat-bautraegerkauf-parkhof-potsdam": {
+    "titel": "Bauträgerkauf Parkhof in Potsdam",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-notariat-bautraegerkauf-parkhof-potsdam.zip",
+    "sha256": "68f2c09c53b9065b865836d2804f3929e666266e5d06ea58efa739ad0356daf9",
+    "size": 115385
+  },
+  "notariat-berlin-mumbai-gesellschafterliste": {
+    "titel": "Spreekern: Ein Director, zwei Unterschriften",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-notariat-berlin-mumbai-gesellschafterliste.zip",
+    "sha256": "51291c0a065e3d939cf77bd2d6e95c9004940553f96b2e733bdacce362e851aa",
+    "size": 2083139
+  },
+  "notariat-berlin-vae-vertretungsnachweis": {
+    "titel": "Havelquarz: Der Stempel reist später",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-notariat-berlin-vae-vertretungsnachweis.zip",
+    "sha256": "99ab521299c1c6517f6c912121e82a8715a11e37539c84c053f97e7eaa855d5d",
+    "size": 1965586
+  },
+  "notariat-gmbh-gruendung-rostock": {
+    "titel": "GmbH-Gründung mit externem Geschäftsführer in Rostock",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-notariat-gmbh-gruendung-rostock.zip",
+    "sha256": "f05cb145bc2d50907e511a13fd220df4da810804069ed678ba9d536faf06c973",
+    "size": 150887
+  },
+  "notariat-grundschuld-bankauftrag-erfurt": {
+    "titel": "Grundschuld und Bankauftrag in Erfurt",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-notariat-grundschuld-bankauftrag-erfurt.zip",
+    "sha256": "4194151c8885fb8ee7c5b896fff0543a1edfd90b45d6f960d917309000a352f8",
+    "size": 114364
+  },
+  "notariat-kapitalerhoehung-geschaeftsfuehrer-ulm": {
+    "titel": "Kapitalerhöhung und Geschäftsführerwechsel in Ulm",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-notariat-kapitalerhoehung-geschaeftsfuehrer-ulm.zip",
+    "sha256": "57f7fc14a803a4ebe005fb00f36593a7f44f8537100486504b49b49347c14017",
+    "size": 125905
+  },
+  "notariat-unterschriftsbeglaubigung-hannover": {
+    "titel": "Unterschriftsbeglaubigung einer Genehmigung in Hannover",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-notariat-unterschriftsbeglaubigung-hannover.zip",
+    "sha256": "f4f63a02b121bc9129a47983e04a9632427f324874823457dab08277e3374dd8",
+    "size": 112903
+  }
+}

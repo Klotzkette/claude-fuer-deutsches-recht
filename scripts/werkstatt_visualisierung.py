@@ -181,6 +181,7 @@ FAMILY_OVERRIDES = {
     "us-sanktionspruefer": "beziehungen",
 }
 LABEL_OVERRIDES = {
+    "allgemeines-notariat": "die notarielle Amtsentscheidung",
     "jugendmedienschutz-und-medienangebote": "Jugendmedienschutz und Medienangebote",
     "sozialversicherungspflicht-pruefer": "Sozialversicherungsstatus",
     "compliance-abteilung-grosskonzern": "Compliance in der Industrie",
@@ -194,6 +195,13 @@ LABEL_OVERRIDES = {
 # Diese Mandate brauchen auch eine eigene Datengrundlage und ein passendes Ergebnis,
 # nicht nur eine andere Zeichnung innerhalb der allgemeinen Themenfamilie.
 ROUTE_OVERRIDES = {
+    "allgemeines-notariat": (
+        "Welchen Willen hat jede beteiligte Person geäußert, und welche Urkunden- oder Vollzugshandlung trägt der belegte Stand?",
+        "Ordne Wunsch, Erklärung und Nachweis jeder Person zu. Zeige der Notarin zuerst den nächsten entscheidbaren Schritt und die offene Voraussetzung, etwa den Inhalt einer Löschungsbewilligung oder die persönliche Erklärung eines Elternteils.",
+        "Öffne auf Wunsch die konkrete Belegstelle. Bei einer Nachreichung zeige, welche Klausel, Belehrung oder Vollzugsanweisung sich dadurch ändert. Vermerke, was im persönlichen Termin noch festzustellen ist.",
+        "Beteiligte, eigener Wille, maßgebliche Fassung, vorgelegter Nachweis mit Datum, rechtliche Tragweite und persönliche Feststellungen der Urkundsperson",
+        "der beauftragte Urkundenentwurf, das neutrale Beteiligtenanschreiben oder der begründete Vollzugsvermerk",
+    ),
     "jugendmedienschutz-und-medienangebote": (
         "Welche Produktfunktion erreicht welche Altersgruppe und wer verantwortet die dort sichtbaren Inhalte?",
         "Zeige eine Funktionskarte mit Produktversion, eigenen Inhalten oder Vermittlung, Altersgruppe, öffentlichem oder privatem Zugangsweg, Aktenbeleg und erforderlicher Maßnahme. Ein Datenfluss kann verdeutlichen, wann ein privater KI-Entwurf zu einem veröffentlichten Inhalt wird.",

@@ -1,0 +1,196 @@
+{
+  "id": "wohnung-stuttgart",
+  "titel": "Der zweite Schlüssel zur Wohnung am Hang",
+  "ort": "Stuttgart",
+  "einstieg": "Eva Sailer verkauft ihre seit Jahren selbst genutzte Wohnung an Maya und Leander Ott. Der Möbelwagen ist gebucht. In der Objektmappe gibt es zwei Grundbuchblätter, zwei Banken und einen Schlüssel mit der Aufschrift „17“, während im Kaufpreisblatt ein Stellplatz „12“ steht.",
+  "auftrag": "Bereiten Sie für alle Parteien den Entwurf und den weiteren Ablauf vor. Klären Sie, was mitverkauft werden soll, welche Rechte gelöscht werden können und wer unter welchen Voraussetzungen Zahlungen und Schlüsselübergabe veranlassen darf.",
+  "unterlagen": [
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-09-07",
+      "titel": "Eckdaten von der Besichtigung am Samstag",
+      "von": "Eva Sailer",
+      "an": "Notariat am Staffelgarten",
+      "text": [
+        "Liebe Frau Greif, ich möchte meine Wohnung in der fiktiven Stuttgarter Finkenstaffel 18 an Maya und Leander Ott verkaufen. Wir sind uns über insgesamt 428.000 Euro einig. Die Käufer wollen je zur Hälfte erwerben. Die Einbauküche bleibt drin. Sie ist mit 8.000 Euro in den 428.000 Euro enthalten. Wir handeln alle privat.",
+        "Ich habe den alten Kaufvertrag von 2014 hervorgeholt. Die beiden letzten Seiten lagen im Garagenordner, weil ich beim Einzug dafür einen eigenen Schlüssel bekam. Die Otts würden gern am 23. Oktober hinein. Können Sie uns allen den Entwurf zuschicken? Ich bin bis Ende nächster Woche wegen der Umzugskartons am besten per Mail erreichbar."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2026-09-07",
+      "titel": "Lesekopie aus Sailers Kaufmappe 2014 – Wohnung Nr. 7",
+      "von": "Eva Sailer, private Vertragsablage",
+      "an": "Notariat am Staffelgarten",
+      "text": [
+        "Auszug aus der von Eva Sailer 2014 abgelegten Kaufvertragsabschrift. Arbeitswiedergabe für den Entwurf. Die Abschrift enthält den Grundbuchstand vom 18. März 2014.",
+        "Abschnitt 2 der Abschrift nennt 64/1.000 Miteigentumsanteile, verbunden mit dem Sondereigentum an der im Aufteilungsplan als Nr. 7 bezeichneten Wohnung im zweiten Obergeschoss links und dem Kellerraum K7. Das damals bezeichnete Wohnungsgrundbuch von Stuttgart, Blatt 8462, führt die Wohnung unter Bestandsnummer 1. Im Schlüsselverzeichnis sind Wohnung, Haustor und Keller aufgezählt.",
+        "Auf der abgehefteten Folgeseite wird ein weiterer Kaufgegenstand auf einem gesonderten Blatt genannt. Außerdem ist für die Leitungen entlang des Hinterhofs ein Recht des Versorgers beschrieben. Frau Sailer hat neben dieser Stelle mit Kugelschreiber „bleibt“ notiert. Die Seiten geben weder die heutigen Belastungen noch den Stand der Grundakte wieder."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2026-09-07",
+      "titel": "Garagenordner – Bestandsblatt TG 17",
+      "von": "Eva Sailer, private Objektunterlagen",
+      "an": "Notariat am Staffelgarten",
+      "text": [
+        "Arbeitsabschrift des zur Übergabe 2014 verwendeten Bestandsblatts. Teileigentumsgrundbuch von Stuttgart, Blatt 8531, Bestandsnummer 1. Als Aufteilungsnummer ist TG 17 vermerkt. Der Miteigentumsanteil beträgt 3/1.000. Im Protokoll ist ein Garagenschlüssel 17 verzeichnet.",
+        "An der Wand des Platzes ist auf dem Foto aus dem Ordner eine aufgemalte 12 zu erkennen. Das Foto zeigt keine Nummer im Aufteilungsplan. Auf der Rückseite des Bestandsblatts steht „Markierung nach Sanierung prüfen“. Ein aktueller amtlicher Auszug war nicht in der Hülle."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "datum": "2026-09-07",
+      "titel": "Kaufpreisblatt aus der Küchenbesprechung",
+      "von": "Maya und Leander Ott",
+      "an": "Eva Sailer",
+      "text": [
+        "Gegenstand | Vereinbarter Anteil in EUR | Vermerk vom 5. September",
+        "Wohnung Nr. 7 einschließlich Keller | 398.000 | Selbstnutzung nach Umzug",
+        "Stellplatz laut Wand 12 | 22.000 | Im Garagenordner heißt der Schlüssel 17",
+        "Küche einschließlich Backofen und Kühlschrank | 8.000 | bleibt beim Auszug, ohne Waschmaschine",
+        "Gesamtkaufpreis | 428.000 | Finanzierung und Eigenmittel beziehen sich auf diesen Betrag"
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "datum": "2026-09-08",
+      "titel": "Umschlag mit den beiden Kreditunterlagen",
+      "von": "Eva Sailer",
+      "an": "Notariat am Staffelgarten",
+      "text": [
+        "Von der Staffelbank stammt die damalige Finanzierung. Auf deren Jahresauszug zum 31. Dezember 2025 stehen 147.620 Euro als Restschuld, auf dem alten Grundschuldformular 220.000 Euro. Die Raten gingen danach weiter ab. Als Sicherheit nennt die Zweckerklärung Wohnung und Tiefgarage.",
+        "Unter dem Trennblatt Stadtwerkbank liegt ein zweites Formular für 35.000 Euro, Blatt 8462. Das war der Kredit für die Fenster. Ich erinnere mich an die letzte Rate im Frühjahr 2022, aber in meinen Unterlagen finde ich nur einen Kontoabschluss, keinen Löschungsbrief. Meine Schwester schaut noch in der Mappe „abbezahlt“ nach."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-09-09",
+      "titel": "Ihre Finanzierung – Unterlagen für die Auszahlung",
+      "von": "Pia Hepp, Kesselblick Kreditbank",
+      "an": "Maya und Leander Ott",
+      "text": [
+        "Ihr Finanzierungsrahmen für den Erwerb beträgt 320.000 Euro. Die in unserer Haushaltsrechnung aufgeführten 108.000 Euro Eigenmittel bilden den übrigen Teil des Kaufpreises. Bitte planen Sie die Erwerbsnebenkosten zusätzlich aus Ihrer Rücklage ein.",
+        "Unsere Zusage allein löst keine Auszahlung aus. Wir benötigen die abgestimmten Sicherheitenunterlagen und den Nachweis der vertraglich vorgesehenen Fälligkeitsvoraussetzungen. Geben Sie uns Bescheid, sobald Sie einen Entwurf mit der Bezeichnung beider Kaufgegenstände erhalten haben. Eine Verfügung über das Konto der Verkäuferin treffen wir nicht."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "chat",
+      "datum": "2026-09-09",
+      "titel": "Nachrichten nach der Garagenbesichtigung",
+      "von": "Maya Ott und Eva Sailer",
+      "an": "Chat zur Schlüsselübergabe",
+      "text": [
+        "Maya: Vor dem Stellplatz stand heute wieder der blaue Kombi. Waren wir unter der 12 richtig? Ich würde am Donnerstag gern mit unserem Wagen ausprobieren, ob die Heckklappe aufgeht.",
+        "Eva: Ja, ich parke an der Säule mit dem gelben Schutzbügel. Als mein Mann noch lebte, stand an derselben Stelle eine 17. Der Hausmeister hat nach der Sanierung neu gestrichen.",
+        "Maya: Unser Möbelwagen ist für Freitag, den 23. Oktober, disponiert. Ist die Wohnung vorher schon frei, falls das Geld noch unterwegs ist?",
+        "Eva: Leer ist sie vielleicht, aber vom Zweitschlüssel habe ich noch nichts versprochen. Lass uns dafür erst hören, was die Banken brauchen."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "datum": "2026-09-10",
+      "titel": "Rückruf der Hausverwaltung zur Garage",
+      "von": "Rieke Greif, Sachbearbeitung",
+      "an": "Notarin Dr. Mara Kessel",
+      "text": [
+        "10.15 Uhr, Herr Boy von der Hangbogen Hausverwaltung rief auf meine Nachricht zurück. Bei der Sanierung gab es eine neue Stellplatzbeschilderung. Er will sowohl den Aufteilungsplan als auch die bei der Verwaltung geführte Zuordnungsliste heraussuchen. Seine Erinnerung allein reiche ihm hierfür nicht.",
+        "Der Wirtschaftsplan führt bei Frau Sailer Wohnung 7 und einen Anteil für die Garage. Zur Frage einer Verwalterzustimmung kann Herr Boy telefonisch nichts Verbindliches sagen. Die vollständige Gemeinschaftsordnung mit Nachträgen soll aus dem Archiv geholt werden. Die Käufer möchten den Termin erst nach dem Entwurf abstimmen."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-09-10",
+      "titel": "Wo sollen die Anfragen an die Banken hingehen?",
+      "von": "Rieke Greif, Notariat am Staffelgarten",
+      "an": "Eva Sailer",
+      "text": [
+        "Für die beiden Rechte liegen hier unterschiedliche Ansprechpartner vor. Können Sie uns schriftlich bestätigen, an welche Banken wir wegen der Lastenfreistellung herantreten dürfen, und uns die jeweiligen Darlehensreferenzen nennen? Für ein Schreiben an die Käuferbank benötigen wir die dortige Ansprechperson getrennt.",
+        "Bitte teilen Sie auch mit, ob für die Fensterfinanzierung noch ein Grundschuldbrief oder eine Löschungsbewilligung bei Ihnen verwahrt wird. Wir lassen bis zur Klärung sowohl den tatsächlichen Ablösebetrag als auch den Übergabetermin im Arbeitsentwurf offen."
+      ],
+      "antwort_auf": 1
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "brief",
+      "datum": "2026-09-14",
+      "titel": "Staffelbank – Stand für eine mögliche Ablösung",
+      "von": "Staffelbank eG, Kreditservice",
+      "an": "Notariat am Staffelgarten",
+      "text": [
+        "Auf die Anfrage im Auftrag von Frau Sailer teilen wir zum Darlehenskonto Ende 461 mit: Bei Wertstellung am 22. Oktober 2026 beläuft sich die vorläufige Ablöseberechnung auf 143.510,40 Euro. Für die nächsten fünf Kalendertage nach dem Stichtag nennt die Berechnung täglich 14,20 Euro. Bei späterem Eingang ist neu anzufragen.",
+        "Die Besicherung umfasst laut unserem Bestand die Blätter 8462 und 8531. Die verbindlichen Treuhandauflagen und die Freigabeunterlagen werden nach Vorlage der vollständigen Kaufvertragsdaten gesondert erteilt. Diese Auskunft enthält keine Löschungsbewilligung und noch keine Zahlungsanweisung. Für die Stadtwerkbank können wir keine Erklärung abgeben."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "tabelle",
+      "datum": "2026-09-15",
+      "titel": "Zuordnungsliste aus der Tiefgaragenverwaltung",
+      "von": "Hangbogen Hausverwaltung, Jens Boy",
+      "an": "Notariat am Staffelgarten",
+      "text": [
+        "Quelle und Stand | Planbezeichnung | Wandmarkierung | Lage",
+        "Arbeitsgrundlage Hausverwaltung, Revision 2023 | TG 16 | 11 | links neben Stütze C",
+        "Arbeitsgrundlage Hausverwaltung, Revision 2023 | TG 17 | 12 | rechts der Stütze C mit gelbem Bügel",
+        "Arbeitsgrundlage Hausverwaltung, Revision 2023 | TG 18 | 13 | Stirnwand West",
+        "Kontrolle bei Begehung 15. September 2026 | TG 17 nach Arbeitsliste | 12 lesbar | Planabgleich mit Grundakte ausstehend"
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "datum": "2026-09-16",
+      "titel": "Fensterdarlehen gefunden – im Umschlag liegt nur eine Kopie",
+      "von": "Eva Sailer",
+      "an": "Rieke Greif, Notariat am Staffelgarten",
+      "text": [
+        "Meine Schwester hat den Kontoabschluss und eine Kopie mit dem Vermerk „Briefgrundschuld“ gefunden. In der Kopie steht die laufende Nr. 2 zu Blatt 8462. Die letzten vier Ziffern des Darlehenskontos waren 3398. Sie dürfen sich für mich an den Kreditservice der Stadtwerkbank wenden. Für die Staffelbank gilt dasselbe, Endziffern 0461.",
+        "Wir haben den Umschlag bei Tageslicht noch einmal durchgesehen. Einen Originalbrief oder eine vom Gläubiger im Original ausgestellte Löschungsbewilligung gab es darin nicht. Inzwischen hat Maya die Nummer 17 auf der Verwaltungsliste gesehen. Wegen eines früheren Schlüsseltermins möchte ich erst nach Ihrem Entwurf entscheiden."
+      ],
+      "antwort_auf": 9
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "tabelle",
+      "datum": "2026-09-16",
+      "titel": "Arbeitsblatt Lastenfreistellung und Kaufpreiswege",
+      "von": "Notariat am Staffelgarten",
+      "an": "Sachbearbeitung und notarielle Prüfung",
+      "text": [
+        "Prüfpunkt | Quelle und Datum | Stand oder Betrag | Noch einzuholen",
+        "1.1 Erwerbsgegenstand je Blatt | [Auszug] | [Bestandsnummer] | [Abgleich]",
+        "1.2 Zu übernehmende und zu löschende Rechte | [Abteilung und laufende Nummer] | [Recht je Blatt] | [Nachweis]",
+        "2.1 Ablöseauflagen je Gläubiger | [Schreiben] | [Stichtag und Tageszins] | [Freigabe und Frist]",
+        "2.2 Zahlbetrag an Verkäuferin | [Kaufpreis und erfüllbare Auflagen] | [Berechnung] | [offener Betrag]",
+        "3.1 Besitzübergang und Erklärung an die Beteiligten | [Vereinbarung] | [Voraussetzung] | [zuständige Person]"
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "notiz",
+      "datum": "2026-09-16",
+      "titel": "Entwurfsbogen für die gemeinsame Rückmeldung",
+      "von": "Notariat am Staffelgarten",
+      "an": "Beteiligte des Wohnungskaufs",
+      "text": [
+        "1. Kaufgegenstände",
+        "Bitte bestätigen Sie die Bezeichnung der Wohnung und des Stellplatzes anhand von [Unterlage, Blatt und Bestandsnummer]. Ihre Ergänzung lautet [Angabe].",
+        "2. Übernahme und Inventar",
+        "Die Beteiligten haben für die mitverkauften Gegenstände Folgendes festgehalten: [Gegenstände, Einzelwerte und offener Punkt].",
+        "3. Übergabewunsch",
+        "Gewünscht wird [Termin]. Dafür sind noch [Unterlagen oder Zusagen] einzuholen. Bei einer Verschiebung ist [Ansprechperson] zu erreichen."
+      ]
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.35.3`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 3163 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 3173 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -19,6 +19,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [aktenaufbereiter-strafrecht](./aktenaufbereiter-strafrecht.md) (13 Skills)
 - [aktenauszug-gerichtsverfahren](./aktenauszug-gerichtsverfahren.md) (8 Skills)
 - [aktienrecht-hauptversammlung-ag-se](./aktienrecht-hauptversammlung-ag-se.md) (8 Skills)
+- [allgemeines-notariat](./allgemeines-notariat.md) (10 Skills)
 - [anlagen-zu-schriftsaetzen](./anlagen-zu-schriftsaetzen.md) (9 Skills)
 - [antidiskriminierung-agg](./antidiskriminierung-agg.md) (10 Skills)
 - [anwaltschaft-generell](./anwaltschaft-generell.md) (10 Skills)
@@ -404,6 +405,7 @@ Beginne einen Vorgang mit dem Hauptskill des passenden Plugins. Gib den Auftrag 
 | [aktenaufbereiter-strafrecht](./aktenaufbereiter-strafrecht.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktenaufbereiter-strafrecht/skills/juristischer-argumentationskern/SKILL.md) |
 | [aktenauszug-gerichtsverfahren](./aktenauszug-gerichtsverfahren.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktenauszug-gerichtsverfahren/skills/juristischer-argumentationskern/SKILL.md) |
 | [aktienrecht-hauptversammlung-ag-se](./aktienrecht-hauptversammlung-ag-se.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktienrecht-hauptversammlung-ag-se/skills/juristischer-argumentationskern/SKILL.md) |
+| [allgemeines-notariat](./allgemeines-notariat.md) | [`amtsgeschaeft-fuehren` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/skills/amtsgeschaeft-fuehren/SKILL.md) |
 | [anlagen-zu-schriftsaetzen](./anlagen-zu-schriftsaetzen.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anlagen-zu-schriftsaetzen/skills/juristischer-argumentationskern/SKILL.md) |
 | [antidiskriminierung-agg](./antidiskriminierung-agg.md) | [`agg-fall-zum-schreiben-fuehren` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=antidiskriminierung-agg/skills/agg-fall-zum-schreiben-fuehren/SKILL.md) |
 | [anwaltschaft-generell](./anwaltschaft-generell.md) | [`mandat-bis-zum-schreiben-bearbeiten` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anwaltschaft-generell/skills/mandat-bis-zum-schreiben-bearbeiten/SKILL.md) |

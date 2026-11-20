@@ -125,6 +125,7 @@ def download_readmes(root: Path) -> list[Path]:
             directory = root / plugin["source"].removeprefix("./")
             paths.add(directory / "README.md")
             paths.update((directory / "testakte").rglob("README.md"))
+            paths.update((directory / "testakten").rglob("README.md"))
     return sorted(path for path in paths if path.is_file())
 
 
