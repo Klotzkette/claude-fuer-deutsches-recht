@@ -1,0 +1,3930 @@
+{
+  "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Mir ist eine Anfrage zu einer bereits laufenden Händleraktion in Erinnerung geblieben. Der Händler hatte nach dem Bearbeitungsstand gefragt und später noch einmal auf dieselbe Nachricht geantwortet. Wenn du suchst, ist diese zweite Nachricht wahrscheinlich aussagekräftiger als die erste Weiterleitung. Ich möchte beim Gespräch um die Stelle in Sales Operations beschreiben können, was ich ohne Hilfe geschafft habe."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Ehemalige Ansprechperson im Vertriebsinnendienst",
+        "an": "Lisa Muster",
+        "titel": "Das zweite Schreiben des Händlers",
+        "text": [
+          "Lisa, im gemeinsamen Postfach kann ich nach der Aktion suchen. Auf einem Ausdruck steht als Absender immer nur der Vertriebsinnendienst. Die einzelnen Bearbeitungsvermerke muss ich unmittelbar am Vorgang nachsehen.",
+          "Ich erinnere mich, dass du Rückfragen zur Bestellung selbst angenommen hast. Für eine Preisänderung musste unsere Teamleitung dazukommen. Welche der Nachrichten tatsächlich von dir ist, würde ich dir erst nach dem Blick in den Verlauf bestätigen.",
+          "Ich hänge dir die Tabelle „Arbeitsblatt zur damaligen Händleraktion“ an."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-03-25",
+        "anlage_nr": 5
+      },
+      {
+        "typ": "notiz",
+        "von": "Lisa Muster",
+        "an": "Private Bewerbungsmappe",
+        "titel": "Was ich bei der Händleraktion am Telefon konnte",
+        "text": [
+          "Den Stand eines Auftrags konnte ich dem Händler nach einem Blick ins CRM nennen. Wenn er andere Konditionen wollte, nahm ich seine Nummer auf und legte die Anfrage der zuständigen Person vor.",
+          "Für das Gespräch bringe ich den damaligen Ausdruck und die interne Ausschreibung mit. Ich will herausfinden, ob die heutige Stelle dieselbe Freigabestufe verlangt."
+        ],
+        "datum": "2026-03-25"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Arbeitsblatt zur damaligen Händleraktion",
+        "von": "Vertriebsinnendienst Uferwerk",
+        "an": "Lisa Muster",
+        "text": [
+          "Schritt|Wer im Vorgang sichtbar ist|Was für die Zuordnung noch fehlt",
+          "Eingang des Händlers|Gemeinsames Vertriebsfach|Ursprüngliche Vorgangsnummer",
+          "Rückruf zum Bearbeitungsstand|Name auf der Rückrufnotiz|Abgleich mit der damaligen Besetzung",
+          "Änderung von Konditionen|Freigabe durch die zuständige Leitung|Auftragsbezogene Freigabezeile"
+        ],
+        "datum": "2026-03-25"
+      }
+    ]
+  },
+  "gerichtsplugins/richter-arbeitsgericht/testakte": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Wenn ein Lieferschein fehlt, meldet sich die Werkstatt zuerst bei mir. Von außen sieht man im Buchungsjournal am Schluss nur einen fertigen Buchungssatz. Gerade diese Anrufe kosten Zeit. Ich möchte wissen, ob dafür ab Mai noch jemand im Haus eingeplant ist."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Betriebsrat Edelholz",
+        "an": "Hildegard Sauer",
+        "titel": "Was die Übergabeliste zu Edelholz aussagt",
+        "text": [
+          "Frau Sauer, im Plan ist als auszulagernde Leistung die laufende Buchhaltung bezeichnet. Für den fehlenden Lieferschein finde ich keinen namentlichen Ansprechpartner. Damit können wir Ihnen noch nicht sagen, wer Ihren bisherigen Rückruf übernimmt.",
+          "Können Sie uns einen tatsächlich abgeschlossenen Vorgang ohne Kundenanschrift zeigen? Wir würden beim nächsten Gespräch genau diesen Arbeitsweg ansprechen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-04-28"
+      },
+      {
+        "typ": "notiz",
+        "von": "Hildegard Sauer",
+        "an": "Privater Gesprächszettel",
+        "titel": "Die Rechnung mit dem fehlenden Lieferschein",
+        "text": [
+          "Am Vormittag rief der Einkauf bei mir an. Die Unterschrift auf dem Lieferschein bekam ich erst, als der Kollege aus dem Lager zurückkam. Gebucht habe ich am Nachmittag.",
+          "Die tägliche Liste erfasst nur die Buchung. Die Werkstatt kann den ersten Anruf erklären. Die Kundenanschrift lasse ich für den Termin abgedeckt."
+        ],
+        "datum": "2026-04-28"
+      }
+    ]
+  },
+  "gerichtsplugins/richter-sozialgericht/testakte": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Am Schreibtisch kann ich die Sitzposition selbst wechseln. Bei einer Besprechung bleibe ich dagegen oft länger sitzen und bin anschließend schon auf dem kurzen Rückweg langsamer. Mein Kalender unterscheidet diese Situationen bisher nicht. Ich könnte einen gewöhnlichen Arbeitstag und den folgenden Morgen mitbringen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Praxis Dr. Veit",
+        "an": "Hildegard Sauer",
+        "titel": "Ihr Termin bei Dr. Veit",
+        "text": [
+          "Frau Sauer, bringen Sie gern zwei typische Tage mit. Schreiben Sie in Ihren eigenen Worten auf, welche Tätigkeit Sie begonnen haben, wann Sie unterbrechen mussten und was danach noch möglich war. Auch ein vergleichsweise guter Tag hilft uns.",
+          "Die Unterlagen von Frau Dr. Mohr bleiben separat. Über eine mögliche Belastungsdauer hat die Anmeldung am Telefon keine ärztliche Aussage getroffen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-04-12"
+      },
+      {
+        "typ": "notiz",
+        "von": "Hildegard Sauer",
+        "an": "Eigene Unterlagen",
+        "titel": "Am Tag nach der längeren Besprechung",
+        "text": [
+          "Die Besprechung ging ohne Pause weiter. Als ich aufstand, brauchte ich einen Moment vor dem ersten Schritt. Zuhause habe ich das Abendessen in zwei Abschnitten vorbereitet.",
+          "Den nächsten Termin habe ich morgens wahrgenommen. Anschließend blieb der Einkauf liegen. Die Fahrt zum Termin und die Dauer dort kann ich im Kalender nachsehen."
+        ],
+        "datum": "2026-04-12"
+      }
+    ]
+  },
+  "quality/steuerrecht-freiburg/tomasius-solo": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei Verschiebungen kann ich mit einzelnen Familien unmittelbar eine passende Stunde finden. Ohne freie Raumzeit kommt diese Stunde trotzdem nicht zustande. Auf meiner letzten Abrechnung steht nur der Unterrichtstag. Ich möchte den Vorgang einmal vollständig dokumentieren, bevor bei der nächsten Raumänderung die alte Kalenderfassung überschrieben wird."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Mara Kirschner, Musikschule",
+        "an": "Hubertus Tomasius",
+        "titel": "Raumtausch SVA-25 am Donnerstag",
+        "text": [
+          "Herr Tomasius, in unserer Raumliste steht der von Ihnen vorgeschlagene Donnerstag. Den Dienstag kann ich erst anderweitig vergeben, wenn die Änderung für die Gruppe eingetragen ist. Die Unterrichtsinhalte stimmen Sie weiterhin selbst mit den Schülerinnen und Schülern ab.",
+          "Bitte schicken Sie mir nach dem Termin kurz, ob er stattgefunden hat. Der Raumplan dient dem Sekretariat zur Belegung und ersetzt Ihre Honoraraufstellung nicht."
+        ],
+        "antwort_auf": 1,
+        "datum": "2025-09-19"
+      },
+      {
+        "typ": "notiz",
+        "von": "Hubertus Tomasius",
+        "an": "Musikschulordner",
+        "titel": "Wie ich den ausgefallenen Termin nachhole",
+        "text": [
+          "Zuerst habe ich in der Gruppe nach einem neuen Termin gefragt. Dann musste das Sekretariat den Raum bestätigen. Mit einem eigenen Schüler außerhalb der Musikschule hätte ich diese zweite Abstimmung nicht gebraucht.",
+          "Die Noten und Übungen lagen bereits bei mir. Für die Rechnung entscheidend ist der Tag, an dem die Gruppe wirklich gespielt hat."
+        ],
+        "datum": "2025-09-19"
+      }
+    ]
+  },
+  "testakten/agg-bewerbung-sprachanforderung-berlin": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Gespräch konnte ich den Unterschied zwischen dem frühen Dienst und der geforderten Sprache nicht richtig einordnen. Ich hatte meiner Freundin unmittelbar danach vom Dienstbeginn geschrieben. Sie könnte die Nachricht aus ihrem eigenen Verlauf zeigen, ohne meine spätere Zusammenfassung zu kennen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Beratung",
+        "an": "Frau Demir",
+        "titel": "Zu Ihren zwei Bildern der Stelle KS-26-17",
+        "text": [
+          "Frau Demir, lassen Sie uns den Link, den Sie vor der Bewerbung erhalten haben, zusammen mit dem ersten Bild ansehen. Den späteren Ausdruck bringen Sie bitte mit dem Datum mit, an dem Sie ihn selbst erstellt haben.",
+          "Für die Dienste brauchen wir die Vereinbarung, die Herr Roth Ihnen tatsächlich vorgeschlagen hat. Eine Frage nach Ihrer Verfügbarkeit kann der Sprachvorgabe vorausgegangen sein. Den genauen Wortlaut prüfen wir mit Ihnen im Gespräch."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-09-11"
+      },
+      {
+        "typ": "chat",
+        "von": "Aylin Demir",
+        "an": "Chat mit der Freundin",
+        "titel": "Der ursprüngliche Stellenlink",
+        "text": [
+          "Aylin: Hast du noch die Nachricht, mit der du mir die Stelle geschickt hast? Ich suche den Stand vor meinem Gespräch.",
+          "Freundin: Der Link ist da. Auf meinem Handy sehe ich daneben auch noch die kleine Vorschau der damaligen Anzeige.",
+          "Aylin: Bitte lass das so. Die Seite, die sich heute beim Antippen öffnet, habe ich schon selbst."
+        ],
+        "datum": "2026-09-11"
+      }
+    ]
+  },
+  "testakten/anwaltschaft-arbeitsrecht-vertrieb-mainz": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Nils, der Kunde ruft bei Torben durch, auch wenn im CRM inzwischen Nora als zuständig erscheint. Das ist für die Übergabe wichtig. Für die Provision interessiert mich zusätzlich, wer den Auftrag im fraglichen Zeitraum angebahnt hat. Kannst du bei einem Serienkunden beide Schritte zeigen?"
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Vertriebsleitung",
+        "an": "Marlene Krämer",
+        "titel": "Zuordnung ab November und Torbens aktueller Rückruf",
+        "text": [
+          "Marlene, ich plane mit Nora für die Serienkunden. Sie hat die früheren Gesprächsnotizen noch nicht alle. David kann die Standardangebote schon vorbereiten. Bei einer technischen Rückfrage habe ich Torben deshalb trotz der Urlaubswoche angesprochen.",
+          "Die geplante Verteilung sagt noch nichts darüber, wessen Arbeit bei einem älteren Abschluss zu vergüten ist. Für solche Fragen kann ich die Übergabemail nach Kunde heraussuchen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-09-07"
+      },
+      {
+        "typ": "notiz",
+        "von": "Nils Berg",
+        "an": "Vertriebsübergabe",
+        "titel": "Warum an einem Kunden zwei Namen stehen",
+        "text": [
+          "Das CRM-Feld zeigt die künftig zuständige Person. Wenn vor der Übergabe ein Angebot neu gerechnet wurde, ist die ältere Version noch dem früheren Betreuer zugeordnet.",
+          "Für die laufende Nachfrage brauche ich den letzten Kontakt. Für die Provisionsfrage brauche ich zusätzlich die Vertragsannahme und den Abrechnungsmonat."
+        ],
+        "datum": "2026-09-07"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei Jonas Winter stehen die ursprüngliche Vertragsdatei und die Zusage von Mai 2025 unter demselben Vorgang. Die Frage nach einer Befristung lässt sich durch Zählen der Dateien nicht erledigen. Bitte eine Zeile für P022 lassen und vermerken, wo die Suche nach der Papierfassung steht."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Transaktionsteam",
+        "an": "Personalservice Innovation Systems",
+        "titel": "Eine Personalnummer für Jonas Winter",
+        "text": [
+          "Wir führen P022 genau einmal. Bei diesem Datensatz ist die Befristung bis September 2026 angegeben. Als Nachweis sehen wir bisher die verschickte Datei und Winters Antwort.",
+          "Können Sie das Register der zurückgesandten Vertragsexemplare neben die digitale Akte legen? Es würde uns für die Kaufgespräche helfen, den tatsächlichen Eingang von der vorgesehenen Laufzeit zu trennen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-09-08"
+      },
+      {
+        "typ": "notiz",
+        "von": "Elias Becker",
+        "an": "Personalregistratur",
+        "titel": "Durchsicht P022",
+        "text": [
+          "Die Nachricht mit den Konditionen liegt im Ausgang vom Mai. Die spätere Zusage lässt sich am Absender von Herrn Winter erkennen. Im Papierfach ist ein Einstellbogen abgelegt.",
+          "Bei der nächsten Archivrunde die Rückläufe des damaligen Eintrittsmonats durchsuchen. Eine zweite Personalnummer braucht Winter dafür nicht."
+        ],
+        "datum": "2026-09-08"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-ceo-fraud-do-regress-freiburg": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Der telefonische Rückruf um 10.18 Uhr und die schriftliche Zusammenstellung gingen über verschiedene Kanäle. Ob sämtliche fünf Zahlungen schon beim Telefonat einzeln bezeichnet wurden, können wir aus unserem Ausdruck nicht ersehen. Für das Gespräch mit Frau Falk möchte ich die zeitliche Reihenfolge sauber halten."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Bankbetreuung",
+        "an": "Treasury-Leitung",
+        "titel": "Rückrufauftrag TK-2026-0918",
+        "text": [
+          "Herr Mertens, wir ordnen Ihre schriftliche Bitte den Positionen T01 bis T05 zu. Im telefonischen Eingangsvermerk steht die Uhrzeit des Erstkontakts. Für die einzelnen Zahlungsreferenzen gibt es eigene Bearbeitungsvermerke.",
+          "Aus der Annahme eines Rückrufauftrags ergibt sich noch keine Rückbuchung. Wir geben Ihnen einen Buchungsnachweis, sobald sich zu einer Position auf dem Konto etwas ändert."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-09-18"
+      },
+      {
+        "typ": "notiz",
+        "von": "Treasury Dreisamtal",
+        "an": "Tagesmappe BERGFINK",
+        "titel": "Nach dem Telefonat mit der Bank",
+        "text": [
+          "Die fünf belasteten Positionen tragen im Kontoauszug eigene Referenzen. Neben jeder steht in unserer Arbeitskopie eine freie Zeile für spätere Gutschriften. Der Betrag wird nicht schon bei Weitergabe des Rückrufs aus der Schadensliste entfernt.",
+          "Welcher Warnhinweis Frau Falk wann vorlag, müssen wir aus dem damaligen Posteingang klären. Das Konto beantwortet diese Frage nicht."
+        ],
+        "datum": "2026-09-18"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "In der Frühschicht haben wir bereits Interessierte. Nach dem Aushang rechnen die Leute in der Spätschicht damit, dass der Kurs schon voll ist. Zwei aus der Nacht würden ihren freien Vormittag nutzen, müssten danach aber wieder an die Linie. Gibt es für sie einen eigenen Termin?"
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Personalentwicklung",
+        "an": "Schichtvertretung",
+        "titel": "Zwölf erste Kursplätze in Amberg",
+        "text": [
+          "Im ersten Entwurf stehen tatsächlich sämtliche zwölf Plätze in der Frühschicht. Für die anderen Schichten prüfen wir eigene Termine. Eine Kursanmeldung allein ändert den Dienstplan nicht.",
+          "Bitte fragt die Interessierten getrennt nach Lernbedarf und tatsächlich erreichbarem Termin. Sonst landet eine Kollision mit der Schicht als vermeintlich fehlendes Interesse auf unserer Liste.",
+          "Im Anhang finden Sie die Tabelle „Erste Platzverteilung für die Oberflächenprüfung“."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-12",
+        "anlage_nr": 6
+      },
+      {
+        "typ": "notiz",
+        "von": "Nachtvertretung Windenfeld",
+        "an": "Schichtbüro",
+        "titel": "Rückmeldung am Ende der Nacharbeit",
+        "text": [
+          "Die beiden Kolleginnen an der Nacharbeit haben nach dem Aushang gefragt. Eine könnte vor Schichtbeginn lernen, die andere muss nach Schichtende direkt nach Hause. Beide wollen die Arbeit an der bildgestützten Prüfung kennenlernen.",
+          "Auf den Rückmeldezetteln stehen deshalb zwei verschiedene Zeitwünsche. Eine gemeinsame Schulungsliste darf daraus keine zwei Absagen machen."
+        ],
+        "datum": "2026-10-12"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Erste Platzverteilung für die Oberflächenprüfung",
+        "von": "Personalentwicklung Windenfeld",
+        "an": "Schichtvertretung",
+        "text": [
+          "Schicht|Beschäftigte im Bereich|Vorgesehene Zielrollen|Plätze im ersten Kursentwurf",
+          "Früh|24|10|12",
+          "Spät|18|7|0",
+          "Nacht|12|5|0"
+        ],
+        "datum": "2026-10-12"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Wenn ich den Kunden am Telefon habe, sehe ich zunächst nur den Kurztext zur Rücknahme. Bei den 36 Boxen stand dort eine kostenfreie Rückgabe. Die Bearbeiteransicht öffnet sich erst mit einem zusätzlichen Klick. Ich kann heute nicht sicher sagen, ob ich sie bei diesem Anruf geöffnet habe."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Serviceleitung",
+        "an": "Jaro Ahlfs",
+        "titel": "Fall mit den 36 Mehrwegboxen",
+        "text": [
+          "Jaro, wir haben den Vorgang für die Durchsicht markiert. In der aktuellen Kurzmaske ist der Haken vorhanden. Das ist eine heutige Ansicht. Wir brauchen zusätzlich die frühere Version und den Zeitpunkt des Gesprächs.",
+          "Bitte notiere separat, welche Formulierung du dem Kunden vorgelesen hast. Die beiden Lieferfenster betreffen andere Kontakte und sollen beim Abgleich nicht in denselben Vorgang rutschen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-26"
+      },
+      {
+        "typ": "notiz",
+        "von": "Serviceannahme Nordensteg",
+        "an": "Rückrufmappe",
+        "titel": "Was der Kunde bei der Rücknahme hören wollte",
+        "text": [
+          "Seine konkrete Frage war, wer die Kosten für die Rückgabe der Boxen übernimmt. Eine Zustimmung zur Rücknahme als solche hätte die Frage offen gelassen.",
+          "Im Gesprächszettel neben der Kundennummer war nur Platz für einen Kurztext. Für den vollständigen Wortlaut der erteilten Auskunft den ursprünglichen Versand oder Gesprächsvermerk heranziehen."
+        ],
+        "datum": "2026-10-26"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei den sechs Vorrichtungen hatten wir sowohl einen Angebotspreis als auch eine interne Untergrenze vorliegen. Die Zahlen betreffen verschiedene Dinge. Ich möchte beim Gespräch sagen können, welche Spalten auf meinem Bildschirm zu sehen waren, ohne den Preisanhang noch einmal weiterzuschicken."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Einkaufsleitung",
+        "an": "Mila Schuster",
+        "titel": "Einsicht in den Preisanhang vom 5. Oktober",
+        "text": [
+          "Mila, wir legen den betreffenden Stand im Einkaufsbüro zur gemeinsamen Ansicht bereit. Die Untergrenze und die Durchwahlen stehen nicht auf jedem Ausdruck. Welche Fassung auf deinem Gerät tatsächlich geöffnet war, wollen wir dort gesondert aufnehmen.",
+          "Nimm bitte den Vermerk zur Übersetzung vom August mit. Ob der Browser an jenem Tag den betrieblichen Zugang zeigte, ist damit noch nicht geklärt."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-23"
+      },
+      {
+        "typ": "notiz",
+        "von": "Einkauf Finkenmaß",
+        "an": "Büroablage Kalibriervorrichtungen",
+        "titel": "Ausdruck für das Lieferantengespräch",
+        "text": [
+          "Der Ausdruck am Besprechungstisch war für den Lieferanten bestimmt. Er enthält andere Spalten als das interne Arbeitsblatt. Beide tragen den Projektnamen der sechs Vorrichtungen.",
+          "Bei der Einsicht zuerst die Spaltenüberschriften notieren. Eine Weiterleitung des vollständigen internen Blatts ist für diesen Vergleich nicht nötig."
+        ],
+        "datum": "2026-10-23"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei einer Rücksendung habe ich bisher zuerst das Fehlerbild aufgenommen und erst danach die passenden Prüfschritte ausgewählt. Von der Endprüfung kenne ich einzelne Arbeitsschritte. Für mich hängt an der Frage, ob ich zwei Wochen lernen müsste oder ob eine völlig andere Stelle gemeint ist."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Personalbüro",
+        "an": "Ayla Benedek",
+        "titel": "Die Kennungen FP-17 und Q-42",
+        "text": [
+          "Frau Benedek, im vorliegenden Stand ist FP-17 bei uns besetzt. Q-42 steht auf dem Blatt der Schwestergesellschaft. Bei den im Betrieb verbleibenden Diagnoseaufgaben ist eine kürzere Einweisung vorgesehen.",
+          "Ich kann Ihnen heute keine Stelle zusagen. Bitte nennen Sie uns zwei Arbeitsschritte, die Sie an zurückgesandten Steuergeräten bereits erledigen. Damit können wir die Aufgabenprofile mit der Fachabteilung konkret vergleichen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-26"
+      },
+      {
+        "typ": "notiz",
+        "von": "Ayla Benedek",
+        "an": "Beratungsmappe",
+        "titel": "Was ich bei Rückläufern selbst mache",
+        "text": [
+          "Ich lese den Fehlerbericht und ordne den Rückläufer einer Prüfgruppe zu. Kommt das Gerät nach einer Reparatur zurück, gleiche ich die gemeldete Störung mit dem zweiten Prüfprotokoll ab.",
+          "In der Endprüfung der Schwesterfirma habe ich keine Schicht gearbeitet. Dort würde ich die Prüfmittel und die Freigaberegel erst vor Ort kennenlernen müssen."
+        ],
+        "datum": "2026-10-26"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-ki-pflichtsystem-und-schulung": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Auf dem Papierzettel stehen Übergabe und Tourenbeginn auf eigenen Zeilen. In Zeitfalz sieht die Nachtschicht zunächst nur eine Summe. Wenn ich von vornherein den Sammelsatz bestätige, kann der Kollege, der morgens übernimmt, den Unterschied nicht mehr an meinem Zettel erkennen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Schulungskoordination",
+        "an": "Nachtdisposition",
+        "titel": "Papierzettel bis zum nächsten Export aufheben",
+        "text": [
+          "Für die Nachtgruppe ist im veröffentlichten Profil keine örtliche Korrektur vorgesehen. Ihr könnt den betroffenen Zettel mit Schichtdatum kennzeichnen und uns dessen Kennung schicken. Personenbezogene Zeiten gehören nicht in den ganzen Verteiler.",
+          "Für die Einweisung brauchen wir einen Termin, an dem jemand anderes die Fahrer einteilt. Die Vorführung am Terminal und die Übernahme der Tour sind keine Tätigkeit derselben Person zur selben Minute."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-12"
+      },
+      {
+        "typ": "chat",
+        "von": "Nachtdisposition Silberwacht",
+        "an": "Tagesübergabe",
+        "titel": "Zettel mit den zwölf Minuten",
+        "text": [
+          "Nacht: Im Papier steht die Übergabe vor der ersten Tour. Im Summenfeld finde ich sie nicht wieder.",
+          "Früh: Ich sehe beim Öffnen nur die Schichtsumme. Hast du die Kennung des Zettels?",
+          "Nacht: Ja, sie steht auf dem Original im Fach. Bitte lass das Blatt dort, bis die Rückmeldung kommt."
+        ],
+        "datum": "2026-10-12"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-ki-scoring-und-beteiligung": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei Jana Korab finde ich den Bewerbungseingang und die Mitteilung vom 7. Dezember. Der Kalender der Gespräche zeigt dagegen nur die eingeladenen Personen. So kann ich nicht erkennen, ob jemand ihr Profil vor dem Versand tatsächlich geöffnet hat."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Projektleitung Personalsoftware",
+        "an": "Recruiting",
+        "titel": "Stufenrad bei der Besetzung der Werksprüfung",
+        "text": [
+          "Im System gibt es eine Rangansicht und getrennt davon die geöffneten Bewerbungen. Ein Eintrag unterhalb der Schwelle taucht nicht automatisch in der Gesprächsliste auf. Ob eine Person ihn zusätzlich gesehen hat, prüfen wir am betreffenden Vorgang.",
+          "Wir können das Verfahren mit einer Testkennung zeigen. Für die Rückfrage von Frau Korab brauchen wir daneben ihren eigenen Eingangszeitpunkt und den Bedienstand zum ersten Einsatz am 6. Dezember."
+        ],
+        "antwort_auf": 1,
+        "datum": "2027-12-07"
+      },
+      {
+        "typ": "notiz",
+        "von": "Jana Korab",
+        "an": "Eigene Bewerbungsunterlagen",
+        "titel": "Werksprüfung seit 2019",
+        "text": [
+          "Meine Bewerbung nennt meine Arbeit in der Geräteprüfung. Bei den Unterlagen für das Gespräch hatte ich zwei frühere Einsätze als Beispiele herausgelegt. Es kam keine Nachfrage dazu.",
+          "Ich möchte wissen, welcher Zeitraum für die Bewertung meiner Berufspraxis betrachtet wurde. Von März bis August war ich in Elternzeit."
+        ],
+        "datum": "2027-12-07"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-ki-weisung-und-quellen": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Der Entwurf zu der Dosierpumpe klingt so, als sei die Fassung der Prüfspezifikation mit dem Kunden vereinbart. Im Vorgang sehe ich auch eine spätere Änderung. Ich will dem Kunden antworten können, ohne ihm eine Bedingung aus dem falschen Lieferstand zu nennen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Reklamationsleitung",
+        "an": "Sibel Erdem",
+        "titel": "Original zur Reklamation am Arbeitsplatz der Leitung",
+        "text": [
+          "Sibel, die Lieferbedingungen im Stammdatensatz und die auftragsbezogene Prüfspezifikation liegen in zwei verschiedenen Ablagen. Bring den Kundenauftrag an meinen Platz, dann öffnen wir die dort genannte Fassung zusammen.",
+          "Bis dahin trage bitte die gefundene Fundstelle in der internen Notiz ein. Die Zeit für diesen zweiten Blick soll in der Messung zur Arbeit mit Formspur als echte Bearbeitung stehen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-12"
+      },
+      {
+        "typ": "notiz",
+        "von": "Sibel Erdem",
+        "an": "Reklamationsmappe",
+        "titel": "Der zweite Blick auf die Dosierpumpe",
+        "text": [
+          "Im ersten Durchlauf hatte ich die Antwort fertig auf dem Bildschirm. Erst beim Vergleich mit der Lieferzeile fiel mir die abweichende Fassung auf. Das war vor dem Kundenversand.",
+          "Die im Vorstandsbeschluss angesetzten acht Minuten sind eine Planungszahl. In meinem Vorgang musste ich zusätzlich die Kollegin mit Zugriff auf die Vertragsanlage erreichen."
+        ],
+        "datum": "2026-10-12"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-kuendigung-betriebsbedingt-leipzig": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die Arbeit mit Lieferpapieren kenne ich aus der Disposition. Bei der Exportassistenz kann ich mir vorstellen, mich in die zusätzlichen Unterlagen einzuarbeiten. Ob ich mit meinem bisherigen Stundenumfang überhaupt berücksichtigt werde, kann ich am Aushang nicht erkennen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Personalbüro",
+        "an": "Ottilie Riemenschneider",
+        "titel": "Zeitfenster der Exportassistenz",
+        "text": [
+          "Frau Riemenschneider, die Abstimmung mit den Speditionen fällt schwerpunktmäßig vormittags an. Aus dem Aushang ergibt sich keine fertige persönliche Wochenverteilung. Wir geben Ihren Wunsch an die Fachabteilung weiter.",
+          "Schicken Sie bitte die Tage, an denen eine Verschiebung möglich wäre. Eine Zusage über die Besetzung liegt uns heute nicht vor."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-06"
+      },
+      {
+        "typ": "notiz",
+        "von": "Ottilie Riemenschneider",
+        "an": "Eigene Stellenmappe",
+        "titel": "Was ich beim Wechsel mitbringe",
+        "text": [
+          "Zu Rückfragen über fehlende Versandpapiere habe ich die Spedition schon bisher selbst zurückgerufen. Die zusätzlichen Ausfuhrunterlagen bearbeitet bislang der Export.",
+          "Ich möchte am Beispiel einer Sendung zeigen, welche Schritte ich kann. Ein ganzer Vormittag und einige zusätzliche Wochenstunden wären für mich verschiedene Änderungen."
+        ],
+        "datum": "2026-10-06"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-kuendigung-schwangerschaft-augsburg": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Matthes weiß noch, wann ich ihm vom Termin erzählt habe. Den Brief selbst hat er erst später gesehen. Die Nachricht an Frau Wimmer habe ich nach dem Arztbesuch vom Telefon geschickt. Ich würde gern unterscheiden, was ich selbst wusste und was die Poststelle an diesem Tag schon vorliegen hatte."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Beratungsstelle",
+        "an": "Adelheid Merz",
+        "titel": "Bitte bringen Sie auch die gesendete Nachricht mit",
+        "text": [
+          "Frau Merz, nehmen Sie bitte den unveränderten Umschlag, den Brief sowie die Bescheinigung mit. Auf Ihrem Telefon ist zusätzlich interessant, welche Datei mit Ihrer Nachricht an Frau Wimmer mitging.",
+          "Matthes kann seinen eigenen Verlauf zeigen. Seine Erinnerung an den Brief und der Zeitpunkt, zu dem Sie ihm vom Untersuchungstermin geschrieben haben, können auseinanderliegen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-14"
+      },
+      {
+        "typ": "notiz",
+        "von": "Matthes Merz",
+        "an": "Familienkalender",
+        "titel": "Was ich vom Termin weiß",
+        "text": [
+          "Adelheid schrieb mir zuerst, wann sie den Termin bekommen hatte. Was die Ärztin feststellen würde, wusste ich damals nicht. Erst später erzählte sie mir vom Befund.",
+          "Den Arbeitgeberbrief habe ich nicht selbst am Zustelltag entgegengenommen. Wenn ich gefragt werde, kann ich den Nachrichtenverlauf auf meinem Gerät zeigen."
+        ],
+        "datum": "2026-10-14"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-kuendigungsdrama-koerber-werk": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Der Portaleingang und die Uhrzeit, zu der morgens jemand den Vorgang geöffnet hat, sind zwei verschiedene Ereignisse. In unserer Schichtübergabe möchte ich nur die Fallnummer nennen. Es soll niemand aus der Besetzungsliste auf eine Person als Absender schließen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Compliance-Poststelle",
+        "an": "Werksbüro Eberswalde",
+        "titel": "ETH-2024-0512-0078 ist als anonyme Meldung eingegangen",
+        "text": [
+          "Für den 12. Mai ist 21.34 Uhr als Portaleingang hinterlegt. Die Kennung bestätigt den Eingang, nicht die Richtigkeit der Angaben zu den Verrechnungspreisen. Der Text bleibt im beschränkten Bereich.",
+          "Wir benötigen vom Werk zunächst den für die betreffenden Buchungen zuständigen Bereich. Eine Namensliste der Beschäftigten dieser Schicht haben wir nicht angefordert."
+        ],
+        "antwort_auf": 1,
+        "datum": "2024-05-12"
+      },
+      {
+        "typ": "notiz",
+        "von": "Werkscontrolling Eberswalde",
+        "an": "Buchungsablage",
+        "titel": "Interne Preise im Monatsabschluss",
+        "text": [
+          "Die interne Übersicht zeigt eine Verrechnung zwischen Werken. Im Ausdruck für die Schichtbesprechung steht nur der Gesamtbetrag. Für eine Aufschlüsselung brauchen wir die damalige Fassung der Einzelbuchungen.",
+          "Der spätere Abruf eines Berichts sagt nichts darüber, wer die Meldung im Portal abgegeben hat."
+        ],
+        "datum": "2024-05-12"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-muster-seewerk-konzept-radolfzell": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Ich war bei der Besprechung des Führungskreises nicht dabei. In meiner Schicht liefen solche Informationen teils über Aushänge, teils über die direkte Führungskraft. Auf dem Ausdruck meiner Bonusabrechnung erkenne ich die Ziele jedenfalls nicht einzeln."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Personalbüro Seewerk",
+        "an": "Daniel Muster",
+        "titel": "Vorstellung der Unternehmensziele im Führungskreis",
+        "text": [
+          "Herr Muster, für Februar finden wir den Termin im Kalender der Leitung. Ob und wann Sie eine individuelle Zielmitteilung erhalten haben, geht aus diesem Kalendereintrag allein nicht hervor.",
+          "Wir fragen den Schichtbereich, welche Fassung damals für die Weitergabe vorgesehen war. Ihre Märzabrechnung behalten Sie bitte für den Vergleich der Beträge."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-04-22"
+      },
+      {
+        "typ": "notiz",
+        "von": "Daniel Muster",
+        "an": "Eigene Entgeltunterlagen",
+        "titel": "Februartermin und Märzabrechnung",
+        "text": [
+          "Auf meinem Abrechnungsblatt kann ich den Bonusbetrag finden. Eine Liste der Unternehmensziele oder der erreichten Einzelwerte steht dort nicht.",
+          "Im Betrieb wurden an meinem Brett hauptsächlich Schichtwechsel ausgehängt. Für einen bestimmten Februartag kann ich den Aushang aus der Erinnerung nicht sicher beschreiben."
+        ],
+        "datum": "2026-04-22"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-muster-seewerk-lebensakte-radolfzell": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die ausgedruckte Einteilung trägt den Stand vom 9. Oktober und meine Personalnummer 20417. Die Zeitbuchung entsteht dagegen erst, wenn ich mich an Halle 2 anmelde. Wenn sich der Einsatzort kurzfristig ändert, möchte ich nicht später allein über die gebuchte Uhrzeit erklären müssen, wo ich hingeschickt wurde."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Schichtplanung Seewerk",
+        "an": "Daniel Muster",
+        "titel": "Persönlicher Ausdruck für Kalenderwoche 42",
+        "text": [
+          "Daniel, für die Zuordnung nehmen wir die persönliche Ausfertigung mit deiner Nummer. Der Aushang am Tor ist keine Nachricht an eine einzelne Person. Wenn die Einteilung am Tag geändert wird, notiert das Schichtbüro den neuen Arbeitsort.",
+          "Den Ausdruck kannst du behalten. Bringe ihn bei einer Abweichung zum Schichtbeginn mit, damit wir den entsprechenden Tag und das Terminal danebenlegen können."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-16"
+      },
+      {
+        "typ": "notiz",
+        "von": "Schichtbüro Seewerk",
+        "an": "Tagesübergabe Halle 2",
+        "titel": "Zeitjournal und Schichtplan der Halle",
+        "text": [
+          "Im Journal wird die tatsächliche Buchung am Terminal gespeichert. Der Plan wird vorab mit der vorgesehenen Besetzung gedruckt. Ein gestriger Ausdruck lässt sich nicht über eine heutige Terminalbuchung datieren.",
+          "Bei der Übergabe Einteilung, tatsächliche Anmeldung und eine etwaige mündliche Umsetzung auf drei getrennte Zeilen schreiben."
+        ],
+        "datum": "2026-10-16"
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-verdachtskuendigung-bonn": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Auf der Vorderseite kann ich das Gerät zuordnen. Ob der Koffer bei der Werkstatt zur Wartung geblieben ist, ergibt sich daraus nicht. Böhnke hatte mir eine Bürodatei geschickt. Ich weiß nicht, ob die zweite Seite beim Scannen am Einzug hängen geblieben ist."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Geräteausgabe",
+        "an": "Fridolin Karg",
+        "titel": "Zum Durchschlag des Abholscheins",
+        "text": [
+          "Herr Karg, wir suchen die Abholnummer im Papierfach und prüfen die Rückseite am Original. Unsere Bürodatei zeigt zunächst nur das beim ersten Scan erfasste Blatt. Damit lässt sich der aktuelle Standort des Koffers nicht beantworten.",
+          "Wenn Sie den Koffer noch einmal anfragen, nennen Sie bitte auch die Gerätekennung. An der Wartungsablage stehen mehrere graue Koffer."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-09"
+      },
+      {
+        "typ": "notiz",
+        "von": "Geräteverwaltung Bonn",
+        "an": "Wartungsplatz",
+        "titel": "Grauer Koffer am Werkstattregal",
+        "text": [
+          "Am Regal wird das Zubehör im Koffer aufbewahrt, das Messgerät kann zur Wartung auf dem Tisch liegen. Von der Kofferfarbe allein lasse ich deshalb keinen Gerätebestand abbuchen.",
+          "Für das Gespräch die Gerätekennung, den Papierdurchschlag und einen etwaigen Wartungseingang zusammenbringen. Wer den Koffer zuletzt getragen hat, ist eine gesonderte Frage."
+        ],
+        "datum": "2026-10-09"
+      }
+    ]
+  },
+  "testakten/bav-carve-out-rheinbogen-automation": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei einer Verschiebung zwischen zwei Gruppengesellschaften bleibt das Eintrittsdatum im Lohnprogramm gelegentlich erhalten. Für den Verkauf an Nordfeld macht das einen Unterschied. Ich möchte bei einer Probezeile sehen, ob die alte Zusage zum ursprünglichen Betrieb gehört und wer die Versorgung heute abrechnet."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Transaktionsteam",
+        "an": "HR Rheinbogen",
+        "titel": "842 aktive Beschäftigte im Verkaufsbestand",
+        "text": [
+          "Unsere Zahl 842 bezieht sich auf die aktiven Personen im Verkaufskreis. Ein Auszug mit alten Personalnummern ist ein Arbeitsmittel für die Zuordnung. Er ist kein zusätzlicher Personalbestand.",
+          "Für offene Fälle brauchen wir neben der aktuellen Kostenstelle die Partei auf der Zusage und einen Beleg zum Wechsel zwischen den Betrieben. Wo dieser fehlt, bleibt die Zeile vorerst offen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-12"
+      },
+      {
+        "typ": "notiz",
+        "von": "Entgeltabrechnung Rheinbogen",
+        "an": "Transaktionsordner",
+        "titel": "Namensgleichheit in der Altliste",
+        "text": [
+          "Im früheren Bestand wird nach Personalnummer sortiert. Beim Wechsel in eine andere Abrechnung kann dieselbe Person eine neue Nummer erhalten. Eine Übereinstimmung beim Nachnamen reicht zum Zusammenführen nicht.",
+          "Für die manuelle Prüfung reichen der historische Arbeitgeber und der Abgleich im Personalstamm. Die vollständige Belegschaftsliste wird dafür nicht an die Bieter verteilt."
+        ],
+        "datum": "2026-10-12"
+      }
+    ]
+  },
+  "testakten/bav-pensionskasse-niederrhein-verbund": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die Anrufenden lesen uns meist den letzten Zahlbetrag vor. Auf der Kassenmitteilung steht aber ein anderer Begriff als auf dem alten Arbeitgeberbrief. Ich möchte den Leuten sagen können, welches Papier sie für den persönlichen Vergleich aus dem Ordner holen sollen."
+        ],
+        "berichtigung": {
+          "datum": "2026-10-16"
+        }
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Personalservice Niederrhein",
+        "an": "Rentenservice",
+        "titel": "Welche Seiten wir beim Rückruf ansehen können",
+        "text": [
+          "Bitte lasst euch bei einem Rückruf das Datum des Arbeitgeberbriefs sowie den Abrechnungsmonat nennen. Die Kasse kann nur die Leistung erklären, die sie selbst in ihrem Bestand führt.",
+          "Für die Frage nach einer früher mitgeteilten Höhe braucht es die damals benannte Gesellschaft. Eine Abweichung bei einer Person lässt sich nicht einfach auf aktive Kolleginnen und Kollegen übertragen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-16"
+      },
+      {
+        "typ": "brief",
+        "von": "Personalservice Niederrhein",
+        "an": "Versorgungsberechtigte im Rückrufdienst",
+        "titel": "Unterlagen für die persönliche Erläuterung",
+        "text": [
+          "Wenn Sie eine Mitteilung über Ihre Betriebsrente besprechen möchten, legen Sie bitte den ersten betroffenen Monatsbeleg und die letzte schriftliche Auskunft Ihres damaligen Arbeitgebers bereit. Die Vertragsnummer steht häufig nur auf dem Kassenblatt.",
+          "Sie können die Papiere im Gespräch selbst vorlesen. Für eine Prüfung Ihrer einzelnen Versorgung schicken wir einen persönlichen Rückruftermin."
+        ],
+        "datum": "2026-10-16"
+      }
+    ]
+  },
+  "testakten/bav-rentnergesellschaft-rheinhafen-logistik": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei den Hinterbliebenenrenten muss ich auch wissen, ob der Anbieter die laufende Prüfung der Anspruchsberechtigung eingerechnet hat. Eine Position »Verwaltung« kann das einschließen oder daneben ein Entgelt je Einzelfall auslösen. Beides wäre im Angebot für unsere Runde leicht zu übersehen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Finanzen",
+        "an": "Projektleitung Rheinhafen",
+        "titel": "Laufende Renten im Projekt ANKER",
+        "text": [
+          "Die 1.240 laufenden Renten umfassen auch die Hinterbliebenen. Die 186 unverfallbaren Anwartschaften führen wir daneben. Die Summe der Verpflichtungen im internen Modell ist kein heute fälliger Kaufpreis.",
+          "Wir bitten die Anbieter, die Erstübernahme und die Betreuung einer später erstmals zahlbaren Rente einzeln auszuweisen. Das ist im Angebotstext nicht bei jedem gleich nachvollziehbar.",
+          "Im Anhang finden Sie die Tabelle „Bestandszählung vor dem Anbietervergleich“."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-14",
+        "anlage_nr": 5
+      },
+      {
+        "typ": "notiz",
+        "von": "Rentenverwaltung Rheinhafen",
+        "an": "Projekt ANKER",
+        "titel": "Was beim ersten Rentenlauf anfällt",
+        "text": [
+          "Vor der ersten Zahlung kontrolliert die Verwaltung Identität, Zahlweg und Beginn. Bei bereits laufenden Renten ist die Aufnahme ins neue Verfahren ein anderer Arbeitsschritt.",
+          "Eine Änderung des Bankkontos und der erste Leistungsfall können beim Anbieter beide als »Vorgang« gelten. Im Preisvergleich je Vorgang die tatsächlich enthaltene Leistung nachfragen."
+        ],
+        "datum": "2026-10-14"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Bestandszählung vor dem Anbietervergleich",
+        "von": "Finanzen Rheinhafen",
+        "an": "Projektleitung Rheinhafen",
+        "text": [
+          "Gruppe|Stückzahl|Wie sie in der Anfrage behandelt wird",
+          "Laufende Renten insgesamt|1240|Enthält die Hinterbliebenenrenten",
+          "Davon Hinterbliebenenrenten|180|Bei der Gesamtzahl kein zweites Mal addieren",
+          "Unverfallbare Anwartschaften|186|Getrennt vom laufenden Rentenlauf abfragen"
+        ],
+        "datum": "2026-10-14"
+      }
+    ]
+  },
+  "testakten/bav-strategie-konzern-meissner-rheinwerk-ag": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Wir wollen einem Beschäftigten nicht allein deshalb die jüngere Ordnung zuordnen, weil sie im heutigen Personalordner obenauf liegt. Gerade bei einem internen Wechsel kann die erste Zusage aus Düsseldorf stammen, obwohl das Gehalt längst über Stuttgart abgerechnet wird."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Archiv Schwabenwerk",
+        "an": "Konzernpersonal",
+        "titel": "Schwabenwerk führt den Stuttgarter Leistungsplan separat",
+        "text": [
+          "Die Ordnung aus 2002 ist als eigener Stuttgarter Leistungsplan abgelegt. Der Düsseldorfer Schließungsnachtrag von 1999 liegt in einer anderen Serie. Die gleiche Konzernüberschrift sagt noch nichts über den Geltungsbereich.",
+          "Gebt uns für den einzelnen Mitarbeiter Eintritt in die Gruppe und Wechsel ins Werk an. Wir suchen dann die betreffende Zusage unter dem Namen des damaligen Arbeitgebers."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-19"
+      },
+      {
+        "typ": "notiz",
+        "von": "Personalstelle Schwabenwerk",
+        "an": "Archivauftrag",
+        "titel": "Rückseite der alten Zusage",
+        "text": [
+          "Bei älteren Personalakten sind spätere Änderungen als separates Blatt hinter der ursprünglichen Zusage geheftet. Die heutige Versicherungsübersicht kann eine andere Bezeichnung verwenden.",
+          "Beim Kopieren die Reihenfolge und einen etwaigen Begleitbrief erhalten. Für die Frage nach einer geschlossenen Jahrgangsgruppe brauchen wir den Zeitpunkt der ersten Aufnahme."
+        ],
+        "datum": "2026-10-19"
+      }
+    ]
+  },
+  "testakten/beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei der Rückkehr von Herrn Größen macht es einen Unterschied, ob er am Tisch Dienstmeldungen sichtet oder während einer Ausfahrt allein Entscheidungen treffen muss. Eine vierstündige Schicht ist nicht automatisch eine gleich belastende Schicht. Ich würde gern zwei konkrete Dienstzuschnitte vorlegen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Personalservice",
+        "an": "Dienstgruppenleitung Hafenpolizei",
+        "titel": "Tagesdienst für Herrn Größen",
+        "text": [
+          "Für das erste Gespräch können wir einen Tagesdienst ohne Nachtanteil beschreiben. Die arbeitsmedizinische Rückmeldung nennt für den ersten Abschnitt vier Stunden. Wir können daraus nicht ableiten, dass jede beliebige Vier-Stunden-Schicht passt.",
+          "Bitte benennt eine Aufsichtsperson für die Übergabe. Die medizinischen Unterlagen bleiben bei der zuständigen Stelle. Der Einsatzplan bekommt nur die für die Besetzung nötigen Angaben."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-09"
+      },
+      {
+        "typ": "notiz",
+        "von": "Dienstgruppe Hafenpolizei",
+        "an": "Besetzungsbesprechung",
+        "titel": "Zwei Dienste derselben Länge",
+        "text": [
+          "Bei der Schreibtischarbeit kann ein Kollege die Meldungen bei einer Pause übernehmen. Bei einer allein geleiteten Außenschicht ist eine Ablösung erst nach Anfahrt möglich.",
+          "Für eine konkrete Einteilung deshalb Übernahmeperson und Ort eintragen. Die Gesamtzahl der Stunden verrät noch nichts über diese Unterschiede."
+        ],
+        "datum": "2026-07-09"
+      }
+    ]
+  },
+  "testakten/befristungskontrollklage-vogt-stadtwerke": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Ich habe die Mail mit der Bitte um Rücksendung des Scans gefunden. Die Eingangszeit in meinem Postfach und ein Datum unter dem ausgedruckten Vertrag sind nicht dasselbe. Für meinen Ordner wäre hilfreich, wenn Sie mir sagen, was Sie von mir schon erhalten haben und was ich noch abgeben soll."
+        ],
+        "berichtigung": {
+          "datum": "2026-03-09"
+        }
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Personalstelle Stadtwerke Neukölln",
+        "an": "Lena Vogt",
+        "titel": "Rücklauf des Vertrags bei den Stadtwerken",
+        "text": [
+          "Frau Vogt, die versandte PDF ist der Ausgangsstand unserer Personalstelle. Wenn Ihr Scan eingeht, lässt er sich über die Eingangsmail datieren. Ein Eingang von Papier wird in einer anderen Ablage vermerkt.",
+          "Bitte bringen Sie Ihr Exemplar und den noch gespeicherten Mailverlauf mit. Falls Ihnen ein gegengezeichnetes Exemplar ausgehändigt wurde, halten Sie den erinnerlichen Empfangstag gesondert fest."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-03-09"
+      },
+      {
+        "typ": "notiz",
+        "von": "Lena Vogt",
+        "an": "Eigene Unterlagen Stadtwerke",
+        "titel": "Vor meinem ersten Arbeitstag",
+        "text": [
+          "Zum Ausdrucken habe ich die Fassung aus der Nachricht von Frau Schönfeld verwendet. Ich unterschrieb auf dem Papier, das ich anschließend einscannte. Die Sendezeit des Scans kann ich in meinem Postfach nachsehen.",
+          "Ein möglicher späterer Eingang des Originals bei der Personalstelle hat eine eigene Reihenfolge. Das lasse ich im Kalender offen, bis ich einen zeitlich zuordenbaren Beleg für die Papierübergabe finde."
+        ],
+        "datum": "2026-03-09"
+      }
+    ]
+  },
+  "testakten/berufskrankheit-asbest-schlosser-werft-bremen": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Dieter erinnert sich an die Männer in seiner Kolonne und an einzelne Schiffe. Bei den Hallennummern ist er weniger sicher. Er möchte die Arbeit beschreiben, die er selbst ausgeführt hat, und nicht das, was ein Kollege später von einem anderen Reparaturplatz erzählt hat."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Werftarchiv",
+        "an": "Marlies Harms",
+        "titel": "Suche nach den Werkstattkarten für Dieter Harms",
+        "text": [
+          "Frau Harms, im Archiv sind die Karten teilweise nach Auftrag oder Schiff abgelegt. Ein Personalblatt mit der Bezeichnung Schlosser umfasst auch Arbeitstage außerhalb einer Schiffshalle. Nennen Sie uns einen Schiffsnamen oder eine ungefähre Reparaturperiode, wenn Ihr Mann sich erinnert.",
+          "Wir können dann nach zugehörigen Arbeitspapieren suchen. Ob bestimmtes Material an seinem konkreten Arbeitsplatz vorhanden war, muss sich erst aus der Zuordnung ergeben."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-02"
+      },
+      {
+        "typ": "notiz",
+        "von": "Marlies Harms",
+        "an": "Unterlagen für Frau Weddigen",
+        "titel": "Was Dieter beim Frühstück vom Arbeitsplatz erzählt hat",
+        "text": [
+          "Er kann den Weg vom Werkzeugausgabefach zu seinem damaligen Platz beschreiben. Daneben erinnert er sich an Kollegen, die zeitweise in einer anderen Halle waren. Einen einheitlichen Arbeitsort über sämtliche Werftjahre nennt er nicht.",
+          "Heute nach dem Behandlungstermin wollte er die Suche unterbrechen. Wir nehmen die Namen beim nächsten Gespräch einzeln auf und vermerken, wer selbst neben ihm gearbeitet hat."
+        ],
+        "datum": "2026-07-02"
+      }
+    ]
+  },
+  "testakten/betreuung-hildegard-sauer": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Wenn Frau Sauer am Abend nach einer Rechnung fragt, nimmt sie meistens den zuerst erreichbaren Umschlag. Die Schreiben von Pflegekasse und Heim liegen dann im selben Fach. Ich möchte nachhalten, was wirklich zur Zahlung vorgesehen ist und was nur einen bereits bewilligten Leistungsbetrag erläutert."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Betreuungsbüro",
+        "an": "Birgit Sauer-Kammholz",
+        "titel": "Unterlagen aus dem Zimmer von Frau Sauer",
+        "text": [
+          "Frau Sauer-Kammholz, schildern Sie uns bitte einen Besuch, bei dem Ihre Mutter einen Brief selbst zuordnen konnte, und gegebenenfalls einen, bei dem sie Hilfe brauchte. Wichtig ist der beobachtete Handgriff. Ein im Zimmer liegender Überweisungsträger bedeutet noch nicht, dass eine Zahlung veranlasst wurde.",
+          "Wenn das Heim Ihnen persönliche Post mitgibt, notieren Sie kurz, welche Blätter Sie bekommen haben. Im Betreuungsbüro vergleichen wir eine offene Rechnung dann mit dem Konto. Die Angaben des Wohnbereichs zu Unterstützung im Alltag führen wir separat."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-05-12"
+      },
+      {
+        "typ": "notiz",
+        "von": "Wohnbereich Frau Sauer",
+        "an": "Übergabe an die Betreuung",
+        "titel": "Lose Blätter neben dem Telefon",
+        "text": [
+          "Frau Sauer hatte einen gefalteten Brief und einen Überweisungsträger nebeneinandergelegt. Vom gefalteten Blatt war der Absender sichtbar, die Rückseite des Trägers blieb leer.",
+          "Beide Stücke getrennt an die Betreuung gegeben. Niemand aus dem Wohnbereich hat damit einen Auftrag an die Bank erteilt."
+        ],
+        "datum": "2026-05-12"
+      }
+    ]
+  },
+  "testakten/bu-deckungsklage-pflegekraft-vogelweide-aachen": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Wenn ich allein zum Zimmer ging, hatte ich andere Handgriffe als während der gemeinsamen Morgenrunde. Dokumentation konnte ich manchmal später nachholen. Ob mich im Normaldienst tatsächlich jemand abgelöst hat, steht nicht auf der allgemeinen Stellenbeschreibung."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Stationsleitung",
+        "an": "Sabine Vogelweide",
+        "titel": "Eine Frühschicht vor Ihrer Erkrankung",
+        "text": [
+          "Frau Vogelweide, wir können Dienstplan und Ablauf der damaligen Frühschicht bereitstellen. Der Besetzungsplan verrät, wer eingeteilt war. Er enthält keine minutengenaue Verteilung sämtlicher Pflegetätigkeiten.",
+          "Für die Beschreibung schlagen wir einen konkret belegten Dienst vor. Sie können daran zeigen, was Sie persönlich übernommen haben und wo eine Kollegin wegen der nötigen Hilfe hinzukam."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-02-16"
+      },
+      {
+        "typ": "notiz",
+        "von": "Stationsleitung",
+        "an": "Übergabemappe Pflege",
+        "titel": "Pflege am Bett zwischen zwei Rufsignalen",
+        "text": [
+          "Am Morgen fallen Versorgung, Rufmeldungen und Einträge nicht in gleich lange Blöcke. Wer bei einer Versorgung unterstützt, fehlt in diesem Zeitraum für eine andere Aufgabe.",
+          "Für die Rückschau den wirklichen Dienstplan verwenden. Eine heutige Besetzung kann beim Vergleich erklären, wie ein Ablauf funktioniert, aber nicht wie die Schicht damals sicher besetzt war."
+        ],
+        "datum": "2026-02-16"
+      }
+    ]
+  },
+  "testakten/compliance-hameln-freie-stelle-nach-dem-kurs": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die Prüfaufgaben aus dem Kundendienst kenne ich von den Altserien. Im Intranet sehen Prüfstelle I und II fast gleich aus. Ob der Kurs für die erste Stelle reicht und ob die zweite überhaupt genehmigt ist, würde ich lieber vor einer verbindlichen Anmeldung klären."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Personalentwicklung",
+        "an": "Annika Sölter",
+        "titel": "Welcher Platz für Sie vorgemerkt ist",
+        "text": [
+          "Frau Sölter, für den Kurs vom 9. November bis 18. Dezember ist ein Platz für Sie reserviert. Die erste Prüfstelle ist zum 1. Februar genehmigt. Bei der zweiten ist die Freigabe offen, zudem wird dort Hochspannungserfahrung verlangt.",
+          "Bitte schildern Sie der Fachleitung zwei tatsächlich von Ihnen bearbeitete Altserienfälle. Die Entscheidung über die Besetzung ist mit der Kursreservierung noch nicht gefallen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-12"
+      },
+      {
+        "typ": "notiz",
+        "von": "Annika Sölter",
+        "an": "Eigene Vorbereitung",
+        "titel": "Prüfung nach einem Kundenrücklauf",
+        "text": [
+          "Bei einem älteren Modell half die im System vorgeschlagene Beschreibung nicht. Ich habe die Rücksendung anhand der Serienunterlagen zugeordnet und die Werkstatt angerufen.",
+          "Diese Arbeit kann ich im Gespräch an einem geschlossenen Vorgang zeigen. Für die Hochspannungsprüfung habe ich bisher keine eigene Freigabe."
+        ],
+        "datum": "2026-10-12"
+      }
+    ]
+  },
+  "testakten/compliance-hameln-freigabe-personalassistent": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Gespräch mit den Fachbereichen war von Textentwürfen die Rede. Der zusätzliche Schalter sortierte im Bildschirmbild bereits Namen. Wenn wir ihn jetzt als Teil des Schreibwerkzeugs ankündigen, erwarten die Führungskräfte womöglich eine fertig sortierte Einladungsliste."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Leitung KI-Pilot",
+        "an": "Recruiting Hameln",
+        "titel": "Was wir bei der Vorführung eingeschaltet hatten",
+        "text": [
+          "Die automatische Vorauswahl war in der Vorführung sichtbar. Unser Tarif deckt die Erprobung mit synthetischen Bewerbungen ab. Die Demonstration ist noch keine Freigabe für die 18 echten Stellen.",
+          "Für die nächste Runde kann ich denselben Mustertext mit ausgeschalteter Sortierung zeigen. Dann lässt sich getrennt entscheiden, welche Unterstützung das Recruiting wirklich braucht."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-12"
+      },
+      {
+        "typ": "notiz",
+        "von": "Recruiting Merrensteg",
+        "an": "Vorbereitung Technikersuche",
+        "titel": "Wunsch der Werkstattleitung",
+        "text": [
+          "Die Werkstatt will verständliche Ausschreibungstexte und praktische Gesprächsfragen. Einen Auftrag für eine automatisierte Reihenfolge der echten Bewerbungen hat sie dabei nicht ausgesprochen.",
+          "Für die Vorführung verwenden wir zwei erfundene Lebensläufe. Namen aus dem laufenden Eingang werden nicht auf die Präsentation kopiert."
+        ],
+        "datum": "2026-10-12"
+      }
+    ]
+  },
+  "testakten/compliance-hameln-freigabehaken-im-service": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Z-65 und Z-68 zeigen auf den ersten Blick denselben Haken. Beim zweiten Fall liegt zwischen dem von mir erinnerten Prüfschritt und dem Versand ein Versionswechsel. Ob ich damals fünf oder zehn Jahre am Bildschirm hatte, möchte ich am gesicherten Stand nachvollziehen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Serviceleitung",
+        "an": "Lennart Öving",
+        "titel": "Versandfassung der Ersatzteilzusage",
+        "text": [
+          "Lennart, zu Z-65 nennt das Journal dieselbe Version für Prüfung und Versand. Bei Z-68 steht nach dem Prüfschritt ein Nachtjob und beim späteren Versand eine andere Version. Das ist noch keine Aussage darüber, wer den Wortlaut geändert hat.",
+          "Lege bitte die damalige Kundenanfrage daneben. Wir müssen wissen, ob die fünf Jahre ab Serienende und die tatsächlich versprochene Zeit überhaupt vom gleichen Bezugstag gerechnet wurden.",
+          "Ich hänge dir die Tabelle „Zeitfolge der zwei Zusagen im Vorgangsprotokoll“ an."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-12",
+        "anlage_nr": 5
+      },
+      {
+        "typ": "notiz",
+        "von": "Serviceinnendienst Hameln",
+        "an": "Mappe Z-68",
+        "titel": "Wortlaut für den Kunden",
+        "text": [
+          "Im Ersatzteilkatalog beginnt die Frist mit dem Serienende. Der Kunde hat in seiner Nachricht nach der Nutzungsdauer seiner Anlage gefragt. Diese beiden Daten können auseinanderliegen.",
+          "Für den Rückruf sollen der verschickte Text und die konkrete Katalogposition nebeneinander vorliegen. Eine aktuelle Entwurfsansicht reicht dafür nicht."
+        ],
+        "datum": "2026-10-12"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Zeitfolge der zwei Zusagen im Vorgangsprotokoll",
+        "von": "Serviceleitung Merrensteg",
+        "an": "Lennart Öving",
+        "text": [
+          "Vorgang|Vorgangsschritt|Uhrzeit|Version",
+          "Z-65|Quellenabgleich|08.42|v2",
+          "Z-65|Versand|08.45|v2",
+          "Z-68|Quellenabgleich|16.17|v3",
+          "Z-68|Nachtjob|19.01|v1",
+          "Z-68|Versand|19.03|v1"
+        ],
+        "datum": "2026-10-12"
+      }
+    ]
+  },
+  "testakten/compliance-hameln-montageinsel-sozialplan": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Einige der künftig anders eingesetzten Kolleginnen haben den nötigen Diagnosezugang noch nicht. Ein freier Platz im Schulungsraum genügt ihnen nicht, wenn sie das Übungsgerät nur zusehen können. Wie ist das bei der Terminplanung berücksichtigt?"
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Projektleitung Montageinsel",
+        "an": "Betriebsratsbüro Hameln",
+        "titel": "Was zum Umbau der beiden Prüfstationen freigegeben ist",
+        "text": [
+          "Die Fundamente betreffen den Bauabschnitt. Die Lernzeiten sind damit noch nicht in der Schichtplanung freigegeben. 72 Personen erhalten ein anderes Aufgabenprofil, 19 sollen den Einsatzbereich dauerhaft wechseln.",
+          "Für die Gruppe ohne Diagnosezugang brauchen wir vor dem Termin einen funktionierenden Übungszugang. Die Zulagenfrage kann der Bauzeitenplan nicht beantworten. Wir nehmen sie getrennt mit Personal auf."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-12"
+      },
+      {
+        "typ": "notiz",
+        "von": "Schichtsprecher Montageinsel",
+        "an": "Betriebsratsbüro",
+        "titel": "Eine Kollegin, zwei Einträge",
+        "text": [
+          "Die Kollegin zählt sowohl zu den neu einzuweisenden Beschäftigten als auch zur Gruppe mit vorgesehenem Dauerwechsel. Wer beide Listen addiert, zählt sie zweimal.",
+          "Sie fragt zuerst, wann sie an der Anlage üben kann. Für die Auswirkung des Schichtwechsels braucht sie später eine persönliche Abrechnung."
+        ],
+        "datum": "2026-10-12"
+      }
+    ]
+  },
+  "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Beim Rundgang standen das übliche Arbeitsgerät und ein Leihgerät nebeneinander. Ich möchte vermeiden, dass wir die Anmeldesituation des einen dem anderen zuschreiben. Die Datei im Alarm ist nach Projekt benannt. Bitte prüft, ob auch die Revision und der tatsächliche Übertragungsstand protokolliert sind."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Vertraulichkeitsstelle",
+        "an": "Entwicklung L-260",
+        "titel": "L-260 auf dem Leihgerät",
+        "text": [
+          "Der Alarmeintrag bezeichnet einen Vorgang aus dem Stücklistenordner. Er enthält allein weder den vollständigen Inhalt noch eine persönliche Erklärung, weshalb der Gastzugang geöffnet war. Wir sichern den damaligen Meldestand.",
+          "Für die Rückfrage genügt uns die Inventarkennung des Arbeitsplatzes und die Schichtbesetzung. Die Stückliste soll nicht zur Demonstration erneut in einen Dienst geladen werden."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-12"
+      },
+      {
+        "typ": "notiz",
+        "von": "Geräteausgabe Entwicklung",
+        "an": "Rückgabe des Leihgeräts",
+        "titel": "Welche Oberfläche die Kollegen kannten",
+        "text": [
+          "Das Ersatzgerät wurde am Arbeitsplatz aufgestellt. In der Favoritenleiste sah der Eintrag zur Übersetzung ähnlich aus wie am normalen Gerät. Wer ihn wann geöffnet hat, geht aus unserem Ausgabeschein nicht hervor.",
+          "Auf dem Schein steht die Gerätekennung. Den Namen des Ausleihenden übernehmen wir nicht ungeprüft als Namen der Person am Browser."
+        ],
+        "datum": "2026-10-12"
+      }
+    ]
+  },
+  "testakten/compliance-hameln-personalscore-vor-start": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Mehrere aus der Nachtbereitschaft übernehmen nur einzelne Zusatzschichten. Wer eine Anfrage am selben Abend verpasst, kann deshalb in der Liste beim nächsten Mal anders erscheinen. Das hat Folgen für das Geld, auch wenn auf dem Bildschirm nur ein Vorschlag steht."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Projektleitung Planlotse",
+        "an": "Schichtvertretung Hameln",
+        "titel": "Was wir mit Planlotse in der Vorführung zeigen können",
+        "text": [
+          "Die erste Ansicht sortiert anhand des berechneten Werts. Die Schichtleitung kann beim Telefonieren eine andere Reihenfolge wählen. Im Test allein sehen wir nicht, ob sie das im laufenden Betrieb unter Zeitdruck tun würde.",
+          "Wir stellen eine fiktive Schichtliste mit gleicher Eignung und unterschiedlichen Zeitwünschen bereit. Bitte benennt den Schritt, an dem die betroffene Person ihre Angabe vor einem Einsatz richtigstellen könnte."
+        ],
+        "antwort_auf": 1,
+        "datum": "2027-12-10"
+      },
+      {
+        "typ": "notiz",
+        "von": "Nachtschicht Hameln",
+        "an": "Schichtbesprechung",
+        "titel": "Der verpasste Anruf",
+        "text": [
+          "Wer eine freiwillige Schicht ablehnt, kann an einem anderen Wochentag durchaus verfügbar sein. Ein fehlender Rückruf unterscheidet sich ebenfalls von einer ausdrücklichen Absage.",
+          "Wir möchten im Test sehen, welcher dieser Sachverhalte bei der nächsten Sortierung erscheint. Eine echte Person soll für die Vorführung keinen Zusatzdienst verlieren."
+        ],
+        "datum": "2027-12-10"
+      }
+    ]
+  },
+  "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Der Nachtwagen wartet nicht bis zur nächsten Frühschicht. Wenn wir einen vorgeschlagenen Freigabeweg nicht bestätigen können, brauchen wir einen tatsächlich erreichbaren Ansprechpartner. Ein Eintrag »Helpdesk« auf dem Blatt hilft nachts nur, wenn dort auch jemand abnimmt."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Freigabeleitung",
+        "an": "Warenausgang",
+        "titel": "Nachtschicht und Ausweichweg am Tor",
+        "text": [
+          "Der Helpdesk ist laut Besetzung bis 21 Uhr erreichbar. Für die Stunden danach müssen wir einen anderen Weg klären. Den fehlenden Stoppknopf im Nachtprofil könnt ihr anhand einer Testkennung mit Uhrzeit dokumentieren.",
+          "Bevor eine Sendung rausgeht, ruft bei unklarer Freigabe die Dienstleitung am Tor. Sie kann den konkreten Vorgang übernehmen und dessen Stand zur Schichtübergabe festhalten."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-12"
+      },
+      {
+        "typ": "chat",
+        "von": "Warenausgang Merrensteg",
+        "an": "Spät- und Nachtschicht",
+        "titel": "Wen erreicht das Tor?",
+        "text": [
+          "Spät: Vor 21 Uhr hatte ich den Helpdesk am Telefon. Im Abendzettel steht nur die Sammelnummer.",
+          "Nacht: Beim letzten Wechsel ging dort die Bandansage an. Wer bleibt heute am Tor erreichbar?",
+          "Dienstleitung: Tragt meine dienstliche Durchwahl auf dem heutigen Übergabeblatt ein. Den offenen Vorgang sehe ich mit euch am Terminal an."
+        ],
+        "datum": "2026-10-12"
+      }
+    ]
+  },
+  "testakten/compliance-hameln-training-nachtschicht": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Ein Kollege hat den Kurs vor dem Wechsel der Personalnummer noch einmal geöffnet. Im Export erscheint dadurch ein weiterer Lernvorgang. Bei einer anderen Kollegin kam das Kennwort gar nicht an. Beide stehen in der Übergaberunde als »noch zu prüfen«, brauchen aber völlig unterschiedliche Hilfe."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Lernkoordination",
+        "an": "Nora Eibenrode",
+        "titel": "Zwei bestandene Datensätze zu HR-014",
+        "text": [
+          "Nora, LE-021 und LE-114 verweisen im Export beide auf HR-014. LE-204 stammt aus der Testmigration. Eine einfache Subtraktion von 418 und 480 würde diese Besonderheiten übergehen.",
+          "Für die nächste Nacht können wir zuerst die tatsächlich eingeteilten Personen abgleichen. Wer nur keinen Login erhalten hat, braucht einen neuen Zugang und keine Meldung über einen misslungenen Test."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-12"
+      },
+      {
+        "typ": "notiz",
+        "von": "Schichtbüro Endmontage",
+        "an": "Lernkoordination",
+        "titel": "Übergabe der Kursliste",
+        "text": [
+          "Die Anwesenheitsliste zählt Personen am Arbeitsort. Der Lernexport zählt Vorgänge, bei denen auch ein zweiter Start möglich ist. Auf der Nachtschichtliste steht zudem der externe Dolmetschdienst.",
+          "Für dessen Sammelnachweis den Ansprechpartner des Dienstleisters vermerken. Eine gemeinsame Bestätigung gehört nicht ohne Zuordnung in einzelne Personalakten."
+        ],
+        "datum": "2026-10-12"
+      }
+    ]
+  },
+  "testakten/compliance-hameln-vorstand-freigabefenster": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei einem Standardteil läuft die Bearbeitung in derselben Schicht durch. Ein falscher Vorschlag bei einem Altteil zieht dagegen Rückrufe von Lager und Kunde nach sich. Falls diese Minuten außerhalb des Pilotfensters liegen, ist die grüne Grafik für eine Entscheidung über 740.000 Euro schwer zu lesen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Servicepilot",
+        "an": "Erik Dörnbusch",
+        "titel": "Was in der grünen Zeitkurve steckt",
+        "text": [
+          "Erik, der Median von vier Minuten bezieht sich auf die 48 Standardfälle. Für die zwölf Altteile gibt es keinen gleich erhobenen Zeitwert. Bei R-14 und R-33 wurden 47 bzw. 61 Minuten Korrekturaufwand erfasst.",
+          "Wir können die beiden Vorgänge am Original zeigen. Wer den Zweitblick im Betrieb übernehmen soll und was er kostet, musst du für die Vorlage noch mit der Serviceleitung besprechen.",
+          "Ich hänge dir die Tabelle „Was der Pilot gemessen hat“ an."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-12",
+        "anlage_nr": 5
+      },
+      {
+        "typ": "notiz",
+        "von": "Servicepilot Merrensteg",
+        "an": "Rückrufmappe R-14",
+        "titel": "Wann die Nacharbeit anfing",
+        "text": [
+          "Die ursprüngliche Bearbeitung war im Pilot bereits abgeschlossen, als der Rückruf eintraf. Die Kollegin musste die Freigabe wieder öffnen und den Altteilkatalog hinzunehmen.",
+          "Für die Zeitübersicht Beginn und Ende dieser zweiten Arbeit getrennt erfassen. Die Nacharbeit verschwindet sonst aus dem Vergleich, obwohl die Schicht sie tatsächlich leisten musste."
+        ],
+        "datum": "2026-10-12"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Was der Pilot gemessen hat",
+        "von": "Servicepilot Merrensteg",
+        "an": "Erik Dörnbusch",
+        "text": [
+          "Gruppe|Umfang|Beobachtung",
+          "Standardfälle|48 Vorgänge|Median vier Minuten Zeitgewinn",
+          "Altteile|12 Vorgänge|Kein vergleichbar erhobener Median",
+          "Altteil R-14|Ein Vorgang|47 Minuten Korrekturzeit",
+          "Altteil R-33|Ein Vorgang|61 Minuten Korrekturzeit"
+        ],
+        "datum": "2026-10-12"
+      }
+    ]
+  },
+  "testakten/datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die Zählung fand am Ende unserer Schicht statt. Rücknahmen wandern im selben Gang wie Ware, die jemand für einen Auftrag aus dem Regal nimmt. Ich kann von der Gangseite allein nicht erkennen, in welche Richtung ein bestimmter Artikel später verbucht wurde."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Inventurleitung Nordwall",
+        "an": "Retourenannahme",
+        "titel": "Zur ersten Nachzählung im Packbereich",
+        "text": [
+          "Für den ersten Abgleich nehmen wir die Inventurliste und die Rücknahmescheine der betreffenden Schicht. Ein nachträglich erfasstes Stück muss sich einem einzelnen Artikel zuordnen lassen. Wir werden keine pauschale Korrektur des ganzen Tages vornehmen.",
+          "Bitte lasst die Papierzettel in der Reihenfolge der Ablage. Eine Person, die auf dem Weg zum Pausenraum vorbeikam, kann keine Rücknahme allein durch ihre Anwesenheit bestätigt haben."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-02-10"
+      },
+      {
+        "typ": "notiz",
+        "von": "Schichtführung Retouren",
+        "an": "Schichtmappe",
+        "titel": "Rücknahmekorb am Packplatz",
+        "text": [
+          "Ein Artikel mit losem Rücknahmeschein stand beim Wechsel neben einer Kiste mit ausgehender Ware. Erst beim Lesen des Auftrags war erkennbar, worum es jeweils ging.",
+          "Für die Nachzählung die beiden Warenbewegungen anhand ihrer Kennungen prüfen. Die Blickrichtung aus dem Gang lässt den Text auf dem kleinen Schein nicht erkennen."
+        ],
+        "datum": "2026-02-10"
+      }
+    ]
+  },
+  "testakten/dd-arbeitsvertraege-innovation-berlin": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Für den Betriebserwerb wird gerade mit einer festen Zahl übergehender Verträge gerechnet. Bei Winter könnte die Laufzeit die Planung über September hinaus verändern. Für die Preisrunde ist es wichtig, ob die Personalabteilung nur die Vertragsdatei belegen kann oder den gesamten damaligen Abschluss."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Projektbüro Betriebserwerb",
+        "an": "Personalservice Innovation Systems",
+        "titel": "Was wir für P022 in die Erwerberliste eintragen",
+        "text": [
+          "Unter der Personalnummer vermerken wir ein Beschäftigungsverhältnis mit dem angegebenen Vertragsstand. Die beiden Nachrichten bewahren wir daneben auf. Ein unterschriebenes Original ist in unserem Teil des Datenraums bisher nicht bezeichnet.",
+          "Bitte meldet auch, wenn im Personalarchiv nur der Einstellbogen auftaucht. Dann können wir die Unsicherheit in der Einsatzplanung zeigen, ohne ein fehlendes Papier mit einem fehlenden Arbeitnehmer zu verwechseln."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-09-08"
+      },
+      {
+        "typ": "notiz",
+        "von": "Teamleitung Datentechnik",
+        "an": "Projekt Erwerberbesuch",
+        "titel": "Einsatz von Jonas Winter im Plattformteam",
+        "text": [
+          "Der Dienstplan führt Winter im Plattformteam. Für die Besprechung kann ich zeigen, an welchen Aufgaben er arbeitet und welche Übergabe erforderlich würde. Ich habe seinen Arbeitsvertrag nicht abgelegt.",
+          "Ob der Einsatz nach September fortgesetzt werden kann, muss mit der Personalstelle geklärt werden. Ein Eintrag in unserem Teamkalender ist keine Vertragsverlängerung."
+        ],
+        "datum": "2026-09-08"
+      }
+    ]
+  },
+  "testakten/doping-uvalkanat-handballerin-cas-lausanne": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Es geht mir auch darum, was ich dem Verein bei einer Rückfrage wahrheitsgemäß sagen kann. Aus unserem Training weißt du vielleicht noch, ob wir über eine konkrete Packung oder über das Mittel im Allgemeinen gesprochen haben. Bitte schreib nur das, woran du dich selbst erinnerst."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Barbara Ehrfeld",
+        "an": "Selin Uvalkanat",
+        "titel": "Unsere Nachrichten zum Training",
+        "text": [
+          "Selin, ich erinnere mich an unseren Austausch über die Einnahme vor dem Hallentraining. Den Aufdruck auf deinem Beutel kann ich aus der Erinnerung nicht bestätigen. Die damaligen Nachrichten habe ich noch auf dem Telefon.",
+          "Lass die Packungen getrennt, wie du sie gefunden hast. Für deine Antwort an den Verein kannst du meine Nachricht von damals und meine heutige Erinnerung als zwei verschiedene Dinge benennen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-03-07"
+      },
+      {
+        "typ": "notiz",
+        "von": "Selin Uvalkanat",
+        "an": "Unterlagen für das Vereinsgespräch",
+        "titel": "Welche Beobachtung von wem stammt",
+        "text": [
+          "Im Kalender steht das Teamtraining. Die Unterhaltung mit Barbara ist auf meinem Telefon. Sie war kein Foto vom Chargenaufdruck. Ich fotografiere die vorhandenen Verpackungen in ihrem jetzigen Zustand einzeln.",
+          "Eine Erklärung für das Ergebnis der Probe kann ich daraus selbst nicht geben. Dem Verein kann ich sagen, was ich habe und wo noch eine Angabe fehlt."
+        ],
+        "datum": "2026-03-07"
+      }
+    ]
+  },
+  "testakten/einfache-leichte-sprache-jura-mandantenbrief": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Am Telefon wollte Frau Neumann wissen, ob sie den ganzen Betrag sofort überweisen soll. Sie hat den Brief noch nicht nachgerechnet und möchte nichts doppelt bezahlen. Eine kurze Anweisung pro Blatt würde ihr helfen, die nächste Aufgabe selbst abzuhaken."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Beratung Frau Neumann",
+        "an": "Renate Schmuck",
+        "titel": "Zwei Zettel zum Termin mit Frau Neumann",
+        "text": [
+          "Frau Schmuck, bringen Sie zuerst die Abrechnung mit der Nachzahlung und dann das Schreiben über die neuen Vorauszahlungen. Den Brief vom Jobcenter legen Sie oben auf die Mappe. Wir lesen gemeinsam, wer welchen Betrag verlangt.",
+          "Frau Neumann kann eine vertraute Person mitbringen. Sie soll uns am Ende in ihren eigenen Worten sagen können, welches Blatt sie vorzeigen und bis wann sie sich wieder bei uns melden möchte."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-05-19"
+      },
+      {
+        "typ": "notiz",
+        "von": "Frau Neumann",
+        "an": "Meine Unterlagen",
+        "titel": "Was ich zum Termin mitnehme",
+        "text": [
+          "In der Hülle vom Vermieter habe ich die Seite mit den 386,74 Euro gefunden. Das Blatt mit der neuen Monatszahlung stecke ich dahinter. Den Umschlag vom Amt habe ich noch.",
+          "Im Gespräch möchte ich fragen, welche Zahlung schon fällig ist. Wenn ich etwas abschicken soll, lasse ich mir Empfänger und Datum aufschreiben."
+        ],
+        "datum": "2026-05-19"
+      }
+    ]
+  },
+  "testakten/elternunterhalt-pflegeheim-sozialamtsregress-aachen": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Meine Mutter hat bisher ihre eigene Post verwahrt. Ich habe keine Vollmacht zur Verfügung über ihr Girokonto. Was ich aus dem Heim weiß, ist zuerst nur der verlangte Betrag. Ob die StädteRegion darin eine bestimmte Erstattung bereits berücksichtigt hat, kann ich nicht selbst sehen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Heimverwaltung",
+        "an": "Markus Reinhold",
+        "titel": "Auskunft zum Heimkonto Ihrer Mutter",
+        "text": [
+          "Herr Reinhold, der Heimvertrag nennt den vereinbarten Preis. Die einzelnen Buchungen auf dem Bewohnerkonto geben wir Ihrer Mutter oder einer entsprechend bevollmächtigten Person. Sie kann die Unterlagen auch selbst anfordern.",
+          "Zur ersten Vorbereitung nennen Sie uns den Zeitraum aus dem Schreiben vom 12. Januar. Wir können dann prüfen, welche Monatsabrechnungen vorliegen. Ihr eigenes Einkommen wird nicht auf dem Heimkonto erfasst."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-01-19"
+      },
+      {
+        "typ": "notiz",
+        "von": "Markus Reinhold",
+        "an": "Familienmappe",
+        "titel": "Wer hat welche Unterlage?",
+        "text": [
+          "Den Heimvertrag habe ich als Kopie. Meine Mutter verwahrt die monatlichen Schreiben in einem anderen Ordner. Meine eigenen Lohnunterlagen liegen wiederum zuhause.",
+          "Vor dem Beratungstermin frage ich sie, ob ich die fraglichen Monate mit ihr zusammen heraussuchen darf. Einen Geldeingang kann ich nicht allein aus dem verlangten Eigenanteil ableiten."
+        ],
+        "datum": "2026-01-19"
+      }
+    ]
+  },
+  "testakten/ki-recht-betreiberpflichten-fria-sozialamt-jobcenter-duisburg": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Für eine Person am Schalter macht es einen Unterschied, ob der fehlende Scan einen Hinweis erzeugt oder die Akte ganz hinten in eine andere Warteschlange verschiebt. Ich würde beides am selben Musterantrag sehen wollen: erst mit der fehlenden Seite und dann nach ihrer Nachreichung."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "notiz",
+        "von": "Projektbüro AntragsLotse Pro",
+        "an": "Interne Vorbereitung Sozialamt Duisburg",
+        "titel": "Vorführnotiz zum nachgereichten Papier",
+        "text": [
+          "Zwei Durchläufe desselben fiktiven Antrags auf Hilfe zum Lebensunterhalt vorbereiten. Im ersten fehlt die Anlage. Beim zweiten ist sie als Papier nacherfasst. Für beide Zeitpunkte festhalten, welche Warteschlange die Sachbearbeitung tatsächlich sieht.",
+          "Das Feld zur Vollständigkeit gibt den Stand des letzten Exports an. Ob die Person ein Papier schon früher am Schalter abgegeben hat, lässt sich zusätzlich am Eingangsstempel untersuchen. Für die Vorführung reicht ein erfundenes Blatt."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Schalterdienst Sozialamt Duisburg",
+        "an": "Testmappe AntragsLotse",
+        "titel": "Der Stempel vor dem Scan",
+        "text": [
+          "Eine Person gibt Unterlagen vormittags am Schalter ab. Die Scanpost bearbeitet den Stapel nachmittags. In der Zwischenzeit kann am Bildschirm noch eine fehlende Anlage stehen.",
+          "Für die Vorführung verwenden wir einen Umschlag mit fiktiver Vorgangsnummer. So können wir den Papierweg zeigen, ohne Daten eines echten Antragstellers vorzuführen."
+        ]
+      }
+    ]
+  },
+  "testakten/ki-register-fuldatal-sozialhilfe": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Berthold hat uns zwei Planungsstände genannt. Für das Sozialamt wäre ausschlaggebend, ob die Software einen fehlenden Beleg anzeigt oder einem Antrag aufgrund persönlicher Angaben Vorrang gibt. Eine Produktbezeichnung für beide Arbeitsweisen würde uns beim Ausfüllen des Verzeichnisses nicht weiterhelfen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Projektteam Landkreis Fuldatal",
+        "an": "Dr. Juna Scheuerlein",
+        "titel": "Funktionsbeschreibung zum ersten Fuldataler Test",
+        "text": [
+          "Frau Dr. Scheuerlein, für Version 1.1 zeigen wir den Eingang nach Zeit und den Hinweis auf ein leeres Pflichtfeld. Sie können an einem Musterantrag verfolgen, welche Zeile die Sachbearbeitung anschließend bearbeitet.",
+          "Für die spätere Variante führen wir eine eigene Vorführung. Das für Dezember 2027 genannte Datum ist ein Planungstermin. Eine Entscheidung über die tatsächlich beschaffte Variante liegt dem Team noch nicht vor."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-09"
+      },
+      {
+        "typ": "notiz",
+        "von": "Berthold Wipfler",
+        "an": "Besprechungsunterlagen Fuldatal",
+        "titel": "Ein Musterantrag mit zwei Eingangsarten",
+        "text": [
+          "Das Papierblatt und die digitale Eingabe können dieselbe fehlende Angabe haben. Im ersten Test kennzeichnen wir beide mit derselben laufenden Nummer für den Vergleich.",
+          "Als Resultat schreiben wir auf, welche Person den Hinweis liest und wer die Bearbeitungsreihenfolge ändert. Ein Verkaufsprospekt enthält diese örtliche Arbeitsverteilung nicht."
+        ],
+        "datum": "2026-10-09"
+      }
+    ]
+  },
+  "testakten/ki-register-havelgrund-sozialamt": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Angebot steht Kommunal 1.0, bei der ersten Vorführung sah ich eine andere Kennung. Wenn die Sachbearbeitung ohnehin jeden Vorschlag neu festlegt, sieht das für die betroffene Person anders aus als eine bereits vorsortierte Warteliste. Bitte lasst die sichtbare Kennung auf den Testbildern stehen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Havelgrund Digital",
+        "an": "Dr. Amira Seidlein",
+        "titel": "Testkennung bleibt auf beiden Havelgrund-Bildern sichtbar",
+        "text": [
+          "Frau Dr. Seidlein, auf der Oberfläche steht FS-1.2-hg-test-04. Für die Vorführung verwenden wir einen erfundenen Vorgang. Die Schnittstelle zum Fachverfahren ist in dieser Testansicht abgeschaltet.",
+          "Ich kann Ihnen die Bildschirmfolge zeigen. Ob die spätere Lieferung dieselbe Funktion aktiviert, muss der Anbieter gesondert bestätigen. Februar 2028 steht im Projektplan als möglicher Start."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-09"
+      },
+      {
+        "typ": "notiz",
+        "von": "Ottilie Rabenstein",
+        "an": "Besprechungsmappe Fallspur",
+        "titel": "Wer klickt nach dem Vorschlag?",
+        "text": [
+          "Beim ersten Durchlauf saß Noah an der Testoberfläche, die Sachbearbeitung daneben. Ein Klick des Vorführenden ist noch keine Festlegung, wer im Amt diese Entscheidung treffen wird.",
+          "Für den nächsten Durchlauf setzt sich die Sachbearbeitung selbst davor und erklärt, an welcher Stelle sie den Vorschlag ändern oder stoppen kann."
+        ],
+        "datum": "2026-10-09"
+      }
+    ]
+  },
+  "testakten/krankenhausrecht-md-intensivabrechnung-halle": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei Herrn Wendt fällt die Entlassung von der Intensivstation nicht mit der Entlassung aus dem Krankenhaus zusammen. Auf dem Fallblatt stehen beide Daten. Für den Abgleich mit dem Leistungsnachweis darf uns die Behandlung auf C3 nicht als weitere Zeit auf ITS 2 hineinrutschen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Stationssekretariat ITS 2",
+        "an": "Medizincontrolling Halle",
+        "titel": "Unterlagen zur Verlegung von Herrn Wendt",
+        "text": [
+          "Der Bericht bezeichnet das Ende des ITS-Aufenthalts am 28. Januar um 11.18 Uhr. C3 führt die Weiterbehandlung bis zum 3. Februar. Der tatsächliche Übergabevermerk und der technische Stationswechsel werden in unterschiedlichen Masken geführt.",
+          "Wir lassen den Vermerk der übernehmenden Station heraussuchen. Für die abgerechneten Aufwandspunkte braucht ihr daneben den zeitlich passenden Intensivnachweis."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-02-03"
+      },
+      {
+        "typ": "notiz",
+        "von": "Stationssekretariat C3",
+        "an": "Medizincontrolling Halle",
+        "titel": "Übernahme auf die Allgemeinstation",
+        "text": [
+          "Auf C3 lag für den Fall eine Verlegung aus der ITS an. Der Krankenhausfall blieb bestehen, obwohl die behandelnde Station wechselte.",
+          "Bei der Auskunft den Beginn der Betreuung auf C3 neben die administrative Umbuchung schreiben. Der spätere Entlassbrief fasst den gesamten Aufenthalt zusammen."
+        ],
+        "datum": "2026-02-03"
+      }
+    ]
+  },
+  "testakten/krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei der Anprobe wurde das Gerät angepasst. Für den Heimweg benutzte ich damals noch meine bisherige Hilfe. Im Beihilfeordner liegt die Originalverordnung zur alten Orthese. Wenn die Kasse »Verordnung« schreibt, weiß ich deshalb nicht sofort, welches Stück gemeint ist."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Sanitätshaus Lichtenberg & Söhne",
+        "an": "Annette Weiß",
+        "titel": "Anpassung StepMove und Aushändigung",
+        "text": [
+          "Frau Weiß, die Testanpassung vom 2. Juli mit 280 Euro führen wir als eigenen Vorgang. Sie ist nicht der ausgewiesene Preis einer endgültigen Versorgung. Für eine Übergabe müssen wir das gesonderte Ausgabeblatt prüfen.",
+          "Bitte nennen Sie uns den Empfänger Ihrer Anfrage. Die private Kasse und die Beihilfe haben nicht zwingend dieselben Unterlagen vorliegen; eine bereits dort liegende Originalverordnung können wir hier nicht als eingegangen bestätigen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-09"
+      },
+      {
+        "typ": "notiz",
+        "von": "Annette Weiß",
+        "an": "Hilfsmittelordner",
+        "titel": "Was ich nach dem Termin mitgenommen habe",
+        "text": [
+          "Nach der Anpassung kam ich mit meiner bisherigen Versorgung nach Hause. Einen endgültigen Überlassungsbeleg suche ich getrennt von der Rechnung für die Anprobe.",
+          "Die alte Orthese und die Behandlung der Druckstellen stehen mit eigenen Daten im Ordner. Ich möchte verhindern, dass beim Kassenwechsel dieselbe Rechnung zweimal oder bei der falschen Stelle landet."
+        ],
+        "datum": "2026-07-09"
+      }
+    ]
+  },
+  "testakten/krankenkassenrecht-off-label-use-seltene-erkrankung-mainz": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Leyla und Samir fragen ausdrücklich danach, was ein reservierter Kliniktermin für sie finanziell bedeutet. In der Kostenaufstellung sind die Behandlung und die stationäre Überwachung getrennt kalkuliert. Ein freier Termin allein ist für die Familie keine tragfähige Aussage darüber, wer diese Kosten übernimmt."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "notiz",
+        "von": "Patientenkoordination Mainz",
+        "an": "Interne Vorbereitung des Familiengesprächs",
+        "titel": "Gesprächszettel zu Leylas Befunden und dem Kliniktermin",
+        "text": [
+          "Die Familie möchte wissen, welche Behandlung schon stattgefunden hat und was für den gewünschten Termin erst geplant ist. Vor dem Gespräch den letzten dokumentierten Bericht und die Kostenaufstellung für Behandlung und Überwachung in getrennten Hüllen bereitlegen.",
+          "Bei der Verwaltung den schriftlichen Stand zur Finanzierung und beim Behandlungsteam die tatsächliche Verfügbarkeit des Termins erfragen. Ein reserviertes Zeitfenster gibt Leyla noch keine Bestätigung der Kostenübernahme."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Samir Tunc",
+        "an": "Familienunterlagen Mainz",
+        "titel": "Was ich bei der Terminabsprache verstanden habe",
+        "text": [
+          "Mir wurde eine mögliche Behandlungszeit genannt. Ob der Termin auch ohne geklärte Finanzierung stattfinden kann, konnte mir die Anmeldung nicht verbindlich sagen. Leyla möchte darüber selbst mit dem Behandlungsteam sprechen.",
+          "Für den nächsten Rückruf halte ich die Terminbestätigung und die Post der Kasse in zwei getrennten Hüllen bereit."
+        ]
+      }
+    ]
+  },
+  "testakten/kuendigungsschutzklage-weber-techlogix": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Herr Weber war seit März 2018 bei uns. Im April wurde ihm die Kündigung geschrieben. Wenn ein Auszahlungsbetrag mehrere Positionen enthält, möchte ich für den Rückruf auseinanderhalten, was sich auf seine laufende Arbeit und was sich auf einen früheren Monat bezieht."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "notiz",
+        "von": "Entgeltabrechnung TechLogix",
+        "an": "Abstimmung mit Personalbüro",
+        "titel": "Arbeitsnotiz zum Kontoabgleich Marcus Weber",
+        "text": [
+          "Für den Abgleich die Überweisungszeile und die Monatsabrechnung anhand derselben Personalnummer zusammenbringen. Die Bank überweist den Nettobetrag eines Laufs. Eine spätere Korrektur kann eine frühere Abrechnungsperiode betreffen.",
+          "Der letzte tatsächliche Arbeitstag kommt aus dem Einsatznachweis. Weder das Datum des Schreibens vom 28. April noch der Auszahlungstag im Konto ergeben für sich, wann Marcus Weber zuletzt im Betrieb arbeitete."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "von": "Entgeltabrechnung TechLogix",
+        "an": "Personalmappe Weber",
+        "titel": "Stichtag beim letzten Abrechnungslauf",
+        "text": [
+          "In der Software tragen Abrechnung und Korrektur einen Bezugsmonat und einen späteren Buchungstag. Für einen Rückruf beide Felder abschreiben.",
+          "Die im Schreiben vom 28. April genannte Beendigung und das Datum einer Überweisung bitte nicht in dieselbe Spalte setzen."
+        ]
+      }
+    ]
+  },
+  "testakten/longcovid-erwerbsminderung-feldermann-leipzig": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Marko begleitet mich zu längeren Terminen. Wenn ich vor Ort sitze und das Gespräch schaffe, sieht niemand, dass er anschließend den Heimweg und zuhause den Einkauf übernimmt. Ich würde auch den Tag nach dem Termin festhalten, statt nur die Dauer meines Besuchs in der Ambulanz aufzuschreiben."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Marit Sonnemann",
+        "an": "Vivian Feldermann",
+        "titel": "Was Sie und Marko zum Gespräch mitbringen können",
+        "text": [
+          "Frau Feldermann, bringen Sie den Termin in der Ambulanz und zwei benachbarte Tage aus Ihrem Kalender mit. Mich interessiert auch, was Sie an einem besseren Tag noch allein schaffen und wodurch ein anderer Tag anders verlief.",
+          "Marko kann aus seiner Sicht ergänzen, wann er gefahren ist oder eine Aufgabe übernommen hat. Es ist in Ordnung, wenn er bei einer Tätigkeit nicht dabei war und dazu nichts sagen kann."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-02-17"
+      },
+      {
+        "typ": "notiz",
+        "von": "Marko Feldermann",
+        "an": "Privater Kalenderauszug",
+        "titel": "Fahrt zur Ambulanz und der Einkauf danach",
+        "text": [
+          "Ich fuhr Vivian bis zum Eingang und holte sie nach dem Termin wieder ab. Was im Sprechzimmer geschah, habe ich selbst nicht beobachtet. Den Einkauf habe ich auf dem Rückweg übernommen.",
+          "Am Folgetag konnte sie den Anruf selbst führen. Den Rückruf am Nachmittag habe ich ihr aufgeschrieben, weil sie sich hingelegt hatte."
+        ],
+        "datum": "2026-02-17"
+      }
+    ]
+  },
+  "testakten/neuralis-medtech-erlangen-gestaltungsakte": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei E-2306-19 konnte das Labor erklären, welches Gerät gebraucht wurde. Das sagt noch nichts darüber, wer den Auftrag gegen einen anderslautenden Beschluss hätte durchsetzen können. Für den Rundgang möchte ich deine fachliche Entscheidung sichtbar machen und daneben den wirklichen Unterschriftsweg liegen lassen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Dr. Henrik Vogt",
+        "an": "Caroline Benkert",
+        "titel": "Das Gerät zeige ich selbst, Caroline",
+        "text": [
+          "Ich kann am Prüfplatz erläutern, warum das ausgewählte Modell für unsere Messung geeignet war. Ich habe die technische Auswahl mit dem Lieferanten besprochen. Der Eintrag im Bestellvorgang ist ein eigener Schritt.",
+          "Für Frau Mahler nehmt bitte Evas Freigabeauszug mit. Ob ich die Bestellung auch allein rechtsverbindlich hätte auslösen können, ergibt sich weder aus dem Typenschild noch aus der Tatsache, dass ich den Lieferanten kenne.",
+          "Ich hänge dir die Tabelle „Weg des Prüfgeräts E-2306-19“ an."
+        ],
+        "antwort_auf": 1,
+        "datum": "2023-07-21",
+        "anlage_nr": 5
+      },
+      {
+        "typ": "notiz",
+        "von": "Eva Dorn",
+        "an": "Rundgang Neuralis",
+        "titel": "Bedarfsanmeldung und Freigabe nicht zusammenheften",
+        "text": [
+          "Die erste Zeile im Auszug gehört zur Meldung des Labors. Die Geräteauswahl beruht auf Henriks fachlicher Arbeit. Erst danach kommt die Freigabe zur Bestellung.",
+          "Für den Rundgang beide Zeilen mit derselben Vorgangsnummer nebeneinanderlegen. Die Satzung ist für die Frage nach den Stimmen der Gesellschafter separat da."
+        ],
+        "datum": "2023-07-21"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Weg des Prüfgeräts E-2306-19",
+        "von": "Dr. Henrik Vogt",
+        "an": "Caroline Benkert",
+        "text": [
+          "Station|Unterlage am Rundgang|Was sie belegen kann",
+          "Bedarf im Labor|Bedarfsmeldung|Welches Gerät gebraucht wurde",
+          "Technische Auswahl|Angaben zum Modell|Warum das Modell fachlich passt",
+          "Bestellung|Freigabeauszug|Wer die verbindliche Freigabe erteilte"
+        ],
+        "datum": "2023-07-21"
+      }
+    ]
+  },
+  "testakten/rentenberater-bav-firmenberatung-pflegedienst-halle": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Nachtlauf kann ein Abzug anfallen, obwohl beim Versicherer noch keine bestätigte Zuordnung angezeigt wird. Ob sich die Überweisung auf PZ-118 oder auf einen anderen Vertrag bezieht, möchte ich anhand der Sammelzahlung auflösen. Für die Mitarbeitenden zählt am Ende, welchem Vertrag das Geld gutgeschrieben wurde."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Antje Korff",
+        "an": "Personalabrechnung PflegeZeit Saale",
+        "titel": "Was der Sammellauf bei PflegeZeit belegt",
+        "text": [
+          "Für PZ-118 stehen 90 Euro Eigenbeitrag und 18 Euro Zuschuss im Auszug. Das Portal nennt noch einen offenen Bearbeitungsstand. Bei PZ-204 ist im März ein Abzug erfasst, obwohl in der Überweisungsspalte null steht.",
+          "Bitte gebt den Beschäftigten jeweils nur die Zeile ihrer eigenen Nummer. Wir holen für die Fragen zum Eingang die Aufteilung der Sammelzahlung beim Versicherer ein."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-07"
+      },
+      {
+        "typ": "notiz",
+        "von": "Personalabrechnung PflegeZeit",
+        "an": "Abgleich Beschäftigtenpost",
+        "titel": "Wenn ein Jahresbrief fehlt",
+        "text": [
+          "Der Abzug auf der Lohnabrechnung und ein fehlender Jahresbrief schließen einander nicht aus. Zwischen den beiden liegt die Zuordnung des Geldes beim Versicherer.",
+          "Für den Rückruf notiere ich Personalnummer, Abrechnungsmonat und Versicherungskennzeichen. Die Unterlagen eines anderen Mitarbeiters bleiben verdeckt."
+        ],
+        "datum": "2026-07-07"
+      }
+    ]
+  },
+  "testakten/rentenberater-status-bav-rentenanspruch-querschnitt-dortmund": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Auf den Einsatzberichten für April, Mai und Juni 2020 steht jeweils eine Unterschrift. Für dieselben Monate suche ich noch nach Rechnungen. Ich möchte wissen, ob ich damals selbst über den Auftrag entscheiden konnte oder ob das Team mich schon für die Baustelle eingetragen hatte."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Rentenberatung",
+        "an": "Bernd Lewe",
+        "titel": "Drei Einsätze bei Ruhrwerk und zwei Vertragszeiten",
+        "text": [
+          "Herr Lewe, die unterschriebenen Berichte helfen uns, Ort und Tätigkeit zuzuordnen. Sie ergeben für sich weder den Zahlungsempfänger noch den Grund, weshalb Sie an dem Tag dort waren. Den zweiten Ausweis möchten wir mit seiner Gültigkeitszeit ansehen.",
+          "Bringen Sie außerdem die Schreiben zur Direktversicherung aus beiden Zeiträumen mit. Für das Rentenkonto und für das damalige Arbeitsverhältnis brauchen wir unterschiedliche Belege."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-06"
+      },
+      {
+        "typ": "notiz",
+        "von": "Bernd Lewe",
+        "an": "Spind- und Belegmappe",
+        "titel": "Der Ausweis war für das Tor",
+        "text": [
+          "An der Werkspforte brauchte ich die Karte für den Zutritt. Das Fach mit meinem Namen blieb auch nach dem Vertragswechsel dort. Wie ich zu einem konkreten Einsatz kam, steht auf keiner der beiden Karten.",
+          "Zu den drei Berichten kann ich jeweils sagen, wer mich anrief. Bei den nicht mehr auffindbaren Rechnungen lasse ich den Betrag offen."
+        ],
+        "datum": "2026-07-06"
+      }
+    ]
+  },
+  "testakten/rentenberater-statusfeststellung-plattformkurier-essen": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei einer normalen Einzelfahrt sehe ich den angebotenen Auftrag in der App. Auf der Laborroute nennt Nadine mir mehrere feste Abholzeiten hintereinander. Eine Vertretung, die ich erst im Laufe des Vormittags klären kann, hilft mir bei der ersten Probe nicht mehr."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Disposition RuhrKurier",
+        "an": "Selim Özkan",
+        "titel": "Fahrerwechsel auf der Laborroute Nord",
+        "text": [
+          "Selim, für die Route muss die Disposition vor der ersten Abholung wissen, welcher Fahrer am Labor erscheint. Für eine einzelne angebotene Fahrt läuft die Zuordnung über die Annahme in der App. Das sind zwei verschiedene Wege.",
+          "Wenn du einen Kollegen vorschlägst, gib uns dessen Rückmeldung zur betreffenden Tour. Ob er tatsächlich gefahren ist, sehen wir erst am zugeordneten Abholnachweis."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-20"
+      },
+      {
+        "typ": "chat",
+        "von": "Selim Özkan",
+        "an": "Laborroute Nord",
+        "titel": "Abholung bei Reuter vor der nächsten Station",
+        "text": [
+          "Selim: Für Reuter ist ein Kollege in der Nähe. Kann er direkt hinfahren?",
+          "Disposition: Erst mitteilen, wen das Labor an der Übergabe erwarten soll. Bis dahin steht dein Name auf der Route.",
+          "Selim: Dann warte ich die Bestätigung ab. Für die spätere Einzelfahrt habe ich noch nichts angenommen."
+        ],
+        "datum": "2026-06-20"
+      }
+    ]
+  },
+  "testakten/rentenrecht-betriebsrente-direktversicherung-vbl-hannover": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Ich bin Dagmar Ellersen und habe die Unterlagen aus mehreren Dienstjahren vor mir. Auf einem alten Lohnzettel finde ich den Abzug, auf dem Jahresbrief eine Versicherungsnummer. Ich möchte für meine Planung weder die Zusatzversorgung unbemerkt doppelt rechnen noch einen Vertrag übersehen."
+        ],
+        "berichtigung": {
+          "von": "Dagmar Ellersen"
+        }
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Personalabteilung",
+        "an": "Dagmar Ellersen",
+        "titel": "Ihr Dienstplan und die Versorgungskonten",
+        "text": [
+          "Frau Ellersen, für die Zusatzversorgung führt die Klinik eine andere Kennung als der private Versicherer. Die gesetzliche Rentenauskunft nennt wiederum nur den dort berechneten Betrag. Wir können Ihnen zu einem Abrechnungsmonat die damals verwendeten Kennzeichen nennen.",
+          "Legen Sie bitte die Seite mit dem Vertragsstand der Direktversicherung dazu. Ob eine Police später weitergeführt oder geändert wurde, steht nicht auf jedem alten Lohnzettel."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-24"
+      },
+      {
+        "typ": "notiz",
+        "von": "Dagmar Ellersen",
+        "an": "Planung letzter Dienst",
+        "titel": "Drei Absender auf dem Küchentisch",
+        "text": [
+          "Den DRV-Brief, die Post zur Zusatzversorgung und die Versicherungspolice habe ich in drei Stapel gelegt. Auf zwei Papieren steht ein Monatsbetrag, bei der Police außerdem ein anderer Auszahlungszeitpunkt.",
+          "Für mein Gespräch schreibe ich zu jedem Betrag den genannten Beginn und ob er nur vorausberechnet ist. Die letzte Schicht lege ich erst nach dieser Klärung fest."
+        ],
+        "datum": "2026-06-24"
+      }
+    ]
+  },
+  "testakten/rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Rundschreiben der Druckerei fehlt der Teil mit dem persönlichen Eintrittsdatum. Bei meiner eigenen Zusage ist das Datum lesbar. Mein Mann und ich waren nicht zwingend in derselben Gruppe, auch wenn die Schreiben früher im selben Umschlagordner landeten."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Ehemalige Personalabteilung",
+        "an": "Brigitte Lampe",
+        "titel": "Ihre persönliche Zusage aus 1998",
+        "text": [
+          "Frau Lampe, bei einer allgemeinen Mitteilung der Druckerei müssen wir zunächst prüfen, an welchen Jahrgang und Betrieb sie adressiert war. Für Ihre Zusage aus 1998 können wir im damaligen Personalbestand unter Ihrem Namen suchen.",
+          "Die angekündigte Leistung der Rhein-Main Pensionskasse und die Zusage des Arbeitgebers werden in verschiedenen Unterlagen geführt. Bitte schicken Sie beide Deckblätter mit Datum mit, ohne die Unterlagen Ihres Mannes als Ihre eigene Zusage zu kennzeichnen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-09"
+      },
+      {
+        "typ": "notiz",
+        "von": "Brigitte Lampe",
+        "an": "Unterlagen aus der Druckerei",
+        "titel": "Die Rückseite im gemeinsamen Ordner",
+        "text": [
+          "Die Rückseite des Rundschreibens ist unbeschriftet. Bei meiner eigenen Zusage stehen mein Name und das Jahr auf der ersten Seite. Der Ordner enthält auch Papiere meines Mannes.",
+          "Beim Kopieren lasse ich die Rückseite dabei und schreibe auf eine separate Notiz, wo ich das Blatt gefunden habe. Eine persönliche Zuordnung kann ich dadurch noch nicht bestätigen."
+        ],
+        "datum": "2026-07-09"
+      }
+    ]
+  },
+  "testakten/rentenrecht-erwerbsminderung-long-covid-pots-koeln": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Ich habe mich für die Untersuchung extra ausgeruht und wurde von Tobias bis an die Tür gebracht. Als ich nach Hause kam, blieb die Wäsche stehen. Auf dem Befund sind diese Vorbereitungen und der folgende Tag nicht zu sehen. Gerade solche Wechsel bestimmen meinen Alltag."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Rentenberatung",
+        "an": "Saskia Renneberg",
+        "titel": "Was vor und nach der Untersuchung geschah",
+        "text": [
+          "Frau Renneberg, schreiben Sie den Untersuchungstag mit Anfahrt, Wartezeit und Heimweg auf. Am nächsten Tag dürfen auch die Dinge auf die Liste, die Sie geplant und schließlich verschoben haben. Bitte markieren Sie dabei, ob eine andere Person geholfen hat.",
+          "Ein einzelner schlechter oder guter Tag soll nicht für die ganze Woche stehen. Ein Kalenderauszug um denselben Termin hilft, den Verlauf mit den medizinischen Unterlagen abzugleichen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-30"
+      },
+      {
+        "typ": "notiz",
+        "von": "Tobias",
+        "an": "Unterlagen Saskia Renneberg",
+        "titel": "Fahrt zum Untersuchungstermin",
+        "text": [
+          "Ich fuhr bis zum Eingang, damit Saskia nicht vom Parkplatz laufen musste. Im Wartezimmer und während der Untersuchung war ich nicht die ganze Zeit dabei.",
+          "Auf dem Rückweg haben wir den vorgesehenen Einkauf ausgelassen. Am folgenden Morgen sah ich, dass die am Vortag bereitgestellte Wäsche noch stand."
+        ],
+        "datum": "2026-06-30"
+      }
+    ]
+  },
+  "testakten/rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Nach der Anwendung in Bad Zwesten konnte ich den nächsten Weg in meinem Tempo beginnen. Im Dienst klingelt es auch dann, wenn ich gerade den Rücken entlasten muss. Ich möchte deshalb als Beispiel einen Dienst mit Übergabe mitbringen und dazu die tatsächlichen Unterbrechungen schildern."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Rentenberatung Kassel",
+        "an": "Sabine Krüger",
+        "titel": "Ein konkreter Dienst nach der Reha reicht für den Anfang",
+        "text": [
+          "Frau Krüger, ein Dienstplan zeigt zunächst nur den eingeteilten Zeitraum. Hilfreich wäre ein kurzer Ablauf, wann Sie selbst übernehmen konnten, wann jemand einsprang und wie es nach der Pause weiterging.",
+          "Bringen Sie den Entlassungsbericht mit. Was unter wechselnden Anwendungen in der Reha gelang, können wir dann neben die Bedingungen am tatsächlichen Arbeitsplatz legen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-19"
+      },
+      {
+        "typ": "notiz",
+        "von": "Sabine Krüger",
+        "an": "Eigene Unterlagen Kassel",
+        "titel": "Die Pause, während jemand anders übernahm",
+        "text": [
+          "Im Dienst konnte ich mich erst setzen, nachdem die Kollegin meine Station übernommen hatte. Als sie zurückmusste, war meine Pause zu Ende, obwohl ich zuhause noch länger sitzen geblieben wäre.",
+          "Die Uhrzeiten kann ich anhand der Übergabe annähern. Was die Kollegin in dieser Zeit selbst übernommen hat, kann sie besser beschreiben."
+        ],
+        "datum": "2026-06-19"
+      }
+    ]
+  },
+  "testakten/rentenrecht-erwerbsminderung-reha-ablehnung-leipzig": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Ich kann am Scanner eine Artikelnummer sichern und mich danach kurz anlehnen. Für eine vollständige Inventur muss ich auch zum nächsten Regal und wieder zurück. Beim Gespräch klang es so, als könnte ich den ganzen Auftrag vom selben Stuhl aus bearbeiten."
+        ],
+        "berichtigung": {
+          "von": "Jens Malchow"
+        }
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Reha-Sozialdienst",
+        "an": "Jens Malchow",
+        "titel": "Herr Malchow, bitte bringen Sie einen Inventurgang mit",
+        "text": [
+          "Die Artikelposition auf dem Scanner erklärt nur den einen Handgriff. Eine Skizze eines wirklichen Rundgangs kann zeigen, wie oft Sie stehen, sich bücken oder zum anderen Fach gehen müssen. Wege und Pausen lassen sich darauf getrennt einzeichnen.",
+          "Für den Reha-Termin brauchen wir außerdem, welche Entlastung im Lager tatsächlich möglich ist. Eine theoretisch andere Arbeit stellen wir daneben, wenn wir ihren Ablauf kennen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-04-28"
+      },
+      {
+        "typ": "notiz",
+        "von": "Jens Malchow",
+        "an": "Inventurvorbereitung",
+        "titel": "Der nachgefragte Artikel ist nicht immer im selben Gang",
+        "text": [
+          "Vom Scannerplatz aus kann ich den Bestand aufrufen. Die Bestätigung vor Ort verlangt aber den Blick auf die Kennung am tatsächlichen Fach. Liegt die Ware anderswo, kommt ein zusätzlicher Weg hinzu.",
+          "Beim Nachzeichnen unterscheide ich den normalen Weg und den Ausnahmegang. Die Möglichkeit, mich kurz anzulehnen, ist noch keine längere Sitzpause."
+        ],
+        "datum": "2026-04-28"
+      }
+    ]
+  },
+  "testakten/rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Eduard erkennt den Betrieb am Namen wieder. Für die Übersetzung braucht es aber auch die lesbare Seite und den damaligen Ort. Wir haben kein zweites Bild, auf dem ich den verlorenen Rand sicher entziffern könnte. Kann die Familie in Nowosibirsk bei der Suche eine Archivsignatur angeben?"
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Übersetzungsbüro",
+        "an": "Alina Klassen",
+        "titel": "Arbeitsbuch Klassen und der abgeschnittene Stempel",
+        "text": [
+          "Frau Klassen, die lesbaren Einträge übersetze ich mit ihrer jeweiligen Seitenzahl. Den fehlenden Teil des Stempels werde ich als unleserlich kennzeichnen. Ich ergänze ihn nicht allein aus dem Namen eines ähnlichen Kombinats.",
+          "Wenn Olga für den Archivbestand eine Signatur bekommt, schicken Sie sie bitte getrennt vom alten Foto. Eine spätere Auskunft kann einen Eintrag erläutern, ist aber keine nachträgliche Verbesserung am Original."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-26"
+      },
+      {
+        "typ": "notiz",
+        "von": "Alina Klassen",
+        "an": "Familienmappe Nowosibirsk",
+        "titel": "Foto neben der gebundenen Seite",
+        "text": [
+          "Auf dem Foto ist die linke Seite angeschnitten. Im Arbeitsbuch folgen mehrere Einträge mit verschiedenen Stempeln. Ich schreibe auf die Hülle die Seite, von der das Foto stammt, ohne Buchstaben in das Bild zu malen.",
+          "Die Antwort aus dem Archiv soll mit Datum und Absender zugeordnet bleiben. Bei einer abweichenden Ortsbezeichnung legen wir beide Fassungen vor."
+        ],
+        "datum": "2026-06-26"
+      }
+    ]
+  },
+  "testakten/rentenrecht-fruehrente-kontenluecken-werft-kiel": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Jan hat noch eine alte Weihnachtskarte aus der Werftzeit gefunden. Sie hilft mir, den früheren Betrieb und eine Kollegin zuzuordnen. Ein Beschäftigungsmonat wird damit aber nicht belegt. Für die fehlende Zeit würde ich gern wissen, unter welcher Firmierung die damalige Lohnbuchhaltung geführt wurde."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Frühere Lohnbuchhaltung",
+        "an": "Maren Thies",
+        "titel": "Suche unter Nordstahl und der alten Personalnummer",
+        "text": [
+          "Frau Thies, mit der Personalnummer und je einem Beleg vor und nach der Lücke können wir im Archiv gezielter suchen. Frühere Firmenbezeichnung und damalige Schreibweise Ihres Namens können dabei eine Rolle spielen.",
+          "Eine Abrechnung vom ersten und eine vom letzten Monat bescheinigen nicht automatisch sämtliche Zwischenmonate. Für die fehlenden Monate versuchen wir die jeweiligen Listen getrennt aufzufinden."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-03"
+      },
+      {
+        "typ": "notiz",
+        "von": "Jan Thies",
+        "an": "Unterlagen für Maren",
+        "titel": "Was im blauen Ordner liegt",
+        "text": [
+          "Zwischen den Werftabrechnungen lag die Weihnachtskarte. Darauf steht ein Gruß, aber keine Personalnummer. Auf einem der blassen Lohnzettel ist die Nummer noch zu lesen.",
+          "Ich fotografiere Vorder- und Rückseite bei Tageslicht. Auf die alte Abrechnung selbst schreibe ich nichts, damit die verbliebene Schrift erhalten bleibt."
+        ],
+        "datum": "2026-07-03"
+      }
+    ]
+  },
+  "testakten/rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Meine Tochter Anke tippt diese Nachricht für mich. Karl hatte seine Formulare selbst abgelegt. Ich kann beschreiben, wen ich wann gepflegt habe, aber aus dem Familienkalender lese ich keine Meldung an die Rentenversicherung ab. Bitte sagen Sie uns, für welche Person und Monate Sie im Bestand nachsehen können."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Pflegekasse",
+        "an": "Helga Bruns",
+        "titel": "Unterlagen zur Pflegeperson und zu Ihrem Krankenversicherungskonto",
+        "text": [
+          "Frau Bruns, die Meldung als Pflegeperson und die Mitgliedschaft in der Krankenversicherung liegen in verschiedenen Bereichen. Wir suchen für Sie zuerst die Bescheide zur bezeichneten pflegebedürftigen Person und zum gewünschten Zeitraum.",
+          "Für die übrigen Fragen brauchen wir den Absender des jeweiligen Schreibens. Der Zahlungstext einer Unterstützungskasse ist kein Nachweis des Beginns einer Pflegezeit."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-01"
+      },
+      {
+        "typ": "notiz",
+        "von": "Anke Bruns",
+        "an": "Familienunterlagen Bremen",
+        "titel": "Mama hat die Nachricht diktiert",
+        "text": [
+          "Meine Mutter hat ihre eigenen Beobachtungen erzählt. Ich habe sie aufgeschrieben und ihr den Text vorgelesen. Zu den Formularen, die Karl selbst verschickte, konnte sie nur sagen, wo er sie aufbewahrte.",
+          "Ich öffne die Rentenpost und die Post der Pflegekasse mit ihr gemeinsam. Ein späteres Schreiben über Krankenversicherungsbeiträge kommt in eine eigene Hülle."
+        ],
+        "datum": "2026-07-01"
+      }
+    ]
+  },
+  "testakten/rentenrecht-riester-zulagenrueckforderung-augsburg": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Dezember hatte ich mit Ihrem Service wegen der zusätzlichen Einzahlung telefoniert. Den Betrag kann ich auf meinem Konto finden. Für mich bleibt unklar, nach welchem Beitragsjahr Sie die Zahlung im Vertrag gebucht haben und was aus einer eventuellen Rückbuchung geworden ist."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Anbieter Riester-Vertrag",
+        "an": "Nadja Erhart",
+        "titel": "Sonderzahlung und Beitragsjahr zu RIE-8871-NE",
+        "text": [
+          "Frau Erhart, wir können für die 300 Euro die Buchungszeile im Vertragskonto und die Zuordnung zum Beitragsjahr getrennt herausgeben. Der Rat aus dem Telefonat ist kein Nachweis, dass der Betrag tatsächlich so zugeordnet wurde.",
+          "Bitte kennzeichnen Sie im Kontoauszug den ursprünglichen Abgang und gegebenenfalls den Rücklauf. Wir vergleichen diese gegen die Einzelbuchungen und nicht nur gegen die Jahressumme der Mitteilung."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-01"
+      },
+      {
+        "typ": "notiz",
+        "von": "Nadja Erhart",
+        "an": "Ordner Altersvorsorge",
+        "titel": "Einmalbetrag neben dem Monatsbeitrag",
+        "text": [
+          "Der reguläre Einzug beträgt 85 Euro. Der zusätzliche Betrag vom Dezember steht auf einer anderen Bankzeile. Wenn ich beide unter denselben Monat schreibe, sieht es nach einem erhöhten laufenden Beitrag aus.",
+          "Für das Gespräch halte ich neben dem Zahlungstag die Bezeichnung aus dem Vertragskonto frei. Erst der Anbieter kann bestätigen, welches Beitragsjahr dort geführt wird."
+        ],
+        "datum": "2026-07-01"
+      }
+    ]
+  },
+  "testakten/rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Thomas und ich haben unsere Mutter gemeinsam unterstützt. Wir standen dabei nicht zwingend gleichzeitig in ihrer Wohnung. Der Bescheid der Pflegekasse von 2013 und die Erinnerung meines Bruders beantworten deshalb nicht dieselbe Frage. Vor einer Zusage meines letzten Arbeitstags möchte ich den fehlenden Zeitraum eingrenzen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Hamburger Rentenberatung",
+        "an": "Uwe Lammers",
+        "titel": "Pflegezeiten und gewünschter Rentenbeginn",
+        "text": [
+          "Herr Lammers, wir brauchen den damaligen Pflegekassenbrief mit allen Seiten und den betreffenden Abschnitt im Versicherungsverlauf. Thomas kann getrennt schildern, welche Besuche und Hilfen er selbst übernommen hat.",
+          "Der Ausweis bestätigt einen eigenen Sachverhalt. Für das Datum einer Altersrente prüfen wir daneben die erfassten Versicherungszeiten. Bitte machen Sie die Erklärung des Bruders nicht nachträglich zum Text der damaligen Meldung."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-05"
+      },
+      {
+        "typ": "notiz",
+        "von": "Thomas Lammers",
+        "an": "Familienunterlagen Hamburg",
+        "titel": "Meine Fahrten zu Elisabeth",
+        "text": [
+          "Ich kann mich an die Fahrten nach der Arbeit und die Hilfe beim Einkauf erinnern. Wann Uwe vormittags bei unserer Mutter war, weiß ich an diesen Tagen nur aus seinen eigenen Erzählungen.",
+          "In meiner Aufstellung kennzeichne ich eigene Besuche und solche, bei denen wir beide dort waren. Für den zeitlichen Umfang suche ich die alten Kalendereinträge."
+        ],
+        "datum": "2026-07-05"
+      }
+    ]
+  },
+  "testakten/rentenrecht-versorgungswerk-befreiung-angestellt-freiburg": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Ich bekomme bei Stein & Hofmann Aufgaben in der Hochbau-Projektleitung, die ich beim früheren Arbeitgeber nicht hatte. Auf den Zahlungsbelegen steht nur die Beitragsart. Für die Klärung mit dem Versorgungswerk brauche ich eine Beschreibung meines tatsächlichen Einsatzes seit dem Wechsel."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Personalbüro Stein & Hofmann",
+        "an": "Nils Rademacher",
+        "titel": "Tätigkeitswechsel bei Stein & Hofmann",
+        "text": [
+          "Herr Rademacher, wir können den Beginn als Projektleiter Hochbau und die seither übernommenen Aufgaben aus Ihrem Einsatzplan bestätigen. Ihre Beiträge im Gehaltslauf führen wir getrennt von dem, was das Versorgungswerk von Ihrem privaten Konto einzieht.",
+          "Bitte legen Sie die personenbezogene Befreiungsentscheidung mit ihrer damaligen Tätigkeitsbeschreibung daneben. Wir können als Arbeitgeber den heutigen Einsatz schildern, über den Geltungsbereich des alten Bescheids entscheidet unsere Lohnstelle nicht."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-25"
+      },
+      {
+        "typ": "notiz",
+        "von": "Nils Rademacher",
+        "an": "Mappe Stellenwechsel",
+        "titel": "Welche Zeile die zweite Zahlung zeigt",
+        "text": [
+          "Der Gehaltszettel enthält den Abzug des laufenden Monats. Der Einzug des Versorgungswerks ist auf meinem Girokonto zu sehen. Ein Kontoauszug mit nur dem Nettolohn würde den ersten Vorgang verdecken.",
+          "Für das Gespräch notiere ich Arbeitgeber, Tätigkeitsbeginn und beide Beitragsmonate. Ein gleichbleibender Berufstitel beschreibt den Wechsel allein unvollständig."
+        ],
+        "datum": "2026-06-25"
+      }
+    ]
+  },
+  "testakten/rentenrecht-waisenrente-ausbildung-abbruch-dortmund": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Während des Praktikums hat es einen Tag gegeben, an dem ich den Behandlungsraum verlassen musste. Ob die Schule danach noch Unterrichtstage, entschuldigte Fehlzeiten oder eine formale Abmeldung erfasst, sehe ich nicht in meinem privaten Kalender. Mir geht es um die richtige Reihenfolge."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Ausbildungsbüro",
+        "an": "Elif Korkmaz",
+        "titel": "Ihre Fehlzeiten und die Abmeldung aus der Physiotherapie",
+        "text": [
+          "Frau Korkmaz, der letzte nachgewiesene Anwesenheitstag, eine entschuldigte Abwesenheit und der Eingang einer Abmeldung sind getrennte Felder. Wir können die vorhandenen Einträge mit der jeweils verwendeten Bezeichnung ausgeben.",
+          "Für die Zahlungen der Halbwaisenrente müssten Sie die betreffenden Monate anhand Ihrer Bankauszüge abgleichen. Unsere Schulbescheinigung beantwortet keine Frage dazu, wann eine Zahlung eingegangen ist.",
+          "Im Anhang finden Sie die Tabelle „Unterlagen für Ihren Ausbildungszeitraum“."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-13",
+        "anlage_nr": 5
+      },
+      {
+        "typ": "notiz",
+        "von": "Elif Korkmaz",
+        "an": "Ordner Ausbildung und Rente",
+        "titel": "Welche Unterlage vom Praktikum stammt",
+        "text": [
+          "Der Praktikumszettel nennt die Station und den Einsatztag. Meine spätere Abmeldung beim Ausbildungsbüro gehört in eine andere Zeile. Was dazwischen mit meiner Teilnahme war, möchte ich über den Stundenplan klären.",
+          "Bei der Kontodurchsicht nehme ich Juni und Juli einzeln vor. Meine Erinnerung an die letzte Zahlung ist dafür nicht genau genug."
+        ],
+        "datum": "2026-07-13"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Unterlagen für Ihren Ausbildungszeitraum",
+        "von": "Ausbildungsbüro",
+        "an": "Elif Korkmaz",
+        "text": [
+          "Frage|Geeignete Unterlage|Was getrennt bleibt",
+          "Anwesenheit im Unterricht|Anwesenheitsliste der Ausbildung|Davon kann eine entschuldigte Fehlzeit abweichen",
+          "Anwesenheit im Praktikum|Einsatznachweis der Station|Eigener Tag des Praktikumseinsatzes",
+          "Abmeldung|Datierter Eingang beim Büro|Kann nach dem letzten Anwesenheitstag liegen"
+        ],
+        "datum": "2026-07-13"
+      }
+    ]
+  },
+  "testakten/rentenrecht-witwenrente-einkommensanrechnung-luebeck": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Konto sehe ich die Gutschrift der Versorgungskasse und die Zahlung des Pflegedienstes an zwei verschiedenen Tagen. Das Schreiben zur Witwenrente fasst Einkommen anders zusammen als mein Haushaltsbuch. Ich möchte die Einmalzahlung nicht stillschweigend auf jeden Monat hochrechnen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Personalabrechnung",
+        "an": "Marlies Thormählen",
+        "titel": "Juniabrechnung von St. Jürgen Pflege",
+        "text": [
+          "Frau Thormählen, wir können Ihnen die laufenden Entgeltarten und eine gesonderte Zahlung des betreffenden Monats einzeln bescheinigen. Die Überweisung enthält den aus der Abrechnung folgenden Nettobetrag.",
+          "Die Gutschrift der HansePort Versorgungskasse stammt nicht aus unserem Lohnlauf. Bitte bewahren Sie dafür den eigenen Leistungsbeleg auf. Für einen Vergleich zweier Monate stellen wir Ihnen auch die vorherige Abrechnung bereit."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-27"
+      },
+      {
+        "typ": "notiz",
+        "von": "Marlies Thormählen",
+        "an": "Unterlagen nach Hinnerks Tod",
+        "titel": "Zwei Gutschriften, zwei Absender",
+        "text": [
+          "Die Zahlung der Versorgungskasse am 24. Juni hat einen anderen Absender als mein Lohn am folgenden Tag. Die Beträge auf dem Girokonto zeigen mir, wann das Geld verfügbar war.",
+          "Welche Zahlung auf welcher Grundlage angerechnet wurde, entnehme ich erst nach dem Durchsehen des Rentenbriefs. Auf meinen eigenen Lohnzettel schreibe ich die Versorgungskasse deshalb nicht."
+        ],
+        "datum": "2026-06-27"
+      }
+    ]
+  },
+  "testakten/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Katrin hat noch den Umschlag mit der älteren Vereinbarung zum Schreiben. Amalia erinnert sich, dass manche Lehrkräfte den zusätzlichen Zeitbedarf kannten und andere erst zum Stundenbeginn nachfragten. Uns ist wichtig, welche Unterstützung im Unterricht tatsächlich ankam."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Schulsekretariat Lindenhof",
+        "an": "Eltern von Amalia",
+        "titel": "Welcher Förderplan derzeit in der Schule abgelegt ist",
+        "text": [
+          "Der dokumentierte Ausgleich beim Schreiben stammt aus der früheren LRS-Vereinbarung. Zur späteren ADHS-Abklärung müssen wir nachsehen, ob eine ergänzte Fassung in die Verteilung gelangt ist. Ein Gespräch über Strukturhilfen ersetzt die schriftliche Weitergabe nicht.",
+          "Wir können die für Amalia zuständige Stelle und das Datum des derzeit abgelegten Blatts nennen. Aussagen einzelner Kinder über den Unterricht nehmen wir getrennt auf."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-05-29"
+      },
+      {
+        "typ": "notiz",
+        "von": "Katrin Reben",
+        "an": "Schulmappe Amalia",
+        "titel": "Was wir beim Elternabend gehört haben",
+        "text": [
+          "Besprochen wurden der Platz im Raum und eine klare Abfolge der Aufgaben. Ich habe an diesem Abend kein neues unterschriebenes Förderblatt mit nach Hause genommen.",
+          "Beim nächsten Gespräch lege ich meinen älteren Plan vor. Ob eine spätere Fassung im Lehrerzimmer verteilt wurde, kann ich als Mutter nicht aus eigener Beobachtung bestätigen."
+        ],
+        "datum": "2026-05-29"
+      }
+    ]
+  },
+  "testakten/schwerbehindertenrecht-autismus-adhs-arbeitsleben-wuppertal": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Großraum muss ich eine unterbrochene Zeichnungsprüfung oft wieder von vorn beginnen. Wenn mir eine Änderung schriftlich mit Plannummer gegeben wird, kann ich dagegen zuverlässig weiterarbeiten. Ich möchte diese beiden Situationen im Gespräch zeigen, ohne dass jemand daraus fehlende Bereitschaft zur Arbeit ableitet."
+        ],
+        "berichtigung": {
+          "von": "Julian Arendt"
+        }
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Teamleitung",
+        "an": "Julian Arendt",
+        "titel": "Ein ruhiger Platz für die Zeichnungsprüfung",
+        "text": [
+          "Herr Arendt, für einen Probetag können wir die Änderungen gesammelt und mit Plannummer ausgeben. Die Abstimmung mit der Werkstatt bleibt dabei möglich. Wir vereinbaren ein Zeitfenster für Rückfragen, damit nicht während jedes Prüfschritts jemand am Platz steht.",
+          "Bitte sagen Sie uns nach dem Durchlauf, an welchen Stellen Sie allein weiterkamen und wo eine Rückfrage erforderlich blieb. Ein gelungenes Beispiel sagt noch nicht, dass das Großraumproblem verschwunden ist."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-28"
+      },
+      {
+        "typ": "notiz",
+        "von": "Julian Arendt",
+        "an": "Eigene Arbeitsplatzunterlagen",
+        "titel": "Wo ich im Zeichnungsstand wieder einsteigen kann",
+        "text": [
+          "Nach einem Zwischenruf wusste ich noch, welches Bauteil betroffen war, aber nicht mehr, welche Maßkette ich schon kontrolliert hatte. Bei einem geschriebenen Änderungshinweis konnte ich die markierte Stelle wiederfinden.",
+          "Die technische Aufgabe konnte ich ausführen. Der zusätzliche Aufwand entstand durch den Wechsel zwischen Telefon, Rückfrage und Plan."
+        ],
+        "datum": "2026-06-28"
+      }
+    ]
+  },
+  "testakten/schwerbehindertenrecht-krebs-rezidiv-heilungsbewaehrung-rostock": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Meine Schwester Anne kann die Fahrten zur Ambulanz bestätigen. Im Betrieb möchte ich zunächst nur erklären, wann ich wegen einer Behandlung oder ihrer Folgen früher gehen musste. Persönliche Arztbriefe würde ich nicht einfach in den allgemeinen Personalverteiler schicken."
+        ],
+        "berichtigung": {
+          "von": "Doreen Kahl"
+        }
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Onkologische Ambulanz",
+        "an": "Doreen Kahl",
+        "titel": "Zwei verschiedene Bestätigungen für Frau Kahl",
+        "text": [
+          "Frau Kahl, wir können nachsehen, an welchen Tagen Sie in der Ambulanz waren. Beschwerden am Folgetag stehen nur dann in unserer Dokumentation, wenn sie uns mitgeteilt oder bei einer Vorstellung erhoben wurden. Ihre eigenen Aufzeichnungen sind dafür eine wichtige Ergänzung.",
+          "Sagen Sie uns bitte, für wen die Bestätigung bestimmt ist. Eine reine Anwesenheitsbescheinigung hat einen anderen Empfängerkreis als der medizinische Bericht für das Verfahren."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-26"
+      },
+      {
+        "typ": "notiz",
+        "von": "Anne Kahl",
+        "an": "Familienordner Rostock",
+        "titel": "Fahrt zur Behandlung und Rückweg",
+        "text": [
+          "Ich habe Doreen am Eingang abgeholt. Wie ihr Arm während der Behandlung aussah, habe ich dort selbst nicht gesehen. Auf dem Rückweg trug ich ihre Tasche.",
+          "An anderen Tagen hat sie mir erst abends erzählt, dass sie früher von der Arbeit kam. In meiner Aufstellung trenne ich diese Erzählung von den Fahrten, bei denen ich dabei war."
+        ],
+        "datum": "2026-06-26"
+      }
+    ]
+  },
+  "testakten/schwerbehindertenrecht-parkinson-merkzeichen-g-arnsberg": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Mama sagt beim Arzt oft, sie sei etwas langsamer gewesen. Vor dem Supermarkt konnte sie eine Weile gar nicht weitergehen. Die Karte zeigt nicht, ob jemand mit ihr stehen bleibt oder ob sie den Weg alleine bewältigen kann. Wer war bei dem Gang tatsächlich dabei?"
+        ],
+        "berichtigung": {
+          "von": "Jana Rottmann"
+        }
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Familie",
+        "an": "Jana Rottmann",
+        "titel": "Mama erinnert sich an den Halt auf dem Parkplatz",
+        "text": [
+          "Jana, ich war nur beim späteren Einkauf dabei. Den Halt auf dem Parkplatz vom 3. Juni habe ich nicht gesehen. Du solltest den Teil in deinen eigenen Worten aufschreiben. Für den Weg im Hausflur kann Frau Yilmaz ihre eigene Beobachtung geben.",
+          "Lass auf der Karte bitte die tatsächliche Strecke stehen. Dass Mutter an einem anderen Tag flüssiger geht, macht den einzelnen Halt nicht ungeschehen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-25"
+      },
+      {
+        "typ": "notiz",
+        "von": "Jana Rottmann",
+        "an": "Gehtagebuch für Helga Rottmann",
+        "titel": "Vor der nächsten Reihe Einkaufswagen",
+        "text": [
+          "Wir waren noch nicht am Eingang. Mama blieb vor der nächsten Reihe Wagen stehen. Als ich einen Schritt weiterging, kam sie nicht gleich nach. Ich ging zurück und wartete neben ihr.",
+          "Die Uhrzeit habe ich nicht gestoppt. Ich kann den Ort zeigen und sagen, dass ein erneutes Anlaufen nötig war. Zur genauen Dauer lasse ich das Feld offen."
+        ],
+        "datum": "2026-06-25"
+      }
+    ]
+  },
+  "testakten/selbstvertreter-sozialgericht-heizkosten-eilantrag": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Wenn ich mit Jonas zuhause bin, muss ich die Zimmer anders nutzen als tagsüber allein. Die Abrechnung erklärt aber nicht, welcher Anteil auf die Wohnung entfällt und was bloß eine Anpassung der künftigen Vorauszahlung ist. Für den Termin brauche ich die Seite, die zum aktuellen Zahlungsbedarf gehört."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Hausverwaltung",
+        "an": "Alma Reuter",
+        "titel": "Unterlagen zum Lindenauer Markt",
+        "text": [
+          "Frau Reuter, wir können Ihnen die Abrechnung mit dem Ablesezeitraum und die gesonderte Mitteilung zum künftigen Abschlag geben. Für die Zuordnung brauchen wir Ihre Wohnungsnummer. Den Zahlungsstand führt die Mietbuchhaltung getrennt.",
+          "Über einen gesundheitlichen Wärmebedarf von Jonas kann die Hausverwaltung keine Aussage treffen. Dafür behalten Sie seine medizinischen Unterlagen in Ihrer eigenen Mappe."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-04-22"
+      },
+      {
+        "typ": "notiz",
+        "von": "Alma Reuter",
+        "an": "Haushaltsbuch",
+        "titel": "Was vor dem nächsten Abschlag auf dem Konto liegt",
+        "text": [
+          "Ich habe das Schreiben des Vermieters neben meinen Stand auf dem Girokonto gelegt. Ein angekündigter künftiger Abschlag und eine bereits fällige Nachzahlung beanspruchen das Geld nicht am selben Tag.",
+          "Für den Termin nehme ich den Kontoauszug und beide Schreiben mit. Jonas’ persönliche Befunde gebe ich nur der Stelle, die sie für seine Situation braucht."
+        ],
+        "datum": "2026-04-22"
+      }
+    ]
+  },
+  "testakten/si-kanzlei-arbeitsrecht": {
+    "fachgebiete": [
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Der Werkstatttag endete am Nachmittag. Sicher sagen kann ich nur, wann ich den Umschlag selbst im Kasten fand. Es fehlt ein Poststempel. Mich interessiert deshalb, ob ein Hausdienst überhaupt persönliche Briefe annimmt oder ob sonst nur die Bewohner ihre Fächer öffnen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Hausverwaltung",
+        "an": "Mina Özdemir",
+        "titel": "Postannahme im Haus von Frau Özdemir",
+        "text": [
+          "Frau Özdemir, unsere Verwaltung führt für die einzelnen Wohnungsbriefkästen kein Eingangsbuch. Wir können deshalb keinen Zeitpunkt für den Einwurf des Briefs von Speichenstolz bestätigen. Die Leerung der persönlichen Kästen übernehmen die Bewohner selbst.",
+          "Wenn Ihnen jemand einen Brief tatsächlich übergeben hat, brauchen Sie die Auskunft dieser Person. Für die Beschreibung der Anlage können wir sagen, wo Ihr eigener Kasten hängt."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-06"
+      },
+      {
+        "typ": "notiz",
+        "von": "Mina Özdemir",
+        "an": "Unterlagen für Frau Dr. Blum",
+        "titel": "Nach dem Dienst am 30. September",
+        "text": [
+          "Ich kam aus der Werkstatt und öffnete mein eigenes Fach. Der Umschlag lag bereits darin. Ich sah keine Person, die ihn einwarf. Aufbewahrt habe ich ihn zusammen mit dem Schreiben.",
+          "Zum Dienstende suche ich den Schichtzettel heraus. Er kann meinen eigenen Rückweg eingrenzen, aber nicht rückwirkend die Einwurfuhrzeit belegen."
+        ],
+        "datum": "2026-10-06"
+      }
+    ]
+  },
+  "testakten/si-kanzlei-sozialrecht": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die Kollegin kennt die Stücke und könnte fachlich übernehmen. Sie hat aber keinen eigenen Zugang zur Anwesenheitsliste meiner Gruppe. Für meine Rechnung wäre außerdem relevant, ob die Musikschule sie bezahlt oder ob sie mir eine Rechnung stellt. Das möchte ich vor der Zusage klären."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Musikschulleitung",
+        "an": "Tamila Vogt",
+        "titel": "Raum und Eintrag für Ihre Vertretung",
+        "text": [
+          "Frau Vogt, für Dienstag und Donnerstag sind die Räume im Schulplan belegt. Eine Ersatzkraft muss das Büro rechtzeitig kennen, damit die Eltern wissen, wer vor Ort ist. Eine Zusage allein unter den Lehrkräften ändert den Plan nicht.",
+          "Bitte nennen Sie den konkreten Termin und die vorgesehene Kollegin. Den Vergütungsweg klären wir dazu einzeln. Die normale Eintragung Ihrer Anwesenheit wäre für eine fremde Stunde kein ordentlicher Beleg."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-10-06"
+      },
+      {
+        "typ": "chat",
+        "von": "Tamila Vogt",
+        "an": "Abstimmung mit der Kollegin",
+        "titel": "Klaviergruppe Musikfenster",
+        "text": [
+          "Tamila: Du könntest die Gruppe unterrichten, aber mein Zugang zur Liste bleibt bei mir.",
+          "Kollegin: Sag mir bitte, ob das Büro den Raum bestätigt und wer mich bezahlt. Dann sage ich verbindlich zu.",
+          "Tamila: Ich frage beides zusammen ab. Die Eltern bekommen erst danach die endgültige Zeit."
+        ],
+        "datum": "2026-10-06"
+      }
+    ]
+  },
+  "testakten/solo-selbststaendige-designstudio-luise-falkensee-2026": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die Übungen und Layoutbeispiele für Nordstern entwerfe ich selbst. Daneben kaufe ich Papier und Material ein. Eine Sammelposition auf dem Angebot zeigt weder meine Gestaltungsleistung noch, wer die Materialbestellung ausgelöst und bezahlt hat. Das wird auch bei den Nachweisen für die KSK eine Rolle spielen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Buchhaltungsbüro",
+        "an": "Luise Falkenberg",
+        "titel": "Unterlagen für den Nordstern-Workshop",
+        "text": [
+          "Luise, hebe den Auftrag mit der Leistungsbeschreibung, deine eigene Abrechnung und die Lieferantenbelege getrennt auf. Für deine Tätigkeit können auch Entwurfsstände und das vereinbarte Workshopprogramm Auskunft geben.",
+          "Ob eingekauftes Material im eigenen Namen oder für den Kunden bestellt wurde, schauen wir am Bestellbeleg nach. Eine hohe Gesamtrechnung allein erklärt weder deinen Honoraranteil noch den Gewinn."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-02"
+      },
+      {
+        "typ": "notiz",
+        "von": "Luise Falkenberg",
+        "an": "Designstudio Falkensee",
+        "titel": "Was von mir stammt",
+        "text": [
+          "Für die Übung habe ich Layoutvarianten gezeichnet und die Aufgabe geschrieben. Die Papierlieferung kam fertig vom Händler. Auf den Teilnehmerunterlagen stehen deshalb sowohl meine Entwürfe als auch fremde Materialbezeichnungen.",
+          "Für die Rückfrage der KSK kann ich die eigene Tätigkeit zeigen, ohne die Kontaktdaten der Teilnehmenden mitzuschicken."
+        ],
+        "datum": "2026-06-02"
+      }
+    ]
+  },
+  "testakten/sozialrecht-elektrorollstuhl-koerner-oldenburg": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Maren schiebt nicht den ganzen Weg, steht aber beim Ausgang bereit, weil ich sonst an der Schwelle hängenbleibe. Im Ausstellungsraum ist der Boden eben. Bei uns muss ich Richtung und Geschwindigkeit gleichzeitig ändern, bevor die Tür zufällt. Ich möchte auch den Rückweg vom Arzt ausprobieren."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Sanitätshaus",
+        "an": "Heinz Körner",
+        "titel": "Erprobung am Theaterwall und auf dem kurzen Alltagsweg",
+        "text": [
+          "Herr Körner, wir würden die Abschnitte Wohnung, Hauseingang, Gehweg und Wendestelle einzeln durchgehen. Wenn Herr Bödeker den Ladeplatz öffnen kann und Maren beim Termin dabei ist, sehen wir auch, welche Handgriffe derzeit andere für Sie übernehmen.",
+          "Bitte warten Sie auf einen begleiteten Termin, falls die Schwelle allein nicht sicher zu überwinden ist. Wir protokollieren auch einen abgebrochenen Versuch und den Grund dafür.",
+          "Im Anhang finden Sie die Tabelle „Beobachtungsbogen für die gemeinsame Erprobung am Theaterwall“."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-05-21",
+        "anlage_nr": 5
+      },
+      {
+        "typ": "notiz",
+        "von": "Maren Körner",
+        "an": "Wegeblatt für meinen Vater",
+        "titel": "Was ich an der Haustür tue",
+        "text": [
+          "Ich gehe vor und halte die schwere Tür. Mein Vater muss zugleich das Vorderrad ausrichten. Beim Rückweg kommt die Tür von der anderen Seite. Einmal gerade durch den Laden zu fahren bildet das nicht ab.",
+          "Für den Vergleich notiere ich, wer Tür und Bremse bedient. Eine mit meiner Hilfe bewältigte Strecke soll später nicht als allein geschaffter Weg dastehen."
+        ],
+        "datum": "2026-05-21"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Beobachtungsbogen für die gemeinsame Erprobung am Theaterwall",
+        "von": "Hilfsmittelberatung Oldenburg",
+        "an": "Heinz Körner",
+        "text": [
+          "Abschnitt|Was erprobt wird|Wessen Hilfe wird vermerkt?",
+          "Wohnung zur Haustür|Übergang aus dem ersten Stock|Unterstützung durch die anwesenden Personen",
+          "Tür und Schwelle|Bedienung in beiden Fahrtrichtungen|Wer hält die Tür und wer steuert?",
+          "Weg Richtung Apotheke|Wenden an der engen Stelle|Selbständige Bewegung und Eingriff einer Begleitperson getrennt",
+          "Zugang zum Ladeplatz|Tatsächlich zugänglicher Platz|Wer kann den Zugang öffnen?"
+        ],
+        "datum": "2026-05-21"
+      }
+    ]
+  },
+  "testakten/sozialrecht-enzymsubstitution-seltene-erkrankung-jena": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Robert und ich mussten einzelne Termine wegen der Fahrten und Betreuung anders organisieren. Für Samira können wir den Alltag zwischen den Klinikterminen gut beschreiben. Ob eine Veränderung medizinisch dem Mittel, einer anderen Behandlung oder der Erkrankung zuzuordnen ist, können wir als Eltern nicht entscheiden."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Ambulanz Jena",
+        "an": "Katrin Wehner",
+        "titel": "Samiras Terminfolge für das Gespräch",
+        "text": [
+          "Frau Wehner, wir können die dokumentierten Besuche und die dazugehörigen Berichte mit Datum bereitstellen. Eine stationäre Aufnahme außerhalb unserer Ambulanz erscheint dort nur, soweit uns ein Entlassbrief übermittelt wurde.",
+          "Bitte zeigen Sie beim Termin, welche Unterlage von welcher Einrichtung stammt. Ihr Familienkalender bleibt als eigene Beobachtung wichtig, insbesondere an den Tagen zwischen zwei dokumentierten Vorstellungen."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-19"
+      },
+      {
+        "typ": "notiz",
+        "von": "Robert Wehner",
+        "an": "Familienmappe Jena",
+        "titel": "Nach dem Termin wieder zuhause",
+        "text": [
+          "Im Kalender steht die Fahrt in die Klinik. Für den Nachmittag haben wir zusätzlich festgehalten, wer bei Samira blieb und welche geplante Unternehmung ausfiel. Das war eine Beobachtung zuhause.",
+          "Bei der nächsten Besprechung möchte ich diese Tage zeigen. Eine medizinische Begründung für die beantragte Versorgung muss die behandelnde Stelle selbst erläutern."
+        ],
+        "datum": "2026-06-19"
+      }
+    ]
+  },
+  "testakten/sozialrecht-orphan-drug-krebsmedikament-muenster": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Teresa hat die Tage aufgeschrieben, an denen ich nach wenigen Stufen eine Pause brauchte. Die Apotheke spricht daneben von einer Reservierung. Ich möchte nicht, dass diese beiden Dinge durcheinandergeraten: Die Beschwerden bestehen heute, während ein reservierter Platz noch keine Behandlung bestätigt."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Onkologische Ambulanz",
+        "an": "Gregor Lütke",
+        "titel": "Lunazimerab und Ihr Befundverlauf",
+        "text": [
+          "Herr Lütke, für die Anfrage können wir die bisher dokumentierten Behandlungen und den Anlass des vorgeschlagenen Wechsels in zeitlicher Reihenfolge zusammenführen. Die Mitteilung der Apotheke zum Programm beschreibt den Stand der Beschaffung.",
+          "Eine reservierte erste Dosis ist kein Nachweis, dass sie bereits verabreicht oder bezahlt wurde. Ihr Tagebuch bringen Sie bitte zum ärztlichen Gespräch mit, damit eigene Beobachtungen und erhobene Befunde erkennbar bleiben."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-02"
+      },
+      {
+        "typ": "notiz",
+        "von": "Teresa Lütke",
+        "an": "Privates Wegeprotokoll",
+        "titel": "Zwischen Schlafzimmer und Erdgeschoss",
+        "text": [
+          "Auf der Treppe blieb Gregor stehen. Ich wartete unterhalb des Absatzes, bis er weitergehen wollte. Später sind wir nur ein Stück bis zur Ecke gegangen und dann umgekehrt.",
+          "Ich kann beschreiben, was ich sah und was Gregor mir sagte. Die Ursache einer Verschlechterung nehme ich nicht als eigene Feststellung in das Protokoll auf."
+        ],
+        "datum": "2026-07-02"
+      }
+    ]
+  },
+  "testakten/sozialrecht-pflegegrad-demenz-nachtwache-trier": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei meinem Vater kann der Rückruf schon vorbei sein, wenn ich bei ihm ankomme. Die Anrufliste zeigt dann eine Uhrzeit, aber nicht, ob ich ihn nur beruhigt habe oder ob ich ihm vor Ort wieder Orientierung geben musste. Im Juli kann ich diese Wege nicht jede Nacht übernehmen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Ambulanter Dienst",
+        "an": "Mara Birk",
+        "titel": "Was unser Dienst bei Anton Birk beobachtet hat",
+        "text": [
+          "Frau Birk, wir kommen regulär morgens und abends ins Haus. Ein ruhiger Morgen beweist nicht, wie die Nacht davor verlaufen ist. Ihre Angaben übernehmen wir als Angehörigenbeobachtung mit eigener Zeitangabe.",
+          "Für die Planung im Juli wäre wichtig, bei welchem Anlass ein Telefonat genügte und wann tatsächlich jemand kommen musste. Dann können wir den Bedarf mit dem besprechen, was ein Dienst verbindlich übernehmen kann."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-24"
+      },
+      {
+        "typ": "notiz",
+        "von": "Mara Birk",
+        "an": "Nachtheft Anton",
+        "titel": "Ein Anruf und der spätere Besuch",
+        "text": [
+          "Vater rief an und fragte, welche Tür zum Bad führt. Am Telefon konnte ich nicht sehen, wo er stand. Erst als ich bei ihm war, sah ich, dass er vor der Wohnungstür wartete.",
+          "Den Anruf kann ich am Telefon nachsehen. Meine Ankunft war später. Beides gehört zu derselben Nacht, waren aber zwei verschiedene Hilfen."
+        ],
+        "datum": "2026-06-24"
+      }
+    ]
+  },
+  "testakten/sozialrecht-rollstuhl-tannenberg": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Wenn Stefanie mir die Tür bereits aufhält, ist der Weg leicht vorführbar. Im Alltag komme ich teilweise allein in den Flur. Dann brauche ich rechts zugleich die Bedienung und eine Hand für die Tür. Im Laden war diese Bewegung beim ersten Probesitzen nicht nötig."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Hilfsmittelberatung",
+        "an": "Olaf Tannenberg",
+        "titel": "Zweiter Termin für die Wohnung in Kiel",
+        "text": [
+          "Herr Tannenberg, beim Termin können wir mit Ihrer Einwilligung den Weg aus der Wohnung, den Wendepunkt und die Tür einzeln ansehen. Es geht um die im Alltag erreichbare Bewegung, nicht um eine möglichst lange Strecke im Vorführraum.",
+          "Stefanie kann dabei zeigen, welchen Handgriff sie sonst übernimmt. Bitte lassen Sie eine unsichere Bewegung aus. Wir notieren, an welcher Stelle der Versuch ohne Hilfe endet."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-05-18"
+      },
+      {
+        "typ": "notiz",
+        "von": "Stefanie Tannenberg",
+        "an": "Wohnungsbegehung",
+        "titel": "Die Hand, die sonst die Tür hält",
+        "text": [
+          "Wenn Papa die rechte Hand an der Steuerung hält, kann er mit derselben Hand nicht gleichzeitig die Tür aufziehen. Ich halte im Alltag oft schon offen, bevor er überhaupt an der Stelle ist.",
+          "Bei der Begehung sage ich vorab, wo ich normalerweise helfe. Eine Fahrt mit meiner Hilfe und eine selbständige Fahrt sollen im Protokoll auseinanderzuhalten sein."
+        ],
+        "datum": "2026-05-18"
+      }
+    ]
+  },
+  "testakten/sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Auf dem Gelände muss ich den Lieferzugang zur Küche benutzen. Vom Bushalt aus sieht der Haupteingang vielleicht näher aus, ist für meine Schicht aber nicht der Weg bis zum Arbeitsplatz. Wo ich stehenbleibe, kann ich beschreiben. Die genaue Länge ist meine Schätzung."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Schulleitung",
+        "an": "Helga Bertram",
+        "titel": "Zugang zur Schulküche in Münster",
+        "text": [
+          "Frau Bertram, wir können den üblichen Personaleingang und die Strecke auf dem Schulgelände auf einem Lageplan kennzeichnen. Für die Haltestelle und Ihren Weg dorthin brauchen wir Ihre Angaben. Die Schule kann nicht alle privaten Wege beobachten.",
+          "Wenn Sie möchten, gehen wir den Abschnitt vom Tor bis zur Küche beim nächsten Termin zusammen. Hilfen oder Unterbrechungen stehen dann als konkrete Beobachtung neben dem Plan."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-28"
+      },
+      {
+        "typ": "notiz",
+        "von": "Helga Bertram",
+        "an": "Wegeheft Schulküche",
+        "titel": "Vor und nach dem Schultor",
+        "text": [
+          "Schon vor Dienstbeginn muss ich von der Haltestelle bis zum Tor. Im Gebäude kommt der Weg zum Umkleidebereich und in die Küche hinzu. Eine sitzende Pause unterwegs ist nicht überall möglich.",
+          "Die Angaben im Arbeitsplan beginnen dagegen mit dem Dienst in der Küche. Das hilft für die Aufgabenbeschreibung, lässt den notwendigen Zuweg aber aus."
+        ],
+        "datum": "2026-06-28"
+      }
+    ]
+  },
+  "testakten/sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Auf meinem Stundenplan steht nur der neue Raum. Wenn ich am Bahnhof erst bei einer anderen Gruppe nachfragen muss, ist der erste Wechsel schon vorbei, bevor die Stunde beginnt. Dann hilft mir jemand, der erst im Unterricht auftaucht, bei der schwierigen Stelle nicht."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Berufsschulsekretariat",
+        "an": "Levin Schuster",
+        "titel": "Treffpunkt vor dem nächsten Block für Levin",
+        "text": [
+          "Levin, wir können dir den Eingang und den Weg zum Fachraum in einer einfachen Skizze markieren. Für die erste Stunde nennen wir dir die Ansprechperson am Sekretariat. Eine Begleitung auf dem Bahnhofsgelände kann das Sekretariat nicht selbst zusagen.",
+          "Schreib bitte auf, an welchen Übergängen dir eine Ansage reicht und wo tatsächlich jemand mitgehen muss. Das besprechen wir mit der für die Assistenz zuständigen Stelle."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-15"
+      },
+      {
+        "typ": "chat",
+        "von": "Levin Schuster",
+        "an": "Abstimmung mit der Begleitung",
+        "titel": "Vor dem neuen Fachraum",
+        "text": [
+          "Levin: Am Eingang erkenne ich das Sekretariat. Die Abzweigung zum neuen Fachraum kenne ich noch nicht.",
+          "Begleitung: Dann gehen wir diesen Übergang bei der Besichtigung gemeinsam ab. Wo der Auftrag beginnt, klären wir vor dem Unterrichtsblock.",
+          "Levin: Bitte sag mir die Uhrzeit vorher schriftlich. Dann kann ich beim Umsteigen auf denselben Plan schauen."
+        ],
+        "datum": "2026-06-15"
+      }
+    ]
+  },
+  "testakten/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei drei Stufen muss jemand die mobilen Schienen erst hinlegen. Meine Tochter war bei der Erprobung dabei. Wenn ich später allein raus möchte, ist die Frage deshalb nicht nur, ob die Schienen breit genug sind, sondern wer sie nach dem Öffnen der Tür überhaupt auslegen kann."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Ausführungsbetrieb",
+        "an": "Irmgard Pahl",
+        "titel": "Haustür und Aufstellfläche in Wittenberge",
+        "text": [
+          "Frau Pahl, wir können die Fläche für den Türflügel und die verbleibende Standfläche in derselben Skizze zeigen. Beim Termin zu den Teleskopschienen war Ihre Tochter anwesend. Im Vermerk soll deshalb stehen, welche Griffe sie übernommen hat.",
+          "Für ein belastbares Angebot brauchen wir auch die Wegrichtung beim Wiederbetreten des Hauses. Eine Skizze der Rampe ohne die geöffnete Tür reicht an dieser Stelle nicht."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-03"
+      },
+      {
+        "typ": "notiz",
+        "von": "Tochter von Irmgard Pahl",
+        "an": "Mappe Hauseingang",
+        "titel": "Schienen wieder hereinholen",
+        "text": [
+          "Bei der Probe konnte ich außen stehen und die Schienen ausrichten. Als Mutter wieder im Haus war, habe ich sie weggeräumt. Wenn niemand mitgeht, muss auch dieser zweite Teil des Wegs gelöst sein.",
+          "Auf meinem Blatt sind Türanschlag und die drei Stufen eingezeichnet. Die endgültigen Maße soll der Betrieb vor Ort nehmen."
+        ],
+        "datum": "2026-07-03"
+      }
+    ]
+  },
+  "testakten/sozialversicherung-ag-organe-hannover": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei Leinefaden bin ich im Vorstand, bei Havelstrom sitze ich im Aufsichtsrat. Der begrenzte Auftrag von Mohnwinkel betraf eine Lieferantenbewertung. Bei den drei Terminen hatte ich unterschiedliche Aufgaben. Die gemeinsame Zahlung macht sie für die Berufsgenossenschaft nicht zu einer einzigen Tätigkeit."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Gehaltsabrechnung",
+        "an": "Dr. Elif Brandt",
+        "titel": "Drei Bestandteile zu Ihrer Sammelüberweisung",
+        "text": [
+          "Frau Dr. Brandt, wir stellen zur Buchung jeweils Auftraggeber, Abrechnungsmonat und den Text der zugrunde liegenden Abrechnung gegenüber. Die Bestellung zum Vorstand bei Leinefaden liegt im Gesellschaftsbüro. Für das Aufsichtsratsmandat von Havelstrom brauchen Sie das Papier dieser AG.",
+          "Die Projektunterlagen bei Mohnwinkel können wir aus der Sammelüberweisung nicht ersetzen. Bitte geben Sie uns dessen Projektkennzeichen, dann prüfen wir die Zuordnung der Abrechnung.",
+          "Im Anhang finden Sie die Tabelle „Arbeitsblatt zu den drei Vergütungsquellen“."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-09-28",
+        "anlage_nr": 5
+      },
+      {
+        "typ": "notiz",
+        "von": "Dr. Elif Brandt",
+        "an": "Termin bei der Berufsgenossenschaft",
+        "titel": "Welche Entscheidung zu welcher Rolle gehörte",
+        "text": [
+          "Bei Leinefaden nahm ich an einer Vorstandssitzung teil. Bei Havelstrom ging es um die Überwachung als Aufsichtsratsmitglied. Für Mohnwinkel habe ich die Bewertung bestimmter Lieferanten abgegeben.",
+          "Nicht jede Rückfrage zu einer dieser Aufgaben kam über ein eigenes Postfach. Auf meinen Kalendereinträgen notiere ich deshalb die betreffende Gesellschaft und das konkrete Arbeitsprodukt."
+        ],
+        "datum": "2026-09-28"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Arbeitsblatt zu den drei Vergütungsquellen",
+        "von": "Gehaltsabrechnung",
+        "an": "Dr. Elif Brandt",
+        "text": [
+          "Gesellschaft|Anlass|Zusätzlich zum Bankkonto benötigt",
+          "Leinefaden Systeme AG|Vorstandstätigkeit|Bestellung und Dienstvertrag",
+          "Havelstrom Speicher AG|Aufsichtsratstätigkeit|Grundlage der Aufsichtsratsvergütung",
+          "Mohnwinkel Service GmbH|Projekt Lieferantenbewertung|Projektauftrag und Leistungsbeleg"
+        ],
+        "datum": "2026-09-28"
+      }
+    ]
+  },
+  "testakten/sozialversicherung-gmbh-fuenfzig-prozent-erfurt": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Beim letzten Einkauf konnten wir uns am Ende einigen. Daraus folgt für mich nicht, was bei einem echten Widerspruch geschieht. Bitte legt für den Gesprächstermin den Gesellschaftsvertrag und die damals gültige Geschäftsordnung getrennt bereit. Mir geht es um eine Weisung im Tagesgeschäft, nicht nur um eine Satzungsänderung."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Gesellschafterbüro Fadenwerk",
+        "an": "Leander Vogt",
+        "titel": "Gesellschaftsvertrag und Geschäftsordnung von Fadenwerk",
+        "text": [
+          "Herr Vogt, wir bringen die Abschrift der Satzungsfassung vom 6. Mai 2019 und die Unterlagen zu den späteren Beschlüssen zusammen. Zu einer behaupteten Stimmrechtsregel brauchen wir die tatsächlich wirksam zugrunde gelegte Fassung und den richtigen Zeitraum.",
+          "Die technische Freigabe im Einkauf ersetzt das Gesellschaftsprotokoll nicht. Für die Besprechung kennzeichnen wir daher den Kaufvorgang und einen etwaigen Gesellschafterbeschluss getrennt."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-09-29"
+      },
+      {
+        "typ": "notiz",
+        "von": "Leander Vogt",
+        "an": "Unterlagen für Ruth Falk",
+        "titel": "Was ich bei Uneinigkeit bisher erlebt habe",
+        "text": [
+          "Wenn wir bei einem Auftrag zunächst uneinig waren, haben wir den Lieferanten meist noch einmal angerufen und uns später geeinigt. Ich kann mich an die Verhandlung erinnern. Einen ausdrücklich gefassten Gegenbeschluss habe ich dadurch nicht vor mir.",
+          "Meine monatliche Vergütung läuft unabhängig von einzelnen Einkäufen. Für ihre Einordnung nehme ich die Abrechnung neben den Anstellungsvertrag."
+        ],
+        "datum": "2026-09-29"
+      }
+    ]
+  },
+  "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Ich war in der ersten Septemberwoche im Urlaub. Nika hat die laufenden Supportanfragen erhalten, Wendelin die Liquiditätsmeldungen. Eine Gegenzeichnung in der Projektliste beweist deshalb nicht, dass ich während jeder Abwesenheit alle geschäftlichen Schritte stoppen konnte. Ich brauche den Wortlaut der Befugnis für diese Art von Auftrag."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Gesellschafterbüro Kranichspur",
+        "an": "Mila Degenhardt",
+        "titel": "Welche Unterlagen wir für Kranichspur bereitlegen",
+        "text": [
+          "Mila, auf dem Projektblatt ist deine fachliche Gegenzeichnung sichtbar. Die Gesellschaftsunterlagen führen deine Beteiligung mit 20 Prozent. Für die Frage, welche Entscheidungen du verhindern kannst, müssen wir die genaue Abstimmungsregel und die Art des Beschlusses nebeneinanderlegen.",
+          "Zu deinem Urlaub suchen wir die damalige Übergabe heraus. Wer eine dringende Kundenmeldung aufnimmt, ist nicht automatisch die Person mit der letzten gesellschaftsrechtlichen Entscheidung."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-09-29"
+      },
+      {
+        "typ": "notiz",
+        "von": "Mila Degenhardt",
+        "an": "Eigene Unterlagen zur Geschäftsführung",
+        "titel": "Eine Kalkulation kommt aus meinem Ressort",
+        "text": [
+          "Bei einer Preisanfrage prüfe ich zunächst die Annahmen für das Projekt. Auf dem Blatt bestätige ich, dass diese Kalkulation fachlich passt. Ob die Gesellschafter bei anderen Anweisungen an mich gebunden wären, steht dort nicht.",
+          "Für die Besprechung trenne ich das Übergabeblatt aus dem Urlaub von der Satzung und den sonstigen Abstimmungen mit Wendelin."
+        ],
+        "datum": "2026-09-29"
+      }
+    ]
+  },
+  "testakten/sozialversicherung-musikakademie-prenzlauer-berg": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die Eltern sprechen beim Klingeln oft mich direkt an. Für Inhalt und Stückauswahl entscheiden wir in der Stunde. Beim Ausfall einer Stunde sagt die Familie dagegen, die Akademie kümmere sich um Ersatz. Ich möchte einen konkreten Ablauf festhalten, bevor ich das Honorar für eine ausgefallene Stunde ansetze."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Musikakademie am Mauerpark",
+        "an": "Mara Noémi Zwirn",
+        "titel": "Ein Ersatztermin im Winterplan am Mauerpark",
+        "text": [
+          "Frau Zwirn, der Unterrichtsraum steht im zentralen Belegungsplan. Wenn sich eine Familie mit Ihnen auf eine neue Zeit verständigt, muss das Büro prüfen, ob der Raum frei ist. Bitte melden Sie uns den tatsächlich durchgeführten Termin.",
+          "Ein Ausfall durch das Kind und ein Ausfall der Lehrkraft können unterschiedlich abgerechnet werden. Die Eintragung einer Ersatzstunde allein klärt weder den Ausfallgrund noch die Zahlung."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-09-23"
+      },
+      {
+        "typ": "notiz",
+        "von": "Mara Noémi Zwirn",
+        "an": "Unterrichtsmappe Berlin",
+        "titel": "Die verlegte Stunde im persönlichen Kalender",
+        "text": [
+          "Die Familie hatte einen Nachmittag vorgeschlagen, an dem ich Zeit hatte. Die Zusage zum Raum konnte ich erst nach dem Rückruf aus dem Büro geben. Das Übungsprogramm für die neue Stunde habe ich selbst zusammengestellt.",
+          "In meiner Abrechnung führe ich die gehaltene Stunde. Die erste Terminabsprache bleibt als eigene Nachricht erhalten, damit sich der Ablauf später nachvollziehen lässt."
+        ],
+        "datum": "2026-09-23"
+      }
+    ]
+  },
+  "testakten/sozialversicherung-programmierer-leipzig": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei der Migration sollte ich ein abgegrenztes Ergebnis abliefern. Später meldete ich mich morgens bei denselben Personen wie die betriebliche Mannschaft und bekam die dringenden Vorgänge des Tages. Das lief über dieselbe Rahmenbeziehung. Für meine Unterlagen brauche ich den konkreten Übergang zwischen beiden Abschnitten."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Nordlicht Projektvermittlung",
+        "an": "Jonas Kern-Knörz",
+        "titel": "Zu den Abrufen von Kern Software",
+        "text": [
+          "Herr Kern-Knörz, wir können den Abruf der Migration und die anschließenden Anforderungen zur Betriebsbegleitung mit ihren jeweiligen Zeiträumen herausgeben. Eine fortlaufende Rahmenvertragsnummer sagt noch nichts über die tägliche Zusammenarbeit aus.",
+          "Für die Zeit nach der Übergabe zeigen Sie bitte einen typischen Einsatz mit Tagesplanung und eigener Abrechnung. Die technische Abnahme der Migration behandeln wir gesondert."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-09-22"
+      },
+      {
+        "typ": "notiz",
+        "von": "Jonas Kern-Knörz",
+        "an": "Projektmappe Leipzig",
+        "titel": "Erster Morgen nach der Übergabe",
+        "text": [
+          "Vor der Übergabe habe ich meine nächsten Arbeitsschritte aus dem vereinbarten Ergebnis abgeleitet. In der Begleitung meldete sich morgens der Betrieb mit den offenen Tagesfällen. Manche Tage konnte ich anders einteilen, andere kaum.",
+          "Die Rechnung enthält für beide Abschnitte meine Firma. Der Unterschied liegt im Auftrag und seiner tatsächlichen Ausführung, nicht im Briefkopf."
+        ],
+        "datum": "2026-09-22"
+      }
+    ]
+  },
+  "testakten/sozialversicherung-syndikus-versorgungswerk-hamburg": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im April änderte sich mein Einsatz, im Juli kam ein Nachtrag. Ein Kammerdokument und ein DRV-Bescheid sehen in der Ablage ähnlich verbindlich aus, betreffen aber unterschiedliche Stellen. Vor dem nächsten Gehaltslauf will ich wissen, welcher Arbeitgeber in welchem Papier überhaupt steht."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Personalstelle Fleetbogen",
+        "an": "Mila Ahrens",
+        "titel": "Welche Unterlagen wir bei Fleetbogen zuordnen können",
+        "text": [
+          "Mila, zu 2019 liegt der Bescheid vom 22. Juli vor. Für den Wechsel im April und den Julinachtrag haben wir zwei verschiedene Ablagen. Ich kann die Angaben zu Arbeitgeber und Aufgaben aus den Vertragsunterlagen bestätigen.",
+          "In der Kammerentscheidung allein finde ich keine Bestätigung, dass die DRV genau die spätere Tätigkeit bei Fleetbogen Netze erfasst hat. Bitte lasst beide Dokumente im Originalwortlaut im Ordner."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-09-04"
+      },
+      {
+        "typ": "notiz",
+        "von": "Mila Ahrens",
+        "an": "Beratungsunterlagen Hamburg",
+        "titel": "Der neue Aufgabenanteil steht erst im Nachtrag",
+        "text": [
+          "Beim Wechsel nahm ich zunächst die vereinbarten Aufgaben in der Rechtsabteilung wahr. Den später hinzugekommenen Anteil sehe ich im Juliblatt. Die geänderte tatsächliche Tätigkeit und die Unterzeichnung können an unterschiedlichen Tagen liegen.",
+          "Auf meiner Übersicht bekommt jede Phase eine eigene Zeile mit Arbeitgeber und Tätigkeit. Das Datum des alten Bescheids bleibt darin als eigener Bezug sichtbar."
+        ],
+        "datum": "2026-09-04"
+      }
+    ]
+  },
+  "testakten/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die Eltern der Schülerin erreiche ich persönlich. Ob ihnen die Schule selbst eine Ersatzlehrkraft verspricht, erfahre ich nicht aus meinem Kalender. Meine Stückauswahl treffe ich allein. Wer Zeit, Raum, Ersatz und Entgelt bestimmt, kann ich nur an der konkreten ausgefallenen Stunde schildern."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Musikschule Klingenhain",
+        "an": "Lehrkraft",
+        "titel": "Stundenwechsel und Elternbeschwerden beim Schulbüro",
+        "text": [
+          "Für einen verschobenen Termin führen wir die ursprüngliche Belegung und den neuen Raumeintrag. Wenn der Unterricht nicht stattfinden konnte, kommt der Grund dazu. Eine anrufende Familie wird oft zuerst an die Verwaltung geleitet.",
+          "Herr Brammenfeld hat wegen einer Gitarrenstunde gefragt. Bitte behandelt seinen Anruf nicht ungeprüft als Erklärung zu Ihrer Schülerin. Es sind zunächst zwei verschiedene Vorgänge."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-06-03"
+      },
+      {
+        "typ": "notiz",
+        "von": "Schulbüro Klingenhain",
+        "an": "Raumplanung",
+        "titel": "Wenn ein Elternteil Ersatz verlangt",
+        "text": [
+          "Ein Anruf beim Büro zeigt, an wen sich die Familie wendet. Ob jemand eine bestimmte Ersatzkraft zusagt, muss im Gesprächsvermerk zu diesem Anruf stehen. Eine freie Raumzeit ist noch keine persönliche Zusage der Lehrkraft.",
+          "Für die Abrechnung ursprünglichen Termin, später gehaltene Stunde und ausführende Person nebeneinander erfassen. So lässt sich auch eine ausgefallene Stunde korrekt wiederfinden."
+        ],
+        "datum": "2026-06-03"
+      }
+    ]
+  },
+  "testakten/statusfeststellung-familienangehoerige-baeckerei-luenen": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei den frühen Rundfahrten zwischen den Filialen sehen wir die Ankunft an der Kasse. Die Fahrt selbst und die Absprache vom Sonntag stehen dort nicht. Für die Einordnung der Mitarbeit in der Familie brauchen wir deshalb den Dienstplan vor dem Wechsel und die tatsächlichen Nachweise danach."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Lohnbüro Lünen",
+        "an": "Bäckereileitung",
+        "titel": "Dienstplan vom Sonntag und tatsächliche Kassenbesetzung",
+        "text": [
+          "Für den Mai wäre der zuerst verschickte Plan hilfreich. Die geänderte Kassenkennung zeigt, wer wirklich am Gerät war. Für die anschließende Fahrt nach Brambauer oder Horstmar braucht ihr einen weiteren Hinweis, etwa die Filialübergabe.",
+          "Bitte gebt auch an, ob die Person den Tausch allein vereinbaren konnte oder erst die Zustimmung der Leitung einholen musste. Der Familienname im Gruppenchattitel beantwortet das nicht."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-08"
+      },
+      {
+        "typ": "notiz",
+        "von": "Filialleitung Backstube",
+        "an": "Frühdienst",
+        "titel": "Übergang vom Laden zur zweiten Filiale",
+        "text": [
+          "Nach dem ersten Verkauf geht eine Person in die anderen Läden. Das Ende der Bedienung an der ersten Kasse zeigt daher nicht zwingend das Ende der Arbeit. Die zweite Filiale kann die Übergabe aus eigener Sicht bestätigen.",
+          "Für die Wochenübersicht trennen wir den geplanten Namen und die tatsächlich erschienene Person. Eine nachträglich überschriebene Planung würde den Wechsel unsichtbar machen."
+        ],
+        "datum": "2026-07-08"
+      }
+    ]
+  },
+  "testakten/statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die technische Auswahl im Labor kann ich erklären. Was ich nicht aus dem Bestellblatt ablesen kann, ist die Rechtsmacht bei einer allgemeinen Weisung an mich. Für den ursprünglichen Zeitraum brauche ich die damals geltende Fassung, auch wenn wir heute über andere Regeln nachdenken."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Beiratsbüro Neuralis",
+        "an": "Dr. Henrik Vogt",
+        "titel": "Beschaffung, Ressort und Gesellschafterbeschluss bei Neuralis",
+        "text": [
+          "Herr Dr. Vogt, wir können den Weg der Gerätebestellung mit der technischen Freigabe und der abschließenden Unterschriftsstufe zeigen. Für den Status legen wir daneben die für den betreffenden Zeitraum geltende Satzung und den Anstellungsvertrag.",
+          "Ein Zustimmungserfordernis im Forschungsressort beantwortet die Frage nach einer Weisung außerhalb dieses Ressorts noch nicht. Spätere Änderungsüberlegungen nehmen wir nicht als bereits geltende Regel in diese Mappe auf.",
+          "Im Anhang finden Sie die Tabelle „Zuordnung der Unterlagen zur Gerätebestellung“."
+        ],
+        "antwort_auf": 1,
+        "datum": "2025-09-03",
+        "anlage_nr": 5
+      },
+      {
+        "typ": "notiz",
+        "von": "Laborverwaltung Neuralis",
+        "an": "Einkaufsordner",
+        "titel": "Wer das Prüfgerät aussuchte",
+        "text": [
+          "Henrik besprach mit dem Lieferanten, welche technischen Eigenschaften wir für die Versuche benötigen. Die Bedarfsmeldung erfasste das Labor. Der Freigabeweg zur verbindlichen Bestellung ist in einem anderen Feld dokumentiert.",
+          "Wenn wir den Vorgang zeigen, bringen wir auch dieses Feld mit. Eine Person kann die fachlich entscheidende Auskunft geben, ohne alle gesellschaftsrechtlichen Beschlüsse bestimmen zu können."
+        ],
+        "datum": "2025-09-03"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Zuordnung der Unterlagen zur Gerätebestellung",
+        "von": "Beiratsbüro Neuralis",
+        "an": "Dr. Henrik Vogt",
+        "text": [
+          "Unterlage|Was darauf geprüft wird|Was sie allein nicht beantwortet",
+          "Bedarfsmeldung Labor|Technischer Bedarf|Gesellschaftsrechtliche Stimmrechte",
+          "Freigabe im Bestellvorgang|Befugnis zu dieser einzelnen Bestellung|Reichweite einer allgemeinen Weisung",
+          "Gesellschaftsvertrag des Zeitraums|Wirksam vereinbarte Abstimmungsregel|Wer am Tag die Bestellung praktisch abschickte"
+        ],
+        "datum": "2025-09-03"
+      }
+    ]
+  },
+  "testakten/strafrecht-urkundenfaelschung-au-pflegedienst-bremen": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Ich habe mich zuerst am Telefon wegen Fieber und Husten gemeldet. Der Besuch in der Praxis war ein eigener Termin. Dem Pflegedienst möchte ich die zeitliche Reihenfolge richtig nennen, ohne jetzt ein Dokument aus meiner Erinnerung nachzuzeichnen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Praxis Dr. Twardon",
+        "an": "Nadine Kroll",
+        "titel": "Eintrag vom 3. Februar und Vorstellung von Frau Kroll",
+        "text": [
+          "Frau Kroll, die Karteikarte führt am 3. Februar um 8.17 Uhr einen Anruf. Der für Freitag angesprochene Praxistermin ist ein eigener Eintrag. Wir können für Sie die vorhandenen Zeitpunkte aus Ihrer Akte getrennt zusammenstellen.",
+          "Wann der Arbeitgeber einen elektronischen Abruf durchgeführt hat, sehen wir nicht vollständig in der telefonischen Notiz. Dafür braucht es die Auskunft der Kasse bzw. den Abruf bei der Lohnstelle."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-02-20"
+      },
+      {
+        "typ": "notiz",
+        "von": "Nadine Kroll",
+        "an": "Unterlagen Pflegedienst",
+        "titel": "Meine Mitteilung vor Schichtbeginn",
+        "text": [
+          "Am Telefon habe ich zunächst meine Beschwerden genannt und wollte wissen, wann ich kommen kann. Der Ausdruck zur Arbeitsunfähigkeit lag mir bei diesem ersten Anruf noch nicht vor.",
+          "Für die Beratung trenne ich den Anruf, die persönliche Vorstellung und den späteren elektronischen Vorgang. Ich verändere an meinen vorhandenen Ausdrucken nichts."
+        ],
+        "datum": "2026-02-20"
+      }
+    ]
+  },
+  "testakten/unfallversicherung-arbeitsunfall-lagerleiter-sturz-trier": {
+    "fachgebiete": [
+      "Sozialrecht",
+      "Kündigungsschutz und Arbeitsrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Herr Möller lag bereits an der Rampe, als ich ankam. In meiner Schilderung kann ich den Zustand danach beschreiben. Ob er vor dem Sturz gerade einen Auftrag erledigte und ob die Überladebrücke in diesem Augenblick hakte, habe ich nicht selbst gesehen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Arbeitssicherheit MoselLogistik",
+        "an": "Petra Winkelmann",
+        "titel": "Funkzeit und eigene Wahrnehmung an Rampe 4",
+        "text": [
+          "Frau Winkelmann, wir übernehmen 6.43 Uhr als Zeitpunkt des Funkrufs mit Ihrer Angabe, dass Sie anschließend hinzukamen. Die Aussagen zur unmittelbaren Tätigkeit vor dem Sturz nehmen wir getrennt bei den Personen auf, die vorher dort waren.",
+          "Auch das Wartungsbuch zur Brücke sichern wir. Ein früherer Eintrag zur Schwergängigkeit beantwortet für sich nicht, was bei Herrn Möllers Sturz geschah."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-04-03"
+      },
+      {
+        "typ": "notiz",
+        "von": "Frühschicht Lager",
+        "an": "Übergabe an Arbeitssicherheit",
+        "titel": "Was der Funkverkehr an der Rampe festhält",
+        "text": [
+          "Im Dienstfunk wurde Hilfe zu Rampe 4 angefordert. Die Uhrzeit dieser Meldung ist dokumentiert. Sie muss nicht bis auf die Minute mit dem Sturz übereinstimmen.",
+          "Den unmittelbar vorhergehenden Arbeitsauftrag können wir neben den Lagerbeleg legen. Wer selbst anwesend war und wer erst durch den Ruf hinzukam, wird bei der Übergabe getrennt erfasst."
+        ],
+        "datum": "2026-04-03"
+      }
+    ]
+  },
+  "testakten/akha-wuerzburg-kitaplatz": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei der Bedarfsanmeldung hatte ich nicht nur eine einzige Wunscheinrichtung genannt. Ein Platz hilft uns für meinen geplanten Arbeitsbeginn nur, wenn die Zeiten mit dem Dienst zusammenpassen. Die konkrete Gehaltsabrechnung kann ich erst vorlegen, wenn der betreffende Monat abgelaufen ist."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Personalbüro",
+        "an": "Frau Sauermilch",
+        "titel": "Zur geplanten Rückkehr bei Mainfaden Med",
+        "text": [
+          "Frau Sauermilch, den ursprünglich vorgesehenen Einstieg können wir anhand Ihrer Rückkehrabsprache und des vorgesehenen Stundenumfangs bestätigen. Für die tatsächlich gearbeiteten Stunden nehmen wir später den jeweiligen Monatsabschluss.",
+          "Bitte legen Sie uns das Betreuungszeitfenster vor, sobald Sie ein konkretes Angebot bekommen. Dann können wir prüfen, welche Schicht an diesen Tagen tatsächlich erreichbar ist. Eine Vormerkung allein ändert unsere Dienstplanung noch nicht."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-05-04"
+      },
+      {
+        "typ": "notiz",
+        "von": "Frau Sauermilch",
+        "an": "Familienordner Betreuung",
+        "titel": "Weg von der Einrichtung zum Dienst",
+        "text": [
+          "Meine Durchwahl beim Arbeitgeber habe ich beim Antrag angegeben. Für den Weg zwischen einer Einrichtung und dem Betrieb brauche ich zusätzlich zur reinen Fahrzeit die morgendliche Übergabe. Ein Platz mit passendem Umfang kann trotzdem zu spät öffnen.",
+          "Beim nächsten Angebot schreibe ich Ort, Beginn und Abholzeit auf. Die Wunschliste allein enthält noch keine verbindliche Platzzusage."
+        ],
+        "datum": "2026-05-04"
+      }
+    ]
+  },
+  "testakten/berlin-kita-sonnenkringel": {
+    "fachgebiete": [
+      "Sozialrecht"
+    ],
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Für Leni haben wir den Dienstplan erst nach dem Antrag vom 8. Juni vollständig in der Hand. Der Wartelisteneintrag ab Oktober klingt freundlich, ist aber für unser Personalbüro noch kein Beginn der Eingewöhnung. Welche Zeiten könnten Sie bestätigen, wenn der angekündigte Platz tatsächlich frei wird?"
+        ],
+        "berichtigung": {
+          "von": "Familie Aydin"
+        }
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "von": "Kita-Leitung",
+        "an": "Familie Aydin",
+        "titel": "Lenis Wartelistenplatz und der Spätdienst",
+        "text": [
+          "Frau Aydin, für den in Aussicht gestellten Oktoberplatz ist der Vertrag der wegziehenden Familie noch nicht beendet. Deshalb können wir Ihnen weder den ersten Eingewöhnungstag noch bestimmte Spätzeiten verbindlich zusagen. Mit dem geänderten Dienstplan können wir die benötigten Tage aber konkret vormerken.",
+          "Bitte schicken Sie dem Kitaservice zum dortigen Antrag ebenfalls den Dienstplan. Über Umfang und Gültigkeit des Gutscheins entscheidet der zuständige Dienst. Für unseren Vertrag brauchen wir später den tatsächlich freien Platz."
+        ],
+        "antwort_auf": 1,
+        "datum": "2026-07-17"
+      },
+      {
+        "typ": "notiz",
+        "von": "Familie Aydin",
+        "an": "Mappe KTB-26-1847",
+        "titel": "Mein Dienstende und Lenis Abholung",
+        "text": [
+          "Auf der neuen Schichtliste steht das Ende der Arbeit. Zur Abholzeit komme ich erst nach dem Weg zur Kita. Beim Gespräch will ich deshalb nicht bloß die tägliche Stundenzahl nennen, sondern die betroffenen Wochentage und die früheste mögliche Abholung.",
+          "Wir haben bisher keine andere Betreuung gekündigt. Die Nachricht von Sonnenkringel nennt eine Aussicht für Oktober, noch keinen unterschriebenen Vertrag."
+        ],
+        "datum": "2026-07-17"
+      }
+    ]
+  }
+}

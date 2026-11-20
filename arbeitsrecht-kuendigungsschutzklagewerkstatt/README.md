@@ -56,6 +56,8 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 ## Zugeordnete Testakten
 
+[Grundakten für Kündigungsschutz und Arbeitsrecht mit Eingangspost, Rückfragen und Belegen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/Fachakten.md#kündigungsschutz-und-arbeitsrecht)
+
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
@@ -211,7 +213,7 @@ Für einen Einstieg mit der ersten Mandantenpost enthält die vollständige Arbe
 
 | Fall | Originalunterlagen und Eingangspost | Lesefassungen |
 | --- | --- | --- |
-| Muster gegen Uferwerk – Berufung | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-arbeitsrecht-muster-uferwerk-berufung.zip) | [Druckpaket 04](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-04.zip) |
+| Muster gegen Uferwerk – Berufung | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-arbeitsrecht-muster-uferwerk-berufung.zip) | [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-arbeitsrecht-muster-uferwerk-berufung.zip) |
 | Uferwerk-Berufungsakte in 94 Einzel-PDFs | [Uferwerk-PDF-Akte als ZIP](testakte/downloads/testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip) | PDF-Akte |
 
 ## 1.5. Rechtsprechung mit ihrem passenden Anwendungsbereich

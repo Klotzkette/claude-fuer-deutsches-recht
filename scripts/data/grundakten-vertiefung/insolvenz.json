@@ -1,0 +1,2733 @@
+{
+  "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/testakte": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Ich habe R-2025-1190 inzwischen neben den Vollstreckungsbescheid 12 B 204/26 gelegt. In der Hauptforderung steckt der Zuschnitt vom November. Beim Suchen nach Eingängen bitte auch den Werklohnvermerk ohne Rechnungsnummer berücksichtigen.",
+          "Für den Anruf beim Gericht brauche ich den offenen Werklohn getrennt von Zinsen und Kosten. Im Telefonbuch steht noch der frühere Einkäufer als Kontakt. Hat jemand aus dem Verkauf seit der Zustellung mit Herrn Welp gesprochen?"
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Welche Beträge wir gegenüber dem Gericht bestätigen können",
+        "von": "Geschäftsführung",
+        "an": "Sägewerk Sauer GmbH, Buchhaltung",
+        "antwort_auf": 1,
+        "datum": "2026-03-30",
+        "text": [
+          "Die 184.500 Euro habe ich als Hauptforderung freigegeben. Im Büro lag dazu ein gelber Zettel „Kosten Gericht“. Der gehört nicht auf das Erlöskonto des Auftrags. Einen Zahlungseingang von Edelholz kann ich selbst nicht bestätigen.",
+          "Bitte den Bankabgleich bis zum Tag unserer Auskunft nachziehen. Wenn wir später vollstrecken lassen, braucht die Gerichtsvollzieherin das Aktenzeichen des Titels. Der Titel selbst sagt nichts darüber aus, was sich heute in den Räumen oder auf den Konten der Schuldnerin befindet."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Was im Auftragsordner R-2025-1190 lag",
+        "von": "Verkaufsinnendienst Sauer",
+        "an": "Buchhaltung Sägewerk",
+        "datum": "2026-03-30",
+        "text": [
+          "Vorn liegen Bestellung und Zuschnittliste vom Auftrag des 10. Oktober. Die Empfangsquittung ist auf der Rückseite der letzten Lieferscheinseite. Beim Kopieren für das Büro fehlte die Rückseite zunächst.",
+          "Der Außendienst erinnert sich an ein Gespräch über den Preis einer weiteren Lieferung. Eine Vereinbarung zur Aufteilung der bereits titulierten Rechnung hat er in seinem Kalender nicht gefunden."
+        ]
+      }
+    ]
+  },
+  "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei P022 betrifft das Problem den Ausdruck für Jonas Winter. Die Vertragsdatei und die Mai-Nachrichten lassen sich auf denselben Personalvorgang zurückführen. Im Papierfach steckt ein Ausdruck ohne Unterschriften.",
+          "Für den Kaufinteressenten bitte die Zahl der besetzten Stellen und die Zahl der übergebenen Dokumente getrennt ausweisen. Eine zweite Datei zu 3.800 Euro im Monat kann sonst wie eine zweite Personalkostenposition aussehen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Datenraumindex für Winters Unterlagen",
+        "von": "Transaktionsteam",
+        "an": "Personalservice Innovation Systems",
+        "antwort_auf": 1,
+        "datum": "2026-09-08",
+        "text": [
+          "Bitte verwendet P022 auch für den Mailversand am 22. Mai. Das Angebot mit vierzig Wochenstunden geht damit als Korrespondenz zu einer Person in den Index. Das Datum im Dateinamen ist kein Beleg für die Rückgabe eines unterschriebenen Exemplars.",
+          "Die Interessentenseite fragt nach dem Ende der Beschäftigung. Ich trage 30. September 2026 zunächst als Datum aus dem angebotenen Text ein. Für die Personalfrage bleibt das Feld „Quelle der Bestätigung“ offen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Blick in das Papierfach P022",
+        "von": "Personalarchiv Berlin",
+        "an": "Elias Becker",
+        "datum": "2026-09-08",
+        "text": [
+          "Ich habe das Fach am Empfang zusammen mit der Ablagekraft geöffnet. Es enthält den erwähnten Ausdruck in einer durchsichtigen Hülle. Auf der Rückseite ist nur das Druckdatum zu sehen. Einen separaten Unterschriftenbogen habe ich darin nicht gefunden.",
+          "In der Abholliste der Poststelle werden Einschreiben erfasst. Gewöhnliche Übergaben im Büro sind dort nicht verzeichnet. Ob Winter einen Ausdruck persönlich abgegeben hat, kann die Poststelle deshalb nicht beantworten."
+        ]
+      }
+    ]
+  },
+  "testakten/autohaus-boeblingen": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Auf den 19 Auftragskarten stehen auch Dinge wie „Rückruf nach Diagnose“. Dafür stelle ich am Montag keine Rechnung in die Vorschau. Wichtig wären die bereits vereinbarten Abholungen und die Zahlungsart.",
+          "Bei einem Kartenzahler interessiert mich außerdem, ob wir das Geld noch am Abholtag auf BB 4416 sehen. Die Zahlfälle bitte einzeln zurückmelden, auch wenn zwei Kunden am selben Nachmittag kommen wollen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Wie die Annahme Abholungen und Kartenbelege führt",
+        "von": "Serviceannahme Schönbuchring",
+        "an": "Jule Kopp",
+        "antwort_auf": 1,
+        "datum": "2026-09-25",
+        "text": [
+          "Wir legen den Durchschlag des Werkstattauftrags ins Fach „abholbereit“, wenn der Meister den Auftrag abzeichnet. Das heißt, dass der Wagen fertig ist. Die Unterschrift des Kunden und die Zahlungsart kommen erst beim Herausgeben auf den Durchschlag.",
+          "Bei Kartenzahlung läuft der Beleg zuerst in den Tagesabschluss. Das Lesegerät zeigt die Freigabe am Tresen. Das Datum der Sammelgutschrift auf BB 4416 kann nur Jule im Auszug sehen. Jule, anbei deine Freitagsliste mit den zwei Avis und KK 870 aus unserer gemeinsamen Mappe."
+        ],
+        "anlage_nr": 6
+      },
+      {
+        "typ": "notiz",
+        "titel": "Freitagsrunde am Schlüsselbrett auf der Hulb",
+        "von": "Hofdisposition Schönbuchring",
+        "an": "Eva Mergenthal",
+        "datum": "2026-09-25",
+        "text": [
+          "Acht Schlüssel hängen in der unteren Verkaufsreihe. Die Anhänger der Kommissionswagen haben ein weiteres Feld für den Auftraggeber. Der auf der Windschutzscheibe angelegte Verkaufspreis enthält keine Angabe darüber, welcher Teil nach einem Verkauf ans Autohaus geht.",
+          "Fünf Leasinganfragen aus dem September liegen in den Klarsichthüllen beim jeweiligen Wagen. Bei der Runde war in diesen Hüllen keine unterschriebene Kaufbestellung. Der Verkäufer nimmt die Anfragen für den Montagstermin mit."
+        ]
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Freitagsmappe BB 4416 – zwei Avis und ein Kreditabruf",
+        "von": "Jule Kopp",
+        "an": "Eva Mergenthal",
+        "datum": "2026-09-25",
+        "text": [
+          "Referenz | Betrag | Was dem Autohaus vorliegt | Abgleich beim Bankabruf",
+          "FK-42 / AR-482 | 18000 EUR | Kundenavis 29.09. | Gutschrift auf BB 4416 suchen",
+          "PH-91 / AR-489 | 11000 EUR | Kundenavis 30.09. | Referenz und Wertstellung vergleichen",
+          "KK 870 | 8000 EUR | am 24.09. unbeanspruchter Abruf für laufende Aufwendungen | Abruf oder tatsächliche Gutschrift nur einmal erfassen"
+        ]
+      },
+      {
+        "typ": "brief",
+        "titel": "GS-Darlehen und die Anfrage für Montag",
+        "von": "Assistenz Mergenthal Beteiligungsgesellschaft",
+        "an": "Mara Gehring",
+        "datum": "2026-09-25",
+        "text": [
+          "Bei der Ablage der Unterlagen für den Beirat habe ich die Vereinbarung vom 2. Januar 2024 herausgelegt: 115.000 Euro, zinslos, Rückzahlung am 31. März 2027. Für einen zusätzlichen Zuschuss ist das keine Zusage. Wir sollten neue Beschlüsse unter eigener Vorgangsnummer ablegen.",
+          "Für die von Eva erbetene Antwort bitte ich um Angabe, ob der Beirat einen konkreten weiteren Betrag tatsächlich freigibt, ob dies von der Anleiherate abhängt und wer der Bank eine Zahlungsanweisung geben kann. Im Moment steht nur der Montagstermin im Kalender."
+        ]
+      }
+    ]
+  },
+  "testakten/edelholz-manufaktur-berlin-liquiditaet": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Als Beispiel liegt mir RE-2026-0084 an das Hotel Lützowufer vor. In der April-Liste stehen 48.500 Euro und der 25. Mai als erwarteter Eingang. Liegt hinter dem Datum eine Nachricht des Hotels oder stammt es aus unserer Planung?",
+          "Beim Material steht Pollmeier mit 18.450 Euro. In der Bemerkung taucht der 15. Mai auf. Den Termin möchte ich mit der letzten Zusage abgleichen, bevor wir eine Abholung an der Rampe vereinbaren."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Warum der Holzhändler noch keine Bestätigung bekommen hat",
+        "von": "Friedrich Korbach",
+        "an": "Auftragsplanung Edelholz",
+        "antwort_auf": 1,
+        "datum": "2026-05-12",
+        "text": [
+          "Für das Konto 3841 552 007 hat Herr Kabelitz am 12. Mai 11.600 Euro freie Linie genannt. Das ist seine Auskunft an jenem Morgen. In meinem Kalender steht beim Hotel „noch einmal anrufen“. Eine Überweisungsbestätigung habe ich nicht dabei.",
+          "Bitte separiert das schon bestellte Holz von der neuen Abholung. Ich möchte wissen, ob der Händler wegen der früheren Rechnung den gesamten Wagen zurückhält oder nur für die neue Ladung Vorkasse will."
+        ]
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Zwei getrennte Telefonaufträge für die Werkstatt",
+        "von": "Disposition Edelholz",
+        "an": "Friedrich Korbach",
+        "datum": "2026-05-12",
+        "text": [
+          "Gesprächspartner | Bezug | Was beim Anruf festzuhalten ist",
+          "Hotel Lützowufer | RE-2026-0084, Anzahlung | Zahlungsfreigabe erteilt oder nur geplanter Lauf?",
+          "Pollmeier Massivholz | ER-2026-0211, Buche/Eiche | Gilt die Stundung bis 15. Mai für die alte Rechnung?",
+          "Spedition | neue Abholung | Wer vergibt das Ladefenster und welche Freigabe verlangt die Rampe?"
+        ]
+      }
+    ]
+  },
+  "testakten/filmrechte-sicherungsuebertragung-insolvenz-schwetzingen": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Auf der Projektmappe steht KLP-2417. Die Bank hat Filmrechte und Mastermedien auf zwei verschiedenen Blättern geführt. Ich kann für die Ausgabe nur die Kennung vom Regal abschreiben.",
+          "Auch auf dem Abholschein muss die Fassung stehen. Eine Festplatte mit einer Vorführkopie und das Master desselben Titels tragen im Fließtext der Bestellung denselben Filmtitel."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Abholung Rieslingspur – bitte bis zur Rückmeldung reservieren",
+        "von": "Bettina Karg",
+        "an": "Laborleitung Filmproduktion",
+        "antwort_auf": 1,
+        "datum": "2026-10-22",
+        "text": [
+          "Für die Bank ist zunächst wichtig, welche Gegenstände laut Ankündigung am 29. Oktober übergeben werden sollen. Im Register S-02 stehen sechs Positionen. Das ist der Umfang unserer Eintragung, noch keine Bestätigung des Labors über sechs dort lagernde Sachen.",
+          "Bitte gebt mir für jeden tatsächlich vorhandenen Träger Regalplatz, Beschriftung und die Fassung aus dem Arbeitsauftrag. Die offene Anlage B zu den Nutzungsrechten kläre ich getrennt mit der Produktion."
+        ]
+      },
+      {
+        "typ": "brief",
+        "titel": "Reservierung beim Ausgabeschalter für den 29. Oktober",
+        "von": "Materialdisposition Kurpfalz Lichtbild",
+        "an": "Laborleitung",
+        "datum": "2026-10-22",
+        "text": [
+          "Am Schalter wurde eine Abholung für Weintor Streamworks vorgemerkt. Im Telefonvermerk steht „Filmpaket“ ohne Aufstellung. Der Fahrername und die Kennungen der abzuholenden Träger fehlen.",
+          "Unsere Spedition kann zu einem Zeitfenster vorfahren. Für die Quittung benötigt sie einen Abholschein mit einzelnen Positionen und einen Ansprechpartner für Rückfragen. Unter demselben Titel werden hier auch Rückläufer zu früheren Vorführungen abgelegt."
+        ]
+      }
+    ]
+  },
+  "testakten/fintech-darlehen-vertragsuebernahme-bremen": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Feld Verwendungszweck kann ich nur NF-WP-221014-01 sehen. Für den Belegordner brauche ich eine Auskunft darüber, wer das Empfängerkonto führt und auf wessen Kundenkonto die Märzrate gutgeschrieben wurde.",
+          "Ich habe die dreiseitige Mitteilung mit dem Datum 14. Oktober 2022 herausgelegt. Unser Überweisungsprogramm übernimmt frühere Empfängervorlagen auch dann unverändert, wenn wir zu einem Vertrag einen neuen Ansprechpartner haben."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Ihre Rückfrage zur Märzrate – bitte zwei Belege getrennt zusenden",
+        "von": "Nora Wendt",
+        "an": "Jutta Kröger",
+        "antwort_auf": 1,
+        "datum": "2024-04-09",
+        "text": [
+          "Frau Kröger, schicken Sie mir bitte den Zahlungsbeleg mit Wertstellung und die von Ihnen benutzte Empfängerverbindung. Mit der Kennung allein findet unser Team zwar den Geschäftsvorgang, jedoch keine eindeutige Buchungszeile auf einem bestimmten Bankkonto.",
+          "Ich bin für die Buchungsauskunft bei Vellio ansprechbar. Für die ursprüngliche Auszahlung und das damalige Konto der Nexora Frontbank haben wir keine eigene Auszugsberechtigung. Bitte lassen Sie die Absenderzeile der Mitteilung bei der Kopie sichtbar."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Was der Überweisungsbeleg der Weserfunken anzeigt",
+        "von": "Zahlungsverkehr Weserfunken",
+        "an": "Jutta Kröger",
+        "datum": "2024-04-09",
+        "text": [
+          "Im gespeicherten Auftrag erscheinen Auftraggeber, Empfängerverbindung und der von uns eingetippte Text. Das Menü zeigt daneben einen gespeicherten Empfängernamen. Dieser Name lässt sich im Adressbuch jederzeit ändern.",
+          "Für die Rückfrage habe ich die ausgeführte Buchung im Konto geöffnet. Ein internes Darlehenskonto des Empfängers oder eine Weiterleitung innerhalb seiner Gruppe sieht Weserfunken dort nicht."
+        ]
+      }
+    ]
+  },
+  "testakten/forschungszulage-sensorik-startup-taunus": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Zur Messreihe K-12 liegt im Arbeitsplan AP2, zur Dashboard-Roadmap AP6. Auf dem Ausdruck für die Besprechung sehe ich keine Versuchskennung. Ich brauche die unveränderte Messdatei und den Vermerk über Kondensat oder Vibration am Prüfstand.",
+          "Für die Besprechung mit der Buchhaltung will ich die tatsächlich aufs Experiment entfallenden Stunden von der Gestaltung der Anzeige trennen können. Reicht euer Zeiterfassungsfeld dafür aus?"
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "K-12 im Laborjournal und die Stunden im Dashboard",
+        "von": "Jens Falkenstein",
+        "an": "Laborleitung Riedblick",
+        "antwort_auf": 1,
+        "datum": "2026-05-23",
+        "text": [
+          "Die Anzeige wurde für die Besprechung aus mehreren Messfenstern erzeugt. Sie eignet sich nicht, um die Länge eines einzelnen Versuchs zurückzurechnen. Der Bediener notiert den Start im Journal am Gerät.",
+          "Bitte stellt die AP2-Zeilen neben die Rechnung aus Lissabon. Bei zugekauften Leistungen fehlt mir noch die Aufteilung zwischen Vorbereitung dort und Auswertung bei uns. Bis dahin möchte ich keinen Zahlungstermin für eine Zulage in die Liquiditätsliste schreiben."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Schichtwechsel am Drift-Prüfstand",
+        "von": "Versuchsassistenz Riedblick",
+        "an": "Jens Falkenstein",
+        "datum": "2026-05-23",
+        "text": [
+          "Am Gerät stehen handschriftlich die Startzeit und die Einstellung der Kammer. Bei einem Neustart wird ein neuer Messdateiname vergeben, obwohl der Arbeitsauftrag weiter K-12 heißt. In der exportierten Kurve sieht man die Unterbrechung nicht immer.",
+          "Die Kollegin am Dashboard erhielt von uns eine Kopie zur Darstellung. Sie war während des Kammerlaufs nicht am Gerät. Ihren Aufwand kann das Laborjournal nicht belegen."
+        ]
+      }
+    ]
+  },
+  "testakten/fortbestehensprognose-paragrafix-gmbh": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Der April-Auszug liegt bei Frau Steiglitz. In der Besprechungsmappe zum 20. Mai will ich den darin sichtbaren Endsaldo und den Bankstand am Tag der Besprechung auseinanderhalten. Das gilt besonders für eine Finanzierung, die noch von Meilensteinen abhängt.",
+          "Wenn die Series-A-Tranche nicht am zuerst besprochenen Tag eingeht, welcher Betrag wäre bis zum nächsten Cloud-Abbuchungstag tatsächlich verfügbar? Bitte die Nachricht des Investors samt beigefügter Fassung der Bedingungen weitergeben."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Series A – bitte keine Monatswerte als Tageszusage lesen",
+        "von": "Geschäftsführung",
+        "an": "Finanzteam Paragrafix",
+        "antwort_auf": 1,
+        "datum": "2026-05-20",
+        "text": [
+          "Die drei Millionen sind der Betrag aus dem Finanzierungsblatt. Für die Bankabstimmung brauche ich die Bestätigung, welche Bedingungen der Investor als erfüllt ansieht und an welchem Tag er auszahlen kann. Eine neue Unterschrift liegt in meiner Besprechungsmappe derzeit nicht.",
+          "Die Kontonummer des Commerzbank-Auszuges endet auf 7000. Bitte benutzt sie für den Abgleich. Wenn die Buchhaltung nur den April-Auszug hat, bleibt der aktuelle Stand in der Besprechung offen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Was der Hostinganbieter über die Belastung sagen konnte",
+        "von": "IT-Betrieb Paragrafix",
+        "an": "Finanzteam Berlin",
+        "datum": "2026-05-20",
+        "text": [
+          "Die Portalansicht summiert die verbrauchte Rechenzeit tagesweise. Die Belastung der hinterlegten Zahlungsart erscheint in einem eigenen Abrechnungsbereich. Für den offenen Nutzungszeitraum zeigt das Portal einen Schätzwert.",
+          "Ich habe nach dem einzelnen Rechnungsbeleg gefragt, damit die gleiche Leistung nicht einmal als Verbrauchsschätzung und später noch einmal als Rechnung in die Wochenliste gelangt."
+        ]
+      }
+    ]
+  },
+  "testakten/geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Aprilblatt stehen 648.000 Euro fällige Verbindlichkeiten am Monatsende. Das hilft mir beim Anruf des einzelnen Lieferanten kaum. Ich möchte die Rechnung finden, auf die sich der Fahrer beruft, und daneben die bereits benötigten Lebensmittel festhalten.",
+          "Auf dem Lieferschein soll die Schicht den tatsächlichen Eingang vermerken, auch wenn die Freigabe des Zahllaufs in Hannover noch offen ist. Fälligkeit, Übergabe und Bankabgang fallen bei uns oft auf verschiedene Tage."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Was im Zahlungsstapel der Zentrale zu sehen ist",
+        "von": "Finanzleitung",
+        "an": "Filialbuchhaltung Nordlicht Systemgastronomie",
+        "antwort_auf": 1,
+        "datum": "2026-06-02",
+        "text": [
+          "Die Liste lässt sich nach Filiale und Belegnummer filtern. Bei einer Sammelüberweisung bekommen wir eine einzige Bankreferenz für mehrere Rechnungen. Zur Zuordnung brauche ich deshalb den Einzelposten aus dem Zahlvorschlag.",
+          "Bitte gebt dem Fahrer eine Kopie des gegengezeichneten Lieferscheins mit. Er kann daraus die Lieferung belegen. Ein Zahlungsdatum sollen die Kolleginnen nur weitergeben, wenn ein ausgeführter Auftrag vorliegt."
+        ]
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Rückfragen aus der Warenannahme zum Zahllauf",
+        "von": "Einkauf Nordlicht Kitchen",
+        "an": "Finanzleitung Hannover",
+        "datum": "2026-06-02",
+        "text": [
+          "Feld | Quelle in der Filiale | offene Angabe aus Hannover",
+          "Menge und Lieferzeit | quittierter Lieferschein beim Schichtleiter | gehörige Rechnungsnummer",
+          "Zahlungsfreigabe | telefonische Nachricht des Einkaufs | Freigabezeit auf dem Einzelposten",
+          "Bankausführung | am Tresen nicht sichtbar | Wertstellung und Sammelreferenz"
+        ]
+      }
+    ]
+  },
+  "testakten/grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Beim Aktenzeichen 122 Js 884/25 liegen außerdem seitlich abgeheftete Kopien aus dem Postfach der Buchhaltung. In den Spesenmails reichen die Daten von Oktober 2024 bis Februar 2025. Bitte diese Ausdrucke nicht nach dem Datum des Kopiervorgangs einsortieren.",
+          "An einem Blatt klebt eine rückseitige handschriftliche Notiz. Ich kann ihre Urheberschaft nicht zuordnen und würde es deshalb im vorgefundenen Zustand abgeben."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Spesenordner für den Empfang",
+        "von": "Büroorganisation Vellbruck",
+        "an": "Gesellschaftsarchiv",
+        "datum": "2026-05-13",
+        "text": [
+          "Aus dem Buchhaltungspostfach habe ich einen Ausdruck der Korrespondenz Pellbach und Quasthoff in der Hand. Die Kopien tragen keine fortlaufende Blattzahl. Welcher Schrank enthält die eigentlichen Buchungsbelege zur Erstattung?",
+          "Für den Termin morgen brauche ich eine Person, die die Ordner am Empfang übernimmt und deren Rückennummern abzeichnet. Die Randnotizen möchte ich unkommentiert am Blatt belassen."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Schrank zwei und die getrennt geführte Belegfolge",
+        "von": "Gesellschaftsarchiv",
+        "an": "Büroorganisation Vellbruck",
+        "antwort_auf": 3,
+        "text": [
+          "Den Schlüssel verwahrt die Büroorganisation in einem beschrifteten Umschlag. Bitte bei der Entnahme zu zweit die Rückennummer und den sichtbaren Zeitraum aufnehmen. Der zweite Schrank enthält sowohl Buchungsordner als auch Unterlagen der damaligen Geschäftsführung.",
+          "Beim Vergleich mit den Outlook-Ausdrucken fällt auf, dass eine weitergeleitete Nachricht den Text der älteren Mail nochmals enthält. Zwei Ausdrucke sind daher nicht ohne Weiteres zwei Anweisungen."
+        ],
+        "datum": "2026-05-13"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Eingang zweier Kopien zum Spesenordner",
+        "von": "Empfang Vellbruck",
+        "an": "Verteidigerhandakte Pellbach",
+        "text": [
+          "Ich habe die Kopien in einem offenen Umschlag bekommen. Auf dem ersten Blatt steht ein Betreff aus dem Buchhaltungspostfach, auf dem zweiten nur ein fortlaufender Nachrichtentext. Eine Büroklammer hielt beide zusammen.",
+          "Ob das zweite Blatt die Folgeseite derselben Nachricht ist, kann ich nicht feststellen. Die Seitenecken sind beim Scannen abgeschnitten. Der unveränderte Umschlag liegt zusammen mit dem Eingangsvermerk im Fach."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenz-asset-deal-chaincortex-ai-berlin": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Das Asset-Blatt nennt die ChainCortex Compliance Engine mit 220.000 Euro indikativ und BlockSight Sentinel mit 65.000 Euro. Diese Beträge sind keine Preisangebote eines Käufers. Ich will verhindern, dass unsere Vorführung als Übergabe des Entwicklungsstands protokolliert wird.",
+          "Wir können die Demo aus einer eigenen Testumgebung starten. Vorher brauche ich vom Büro die Namen der zugelassenen Teilnehmer und die Rückmeldung, ob Bildschirmfotos angefertigt werden dürfen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Vorführung zum Verfahren 36 IN 1342/26",
+        "von": "Verfahrensbüro Vorberg",
+        "an": "Produktleitung ChainCortex AI",
+        "antwort_auf": 1,
+        "datum": "2026-04-02",
+        "text": [
+          "Bitte meldet dem Büro zunächst die konkrete Produktfassung und denjenigen, der den Termin technisch begleitet. Wir unterschreiben am Empfang eine Besucherliste. Zugangsdaten zu fremden Kundenumgebungen brauchen die Besucher dafür nicht.",
+          "Bei Rückfragen zum Kaufumfang vermerkt bitte die betroffene Komponente wörtlich. Im Inventar sind CCE, BlockSight Sentinel und der InsightLLM Adapter einzeln erfasst. Ein Interessent kann mit „Plattform“ verschiedene Kombinationen meinen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Testmandant für den ersten Produkttermin",
+        "von": "Anwendungsbetrieb ChainCortex",
+        "an": "Produktleitung",
+        "datum": "2026-04-02",
+        "text": [
+          "Im Demomandanten heißen die Vorgänge „Musterprüfung“ und „Testfreigabe“. Ein Berichtslink auf der Startseite führt in die zuletzt ausgewählte Umgebung. Vor dem Termin prüfen wir deshalb den angezeigten Mandantennamen und legen die Vorführfolge nur im Testmandanten an.",
+          "Für Fragen zu den Nutzungsrechten habe ich die Herstellerangaben separat ausgedruckt. Der Bildschirm im Termin zeigt die Funktion, jedoch weder die Kosten des Werkzeugs noch die Übertragbarkeit seines Lizenzkontos."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei VK-2026-0166 sind Zahlung und Lieferung beide auf den 2. Februar datiert. Unser Wiegeplatz erfasst die Uhrzeit. Steht auf dem Bankbeleg ebenfalls eine Uhrzeit oder nur ein Buchungstag?",
+          "Bei VK-2026-0214 fällt neben der Menge erstmals in den beiden von mir herausgelegten Belegen ein gesonderter Aufschlag auf. Wurde der bei der Anlieferung angesprochen oder nur im Preisblatt?"
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Wiegezeiten für VK-2026-0166 und VK-2026-0214",
+        "von": "Wareneingang Vellnitz Kunststofftechnik",
+        "an": "Finanzbuchhaltung",
+        "datum": "2026-02-23",
+        "text": [
+          "Könnt ihr uns die zwei Bruttobeträge zu den Lieferungen vom 2. und 20. Februar nennen? Wir legen den Wiegezettel jeweils zur Bankreferenz, weil die Schicht am Tor nur den Bestellbezug sieht.",
+          "Beim zweiten Beleg fällt eine andere Preisstellung auf. Ob ein Aufschlag Teil des vereinbarten Preises ist, kann der Fahrer nicht beantworten. Den Preisabgleich gebe ich deshalb an den Einkauf."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Zwei Belege für die Granova-Waage",
+        "von": "Finanzbuchhaltung",
+        "an": "Wareneingang Vellnitz Kunststofftechnik",
+        "antwort_auf": 3,
+        "text": [
+          "Zu VK-2026-0166 sehen wir 11.662 Euro brutto, zu VK-2026-0214 sind es 15.903,16 Euro. Den Tagesauszug kann ich nach Betrag durchsuchen. Eine Einfahrt am Tor ist daraus nicht abzulesen.",
+          "Im Februarblatt ist die spätere Lieferung für den 20. Februar verzeichnet, die zugehörige Zahlung am 18. Februar. Bitte gebt dem Einkauf das Original des Wiegezettels mit der Chargennummer zurück. Wir nehmen die Kopie zum Rechenblatt."
+        ],
+        "datum": "2026-02-23"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Was beim Wiegen einer Granulatlieferung passiert",
+        "von": "Schichtführer Waage Chemnitz",
+        "an": "Einkauf Vellnitz",
+        "text": [
+          "Auf dem Bon steht das Kennzeichen des Zugfahrzeugs. Bei zwei Entladestellen können auf dieselbe Bestellung mehrere Bons folgen. Erst die Addition der Nettogewichte erlaubt den Vergleich mit der Rechnung.",
+          "Preiszuschläge sind am Terminal nicht zu sehen. Bei Reklamationen über Feuchtigkeit oder Untergewicht wird ein eigener Eingangsvorgang eröffnet, auch wenn der Lkw schon vom Hof ist."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-blechliebe-bamberg": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei BL-208, Rechnung 2025-118, geht es um 120 Zuschnitte S235JR in acht Millimetern. Wessen Kürzel steht auf der Ausgabeliste vom 15. November? Das ist die Rechnung über 12.000 Euro vor Umsatzsteuer.",
+          "Das Projekt heißt Schottenbau Süd. Bitte verwechselt die Chargen nicht mit späteren Kantprofilen für denselben Abnehmer. Die Fahrer fragen am Tor häufig nur nach dem Firmennamen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Ausgabeblatt 2025-118 für die heutige Besprechung",
+        "von": "Farah Riedmüller",
+        "an": "Versand Raban Stahlhandel",
+        "datum": "2026-10-12",
+        "text": [
+          "Für Herrn Feulner fehlen mir die Unterlagen aus der Verladung zu den 120 acht Millimeter starken Blechen. Könnt ihr mir das Ausgabeblatt mit dem Kürzel des Abholers heraussuchen?",
+          "In der Kreditorenmappe liegt die Rechnung mit Steuerbetrag. Ich möchte daneben den ursprünglichen Empfangsnachweis zeigen können, wenn gefragt wird, ob das Material tatsächlich am selben Tag überging."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Abholung für Schottenbau Süd",
+        "von": "Versand Raban Stahlhandel",
+        "an": "Farah Riedmüller",
+        "antwort_auf": 3,
+        "text": [
+          "Wir stellen jede bereitgelegte Lage auf ein Ausgabeblatt. Der Fahrer unterschreibt beim Verladen für Stückzahl und sichtbaren Zustand. Für die 120 Zuschnitte suche ich das Blatt unter BL-208, nicht unter dem Bauvorhaben.",
+          "Mir wurde am Tor kein Zahlungsbeleg gezeigt. Ob unser Vertrieb an diesem Tag schon einen Betrag erwartet hatte, ist nur beim Ansprechpartner im Büro vermerkt."
+        ],
+        "datum": "2026-10-12"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Handlauf an der Stahlabholung",
+        "von": "Verladebüro Raban",
+        "an": "Farah Riedmüller",
+        "text": [
+          "Abgleich | Eintrag aus der Rechnungsmappe | am Ausgabeschalter nachzusehen",
+          "Kundenabruf | BL-208, Schottenbau Süd | Auftragszettel mit Zuschnittmaßen",
+          "Abholtag | 15.11.2025 | Fahrerquittung und Zeit der Beladung",
+          "Material | 120 Zuschnitte S235JR, 8 mm | etwaige Teilmengen je Ausgabeblatt"
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-faltenwurf-fuerth": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Vertrag vom 2. Mai steht die GmbH als Darlehensnehmerin. Auf der Rechnung für den Zuschneidetisch steht eine Fabriknummer. Die private Überweisung an meine Tochter betrifft kein Gerät im Werk.",
+          "In der Werkstatt lagen zur Lieferung auch Unterlagen über zwei Einweisungstage. Können die mit, obwohl auf diesen Zetteln nur die Teilnehmenden unterschrieben haben?"
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Zum Gespräch über den Zuschneidetisch",
+        "von": "Mandantschaft Faltenwurf",
+        "an": "Frau Dörfler",
+        "datum": "2026-10-14",
+        "text": [
+          "Frau Dörfler, ich finde außer der Darlehensmappe auch den Lieferbeleg mit der Maschinenkennung. Für den persönlichen Termin möchte ich nur die wirklich gehörigen Unterlagen kopieren. Soll ich das Heft zu den Einweisungen gleich mitbringen?",
+          "Auf einem Kontoauszug steht nur der Vorname meiner Tochter. Ich habe die damaligen Nachrichten dazu noch. Die Firma, meine Tochter und ich haben nicht dasselbe Konto benutzt."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Zum Termin bitte die Belege mit den ursprünglichen Kontoinhabern",
+        "von": "Frau Dörfler",
+        "an": "Mandantschaft Faltenwurf",
+        "antwort_auf": 3,
+        "text": [
+          "Ja, bringen Sie die Einweisungsscheine zusammen mit der Textomat-Rechnung über 261.800 Euro. So können wir das gelieferte Gerät TM240-0424-17 wiederfinden. Die Finanzierung über 280.000 Euro möchte ich anhand des Darlehens und beider Kontoseiten besprechen.",
+          "Für den privaten Vorgang reicht zuerst Ihre eigene Korrespondenz mit der Tochter. Vermerke am besten auf dem Umschlag, von wem die Unterlagen stammen. Die Rechnungsadresse des Maschinenlieferanten hilft dort nicht weiter."
+        ],
+        "datum": "2026-10-14"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Wiederfinden der Unterlagen zum Modell Z240",
+        "von": "Werkstatt Faltenwurf",
+        "an": "Yara Schlötterer",
+        "text": [
+          "Die Nummer TM240-0424-17 sitzt seitlich am Untergestell, die Maschinennummer im Einweisungsheft innen auf dem Deckblatt. Das Lieferblatt führt Leopold Haderlein als Unterzeichner.",
+          "Im Werkstattfach liegen Bedienungsunterlagen und Einweisungsblätter. Bankbelege oder eine Erklärung darüber, wem der Kaufpreis wirtschaftlich zugutekommen sollte, haben wir im Maschinenfach nicht."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Für die zweite Februarhälfte 2025 nennt die Saldenliste 210.000 Euro Abführungen und 145.000 Euro Zuführungen. Wer im Team hat die Banktage dazu und welche davon sind nur im Monatsabschluss zusammengezogen?",
+          "Unser Konto beginnt den Abschnitt mit 1.480.000 Euro Verbindlichkeit. Für Rückfragen des Geschäftsführers brauche ich die Bewegung in beiden Richtungen. Der Unterschied von 65.000 Euro allein beschreibt die Überweisungen nicht."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Februarabschluss unter AVR Zero-Balancing",
+        "von": "Treasury Donaupart Präzisionstechnik",
+        "an": "Finanzleitung",
+        "datum": "2025-03-03",
+        "text": [
+          "Die Rückführung und der spätere Ausgleich durch die Holding erscheinen im Konto jeweils mit „Pool“. Zum Abschließen der Periode brauche ich beide Summen und den Betrag, der weiter als Verbindlichkeit verbleibt.",
+          "Bitte gebt mir auch den Ansprechpartner für die einzelnen Valutatage. Mit dem Endsaldo allein kann ich den Zins für die zweite Februarhälfte nicht nachrechnen."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Abstimmung AVR-Pool am 28. Februar",
+        "von": "Finanzleitung",
+        "an": "Treasury Donaupart Präzisionstechnik",
+        "antwort_auf": 3,
+        "text": [
+          "Die 1.415.000 Euro am Periodenende lassen sich aus Anfangssaldo und beiden Bewegungsrichtungen überleiten. Für den Zinslauf brauchen wir trotzdem die einzelnen Wertstellungen. Im Tagesauszug des Betriebskontos steht der Sweep neben normalen Kundeneinzahlungen.",
+          "Bitte fragt bei der AVR Automotive Beteiligungs GmbH nach dem korrespondierenden Poolauszug. Dieselbe Bewegung muss dort aus Sicht der Poolführerin das umgekehrte Vorzeichen tragen. Das beigefügte Kontrollblatt zeigt beide Richtungen für die zweite Februarhälfte."
+        ],
+        "anlage_nr": 5,
+        "datum": "2025-03-03"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Kontrollblatt zur Richtung der Sweeps",
+        "von": "Kontenabstimmung Donaupart",
+        "an": "Treasury Regensburg",
+        "text": [
+          "Abschnitt | Buchung aus Sicht Donaupart | Betrag EUR",
+          "16.–28.02.2025 | an Poolführerin abgeführt | 210000",
+          "16.–28.02.2025 | von Poolführerin zugeführt | 145000",
+          "28.02.2025 | verbleibende Verbindlichkeit laut Poolblatt | 1415000"
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Herr Casparius hat für die Krefelder Straße 214 nach einem Ankauf mit anschließender Weiternutzung gefragt. Sollen wir für die nicht besichtigten Teile einen zweiten Termin anbieten? Im Rundgang wurden mir keine Unterlagen über Mietbindungen gezeigt.",
+          "Falls die Bank beim Verkauf aus dem Erlös abgelöst werden soll, brauche ich ihre Berechnung getrennt vom angebotenen Gesamtpreis. Der Betrag für ein unbebautes Nachbargrundstück wäre dafür kein passender Vergleich."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Zugang für die zweite Begehung",
+        "von": "Objektverwaltung Vondering Metallform",
+        "an": "Finanzleitung",
+        "datum": "2025-10-24",
+        "text": [
+          "Beim Abgleich mit dem Grundriss ist mir aufgefallen, dass nicht jeder Bereich der Halle zugänglich war. Wer bespricht mit Herrn Casparius, welche Flächen er für seinen Preis tatsächlich gesehen haben muss?",
+          "Für einen Termin in der Produktion brauche ich Schicht und Schlüssel. Die mögliche Ablösung von Belastungen kann ich beim Rundgang am Grundstück nicht beantworten."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Unterlagen für den zweiten Termin in der Krefelder Straße",
+        "von": "Finanzleitung",
+        "an": "Objektverwaltung Vondering Metallform",
+        "antwort_auf": 3,
+        "text": [
+          "Bitte stellt die Flächen nach Nutzung zusammen. Für die Büros können wir einen anderen Schlüssel brauchen als für die Produktionshalle. Ich würde dem Interessenten nur die Flächen als besichtigt bestätigen, für die er im Besucherbuch tatsächlich eingetragen war.",
+          "Die Ablösesumme fordere ich selbst bei der Bank an. Wenn der Makler nach dem Zufluss an Vondering fragt, braucht er Kaufpreis, Lastenfreistellung und Fälligkeit getrennt."
+        ],
+        "datum": "2025-10-24"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Rückruf des Hallenmeisters zum Rundgang",
+        "von": "Hausverwaltung Vondering",
+        "an": "Objektmappe Krefelder Straße",
+        "text": [
+          "Die Maschine in der Halle lief bei der Besichtigung weiter. Der Zugang hinter der Lagertrennwand blieb deshalb verschlossen. Im ausliegenden Grundriss ist dieser Teil als zusammenhängende Fläche mit der Halle schraffiert.",
+          "Aus meiner Sicht kann ein Besucher den Boden im nicht betretenen Teil nicht beurteilt haben. Zu Grundpfandrechten und der Höhe etwaiger Ablösungen habe ich keine Auskünfte gegeben."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-inkongruente-deckung-warenlager-an-erfuellungs-statt-kassel": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Auf der Liste vom 17. Dezember stehen 665 Paletten mit zusammen 96.000 Euro Buchwert. Der offene Saldo in der Korrespondenz mit Dämmtec liegt bei 118.000 Euro. Hier fragt der Staplerfahrer, ob er jetzt schon sämtliche Reihen markieren soll.",
+          "Bei den PUR-Platten der Reihe A sind 120 Paletten gezählt. In der Außenhalle unterscheiden sich die Zustände. Wer quittiert, welche Ware tatsächlich verladen wurde und ob die Auswahl geändert wurde?"
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Vorbereitung der Abholung in Halle 2",
+        "von": "Lagerleitung Fuldablick",
+        "an": "Finanzbuchhaltung",
+        "datum": "2025-12-17",
+        "text": [
+          "Das Lagerblatt ist fertig gezählt. Wollen wir vor einer Markierung der 665 Paletten die Auswahl mit Dämmtec bestätigen? Zwischen Innenlager und überdachtem Außenfeld unterscheiden sich Artikel und Zustand.",
+          "Ich würde bis dahin nur die Reihe und das Etikett erfassen. Der Staplerfahrer braucht für einen tatsächlichen Ausgang eine von der Buchhaltung benannte Freigabe."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Noch keine Ausgangsbuchung für die Werte aus der Besichtigung",
+        "von": "Finanzbuchhaltung",
+        "an": "Lagerleitung Fuldablick",
+        "antwort_auf": 3,
+        "text": [
+          "Die Lagerliste ist zuerst eine Mengenaufnahme. Für eine Gutschrift an Dämmtec brauche ich die am Abholtag akzeptierte Liste, auf der beide Seiten die Positionen zuordnen können.",
+          "Tragt Abweichungen je Reihe ein. Wenn ein Stapel feucht oder am Rand angebrochen ist, möchte ich ein Bild mit der Positionskennzeichnung. Den Wert einer ganzen unbeschädigten Palette kann ich daraus allein nicht ableiten."
+        ],
+        "datum": "2025-12-17"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Blick auf Feld 1 und Reihe B vor der Abholung",
+        "von": "Lagermeister Fuldablick",
+        "an": "Versandbuch",
+        "text": [
+          "In Reihe B stehen EPS-Bodenplatten, im überdachten Außenlager Feld 1 Steinwolle-Fassadenplatten. Beim Fotografieren aus dem Tor sind die Schilder des Nachbarfeldes ebenfalls zu sehen.",
+          "Die Kommissionierung soll daher jeweils mit dem Feldschild beginnen und mit dem Etikett am Stapel enden. Im Bestandsprogramm sinkt die Zahl erst nach Erfassung des Abgangs, nicht schon beim Anbringen eines Zettels."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Zum Vorgang DR II 96/26 finde ich auch zwei Quittungen aus der Barkasse. Die 9.750 Euro vom 18. Februar und die am 25. Februar gezählten 12.000 Euro gehören nicht in die Liste der Banküberweisungen.",
+          "Bei der Überweisung an das Dienstkonto interessiert mich ausdrücklich auch die Wertstellung. Ein Beleg mit Auftragsdatum ist für die Lohnliste oft einen Tag zu früh."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Karow – Abgleich mit dem Bankauszug",
+        "von": "Finanzbüro Frankenletter",
+        "an": "Geschäftsführung",
+        "datum": "2026-03-05",
+        "text": [
+          "Beim Kassenabschluss tauchen die beiden Heckel-Quittungen auf. Das Dienstkonto steht außerdem in unserem Überweisungsausgang. Welche Buchung können wir dem Bankkonto zuordnen und auf welchen Tag fällt ihre Wertstellung?",
+          "Die Kollegin in der Lohnbuchhaltung fragt nach dem heute verbleibenden Geld. Den Betrag aus der Stahlkassette kann sie dafür nicht noch einmal von der Bank abziehen."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Barquittungen und Sparkassenbeleg für Heckel",
+        "von": "Geschäftsführung",
+        "an": "Finanzbüro Frankenletter",
+        "antwort_auf": 3,
+        "text": [
+          "Für den Bankvorgang nehmt bitte Auszug 43/2026. Die 20.000 Euro sind dort am 4. März gebucht und am 5. März wertgestellt. Das Dienstkonto ist auf dem Beleg als Empfänger bezeichnet.",
+          "Die Barvorgänge führt die Kasse unter K-2026-0107 und K-2026-0119. Lasst die beiden ursprünglichen Formulierungen des Gerichtsvollziehers bei den Kopien stehen. Bei einem Beleg steht „in bar erhalten“, beim anderen „in Gewahrsam genommen“."
+        ],
+        "datum": "2026-03-05"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Rückfrage an der Kasse wegen der Stahlkassette",
+        "von": "Kasse Frankenletter",
+        "an": "Geschäftsführer Pflugbeil",
+        "text": [
+          "Die 12.000 Euro vom 25. Februar setzen sich aus 3.840 Euro aus der Stahlkassette und 8.160 Euro aus dem Tresor zusammen. Dabei gab es keine zweite Bankbelastung.",
+          "An der Kassenquittung hängt eine Notiz für den nächsten Schichtwechsel. Die Buchung im Kassenbuch erfolgte für den Gesamtbetrag. Einzelbeträge bezeichnen den Fundort des Bargelds."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Der Vertrag zur Flottenerweiterung nennt 150.000 Euro und sechs Prozent Jahreszins. Daneben liegt Brosekamps Vertrag vom 1. Juli 2025 mit 170 Euro je Stunde plus Umsatzsteuer. Die beiden Beträge lassen sich nicht über denselben Monatsbeleg abstimmen.",
+          "Gibt es zu den angeblichen Beratungsleistungen für den fraglichen Monat Stundennachweise mit Arbeitstagen? Bei einer Rückzahlung brauche ich statt einer Stundenliste die Anweisung, die den Kapitalbetrag bezeichnet."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Brosekamp – brauche die Belege zu den Beratertagen",
+        "von": "Buchhaltung Kiezflitzer Mobility",
+        "an": "Geschäftsleitung",
+        "datum": "2025-09-02",
+        "text": [
+          "Für den Monatsabschluss sehe ich die Tätigkeit von Herrn Dr. Brosekamp im Kalender. Gibt es zum Juli und August bereits unterzeichnete oder weitergeleitete Stundenaufstellungen und eine Rechnung?",
+          "Unter demselben Namen führt das Sachkonto auch das ältere Darlehen. Eine einzelne Empfängervorlage reicht mir nicht, um eine Überweisung dem Dienstleistungsvertrag zuzuordnen."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Zwei Ablagen unter dem Namen Brosekamp",
+        "von": "Geschäftsleitung",
+        "an": "Buchhaltung Kiezflitzer Mobility",
+        "antwort_auf": 3,
+        "text": [
+          "Die Leistungen für die Bankgespräche wurden als laufende Beratung beauftragt. Besprechungstermine stehen im Kalender. Welche davon Brosekamp abgerechnet hat, ergibt sich erst aus der Rechnung und ihrer Anlage.",
+          "Die ursprüngliche Auszahlung des Flottendarlehens datiert auf den 22. Mai 2023. Für Zahlungen, die von Kiezflitzer in die Gegenrichtung gingen, bitte ich um den jeweiligen Auftrag samt Verwendungszweck. Die beigefügte Aufstellung der Assistenz zeigt, welche Belege wir dafür aus beiden Ablagen holen."
+        ],
+        "anlage_nr": 5,
+        "datum": "2025-09-02"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Zuordnung der vom Büro zu holenden Belege",
+        "von": "Assistenz Kiezflitzer",
+        "an": "Finanzleitung",
+        "text": [
+          "Vorgang | Zuordnung aus Vertrag | Noch zu holen",
+          "Flottenerweiterung | Auszahlung 22.05.2023, 150000 EUR | tatsächlicher Bankbeleg der Zahlung",
+          "Zinsen | sechs Prozent jährlich, zum 31.12. | Zinsberechnung für betroffenen Zeitraum",
+          "Interim Finance Advisory | 170 EUR je Stunde zuzüglich Umsatzsteuer | Monatsrechnung und zugehöriger Stundenbogen"
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-kongruente-deckung-krankenkasse-nach-antrag-luebeck": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Das Beitragskonto läuft unter 4471120, unsere Betriebsnummer lautet 98771244. Auf dem November-Soll von 17.700 Euro steht Februar als Eingangsmonat. Daneben weist die Kasse Zuschläge aus.",
+          "Beim Lohnjournal erscheint November nur einmal, während die Bank mehrere Monate in einem Auftrag zusammenfassen kann. Ich möchte vermeiden, dass beim Abgleich die Zuschläge als zweite Beitragszahlung zählen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "BKK-Konto 4471120 – bitte die beiden Beitragsmonate nennen",
+        "von": "Lohnbuchhaltung Trave Clean",
+        "an": "Finanzleitung",
+        "datum": "2026-06-08",
+        "text": [
+          "Im Kontenblatt sind November und Dezember mit demselben Zahlungseingang bezeichnet. Für den Rückruf brauche ich das jeweilige Soll, die Fälligkeit und den getrennt angesetzten Zuschlag.",
+          "In meinem Lohnprogramm erscheint die Buchung nur nach Beitragsmonat. Bitte nennt auch den Stand des Kassenausdrucks, damit ich der Verwaltung die passende Fassung geben kann."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "BKK Ostseeküste – November und Dezember getrennt abfragen",
+        "von": "Finanzleitung",
+        "an": "Lohnbuchhaltung Trave Clean",
+        "antwort_auf": 3,
+        "text": [
+          "Beide Sollmonate stehen im Kassenblatt mit Eingang 26. Februar. Für November sind 531 Euro Zuschlag ausgewiesen, für Dezember 354 Euro. Bitte zur Antwort der BKK das Datum dazuschreiben, auf das sich die Saldenauskunft bezieht.",
+          "Der Betriebsauszug weist den tatsächlichen Abgang für Trave Clean aus. Dass der Eingang auf einen bestimmten Monat verrechnet wurde, muss ich auf dem Beitragskonto sehen. Das Blatt des Lohnbüros mit den beiden Monaten gebe ich zur Anfrage noch einmal mit."
+        ],
+        "anlage_nr": 5,
+        "datum": "2026-06-08"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Blatt für die Rücksprache mit der Beitragsstelle",
+        "von": "Lohnbüro Trave Clean",
+        "an": "Finanzleitung Lübeck",
+        "text": [
+          "Beitragsmonat | Fälligkeit | Soll ohne Zuschlag | Zuschlag laut Kontoblatt",
+          "November 2025 | 26.11.2025 | 17700 EUR | 531 EUR",
+          "Dezember 2025 | 29.12.2025 | 17700 EUR | 354 EUR",
+          "Gemeinsame Rückfrage | Konto 4471120 | Aufteilung des Eingangs vom 26.02. | gesonderte Zuordnung der Zuschläge"
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Der Lieferstopp vom 24. November und die Ratenbitte vom 2. Dezember liegen bei uns in verschiedenen Vorgängen. Gibt es zu dem Telefonat eine Durchwahl oder einen Kalendereintrag, damit ich den damals zuständigen Einkäufer ansprechen kann?",
+          "Der Zeitungsausschnitt über einen Großauftrag stammt vom 21. November. Ich will beim Rückruf trennen, was der Kunde selbst über einen Zahlungstermin gesagt hat und was hier jemand nur aus der Zeitung kennt."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Dritte Mahnstufe und Rückruf aus dem Möbelwerk",
+        "von": "Vertriebsinnendienst HebeFix",
+        "an": "Debitorenbuchhaltung",
+        "datum": "2025-12-05",
+        "text": [
+          "Der Ausdruck der Mahnstufe und die Antwort des Einkaufs liegen in verschiedenen Fächern. Könnt ihr mir helfen, die tatsächliche Versandart und den Zugang zusammenzutragen?",
+          "Im Gespräch wurde auch ein Großauftrag genannt. Ich will für den Aktenvermerk wissen, ob das der Kunde am Telefon gesagt hat oder auf den beiliegenden Zeitungsausschnitt zurückgeht."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Mahnlauf und Antwort des Möbelwerks",
+        "von": "Debitorenbuchhaltung",
+        "an": "Vertriebsinnendienst HebeFix",
+        "antwort_auf": 3,
+        "text": [
+          "Im Kundenkonto kann ich den Druck der dritten Mahnstufe aufrufen. Die Druckliste enthält mehrere Debitoren und keine Empfangsbestätigung einzelner Kunden. Den Briefausgang frage ich bei der Poststelle an.",
+          "Zur Ratenbitte suche ich die ursprüngliche Nachricht mit Absender und Anlagen. Ein Zahlungsversprechen aus diesem Schriftwechsel kann ich nur der Person zuschreiben, die es tatsächlich abgegeben hat."
+        ],
+        "datum": "2025-12-05"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Telefonnotiz aus dem Versand bei HebeFix",
+        "von": "Versanddienst",
+        "an": "Vertriebsinnendienst",
+        "text": [
+          "Ein Fahrer wollte wissen, ob er bereits gepackte Beschläge zum Möbelwerk mitnehmen darf. Er hatte einen Ladezettel gesehen. Im System steht die Liefersperre in einem anderen Feld als die Kommissionierfreigabe.",
+          "Ich habe ihn an den Vertrieb verwiesen. In meiner Torliste stehen die tatsächlichen Ausfahrten. Aus ihr geht nicht hervor, ob der Kunde zu diesem Zeitpunkt unsere Mahnung kannte."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die Tagessaldenliste startet im Dezember mit 471.800 Euro Soll bei 480.000 Euro Rahmen. Am 5. Dezember stehen trotz POS-Gutschrift 417.550 Euro Soll und nur 360.000 Euro Linie nebeneinander.",
+          "Gibt es zu dieser Anpassung einen Wirksamkeitszeitpunkt und einen Nachweis, welche Zahlungsaufträge die Bank an diesem Tag noch annahm? Wir können aus dem Kassenterminal nur die Umsatzgutschrift nachvollziehen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "4711-220315 – welcher Rahmen galt am Freitag?",
+        "von": "Buchhaltung Domblick Weinkellerei",
+        "an": "Firmenkundenbetreuung Sparkasse Weinbergland",
+        "datum": "2025-12-08",
+        "text": [
+          "Am 5. Dezember steht eine Vinothek-Gutschrift und zugleich ein kleinerer Rahmen im Tagesauszug. Wie kann ich für diesen Tag die tatsächlich möglichen Verfügungen feststellen?",
+          "Ich schicke bei Bedarf die von uns im Banking vorbereiteten Aufträge. Nicht alle haben am selben Tag einen Rückgabevermerk oder eine ausgeführte Belastung bekommen."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Kredit 4711-220315 – Buchungsebene und Verfügung",
+        "von": "Firmenkundenbetreuung Sparkasse Weinbergland",
+        "an": "Buchhaltung Domblick Weinkellerei",
+        "antwort_auf": 3,
+        "text": [
+          "Die Tagessaldenliste zeigt am 4. Dezember die Gutschrift von 19.750 Euro für RG 2025-1187/1191. Der Zugang verändert zunächst den Sollsaldo. Welche Weiterverfügungen möglich waren, hängt auch von der dann gültigen Rahmenvereinbarung ab.",
+          "Für den 5. Dezember suchen wir die Ausfertigung der Anpassungsvereinbarung Nr. 1. Bitte teilt uns parallel mit, auf welche konkreten Aufträge ihr euch bezieht, damit wir einzelne Ausführungsentscheidungen prüfen können. Bitte das beigefügte Abstimmungsblatt eures Kassenbüros zu den drei Dezembergutschriften gegenlesen."
+        ],
+        "anlage_nr": 5,
+        "datum": "2025-12-08"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Drei Zeilen aus der Dispositionsabstimmung der Kellerei",
+        "von": "Kassenbüro Domblick",
+        "an": "Bernhard Sattlmaier",
+        "text": [
+          "Tag | Beobachtung im Betrieb | Bankbeleg für die Zuordnung",
+          "02.12.2025 | Sammelzahlung Rheinlust | Gutschrift 28400 EUR",
+          "04.12.2025 | Weinkontor, zwei Rechnungsnummern | Gutschrift 19750 EUR",
+          "05.12.2025 | Vinothek, Tagesabschluss | POS-Sammelgutschrift 12300 EUR"
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-kontokorrent-verrechnungen-geduldete-ueberziehung-dortmund": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Für die Brauerei Kronenquell steht im Auftrag vom 22. Januar ein Betrag von 28.460 Euro. Die Zeile enthält bereits den Verwendungszweck, daneben aber „nicht ausgeführt“. Könnt ihr zusichern, dass der Fahrer dafür keine Zahlungsquittung aus unserem Hause bekommt?",
+          "Zur Mineralbrunnenrechnung vom 9. Februar brauche ich die Antwort nach der Einzelprüfung. Ein anderer an diesem Tag freigegebener Auftrag sagt nichts über die Bedienung genau dieses Empfängers."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Lieferfreigabe für die nächste Getränketour",
+        "von": "Frank Buschkamp",
+        "an": "Finanzbuchhaltung Ruhrland",
+        "datum": "2026-02-10",
+        "text": [
+          "Der Außendienst legt mir einen Zahlungsauftrag für Kronenquell vor. In der Statusspalte fehlt die Ausführung. Kann jemand für die zwei Rechnungen bestätigen, welcher Hinweis der Bank tatsächlich kam?",
+          "Zur Mineralbrunnenrechnung vom 9. Februar brauche ich außerdem die Referenz des Empfängers. Die Rückmeldung für einen Lieferanten soll nicht versehentlich als Freigabe für die ganze Tour gelten."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Rückgabe und neuer Auftrag brauchen verschiedene Belege",
+        "von": "Finanzbuchhaltung Ruhrland",
+        "an": "Frank Buschkamp",
+        "antwort_auf": 3,
+        "text": [
+          "Für Kronenquell sind RG 2025-9917 und 2025-10233 zusammen ausgewählt. Im Ablehnungsprotokoll steht „fehlende Deckung – Rückfrage Betreuer“. Es enthält keinen Belastungstag.",
+          "Bei Westfalenquelle geht es um 19.875,50 Euro. Die Nummer RG 2026-0341 bitte bei erneuter Rücksprache verwenden. Ob später neu angewiesen wurde, können wir nur in der Auftragsliste für die folgenden Tage erkennen."
+        ],
+        "datum": "2026-02-10"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Welche Unterlage der Lieferfahrer mitgebracht hat",
+        "von": "Warenannahme Ruhrland",
+        "an": "Frank Buschkamp",
+        "text": [
+          "Auf dem Lieferschein ist das Kundenkonto der Brauerei zu sehen, darunter ein Hinweis auf die beiden Altrechnungen. Der Fahrer hatte eine Kopie der Bestellung, jedoch keinen Kontoauszug der Brauerei dabei.",
+          "Er fragte, ob im Büro ein tatsächlicher Überweisungsbeleg vorliegt. Ein Ausdruck mit einem bloß vorbereiteten Auftrag würde seine Frage nicht beantworten. Der Rückruf soll an die Debitorenbuchhaltung gehen."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-schenkung-familie-oldenburg": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Zum BMW habe ich das Angebot GW-2024-1873 über 27.900 Euro gefunden. Dort sind Übergabe mit beiden Schlüsseln und ein bestimmter Fahrzeugzustand vorausgesetzt. Was tatsächlich übergeben wurde, möchte ich mit dem Abholschein vergleichen.",
+          "Beim Dach betrifft die Rechnung 2025-0341 die Huntloser Straße 12. Sie ist an Uwe Tietjen gerichtet. Welcher Auftrag liegt dazu beim Handwerker und welches Konto hat seine Rechnung ausgeglichen?"
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "brief",
+        "titel": "Rückgabe der Unterlagen zum X3 und zur Dacharbeit",
+        "von": "Bernd Hollmann",
+        "an": "Buchhaltung Hollmann Bau",
+        "text": [
+          "Für den BMW bitte das Angebot des Autohauses vom 5. September mitnehmen. Der Händler hat bei seiner Besichtigung 61.480 Kilometer vermerkt. Eine spätere Übergabe muss sich auf einen anderen tatsächlichen Kilometerstand beziehen können.",
+          "Zum Dach kann ich den Empfängernamen vom Rechnungskopf bestätigen. Ob und was zwischen dem Eigentümer und der Firma vereinbart war, ist mit dieser Rechnung noch nicht dokumentiert. Die Zahlung bitte auf ihrem eigenen Beleg ablegen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Nachfrage zur Angebotsnummer GW-2024-1873",
+        "von": "Gebrauchtwagenannahme Wempe & Sohn",
+        "an": "Ankaufsakte Oldenburg",
+        "text": [
+          "Unser Angebot war bis 30. September 2024 gebunden. Der Wert beruht unter anderem auf Serviceheft, Laufleistung und Besichtigung. Das Fahrzeug wurde dabei vorgeführt und anschließend wieder mitgenommen.",
+          "Aus einem gespeicherten Angebot entsteht bei uns noch keine Ankaufsgutschrift. Bei einem vollzogenen Ankauf gäbe es zusätzlich Übergabeprotokoll, Kassenanweisung für den Kaufpreis und Fahrzeugunterlagen."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "In der Urkunde A 1043/2023 steht unser Geschäftsführer als Vertreter der Feinwerk. Die Kreditakte 44-081-227 bezeichnet dagegen die Karrenberg Industrieholding als Kreditnehmerin. Unter welchem Namen ist die Darlehensauszahlung auf einem Konto zu finden?",
+          "Für die Abschlussbesprechung brauche ich auch eine etwaige Rechnung für die Übernahme der Sicherheit. Die Abteilung kann einen Vorteil aus einer allgemeinen Konzernplanung nicht auf ein einzelnes Bankkonto buchen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "A 1043/2023 – schriftliche Zusage im Innenverhältnis gesucht",
+        "von": "Finanzleitung Feinwerk Präzisionswerkzeuge",
+        "an": "Konzernfinanzierung",
+        "datum": "2023-05-17",
+        "text": [
+          "Die Bestellung der Sicherheit liegt im Werk. Die reine Kreditsumme hilft mir für die Unterlagen zum Jahresabschluss noch nicht. Auf welchem Konto kann ich die erste Auszahlung finden?",
+          "Bitte schickt die Fassung des Konsortialvertrags und teilt mit, ob zur Grundschuld eine gesonderte Vereinbarung zwischen Feinwerk und Holding existiert. Unter dem Notaraktenzeichen ist sie hier nicht abgelegt."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Auszahlungsbeleg und Sicherheitenmappe werden getrennt geführt",
+        "von": "Konzernfinanzierung",
+        "an": "Finanzleitung Feinwerk Präzisionswerkzeuge",
+        "antwort_auf": 3,
+        "text": [
+          "Im Konsortialvertrag sind 18 Millionen Euro Gesamtvolumen vereinbart. Daraus folgt nicht, dass Feinwerk selbst Geld erhalten hat. Für jede Ziehung gibt es einen Abruf mit der Zielverbindung.",
+          "Die Urkundenabschrift zur Grundschuld liegt im Sachfach Grundstück. Die interne Verteilung von Kosten oder ein Rückgriffsversprechen müssten in einem eigenen Vertrag stehen. Ich frage bei der Holding nach einer unterzeichneten Fassung."
+        ],
+        "datum": "2023-05-17"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Telefonat mit der Grundstücksverwaltung zum Belastungsvorgang",
+        "von": "Anlagenbuchhaltung Feinwerk",
+        "an": "Finanzleitung",
+        "text": [
+          "Der Notartermin wurde unter dem Werkgrundstück geführt. Der Ablagezettel trägt den 15. Mai 2023 und die Nummer A 1043/2023. Die Anlagenbuchhaltung erhielt eine Kopie für die Grundstücksmappe, jedoch keinen Kontoauszug der Holding.",
+          "Eine Grundschuld erscheint hier als Belastung des Gegenstands. Wofür die Kreditnehmerin mit dem gezogenen Geld tatsächlich zahlte, kann die Grundstücksverwaltung nicht sagen."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die erste Auszahlung lief am 14. Juni 2024 von Ihrem Privatkonto auf unser Konto mit der Endziffer 7714. Bei der Rückbewegung vom 3. Februar suche ich die Anweisung der Geschäftsführung und die Bezeichnung, unter der die Zahlung bei Ihnen einging.",
+          "Die Unterlagen zum KlingelKlar-Prototyp enthalten ebenfalls Ihren Namen. Falls Sie für Sensoren eine eigene Leistung abgerechnet haben, brauche ich bitte Leistungszeitraum und Rechnungsnummer."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Meine Unterlagen zur Sensorserie",
+        "von": "Burkhard Haderlein",
+        "an": "Finanzbuchhaltung VeedelWende",
+        "antwort_auf": 1,
+        "datum": "2026-02-03",
+        "text": [
+          "Meine Überweisung über 150.000 Euro trägt den Vermerk zum Darlehen vom 12. Juni 2024. Der Zahlungsbeleg über den Eingang auf 7714 ist noch in meiner Bankablage. Der Projektzweck umfasste zwölf Sensoren und die neue App-Version.",
+          "Für die Bewegung vom Februar suchen Sie bitte in Ihrer Anweisung unter meinem Namen. Ein im Projektordner gespeichertes Serviceangebot ist von einer von mir ausgestellten Rechnung zu unterscheiden."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Eingang beim Projektbüro KlingelKlar",
+        "von": "Entwicklungsassistenz VeedelWende",
+        "an": "Nala Seifert",
+        "datum": "2026-02-03",
+        "text": [
+          "In der Projektmappe werden die Angebote nach dem Namen des Ansprechpartners gespeichert. Die Beauftragung ist beim Einkauf dokumentiert, eine Rechnung im Kreditoreneingang. Ein PDF im Angebotsfach erscheint deshalb auch dann, wenn der Vorgang nie abgerechnet wurde.",
+          "Einen Seriennachweis zu den zwölf Sensoren kann ich über das Materiallager suchen. Ob Haderlein mit einer bestimmten Zahlung für eine Leistung oder für einen Finanzierungsbetrag bedient wurde, geht aus dem Lagerzugang nicht hervor."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-veedelwende-zession-koeln": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Vertrag vom 15. Mai 2023 finde ich zwei Prozent Jahreszins und das Laufzeitende 31. Dezember 2025. Der Eingang im Dezember 2024 von Frau Zech enthält einen Übergang ihrer Forderung. Unter welchem Datum habt ihr die Änderung in der Kreditorenkartei nachvollzogen?",
+          "Zu prüfen sind für mich mindestens drei Belege mit verschiedenen Zahlungsrichtungen: die damalige Valuta, der Kaufpreis zwischen Zech und Quast und die spätere Überweisung von VeedelWende."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Kreditorenstamm und der Beleg aus der Mail vom 7. Dezember",
+        "von": "Finanzleitung",
+        "an": "Kreditorenbuchhaltung VeedelWende",
+        "antwort_auf": 1,
+        "datum": "2026-04-03",
+        "text": [
+          "Den Originaleingang bitte bei der Mail von Frau Zech vom 7. Dezember 2024 belassen. Sie bezeichnet den 3. Dezember als Tag des Verkaufs und den 6. Dezember als Tag der Kaufpreiszahlung. Unser Betriebskonto war für diese Kaufpreiszahlung nicht die Quelle.",
+          "Wenn ihr das Konto von Quast zur Auszahlung sucht, bringt bitte die damalige Anweisung der Geschäftsführung dazu. Eine nachträgliche Änderung der Empfängervorlage kann den ursprünglichen Auftrag nicht belegen. Zur Orientierung liegt der Zettel der Finanzassistenz mit den drei Zahlungsrichtungen bei."
+        ],
+        "anlage_nr": 4
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Drei Zahlungsvorgänge in der KlingelKlar-Ablage",
+        "von": "Assistenz Finanzen VeedelWende",
+        "an": "Kreditorenbuchhaltung",
+        "datum": "2026-04-03",
+        "text": [
+          "Geschäft | Zu suchender Zahler | Unterlage für den tatsächlichen Eingang",
+          "Darlehensauszahlung 2023 | Kreszentia Zech | Konto VeedelWende",
+          "Kaufpreis für Forderung Dezember 2024 | Rocco Quast | Beleg aus Anlage der Abtretungsanzeige",
+          "Spätere Rückzahlung | VeedelWende Mobility GmbH | eigener Bankauftrag und Empfängernachweis"
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Der Bescheid vom 24. Oktober 2022 nennt 388.000 Euro Rückstand aus Umsatzsteuer und Zuschlägen. Unsere Monatsrate liegt bei 13.000 Euro. Wenn die Lastschrift zurückkommt und wir sie später überweisen, dürfen das nicht zwei bezahlte Raten werden.",
+          "Beispiel ist die Rate zum 15. Mai 2023. Die Bankbuchung und die Vollstreckungsankündigung vom 25. Mai liegen in getrennten Mappen. Wer hat den Rückruf des Amts für diesen Monat angenommen?"
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Wie ist die wiederholte Mai-Rate im Steuerkonto erfasst?",
+        "von": "Buchhaltung Lechtal Spedition",
+        "an": "Geschäftsführung",
+        "datum": "2023-06-12",
+        "text": [
+          "Die 13.000 Euro zum Mai wurden zunächst eingezogen und kamen zurück. Jetzt liegt der Überweisungsausgang vor. Welchen Eingangstag sollen wir im Gespräch mit der Vollstreckungsstelle verwenden?",
+          "Ich möchte der Steuerberatung die Rückgabe samt erneuter Zahlung als zusammenhängenden Verlauf geben. Die bloße Addition beider Bewegungen sähe aus wie zwei getilgte Raten."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Rate sieben zum Steuerkonto 103/141/60712",
+        "von": "Geschäftsführung",
+        "an": "Buchhaltung Lechtal Spedition",
+        "antwort_auf": 3,
+        "text": [
+          "Nach unserer Liste kam die Rate erst am 9. Juni 2023 per Überweisung an. Im Mai gab es eine zurückgegebene Lastschrift. Bitte besorgt für die Abstimmung beide Seiten des Kontoauszugs mit der Rückbuchung.",
+          "Im Gespräch mit der Vollstreckungsstelle soll die Referenz V 2022-4418 genannt werden. Zur wirtschaftlichen Lage in späteren Monaten würde ich keine Auskunft allein aus dieser einzelnen Rate ableiten."
+        ],
+        "datum": "2023-06-12"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Beim Rückruf vom Amt nach dieser Nummer fragen",
+        "von": "Assistenz Lechtal Spedition",
+        "an": "Robert Kaindl",
+        "text": [
+          "Die Ratenaufstellung führt die Fälligkeit, den Eingang und die Zahlungsart getrennt auf. Bei Rate sechs stehen der 15. und 21. April 2023, bei Rate sieben der 15. Mai und 9. Juni. Beide Beträge lauten auf 13.000 Euro.",
+          "Zum Abheften der Auskunft brauche ich die Antwort, welcher Teil auf Hauptforderung und welcher auf Zuschläge entfiel. Der Gesamtbetrag im Bankauszug unterscheidet das nicht."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzforderungen-handwerk-koeln": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei FK-251121 ist unten auf der Rechnung ein Abnahmefeld für die Bauteile RS-01 bis RS-40 ausgefüllt. Für die Lieferung vom 30. März wurden dagegen am Montagehof nur die Platten und Profile gezählt.",
+          "Beim Scannen waren beide Vorgänge unter „Baustelle“ erfasst. Ich kann die Belege nach Bestellkreis ablegen, wenn ihr mir sagt, welche Rückgaben oder Abschläge den jeweiligen Saldo noch verändern."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Fehlender unterer Seitenrand bei FK-251121",
+        "von": "Baustellenbüro Rheinsteg",
+        "an": "Rechnungswesen",
+        "datum": "2026-04-15",
+        "text": [
+          "Bei unserer kleinen Kopie sind rechts nur 40 beschichtete Bauteile zu erkennen. Für die Abstimmung suche ich die Seite mit den Empfangs- und Abnahmefeldern. Welche Beträge stehen auf eurer Rechnungsausfertigung?",
+          "Auch zu den Brandschutzplatten liegt eine gezählte Menge vor. Soll die Kopie im selben Vorgang bleiben oder unter dem März-Bestellkreis zum Material?"
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "FK-251121 bitte samt unterem Seitenrand kopieren",
+        "von": "Rechnungswesen",
+        "an": "Baustellenbüro Rheinsteg",
+        "antwort_auf": 3,
+        "text": [
+          "Beim Beschichter stehen 7.000 Euro netto und 8.330 Euro brutto. Für uns zählt die Unterschrift von Gero Tannert vom 20. November zusammen mit dem Gegenzeichen von Ruben Nalken. Gerade dieses Feld fehlt auf der verkleinerten Kopie am schwarzen Brett.",
+          "Bei den Baustoffen gelten andere Bedingungen. Bitte fragt, ob tatsächlich eine Rückgabe unbenutzter Mengen angenommen wurde. Eine vereinbarte Rückgabemöglichkeit allein reduziert den Rechnungsbetrag noch nicht."
+        ],
+        "datum": "2026-04-15"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Quittung bei der Entladung am Montagehof",
+        "von": "Gero Tannert",
+        "an": "Baustellenbüro Rheinsteg",
+        "text": [
+          "Am 30. März habe ich 200 Brandschutzplatten und 120 Anschlussprofile gezählt. Ich habe damit den Empfang der Mengen bestätigt. Transport und Entladung stehen im Bestellvorgang als eigene Position.",
+          "Die pulverbeschichteten Bauteile habe ich im November bei der Abholung nach Sichtprüfung und Schichtdickenmessung abgezeichnet. Die Abholung eines bereits beschichteten Teils ist ein anderer Arbeitsgang als die Entladung einer Materiallieferung."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzforderungen-pistazienbrezeln-muenchen": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Ich habe zusätzlich die Rückgabe der zwei noch verschlossenen 5-kg-Gebinde zu KP-260602 gefunden. Die Gutschrift dazu betrifft den Inhalt der Gebinde. Die leeren Kisten vom Tourenfahrer sind ein anderer Vorgang.",
+          "Beim Mehl vom 11. Mai gab es laut AM-L-260511 gar keine Pfandbehälter. Lasst die Mehlrechnung deshalb aus der Pfandabstimmung, auch wenn Mehmet beide Lieferungen angenommen hat."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Kernspitze – geht die Gutschrift aufs Konto?",
+        "von": "Wareneingang Pistazienknopf Brezelmanufaktur",
+        "an": "Buchhaltung",
+        "datum": "2026-06-15",
+        "text": [
+          "Der Fahrer hat die zwei geschlossenen Gebinde mitgenommen. Auf der Rückmeldung des Lagers steht eine Gutschrift. Ist dafür eine Auszahlung oder nur eine Zuordnung zur offenen Rechnung vorgesehen?",
+          "Für die Leerbehälter ist die Ablage am Wareneingang getrennt. Ich kann dort nach der Tour suchen, wenn ihr den Tag für die Leergutquittung benötigt."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Gutschrift Kernspitze und Kistenrückgabe getrennt melden",
+        "von": "Buchhaltung",
+        "an": "Wareneingang Pistazienknopf Brezelmanufaktur",
+        "antwort_auf": 3,
+        "text": [
+          "Zur Charge PN-260521 ist die Gutschrift KP-G-260612 über 214 Euro der Rechnung zugeordnet. Dazu soll laut Lager keine Überweisung erfolgen. Sucht also keinen Zahlungseingang über diesen Betrag.",
+          "Für die leeren Kisten hätte ich gern Fahrer, Tour und möglichst den Durchschlag des Pfandzettels. Es kommt vor, dass der Fahrer Leergut verschiedener Kunden in einem Stapel auflädt und es erst am Ziel zählt."
+        ],
+        "datum": "2026-06-15"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Was bei der Retourentour abgeholt wurde",
+        "von": "Mehmet Sezer, Backstube",
+        "an": "Emilian Rödel",
+        "text": [
+          "Die beiden noch verschlossenen Gebinde habe ich am 12. Juni neben der Warenannahme bereitgestellt. Die anderen acht Gebinde blieben für die Produktion da. Die Einbuchung beim Lieferanten habe ich nicht selbst gesehen.",
+          "Beim Mehl verwende ich unsere eigene Sackkarre und trage den Empfang im Backstubenfach ein. Eine Leergutquittung für die Pistazientour ist dort deshalb nicht zwischen den Mehllieferscheinen zu erwarten."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzforderungsanmeldungspruefung-phoenix-solar": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Export steht Solarteile Nord unter G001 mit 28.450,20 Euro. Im Lieferordner sehe ich häufig denselben Lieferschein als Anhang sowohl an der Bestellung als auch am späteren Serviceticket.",
+          "Könnt ihr die Eingänge vom 2. und 14. Mai nebeneinanderlegen und mir die Geräte- oder Modulkennungen nennen? Eine zweite Mail vom Lieferanten kann eine neue Anmeldung oder die Nachreichung einer Belegkopie sein."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Solarteile auf dem Dach – welche Belege für beide Eingänge?",
+        "von": "Installation Phoenix Solar",
+        "an": "Forderungsprüfung",
+        "datum": "2026-05-15",
+        "text": [
+          "Die technischen Kollegen können die verbauten Seriennummern heraussuchen. Gehören die beiden Eingänge von Solarteile Nord zum selben Teilauftrag oder braucht ihr verschiedene Standorte?",
+          "Ich möchte bei der Prüfung von G001 vermeiden, dass wir denselben Karton einmal als Anlieferung und zusätzlich als Servicearbeit bestätigen. Welches Dokument soll als Vergleich dienen?"
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "G001 im Verfahren 35 IN 417/26",
+        "von": "Forderungsprüfung",
+        "an": "Installation Phoenix Solar",
+        "antwort_auf": 3,
+        "text": [
+          "Bitte nur je tatsächlich ausgeführtem Auftrag eine technische Rückmeldung. Der zweite Eingang muss mit der ersten Dokumentenfolge verglichen werden. Zum Vergleich brauche ich Betrag, Rechnungsnummer, Lieferschein und das betreffende Material.",
+          "Die Frage eines Eigentumsvorbehalts läuft gesondert. Für Module auf der Baustelle interessiert uns, ob sie noch individualisierbar im Lager liegen, bereits montiert oder an einen anderen Standort gefahren worden sind."
+        ],
+        "datum": "2026-05-15"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Welche Kennung der Monteur am Dach sieht",
+        "von": "Montagekoordination Phoenix Solar",
+        "an": "Forderungsprüfung",
+        "text": [
+          "Auf dem Karton steht eine Serienreihe. Der Servicetechniker übernimmt häufig nur die letzte Modulnummer in sein Ticket. Die Projektanschrift im Ticket kann mit der Lieferanschrift identisch sein, obwohl ein anderer Auftrag abgearbeitet wird.",
+          "Zur Zuordnung kann unsere Montage die verbaute Reihe und den Einbautag bestätigen. Ob die Lieferantenrechnung bezahlt oder als Doppelteingang erfasst ist, sieht sie im Servicetool nicht."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzplan-starug-planwerkstatt-metallbau-hansa": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "In KW 21 steht ein Lohnlauf von 420.000 Euro. Die Aufträge von Elbe Anlagenbau, Stadtwerken und InfraRail haben unterschiedliche Abschlagsbedingungen. Zu jedem brauche ich die Rückmeldung der Bauleitung, die das jeweilige Aufmaß bestätigt.",
+          "Die NordBank hat sich nach den abgetretenen Forderungen erkundigt. Für den Wochenplan zählt auch, auf welches Konto der Kunde zahlen soll und ob Metallbau Hansa über das Geld verfügen kann."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Werkstattmeldung vor der Bankrunde",
+        "von": "Werkstattleitung Metallbau Hansa",
+        "an": "Björn Hollender",
+        "antwort_auf": 1,
+        "datum": "2026-05-14",
+        "text": [
+          "Mit einer Materialentnahme ist die Fertigung gestartet. Das Aufmaß geht erst zur Freigabe an die Baustelle. Dazwischen liegen teilweise noch Nacharbeiten. Bitte bildet die Verspätung eines einzigen Abschlags separat ab, statt alle offenen Bestellungen im selben Monat aufzufangen.",
+          "Bei den CNC- und Kranarbeiten wird außerdem Gerät der LeasingWerk eingesetzt. Es steht in unserer Halle, ist aber im Gerätebuch mit einer Leasingnummer geführt. Für eine Bewertung können wir die Nummern liefern."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Baustellenabruf für den Abschlag an InfraRail",
+        "von": "Projektassistenz Metallbau Hansa",
+        "an": "Björn Hollender",
+        "datum": "2026-05-14",
+        "text": [
+          "Der Kunde ordnet Abschläge nach seinem Bauabschnitt zu. Ein Nachtrag mit zusätzlichem Stahl kann bereits im Werkstattauftrag auftauchen, obwohl der Kunde noch keine neue Bestellnummer erteilt hat.",
+          "Vor Ausstellung der Abschlagsrechnung bekommt das Büro das bestätigte Aufmaß mit Bauabschnitt. Für die Bankliste lässt sich die geplante Menge deshalb früher nennen als ein belastbarer Fälligkeitstag."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei Nanosens steht seit 26. Juni eine Nachricht zum Kundenkonto 44810. Sie könnte den tatsächlichen Produktionsbeginn verschieben. Soll die Schicht für diese Serie Material bereithalten, bevor Einkauf und Kasse den Abruf bestätigen?",
+          "Beim Optiklieferanten und beim Gehäuselieferanten gelten unterschiedliche Versichererlimits. Ein freies Fach im Regallager sagt uns nichts über die nächste lieferbare Stückzahl."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Welche Termine für BioMetrik derzeit belastbar sind",
+        "von": "Geschäftsführung",
+        "an": "Produktionsleitung Biometrik Jena",
+        "antwort_auf": 1,
+        "datum": "2026-06-29",
+        "text": [
+          "Zur Bestellung von Nanosens-Komponenten bitte Vorkasseanforderung, Bankbeleg und Lieferzusage getrennt zurückmelden. Ein frei eingeplanter Maschinenplatz ist noch keine Bestätigung des Lieferanten.",
+          "Bei PlastForm Suhl führt der Einkauf 76.900 Euro offen und ein reduziertes Limit von 40.000 Euro. Für eine Bestellung zusätzlichen Materials brauche ich die Antwort zu genau diesem Abruf. Wir können die Zusage für Gehäuseteile nicht auf Sensoren übertragen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Freigabepunkt vor Serienversand",
+        "von": "Qualitätssicherung BioMetrik",
+        "an": "Produktionsleitung Jena",
+        "datum": "2026-06-29",
+        "text": [
+          "Die Schicht legt fertig geprüfte Teile im Versandbereich ab. Vor der Serienfreigabe steht am Behälter ein interner Prüfanhänger. Die Kundenabnahme wird außerhalb dieses Anhängers im jeweiligen Projekt dokumentiert.",
+          "Wenn die Liefersperre eine Komponente trifft, deren Seriennummer auf den Prüfbericht gehört, kann ein Bericht für die geplante Serie nicht vorab unterschrieben werden. Den tatsächlichen Freigabetag bestätigt die Qualitätssicherung."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzrecht-forderungspruefung-mietkaution-berlin": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Auf dem Kautionsblatt stehen 64.400 Euro. Für die Bankrückfrage ist wichtig, ob der Betrag tatsächlich auf dem gesonderten Konto liegt und wie dieses bezeichnet ist. Die einmal vereinbarte Höhe ersetzt den Auszug nicht.",
+          "Im Protokoll vom 11. Juni sind 214 Möbelstücke erfasst und 39 Stühle als fehlend bezeichnet. Haben wir eine Liste, die jedem Möbelstück Eigentümer, Anschaffung oder Leasingzuordnung zuweist?"
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Schlüssel, Möbel und Kautionsbeleg vom Lindenhof",
+        "von": "Objektverwaltung Lindenhof",
+        "an": "Vermieterseite",
+        "datum": "2026-06-12",
+        "text": [
+          "Nach der Begehung gestern habe ich die Fotos von den Türen im Objektordner gefunden. Wer kann für das Kautionskonto den tatsächlichen Stand zum Übergabetag beibringen?",
+          "Für die Möbel fehlen bei einigen Bildern Hinweise auf den Eigentümer. Das ist bei der Frage, ob die Sachen zurückgebaut oder nur abgeholt werden sollen, ein Unterschied."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Übergabefotos, Schlüssel und Kautionskonto",
+        "von": "Vermieterseite",
+        "an": "Objektverwaltung Lindenhof",
+        "antwort_auf": 3,
+        "text": [
+          "Die Fotos zu den zwei Glastüren liegen in der Objektmappe. Auf einigen Aufnahmen ist nur ein Ausschnitt des Rahmens zu sehen. Bitte die Türnummer aus dem Grundriss ergänzen, bevor jemand eine Rechnung für denselben Schaden zweimal ansetzt.",
+          "Den Nachweis über die Anlage der Kaution fordert die Vermieterseite bei der Bank an. Für die ausgebauten Zutrittsgeräte beschaffen wir die ursprüngliche Ausstattungsanlage und erst danach ein Angebot des Schließdienstes."
+        ],
+        "datum": "2026-06-12"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Übergabe der Zutrittskarten am 11. Juni",
+        "von": "Haustechnik Lindenhof",
+        "an": "Objektverwaltung",
+        "text": [
+          "Auf dem ausgedruckten Schlüsselplan stehen mechanische Schlüssel und elektronische Zutrittskarten in derselben Spalte. Eine zurückgegebene Karte kann deaktiviert sein, ohne dass der Leser an der Wand noch vorhanden ist.",
+          "Bei der Raumbegehung waren an zwei Türen Schäden sichtbar. Zum Zustand bei Mietbeginn habe ich keine eigenen Aufnahmen. Ich habe deshalb den Wunsch nach den damaligen Übergabefotos im Hausmeisterbuch vermerkt."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzreife-hubschrauber-prenzlau": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Für Moorflug steht bei PR-DEB-01 eine Freigabe über 16.000 Euro, mit vorgesehener Anweisung am 22. Mai. Wer sieht auf dem Bankkonto, ob die Gutschrift wirklich an diesem Tag kam?",
+          "Bei Waldseen WC-112 gehören 140 Sommerstunden zum Hauptkontingent. Elf einzelne Transfers laufen daneben unter eigenen Nummern. Der Kunde kann auf die Frage nach „unseren Flügen“ also zwei völlig verschiedene Buchungen meinen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Welche Charteraufträge dürfen sofort in die Abrechnung?",
+        "von": "Disposition Uckerbogen Rotorcharter",
+        "an": "Finanzbuchhaltung",
+        "datum": "2026-05-14",
+        "text": [
+          "Zu Moorflug ist gestern eine Freigabe gekommen. Für den nächsten Kassenabruf möchte ich wissen, was diese über Betrag und Zahlungstag aussagt. Bei Waldseen liegen mir nur Kontingent und Einzeltransfers in der Disposition vor.",
+          "Wenn sich der Flugplan ändert, bleiben zeitweise beide Termine im System. Wir sollten verhindern, dass aus derselben Reservierung zwei Einzahlungen werden. Wer gleicht die Vorgänge ab?"
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Uckerbogen – welche Referenz kommt auf die Rechnung?",
+        "von": "Finanzbuchhaltung",
+        "an": "Disposition Uckerbogen Rotorcharter",
+        "antwort_auf": 3,
+        "text": [
+          "Für Moorflug können wir auf die projektspezifische Freigabe vom 13. Mai zurückgreifen. Ein zusätzlicher Vorschuss steht darin nicht. Bitte gebt mir bei jedem Kontoabgleich die tatsächliche Bankreferenz, damit eine nachträgliche Kundenumbuchung nicht als zweiter Umsatz auftaucht.",
+          "Bei WC-112 nennt der Vertrag ein Rücktrittsfenster bis einschließlich 4. Mai für den Fall der Eventabsage. Wir brauchen deshalb die zeitlich eingeordnete Eingangspost zur Hauptbuchung und daneben die elf Transferaufträge, bevor wir eine Monatsforderung ansetzen. Im Anhang findet ihr den Zettel des Chartertresens mit Moorflug, Hauptkontingent und den Einzeltransfers."
+        ],
+        "anlage_nr": 6,
+        "datum": "2026-05-14"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Was im Dispositionsbrett für sechs Maschinen steht",
+        "von": "Schichtleitung Flugdisposition",
+        "an": "Buchhaltung Rotorcharter",
+        "text": [
+          "Für jeden vorgesehenen Flug reservieren wir zunächst Maschine und Besatzung. Wetterumbuchungen stehen als neuer Slot auf dem Brett, bis die alte Zeile technisch geschlossen wird. Zwei Slots müssen deshalb keine zwei zahlbaren Flüge sein.",
+          "Die Flugzeit kommt aus dem Bordbuch, die Abrechnungsfreigabe aus dem Kundenauftrag. Den Eigentümer oder die Sicherungsrechte an der Maschine kann man aus keiner der beiden Zeilen ablesen."
+        ]
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Kurzzettel vom Chartertresen für den Kontoabgleich",
+        "von": "Disposition Uckerbogen",
+        "an": "Projektabrechnung",
+        "text": [
+          "Vorgang | schriftlicher Bezug | Unterlage für den nächsten Abgleich",
+          "Moorflug PR-DEB-01 | 16000 EUR, Anweisung für 22.05. vorgesehen | tatsächliche Gutschrift im Geschäftskonto",
+          "Waldseen WC-112 | 140 Stunden, Juni bis August | Auftrag, etwaige fristgebundene Nachricht und Monatsplan",
+          "Einzeltransfers | elf eigene Vorgänge | je Vorgang Flugbuch und Abrechnungsfreigabe"
+        ]
+      },
+      {
+        "typ": "brief",
+        "titel": "UK-545 und die beiden Kaufunterlagen für U 01 und U 02",
+        "von": "Flottenbuchhaltung Uckerbogen",
+        "an": "Skyler von Falkenhag",
+        "text": [
+          "Für die Besprechung mit der Uckermark Kontorbank sind der Darlehensvertrag vom 20. November 2023 und die Sicherungsvereinbarung vom 23. November getrennt abgeheftet. Der Tilgungsplan führt Kapitalraten. Auf dem Konto finden sich außerdem Zinsen. Eine zusammengezählte Belastung als reine Tilgung zu buchen würde ein falsches Restkapital ergeben.",
+          "Bei Rotorbörse Nord sind im Kaufvertrag ausdrücklich U 01 und U 02 genannt. Kann die Technik uns zu beiden die Kennungen aus dem aktuellen Gerätebuch geben? Die übrigen vier im Dispositionsbrett müssen jeweils anhand ihrer eigenen Verträge zugeordnet werden."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzreife-keramikfabrik-cottbus": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Bei T-629 liegen zwei Probenbeutel im Labor. Auf der Rechnung CB-TON-02 stehen 16.000 Euro. Der unterschriebene Eingangszettel bestätigt nur, dass die Palette auf dem Hof angekommen ist. Wer vermerkt im Kreditorenkonto, dass die Körnung noch streitig ist?",
+          "Für die älteren Zahlungen ist die Referenz wichtig: CB-K01-01 und CB-K01-01-BK führen für Juli 2024 zur Rechnung für Ton und Binder und zur Buchung am 4. Juli. Den Gasabschlag für die Öfen bitte unter CB-K01-02 getrennt suchen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "T-629 – soll die Ofenmeisterei mit dieser Palette planen?",
+        "von": "Ofenmeisterei Spreeglasur",
+        "an": "Einkauf und Kasse",
+        "datum": "2026-06-23",
+        "text": [
+          "Der Wareneingang hat die Toncharge wegen der Körnung gesperrt. Auf welcher Grundlage soll das Team den Ofen für den nächsten Lauf einteilen? Die Nachricht zur Rechnung CB-TON-02 liegt im Einkaufsfach.",
+          "Für die Kasse brauche ich daneben die Unterscheidung zwischen alten beglichenen Werkposten und dem offenen Streit um die 16.000 Euro. Gibt es bei euch die ursprünglichen Bankreferenzen als Liste?"
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "T-629 bleibt im Lager gesperrt",
+        "von": "Einkauf und Kasse",
+        "an": "Ofenmeisterei Spreeglasur",
+        "antwort_auf": 3,
+        "text": [
+          "Zum Lieferanten darf derzeit niemand eine Ratenzusage in unserem Namen abgeben. Bei der Rechnung über 16.000 Euro muss die Buchhaltung den Einwand sehen können, auch wenn das Zahlungsziel im System schon gesetzt wurde.",
+          "Für den Ofenplan brauche ich die Antwort des Labors, ob eine Ersatzcharge benötigt wird. Für den Finanzplan wiederum braucht ihr die Bestellung oder Preisauskunft für Ersatzmaterial. Es wäre falsch, beim gesperrten Auftrag stillschweigend einen zweiten gleich hohen Zahlungslauf anzulegen. Im Anhang ist das Blatt der Kreditoren mit drei wiederauffindbaren Referenzen aus dem Juliheft."
+        ],
+        "anlage_nr": 6,
+        "datum": "2026-06-23"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Probenübergabe aus dem Wareneingang",
+        "von": "Laborannahme Spreeglasur",
+        "an": "Annika Roth",
+        "text": [
+          "Bei den Beuteln zu T-629 ist das Lieferetikett lesbar. Auf dem Eingangsblatt wird die vereinbarte Körnung genannt. Die eigene Siebreihe und die angekündigte Gegenprobe werden getrennt protokolliert, damit wir nicht zwei Auswertungen derselben Probe verwechseln.",
+          "Der Laborannahme liegt weder eine Freigabe zur Verarbeitung noch ein Anerkenntnis der Rechnung vor. Bis zur Klärung hält der Wareneingang die Chargenkennzeichnung an der Palette."
+        ]
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Wiederauffinden dreier Werkposten im Juliheft",
+        "von": "Kreditoren Spreeglasur",
+        "an": "Ofenmeisterei und Kasse",
+        "text": [
+          "Beleg | Vorgang | Fälligkeit | sichtbarer Bankbezug",
+          "CB-K01-01 | Ton und Binder, 31614 EUR | 04.07.2024 | CB-K01-01-BK",
+          "CB-K01-02 | Gasabschlag und Ofenstrom, 21555 EUR | 08.07.2024 | CB-K01-02-BK",
+          "CB-K01-04 | Ofenwartung und Ersatzteile, 9197 EUR | 12.07.2024 | CB-K01-04-BK"
+        ]
+      },
+      {
+        "typ": "brief",
+        "titel": "OF-109 im Ordner der Lausitzer Werkbank",
+        "von": "Anlagenbuchhaltung Spreeglasur",
+        "an": "Elin von Tannrode",
+        "text": [
+          "Die Bankausfertigung OF-109 vom 20. Juni 2023 und der Tilgungsplan liegen im Fach Werkfinanzierung. Die planmäßigen Kapitalraten gelten unter der Annahme, dass die Raten tatsächlich gezahlt wurden. Ich brauche für den Kontenabgleich auch die Bankbelastungen mit Zinsanteil.",
+          "Beim Projekt SP-119 steht die Werkofen Service OHG als eigener Geschäftspartner. Ein Ratenvermerk auf der Maschinenrechnung ist deshalb kein Bankauszug des Darlehens OF-109. Bitte Verträge, Fälligkeiten und Empfängerkonten in getrennten Zeilen belassen."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzreife-metallbau-berlin-zehlendorf": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Aufmaß 3 zu Fassade 7 wurden am 16. April 24.000 Euro aus dem Hauptauftrag bestätigt. Daneben liegen 74.000 Euro für die Änderung am Fensterband. Beide Zahlen stehen im Projektraum, aber nur für eine ist eine Zahlungsanweisung zum 11. Mai vorgesehen.",
+          "Für den Kontoabgleich gibt es noch BZ-DEB-01 mit 37.000 Euro und vorgesehenem Anweisungstag 23. April. Bitte vor der Besprechung die zwei Auftragsschlüssel voneinander trennen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Fassade 7 – zwei Beträge zu einem Aufmaß?",
+        "von": "Auftragsbüro Schlachtensee Stahl & Form",
+        "an": "Finanzleitung",
+        "datum": "2026-04-20",
+        "text": [
+          "Zur Aufmaßseite steht bei mir eine bestätigte Bruttosumme aus dem Hauptauftrag, zusätzlich im Projektblatt die Änderung an den Fensterbändern. Welche Position können wir schon mit Zahlungsdatum beim Kunden anfragen?",
+          "Die Werkstatt hat einen Plan mit geänderten Maßen. Wer kümmert sich um die kaufmännische Bestätigung und die damit zusammenhängende Vollmacht des Unterzeichners?"
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Fassade 7 – welche Bestätigung die Bauleitung geben kann",
+        "von": "Finanzleitung",
+        "an": "Auftragsbüro Schlachtensee Stahl & Form",
+        "antwort_auf": 3,
+        "text": [
+          "Der örtliche Bauleiter hat einzelne Maßänderungen gesehen. Für die Höhe des Nachtrags braucht das Büro seine Befugnis und die gesonderte Beauftragung. Die gegengezeichnete Aufmaßseite aus dem Hauptauftrag trägt keine Freigabe über 74.000 Euro.",
+          "Bitte beim Kunden sowohl ursprüngliche Anfrage als auch die Fassung anfordern, zu der kalkuliert wurde. Wenn ein Planrevisionstermin fehlt, kann die Werkstatt ein neues Maß bestätigen, aber noch keinen vereinbarten Preis. Die Projektassistenz hat die drei Beträge getrennt zusammengestellt. Das Blatt liegt bei."
+        ],
+        "anlage_nr": 6,
+        "datum": "2026-04-20"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Warum ein Fensterband zweimal auf dem Werkstattzettel steht",
+        "von": "Arbeitsvorbereitung Schlachtensee Stahl & Form",
+        "an": "Auftragsbüro Zehlendorf",
+        "text": [
+          "Die erste Zeile enthält die Maße aus der Zuschnittzeichnung, die zweite die Anpassung nach Rückmeldung von der Baustelle. In der Zeiterfassung laufen beide unter Fassade 7. Eine zusätzliche Bestellnummer des Kunden steht auf dem Werkstattzettel nicht.",
+          "Vor der Rechnungsstellung vergleichen wir die Planstände. Die Unterschrift für ein tatsächlich genommenes Maß wird im Projektordner getrennt von der kaufmännischen Freigabe verwahrt."
+        ]
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Abgleich dreier Beträge im Projektbüro",
+        "von": "Projektassistenz Schlachtensee",
+        "an": "Finanzbuchhaltung",
+        "text": [
+          "Referenz | Betrag | Was uns vorliegt | Was noch abzugleichen ist",
+          "BZ-DEB-01 | 37000 EUR | Leistungsfreigabe | Wertstellung im Bankauszug",
+          "BZ-FASS-01, Hauptauftrag | 24000 EUR brutto | geprüftes Aufmaß 3 | Eingang zu vorgesehener Anweisung 11.05.",
+          "Fensterband | 74000 EUR zusätzlich berechnet | Streit um Leistungsumfang | Auftrag, Kalkulation und Freigabebefugnis"
+        ]
+      },
+      {
+        "typ": "brief",
+        "titel": "HK-640 und die Vollzugsnachricht des Notars",
+        "von": "Kreditverwaltung Schlachtensee Stahl & Form",
+        "an": "Juno Bern von Hallern",
+        "text": [
+          "Der Kreditvertrag der Havel Kontorbank trägt den 12. Oktober 2023. Zum Grundstück liegt die notarielle Ausfertigung 419/2023 vom 18. Oktober vor, zur Sicherheit eine gesonderte Vereinbarung vom 20. Oktober. Unter dem gleichen Projektnamen sind das drei unterschiedliche Urkunden.",
+          "Für den Sicherheitenspiegel benötige ich den aktuellen Registerstand und die zum Stichtag offene Bankschuld. Die Restkapitalspalte des Tilgungsplans setzt vollständige Zahlung der planmäßigen Raten voraus. Der Nominalbetrag eines Grundpfandrechts wäre dafür ebenfalls keine Saldenbestätigung."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzsachbearbeitung-cafe-abendrot-regensburg": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Frau Hufnagel hat sich wegen G-048 gemeldet. Beim ersten Blick auf die Karten sehe ich den Nennwert von 25 Euro. Könnt ihr mir vom Backsteg den Verkaufsbon und aus beiden Filialen die Nachrichten über eine mögliche Einlösung heraussuchen?",
+          "Im Tresor werden bei uns auch vorbereitete Karten verwahrt. Solange wir die Ausgabe nicht mit dem Journal abgeglichen haben, sagt ein vorhandener Umschlag für sich genommen nicht, wer dafür schon bezahlt hat."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Abendrot – welche Nummern wir mit der Kasse abgleichen",
+        "von": "Nora Tauber",
+        "an": "Schichtleitung Café Abendrot",
+        "antwort_auf": 1,
+        "datum": "2026-10-06",
+        "text": [
+          "Zur Karte G-048 benötige ich den Bon von Frau Hufnagel und das Verkaufsjournal vom Juni. Sie hat mir heute geschrieben, die Karte sei als Geschenk für ihren Vater gekauft worden. Bitte die eingereichte Kopie bei ihrer Anfrage lassen, damit wir die Nummer vergleichen können.",
+          "Für die vorbereiteten Karten nehmen wir morgen den Tresor gemeinsam auf. Wir halten fest, wer dabei ist, wie die Umschläge beschriftet sind und welche Nummern tatsächlich zum Journal gehören. Bis dahin habe ich weder Stückzahl noch Verkauf bestätigt."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Rückmeldung aus Mühlenbogen zum Einlösen",
+        "von": "Schicht an der Verkaufstheke Mühlenbogen",
+        "an": "Nora Tauber",
+        "datum": "2026-10-06",
+        "text": [
+          "Eine im Backsteg verkaufte Karte können Gäste hier am Tresen vorlegen. Die Schicht notiert die Nummer für die Rückmeldung. Der Kassenabschluss enthält bei der Einlösung nicht noch einmal den ursprünglichen Verkaufspreis als Bareinnahme.",
+          "Wer eine einzelne Nummer prüfen will, braucht deshalb die Rückmeldung der einlösenden Schicht. Aus den Münzen im Trinkgeldglas lässt sich eine solche Einlösung nicht rekonstruieren."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzsachbearbeitung-familie-haberlein-nuernberg": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Beim Kredit für Waschmaschine und Laptops hat Fridolin unterschrieben. Meine eigene Kontolinie ist wieder ein anderer Vorgang. Kann ich auf jedem Umschlag notieren, an wen das letzte Schreiben adressiert war, damit wir beim Termin nichts durcheinanderbringen?",
+          "Mein Bruder hat von 4.000 Euro Hilfe gesprochen. Ich kann Ihnen dafür noch keine feste Zusage oder einen Überweisungstermin zeigen. Es macht für die nächste Rate einen Unterschied, ob wir das Geld tatsächlich zur Verfügung haben."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Bitte die Briefe nach Vertrag und Datum mitbringen",
+        "von": "Ottilie Gündling",
+        "an": "Lale Haberlein",
+        "antwort_auf": 1,
+        "datum": "2026-07-13",
+        "text": [
+          "Bringen Sie je Vertrag die Unterschriftenseite mit und stecken Sie dahinter die aktuellen Zahlungsaufforderungen. Das gemeinsame Haushaltskonto zeigen Sie uns daneben. Der Kontoinhaber, von dessen Konto eine Rate abging, muss nicht der einzige Vertragspartner sein.",
+          "Zum Haus im Birkengässchen interessieren uns die aktuelle Saldenbestätigung der Bank und die nächste anstehende Rate. Die Grundschuld im Grundbuch und die heute noch geforderte Darlehenssumme können voneinander abweichen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Zettel für den Termin bei der Schuldnerberatung",
+        "von": "Fridolin Haberlein",
+        "an": "Lale Haberlein",
+        "datum": "2026-07-13",
+        "text": [
+          "Ich nehme die Lohnabrechnungen mit den ausgefallenen Haustechnikschichten und die Briefe zum Gerätekredit mit. Auf dem Kontoauszug für den Haushalt sind auch die Lebensmitteleinkäufe. Ich markiere lediglich die Buchungszeilen mit den Raten.",
+          "Für die Hausfinanzierung suche ich unsere beiden Vertragsausfertigungen. Zur Zusage deines Bruders habe ich keine Nachricht. Den Betrag rechne ich für die Einkaufskasse diese Woche nicht ein."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Auf MM 260603 stehen 200 Katzenhöhlen FH60, 200 Kratzbretter KB35 und 300 Spielsets MS20. Das Kommissionsnummernfeld ist leer. Die Verkaufsständer, auf denen die Ware lag, sehe ich auf diesem Lieferschein nicht als gesonderte Stückposition.",
+          "Falls Miezel & Murr auch die Ständer holen will, brauche ich dafür deren eigene Kennung. Ein Aktionsetikett MM260603 ist auf Ware geklebt und bezeichnet noch keinen bestimmten Ständer."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Aktionsfläche sichern und Abholung einzeln protokollieren",
+        "von": "Alma Seubert",
+        "an": "Warenannahme Kaufhaus Katzenbogen",
+        "antwort_auf": 1,
+        "datum": "2026-10-08",
+        "text": [
+          "Legt das Lieferantenblatt vom Januar 2025 und das Lieferpapier vom 3. Juni nebeneinander. Unsere Kopie des Juni-Lieferscheins hat keine Rückseite. Bitte fragt beim Fahrer an, ob sein Durchschlag eine weitere Seite hat.",
+          "Beim Rundgang aufnehmen, welche Stücke noch da, geöffnet oder bereits verkauft sind. Eine Freigabe zur Abholung erteilen wir erst nach Zuordnung. Wer am Tor mit dem Transporter wartet, soll uns die angeforderten Positionen und den Auftraggeber nennen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Sichtkontrolle der Aktionsfläche „Murrmel“",
+        "von": "Verkaufsleitung Kaufhaus Katzenbogen",
+        "an": "Alma Seubert",
+        "datum": "2026-10-08",
+        "text": [
+          "Spielsets und Kratzbretter standen zeitweilig auf demselben Ständer. Wo nur das große Aktionsschild fotografiert wurde, ist der Artikelcode auf der Einzelware nicht zu erkennen. Am Warenplatz ist eine Zählung nach FH60, KB35 und MS20 möglich.",
+          "Für eine Behauptung, ein Verkaufsständer sei mit einer Lieferung nur geliehen worden, brauchen wir gesonderten Schriftverkehr. Das leere Kommissionsfeld des Lieferscheins dokumentiert lediglich den vorhandenen Vordruck."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzsachbearbeitung-werkzeugkiste-augsburg": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die Brandschutztür trennt unser Versandlager vom Verkaufsraum. Für den Vertrag der Bürgerbank Lechbogen ist der Standort wichtig. Bei einem Gerät auf dem Packtisch kann ein Leasingaufkleber etwas anderes sagen als die Inventarnummer im Verkauf.",
+          "Fotografiert vor dem Umstellen bitte den tatsächlichen Standort. Die Bohrer-Sets und Werkzeugkoffer werden in der Artikelliste über Mengen, nicht über einzelne Seriennummern geführt. Einen gemeinsamen Einkaufswert kann ich beim Rundgang nicht einzelnen Sicherheiten zuordnen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Reparaturanhänger und Lagergrenze bei der Begehung",
+        "von": "Werkstatt und Buchhaltung",
+        "an": "Kilian Rupprecht",
+        "antwort_auf": 1,
+        "datum": "2026-10-01",
+        "text": [
+          "Die Leasingmaschine lässt sich über ihr Eigentumsschild suchen. Beim ersten Rundgang schreiben wir die Seriennummer unmittelbar vom Typenschild ab. Bitte das Feld frei lassen, wenn eine Maschine keine lesbare Nummer hat.",
+          "Bohrer-Sets, Handschuhpakete und Werkzeugkoffer zählen wir pro Lagerort. Für Kundenreparaturen bringen wir die Annahmescheine mit. Eigenes Inventar, geleaste Betriebseinrichtung und anvertrautes Werkzeug können am selben Platz stehen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Anruf wegen Abholung eines Kundenwerkzeugs",
+        "von": "Reparaturannahme Werkzeugkiste",
+        "an": "Kilian Rupprecht",
+        "datum": "2026-10-01",
+        "text": [
+          "Der Kunde beschrieb seine Maschine nur mit der Farbe des Gehäuses. Auf der Werkbank stehen mehrere baugleiche Geräte. Er soll die Reparaturquittung oder die Seriennummer nennen, damit wir den nummerierten Anhänger abgleichen.",
+          "Wenn der Anhänger nicht mehr am Gehäuse hängt, wird er nicht nachträglich nach Farbe zugeordnet. Die Werkstatt sieht zuerst im Annahmebuch nach, ob Zubehör, Ladegerät oder eine Beschädigung vermerkt wurden."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzverwaltung-klangbogen-buehnentechnik-bamberg": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Für das Verfahren 2 T-INS 147/15 brauchen wir beim Theater zusätzlich die Typenplakette vom Hubwerk und den letzten Wartungsnachweis. Ein baugleicher Werkstattmotor steht auf unserem Materialregal.",
+          "Am Bühnenrand sind die Teile nur während eines freien Probenfensters erreichbar. Wer vereinbart einen Termin zur Sichtung, ohne dass die Technik dort bereits mit einem Ausbau rechnet?"
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Begehung des eingebauten Hubwerks",
+        "von": "Betriebsbuchhaltung",
+        "an": "Montagebüro Klangbogen",
+        "antwort_auf": 1,
+        "datum": "2015-11-22",
+        "text": [
+          "Wir stimmen die Begehung mit der technischen Leitung des Theaters ab. Zum ersten Termin werden Typenschild, Einbauort und Vertragsunterlagen aufgenommen. Wir beauftragen dabei keinen Ausbau.",
+          "Der Wartungsauftrag kann beim Theater unter Gebäudetechnik, der Einbauvertrag unter Investitionen liegen. Bitte für beide Unterlagen Datum und Vertragspartner erfragen. Eine Zahlung für Wartung ist keine Anschaffungsrechnung."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Anruf aus dem Probenraum",
+        "von": "Technischer Dienst des Theaters",
+        "an": "Montagebüro Klangbogen",
+        "datum": "2015-11-22",
+        "text": [
+          "Das Hubwerk ist Teil des laufenden Bühnenbetriebs. In der technischen Mappe liegt eine Wartungskarte mit Stempeln aus mehreren Jahren. Rechnungen und Abnahmen bewahrt bei uns die Verwaltung gesondert auf.",
+          "Wir können beim Termin den Einbauort und das Typenschild zeigen. Wer seinerzeit welchen Gegenstand gekauft oder unter Eigentumsvorbehalt geliefert hat, ist am Bedientableau nicht vermerkt."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Vorgang 15 IN 287/18 nennt die Klinik bei ihrer Störungsmeldung den Namen des eingesetzten Messgeräts. Die Rechnung kann die zentrale Beschaffung für mehrere Labore zusammen bezahlt haben. Ich brauche deshalb auch Standort und Versionsstand.",
+          "Die Techniker möchten wissen, wer jetzt überhaupt neue kostenpflichtige Fernwartung beauftragen darf. Einen wiederkehrenden Kalendereintrag haben wir, die kaufmännische Freigabe dazu noch nicht in der Hand."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Laufende Laborwartung – bitte zuerst Vertragsumfang belegen",
+        "von": "Verfahrensbüro",
+        "an": "Kundendienst Mainbogen Laborsoftware",
+        "antwort_auf": 1,
+        "datum": "2018-10-01",
+        "text": [
+          "Für die Anfrage an das Büro von Dr. Haberkorn reichen vorerst die Vertragsnummer, die Laufzeit und der konkret gemeldete Fehler. Bei einem Geräteaustausch kann der Wartungsvertrag eine andere Schnittstelle betreffen als die Störungsmeldung.",
+          "Bitte den Kunden darauf hinweisen, dass wir den Eingang aufgenommen haben. Einen verbindlichen Servicetermin und zusätzliche Kosten stimmen wir nach dem Abgleich mit dem Vertragsordner ab."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Messgeräteschnittstelle im Wartungsbuch",
+        "von": "Support Mainbogen",
+        "an": "Verfahrensbüro Würzburg",
+        "datum": "2018-10-01",
+        "text": [
+          "Das Ticketportal zeigt für das Labor einen technischen Melder. Im Rechnungslauf ist die Klinikverwaltung als Empfängerin angelegt. Beide Einträge haben denselben Standort, aber verschiedene Rückrufnummern.",
+          "Der Techniker kann den Fehler beschreiben, ohne die kaufmännische Bestellung zu sehen. Deshalb bleibt offen, ob die konkrete Arbeit von einer Pauschale gedeckt ist oder ein ergänzender Auftrag benötigt wird."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Auch bei den Zahlungen an Furnier Nord sollten wir die Sicht des Lagers vom Banklauf unterscheiden. Die Liste nennt 18.000 Euro am 20. März und zwei Tage später wieder 18.000 Euro als Rücklauf. Das ist für den Kundenstapel kein Nachweis einer vollständigen Kaufpreiszahlung.",
+          "Falls die Farbe der Etiketten beim Zuschnitt gewechselt wurde, gebt mir Auftragsnummer und die ursprüngliche Anlieferung. Ein Reststück sieht ohne diesen Bezug wie frei verfügbare Handelsware aus."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Beim Rundgang die Stapel einzeln kennzeichnen",
+        "von": "Betriebsaufnahme Möbelwerk Havelberg",
+        "an": "Tim Brauer",
+        "antwort_auf": 1,
+        "datum": "2026-05-06",
+        "text": [
+          "Am Morgen holen wir zuerst die Annahmescheine vom Tor und vergleichen Auftrag, Plattenmaß und Lieferdatum. Wer Material zurückverlangt, soll unseren Ansprechpartnern seinen Lieferbeleg zeigen. Die bloße Kenntnis einer Plattenfarbe genügt nicht.",
+          "Für die Zahlung an Furnier Nord benötigen wir die Bankzeilen beider Richtungen. Die Rücklastschrift trägt einen eigenen Buchungstag. Die Lageraufnahme selbst sagt nichts darüber aus, ob die Rate beim Lieferanten verblieben ist."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Kundeneigener Zuschnitt und Abschnittreste",
+        "von": "Schichtführer Säge Möbelwerk",
+        "an": "Tim Brauer",
+        "datum": "2026-05-06",
+        "text": [
+          "Nach dem Zuschnitt bekommt jedes fertige Teil einen neuen Fertigungszettel. Ein kleines Reststück kann am Arbeitsende noch auf dem Stapel liegen, von dem die Platte kam. Beim Umsetzen bleibt auf dem Rest nicht immer das große Transportetikett.",
+          "Für den Rundgang lässt sich die ursprüngliche Plattenbreite aus dem Zuschnittplan entnehmen. Den Lieferschein des Kunden verwahrt der Wareneingang. Beide Angaben helfen, lose Stücke wieder einem Auftrag zuzuordnen."
+        ]
+      }
+    ]
+  },
+  "testakten/insolvenzverwaltung-nordlicht-handels-kiel": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Der Eröffnungsbeschluss in Kiel trägt den 1. Juni 2013, 09.00 Uhr, 10 IN 127/13. Für die Übergabe wäre mir wichtig, ob bei einer Tour vor diesem Termin gepackt und erst danach wirklich ausgeliefert wurde.",
+          "Die Altlisten mit dem Stand Ende 2012 sind für eine historische Auskunft hilfreich. Den Lagerplatz und ein eventuelles Abholdatum im Juni kann ich nur mit der Tourenmappe beantworten."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Übergabe an das Verfahrensbüro Kiel",
+        "von": "Verfahrensbüro Kiel",
+        "an": "Lagerleitung Nordlicht Handels",
+        "antwort_auf": 1,
+        "datum": "2013-06-01",
+        "text": [
+          "Bitte markiert die Belege mit Fahrerunterschrift getrennt von den im Lager vorbereiteten. Nennt zu jeder offenen Lieferung, ob Auftrag und Ware noch auf dem Hof auffindbar sind.",
+          "Der Ausdruck der Liquiditätswerte nennt für Dezember 2012 118.000 Euro Mittel. Er hilft bei der Frage nach dem damaligen Zahlungsstand. Die einzelne Lieferung im Juni 2013 muss über ihren eigenen Vorgang nachgewiesen werden."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Was mit dem gelben Durchschlag auf der Tour geschieht",
+        "von": "Versand Nordlicht Handels",
+        "an": "Lagerleitung Kiel",
+        "datum": "2013-06-01",
+        "text": [
+          "Beim Packen bleibt ein Durchschlag im Lager. Der Fahrer nimmt eine zweite Ausfertigung zur Quittierung mit. Bei einer nicht angetroffenen Annahmestelle kommt die Ware zurück, während der ursprüngliche Packdurchschlag zunächst in der Tourenmappe bleibt.",
+          "Wer beim Archivieren nur nach Kundenname ablegt, kann darum eine vorbereitete Tour und eine spätere tatsächliche Abholung desselben Auftrags nebeneinanderfinden. Für Rückfragen helfen Ladeplatz und Tourtag."
+        ]
+      }
+    ]
+  },
+  "testakten/krisenfrueherkennung-starug-vier-varianten": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Zum 31. März werden 830.000 Euro Kassenbestand genannt. Der Rückgang der Spenden betrifft auch SilverFox Ventures. Wer führt für den nächsten Zahlungslauf auf, welche früher regelmäßigen Spenden bereits ausgefallen sind und welche ausdrücklich bestätigt wurden?",
+          "Beim EU-Projekt OPENSENS möchte ich den Stand der Auszahlungsanforderung kennen. Nordlicht Cloud ist ein anderes Thema auf der Tagesordnung: Hier geht es um unsere Zahlung an den Anbieter und dessen Antwort auf einen Stundungswunsch."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Unterlagen zur Aufsichtsratssitzung am 7. April",
+        "von": "Dr. Mira Hellinghaus-Karpov",
+        "an": "Finanzbüro VEYRA AI Foundation",
+        "antwort_auf": 1,
+        "datum": "2026-04-07",
+        "text": [
+          "Für das erste Quartal beträgt der Rückgang der Spendeneinnahmen gegenüber dem Vorjahr 640.000 Euro. Eine geplante neue Spendenaktion führt also erst dann zu verfügbaren Mitteln, wenn die Zusage und ihr Auszahlungszeitpunkt belastbar sind. Bitte den Ausstieg von SilverFox gesondert führen.",
+          "Zu OPENSENS interessiert mich der nächste Prüfschritt der Förderstelle. Wenn die Erstattung nicht rechtzeitig kommt, bleiben die laufenden Rechnungen für die Rechenkapazität trotzdem fällig. Hat Nordlicht unsere erste Bitte um einen anderen Zahlungsplan bestätigt?"
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Reservierte Rechenzeit für OPENSENS",
+        "von": "Betrieb VEYRA AI Foundation",
+        "an": "Dr. Mira Hellinghaus-Karpov",
+        "datum": "2026-04-07",
+        "text": [
+          "Für OPENSENS sind Rechenläufe im Cluster eingeplant. Die reservierte Laufzeit steht im Betriebskalender, während Rückfragen zum Zahlungsplan über das Finanzbüro an Nordlicht gehen. Der Kalender selbst ist kein Nachweis für gewährte Stundung.",
+          "Bevor wir einen zusätzlichen Lauf einplanen, brauchen wir die zugehörige Kostenstelle und den Stand der Fördermittelanforderung. Die technische Redaktion kann die reservierten Stunden nennen, aber keinen Auszahlungstag der EU bestätigen."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Banktermin für Hartmannschmidt – welche Fälligkeit wurde verschoben?",
+        "von": "Finanzabteilung Hartmannschmidt",
+        "an": "Annika Lüttke-Berens",
+        "datum": "2026-04-15",
+        "text": [
+          "Im ersten Quartal waren 28 Millionen Euro Konsortialkredit zur Rückzahlung vorgesehen. Die Anleihe über 65 Millionen läuft bis Oktober 2027. Für das Bankgespräch müssen wir jede Verlängerung und jeden Verzicht auf eine Vertragsfolge getrennt nachweisen.",
+          "Die letzte Kennzahlenübersicht stellt 11,5x dem vereinbarten Höchstwert 5,5x gegenüber. Das zeigt die Abweichung, aber noch keine Entscheidung der Bank über eine Fälligstellung. Liegt zu ihrem Standpunkt bereits eine schriftliche Antwort vor?"
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Welche Aktienbestände bei Nordfels zum Stichtag gemeint sind",
+        "von": "Investor Relations Nordfels Power Cells SE",
+        "an": "Dr. Cornelia Tannert-Brescia",
+        "datum": "2026-04-20",
+        "text": [
+          "Die Übersicht nennt Westshore mit elf Prozent und das Vossbergen Family Office mit 41 Prozent. Bei einer telefonischen Aussage über eine Mehrheit muss der Gesprächspartner zunächst sagen, ob er Aktien oder Forderungen meint. Die Darlehensgeber stehen auf einer anderen Liste.",
+          "Im Finanzierungskalender steht Februar 2027 für den Konsortialkredit; die Anleihe ist im Juni 2028 fällig. Zur Anfrage nach einer vorzeitigen Zahlung brauchen wir vom jeweiligen Gläubiger Vertragsgrund und Forderungsbetrag."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Filialkasse und der nächste Lohnlauf bei Salaltbar",
+        "von": "Büro Salaltbar UG",
+        "an": "Charlotte Wandelmoser",
+        "datum": "2026-04-27",
+        "text": [
+          "Herr Celebi-Drebenstedt bittet um Rückruf, weil für seine sechs Mitarbeiter die nächste Lohnzahlung ansteht. Der im Laden genannte Zeitraum von rund elf Tagen ist seine Schätzung für die verfügbaren Mittel. Wir haben den Saldo noch nicht für jeden Tag gegen die fälligen Beträge gestellt.",
+          "Karteneinnahmen einer Abendschicht werden auf dem Bankkonto nicht schon beim Bonieren verfügbar. Für das erste Gespräch bringen wir deshalb den letzten Tagesabschluss, die Händlerabrechnung und den Kontoauszug mit. Wollen Sie daneben die jeweiligen Miet- und Lohnfälligkeiten je Filiale?"
+        ]
+      }
+    ]
+  },
+  "testakten/kurpfalz-taxware-software-ip-insolvenz": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Das Verzeichnis trennt fiscuspilot-core vom Web-Client und von platform-deploy. Zuletzt geändert wurde der Core am 18. September 2026, das erste Anlagedatum liegt Jahre davor. Wer verwahrt die ursprünglichen Anlagen zum damaligen Vertrag?",
+          "Bei receipt-capture ist „Pilot“ vermerkt. Selbst wenn dieses Modul heute mit demselben Namen verkauft würde, brauche ich einen Beleg dafür, ob es bei der Sicherheitenbestellung oder durch einen Nachtrag erfasst war."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "FiscusPilot – Anlagenstand zu Produkt und Betrieb",
+        "von": "Sicherheitenverwaltung Rhenusbank",
+        "an": "Silke Brandt",
+        "antwort_auf": 1,
+        "datum": "2026-10-22",
+        "text": [
+          "Die im Produktbetrieb erstellte Liste nennt Verantwortliche je Repository, etwa Lena Vogt für den Core und Esra Kaya für die Betriebssoftware. Diese Namen helfen bei der Suche nach damaligen Fassungen. Sie sind keine unterschriebenen Empfangsvermerke der Bank.",
+          "Bitte die Originalanlage, jede Ergänzung und einen Export des heutigen Verzeichnisses als getrennte Fassungen vorlegen. Eine externe Komponente im Web-Client kann eigene Nutzungsbedingungen haben."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Was sich unter der Bezeichnung „Weboberfläche“ verbirgt",
+        "von": "Technische Dokumentation Taxware",
+        "an": "Silke Brandt",
+        "datum": "2026-10-22",
+        "text": [
+          "Im Komponentenblatt des Web-Clients stehen unter anderem React und FormKit helpers. Für die letzteren ist ein konkreter Stand mit Bezug auf den Vorbestand von Jonas Eberle genannt. Dass eine Komponente im selben Repository liegt, sagt uns nichts über die damalige Rechteübertragung.",
+          "Den Stand eines Releases können wir für das jeweilige Datum anzeigen. Welches Release das unterschriebene Sicherheitenverzeichnis meint, sollte die Bank mit ihrer damaligen Fassung abgleichen."
+        ]
+      }
+    ]
+  },
+  "testakten/leasingrecht-maschinenfleet-restwert-insolvenz": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Zur RX-900 steht im Übergabeheft neben dem Vibrationshinweis ein Softwarestopp. Bei der LX-44 geht es dagegen um das gerissene Schutzglas. Bitte beide Schadenbilder vor einer Reparatur getrennt aufnehmen.",
+          "Falls NordLease einen Restwert für die gesamte Flotte nennt, brauche ich die Einzelzuordnung aus NL-2022-0847. Der Messarm aus der Qualitätssicherung darf nicht auf der Zustandsliste der beiden Produktionsmaschinen untergehen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Vorschlag für die Besichtigungsfolge in Werk 1 und 2",
+        "von": "Werkleitung",
+        "an": "Leasingbetreuung",
+        "datum": "2026-01-20",
+        "text": [
+          "Für die Rückgabeprüfung liegen Werkstattvermerke zum Schutzglas und zur Spindel vor. Können wir die Zuordnung über die beiden Seriennummern bestätigen, ehe eine Pauschale für die gesamte Flotte verhandelt wird?",
+          "Für die Pforte brauche ich die Reihenfolge der Hallen und die Personen, die Zugriff auf das jeweilige Wartungsheft haben. Gehört der Messarm bei der Qualitätssicherung ebenfalls in die Besuchsliste?"
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Zwei Werksbesuche und der Messarm",
+        "von": "Leasingbetreuung",
+        "an": "Werkleitung",
+        "antwort_auf": 3,
+        "text": [
+          "Für die Fräse benötigen wir einen Termin in Werk 1, Halle B. Für die Laserzelle muss uns der Prototypenbau in Werk 2 Zutritt geben. Bitte zuständige Schicht, Betriebsstunden und vorhandenen Servicebeleg je Gerät nennen.",
+          "Für QS-118-2024 gibt es drei Nutzer. Ein fehlender Kalibriereintrag hat mit der vibrierenden Spindel nichts zu tun. Die Leasingbetreuung fordert pro Objekt den zugehörigen Prüf- oder Wartungsbericht an. Die Besuchsliste der Werkkoordination hänge ich für die Pforte an."
+        ],
+        "anlage_nr": 5,
+        "datum": "2026-01-20"
+      },
+      {
+        "typ": "tabelle",
+        "titel": "An der Pforte vorbereitete Besuchsliste",
+        "von": "Werkkoordination Rotorwerk",
+        "an": "Leasingbetreuung",
+        "text": [
+          "Objekt | Standort | Vor-Ort-Frage",
+          "RX900-23-1188 | Werk 1, Halle B | Wann tritt die Vibration auf und welches Serviceheft gehört zur Spindel?",
+          "LX44-24-0091 | Werk 2, Prototypenbau | Wo ist der Riss am Schutzglas dokumentiert?",
+          "QS-118-2024 | Qualitätssicherung | Wer hat das letzte Kalibrierprotokoll?"
+        ]
+      }
+    ]
+  },
+  "testakten/luftrecht-airline-insolvenz-flugzeugpfand-flughafen": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "In Dortmund sind die Standplätze 42 und 44 getrennt. Für die D-AWRB nennt die Tabelle 426.800 Euro offene Flughafenentgelte, für D-AWRC 184.400 Euro. Zusätzlich finde ich eine Flottenrechnung und eine Teilzahlung über 80.000 Euro ohne Kennzeichen.",
+          "Vor einer Auskunft an die Behörde muss ich wissen, welche Zuordnung nur aus unserer internen Liste stammt. Die Leasingraten sind in US-Dollar, die Flughafenrechnung ist in Euro."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Kennzeichen und MSN für die Rückrufe an die Leasinggeber",
+        "von": "Geschäftsführung",
+        "an": "Flottenverwaltung WestAir Regional",
+        "antwort_auf": 1,
+        "datum": "2025-11-19",
+        "text": [
+          "Für D-AWRB gilt MSN 6217, als Eigentümerin wird AFS Dublin DAC geführt. D-AWRC trägt MSN 6331 und ist Emerald Aircraft Ltd. zugeordnet. Bitte das Kennzeichen in Betreff und Antwort stehen lassen, damit nicht dieselbe Behördenanfrage an beide Eigentümer weiterläuft.",
+          "Eine Rechnung über die Flotte ist vor der Aufteilung bei der Debitorenstelle des Flughafens abzugleichen. Für den morgigen Flug interessiert mich, ob der Standplatz freigegeben wird. Ein eingetragener Slot allein ist noch keine ausgeführte Bewegung."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Was der Bodenbetrieb an Standplatz 42 beobachten konnte",
+        "von": "Stationsdienst WestAir Dortmund",
+        "an": "Flottenverwaltung",
+        "datum": "2025-11-19",
+        "text": [
+          "Auf der Bewegungszeile ist WR218 für D-AWRB am 18. November um 22.14 Uhr als gelandet erfasst. Der Einsatzplan zeigt außerdem das nächste vorgesehene Zeitfenster. Für die Standplatzmeldung trage ich eine nächste Bewegung erst mit ihrer tatsächlichen Ausführung ein.",
+          "Ob das Flugzeug über den Standplatz hinaus für eine Forderung in Anspruch genommen werden darf, kann der Stationsdienst nicht bestätigen. Wir können die tatsächliche Standzeit und die verzeichnete Flugbewegung auslesen."
+        ]
+      }
+    ]
+  },
+  "testakten/lumen-studios-insolvenz-strafverfahren": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die BWA weist im ersten Quartal 2024 31.500 Euro Erlöse und 58.900 Euro Personalkosten aus. Daraus kann ich nicht entnehmen, ob ein Kunde eine Kamera bezahlt oder nur seine Produktion angezahlt hat.",
+          "Zum Eingang von MediaWerk über 6.200 Euro am 5. Februar benötige ich die damalige Projektnummer. Die Kamera selbst gleichen wir über das Typenschild ab, der Koffer kann inzwischen getauscht worden sein."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Studioinventar und Produktionszahlungen auseinanderhalten",
+        "von": "Florian Weber",
+        "an": "Produktionsbüro LUMEN Studios",
+        "antwort_auf": 1,
+        "datum": "2024-05-22",
+        "text": [
+          "Für Geräte mit fremdem Vermieterlogo bitte ich um den Lieferschein mit Abhol- und Rückgabetag. Ein Gerät, das morgens für einen Dreh ins Studio kam, ist nicht schon deshalb eigenes Anlagevermögen, weil unser Team es nachmittags verwendet hat.",
+          "Die am 12. März sichtbare Zahlung von Rheinmedia über 4.100 Euro gehört zunächst auf die Debitorenseite. Sucht eine konkret zugehörige Rechnung, bevor ihr den Eingang als Kaufpreis für ein Gerät bezeichnet."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Kamerawechsel am Set",
+        "von": "Aufnahmeleitung LUMEN",
+        "an": "Florian Weber",
+        "datum": "2024-05-22",
+        "text": [
+          "Wir kennzeichnen Kisten mit Aufklebern der jeweiligen Produktion, weil das Team zwischen den Räumen wechselt. Eine Kamera kann auf einem Stativ stehen, während ihr ursprünglicher Rollkoffer im Materialraum bleibt.",
+          "Zur Rückgabe kontrolliert der Verleih Gehäuse, Objektiv und Zubehör nach Seriennummer. Für die Bestandsaufnahme kann ich die Tagesdispositionen liefern. Den Eigentümer eines Gehäuses klären Annahmeschein und Mietvertrag."
+        ]
+      }
+    ]
+  },
+  "testakten/markenrechte-sicherungsuebertragung-insolvenz-mannheim": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "In Anlage 1 sind KURPFALZKLANG und MANNHEIM MODULAR mit deutschen Registernummern erfasst. Bei RHEINPULS AUDIO steht am 15. Februar 2024 noch „Nummer folgt“. Wurde eine spätere Fassung der Anlage von beiden Seiten gegengezeichnet?",
+          "Die Bank nennt eine Betriebsmittelfinanzierung bis zu 240.000 Euro. Das Kreditlimit und die Umsätze auf den einzelnen Produktlinien sind für mich andere Zahlen als ein Verwertungserlös aus den Marken."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "KT-2024-021 – bitte Anlagenstand vom 15. Februar bestätigen",
+        "von": "Janis Heller",
+        "an": "Markenverwaltung Mannheim",
+        "datum": "2024-02-19",
+        "text": [
+          "Auf unserer Arbeitskopie steht bei der geplanten Unionsmarke noch keine Nummer. Bei den beiden deutschen Marken sind Nummern eingetragen. Welches Blatt hat die Bank zusammen mit der Urkunde bekommen?",
+          "Bei Fragen zur Betriebsmittelfinanzierung kommt auch die Verkaufspräsentation auf den Tisch. Das ist eine Produktdarstellung und nicht die zum Vertrag genommene Sicherheitenliste. Ich mache gern eine Kopie der tatsächlich abgelegten Fassung."
+        ]
+      },
+      {
+        "typ": "eml",
+        "titel": "Die Fassung mit dem Kürzel JH",
+        "von": "Markenverwaltung Mannheim",
+        "an": "Janis Heller",
+        "antwort_auf": 3,
+        "text": [
+          "Auf dem Blatt vom 15. Februar stehen 30 2020 059 412 und 30 2021 227 861. Das Blatt trägt das Kürzel JH. Eine Unterschrift der Darlehensgeberin sehe ich auf dieser Tabellenfassung nicht.",
+          "Für RHEINPULS AUDIO ist eine Unionsmarke erst geplant. Wir fragen nach der Anmeldung mit Datum und einer gegebenenfalls aktualisierten Anlage. Ein neuer Verkaufskatalog oder ein bereits bedruckter Karton ersetzt keinen Nachtrag zur Sicherheitenliste."
+        ],
+        "datum": "2024-02-19"
+      },
+      {
+        "typ": "notiz",
+        "titel": "Aufdruck und Registerzeichen beim Lautsprecherbausatz",
+        "von": "Produktpflege Kurpfalz Tonwerke",
+        "an": "Janis Heller",
+        "text": [
+          "Auf dem Versandkarton stehen Unternehmenskennzeichen, Produktlinie und konkrete Modellbezeichnung nebeneinander. Die Stückliste übernimmt häufig nur die Modellbezeichnung. Ein Foto des Kartons dokumentiert daher mehrere Wörter, nicht mehrere Registerrechte.",
+          "Zum Abgleich kann die Produktpflege einen datierten Verpackungsdruck und den zugehörigen Auftrag liefern. Die Nummer und der Inhaber einer registrierten Marke ergeben sich aus dem getrennt geführten Markenordner."
+        ]
+      }
+    ]
+  },
+  "testakten/private-equity-buyout-schuldschein-npl-heidelberg": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die Übersicht nennt 42 Millionen Euro Alt-Schuldschein. Der Vendor Loan über 25 Millionen gehört zu einer anderen Finanzierung. Für die Zahlungswege am Closing brauche ich jeden Altgläubiger mit Ansprechpartner und der bestätigten Höhe zum vereinbarten Stichtag.",
+          "Der Preisentwurf verwendet 31. Dezember 2025 als Locked Box. Etwaige Kosten oder Zinsen bis zur tatsächlichen Ablösung können nur in einer gesonderten Datumsrechnung nachvollzogen werden."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Nachtfalter – bitte zuerst Altgläubiger und Berechtigung klären",
+        "von": "Dr. Henrike Plessow",
+        "an": "Finanzteam Rheintor",
+        "antwort_auf": 1,
+        "datum": "2026-05-16",
+        "text": [
+          "Der Term-Sheet-Stand nennt 224 Millionen Euro Unternehmenswert und 130 Millionen Senior/Unitranche. Das sind keine Zahlungsanweisungen. Wir legen den Auszahlungsunterlagen die noch anzufordernden Ablösebestätigungen je Altgläubiger bei.",
+          "Bitte den beabsichtigten Stichtag ausdrücklich nennen. Wenn ein Schuldscheingläubiger eine Zustimmung oder eine Frist verlangt, muss seine Antwort in die eigene Vorgangszeile und darf nicht auf andere Gläubiger übertragen werden."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Rückfrage zum Roll-over auf der Kaufpreisfolie",
+        "von": "Deal-Controlling Rheintor",
+        "an": "Finanzierungsteam",
+        "datum": "2026-05-16",
+        "text": [
+          "Die Präsentation spricht von zwölf Prozent Management-Roll-over. Im Betragsblatt ist das kein gesonderter Zahlungseingang vom Management auf dem Targetkonto. Für die Kontenplanung brauchen wir erst den tatsächlichen Zeichnungs- oder Einbringungsweg.",
+          "Auch die 6,8 Millionen Euro NPL-Portfolio stehen im Finanzierungsblatt. Ob ein Verkauf, ein Preisabschlag oder eine verbleibende Position beabsichtigt ist, lässt sich aus der bloßen Tabellenzeile nicht herauslesen."
+        ]
+      }
+    ]
+  },
+  "testakten/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Beim Termin zum Verfahren 60 IN 188/26 wurde die Sparkasse mit 8,5 Millionen Euro erfasst. Daneben stehen 6,9 Millionen als Wert des besicherten Teils. Für die Buchung brauche ich eine Erklärung des Gläubigers, welchen Betrag er erlässt und wann das wirksam wird.",
+          "Im Protokoll vom 25. Februar steht „vorläufiger Gläubigerausschuss“. Bitte teilt mir mit, welche Zahlen zu diesem Datum nur besprochen wurden und für welche es später eine verbindliche Urkunde gibt."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Stichtag für den Zinsabschluss und die Sparkassenposition",
+        "von": "Steuerberatung",
+        "an": "Lohn- und Finanzbuchhaltung Großbach",
+        "antwort_auf": 1,
+        "datum": "2026-02-26",
+        "text": [
+          "Bitte zunächst die Kontoauszüge bis zum Datum des jeweiligen Planstands sowie die Saldenbestätigung der Sparkasse anfordern. Der Wert einer Maschinensicherheit ist auch bei gleichem Betrag kein Zahlungseingang auf dem Betriebskonto.",
+          "Für den Steuerordner nehmen wir den Verzichtstext und seine Bedingungen gesondert auf. Wenn der Hauptbetrag reduziert wird, muss erkennbar bleiben, ob rückständige Zinsen dazugehören oder separat behandelt werden."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Maschinenbewertung in der Unterlagenmappe Großbach",
+        "von": "Anlagenbuchhaltung Druckguss",
+        "an": "Steuerberatung",
+        "datum": "2026-02-26",
+        "text": [
+          "In der Übersicht ist die Sparkasse mit einer Sicherungsübereignung des Maschinenparks geführt. Die 6,9 Millionen bezeichnen dort den Verkehrswert. Auf dem Betriebskonto habe ich keinen Anlass, den Betrag allein aufgrund dieser Bewertung zu buchen.",
+          "Für die Zuordnung brauchen wir Bewertungsstichtag, Einzelobjekte und die der Bank noch geschuldete Summe. Eine tatsächliche Ausschüttung ist anhand ihres eigenen Zahlungsbelegs zu erkennen."
+        ]
+      }
+    ]
+  },
+  "testakten/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Im Vertrag ist eine Zusage über 1,8 Millionen Euro genannt. Die erste sichtbare Tranche beträgt am 14. November 2018 600.000 Euro. Können Sie mir die übrigen Valuten mit Datum zeigen, damit die Buchhaltung nicht Vertragssumme und Kontoeingang gleichsetzt?",
+          "Zum Abbau des Betriebs muss ich außerdem wissen, ob die Rückzahlung nur hinter andere Gläubiger zurücktritt oder überhaupt erlassen wurde. Ein Erlass müsste sich am Text einer eigenen Erklärung belegen lassen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "SH-GD-2018-01 – meine Kopie der Finanzierung",
+        "von": "Helene Strassburger-Wittenburg",
+        "an": "Buchhaltung Strassburger Handelshof",
+        "antwort_auf": 1,
+        "datum": "2026-04-30",
+        "text": [
+          "Die erste Überweisung habe ich unter der Vertragsnummer abgelegt. Für die Rückfrage stelle ich die tatsächlich ausgezahlten Tranchen zusammen. Die Summe von 1,8 Millionen im Vertrag ist ein Ausgangspunkt für den Vergleich.",
+          "Auf dem Nachtrag zu meinem Darlehen bitte auch die Rückseite lesen. Für einen behaupteten endgültigen Verzicht interessiert mich das genaue Schriftstück, auf das sich die Abschlussbearbeitung stützt. Wir sollten keine Forderung nur wegen ihrer Reihenfolge ausbuchen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Getrennte Ordner bei der Abwicklungsbuchhaltung",
+        "von": "Abschlussassistenz Handelshof",
+        "an": "Helene Strassburger-Wittenburg",
+        "datum": "2026-04-30",
+        "text": [
+          "Die ursprünglichen Kontoauszüge liegen bei den Bankbelegen 2018. Die später übersandten Vereinbarungen wurden im Gesellschafterordner abgeheftet. Im gescannten Ordner führt die Textsuche nach „Darlehen“ zu beiden Beständen.",
+          "Für den Termin mache ich zuerst eine Datumsliste der Auszahlungen und daneben ein Verzeichnis der unterzeichneten Erklärungen. Bei einer undatierten Kopie bleibt das Zugangsdatum bis zur Klärung offen."
+        ]
+      }
+    ]
+  },
+  "testakten/sanierungsgewinn-starug-plan-windenergie-pellbach-2026": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Unser Arbeitspapier führt die Konsortialführerin NordKurland Bank neben den beiden anderen Instituten. Wenn eine Bank einen Betrag stehen lässt, betrifft das womöglich nur ihren Anteil. Ich brauche die zugrunde liegende Forderung je Bank samt Zinsstichtag.",
+          "Bei den verlorenen Wartungsaufträgen aus 2025 sehe ich EnertraGo und WindPower Cottbus. Das sind ausgefallene operative Erlöse, keine Beträge, die eine Bank erlassen hätte. Könnt ihr beide Listen für das Gespräch getrennt mitbringen?"
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "NordKurland – Vorbereitung für das erste Konsortialgespräch",
+        "von": "Konsortialführung",
+        "an": "Controlling Pellbach Windenergie",
+        "antwort_auf": 1,
+        "datum": "2026-03-10",
+        "text": [
+          "Die Übersicht soll für jedes Institut eine Zeile mit bestehendem Kapital, Zinsbetrag und möglicher Behandlung enthalten. Ein zur Umwandlung besprochener Betrag darf nicht zugleich in voller Höhe im Vorschlag für einen Verzicht stehen. Eine gemeinsame Quote lässt sich erst aus bezifferten Einzelmeldungen herleiten.",
+          "Bitte nennt in eurer Anfrage eine Person, die die Planfassung für Pellbach entgegennimmt. Noch offene Zustimmungen gehören weiterhin ins Protokoll. Eine endgültige Vollzugsmeldung kann die Bank in diesem Stadium nicht geben. Für die Nachfrage verwende ich die beigefügte Gesprächsliste eures Controllings."
+        ],
+        "anlage_nr": 4
+      },
+      {
+        "typ": "tabelle",
+        "titel": "Drei Vorgänge im Bankengespräch Pellbach",
+        "von": "Controlling Windenergie",
+        "an": "Konsortialführung",
+        "datum": "2026-03-10",
+        "text": [
+          "Gesprächspartner | Gegenstand | Gewünschte Unterlage",
+          "NordKurland Bank AG | eigener Anteil und Konsortialführung | Kontenauszug mit Zinsstichtag",
+          "Commerzbank | eigener Kapitalanteil | getrennte Aufstellung etwaiger Nebenforderungen",
+          "Investitionsbank des Landes Brandenburg | Mittelbindung aus Fördergeschäft | schriftliche Bedingungen für Umwandlung oder Stundung"
+        ]
+      }
+    ]
+  },
+  "testakten/si-kanzlei-insolvenz-sanierungsrecht": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Von den 27.600 Euro entfallen 9.000 auf Faser & Faden, 7.400 auf die Hallenmiete und 11.200 auf zwei weitere Lieferanten. Gibt es zu einer dieser Positionen eine tatsächlich schriftlich bestätigte neue Fälligkeit?",
+          "Für die bestrittene Kundenrechnung würde ich anrufen und nach dem konkret beanstandeten Teil fragen. Ein unstreitiger Teilbetrag könnte einen anderen Zahlungstermin haben als der Rest."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Papiermond am 6. Oktober – die Unterlagen am Bankschalter",
+        "von": "Buchhaltung Papiermond",
+        "an": "Tarek Moser",
+        "antwort_auf": 1,
+        "datum": "2026-10-06",
+        "text": [
+          "Die 18.400 Euro haben wir als frei verfügbar aus den Geschäftskonten übernommen. Eine weitere freie Kreditlinie ist mir nicht bestätigt. Für die Planung kann ich den aktuellen Kontoauszug vorlegen und die nächsten Zahlungsläufe auflisten.",
+          "Bei der Hallenmiete steckt auch ein Rückstand im genannten Betrag. Für das Gespräch mit Dr. Blum bemühe ich mich um die Aufteilung nach Monaten und die schriftliche Antwort des Vermieters zu einer möglichen Teilzahlung."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Rückruf bei Faser & Faden vorbereiten",
+        "von": "Einkauf Papiermond Jena",
+        "an": "Tarek Moser",
+        "datum": "2026-10-06",
+        "text": [
+          "Auf unserer Liste stehen 9.000 Euro. Ich habe den Ansprechpartner für die bestehende Forderung und den Vertrieb für neue Bestellungen in zwei getrennten Feldern gefunden. Eine Zusage über die nächste Lieferung betrifft die alte Rechnung nicht automatisch.",
+          "Beim Rückruf frage ich nach konkreter Rechnungsnummer, vereinbarter Fälligkeit und einer etwaigen schriftlich bestätigten Verschiebung. Über einen verbindlichen Zahlungstag können wir erst mit dem Kassenstand berichten."
+        ]
+      }
+    ]
+  },
+  "testakten/starug-aufhebung-holding-duesseldorf-ix-zb-18-25": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Für den 8. November 2024 finde ich 412,55 Euro verfügbare Mittel und 1.897 Euro fällige Verbindlichkeiten. Die spätere Fälligstellung der Rheinboden-Position darf nicht rückwirkend in diese Tagesaufnahme gelangen.",
+          "Aus Poznań liegt eine Entwurfsfassung über 42.000 Euro vor. Wer darf den Beitrag unterzeichnen und an welche Bedingungen ist er geknüpft? Eine Absicht der Beteiligung und ein abrufbares Guthaben der Holding sind zwei verschiedene Dinge."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Wachlarz – welches Dokument haben wir tatsächlich?",
+        "von": "Beteiligungscontrolling",
+        "an": "Kaufmännische Leitung Silberweiher",
+        "antwort_auf": 1,
+        "datum": "2024-12-06",
+        "text": [
+          "Das Novemberpapier der Wachlarz Industria Sp. z o.o. ist ausdrücklich als Entwurf überschrieben. Wir haben damit einen möglichen Planbeitrag, aber noch keinen Nachweis einer Überweisung auf das eigene Konto der Holding.",
+          "Bitte die Originalnachricht mit Dateianhang und den Saldo der Holding zum jeweiligen Stichtag sichern. Wenn Rheinboden eine Bürgschaft fällig stellt, gehören Zugangsdatum, Forderungsbetrag und belegter Kontostand auf dieselbe Tageszeile."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Telefonzettel zur Nachfrage in Poznań",
+        "von": "Beteiligungscontrolling Silberweiher",
+        "an": "Kaufmännische Leitung",
+        "datum": "2024-12-06",
+        "text": [
+          "Die Mitarbeiterin der Beteiligung wollte zunächst wissen, auf welche Gesellschaft sich unsere Kontenfrage bezieht. Ihre Meldung für den Konzernabschluss wird nicht als Überweisungsauftrag auf ein Düsseldorfer Konto verarbeitet.",
+          "Wir bitten um getrennte Rückmeldung zur internen Genehmigung und zum möglichen Auszahlungszeitpunkt. Wo eine Unterschrift fehlt, bleibt auf dem Planbeitrag der Stand „Entwurf“ sichtbar."
+        ]
+      }
+    ]
+  },
+  "testakten/starug-schutzschirm-grossbach-druckguss-erfurt": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Der Rahmenvertrag mit Siemens Mobility knüpft die Liefertreue an vollständige und rechtzeitige Lieferungen. Gibt es bestätigte Lieferabrufe für die Tragrahmenkomponenten nach Krefeld samt Empfangsquittungen? Eine geplante Abfahrt ist nur einer von mehreren relevanten Zeitpunkten.",
+          "Im März verlangt Aluminium Stade 890.000 Euro aus fünf Rechnungen. Welche Serie hängt an welchem Materialabruf? Ein stillstehender Ofen wegen Materialmangels hätte Folgen, auch wenn der Kalender für den Kunden noch grün aussieht."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Serien und tatsächliche Ankunft in Krefeld",
+        "von": "Finanzplanung",
+        "an": "Produktionsleitung Großbach",
+        "antwort_auf": 1,
+        "datum": "2026-04-15",
+        "text": [
+          "Bitte die Lieferscheine nach vereinbarter Menge und tatsächlichem Empfangstag ordnen. Wer nur das Datum unserer Werksausfahrt nimmt, übersieht eine verspätete Ankunft. Für die Quote zählen wir die bestätigten Abrufe aus dem betroffenen Quartal zusammen.",
+          "Die dritte Mahnung vom 17. März führt unter anderem ASG-2025-10-448 mit 127.840 Euro. Bevor die Disposition den Kunden anruft, klärt der Einkauf, ob die Mahnung eine konkret benötigte neue Aluminiumlieferung blockiert."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Ein Abholtag im Gusswerk",
+        "von": "Versand Großbach Druckguss",
+        "an": "Produktionsleitung",
+        "datum": "2026-04-15",
+        "text": [
+          "Auf unserem Durchschlag unterschreibt die Spedition bei Übernahme auf dem Werksgelände. Den Werkseingang bei Siemens quittiert eine andere Stelle. Bei einer Teillieferung können die Teile eines Abrufs auf zwei Fahrzeugen unterwegs sein.",
+          "Im Betriebskalender ist nur ein Abholfenster hinterlegt. Für eine belastbare Erklärung zur Liefertreue brauchen wir den bestätigten Liefertermin, die geforderte Stückzahl und den Eingang beider Teillieferungen."
+        ]
+      }
+    ]
+  },
+  "testakten/steuerrecht-bwa-vergleich-nuernberg": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Für MF-25-Q10 liegen 10.000 kg Saaten in der Sperrzone. In der Bewertungsdatei steht ein Einstandswert von 100.000 Euro und ein Abschlag von 80.000 Euro. Dieselbe Menge kann also physisch da sein und wirtschaftlich weit weniger wert sein.",
+          "Zur Bedarfsübersicht für AndenSaat bitte ich um die eigentlichen Auftragsbestätigungen. Erst daraus können wir erkennen, welche künftig erwarteten Importe für den Liquiditätsplan schon bestellt sind."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Erlanger Inventur und Zahlungsplanung",
+        "von": "Buchhaltung Nürnberg",
+        "an": "Wareneingang Mainfrucht",
+        "antwort_auf": 1,
+        "datum": "2026-01-15",
+        "text": [
+          "Die Zählmengen vom 31. Dezember blieben nach der Nachricht vom 12. Januar unverändert. Die 1.080.000 Euro vor und die 880.000 Euro nach den Abschlägen sind zwei Bewertungen desselben Bestands. Bitte deshalb keinen zusätzlichen Warenzugang buchen.",
+          "Für den möglichen Absatz von Q10 brauchen wir ein verbindliches Angebot mit Transportkosten und ein realistisches Zahlungsziel. Eine telefonische Preisanfrage genügt nicht als geplanter Zahlungseingang."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Was die Markierung am gesperrten Saatgut bedeutet",
+        "von": "Qualität Erlangen",
+        "an": "Buchhaltung Mainfrucht",
+        "datum": "2026-01-15",
+        "text": [
+          "Das Palettenschild MF-25-Q10 bleibt während der Sperre am Bestand. Auslagerung zu Prüfzwecken ist keine Auslieferung an einen Kunden. Es gibt für den gesperrten Posten bisher keine Rechnung an einen Restpostenhändler.",
+          "MF-25-Q11 wurde am 8. Januar technisch freigegeben. Bei einer Frage zum Jahresendwert bitte den damals bekannten Zustand der jeweiligen Charge festhalten. Die Januarfreigabe betrifft nicht automatisch den anderen Posten."
+        ]
+      }
+    ]
+  },
+  "testakten/tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Die Mittelstandsbank Nordwest hat am 7. Januar nach einer belastbaren Prognose für 4,5 Millionen Euro Brückenkredit gefragt. In der Arbeitsmappe v23 stehen auch Verlängerungen mit späterem Rechnungslauf. Auf welchem Blatt ist der Zahlungstag statt des Vertragsdatums nachvollziehbar?",
+          "Zu einem Kunden, der nur mündlich verlängern will, brauche ich Gesprächsdatum, Ansprechpartner und den noch offenen Freigabeschritt. Wir möchten keine Vertragsverlängerung als bereits verfügbare Liquidität melden."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Was unser Vertriebsbericht über die Verlängerungen aussagt",
+        "von": "Vertrieb",
+        "an": "Finanzen Paragrafix",
+        "antwort_auf": 1,
+        "datum": "2026-01-07",
+        "text": [
+          "Im CRM heißt die Stufe „Verhandlung abgeschlossen“, wenn die Konditionen im Verkauf geklärt sind. Die Bestellung kann beim Kunden danach noch die Einkaufsfreigabe durchlaufen. Ich suche die tatsächlichen Bestellungen und trenne sie von unseren Gesprächsnotizen.",
+          "Bitte nennt mir die Zeilen des Modells v23, zu denen ihr Rückfragen habt. Bei einer Jahresrechnung mit Zahlungsziel kann der Kassenmonat später liegen als die Vertragsverlängerung."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Rückmeldung des Lizenzbüros zur Planversion v23",
+        "von": "Lizenzverwaltung Paragrafix",
+        "an": "Finanzteam",
+        "datum": "2026-01-07",
+        "text": [
+          "Die Software kann nach Ablauf einer Lizenz eine Übergangszeit anzeigen, damit der Kunde laufende Vorgänge abschließt. Eine technisch aktive Instanz ist also kein Beleg für einen unterschriebenen Folgeauftrag.",
+          "Für einzelne Fälle kann ich Ablaufdatum, letzte Rechnung und den tatsächlichen Eingang einer Bestellung liefern. Die Bankzusage zum Überbrückungskredit liegt nicht in der Lizenzverwaltung."
+        ]
+      }
+    ]
+  },
+  "testakten/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Ich hatte an der Licht & Ton GmbH 20 Prozent. Meine private Bürgschaft und die alten Rechnungen der Gesellschaft liegen im selben Karton. Können wir zu jedem Forderungsschreiben schauen, ob mein Name im Vertrag steht oder nur im Anschriftenfeld als früherer Geschäftsführer?",
+          "Auf meiner Mai-Abrechnung stehen 2.240 Euro netto. Meine Tochter lebt im Wechselmodell bei mir. Für den Haushaltsplan brauche ich eine Liste, in der die Monatskosten unabhängig vom Inhaber der alten Firmenforderung stehen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Ihre Unterlagen zur Bürgschaft der Sparkasse Weser",
+        "von": "Schuldnerberatung",
+        "an": "Matthias Reimers",
+        "antwort_auf": 1,
+        "datum": "2026-06-07",
+        "text": [
+          "Bitte bringen Sie den ursprünglichen Bürgschaftstext, das Inanspruchnahmeschreiben und die jüngste Aufstellung mit. Ist ein anderer Inkassodienst beteiligt, brauchen wir die dort genannte Ursprungsforderung und Kundennummer. Zwei Absender können für denselben Anspruch schreiben.",
+          "Die Lohnabrechnungen März bis Mai und den Mietvertrag führen wir daneben im Haushaltsordner. Forderungen der GmbH werden nicht allein aufgrund Ihrer früheren Organstellung als Ihre persönliche Schuld eingetragen."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Zettel aus dem Karton im Keller",
+        "von": "Matthias Reimers",
+        "an": "Schuldnerberatung Bremen",
+        "datum": "2026-06-07",
+        "text": [
+          "Ein Brief ist an die Reimers Licht & Ton GmbH, ein anderer an mich privat gerichtet. Beide enthalten die frühere Firmenanschrift im Text. Ich habe die Umschläge bei den jeweiligen Briefen gelassen.",
+          "Den Arbeitsvertrag habe ich im anderen Ordner bei der Messebaufirma. Dort bin ich seit September 2025 als technischer Koordinator beschäftigt. Zahlungen von meinem heutigen Arbeitgeber haben mit den damaligen Rechnungseingängen der Firma nichts zu tun."
+        ]
+      }
+    ]
+  },
+  "testakten/zwangsverwaltung-friedrichshoefe-berlin": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Der Termin am 28. August betrifft das Büro- und Geschäftshaus Friedrichstraße 143–145, 36 L 412/24. Bei einzelnen Gewerbeeinheiten sind Hauspostanschrift und vertragliche Rechnungsadresse verschieden. Wer führt den Nachweis darüber, wann eine Mitteilung angekommen ist?",
+          "Ein Schlüssel passt auf das Treppenhaus und sagt noch nichts darüber aus, wer einen bestimmten Mietraum tatsächlich nutzt. Ich würde Schlüsselbezeichnung und Raumbegehung getrennt notieren."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Friedrichshöfe – Übergabe und Mitteilungen an die Mietparteien",
+        "von": "Zwangsverwaltung",
+        "an": "Objektbüro Friedrichshöfe",
+        "antwort_auf": 1,
+        "datum": "2024-08-28",
+        "text": [
+          "Bitte Schlüssel, vorhandene Schließpläne und die zuletzt benannte Zustellanschrift je Einheit mitbringen. Fehlende Schlüssel halten wir mit genauer Bezeichnung und dem Namen des möglichen Verwahrers fest.",
+          "Für Zahlungen an die neue Verwaltung geben wir je Mieter eine schriftliche Nachricht mit eindeutiger Objektbezeichnung aus. Vorher erteilte Daueraufträge und bereits beim bisherigen Empfänger eingegangene Mieten müssen anschließend für den jeweiligen Monat abgeglichen werden."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Zwei verschiedene Anschriften am Empfang",
+        "von": "Empfang Friedrichshöfe",
+        "an": "Kathleen Weichert",
+        "datum": "2024-08-28",
+        "text": [
+          "Der Ansprechpartner vor Ort nimmt gewöhnliche Hauspost entgegen. Die Mietrechnungen eines Gewerbemieters gehen dagegen unmittelbar an dessen Buchhaltung. Im Briefkastenverzeichnis steht nur der Standortname.",
+          "Bei der Übergabe wird deshalb vermerkt, ob ein Umschlag am Objekt übergeben oder an die Vertragsanschrift geschickt wurde. Einen tatsächlichen Zahlungseingang kann der Empfang nicht bestätigen."
+        ]
+      }
+    ]
+  },
+  "testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Für WE02 steht die Gesamtmiete mit 895 Euro in der Liste. Das Feld für Altrückstände und das für Rückstände unter der neuen Verwaltung sind verschieden. Der Mieter sagt möglicherweise „Mai bezahlt“ und meint eine Zahlung an den früheren Empfänger.",
+          "Am 7. Mai um 9.30 Uhr treffen wir uns am Eingang Vorderhaus. Für die Gewerberäume nehme ich den Schlüsselbund aus dem Büro unverändert mit. Ein fehlender Anhänger soll als fehlend ins Protokoll."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Parkstraße 18 – Schlüsselprobe und Zahlbeleg bitte getrennt",
+        "von": "Julia Renner",
+        "an": "Hausmeister Parkstraße 18",
+        "antwort_auf": 1,
+        "datum": "2026-05-07",
+        "text": [
+          "Wir probieren die verfügbaren Schlüssel gemeinsam aus und schreiben an jeden geprüften Schlüssel die zugängliche Tür. Ein Generalschlüssel für den Hauseingang wird nicht als Nachweis für den Besitz sämtlicher Gewerberäume erfasst.",
+          "Zur Maimiete von WE02 bitte um den ausgeführten Zahlungsbeleg mit Empfänger und Wertstellung. Das frühere Konto und das Verwaltungskonto sind getrennt abzustimmen, bevor jemand denselben Betrag zweimal anfordert."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Vor der Runde im Vorderhaus",
+        "von": "Karin Lehmann, Hausmeisterin",
+        "an": "Julia Renner",
+        "datum": "2026-05-07",
+        "text": [
+          "Auf der Innenseite des alten Schlüsselschranks stehen handschriftliche Raumbezeichnungen. Nach Umbauten stimmt eine frühere Bezeichnung nicht zwingend mit der heutigen Einheitsnummer überein. Den Schlüssel gebe ich deshalb im Protokoll mit seiner Prägung an.",
+          "Zu Mietrückständen kann ich nur sagen, wer sich bei mir gemeldet hat. Auf die Kontobewegungen des Vermieters habe ich keinen Zugriff."
+        ]
+      }
+    ]
+  },
+  "testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Auf meiner Vertragsausfertigung steht Wohnung Nr. 9 im Dachgeschoss, Eppendorfer Mühlenbogen 16 / Heilwigbogen 4. In meinen älteren Bankvorlagen ist auch noch der Name des früheren Empfängers gespeichert.",
+          "Auf dem Klingelschild stehen weitere Namen. Das hat schon bei den Schreiben wegen der Besichtigung zu Rückfragen geführt. Bitte nennen Sie bei der Rückmeldung die Einheit und den betroffenen Mietmonat. Meine Frage zur damals bar gezahlten Kaution möchte ich getrennt besprechen."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Rückfrage von Herrn Sommer zu Wohnung 9",
+        "von": "Verwaltung Eppendorfer Mühlenbogen",
+        "an": "Mietpartei Wohnung 9",
+        "antwort_auf": 1,
+        "datum": "2026-05-15",
+        "text": [
+          "Herr Sommer, bitte senden Sie uns die erste Seite Ihres Mietvertrags und für eine bereits angewiesene Rate den Zahlungsbeleg mit Monat und Empfänger. Wir vergleichen die Anschriften im Vertrag mit Wohnung 9 und dem Verfahren 71 L 44/25.",
+          "Ihren Hinweis auf eine bar übergebene Kaution nehmen wir separat auf. Dazu suchen wir einen Kassenbeleg oder eine Übergabenotiz des früheren Vermieters. Für Ihre Mietzahlung erhalten Sie eine auf Ihr Mietverhältnis bezogene Mitteilung. Bitte den Dauerauftrag erst nach Zuordnung von Einheit, Konto und Monat ändern."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Abgleich der Hausnummern am Aushang",
+        "von": "Objektservice Eppendorfer Mühlenbogen",
+        "an": "Ralf Benderoth",
+        "datum": "2026-05-15",
+        "text": [
+          "Am Aushang werden Straßenzugänge genannt. Der Vertrag der Dachgeschosswohnung bezeichnet beide Anschriften. Für die Abrechnung verwenden wir die Wohnungsnummer zusätzlich, um Post an das Haus nicht einer beliebigen Einheit zuzuweisen.",
+          "Post an die Wohnungseigentümergemeinschaft wird bei der Eigentümerseite erfasst. Ein gewöhnlicher Mietbeleg trägt dagegen den Mieternamen. Die zwei Vorgänge können im selben Poststapel auftauchen."
+        ]
+      }
+    ]
+  },
+  "vergaberecht-werkstatt/testakten/05-insolvenz-auftragnehmerwechsel-132-gwb": {
+    "ausbau": [
+      {
+        "nr": 1,
+        "absatz": [
+          "Unser Auftrag HB-IT-SERVICE-2026 läuft seit 1. April. Die angebotenen Ansprechpartner sollen jetzt für die NordSys Betriebserwerber GmbH tätig sein. Sind sie für denselben Leistungsumfang benannt, und wer bestätigt konkret, dass der alte Supportvertrag weiter bedient wird?",
+          "Wir wollen heute die Erreichbarkeit der Fachverfahren sicherstellen. Damit ist noch keine Zustimmung zu einem Eintritt in den städtischen Vertrag erklärt. Bitte Ticketannahme, tatsächliche Bearbeitung und kaufmännische Zuständigkeit einzeln melden."
+        ]
+      }
+    ],
+    "wechsel": [
+      {
+        "typ": "eml",
+        "titel": "Hafenburg – Betrieb bleibt je Dienst nachvollziehbar",
+        "von": "IT-Betrieb",
+        "an": "Amt für Digitalisierung Hafenburg",
+        "antwort_auf": 1,
+        "datum": "2026-10-29",
+        "text": [
+          "Wir kontrollieren im Ticketjournal, welcher Dienst angerufen wurde und welche Person tatsächlich reagiert hat. Der Name im bisherigen Bereitschaftsplan kann älter sein als der Wechsel des Arbeitgebers. Vor jeder Änderung von Berechtigungen verlangen wir eine bestätigte Zuständigkeit.",
+          "Wir benötigen eine Aufstellung der Ressourcen, die laut Erwerberkonzept übergehen sollen. Nach Vollzug brauchen wir den tatsächlichen Übertragungsnachweis. Eine funktionierende Hotline zeigt nur die technische Erreichbarkeit. Zur übernommenen Leistung, Personalausstattung und Haftung brauchen wir die entsprechenden Erklärungen der Beteiligten."
+        ]
+      },
+      {
+        "typ": "notiz",
+        "titel": "Übergabe am städtischen Servicetelefon",
+        "von": "Servicekoordination Hafenburg",
+        "an": "Amt für Digitalisierung",
+        "datum": "2026-10-29",
+        "text": [
+          "Ein Fachamt meldete sich bei der bisherigen Nummer und wollte wissen, ob es künftig eine neue Hotline geben soll. Im Dienstplan steht vorerst noch NordSys Services. Wir haben Uhrzeit, betroffenes Verfahren und Namen des Ansprechpartners im Ticket festgehalten. Die Meldung enthielt keinen Auftrag zur Änderung von Leistungsumfang oder Preisen.",
+          "Für eine spätere Zuordnung verlangen wir eine schriftliche Mitteilung, welche Gesellschaft die jeweilige Schicht verantwortet. Einen bereits laufenden Fall erhält das Fachamt mit derselben Ticketnummer zurück."
+        ]
+      }
+    ]
+  }
+}

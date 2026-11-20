@@ -11,6 +11,7 @@ from zipfile import ZIP_STORED, ZipFile, ZipInfo
 
 from akteneingang.ausgabe import build
 from akteneingang.quellen import DATA, Sources, catalogs, digest
+from akteneingang.vertiefung import fachauswahl
 from akteneingang.verweise import routes
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
 
@@ -94,6 +95,11 @@ def main():
     parser.add_argument("--akte", action="append", default=[])
     parser.add_argument("--paketieren", action="store_true")
     parser.add_argument(
+        "--vertiefung",
+        action="store_true",
+        help="Fachausgabe mit erweiterten Originalen und weiterem Schriftwechsel",
+    )
+    parser.add_argument(
         "--platzsparend",
         action="store_true",
         help="Geprüfte temporäre Druckdateien nach der Paketierung freigeben",
@@ -110,11 +116,21 @@ def main():
             if key in articles:
                 raise ValueError("Doppelte Akte: " + key)
             articles[key] = v
+    if args.vertiefung:
+        if args.paketieren and set(articles) != set(records):
+            raise ValueError("Paketierung erfordert die vollständige Redaktion")
+        records, articles, targets = fachauswahl(records, articles)
     source_dir = Path(__file__).parent
     version = digest(
         b"".join(
             (source_dir / part).read_bytes()
-            for part in ("akteneingang/ausgabe.py", "akteneingang/dokumente.py")
+            for part in (
+                "akteneingang/ausgabe.py",
+                "akteneingang/dokumente.py",
+                "akteneingang/korrespondenz.py",
+                "akteneingang/vertiefung.py",
+                "akteneingang/arbeitsfassungen.py",
+            )
         )
     )
     jobs = []

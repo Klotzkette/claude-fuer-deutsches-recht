@@ -67,7 +67,7 @@ Für den ersten Durchgang öffnen Sie im Arbeits-ZIP `Grundakte/00_Posteingang`.
 
 | Fall | Originalunterlagen und Eingangspost | Lesefassungen |
 | --- | --- | --- |
-| Testakte AG Musterstadt HRB 50321 — Anmeldung eines Geschäftsführerwechsels mit Eintragungshindernis | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-gericht-richter-amtsgericht-handelsregister.zip) | [Druckpaket 17](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-17.zip) |
+| Testakte AG Musterstadt HRB 50321 — Anmeldung eines Geschäftsführerwechsels mit Eintragungshindernis | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-gericht-richter-amtsgericht-handelsregister.zip) | [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-gericht-richter-amtsgericht-handelsregister.zip) |
 
 Wenn du das hier öffnest, willst du eine Handelsregistersache richterlich oder registergerichtlich prüfen: Anmeldung, Eintragung, Zwischenverfügung, Zurückweisung, Registerklarheit, Vertretungsnachweise und Beschwerde.
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.

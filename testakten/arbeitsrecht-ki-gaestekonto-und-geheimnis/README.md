@@ -23,7 +23,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-arbeitsrecht-ki-gaestekonto-und-geheimnis.zip) · [Druckpaket 03](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-03.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-arbeitsrecht-ki-gaestekonto-und-geheimnis.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-arbeitsrecht-ki-gaestekonto-und-geheimnis.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/arbeitsrecht-ki-gaestekonto-und-geheimnis_gesamt.pdf`](gesamt-pdf/arbeitsrecht-ki-gaestekonto-und-geheimnis_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-arbeitsrecht-ki-gaestekonto-und-geheimnis.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-arbeitsrecht-ki-gaestekonto-und-geheimnis.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-arbeitsrecht-ki-gaestekonto-und-geheimnis-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-arbeit-reskilling-v445.35.4/testakte-arbeitsrecht-ki-gaestekonto-und-geheimnis-einzelpdfs.zip) |

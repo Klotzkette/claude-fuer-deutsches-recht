@@ -34,7 +34,7 @@ def is_case_download(destination: str, *, case_readme: bool = False) -> bool:
     if name.endswith(".zip"):
         return (
             "testakte" in name or name == "alles-komplettpaket.zip"
-            or name.startswith("lebensakte-")
+            or name.startswith(("lebensakte-", "druckakte-"))
             or re.fullmatch(r"lesepaket-[0-9]{2}\.zip", name) is not None
         )
     if not name.endswith(".pdf"):

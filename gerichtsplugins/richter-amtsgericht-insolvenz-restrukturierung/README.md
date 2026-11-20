@@ -59,6 +59,8 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 ## Die lokale Übungsakte
 
+[Grundakten für Insolvenzrecht mit Eingangspost, Rückfragen und Belegen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/Fachakten.md#insolvenzrecht)
+
 Für den ersten Durchgang öffnen Sie im Arbeits-ZIP `Grundakte/00_Posteingang`. Die vollständige Akte enthält auch die späteren Verfahrensstücke. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
@@ -67,7 +69,7 @@ Für den ersten Durchgang öffnen Sie im Arbeits-ZIP `Grundakte/00_Posteingang`.
 
 | Fall | Originalunterlagen und Eingangspost | Lesefassungen |
 | --- | --- | --- |
-| Testakte AG Musterstadt 7 IN 88/26 — Gläubigerantrag über das Vermögen der Edelholz Berlin GmbH bei streitigem Eröffnungsgrund | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-gericht-richter-amtsgericht-insolvenz-restrukturierung.zip) | [Druckpaket 17](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-17.zip) |
+| Testakte AG Musterstadt 7 IN 88/26 — Gläubigerantrag über das Vermögen der Edelholz Berlin GmbH bei streitigem Eröffnungsgrund | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-gericht-richter-amtsgericht-insolvenz-restrukturierung.zip) | [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-gericht-richter-amtsgericht-insolvenz-restrukturierung.zip) |
 
 Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.

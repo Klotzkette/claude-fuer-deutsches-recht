@@ -66,6 +66,8 @@ Veröffentlichter Stand vom 15.11.2026: [Zehn Werkstätten als ZIP mit MD, TXT u
 
 ## Zugeordnete Testakten
 
+[Grundakten für Insolvenzrecht mit Eingangspost, Rückfragen und Belegen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/Fachakten.md#insolvenzrecht)
+
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.

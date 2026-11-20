@@ -82,7 +82,7 @@ Für den ersten Durchgang öffnen Sie im Arbeits-ZIP `Grundakte/00_Posteingang`.
 
 | Fall | Originalunterlagen und Eingangspost | Lesefassungen |
 | --- | --- | --- |
-| Testakte SG Musterstadt S 12 R 478/26 — Rente wegen voller Erwerbsminderung mit Sachverständigenbeweis | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-gericht-richter-sozialgericht.zip) | [Druckpaket 18](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-18.zip) |
+| Testakte SG Musterstadt S 12 R 478/26 — Rente wegen voller Erwerbsminderung mit Sachverständigenbeweis | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-gericht-richter-sozialgericht.zip) | [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-gericht-richter-sozialgericht.zip) |
 
 Das Plugin unterstützt die sozialgerichtliche Bearbeitung von Klagen und Eilanträgen. Aus Verwaltungsakte, Beteiligtenvortrag und Beweisergebnissen entsteht ein gerichtlicher Aufklärungsplan oder der beauftragte Urteils- beziehungsweise Beschlussentwurf. Anspruch, Gegenposition und offene Ermittlungen werden neutral geprüft; eine Leistungsbewilligung wird nicht vorweggenommen.
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.

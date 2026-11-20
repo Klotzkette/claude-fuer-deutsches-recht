@@ -116,7 +116,7 @@ class PreservationTests(unittest.TestCase):
             enhanced.replace("Historische Angabe", "Geänderter Sachverhalt"),
             enhanced.replace(row, row * 2),
             enhanced.replace(row, V["central_row"]("akha-wuerzburg-glatteis") + "\n"),
-            enhanced.replace("lesepaket-01.zip", "lesepaket-99.zip"),
+            enhanced.replace(row, row[:row.rindex("/")+1] + "Falsches-Druckpaket.zip) |\n"),
             original + row,
         ):
             with self.subTest(text=altered):

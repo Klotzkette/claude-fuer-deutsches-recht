@@ -67,7 +67,7 @@ Für den ersten Durchgang öffnen Sie im Arbeits-ZIP `Grundakte/00_Posteingang`.
 
 | Fall | Originalunterlagen und Eingangspost | Lesefassungen |
 | --- | --- | --- |
-| Testakte ArbG Musterstadt 3 Ca 567/26 — Kündigungsschutzklage betriebsbedingt mit streitiger Sozialauswahl | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-gericht-richter-arbeitsgericht.zip) | [Druckpaket 18](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-18.zip) |
+| Testakte ArbG Musterstadt 3 Ca 567/26 — Kündigungsschutzklage betriebsbedingt mit streitiger Sozialauswahl | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-gericht-richter-arbeitsgericht.zip) | [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-gericht-richter-arbeitsgericht.zip) |
 
 Das Plugin unterstützt die richterliche Bearbeitung arbeitsgerichtlicher Verfahren: Streitgegenstand und Verfahrensstand einordnen, den Güte- oder Kammertermin vorbereiten und ein begründetes Urteil oder einen Beschluss entwerfen. Es vertritt weder Arbeitgeber noch Arbeitnehmer und entwirft keine Kündigung als Parteimaßnahme.
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.

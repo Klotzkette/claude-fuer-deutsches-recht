@@ -15,7 +15,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip) · [Druckpaket 37](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-37.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/sozialrecht-pflegegrad-demenz-nachtwache-trier_gesamt.pdf`](gesamt-pdf/sozialrecht-pflegegrad-demenz-nachtwache-trier_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier-einzelpdfs.zip) |

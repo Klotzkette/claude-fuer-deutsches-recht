@@ -13,7 +13,7 @@
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-neuralis-medtech-erlangen-gestaltungsakte.zip) · [Druckpaket 29](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-29.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-neuralis-medtech-erlangen-gestaltungsakte.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-neuralis-medtech-erlangen-gestaltungsakte.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/neuralis-medtech-erlangen-gestaltungsakte_gesamt.pdf`](gesamt-pdf/neuralis-medtech-erlangen-gestaltungsakte_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-neuralis-medtech-erlangen-gestaltungsakte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/werkstatt-partnerakten-v1.0.0/testakte-neuralis-medtech-erlangen-gestaltungsakte.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-neuralis-medtech-erlangen-gestaltungsakte-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/werkstatt-partnerakten-v1.0.0/testakte-neuralis-medtech-erlangen-gestaltungsakte-einzelpdfs.zip) |

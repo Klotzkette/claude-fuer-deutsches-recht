@@ -84,7 +84,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-notariat-berlin-vae-vertretungsnachweis.zip) · [Druckpaket 30](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-30.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-notariat-berlin-vae-vertretungsnachweis.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-notariat-berlin-vae-vertretungsnachweis.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/notariat-berlin-vae-vertretungsnachweis_gesamt.pdf`](gesamt-pdf/notariat-berlin-vae-vertretungsnachweis_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-notariat-berlin-vae-vertretungsnachweis.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-notariat-berlin-vae-vertretungsnachweis.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-notariat-berlin-vae-vertretungsnachweis-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/notariat-v445.35.8/testakte-notariat-berlin-vae-vertretungsnachweis-einzelpdfs.zip) |

@@ -3,6 +3,8 @@
 
 # 1. Gesellschafterversammlungs-Organisator für GmbH und UG
 
+[Grundakten für Gesellschaftsrecht mit Eingangspost, Rückfragen und Belegen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/Fachakten.md#gesellschaftsrecht)
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 <!-- decimal-anchor --> <a id="was-ist-das-hier"></a>
 
