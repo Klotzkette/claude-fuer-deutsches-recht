@@ -31,7 +31,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | Kategorie | Plugins |
 | --- | ---: |
 | [Agrarrecht](#agrarrecht) | 2 |
-| [Anwaltliches Berufsrecht und Kanzleimanagement](#anwaltliches-berufsrecht-und-kanzleimanagement) | 17 |
+| [Anwaltliches Berufsrecht und Kanzleimanagement](#anwaltliches-berufsrecht-und-kanzleimanagement) | 18 |
 | [Arbeitsrecht](#arbeitsrecht) | 8 |
 | [Bank- und Kapitalmarktrecht](#bank--und-kapitalmarktrecht) | 7 |
 | [Bau- und Architektenrecht](#bau--und-architektenrecht) | 8 |
@@ -65,7 +65,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 4 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 39 |
 
-276 kuratierte Plugins in 34 Kategorien, aus insgesamt 312 Marketplace-Plugins (Abgleich: 18. November 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien. Die [Grundstücksrecherche](./grundstuecksrecherche/README.md) ist eine lokale App ohne eigenständige Begleitprompts und gehört deshalb nicht zu dieser kuratierten Promptauswahl.
+277 kuratierte Plugins in 34 Kategorien, aus insgesamt 313 Marketplace-Plugins (Abgleich: 20. November 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien. Die [Grundstücksrecherche](./grundstuecksrecherche/README.md) ist eine lokale App ohne eigenständige Begleitprompts und gehört deshalb nicht zu dieser kuratierten Promptauswahl.
 
 ## Agrarrecht
 
@@ -74,6 +74,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 
 ## Anwaltliches Berufsrecht und Kanzleimanagement
 
+- [allgemeines-notariat](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/allgemeines-notariat): Begleitet das notarielle Amtsgeschäft vom Erstkontakt bis zum Vollzug. Werkstatt- und Mini-Prompt behandeln unter anderem Willensermittlung, Vertretungsnachweise, Urkundenentwurf und Registervollzug. Mit zwanzig Übungsakten.
 - [anwaltschaft-generell](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/anwaltschaft-generell): Wirtschaftliche Alltagsmandate vom Aktenstand zum Schreiben: Ansprüche, Vertragsänderungen, AGB, Arbeit und Datenschutz; Beweis, Frist und Rechnung führen zum verwendbaren Brief, Vergleich oder Schriftsatz. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anwaltschaft-generell/anwaltschaft-generell-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anwaltschaft-generell/anwaltschaft-generell-werkstatt.md)
 - [berufsgerichtliche-verfahren-freie-berufe](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsgerichtliche-verfahren-freie-berufe): Plugin für anwaltsgerichtliche und berufsgerichtliche Verfahren gegen Anwälte, Patentanwälte, Steuerberater, Wirtschaftsprüfer und Notare: Kammeraufsicht… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsgerichtliche-verfahren-freie-berufe/berufsgerichtliche-verfahren-freie-berufe-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsgerichtliche-verfahren-freie-berufe/berufsgerichtliche-verfahren-freie-berufe-werkstatt.md)
 - [berufsrecht-anwaelte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-anwaelte): Plugin für anwaltliches Berufsrecht: BRAO, BORA, FAO, beA, Kanzleisitz, Werbung, Interessenkollision, Verschwiegenheit, KI-/Cloud-Outsourcing, Schatten-KI… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-anwaelte/berufsrecht-anwaelte-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-anwaelte/berufsrecht-anwaelte-werkstatt.md)
