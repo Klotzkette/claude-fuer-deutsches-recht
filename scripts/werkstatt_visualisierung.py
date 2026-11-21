@@ -181,6 +181,8 @@ FAMILY_OVERRIDES = {
     "us-sanktionspruefer": "beziehungen",
 }
 LABEL_OVERRIDES = {
+    "aktenanleger": "die Eröffnung und Zuordnung der Akte",
+    "umwandlungssteuerrecht": "die steuerliche Umstrukturierung",
     "allgemeines-notariat": "die notarielle Amtsentscheidung",
     "jugendmedienschutz-und-medienangebote": "Jugendmedienschutz und Medienangebote",
     "sozialversicherungspflicht-pruefer": "Sozialversicherungsstatus",
@@ -195,6 +197,20 @@ LABEL_OVERRIDES = {
 # Diese Mandate brauchen auch eine eigene Datengrundlage und ein passendes Ergebnis,
 # nicht nur eine andere Zeichnung innerhalb der allgemeinen Themenfamilie.
 ROUTE_OVERRIDES = {
+    "aktenanleger": (
+        "Wer beauftragt wen in welcher Rolle und welches Original löst die erste Aufgabe aus?",
+        "Stelle Auftraggeber, vertretene Person, Gegenpartei, Amtsbeteiligte und interne Freigabe nebeneinander. Belege die Zuordnung durch Nachricht und Anlage.",
+        "Prüfe bei einer nachgereichten Vollmacht oder einem Alttreffer nur die betroffenen Rollen, Zugänge und Fristen erneut. Halte die Prüfung bei offenem Widerstreit in der geschützten Eingangsablage.",
+        "Eingang mit Zeitstempel, Rolle, Belegstelle, Zugriffsentscheidung, Fristbeleg, zuständige Person und Wiedervorlage",
+        "Aktenstamm, erste Aufgaben und das konkret benötigte Schreiben",
+    ),
+    "umwandlungssteuerrecht": (
+        "Was wird von welchem Rechtsträger auf welchen anderen übertragen, wann und gegen welche Gegenleistung?",
+        "Zeige die Beteiligungen vor und nach dem Vollzug und ordne jeder übertragenen oder zurückbehaltenen Position den belegten Buchwert und den gemeinen Wert zu.",
+        "Stelle auf derselben Wertbrücke die gesicherte Variante und die Auswirkung der fehlenden Zuordnung gegenüber. Bei späterem Verkauf nur den belegten Anteil und die tatsächlich abgelaufenen Zeitjahre ansetzen.",
+        "Beteiligungs- und Stimmrechte, steuerlicher Stichtag, Vertragsfassung, Bilanzwerte, Antrags- und Einlieferungsbeleg",
+        "Entscheidungsvorlage mit Wertansatz, Antragsweg, Rechenanlage und nächsten Nachweisen",
+    ),
     "allgemeines-notariat": (
         "Welchen Willen hat jede beteiligte Person geäußert, und welche Urkunden- oder Vollzugshandlung trägt der belegte Stand?",
         "Ordne Wunsch, Erklärung und Nachweis jeder Person zu. Zeige der Notarin zuerst den nächsten entscheidbaren Schritt und die offene Voraussetzung, etwa den Inhalt einer Löschungsbewilligung oder die persönliche Erklärung eines Elternteils.",

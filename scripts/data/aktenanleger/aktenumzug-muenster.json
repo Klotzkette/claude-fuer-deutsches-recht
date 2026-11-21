@@ -1,0 +1,146 @@
+{
+  "id": "aktenumzug-muenster",
+  "titel": "Die Kiste ohne Auftrag",
+  "ort": "Münster",
+  "einstieg": "Die Kanzlei Westentor verlegt ihr Papierarchiv in ein anderes Stockwerk. Ein Transporteur fordert eine Liste mit Mandantennamen. Gleichzeitig erscheint eine nicht angemeldete Firma zur Abholung. Der Eingang betrifft die eigene Büroorganisation.",
+  "auftrag": "Legen Sie eine interne Verwaltungsakte für den Archivumzug an. Trennen Sie die Entscheidungsunterlagen von geschützten Handakten. Bereiten Sie die interne Übergabe und die Antwort an den Dienstleister vor.",
+  "unterlagen": [
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "titel": "Bitte ein Projekt für das Archiv anlegen",
+      "datum": "2026-10-05",
+      "von": "Jasmin Wilde, Büroleitung Kanzlei Westentor",
+      "an": "Verwaltung Kanzlei Westentor",
+      "text": [
+        "Am Donnerstag soll das Papierarchiv aus dem Keller ins zweite Obergeschoss, weil unten die Heizungsleitungen ausgetauscht werden. Der Hausmeister lässt nur vormittags Lastenfahrten zu. Herr Beil möchte wissen, wer den Transport beaufsichtigt und welche Kisten aus der Etage dürfen.",
+        "Bitte nehmen Sie Vertrag, Angebote und Zeitfenster in eine Verwaltungssache auf. Es soll kein Mandat für den Spediteur entstehen. Die Liste mit Namen unserer alten Mandanten bleibt bei mir im verschlossenen Schrank."
+      ],
+      "anlage_nr": 2
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Auftragsbestätigung WT-61 mit Offenpunkt",
+      "datum": "2026-09-21",
+      "von": "Werse Transport eG",
+      "an": "Kanzlei Westentor",
+      "text": [
+        "Tragen von 24 verschlossenen Behältern innerhalb des Gebäudes. Strecke Kellerraum K1 bis Archiv 2.14. Auftragssumme 920 Euro netto, einschließlich vier Stunden und dreier Beschäftigter. Eine Lagerung in fremden Räumen ist nicht vereinbart.",
+        "Unter Ziffer 5 des Angebots heißt es: Einsatz eigener Beschäftigter. Eine Änderung des Personaleinsatzes wird vor Arbeitsbeginn abgestimmt. Spezialabrede zur Verschwiegenheit war angekündigt und ist bei diesem Ausdruck nicht angeheftet. Ausführung am 8. Oktober, ab 08.30 Uhr."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "titel": "Behälterlaufzettel K1 nach 2.14",
+      "datum": "2026-10-02",
+      "von": "Archivteam Westentor",
+      "an": "Büroleitung",
+      "text": [
+        "Behälter | Startplatz | Zielplatz | Siegel vorab | Bemerkung",
+        "W01 bis W10 | K1 Regal West | 2.14 Regal A | 801 bis 810 | nur fortlaufende Nummer außen",
+        "W11 bis W21 | K1 Regal Süd | 2.14 Regal B | 811 bis 821 | Rollwagen A",
+        "W22 bis W24 | K1 Schrank | 2.14 Schrank | 822 bis 824 | Gegenzeichnung vor Ort"
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "titel": "Können Sie die Einzelakten benennen?",
+      "datum": "2026-10-05",
+      "von": "Tjark Nölke, Disposition Werse Transport",
+      "an": "Büroleitung Westentor",
+      "text": [
+        "Unsere Disposition hat für Versicherungszwecke nach einer Liste mit den einzelnen Eigentümern der Inhalte gefragt. Ein Kollege hat angeboten, einen Teil der Fahrt mit seiner Truppe Stiegentrans zu übernehmen. Kann ich den beiden die Namen vorab schicken?",
+        "Wir würden gern in einem Durchgang bis 11 Uhr fertig werden. Bitte teilen Sie uns mit, welche Angaben auf unseren Fahrbeleg sollen. Den aktualisierten Personaleinsatz haben wir im Angebot noch nicht nachgetragen."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "titel": "Aufzugsfenster und Schlüssel",
+      "datum": "2026-10-05",
+      "von": "Hanno Lücke, Hausverwaltung",
+      "an": "Westentor Empfang",
+      "text": [
+        "Der Hausaufzug wird am 8. Oktober zwischen 08.15 und 11.00 Uhr für den Transport freigehalten. Zutrittskarten für Keller und Archiv gibt nur der Empfang der Kanzlei aus. Der Aufzug hat keine eigene Zugangskontrolle, der Weg führt durch den öffentlichen Flur.",
+        "Die Heizungsfirma braucht um 11.40 Uhr lediglich die linke Kellerhälfte. Ein nicht freigegebener Behälter kann bis zur Klärung in den abschließbaren rechten Lagerraum versetzt werden. Ich bleibe in Rufweite, unterschreibe aber keine Inhaltsliste."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "chat",
+      "titel": "Auf den Deckeln stehen nur Nummern",
+      "datum": "2026-10-06",
+      "von": "Jasmin Wilde und Archivteam",
+      "an": "Bürochat Kellerumzug",
+      "text": [
+        "Jasmin (08.52 Uhr): Nummer plus Siegel genügt am Behälter. Alte Etiketten mit Namen sind abgezogen.",
+        "Paul (09.02 Uhr): W18 hat einen Riss am Griff. Ich nehme einen Ersatzbehälter. Den Austausch halte ich auf einem neuen Laufzettel fest.",
+        "Jasmin (09.08 Uhr): Die Zuordnungsliste bleibt bei uns. Bitte auch das Foto mit den alten Etiketten nicht in die Umzugsgruppe stellen."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Zusatz zum Auftrag WT-61",
+      "datum": "2026-09-25",
+      "von": "Werse Transport eG und Kanzlei Westentor",
+      "an": "Vertragsmappe",
+      "text": [
+        "Die beim Umzug bekannt werdenden fremden Geheimnisse unterliegen der Verschwiegenheit. Der Dienstleister wurde auf die strafrechtlichen Folgen hingewiesen. Er nimmt nur soweit Kenntnis, wie dies zum Tragen verschlossener Behälter erforderlich ist. Eine Öffnung ist nicht vom Auftrag erfasst.",
+        "Weitere Unternehmen dürfen für diesen Auftrag nicht eingesetzt werden. Die Beschäftigten sind für diesen Einsatz verpflichtet. Für den Vertrag zeichnen T. Nölke und J. Wilde. Nach Abschluss gehen beide Laufzettel an die Kanzlei."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "titel": "Abweichung am Rollwagen B",
+      "datum": "2026-10-07",
+      "von": "Paul Frie, Archivteam",
+      "an": "Jasmin Wilde",
+      "text": [
+        "Der beschädigte Behälter W18 wurde durch W18a ersetzt, neues Siegel 831. Das frühere Siegel 818 ist entwertet. W18a steht am Startplatz von W18. Inhalt blieb in unserem Raum und wurde von zwei Beschäftigten der Kanzlei umgesetzt.",
+        "Daneben steht eine graue Kiste ohne W-Nummer. Auf dem Deckel liegen alte Gebührenumschläge. Niemand aus dem Archivteam erinnert sich an einen Transportauftrag dafür. Die Kiste bleibt bis zur Klärung im Schrank rechts."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "titel": "Fahrer heute Morgen",
+      "datum": "2026-10-08",
+      "von": "Tjark Nölke, Disposition Werse Transport",
+      "an": "Jasmin Wilde",
+      "text": [
+        "Vor Ihrer Tür stehen zwei Mitarbeiter von Stiegentrans, weil bei uns jemand ausgefallen ist. Ich habe gesehen, dass Sie dafür keine Freigabe geschickt haben. Bitte lassen Sie sie warten, bis wir telefoniert haben.",
+        "Zwei eigene Beschäftigte mit Einsatznachweisen können ab 09.30 Uhr zur Verfügung stehen. Wir können auch nur die ersten zwölf Behälter tragen und den Rest auf morgen legen. Namenslisten der Mandanten brauchen wir nach Rücksprache mit unserer Versicherung nicht."
+      ],
+      "antwort_auf": 4
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "notiz",
+      "titel": "Lage um 09.05 Uhr am Empfang",
+      "datum": "2026-10-08",
+      "von": "Jasmin Wilde, Büroleitung",
+      "an": "Partnerdienst Westentor",
+      "text": [
+        "Die beiden fremden Mitarbeiter waren noch im Eingangsbereich. Sie haben weder Schlüssel noch eine Liste erhalten. Der Hausmeister bestätigt, dass das Zeitfenster bis elf bleibt. Archivteam und Transporteur müssen noch besprechen, wer ab halb zehn tatsächlich kommt.",
+        "Die graue Kiste stammt nach Rückruf bei der Buchhaltung aus dem Materiallager und enthält ungeöffnete Blankoumschläge. Die Buchhaltung möchte sie selbst versetzen. Weiterhin liegen 24 W-Behälter für den beauftragten Transport bereit, einschließlich W18a."
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "tabelle",
+      "titel": "Übergabeblatt Transportfreigabe",
+      "datum": "2026-10-08",
+      "von": "Kanzlei Westentor",
+      "an": "Büroleitung",
+      "text": [
+        "Behälternummer | Siegel | Personal und Unternehmen | Zeit Start | Zeit Ziel | Empfang und Abweichung",
+        " | | | | |"
+      ]
+    }
+  ]
+}

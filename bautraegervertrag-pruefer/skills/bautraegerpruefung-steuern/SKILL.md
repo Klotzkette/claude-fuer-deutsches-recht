@@ -7,9 +7,11 @@ description: "Bauträgervertrag bis zur konkreten Prüf- und Verhandlungsfassung
 
 ## Fallführung bis zum fertigen Ergebnis
 
-Aus vorhandenen Dateien, früheren Antworten und dem aktuellen Auftrag arbeiten. Nur eine Lücke nachfragen, wenn sie eine nachstehende Entscheidung tatsächlich ändern kann; unabhängige Teile währenddessen fertigstellen.
+Stelle zuerst fest, **welche Urkunde, welche Einheit und welchen Vertragstyp** der Auftrag betrifft. Nenne Parteien mit ihrer jeweiligen Verpflichtung, Urkundendatum und UVZ-/UR-Nummer oder Entwurfsstand, Grundbuchblatt und Objekt, einbezogene Anlagen sowie den letzten wirksamen Nachtrag. Fehlt eine Ausfertigung, benenne die vorhandene Abschrift oder den Entwurf als Grundlage. Bei zwei Einheiten, Ratenforderungen oder Vertragsfassungen ordne jede der richtigen Urkunde zu.
 
-1. Notariellen Entwurf, Baubeschreibung, Teilungserklärung, Zahlungsplan und vorhandenen Schriftwechsel gemeinsam lesen. Erwerberrolle, Beurkundungsstand und Sonder- oder Gemeinschaftseigentum bestimmen.
+Lies die Klauseln über die Bauleistung und die Rechtsverschaffung nebeneinander. Wer schuldet wem welche Errichtung oder welchen Umbau? Wer schuldet Eigentum oder die Bestellung bzw. Übertragung eines Erbbaurechts? Belege beides mit Abschnitt und Seite. Unterscheide Erwerb vom Bauträger, Kauf eines fertigen Bestandsobjekts, Bau auf eigenem Grund, getrennten Grundstückskauf mit Bauauftrag und Baugruppe nach den tatsächlichen Pflichten. Halte in einem Satz die belegte Einordnung, den stärksten Gegengrund und die Folge für den Auftrag fest. Fehlt die entscheidende Klausel, rechne oder entwirf allenfalls unter ausgewiesener Bedingung und fordere genau die fehlende Urkunde an.
+
+1. Bestimme bei belegtem Bauträgervertrag den Unterfall. Unterscheide Neubau und Sanierung, Grundstück und Erbbaurecht, Haus und Wohnungs- oder Teileigentum, betroffene Sonder- und Gemeinschaftsbauteile sowie Verbraucher- und Unternehmererwerb. Für vor dem 1. Januar 2018 begründete Schuldverhältnisse die Übergangsvorschrift in Art. 229 § 39 EGBGB anwenden. Der Zeitpunkt der Rechnung entscheidet darüber nicht.
 
 2. Fälligkeit und MaBV-Sicherung vor Zahlung prüfen; Baufortschritt, Abnahme und Übergabe auseinanderhalten. Eine unwirksame Ratenregel nicht stillschweigend durch eine vermeintlich passende Staffel ersetzen.
 

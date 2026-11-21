@@ -31,7 +31,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | Kategorie | Plugins |
 | --- | ---: |
 | [Agrarrecht](#agrarrecht) | 2 |
-| [Anwaltliches Berufsrecht und Kanzleimanagement](#anwaltliches-berufsrecht-und-kanzleimanagement) | 18 |
+| [Anwaltliches Berufsrecht und Kanzleimanagement](#anwaltliches-berufsrecht-und-kanzleimanagement) | 19 |
 | [Arbeitsrecht](#arbeitsrecht) | 8 |
 | [Bank- und Kapitalmarktrecht](#bank--und-kapitalmarktrecht) | 7 |
 | [Bau- und Architektenrecht](#bau--und-architektenrecht) | 8 |
@@ -55,7 +55,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Sozialrecht](#sozialrecht) | 6 |
 | [Sportrecht](#sportrecht) | 1 |
 | [Sprache, Lehre und Hilfsskills](#sprache-lehre-und-hilfsskills) | 9 |
-| [Steuerrecht](#steuerrecht) | 4 |
+| [Steuerrecht](#steuerrecht) | 5 |
 | [Strafrecht](#strafrecht) | 10 |
 | [Transport- und Speditionsrecht](#transport--und-speditionsrecht) | 5 |
 | [Urheber- und Medienrecht](#urheber--und-medienrecht) | 6 |
@@ -65,7 +65,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 4 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 39 |
 
-277 kuratierte Plugins in 34 Kategorien, aus insgesamt 313 Marketplace-Plugins (Abgleich: 20. November 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien. Die [Grundstücksrecherche](./grundstuecksrecherche/README.md) ist eine lokale App ohne eigenständige Begleitprompts und gehört deshalb nicht zu dieser kuratierten Promptauswahl.
+279 kuratierte Plugins in 34 Kategorien, aus insgesamt 315 Marketplace-Plugins (Abgleich: 21. November 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien. Die [Grundstücksrecherche](./grundstuecksrecherche/README.md) ist eine lokale App ohne eigenständige Begleitprompts und gehört deshalb nicht zu dieser kuratierten Promptauswahl.
 
 ## Agrarrecht
 
@@ -74,6 +74,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 
 ## Anwaltliches Berufsrecht und Kanzleimanagement
 
+- [aktenanleger](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenanleger): Bereitet Aktenanlagen in Anwaltskanzlei, Anwaltsnotariat und Nurnotariat vor. Ordnet Eingangspost, Beteiligte, Auftrag, Fristen, Vorbefassung und getrennte Zugriffsrechte zu.
 - [allgemeines-notariat](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/allgemeines-notariat): Begleitet das notarielle Amtsgeschäft vom Erstkontakt bis zum Vollzug. Werkstatt- und Mini-Prompt behandeln unter anderem Willensermittlung, Vertretungsnachweise, Urkundenentwurf und Registervollzug. Mit zwanzig Übungsakten.
 - [anwaltschaft-generell](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/anwaltschaft-generell): Wirtschaftliche Alltagsmandate vom Aktenstand zum Schreiben: Ansprüche, Vertragsänderungen, AGB, Arbeit und Datenschutz; Beweis, Frist und Rechnung führen zum verwendbaren Brief, Vergleich oder Schriftsatz. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anwaltschaft-generell/anwaltschaft-generell-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anwaltschaft-generell/anwaltschaft-generell-werkstatt.md)
 - [berufsgerichtliche-verfahren-freie-berufe](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsgerichtliche-verfahren-freie-berufe): Plugin für anwaltsgerichtliche und berufsgerichtliche Verfahren gegen Anwälte, Patentanwälte, Steuerberater, Wirtschaftsprüfer und Notare: Kammeraufsicht… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsgerichtliche-verfahren-freie-berufe/berufsgerichtliche-verfahren-freie-berufe-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsgerichtliche-verfahren-freie-berufe/berufsgerichtliche-verfahren-freie-berufe-werkstatt.md)
@@ -347,6 +348,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 - [forschungszulage-antragstellung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/forschungszulage-antragstellung): Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=forschungszulage-antragstellung/forschungszulage-antragstellung-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=forschungszulage-antragstellung/forschungszulage-antragstellung-werkstatt.md)
 - [grundsteuerrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grundsteuerrecht): Grundstücksbelege und Bescheidkette prüfen, Wert und Steuer nachrechnen und den passenden Einspruch, Änderungs- oder Eilantrag entwerfen. Zehn konkrete Arbeitswege mit Berliner Fallbezug und getrennten Landesmodellen. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/grundsteuerrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/grundsteuerrecht-werkstatt.md)
 - [steuerrecht-anwalt-und-berater](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater): Steuerrecht für Anwalt (anw- FAO Paragraf 9) und Steuerberater (stb-): Einspruch Klage FG Außenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md)
+- [umwandlungssteuerrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umwandlungssteuerrecht): Begleitet Umstrukturierungen von der Ausgangsbilanz bis zu Anträgen und Nachweisen. Prüft steuerliche Übertragungsstichtage, Wertansätze, stille Reserven, Gegenleistungen und Sperrfristen.
 
 ## Strafrecht
 

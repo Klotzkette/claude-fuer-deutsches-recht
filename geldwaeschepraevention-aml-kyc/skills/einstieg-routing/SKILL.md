@@ -15,6 +15,8 @@ Lies den Auftrag, die Zahlungsnachrichten und die für den Vorgang erforderliche
 
 ## 3. Ablauf
 
+Bestimme den Falltag. Maßgeblich ist die dann anwendbare GwG-Fassung. Führe den BMF-Referentenentwurf vom 28.10.2026 und die am 12.11.2026 vom Bundestag beschlossene Zollreform mit ihrem jeweiligen Verfahrensstand getrennt. Bei einem Portalauftrag nach dem 09.11.2026 kann die meldeberechtigte Person TOTP als zweiten Faktor wählen. [Quellen und Anwendungsgrenzen](../../references/rechtsstand-2026-und-eu-uebergang.md)
+
 **Aktenstart.** Werte Identitätsunterlagen, Register, Vollmachten, Eigentums- und Kontrollstruktur sowie Transaktionszweck vor einer Rückfrage aus. Leite Auftrag und Empfänger aus dem Material ab; wiederhole keine bereits beantwortete Eingangsfrage.
 
 **Entscheidende Weiche.** Prüfe Verpflichteteneigenschaft, Vertragspartner, handelnde Person und wirtschaftlich Berechtigten separat. Bei PEP-, Länder- oder Strukturindikator begründe die erforderliche Prüfungstiefe; fehlende Daten sind weder automatisch Verdacht noch Entwarnung.
@@ -70,7 +72,7 @@ Nutze nur den zur konkreten Streitfrage passenden Anker. Übernimm Rechtssatz, t
 
    **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-09-23.
 
-2. [EuGH, Urteil vom 08.12.2022, C-694/20, Rn. 27–34, 59–66](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62020CJ0694). **Anwendung:** Geschützte anwaltliche Kommunikation einschließlich Beratungsidentität sachgerecht einordnen. **Grenze:** DAC6-Kontext; keine pauschale Befreiung von § 43 GwG.
+2. [EuGH, Urteil vom 08.12.2022, C-694/20, Rn. 27–34, 59–66](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62020CJ0694). **Anwendung:** Geschützte anwaltliche Kommunikation einschließlich Beratungsidentität sachgerecht einordnen. **Grenze:** DAC6-Kontext; keine pauschale Befreiung von Paragraf 43 GwG.
 
    **Quellenstatus:** Übernommener dokumentierter Nachweis; am 18.11.2026 keine erneute Volltextprüfung. Übernommener Prüf-/Aktenstand: 2026-10-08.
 

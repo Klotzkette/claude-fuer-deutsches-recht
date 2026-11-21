@@ -67,6 +67,8 @@ Geben Sie das Ergebnis an KYC und bei strukturellen Schwächen an [Risikoanalyse
 
 ## 4. Quellenpflicht
 
+EuGH, Urteil vom 11.06.2026, C-81/24, *Jenec*, ECLI:EU:C:2026:470, Rn. 44–55. Eine Bank hatte einem Verbraucher das Basiskonto allein wegen seiner Listung durch das US-amerikanische OFAC verweigert. Der Gerichtshof verlangt eine individuelle Bewertung des Geldwäscherisikos. Zu prüfen ist auch, ob das Institut ein festgestelltes Risiko wirksam beherrschen kann. Art, Identität und Reichweite des Treffers dokumentieren. Ein unmittelbar geltendes Bereitstellungsverbot und ein möglicher US-Bezug sind getrennt zu prüfen. Die Entscheidung begründet keinen allgemeinen Anspruch auf Mandatsannahme. [Urteil im Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62024CJ0081)
+
 Die [Quellenreferenz](../../references/organisation-quellen.md) dokumentiert gelesene Normen und Volltexte; verwenden Sie die [Zitierweise](../../references/zitierweise.md). Konkrete Listenzuordnungen werden vor Anwendung aktuell überprüft. Die Bundesbank-FAQ mit Stand Juni 2026 erläutert die Verwaltungssicht, ersetzt aber weder den Rechtsakt noch eine erforderliche Genehmigung.
 
 EuGH, Urteil vom 12.03.2026, C-84/24, EM System, ECLI:EU:C:2026:181, Rn. 86 bis 93, 96 bis 97 und 112: **Trägt:** Kontrollkriterien, die widerlegbare Kontrollvermutung bei der behandelten Beteiligung von 50 Prozent und die Selbständigkeit des Einfrierens gegenüber dem Bereitstellungsverbot nach der geprüften Verordnung Nr. 765/2006. **Trägt nicht:** eine allgemeine GwG-Eigentumsschwelle oder eine unwiderlegbare Listung jeder verbundenen Gesellschaft.

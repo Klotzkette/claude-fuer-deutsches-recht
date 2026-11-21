@@ -28,6 +28,16 @@
       }
     },
     {
+      "name": "aktenanleger",
+      "version": "445.36.10",
+      "description": "Bereitet Aktenanlagen in Anwaltskanzlei, Anwaltsnotariat und Nurnotariat vor. Ordnet Eingangspost, Beteiligte, Auftrag, Fristen, Vorbefassung und getrennte Zugriffsrechte zu.",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      },
+      "source": "./aktenanleger"
+    },
+    {
       "name": "aktenaufbereiter-strafrecht",
       "source": "./aktenaufbereiter-strafrecht",
       "description": "Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Luecken und Widersprueche. Kein Ersatz für Aktenlektuere.",
@@ -191,7 +201,7 @@
       "name": "bautraegervertrag-pruefer",
       "source": "./bautraegervertrag-pruefer",
       "description": "Prüft Bauträgerverträge aus Erwerber-, Bauträger-, GdWE- und Verwaltersicht: Bausoll, MaBV-Raten, Sicherheiten, Eigentum, Abnahme, Mängel, Verjährung und Sonderkonstellationen. Zehn Arbeitswege verbinden beide Fachbibliotheken und alle bisherigen Testakten.",
-      "version": "445.36.9",
+      "version": "445.36.10",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1149,7 +1159,7 @@
     },
     {
       "name": "geldwaeschebeauftragter",
-      "version": "445.36.9",
+      "version": "445.36.10",
       "description": "Geldwäschebeauftragte im Unternehmen, in Anwaltskanzlei und Notariat: zehn Fachabläufe und ein Hauptproblem-Skill für Organisation, KYC, Kontrolle, Immobilien, FIU, Vertraulichkeit, Aufsicht und Nachverfolgung.",
       "author": {
         "name": "Klotzkette",
@@ -1161,7 +1171,7 @@
       "name": "geldwaeschepraevention-aml-kyc",
       "source": "./geldwaeschepraevention-aml-kyc",
       "description": "Geldwaeschepruefung in Kanzlei, Unternehmen und Notariat: 20 Fachablaeufe fuer Verpflichtetenstatus, KYC, UBO, Immobilienzahlungen, FIU-Meldung, Kontrollen und EU-Umstellung. Geltendes Recht 2026 und Pflichten ab 2027 bleiben getrennt.",
-      "version": "445.36.9",
+      "version": "445.36.10",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2804,6 +2814,16 @@
         "email": "39582916+Klotzkette@users.noreply.github.com"
       },
       "source": "./transparenzregister-assistent"
+    },
+    {
+      "name": "umwandlungssteuerrecht",
+      "version": "445.36.10",
+      "description": "Begleitet Umstrukturierungen von der Ausgangsbilanz bis zu Anträgen und Nachweisen. Prüft steuerliche Übertragungsstichtage, Wertansätze, stille Reserven, Gegenleistungen und Sperrfristen.",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      },
+      "source": "./umwandlungssteuerrecht"
     },
     {
       "name": "umweltrecht",

@@ -1,6 +1,6 @@
 # 1. Geldwäscheprüfung: Rechtsstand und Übergang
 
-Prüfstand: 8. September 2026. Geltende Pflichten, verkündetes Zukunftsrecht und Vorhaben sind getrennt. Tagesabhängige Länder- und Sanktionslisten vor einer Entscheidung erneut prüfen. Ein fehlender Abruf bedeutet nicht, dass kein Treffer besteht.
+Grundprüfung vom 8. September 2026. Der Abgleich vom 21. November 2026 umfasst GwG-Fassung, EU-Anwendungsbeginn, Gesetzgebungsvorhaben, goAML und Sanktionstreffer. Geltende Pflichten, verkündetes Zukunftsrecht und Vorhaben sind getrennt. Tagesabhängige Länder- und Sanktionslisten vor einer Entscheidung erneut prüfen. Ein fehlender Abruf bedeutet nicht, dass kein Treffer besteht.
 
 ## 1.1. Geltendes deutsches Recht
 
@@ -33,6 +33,8 @@ Bei Eigentumsumschreibung Zahlungsschlüssigkeit, Nachforderung, Meldung und Vol
 
 ## 1.3. Meldefrist und Kommunikation
 
+Seit 09.11.2026 kann die berechtigte Person in goAML Web als zweiten Faktor einen zeitbasierten Einmalcode (TOTP) nutzen. Der E-Mail-Code bleibt verfügbar. Die FIU empfiehlt TOTP. Klären Sie, wer Zugang hat und die Empfangsbestätigung sichert. Im Aktenvermerk genügen Zuständigkeit, Versandzeit und belegter Eingang. Zugangsdaten und Codes bleiben bei der meldenden Person. Die Änderung betrifft den Zugang zum Portal. Meldeanlass und unverzügliches Handeln richten sich weiterhin nach dem GwG, das Datenformat nach der seit 01.03.2026 geltenden GwGMeldV. [FIU-Handreichung, S. 2–7](https://www.zoll.de/SharedDocs/Downloads/DE/Links-fuer-Inhaltseiten/Fachthemen/FIU/fiu_2_faktoren_authentisierung_20261109.pdf?__blob=publicationFile&v=2)
+
 [GwG Paragraf 46](https://www.gesetze-im-internet.de/gwg_2017/__46.html): Im allgemeinen Fall Zustimmung der FIU oder Staatsanwaltschaft oder Ablauf des dritten Werktags nach dem Abgangstag ohne Untersagung. Samstag zählt nicht. Abgangstag, Wochenenden, Feiertage und frühesten Ausführungszeitpunkt einzeln zeigen. Absatz 2 erfordert eigene Tatsachen und unverzügliche Nachmeldung; geschäftliche Eile genügt nicht. Fristablauf beseitigt weder Sanktionsverbote noch sonstige Hindernisse.
 
 [GwG Paragraf 47](https://www.gesetze-im-internet.de/gwg_2017/__47.html): Bereits die beabsichtigte Meldung kann dem Informationsverbot unterliegen. Ausnahme und Empfängerkreis konkret prüfen. Konzern, gemeinsame Kanzleimarke oder Kundeneinwilligung sind keine Generalerlaubnis. Mandanten von einer rechtswidrigen Handlung abzuhalten ist gesondert geregelt.
@@ -52,7 +54,7 @@ Eine Sanktionssperre braucht einen anwendbaren Rechtsakt, betroffene Person oder
 
 ## 1.5. Vorhaben und Konkretisierung
 
-Das [BMF berichtet am 12. August 2026](https://www.bundesfinanzministerium.de/Content/DE/Pressemitteilungen/Finanzpolitik/2026/08/2026-08-12-zollfinanzgerechtigkeitsgesetz.html) über den Kabinettsbeschluss zum Zollfinanzgerechtigkeitsgesetz. Dieser Nachweis belegt einen Regierungsentwurf, nicht ein verkündetes Gesetz. Vor Anwendung einer daraus abgeleiteten Pflicht Bundesgesetzblatt, Inkrafttreten und Übergangsregel prüfen.
+Der Bundestag hat die Zollreform am 12.11.2026 in der Fassung der Beschlussempfehlung BT-Drs. 21/9136 angenommen. Wer daraus eine konkrete Befugnis oder Pflicht herleitet, muss die dafür verkündete Vorschrift und ihren Anwendungsbeginn belegen. Davon getrennt plant der BMF-Referentenentwurf vom 28.10.2026 ein Geldwäschebekämpfungsgesetz zur Umsetzung der sechsten EU-Geldwäscherichtlinie. Seine Vorschläge gehören in die Umstellungsplanung. Die am Falltag geltende GwG-Fassung bleibt Grundlage der heutigen Annahme-, Melde- und Vollzugsentscheidung. [Bundestagsbeschluss](https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-finanzkriminalitaet-1231490) · [BMF-Referentenentwurf, S. 1–4](https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_VII/21_Legislaturperiode/2026-10-28-E6EUGWRL/1-Referentenentwurf.pdf?__blob=publicationFile&v=3)
 
 AMLA-Konsultation, finalisierter Entwurf eines Standards und von der Kommission erlassener Rechtsakt sind unterschiedliche Stadien. Dokument, Stand, Erlasszuständigkeit, Veröffentlichung und Anwendungsdatum ausweisen. Konsultationsschluss nicht als Compliance-Frist ausgeben. Die [BRAK-Übersicht 2026](https://www.brak.de/die-brak/ausschuesse/geldwaeschepraevention/) zeigt Diskussionen zu Risikoanalyse, Kanzleinetzwerken und Sammelanderkonten; daraus folgt noch kein pauschales Kontoverbot.
 
@@ -63,6 +65,8 @@ EuGH, Urteil vom 22. November 2022, C-37/20 und C-601/20, ECLI:EU:C:2022:912: Be
 EuGH, Urteil vom 26. Juni 2007, C-305/05, ECLI:EU:C:2007:383: Geldwäschepflichten bei bestimmten anwaltlichen Transaktionen und Schutz im Zusammenhang mit Rechtsberatung und Verfahren. Nur unionsrechtlicher Hintergrund; heutige Ausnahme anhand GwG Paragraf 43 Absatz 2 prüfen. Keine generelle Freistellung aller Notariatsgeschäfte. [Amtlicher Eintrag](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62005CJ0305).
 
 ## 1.7. Arbeitsnachweis
+
+EuGH, Urteil vom 11.06.2026, C-81/24, *Jenec*, ECLI:EU:C:2026:470, Rn. 44–55. Eine Bank hatte einem Verbraucher das Basiskonto allein wegen seiner Listung durch das US-amerikanische OFAC verweigert. Der Gerichtshof verlangt eine individuelle Bewertung des Geldwäscherisikos. Zu prüfen ist auch, ob das Institut ein festgestelltes Risiko wirksam beherrschen kann. Art, Identität und Reichweite des Treffers dokumentieren. Ein unmittelbar geltendes Bereitstellungsverbot und ein möglicher US-Bezug sind getrennt zu prüfen. Die Entscheidung begründet keinen allgemeinen Anspruch auf Mandatsannahme. [Urteil im Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62024CJ0081)
 
 Jede tragende Feststellung verbindet Originaldatei, Datum, Tatsache, Normfassung und verantwortliche Entscheidung. Dokumentationspflicht ist keine zivilprozessuale Beweislastumkehr. Bei Bußgeldvorwürfen muss die Behörde Tatbestand und Verschulden feststellen; Mitwirkung und Aussageverweigerung gesondert prüfen.
 

@@ -1,0 +1,12 @@
+{
+  "aktenzeichen": "Eingang-017",
+  "kurzrubrum": "Anfrage zur Forderung aus einer Werkleistung",
+  "rolle": "klaerung",
+  "auftrag": "Eingang zuordnen und den Umfang der gewünschten Vertretung mit der anfragenden Person klären.",
+  "zustaendig": "Eingangsbearbeitung",
+  "konfliktstatus": "offen",
+  "offene_punkte": [
+    "Beteiligte und möglichen Altvorgang abgleichen.",
+    "Eingangsdatum und etwaige laufende Fristen anhand der Originalbelege feststellen."
+  ]
+}

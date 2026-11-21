@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "plugin": "bautraegervertrag-pruefer",
-  "reviewed_on": "2026-11-15",
+  "reviewed_on": "2026-11-21",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__650u.html",
-      "checked_on": "2026-09-14",
-      "supports": "Baupflicht und Eigentumsverschaffung beim Bauträgervertrag."
+      "checked_on": "2026-11-21",
+      "supports": "Kombination der Errichtung oder des Umbaus mit Eigentumsübertragung oder Erbbaurecht und Ausnahmen des Absatzes 2."
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__650v.html",
@@ -15,8 +15,8 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/gewo_34cdv/__3.html",
-      "checked_on": "2026-09-14",
-      "supports": "Allgemeine Sicherungsvoraussetzungen vor Geldannahme und baufortschrittsbezogene Raten."
+      "checked_on": "2026-11-21",
+      "supports": "Erste Stufe nach Beginn der Erdarbeiten bei Eigentum 30 Prozent, bei Erbbaurecht 20 Prozent. Weitere Voraussetzungen bleiben erforderlich."
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/1999/VII_ZR_310-99.pdf?__blob=publicationFile&v=1",
@@ -95,34 +95,56 @@
       "checked_on": "2026-11-15",
       "supports": "BGH, Urteil vom 09.11.2023, VII ZR 241/22, Rn. 32–41: Im dortigen Klauselkontext die für Anspruchsbegründung unterstellte Abnahme nicht ohne Weiteres zum nachteiligen Verjährungsbeginn umdeuten. Tatsächliche spätere Abnahme bleibt gesondert zu prüfen; keine universelle dreißigjährige Mängelhaftung.",
       "verification_status": "gezielte_amtliche_primärquellenprüfung"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650i.html",
+      "checked_on": "2026-11-21",
+      "supports": "Verbraucherbauvertrag über Neubau oder erhebliche Umbaumaßnahmen. Verbrauchereigenschaft und Baupflicht prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgbeg/art_229__39.html",
+      "checked_on": "2026-11-21",
+      "supports": "Für vor 1. Januar 2018 entstandene Schuldverhältnisse gelten die bezeichneten älteren Fassungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/abschlagsv/__1.html",
+      "checked_on": "2026-11-21",
+      "supports": "Ratenvereinbarung, Alternativsicherheit und § 650m Abs. 2 und 3 BGB."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2005/VII_ZR_210-05.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-21",
+      "supports": "Altbau-Gewährleistung, VII ZR 210/05 Rn. 18–22. Maßgeblich sind die übernommenen Bauleistungen und nicht die Vertragsüberschrift."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reviewed_on": "2026-11-15",
-    "reason": "Die Mandatsseite steuert Ergebnis und Gegenposition. Die bisherigen Erwerberbeispiele bleiben erhalten; Bauträgerantwort und Gemeinschaftsauftrag werden ausdrücklich geführt. Beschluss und bloße Mängelanzeige werden nicht mehr mit Verjährungshemmung gleichgesetzt. Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest.",
+    "reviewed_on": "2026-11-21",
+    "reason": "Identität von Urkunde, Fassung und Erwerbsobjekt sowie Verpflichtungen beider Parteien als ersten Arbeitsschritt geprüft. Kauf, Bauvertrag, Baugruppe, Erbbaurecht und Altbausanierung mit unterschiedlichen Prüfwegen.",
     "changes": [
       "Vier Mandatsrollen; keine automatische Rückkehr zur Erwerberperspektive oder ungefragtes Drei-Dokumente-Paket.",
       "Vertragsrechte, gemeinschaftliche Ausübung, Beschluss, Vertretung und tatsächliche Fristwahrung getrennt.",
       "BGH V ZR 213/21 und VII ZR 241/22 mit begrenzter Aussage zu Gemeinschaftsrechten, Abnahme und Verjährung.",
       "Neue Unterlagen ändern nur betroffene Rechnung, Befugnis oder Frist und führen zum vollständigen bestellten Dokument.",
-      "Doppelte Zahlungsplan-Kurzfassung im Einstieg gestrafft; vollständige Rechtsfolge bleibt in Abschnitt 1.2. Mini innerhalb der 7500-Byte-Grenze."
+      "Doppelte Zahlungsplan-Kurzfassung im Einstieg gestrafft; vollständige Rechtsfolge bleibt in Abschnitt 1.2. Mini innerhalb der 7500-Byte-Grenze.",
+      "Erste belegte Vertragszuordnung vor jeder Ratenbewertung. Bei konkurrierenden Fassungen Rückfrage, bei klarem Vertrag Weiterarbeit."
     ],
-    "sha256": "c41a347bab2451551625143ff736e7f254e64c00beba492ba0e28f048a1fdd27",
-    "latest_editorial_scope": "Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest."
+    "sha256": "201258773274d73e453b94d61df60d2bc529bb5a71a8e7d8906b8258744114b0",
+    "latest_editorial_scope": "Identität von Urkunde, Fassung und Erwerbsobjekt sowie Verpflichtungen beider Parteien als ersten Arbeitsschritt geprüft. Kauf, Bauvertrag, Baugruppe, Erbbaurecht und Altbausanierung mit unterschiedlichen Prüfwegen."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reviewed_on": "2026-11-15",
-    "reason": "Die Mandatsseite steuert Ergebnis und Gegenposition. Die bisherigen Erwerberbeispiele bleiben erhalten; Bauträgerantwort und Gemeinschaftsauftrag werden ausdrücklich geführt. Beschluss und bloße Mängelanzeige werden nicht mehr mit Verjährungshemmung gleichgesetzt. Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest.",
+    "reviewed_on": "2026-11-21",
+    "reason": "Identität von Urkunde, Fassung und Erwerbsobjekt sowie Verpflichtungen beider Parteien als ersten Arbeitsschritt geprüft. Kauf, Bauvertrag, Baugruppe, Erbbaurecht und Altbausanierung mit unterschiedlichen Prüfwegen.",
     "changes": [
       "Vier Mandatsrollen; keine automatische Rückkehr zur Erwerberperspektive oder ungefragtes Drei-Dokumente-Paket.",
       "Vertragsrechte, gemeinschaftliche Ausübung, Beschluss, Vertretung und tatsächliche Fristwahrung getrennt.",
       "BGH V ZR 213/21 und VII ZR 241/22 mit begrenzter Aussage zu Gemeinschaftsrechten, Abnahme und Verjährung.",
-      "Neue Unterlagen ändern nur betroffene Rechnung, Befugnis oder Frist und führen zum vollständigen bestellten Dokument."
+      "Neue Unterlagen ändern nur betroffene Rechnung, Befugnis oder Frist und führen zum vollständigen bestellten Dokument.",
+      "Erste belegte Vertragszuordnung vor jeder Ratenbewertung. Bei konkurrierenden Fassungen Rückfrage, bei klarem Vertrag Weiterarbeit."
     ],
-    "sha256": "0d68465896891adf5ae290bc6a8f1347866e351121b78ec30db1205114574f96",
-    "latest_editorial_scope": "Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest."
+    "sha256": "bae489ec5280ad884fe00b2637ab3898e126ccefc63739adbd2b9a0a6c4b99de",
+    "latest_editorial_scope": "Identität von Urkunde, Fassung und Erwerbsobjekt sowie Verpflichtungen beider Parteien als ersten Arbeitsschritt geprüft. Kauf, Bauvertrag, Baugruppe, Erbbaurecht und Altbausanierung mit unterschiedlichen Prüfwegen."
   },
   "selection": {
     "positive": [
@@ -327,22 +349,118 @@
           ]
         }
       ]
+    },
+    {
+      "id": "einheit-sechs-falsche-fassung",
+      "request": "Ihre Mandantin erhält eine Rate über 90.000 Euro. Betreff der Rechnung ist Wohnung 6, UR 81/2026. In der am 3. Juni beurkundeten UR 81/2026 verkauft die Isartal KG ausschließlich Wohnung 4 ohne Baupflicht. Für Wohnung 6 liegt bisher ein Entwurf UVZ 92/2026 vor: Die Isartal Bau GmbH soll das Eigentum übertragen und die Wohnung errichten. Die Mandantin erinnert einen Beurkundungstermin für Wohnung 6. Sie bittet um Antwort an die Rechnungsstellerin. Liefern Sie pruefung.md.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "einheit-sechs-falsche-fassung-1",
+          "text": "Nennt die beiden Rechtsträger, Einheiten und Fassungen vor der Ratenprüfung und ordnet keine Leistung aus dem Entwurf der UR 81 zu.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "einheit-sechs-falsche-fassung-2",
+          "text": "Unterscheidet reinen Verkauf der Wohnung 4 vom möglichen Bauträgervertrag für Wohnung 6. Verlangt beurkundeten Text bzw. Angebot und Annahme sowie korrigierte Forderungszuordnung.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "einheit-sechs-falsche-fassung-3",
+          "text": "Formuliert die Antwort zur belegten Lage. Weder bestreitet es eine mögliche spätere Bindung ohne Aktenbeleg noch gibt es die Rate frei.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ],
+      "target_skill": "bautraegerpruefung-steuern"
+    },
+    {
+      "id": "erbbaurecht-erdarbeiten",
+      "request": "Der Bauträger öffnet die Baustelle. UVZ 210/2026 verpflichtet ihn gegenüber den Erwerbern zur Errichtung eines Hauses und zur Bestellung eines Erbbaurechts. Für 400.000 Euro verlangt er nun nach Beginn der Erdarbeiten 120.000 Euro. Der Vertrag verweist für diese erste Stufe wirksam auf Paragraf 3 MaBV. Alle Voraussetzungen des Absatzes 1 sind belegt. Weitere Baustufen fehlen, Verbrauchersicherheit ist geleistet. Entwerfen Sie eine Antwort. Liefern Sie pruefung.md.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "erbbaurecht-erdarbeiten-1",
+          "text": "Beginnt mit der Zuordnung zu UR 210/2026, Hausbau und Erbbaurechtsbestellung. Unterscheidet die Verpflichtungen sowie den Zahlungsweg.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "erbbaurecht-erdarbeiten-2",
+          "text": "Berechnet aus 400.000 Euro die erste Stufe von 80.000 Euro nach Beginn der Erdarbeiten. Der verlangte Mehrbetrag beträgt 40.000 Euro.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "erbbaurecht-erdarbeiten-3",
+          "text": "Nimmt dem Auftrag entsprechend gegliedert zur konkreten Forderung Stellung und setzt späteren Baufortschritt oder bereits erteilte Freigaben nicht voraus.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ],
+      "target_skill": "bautraegerpruefung-steuern"
+    },
+    {
+      "id": "splitkauf-mit-baubetreuung",
+      "request": "Die Mandantin hat am 7.10.2026 ein unbebautes Grundstück von einer Gemeinde gekauft. Ein Architekt nennt seinen späteren Projektsteuerungsvertrag „Bauträgerpaket“. Der Grundstückskauf ist unabhängig von ihm. Sie als Eigentümerin vergibt alle Baugewerke selbst und zahlt direkt an die Handwerker. Der Architekt schuldet nur Koordination und nimmt eine erste Bauträgerrate für sich in Anspruch. Liefern Sie pruefung.md.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "splitkauf-mit-baubetreuung-1",
+          "text": "Ermittelt, wer Verkäuferin, Auftraggeberin und Projektsteuerer ist und mit welchem Text die behauptete Rate begründet wird.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "splitkauf-mit-baubetreuung-2",
+          "text": "Erkennt auf diesen Angaben keine zusammenhängende Bau- und Rechtsverschaffungspflicht des Architekten. Eigene Beauftragung der Gewerke und Stellung der Gemeinde ausdrücklich verwerten.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "splitkauf-mit-baubetreuung-3",
+          "text": "Prüft die konkret vereinbarte Vergütung für Koordination und begründet eine Antwort, ohne den MaBV-Prozentsatz zur Anspruchsgrundlage zu erklären.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ],
+      "target_skill": "bautraegerpruefung-steuern"
     }
   ],
   "prompt_workflow_review": {
-    "date": "2026-11-15",
+    "date": "2026-11-21",
     "method": "desk_review",
     "opening_modes": [
       "Leerstart: konkrete Raten-, Klausel- oder Abnahmefrage und bei wirklich offener Mandatsseite die vertretene Rolle klären.",
       "Dateien ohne Auftrag: Aktenlage lesen, passende Bearbeitungswege benennen, kein ungefragtes Dokumentenpaket erzeugen.",
       "Klarer Auftrag: benannte Erwerber-, Bauträger-, GdWE- oder Verwalterperspektive übernehmen und den bestellten Text direkt ausarbeiten."
     ],
-    "continuation": "Neuer Grundbuchbeleg verändert Fälligkeitsprüfung, neuer Bautenstandsbericht Betrag und Bauträgerantwort, neuer Gemeinschaftsbeschluss Befugnis. Erst ein tatsächlicher Hemmungstatbestand verändert die darauf bezogene Verjährungsfrage. Neue Angaben in dieselbe Fassung einarbeiten.",
+    "continuation": "Neuer Grundbuchbeleg verändert Fälligkeitsprüfung, neuer Bautenstandsbericht Betrag und Bauträgerantwort, neuer Gemeinschaftsbeschluss Befugnis. Erst ein tatsächlicher Hemmungstatbestand verändert die darauf bezogene Verjährungsfrage. Neue Angaben in dieselbe Fassung einarbeiten. Eine Nachtragsurkunde ändert nur die betroffene Einheit, Leistung und Ratenberechnung.",
     "enrichment": "Zehn fachlich benannte Arbeitswege, sechzig vollständig erreichbare Vertiefungen, belegte Raten-/Klausel-/Abnahmeansicht und vollständiger Empfängertext; ursprüngliche drei Testakten weiterhin separat erreichbar.",
     "limits": "Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest."
   },
   "prompt_editorial_review": {
-    "date": "2026-11-15",
+    "date": "2026-11-21",
     "files": [
       "bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md",
       "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md",
@@ -351,14 +469,16 @@
       "bautraegervertrag-pruefer/references/rechtsprechung-und-rollen.md",
       "bautraegervertrag-pruefer/skills/gemeinschaft-zieht-maengelrechte-an-sich/FACHINHALT.md"
     ],
-    "opening_change": "Vier ausdrückliche Mandatsrollen, Raten-/Abnahmefrage und bestelltes Empfängerdokument steuern den Einstieg; GdWE-Beschluss ersetzt keine Hemmungshandlung.",
+    "opening_change": "Identität von Urkunde, Fassung und Erwerbsobjekt sowie Verpflichtungen beider Parteien als ersten Arbeitsschritt geprüft. Kauf, Bauvertrag, Baugruppe, Erbbaurecht und Altbausanierung mit unterschiedlichen Prüfwegen.",
     "norms": [
       "Paragrafen 134, 307, 640 und 641 BGB",
       "Paragrafen 650u, 650v und 650m Absatz 2 und 3 BGB",
       "Paragrafen 3, 7 und 12 MaBV",
       "Paragraf 1 AbschlagsV",
       "Paragrafen 203, 204 und 634a BGB",
-      "Paragrafen 9a, 18 und 19 WEG"
+      "Paragrafen 9a, 18 und 19 WEG",
+      "Art. 229 § 39 EGBGB",
+      "§ 650i BGB"
     ],
     "decisions": [
       {
@@ -403,13 +523,20 @@
         "limit": "Unwirksame Erstverwalterklausel und konkrete Vertrags-/Prozesslage; spätere tatsächliche Abnahme eigenständig prüfen.",
         "checked_on": "2026-11-15",
         "verification_status": "gezielte_amtliche_primärquellenprüfung"
+      },
+      {
+        "citation": "BGH, Urteil vom 26.04.2007, VII ZR 210/05, Rn. 18–22",
+        "application": "Die versprochene Sanierung und die Aufstockung bestimmten im Einzelfall die Gewährleistung für die betroffene Bausubstanz.",
+        "limit": "Altfall zum Gewährleistungsrecht, keine pauschale Aussage zur Fälligkeit, MaBV oder jedem sanierten Altbau.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2005/VII_ZR_210-05.pdf?__blob=publicationFile&v=1"
       }
     ],
     "remaining_limits": [
       "Desk- und Quellenreview, kein Live-Client- oder Modelltest.",
       "Weitere ausdrücklich bezeichnete Rechercheentscheidungen zu Nachzüglern und Schäden wurden nicht neu verifiziert; technische Zustandsprüfung bleibt sachverständig.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet.",
-      "Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest. Frühere Prüfdaten und historische Hashnachweise bleiben unverändert in der Prüfungshistorie erhalten."
+      "Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest. Frühere Prüfdaten und historische Hashnachweise bleiben unverändert in der Prüfungshistorie erhalten.",
+      "Fokussierte Prüfung der genannten Quellen. Kein Live-Modelllauf, Portalzugang oder Vollaudit unveränderter Rechtsgebiete."
     ]
   },
   "source_audit_2026_10_01_breit": {
@@ -557,16 +684,16 @@
     "bautraegervertrag-pruefer/skills/arbeitsprodukt-bearbeiten/SKILL.md": "fce9211620d3323a02e2f2b8ad63356319f29e798f31c8c604d0aa996968dd91",
     "bautraegervertrag-pruefer/skills/architekt-bearbeiten/SKILL.md": "544af2a76fd45ec67144c2252ed4f1489e805fa4a82ae06d09cbc87a370e23b1",
     "bautraegervertrag-pruefer/skills/bauablauf-bearbeiten/SKILL.md": "b7e7a6fe58e2727299fd2cb264359304ad5a240a9e3e2849a69a537d87038cc6",
-    "bautraegervertrag-pruefer/skills/bautraegerpruefung-steuern/SKILL.md": "6d330440235f560f5856859750306e14e709b76cff3ede0c68715904fe4ca53c",
-    "bautraegervertrag-pruefer/skills/juristischer-argumentationskern/SKILL.md": "510eda2ffa200e1fc422c03268558b81283e490bfd680824812a58039930e2ab",
+    "bautraegervertrag-pruefer/skills/bautraegerpruefung-steuern/SKILL.md": "04e0f2cb79c96998f28b5cc4acd9b043e4f64ce666a6e5d2df1ff561fbfb261a",
+    "bautraegervertrag-pruefer/skills/juristischer-argumentationskern/SKILL.md": "c96b3f299fc7b5df8ac004f71824e7e4e2bee70b5c993964ad980f60bab5b197",
     "bautraegervertrag-pruefer/skills/raten-sicherheiten-eigentum-pruefen/SKILL.md": "84fe9a7d6e1b298f45e5a896050392d3980ec81ab87a332907798236cb9c5ee6",
     "bautraegervertrag-pruefer/skills/sonderfaelle-baugruppe-sanierung-pruefen/SKILL.md": "391d158d15e44f52d3042ffda21885befa554262bb163f1e2496aff9d730bca7",
     "bautraegervertrag-pruefer/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md": "aabb340d6ec952955f710389f3110b8c7e6660efe2b5b08f554e71d091dafa68",
     "bautraegervertrag-pruefer/skills/vertragssoll-bearbeiten/SKILL.md": "731ed316582cb6776f3a03d197629393eeee6439f8f5f7f451af4870489a8274"
   },
   "reviewed_file_hashes": {
-    "bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md": "c41a347bab2451551625143ff736e7f254e64c00beba492ba0e28f048a1fdd27",
-    "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md": "0d68465896891adf5ae290bc6a8f1347866e351121b78ec30db1205114574f96",
+    "bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md": "201258773274d73e453b94d61df60d2bc529bb5a71a8e7d8906b8258744114b0",
+    "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md": "bae489ec5280ad884fe00b2637ab3898e126ccefc63739adbd2b9a0a6c4b99de",
     "bautraegervertrag-pruefer/references/rechtsprechung-und-rollen.md": "e5843494c388d65291c1b97ead0043ea59cde0363ba744e28478b4a646fcd03c",
     "bautraegervertrag-pruefer/skills/gemeinschaft-zieht-maengelrechte-an-sich/FACHINHALT.md": "d65fb5fd1fd04d47bace20ae076f5dd1cc05f862c4ddaa37f9e9aa5363f9e964"
   },
@@ -594,5 +721,118 @@
   "skill_opening_review_2026_11_16": {
     "method": "desk_review",
     "scope": "Konkreter Vertrags- und Belegabgleich im Einstieg, Quellen- und Rollenregeln sowie der getrennte Auftrag für mehrere Dokumente beibehalten."
+  },
+  "reviews_before_2026_11_21": {
+    "reviewed_on": "2026-11-15",
+    "mini_review": {
+      "verdict": "revised",
+      "reviewed_on": "2026-11-15",
+      "reason": "Die Mandatsseite steuert Ergebnis und Gegenposition. Die bisherigen Erwerberbeispiele bleiben erhalten; Bauträgerantwort und Gemeinschaftsauftrag werden ausdrücklich geführt. Beschluss und bloße Mängelanzeige werden nicht mehr mit Verjährungshemmung gleichgesetzt. Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest.",
+      "changes": [
+        "Vier Mandatsrollen; keine automatische Rückkehr zur Erwerberperspektive oder ungefragtes Drei-Dokumente-Paket.",
+        "Vertragsrechte, gemeinschaftliche Ausübung, Beschluss, Vertretung und tatsächliche Fristwahrung getrennt.",
+        "BGH V ZR 213/21 und VII ZR 241/22 mit begrenzter Aussage zu Gemeinschaftsrechten, Abnahme und Verjährung.",
+        "Neue Unterlagen ändern nur betroffene Rechnung, Befugnis oder Frist und führen zum vollständigen bestellten Dokument.",
+        "Doppelte Zahlungsplan-Kurzfassung im Einstieg gestrafft; vollständige Rechtsfolge bleibt in Abschnitt 1.2. Mini innerhalb der 7500-Byte-Grenze."
+      ],
+      "sha256": "c41a347bab2451551625143ff736e7f254e64c00beba492ba0e28f048a1fdd27",
+      "latest_editorial_scope": "Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest."
+    },
+    "workshop_review": {
+      "verdict": "revised",
+      "reviewed_on": "2026-11-15",
+      "reason": "Die Mandatsseite steuert Ergebnis und Gegenposition. Die bisherigen Erwerberbeispiele bleiben erhalten; Bauträgerantwort und Gemeinschaftsauftrag werden ausdrücklich geführt. Beschluss und bloße Mängelanzeige werden nicht mehr mit Verjährungshemmung gleichgesetzt. Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest.",
+      "changes": [
+        "Vier Mandatsrollen; keine automatische Rückkehr zur Erwerberperspektive oder ungefragtes Drei-Dokumente-Paket.",
+        "Vertragsrechte, gemeinschaftliche Ausübung, Beschluss, Vertretung und tatsächliche Fristwahrung getrennt.",
+        "BGH V ZR 213/21 und VII ZR 241/22 mit begrenzter Aussage zu Gemeinschaftsrechten, Abnahme und Verjährung.",
+        "Neue Unterlagen ändern nur betroffene Rechnung, Befugnis oder Frist und führen zum vollständigen bestellten Dokument."
+      ],
+      "sha256": "0d68465896891adf5ae290bc6a8f1347866e351121b78ec30db1205114574f96",
+      "latest_editorial_scope": "Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest."
+    },
+    "prompt_editorial_review": {
+      "date": "2026-11-15",
+      "files": [
+        "bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md",
+        "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md",
+        "bautraegervertrag-pruefer/README.md",
+        "quality/evals/bautraegervertrag-pruefer.json",
+        "bautraegervertrag-pruefer/references/rechtsprechung-und-rollen.md",
+        "bautraegervertrag-pruefer/skills/gemeinschaft-zieht-maengelrechte-an-sich/FACHINHALT.md"
+      ],
+      "opening_change": "Vier ausdrückliche Mandatsrollen, Raten-/Abnahmefrage und bestelltes Empfängerdokument steuern den Einstieg; GdWE-Beschluss ersetzt keine Hemmungshandlung.",
+      "norms": [
+        "Paragrafen 134, 307, 640 und 641 BGB",
+        "Paragrafen 650u, 650v und 650m Absatz 2 und 3 BGB",
+        "Paragrafen 3, 7 und 12 MaBV",
+        "Paragraf 1 AbschlagsV",
+        "Paragrafen 203, 204 und 634a BGB",
+        "Paragrafen 9a, 18 und 19 WEG"
+      ],
+      "decisions": [
+        {
+          "citation": "BGH, Urteil vom 22.12.2000, VII ZR 310/99, amtlicher Volltext S. 11–16",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/1999/VII_ZR_310-99.pdf?__blob=publicationFile&v=1",
+          "application": "Verfrühte erste Rate führte zur Unwirksamkeit des gesamten Zahlungsplans; MaBV-Stufen ersetzen ihn nicht automatisch.",
+          "limit": "Vertrag von 1994 und damalige Rechtslage; heutige Fälligkeit zusätzlich nach Paragraf 650v BGB und Paragraf 1 AbschlagsV prüfen, keine automatische Gesamtrückzahlung.",
+          "checked_on": "2026-09-25",
+          "verification_status": "wiederverwendeter_auditnachweis"
+        },
+        {
+          "citation": "BGH, Beschluss vom 12.09.2013, VII ZR 308/12, Rn. 6–11",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2012/VII_ZR_308-12.pdf?__blob=publicationFile&v=1",
+          "application": "Formularmäßige Abnahmevollmacht für bauträgerbestimmten Erstverwalter wegen ungesicherter Neutralität beanstanden; bloße Widerruflichkeit genügt nicht.",
+          "limit": "Kein Verbot jeder unabhängigen Vertreterabnahme oder der Verwalterbestellung; eigene Abnahme und Verjährung gesondert prüfen.",
+          "checked_on": "2026-09-25",
+          "verification_status": "wiederverwendeter_auditnachweis"
+        },
+        {
+          "citation": "BGH, Urteil vom 22.02.2018, VII ZR 46/17, Rn. 31–37 und 48–54",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
+          "application": "Bei behaltenem mangelhaftem Werk Beseitigungsabsicht feststellen: kein kleiner Schadensersatz nach fiktiven Beseitigungskosten, aber zweckgebundener abzurechnender Vorschuss bei geplanter Beseitigung grundsätzlich auch nach Schadensersatzwahl.",
+          "limit": "Werkvertragsrecht, keine allgemeine Übertragung auf Kauf oder Delikt; Anspruchsvoraussetzungen und tatsächliche Dispositionen bleiben gesondert zu prüfen.",
+          "checked_on": "2026-09-25",
+          "verification_status": "wiederverwendeter_auditnachweis",
+          "previous_review": "quality/source-audits/2026-09-25/profile-register.json#BGH-030",
+          "passages_read": "Rn.31–37,48–54",
+          "evidence_sha256": "71b431aa6d7828abd11505b6e8c761de6ab68c371a217e4aec66e85f811e0036"
+        },
+        {
+          "citation": "BGH, Urteil vom 11.11.2022, V ZR 213/21, Rn. 18–35",
+          "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2022-9&Gericht=bgh&file=dokument.pdf&linked=urt&nr=132222",
+          "application": "BGH, Urteil vom 11.11.2022, V ZR 213/21, Rn. 18–35: Auf Mängelbeseitigung gerichtete Erwerberrechte fallen nicht schon unter Paragraf 9a Absatz 2 WEG; gemeinschaftliche Durchsetzung durch Mehrheitsbeschluss bleibt möglich. Anspruchsart und Beschlussumfang prüfen.",
+          "limit": "Konkrete Anspruchsart und Beschlussreichweite prüfen; insbesondere kaufrechtliche Nachbesserung und die erläuterte werkvertragliche Linie auseinanderhalten.",
+          "checked_on": "2026-11-15",
+          "verification_status": "gezielte_amtliche_primärquellenprüfung"
+        },
+        {
+          "citation": "BGH, Urteil vom 09.11.2023, VII ZR 241/22, Rn. 32–41",
+          "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-11&Gericht=bgh&Seite=8&Sort=3&anz=317&nr=135795&pos=249",
+          "application": "BGH, Urteil vom 09.11.2023, VII ZR 241/22, Rn. 32–41: Im dortigen Klauselkontext die für Anspruchsbegründung unterstellte Abnahme nicht ohne Weiteres zum nachteiligen Verjährungsbeginn umdeuten. Tatsächliche spätere Abnahme bleibt gesondert zu prüfen; keine universelle dreißigjährige Mängelhaftung.",
+          "limit": "Unwirksame Erstverwalterklausel und konkrete Vertrags-/Prozesslage; spätere tatsächliche Abnahme eigenständig prüfen.",
+          "checked_on": "2026-11-15",
+          "verification_status": "gezielte_amtliche_primärquellenprüfung"
+        }
+      ],
+      "remaining_limits": [
+        "Desk- und Quellenreview, kein Live-Client- oder Modelltest.",
+        "Weitere ausdrücklich bezeichnete Rechercheentscheidungen zu Nachzüglern und Schäden wurden nicht neu verifiziert; technische Zustandsprüfung bleibt sachverständig.",
+        "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet.",
+        "Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest. Frühere Prüfdaten und historische Hashnachweise bleiben unverändert in der Prüfungshistorie erhalten."
+      ]
+    },
+    "prompt_workflow_review": {
+      "date": "2026-11-15",
+      "method": "desk_review",
+      "opening_modes": [
+        "Leerstart: konkrete Raten-, Klausel- oder Abnahmefrage und bei wirklich offener Mandatsseite die vertretene Rolle klären.",
+        "Dateien ohne Auftrag: Aktenlage lesen, passende Bearbeitungswege benennen, kein ungefragtes Dokumentenpaket erzeugen.",
+        "Klarer Auftrag: benannte Erwerber-, Bauträger-, GdWE- oder Verwalterperspektive übernehmen und den bestellten Text direkt ausarbeiten."
+      ],
+      "continuation": "Neuer Grundbuchbeleg verändert Fälligkeitsprüfung, neuer Bautenstandsbericht Betrag und Bauträgerantwort, neuer Gemeinschaftsbeschluss Befugnis. Erst ein tatsächlicher Hemmungstatbestand verändert die darauf bezogene Verjährungsfrage. Neue Angaben in dieselbe Fassung einarbeiten.",
+      "enrichment": "Zehn fachlich benannte Arbeitswege, sechzig vollständig erreichbare Vertiefungen, belegte Raten-/Klausel-/Abnahmeansicht und vollständiger Empfängertext; ursprüngliche drei Testakten weiterhin separat erreichbar.",
+      "limits": "Vollständige redaktionelle Lektüre der beiden aktuellen Prompts und der zehn aktiven Skills; auftragsbezogener Desk-Review für Erwerber, Bauträger, GdWE und Verwalter. Gezielte amtliche Quellenprüfung allein zu Gemeinschaftsbeschluss, Abnahme und Verjährungshemmung. Keine erneute fachliche Vollprüfung der 60 Fachdateien, kein Live-Modell- oder Clienttest."
+    }
   }
 }

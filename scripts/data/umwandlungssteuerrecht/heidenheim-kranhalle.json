@@ -1,0 +1,193 @@
+{
+  "id": "heidenheim-kranhalle",
+  "titel": "Die GmbH bekommt den Betrieb. Wer bekommt die Kranhalle?",
+  "ort": "Heidenheim an der Brenz",
+  "einstieg": "Bei Brenztal Hubtechnik reparieren zwölf Menschen industrielle Greifer. In der Werkhalle ist eine Kranbahn einbetoniert. Inhaberin Ida Benning will den Betrieb als Sacheinlage in ihre GmbH geben. Die Halle heißt im Familienkreis seit Jahren „unser Privatbau“. Auf dem Schreibtisch liegen zwei unterschiedliche Übergabelisten.",
+  "auftrag": "Erstellen Sie für Ida Benning eine nachvollziehbare Entscheidungsvorlage für die Besprechung vor der Beurkundung. Trennen Sie die Fassungen mit und ohne Hallenübertragung, ordnen Sie die Bankauflagen ein und entwerfen Sie die noch benötigten Anfragen und den passenden Antrag als Arbeitsfassung.",
+  "unterlagen": [
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-08-24",
+      "titel": "Was darf am Montag unterschrieben werden?",
+      "von": "Ida Benning, Brenztal Hubtechnik e.K.",
+      "an": "Kanzlei Damm und Fink, Steuerberatung",
+      "text": [
+        "Am 1. September möchten wir die neue Brenztal Greiftechnik GmbH auf alle Lieferscheine drucken. Ich bin Alleingesellschafterin. Im Februar hat sie nur ihr Stammkapital bekommen. Der Entwurf jetzt sieht einen neuen Anteil für mich vor. Den alten Betrieb möchte ich ohne Unterbrechung übergeben.",
+        "Die Lohnabrechnung muss wissen, wen sie auf die Septemberabrechnung schreibt. Im Ordner meiner Mutter steht „Halle privat“. Kann ich die behalten und einfach für zehn Jahre vermieten? Mein Berater bei der Bank spricht anders über das Gebäude als unser Kaufmann."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2026-08-21",
+      "titel": "Kapitalerhöhung und Sacheinlage – Leseexemplar 17-8",
+      "von": "Notariat Hirschgasse",
+      "an": "Ida Benning",
+      "text": [
+        "Arbeitsentwurf vom 17. August. Die Alleingesellschafterin übernimmt einen neuen Geschäftsanteil über 5.000 EUR. Sie soll hierfür ihren operativen Betrieb nach dem Verzeichnis Stand 31. Juli in die inländische GmbH einbringen. Das wirtschaftliche Ergebnis soll mit Wirkung ab 1. August der Gesellschaft zukommen.",
+        "Zum Grundstück Blatt 6179 enthält § 4 eine Auslassung. Fassung A sieht Verbleib bei der Eigentümerin und gewerbliche Vermietung vor. Die Alternativseite B sieht Übertragung vor. Eine Auswahl ist nicht erfolgt. Ein Geldbetrag von 90.000 EUR als weitere Gegenleistung ist im Entwurf noch eingeklammert. Rechte Dritter bleiben vorbehalten."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "datum": "2026-08-21",
+      "titel": "Arbeitsstand Werte zum 31. Juli in Euro",
+      "von": "Nils Eich, Buchhaltung",
+      "an": "Kanzlei Damm und Fink, Steuerberatung",
+      "text": [
+        "Position | Steuerbuchwert EUR | Verkehrswert-Arbeitshypothese EUR",
+        "Halle und Boden, Blatt 6179 | 210000 | 520000",
+        "Maschinen und Werkzeuge einschließlich Greiferprüfstand | 165000 | 245000",
+        "Warenlager und Forderungen | 115000 | 115000",
+        "Bankverbindlichkeit | -140000 | -140000",
+        "Lieferantenverbindlichkeiten | -30000 | -30000",
+        "Summe nach Abzug der Schulden | 320000 | 710000"
+      ],
+      "zahlenspalten": [
+        2,
+        3
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-08-24",
+      "titel": "Werte für eure erste Rechnung",
+      "von": "Nils Eich, Buchhaltung",
+      "an": "Kanzlei Damm und Fink, Steuerberatung",
+      "text": [
+        "Die Zahlen kommen aus der letzten vollständigen Anlagenliste. Die Halle wurde seit 2016 im Steuerkonto 0240 geführt, obwohl Frau Benning allein im Grundbuch steht. Das Lager enthält keine Kundenwerkzeuge. Der Verkehrswert der Maschinen ist eine vorläufige Einschätzung des Werkmeisters.",
+        "Für das Blatt mit 710.000 EUR habe ich noch keinen Kundenstamm angesetzt. Ob der Bestand der Rahmenaufträge zusätzlich etwas wert ist, hat niemand gerechnet. Nehmt die beiden Summen als Ausgangspunkt. Das ist keine abgeschlossene Unternehmensbewertung."
+      ],
+      "anlage_nr": 3
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2026-08-20",
+      "titel": "Unterlagenmappe der Bank – Kredit HB-24 und Grundschuld",
+      "von": "Kreditabteilung Brenzbogen Bank",
+      "an": "Ida Benning, Brenztal Hubtechnik e.K.",
+      "text": [
+        "Schuldnerin des Betriebsmitteldarlehens HB-24 ist Ida Benning e.K. Restkapital zum 31. Juli 140.000 EUR. Die Buchgrundschuld von 200.000 EUR auf dem Grundstück Blatt 6179 ist Sicherheit und bildet eine eigene Position im Sicherheitenverzeichnis.",
+        "Die Kreditabteilung hat den Schuldnerwechsel noch nicht angenommen. Für die Besprechung benötigen wir den Entwurf mit Flurstück und Lageplan. Die Grundschuld kann bei einem Eigentumswechsel bestehen bleiben. Eine Entlassung der bisherigen Kreditnehmerin bedarf gesonderter schriftlicher Bestätigung."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "datum": "2026-08-22",
+      "titel": "Werkstattbegehung bei laufender Reparatur",
+      "von": "Vera Lutz, Werkstattleitung",
+      "an": "Geschäftsleitung",
+      "text": [
+        "Am Greiferprüfstand hängt seit Freitag der Rückläufer des Kunden Henschelring. Wir können das Stück nur über die fest eingebaute 8-Tonnen-Bahn bewegen. Der Prüfplatz liegt auf einer verstärkten Bodenplatte mit Anschlüssen für das Lastprotokoll.",
+        "In der kleinen Miethalle nebenan stehen das Ersatzteillager und der Transporter. Es gibt dort weder die Lastreserve im Boden noch die erforderliche Hallenhöhe. Die drei nächsten Kundenabnahmen sind für denselben Prüfplatz gebucht. Für einen Umzug fehlt uns bislang schon der Prüfbericht für den neuen Standort."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2026-08-22",
+      "titel": "Auszug aus der privaten Objektmappe, Grundbuch und Lage",
+      "von": "Objektablage Ida Benning",
+      "an": "Kanzlei Damm und Fink, Steuerberatung",
+      "text": [
+        "Abschrift aus Blatt 6179, Gemarkung Mühlbogen, Flurstück 618/4. Ida Benning ist seit 2016 als Eigentümerin eingetragen. Abteilung III enthält die Grundschuld der Brenzbogen Bank über 200.000 EUR. Das Flurstück umfasst nur Betriebshof und Werkhalle. Die Privatwohnung liegt auf einem anderen Blatt.",
+        "Auf der Rückseite der Bauzeichnung steht die Notiz ihres Vaters: „Steht auf unserm Namen“. Eine Übertragungsvereinbarung oder eine frühere Rechnung an die GmbH enthält die Mappe nicht."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "chat",
+      "datum": "2026-08-24",
+      "titel": "Die Freigabe am Werkstor",
+      "von": "Ida Benning, Brenztal Hubtechnik e.K.",
+      "an": "Schichtleitung und Buchhaltung",
+      "text": [
+        "Vera: Auf dem Lieferwagen steht schon die GmbH. Bei Rückfragen zeige ich den Lieferschein. Soll ich jetzt beide Namen darauf schreiben?",
+        "Nils: Lass den alten Auftrag in Ruhe. Die Serie ist letzten Freitag im e.K. eingegangen. Ich kläre die Leistungsgrenze im Büro.",
+        "Ida: Der Banktermin am Mittwoch steht. Bitte vorher noch keine Datumstempel ändern."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-08-25",
+      "titel": "Auszahlung für meine Schwester",
+      "von": "Ida Benning, Brenztal Hubtechnik e.K.",
+      "an": "Kanzlei Damm und Fink, Steuerberatung",
+      "text": [
+        "Die 90.000 EUR soll die GmbH nach Übergabe an mich zahlen, damit ich meine Schwester privat auszahlen kann. Die Summe hat mit dem Bankkredit nichts zu tun. Falls das die Einbringung erschwert, kann ich einen anderen Finanzierungsweg suchen.",
+        "Schätzt bitte nichts in den Vertrag hinein, was ich am Ende nie habe: Die Bank hat mir weder den Hallenwert noch die Entlassung aus dem Kredit zugesagt."
+      ],
+      "antwort_auf": 1
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "brief",
+      "datum": "2026-08-27",
+      "titel": "Kreditbeschluss mit zwei Bedingungen",
+      "von": "Kreditabteilung Brenzbogen Bank",
+      "an": "Ida Benning, Brenztal Hubtechnik e.K.",
+      "text": [
+        "Das Kreditkomitee stimmt dem Schuldnerwechsel auf die GmbH zu, wenn diese Eigentümerin des belasteten Grundstücks wird und die Sicherungszweckerklärung unterzeichnet. Bis zur Vorlage beider Unterlagen bleibt der bisherige Kredit in Kraft.",
+        "Eine gesonderte private Auszahlung von 90.000 EUR ist nicht finanziert. Zahlungen aus dem laufenden Rahmen stehen unter dessen üblicher Verfügbarkeitsprüfung. Die Aussage zur Eigentumsübertragung enthält keine Zustimmung zu einem Mietmodell."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "datum": "2026-08-27",
+      "titel": "Die zwei Fassungen für den Notartermin",
+      "von": "Ida Benning, Brenztal Hubtechnik e.K.",
+      "an": "Kanzlei Damm und Fink, Steuerberatung",
+      "text": [
+        "Nun kann ich mir die Hallenübertragung vorstellen. Meine Schwester kann warten. Ich möchte mit der Bank erst über Ersatzsicherheiten oder eine Übertragung mit Schuldübernahme sprechen. Die beigefügte Zusage ist von heute, beide Vertragsseiten sind weiterhin nur Entwürfe.",
+        "Stellen Sie für die Besprechung die Fassung mit der Halle und die reine Vermietung nebeneinander. Bitte veranlassen Sie noch keine Mitteilung ans Finanzamt."
+      ],
+      "antwort_auf": 9,
+      "anlage_nr": 10
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "brief",
+      "datum": "2026-08-28",
+      "titel": "Maklergutachten Kurzfassung für die Hausakte",
+      "von": "Büro Brenzwerte",
+      "an": "Ida Benning",
+      "text": [
+        "Zum 31. Juli 2026 ermitteln wir für Grund und Boden mit Werkhalle und festem Ausbau einen Verkehrswert von 560.000 EUR. Die Kranbahn ist als Halleneinbau berücksichtigt. Der mobile Greiferprüfstand und die Werkzeuge sind ausdrücklich nicht enthalten.",
+        "Die Einschätzung ersetzt die erste unverbindliche Telefonzahl 520.000 EUR. Für den Betrieb als Gesamtheit, den Kundenstamm und die Maschinen haben wir keinen Auftrag."
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "tabelle",
+      "datum": "2026-08-28",
+      "titel": "Arbeitsblatt Übertragungsumfang",
+      "von": "Kanzlei Damm und Fink, Steuerberatung",
+      "an": "Fallbearbeitung",
+      "text": [
+        "Position | Nachweis und Fassung | Buchwert | Gemeiner Wert | Träger nach Vollzug",
+        "Halle und Boden | [ ] | [ ] | [ ] | [ ]",
+        "Maschinen und betriebliche Schulden | [ ] | [ ] | [ ] | [ ]",
+        "Weitere Gegenleistung und Wertuntergrenze | [ ] | [ ] | [ ] | [ ]"
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "notiz",
+      "datum": "2026-08-28",
+      "titel": "Entwurfshilfe für die Beratung vor dem Notartermin",
+      "von": "Kanzlei Damm und Fink, Steuerberatung",
+      "an": "Fallbearbeitung",
+      "text": [
+        "Entscheidung bis [Datum] für [Person]. Unterlagenstand [Liste]. Ziel und gewünschte Gegenleistung [ ].",
+        "1 Ausgangsvariante mit Grundstück [ ]. 2 Alternative mit Vermietung [ ]. 3 Zahlen und Bewertungsunsicherheit [ ]. 4 Vor dem Vollzug einzuholen [ ]. 5 Steuerlicher Antrag durch [ ] an [ ] bis [ ] mit Zustellnachweis [ ]."
+      ]
+    }
+  ]
+}

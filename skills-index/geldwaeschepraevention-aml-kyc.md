@@ -1,6 +1,6 @@
 # geldwaeschepraevention-aml-kyc
 
-**20 Skills** · Stand `v445.36.9`
+**20 Skills** · Stand `v445.36.10`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../geldwaeschepraevention-aml-kyc/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`geldwaeschepraevention-aml-kyc-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`geldwaeschepraevention-aml-kyc-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [geldwaeschepraevention-aml-kyc.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/geldwaeschepraevention-aml-kyc.zip) |
+| **Plugin (installierbar)** | ZIP | [geldwaeschepraevention-aml-kyc.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/fachaufnahme-v445.36.10/geldwaeschepraevention-aml-kyc.zip) |
 
 ## So benutzt man einen Skill
 

@@ -1,0 +1,32 @@
+{
+  "chemnitz-geteilte-pruefbank": {
+    "quelle_sha256": "e2c1bc996ead2cb3a73bd2dbca4825e0720ff5e4304738f5e2fde59e8b475173",
+    "aktenstuecke": 15,
+    "seiten": 15,
+    "sha256": {
+      "downloads/testakte-chemnitz-geteilte-pruefbank.zip": "07eecbb74eb1ab9d1774e2151f0d6167495031d94e1fa15489ca53e903f1a082",
+      "downloads/testakte-chemnitz-geteilte-pruefbank-einzelpdfs.zip": "01a3c08b5239ea1e5593de470884192cacb4d9fbbb5db4f6dccd96f04898cbe7",
+      "gesamt-pdf/testakte-chemnitz-geteilte-pruefbank_gesamt.pdf": "a9f41be34d29e2134adef5c74b45ca47a6fcf0d69bb29bdc497a56d60ea9fb16"
+    }
+  },
+  "heidenheim-kranhalle": {
+    "quelle_sha256": "b8f85783187b479a5a076dab68fa4660a7c1d895be39bdb51eb09648f48137ce",
+    "aktenstuecke": 14,
+    "seiten": 14,
+    "sha256": {
+      "downloads/testakte-heidenheim-kranhalle.zip": "67bd06e4b9aeec5fb8777f0c7b26d14e36b78b4d16fa8a13efb1fcb840b05403",
+      "downloads/testakte-heidenheim-kranhalle-einzelpdfs.zip": "5925e6171ba8ca554e2c23399db752b3109c9abf4e58fdb92dc8353e82681d3d",
+      "gesamt-pdf/testakte-heidenheim-kranhalle_gesamt.pdf": "4704b6b0a649afe91f8a5f7dfa5aee9521821d5d7fe81bb032d4f90ad13ea69b"
+    }
+  },
+  "konstanz-stimmenpaket": {
+    "quelle_sha256": "704c914c37640131217c76ec4a322dea0235351a4bbf7c76e126778f1444868d",
+    "aktenstuecke": 14,
+    "seiten": 14,
+    "sha256": {
+      "downloads/testakte-konstanz-stimmenpaket.zip": "509e27d7ff27733dd2a2bee4eabb1c7953127249f503c4eda105a9f7078e7009",
+      "downloads/testakte-konstanz-stimmenpaket-einzelpdfs.zip": "906b203792dba972c8e452d947c79990459fa06687eade0923b3af666b90403c",
+      "gesamt-pdf/testakte-konstanz-stimmenpaket_gesamt.pdf": "5b32816f8216e1dec8d12ba41e5becff0c7ed48aea5649acad6fe44bec4e54f5"
+    }
+  }
+}

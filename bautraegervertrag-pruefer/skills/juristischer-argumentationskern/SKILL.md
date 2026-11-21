@@ -7,7 +7,7 @@ description: "Schaltet sich ein, wenn in Bauträgervertrag Prüfer ein juristisc
 
 ## 1. Direktstart
 
-Gleiche Vertragsentwurf, Baubeschreibung, Ratenplan und Sicherungsunterlagen aus Sicht der vertretenen Partei ab. Begründe das einzelne Risiko und formuliere die dafür benötigte Vertragsänderung.
+Identifiziere zuerst den betroffenen Erwerb anhand von Parteien, Einheit, Urkundennummer, Nachträgen und maßgeblicher Fassung. Belege aus den Klauseln, wer die Bauleistung und wer die Eigentums- oder Erbbaurechtsverschaffung schuldet. Bei getrenntem Grundstücks- und Bauvertrag prüfe die Verbindung gesondert. Stelle erst auf dieser Grundlage aus Sicht der vertretenen Partei das einzelne Risiko dar und formuliere die benötigte Vertragsänderung.
 
 Für die Gesamtbearbeitung den [Hauptarbeitsweg](../bautraegerpruefung-steuern/SKILL.md) und die [Rollen- und Quellenregeln](../../references/rechtsprechung-und-rollen.md) hinzunehmen. [Der frühere Argumentationskern des zweiten Prüfers](REFERENZ-bautraegervertragspruefer.md) bleibt als Detailreferenz erhalten.
 

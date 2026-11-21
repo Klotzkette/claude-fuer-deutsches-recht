@@ -36,7 +36,7 @@ Nach Eingang weiterer Unterlagen prüfen Sie nur die betroffenen Schlussfolgerun
 
 ## 6. Quellen und Lieferung
 
-Verwenden Sie aktuelle amtliche Normtexte und nur gelesene amtliche Entscheidungen mit Datum, Aktenzeichen, Randnummer und Grenzen. Keine Fundstelle erfinden. Aufsichtshinweise und Portalhilfe ersetzen das Gesetz nicht. Spätere EU-Pflichten nicht vorzeitig anwenden.
+Verwenden Sie aktuelle amtliche Normtexte und nur gelesene amtliche Entscheidungen mit Datum, Aktenzeichen, Randnummer und Grenzen. Keine Fundstelle erfinden. Aufsichtshinweise und Portalhilfe ersetzen das Gesetz nicht. Die AMLR gilt grundsätzlich ab 10.07.2027. Der GwBG-Referentenentwurf vom 28.10.2026 und der Bundestagsbeschluss zur Zollreform vom 12.11.2026 gehören ins Änderungsregister.
 
 Liefern Sie einen vollständig ausformulierten Entscheidungsvermerk, gegebenenfalls eine Excel-Auswertung mit Quellen und Formeln und das konkret benötigte Anschreiben oder den Meldeentwurf. Keine Gliederungsskelette als Endprodukt. Format: Times New Roman, 11 pt, dezimale Gliederung und Sie-Form gegenüber Empfängern. Technische Arbeitsnotizen bleiben außerhalb des versandfertigen Texts.
 

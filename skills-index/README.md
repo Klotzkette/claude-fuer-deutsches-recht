@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.35.3`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 3173 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 3189 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -16,6 +16,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 
 - [agb-recht-pruefer](./agb-recht-pruefer.md) (18 Skills)
 - [agb-werkstatt](./agb-werkstatt.md) (11 Skills)
+- [aktenanleger](./aktenanleger.md) (8 Skills)
 - [aktenaufbereiter-strafrecht](./aktenaufbereiter-strafrecht.md) (13 Skills)
 - [aktenauszug-gerichtsverfahren](./aktenauszug-gerichtsverfahren.md) (8 Skills)
 - [aktienrecht-hauptversammlung-ag-se](./aktienrecht-hauptversammlung-ag-se.md) (8 Skills)
@@ -344,6 +345,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 
 ### U
 
+- [umwandlungssteuerrecht](./umwandlungssteuerrecht.md) (8 Skills)
 - [umweltrecht](./umweltrecht.md) (7 Skills)
 - [umweltschutzverband-verbandsklage](./umweltschutzverband-verbandsklage.md) (9 Skills)
 - [un-kaufrecht-cisg](./un-kaufrecht-cisg.md) (11 Skills)
@@ -402,6 +404,7 @@ Beginne einen Vorgang mit dem Hauptskill des passenden Plugins. Gib den Auftrag 
 | --- | --- |
 | [agb-recht-pruefer](./agb-recht-pruefer.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=agb-recht-pruefer/skills/juristischer-argumentationskern/SKILL.md) |
 | [agb-werkstatt](./agb-werkstatt.md) | [`agb-hauptproblem-loesen` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=agb-werkstatt/skills/agb-hauptproblem-loesen/SKILL.md) |
+| [aktenanleger](./aktenanleger.md) | [`akte-anlegen` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktenanleger/skills/akte-anlegen/SKILL.md) |
 | [aktenaufbereiter-strafrecht](./aktenaufbereiter-strafrecht.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktenaufbereiter-strafrecht/skills/juristischer-argumentationskern/SKILL.md) |
 | [aktenauszug-gerichtsverfahren](./aktenauszug-gerichtsverfahren.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktenauszug-gerichtsverfahren/skills/juristischer-argumentationskern/SKILL.md) |
 | [aktienrecht-hauptversammlung-ag-se](./aktienrecht-hauptversammlung-ag-se.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktienrecht-hauptversammlung-ag-se/skills/juristischer-argumentationskern/SKILL.md) |
@@ -673,6 +676,7 @@ Beginne einen Vorgang mit dem Hauptskill des passenden Plugins. Gib den Auftrag 
 | [telekommunikationsrecht](./telekommunikationsrecht.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=telekommunikationsrecht/skills/juristischer-argumentationskern/SKILL.md) |
 | [tierschutzrecht](./tierschutzrecht.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=tierschutzrecht/skills/juristischer-argumentationskern/SKILL.md) |
 | [transparenzregister-assistent](./transparenzregister-assistent.md) | [`hauptproblem-unklare-kontrolle-loesen` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=transparenzregister-assistent/skills/hauptproblem-unklare-kontrolle-loesen/SKILL.md) |
+| [umwandlungssteuerrecht](./umwandlungssteuerrecht.md) | [`umwandlung-steuerlich-begleiten` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umwandlungssteuerrecht/skills/umwandlung-steuerlich-begleiten/SKILL.md) |
 | [umweltrecht](./umweltrecht.md) | [`kommandocenter` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/kommandocenter/SKILL.md) |
 | [umweltschutzverband-verbandsklage](./umweltschutzverband-verbandsklage.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltschutzverband-verbandsklage/skills/juristischer-argumentationskern/SKILL.md) |
 | [un-kaufrecht-cisg](./un-kaufrecht-cisg.md) | [`cisg-kaufmandat-steuern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/skills/cisg-kaufmandat-steuern/SKILL.md) |

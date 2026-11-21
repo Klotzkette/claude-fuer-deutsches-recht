@@ -1,0 +1,52 @@
+{
+  "aktenumzug-muenster": {
+    "quelle_sha256": "4e2d41528c9a5128a34459d761687e971ca09a2097ad0097d9fe09ee8cf46837",
+    "aktenstuecke": 11,
+    "seiten": 11,
+    "sha256": {
+      "downloads/testakte-aktenumzug-muenster.zip": "7f2b8467bc100457c66f089fde402bdfd60cd84e1a990f05e7414885edecb8f4",
+      "downloads/testakte-aktenumzug-muenster-einzelpdfs.zip": "6286735985824d0d27085cd39c133840e41a1ccba1c9953afabef43bad1dd778",
+      "gesamt-pdf/testakte-aktenumzug-muenster_gesamt.pdf": "66f691a9d92948448041df34a46fe9369ba57324a88c7b16aea939294d7b0bfe"
+    }
+  },
+  "anerkenntnis-schleusenhof": {
+    "quelle_sha256": "b0747d7f4edb2ce5ca00b2e6aaf57f76d9c5dc34c5423322eed0a5da69ea862c",
+    "aktenstuecke": 11,
+    "seiten": 11,
+    "sha256": {
+      "downloads/testakte-anerkenntnis-schleusenhof.zip": "10a86b56bb1e4ac9e4c8a61fbfca0f92b915be8733609fd8406a88c15aa6cb53",
+      "downloads/testakte-anerkenntnis-schleusenhof-einzelpdfs.zip": "182cf0f1612dbd2fb9bb6c78130930df8a49547682a337de00016d93b9758167",
+      "gesamt-pdf/testakte-anerkenntnis-schleusenhof_gesamt.pdf": "f0a1cc98b9dba1eabd79d5b51114cc2f5df49c972d2f63124cad038aba002628"
+    }
+  },
+  "foerderakte-hafenklang": {
+    "quelle_sha256": "167fecddfba16764eb34e301c6a77190a863506fc711a1ec7b0c01ca047e6b30",
+    "aktenstuecke": 11,
+    "seiten": 11,
+    "sha256": {
+      "downloads/testakte-foerderakte-hafenklang.zip": "6b36021e30804e400f3d63cd1c381ff9dbdef663ee19ec9bd28c5fb2b902f2cb",
+      "downloads/testakte-foerderakte-hafenklang-einzelpdfs.zip": "78c1aa2ae557ae18a615418edcc6842cd8e3caeb8b03006924aebaf31ae8ed05",
+      "gesamt-pdf/testakte-foerderakte-hafenklang_gesamt.pdf": "1a5e6fc11e91bbe7741b5389f3cd5739fc7f7ee4a762be60a559f57bc5f2d837"
+    }
+  },
+  "forderung-lichtwerft": {
+    "quelle_sha256": "8ab264d09ddb2c35bdd2aa3250a7bfe16720169789b4b6a6ecd90713b40b5c58",
+    "aktenstuecke": 11,
+    "seiten": 11,
+    "sha256": {
+      "downloads/testakte-forderung-lichtwerft.zip": "1ac84f32c6b9eeae9b54b7a2d14edbbd0a24bc2249f2468f5a2e4c091e46a08d",
+      "downloads/testakte-forderung-lichtwerft-einzelpdfs.zip": "3bd164dd3266c8a79564db6113bfed59600c50b4dc44bbe2764656185fb3cd10",
+      "gesamt-pdf/testakte-forderung-lichtwerft_gesamt.pdf": "02f7019156d6d5480c1f0144a2375cfa015f385197dee926839edc886efc78ab"
+    }
+  },
+  "vollmachtsausfertigung-regensburg": {
+    "quelle_sha256": "2ee301ca1445358077bf417203204b98569e7d5721be76d76a545ce80ffc5a49",
+    "aktenstuecke": 11,
+    "seiten": 11,
+    "sha256": {
+      "downloads/testakte-vollmachtsausfertigung-regensburg.zip": "c7aafae32ac82ad0e45c3dfe3a2f1b84e70ce68790eaec45b23b766a122b9243",
+      "downloads/testakte-vollmachtsausfertigung-regensburg-einzelpdfs.zip": "ea03a68178ce4c0ab172fd263c2bb8cdf2b9cea671cb86273cb8052028345582",
+      "gesamt-pdf/testakte-vollmachtsausfertigung-regensburg_gesamt.pdf": "0f9a18e6445e84beda328e22737035f6bbcd3ddb64f7d1b66383271d697d8f8b"
+    }
+  }
+}

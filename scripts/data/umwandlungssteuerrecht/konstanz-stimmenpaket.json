@@ -1,0 +1,194 @@
+{
+  "id": "konstanz-stimmenpaket",
+  "titel": "Sechs von zehn Stimmen und ein Angebot aus dem November",
+  "ort": "Konstanz",
+  "einstieg": "Lale Behr brachte 2022 einen Teil ihrer privaten Anteile an einer Softwarefirma in ihre Holding ein. Die Holding möchte jetzt nur einen Teil davon verkaufen. Der Käufer spricht von einem „24-Prozent-Einstieg“. In der Kanzlei sind ein Einlieferungsbeleg für eine alte Mail und ein Kaufvertragsentwurf eingegangen.",
+  "auftrag": "Ordnen Sie Anteilstausch, Stimmrechte und Eigentumszeitpunkt ein. Erarbeiten Sie für die Verhandlung eine Betragsrechnung mit Jahresstufen, Beitragsnachweisen und belastbaren Annahmen. Welche Einbringung und wessen Steuererklärung muss bei einem Verkauf nochmals auf den Tisch?",
+  "unterlagen": [
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-11-03",
+      "titel": "Lassen sich die Unterschriften vorziehen?",
+      "von": "Lale Behr, Seeschrift Beteiligungs-GmbH",
+      "an": "Kanzlei Damm und Fink, Steuerberatung",
+      "text": [
+        "Kap Nord möchte unbedingt noch diesen Monat 24 Prozent der Seeschrift Labor GmbH kaufen. Verkaufen soll meine Holding. Die Originale vom Tausch 2022 lagen beim Umzug in der blauen Kiste. Ich war damals Privatperson, wohnte durchgehend in Konstanz und hatte die Laboranteile nie im Betriebsvermögen.",
+        "Die Holding hatte vorher keine Laboranteile. Für mich heißt das: Ich habe an meiner Holding bis heute nichts verkauft. Können Sie die Folgen bitte für mich und getrennt für die Holding auf ein Blatt bringen, ehe uns das Team den Kaufpreis bindend zusagt?"
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2022-06-30",
+      "titel": "Urkundenabschrift mit Vollzugsvermerk – Anteilstausch 2022",
+      "von": "Notariat am See",
+      "an": "Lale Behr und Seeschrift Beteiligungs-GmbH",
+      "text": [
+        "Anteile Nr. 1 bis 60 von jeweils 1.000 EUR an der Seeschrift Labor GmbH treten aus dem Privatvermögen der Einbringenden auf die inländische Seeschrift Beteiligungs-GmbH über. Insgesamt bestehen 100 gleich ausgestattete Anteile. Die beiden Gesellschaften haben Sitz und Geschäftsleitung in Konstanz. Sämtliche Parteien erklären die Abtretung und die Annahme.",
+        "Die Holding erhöht ihr Stammkapital gegen Sacheinlage und gewährt Lale Behr dafür den neu ausgegebenen Holdinganteil Nr. 2. In der berichtigten Ausfertigung sind die Nummern der dafür abgetretenen Laboranteile einzeln bezeichnet. Weitere Gegenleistungen sind nicht vereinbart. Sämtliche Bedingungen einschließlich Registereintragung liegen laut Vollzugsvermerk am 30. Juni 2022 vor. Nutzen, Lasten und Stimmen gehen an diesem Tag über."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "datum": "2022-06-30",
+      "titel": "Stimmregister nach dem Vollzug",
+      "von": "Seeschrift Labor GmbH",
+      "an": "Kanzlei Damm und Fink, Steuerberatung",
+      "text": [
+        "Inhaber | Anteilnummern Labor | Stimmen je Anteil | Anzahl Stimmen",
+        "Seeschrift Beteiligungs-GmbH | 1 bis 60 | 1 | 60",
+        "Mira Graf | 61 bis 85 | 1 | 25",
+        "Gerd Stein | 86 bis 100 | 1 | 15",
+        "Gesamt | 1 bis 100 | 1 | 100"
+      ],
+      "zahlenspalten": [
+        3,
+        4
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2022-07-12",
+      "titel": "Bewertungsblatt für das eingebrachte Sechzigerpaket",
+      "von": "Uferwert Bewertung",
+      "an": "Lale Behr",
+      "text": [
+        "Stichtag 30. Juni 2022. Gegenstand sind alle 60 eingebrachten Laboranteile als ein Paket. Gemeiner Wert dieser Anteile insgesamt 980.000 EUR. Als historische Anschaffungskosten der Einbringenden sind anhand der Zeichnungsunterlagen 126.000 EUR dokumentiert. Für die restlichen 40 Laboranteile ist keine Bewertung beauftragt.",
+        "Kostennachweis zum Übergang 14.000 EUR, von Frau Behr getragen, gesondert abgerechnet und dem Tausch zugeordnet. Diese Summe gehört weder zum Kaufpreisangebot 2026 noch zu dessen Kosten. Die Wertakte enthält keine weiteren Anteilszugänge."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2023-03-16",
+      "titel": "Einlieferung und Anlagen zur Steuerbilanz der Holding",
+      "von": "Steuerkanzlei Seeufer, Vorberaterin",
+      "an": "Seeschrift Beteiligungs-GmbH",
+      "text": [
+        "Kopie des Antrags der übernehmenden GmbH an ihr zuständiges Körperschaftsteuerfinanzamt vom 1. Juli 2022 mit Eingangsvermerk. Für die 60 Anteile werden 126.000 EUR beantragt. Die Steuerbilanz der Holding zum 31. Dezember 2022 weist 126.000 EUR für dieses Paket aus.",
+        "Privates Veräußerungsgeschäft und die persönlichen Besteuerungsgrundlagen sind nicht Bestandteil dieser Steuerbilanz. Die damaligen Steuererklärungen und Bescheide von Frau Behr liegen in ihrer Privatakte."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "datum": "2026-11-03",
+      "titel": "Jahresmappe mit Nachweisen",
+      "von": "Frida Born, Assistenz",
+      "an": "Kanzlei Damm und Fink, Steuerberatung",
+      "text": [
+        "Kalenderjahr des Nachweises | Ablagevermerk | Eintrag Kontoausgang",
+        "2023 | Freiwillige Zwischenmitteilung zum 22.05.2023 | Finanzamt Empfang 25.05.2023",
+        "2024 | Bestätigung Zurechnung zum 30.06.2023 | Finanzamt Empfang 28.05.2024",
+        "2025 | Bestätigung zum 30.06.2024 vom 21.05.2025 | Ausgangszeile fehlt",
+        "2026 | Bestätigung Zurechnung zum 30.06.2025 | Finanzamt Empfang 26.05.2026"
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-11-04",
+      "titel": "Kaufpreis für die Nummern 1 bis 24",
+      "von": "Nora Kabus, Kap Nord Wachstum GmbH",
+      "an": "Lale Behr, Seeschrift Beteiligungs-GmbH",
+      "text": [
+        "Unser Term Sheet bezeichnet 24 der 100 Laboranteile. Bei Closing übernimmt Kap Nord die Anteile Nr. 1 bis 24 aus dem Bestand der Holding. Preis für dieses Paket 620.000 EUR, zahlbar am Vollzugstag. Das Term Sheet begründet keine Bindung zum Erwerb und überträgt keine Rechte.",
+        "Wegen der Produktmesse könnten wir am 19. November unterschreiben. Über die Stimmrechte möchten wir ab Closing verfügen. Ob die Finanzierungsbestätigung bis dahin kommt, ist offen. Bitte mit Ihrer Beraterin trennen, was jetzt vorbereitet und was erst vollzogen wird."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "chat",
+      "datum": "2026-11-04",
+      "titel": "Kurznachrichten vor der Messe",
+      "von": "Lale Behr, Seeschrift Beteiligungs-GmbH",
+      "an": "Holdingbüro",
+      "text": [
+        "Frida: Auf meinem Bildschirm stehen 24 Prozent. Unser Steuerordner sagt 60 Anteile. Welcher Nenner ist für Frau Behrs Rechnung richtig?",
+        "Lale: Nimm bitte beide Listen mit. Ich gehe davon aus, dass wir nur unser Sechzigerpaket im Auge behalten.",
+        "Frida: Den Scan 2025 habe ich gefunden, der Ausgangsstempel ist aber leer. Ich suche im Kanzleipostbuch."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "datum": "2026-11-05",
+      "titel": "Telefonnotiz der Steuerberaterin",
+      "von": "Kanzlei Damm und Fink, Steuerberatung",
+      "an": "Private Handakte Behr",
+      "text": [
+        "Frau Behr bestätigt auf Rückfrage, dass vor dem Tausch die 60 eingebrachten Anteile ihr unmittelbar privat gehörten. Durchgehend Deutschland, weder Betriebsstätte im Ausland noch Wegzug. Seit dem Tausch hat sie ihre Holdinganteile behalten.",
+        "Sie möchte die Variante „noch dieses Jahr verkaufen“ mit einem identischen Verkauf nach Ablauf einer weiteren Jahresstufe vergleichen. Bescheiddaten und das genaue Vollzugsdatum sind separat nachzuhalten."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "brief",
+      "datum": "2026-11-09",
+      "titel": "Postausgangsquittung mit Anlagenindex vom Mai 2025",
+      "von": "Steuerkanzlei Seeufer",
+      "an": "Lale Behr",
+      "text": [
+        "Archivkopie des Übermittlungsprotokolls. Eingang Finanzamt am 22. Mai 2025, Kennung SHK-0522. Anlagenindex: Nachweis Frau Behr betreffend Holdinganteile sowie unterschriebene Bestätigung der Holding zur Zurechnung der eingebrachten Anteile am maßgebenden Stichtag. Zuordnung zum Tausch vom 30. Juni 2022, Bestätigungsstichtag 30. Juni 2024.",
+        "Die Berechnung zur privaten Steuer 2022 ist nicht Teil der Quittung. Für Rückfragen kann das zuständige Team den Übermittlungsdatensatz unter der Kennung abrufen."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "datum": "2026-11-10",
+      "titel": "Quittung aus dem Kanzleiarchiv",
+      "von": "Lale Behr, Seeschrift Beteiligungs-GmbH",
+      "an": "Kanzlei Damm und Fink, Steuerberatung",
+      "text": [
+        "Jetzt haben wir den fehlenden Ausgang von 2025. Anbei die Quittung einschließlich Anlagenindex. Der Käufer hat in der Zwischenzeit einen späteren Vollzug angeboten. Wenn die Bank absagt, wird vor Jahresende auch nichts übertragen.",
+        "Berechnen Sie bitte sowohl den Vollzug am 27. November 2026 als auch am 7. Juli 2027. Der Preis und das Paket sollen in beiden Varianten gleich bleiben. Die Prüfung des neuen jährlichen Nachweises für 2027 wäre dann Teil unseres Kalenders."
+      ],
+      "antwort_auf": 1,
+      "anlage_nr": 10
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "notiz",
+      "datum": "2026-11-11",
+      "titel": "Arbeitsstand Kaufvertrag – Bedingung und Stimmen",
+      "von": "Nora Kabus, Kap Nord Wachstum GmbH",
+      "an": "Seeschrift Beteiligungs-GmbH",
+      "text": [
+        "Entwurf Version 3. Unterschrift im November. Aufschiebende Bedingung: Bestätigung der vollständigen Kaufpreisgutschrift und Bestätigung der Bankfinanzierung. Gewinne, Verfügungsrecht, Chancen und Risiken sowie Stimmrechte verbleiben bis zum Eintritt dieser Bedingungen bei der Holding.",
+        "Die Holding darf vor der Gutschrift ohne Weisungen von Kap Nord abstimmen. Der erste angebotene Closing-Termin bleibt unverbindlich. Keine Vollzugsmeldung im Datenraum."
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "tabelle",
+      "datum": "2026-11-11",
+      "titel": "Berechnung des Verkaufsanteils",
+      "von": "Kanzlei Damm und Fink, Steuerberatung",
+      "an": "Steuerteam",
+      "text": [
+        "Schritt | Einheit | November 2026 | Juli 2027",
+        "Einbringungszeitpunkt und voller Jahresablauf | Datum | [ ] | [ ]",
+        "Stille Reserven des Pakets nach Übergangskosten | EUR | [ ] | [ ]",
+        "Anteil verkauft am eingebrachten Paket | Bruch | [ ] | [ ]",
+        "Verbleibende Siebtel und Zwischenresultat | Faktor und EUR | [ ] | [ ]",
+        "Verfahren und persönlicher Steuerbetrag | Nachweis nötig | [ ] | [ ]"
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "notiz",
+      "datum": "2026-11-11",
+      "titel": "Entwurf Mandantenbrief vor Closing",
+      "von": "Kanzlei Damm und Fink, Steuerberatung",
+      "an": "Lale Behr",
+      "text": [
+        "Sehr geehrte Frau Behr, bei unverändertem Kaufumfang hängt Ihre Entscheidung vom tatsächlichen Übergang am [Datum] ab. Ihr eigener Vorgang 2022: [ ]. Besteuerung der Holding beim Verkauf: [ ].",
+        "Wir rechnen derzeit unter folgenden Annahmen: [ ]. Vor einer Mitteilung an die Finanzverwaltung benötigen wir noch [ ]. Bitte reichen Sie nach Closing [ ] ein."
+      ]
+    }
+  ]
+}

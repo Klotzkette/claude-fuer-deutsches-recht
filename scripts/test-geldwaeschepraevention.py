@@ -17,6 +17,7 @@ from docx import Document
 from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_BYTES, pdf_content_errors
 from testakte_einzelpdf_common import expected_arcnames
+from testakte_grundakte import FOLDER, selection
 
 ROOT = Path(__file__).resolve().parent.parent
 PLUGIN = ROOT / 'geldwaeschepraevention-aml-kyc'
@@ -156,7 +157,7 @@ class GeldwaescheTests(unittest.TestCase):
                 if source.is_file() and source.name[:2].isdigit():
                     self.assertIn(source.name, text)
 
-    def test_flat_archives_preserve_every_document(self):
+    def test_archive_variants_preserve_every_document(self):
         for slug in CASES:
             case = ROOT / 'testakten' / slug
             sources = {p.name: p for p in case.iterdir() if p.is_file() and p.name[:2].isdigit()}
@@ -168,7 +169,6 @@ class GeldwaescheTests(unittest.TestCase):
                     with zipfile.ZipFile(path) as archive:
                         names = archive.namelist()
                         self.assertEqual(len(names), len(set(names)))
-                        self.assertTrue(all('/' not in n and chr(92) not in n for n in names))
                         self.assertFalse(any(n.endswith('.md') for n in names))
                         self.assertEqual(archive.read('README.txt'), NOTICE_BYTES)
                         self.assertIsNone(archive.testzip())
@@ -179,9 +179,15 @@ class GeldwaescheTests(unittest.TestCase):
                                 self.assertEqual(pdf_content_errors(data), [], name)
                                 self.assertGreater(len(PdfReader(io.BytesIO(data)).pages), 0)
                         else:
-                            self.assertEqual(set(names), set(sources) | {'README.txt', f'{slug}_gesamt.pdf'})
+                            intake = set(selection()['central'][slug])
+                            self.assertTrue(intake and intake.issubset(sources))
+                            locations = {
+                                name: f'{FOLDER}/{name}' if name in intake else name
+                                for name in sources
+                            }
+                            self.assertEqual(set(names), set(locations.values()) | {'README.txt'})
                             for name, source in sources.items():
-                                self.assertEqual(archive.read(name), source.read_bytes())
+                                self.assertEqual(archive.read(locations[name]), source.read_bytes())
 
     def test_case_navigation_and_german_description(self):
         for path in (PLUGIN / 'README.md', ROOT / 'testakten/README.md'):

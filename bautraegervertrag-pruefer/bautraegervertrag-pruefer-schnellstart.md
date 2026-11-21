@@ -1,20 +1,18 @@
 # 1. Bauträgervertrag und konkrete Forderung prüfen
 
-Prüfe die konkrete Rate, Sicherung oder Mängelposition. Lies Urkunde, Anlagen und Zahlungsbelege zuerst. Übernimm die beauftragte Erwerber-, Bauträger-, GdWE- oder Verwalterperspektive; frage nur bei offener Mandatsseite. Keine widerstreitenden Rollen gleichzeitig vertreten. Liefere das bestellte Dokument; ein Paket aus Mandanteninformation, Prüfvermerk und Änderungsschreiben nur auf Auftrag. Nur entscheidende Lücken erfragen, unabhängig weiterarbeiten.
-
-Paragrafen 650u/650v BGB und Paragraf 3 MaBV: Zahlungsplan und Fälligkeit getrennt beurteilen.
+Bestimme zuerst, welche Vertragsfassung und welche Einheit gemeint sind. Nenne Parteien, Objekt, Grundbuchblatt, UVZ-/UR-Nummer oder Entwurfsdatum und wirksamen Nachtrag. Ordne Rechnung, Bezugsurkunde und Pläne zu. Trage für jede Hauptpflicht Klausel und Schuldner ein: Wer schuldet Errichtung oder Umbau? Wer überträgt Eigentum oder bestellt bzw. überträgt ein Erbbaurecht?
 
 ## 1.1. Vertragsgegenstand und Schutzlage
 
-Ohne Eingabe Raten-, Klausel- oder Abnahmeprüfung anbieten. Dateien ohne Aufgabe zuerst lesen und passende Wege erfragen, noch kein Dokumentenpaket. Bei klarem Auftrag direkt liefern. Beantragte Vormerkung ersetzt keine Eintragung; nach Grundbuchbeleg Fälligkeit neu prüfen, Sicherheit und Bautenstand eigenständig. Schlüsselübergabe, Abnahme und vollständige Fertigstellung unterscheiden. Folgeantworten in Rechnung und Brief einarbeiten; bekannte Daten nicht erneut fragen.
+Schuldet derselbe Unternehmer beide Leistungen, prüfe [Paragraf 650u BGB](https://www.gesetze-im-internet.de/bgb/__650u.html). Bei Bestandskauf, bloßer Renovierung, Bau auf eigenem Grund, getrenntem Grundstückskauf und Bauauftrag oder Baugruppe die tatsächlichen Pflichten und die Verbindung der Verträge klären. Baufortschritt und Überschrift entscheiden das nicht. Fehlende Urkunde gezielt anfordern und nur bedingt weiterrechnen. Benenne den Typ, den tragenden Beleg und die Folge für die verlangte Prüfung.
 
-Ordne Baupflicht und Eigentumsverschaffung nach [Paragraf 650u BGB](https://www.gesetze-im-internet.de/bgb/__650u.html) getrennt ein. Erwerbsdatum, Verbraucherstatus, Neubau oder Umbau, konkrete Einheit und Bezugsurkunden festhalten. Nicht jeden Grundstückskauf als Bauträgervertrag behandeln. Beurkundungsvorbereitung und etwaige gesetzliche Warteanforderungen fallbezogen prüfen; aus einem bevorstehenden Termin kein pauschales Widerrufsrecht ableiten.
+Unterscheide Neubau und Umbau, Wohnungs- und Gemeinschaftseigentum, Verbraucher und Unternehmer. Für Schuldverhältnisse vor 2018 Art. 229 Paragraf 39 EGBGB prüfen. Liefere für Erwerber, Bauträger, GdWE oder Verwalter das beauftragte Dokument. Ohne Eingabe erst Material oder Prüfziel klären. Nur bei Auftrag ein Drei-Dokumente-Paket erstellen.
 
 ## 1.2. Zahlungsforderung zerlegen
 
 Prüfe vor der Höhe den Fälligkeitsgrund. [Paragraf 3 Absatz 1 MaBV](https://www.gesetze-im-internet.de/gewo_34cdv/__3.html) verlangt insbesondere wirksamen Vertrag, ranggerechte Vormerkung, gesicherte Lastenfreistellung und die geregelte baurechtliche Grundlage. Notarmitteilung, Grundbuchstand und Freistellungserklärung sind unterschiedliche Belege. Eine bloße Ratenrechnung ersetzt sie nicht.
 
-Danach jeden Ratenbaustein mit Bautenstand und richtiger Bezugsgröße rechnen: Bei Eigentumsübertragung beziehen sich die ersten 30 Prozent auf die Vertragssumme, spätere Bausteine auf den Rest. Höchstens sieben Teilbeträge heißt nicht, dass jeder Plan mit zwei Raten zulässig wäre. Besitzübergabe und vollständige Fertigstellung anhand der jeweils einschlägigen Stufe prüfen. Bereits gezahlt, jetzt gefordert und künftig vorgesehen getrennt ausweisen.
+Danach jeden Ratenbaustein mit Bautenstand und richtiger Bezugsgröße rechnen: Nach Beginn der Erdarbeiten beziehen sich 30 Prozent bei Eigentum und 20 Prozent bei Erbbaurecht auf die Vertragssumme, spätere Bausteine auf den Rest. Höchstens sieben Teilbeträge heißt nicht, dass jeder Plan mit zwei Raten zulässig wäre. Besitzübergabe und vollständige Fertigstellung anhand der jeweils einschlägigen Stufe prüfen. Bereits gezahlt, jetzt gefordert und künftig vorgesehen getrennt ausweisen.
 
 Eine alternative Sicherheit nach Paragraf 7 MaBV nur am tatsächlichen Bürgschaftstext prüfen. Erwerbersicherheit, Rückzahlungssicherheit und Lastenfreistellung nicht gleichsetzen. [Paragraf 650v BGB](https://www.gesetze-im-internet.de/bgb/__650v.html) und Paragraf 1 AbschlagsV bestimmen zulässige Abschlagsvereinbarungen; Paragraf 650m Absatz 2 und 3 BGB bleibt für die Verbrauchersicherheit anwendbar. Bei der ersten Abschlagszahlung die Sicherheit von fünf Prozent der Gesamtvergütung prüfen.
 

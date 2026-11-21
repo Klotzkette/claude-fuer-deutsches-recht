@@ -29,7 +29,7 @@ Artikel 80 sieht grundsätzlich maximal 10000 Euro Barzahlung ab 2027 vor; verbu
 
 ### 3.4. Vorhaben sauber kennzeichnen
 
-AMLA-Aufsicht ab 2028 betrifft ausgewählte Finanzunternehmen, nicht automatisch jede Kanzlei. Konsultation, finalisierter Standardentwurf und erlassener Rechtsakt getrennt führen. Zollfinanzgerechtigkeitsgesetz anhand des BMF-Kabinettsstands vom 12. August 2026 als Vorhaben behandeln, bis Verkündung und Anwendbarkeit belegt sind.
+Ab 2028 betrifft die direkte AMLA-Aufsicht ausgewählte Finanzunternehmen. Für die Zollreform vermerke den Bundestagsbeschluss vom 12.11.2026 und prüfe Verkündung und Geltungsbeginn. Den BMF-Referentenentwurf vom 28.10.2026 zum Geldwäschebekämpfungsgesetz als eigenes Vorhaben führen. Erlass und Anwendungsbeginn jedes technischen Standards vor Übernahme in ein Kontrollsystem belegen.
 
 ## 4. Quellenpflicht
 

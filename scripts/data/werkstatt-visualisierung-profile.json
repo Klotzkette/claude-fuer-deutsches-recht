@@ -2814,6 +2814,22 @@
       "mode": "prompt",
       "rationale": "Beteiligte, dokumentierten Willen, Formweg und konkrete Vollzugsvoraussetzungen auseinanderhalten; eine neue Auskunft im betroffenen Entwurf verarbeiten.",
       "plain_labels": true
+    },
+    "aktenanleger": {
+      "entry_skills": [
+        "akte-anlegen"
+      ],
+      "theme": "anwaltschaft-generell",
+      "mode": "prompt",
+      "rationale": "Rolle, Auftrag, Konflikt und Zugang klären, bevor Unterlagen und Wiedervorlagen einer Akte zugeordnet werden."
+    },
+    "umwandlungssteuerrecht": {
+      "entry_skills": [
+        "umwandlung-steuerlich-begleiten"
+      ],
+      "theme": "steuer",
+      "mode": "prompt",
+      "rationale": "Übertragungsweg, Werte, Fristen, Nachweise und Alternativrechnungen in derselben Entscheidungsunterlage fortführen."
     }
   }
 }

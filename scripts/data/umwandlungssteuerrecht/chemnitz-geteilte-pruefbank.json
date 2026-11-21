@@ -1,0 +1,207 @@
+{
+  "id": "chemnitz-geteilte-pruefbank",
+  "titel": "Zwei Sparten, eine Prüfbank und ein Käufer im Flur",
+  "ort": "Chemnitz",
+  "einstieg": "Die Spinnbogen Messtechnik GmbH betreibt ein Kalibrierlabor und verkauft eigene Messköpfe. Die Alleingesellschafterin möchte das Labor abspalten. Im Plan stehen zwei selbständige Teams. Ihre Schichtbücher zeigen eine gemeinsam genutzte Prüfbank. Während die Spartenleiter über den Zugriff streiten, fragt eine Beteiligungsgesellschaft nach einem Einstieg.",
+  "auftrag": "Entwerfen Sie für die Gesellschafterin einen Besprechungsvermerk zur Abspaltung. Ordnen Sie zuerst den Stand des Vorhabens, dann die Teilbetriebe, die prüfbedürftigen Vermögenspositionen und den möglichen späteren Verkauf ein. Zeigen Sie in Euro, worauf sich eine Wertschwelle beziehen würde.",
+  "unterlagen": [
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-09-02",
+      "titel": "Labor ausgliedern oder abspalten?",
+      "von": "Maren Drost, Spinnbogen Messtechnik GmbH",
+      "an": "Kanzlei Damm und Fink, Steuerberatung",
+      "text": [
+        "Unser Vertrieb nennt alles, was aus dem Organigramm verschwindet, „Ausgliederung“. Meine Mutter Sibylle Drost hält seit 2011 sämtliche Geschäftsanteile der Spinnbogen Messtechnik GmbH privat. Nach dem Plan soll sie selbst sämtliche Anteile an der neuen Labor-GmbH bekommen. Im Werk hat noch niemand unterschrieben.",
+        "Der steuerliche Stichtag ist im Arbeitsentwurf 30. Juni 2026. Der Notartermin soll Ende Oktober stattfinden. Ob Fernkamm später kauft, steht in keiner unserer Unterschriftenmappen. Ich benötige vor dem Termin belastbare Rückfragen an die beiden Sparten."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2026-08-28",
+      "titel": "Spaltungsplan Entwurf 4 – Auszug aus dem Verhandlungstext",
+      "von": "Notariat am Baumwollhof",
+      "an": "Spinnbogen Messtechnik GmbH",
+      "text": [
+        "Der Bereich Kalibrierlabor soll im Wege der Abspaltung zur Neugründung auf die Spinnbogen Labor GmbH übergehen. Die neue Gesellschaft gewährt die Anteile unmittelbar Sibylle Drost. Der Bereich Messkopfproduktion verbleibt bei der übertragenden Gesellschaft. Die beigefügte Übertragungsliste trägt den Stand 28. August. Unterschrift und Registeranmeldung stehen aus.",
+        "Anlage 2 nennt sämtliche Labormieträume, 14 Beschäftigte, Kundenverträge L-01 bis L-92 und Laborstandards. Die Prüfbank P-07 verbleibt laut Liste in der Produktion. Über ein Nutzungsrecht verhandeln die Bereiche. Die Lizenzen für die Kalibriersoftware sind separat zu klären."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "datum": "2026-09-01",
+      "titel": "Werte für die Verhandlung am 30. Juni",
+      "von": "Anton Paul, Controlling",
+      "an": "Maren Drost, Spinnbogen Messtechnik GmbH",
+      "text": [
+        "Bewertungsobjekt | Gemeiner Wert EUR | Grundlage",
+        "Spinnbogen vor der Abspaltung, sämtliche Anteile | 5000000 | Planwert der Bewertung vom 30. Juni",
+        "Labor nach Zuordnung laut Plan, sämtliche Anteile | 2400000 | indikativ, ohne Synergieprämie",
+        "Produktion und übriges Vermögen | 2600000 | Kontrollwert",
+        "Angebot A, Erwerb von 40 Prozent des Labors | 960000 | gleiche Wertbasis, kein Paketabschlag",
+        "Option B, Erwerb von 50 Prozent des Labors | 1200000 | gleiche Wertbasis, kein Paketaufschlag"
+      ],
+      "zahlenspalten": [
+        2
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "datum": "2026-06-29",
+      "titel": "Schichtbuch P-07 – Auszug der letzten vollständigen Woche",
+      "von": "Jana Melchert, Laborleitung",
+      "an": "Betriebsleitung",
+      "text": [
+        "Montag und Dienstag belegten wir P-07 von 7 bis 10 Uhr für Referenzläufe. Die Serienprüfungen der Produktion begannen im Anschluss. Mittwoch mussten wir wegen einer Reklamation erneut für zwei Stunden an die Anlage. Das führte zu einer Verschiebung im Versand.",
+        "P-07 besitzt den aktuell einzigen zugelassenen Halter für den Referenzkopf 3C. Die Laborleitung kann Schichten selbst tauschen, aber der Kalibrierschlüssel ist bei der Produktionsleitung hinterlegt. Die kleinere Bank im Labor dient nur der Vorprüfung."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "datum": "2026-06-15",
+      "titel": "Lizenzblatt für die Kalibriersoftware",
+      "von": "Werkband Software GmbH",
+      "an": "Spinnbogen Messtechnik GmbH",
+      "text": [
+        "Die produktive Kalibrierlizenz ist der Spinnbogen Messtechnik GmbH zur Nutzung an zwei Arbeitsplätzen erteilt. Eine gesellschaftsübergreifende Übertragung bedarf unserer vorherigen Zustimmung. Der Servicevertrag nennt als Ansprechpartnerin Jana Melchert, berechtigte Gesellschaft ist die Messtechnik GmbH.",
+        "Für eine Anfrage benötigen wir Firmenbezeichnung, künftigen Serverstandort und gewünschtes Umstellungsfenster. Ein neuer Arbeitsplatzschlüssel schaltet die Lizenz nicht automatisch für eine andere juristische Person frei."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "datum": "2026-06-30",
+      "titel": "Bereichsauswertung ohne verrechnete Innenleistungen",
+      "von": "Anton Paul, Controlling",
+      "an": "Maren Drost, Spinnbogen Messtechnik GmbH",
+      "text": [
+        "Merkmal | Labor | Produktion",
+        "Personal laut Dienstplan | 14 | 27",
+        "Leitung | Jana Melchert | Ute Albrecht",
+        "Außenumsatz im ersten Halbjahr EUR | 960000 | 1540000",
+        "Kundenverträge mit eigener Nummer | 92 | 45",
+        "Investitionsfreigabe | Bereichsbudget bis 25000 EUR | Bereichsbudget bis 25000 EUR",
+        "Gemeinsame Ressourcen | Prüfbank P-07, Server und Finanzbuchhaltung | Prüfbank P-07, Server und Finanzbuchhaltung"
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "datum": "2026-09-02",
+      "titel": "Unser Einstieg am Labortisch",
+      "von": "Luis Höfer, Fernkamm Industrieholding",
+      "an": "Maren Drost, Spinnbogen Messtechnik GmbH",
+      "text": [
+        "Wir sind mit der Familie Drost und den Gesellschaften nicht verbunden und halten dort bislang keine Beteiligung. Gegenstand unseres Angebots A sind 40 Prozent am neuen Labor, Kaufpreis 960.000 EUR an Frau Drost. Alternativ würden wir über 50 Prozent für 1,2 Mio. EUR sprechen.",
+        "Beide Varianten sind unverbindlich und setzen eine eigene Prüfung und eine Finanzierungsentscheidung voraus. Frühestens am 8. Februar 2027 könnte vollzogen werden. Bitte vermerken Sie, ob wir vorab einen Blick in die Lizenzunterlagen werfen können."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "chat",
+      "datum": "2026-09-03",
+      "titel": "Schlüsselbuch und Laborflur",
+      "von": "Werkteam Spinnbogen",
+      "an": "Projektgruppe",
+      "text": [
+        "Jana: Wer hat nach dem Umbau Zugriff auf P-07? Ohne Referenzlauf kann ich am Freitag weder Zeugnisse freigeben noch den Kunden abrechnen.",
+        "Ute: Meine Leute brauchen dieselbe Bank für die Serien. Im Plan steht sie noch auf meinem Blatt.",
+        "Anton: Lasst die Liste erst einmal so. Das Angebot für einen Mietaufbau ist noch nicht verbindlich."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "datum": "2026-09-03",
+      "titel": "Besprechungszettel der Gesellschafterin",
+      "von": "Sibylle Drost",
+      "an": "Maren Drost",
+      "text": [
+        "Ich will zwei Linien getrennt führen, weil die Laborkunden ein unabhängiges Zertifikat verlangen. Unsere Tochtergesellschaft soll nach dem Entwurf mir persönlich gehören. Die Produktion verkauft weiter eigene Produkte.",
+        "Die Anfrage von Fernkamm kam erstmals im Mai. Ich hatte ihnen auf der Messe erzählt, wir würden das Labor aus dem Herstellerbetrieb lösen. Welcher Anteil überhaupt verkauft wird, ist offen. Ich lasse bis zur Klärung das Feld im Beschlussentwurf frei."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "brief",
+      "datum": "2026-09-11",
+      "titel": "Zusage Lizenzumstellung zum tatsächlichen Betriebsübergang",
+      "von": "Werkband Software GmbH",
+      "an": "Maren Drost, Spinnbogen Messtechnik GmbH",
+      "text": [
+        "Wir stimmen der Übertragung der Laborlizenz zum tatsächlichen Betriebsübergang auf die Spinnbogen Labor GmbH zu. Voraussetzung sind Rückgabe eines bestehenden Schlüssels und die Benennung der neuen Serverkennung. Einen rückwirkenden Lizenzinhaberwechsel zum 30. Juni bestätigen wir nicht.",
+        "Die Zustimmung erfasst allein unsere Software. Über technische Verfügbarkeit der Prüfbank und die Akkreditierung des Labors entscheiden andere Stellen."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "datum": "2026-09-14",
+      "titel": "Werkmeister erinnert sich an den zweiten Prüfstand",
+      "von": "Jana Melchert",
+      "an": "Maren Drost, Spinnbogen Messtechnik GmbH",
+      "text": [
+        "Die Servicefirma hatte am 26. Juni eine zweite Bank zum Testen abgestellt. In meinem Schichtbuch taucht sie nicht auf, weil sie noch keine selbständige Produktionsfreigabe hatte. Am 12. September hat der Prüfer das erste Abnahmeprotokoll unterschrieben. Ich lege das Protokoll bei.",
+        "So könnte das Labor künftig ohne P-07 arbeiten. Für einen belastbaren Nachweis, dass wir das schon am 30. Juni konnten, kann ich mit dieser Abnahme allein nicht einstehen."
+      ],
+      "anlage_nr": 12
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "brief",
+      "datum": "2026-09-12",
+      "titel": "Abnahmeprotokoll Prüfbank L-09",
+      "von": "Messteam am Schieferweg",
+      "an": "Jana Melchert",
+      "text": [
+        "Abnahme des ausgeliehenen Prüfmusters L-09 am 12. September 2026 nach Nachrüstung des Halters 3C. Der Aufbau stand seit 26. Juni in Halle 2. Die Temperaturstabilität des Halters wurde am 9. September erstmals mit Serienstandard erreicht.",
+        "Ab dem Abnahmetag ist das Muster für eigenständige Referenzläufe nach Verfahrensstand 4 freigegeben. Das Protokoll enthält keine Feststellung zur Verwendbarkeit vor der Nachrüstung. Nutzungsvereinbarung läuft bis März 2027."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "datum": "2026-09-16",
+      "titel": "Preisvariante und geplanter Zeitplan",
+      "von": "Maren Drost, Spinnbogen Messtechnik GmbH",
+      "an": "Kanzlei Damm und Fink, Steuerberatung",
+      "text": [
+        "Fernkamm möchte inzwischen bevorzugt die Variante mit 40 Prozent. Es gibt weder bindenden Kaufvertrag noch vollzogene Abtretung. Bitte beurteilen Sie beide Prozentsätze mit den Werten vom 30. Juni.",
+        "Wenn der Stichtag wegen der Prüfbank geändert werden müsste, brauchen wir die Alternativrechnung mit frischen Werten und Unterlagen. Das neue Abnahmeprotokoll und der spätere Lizenzbrief liegen vor. Beide sollen in der Entscheidungsvorlage zeitlich richtig erscheinen."
+      ],
+      "antwort_auf": 1
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "tabelle",
+      "datum": "2026-09-16",
+      "titel": "Funktions- und Wertbrücke für die Trennung",
+      "von": "Kanzlei Damm und Fink, Steuerberatung",
+      "an": "Fallbearbeitung",
+      "text": [
+        "Position | Beleg am Stichtag | Übertragung | Rückbehalt | Nachweis offen",
+        "Prüfbank P-07 | [ ] | [ ] | [ ] | [ ]",
+        "Alternative L-09 und Lizenz | [ ] | [ ] | [ ] | [ ]",
+        "Wert aller Altanteile | [ ] | [ ] | [ ] | [ ]",
+        "Wert veräußerter Anteile unter Angebot A oder B | [ ] | [ ] | [ ] | [ ]"
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "notiz",
+      "datum": "2026-09-16",
+      "titel": "Entscheidungsbogen der Gesellschafterin",
+      "von": "Kanzlei Damm und Fink, Steuerberatung",
+      "an": "Sibylle Drost",
+      "text": [
+        "Zum Besprechungstermin [ ] liegt Fassung [ ] vor. 1 Was soll auf wen übergehen? [ ]. 2 Welche Funktionen kann jede Einheit am maßgebenden Tag selbst tragen? [ ].",
+        "3 Welche spätere Information belegt welchen früheren Zustand? [ ]. 4 Folgen des tatsächlichen Verkaufs und Alternativszenario [ ]. 5 Erforderliche Freigaben, neue Stichtagsprüfung und Termin [ ]."
+      ]
+    }
+  ]
+}
