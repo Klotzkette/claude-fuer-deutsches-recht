@@ -1,0 +1,145 @@
+{
+  "id": "vollmachtsausfertigung-regensburg",
+  "titel": "Die Urkunde von Frau Eller",
+  "ort": "Regensburg",
+  "einstieg": "Ein Sohn möchte für seine Mutter eine weitere Ausfertigung einer Vollmacht aus dem Jahr 2019. Die Post landet im Nurnotariat der heutigen Verwahrerin. Die Mutter wohnt seit einem Umzug unter neuer Anschrift. Der Sohn verwendet ihre alte Mailadresse.",
+  "auftrag": "Erfassen Sie den Eingang zur bestehenden Verwahrung. Bereiten Sie die persönliche Entscheidung über Antrag, Berechtigung, Form und Empfänger vor. Bearbeiten Sie später die Erklärung der Mutter im selben Vorgang.",
+  "unterlagen": [
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "titel": "Für die Bank brauche ich noch ein Original",
+      "datum": "2026-10-07",
+      "von": "Nils Eller",
+      "an": "Notariat Am Bogen",
+      "text": [
+        "Ich helfe meiner Mutter beim Umzug und finde ihren gelben Vollmachtsumschlag nicht. Für Montag lässt die Bank am Schalter nur ein Original gelten. Der damalige Notar ist pensioniert. Die Empfangsdame verwies mich an Sie.",
+        "Bitte schicken Sie das Stück zu mir ins Ingenieurbüro. Ich schreibe aus Mutters altem Postfach, das sie während des Umzugs selten öffnet. Anbei das Schreiben der Bank. Für die Rückantwort lieber meine Mobilnummer benutzen."
+      ],
+      "anlage_nr": 2
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Nachweis beim nächsten Schaltertermin",
+      "datum": "2026-10-06",
+      "von": "Stadtufer Kundenbank, Kundenservice",
+      "an": "Nils Eller",
+      "text": [
+        "Bei Ihrem Besuch am 6. Oktober haben Sie eine Smartphone-Abbildung der ersten Seite einer notariellen Vollmacht gezeigt. Eine Prüfung anhand der vollständigen Urkunde war damit nicht möglich. Bitte vereinbaren Sie einen neuen Termin, sobald Sie eine geeignete Ausfertigung vorlegen können.",
+        "Ob die Vollmacht den beabsichtigten Depotübertrag umfasst, prüft unsere zuständige Stelle erst nach Vorlage. Wir haben keinen Antrag beim Notariat gestellt und benötigen keine Übersendung von Unterlagen an unsere Filiale."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "UV-Vorläufer UR 233/2019 – Vermerk zur Ausfertigung",
+      "datum": "2019-04-15",
+      "von": "Notararchiv Am Bogen",
+      "an": "Verwahrstelle",
+      "text": [
+        "Karteikartenabschrift der Urkundenrolle 233/2019. Erklärende Johanna Eller, damaliger Wohnort Regensburg. Gegenstand General- und Vorsorgevollmacht. Eine Ausfertigung am 15.04.2019 für Johanna Eller persönlich. Die Archivkartei nennt als Bevollmächtigte Nils Eller und Tessa Wirt.",
+        "Zur Erteilung weiterer Ausfertigungen enthält die Urschrift eine gesonderte Bestimmung auf Seite sechs. Die Karteikarte gibt deren Wortlaut nicht wieder. Dokumentiert ist die Übergabe der ersten Ausfertigung an die Erklärende."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "titel": "Telefonat mit Herrn Eller",
+      "datum": "2026-10-07",
+      "von": "Maja Linn, Empfang Notariat",
+      "an": "Notarin Steig",
+      "text": [
+        "Im Gespräch sagt Herr Eller, er stehe als Bevollmächtigter „vorne mit drin“. Seine Mutter könne selbst telefonieren, sei aber wegen der Wohnungseinrichtung ausgelastet. Ihre eigene aktuelle Nummer liege dem Archiv möglicherweise noch nicht vor.",
+        "Er bittet darum, das Depotgeschäft seiner Schwester gegenüber nicht zu erwähnen. Ich habe weder Angaben zur Verwahrung bestätigt noch einen Versand zugesagt. Als Kontakt zur Abklärung ist eine Nummer aus seiner Mail dokumentiert, Herkunft nur Antragsteller."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "titel": "Übergabeliste, Regal 4 Fach E",
+      "datum": "2024-12-17",
+      "von": "Altregistratur",
+      "an": "Verwahrstelle Am Bogen",
+      "text": [
+        "Jahr | Altzeichen | Name | Verwahrung | Hinweis",
+        "2019 | 233/2019 | Johanna Eller | Am Bogen | Band 4 E, sechs Blätter",
+        "2019 | 332/2019 | Johanna Eder | Am Bogen | Band 4 R, vier Blätter",
+        "2020 | 233/2020 | Eller Wohnbau | andere Verwahrstelle | Registeranmeldung"
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Übergabe Ihrer Wohnung am Wiesenrain",
+      "datum": "2026-09-29",
+      "von": "Genossenschaft Haus am Wiesenrain",
+      "an": "Johanna Eller",
+      "text": [
+        "Die Wohnung am Wiesenrain wurde am 29. September an Frau Eller übergeben. Den Zweitschlüssel nahm Herr Eller in ihrem Beisein entgegen. Die bisherige Wohnung an der Alten Gasse soll erst Ende Oktober übergeben werden.",
+        "Frau Eller bat um eine Papierquittung für die Schlüssel. Die Genossenschaft nimmt keine umfassenden Vertretungsvollmachten auf und hat keine weitere Person als Empfänger von Postsendungen eingetragen."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "chat",
+      "titel": "Die blaue oder die gelbe Mappe",
+      "datum": "2026-10-07",
+      "von": "Nils und Tessa",
+      "an": "Signal Familie",
+      "text": [
+        "Nils (17.04 Uhr): Orange Mappe mit den Bankunterlagen gefunden. Auf dem Umschlag ist 332 notiert, deswegen habe ich dem Notariat sicherheitshalber nur das Jahr genannt.",
+        "Tessa (17.12 Uhr): Auf meinem Foto sind die ersten Ziffern 233. Die blaue Mappe ist von Papa. Bitte nichts davon wegwerfen.",
+        "Nils (17.21 Uhr): Mutter packt Freitag mit mir weiter aus. Wenn sie selbst etwas schreiben muss, richte ich ihr das aus."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Arbeitsabschrift Seite sechs – weitere Ausfertigungen",
+      "datum": "2026-10-08",
+      "von": "Verwahrstelle Am Bogen",
+      "an": "Notarin Steig, interner Gebrauch",
+      "text": [
+        "UR 233/2019, Blatt 6. „Weitere Ausfertigungen dürfen zu meinen Lebzeiten ausschließlich auf meine persönliche Anforderung erteilt werden. Die Aushändigung kann nach meiner besonderen Anweisung an eine von mir bezeichnete Person erfolgen.“ Die Unterschriften und der Abschlussvermerk folgen unter dem Text.",
+        "Abgleich mit der aus der bestätigten Verwahrung gezogenen Urschrift am 8. Oktober durch die Registratur, Vermerk M. Linn. Keine Angabe zur neuen Postanschrift und keine neue persönliche Anforderung in der bisherigen Nebenakte."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "brief",
+      "titel": "Persönliche Bitte von Johanna Eller",
+      "datum": "2026-10-09",
+      "von": "Johanna Eller",
+      "an": "Notarin Steig",
+      "text": [
+        "Ich wurde von Ihnen informiert, dass ich die weitere Ausfertigung selbst anfordern muss. Hiermit bitte ich persönlich um eine weitere Ausfertigung meiner Vollmacht UR 233/2019. Ich möchte sie selbst im Notariat abholen. Bitte nichts an das Büro meines Sohnes senden.",
+        "Ich bringe meinen Ausweis und die neue Meldeanschrift mit. Für eine kurze Terminabsprache habe ich Ihnen unten eine Rückrufnummer angegeben. Den Besuch bei der Bank verschiebe ich, bis die Papiere vorliegen. Johanna Eller"
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "notiz",
+      "titel": "Vorsprache ohne den Sohn",
+      "datum": "2026-10-12",
+      "von": "Maja Linn, Empfang",
+      "an": "Notarin Steig",
+      "text": [
+        "Frau Eller erschien am Empfang mit ihrem unterschriebenen Brief vom 9. Oktober im Original. Sie zeigte ein gültiges Lichtbilddokument. Der Abgleich von Name, Geburtsdatum und Foto war möglich. Sie möchte selbst abholen und bittet um einen Termin ohne Begleitung.",
+        "Herr Eller wartet nach ihren Angaben noch auf Nachricht. Die Registratur hält die Abgabe gesperrt, bis die Notarin die Erteilung, Empfängerin und Vermerk im Bestand geprüft hat. Am Empfang erfolgte heute keine Übergabe."
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "tabelle",
+      "titel": "Arbeitsblatt Ausfertigung und Aushändigung",
+      "datum": "2026-10-12",
+      "von": "Notariat Am Bogen",
+      "an": "Verwahrstelle",
+      "text": [
+        "Verwahrstelle und Altzeichen | Erklärende Person | Wortlaut der Erteilungsbestimmung | Antrag und Nachweis | Empfang | tatsächliche Erteilung und Vermerk",
+        " | | | | |"
+      ]
+    }
+  ]
+}

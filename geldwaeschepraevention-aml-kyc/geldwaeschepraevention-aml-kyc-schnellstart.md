@@ -2,7 +2,7 @@
 
 Lies Eigentums- und Zahlungsbelege und erstelle Nachforderung, Meldebegründung oder Vollzugsentscheidung. GwG Paragrafen 2 und 43 Absatz 2 trennen Verpflichtung und Beratungsschutz; EuGH, Urteil vom 26.06.2007, C-305/05, ersetzt diese heutige Prüfung nicht.
 
-Rechtsstand: 8. September 2026; aktuelle Listen prüfen.
+Quellenabgleich am 21.11.2026. Listen am Falltag prüfen.
 
 ## 1.1. Sofortstart
 
@@ -34,7 +34,7 @@ Notariat: GwG Paragraf 16a verbietet erfasste Erfüllung durch Bargeld, Kryptowe
 
 GwG Paragraf 43 verlangt tatsachenbezogene unverzügliche Meldung, keinen Nachweis einer abgeurteilten Vortat. Interne Freigabe darf nicht verzögern. Seit 1. März 2026 GwGMeldV beachten: Bezugskennzeichen, Meldegründe, Personen und Rollen, Konten, Transaktionen, Sachverhalt und erforderliche Anlagen strukturiert vorbereiten. Unbekannte Daten nicht erfinden. Keine unverbundenen Fälle bündeln.
 
-GwG Paragraf 45: Registrierung, befugten Einreicher und tatsächlichen Abgang prüfen. Bei Übermittlungsstörung gesetzlichen Postweg mit amtlichem Vordruck und aktuellen FIU-Angaben prüfen, nicht beliebige E-Mail verwenden. Technische Annahme und inhaltliche Entscheidung unterscheiden. Nichts eigenständig absenden.
+GwG Paragraf 45: Registrierung, befugten Einreicher und tatsächlichen Abgang prüfen. Bei Übermittlungsstörung gesetzlichen Postweg mit amtlichem Vordruck und aktuellen FIU-Angaben prüfen, nicht beliebige E-Mail verwenden. goAML seit 09.11.2026 mit TOTP oder E-Mail-Code. Empfang belegen. Zugangsdaten bleiben beim Meldenden.
 
 Paragraf 46: Zustimmung oder Ablauf des dritten Werktags nach Abgang ohne Untersagung; Samstag zählt nicht. Abgangstag, jeden Werktag und Feiertag ausweisen. Notarieller Eintragungsantrag: besondere Fünf-Werktage-Regel nach Paragraf 16a Absatz 3 Nummer 2. Ausnahme nach Paragraf 46 Absatz 2 braucht eigene Tatsachen und unverzügliche Nachmeldung, nicht bloßen Termindruck. Fristablauf beseitigt andere Verbote nicht. Paragraf 47 vor jeder Außenkommunikation prüfen; beabsichtigte Meldung nicht offenlegen.
 
@@ -42,7 +42,7 @@ Paragraf 46: Zustimmung oder Ablauf des dritten Werktags nach Abgang ohne Unters
 
 Risikoanalyse: GwG Paragraf 5, interne Kontrollen: Paragraf 6, Beauftragter: Paragraf 7. Kategorie und Aufsichtsanordnung prüfen. Keine universelle jährliche Frist erfinden; regelmäßige und anlassbezogene Kontrolle konkret festlegen.
 
-Verordnung (EU) 2024/1624 gilt grundsätzlich ab 10. Juli 2027. Artikel 51 bis 54: Eigentum und Kontrolle, grundsätzlich 25 Prozent oder mehr nach Artikel 52. Artikel 80: maximal 10000 Euro Barzahlung bei erfassten Geschäften, verbundene Vorgänge und strengere nationale Regeln prüfen. Nicht mit heutigen Identifizierungsschwellen verwechseln. Richtlinie 2024/1640 hat gestaffelte Umsetzungsfristen; deutsche Umsetzung eigens nachweisen. AMLA beaufsichtigt ab 2028 ausgewählte Finanzunternehmen, nicht automatisch jede Kanzlei. Entwürfe und Konsultationen sind kein geltendes Recht.
+Verordnung (EU) 2024/1624 gilt grundsätzlich ab 10. Juli 2027. Künftig nach Art. 52 regelmäßig ab 25 Prozent Eigentum, nach Art. 80 maximal 10000 Euro bar bei erfassten Geschäften. Verbundene Vorgänge und strengere nationale Regeln prüfen. Beim deutschen GwBG ist der BMF-Text vom 28.10.2026 ein Entwurf. Für die Zollreform ist der Bundestagsbeschluss vom 12.11.2026 belegt. Verkündung und Geltung nachweisen. AMLA-Direktaufsicht ab 2028 betrifft ausgewählte Finanzunternehmen.
 
 ## 1.7. Ausgabe und Quellen
 

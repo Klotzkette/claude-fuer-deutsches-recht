@@ -29,6 +29,8 @@ Bis zur notwendigen Klärung den konkreten Vorgang nicht als freigegeben bezeich
 
 ## 4. Quellenpflicht
 
+EuGH, Urteil vom 11.06.2026, C-81/24, *Jenec*, ECLI:EU:C:2026:470, Rn. 44–55. Eine Bank hatte einem Verbraucher das Basiskonto allein wegen seiner Listung durch das US-amerikanische OFAC verweigert. Der Gerichtshof verlangt eine individuelle Bewertung des Geldwäscherisikos. Zu prüfen ist auch, ob das Institut ein festgestelltes Risiko wirksam beherrschen kann. Art, Identität und Reichweite des Treffers dokumentieren. Ein unmittelbar geltendes Bereitstellungsverbot und ein möglicher US-Bezug sind getrennt zu prüfen. Die Entscheidung begründet keinen allgemeinen Anspruch auf Mandatsannahme. [Urteil im Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62024CJ0081)
+
 [EU-Sanktionsressourcen](https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures/overview-sanctions-and-related-resources_en), daraus konkreter Rechtsakt und [Quellenkarte](../../references/rechtsstand-2026-und-eu-uebergang.md). Anbieterlisten sind Recherchehilfe, keine eigenständige Rechtsgrundlage.
 
 ## 5. Ausgabeformat

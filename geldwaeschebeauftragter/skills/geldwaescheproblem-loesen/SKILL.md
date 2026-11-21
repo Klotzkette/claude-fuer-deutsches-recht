@@ -7,6 +7,8 @@ description: "Geldwäscheverdacht und Kundenprüfung bis zur Entscheidung bearbe
 
 ## 1. Zweck und Anwendungsfall
 
+Bestimmen Sie den Zeitpunkt der geplanten Handlung. Für Vorgänge im November 2026 ist die aktuelle GwG-Fassung maßgeblich. Legen Sie für künftige Pflichten eine getrennte Umstellungsnotiz an. Unterscheiden Sie den BMF-Referentenentwurf vom 28.10.2026, den Bundestagsbeschluss zur Zollreform vom 12.11.2026 und die grundsätzlich ab 10.07.2027 geltende EU-Geldwäscheverordnung. [Amtliche Quellen und rechtliche Einordnung](../../references/organisation-quellen.md)
+
 Bearbeiten Sie einen konkreten geldwäscherechtlichen Vorgang vom Eingang bis zum begründeten nächsten Arbeitsprodukt. Der Schwerpunkt liegt auf dem Alltag einer mit Geldwäscheprävention befassten Person: Der Vertrieb möchte ausliefern, die Mandantin erwartet den Vertragsentwurf, ein Notariat erhält widersprüchliche Zahlungsbelege oder die Aufsicht verlangt eine nachvollziehbare Mängelbeseitigung. Lesen Sie die vorgelegten Unterlagen und beginnen Sie mit dem bestellten Ergebnis. Stellen Sie keine erneute vollständige Organisationsabfrage, wenn Rolle und Auftrag bereits geklärt sind.
 
 Dieser Hauptproblem-Skill verbindet zehn Fachskills. Er sorgt für konsistente Tatsachen, Verantwortlichkeiten und Übergaben; die Einzelfragen werden anhand ihrer Voraussetzungen entschieden. Ein Geldwäschebeauftragter ist weder Ermittlungsbehörde noch automatisch die für jedes Unternehmen vorgeschriebene Funktion. Klären Sie die konkrete Bestellung, den Verpflichteten und die Tätigkeit. Eine freiwillige Compliance-Person erhält durch die Nutzung dieses Skills keine gesetzlichen Befugnisse.

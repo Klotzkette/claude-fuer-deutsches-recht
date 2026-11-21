@@ -212,6 +212,21 @@ class RevisionTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             previous_case_readme(self.root, relative, changed)
 
+    def test_fachaufnahme_requires_reviewed_old_and_new_text_and_correct_plugin(self):
+        relative = "geldwaeschebeauftragter/skills/geldwaescheproblem-loesen/SKILL.md"
+        old, new = b"Vorpruefung", b"Aktueller Quellenstand"
+        path = put(self.root, relative, new)
+        base = "quality/fachaufnahme-2026-11-21/"
+        snapshot = put(self.root, base + "bestand/" + relative + ".txt", old)
+        put(self.root, base + "fachtexte.json", {relative: {"vorher": rev.digest(old), "nachher": rev.digest(new)}})
+        self.assertEqual(rev.before_fachaufnahme(self.root, path, new, plugin="geldwaeschebeauftragter"), old)
+        for content, plugin in ((new + b"Zusatz", "geldwaeschebeauftragter"), (new, "aktenanleger")):
+            with self.subTest(plugin=plugin, content=content), self.assertRaises(ValueError):
+                rev.before_fachaufnahme(self.root, path, content, plugin=plugin)
+        snapshot.write_bytes(b"Abweichende Vorfassung")
+        with self.assertRaises(ValueError):
+            rev.before_fachaufnahme(self.root, path, new)
+
     def test_catalog_growth_only_reverses_the_two_generated_counts(self):
         market = ".claude-plugin/marketplace.json"
         entries = [{"name": "beispiel", "source": "./beispiel"}]
@@ -236,6 +251,16 @@ class RevisionTests(unittest.TestCase):
                 path.write_bytes(changed)
                 with self.assertRaises(ValueError):
                     rev.historical_bytes(self.root, path, rev.digest(old), plugin="beispiel")
+        catalog = rev.load(self.root / market)
+        for name in ("aktenanleger", "umwandlungssteuerrecht"):
+            catalog["plugins"].append({"name": name, "source": "./" + name})
+        put(self.root, market, catalog)
+        grown = old.replace(b"312 Plugins", b"315 Plugins", 2)
+        path.write_bytes(grown)
+        self.assertEqual(rev.previous_bytes(self.root, path, plugin="beispiel"), old)
+        path.write_bytes(grown.replace(b"315 Plugins", b"316 Plugins", 1))
+        with self.assertRaises(ValueError):
+            rev.previous_bytes(self.root, path, plugin="beispiel")
         nested = put(self.root, "beispiel/references/README.md", new)
         self.assertEqual(rev.historical_bytes(self.root, nested, rev.digest(old)), new)
         put(self.root, market, {"plugins": entries})

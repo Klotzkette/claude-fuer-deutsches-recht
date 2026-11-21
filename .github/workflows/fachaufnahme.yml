@@ -1,0 +1,31 @@
+name: Aktenanleger, Umwandlungssteuerrecht und Vertragsaufnahme
+on:
+  pull_request:
+    paths:
+      - 'aktenanleger/**'
+      - 'umwandlungssteuerrecht/**'
+      - 'geldwaeschebeauftragter/**'
+      - 'geldwaeschepraevention-aml-kyc/**'
+      - 'scripts/build-aktenanlage-und-umwandlung.py'
+      - 'scripts/test-aktenanlage-export.py'
+      - 'scripts/akteneingang/**'
+      - 'scripts/data/aktenanleger/**'
+      - 'scripts/data/umwandlungssteuerrecht/**'
+      - '.github/workflows/fachaufnahme.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verifikation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - name: Aktenanlage, Originalunterlagen und Paketinhalt prüfen
+        run: |
+          python scripts/test-aktenanlage-export.py
+          python scripts/build-aktenanlage-und-umwandlung.py --dist "$RUNNER_TEMP/ausgaben"
+          python scripts/build-aktenanlage-und-umwandlung.py --verify "$RUNNER_TEMP/ausgaben"

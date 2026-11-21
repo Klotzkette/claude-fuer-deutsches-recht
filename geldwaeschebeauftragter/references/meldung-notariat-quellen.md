@@ -95,3 +95,7 @@ EuGH, Urteil vom 26. Juni 2007 – C-305/05, ECLI:EU:C:2007:383, [amtlicher Voll
 **Trägt:** Randnummern 22 bis 24 zeigen die damalige Differenzierung nach Transaktionsmitwirkung und Beratungs-/Verfahrensinformationen. Randnummern 32 bis 37 unterscheiden den Schutz verfahrensbezogener Beratung von Informationspflichten im dort abgegrenzten Transaktionsbereich.
 
 **Trägt nicht:** Eine ungeprüfte Übernahme des historischen Richtlinienwortlauts als heutiges deutsches Recht, eine pauschale Offenlegung anwaltlicher Transaktionsakten oder eine Aussage über jede notariell beglaubigte Urkunde. Die aktuelle Subsumtion erfolgt am heute anwendbaren Gesetz.
+
+## Portalzugang im November 2026
+
+Seit 09.11.2026 kann die berechtigte Person in goAML Web als zweiten Faktor einen zeitbasierten Einmalcode (TOTP) nutzen. Der E-Mail-Code bleibt verfügbar. Die FIU empfiehlt TOTP. Klären Sie, wer Zugang hat und die Empfangsbestätigung sichert. Im Aktenvermerk genügen Zuständigkeit, Versandzeit und belegter Eingang. Zugangsdaten und Codes bleiben bei der meldenden Person. Die Änderung betrifft den Zugang zum Portal. Meldeanlass und unverzügliches Handeln richten sich weiterhin nach dem GwG, das Datenformat nach der seit 01.03.2026 geltenden GwGMeldV. [FIU-Handreichung, S. 2–7](https://www.zoll.de/SharedDocs/Downloads/DE/Links-fuer-Inhaltseiten/Fachthemen/FIU/fiu_2_faktoren_authentisierung_20261109.pdf?__blob=publicationFile&v=2)

@@ -1,0 +1,54 @@
+{
+  "geldwaeschebeauftragter/geldwaeschebeauftragter-hauptproblem.md": {
+    "vorher": "adb3550d88fc11ad3ab791b511f4493d4f0ef10ab49c0522bf8baa585a6f0c4d",
+    "nachher": "a0e5ed23c362d950b2a0b52643009f9455f93553c26f19637befb1b00d8971b9"
+  },
+  "geldwaeschebeauftragter/geldwaeschebeauftragter-schnellstart.md": {
+    "vorher": "b0e1448fd7bcc377a44c154957229c36b7910bf87f198562cb814806ddc6c9a0",
+    "nachher": "34ad4ed6ef456459254533574b8b2c723c0a02a2a4809b40de91bed3a109187e"
+  },
+  "geldwaeschebeauftragter/geldwaeschebeauftragter-werkstatt.md": {
+    "vorher": "8651ed5deff46826b427e75275adc34ee5cf604ec7258932381cb999d9a0d581",
+    "nachher": "f695b8667c3edb3bf6bfb5e546531ab478bf9ae5349f98807c1df640e6586906"
+  },
+  "geldwaeschebeauftragter/references/meldung-notariat-quellen.md": {
+    "vorher": "103db6ecc1454c9cabdff2223bb9cbe39a2bca649b4e4d64a4df60cf150bc956",
+    "nachher": "f6fae87f719e3ce081b0542c334af648bdbcfa62f0d3eee2b672ae498d88c0de"
+  },
+  "geldwaeschebeauftragter/references/organisation-quellen.md": {
+    "vorher": "f3d0734d3ac9ae59afc436847742a5457035169ae5bd76217d0a266a21cafd0d",
+    "nachher": "976a10d792ea1cb53aa09c97d15d4f3dc7b23478144cb16b74882fecb7ca60a1"
+  },
+  "geldwaeschebeauftragter/skills/geldwaescheproblem-loesen/SKILL.md": {
+    "vorher": "8c156554cac99fed1a879278566d19b79aa313ef9a1f70a63bbc25c12617f16b",
+    "nachher": "101d36f9f2661115f7ac9ad1a698c7a028674606413c75459235e5a0170e19d8"
+  },
+  "geldwaeschebeauftragter/skills/pep-sanktionen-risiken-pruefen/SKILL.md": {
+    "vorher": "96da92c31a0553b211433b9068cfc707ef33ebbc92bbe4d7ec43b736f5315948",
+    "nachher": "65187c74d6a5a6986e306b04dc0520ec6a0ba9738da87b76ccfef37ee00154ea"
+  },
+  "geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-schnellstart.md": {
+    "vorher": "4369cb30002797b728ec8c3b91e6608e6b1bef7ced478362ecd248e8e8a22b15",
+    "nachher": "ee27348db43b7993dd48210bbc10cb2a889ebe2759eabba24b00991a9ffb2961"
+  },
+  "geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-werkstatt.md": {
+    "vorher": "2b184fb31549c4edb14a692910b119f330540554b771ac531caf0fedc7827db9",
+    "nachher": "39207e96b48148950df2163cfb2809e42bb6a529639a12be506f930a9dc5e54c"
+  },
+  "geldwaeschepraevention-aml-kyc/references/rechtsstand-2026-und-eu-uebergang.md": {
+    "vorher": "f970c4e57239faca692ca2e02439fb06f2b3d0a03f83a9ba26ff610f298f94fe",
+    "nachher": "1fcc5d0e549fe16992bebabfb50c3fbafe5857fb7d5f6656cc2595dc3c301815"
+  },
+  "geldwaeschepraevention-aml-kyc/skills/einstieg-routing/SKILL.md": {
+    "vorher": "c5b89b4c31c268f5044f3305830855eed8b73c40e45e6d49bbf6dbce9fcff043",
+    "nachher": "93218ce8b941680eeca447ccdd19d1ed2e99aa226d3d8ab84e2bef7ef64d6bb8"
+  },
+  "geldwaeschepraevention-aml-kyc/skills/eu-geldwaescherecht-umstellung-2027/SKILL.md": {
+    "vorher": "65269a0ebab58375d088afc760f905f81f6cdc94a2e7f52b6e5c95e0a45164b0",
+    "nachher": "74d82d4f8c33d7d949aae8a3ced35c64e7d60bd696f82d06e18280c0637a6959"
+  },
+  "geldwaeschepraevention-aml-kyc/skills/geldwaesche-sanktionsscreening/SKILL.md": {
+    "vorher": "b9e236b6974ad20785966f538048482ebc5e7eb8ffa52c1cd8b5338a06f326f4",
+    "nachher": "c9fef06cacbb6aaef4b7e2e8d19fc447652da9ea7590d4e522a5b4c48c641c4a"
+  }
+}

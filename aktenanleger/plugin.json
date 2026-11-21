@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "aktenanleger",
+  "version": "445.36.10",
+  "description": "Bereitet Aktenanlagen in Anwaltskanzlei, Anwaltsnotariat und Nurnotariat vor. Ordnet Eingangspost, Beteiligte, Auftrag, Fristen, Vorbefassung und getrennte Zugriffsrechte zu.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "repository": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "license": "Apache-2.0 OR MIT",
+  "keywords": [
+    "kanzlei",
+    "notariat",
+    "aktenanlage",
+    "forderung",
+    "verwaltung"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Aktenanleger",
+        "shortDescription": "Akte eröffnen und Post zuordnen",
+        "longDescription": "Bereitet Aktenanlagen in Anwaltskanzlei, Anwaltsnotariat und Nurnotariat vor. Ordnet Eingangspost, Beteiligte, Auftrag, Fristen, Vorbefassung und getrennte Zugriffsrechte zu.",
+        "developerName": "Klotzkette"
+      }
+    }
+  }
+}

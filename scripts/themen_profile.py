@@ -6345,6 +6345,8 @@ EXACT_PROFILE_KEYS: dict[str, str] = {
     "normenkontrollrat-nkr": "nkr",
     "nachbarschaftsstreit-pruefer": "nachbar",
     "allgemeines-notariat": "notariat",
+    "aktenanleger": "anwaltschaft-generell",
+    "umwandlungssteuerrecht": "steuer",
     "notariat-alltag": "notariat",
     "ordnungswidrigkeitenrecht": "owi_praxis",
     "oeffentliches-wirtschaftsrecht": "wirtschaftsverwaltung",

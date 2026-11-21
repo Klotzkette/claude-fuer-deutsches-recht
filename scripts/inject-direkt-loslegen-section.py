@@ -384,6 +384,13 @@ def first_product(directory: Path, plugin_name: str) -> str:
 
 
 def quickstart_section(plugin_name: str, directory: Path) -> str:
+    if plugin_name in {"aktenanleger", "umwandlungssteuerrecht"}:
+        example = {
+            "aktenanleger": "Öffnen Sie die Grundakte zur Werklohnforderung. Ordnen Sie jede Anlage einer Person und Forderung zu. Erstellen Sie die Aktenanlage, prüfen Sie den Auftrag und halten Sie im ersten Schreiben fest, welcher Nachweis noch fehlt.",
+            "umwandlungssteuerrecht": "Öffnen Sie die Grundakte zur Kranhalle. Prüfen Sie anhand von Vertrag und Bilanz, welche Gegenstände die GmbH erhält und wie sich ein Rückbehalt auf den Ansatz der stillen Reserven auswirken kann.",
+        }[plugin_name]
+        return ("## In 30 Sekunden starten\n\nWählen Sie eine [Übungsakte](testakten/README.md) und laden Sie zunächst nur den Ordner `Grundakte`.\n\n> "
+                + example + "\n\nGeben Sie anschließend die Nachreichung hinzu und lassen Sie die betroffene Passage im selben Entwurf überarbeiten.")
     if plugin_name == "allgemeines-notariat":
         return """## In 30 Sekunden starten
 

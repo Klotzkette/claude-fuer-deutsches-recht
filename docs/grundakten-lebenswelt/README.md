@@ -2,7 +2,7 @@
 
 Wählen Sie den Fall über die Seitensuche. Entpacken Sie das **Arbeits-ZIP**. Öffnen Sie für die erste Bearbeitung den Ordner `Grundakte`. Unter `00_Posteingang` finden Sie die fallbezogenen Nachrichten, Belege und offenen Rückfragen. Die `README.txt` im ZIP nennt die Absender, Betreffzeilen und weitere Eingangsunterlagen. Für die nächste Runde können Sie den übrigen Aktenbestand hinzunehmen.
 
-Für die notarielle Praxis gibt es außerdem [sieben Amtsgeschäfte und dreizehn Bestandsakten](../../allgemeines-notariat/testakten/README.md).
+Für die notarielle Praxis gibt es außerdem [sieben Amtsgeschäfte und dreizehn Bestandsakten](../../allgemeines-notariat/testakten/README.md). [Fünf Akten zur Aktenanlage](../../aktenanleger/testakten/README.md) und [drei zur steuerlichen Umwandlung](../../umwandlungssteuerrecht/testakten/README.md) enthalten jeweils eine Grundakte und spätere Nachreichungen.
 
 Die [Fachauswahl nach Rechtsgebiet](Fachakten.md) erschließt die mehrstufige Eingangspost für die gemeinsame Bearbeitung im Kurs. Für die vertieften Fachakten führt „Druckfassungen dieses Falls“ direkt zum gewünschten Fall. Die nummerierten Druckpakete bündeln jeweils bis zu 15 Fallordner. Im angegebenen Ordner liegen die durchsuchbare Gesamtakte und ein ZIP mit Einzel-PDFs. Die Steuerakte Tomasius ist auf Wunsch als Originalformat-ZIP erhältlich.
 

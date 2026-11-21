@@ -4,7 +4,7 @@ Wer muss identifiziert werden, welche Beratungsinformation bleibt geschützt und
 
 Paragraf 2 GwG bestimmt die verpflichtete Tätigkeit, Paragraf 43 Absatz 2 den Beratungsschutz samt Rückausnahmen. EuGH, Urteil vom 26.06.2007, C-305/05, schützt verfahrensbezogene Beratung bei Transaktionsmeldepflichten. Ordne in gemischten Mandaten jede Information ihrem Zusammenhang zu; das Urteil zum früheren Richtlinienrecht erlaubt weder pauschales Melden der ganzen Akte noch pauschale Befreiung nach heutigem GwG.
 
-Rechtsstand dieser Arbeitsanleitung: 8. September 2026. Maßgeblich sind die für den Vorgang anwendbare Gesetzesfassung und gegebenenfalls die aktuelle Liste oder Anordnung. Geltendes deutsches Recht, bereits verkündetes Zukunftsrecht und Entwürfe werden sichtbar getrennt.
+Quellenabgleich vom 21. November 2026 zu GwG, Portalzugang, EU-Übergang und Gesetzgebung. Maßgeblich sind die für den Vorgang anwendbare Gesetzesfassung und gegebenenfalls die aktuelle Liste oder Anordnung. Geltendes deutsches Recht, bereits verkündetes Zukunftsrecht und Entwürfe werden sichtbar getrennt.
 
 ## 1. Auftrag aufnehmen und sofort arbeiten
 
@@ -262,11 +262,15 @@ Artikel 80 begrenzt erfasste Barzahlungen grundsätzlich ab 2027 auf maximal 100
 
 ### 12.3. Vorhaben und offene Standards
 
-Das BMF meldet am 12. August 2026 einen Kabinettsbeschluss zum Zollfinanzgerechtigkeitsgesetz. Dieser Stand belegt ein Vorhaben, nicht dessen Verkündung. AMLA-Konsultation, finalisierter Standardentwurf und erlassener Rechtsakt ebenfalls trennen.
+Seit 09.11.2026 kann die berechtigte Person in goAML Web als zweiten Faktor einen zeitbasierten Einmalcode (TOTP) nutzen. Der E-Mail-Code bleibt verfügbar. Die FIU empfiehlt TOTP. Klären Sie, wer Zugang hat und die Empfangsbestätigung sichert. Im Aktenvermerk genügen Zuständigkeit, Versandzeit und belegter Eingang. Zugangsdaten und Codes bleiben bei der meldenden Person. Die Änderung betrifft den Zugang zum Portal. Meldeanlass und unverzügliches Handeln richten sich weiterhin nach dem GwG, das Datenformat nach der seit 01.03.2026 geltenden GwGMeldV. [FIU-Handreichung, S. 2–7](https://www.zoll.de/SharedDocs/Downloads/DE/Links-fuer-Inhaltseiten/Fachthemen/FIU/fiu_2_faktoren_authentisierung_20261109.pdf?__blob=publicationFile&v=2)
+
+Der Bundestag hat die Zollreform am 12.11.2026 in der Fassung der Beschlussempfehlung BT-Drs. 21/9136 angenommen. Wer daraus eine konkrete Befugnis oder Pflicht herleitet, muss die dafür verkündete Vorschrift und ihren Anwendungsbeginn belegen. Davon getrennt plant der BMF-Referentenentwurf vom 28.10.2026 ein Geldwäschebekämpfungsgesetz zur Umsetzung der sechsten EU-Geldwäscherichtlinie. Seine Vorschläge gehören in die Umstellungsplanung. Die am Falltag geltende GwG-Fassung bleibt Grundlage der heutigen Annahme-, Melde- und Vollzugsentscheidung. [Bundestagsbeschluss](https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-finanzkriminalitaet-1231490) · [BMF-Referentenentwurf, S. 1–4](https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_VII/21_Legislaturperiode/2026-10-28-E6EUGWRL/1-Referentenentwurf.pdf?__blob=publicationFile&v=3)
 
 Änderungsregister führen: Quelle, Stadium, betroffene Tätigkeit, Zeitpunkt, konkrete Daten- oder Prozessänderung, Verantwortlicher und Abnahmenachweis. Ein Konsultationsschluss ist keine Compliance-Frist. Bei späterer Recherche den Stand aktualisieren, ohne bereits geprüfte unveränderte Punkte neu zu bearbeiten.
 
 ## 13. Quellen und richtige Rechtsprechungszuordnung
+
+EuGH, Urteil vom 11.06.2026, C-81/24, *Jenec*, ECLI:EU:C:2026:470, Rn. 44–55. Eine Bank hatte einem Verbraucher das Basiskonto allein wegen seiner Listung durch das US-amerikanische OFAC verweigert. Der Gerichtshof verlangt eine individuelle Bewertung des Geldwäscherisikos. Zu prüfen ist auch, ob das Institut ein festgestelltes Risiko wirksam beherrschen kann. Art, Identität und Reichweite des Treffers dokumentieren. Ein unmittelbar geltendes Bereitstellungsverbot und ein möglicher US-Bezug sind getrennt zu prüfen. Die Entscheidung begründet keinen allgemeinen Anspruch auf Mandatsannahme. [Urteil im Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62024CJ0081)
 
 Amtliche Quellen: [GwG](https://www.gesetze-im-internet.de/gwg_2017/), [GwGMeldV](https://www.gesetze-im-internet.de/gwgmeldv/), [GwGMeldV-Immobilien](https://www.gesetze-im-internet.de/imgwgmeldv/), [Verordnung 2024/1624](https://eur-lex.europa.eu/eli/reg/2024/1624/oj/deu), [Richtlinie 2024/1640](https://eur-lex.europa.eu/eli/dir/2024/1640/oj/deu), [Verordnung 2024/1620](https://eur-lex.europa.eu/eli/reg/2024/1620/oj/deu), [Verordnung 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj/deu).
 

@@ -1,0 +1,152 @@
+{
+  "id": "forderung-lichtwerft",
+  "titel": "Wer schuldet den Lichtbogen?",
+  "ort": "Freiburg im Breisgau",
+  "einstieg": "In der Werkstatt der Lichtwerft fehlen 6.426 Euro für eine Leuchtschrift. Buchhaltung, Einkaufsbestellung und Zahlung nennen drei leicht verwechselbare Firmennamen. Die Geschäftsführerin möchte erst wissen, gegen wen und wegen welcher Summe die Kanzlei überhaupt vorgehen kann.",
+  "auftrag": "Legen Sie den anwaltlichen Eingang an. Schreiben Sie die Forderungen beider Projekte auseinander, bestimmen Sie den möglichen Auftraggeber der Kanzlei und setzen Sie eine Wiedervorlage für den offenen Buchungsbeleg. Die Geschäftsführerin hat zunächst nur eine Prüfung bestellt.",
+  "unterlagen": [
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "titel": "Zwei Baustellen und eine Gegenbuchung",
+      "datum": "2026-10-26",
+      "von": "Flora Dans, Geschäftsführung Lichtwerft Werkstatt GmbH",
+      "an": "Kanzlei Bergrain",
+      "text": [
+        "Guten Morgen Frau Pehl, unsere Leuchtschrift am Lesegarten hängt seit August. In der Tabelle stehen noch 6.426 Euro rot. Herr Stein meint, die Umbaugesellschaft habe längst etwas überwiesen. Wenn wir da der falschen Firma schreiben, gibt es Ärger mit dem zweiten Auftrag.",
+        "Bitte prüfen Sie zunächst nur, wem wir was berechnen können und welche Unterlagen Sie brauchen. Für einen Brief an die Gegenseite oder ein Mahnverfahren möchte ich erst Ihre Einschätzung abwarten. Meine Buchhalterin darf Ihnen Belege geben. Die Entscheidung über weitere Kosten treffe ich. Freundliche Grüße, Flora Dans"
+      ],
+      "anlage_nr": 3
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Bestellung KBA 78 – Lesegarten Südtor",
+      "datum": "2026-07-14",
+      "von": "Kandelbogen Ausbau GmbH, Einkauf",
+      "an": "Lichtwerft Werkstatt GmbH",
+      "text": [
+        "Bestellt wird eine Leuchtschrift mit 18 Zeichen, einschließlich Halterung und Montage am Haupteingang des Lesegartens. Festpreis 5.400,00 Euro netto zuzüglich Umsatzsteuer. Leistungsadresse ist das Besucherhaus im Hof. Rechnung unter Angabe KBA 78 an Kandelbogen Ausbau GmbH.",
+        "Auf den Baustellenschildern erscheint die Marke „Kandelbogen Quartier“. Die Koordination vor Ort übernimmt das Quartierteam. Änderungen der Bestellung bitte an den Einkauf der Ausbaugesellschaft. S. Ferber, Einkauf"
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "titel": "Debitorenliste Lesegarten und Hinterhof",
+      "datum": "2026-10-23",
+      "von": "Mira Pfaff, Buchhaltung Lichtwerft",
+      "an": "Flora Dans",
+      "text": [
+        "Projekt | Rechnung oder Zahlung | Gegenkonto laut Export | Soll EUR | Haben EUR",
+        "Lesegarten KBA 78 | LW-26092 vom 27.08. | Kandelbogen Quartier | 6426,00 | 0,00",
+        "Hinterhof Reparatur | LW-26107 vom 08.09. | Quartierdienste | 1190,00 | 0,00",
+        "ohne Projekt | Zahlung 01.10. | Kandelbogen Quartierdienste GmbH | 0,00 | 1200,00",
+        "Stand | Feld „offen“ wird je Karte berechnet | Zahlung noch nicht zugeteilt | 7616,00 | 1200,00"
+      ],
+      "zahlenspalten": [
+        4,
+        5
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Rechnung LW-26092 an das Baustellenbüro",
+      "datum": "2026-08-27",
+      "von": "Lichtwerft Werkstatt GmbH",
+      "an": "Kandelbogen Quartier, Baustellenbüro",
+      "text": [
+        "Ihre Bestellung KBA 78. Lieferung und Montage der Leuchtschrift am Südtor Lesegarten am 26. August. Nettobetrag 5.400,00 Euro, Umsatzsteuer 19 Prozent 1.026,00 Euro, Rechnungsbetrag 6.426,00 Euro. Überweisung unter Angabe der Rechnungsnummer bis 10. September erbeten.",
+        "Das Original ging laut Versandnotiz an das gemeinsame Projektpostfach. Im Rechnungskopf steht nur die Marke mit der Baustellenanschrift. Auf unserer Auftragskarte ist Frau Ferber vom Einkauf vermerkt."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "titel": "Rapport Südtor – Stecker am Zeitwerk noch offen",
+      "datum": "2026-08-26",
+      "von": "Bela Herrlein, Montage Lichtwerft",
+      "an": "Werkstattbüro",
+      "text": [
+        "Von 07.20 bis 15.45 Uhr montiert. 18 Zeichen leuchten im Test mit Werkstattsteuerung. Der bauseitige Dämmerungsschalter kam erst nach der Montage. Die Anschlussleitung blieb markiert. Frau Ferber hat auf dem Tablet nur die Anwesenheitszeiten bestätigt.",
+        "Herr Stein vom Quartierteam hat die Absperrung übernommen. Er wollte am nächsten Morgen mit dem Elektriker durchgehen. Den Lieferzettel über den Schalter habe ich nicht gesehen. Das Foto von der leuchtenden Schrift war mit unserer Testbox aufgenommen."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Rechnung LW-26107 Hofzeichen",
+      "datum": "2026-09-08",
+      "von": "Lichtwerft Werkstatt GmbH",
+      "an": "Kandelbogen Quartierdienste GmbH",
+      "text": [
+        "Reparatur zweier alter Hofzeichen am Seiteneingang, Auftrag QD-9 vom 31. August. Anfahrt, Ausbau der Transformatoren und Wiedermontage 1.000,00 Euro netto. Umsatzsteuer 190,00 Euro, gesamt 1.190,00 Euro.",
+        "Leistungsdatum 4. September. Die Hofzeichen liegen außerhalb des Lesegartens und laufen über eine eigene Einspeisung. Zahlungsziel 18. September, Verwendungszweck QD-9."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "chat",
+      "titel": "Nachricht vom Seiteneingang",
+      "datum": "2026-10-22",
+      "von": "Bela Herrlein und Mira Pfaff",
+      "an": "Projektkanal Werkstatt",
+      "text": [
+        "Mira (09.08 Uhr): Kannst du bei Stein nachfragen? Im Bankexport finde ich 1.200, aber keine Nummer.",
+        "Bela (09.19 Uhr): Er schrieb gerade „war für Licht am Hof“. Für sie ist auch das Südtor am Hof. Ich habe seinerzeit zwei Teams gesehen.",
+        "Mira (09.31 Uhr): Dann lasse ich es auf dem Klärungskonto. Hab bitte den Wortlaut aus der Bank, bevor jemand die Mahnung losschickt."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "titel": "Rückruf vor der Mittagspause",
+      "datum": "2026-10-26",
+      "von": "Lene Pehl, Rechtsanwältin",
+      "an": "Eingang Bergrain",
+      "text": [
+        "Frau Dans meldet sich von der in der Werkstattkorrespondenz hinterlegten Rufnummer. Ansprechpartner auf der Baustelle war häufig Herr Stein. Eine persönliche Zahlungsgarantie hat niemand erwähnt. Die Zahlung hat die Buchhaltung bislang nur aus einem Sammelimport.",
+        "Die Assistentin will am Donnerstag die Langfassung der Bankzeile beschaffen. Frau Dans möchte eine Rückmeldung an ihre eigene Büroanschrift. Den Projektverteiler hat sie ausdrücklich nur zur Zuordnung übersandt."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "titel": "Langtext zur Buchung vom 1. Oktober",
+      "datum": "2026-10-29",
+      "von": "Mira Pfaff, Buchhaltung Lichtwerft",
+      "an": "Kanzlei Bergrain",
+      "text": [
+        "Ich habe die Detailanzeige exportiert. Im ersten Import fehlte alles hinter dem Schrägstrich. Auf dem Konto sind 1.200 Euro angekommen. Es gab keine zweite Überweisung an diesem Tag.",
+        "Die zehn Euro Differenz kann ich nicht erklären. Bitte die Kundenkarten erst ändern, wenn Frau Dans dem von Ihnen vorgeschlagenen Vorgehen zugestimmt hat. Viele Grüße, Mira Pfaff"
+      ],
+      "antwort_auf": 1,
+      "anlage_nr": 10
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "brief",
+      "titel": "Einzelumsatz mit vollständigem Verwendungszweck",
+      "datum": "2026-10-29",
+      "von": "Buchhaltung Lichtwerft – Transaktionsansicht",
+      "an": "Mira Pfaff",
+      "text": [
+        "Eingang 01.10.2026, Valuta 01.10.2026, Betrag +1.200,00 EUR. Auftraggeber Kandelbogen Quartierdienste GmbH. Referenz der Überweisung LWK-101. Vollständiges Textfeld „Licht Hof / QD-9 Reparatur Hinterhof“.",
+        "Auszug aus der Detailansicht des Geschäftskontos. Der Text wurde vom Zahlungsauftraggeber übermittelt. Für den 1. Oktober zeigt die Umsatzliste nur diesen Zahlungseingang. Abruf 29. Oktober, 08.54 Uhr."
+      ]
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "tabelle",
+      "titel": "Arbeitsblatt zur Zuordnung von Zahlungen",
+      "datum": "2026-10-29",
+      "von": "Kanzlei Bergrain",
+      "an": "Mandatsaufnahme",
+      "text": [
+        "Gläubiger und Projekt | Vertragspartner laut Beleg | Rechnung | Eingang mit Zweck | streitig oder offen | Rückfrage",
+        " | | | | |"
+      ]
+    }
+  ]
+}

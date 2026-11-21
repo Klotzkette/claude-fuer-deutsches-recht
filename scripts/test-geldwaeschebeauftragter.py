@@ -28,6 +28,7 @@ from openpyxl import load_workbook
 from pypdf import PdfReader
 
 from prompt_profiles import PROMPT_SUFFIXES, validate_files
+from release_routing import validate_version
 from testakte_disclaimer import NOTICE_BYTES, pdf_content_errors
 from testakte_einzelpdf_common import document_arcname_pairs
 from testakte_zip_common import working_dump_archive_pairs
@@ -35,7 +36,7 @@ from testakte_zip_common import working_dump_archive_pairs
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "geldwaeschebeauftragter"
 DATA = json.loads((ROOT / "scripts/data/geldwaeschebeauftragter-akten.json").read_text(encoding="utf-8"))
-VERSION = "445.34.0"
+HISTORICAL_COMPONENT_VERSION = "445.34.0"
 DIST = None
 CATEGORIES = ("Vertragssoll", "Kassenbeleg", "Bankabgang", "Planwert", "Behauptung")
 # Diese Erwartungen stehen bewusst unabhängig von der Klassifizierungsfunktion
@@ -307,16 +308,21 @@ class GeldwaeschebeauftragterTest(unittest.TestCase):
             self.assertGreater(len(md.read_text(encoding="utf-8")), 1000)
             if kind != "werkstatt":
                 self.assertLessEqual(len(md.read_bytes()), 7500)
+        market = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text(encoding="utf-8"))
+        entries = [p for p in market["plugins"] if p["name"] == PLUGIN.name]
+        self.assertEqual(len(entries), 1)
+        version = validate_version(entries[0]["version"])
         for directory in (".claude-plugin", ".codex-plugin"):
             manifest = json.loads((PLUGIN / directory / "plugin.json").read_text(encoding="utf-8"))
             self.assertEqual(manifest["name"], PLUGIN.name)
-            self.assertEqual(manifest["version"], VERSION)
-        market = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text(encoding="utf-8"))
-        entry = [p for p in market["plugins"] if p["name"] == PLUGIN.name]
-        self.assertEqual(len(entry), 1)
-        self.assertEqual(entry[0]["version"], VERSION)
+            self.assertEqual(manifest["version"], version)
         routes = json.loads((ROOT / "scripts/scoped-release-assets.json").read_text(encoding="utf-8"))["assets"]
-        self.assertEqual(routes["geldwaeschebeauftragter.zip"], f"geldwaeschebeauftragter-v{VERSION}")
+        tag = routes["geldwaeschebeauftragter.zip"]
+        self.assertTrue(tag.endswith(f"-v{version}"), tag)
+        if DIST is not None:
+            # --dist bezeichnet die eigenständige historische Komponente mit 19 Dateien.
+            self.assertEqual(version, HISTORICAL_COMPONENT_VERSION)
+            self.assertEqual(tag, f"geldwaeschebeauftragter-v{HISTORICAL_COMPONENT_VERSION}")
 
     def test_relative_markdown_links_resolve(self):
         files = list(PLUGIN.rglob("*.md")) + [case_directory(case) / "README.md" for case in DATA["cases"]]

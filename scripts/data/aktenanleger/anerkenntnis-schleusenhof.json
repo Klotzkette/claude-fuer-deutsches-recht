@@ -1,0 +1,150 @@
+{
+  "id": "anerkenntnis-schleusenhof",
+  "titel": "Ein Termin für beide Seiten?",
+  "ort": "Kassel",
+  "einstieg": "Ein Hallenbetreiber und eine Schreinerei möchten eine ausgehandelte Ratenzahlung beurkunden lassen. Der Brief kommt an den Notar im Anwaltsnotariat. In der anwaltlichen Altablage gibt es einen Vorgang zum selben Umbau unter dem Namen eines Einzelunternehmens.",
+  "auftrag": "Bereiten Sie die Aufnahme auf der richtigen Amts- oder Mandatsseite vor. Schildern Sie der Urkundsperson, welche früheren Tätigkeiten feststehen und welche Aufklärung noch nötig ist. Verfassen Sie eine zulässige Antwort für die Anfragenden.",
+  "unterlagen": [
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "titel": "Könnten wir am Freitag zusammen unterschreiben?",
+      "datum": "2026-10-19",
+      "von": "Leander Kohm, Schleusenhof Hallen GmbH",
+      "an": "Anwaltsnotariat Uferbogen",
+      "text": [
+        "Die Schreinerei Fenstermond hat bei uns die Tresen und Einbaubänke gefertigt. Wir haben uns beim Frühstück auf sechs Raten geeinigt. Frau Uhl kommt gern mit. Ein Bekannter sagte, wenn beide Seiten beim Notar unterschreiben, braucht es später keinen Prozess.",
+        "Wir schicken den gemeinsamen Zettel. Bitte klären Sie, was Sie zum Anlegen brauchen. Ich reise Montag ab, deshalb wäre Freitag wunderbar. Den Begriff Unterwerfung habe ich auf einer älteren Vorlage gefunden."
+      ],
+      "anlage_nr": 2
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "titel": "Abschrift vom Frühstückszettel",
+      "datum": "2026-10-16",
+      "von": "Leander Kohm und Sina Uhl",
+      "an": "Gesprächsmappe Schleusenhof",
+      "text": [
+        "Der Hallenbetrieb zahlt für die Einbauten am Veranstaltungstresen noch 18.000 Euro. Beginn November mit 3.000 Euro, sodann monatlich weitere 3.000 Euro bis April. Verzinsung haben wir am Tisch nicht besprochen.",
+        "Auf dem Zettel war zunächst „Werkstatt Uhl“ vermerkt, darunter in anderer Farbe „Fenstermond“. Die Unterschriften tragen die Namen Kohm und Uhl ohne Firmenzusatz. Sina sagte ausdrücklich, die alten Fragen zur Holzfarbe sollten damit nicht wieder aufgemacht werden."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Angebot SU-441 für Tresen und Bankreihen",
+      "datum": "2026-03-10",
+      "von": "Werkstatt Sina Uhl",
+      "an": "Schleusenhof Hallen GmbH",
+      "text": [
+        "Umbau vorderer Hallenraum, raumhoher Tresen und zwölf Bankelemente. Gesamtpreis 36.000 Euro brutto, Abschlag 18.000 Euro, Rest nach Abnahme. Materialänderungen nach Bemusterung. Angebotsabsenderin ist das Einzelunternehmen Werkstatt Sina Uhl.",
+        "Der Umzug der Werkstatt und die Firmierung unter neuem Namen sind laut Fußzeile „in Vorbereitung“. Vorgesehenes Projektkürzel ist SCHLEUSE-Ost. Der Auftrag wurde durch Rücksendung eines von Kohm unterzeichneten Exemplars erteilt."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Schlussrechnung FM-61 am Hallentor Ost",
+      "datum": "2026-08-17",
+      "von": "Fenstermond Innenausbau GmbH",
+      "an": "Schleusenhof Hallen GmbH",
+      "text": [
+        "Vertragsbezug SU-441. Summe 36.000 Euro brutto, bisheriger Abschlag 18.000 Euro. Ausgewiesener Rest 18.000 Euro. Zahlung auf das seit Juli verwendete Geschäftskonto der Fenstermond Innenausbau GmbH.",
+        "Die GmbH teilt mit, sie habe Werkstatt und Personal von Frau Uhl übernommen. Eine gesonderte Erklärung zum Gläubigerwechsel liegt der Rechnung nicht bei. Die Geschäftsführerzeile nennt Sina Uhl."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "titel": "Suchauszug ohne Einsicht in Mandatsinhalte",
+      "datum": "2026-10-19",
+      "von": "Registratur Uferbogen",
+      "an": "Empfangsteam",
+      "text": [
+        "Suchbegriff | Bereich | Aktenschild | Zeitraum | Zugriff",
+        "Schleusenhof | Notariat | Kauf einer Lagerfläche | 2019 | Altregister",
+        "Werkstatt Uhl | Anwaltschaft | Uhl – Innenausbau Halle Ost | Mai 2026 | verantwortliche Rechtsanwältin",
+        "Fenstermond | Anwaltschaft | Stammdaten ohne Aktennummer | August 2026 | Verwaltung",
+        "Kohm | Notariat | Familie Kohm – Vorsorge | 2020 | gesonderte Berechtigung"
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "chat",
+      "titel": "Reservierung im Besprechungszimmer",
+      "datum": "2026-10-19",
+      "von": "Sonja Kett und Arnd Bär",
+      "an": "Empfangsteam Uferbogen",
+      "text": [
+        "Sonja (10.17 Uhr): Ist Freitag um 11 noch frei? Beide wollen denselben Termin. Die Unterlagen tragen zwei Namen der Werkstatt.",
+        "Arnd (10.23 Uhr): Zimmer 2 ist intern geblockt. Ich habe ausdrücklich noch keine Zusage geschickt. Das Kürzel „Halle Ost“ kommt mir aus dem Mai bekannt vor.",
+        "Sonja (10.26 Uhr): Ich bitte die Kollegin, den Suchtreffer selbst anzusehen. In unsere notarielle Terminübersicht schreibe ich nur „Rückruf erbeten“."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "titel": "Frage vor dem Rückruf",
+      "datum": "2026-10-19",
+      "von": "Notar Moritz Weyden",
+      "an": "Referentin Johanna Maas",
+      "text": [
+        "Frau Uhl schilderte am Telefon, dass „damals jemand aus dem Haus“ den Farbton der Bankreihen diskutiert habe. Ob das ein Brief an den Hallenbetrieb war oder nur ein organisatorisches Gespräch, erinnert sie nicht. Ein Schriftstück will sie suchen.",
+        "Ich habe sie gebeten, bei der Rücksendung anzugeben, wer damals beraten werden sollte. Einen Text zur Zwangsvollstreckung habe ich noch nicht versandt. Eine Antwort an beide Parteien soll das frühere Mandat keiner Seite offenlegen."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "titel": "Eigener Rückruf am Donnerstag",
+      "datum": "2026-10-20",
+      "von": "Sina Uhl",
+      "an": "Anwaltsnotariat Uferbogen",
+      "text": [
+        "Ich arbeite ab Juli für die neue Gesellschaft. Der Tresen war noch unter meinem alten Briefpapier bestellt. Ich kann Donnerstag nach zwölf mit meinem eigenen Telefon teilnehmen. Meine neue Buchhalterin sitzt dann nicht im Raum.",
+        "Für mich reicht es nicht, wenn nur die Gegenseite die Zahlen bestätigt. Eine Klage will ich im Moment nicht beauftragen. Falls der Freitag zu früh ist, sagen Sie das bitte direkt."
+      ],
+      "antwort_auf": 1
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "notiz",
+      "titel": "Prüfmitteilung der mandatsführenden Kollegin",
+      "datum": "2026-10-21",
+      "von": "Rechtsanwältin Luise Kerner, gesonderter anwaltlicher Zugriff",
+      "an": "intern – persönliche Befassungsprüfung",
+      "text": [
+        "Das Mandat im Mai betraf SU-441. Frau Uhl suchte als damalige Einzelunternehmerin anwaltlichen Rat wegen der Einbehaltung des Restpreises durch den Hallenbetrieb. Ich habe in ihrem alleinigen Auftrag am 19. Mai an die Halle geschrieben und die Zahlung verlangt. Eine Tätigkeit im Auftrag beider Seiten finde ich nicht.",
+        "Wir üben den Anwaltsberuf in derselben Sozietät aus. Der anwaltliche Handakteninhalt bleibt in der hierfür berechtigten Ablage. Diese Mitteilung enthält nur die Angaben zur internen Entscheidung über die angefragte Beurkundung."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "titel": "Reicht unser beider Einverständnis?",
+      "datum": "2026-10-21",
+      "von": "Leander Kohm",
+      "an": "Anwaltsnotariat Uferbogen",
+      "text": [
+        "Frau Uhl und ich sind inzwischen wirklich einig. Die 18.000 betreffen dieselben Einbauten, die sie noch als Einzelunternehmerin berechnet hatte. Wir könnten beide bestätigen, dass wir im selben Notariat unterschreiben möchten.",
+        "Einen Übernahmevertrag mit der neuen GmbH habe ich nicht gesehen. Ich frage im Büro nach. Wegen Freitag müssten wir die Monteure spätestens Donnerstagmittag umplanen."
+      ],
+      "antwort_auf": 8
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "notiz",
+      "titel": "Vermerk zum Gegenstand der früheren Tätigkeit",
+      "datum": "2026-10-21",
+      "von": "Anwaltsnotariat Uferbogen",
+      "an": "Urkundsperson",
+      "text": [
+        "1. Heute begehrte Tätigkeit, Beteiligte und Rollen ______________________",
+        "2. Quelle des Treffers, frühere Person, Auftrag, Grundstück oder Vertrag ______________________",
+        "3. Sachzusammenhang, offene Tatsachen, befugte Einsicht ______________________",
+        "4. Persönliche Entscheidung, externe Antwort, vertraulich verbleibende Angaben ______________________"
+      ]
+    }
+  ]
+}

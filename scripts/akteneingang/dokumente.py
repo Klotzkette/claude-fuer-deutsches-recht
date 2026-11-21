@@ -377,8 +377,21 @@ def render(item, identity):
     ws.append([item["von"], item["an"], item.get("datum")])
     ws.append([])
     rows = table_rows(item)
-    for row in rows:
-        ws.append(row)
+    ws.append(rows[0])
+    numeric = set(item.get("zahlenspalten", []))
+    if not numeric <= set(range(1, len(rows[0]) + 1)):
+        raise ValueError("Ungültige Zahlenspalte in " + item["titel"])
+    for row in rows[1:]:
+        values = list(row)
+        for column in numeric:
+            text = row[column - 1]
+            if not re.fullmatch(r"-?\d+(?:,\d+)?", text):
+                raise ValueError("Unklarer Zahlenwert in " + item["titel"] + ": " + text)
+            values[column - 1] = float(text.replace(",", ".")) if "," in text else int(text)
+        ws.append(values)
+        for column in numeric:
+            if "," in row[column - 1]:
+                ws.cell(ws.max_row, column).number_format = "#,##0.00"
     for c in ws[4]:
         c.fill = PatternFill("solid", fgColor="255850")
         c.font = Font(bold=True, color="FFFFFF")

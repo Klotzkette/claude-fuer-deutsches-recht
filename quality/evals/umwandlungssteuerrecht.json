@@ -1,0 +1,299 @@
+{
+  "schema_version": 1,
+  "plugin": "umwandlungssteuerrecht",
+  "reviewed_on": "2026-11-21",
+  "selection": {
+    "target_skill": "umwandlung-steuerlich-begleiten",
+    "positive": [
+      "Bereiten Sie aus Sacheinlagevertrag, Salden und dem Werkstattvermerk die Entscheidung über die Kranhalle vor.",
+      "Wie ändern Bankbeschluss und neues Hallengutachten die Wertbrücke und die Bedingungen für den Buchwertantrag?",
+      "Ermitteln Sie die steuerliche Folge, wenn die Holding die Anteile Nr. 1–24 ihres alten Tauschs im November 2026 verkauft.",
+      "Wie ändern die Quittung 2025 und die Vertragsvariante für Juli 2027 den Entwurf?",
+      "Prüfen Sie vor der Abspaltung des Labors die Teilbetriebe mit den zeitlich auseinanderliegenden Geräte- und Lizenzunterlagen.",
+      "Rechnen Sie für die zwei Angebote die Schwelle der Nachspaltungsveräußerung und formulieren Sie einen Vorstandsvermerk."
+    ],
+    "negative": [
+      "Legen Sie für die Werkstatt nur eine neue Personalakte an.",
+      "Wie wird der Greiferprüfstand technisch gewartet?",
+      "Entwerfen Sie ohne Steuerprüfung ein Werbeplakat für die Messe.",
+      "Legen Sie ein Geschäftskonto für die Holding an.",
+      "Welches Laborgerät soll der Lieferant technisch kalibrieren?",
+      "Zeigen Sie eine verkehrsrechtliche Prüfung der Anlieferroute."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/umwstg_2006/__11.html",
+      "checked_on": "2026-11-21",
+      "supports": "Übertragungsbilanz der übertragenden Körperschaft bei der Verschmelzung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwstg_2006/__15.html",
+      "checked_on": "2026-11-21",
+      "supports": "Teilbetriebe, Vorbereitung eines Verkaufs und Bedeutung der Wertgrenze bei der Spaltung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwstg_2006/__20.html",
+      "checked_on": "2026-11-21",
+      "supports": "Begünstigte Sacheinlage, neue Anteile, Antrag der übernehmenden Gesellschaft und Grenzen zusätzlicher Gegenleistungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwstg_2006/__21.html",
+      "checked_on": "2026-11-21",
+      "supports": "Qualifizierter Anteilstausch, Mehrheit der Stimmrechte und die gesonderte Rechtsstellung des Einbringenden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwstg_2006/__22.html",
+      "checked_on": "2026-11-21",
+      "supports": "Nachversteuerung, Jahresabschmelzung und Nachweis der Anteilszurechnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwstg_2006/__27.html",
+      "checked_on": "2026-11-21",
+      "supports": "Anwendungszeitpunkte für Änderungen der einzelnen Vorschriften."
+    },
+    {
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Koerperschaftsteuer_Umwandlungssteuer/2025-01-02-umwStE.pdf?__blob=publicationFile",
+      "checked_on": "2026-11-21",
+      "supports": "Umwandlungssteuererlass 2025, insbesondere Rn. 02.14, 15.03 und 22.28–22.33 für Teilbetriebsstichtag und Anteilsnachweis."
+    },
+    {
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Koerperschaftsteuer_Umwandlungssteuer/2025-08-01-aenderung-bmf-schreiben-umwste.pdf?__blob=publicationFile",
+      "checked_on": "2026-11-21",
+      "supports": "Änderung des Umwandlungssteuererlasses vom 1. August 2025, bei Organschaft in der geltenden Verwaltungsauffassung zu berücksichtigen."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650135/",
+      "checked_on": "2026-11-21",
+      "supports": "BFH, IV R 3/23 (NV). Ein Antrag nach § 3 Abs. 2 kann in der dem zuständigen Finanzamt zugeleiteten notariellen Urkunde enthalten sein."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610199/",
+      "checked_on": "2026-11-21",
+      "supports": "BFH, X R 8/24. Rückwirkender Einbringungsgewinn I des Erblassers beim Veräußerungsvorgang durch eine Stiftung als Erbin. Der Fall grenzt sich vom Gewinn II des Anteilstauschs ab."
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-11-21",
+    "method": "desk_review",
+    "files": [
+      "umwandlungssteuerrecht/umwandlungssteuerrecht-werkstatt.md",
+      "umwandlungssteuerrecht/umwandlungssteuerrecht-schnellstart.md"
+    ],
+    "opening_change": "Der Einstieg geht von der konkreten Übertragung und der nächsten Entscheidung aus. Eigentumsübergang, steuerlicher Stichtag und Versand eines Antrags erhalten jeweils eigene Belege.",
+    "norms": [
+      "§§ 1, 2, 3, 11, 15, 20–22 und 27 UmwStG",
+      "§ 39 AO zur Zurechnung sowie § 89 Abs. 2 AO zur verbindlichen Auskunft",
+      "§ 6a GrEStG, §§ 1 Abs. 1a, 15a UStG für Grundstücke und Geschäftsfortführung"
+    ],
+    "decisions": [
+      {
+        "citation": "BFH, Urteil vom 29. November 2017 – I R 7/16, Leitsatz.",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201810065/",
+        "application": "Die Kranhalle anhand ihrer konkreten betrieblichen Funktion und der tatsächlich übertragenen Rechte prüfen. Alternativen für das Zurückhalten oder Mitübertragen gesondert rechnen.",
+        "limit": "Das Urteil betraf ein Besitzeinzelunternehmen unter § 20 UmwStG 2002. Eigentum und Funktion im Heidenheimer Sachverhalt brauchen eigene Feststellungen."
+      },
+      {
+        "citation": "BFH, Urteil vom 2. Dezember 2025 – X R 32/23, Leitsätze.",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610079/",
+        "application": "Beim Konstanzer Anteilstausch die persönliche Antragstellung des Einbringenden nach § 21 Abs. 2 Satz 3 von der Bewertung bei der übernehmenden Gesellschaft unterscheiden.",
+        "limit": "Der besondere Antrag hängt vom Besteuerungsrecht nach dem Tausch ab. Er ist kein pauschaler Verfahrensschritt jedes rein inländischen Falls."
+      },
+      {
+        "citation": "BFH, Urteil vom 11. August 2021 – I R 39/18, Leitsatz.",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202210001/",
+        "application": "In Chemnitz die alte Auslegung mit der auf den Anmeldezeitpunkt bezogenen aktuellen Fassung des § 15 Abs. 2 und § 27 Abs. 19 abgleichen.",
+        "limit": "Bei heutiger Fassung kann auch ein Verkauf unter der Vermutungsschwelle im Einzelfall eine tatsächlich vorbereitete Außenveräußerung sein."
+      },
+      {
+        "citation": "BFH, Urteil vom 23. April 2026 – X R 34/21, Leitsätze.",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610179/",
+        "application": "Beim Wertansatz zu gemeinen Werten den Geschäftswert und einschlägige Verpflichtungen untersuchen und Doppelzählungen offenlegen.",
+        "limit": "Entschieden wurde eine Verschmelzung auf eine Körperschaft nach § 11 Abs. 1. Das Urteil bestimmt weder den konkreten Wert einer Kranhalle noch sämtliche Einbringungsvoraussetzungen."
+      }
+    ],
+    "remaining_limits": [
+      "Die Prüfung dokumentiert die redaktionelle Gegenlektüre von Prompt, Quellen, Unterlagen und Bewertungskriterien. Eine beobachtete Antwort eines Modells steht aus."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-11-21",
+    "method": "desk_review",
+    "opening_modes": [
+      "Bei einer punktuellen Rechtsfrage den geltenden Tatbestand, den Auslöser und die Zahl oder Klausel beantworten, von der die Entscheidung abhängt.",
+      "Bei einer Transaktionsakte die Beteiligten, neue Rechte, Gegenleistung und wirtschaftlichen Übergang aus den Verträgen erheben und eine erste Entscheidungsvorlage schreiben.",
+      "Bei fehlenden Bewertungs- oder Zugangsbelegen die entscheidende Frage stellen und eine belastbare Variantenrechnung bis zur Klärung liefern."
+    ],
+    "continuation": "Bankbeschluss, neues Gutachten, Lizenzbrief und Übermittlungsnachweis am selben Entwurf nachtragen. Folge für Stichtag, Bewertung, Antrag und Frist im Einzelnen ausweisen.",
+    "enrichment": "Eine Beteiligungsskizze oder Werttabelle macht Bezugsgröße, Zeitjahr und Bewertungsstand bei Varianten vergleichbar. Die aus den Belegen hergeleitete Rechnung steht auch im Vermerk.",
+    "limits": "Vertragsabschluss, Zugang beim Finanzamt und tatsächlicher Vollzug sind nur durch die jeweilige Unterlage belegt. Die Bewertung eines ungeklärten Wirtschaftsguts bleibt vorläufig."
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Der Werkstattweg trennt die steuerlichen Folgen nach Rechtsgeschäft und Beteiligtem und lässt neue Nachweise in denselben Entwurf einfließen.",
+    "changes": [
+      "Unternehmenswert, zusätzliche Gegenleistung und Kreditsicherheit werden auf einer erklärten Grundlage verglichen.",
+      "Veräußerungsquoten und Sperrfristen an den ursprünglichen Rechten messen. Alte Rechtsprechung zum Spaltungsrecht wird der geltenden Fassung gegenübergestellt."
+    ],
+    "sha256": "bde7405c44709b2a38e938b45d5cfc7c3cedb7fb58d66115adcc421d50387236"
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der kurze Auftrag führt von den übertragenen Rechten zum ausformulierten Vermerk, Antrag oder Schreiben mit Zahlen und Belegstellen.",
+    "changes": [
+      "Beim Anteilstausch die Antragsebene und das wirtschaftliche Eigentum vor der Berechnung trennen.",
+      "Nachgereichte Unterlagen bis zum Fristenkalender und den einzelnen Beträgen verfolgen."
+    ],
+    "sha256": "e70c461a4370394aca65c4f7226f0a06ed48789a2eaf440ee99dc70af4f2093d"
+  },
+  "cases": [
+    {
+      "id": "heidenheim-kranhalle",
+      "target_skill": "umwandlung-steuerlich-begleiten",
+      "request": "Bei Brenztal Hubtechnik reparieren zwölf Menschen industrielle Greifer. In der Werkhalle ist eine Kranbahn einbetoniert. Inhaberin Ida Benning will den Betrieb als Sacheinlage in ihre GmbH geben. Die Halle heißt im Familienkreis seit Jahren „unser Privatbau“. Auf dem Schreibtisch liegen zwei unterschiedliche Übergabelisten. Erstellen Sie für Ida Benning eine nachvollziehbare Entscheidungsvorlage für die Besprechung vor der Beurkundung. Trennen Sie die Fassungen mit und ohne Hallenübertragung, ordnen Sie die Bankauflagen ein und entwerfen Sie die noch benötigten Anfragen und den passenden Antrag als Arbeitsfassung. Werten Sie zunächst die 9 Stücke der Grundakte aus. Arbeiten Sie danach die 3 nachgereichten Stücke ein und machen Sie die geänderte Beurteilung mit ihren Belegen sichtbar. Die Vorlagen dürfen Sie für Ihre Arbeitsfassung ausfüllen. Die PDF-Lesefassung und die Originale dokumentieren denselben Vorgang.",
+      "input_files": [
+        "umwandlungssteuerrecht/testakten/heidenheim-kranhalle/downloads/testakte-heidenheim-kranhalle.zip",
+        "umwandlungssteuerrecht/testakten/heidenheim-kranhalle/gesamt-pdf/testakte-heidenheim-kranhalle_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Vor § 20 den Übergang eines vollständigen Betriebs gegen neue Anteile prüfen, Nutzung, Eigentum und die Alternativen mit bzw. ohne funktional wesentliche Halle unterscheiden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Mit Halle 320.000 EUR Buchwert und zunächst 710.000 EUR vorläufiger Gesamtwert, nach Hallengutachten 750.000 EUR vor zusätzlicher Firmenwertprüfung. Keine doppelte Kranbahn oder Grundschuld.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bei 90.000 EUR beide Grenzvarianten (80.000 bzw. 320.000 EUR) prüfen, Kreditübernahme getrennt, bedingte Annahme und fehlender steuerlicher Übermittlungsnachweis offen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Antrag der übernehmenden GmbH beim für sie zuständigen Amt vorbereiten, Wirksamkeit und Voraussetzungen einer Rückbeziehung gesondert prüfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "konstanz-stimmenpaket",
+      "target_skill": "umwandlung-steuerlich-begleiten",
+      "request": "Lale Behr brachte 2022 einen Teil ihrer privaten Anteile an einer Softwarefirma in ihre Holding ein. Die Holding möchte jetzt nur einen Teil davon verkaufen. Der Käufer spricht von einem „24-Prozent-Einstieg“. In der Kanzlei sind ein Einlieferungsbeleg für eine alte Mail und ein Kaufvertragsentwurf eingegangen. Ordnen Sie Anteilstausch, Stimmrechte und Eigentumszeitpunkt ein. Erarbeiten Sie für die Verhandlung eine Betragsrechnung mit Jahresstufen, Nachweisen zur Anteilszurechnung und belastbaren Annahmen. Welche Einbringung und wessen Steuererklärung muss bei einem Verkauf nochmals auf den Tisch? Werten Sie zunächst die 9 Stücke der Grundakte aus. Arbeiten Sie danach die 3 nachgereichten Stücke ein und machen Sie die geänderte Beurteilung mit ihren Belegen sichtbar. Die Vorlagen dürfen Sie für Ihre Arbeitsfassung ausfüllen. Die PDF-Lesefassung und die Originale dokumentieren denselben Vorgang.",
+      "input_files": [
+        "umwandlungssteuerrecht/testakten/konstanz-stimmenpaket/downloads/testakte-konstanz-stimmenpaket.zip",
+        "umwandlungssteuerrecht/testakten/konstanz-stimmenpaket/gesamt-pdf/testakte-konstanz-stimmenpaket_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "60 von 100 unmittelbaren Stimmen nach Tausch; Fall des § 21 Abs. 1. Eigenen Antrag nach Abs. 2 Satz 3 im Inlandsfall nicht automatisch verlangen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "24/60 des eingebrachten Pakets, § 22 Abs. 2: 980.000 minus 14.000 minus 126.000 = 840.000 EUR. Vier volle Zeitjahre im November 2026: 3/7 × 24/60 = 144.000 EUR. Im Juli 2027 fünf Jahre: 2/7 × 24/60 = 96.000 EUR. Keine persönliche Steuerquote fingieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Genuine Closing-Bedingungen und wirtschaftliches Eigentum; Teilverkauf der Holding gesondert vom rückwirkenden Gewinn der Einbringenden im Jahr 2022 behandeln. Kein EG I aus einer Veräußerung ihrer Holdinganteile.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Vor Versandnachweis 2025 nur Beleglücke; nach Vorlage tatsächlicher Zugang am 22.05.2025 zum 30.06.2024. Mai 2023 ist freiwillige Zwischenmitteilung; erneuter Nachweis 2027 rechtzeitig planen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chemnitz-geteilte-pruefbank",
+      "target_skill": "umwandlung-steuerlich-begleiten",
+      "request": "Die Spinnbogen Messtechnik GmbH betreibt ein Kalibrierlabor und verkauft eigene Messköpfe. Die Alleingesellschafterin möchte das Labor abspalten. Im Plan stehen zwei selbständige Teams. Ihre Schichtbücher zeigen eine gemeinsam genutzte Prüfbank. Während die Spartenleiter über den Zugriff streiten, fragt eine Beteiligungsgesellschaft nach einem Einstieg. Entwerfen Sie für die Gesellschafterin einen Besprechungsvermerk zur Abspaltung. Ordnen Sie zuerst den Stand des Vorhabens, dann die Teilbetriebe, die prüfbedürftigen Vermögenspositionen und den möglichen späteren Verkauf ein. Zeigen Sie in Euro, worauf sich eine Wertschwelle beziehen würde. Werten Sie zunächst die 9 Stücke der Grundakte aus. Arbeiten Sie danach die 4 nachgereichten Stücke ein und machen Sie die geänderte Beurteilung mit ihren Belegen sichtbar. Die Vorlagen dürfen Sie für Ihre Arbeitsfassung ausfüllen. Die PDF-Lesefassung und die Originale dokumentieren denselben Vorgang.",
+      "input_files": [
+        "umwandlungssteuerrecht/testakten/chemnitz-geteilte-pruefbank/downloads/testakte-chemnitz-geteilte-pruefbank.zip",
+        "umwandlungssteuerrecht/testakten/chemnitz-geteilte-pruefbank/gesamt-pdf/testakte-chemnitz-geteilte-pruefbank_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Abspaltung an die bisherige Anteilseignerin; Prüfung eigenständiger Funktionen beider Bereiche am 30.06.2026 nach § 15 Abs. 1. Kontroll- und Nutzungsrechte an P-07 sowie Software prüfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die erst am 12.09.2026 freigegebene L-09 und der spätere Lizenzbrief belegen keinen rückwirkenden Aufbau; neuen Stichtag allenfalls mit neuen Werten und Fristprüfung vergleichen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Wertquoten: 960.000/5.000.000 = 19,2 %, 1.200.000/5.000.000 = 24 %. Nur die zweite Variante überschreitet 20 %. Auch bei erster bleibt tatsächliche Vorbereitung prüfbar.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Nur Angebote; fehlender Vollzug, Erwerberbezug, Fünfjahresfrist und heutige § 15 Abs. 2-Fassung nach § 27 Abs. 19, I R 39/18 für Altrecht einordnen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviewed_file_hashes": {
+    "umwandlungssteuerrecht/skills/anteilstausch-und-stimmrechte-pruefen/SKILL.md": "5e4fc49f389f52b46af5b974fe17decca3f8b53554341acbd114d1ffdd0c66a7",
+    "umwandlungssteuerrecht/skills/antraege-und-schlussbilanzen-vorbereiten/SKILL.md": "19710227331c61e9a51f391628f3c7805a7d20d9ea6e577bff5dbae86a75bcaf",
+    "umwandlungssteuerrecht/skills/buchwert-und-gegenleistung-berechnen/SKILL.md": "a25d688d53be3960782d23f10d68204c71c4ba13480bb6c51cf84d30c1351db1",
+    "umwandlungssteuerrecht/skills/sperrfristen-und-folgegeschaefte-pruefen/SKILL.md": "ee33a4b533ed2bc6d6a986e97bda77e372e9d2f4cde4e493385d4a7ced8e5f6f",
+    "umwandlungssteuerrecht/skills/teilbetriebe-und-betriebsgrundlagen-pruefen/SKILL.md": "8c7337055898522f761b6130bfcb26800e153cf9dc936919bd80cc1be8f42b85",
+    "umwandlungssteuerrecht/skills/uebertragungsweg-und-stichtag-klaeren/SKILL.md": "ceab8fd0fd874b7068532f78eca5f1b25c7899d43a3ef0764de5c4f84896711d",
+    "umwandlungssteuerrecht/skills/umwandlung-steuerlich-begleiten/SKILL.md": "334e7318bf57ab36675fa57743cc1e049e8cf4cc1bd140701619fff2889260c3",
+    "umwandlungssteuerrecht/skills/verschmelzungsfolgen-zuordnen/SKILL.md": "9ba2198929fec23327378f429c9d7f1889e0bfafb100a8609cdb1c5d39ea62fd",
+    "umwandlungssteuerrecht/references/arbeitsoberflaeche-und-visualisierung.md": "8a2ff929a0b32a3020b36d6e7d145e7c2e940717eb2ef09f3ca82d9ac2f0cc9d",
+    "umwandlungssteuerrecht/references/rechtsquellen.md": "e2561c0fc2688175bd9ca475b2c3b25bb2266266d92fc3a34fe0d27ffc0e7b28",
+    "umwandlungssteuerrecht/umwandlungssteuerrecht-schnellstart.txt": "e70c461a4370394aca65c4f7226f0a06ed48789a2eaf440ee99dc70af4f2093d",
+    "umwandlungssteuerrecht/umwandlungssteuerrecht-werkstatt.txt": "bde7405c44709b2a38e938b45d5cfc7c3cedb7fb58d66115adcc421d50387236"
+  },
+  "artifact_hashes": {
+    "umwandlungssteuerrecht/testakten/heidenheim-kranhalle/gesamt-pdf/testakte-heidenheim-kranhalle_gesamt.pdf": "4704b6b0a649afe91f8a5f7dfa5aee9521821d5d7fe81bb032d4f90ad13ea69b",
+    "umwandlungssteuerrecht/testakten/heidenheim-kranhalle/downloads/testakte-heidenheim-kranhalle.zip": "67bd06e4b9aeec5fb8777f0c7b26d14e36b78b4d16fa8a13efb1fcb840b05403",
+    "umwandlungssteuerrecht/testakten/konstanz-stimmenpaket/gesamt-pdf/testakte-konstanz-stimmenpaket_gesamt.pdf": "5b32816f8216e1dec8d12ba41e5becff0c7ed48aea5649acad6fe44bec4e54f5",
+    "umwandlungssteuerrecht/testakten/konstanz-stimmenpaket/downloads/testakte-konstanz-stimmenpaket.zip": "509e27d7ff27733dd2a2bee4eabb1c7953127249f503c4eda105a9f7078e7009",
+    "umwandlungssteuerrecht/testakten/chemnitz-geteilte-pruefbank/gesamt-pdf/testakte-chemnitz-geteilte-pruefbank_gesamt.pdf": "a9f41be34d29e2134adef5c74b45ca47a6fcf0d69bb29bdc497a56d60ea9fb16",
+    "umwandlungssteuerrecht/testakten/chemnitz-geteilte-pruefbank/downloads/testakte-chemnitz-geteilte-pruefbank.zip": "07eecbb74eb1ab9d1774e2151f0d6167495031d94e1fa15489ca53e903f1a082"
+  }
+}

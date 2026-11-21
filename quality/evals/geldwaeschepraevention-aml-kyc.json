@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "geldwaeschepraevention-aml-kyc",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-11-21",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gwg_2017/__3.html",
@@ -12,31 +12,75 @@
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62005CJ0305",
       "checked_on": "2026-09-22",
       "supports": "EuGH, Urteil vom 26.06.2007 - C-305/05, Rn. 32 bis 37: Bei gemischter anwaltlicher Beratung und Transaktionsabwicklung Herkunft und Zusammenhang jeder Information abgrenzen; Meldepflichten setzen den Schutz verfahrensbezogener Beratung voraus. Grenze: Entscheidung zur Richtlinie 91/308/EWG und zum fairen Verfahren, keine pauschale Bestätigung jeder heutigen Meldepflicht oder sämtlicher Grundrechtsfragen. Aktuelles GwG Paragraf 43 Absatz 2 mit Rückausnahmen eigenständig prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/BJNR182210017.html",
+      "checked_on": "2026-11-21",
+      "supports": "Amtliche Gesamtausgabe, angezeigter Änderungsstand 29.06.2026, BGBl. 2026 I Nr. 197. Vom Bundestag beschlossene Vorhaben erst nach Verkündung und ihrem Geltungsbeginn anwenden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwgmeldv/BJNR0C80A0025.html",
+      "checked_on": "2026-11-21",
+      "supports": "Form und Inhalt der elektronischen Meldung. In Kraft seit 01.03.2026."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/imgwgmeldv/BJNR196500020.html",
+      "checked_on": "2026-11-21",
+      "supports": "Materielle immobilienspezifische Meldesachverhalte, angezeigte letzte Änderung vom 15.01.2025. Vom Meldeformat unterscheiden."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1624/oj/deu",
+      "checked_on": "2026-11-21",
+      "supports": "Art. 90, Anwendung grundsätzlich ab 10.07.2027, für erfasste Akteure im Profifußball erst ab 10.07.2029."
+    },
+    {
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_VII/21_Legislaturperiode/2026-10-28-E6EUGWRL/1-Referentenentwurf.pdf?__blob=publicationFile&v=3",
+      "checked_on": "2026-11-21",
+      "supports": "Referentenentwurf des BMF vom 28.10.2026, S. 1–4. Eigenes nationales Umsetzungsvorhaben. Keine Grundlage heutiger Einzelfallpflichten."
+    },
+    {
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-finanzkriminalitaet-1231490",
+      "checked_on": "2026-11-21",
+      "supports": "Bundestagsbeschluss 12.11.2026 zur Zollreform auf BT-Drs. 21/9136. Beschluss allein belegt keine anwendbare Änderung."
+    },
+    {
+      "url": "https://www.zoll.de/SharedDocs/Downloads/DE/Links-fuer-Inhaltseiten/Fachthemen/FIU/fiu_2_faktoren_authentisierung_20261109.pdf?__blob=publicationFile&v=2",
+      "checked_on": "2026-11-21",
+      "supports": "FIU-Handreichung vom 09.11.2026, S. 2–7. goAML Web kann mit zeitbasiertem Code oder E-Mail-Code verwendet werden. Das betrifft den Zugang und nicht den Meldeanlass."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62024CJ0081",
+      "checked_on": "2026-11-21",
+      "supports": "EuGH C-81/24, Jenec, Rn. 44–55. Drittlandslistung ist beim Basiskonto in die einzelfallbezogene AML-Risikoabwägung einzubeziehen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Das Beratungsschutzproblem wird jetzt bei gemischtem Mandat nach Informationsherkunft gelöst; EuGH C-305/05 ist mit historischem Richtlinienbezug und begrenztem Grundrechtsmaßstab eingebunden. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "reason": "Quellenabgleich zu geltendem GwG und Immobilienmeldefällen, FIU-Portal, EU-Anwendungsbeginn sowie deutschem Umsetzungsvorhaben und Zollreform. Die praktische Risikogrenze für einen Drittlistenfund im Basiskontofall anhand Jenec geprüft.",
     "changes": [
       "Aktuelles GwG Paragraf 43 Absatz 2 und Paragraf 10 Absatz 9 von der historischen EuGH-Prüfung getrennt.",
       "Nicht verifizierte Transparenzregister-Entscheidungsverweise entfernt; fehlender Registerzugang ersetzt keine Eigentümerprüfung.",
       "Wiederholungen im Mini gekürzt, Fachschwellen und Fortsetzung nach Nachweisen erhalten.",
       "Wirtschaftlich Berechtigte, auffällige Zahlung oder Notarvollzug wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
-      "Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht."
+      "Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht.",
+      "Meldeportal und Geltungszeitpunkte aktualisiert. In der Langfassung eigenständige Risikobewertung bei einem Drittlandslistentreffer."
     ],
-    "sha256": "4369cb30002797b728ec8c3b91e6608e6b1bef7ced478362ecd248e8e8a22b15"
+    "sha256": "ee27348db43b7993dd48210bbc10cb2a889ebe2759eabba24b00991a9ffb2961",
+    "reviewed_on": "2026-11-21"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ausführlichen Branchen-, Melde- und Vollzugsrouten bleiben erhalten. Der bisher pauschale Privilegienverweis wird durch konkrete Trennung von Transaktionsmitwirkung und verfahrensbezogener Beratung ersetzt. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "reason": "Quellenabgleich zu geltendem GwG und Immobilienmeldefällen, FIU-Portal, EU-Anwendungsbeginn sowie deutschem Umsetzungsvorhaben und Zollreform. Die praktische Risikogrenze für einen Drittlistenfund im Basiskontofall anhand Jenec geprüft.",
     "changes": [
       "Aktuelles GwG Paragraf 43 Absatz 2 und Paragraf 10 Absatz 9 von der historischen EuGH-Prüfung getrennt.",
       "Nicht verifizierte Transparenzregister-Entscheidungsverweise entfernt; fehlender Registerzugang ersetzt keine Eigentümerprüfung.",
       "Wiederholungen im Mini gekürzt, Fachschwellen und Fortsetzung nach Nachweisen erhalten.",
       "Kontrolllücken, Dritt-Rückkonto, informationsbezogener Beratungsschutz sowie Nachforderung/Meldung/Vollzug praktisch getrennt.",
-      "Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht."
+      "Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht.",
+      "Meldeportal und Geltungszeitpunkte aktualisiert. In der Langfassung eigenständige Risikobewertung bei einem Drittlandslistentreffer."
     ],
-    "sha256": "2b184fb31549c4edb14a692910b119f330540554b771ac531caf0fedc7827db9"
+    "sha256": "39207e96b48148950df2163cfb2809e42bb6a529639a12be506f930a9dc5e54c",
+    "reviewed_on": "2026-11-21"
   },
   "selection": {
     "positive": [
@@ -80,22 +124,56 @@
         }
       ],
       "target_skill": "geldwaesche-ubo-wirtschaftlich-berechtigte"
+    },
+    {
+      "id": "geltung-umsetzung-und-zollbeschluss",
+      "request": "Im Rundschreiben vom 20.11.2026 kündigt der Kanzleileiter an, der GwBG-Referentenentwurf vom 28. Oktober und die Zollreform seien wegen der Abstimmung am 12. November sofort als neue Meldegrundlage auf alle Mandate anzuwenden. In einem laufenden Kataloggeschäft liegen konkrete Verdachtstatsachen vor. Korrigieren Sie die Anweisung und ordnen Sie den dringenden Einzelfall zu. Liefern Sie pruefung.md.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "geltung-umsetzung-und-zollbeschluss-1",
+          "text": "Ordnet das BMF-Vorhaben und den Bundestagsbeschluss unterschiedlichen Verfahren zu. Verlangt zur Anwendung der beschlossenen Änderungen Verkündung und konkretes Inkrafttreten.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "geltung-umsetzung-und-zollbeschluss-2",
+          "text": "Prüft den zeitlich einschlägigen GwG-Tatbestand und bei Beratung die Herkunft jeder Information einschließlich der Rückausnahmen. Die konkrete Entscheidung wird nicht auf Juli 2027 verschoben.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "geltung-umsetzung-und-zollbeschluss-3",
+          "text": "Formuliert eine verwendbare Anweisung mit nachvollziehbarer Änderungskontrolle und getrenntem Hinweis auf die grundsätzlich ab 10.07.2027 anzuwendende EU-Verordnung.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ],
+      "target_skill": "einstieg-routing"
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-11-21",
     "files": [
       "geldwaeschepraevention-aml-kyc/README.md",
       "geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-werkstatt.md",
       "geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-schnellstart.md",
       "quality/evals/geldwaeschepraevention-aml-kyc.json"
     ],
-    "opening_change": "Eigentumskette, Zahlungsabweichung und Beratungsschutz führen zur konkreten Nachforderung, Meldeprüfung oder Vollzugsentscheidung.",
+    "opening_change": "Quellenabgleich zu geltendem GwG und Immobilienmeldefällen, FIU-Portal, EU-Anwendungsbeginn sowie deutschem Umsetzungsvorhaben und Zollreform. Die praktische Risikogrenze für einen Drittlistenfund im Basiskontofall anhand Jenec geprüft.",
     "norms": [
       "GwG Paragraf 2 Absatz 1 Nummer 10",
       "GwG Paragraf 3",
       "GwG Paragraf 10 Absatz 9",
-      "GwG Paragraf 43 Absatz 2"
+      "GwG Paragraf 43 Absatz 2",
+      "Art. 16 Abs. 4 RL 2014/92/EU im Zusammenspiel mit RL (EU) 2015/849",
+      "Art. 90 VO (EU) 2024/1624"
     ],
     "decisions": [
       {
@@ -103,24 +181,31 @@
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62005CJ0305",
         "application": "Bei gemischter anwaltlicher Beratung und Transaktionsabwicklung Herkunft und Zusammenhang jeder Information abgrenzen; Meldepflichten setzen den Schutz verfahrensbezogener Beratung voraus.",
         "limit": "Entscheidung zur Richtlinie 91/308/EWG und zum fairen Verfahren, keine pauschale Bestätigung jeder heutigen Meldepflicht oder sämtlicher Grundrechtsfragen. Aktuelles GwG Paragraf 43 Absatz 2 mit Rückausnahmen eigenständig prüfen."
+      },
+      {
+        "citation": "EuGH, Urteil vom 11.06.2026, C-81/24, Jenec, Rn. 44–55",
+        "application": "Drittlandslistung kann ein Risikofaktor sein. Die Bank prüft das konkrete Basiskonto und die Beherrschbarkeit des Risikos.",
+        "limit": "Keine pauschale Sanktionsfreigabe oder Verpflichtung zur Mandatsannahme. EU-Bereitstellungsverbot und US-Bezug separat prüfen.",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62024CJ0081"
       }
     ],
     "remaining_limits": [
       "Neu geprüft wurden Beratungsschutz und UBO-Norm; vorhandene 2026-Meldeverordnungen, FIU-Verfahren, Branchenwerte und künftiges EU-Paket nicht insgesamt erneut verifiziert.",
       "Keine aktuellen Sanktionslisten oder konkreten Mandantentreffer geprüft.",
       "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
-      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen.",
+      "Fokussierte Prüfung der genannten Quellen. Kein Live-Modelllauf, Portalzugang oder Vollaudit unveränderter Rechtsgebiete."
     ]
   },
   "prompt_workflow_review": {
-    "date": "2026-09-23",
+    "date": "2026-11-21",
     "method": "desk_review",
     "opening_modes": [
       "Wirtschaftlich Berechtigte, auffällige Zahlung oder Notarvollzug wählen.",
       "Kontrollkette und Zahlungsbelege still lesen; gezielte Kontrollklärung oder Nachforderung anbieten.",
       "Bestellten KYC-Vermerk oder Meldeentwurf direkt bearbeiten."
     ],
-    "continuation": "Stimmbindung -> Kontrollkette; entkräftender Bankbeleg -> Meldebegründung; tatsächlicher Abgang -> richtiger Wartefristlauf.",
+    "continuation": "Stimmbindung -> Kontrollkette; entkräftender Bankbeleg -> Meldebegründung; tatsächlicher Abgang -> richtiger Wartefristlauf. Neue Erkenntnisse über Rechtsstand, Listenidentität oder tatsächlichen Versand in der konkreten Entscheidung fortschreiben.",
     "enrichment": "Kontrolllücken, Dritt-Rückkonto, informationsbezogener Beratungsschutz sowie Nachforderung/Meldung/Vollzug praktisch getrennt.",
     "limits": "desk review; no live client execution"
   },
@@ -169,5 +254,74 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "reviews_before_2026_11_21": {
+    "reviewed_on": "2026-09-23",
+    "mini_review": {
+      "verdict": "revised",
+      "reason": "Das Beratungsschutzproblem wird jetzt bei gemischtem Mandat nach Informationsherkunft gelöst; EuGH C-305/05 ist mit historischem Richtlinienbezug und begrenztem Grundrechtsmaßstab eingebunden. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+      "changes": [
+        "Aktuelles GwG Paragraf 43 Absatz 2 und Paragraf 10 Absatz 9 von der historischen EuGH-Prüfung getrennt.",
+        "Nicht verifizierte Transparenzregister-Entscheidungsverweise entfernt; fehlender Registerzugang ersetzt keine Eigentümerprüfung.",
+        "Wiederholungen im Mini gekürzt, Fachschwellen und Fortsetzung nach Nachweisen erhalten.",
+        "Wirtschaftlich Berechtigte, auffällige Zahlung oder Notarvollzug wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+        "Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht."
+      ],
+      "sha256": "4369cb30002797b728ec8c3b91e6608e6b1bef7ced478362ecd248e8e8a22b15"
+    },
+    "workshop_review": {
+      "verdict": "revised",
+      "reason": "Die ausführlichen Branchen-, Melde- und Vollzugsrouten bleiben erhalten. Der bisher pauschale Privilegienverweis wird durch konkrete Trennung von Transaktionsmitwirkung und verfahrensbezogener Beratung ersetzt. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+      "changes": [
+        "Aktuelles GwG Paragraf 43 Absatz 2 und Paragraf 10 Absatz 9 von der historischen EuGH-Prüfung getrennt.",
+        "Nicht verifizierte Transparenzregister-Entscheidungsverweise entfernt; fehlender Registerzugang ersetzt keine Eigentümerprüfung.",
+        "Wiederholungen im Mini gekürzt, Fachschwellen und Fortsetzung nach Nachweisen erhalten.",
+        "Kontrolllücken, Dritt-Rückkonto, informationsbezogener Beratungsschutz sowie Nachforderung/Meldung/Vollzug praktisch getrennt.",
+        "Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht."
+      ],
+      "sha256": "2b184fb31549c4edb14a692910b119f330540554b771ac531caf0fedc7827db9"
+    },
+    "prompt_editorial_review": {
+      "date": "2026-09-22",
+      "files": [
+        "geldwaeschepraevention-aml-kyc/README.md",
+        "geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-werkstatt.md",
+        "geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-schnellstart.md",
+        "quality/evals/geldwaeschepraevention-aml-kyc.json"
+      ],
+      "opening_change": "Eigentumskette, Zahlungsabweichung und Beratungsschutz führen zur konkreten Nachforderung, Meldeprüfung oder Vollzugsentscheidung.",
+      "norms": [
+        "GwG Paragraf 2 Absatz 1 Nummer 10",
+        "GwG Paragraf 3",
+        "GwG Paragraf 10 Absatz 9",
+        "GwG Paragraf 43 Absatz 2"
+      ],
+      "decisions": [
+        {
+          "citation": "EuGH, Urteil vom 26.06.2007 - C-305/05, Rn. 32 bis 37",
+          "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62005CJ0305",
+          "application": "Bei gemischter anwaltlicher Beratung und Transaktionsabwicklung Herkunft und Zusammenhang jeder Information abgrenzen; Meldepflichten setzen den Schutz verfahrensbezogener Beratung voraus.",
+          "limit": "Entscheidung zur Richtlinie 91/308/EWG und zum fairen Verfahren, keine pauschale Bestätigung jeder heutigen Meldepflicht oder sämtlicher Grundrechtsfragen. Aktuelles GwG Paragraf 43 Absatz 2 mit Rückausnahmen eigenständig prüfen."
+        }
+      ],
+      "remaining_limits": [
+        "Neu geprüft wurden Beratungsschutz und UBO-Norm; vorhandene 2026-Meldeverordnungen, FIU-Verfahren, Branchenwerte und künftiges EU-Paket nicht insgesamt erneut verifiziert.",
+        "Keine aktuellen Sanktionslisten oder konkreten Mandantentreffer geprüft.",
+        "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
+        "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+      ]
+    },
+    "prompt_workflow_review": {
+      "date": "2026-09-23",
+      "method": "desk_review",
+      "opening_modes": [
+        "Wirtschaftlich Berechtigte, auffällige Zahlung oder Notarvollzug wählen.",
+        "Kontrollkette und Zahlungsbelege still lesen; gezielte Kontrollklärung oder Nachforderung anbieten.",
+        "Bestellten KYC-Vermerk oder Meldeentwurf direkt bearbeiten."
+      ],
+      "continuation": "Stimmbindung -> Kontrollkette; entkräftender Bankbeleg -> Meldebegründung; tatsächlicher Abgang -> richtiger Wartefristlauf.",
+      "enrichment": "Kontrolllücken, Dritt-Rückkonto, informationsbezogener Beratungsschutz sowie Nachforderung/Meldung/Vollzug praktisch getrennt.",
+      "limits": "desk review; no live client execution"
+    }
   }
 }

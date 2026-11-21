@@ -2,7 +2,7 @@
 
 ## 1. Rechtsstand und Verwendung
 
-Recherche- und Abrufstand: 08.10.2026. Diese Referenz hält die für die Organisationsskills tatsächlich gelesenen amtlichen Texte und ihre Anwendungsgrenzen fest. Sie ist keine Zusicherung, dass ein bestimmter Name aktuell auf keiner Liste steht. Konkrete Aufsichtsanordnungen, Länderlisten und Sanktionslisteneinträge werden bei Anwendung zusätzlich aktuell geprüft. Herkunft, Fassung und tatsächlich gelesene Passage bleiben im konkreten Fall dokumentiert.
+Grundrecherche am 08.10.2026. Ergänzende Prüfung von Gesetzgebung, Geltungsbeginn und Sanktionstreffern am 21.11.2026. Diese Referenz hält die für die Organisationsskills tatsächlich gelesenen amtlichen Texte und ihre Anwendungsgrenzen fest. Sie ist keine Zusicherung, dass ein bestimmter Name aktuell auf keiner Liste steht. Konkrete Aufsichtsanordnungen, Länderlisten und Sanktionslisteneinträge werden bei Anwendung zusätzlich aktuell geprüft. Herkunft, Fassung und tatsächlich gelesene Passage bleiben im konkreten Fall dokumentiert.
 
 Bei drei zunächst nicht im Webwerkzeug erreichbaren GwG-Einzelnormen wurden dieselben amtlichen Seiten direkt abgerufen und deren Wortlaut gelesen. Die deutschen Volltexte der drei weiteren EuGH-Entscheidungen waren ebenfalls direkt erreichbar, obwohl das Webwerkzeug zeitweise eine Bot-Prüfseite meldete. Es wurden keine Suchtreffer-Auszüge als Volltextnachweis verwendet. Der gesonderte Prüfbericht im Qualitätsordner beschreibt Umfang und Grenzen.
 
@@ -80,3 +80,9 @@ Die [Verordnung (EU) 2024/1624, Art. 90](https://eur-lex.europa.eu/eli/reg/2024/
 ## 7. Anwendung im konkreten Vorgang
 
 Übernehmen Sie nur die für die Frage tragende Aussage mit ihrer Begrenzung. Schreiben Sie im konkreten Quellenvermerk URL, Abrufdatum, Fassung, gelesene Randnummer oder Absatz und tatsächlichen Anwendungsgrund auf. Ein nicht erreichbarer Volltext bleibt als nicht verifiziert gekennzeichnet, auch wenn ein anderer amtlicher Text ihn zitiert. Die Entscheidung wird dann nicht mit vermeintlich selbst gelesenen Randnummern wiedergegeben.
+
+## 8. Rechtsstand am 21. November 2026
+
+Der Bundestag hat die Zollreform am 12.11.2026 in der Fassung der Beschlussempfehlung BT-Drs. 21/9136 angenommen. Wer daraus eine konkrete Befugnis oder Pflicht herleitet, muss die dafür verkündete Vorschrift und ihren Anwendungsbeginn belegen. Davon getrennt plant der BMF-Referentenentwurf vom 28.10.2026 ein Geldwäschebekämpfungsgesetz zur Umsetzung der sechsten EU-Geldwäscherichtlinie. Seine Vorschläge gehören in die Umstellungsplanung. Die am Falltag geltende GwG-Fassung bleibt Grundlage der heutigen Annahme-, Melde- und Vollzugsentscheidung. [Bundestagsbeschluss](https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-finanzkriminalitaet-1231490) · [BMF-Referentenentwurf, S. 1–4](https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_VII/21_Legislaturperiode/2026-10-28-E6EUGWRL/1-Referentenentwurf.pdf?__blob=publicationFile&v=3)
+
+EuGH, Urteil vom 11.06.2026, C-81/24, *Jenec*, ECLI:EU:C:2026:470, Rn. 44–55. Eine Bank hatte einem Verbraucher das Basiskonto allein wegen seiner Listung durch das US-amerikanische OFAC verweigert. Der Gerichtshof verlangt eine individuelle Bewertung des Geldwäscherisikos. Zu prüfen ist auch, ob das Institut ein festgestelltes Risiko wirksam beherrschen kann. Art, Identität und Reichweite des Treffers dokumentieren. Ein unmittelbar geltendes Bereitstellungsverbot und ein möglicher US-Bezug sind getrennt zu prüfen. Die Entscheidung begründet keinen allgemeinen Anspruch auf Mandatsannahme. [Urteil im Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62024CJ0081)

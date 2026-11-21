@@ -1,0 +1,365 @@
+{
+  "schema_version": 1,
+  "plugin": "aktenanleger",
+  "reviewed_on": "2026-11-21",
+  "selection": {
+    "target_skill": "akte-anlegen",
+    "positive": [
+      "Legen Sie aus dem Auftrag von Lichtwerft, den beiden Werkstattrechnungen und der Zahlung eine Kanzleiakte mit Forderungsblatt und erster Rückfrage an.",
+      "Führen Sie den Eingang fort, nachdem die Buchhaltung den vollständigen Banklangtext vorgelegt hat.",
+      "Erfassen Sie den Behördenbescheid für Hafenklang mit Empfangsbelegen, Auftrag und Fristvorlage.",
+      "Der Vorstand hat jetzt gemeinsam geschrieben. Aktualisieren Sie das Aktenblatt und die dringende Nachricht.",
+      "Wie legen wir diese gemeinsame Terminanfrage im Anwaltsnotariat an, wenn es schon einen alten Anwaltstreffer zum Umbau gibt?",
+      "Bereiten Sie den internen Vorbefassungsvermerk und die kurze Antwort an beide Beteiligte vor.",
+      "Legen Sie das Ersuchen des Sohnes beim verwahrenden Nurnotariat sauber an.",
+      "Arbeiten Sie die persönliche Anforderung der Mutter in dieselbe Akte ein und bereiten Sie die Abholung vor.",
+      "Legen Sie für unser eigenes Kanzleiarchiv einen internen Transportvorgang mit Zugriffsprüfung und Übergabeblatt an.",
+      "Die Fremdfirma steht am Empfang. Verarbeiten Sie die neue Personalmeldung und die Abweichung bei W18 im internen Stand."
+    ],
+    "negative": [
+      "Erstellen Sie ein Angebot über die Reparatur von Leuchtschriften.",
+      "Formulieren Sie ausschließlich einen Berufungsantrag nach bereits ergangenem Urteil.",
+      "Entwerfen Sie das Abendprogramm für ein Hafenfestival.",
+      "Berechnen Sie nur das Mischungsverhältnis des Bühnenlacks.",
+      "Berechnen Sie nur die Kosten des Kiefernholzes.",
+      "Bauen Sie eine Buchung für den Hallenparkplatz.",
+      "Schreiben Sie ein Testament für Johanna Eller.",
+      "Prüfen Sie den Wert des Depots ausschließlich finanziell.",
+      "Berechnen Sie das Tragwerk des Lastenaufzugs.",
+      "Entwerfen Sie eine Klage für die Spedition."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+      "checked_on": "2026-11-21",
+      "supports": "Verschwiegenheit und Interessenwiderstreit bei der Annahme anwaltlicher Mandate."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__44.html",
+      "checked_on": "2026-11-21",
+      "supports": "Unverzügliche Mitteilung über die Ablehnung eines angetragenen Auftrags."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+      "checked_on": "2026-11-21",
+      "supports": "Einschalten von Dienstleistern und Begrenzung ihres Zugriffs auf Berufsgeheimnisse beim Archivtransport."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bnoto/__24.html",
+      "checked_on": "2026-11-21",
+      "supports": "Einordnung sonstiger Betreuung durch den Anwaltsnotar nach Zweck und Vorbereitung eines Amtsgeschäfts."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/beurkg/__3.html",
+      "checked_on": "2026-11-21",
+      "supports": "Frühere außeramtliche Tätigkeit im konkreten Geschäft und die damalige Beauftragung durch die Beteiligten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/beurkg/__49.html",
+      "checked_on": "2026-11-21",
+      "supports": "Form und Vermerk über die tatsächlich erteilte Ausfertigung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/beurkg/__51.html",
+      "checked_on": "2026-11-21",
+      "supports": "Berechtigte sowie abweichende Anordnungen über Ausfertigungen und Abschriften."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/notaktvv/__40.html",
+      "checked_on": "2026-11-21",
+      "supports": "Führung notarieller Nebenakten nach Bedarf des einzelnen Amtsgeschäfts."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__366.html",
+      "checked_on": "2026-11-21",
+      "supports": "Zahlungszuordnung bei mehreren Schuldverhältnissen. Die Person des Schuldners wird zuvor festgestellt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__70.html",
+      "checked_on": "2026-11-21",
+      "supports": "Frist und Form des statthaften Widerspruchs nach Bekanntgabe. Belehrung, Fach- und Landesrecht bleiben gesonderte Fragen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2024/XII_ZB_338-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-21",
+      "supports": "Nachvollziehbarkeit einer Terminänderung im elektronischen Fristenkalender."
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-11-21",
+    "method": "desk_review",
+    "files": [
+      "aktenanleger/aktenanleger-werkstatt.md",
+      "aktenanleger/aktenanleger-schnellstart.md"
+    ],
+    "opening_change": "Beide Einstiege verlangen den konkreten Auftrag, den richtigen Rechtsträger, den Ausdruck der übernommenen Rolle und die heute drohende Frist. Daraus entstehen Aktenstamm und erster Übergabetext.",
+    "norms": [
+      "§§ 43a, 43e, 44, 45, 50 BRAO",
+      "§§ 14, 18, 24 BNotO, §§ 3, 49, 51 BeurkG und § 40 NotAktVV",
+      "§§ 57, 58, 70, 74 VwGO sowie §§ 366, 367 BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 4. März 2026 – XII ZB 338/24, Rn. 10–17.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2024/XII_ZB_338-24.pdf?__blob=publicationFile&v=1",
+        "application": "Beim Bescheid des Vereins die frühere Eintragung, den späteren Zustellnachweis und die verantwortliche Korrektur nachvollziehbar halten.",
+        "limit": "Die Organisationsentscheidung erging zu einer Beschwerdebegründungsfrist in einer Familiensache. Rechtsbehelf und Bekanntgabe des Verwaltungsakts richten sich nach dem Fachverfahrensrecht."
+      },
+      {
+        "citation": "BGH, Beschluss vom 22. März 2004 – NotZ 26/03, S. 13–14.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2003/NotZ__26-03.pdf?__blob=publicationFile&v=1",
+        "application": "Vor der Beurkundung des Anerkenntnisses den Gegenstand des damaligen anwaltlichen Auftrags, die vertretene Person und die heutige Forderung vergleichen.",
+        "limit": "Der Beschluss betraf außerdem eine Amtsenthebung. Ein bloßer Namensfund im Kanzleiverzeichnis reicht dafür nicht."
+      },
+      {
+        "citation": "BGH, Beschluss vom 17. Juni 2025 – VIII ZB 54/24, Rn. 24–26.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2024/VIII_ZB__54-24.pdf?__blob=publicationFile&v=1",
+        "application": "Eintragung und Kontrolle der Rechtsmittelfrist in Kalender und Handakte trennen. Eine vorbereitete Fristkarte lässt den Status der Eintragung offen.",
+        "limit": "Die Entscheidung weist keinem beliebigen Verwaltungsbescheid eine Monatsfrist zu."
+      },
+      {
+        "citation": "BGH, Beschluss vom 17. September 2026 – I ZB 35/26, Rn. 12–14.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2026/I_ZB__35-26.pdf?__blob=publicationFile&v=1",
+        "application": "Bei anwaltlicher Vorlage zur fristgebundenen Handlung die tatsächlich vorgesehene und durchgeführte Kontrolle von einer bloßen internen Erinnerungsnotiz unterscheiden.",
+        "limit": "Im wiedereinsetzungsrechtlichen Verfahren müssen Organisation und Kontrolle dargelegt werden. Das Datum der Bekanntgabe eines anderen Bescheids ergibt sich weiterhin aus dessen eigenen Nachweisen."
+      }
+    ],
+    "remaining_limits": [
+      "Die Prüfung dokumentiert die redaktionelle Gegenlektüre von Prompt, Quellen, Unterlagen und Bewertungskriterien. Eine beobachtete Antwort eines Modells steht aus."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-11-21",
+    "method": "desk_review",
+    "opening_modes": [
+      "Bei einer einzelnen Frage zu einem Eingang die maßgebliche Urkunde oder Zahlungsreferenz untersuchen und sofort die entscheidbare Frage beantworten.",
+      "Bei mehreren Unterlagen zuerst Eingang, nachweisbaren Zugang, Auftrag und Beteiligtenrollen erfassen. Fristrisiken sofort vorlegen.",
+      "Ohne Belege nach dem einen Dokument fragen, das Rechtsbehelf, Beauftragung, Empfänger oder Ausfertigungsberechtigung entscheidet."
+    ],
+    "continuation": "Bei neuem Zahlungszweck, zweitem Umschlag oder Altaktenfund dieselbe Akte fortschreiben. Den bislang angenommenen Sachstand mit Änderungsgrund erhalten.",
+    "enrichment": "Eine kleine Fristenansicht, Rollenübersicht oder Forderungstabelle macht die offene Freigabe und die verantwortliche Person sichtbar. Alle Informationen bleiben im lesbaren Aktenstand verfügbar.",
+    "limits": "Freigaben, Aufnahme im Fachsystem und Fristeneinträge benötigen tatsächliche Durchführung. Die Zuständigkeit für die Entscheidung über notarielle Mitwirkung bleibt persönlich."
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Der Werkstattweg verfolgt fünf unterschiedliche Eingänge bis zur jeweils nächsten freigabefähigen Entscheidung.",
+    "changes": [
+      "Bei einem alten Anwaltstreffer werden Auftrag, Beteiligte und Gegenstand ermittelt. Die erste gemeinsame Nachfrage bleibt vertraulich und neutral.",
+      "Eine nachgereichte Ausfertigungsanordnung, ein korrigierter Transportbeleg und ein Banklangtext ändern jeweils nur die betroffenen Teile der Eingangsakte."
+    ],
+    "sha256": "54dea9c1d7f2519df2148c5ebae5cae751858277b62a03f338ec6c022d1393c9"
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Kurzauftrag führt aus der Eingangspost zur ausfüllbaren Akte und zum ersten adressatengerechten Schreiben.",
+    "changes": [
+      "Anwaltliche Annahme, neutrale Amtstätigkeit und internes Bürogeschäft werden anhand des erklärten Zwecks eingeordnet.",
+      "Ein geänderter Kalenderstand benötigt einen Beleg und einen nachvollziehbaren Bearbeitungsschritt."
+    ],
+    "sha256": "2f868ab03e46e398825787ff1cc2d3dd905513a689bb6697b625a365c81b5f3b"
+  },
+  "cases": [
+    {
+      "id": "forderung-lichtwerft",
+      "target_skill": "akte-anlegen",
+      "request": "In der Werkstatt der Lichtwerft fehlen 6.426 Euro für eine Leuchtschrift. Buchhaltung, Einkaufsbestellung und Zahlung nennen drei leicht verwechselbare Firmennamen. Die Geschäftsführerin möchte erst wissen, gegen wen und wegen welcher Summe die Kanzlei überhaupt vorgehen kann. Legen Sie den anwaltlichen Eingang an. Schreiben Sie die Forderungen beider Projekte auseinander, bestimmen Sie den möglichen Auftraggeber der Kanzlei und setzen Sie eine Wiedervorlage für den offenen Buchungsbeleg. Die Geschäftsführerin hat zunächst nur eine Prüfung bestellt. Werten Sie zunächst die 8 Stücke der Grundakte aus. Arbeiten Sie danach die 2 nachgereichten Stücke ein und machen Sie die geänderte Beurteilung mit ihren Belegen sichtbar. Die Vorlagen dürfen Sie für Ihre Arbeitsfassung ausfüllen. Die PDF-Lesefassung und die Originale dokumentieren denselben Vorgang.",
+      "input_files": [
+        "aktenanleger/testakten/forderung-lichtwerft/downloads/testakte-forderung-lichtwerft.zip",
+        "aktenanleger/testakten/forderung-lichtwerft/gesamt-pdf/testakte-forderung-lichtwerft_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Festpreis 5.400 EUR netto und 6.426 EUR brutto für KBA 78 von eigener Reparatur QD-9 über 1.190 EUR abgrenzen. Kandelbogen Ausbau und Kandelbogen Quartierdienste als verschiedene Rechtsträger prüfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Teilzahlung 1.200 EUR erst durch Banklangtext der Quartierdienste und QD-9 zuordnen. Die Differenz 10 EUR offen ausweisen. Kein Abzug von 1.200 EUR bei KBA 78.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Nur Prüfauftrag, keine Mahnung oder Klage und kein behaupteter Annahme- oder Kalendereintrag. Montagebericht beschränkt, Frage nach Abnahme/Schalter sowie nach Freigabe an Frau Dans formulieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foerderakte-hafenklang",
+      "target_skill": "akte-anlegen",
+      "request": "Der Verein Hafenklang hat beim Kulturwochenende einen Raum weniger bespielt als geplant. Eine Ehrenamtliche bringt den vorderen Teil eines Rückforderungsbescheids in die Kanzlei. Sie hat beim Aufräumen auch Umschläge aus dem Vereinsbüro mitgenommen. Eröffnen Sie den anwaltlichen Prüfvorgang für den Verein. Halten Sie die Reichweite der Beauftragung, die Vertretung und die vorsorglich zu sichernde Frist auseinander. Überarbeiten Sie den Fristenvermerk nach Eingang der nachgereichten Post. Werten Sie zunächst die 8 Stücke der Grundakte aus. Arbeiten Sie danach die 2 nachgereichten Stücke ein und machen Sie die geänderte Beurteilung mit ihren Belegen sichtbar. Die Vorlagen dürfen Sie für Ihre Arbeitsfassung ausfüllen. Die PDF-Lesefassung und die Originale dokumentieren denselben Vorgang.",
+      "input_files": [
+        "aktenanleger/testakten/foerderakte-hafenklang/downloads/testakte-foerderakte-hafenklang.zip",
+        "aktenanleger/testakten/foerderakte-hafenklang/gesamt-pdf/testakte-foerderakte-hafenklang_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Empfangsdatum 13.10. für den Bescheid von der Einladung vom 21.10. trennen. Zahlungsfrist 20.11. ist eigenständig. Als Fristannahme bei statthaftem Widerspruch und ordnungsgemäßer Belehrung 13.11.2026 statt 23.11. prüfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Alva bringt Unterlagen, ist keine Vorständin. Dörte und Said handeln gemeinsam, ihre Nachricht vom 03.11. erweitert den Auftrag höchstens auf außergerichtliche Vertretung. Annahme durch Kanzlei gesondert feststellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Eilvorlage und tatsächliche Kalenderbestätigung unterscheiden. Fehlende Seite, Empfangsbuch, Fach- und Landesrecht anführen. Kein vorweggenommener Widerspruch, kein externer Versand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anerkenntnis-schleusenhof",
+      "target_skill": "akte-anlegen",
+      "request": "Ein Hallenbetreiber und eine Schreinerei möchten eine ausgehandelte Ratenzahlung beurkunden lassen. Der Brief kommt an den Notar im Anwaltsnotariat. In der anwaltlichen Altablage gibt es einen Vorgang zum selben Umbau unter dem Namen eines Einzelunternehmens. Bereiten Sie die Aufnahme auf der richtigen Amts- oder Mandatsseite vor. Schildern Sie der Urkundsperson, welche früheren Tätigkeiten feststehen und welche Aufklärung noch nötig ist. Verfassen Sie eine zulässige Antwort für die Anfragenden. Werten Sie zunächst die 8 Stücke der Grundakte aus. Arbeiten Sie danach die 2 nachgereichten Stücke ein und machen Sie die geänderte Beurteilung mit ihren Belegen sichtbar. Die Vorlagen dürfen Sie für Ihre Arbeitsfassung ausfüllen. Die PDF-Lesefassung und die Originale dokumentieren denselben Vorgang.",
+      "input_files": [
+        "aktenanleger/testakten/anerkenntnis-schleusenhof/downloads/testakte-anerkenntnis-schleusenhof.zip",
+        "aktenanleger/testakten/anerkenntnis-schleusenhof/gesamt-pdf/testakte-anerkenntnis-schleusenhof_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ersuchen um neutrale Beurkundung und vorherige anwaltliche Tätigkeit zur konkreten Forderung SU-441 auseinanderhalten. Identität und möglicher Forderungswechsel Einzelunternehmen/Fenstermond GmbH offen prüfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Nach Kolleginnennotiz war das frühere Mandat einseitig. Heutige Einigkeit ist keine damals gemeinsame Beauftragung. § 3 Abs. 1 Satz 1 Nr. 7 BeurkG, Tätigkeit in Sozietät und persönliche notarielle Prüfung begründet anwenden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Geschützter Klärungsvorgang, keine unbedingte Terminzusage, keine Öffnung der anwaltlichen Handakte für beide Seiten. Empfängerbrief wahrt Verschwiegenheit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vollmachtsausfertigung-regensburg",
+      "target_skill": "akte-anlegen",
+      "request": "Ein Sohn möchte für seine Mutter eine weitere Ausfertigung einer Vollmacht aus dem Jahr 2019. Die Post landet im Nurnotariat der heutigen Verwahrerin. Die Mutter wohnt seit einem Umzug unter neuer Anschrift. Der Sohn verwendet ihre alte Mailadresse. Erfassen Sie den Eingang zur bestehenden Verwahrung. Bereiten Sie die persönliche Entscheidung über Antrag, Berechtigung, Form und Empfänger vor. Bearbeiten Sie später die Erklärung der Mutter im selben Vorgang. Werten Sie zunächst die 8 Stücke der Grundakte aus. Arbeiten Sie danach die 2 nachgereichten Stücke ein und machen Sie die geänderte Beurteilung mit ihren Belegen sichtbar. Die Vorlagen dürfen Sie für Ihre Arbeitsfassung ausfüllen. Die PDF-Lesefassung und die Originale dokumentieren denselben Vorgang.",
+      "input_files": [
+        "aktenanleger/testakten/vollmachtsausfertigung-regensburg/downloads/testakte-vollmachtsausfertigung-regensburg.zip",
+        "aktenanleger/testakten/vollmachtsausfertigung-regensburg/gesamt-pdf/testakte-vollmachtsausfertigung-regensburg_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "UR 233/2019, Johanna Eller, Verwahrung Am Bogen mit Seite sechs abgleichen. UR 332/2019 und andere gleichlautende Jahrgänge nicht verwechseln.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Sohn und Bank sind nicht allein aufgrund von Mail oder Schalterbesuch zur Anforderung oder Aushändigung berechtigt. Persönliche Anforderung der Mutter und die besondere Bestimmung nach § 51 BeurkG würdigen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Nach Brief und Vorsprache Abholung durch Mutter vorbereiten. Kein Versand ans Ingenieurbüro, keine behauptete Erteilung; Vermerk nach § 49 Abs. 4 BeurkG erst nach tatsächlicher Erteilung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aktenumzug-muenster",
+      "target_skill": "akte-anlegen",
+      "request": "Die Kanzlei Westentor verlegt ihr Papierarchiv in ein anderes Stockwerk. Ein Transporteur fordert eine Liste mit Mandantennamen. Gleichzeitig erscheint eine nicht angemeldete Firma zur Abholung. Der Eingang betrifft die eigene Büroorganisation. Legen Sie eine interne Verwaltungsakte für den Archivumzug an. Trennen Sie die Entscheidungsunterlagen von geschützten Handakten. Bereiten Sie die interne Übergabe und die Antwort an den Dienstleister vor. Werten Sie zunächst die 8 Stücke der Grundakte aus. Arbeiten Sie danach die 2 nachgereichten Stücke ein und machen Sie die geänderte Beurteilung mit ihren Belegen sichtbar. Die Vorlagen dürfen Sie für Ihre Arbeitsfassung ausfüllen. Die PDF-Lesefassung und die Originale dokumentieren denselben Vorgang.",
+      "input_files": [
+        "aktenanleger/testakten/aktenumzug-muenster/downloads/testakte-aktenumzug-muenster.zip",
+        "aktenanleger/testakten/aktenumzug-muenster/gesamt-pdf/testakte-aktenumzug-muenster_gesamt.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Interne Kanzleiverwaltung ohne Mandat des Transporteurs. Auftrag 24 Behälter nur innerhalb des Hauses, gebundener Dienstleister Werse und Vertrag zum Einsatz eigener Beschäftigter.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "W18a mit Siegel 831 anstelle W18/818 bei weiter 24 Transportbehältern. Graue Materialkiste getrennt, ursprünglichen und nachgereichten Stand nachvollziehbar führen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Stiegentrans hat keine Freigabe, keine Mandantennamen in der Transportliste. Rückfrage zum tatsächlichen eigenen Personal und Zeitfenster vor Aushändigung; erledigte und offene Schritte unterscheiden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviewed_file_hashes": {
+    "aktenanleger/skills/akte-anlegen/SKILL.md": "754da6fd5a54000e9cfba492ab2572e46e0ee1700819100d646548f9bd0a53bc",
+    "aktenanleger/skills/amt-oder-mandat-klaeren/SKILL.md": "15b65e9f4cf14378d4363b9ed4c2e76807fc8818e21d8b20d2fc2202b0d9de6f",
+    "aktenanleger/skills/beteiligte-und-vertretung-erfassen/SKILL.md": "67889e8f584a90e937c2637003cfba8ba67815eb4253a7b2bb880ed7fcaf6133",
+    "aktenanleger/skills/eingang-und-fristen-sichern/SKILL.md": "c0a4b548ced156a8c93de36c98644e2507f3161e65b24365380b3a12d1fc5ae2",
+    "aktenanleger/skills/forderungsvorgang-anlegen/SKILL.md": "a0a9cac55b2a08828c767437dcf02676755361a3ab1fa97ba0043771c32193c5",
+    "aktenanleger/skills/kollision-und-vorbefassung-pruefen/SKILL.md": "4de8b3aeaa05ee81fb5fb5859a7b2c60430c219a7489e510a62ce56e9feac084",
+    "aktenanleger/skills/notarielle-akte-zuordnen/SKILL.md": "728773701ee3dc60ff87e0f529d5332c10da85a5fb8f92cedd458e2b1b9dc652",
+    "aktenanleger/skills/verwaltungsvorgang-anlegen/SKILL.md": "4727c5dd777022435fe57d4e8004cb7b784eb3344947b2d7e079162b317111d0",
+    "aktenanleger/references/aktenanlage-quellen.md": "dcd3b7460a90ff4aa44d0e96d218f1b3ab17b0ca24541982a42525bedecb62dc",
+    "aktenanleger/references/arbeitsoberflaeche-und-visualisierung.md": "0097cf47b41ac3030ec87190fc310317a159e9d82e61bf37e1673cae6885b4f7",
+    "aktenanleger/aktenanleger-schnellstart.txt": "2f868ab03e46e398825787ff1cc2d3dd905513a689bb6697b625a365c81b5f3b",
+    "aktenanleger/aktenanleger-werkstatt.txt": "54dea9c1d7f2519df2148c5ebae5cae751858277b62a03f338ec6c022d1393c9"
+  },
+  "artifact_hashes": {
+    "aktenanleger/testakten/forderung-lichtwerft/gesamt-pdf/testakte-forderung-lichtwerft_gesamt.pdf": "02f7019156d6d5480c1f0144a2375cfa015f385197dee926839edc886efc78ab",
+    "aktenanleger/testakten/forderung-lichtwerft/downloads/testakte-forderung-lichtwerft.zip": "1ac84f32c6b9eeae9b54b7a2d14edbbd0a24bc2249f2468f5a2e4c091e46a08d",
+    "aktenanleger/testakten/foerderakte-hafenklang/gesamt-pdf/testakte-foerderakte-hafenklang_gesamt.pdf": "1a5e6fc11e91bbe7741b5389f3cd5739fc7f7ee4a762be60a559f57bc5f2d837",
+    "aktenanleger/testakten/foerderakte-hafenklang/downloads/testakte-foerderakte-hafenklang.zip": "6b36021e30804e400f3d63cd1c381ff9dbdef663ee19ec9bd28c5fb2b902f2cb",
+    "aktenanleger/testakten/anerkenntnis-schleusenhof/gesamt-pdf/testakte-anerkenntnis-schleusenhof_gesamt.pdf": "f0a1cc98b9dba1eabd79d5b51114cc2f5df49c972d2f63124cad038aba002628",
+    "aktenanleger/testakten/anerkenntnis-schleusenhof/downloads/testakte-anerkenntnis-schleusenhof.zip": "10a86b56bb1e4ac9e4c8a61fbfca0f92b915be8733609fd8406a88c15aa6cb53",
+    "aktenanleger/testakten/vollmachtsausfertigung-regensburg/gesamt-pdf/testakte-vollmachtsausfertigung-regensburg_gesamt.pdf": "0f9a18e6445e84beda328e22737035f6bbcd3ddb64f7d1b66383271d697d8f8b",
+    "aktenanleger/testakten/vollmachtsausfertigung-regensburg/downloads/testakte-vollmachtsausfertigung-regensburg.zip": "c7aafae32ac82ad0e45c3dfe3a2f1b84e70ce68790eaec45b23b766a122b9243",
+    "aktenanleger/testakten/aktenumzug-muenster/gesamt-pdf/testakte-aktenumzug-muenster_gesamt.pdf": "66f691a9d92948448041df34a46fe9369ba57324a88c7b16aea939294d7b0bfe",
+    "aktenanleger/testakten/aktenumzug-muenster/downloads/testakte-aktenumzug-muenster.zip": "7f2b8467bc100457c66f089fde402bdfd60cd84e1a990f05e7414885edecb8f4"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "foerderakte-hafenklang",
+  "titel": "Der Bescheid im Küchenschrank",
+  "ort": "Hamburg",
+  "einstieg": "Der Verein Hafenklang hat beim Kulturwochenende einen Raum weniger bespielt als geplant. Eine Ehrenamtliche bringt den vorderen Teil eines Rückforderungsbescheids in die Kanzlei. Sie hat beim Aufräumen auch Umschläge aus dem Vereinsbüro mitgenommen.",
+  "auftrag": "Eröffnen Sie den anwaltlichen Prüfvorgang für den Verein. Halten Sie die Reichweite der Beauftragung, die Vertretung und die vorsorglich zu sichernde Frist auseinander. Überarbeiten Sie den Fristenvermerk nach Eingang der nachgereichten Post.",
+  "unterlagen": [
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "titel": "Die Stadt will 3400 Euro zurück",
+      "datum": "2026-11-02",
+      "von": "Alva Jent, Kasse Hafenklang e. V.",
+      "an": "Kanzlei Fleetbogen",
+      "text": [
+        "Am Freitag habe ich den Brief zwischen den Programmheften gefunden. Ich mache die Kasse, bin aber nicht im Vorstand. Unsere Vorsitzende ist bis Mittwoch auf Fortbildung. Sie bat mich, die Sache zu zeigen. Können Sie uns sagen, bis wann wir reagieren müssen?",
+        "Das PDF enthält nur, was sich auf dem Kopierer scannen ließ. Der letzte Bogen steckt noch im Ordner der Projektleitung. Das Geld ist für die Saalmiete zurückgelegt. Bitte schicken Sie mir die Unterlagen nicht an meine Adresse bei meinem Arbeitgeber."
+      ],
+      "anlage_nr": 2
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "K-24-107 – Rückforderung, Kopie Vorderseite",
+      "datum": "2026-10-08",
+      "von": "Fachstelle Stadtteilkultur Hamburg, Förderteam",
+      "an": "Hafenklang e. V.",
+      "text": [
+        "Für das Projekt „Wassermusik im Speicher“ wird die Bewilligung teilweise in Höhe von 3.400 Euro aufgehoben. Der zurückzuzahlende Betrag wird auf 3.400 Euro festgesetzt. Zahlung bis 20. November 2026 unter Angabe K-24-107.",
+        "Die Mietkosten für den kleinen Saal wurden zunächst mitbewilligt. Nach dem eingereichten Verwendungsnachweis blieb dieser Raum ungenutzt. Das Team verweist auf eine nur mündlich mitgeteilte Umplanung. Seite 1 von 2, Förderteam Stadtteilkultur."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "tabelle",
+      "titel": "Belegliste Wassermusik",
+      "datum": "2026-10-30",
+      "von": "Lio van Heek, Veranstaltungsleitung",
+      "an": "Vorstand Hafenklang",
+      "text": [
+        "Nr. | Zweck | Rechnung EUR | bezahlt am | Bemerkung",
+        "17 | großer Saal | 5400,00 | 09.09.2026 | Auftritte vor Ort",
+        "18 | kleiner Saal | 3400,00 | 09.09.2026 | Raum reserviert, Zugang am Aufbautag gesperrt",
+        "29 | Zelt am Kai | 950,00 | 14.09.2026 | als Ausweichfläche genutzt"
+      ],
+      "zahlenspalten": [
+        3
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "notiz",
+      "titel": "Schlüsselübergabe am Aufbauabend",
+      "datum": "2026-08-14",
+      "von": "Ida Alvers, Bühnendienst",
+      "an": "Lio van Heek",
+      "text": [
+        "Um 16.10 Uhr ließ der Techniker den kleinen Saal absperren. Über der Tür war ein Stück Putz heruntergekommen. Wir sind mit den Stühlen auf die Kaispitze gezogen und haben die Hauptacts im großen Saal enger gesetzt.",
+        "Herr Kopp vom Förderteam hat die Stellwände am Kai gesehen. Ich hörte ihn sagen, wir sollten ihm nach der Veranstaltung Fotos schicken. Über Geld und Bewilligung habe ich ihn nicht sprechen hören."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Teilnahme an der Auswertungssitzung – Einladung",
+      "datum": "2026-10-19",
+      "von": "Förderteam Stadtteilkultur",
+      "an": "Hafenklang e. V.",
+      "text": [
+        "Das Projektteam lädt am 26. Oktober zur gemeinsamen Auswertung der diesjährigen Stadtteilprogramme ein. Die Einladung betrifft alle geförderten Gruppen. Bitte bringen Sie, falls vorhanden, Fotos vom Publikum mit.",
+        "Versand an das Vereinspostfach im Speicher. Die Projektkennung steht aus organisatorischen Gründen auch auf unseren Einladungsumschlägen. Dieser Brief führt das Zeichen K-24-107."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "chat",
+      "titel": "Wer hat den großen Umschlag?",
+      "datum": "2026-10-30",
+      "von": "Alva und Malte, Vereinsbüro",
+      "an": "Signal Vorstand und Kasse",
+      "text": [
+        "Alva (16.18 Uhr): Auf dem braunen Kuvert steht handschriftlich 21.10. War das der Rückforderungsbrief?",
+        "Malte (16.23 Uhr): Der 21. passt zur Einladung. Für den anderen war ich nicht im Büro. Im Besucherbuch steht immer, wer Post übernommen hat.",
+        "Alva (16.31 Uhr): Ich lege beides in den Küchenschrank. Am Montag bringe ich die Kopien zur Kanzlei."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "brief",
+      "titel": "Satzungsauszug mit Vermerk aus der Registermappe",
+      "datum": "2026-06-09",
+      "von": "Archiv Hafenklang e. V.",
+      "an": "Vorstand",
+      "text": [
+        "§ 7. Der Vorstand besteht aus Vorsitz, Stellvertretung und Kassenführung im Vorstand. Der Verein wird durch zwei Vorstandsmitglieder gemeinsam vertreten. Die ehrenamtliche Buchhaltung ist keine Vorstandsfunktion.",
+        "Laut in der Mappe abgelegter Eintragungsnachricht zeichnen Dörte Amsel als Vorsitzende und Said Brügge als Stellvertreter. Die aktuelle Registeransicht wurde dem Ordner noch nicht beigefügt. Postanschrift ist seit Mai das Büro am Speicher."
+      ]
+    },
+    {
+      "ordner": "Grundakte",
+      "typ": "eml",
+      "titel": "Zunächst den Eingang sichern",
+      "datum": "2026-11-02",
+      "von": "Dörte Amsel, Vorsitz Hafenklang",
+      "an": "Kanzlei Fleetbogen",
+      "text": [
+        "Alva darf Belege hinbringen. Herr Brügge liest Dienstagsmails im Vereinsbüro. Wir möchten zuerst ein Angebot und eine dringende Einschätzung zur Frist. Eine Beauftragung zur Vertretung vor Gericht sprechen wir heute nicht aus.",
+        "Ich rufe am Nachmittag über die Vereinsnummer zurück. Den Schrank mit dem Besucherbuch kann erst unsere Hausmeisterin öffnen. Grüße von unterwegs, Dörte Amsel"
+      ],
+      "antwort_auf": 1
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "brief",
+      "titel": "Auszug Empfangsbuch und Bescheidrückseite",
+      "datum": "2026-11-03",
+      "von": "Hausdienst Speicherquartier",
+      "an": "Hafenklang e. V.",
+      "text": [
+        "Eintrag 13.10.2026, 11.14 Uhr. Büro Hafenklang, Bescheid K-24-107 der Förderstelle, persönlich entgegengenommen durch D. Amsel. Daneben im Original Unterschrift D. Amsel. Eintrag 21.10.2026, Hauspost, allgemeine Auswertungseinladung, angenommen durch Malte.",
+        "Die vom Verein beigefügte Rückseite zum Bescheid enthält folgende Rechtsbehelfsbelehrung: Gegen diesen Bescheid kann innerhalb eines Monats nach seiner Bekanntgabe Widerspruch bei der erlassenden Fachstelle Stadtteilkultur in Hamburg erhoben werden. Auf dem Original folgen Anschrift und Angaben zur Einreichung."
+      ]
+    },
+    {
+      "ordner": "Nachreichungen",
+      "typ": "eml",
+      "titel": "Beide im Büro – Nachtrag zum Auftrag",
+      "datum": "2026-11-03",
+      "von": "Dörte Amsel und Said Brügge",
+      "an": "Kanzlei Fleetbogen",
+      "text": [
+        "Wir haben das Empfangsbuch miteinander durchgesehen. Die Unterschrift am 13. Oktober ist meine, Dörtes. Die Seite mit der Belehrung befand sich in der Rückhülle des Projektordners. Einen Widerspruch hat der Verein bislang nicht abgeschickt.",
+        "Wir bitten nun gemeinsam um außergerichtliche Vertretung gegenüber der Förderstelle wegen K-24-107 einschließlich Fristwahrung. Bitte sagen Sie uns heute, ob Sie den Auftrag annehmen. Die Entscheidung über einen Prozess bleibt dem Vorstand vorbehalten."
+      ],
+      "antwort_auf": 8,
+      "anlage_nr": 9
+    },
+    {
+      "ordner": "Vorlagen",
+      "typ": "notiz",
+      "titel": "Formular zur Fristübergabe",
+      "datum": "2026-11-03",
+      "von": "Kanzlei Fleetbogen",
+      "an": "Eingangsteam",
+      "text": [
+        "1. Eilvorlage: Eingang und Aktenstelle ______________________",
+        "2. Fristauslösendes Ereignis, Datum, Übermittlungsart und Beleg ______________________",
+        "3. Rechtsbehelf, Norm, vorläufiger Frühtermin, Endtermin und Vorfrist ______________________",
+        "4. Freigabe, tatsächlicher Kalendereintrag, Gegenkontrolle und Rückmeldung ______________________"
+      ]
+    }
+  ]
+}

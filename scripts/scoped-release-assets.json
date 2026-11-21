@@ -170,7 +170,7 @@
     "testakte-06-konkurrentenrechtsschutz-rechenzentrum-musterkreis-einzelpdfs.zip": "vergaberecht-werkstatt-v445.33.1",
     "testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip": "grundakten-sammlung-v1.0.0",
     "testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung-einzelpdfs.zip": "vergaberecht-werkstatt-v445.33.1",
-    "geldwaeschebeauftragter.zip": "qualitaetsrunde-v445.36.9",
+    "geldwaeschebeauftragter.zip": "fachaufnahme-v445.36.10",
     "testakte-aml-unternehmen-werkzeughandel-erfurt.zip": "grundakten-sammlung-v1.0.0",
     "testakte-aml-unternehmen-werkzeughandel-erfurt-einzelpdfs.zip": "geldwaeschebeauftragter-v445.34.0",
     "testakte-aml-kanzlei-grundstueck-berlin.zip": "grundakten-sammlung-v1.0.0",
@@ -1609,7 +1609,7 @@
     "eigenbedarfskuendigungschecker.zip": "qualitaetsrunde-v445.36.9",
     "enteignung-artikel-14.zip": "qualitaetsrunde-v445.36.9",
     "fahrgastrechte.zip": "qualitaetsrunde-v445.36.9",
-    "geldwaeschepraevention-aml-kyc.zip": "qualitaetsrunde-v445.36.9",
+    "geldwaeschepraevention-aml-kyc.zip": "fachaufnahme-v445.36.10",
     "gmbh-gesellschafterversammlung.zip": "qualitaetsrunde-v445.36.9",
     "grundbuchamt-assistent.zip": "qualitaetsrunde-v445.36.9",
     "grundsteuerrecht.zip": "qualitaetsrunde-v445.36.9",
@@ -1633,6 +1633,8 @@
     "testakte-autohaus-boeblingen-einzelpdfs.zip": "werkstatt-partnerakten-v1.0.0",
     "testakte-neuralis-medtech-erlangen-gestaltungsakte.zip": "werkstatt-partnerakten-v1.0.0",
     "testakte-neuralis-medtech-erlangen-gestaltungsakte-einzelpdfs.zip": "werkstatt-partnerakten-v1.0.0",
-    "allgemeines-notariat.zip": "allgemeines-notariat-v1.0.0"
+    "allgemeines-notariat.zip": "allgemeines-notariat-v1.0.0",
+    "aktenanleger.zip": "fachaufnahme-v445.36.10",
+    "umwandlungssteuerrecht.zip": "fachaufnahme-v445.36.10"
   }
 }

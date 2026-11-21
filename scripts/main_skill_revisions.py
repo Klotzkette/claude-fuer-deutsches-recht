@@ -67,8 +67,15 @@ def index(root):
 
 def before_notariat_marketplace_count(root, path, current, *, plugin=None):
     """Rekonstruiert die zwei generierten Zähler vor Aufnahme des allgemeinen Notariats."""
-    sentence = "Dieses Plugin gehört zum Marketplace mit 313 Plugins.".encode()
-    if path.name != "README.md" or sentence not in current:
+    if path.name != "README.md" or b"<!-- BEGIN direkt-loslegen (autogen) -->" not in current:
+        return current
+    catalog = load(root / ".claude-plugin/marketplace.json")["plugins"]
+    additions = {"allgemeines-notariat", "aktenanleger", "umwandlungssteuerrecht"}
+    present = {row["name"] for row in catalog} & additions
+    # Nur die zwei tatsächlich dokumentierten Erweiterungsstände sind umkehrbar.
+    count = 315 if present == additions else 313
+    sentence = f"Dieses Plugin gehört zum Marketplace mit {count} Plugins.".encode()
+    if sentence not in current:
         return current
     begin = b"<!-- BEGIN direkt-loslegen (autogen) -->\n"
     end = b"\n<!-- END direkt-loslegen (autogen) -->"
@@ -81,17 +88,16 @@ def before_notariat_marketplace_count(root, path, current, *, plugin=None):
     if not delimiter or block.count(start) != 1 or block.count(notice) != 1:
         return current
 
-    catalog = load(root / ".claude-plugin/marketplace.json")["plugins"]
-    if not any(item["name"] == "allgemeines-notariat" for item in catalog):
+    if "allgemeines-notariat" not in present:
         return current
     relative = path.relative_to(root).as_posix()
     if not any((not plugin or item["name"] == plugin)
-               and item["name"] != "allgemeines-notariat"
+               and item["name"] not in additions
                and relative == (Path(item["source"]) / "README.md").as_posix()
                for item in catalog):
         return current
     for anchor in (start, notice):
-        block = block.replace(anchor, anchor.replace(b"313", b"312"), 1)
+        block = block.replace(anchor, anchor.replace(str(count).encode(), b"312"), 1)
     return prefix + begin + block + end + suffix
 
 
@@ -209,7 +215,7 @@ def previous_bytes(root, path, *, plugin=None):
         raise ValueError(f"{relative}: falscher Archivpfad")
     old = inside(root, archive_name).read_bytes()
     current = path.read_bytes()
-    last_reviewed = current
+    last_reviewed = before_fachaufnahme(root, path, current, plugin=name)
     followup = row.get("publication_followup")
     if followup is not None:
         archive = "quality/paketnavigation-2026-11-19/bestand/" + relative + ".txt"
@@ -258,6 +264,27 @@ def previous_bytes(root, path, *, plugin=None):
     return old
 
 
+def before_fachaufnahme(root, path, current, *, plugin=None):
+    """Liest die einzeln belegte Vorfassung eines redaktionell geänderten Fachtexts."""
+    relative = path.relative_to(root)
+    allowed = {"geldwaeschebeauftragter", "geldwaeschepraevention-aml-kyc"}
+    if len(relative.parts) < 2 or relative.parts[0] not in allowed or path.suffix != ".md":
+        return current
+    base = "quality/fachaufnahme-2026-11-21/"
+    registry = root / base / "fachtexte.json"
+    if not registry.is_file():
+        return current
+    row = load(registry).get(relative.as_posix())
+    if row is None:
+        return current
+    if plugin and relative.parts[0] != plugin:
+        raise ValueError("Falsches Plugin der belegten Fachtextfortschreibung")
+    old = inside(root, base + "bestand/" + relative.as_posix() + ".txt").read_bytes()
+    if digest(current) != row["nachher"] or digest(old) != row["vorher"] or old == current:
+        raise ValueError("Fachtext oder Vorfassung verändert: " + str(relative))
+    return old
+
+
 def historical_bytes(root, path, expected, *, plugin=None):
     """Ein Hash passt entweder unmittelbar oder zu einer vollständig belegten Vorfassung."""
     current = Path(path).read_bytes()
@@ -265,6 +292,9 @@ def historical_bytes(root, path, expected, *, plugin=None):
         return current
     from case_navigation_revision import CASES, previous_case_readme
     root, path = Path(root).resolve(), Path(path).resolve()
+    earlier = before_fachaufnahme(root, path, current, plugin=plugin)
+    if earlier != current and digest(earlier) == expected:
+        return earlier
     prior = before_notariat_marketplace_count(root, path, current, plugin=plugin)
     if prior != current and digest(prior) == expected:
         return prior
