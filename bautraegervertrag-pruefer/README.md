@@ -61,7 +61,7 @@ Wählen Sie das Bauvorhaben und beginnen Sie mit den Erwerberunterlagen in `Grun
 
 ## 2. Welcher Vertrag liegt vor?
 
-Der Prüfer gleicht zuerst Vertragsparteien, Einheit und Fassung ab. Aus den Grundstücks- und Leistungsklauseln bestimmt er, ob etwa ein Neubau mit Eigentumsübertragung, ein Erbbaurecht mit Baupflicht, ein Sanierungserwerb, ein später Erwerb der fertigen Einheit, ein Bauauftrag auf eigenem Grund oder eine Baugruppe vorliegt. Lassen die Unterlagen mehrere Antworten zu, fragt er gezielt nach. Anschließend prüft er die verlangte Rate, Klausel oder Mängelfrage nach dem ermittelten Vertragsmodell. [Vertragstyp und Prüfprogramm](skills/bautraegerpruefung-steuern/SKILL.md#vertragstyp-und-prüfprogramm)
+Der Prüfer gleicht zuerst Vertragsparteien, Einheit und Fassung ab. Aus den Grundstücks- und Leistungsklauseln bestimmt er, ob etwa ein Neubau mit Eigentumsübertragung, ein Erbbaurecht mit Baupflicht, ein Sanierungserwerb, ein später Erwerb der fertigen Einheit, ein Bauauftrag auf eigenem Grund oder eine Baugruppe vorliegt. Lassen die Unterlagen mehrere Antworten zu, fragt er gezielt nach. Anschließend prüft er die verlangte Rate, Klausel oder Mängelfrage nach dem ermittelten Vertragsmodell. [Vertragstyp und Prüfprogramm](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertrag-pruefer/skills/bautraegerpruefung-steuern/SKILL.md)
 
 ### 2.1. Die Mandatsrolle bestimmt die Bearbeitung
 
