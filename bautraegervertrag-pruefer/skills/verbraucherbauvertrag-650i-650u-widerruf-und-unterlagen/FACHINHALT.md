@@ -18,12 +18,12 @@ Dieser Skill verhindert falsche Widerrufs- und Verbraucherbauvertragsberatung. D
 - § 650i BGB: Bau eines neuen Gebäudes oder erheblicher Umbau durch Unternehmer für Verbraucher.
 - § 650u BGB: Bau-/Umbaupflicht plus Eigentumsübertragung oder Erbbaurecht.
 - § 650l BGB-Widerruf ist beim beurkundeten Bauträgervertrag über § 650u Abs. 2 BGB ausgeschlossen.
-- § 650k Abs. 2/3 BGB bleibt zentral: Lücken und Unklarheiten der Baubeschreibung wirken gegen den Bauträger.
-- § 650n BGB gilt: Planungs- und Nachweisunterlagen, Energie, Statik, Schall, Brand, Förder-/KfW-/GEG-Nachweise, Revisionsunterlagen.
+- Bei einem entsprechenden Verbrauchervertrag die Beschreibung nach § 650k Abs. 2 BGB unter Berücksichtigung der übrigen Umstände auslegen. Verbleibende Zweifel gehen zulasten des Unternehmers. Abs. 3 regelt Fertigstellungszeitpunkt oder Ausführungsdauer. [§ 650k BGB](https://www.gesetze-im-internet.de/bgb/__650k.html)
+- Für jedes Dokument den Zweck und den Zeitpunkt angeben. § 650n BGB erfasst benötigte Behördennachweise und bei vom Unternehmer geweckter berechtigter Erwartung auch Nachweise für Bedingungen eines Dritten. Vor Ausführung die Ausnahme für eigene wesentliche Planungsvorgaben prüfen. Zusätzliche Unterlagen anhand vertraglicher Zusagen prüfen. [§ 650n BGB](https://www.gesetze-im-internet.de/bgb/__650n.html)
 
 ## Einzelgewerkvergabe
 
-Bei Verbraucher, die selbst mehrere Handwerker koordinieren, ist § 650i BGB gesondert und offen zu prüfen. Nicht automatisch Bauträgerrecht anwenden; MaBV greift nur beim Bauträger.
+Beauftragt ein Verbraucher beim Neubau jedes Gewerk einzeln, fällt der einzelne Auftrag über ein Gewerk außerhalb des § 650i Abs. 1 Fall 1 BGB. Für ihn den jeweiligen Bau- oder Werkvertrag prüfen. Bei einem Unternehmer, der die Errichtung des Gebäudes als eigenen Erfolg schuldet, kommen die Vorschriften des Verbraucherbauvertrags in Betracht. [BGH, Urteil vom 16.03.2023 – VII ZR 94/22, Leitsatz a](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2023&Gericht=bgh&file=dokument.pdf&linked=urt&nr=133274)
 
 ## Output
 

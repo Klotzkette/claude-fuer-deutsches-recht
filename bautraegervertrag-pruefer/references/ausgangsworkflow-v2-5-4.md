@@ -153,7 +153,7 @@ Diese Anker sind besonders stark, weil sie direkt Bauträgerrecht, AGB-Kontrolle
 | § 650u BGB | Bauträgervertrag kombiniert Errichtung/Umbau mit Eigentums- oder Erbbaurechtsübertragung. Für den Bau gelten Bauvertragsnormen, soweit § 650u Abs. 2 nichts ausschließt; für die Eigentumsübertragung Kaufrecht. |
 | § 650u Abs. 2 BGB | Nicht anwendbar: §§ 648, 648a, 650b bis 650e, § 650k Abs. 1, §§ 650l und 650m Abs. 1. Nicht ausgeschlossen sind § 650j, § 650k Abs. 2/3, § 650m Abs. 2, § 650n. |
 | § 650v BGB | Abschlagszahlungen kann der Bauträger nur verlangen, soweit sie nach einer Verordnung aufgrund Art. 244 EGBGB vereinbart sind. Praktisch: MaBV. |
-| § 650v Abs. 4 BGB | Von § 650v BGB darf nicht zum Nachteil des Verbrauchers abgewichen werden. Ratenplan und Sonderwunschabrechnung deshalb immer auf zwingende Schutzwirkung prüfen. |
+| § 650v BGB, § 1 AbschlagsV, § 12 MaBV | Ratenplan und Sonderwunschabrechnung am gesetzlichen Sicherungssystem messen. |
 | § 632a BGB | Allgemeine Abschlagsregel; beim Bauträger durch § 650v BGB und MaBV praktisch überlagert. Nicht als freie Ersatz-Ratenlogik verwenden. |
 | § 650m Abs. 2 BGB | Verbraucher erhält bei erster Abschlagszahlung 5 % Sicherheit für rechtzeitige Herstellung ohne wesentliche Mängel. Bei Bauträgern nicht durch § 650u Abs. 2 ausgeschlossen. |
 | § 650m Abs. 1 BGB | 90 %-Deckel für Abschläge nach § 632a; bei Bauträgervertrag durch § 650u Abs. 2 ausgeschlossen. Nicht fälschlich als Bauträger-Hauptregel nutzen. |
@@ -419,7 +419,7 @@ Bei Erbbaurecht sind die Kontrollwerte anders, weil die erste Rate 20 % beträgt
 | Original | vor Zahlung beim Erwerber oder sicherer Zugriff | 🟠/🔴 |
 | Austausch § 3/§ 7 | klar geregelt | 🟠 wenn doppeldeutig |
 
-Vermischungsverbot: Ein Vertrag darf nicht scheinbar nach § 3 MaBV mit Vormerkung, Freistellung und Ratenplan arbeiten und zugleich einzelne Zahlungsrisiken nur bruchstückhaft über eine § 7-Bürgschaft abfangen. Wird § 7 MaBV gewählt, muss die Sicherheit die Rückgewähr-/Auszahlungsansprüche aus den entgegenzunehmenden Vermögenswerten decken; wird § 3 MaBV gewählt, müssen die allgemeinen und besonderen Fälligkeitsvoraussetzungen vollständig eingehalten werden. § 7 Abs. 1 Satz 4 MaBV ist als Warnsignal mitzudenken: Sicherheiten dürfen nicht so kombiniert werden, dass am Ende keine Schutzschicht vollständig greift.
+Vermischungsverbot: Ein Vertrag darf nicht scheinbar nach § 3 MaBV mit Vormerkung, Freistellung und Ratenplan arbeiten und zugleich einzelne Zahlungsrisiken nur bruchstückhaft über eine § 7-Bürgschaft abfangen. Wird § 7 MaBV gewählt, muss die Sicherheit die Rückgewähr-/Auszahlungsansprüche aus den entgegenzunehmenden Vermögenswerten decken; wird § 3 MaBV gewählt, müssen die allgemeinen und besonderen Fälligkeitsvoraussetzungen vollständig eingehalten werden. § 7 Abs. 1 Satz 4 MaBV erlaubt den Austausch der Sicherungen. Bei einem Wechsel den Schutz jeder einzelnen Zahlung und den Übergabe- und Freigabezeitpunkt belegen.
 
 ### A.5 — Notaranderkonto
 
@@ -869,7 +869,7 @@ Mitzubeurkunden oder als Bezugsurkunde sauber einzubeziehen sind insbesondere:
 - Abreden über Vorausleistungen auf den späteren Bauträgervertrag.
 - Sonderwünsche vor Beurkundung, soweit sie Preis, Leistung, Fläche, Sondereigentum oder Bauablauf prägen.
 
-Bezugsurkunden nach § 13a BeurkG können Baubeschreibung, Pläne und Teilungserklärung praktikabel auslagern. Das ist kein Freibrief:
+Bezugsurkunden nach § 13c BeurkG können Baubeschreibung, Pläne und Teilungserklärung praktikabel auslagern. Das ist kein Freibrief:
 
 | Punkt | Skill-Prüfung |
 | --- | --- |
@@ -936,7 +936,7 @@ Bei kalendarisch bestimmten Fertigstellungsterminen ist die Mahnung nach § 286 
 
 § 313 BGB ist als Bauträger-Einwendung streng zu behandeln: War die behauptete Krise bei Vertragsschluss bereits eingetreten oder absehbar, trägt der Bauträger das Kalkulations- und Organisationsrisiko grundsätzlich selbst. Nach Verzugseintritt eintretende Ereignisse entlasten nicht pauschal; mindestens braucht es einen gesonderten bauablaufbezogenen Nachweis, dass gerade dieses Ereignis die weitere Fertigstellung selbständig verzögert hat.
 
-Restvergütung/Widerklage des Bauträgers: Schluss- oder Restzahlung ist nur fällig, wenn Abnahme vorliegt oder die Abnahmefiktion nach § 640 Abs. 2 BGB greift. Beim Verbraucher muss die Aufforderung die besondere Textformbelehrung enthalten; bereits ein konkret benannter Mangel kann die Fiktion hindern. Ohne Abnahme/Fiktion keine automatische Fälligkeit nach § 641 BGB.
+Restvergütung/Widerklage des Bauträgers: Schluss- oder Restzahlung ist nur fällig, wenn Abnahme vorliegt oder die Abnahmefiktion nach § 640 Abs. 2 BGB greift. Beim Verbraucher muss die Aufforderung die besondere Textformbelehrung enthalten; eine fristgerechte Abnahmeverweigerung unter Angabe mindestens eines Mangels hindert die Fiktion. Ohne Abnahme/Fiktion keine automatische Fälligkeit nach § 641 BGB.
 
 ### K.6 — Vertragsstrafe und pauschalierter Schadensersatz
 
@@ -1684,7 +1684,7 @@ Bei jedem vollständigen Gutachten wird eine knappe Anwendungskarte gebaut:
 | § 650m Abs. 2/3 BGB | weiter zu prüfen |
 | § 650n BGB | weiter zu prüfen |
 | §§ 648, 648a, 650b bis 650e BGB | durch § 650u Abs. 2 ausgeschlossen |
-| § 650v Abs. 4 BGB | zwingend verbraucherschützend; abweichende Raten- oder Sonderwunschlogik zulasten des Erwerbers zurückweisen |
+| § 650v BGB, § 1 AbschlagsV, § 12 MaBV | Reichweite des Verbots abweichender Vereinbarungen anhand der konkret betroffenen Pflicht prüfen. |
 | §§ 642, 643 BGB | bei Mitwirkungsfragen anwendbar, aber kein Pauschalventil für Bauträgerverzug |
 
 ### O.10 — Klauselmatrix: 25 harte Treffer

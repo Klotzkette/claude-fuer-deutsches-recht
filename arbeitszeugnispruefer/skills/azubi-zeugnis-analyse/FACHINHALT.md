@@ -3,62 +3,23 @@ name: azubi-zeugnis-analyse
 description: "Für Ausbildungszeugnis-Analyse (Azubi-Zeugnis): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
-# Ausbildungszeugnis-Analyse (Azubi-Zeugnis)
+# Betriebliches Ausbildungszeugnis prüfen
 
-Die [Arbeitsmodi und Auslegungsmaßstab](../../references/arbeitszeugnis-auslegung-und-arbeitsmodi.md) gelten für diese Vertiefung. Die untenstehenden Wortlisten, Farben und Muster sind nur Prüfmaterial: keine feste Wort-Noten-Skala, keine Diagnose von Fehlverhalten, keine rechnerische Gesamtnote und kein Anspruch allein wegen einer fehlenden Schlussformel. Lies den Gesamttext und liefere nach Klärung entscheidender Tatsachen das bestellte Ergebnis; starre Fragezahlen und aus dem Wortlaut erfundene Tatsachen werden nicht verwendet.
+## 1. Welche Ausbildung wurde bescheinigt?
 
-## Fachlicher Anker
+Ermittle den Ausbildungsberuf, Betrieb, Zeitraum, Ausbildungsziel und ob das Berufsausbildungsverhältnis beendet ist. Nach der Übernahme im Betrieb den Ausbildungszeitraum und die anschließende Beschäftigung jeweils gesondert prüfen. Der Ausbildungsbetrieb schuldet bei Beendigung von sich aus ein Zeugnis. Ausbildungsnachweise, Ausbildungsplan und konkrete Arbeitsergebnisse für die tatsächlich erworbene berufliche Handlungsfähigkeit heranziehen. [Paragraf 16 BBiG](https://www.gesetze-im-internet.de/bbig_2005/__16.html).
 
-- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+## 2. Was muss hinein?
 
-## Geheimcode-Regeln
+| Sachlage | Prüfung am Zeugnis |
+| --- | --- |
+| Ausbildung beendet | Art, Dauer und Ziel der Ausbildung sowie erworbene berufliche Fertigkeiten, Kenntnisse und Fähigkeiten konkret mit Ausbildungsplan und Tätigkeiten abgleichen. |
+| Angaben über Leistung und Verhalten verlangt | Beide Beurteilungsgegenstände im Zusammenhang mit dem Ausbildungsstand und den wahrgenommenen Aufgaben bewerten. Bei fehlendem Verlangen genügt der gesetzliche Mindestinhalt. |
+| Berufsschulnoten oder Aussage zur Pünktlichkeit fehlen | Aus dem Schweigen lassen sich weder Schulprobleme noch Fehlzeiten herleiten. Berufsschulnoten gehören nicht zum Pflichtinhalt des betrieblichen Ausbildungszeugnisses. |
+| Andere Person hat tatsächlich ausgebildet | Auch deren Unterschrift ist eine Sollvorgabe. Bei elektronischer Erteilung Einwilligung, beigefügten Namen und qualifizierte elektronische Signatur der ausstellenden Person anhand der Originaldatei prüfen. [Paragraf 126a BGB](https://www.gesetze-im-internet.de/bgb/__126a.html). |
 
-| Azubi-Formulierung | Bedeutung | Ampel |
-|---|---|---|
-| "schnell und sicher aufgenommen" | Hervorragender Lernfortschritt | Grün |
-| "zuverlässig die Ausbildungsinhalte angeeignet" | Guter Lernfortschritt | Grün |
-| "hat sich die Inhalte erarbeitet" | Befriedigender Fortschritt | Orange |
-| "war bereit zu erlernen" | Unterdurchschnittlicher Fortschritt | Rot |
-| Fehlender Berufsschulabschnitt (duale Ausbildung) | Mögliche Schulprobleme | Orange |
-| "hat sich positiv entwickelt" | Für Azubi: gut; für Vollkraft: schwach | Grün (Azubi) |
-| "pünktlich und zuverlässig" | Wichtiges Grundverhalten | Grün |
-| Fehlende Pünktlichkeitsaussage | Fehlzeiten/Verspätungen | Orange |
+## 3. Berichtigung konkretisieren
 
-## Beispiele
+Beispiel: Das Zeugnis nennt Ausbildungsberuf und Dauer, beschreibt aber keine erworbenen Fähigkeiten. Belegen die Tätigkeitsnachweise, dass die Auszubildende Warenbestände eigenständig verbuchte und Inventurdifferenzen aufklärte, schlage einen Satz zu diesen Fähigkeiten vor. Eine Note für ihre Arbeit setzt eine entsprechend verlangte Beurteilung und belastbare Leistungsgrundlagen voraus. Berufsabschlussprüfung, Schulzeugnis und betriebliches Ausbildungszeugnis als verschiedene Unterlagen behandeln.
 
-**Beispiel 1 – Grünes Azubi-Zeugnis:** "Herr Müller hat die Ausbildungsinhalte stets schnell und sicher aufgenommen, zeigte großes Interesse an seinem Ausbildungsberuf und zeichnete sich durch hervorragende Berufsschulleistungen aus."
-
-**Beispiel 2 – Orange Azubi-Zeugnis:** "Frau Weber hat sich die Ausbildungsinhalte erarbeitet und dabei guten Willen gezeigt. Die Berufsschulleistungen entsprachen den Anforderungen." — Kein Superlativ, kein Engagement, keine Begeisterung.
-
-**Beispiel 3 – Rotes Azubi-Zeugnis:** "Herr Bauer war stets bereit, die Ausbildungsinhalte zu erlernen, und hat die Anforderungen im Wesentlichen erfüllt." — "Bereit" + "im Wesentlichen" = doppeltes rotes Signal.
-
-**Beispiel 4 – Fehlender Berufsschulabschnitt:** Zeugnis eines Industriekaufmanns (duale Ausbildung) ohne jede Aussage zur Berufsschule → orangefarbenes Signal.
-
-**Beispiel 5 – Vollständige positive Schlussformel:** "Wir bedauern es sehr, Frau Klein am Ende ihrer Ausbildung zu verlieren, und danken ihr herzlich für ihr Engagement. Wir empfehlen sie uneingeschränkt." — Starkes Signal für einen Übernahme- oder Weiterempfehlungswunsch.
-
-## Rechtliche Einordnung und Normen
-
-- **Paragraf 16 BBiG** — Anspruch des Auszubildenden auf qualifiziertes Zeugnis nach Beendigung der Ausbildung
-- **Paragraf 13 BBiG** — Pflichten des Auszubildenden; Pflichtverletzungen dürfen nur bei tragfähiger Tatsachengrundlage in die Beurteilung einfließen
-- Allgemeine Zeugnisgrundsätze zu Wahrheit, Klarheit und Wohlwollen sind bei Ausbildungszeugnissen entsprechend zu berücksichtigen
-
-## Triage — vor der Azubi-Analyse
-
-1. Abschlusszeugnis oder Zwischenzeugnis (Paragraf 16 Abs. 2 BBiG)?
-2. Duales Ausbildungsverhältnis? → Berufsschulbewertung vorhanden?
-3. Ausbildung abgebrochen? → Nur Anspruch auf einfaches Zeugnis nach Paragraf 16 Abs. 1 BBiG
-4. Beendigungsgrund: Bestehen der Prüfung oder Kündigung/Aufhebung?
-
-
-## Leitentscheidungs-Anker (Notenstufen & Beweislast)
-
-> Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
-
-| Entscheidung | Tragende Aussage | Freie Quelle |
-| --- | --- | --- |
-| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast für bessere Note beim Arbeitnehmer, für schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast für bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Die [Arbeitsmodi und Auslegungsmaßstab](../../references/arbeitszeugnis-auslegung-und-arbeitsmodi.md) bestimmen den Umfang. Überführe bestätigte Lücken, geeignete Ersatzsätze und die Arbeitgeberposition in den bestellten Bericht oder das Berichtigungsverlangen.

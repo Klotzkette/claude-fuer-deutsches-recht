@@ -449,6 +449,38 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
         self.assertIn("offen", procedure)
         self.assertIn("724 und 750 ZPO", procedure)
 
+    def test_recent_decisions_reach_independent_prompts_and_specialists(self):
+        book = (PLUGIN / "references/arbeitszeugnis-handbuch.md").read_text()
+        workshop = (PLUGIN / "arbeitszeugnispruefer-werkstatt.md").read_text()
+        quickstart = (PLUGIN / "arbeitszeugnispruefer-schnellstart.md").read_text()
+        # Die Werkstatt ist eine eigenständige Datei. Prüfe die vollständigen neuen
+        # Dossiers einschließlich Reichweitengrenzen, nicht bloß ein Aktenzeichen.
+        cases = (
+            ("22.2.11", "3 Ca 7407/25", "schlussformel-pruefen", "NJRE001639396"),
+            ("23.8.7", "10 Ta 207/26", "klagestrategie-und-vollstreckung", "LARE260001319"),
+        )
+        for section, citation, specialist, document_id in cases:
+            with self.subTest(case=citation):
+                start = book.index(f"#### {section}.")
+                stop = book.index("\n### ", start)
+                dossier = book[start:stop]
+                self.assertIn(citation, dossier)
+                self.assertIn(document_id, dossier)
+                self.assertIn(dossier, workshop)
+                self.assertIn(citation, quickstart)
+                self.assertIn(document_id, source(specialist).read_text())
+
+    def test_apprenticeship_sources_agree_on_entitlement(self):
+        for slug in ("zeugnisart-erkennung", "azubi-zeugnis-analyse"):
+            text = source(slug).read_text()
+            with self.subTest(module=slug):
+                self.assertIn("Fertigkeiten, Kenntnisse und Fähigkeiten", text)
+                self.assertIn("Leistung und Verhalten", text)
+                self.assertRegex(text, r"auf Verlangen|verlangt")
+                self.assertIn("https://www.gesetze-im-internet.de/bbig_2005/__16.html", text)
+                self.assertNotIn("Mögliche Schulprobleme", text)
+                self.assertNotIn("fehlendes Verhalten = Rot", text)
+
     def test_2025_waiver_is_time_limited_and_not_universal_choice_of_law(self):
         for path in (
             source("intake-und-stammdaten-pruefen"),

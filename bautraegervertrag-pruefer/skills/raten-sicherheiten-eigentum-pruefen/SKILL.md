@@ -5,6 +5,8 @@ description: "Prüft MaBV-Zahlungsmodell, Bautenstand, Verbrauchersicherheit, Vo
 
 # Raten, Sicherheiten und Eigentumsverschaffung prüfen
 
+Übernimm die bereits belegte Vertragsart. Beim Direkteinstieg zuerst anhand der Grundstücks- und Leistungsklauseln das [Vertragsmodell und sein Prüfprogramm](../bautraegerpruefung-steuern/SKILL.md#vertragstyp-und-prüfprogramm) bestimmen. Ist ein entscheidendes Merkmal offen, frage danach und setze die davon abhängige Prüfung nach der Antwort fort.
+
 ## 1. Zweck und Anwendungsfall
 
 Kläre anhand der Akte, ob die konkrete Bauträgerrate fällig ist, welcher Betrag offensteht und welche Eigentums- oder Fertigstellungssicherung fehlt. Fälligkeitsprüfung und Zahlungsausführung bleiben getrennte Vorgänge.

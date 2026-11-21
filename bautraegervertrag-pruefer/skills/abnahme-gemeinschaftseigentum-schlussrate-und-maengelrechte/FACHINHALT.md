@@ -22,11 +22,11 @@ Rot prüfen, wenn die Urkunde:
 - Nachzügler an eine frühere fremde Abnahme bindet,
 - Besitzübergabe, Zahlung oder Protokoll als automatische Abnahme fingiert.
 
-BGH VII ZR 68/24 und VII ZR 108/24 nur mit frei prüfbarer Quelle verwenden. Kern: unwirksame Abnahmeklauseln können den Beginn der fünfjährigen Bauwerksverjährung verhindern; die 30-Jahres-Grenze ist als äußerer Rechtssicherheitsrahmen zu beachten.
+Bei der formularmäßigen Erstverwalterabnahme den fehlgeschlagenen Akt datieren. Für die dort erfassten Vorschuss- und Folgeschadensansprüche wegen Mängeln des Gemeinschaftseigentums beginnt die fünfjährige Frist mit wirksamer Abnahme. Die äußere Grenze von 30 Jahren rechnet ab der fehlgeschlagenen Abnahme. [BGH, Urteil vom 15.10.2026 – VII ZR 119/23, Rn. 24–35, 42–47](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2023/VII_ZR_119-23.pdf?__blob=publicationFile&v=1)
 
 ## Schlussrate
 
-Schlussrate nicht mit Abnahmereife gleichsetzen. Bei Vertragsklausel „vollständige Fertigstellung“ können Protokollmängel, Restarbeiten, Außenanlagen, Gemeinschaftseigentum und Dokumentationspflichten die Fälligkeit sperren. BGH VII ZR 88/25 nur nach Live-Verifikation einsetzen.
+Schlussrate nicht mit Abnahmereife gleichsetzen. Bei Vertragsklausel „vollständige Fertigstellung“ können Protokollmängel, Restarbeiten, Außenanlagen, Gemeinschaftseigentum und Dokumentationspflichten die Fälligkeit sperren. Wesentliche Mängel hindern bereits die vollständige Fertigstellung nach § 3 Abs. 2 MaBV. Bei geringfügigen Protokollmängeln den konkreten Vertrag auslegen. [BGH, Urteil vom 29.10.2026 – VII ZR 169/25, Rn. 24–39](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2025/VII_ZR_169-25A.pdf?__blob=publicationFile&v=1) · [BGH, Urteil vom 22.04.2026 – VII ZR 88/25, Rn. 24–28](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2025/VII_ZR__88-25.pdf?__blob=publicationFile&v=1)
 
 ## Ausgabe
 

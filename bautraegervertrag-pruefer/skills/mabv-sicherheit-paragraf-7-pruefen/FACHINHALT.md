@@ -12,7 +12,7 @@ Wenn der Vertrag statt eines Paragraf-3-Ratenplans mit Vormerkung und Freistellu
 ## Pflichtnormen
 
 - Paragraf 7 Absatz 1 MaBV: Sicherheit für alle etwaigen Ansprüche des Auftraggebers auf Rückgewähr oder Auszahlung der ihm entgegengenommenen Vermögenswerte.
-- Paragraf 7 Absatz 1 Satz 4 MaBV: Bei Eigentums- oder Erbbaurechtsübertragung muss die Sicherheit aufrechterhalten werden, bis Paragraf 3 Absatz 1 MaBV erfüllt ist und das Vertragsobjekt vollständig fertiggestellt ist.
+- Paragraf 7 Absatz 1 Satz 3 MaBV: Bei Eigentumsübertragung oder Bestellung oder Übertragung eines Erbbaurechts muss die Sicherheit aufrechterhalten werden, bis Paragraf 3 Absatz 1 MaBV erfüllt ist und das Vertragsobjekt vollständig fertiggestellt ist.
 - Paragraf 12 MaBV: Abweichungen zulasten des Auftraggebers unzulässig.
 - Paragraf 650v BGB: MaBV ist die einzig zulässige Grundlage für Abschlagszahlungen beim Bautraegervertrag.
 
@@ -23,8 +23,8 @@ Wenn der Vertrag statt eines Paragraf-3-Ratenplans mit Vormerkung und Freistellu
 3. **Kündbarkeit**: Ordentlich kündbare Bürgschaft mit Kündigungsfrist vor Fertigstellung ist rot, weil der Schutz entfällt.
 4. **Bürge**: Im Geltungsbereich des Kreditwesengesetzes befugtes Kreditinstitut oder zugelassener Kreditversicherer; Konzern- oder Auslandsbürge ist kritisch.
 5. **Original**: Bürgschaftsoriginal muss vor Zahlung beim Erwerber oder in einem sicheren Zugriff liegen.
-6. **Vermischungsverbot**: Kein Mischmodell — entweder vollständiges Paragraf-3-Modell mit Vormerkung, Freistellung und Ratenplan oder vollständige Paragraf-7-Sicherheit; keine halbierte Mischlösung akzeptieren.
-7. **Austausch-Mechanismus**: Wenn der Vertrag sowohl Paragraf-3-Elemente als auch eine Bürgschaft nennt, muss der Austausch-Mechanismus eindeutig geregelt sein; Paragraf 7 Absatz 1 Satz 4 MaBV als Warnpunkt mitdenken.
+6. **Sicherungswechsel prüfen.** § 7 Abs. 1 Satz 4 MaBV erlaubt den Austausch. Ordne jeder Zahlung das wirksame Sicherungsmittel zu und prüfe, ob die Ersatzsicherung rechtzeitig und vollständig eingreift.
+7. **Austausch-Mechanismus**: Wenn der Vertrag sowohl Paragraf-3-Elemente als auch eine Bürgschaft nennt, muss der Austausch-Mechanismus eindeutig geregelt sein; Übergabe, Freigabezeitpunkt, Höhe und Schutzumfang bei einem zulässigen Austausch prüfen. Bei Berufung auf § 7 Abs. 2 den gesetzlich bestimmten Auftraggeberkreis, Verzicht in gesonderter Urkunde und bei eingetragenen Kaufleuten den Registerauszug belegen. [§ 7 MaBV](https://www.gesetze-im-internet.de/gewo_34cdv/__7.html)
 
 ## Leitentscheidungen
 

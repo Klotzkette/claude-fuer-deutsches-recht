@@ -17,9 +17,11 @@ Dieser Skill ordnet Fälle, in denen der Erwerber nicht klassisch vor Bauausfüh
 
 Wenn Gemeinschaftseigentum vor Vertragsschluss vermeintlich abgenommen wurde, den Erwerber nicht automatisch daran binden. AGB-Klauseln zur Bindung an fremde Abnahme kritisch prüfen. Förmliche eigene Abnahme sichern, damit Verjährungsbeginn und Mängelrechte klar werden.
 
+Je Einheit Datum der Errichtung, Beginn und Dauer einer Vornutzung, Verkäufer, Vertragsschluss, Restleistungen und übernommene Herstellungspflicht feststellen. Beim Ersterwerb einer frisch fertiggestellten Wohnung können werkvertragliche Mängelrechte bestehen. Beim Verkauf einer zuvor vermieteten Wohnung rund drei Jahre nach Errichtung hat der BGH die Sachmängelhaftung nach Kaufrecht beurteilt. Die Urteile betreffen Altverträge und begründen keine starre Frist. Für heutige Verträge die Voraussetzungen des § 650u BGB und für den konkreten Mangel das Herstellungsversprechen prüfen. [BGH, Urteil vom 12.05.2016 – VII ZR 171/15, Rn. 20–27](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZR_171-15.pdf?__blob=publicationFile&v=1) · [BGH, Urteil vom 25.02.2016 – VII ZR 156/13, Rn. 22–27](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_156-13.pdf?__blob=publicationFile&v=1)
+
 ## Altbau/Sanierung
 
-Bei Sanierung, die Umfang und Bedeutung eines Neubaus erreicht, kann Werkvertragsrecht auch nicht angefasste Altbausubstanz erfassen. Bei längerer Vermietung oder bloßer Renovierung kann Kaufrecht näher liegen. Maßgeblich: Leistungsversprechen, Eingriffstiefe, Prospekt, Preis, technische Erneuerung und Erwerbererwartung.
+Ordne die betroffenen Bauteile den zugesagten Arbeiten und der vorhandenen Substanz zu. Sind die geschuldeten Arbeiten nach Umfang und Bedeutung einem Neubau vergleichbar, kann die werkvertragliche Haftung auch die in diesem Bereich vorhandene Altbausubstanz erfassen. Bei einer begrenzten Zusage die übernommenen Arbeiten und die Haftung für übrigen Bestand getrennt bestimmen. Erhebe Baubeschreibung, Prospekt und konkrete Eingriffe. [BGH, Urteil vom 26.04.2007 – VII ZR 210/05, Rn. 18–21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2005/VII_ZR_210-05.pdf?__blob=publicationFile&v=1)
 
 ## Output
 

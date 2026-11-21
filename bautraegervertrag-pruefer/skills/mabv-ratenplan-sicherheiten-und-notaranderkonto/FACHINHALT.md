@@ -9,14 +9,16 @@ description: "Für MaBV-Ratenplan, Sicherheiten und Notaranderkonto: ordnet Norm
 
 Dieser Skill beantwortet, ob der Bauträger Geld verlangen darf. Er trennt Raten nach Baufortschritt, Vorausleistungen, Reservierungsentgelt, Sonderwünsche, Notaranderkonto und gesetzliche Erwerbersicherheit.
 
-## Fälligkeit vor jeder Zahlung
+## Sicherungsmodell vor jeder Zahlung feststellen
+
+Bei Abschlägen nach § 3 MaBV die Punkte 1 bis 4 kumulativ prüfen. Bei einer abweichenden Vereinbarung nach § 1 Satz 2 AbschlagsV den Umfang der Befreiung durch eine vertragsgerechte, rechtzeitig geleistete Sicherheit gemäß § 7 MaBV prüfen. Vertragliche Fälligkeitsvoraussetzungen gelten zusätzlich.
 
 1. Wirksamer Vertrag ohne gefährliche Rücktritts-/Lösungsklausel des Bauträgers.
 2. Vormerkung für die konkrete Einheit ranggerecht gesichert.
 3. Lastenfreistellung des Globalfinanzierers einheitsbezogen und auszahlungsfest.
 4. Baugenehmigung oder genehmigungsfreie Lage in der richtigen Schutzfrist.
 5. § 3 Abs. 2 MaBV-Ratenplan oder echte § 7 MaBV-Bürgschaft, nicht beides unsauber vermischt.
-6. 5-%-Sicherheit nach § 650m Abs. 2 BGB effektiv gewährt, nicht nur rhetorisch erwähnt.
+6. Bei Verbraucherabschlägen 5-%-Sicherheit nach § 650m Abs. 2 BGB effektiv gewährt, nicht nur rhetorisch erwähnt.
 
 ## Normenanker
 
@@ -24,7 +26,7 @@ Dieser Skill beantwortet, ob der Bauträger Geld verlangen darf. Er trennt Raten
 
 ## Rote Muster
 
-- Zwei Großraten oder acht wirtschaftliche Teilbeträge statt sieben sauberer MaBV-Stufen.
+- Mehr als sieben Teilbeträge im Modell nach § 3 Abs. 2 MaBV oder zusammengefasste Raten, die einzelne Bausteine vor Erreichen ihres Bautenstands fällig stellen.
 - Vorab-Rate ohne Bautenstand, Reservierung oder Sonderwunsch-Vorkasse außerhalb des Schutzsystems.
 - Rate fällig schon bei bloßer Mitteilung des Bautenstands durch den Bauträger.
 - Rate fällig ohne prüfbaren Bautenstandsnachweis: Foto allein genügt nicht, wenn Bauteile verdeckt, Gemeinschaftsflächen unklar oder Abnahmen nachgeschoben werden.

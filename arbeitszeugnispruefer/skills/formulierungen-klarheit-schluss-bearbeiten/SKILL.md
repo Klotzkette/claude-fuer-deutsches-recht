@@ -20,7 +20,9 @@ Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bere
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Schlussformel im Zusammenhang lesen
+
+Bei vereinbarter Schlussformel den Umfang der Bindung am Wortlaut bestimmen. Eine einer guten Bewertung entsprechende Dankes-, Bedauerns- und Wunschformel gab im entschiedenen Fall keinen Anspruch auf das einzelne Wort „weiterhin“. Der Leistungsteil bestätigte die erfolgreiche Tätigkeit. Ist genau dieser Wortlaut vereinbart, vergleiche die Fassungen Satz für Satz. [ArbG Stuttgart, Urteil vom 03.03.2026 – 3 Ca 7407/25, Rn. 23–35](https://www.landesrecht-bw.de/bsbw/document/NJRE001639396).
 
 Auslassungen, Mehrdeutigkeiten, vermeintliche Codes und Schlussformeln am objektiven Empfängerhorizont prüfen.
 

@@ -13,8 +13,8 @@ Sobald der Erwerber eine natürliche Person ist, insbesondere bei Gewerbeeinheit
 
 - Paragraf 13 BGB: Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch selbstständigen beruflichen Tätigkeit zugerechnet werden können.
 - Paragraf 14 BGB: Unternehmer handelt in Ausübung gewerblicher oder selbstständiger beruflicher Tätigkeit.
-- Paragraf 650v Absatz 4 BGB: Abweichungen vom MaBV-Schutz zulasten des Verbrauchers sind unzulässig.
-- Paragraf 310 Absatz 3 BGB: AGB gelten als vom Unternehmer gestellt, wenn der Vertrag mit einem Verbraucher geschlossen wird.
+- Der Schutz durch die MaBV knüpft an Tätigkeit und Zahlungsmodell an. Verbraucherbezogene Zusatzregeln gesondert prüfen. [§ 12 MaBV](https://www.gesetze-im-internet.de/gewo_34cdv/__12.html)
+- Paragraf 310 Absatz 3 BGB: AGB gelten als vom Unternehmer gestellt, im Verbrauchervertrag, außer wenn der Verbraucher sie in den Vertrag eingeführt hat.
 
 ## Pruefraster
 
@@ -22,7 +22,7 @@ Sobald der Erwerber eine natürliche Person ist, insbesondere bei Gewerbeeinheit
 2. **Nutzungszweck**: Eigennutzung, Vermietung als private Kapitalanlage oder gewerbliche Weitervermietung bzw. Weiterveräußerung?
 3. **Private Vermögensverwaltung**: Mehrere Einheiten schließen Verbraucherstatus nicht automatisch aus; maßgeblich ist, ob die Grenze zum gewerblichen Immobilienhändler oder Vermieter überschritten wird.
 4. **Gewerbeeinheit**: BGH V ZR 91/25 bestätigt, dass private Vermögensverwaltung Verbraucherstatus auch bei einer Gewerbeeinheit erhalten kann; nicht vorschnell Unternehmerstatus annehmen.
-5. **Überwiegensprinzip**: Bei gemischter Nutzung Hauptzweck feststellen; bei Zweifeln Verbraucherstatus annehmen, weil das Leitbild des Schutzregimes den Verbraucher schützt.
+5. **Überwiegensprinzip**: Bei gemischter Nutzung Hauptzweck feststellen; persönliche und geschäftliche Zwecke belegen, bei offenem Gesamtbild beide Rechtsfolgen benennen und nach dem entscheidenden Umstand fragen.
 6. **Baugruppen-GbR**: Gesellschafter einer Baugruppen-GbR können individuelle Verbraucher sein, was aber die MaBV nicht automatisch eröffnet, da keine Bautraegerleistung vorliegt.
 7. **Dokumentation**: Verbraucherstatus festhalten; bei Klausel, die Unternehmerstatus unterstellt, Paragraf 309 Nummer 12 BGB prüfen.
 
@@ -42,7 +42,7 @@ Verbraucherstatus
 Der Erwerber [Name] ist eine natürliche Person. Der Erwerbszweck ist [Eigennutzung / private Kapitalanlage / Vermietung].
 Eine gewerbliche oder selbstständige berufliche Tätigkeit, die den Erwerb dieser Einheit überwiegend prägt, ist dem Sachverhalt nicht zu entnehmen.
 
-Ergebnis: Verbraucher nach Paragraf 13 BGB. MaBV-Schutz, Paragrafen 305 ff. BGB und Paragraf 650m Absatz 2 BGB greifen zwingend.
+Ergebnis: Verbraucher nach Paragraf 13 BGB. Für einen Bauträgervertrag mit vereinbarten Abschlägen sind daneben die MaBV-Voraussetzungen, die Sicherheit für den Verbraucher bei der ersten Abschlagszahlung und bei vorformulierten Bedingungen die AGB-Kontrolle zu prüfen.
 
 [Alternativ bei Gewerbeeinheit:]
 Trotz gewerblicher Nutzung der Einheit handelt es sich nach dem Gesamtbild um private Vermögensverwaltung. Unternehmerstatus ist nicht belegt. BGH V ZR 91/25 bestätigt, dass der Verbraucherstatus auch bei Gewerbeeinheiten erhalten bleibt, solange keine gewerbsmäßige Tätigkeit den Erwerbszweck prägt.

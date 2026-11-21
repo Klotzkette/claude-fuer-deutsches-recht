@@ -1,6 +1,6 @@
 {
   "name": "bautraegervertrag-pruefer",
-  "version": "445.36.9",
+  "version": "445.36.11",
   "description": "Prüft Bauträgerverträge aus Erwerber-, Bauträger-, GdWE- und Verwaltersicht: Bausoll, MaBV-Raten, Sicherheiten, Eigentum, Abnahme, Mängel, Verjährung und Sonderkonstellationen. Zehn Arbeitswege verbinden beide Fachbibliotheken und alle bisherigen Testakten.",
   "license": "Apache-2.0 OR MIT",
   "author": {

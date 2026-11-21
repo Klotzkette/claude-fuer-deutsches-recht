@@ -5,6 +5,8 @@ description: "Gleicht Bauträgerurkunde, Baubeschreibung, Pläne, Fläche und So
 
 # Bausoll, Vertragsklauseln und Urkundenänderungen prüfen
 
+Übernimm die bereits belegte Vertragsart. Beim Direkteinstieg zuerst anhand der Grundstücks- und Leistungsklauseln das [Vertragsmodell und sein Prüfprogramm](../bautraegerpruefung-steuern/SKILL.md#vertragstyp-und-prüfprogramm) bestimmen. Ist ein entscheidendes Merkmal offen, frage danach und setze die davon abhängige Prüfung nach der Antwort fort.
+
 ## 1. Zweck und Anwendungsfall
 
 Stelle fest, welche Wohnung oder welches Objekt mit welcher Ausstattung, Fläche und Leistung verbindlich geschuldet ist. Überführe widersprechende Anlagen und problematische Klauseln in einen begründeten Befund oder eine vollständige Änderungsfassung.

@@ -23,7 +23,7 @@ Ist der Text vollständig lesbar, beginne mit den erheblichen Befunden. Bei eine
 
 Erkenne ausdrücklich genannte Bewerbungs-, Vergleichs- oder Verfahrensfristen. Ausschlussfrist und Verwirkung werden nicht aus pauschalen Monatswerten berechnet. Fehlt der dafür maßgebliche Vertrag oder Titel, fordere den konkreten Text an. Lade anschließend nur die benötigten Fachwege: [Form/Tätigkeit](../zeugnisauftrag-form-taetigkeit-bearbeiten/SKILL.md), [Leistung/Verhalten](../leistung-verhalten-noten-bearbeiten/SKILL.md), [Klarheit/Schluss](../formulierungen-klarheit-schluss-bearbeiten/SKILL.md) oder [Anspruch/Verfahren](../berichtigung-anspruch-verfahren-bearbeiten/SKILL.md).
 
-Für Ausbildung und Führung stehen innerhalb dieser Wege eigene Vertiefungen bereit. Eine Projektkoordination wird nicht als disziplinarische Leitung ausgegeben. Aus Wörtern wie „gesellig“ oder „korrekt“ werden keine medizinischen oder strafrechtlichen Tatsachen hergeleitet.
+Bei einem betrieblichen Ausbildungszeugnis prüfe Ausbildungsziel, vermittelte Fertigkeiten, Kenntnisse und Fähigkeiten und ob Leistung und Verhalten verlangt wurden. Bei Führungsaufgaben kläre Umfang und Befugnisse. Eine Projektkoordination wird nicht als disziplinarische Leitung ausgegeben. Aus Wörtern wie „gesellig“ oder „korrekt“ werden keine medizinischen oder strafrechtlichen Tatsachen hergeleitet.
 
 ### 3.3. Gespräch fortsetzen
 
