@@ -11,7 +11,7 @@ Dieser Skill entscheidet, ob die letzte Bauträgerrate wirklich fällig ist. „
 
 ## Normenanker
 
-§§ 305c Abs. 2, 307, 640, 641 Abs. 3, 650u, 650v, 817 Satz 1, 818 Abs. 2 BGB; § 3 Abs. 2 Satz 2 Nr. 2 MaBV; § 12 MaBV; BGH VII ZR 88/25 nur nach Live-Verifikation.
+§§ 305c Abs. 2, 307, 640, 641 Abs. 3, 650u, 650v, 817 Satz 1, 818 Abs. 2 BGB; § 3 Abs. 2 Satz 2 Nr. 2 MaBV; § 12 MaBV.
 
 ## Prüfung
 
@@ -23,7 +23,9 @@ Dieser Skill entscheidet, ob die letzte Bauträgerrate wirklich fällig ist. „
 
 ## Rechtsfolge
 
-Verfrühte Schlussratenanforderung sperrt Fälligkeit. Bereits geleistete verfrühte Zahlungen können als Rückforderungsposition nach Bereicherungsrecht geprüft werden. Bei unwesentlichen Mängeln zusätzlich § 641 Abs. 3 BGB mit doppelten voraussichtlichen Mängelbeseitigungskosten prüfen.
+Wesentliche Mängel, die zur Abnahmeverweigerung berechtigen, schließen die vollständige Fertigstellung nach § 3 Abs. 2 Satz 2 Nr. 2 MaBV aus. Erfasst eine Formularregel zur Fälligkeit trotz Mängeln auch die Schlussrate, bewerte den ganzen Plan. Im entschiedenen Fall war auch die erste Grundstücksrate von der Nichtigkeit betroffen. Für andere Zwischenraten hat der BGH die Bedeutung wesentlicher Mängel offengelassen. [BGH, Urteil vom 29.10.2026 – VII ZR 169/25, Rn. 24–39](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2025/VII_ZR_169-25A.pdf?__blob=publicationFile&v=1)
+
+Bei unwesentlichen Mängeln die Fälligkeit zunächst aus dem Gesamtvertrag herleiten. Im Fall VII ZR 88/25 setzte die Schlussrate die Beseitigung der bei Abnahme des Sondereigentums protokollierten Mängel voraus. Bei fälliger Vergütung und bestehendem Anspruch auf Mangelbeseitigung ist nach § 641 Abs. 3 BGB ein angemessener Teil zurückbehaltbar, regelmäßig das Doppelte der erforderlichen Kosten. Bei schon gezahlten Beträgen Rückforderung und inzwischen eingetretene Fälligkeit gesondert prüfen. [BGH, Urteil vom 22.04.2026 – VII ZR 88/25, Rn. 24–28](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2025/VII_ZR__88-25.pdf?__blob=publicationFile&v=1)
 
 ## Output
 

@@ -20,9 +20,9 @@ Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bere
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Abhilfe und Verfahrensweg bestimmen
 
-Berichtigungsanspruch, Beweislast, Fristen, Aufforderungsschreiben und gerichtliche Durchsetzung bearbeiten.
+Erfasse die konkrete Abweichung, Anspruchsgrundlage und Beweislage. Ohne Titel prüfe das bestimmte Berichtigungsbegehren. Mit Titel vergleiche dessen Wortlaut, maßgeblichen Entwurf und erteilte Fassung. Bei einem Wahrheitseinwand kläre, welche Tätigkeit oder Bewertung angegriffen wird, weshalb und mit welchen Belegen. Pauschale Abwehr und nachvollziehbare Zweifel an einer wesentlichen Angabe führen zu unterschiedlichen Ergebnissen. Siehe Kapitel 23.8 des Arbeitsbuchs und die Vertiefung zur Vollstreckung.
 
 ### 3.2. Arbeitsschritt
 

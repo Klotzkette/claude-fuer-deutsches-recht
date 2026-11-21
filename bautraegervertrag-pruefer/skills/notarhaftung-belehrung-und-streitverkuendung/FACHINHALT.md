@@ -11,7 +11,7 @@ Dieser Skill prüft nicht vorschnell „Notar haftet“, sondern legt die konkre
 
 ## Normenanker
 
-§ 17 Abs. 1 und Abs. 2a BeurkG; § 13a BeurkG; §§ 14, 19 BNotO; §§ 305-310, 307, 309 Nr. 12, Nr. 15, 311b, 650m Abs. 2, 650u, 650v BGB; §§ 3, 7, 12 MaBV.
+§ 17 Abs. 1 und Abs. 2a BeurkG; § 13c BeurkG; §§ 14, 19 BNotO; §§ 305-310, 307, 309 Nr. 12, Nr. 15, 311b, 650m Abs. 2, 650u, 650v BGB; §§ 3, 7, 12 MaBV.
 
 ## Prüffelder
 

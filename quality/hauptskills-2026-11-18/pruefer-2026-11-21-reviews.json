@@ -1,0 +1,60 @@
+[
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "path": "arbeitszeugnispruefer/skills/einstieg-routing/SKILL.md",
+    "reviewed_on": "2026-11-21",
+    "before_sha256": "80cdb1a81b160f7003345730faec15ede815ff8ae64ad8ac3ec64386b169dbbd",
+    "after_sha256": "5439ab7aea9f889b2fd87532e1aa8d02f3a2dc75627767c3ad38b5204083c89e",
+    "previous_review": {
+      "date": "2026-11-18",
+      "review_path": "quality/hauptskills-2026-11-18/wirtschaft-sozial-review.json",
+      "review_sha256": "1c6448c7475c86af0f901cda657873c163918fee0636f439b3c5c66f1e1811d0",
+      "skill_sha256": "51bbd1e11ddbe4e0af64c36637383bd69048b9bf7b6f3d28f5284d9d4f20ff5e",
+      "references": {}
+    },
+    "changes": [
+      "Der Einstieg unterscheidet das Arbeitszeugnis vom Ausbildungszeugnis und ermittelt den geschuldeten Inhalt sowie den Form- und Zugangsweg.",
+      "Bei einem Titel mit Entwurfsvorbehalt werden die behauptete Tätigkeit und die Substanz der Einwände für die Wahl zwischen Zwangsvollstreckung und Erkenntnisverfahren bewertet.",
+      "Bei einer Zusage zu Dank, Bedauern und Zukunftswünschen werden konkret vereinbarter Wortlaut und nur vereinbarte Wirkung getrennt beurteilt."
+    ],
+    "scenario": {
+      "input": "Ein Titel sieht ein qualifiziertes Zeugnis nach Vorschlag des Arbeitnehmers vor. Die Arbeitgeberin verwirft dessen Entwurf ohne konkrete inhaltliche Begründung.",
+      "expected_result": "Titel, Entwurf und tatsächlich erteilte Fassung abgleichen, Umfang der titulierten Pflicht und Tragfähigkeit der Einwendungen prüfen und die zur Durchsetzung passende Antwort ausformulieren.",
+      "new_information": "Die Arbeitgeberin legt eine konkrete Aufgabenverteilung vor und bestreitet nachvollziehbar, dass die beanspruchte Baustellenüberwachung zur Stelle gehörte. Die Behandlung dieses wesentlichen Streits im Vollstreckungsverfahren unter Berücksichtigung von 10 Ta 207/26 erneut prüfen und die Klärung im Erkenntnisverfahren einordnen."
+    },
+    "review_method": "Vergleich der neuen Hauptanweisung mit dem Einzelprüfbeleg vom 18.11. und den verknüpften Fachtexten. Redaktioneller Durchgang mit konkreter Nachreichung.",
+    "source_scope": "Die vertieften Passagen betreffen § 109 GewO, § 16 BBiG, Titelvollstreckung und zugesagte Schlussformel. Die Aussagen aus 10 Ta 207/26 und 3 Ca 7407/25 werden als Instanzrechtsprechung mit ihrer jeweiligen Reichweite geführt.",
+    "reference": "arbeitszeugnispruefer/references/arbeitszeugnis-auslegung-und-arbeitsmodi.md",
+    "reference_sha256": "3b84e51aa7e969a95442f493eeb326fb2fa659a6b20dc5437b9792b1976d7e98"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "path": "bautraegervertrag-pruefer/skills/bautraegerpruefung-steuern/SKILL.md",
+    "reviewed_on": "2026-11-21",
+    "before_sha256": "6d330440235f560f5856859750306e14e709b76cff3ede0c68715904fe4ca53c",
+    "after_sha256": "fd64659329db4338d6f264cbe13637b6ffb922b09536b3f28cc06358d7066c51",
+    "previous_review": {
+      "date": "2026-11-18",
+      "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
+      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
+      "skill_sha256": "8128004bae8c3fc2f5ecf708f16de3344c89271e22476e12b2da17be4f5cdb91",
+      "references": {
+        "bautraegervertrag-pruefer/references/hauptworkflow-entscheidungen.md": "c78ea75f1896245ba2cde3c225dea166d1d2a4dbd8414bbb7f50502a6424cb7d"
+      }
+    },
+    "changes": [
+      "Die Prüfung setzt bei der konkreten Urkunde und Einheit ein. Sie bestimmt die Schuldner der Bau- und Rechtsverschaffungspflichten anhand von Klauseln und lässt streitige Angaben für die maßgebliche Frage offen.",
+      "Die Einordnung steuert getrennte Programme und bei bestätigtem Bauträgermodell die zusätzliche Prüfung von Erwerbsgegenstand, Bauzustand, Sonder- und Gemeinschaftseigentum, Vertragspartner und Zahlungsmodell.",
+      "Die Quellenkarte führt die Entscheidungen zum Zusammenhang von wesentlichen Mängeln, vollständiger Fertigstellung und Ratenplan sowie zur fehlgeschlagenen Erstverwalterabnahme und besonderen Durchsetzungsgrenze nach."
+    ],
+    "scenario": {
+      "input": "Zu einem Wohnungserwerb wird die Schlussrate verlangt. In der Akte sind zwei Fassungen und ein Vertrag mit einem anderen Schuldner für die Bauarbeiten enthalten.",
+      "expected_result": "Die Prüfung ordnet Aussagen einer konkreten Einheit und Urkunde zu. Sie fragt nach dem noch offenen Herstellungsversprechen. Die Zahlungsstellungnahme bleibt bis dahin für das jeweilige Modell bedingt.",
+      "new_information": "Eine beurkundete Anlage weist dieselbe Veräußerin als Schuldnerin des Umbaus und der Übertragung aus. Ein protokollierter wesentlicher Mangel steht offen. Den Bauträger-Ratenplan und die Schlussfälligkeit anhand der konkreten Klausel prüfen und die Zahlungsantwort fortschreiben."
+    },
+    "review_method": "Redaktioneller Vergleich mit der vorangegangenen Fassung und der parallelen Vertragsaufnahme, statischer Durchgang des Falls, Abgleich der im Anker bezeichneten Passagen mit den amtlichen Volltexten.",
+    "source_scope": "Gezielte Prüfung der verlinkten Normen und Entscheidungen, insbesondere BGH VII ZR 169/25, VII ZR 88/25, VII ZR 119/23 und VII ZR 4/24. Frühere Anker behalten den jeweils vermerkten Prüfstand.",
+    "reference": "bautraegervertrag-pruefer/references/hauptworkflow-entscheidungen.md",
+    "reference_sha256": "d38d1f04bc8cb1c956bb437aabf626992d934da12535c4be04d399b8608a18d9"
+  }
+]

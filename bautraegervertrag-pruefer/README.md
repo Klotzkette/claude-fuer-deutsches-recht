@@ -9,7 +9,7 @@ Prüfen Sie Bauträgerverträge, Raten und Sicherheiten, Bausoll, Abnahme und M�
 
 | Zugang | Verwendung |
 | --- | --- |
-| [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/bautraegervertrag-pruefer.zip) | Installierbares Paket mit zehn Skills, Fachvertiefungen und Referenzen. |
+| [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.11/bautraegervertrag-pruefer.zip) | Installierbares Paket mit zehn Skills, Fachvertiefungen und Referenzen. |
 | [Skill-Verzeichnis](../skills-index/bautraegervertrag-pruefer.md) | Die auswählbaren Arbeitswege mit Beschreibungen. |
 | [Werkstatt-Prompt als Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md) | Eigenständiger ausführlicher Prompt für mehrstufige Vertrags- und Aktenbearbeitung. |
 | [Mini-Prompt als Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md) | Kompakter Einstieg in eine konkrete Raten-, Klausel- oder Mängelfrage. |
@@ -59,7 +59,11 @@ Wählen Sie das Bauvorhaben und beginnen Sie mit den Erwerberunterlagen in `Grun
 | Bauträgervertrag Hohenwartshofen | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-bautraeger-bautraegervertrag.zip) | [Druckpaket 05](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-05.zip) |
 | Bauträgervertrag Marewald | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-bautraeger-bautraegervertrag-marewald.zip) | [Druckpaket 05](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-05.zip) |
 
-## 2. Die Mandatsrolle bestimmt die Bearbeitung
+## 2. Welcher Vertrag liegt vor?
+
+Der Prüfer gleicht zuerst Vertragsparteien, Einheit und Fassung ab. Aus den Grundstücks- und Leistungsklauseln bestimmt er, ob etwa ein Neubau mit Eigentumsübertragung, ein Erbbaurecht mit Baupflicht, ein Sanierungserwerb, ein später Erwerb der fertigen Einheit, ein Bauauftrag auf eigenem Grund oder eine Baugruppe vorliegt. Lassen die Unterlagen mehrere Antworten zu, fragt er gezielt nach. Anschließend prüft er die verlangte Rate, Klausel oder Mängelfrage nach dem ermittelten Vertragsmodell. [Vertragstyp und Prüfprogramm](skills/bautraegerpruefung-steuern/SKILL.md#vertragstyp-und-prüfprogramm)
+
+### 2.1. Die Mandatsrolle bestimmt die Bearbeitung
 
 | Rolle | Typische Aufgabe |
 | --- | --- |

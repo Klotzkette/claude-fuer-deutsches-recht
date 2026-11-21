@@ -22,7 +22,7 @@ Sobald die Baubeschreibung nicht datiert, nicht mitbeurkundet, nur pauschal refe
 ## Pruefraster
 
 1. **Datierung und Version**: Hat die Baubeschreibung ein Datum, eine Versionsnummer und eine Seitenzahl? Fehlt das, ist die Einbeziehung nicht eindeutig.
-2. **Mitbeurkundung oder Bezugsurkunde**: Ist die Baubeschreibung Bestandteil der Urkunde oder über Paragraf 13a BeurkG sauber einbezogen? Lose Übergabe bei Besichtigung genügt nicht.
+2. **Mitbeurkundung oder Bezugsurkunde**: Ist die Baubeschreibung Bestandteil der Urkunde oder über Paragraf 13c BeurkG sauber einbezogen? Lose Übergabe bei Besichtigung genügt nicht.
 3. **Wohnfläche**: Berechnungsgrundlage (WoFlV oder DIN 277) angegeben? Toleranzgrenze und Raumliste vorhanden?
 4. **Energiestandard**: Konkrete KfW- oder Effizienzhaus-Klasse angegeben, nicht nur „gesetzlicher Mindeststandard"?
 5. **Bauweise und Technik**: Tragwerk, Fassade, Dach, Dämmung, Schallschutz, Heizung, Lüftung spezifiziert oder nur pauschal benannt?

@@ -3,41 +3,20 @@ name: zeugnisart-erkennung
 description: "Für Zeugnisart-Erkennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
-# Zeugnisart-Erkennung
+# Zeugnisart und geschuldeten Inhalt bestimmen
 
-Die [Arbeitsmodi und Auslegungsmaßstab](../../references/arbeitszeugnis-auslegung-und-arbeitsmodi.md) gelten für diese Vertiefung. Die untenstehenden Wortlisten, Farben und Muster sind nur Prüfmaterial: keine feste Wort-Noten-Skala, keine Diagnose von Fehlverhalten, keine rechnerische Gesamtnote und kein Anspruch allein wegen einer fehlenden Schlussformel. Lies den Gesamttext und liefere nach Klärung entscheidender Tatsachen das bestellte Ergebnis; starre Fragezahlen und aus dem Wortlaut erfundene Tatsachen werden nicht verwendet.
+## 1. Aus den Unterlagen entscheiden
 
-## Fachlicher Anker
+Kläre Rechtsverhältnis und Zeitraum, ob das Zeugnis während oder nach der Tätigkeit ausgestellt wurde und was die Person verlangt hat. Nutze vorhandenen Vertrag, Zeugniswortlaut, Verlangen oder Vergleich. Überschrift, Zeitform oder fehlende Verabschiedung allein entscheiden den Fall nicht. Die [Arbeitsmodi und Auslegungsmaßstab](../../references/arbeitszeugnis-auslegung-und-arbeitsmodi.md) bestimmen den weiteren Arbeitsumfang.
 
-- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+| Konstellation | Inhalt und nächster Prüfschritt |
+| --- | --- |
+| Einfaches Arbeitszeugnis | Art und Dauer der Tätigkeit prüfen. Bei fehlender Leistungsbewertung klären, ob ein qualifiziertes Zeugnis verlangt wurde. [Paragraf 109 Abs. 1 GewO](https://www.gesetze-im-internet.de/gewo/__109.html). |
+| Qualifiziertes Arbeitszeugnis | Auch Leistung und Verhalten prüfen. Eine Dankes- und Wunschformel gehört grundsätzlich nicht zum gesetzlichen Mindestinhalt. Eine frühere Formel oder vertragliche Zusage gesondert prüfen. [BAG, Urteil vom 25.01.2022 – 9 AZR 146/21, Rn. 12–21](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/). |
+| Zwischenzeugnis | Fortbestehen des Arbeitsverhältnisses und tarifliche Regelung oder triftigen Anlass prüfen. Ein plausibel erklärter interner oder externer Bewerbungswunsch genügte im Kölner Fall. Die Revision wurde zugelassen. [LAG Köln, Urteil vom 04.03.2026 – 5 SLa 495/25, Rn. 30–42](https://nrwe.justiz.nrw.de/arbgs/koeln/lag_koeln/j2026/5_SLa_495_25_Urteil_20260304.html). |
+| Betriebliches Ausbildungszeugnis | Art, Dauer, Ziel und erworbene berufliche Fertigkeiten, Kenntnisse und Fähigkeiten sind Pflichtinhalt. Leistung und Verhalten kommen auf Verlangen hinzu. [Paragraf 16 BBiG](https://www.gesetze-im-internet.de/bbig_2005/__16.html). |
+| Sonstiges dauerndes Dienstverhältnis | Rechtsstatus feststellen. Der Dienstverpflichtete kann bei Beendigung das Zeugnis und auf Verlangen Aussagen über Leistungen und Führung beanspruchen. Bei Arbeitnehmern gilt Paragraf 109 GewO. [Paragraf 630 BGB](https://www.gesetze-im-internet.de/bgb/__630.html). |
 
-## Geheimcode-Regeln
+## 2. Sonderlagen weiterbearbeiten
 
-| Zeugnisart | Mindest- und Erwartungsbausteine | Fehlende Bausteine |
-|---|---|---|
-| Einfaches Zeugnis | Art und Dauer der Tätigkeit | Keine Leistungsaussage erwartet |
-| Qualifiziertes Endzeugnis | Art, Dauer, Leistung, Verhalten, Schlussformel | Rotes Signal |
-| Zwischenzeugnis | Art, Dauer, Leistung, Verhalten (Präsens) | Kein Enddatum, keine Verabschiedung OK |
-| Ausbildungszeugnis | Lernleistung, Berufsschule, Verhalten, Praxis | Nach BBiG-Maßstab |
-| Führungskraft (qualifiziert) | Plus Führung, Strategie, Repräsentation | Fehlen = Orange/Rot |
-
-## Beispiele
-
-**Beispiel 1 – Korrekte Zeugnisart-Erkennung:** "Wir stellen dieses Zeugnis auf eigenen Wunsch aus" + kein Enddatum → Zwischenzeugnis auf Wunsch des Arbeitnehmers.
-
-**Beispiel 2 – Einfaches Zeugnis korrekt interpretiert:** Zeugnis ohne jede Leistungsbeurteilung und ohne Verhaltensabschnitt, aber mit explizitem Hinweis "einfaches Zeugnis" oder keine Bewertungsformulierungen — nicht als Abwertung zu lesen.
-
-**Beispiel 3 – Fehlendes Verhalten bei Endzeugnis (Orange):** Qualifiziertes Zeugnis mit Leistungsbeurteilung, aber ohne Verhaltensabschnitt gegenüber Kollegen/Kunden — Auslassung ist auffällig.
-
-**Beispiel 4 – Ausbildungszeugnis ohne Berufsschulangabe (Orange):** Bei einem BBiG-Zeugnis fehlt die Beurteilung des schulischen Teils komplett, obwohl Schule und Betrieb im Sachverhalt eine tragende Rolle spielen — erwarteter Baustein fehlt.
-
-## Rechtliche Einordnung und Normen
-
-- **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
-- **Paragraf 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
-
-## Aktuelle Rechtsprechung
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein gerichtlicher Vergleich konkretisiert den Anspruch. Notenabrede, feste Formulierung und gebundenes Entwurfsrecht jeweils anhand des Wortlauts prüfen. Bei einer Führungskraft gehören tatsächliche Zuständigkeit, Berichtslinie und Befugnisse in die Tätigkeitsprüfung. Nach Ende der Ausbildung mit anschließender Übernahme können zwei Zeugnisansprüche für verschiedene Zeiträume bestehen. Bei unklarem Zeitraum nur den davon abhängigen Befund zurückstellen. Anschließend die konkrete Beanstandung und passende Abhilfe im bestellten Dokument ausarbeiten.

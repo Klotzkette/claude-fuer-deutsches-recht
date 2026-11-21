@@ -20,9 +20,9 @@ Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bere
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Geschuldeten Zeugnistyp bestimmen
 
-Zeugnisart, Anspruch, äußere Form, Tätigkeitsdarstellung und Anlass des Zeugnisses klären.
+Unterscheide Beschäftigung, Berufsausbildung und sonstiges dauerndes Dienstverhältnis. Untersuche bei einer Übernahme nach der Ausbildung beide Zeiträume. Prüfe bei einer Zwischenfassung den konkreten Anlass. Ermittle anschließend den Pflichtinhalt und ob Leistung und Verhalten verlangt wurden. Fehlende Schulnoten tragen beim Ausbildungszeugnis keinen Mangel. Bei Signatur- oder Datumsfragen erfasse Original, Zugangsweg und Vorfassungen.
 
 ### 3.2. Arbeitsschritt
 

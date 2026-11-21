@@ -18,7 +18,7 @@ Dieser Skill prüft, ob der Verbraucher die gesetzliche Fertigstellungssicherhei
 - Ist die Sicherheit als echter Einbehalt oder taugliche Bürgschaft ausgestaltet?
 - Wird sie automatisch gewährt oder muss der Käufer sie so kompliziert „wählen“, dass sie praktisch verloren geht?
 - Werden Kosten der Sicherheit dem Verbraucher aufgebürdet?
-- Ist der Sicherungszweck auf mangelfreie Fertigstellung und Fertigstellungsschäden zugeschnitten?
+- Deckt die Sicherheit die rechtzeitige Herstellung ohne wesentliche Mängel gemäß § 650m Abs. 2 BGB?
 - Wird § 650m mit § 7 MaBV vermischt, sodass weder Einbehalt noch Rückzahlungsbürgschaft sauber greifen?
 - Enthält die Klausel einen Verzicht oder eine geringere Höhe als 5 %?
 
