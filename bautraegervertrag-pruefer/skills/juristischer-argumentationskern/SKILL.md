@@ -5,6 +5,8 @@ description: "Schaltet sich ein, wenn in Bauträgervertrag Prüfer ein juristisc
 
 # Juristischer Argumentationskern - Bauträgervertrag Prüfer
 
+Übernimm die bereits belegte Vertragsart. Beim Direkteinstieg zuerst anhand der Grundstücks- und Leistungsklauseln das [Vertragsmodell und sein Prüfprogramm](../bautraegerpruefung-steuern/SKILL.md#vertragstyp-und-prüfprogramm) bestimmen. Ist ein entscheidendes Merkmal offen, frage danach und setze die davon abhängige Prüfung nach der Antwort fort.
+
 ## 1. Direktstart
 
 Identifiziere zuerst den betroffenen Erwerb anhand von Parteien, Einheit, Urkundennummer, Nachträgen und maßgeblicher Fassung. Belege aus den Klauseln, wer die Bauleistung und wer die Eigentums- oder Erbbaurechtsverschaffung schuldet. Bei getrenntem Grundstücks- und Bauvertrag prüfe die Verbindung gesondert. Stelle erst auf dieser Grundlage aus Sicht der vertretenen Partei das einzelne Risiko dar und formuliere die benötigte Vertragsänderung.

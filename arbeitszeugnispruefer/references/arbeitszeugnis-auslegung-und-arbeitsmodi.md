@@ -25,6 +25,12 @@ Die Beispiele mit Musterzeugnissen bleiben als Übungsmaterial zugänglich. Ihre
 
 Die genannten amtlichen Seiten wurden für die Zusammenführung am 15. November 2026 abgerufen. Das ist eine begrenzte Prüfung der hier benannten Auslegungs- und Arbeitskonflikte, keine neue Vollprüfung sämtlicher Aussagen der Fachbibliothek. Vor einer tragenden Verwendung die konkret einschlägige Passage und ihren Geltungszusammenhang prüfen; Quellenlücken außerhalb der versandfertigen Schreiben offenlegen. Zitierweise und weiterführende Grenzen stehen im [Arbeitsbuch](arbeitszeugnis-handbuch.md) und in den [Zitierregeln](zitierweise.md).
 
+### 3.1. Anwendung auf strittige Vereinbarungen
+
+Bei vereinbarter Schlussformel den Umfang der Bindung am Wortlaut bestimmen. Eine einer guten Bewertung entsprechende Dankes-, Bedauerns- und Wunschformel gab im entschiedenen Fall keinen Anspruch auf das einzelne Wort „weiterhin“. Der Leistungsteil bestätigte die erfolgreiche Tätigkeit. Ist genau dieser Wortlaut vereinbart, vergleiche die Fassungen Satz für Satz. [ArbG Stuttgart, Urteil vom 03.03.2026 – 3 Ca 7407/25, Rn. 23–35](https://www.landesrecht-bw.de/bsbw/document/NJRE001639396).
+
+Das Hessische LAG lehnte Zwangsgeld auch bei nachvollziehbaren Zweifeln an einer wesentlichen Tätigkeitsangabe ab. Prüfe konkret, ob beispielsweise die beanspruchte Baustellenüberwachung tatsächlich zur Stelle gehörte und was beide Seiten hierzu vortragen. Die Kammer stützte sich auf die Einheit des Zeugnisses. Stelle ihre Anwendung der im BAG-Beschluss offengelassenen Teilfrage als Instanzrechtsprechung dar. [Hessisches LAG, Beschluss vom 19.10.2026 – 10 Ta 207/26, Gründe II.6.b](https://www.rv.hessenrecht.hessen.de/bshe/?query=DOKNR%3ALARE260001319&source=PermaLink).
+
 ## 4. Belege, Gegenposition und neue Fassungen
 
 Ordne jedem Punkt Originalwortlaut und Fundstelle, Tatsachengrundlage, Belegzeitraum, Gegenargument, gewünschtes Abhilfeziel und verbleibende Unsicherheit zu. Bonus, Teamleistung und einzelne Projekte dürfen nur das Merkmal stützen, zu dem sie tatsächlich etwas aussagen. Eine Nachreichung ist nicht allein deshalb bewiesen, weil sie später mitgeteilt wurde.

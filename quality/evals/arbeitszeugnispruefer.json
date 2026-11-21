@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "arbeitszeugnispruefer",
-  "reviewed_on": "2026-09-30",
+  "reviewed_on": "2026-11-21",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
@@ -126,55 +126,56 @@
       "verification_status": "wiederverwendeter_auditnachweis",
       "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnis-analyse:BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B)",
       "source_sha256": "d1d749033be04b503b5d91fd083199bbea3d14d0e447ebf0890bf1eb165ba4f2"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
+      "checked_on": "2026-11-21",
+      "supports": "Qualifiziertes/einfaches Zeugnis und elektronische Erteilung mit Einwilligung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__126a.html",
+      "checked_on": "2026-11-21",
+      "supports": "Elektronischer Formersatz setzt Namensangabe und qualifizierte elektronische Signatur voraus."
+    },
+    {
+      "url": "https://www.landesrecht-bw.de/bsbw/document/NJRE001639396",
+      "checked_on": "2026-11-21",
+      "supports": "ArbG Stuttgart, 03.03.2026 – 3 Ca 7407/25, Rn. 23–35. Reichweite einer vertraglichen Wunschformel anhand von Vergleichstext und Leistungsteil prüfen. Erstinstanzliche Auslegung. Eine ausdrücklich wortgenau geschuldete Formulierung ist eigenständig zu prüfen."
+    },
+    {
+      "url": "https://www.rv.hessenrecht.hessen.de/bshe/?query=DOKNR%3ALARE260001319&source=PermaLink",
+      "checked_on": "2026-11-21",
+      "supports": "Hessisches LAG, 19.10.2026 – 10 Ta 207/26, Gründe II.5, II.6.b. Prüft beim einheitlichen Antrag auf Übernahme des Gesamtentwurfs, ob ein sachlich nachvollziehbarer Wahrheitseinwand einen wesentlichen Abschnitt betrifft. Landesgerichtliche Anwendung. Der BAG-Beschluss 8 AZB 25/25 hat die Teilfrage offengelassen."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/",
+      "checked_on": "2026-11-21",
+      "supports": "BAG, 07.05.2026 – 8 AZB 25/25, Rn. 12–22. Feststehender Entwurf im Titel und wichtige Abweichungsgründe. Ein substantiierter Wahrheitseinwand kann den beantragten Zwang ausschließen. Eine pauschale Ablehnung genügt nicht. Die Unwahrheit muss im Vollstreckungsverfahren nicht bereits bewiesen sein."
     }
   ],
   "mini_review": {
-    "sha256": "624fa59204c00a730d6a5f333501bc9cdee7a5a7744df38e97d076adad486f9b",
+    "sha256": "0f0cd06dce8013bb976ad72fe5f148f64a27cf14b21aab2343f9fbc725de4620",
     "verdict": "revised",
-    "reason": "Erneut fachlich verfeinert: zeitlich und sachlich begrenzte Belege, zweistufige Notenkorrektur, differenzierter Zeugnisinhalt und Erteilungsverlangen, Ersatzvorschlag statt unbegründeter Wortlautbindung, vollständige Korrekturkontrolle und konsistente Briefe. Redaktionelle Anschlussprüfung 16.10.2026: Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "reason": "Gebundene Entwurfsfassung, konkret begründeter Wahrheitseinwand und Anspruch auf einen bestimmten Schlusswortlaut führen zu unterschiedlichen materiellen und prozessualen Ergebnissen. Form und gesonderte Ausbildungszeugnisinhalte bleiben getrennte Prüfpfade.",
     "changes": [
-      "Interaktiver Chat als Standard mit Warten auf echte Antworten und weiteren Fragerunden bei entscheidenden Restlücken oder neuen Widersprüchen.",
-      "Vollständiger Arbeitnehmerauftrag umfasst ausführliche Analyse, Ersatzsätze, ein Mandantenschreiben mit Zielumfang 120 bis 180 Wörter und das fachlich angezeigte Arbeitgeberschreiben.",
-      "Explizit nichtinteraktive Bearbeitung arbeitet mit Platzhaltern oder bedingten Varianten und erfindet keine Antworten.",
-      "Kein Arbeitgeberschreiben bei mangelfreiem Zeugnis ohne wirklichen Verhandlungswunsch; Arbeitgeber- und Teilaufträge bleiben eigene Zweige.",
-      "Dateiaktivierung ohne Startformel; Teilantwort und unbekannter Beleg ohne Endlosschleife; Folgeprüfung nach Arbeitgeberantwort und Korrektur.",
-      "Ausgangs- und Zielnote vor der Beweisfrage trennen: Arbeitgeberlast bei unterdurchschnittlicher Bewertung; fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte.",
-      "Belegreichweite nach Zeitraum, persönlichem Anteil und Bewertungsmerkmal; getrennte Abwehr einer Abwertung und weitergehende Aufwertung.",
-      "Abhilfeziel und Formulierungsvorschlag getrennt; gleichwertige Korrektur und tatsächlich erteiltes Zeugnis kontrollieren.",
-      "Einfaches Zeugnis, Ausbildungszeugnis und verweigerte Erteilung fallbezogen unterscheiden.",
-      "Gleichartige Befunde bündeln und Analyse, Ersatztext sowie Empfängerbriefe auf identische Tatsachen und Begehren abgleichen.",
-      "16.10.2026: Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen."
+      "Vertragliche Wunschformel aus Vergleich und Leistungsteil auslegen.",
+      "Substantiierte Wahrheitseinwände von Geschmacksfragen unterscheiden.",
+      "Ausbildungszeugnis, Form und Leistungsaussage getrennt prüfen."
     ],
-    "reviewed_on": "2026-10-16",
-    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+    "reviewed_on": "2026-11-21",
+    "latest_editorial_scope": "Gezielte Nachprüfung der geänderten Aussagen und Eingangswege. Modellstichproben mit eigenständigen Anfragen sind im datierten Prüfprotokoll beschrieben."
   },
   "workshop_review": {
-    "sha256": "413f900e0df980989165e83241ec98c12879475c9212fa9a3a901b8d06cce79a",
+    "sha256": "0f033a88e753555e4ba1dcc7280d2fc9f83e4e274b83940412c3723b94ad6e36",
     "verdict": "revised",
-    "reason": "Redaktionelle Anschlussprüfung der Zusammenführung: begrenzter Analyse-/Fassungsvergleichsauftrag ausdrücklich von vollständiger Arbeitnehmerberatung getrennt; weitere Kontext- und Beleggrenzen aufgenommen. Der bisherige Hauptteil einschließlich eingebettetem Arbeitsbuch bleibt bytegleich. Keine erneute Gesamtprüfung und kein Live-Modelltest.",
+    "reason": "Gebundene Entwurfsfassung, konkret begründeter Wahrheitseinwand und Anspruch auf einen bestimmten Schlusswortlaut führen zu unterschiedlichen materiellen und prozessualen Ergebnissen. Form und gesonderte Ausbildungszeugnisinhalte bleiben getrennte Prüfpfade.",
     "changes": [
-      "Materielle Rückfragen führen zu echtem Warten; gesicherte Teile dürfen vorläufig bleiben, endgültige Empfängerschreiben folgen nach der Antwort.",
-      "Streitstellenmatrix verbindet Originaltext, Wirkung, Beleg, Rechtsregel, Ersatzfassung, Gegenposition und Risiko.",
-      "Mandantenschreiben in einfacher Sie-Sprache von der ausführlichen Analyse getrennt; Arbeitgeberschreiben nach objektivem Anspruch, Beweisrisiko oder Verhandlungswunsch abgestuft.",
-      "BAG-Anker zu Zwischenzeugnis, Beweislast, Klarheit, Tabellenform, Schlussformel, Maßregelung und Titelbestimmtheit mit ausdrücklichen Grenzen integriert.",
-      "Zehn fallbezogene Fragepfade mit benötigtem Beleg und konkreter Folgeentscheidung; kein pauschaler Fragebogen.",
-      "Rechtsprechung als Maßstab, Rückfrage und Subsumtion; 8 AZB 25/25 gegen 9 AZB 49/16 abgegrenzt.",
-      "Abschließende Kontrolle neuer Fassungen auf Änderungen außerhalb der beanstandeten Stellen.",
-      "Ausgangs- und Zielnote vor der Beweisfrage trennen: Arbeitgeberlast bei unterdurchschnittlicher Bewertung; fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte.",
-      "Aktuellen Dialogstand mit Vorausverzicht, internationaler Anknüpfung und offener Teilvollstreckung zusammengeführt; beide zusätzlichen Verfahrensfälle bleiben erhalten.",
-      "Belegreichweite nach Zeitraum, persönlichem Anteil und Bewertungsmerkmal; getrennte Abwehr einer Abwertung und weitergehende Aufwertung.",
-      "Abhilfeziel und Formulierungsvorschlag getrennt; gleichwertige Korrektur und tatsächlich erteiltes Zeugnis kontrollieren.",
-      "Einfaches Zeugnis, Ausbildungszeugnis und verweigerte Erteilung fallbezogen unterscheiden.",
-      "Gleichartige Befunde bündeln und Analyse, Ersatztext sowie Empfängerbriefe auf identische Tatsachen und Begehren abgleichen.",
-      "Datierung und Unterzeichnerrang mit transparent bezeichneten Altquellen; Zwischenzeugnisbindung nach Betriebsübergang und Übernahme eines Arbeitnehmerentwurfs.",
-      "Fundstellen zum Maßregelungsmotiv präzisiert; 2026er Vollstreckungsentscheidung unterscheidet nachvollziehbaren Vortrag und Beweis; Teilvollstreckung bleibt offen.",
-      "Am 08.10.2026 redaktionell geprüft: verständlicher Einstieg, vollständige Handbuchkapitel 20 bis 23 mit differenzierten Entscheidungsbefunden, Quellenstatus und eigenen Anwendungen; Verfahrensausgang 9 AZR 12/03 nach unabhängigem Gegencheck berichtigt.",
-      "Word-Anweisungen trennen Markierung, Volltext, Original, Arbeitskopie und bestätigte Bearbeitungsfunktionen. Die dokumentierten Dialogproben des großen Einzeldatei-Skills verwenden dasselbe Handbuch; kein Live-Word-Test und kein pauschales Bestehen der 19 redaktionellen Prüffälle behauptet.",
-      "16.10.2026: Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen.",
-      "15.11.2026: Abschnitt 1.1 präzisiert begrenzte Analyse, Fassungsvergleich, Belegreichweite und Darstellung ohne automatische Briefe oder Rechennoten; eingebetteter Handbuchblock unverändert."
+      "Vertragliche Wunschformel aus Vergleich und Leistungsteil auslegen.",
+      "Substantiierte Wahrheitseinwände von Geschmacksfragen unterscheiden.",
+      "Ausbildungszeugnis, Form und Leistungsaussage getrennt prüfen."
     ],
-    "reviewed_on": "2026-11-15",
-    "latest_editorial_scope": "Desk-Review des eingefügten Abschnitts 1.1, der acht auswählbaren Arbeitswege und der gemeinsamen Anwendungsvorgaben. Regressionen der ursprünglichen 31 Fachtexte bleiben gesondert bestehen; 48 Analyse-Vertiefungen sind vollständig zugeordnet. Der Dateihash bindet die ganze Werkstatt, bestätigt aber keine neue juristische Vollprüfung des Hauptteils."
+    "reviewed_on": "2026-11-21",
+    "latest_editorial_scope": "Gezielte Nachprüfung der geänderten Aussagen und Eingangswege. Modellstichproben mit eigenständigen Anfragen sind im datierten Prüfprotokoll beschrieben."
   },
   "selection": {
     "positive": [
@@ -950,10 +951,234 @@
         }
       ],
       "target_skill": "formulierungen-klarheit-schluss-bearbeiten"
+    },
+    {
+      "id": "pdf-ohne-einwilligung",
+      "target_skill": "einstieg-routing",
+      "request": "Am 30.09.2026 endete mein Arbeitsverhältnis. HR hat das qualifizierte Endzeugnis nur als eingescannten, handschriftlich unterschriebenen Brief per E-Mail versandt. Ich habe einer elektronischen Erteilung nie zugestimmt. Nur die Form ist streitig. Was fordere ich?",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft § 109 Abs. 3 GewO und § 126a BGB. Klärt für eine wirksame elektronische Erteilung sowohl Einwilligung als auch qualifizierte elektronische Signatur.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet Scan und qualifizierte elektronische Signatur, benennt die schriftliche Erteilung als hier geschuldete Abhilfe und eröffnet ohne Anlass keinen Notenstreit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Beschränkt die Abhilfe auf die Form und fordert das eigenhändig unterschriebene Papieroriginal an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zeugenbeleg-nachgereicht",
+      "target_skill": "einstieg-routing",
+      "request": "Zuerst schrieb ich, dass ich „zur vollen Zufriedenheit“ für meine gesamte Beschäftigung 2021–2026 in „stets zur vollen Zufriedenheit“ ändern lassen möchte. Auf Ihre Rückfrage kann ich ein Zwischenzeugnis von Ende 2023 mit „stets zur vollen Zufriedenheit“ und einer vom Betrieb bestätigten Zielerreichung für 2025 von 116 Prozent vorlegen. 2024 war meine Tätigkeit eine andere, für dieses Jahr und für 2026 habe ich keine Beurteilung. Nur eine kurze Einschätzung zum Beweis und zur Formulierung bitte.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Würdigt Zwischenzeugnis und Zielbestätigung mit ihrem Zeit-/Aufgabenbezug, benennt offene Abschnitte und würdigt möglichen Einfluss der geänderten Tätigkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erläutert Darlegung und Beweis für die überdurchschnittliche Note und leitet aus einer einzelnen Zielzahl keine gesicherte Gesamtbewertung über alle sechs Jahre ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bietet einen konkreten, mit den vorgelegten Belegen vereinbaren Änderungswunsch an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schlussformel-reaktion-auf-ruege",
+      "target_skill": "einstieg-routing",
+      "request": "Im ersten unterschriebenen Endzeugnis bedankte sich mein Arbeitgeber für die Arbeit und wünschte alles Gute. Nach meiner berechtigten Bitte, das falsche Eintrittsdatum zu berichtigen, korrigierte er das Datum und strich beides. Seine E-Mail lautet: „Wenn Sie mich wegen so etwas bemühen, bekommen Sie auch keinen Dank.“ Nur diesen Punkt bitte prüfen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet die erstmalige Erteilung einer Schlussformel von deren Streichung als mögliche Reaktion auf zulässige Rechtsausübung (§ 612a BGB).",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Wertet Original, Zweitfassung und E-Mail als konkrete Kausalitätsbelege für die beanstandete Verschlechterung. Kein allgemeiner Anspruch auf jede Wunschformulierung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Gibt der Arbeitnehmerin oder dem Arbeitnehmer einen konkret belegten Antrag auf Wiederaufnahme der ursprünglichen Formel und vermeidet erfundene Leistungs- oder Verhaltensbewertungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vergleich-wunschformel-weiterhin",
+      "target_skill": "einstieg-routing",
+      "request": "Unser gerichtlicher Vergleich verspricht ein gutes Zeugnis mit der Note entsprechender Bedauerns-, Dankes- und Wunschformel. Der Leistungsteil bescheinigt eine erfolgreiche Tätigkeit. Am Schluss steht „Wir bedauern ihr Ausscheiden, danken ihr und wünschen ihr viel Erfolg.“ Ich verlange „weiterhin viel Erfolg“. Eine andere Wortlautabrede gibt es nicht. Ist das durchsetzbar?",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt die vertraglich geschuldete Schlussformel von einem Anspruch auf ein bestimmtes Wort. Würdigt den Leistungsteil und den Wortlaut des Vergleichs.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet ArbG Stuttgart, 3 Ca 7407/25, als fallbezogene erstinstanzliche Auslegung ein. Kein automatischer Erfolg für das Begehren und kein Wegdenken ausdrücklich formulierter Verpflichtungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft die tatsächliche Schlussformel auf alle im Vergleich vereinbarten Bestandteile (Bedauern, Dank, Wunsch).",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vergleich-entwurf-wahrheitseinwand",
+      "target_skill": "einstieg-routing",
+      "request": "Unser Prozessvergleich erlaubt mir den Entwurf des Zeugnisses. Der Arbeitgeber darf nur aus wichtigem Grund abweichen. Mein identifizierbarer Entwurf nennt die alleinige Abteilungsleitung als wesentlichen Tätigkeitsschwerpunkt. Der Arbeitgeber benennt die stattdessen zuständige Führungskraft, den Organisationsplan und meinen tatsächlich anderen Aufgabenkreis. Andere kleinere Änderungen begründet er nur mit „gefällt mir so besser“. Kann ich die wortgleiche Übernahme des gesamten Entwurfs per Zwangsgeld erzwingen?",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet die Entwurfsbindung als grundsätzlich vollstreckbar ein. Trennt den substantiierten Wahrheitseinwand zum wesentlichen Punkt von pauschalem Stilmissfallen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Grenzt die offene Teilfrage des BAG 8 AZB 25/25 von der konkreten Anwendung des Hessischen LAG 10 Ta 207/26 auf das Gesamtzeugnis ab. Erfindet keine Beweislast für bereits abschließend nachzuweisende Unwahrheit und keine sichere Zwangsgeldfestsetzung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Zeigt auf, für welche streitige Tätigkeitsangabe gegebenenfalls ein gesondertes Erkenntnisverfahren erforderlich ist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ausbildungszeugnis-einfach",
+      "target_skill": "einstieg-routing",
+      "request": "Ich habe meine Berufsausbildung abgeschlossen. Mein Betrieb nennt im Ausbildungszeugnis Art, Dauer und Ziel der Ausbildung sowie die erworbenen Fertigkeiten, Kenntnisse und Fähigkeiten. Ich habe keine Bewertung verlangt. Meine Schulnoten, mein Verhalten und die angebliche Gesamtnote fehlen. Ist der Inhalt deshalb mangelhaft?",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft § 16 BBiG und den gesetzlichen Inhalt des Ausbildungszeugnisses.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet die Angaben zu Verhalten und Leistung auf Verlangen von Prüfungs- oder Schulnoten. Bestätigt anhand dieses Befunds keinen inhaltlichen Mangel.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Nennt, wodurch ergänzende Angaben zu Leistung und Verhalten bei Bedarf verlangt werden können.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zeugnis-formnachweis-start",
+      "target_skill": "einstieg-routing",
+      "request": "Im Oktober 2026 bekam ich vom Arbeitgeber ein PDF mit meinem qualifizierten Arbeitszeugnis. Es sieht unterschrieben aus. Eine Beurteilung des Inhalts ist nicht gewünscht. Ist die Form wirksam? Ich kann Einzelheiten nachreichen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erfragt Einwilligung zur elektronischen Form und technischen Signaturstatus des elektronischen Originals. Unterscheidet erkennbares Schriftbild und qualifizierte elektronische Signatur.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Hält die förmliche Beurteilung bis zur Klärung offen. Fragt keine leistungsbezogenen Angaben ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erläutert, dass ein solches PDF neben einer sichtbaren Unterschrift eine technisch prüfbare Signatur enthalten kann; der sichtbare Scan allein belegt diese nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
     }
   ],
   "prompt_workflow_review": {
-    "date": "2026-09-28",
+    "date": "2026-11-21",
     "method": "desk_review",
     "opening_modes": [
       "Einzeldatei oder kopierter Prompt: beginnt ohne Startformel und Plugin; fehlt das Zeugnis, nach vollständiger Fassung und Prüfziel fragen, keine Promptzusammenfassung.",
@@ -962,18 +1187,18 @@
       "Reine Teilfrage oder Arbeitgeberseite: nur den passenden fachlichen Zweig und dessen Ergebnisse liefern."
     ],
     "continuation": "Teilantworten übernehmen; bei Restlücken und Widersprüchen weiterfragen, unbeschaffbare Belege als Erkenntnisgrenze behandeln. Nach Arbeitgeberantwort und Neufassung gezielt fortsetzen und nötige Folgeschreiben ausarbeiten.",
-    "enrichment": "Konkrete Tatsachen- und Beweisinterviews, Rechtsprechungsreichweite und Gegenargumente, eigenständiger Quellenfallback, kurze Mandantenkommunikation und vollständige Korrekturkontrolle.",
-    "limits": "Redaktionelle und quellenbezogene Prüfung; unabhängiger Forward-Test wird getrennt protokolliert und nicht durch dieses Profil vorweggenommen."
+    "enrichment": "Zeugnisart, Verpflichtung aus Vergleich, konkrete Entwurfsfassung, gerügter Absatz und Beleglage steuern die Durchsetzbarkeit der Änderung.",
+    "limits": "Die redaktionelle Prüfung erfasst die geänderten Einstiege. Das gesonderte Modellprotokoll nennt die geprüften Fälle und seine Grenzen."
   },
   "prompt_editorial_review": {
-    "date": "2026-09-28",
+    "date": "2026-11-21",
     "files": [
       "arbeitszeugnispruefer/README.md",
       "arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md",
       "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
       "quality/evals/arbeitszeugnispruefer.json"
     ],
-    "opening_change": "Interaktiver vollständiger Arbeitnehmerauftrag statt Auswahlmenü oder automatischem Einmalauftrag",
+    "opening_change": "Gebundene Entwurfsfassung, konkret begründeter Wahrheitseinwand und Anspruch auf einen bestimmten Schlusswortlaut führen zu unterschiedlichen materiellen und prozessualen Ergebnissen. Form und gesonderte Ausbildungszeugnisinhalte bleiben getrennte Prüfpfade.",
     "norms": [
       "Paragraf 109 GewO",
       "Paragraf 126a BGB",
@@ -1060,6 +1285,18 @@
         "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnis-analyse:BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B)",
         "passages_read": "Volltext Rn. 49 bis 61; kollisionsrechtlich Altvertrag nach Artikel 30 EGBGB.",
         "evidence_sha256": "d1d749033be04b503b5d91fd083199bbea3d14d0e447ebf0890bf1eb165ba4f2"
+      },
+      {
+        "url": "https://www.landesrecht-bw.de/bsbw/document/NJRE001639396",
+        "citation": "ArbG Stuttgart, 03.03.2026 – 3 Ca 7407/25, Rn. 23–35",
+        "application": "Reichweite einer vertraglichen Wunschformel anhand von Vergleichstext und Leistungsteil prüfen.",
+        "limit": "Erstinstanzliche Auslegung. Eine ausdrücklich wortgenau geschuldete Formulierung ist eigenständig zu prüfen."
+      },
+      {
+        "url": "https://www.rv.hessenrecht.hessen.de/bshe/?query=DOKNR%3ALARE260001319&source=PermaLink",
+        "citation": "Hessisches LAG, 19.10.2026 – 10 Ta 207/26, Gründe II.5, II.6.b",
+        "application": "Prüft beim einheitlichen Antrag auf Übernahme des Gesamtentwurfs, ob ein sachlich nachvollziehbarer Wahrheitseinwand einen wesentlichen Abschnitt betrifft.",
+        "limit": "Landesgerichtliche Anwendung. Der BAG-Beschluss 8 AZB 25/25 hat die Teilfrage offengelassen."
       }
     ],
     "remaining_limits": [
@@ -1125,15 +1362,15 @@
     "pending_prior_changes": []
   },
   "reviewed_file_hashes": {
-    "arbeitszeugnispruefer/skills/berichtigung-anspruch-verfahren-bearbeiten/SKILL.md": "d0c99b33ab449502a79312791240440e1da34b81a3a72fd46d934e50942bab37",
-    "arbeitszeugnispruefer/skills/einstieg-routing/SKILL.md": "80cdb1a81b160f7003345730faec15ede815ff8ae64ad8ac3ec64386b169dbbd",
-    "arbeitszeugnispruefer/skills/formulierungen-klarheit-schluss-bearbeiten/SKILL.md": "a5bc30fff1f3d924f8b968042bbe496c683a922dfbe1bdb4aa4a624c783ad3d5",
+    "arbeitszeugnispruefer/skills/berichtigung-anspruch-verfahren-bearbeiten/SKILL.md": "bde6ec4b019a773a41db8ff33648a679528342b5d7241a42f58a2dd5532bb42e",
+    "arbeitszeugnispruefer/skills/einstieg-routing/SKILL.md": "5439ab7aea9f889b2fd87532e1aa8d02f3a2dc75627767c3ad38b5204083c89e",
+    "arbeitszeugnispruefer/skills/formulierungen-klarheit-schluss-bearbeiten/SKILL.md": "6eacd45eec3b72682beb1f5daad880eea7674edf17ca6c0392214f56078a9681",
     "arbeitszeugnispruefer/skills/juristischer-argumentationskern/SKILL.md": "5bafba0fe1379d7664a0ad40d65ec4ef0b83a7190148cf5ce7f8fa4c883e13c7",
-    "arbeitszeugnispruefer/skills/kaltstart-triage/SKILL.md": "bf96824b6db1281a390a00e7b30dd6d928d991c1902850b4712ceeb3bbe1b0d2",
+    "arbeitszeugnispruefer/skills/kaltstart-triage/SKILL.md": "f5a9faaaf670bf0394d7396be4cbb06e9baf1d21c1fbde729e5e8932df892c99",
     "arbeitszeugnispruefer/skills/leistung-verhalten-noten-bearbeiten/SKILL.md": "7885ff32642c407e2b6d4fbf98ad273f1a40ebd069b86f2eb545f102ae4f6a07",
-    "arbeitszeugnispruefer/skills/zeugnisauftrag-form-taetigkeit-bearbeiten/SKILL.md": "b2020c773fca94438c79458873fc5c2ef79c5432326da9d21f446ecd7f8820e5",
+    "arbeitszeugnispruefer/skills/zeugnisauftrag-form-taetigkeit-bearbeiten/SKILL.md": "49b547046d816179359faaf1dd49b3da92338341a6f2d079de9239a264a6d987",
     "arbeitszeugnispruefer/skills/zeugnisbericht-muster-qualitaet-bearbeiten/SKILL.md": "ce7d76e7a8f3ffbd533dda9e5c1cc19c8a8e33e4ef43688732aefdfe48289db3",
-    "arbeitszeugnispruefer/references/arbeitszeugnis-auslegung-und-arbeitsmodi.md": "52ad2c2b797b0816bfa3c5bb952e137e4df8d8344fd9269cb890f40f2e9fcbac"
+    "arbeitszeugnispruefer/references/arbeitszeugnis-auslegung-und-arbeitsmodi.md": "3b84e51aa7e969a95442f493eeb326fb2fa659a6b20dc5437b9792b1976d7e98"
   },
   "plugin_merge_review_2026_11_15": {
     "method": "desk_review",
@@ -1206,5 +1443,67 @@
         "scope": "Entscheidungsdaten und Leitsatz zur Beurteilung in schulzeugnisartiger Tabellenform."
       }
     ]
+  },
+  "modellstichprobe_2026_11_21": {
+    "client": "Codex CLI",
+    "model": "gpt-6.2-astra",
+    "verfahren": "Vollständiger Einstiegstext und synthetische Anfrage in ephemerer Textsitzung, ohne Quelldateien, Erwartungskriterien oder Werkzeugaufrufe. Für jede Antwort wurde die fachliche Einordnung anhand des konkreten Falls gelesen.",
+    "eingaben": {
+      "Hauptskill": {
+        "path": "arbeitszeugnispruefer/skills/einstieg-routing/SKILL.md",
+        "sha256": "5439ab7aea9f889b2fd87532e1aa8d02f3a2dc75627767c3ad38b5204083c89e"
+      },
+      "Mini": {
+        "path": "arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md",
+        "sha256": "0f0cd06dce8013bb976ad72fe5f148f64a27cf14b21aab2343f9fbc725de4620"
+      },
+      "Werkstatt": {
+        "path": "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+        "sha256": "0f033a88e753555e4ba1dcc7280d2fc9f83e4e274b83940412c3723b94ad6e36"
+      }
+    },
+    "fortsetzung": {
+      "erster_schritt": "zeugnis-formnachweis-start",
+      "zweiter_schritt": "pdf-ohne-einwilligung",
+      "verfahren": "Zweiter Aufruf mit der ersten Nutzerfrage und der tatsächlich erzeugten ersten Antwort im Verlauf."
+    },
+    "beobachtungen": [
+      {
+        "case": "ausbildungszeugnis-einfach",
+        "entry": "Hauptskill",
+        "observed": "Nennt Pflichtangaben nach § 16 BBiG, trennt Verhaltens-/Leistungsangaben auf Verlangen von der Berufsschulnote."
+      },
+      {
+        "case": "pdf-ohne-einwilligung",
+        "entry": "Mini",
+        "observed": "Fordert nach der verneinten Einwilligung das Papieroriginal und bietet ein auf den Formmangel begrenztes Schreiben an."
+      },
+      {
+        "case": "schlussformel-reaktion-auf-ruege",
+        "entry": "Werkstatt",
+        "observed": "Unterscheidet erstmaligen Anspruch und Sanktion für die Korrekturrüge. Verwendet Original, Neufassung und Arbeitgeber-E-Mail als unterschiedliche Beweismittel."
+      },
+      {
+        "case": "vergleich-entwurf-wahrheitseinwand",
+        "entry": "Werkstatt",
+        "observed": "Trennt substantiierten Wahrheitseinwand zur Leitungsfunktion und bloße Stilablehnung. Ordnet BAG 8 AZB 25/25 und Hessisches LAG 10 Ta 207/26 einschließlich der offenen Teilfrage zu."
+      },
+      {
+        "case": "vergleich-wunschformel-weiterhin",
+        "entry": "Mini",
+        "observed": "Prüft den Vergleich und die erfolgreiche Tätigkeit im Leistungsteil, ohne „weiterhin“ als geschuldeten Einzelwortlaut anzusetzen."
+      },
+      {
+        "case": "zeugenbeleg-nachgereicht",
+        "entry": "Hauptskill",
+        "observed": "Begrenzt Zwischenzeugnis und Zielquote auf die belegten Zeiträume. Leitet aus 116 Prozent keine durchgängig überdurchschnittliche Leistung ab."
+      },
+      {
+        "case": "zeugnis-formnachweis-start",
+        "entry": "Mini",
+        "observed": "Fragt nach Einwilligung zur elektronischen Form und technisch nachgewiesener qualifizierter Signatur; aus der sichtbaren Unterschrift folgt kein abschließender Befund."
+      }
+    ],
+    "grenzen": "Stichprobe von Textantworten mit einem Modell. Keine GUI-Installation oder Bewertung durch zwei unabhängige Prüfmodelle. Beide Claude-Manifeste bestanden die strenge CLI-Prüfung. Die Textgenerierung von Claude konnte mit der vorhandenen Anmeldung nicht ausgeführt werden."
   }
 }

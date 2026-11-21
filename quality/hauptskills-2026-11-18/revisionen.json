@@ -143,11 +143,14 @@
       "plugin": "arbeitszeugnispruefer",
       "path": "arbeitszeugnispruefer/skills/einstieg-routing/SKILL.md",
       "before_sha256": "80cdb1a81b160f7003345730faec15ede815ff8ae64ad8ac3ec64386b169dbbd",
-      "after_sha256": "51bbd1e11ddbe4e0af64c36637383bd69048b9bf7b6f3d28f5284d9d4f20ff5e",
+      "after_sha256": "5439ab7aea9f889b2fd87532e1aa8d02f3a2dc75627767c3ad38b5204083c89e",
       "archive": "quality/hauptskills-2026-11-18/bestand/arbeitszeugnispruefer/skills/einstieg-routing/SKILL.md.txt",
-      "review_path": "quality/hauptskills-2026-11-18/wirtschaft-sozial-review.json",
-      "review_sha256": "1c6448c7475c86af0f901cda657873c163918fee0636f439b3c5c66f1e1811d0",
-      "references": {}
+      "review_path": "quality/hauptskills-2026-11-18/pruefer-2026-11-21-reviews.json",
+      "review_sha256": "64b18d6a6e0222efabbce5ee89bf7cec986e81e9b418bafade7cb687899d1061",
+      "references": {
+        "arbeitszeugnispruefer/references/arbeitszeugnis-auslegung-und-arbeitsmodi.md": "3b84e51aa7e969a95442f493eeb326fb2fa659a6b20dc5437b9792b1976d7e98",
+        "arbeitszeugnispruefer/references/arbeitszeugnis-handbuch.md": "deb6dd28183292b155280292467940e42dd2c7ee0d0d2d1fa3b643b31e9477a7"
+      }
     },
     {
       "plugin": "aufsichtsrat-ag-se-praxis",
@@ -197,12 +200,13 @@
       "plugin": "bautraegervertrag-pruefer",
       "path": "bautraegervertrag-pruefer/skills/bautraegerpruefung-steuern/SKILL.md",
       "before_sha256": "6d330440235f560f5856859750306e14e709b76cff3ede0c68715904fe4ca53c",
-      "after_sha256": "8128004bae8c3fc2f5ecf708f16de3344c89271e22476e12b2da17be4f5cdb91",
+      "after_sha256": "fd64659329db4338d6f264cbe13637b6ffb922b09536b3f28cc06358d7066c51",
       "archive": "quality/hauptskills-2026-11-18/bestand/bautraegervertrag-pruefer/skills/bautraegerpruefung-steuern/SKILL.md.txt",
-      "review_path": "quality/hauptskills-2026-11-18/zivil-bau-reviews.json",
-      "review_sha256": "b5f57eb432df41651bd475a9354dbcc190453a9545ca3793e7d67eb00ac29076",
+      "review_path": "quality/hauptskills-2026-11-18/pruefer-2026-11-21-reviews.json",
+      "review_sha256": "64b18d6a6e0222efabbce5ee89bf7cec986e81e9b418bafade7cb687899d1061",
       "references": {
-        "bautraegervertrag-pruefer/references/hauptworkflow-entscheidungen.md": "c78ea75f1896245ba2cde3c225dea166d1d2a4dbd8414bbb7f50502a6424cb7d"
+        "bautraegervertrag-pruefer/references/hauptworkflow-entscheidungen.md": "d38d1f04bc8cb1c956bb437aabf626992d934da12535c4be04d399b8608a18d9",
+        "bautraegervertrag-pruefer/references/rechtsprechung-und-rollen.md": "18a6871a6dc8a0934a2b9ebea3deb808f66c81904a04e91c70fdd30bf7a79070"
       }
     },
     {

@@ -23,10 +23,10 @@ Die [Arbeitsmodi und Auslegungsmaßstab](../../references/arbeitszeugnis-auslegu
 | Auffällige Reihenfolge im Sozialverhalten | Nur bei verdeckter negativer Aussage im Gesamtkontext tragfähig | Nach Kontext |
 | Unvollständige Schlussformel | Meist Verhandlungspunkt, Klage nur mit Zusatzkontext | Niedrig bis Mittel |
 | Mutmaßliches Codewort | Nur bei objektiv erkennbarer verdeckter Aussage nach Paragraf 109 Absatz 2 Satz 2 GewO | Nach Kontext |
-| Drift im selben Themenbereich | Klagbar (bei nachgewiesenem Schaufenster) | Mittel |
+| Widerspruch im selben Beurteilungsbereich | Aussage im Gesamtzusammenhang belegen und ggf. Klarstellung verlangen | Nach Wortlaut und Belegen |
 | Konstante Note 3 in einzelnen Bereichen | Nur mit Tatsachen für eine bessere Bewertung | Nach Beleglage |
 | Note 3 bei aktenkundig besserer Leistung | Klagbar (Arbeitnehmer beweisbelastet) | Mittel |
-| Note 4 im Standardfall | Klagbar (Arbeitgeber beweisbelastet) | Hoch |
+| Unterdurchschnittliche Gesamtleistung | Arbeitgeber muss die Abwertung darlegen und im Streit beweisen | Konkreten Arbeitgebervortrag prüfen |
 
 ### Beweislastregel
 
@@ -40,13 +40,7 @@ Die [Arbeitsmodi und Auslegungsmaßstab](../../references/arbeitszeugnis-auslegu
 
 ### Streitwert
 
-| Klagegegenstand | Streitwert |
-|---|---|
-| Vollständige Zeugnisberichtigung | Nach Paragraf 3 ZPO, Antrag, Bedeutung und örtlicher Gerichtspraxis |
-| Einzelne Note im Hauptteil | Anteiliger Wert nach Bedeutung der beanstandeten Passage |
-| Schlussformel | Regelmäßig geringerer Wert; fehlender gesetzlicher Anspruch mitprüfen |
-| Mehrere Punkte | Gesamtwert ohne automatische Addition jedes Satzes |
-| Erstmalige Erteilung des Zeugnisses | Einzelfallwert nach wirtschaftlichem Interesse und Gerichtspraxis |
+Das Gericht setzt den Wert im Einzelfall fest. Als Orientierung unterscheidet der Streitwertkatalog für die Arbeitsgerichtsbarkeit 2024 zwischen einfachem und qualifiziertem Zeugnis. Für Erteilung oder Berichtigung des qualifizierten Zeugnisses sieht der Katalog regelmäßig eine Monatsvergütung vor. Ein Streit um einzelne Formulierungen rechtfertigt allein keinen schematischen Abschlag. Vergleiche Abschnitt 23.9 des [Arbeitsbuchs](../../references/arbeitszeugnis-handbuch.md) und die Praxis des zuständigen Gerichts.
 
 ## Beispiele
 
@@ -68,7 +62,7 @@ Mit freundlichen Gruessen
 
 ### Beispiel 2 – Klageantrag bei Berichtigungsstreit
 
-Der Beklagte wird verurteilt, der Klägerin ein qualifiziertes Arbeitszeugnis zu erteilen, das auf dem Briefkopf der Beklagten ausgestellt wird, vom Tag des Beendigungsdatums datiert und vom dazu Befugten unterschrieben ist und folgenden Inhalt aufweist:
+Der Beklagte wird verurteilt, der Klägerin ein qualifiziertes Arbeitszeugnis zu erteilen, das auf dem Briefkopf der Beklagten ausgestellt wird, mit dem nachstehend konkret begründeten Ausstellungsdatum [Datum] versehen und vom dazu Befugten unterschrieben ist und folgenden Inhalt aufweist:
 
 Erstens, in der Leistungsbeurteilung statt "war stets bemueht" die Formulierung "erledigte die ihr übertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
 
@@ -85,7 +79,7 @@ Bei dem Begehren einer Note besser als befriedigend kommen folgende Beweisangebo
 
 ### Beispiel 5 – Verwirkung als Risiko
 
-Wartet der Arbeitnehmer zwei Jahre, bevor er das Berichtigungsverlangen erhebt, ohne plausiblen Grund für die Verzoegerung, kann der Anspruch nach den Grundsaetzen der Verwirkung untergehen, auch wenn die Verjährungsfrist nicht abgelaufen ist. Empfehlung: Berichtigungsverlangen innerhalb der ersten Monate nach Zeugnisuebergabe stellen.
+Auch nach längerer Untätigkeit verlangt Verwirkung neben dem Zeitmoment konkrete Umstände, aus denen sich schutzwürdiges Vertrauen des Arbeitgebers und die Unzumutbarkeit verspäteter Erfüllung ergeben. Nach früheren Anforderungen, Antworten und Dispositionen fragen. Empfehlung: Berichtigungsverlangen innerhalb der ersten Monate nach Zeugnisuebergabe stellen.
 
 ## Rechtliche Einordnung und Normen
 
@@ -107,15 +101,4 @@ Wartet der Arbeitnehmer zwei Jahre, bevor er das Berichtigungsverlangen erhebt, 
 
 ## Vollstreckung des Zeugnisanspruchs
 
-Wenn Urteil oder Vergleich vorliegt, der Arbeitgeber aber nicht oder falsch erfuellt:
-
-| Lage | Instrument |
-| --- | --- |
-| Titulierter Zeugnisanspruch wird nicht erfuellt | Zwangsgeld, ersatzweise Zwangshaft (Paragraf 888 ZPO - nicht vertretbare Handlung) |
-| Vergleich mit Entwurfsklausel ("Zeugnis nach Entwurf des Arbeitnehmers, Abweichung nur aus wichtigem Grund") | Unmittelbar vollstreckbar (BAG 07.05.2026 - 8 AZB 25/25 - vor Verwendung live verifizieren) |
-| Erteiltes Zeugnis weicht vom Titel ab | Im Vollstreckungsverfahren ruegen; ironische Übererfuellung ist Nichterfuellung (LAG Hamm 12 Ta 475/16) |
-| Streit über "wichtigen Grund" der Abweichung | Arbeitgeber muss den wichtigen Grund darlegen; sonst Zwangsmittel |
-
-**Praxisregel:** Schon beim Vergleichsschluss an die Vollstreckung denken - die Entwurfsklausel mit Wichtiger-Grund-Vorbehalt macht aus dem Vergleich einen scharfen Titel.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Vergleiche Titel, zuletzt maßgeblichen Entwurf und erteilte Originalfassung. Eine Entwurfsklausel mit Abweichungsrecht aus wichtigem Grund kann grundsätzlich vollstreckbar sein. Für einen Antrag nach Paragraf 888 ZPO prüfen, ob der Arbeitgeber eine wesentliche Abweichung mit konkreten Tatsachen zur Wahrheit oder Klarheit begründet hat. Eine pauschale Beanstandung genügt regelmäßig nicht. Bei einem nachvollziehbaren materiellen Streit kann ein neues Erkenntnisverfahren erforderlich sein. Vergleiche [BAG, Beschluss vom 07.05.2026 – 8 AZB 25/25, Rn. 16–22](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/) mit dem [Hessischen LAG, Beschluss vom 19.10.2026 – 10 Ta 207/26, Gründe II.6.b](https://www.rv.hessenrecht.hessen.de/bshe/?query=DOKNR%3ALARE260001319&source=PermaLink) und nutze die [Vertiefung zu Klage, Vergleich und Vollstreckung](../klagestrategie-und-vollstreckung/FACHINHALT.md). Übernimm den richtigen Antrag, Belege und die Gegenposition in den bestellten Entwurf.

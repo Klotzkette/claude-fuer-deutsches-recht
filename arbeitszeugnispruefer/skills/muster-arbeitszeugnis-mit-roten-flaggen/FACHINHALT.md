@@ -13,15 +13,9 @@ Die [Arbeitsmodi und Auslegungsmaßstab](../../references/arbeitszeugnis-auslegu
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Geheimcode-Regeln
+## 1. Fragen an das Schulungsbeispiel
 
-| Satz | Signal | Ampel | Note |
-|---|---|---|---|
-| "zur vollen Zufriedenheit" ohne "stets" | Fehlende Steigerung | Orange | Note 3 |
-| "war stets bemüht" | Klassisches Note-4-Signal | Rot | Note 4 |
-| "Kollegen und Vorgesetzte" (Reihenfolge) | Falsche Reihenfolge | Orange | Note 3 |
-| "direkte Kommunikationsweise" | Euphemismus für schwieriges Verhalten | Rot | Note 4-5 |
-| Schlussformel ohne Bedauern | Kühles Distanzsignal | Orange-Rot | Kontextsignal |
+Prüfe, ob das Zeugnis tatsächlich einen Erfolg bescheinigt, ob es die für den Vertrieb wesentlichen Kontakte beschreibt und was für den Schluss vereinbart wurde. Lies die Wörter in ihrem vollständigen Satz. Hinweise zur Tonlage sind keine gesicherte Tatsachen- oder Leistungsbewertung.
 
 ## Beispiele
 
@@ -37,17 +31,17 @@ Beispiel GmbH | Beispielstraße 5 | 20000 Beispielstadt
 Herr Thomas Beispiel, geboren am 15. Juni 1980, war vom 1. Januar 2020 bis zum 30. Juni 2024 in unserem Unternehmen als Vertriebsmitarbeiter beschäftigt.
 
 **Aufgaben:**
-Herr Beispiel war im Außendienst tätig und betreute einen definierten Kundenkreis im Bereich Industriebedarf. Er war für die regelmäßige Kundenbesuche, die Angebotserstellung und die Bearbeitung von Reklamationen zuständig.
+Herr Beispiel war im Außendienst tätig und betreute einen definierten Kundenkreis im Bereich Industriebedarf. Er war für die regelmäßigen Kundenbesuche, die Angebotserstellung und die Bearbeitung von Reklamationen zuständig.
 
 **Leistungsbeurteilung:**
 Herr Beispiel verfügt über ausreichende Fachkenntnisse für seinen Aufgabenbereich. Er war stets bemüht, die ihm übertragenen Aufgaben zur vollen Zufriedenheit zu erledigen, und zeigte dabei durchgehend guten Willen. Seine Arbeitsweise war im Wesentlichen strukturiert.
 
-*(Analyse: "bemüht" = Rot/Note 4; "zur vollen Zufriedenheit" ohne "stets" = Orange/Note 3; "im Wesentlichen" = Rot/Note 4; Gesamttendenz Leistung: Note 4)*
+*(Die Zufriedenheitsformel steht innerhalb einer Aussage über Bemühungen. Ein tatsächlich erzielter Arbeitserfolg wird damit nicht ausdrücklich bescheinigt. Frage nach Zielen, Ergebnissen und Gegenbeispielen.)*
 
 **Verhaltensbeurteilung:**
 Gegenüber Kollegen und Vorgesetzten verhielt sich Herr Beispiel korrekt. Er zeichnete sich durch eine direkte Kommunikationsweise aus.
 
-*(Analyse: Reihenfolge falsch — Kollegen vor Vorgesetzten = Orange; "korrekt" statt "einwandfrei" = Orange/Note 3; "direkte Kommunikationsweise" = Rot/Note 4-5; Kein Wort zu Kunden trotz Kundenjob = Rot)*
+*(Die Reihenfolge belegt keinen Konflikt. Kunden werden trotz regelmäßigem Kundenkontakt nicht erwähnt. Kläre die Bedeutung im Tätigkeits- und Branchenkontext. Eine direkte Kommunikationsweise allein trägt keinen Vorwurf.)*
 
 **Schlussformel:**
 Wir danken Herrn Beispiel für seine Mitarbeit und wünschen ihm für die Zukunft alles Gute.
@@ -57,14 +51,7 @@ Wir danken Herrn Beispiel für seine Mitarbeit und wünschen ihm für die Zukunf
 
 ### Gesamtbewertung des Schulungsbeispiels
 
-| Bereich | Ampel | Note |
-|---|---|---|
-| Leistungsbeurteilung | Rot | Note 4 |
-| Verhaltensbeurteilung | Rot | Note 4 |
-| Schlussformel | Orange | Note 3-4 |
-| **Gesamtnote** | **Rot** | **Note 4** |
-
-**Handlungsempfehlung:** Nachverhandlung aller Leistungs- und Verhaltensformulierungen sowie wärmere Schlussformel als Vergleichspunkt empfohlen. Bei Weigerung: Klage vor allem zu Leistungs- und Verhaltensformulierungen prüfen; Schlussformel nur mit Zusatzkontext.
+Die Leistungsdarstellung wirkt wegen des bloßen Bemühens schwach. Die Kundenkontakte können eine inhaltliche Ergänzung tragen. Für den Wunsch nach Bedauern Vorfassung und Abrede prüfen. In diesem Beispiel ist allein aus den Schlusssätzen keine Leistungsnote ableitbar. Verlange für belegte Mängel eine konkrete Ergänzung und behandle einen freiwilligen Schlusssatz als gesonderten Wunsch.
 
 ## Rechtliche Einordnung und Normen
 

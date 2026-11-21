@@ -5,6 +5,8 @@ description: "Erschließt widersprüchliche Bauträgerunterlagen, technische-/F�
 
 # Unterlagen, Förderversprechen und Rechtsquellen auswerten
 
+Übernimm die bereits belegte Vertragsart. Beim Direkteinstieg zuerst anhand der Grundstücks- und Leistungsklauseln das [Vertragsmodell und sein Prüfprogramm](../bautraegerpruefung-steuern/SKILL.md#vertragstyp-und-prüfprogramm) bestimmen. Ist ein entscheidendes Merkmal offen, frage danach und setze die davon abhängige Prüfung nach der Antwort fort.
+
 ## 1. Zweck und Anwendungsfall
 
 Erzeuge aus der vorhandenen Akte eine gezielte, überprüfbare Grundlage für das beauftragte Ergebnis. Die Aktenübersicht darf nicht die eigentliche Vertrags-, Zahlungs- oder Mängelbearbeitung ersetzen.

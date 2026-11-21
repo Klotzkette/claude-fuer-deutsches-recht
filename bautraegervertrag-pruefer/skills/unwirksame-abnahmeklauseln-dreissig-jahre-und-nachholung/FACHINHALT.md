@@ -11,7 +11,7 @@ Dieser Skill behandelt Altanlagen und Verträge mit fehlerhafter Abnahmeregelung
 
 ## Normenanker
 
-§§ 195, 199, 203, 204, 242, 305, 307, 309 Nr. 8 lit. b, 633, 634 Nr. 1-4, 634a Abs. 1 Nr. 2 und Abs. 2, 635, 637, 640, 641 BGB; § 9a WEG; §§ 485, 494a ZPO; BGH VII ZR 68/24 und VII ZR 108/24 nur nach Live-Verifikation.
+§§ 195, 199, 203, 204, 242, 305, 307, 309 Nr. 8 lit. b, 633, 634 Nr. 1-4, 634a Abs. 1 Nr. 2 und Abs. 2, 635, 637, 640, 641 BGB; § 9a WEG; §§ 485, 494a ZPO.
 
 ## Prüfung
 
@@ -22,7 +22,9 @@ Dieser Skill behandelt Altanlagen und Verträge mit fehlerhafter Abnahmeregelung
 
 ## Rechtsfolge
 
-Der Bauträger kann sich nicht beliebig auf die Unwirksamkeit seiner eigenen Klausel berufen, wenn dies dem Erwerber schaden würde. Die fünfjährige Bauwerksverjährung läuft ohne wirksame Abnahme nicht an. Als äußerer Rahmen ist eine 30-Jahres-Grenze aus Rechtssicherheit zu prüfen.
+Weise für jeden Erwerber den Termin der an der unwirksamen Klausel gescheiterten Abnahme und etwaige spätere wirksame Abnahmen aus. Beim Gemeinschaftseigentum können Vorschuss und Ersatz mangelbedingter Folgeschäden trotz der gescheiterten Abnahme bestehen. Die fünfjährige Frist beginnt erst mit einer wirksamen Abnahme. Für die Durchsetzbarkeit dieser Ansprüche gilt eine Obergrenze von 30 Jahren ab der fehlgeschlagenen Abnahme. Verwirkung setzt zusätzliche Umstände und schutzwürdiges Vertrauen voraus. [BGH, Urteil vom 15.10.2026 – VII ZR 119/23, Rn. 24–35, 42–47](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2023/VII_ZR_119-23.pdf?__blob=publicationFile&v=1)
+
+Bei unwiderruflicher Vollmacht für einen vom Bauträger ausgewählten Sachverständigen prüfen, ob die Erwerber das Scheitern der vermeintlichen Abnahme erkannten oder damit rechneten und später ein eigener Abnahmewille erkennbar war. Wer die fremde Abnahme für bindend hielt, bringt mit Einzug und Zahlung regelmäßig keinen solchen Willen zum Ausdruck. [BGH, Urteil vom 15.10.2026 – VII ZR 4/24, Leitsatz d](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR___4-24.pdf?__blob=publicationFile&v=1)
 
 ## Nachholung
 

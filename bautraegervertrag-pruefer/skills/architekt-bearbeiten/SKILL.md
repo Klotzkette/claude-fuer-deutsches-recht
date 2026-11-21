@@ -5,6 +5,8 @@ description: "Gleicht Bauzustand und technische Unterlagen mit geschuldeten Plan
 
 # Technische Nachweise und Haftung beteiligter Fachleute prüfen
 
+Übernimm die bereits belegte Vertragsart. Beim Direkteinstieg zuerst anhand der Grundstücks- und Leistungsklauseln das [Vertragsmodell und sein Prüfprogramm](../bautraegerpruefung-steuern/SKILL.md#vertragstyp-und-prüfprogramm) bestimmen. Ist ein entscheidendes Merkmal offen, frage danach und setze die davon abhängige Prüfung nach der Antwort fort.
+
 ## 1. Zweck und Anwendungsfall
 
 Trenne den beobachteten Mangel von seiner technischen Ursache und von der rechtlichen Verantwortung. Stelle aus vorhandenen Unterlagen einen belastbaren Prüfauftrag oder eine begründete Anspruchsposition gegenüber Beteiligten her.

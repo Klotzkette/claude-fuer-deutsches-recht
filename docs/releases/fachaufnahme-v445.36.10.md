@@ -12,7 +12,7 @@ Die beiden Fallpakete enthalten die jeweiligen Grundakten, gesonderte Nachreichu
 
 [Alle fünf Akten zur Aktenanlage](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/fachaufnahme-v445.36.10/aktenanleger-testakten.zip) · [Alle drei Umwandlungssteuerakten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/fachaufnahme-v445.36.10/umwandlungssteuerrecht-testakten.zip)
 
-Der **Bauträgervertragsprüfer** bestimmt zu Beginn die maßgebliche Urkunde, den Vertragsstand und die Einheit. Er gleicht Bauversprechen und Rechtsverschaffung mit den tatsächlich Verpflichteten ab.
+Der gesondert veröffentlichte [Bauträgervertragsprüfer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.11/bautraegervertrag-pruefer.zip) bestimmt zu Beginn die maßgebliche Urkunde, den Vertragsstand und die Einheit. Er gleicht Bauversprechen und Rechtsverschaffung mit den tatsächlich Verpflichteten ab.
 
 **Geldwäschebeauftragter** und **Geldwäscheprävention AML/KYC** enthalten die geprüften Anker zum Rechtsstand vom 21. November 2026. Sie berücksichtigen den neuen zweiten Faktor für goAML, den Stand der Zollreform und die Aussagegrenzen von Drittlandslistungen. Der Zugang zur echten FIU-Umgebung bleibt beim jeweiligen Verpflichteten.
 

@@ -26,7 +26,7 @@ Zu Beginn jeder Vollanalyse, sobald ein Bautraegervertrag, ein Notarentwurf, ein
 
 - Paragraf 650u BGB: Bautraegervertrag als eigener Vertragstyp; Eigentumsübertragung und Bauerrichtung im Verbund.
 - Paragraf 311b BGB: notarielle Beurkundungspflicht; alle wesentlichen Leistungspflichten müssen in der Urkunde oder sauber einbezogenen Bezugsurkunden erscheinen.
-- Paragraf 13a BeurkG: zulässige Auslagerung von Baubeschreibung, Plänen und Teilungserklärung in Bezugsurkunden, wenn eindeutig identifizierbar und belehrt.
+- Paragraf 13c BeurkG: zulässige Auslagerung von Baubeschreibung, Plänen und Teilungserklärung in Bezugsurkunden, wenn eindeutig identifizierbar und belehrt.
 
 ## Pruefraster
 

@@ -5,6 +5,8 @@ description: "Ordnet vereinbarte Termine, Baufortschritt, Behinderungen und Sond
 
 # Bauzeit, Sonderwünsche und Verzugsfolgen bearbeiten
 
+Übernimm die bereits belegte Vertragsart. Beim Direkteinstieg zuerst anhand der Grundstücks- und Leistungsklauseln das [Vertragsmodell und sein Prüfprogramm](../bautraegerpruefung-steuern/SKILL.md#vertragstyp-und-prüfprogramm) bestimmen. Ist ein entscheidendes Merkmal offen, frage danach und setze die davon abhängige Prüfung nach der Antwort fort.
+
 ## 1. Zweck und Anwendungsfall
 
 Arbeite eine konkrete Termin- oder Mehrkostenfrage aus. Ersetze pauschale Verzögerungsbehauptungen durch eine belegte Zeitachse mit betroffenen Leistungen und tatsächlichen wirtschaftlichen Folgen.

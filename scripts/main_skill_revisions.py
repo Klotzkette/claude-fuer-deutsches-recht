@@ -267,7 +267,7 @@ def previous_bytes(root, path, *, plugin=None):
 def before_fachaufnahme(root, path, current, *, plugin=None):
     """Liest die einzeln belegte Vorfassung eines redaktionell geänderten Fachtexts."""
     relative = path.relative_to(root)
-    allowed = {"bautraegervertrag-pruefer", "geldwaeschebeauftragter", "geldwaeschepraevention-aml-kyc"}
+    allowed = {"geldwaeschebeauftragter", "geldwaeschepraevention-aml-kyc"}
     if len(relative.parts) < 2 or relative.parts[0] not in allowed or path.suffix != ".md":
         return current
     base = "quality/fachaufnahme-2026-11-21/"

@@ -151,7 +151,7 @@
       "name": "arbeitszeugnispruefer",
       "source": "./arbeitszeugnispruefer",
       "description": "Prüft Arbeitszeugnisse, vergleicht Fassungen und formuliert belegte Berichtigungen und Schreiben. Acht Arbeitswege verbinden Zeugnisanalyse und Rechtsprüfung mit Ausbildungs- und Führungsfällen, beiden Testaktenbeständen und einer vollständigen Fachbibliothek.",
-      "version": "445.36.9",
+      "version": "445.36.11",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -201,7 +201,7 @@
       "name": "bautraegervertrag-pruefer",
       "source": "./bautraegervertrag-pruefer",
       "description": "Prüft Bauträgerverträge aus Erwerber-, Bauträger-, GdWE- und Verwaltersicht: Bausoll, MaBV-Raten, Sicherheiten, Eigentum, Abnahme, Mängel, Verjährung und Sonderkonstellationen. Zehn Arbeitswege verbinden beide Fachbibliotheken und alle bisherigen Testakten.",
-      "version": "445.36.10",
+      "version": "445.36.11",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"

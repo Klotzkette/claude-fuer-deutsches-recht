@@ -5,6 +5,8 @@ description: "Trennt Übergabe, Abnahme, Mängelrechte und Verjährung; prüft d
 
 # Abnahme, Mängel, Gemeinschaft und Verjährung prüfen
 
+Übernimm die bereits belegte Vertragsart. Beim Direkteinstieg zuerst anhand der Grundstücks- und Leistungsklauseln das [Vertragsmodell und sein Prüfprogramm](../bautraegerpruefung-steuern/SKILL.md#vertragstyp-und-prüfprogramm) bestimmen. Ist ein entscheidendes Merkmal offen, frage danach und setze die davon abhängige Prüfung nach der Antwort fort.
+
 ## 1. Zweck und Anwendungsfall
 
 Kläre, wer wegen welcher konkreten Baumängel vorgehen kann, ob wirksam abgenommen wurde und welche Frist tatsächlich läuft. Eine Mängelanzeige oder ein interner Beschluss ist für sich kein gesetzlicher Hemmungstatbestand.

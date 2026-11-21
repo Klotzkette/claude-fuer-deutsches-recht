@@ -25,8 +25,8 @@ Die [Arbeitsmodi und Auslegungsmaßstab](../../references/arbeitszeugnis-auslegu
 | "außerordentliches Engagement" | Weit über das Normale hinaus | Note 1 |
 | "weit über den Erwartungen" | Übererfüllung der Anforderungen | Note 1 |
 | "in besonderem Maße" | Besondere Herausragung | Note 1-2 |
-| Vollständige warme Schlussformel | Alle drei Elemente, persönlich | Note 1-2 |
-| "jederzeit vertreten" (Schlussverstärker) | Absolut positives Gesamtzeugnis | Note 1 |
+| Persönliche Schlussformel | Dank, Bedauern und Wünsche | Keine eigenständige Leistungsnote |
+| "jederzeit vertreten" | Bezugswort, Kontext und konkrete Aufgabe klären | Keine isolierte Notenzuordnung |
 
 ## Beispiele
 
@@ -36,7 +36,7 @@ Die [Arbeitsmodi und Auslegungsmaßstab](../../references/arbeitszeugnis-auslegu
 
 **Beispiel 3 – Vollständige grüne Schlussformel:** "Wir bedauern es sehr, Frau Krause zu verlieren, danken ihr herzlich für ihren herausragenden Beitrag zu unserem Unternehmenserfolg und wünschen ihr für ihren weiteren beruflichen und persönlichen Weg nur das Allerbeste."
 
-**Beispiel 4 – Verstärkte grüne Beurteilung:** "Seine Leistungen lagen weit über dem Durchschnitt. In jeder Hinsicht ein außerordentlicher Mitarbeiter." — Doppelter Verstärker, eindeutig Note 1.
+**Beispiel 4 – Verstärkte grüne Beurteilung:** "Seine Leistungen lagen weit über dem Durchschnitt. In jeder Hinsicht ein außerordentlicher Mitarbeiter." — Starkes Lob. Für die Einordnung des Gesamtzeugnisses die Aufgabe und die abschließende Beurteilung heranziehen.
 
 **Beispiel 5 – Grüne Verhaltensformel mit Erweiterung:** "Ihr Verhalten gegenüber Vorgesetzten, Kollegen und Kunden war stets einwandfrei und hinterließ durchweg hervorragende Eindrücke."
 

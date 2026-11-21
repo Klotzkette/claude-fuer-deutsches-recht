@@ -11,7 +11,7 @@ Dieser Skill prüft, ob der notarielle Rahmen den Verbraucher wirklich schützt:
 
 ## Normenanker
 
-§§ 125, 305c Abs. 2, 307, 308 Nr. 4, 309 Nr. 12, 311b Abs. 1, 650u BGB; § 13a BeurkG; § 17 Abs. 1 und Abs. 2a BeurkG; §§ 14, 19 BNotO; §§ 3, 7 MaBV.
+§§ 125, 305c Abs. 2, 307, 308 Nr. 4, 309 Nr. 12, 311b Abs. 1, 650u BGB; § 13c BeurkG; § 17 Abs. 1 und Abs. 2a BeurkG; §§ 14, 19 BNotO; §§ 3, 7 MaBV.
 
 ## Beurkundungsreichweite
 
@@ -23,7 +23,7 @@ Reservierungsabreden sind nicht harmlos, wenn sie wirtschaftlichen Abschlussdruc
 
 ## Bezugsurkunden
 
-Bezugsurkunden sind praktisch, aber keine Müllkippe für Hauptpflichten. § 13a BeurkG sauber prüfen: Verzicht, Identifikation, Zugänglichkeit, Belehrung. Wesentliche Vertragsbedingungen dürfen nicht so ausgelagert werden, dass der Verbraucher sie faktisch nicht erfasst.
+Bei einer Verweisung prüfe die am Beurkundungstag geltende Fassung (früher § 13a BeurkG a. F.). Erfasse die genaue Bezugsurkunde, die Erklärung der Beteiligten über ihre Inhaltskenntnis, den Verzicht auf das Vorlesen und gegebenenfalls auf das Beifügen, die Einsehbarkeit mindestens in beglaubigter Abschrift bei der Beurkundung und die Belehrung. [§ 13c BeurkG](https://www.gesetze-im-internet.de/beurkg/__13c.html)
 
 ## Notarprüfung
 

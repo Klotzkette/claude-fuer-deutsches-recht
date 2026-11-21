@@ -1,20 +1,4 @@
 {
-  "bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md": {
-    "vorher": "c41a347bab2451551625143ff736e7f254e64c00beba492ba0e28f048a1fdd27",
-    "nachher": "201258773274d73e453b94d61df60d2bc529bb5a71a8e7d8906b8258744114b0"
-  },
-  "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md": {
-    "vorher": "0d68465896891adf5ae290bc6a8f1347866e351121b78ec30db1205114574f96",
-    "nachher": "bae489ec5280ad884fe00b2637ab3898e126ccefc63739adbd2b9a0a6c4b99de"
-  },
-  "bautraegervertrag-pruefer/skills/bautraegerpruefung-steuern/SKILL.md": {
-    "vorher": "8128004bae8c3fc2f5ecf708f16de3344c89271e22476e12b2da17be4f5cdb91",
-    "nachher": "04e0f2cb79c96998f28b5cc4acd9b043e4f64ce666a6e5d2df1ff561fbfb261a"
-  },
-  "bautraegervertrag-pruefer/skills/juristischer-argumentationskern/SKILL.md": {
-    "vorher": "510eda2ffa200e1fc422c03268558b81283e490bfd680824812a58039930e2ab",
-    "nachher": "c96b3f299fc7b5df8ac004f71824e7e4e2bee70b5c993964ad980f60bab5b197"
-  },
   "geldwaeschebeauftragter/geldwaeschebeauftragter-hauptproblem.md": {
     "vorher": "adb3550d88fc11ad3ab791b511f4493d4f0ef10ab49c0522bf8baa585a6f0c4d",
     "nachher": "a0e5ed23c362d950b2a0b52643009f9455f93553c26f19637befb1b00d8971b9"

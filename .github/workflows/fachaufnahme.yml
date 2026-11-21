@@ -4,7 +4,6 @@ on:
     paths:
       - 'aktenanleger/**'
       - 'umwandlungssteuerrecht/**'
-      - 'bautraegervertrag-pruefer/**'
       - 'geldwaeschebeauftragter/**'
       - 'geldwaeschepraevention-aml-kyc/**'
       - 'scripts/build-aktenanlage-und-umwandlung.py'

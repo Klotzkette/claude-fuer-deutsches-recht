@@ -5,6 +5,8 @@ description: "Führt geprüfte Bauträgerbefunde in Mandantenbrief, Gutachten, k
 
 # Gutachten, Verhandlungsschreiben und Verfahrensentwürfe fertigstellen
 
+Übernimm die bereits belegte Vertragsart. Beim Direkteinstieg zuerst anhand der Grundstücks- und Leistungsklauseln das [Vertragsmodell und sein Prüfprogramm](../bautraegerpruefung-steuern/SKILL.md#vertragstyp-und-prüfprogramm) bestimmen. Ist ein entscheidendes Merkmal offen, frage danach und setze die davon abhängige Prüfung nach der Antwort fort.
+
 ## 1. Zweck und Anwendungsfall
 
 Liefere ein adressatengerechtes, tatsächlich verwendbares Dokument. Eine Prüfmatrix, ein Dashboard oder eine Liste möglicher Ansprüche ersetzt weder das Gutachten noch das beauftragte Schreiben.

@@ -15,7 +15,7 @@ Wenn der Vertrag dem Bauträger das Recht gibt, die Teilungserklärung oder Geme
 - Paragraf 308 Nummer 4 BGB: Änderungsvorbehalte nur mit triftigen, konkret benannten Gründen zulässig.
 - BGH V ZR 91/25: pauschale AGB-Zustimmungspflichten zu Teilungserklärungsänderungen sind unwirksam; Paragraf 242 BGB ersetzt unwirksame Klausel nicht.
 - Paragraf 311b Absatz 1 BGB: Sondernutzungsrechte als Bestandteil des Erwerbsgegenstands müssen beurkundet sein.
-- Paragraf 13a BeurkG: Bezugsurkunde für Teilungserklärung; eindeutige Identifizierbarkeit mit Datum und UR-Nummer erforderlich.
+- Paragraf 13c BeurkG: Bezugsurkunde für Teilungserklärung; eindeutige Identifizierbarkeit mit Datum und UR-Nummer erforderlich.
 
 ## Pruefraster
 

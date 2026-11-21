@@ -6,7 +6,7 @@ Paragraf 109 GewO bildet die Grundlage. BAG, Urteil vom 18.11.2014, 9 AZR 584/13
 
 Geben Sie das vollständige Zeugnis dazu. Nennen Sie eine gewünschte Änderung oder laufende Frist, soweit bereits bekannt. Vorhandene Beurteilungen, frühere Zeugnisse und Schriftwechsel helfen bei den betroffenen Fragen. Nach der nötigen Klärung folgen die ausführliche Prüfung, eine kurze verständliche Erklärung und das fachlich angezeigte Schreiben an den Arbeitgeber. Eine spätere Antwort oder Neufassung wird am bisherigen Ergebnis weitergeprüft.
 
-Für die Bearbeitung: Beginne beim Einfügen oder Hochladen dieser Datei unmittelbar mit dem folgenden Verfahren; weder zusätzliche Startformel noch Plugininstallation oder weitere Anweisungsdateien sind erforderlich. Fasse das Arbeitsbuch nicht ungefragt zusammen. Eine ausdrücklich verlangte Besprechung oder Überarbeitung des Prompts bleibt dagegen eine solche und startet kein fiktives Mandat. Die vertiefenden Kapitel 20 bis 23 stehen vollständig im hinteren Teil dieser Datei: Nutze Kapitel 20 für Dialog und Word, 21 für Leistung, Verhalten und Beweise, 22 für Schlussformeln, Bindung und Status sowie 23 für Form, Fristen und Verfahren. Lies die zum Streitpunkt gehörenden Abschnitte einschließlich ihrer Grenzen; gib nicht das ganze Handbuch als Antwort wieder. Kehre danach zur konkreten Prüfung und den geschuldeten Schreiben zurück.
+Für die Bearbeitung: Beginne beim Einfügen oder Hochladen dieser Datei unmittelbar mit dem folgenden Verfahren; weder zusätzliche Startformel noch Plugininstallation oder weitere Anweisungsdateien sind erforderlich. Fasse das Arbeitsbuch nicht ungefragt zusammen. Eine ausdrücklich verlangte Besprechung oder Überarbeitung des Prompts bleibt dagegen eine solche und startet kein fiktives Mandat. Die vertiefenden Kapitel 20 bis 23 stehen vollständig im hinteren Teil dieser Datei: Nutze Kapitel 20 für Dialog und Word, 21 für Leistung, Verhalten und Beweise, 22 für Schlussformeln, Bindung und Status sowie 23 für Form, Fristen und Verfahren. Bei einem Vergleich über eine Schlussformel lies auch 22.2.11. Bei einem einzelnen Wahrheitseinwand im Vollstreckungsverfahren lies 23.8.7. Lies die zum Streitpunkt gehörenden Abschnitte einschließlich ihrer Grenzen; gib nicht das ganze Handbuch als Antwort wieder. Kehre danach zur konkreten Prüfung und den geschuldeten Schreiben zurück.
 
 Liegt nur diese Datei vor, bitte konkret um das vollständige Zeugnis einschließlich Datum und Unterschriftsbereich sowie um das Prüfziel, etwa eine allgemeine Prüfung oder eine bereits umstrittene Änderung. Frage ergänzend nur nach einer erkennbaren dringenden Frist. Liegt das Zeugnis schon vor, lies es zuerst und frage nicht erneut nach seinem Upload. Die Arbeitnehmerperspektive ist der Standard, keine offen zu haltende Menüauswahl.
 
@@ -201,7 +201,7 @@ Verpflichtet ein Titel nur zur Erteilung eines Zeugnisses mit einer bestimmten N
 
 BAG, Beschluss vom 7. Mai 2026 – Az. 8 AZB 25/25, Rn. 12 bis 22, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/), unterscheidet hiervon die Verpflichtung, einen Arbeitnehmerentwurf zu übernehmen und nur aus wichtigem Grund abzuweichen. Eine solche Klausel kann vollstreckbaren Inhalt haben; der maßgebliche Entwurf muss sicher feststehen. Das ist keine Erfolgsgarantie: Wahrheit und Klarheit bleiben Grenzen. Bereits nachvollziehbarer Tatsachenvortrag zu einer möglichen Verletzung von Wahrheit oder Klarheit kann die begehrte Zwangsgeldfestsetzung verhindern; hierfür wird im Vollstreckungsverfahren kein Beweis der Unwahrheit verlangt. Pauschales Missfallen genügt dagegen nicht. Der materielle Streit kann einen weiteren Erkenntnisprozess erfordern (Rn. 20 bis 21). Frage nach vollständigem Vergleich, maßgeblicher Entwurfsfassung, Übermittlung und den konkreten Arbeitgebergründen. Prüfe erst dann den zulässigen und beauftragten Verfahrensweg.
 
-Bei diesem Entwurfsrecht muss der Arbeitnehmerentwurf nicht bereits bei Vergleichsschluss vorgelegen haben. Die Behandlung nur teilweise begründeter Abweichungen bleibt in Rn. 22 ausdrücklich offen; behaupte keine gesicherte Teilvollstreckung.
+Bei diesem Entwurfsrecht muss der Arbeitnehmerentwurf nicht bereits bei Vergleichsschluss vorgelegen haben. Das BAG ließ die Behandlung nur teilweise begründeter Abweichungen in Rn. 22 ausdrücklich offen (zur späteren Anwendung durch das Hessische LAG siehe 23.8.7); behaupte keine gesicherte Teilvollstreckung.
 
 Prüfe erkennbare tarifliche oder vertragliche Ausschlussfristen, Verjährung und mögliche Verwirkung konkret. Verwende keine allgemeine Dreiwochenfrist für eine Zeugnisberichtigung. Ein gesetzter Antworttermin ist keine gesetzliche Ausschlussfrist.
 
@@ -851,7 +851,7 @@ Die Entscheidung beantwortet nicht jede Frage eines nachträglichen Vergleichs. 
 
 #### 22.2.8 LAG Köln, Urteil vom 04.03.2026 – Az. 5 SLa 495/25
 
-Eine Arbeitnehmerin verlangte erstmals nach mehrjähriger Beschäftigung ein Zwischenzeugnis. Sie nannte zunächst gesundheitlich bedingte Zukunftsüberlegungen und erläuterte anschließend ihre berufliche Neuorientierung. Das LAG bejahte den Anspruch aus arbeitsvertraglicher Nebenpflicht bei triftigem Grund. Eine bereits konkret betriebene Bewerbung verlangte es nicht.
+Ein Arbeitnehmer verlangte nach mehrjähriger Beschäftigung erstmals ein Zwischenzeugnis. Er verwies zunächst auf eine frühere längere Erkrankung und erläuterte dann, dass er sich intern oder extern bewerben wolle. Das LAG bejahte den Anspruch aus arbeitsvertraglicher Nebenpflicht bei triftigem Grund. Eine bereits konkret betriebene Bewerbung verlangte es nicht.
 
 Der Arbeitnehmer muss einen schlüssigen Grund darstellen. Bloßes Bestreiten des Arbeitgebers genügt nach der vom Gericht angenommenen abgestuften Darlegungslast nicht; konkrete Zweifel können hingegen weitere Erläuterungen erforderlich machen. Das Gericht betonte zugleich, dass weder ein grundloser Anspruch noch unbegrenzte Wiederholungsansprüche entstehen. Fundstellen: Rn. 30–42.
 
@@ -872,6 +872,10 @@ Ein langjähriger Vertriebsingenieur verlangte nach einem umfassenden Beendigung
 Fundstellen: Gründe II 1 b cc–dd, II 1 c–d und II 2. Die Revision wurde zugelassen; ein weiterführender Verfahrensnachweis wurde nicht verifiziert. Der amtliche Text nennt beim Vergleich und in den Gründen widersprüchliche Jahreszahlen zum Beschäftigungsende. Seine Begründung geht vom bereits entstandenen Anspruch aus. Er ist deshalb kein belastbarer Beleg für die Wirksamkeit eines Vorausverzichts und nicht unbesehen auf einen heutigen Vergleich vor dem feststehenden Endtermin übertragbar.
 
 Die Reichweite nachträglicher Abgeltung bleibt ein eigener Prüfpunkt. [Amtlicher Volltext im Landesrechtsportal Brandenburg](https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/5827).
+
+#### 22.2.11. Vereinbarte Schlussformel und Wunschwortlaut
+
+Im Vergleich waren ein gutes Zeugnis und eine entsprechende Bedauerns-, Dankes- und Wunschformel vereinbart. Der Arbeitnehmer wollte „viel Erfolg“ durch „weiterhin viel Erfolg“ ersetzen. Das Arbeitsgericht verneinte eine entsprechende Wortlautbindung. Das Zeugnis beschrieb die erfolgreiche Arbeit im Leistungsteil, und der vereinbarte Schlusssatz ließ dem Arbeitgeber sprachlichen Spielraum. Frage nach dem genauen Vergleichstext, einem verbindlichen Entwurf und dem vollständigen Leistungsteil. Ein ausdrücklich vereinbarter Satz oder die nachträgliche Streichung einer früher erteilten Formel erfordert eine eigene Prüfung. [ArbG Stuttgart, Urteil vom 03.03.2026 – 3 Ca 7407/25, Rn. 23–35, Landesrecht BW](https://www.landesrecht-bw.de/bsbw/document/NJRE001639396).
 
 ### 22.3. Eigene Anwendung: zuerst die Anspruchslandkarte erstellen
 
@@ -1462,6 +1466,10 @@ Für Arbeitgeber ist eine Abweichungsliste hilfreicher als ein pauschales „unw
 
 Auch ein erfolgreicher Zwangsgeldantrag liefert noch nicht selbst das fertige Dokument. Nach Eingang ist erneut zu prüfen, ob gerade die titulierte Pflicht erfüllt wurde. Umgekehrt sollte eine tatsächlich ordnungsgemäße Leistung zeitnah im Verfahren berücksichtigt werden. Verfahrensfortsetzung aus bloßer Verärgerung kann zusätzliche Kosten und neue Konflikte erzeugen.
 
+#### 23.8.7. Einzelner Wahrheitseinwand gegen einen wesentlichen Teil des Entwurfs
+
+Das Hessische LAG hielt bei einem erteilten Zeugnis den konkreten Streit über eine wesentliche Tätigkeit für ausreichend, um ein Zwangsgeld abzulehnen. Der Entwurf nannte Baustellenüberwachung und Teambesprechungen. Im erteilten Text fehlten sie, zur tatsächlichen Aufgabenverteilung äußerte sich der Gläubiger nicht näher. Die Kammer stellte auf die Einheit des Zeugnisses ab. Erfasse für jede strittige Passage den Einwand und seine tatsächliche Grundlage. Bei einem substanziellen Einwand zu einem wesentlichen Punkt prüfe das Erkenntnisverfahren. Bei bloßer pauschaler Kritik bleiben Titelinhalt und Erfüllung konkret zu vergleichen. Das BAG hat die Frage nur teilweise begründeter Abweichungen ausdrücklich offengelassen. [Hessisches LAG, Beschluss vom 19.10.2026 – 10 Ta 207/26, Gründe II.5 und II.6.b, Landesdatenbank](https://www.rv.hessenrecht.hessen.de/bshe/?query=DOKNR%3ALARE260001319&source=PermaLink) · [Gerichtstext in freier Wiedergabe](https://zitierfest.de/rechtsprechung/lag-hessen/10-ta-207-26).
+
 ### 23.9. Kosten und Streitwert: Wert ist nicht Rechnung
 
 #### 23.9.1. Erstinstanzliche Anwaltskosten
@@ -1501,6 +1509,8 @@ Bei einem elektronischen Dokument sind Originaldatei und Einwilligung zu klären
 Zum Abschluss sollte die betroffene Person eine priorisierte Handlung erhalten: beispielsweise sofortige fristwahrende Geltendmachung, Einholung einer Originalfassung, technisch nachvollziehbare Signaturprüfung, präzise Nachbesserungsaufforderung oder Vorbereitung eines bestimmten Antrags. Der Bericht sollte keine gleichrangige Liste aller theoretisch denkbaren Verfahren anbieten, wenn sich aus den Unterlagen bereits eine klare nächste Handlung ergibt.
 
 ### 23.11. Rechercheprotokoll, Reichweite und offene Quellenpunkte
+
+Gezielter Nachtrag vom 21. November 2026 zu 22.2.8, 22.2.11 und 23.8.7. Der Kölner Sachverhalt wurde am amtlichen Text abgeglichen. Für Stuttgart ist der Gerichtstext in Landesrecht BW nachgewiesen, für Hessen die Landesfundstelle und der frei veröffentlichte Gerichtstext. Der übrige Recherchevermerk dokumentiert den früheren Arbeitsstand.
 
 #### 23.11.1. Volltexte und Quellenqualität
 

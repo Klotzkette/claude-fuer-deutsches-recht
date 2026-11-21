@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Baut und prüft die beiden Kursmappen und die fünf zugehörigen Installationspakete."""
+"""Baut und prüft die beiden Kursmappen und die vier zugehörigen Installationspakete."""
 
 import argparse
 import hashlib
@@ -20,7 +20,7 @@ VERSION = "445.36.10"
 TAG = "fachaufnahme-v" + VERSION
 URL = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/" + TAG
 SUITES = {"aktenanleger": 5, "umwandlungssteuerrecht": 3}
-PLUGINS = (*SUITES, "bautraegervertrag-pruefer", "geldwaeschebeauftragter", "geldwaeschepraevention-aml-kyc")
+PLUGINS = (*SUITES, "geldwaeschebeauftragter", "geldwaeschepraevention-aml-kyc")
 
 
 def save_or_check(path, data, write):

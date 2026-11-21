@@ -11,20 +11,20 @@ Zu Beginn jeder Vollanalyse und immer wenn unklar ist, ob der vorliegende Vertra
 
 ## Pflichtnormen
 
-- Paragraf 650u Absatz 1 BGB: Bautraegervertrag liegt vor, wenn der Unternehmer Errichtung oder grundlegende Sanierung eines Gebäudes schuldet und zugleich Eigentum oder Erbbaurecht überträgt oder begründet.
+- Paragraf 650u Absatz 1 BGB: Bautraegervertrag liegt vor, wenn der Unternehmer die Errichtung oder den Umbau eines Hauses oder vergleichbaren Bauwerks und zugleich die Übertragung des Grundstückseigentums oder die Bestellung oder Übertragung eines Erbbaurechts schuldet. [§ 650u BGB](https://www.gesetze-im-internet.de/bgb/__650u.html)
 - Paragraf 650u Absatz 2 BGB: beim Bautraegervertrag ausgeschlossen sind Paragrafen 648, 648a, 650b bis 650e, 650k Absatz 1, 650l und 650m Absatz 1; nicht ausgeschlossen sind Paragraf 650j, 650k Absätze 2 und 3, 650m Absatz 2, 650n.
-- Paragraf 650v BGB: Abschlagszahlungen nur nach MaBV; zwingend nach Absatz 4.
+- Die Zulässigkeit vereinbarter Abschläge folgt aus [§ 650v BGB](https://www.gesetze-im-internet.de/bgb/__650v.html) und [§ 1 AbschlagsV](https://www.gesetze-im-internet.de/abschlagsv/__1.html).
 - Paragraf 650i BGB: Verbraucherbauvertrag im engeren Sinn; nicht identisch mit Bautraegervertrag.
 
 ## Pruefraster
 
-1. **Errichtungs- oder Sanierungspflicht**: Schuldet der Unternehmer die Errichtung eines neuen Gebäudes oder eine Sanierung, die einem Neubau vergleichbar ist?
-2. **Eigentumsübertragungspflicht**: Muss der Unternehmer zugleich Eigentum oder Erbbaurecht am Grundstück oder am fertigen Objekt übertragen?
+1. **Errichtungs- oder Sanierungspflicht**: Welche Bauleistungen schuldet der Unternehmer als eigenen Erfolg? Beim Altbau Eingriffe und Umfang ermitteln. Für § 650u Abs. 1 ist ein Umbau zu prüfen, für die Reichweite werkvertraglicher Mängelhaftung am Bestand die Vergleichbarkeit mit einem Neubau.
+2. **Eigentumsübertragungspflicht**: Muss der bauverpflichtete Unternehmer zugleich Eigentum übertragen oder ein Erbbaurecht bestellen oder übertragen?
 3. **Kumulation beider Elemente**: Erst wenn beides zutrifft, liegt Paragraf 650u BGB vor.
-4. **Abgrenzung Generalübernehmer**: Keine Eigentumsübertragung — kein Bautraegervertrag; Werkvertragsrecht ohne MaBV-Bautraegerlogik.
+4. **Abgrenzung Generalübernehmer**: Beim Bau auf dem Grundstück des Bestellers ohne Übertragung oder Bestellung eines Grundstücksrechts Bauvertrag und gegebenenfalls Verbraucherbauvertrag prüfen. Bei gesondertem Grundstücksgeschäft prüfen, ob der Erwerb nach dem Willen der Beteiligten vom Bauauftrag abhängt. Für die Beurkundung kann das auch bei verschiedenen Vertragsparteien entscheidend sein. [BGH, Urteil vom 22.07.2010 – VII ZR 246/08, Leitsätze a und b](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Seite=1&Sort=12288&anz=651&nr=53138&pos=35)
 5. **Abgrenzung Baubetreuer**: Betreuer schließt im Namen des Bauherrn, nicht im eigenen Namen; kein Bautraegervertrag.
 6. **Abgrenzung Nachzügler-Bestandsobjekt**: Bei längerer Vermietung und echtem Bestandsverkauf ist Kaufrechtsnähe zu prüfen; Werkvertragsrecht nicht pauschal verdrängt.
-7. **Abgrenzung Baugruppen-GbR**: Mehrere Verbraucher als gemeinsame Bauherren; MaBV greift nicht; stattdessen Paragraf 311b BGB, Gesellschaftsrecht und persönliche Haftung prüfen.
+7. **Abgrenzung Baugruppen-GbR**: Feststellen, wer im eigenen oder fremden Namen handelt, Bauherrenrisiko trägt und die Übertragung schuldet. Bei echter Baugruppe Gesellschaftsrecht, Register, persönliche Haftung, Beurkundung und etwaige Baubetreuung prüfen. Eine Gesellschaftsbezeichnung kann ein Bauträgermodell verdecken.
 
 ## Leitentscheidungen
 
@@ -43,15 +43,15 @@ Errichtungs-/Sanierungspflicht:      [ja / nein / unklar]
 Eigentumsübertragungspflicht:        [ja / nein / unklar]
 Ergebnis:                            [Bautraegervertrag nach Paragraf 650u BGB]
 
-Anwendbarkeits-Karte (Auswahl):
+Auswahl für einen Verbraucher als Erwerber bei einem Bauvorhaben im Anwendungsbereich der jeweiligen Schutzvorschrift:
 | Norm                          | Status beim Bautraeger                             |
 |-------------------------------|----------------------------------------------------|
-| Paragraf 650j BGB             | anwendbar — Baubeschreibungspflicht                |
+| Paragraf 650j BGB             | Baubeschreibung, außer bei wesentlichen Planungsvorgaben des Verbrauchers oder seines Beauftragten                |
 | Paragraf 650k Absatz 1 BGB    | ausgeschlossen — Baubeschreibung muss beurkundet werden |
-| Paragraf 650k Absätze 2/3 BGB | anwendbar — Auslegung zulasten Unternehmer         |
+| Paragraf 650k Absätze 2/3 BGB | Auslegung bei Lücken/Zweifeln und verbindliche Zeitangabe         |
 | Paragraf 650l BGB             | ausgeschlossen — kein 14-Tage-Widerruf             |
 | Paragraf 650m Absatz 1 BGB    | ausgeschlossen                                     |
-| Paragraf 650m Absatz 2 BGB    | anwendbar — 5-Prozent-Sicherheit zwingend          |
+| Paragraf 650m Absatz 2 BGB    | bei erster Abschlagszahlung 5 Prozent der Gesamtvergütung          |
 | Paragraf 650n BGB             | anwendbar — Unterlagenpflicht                      |
 | MaBV                          | maßgeblich für Raten- und Sicherungsstruktur       |
 ```

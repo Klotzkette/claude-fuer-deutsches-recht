@@ -8,6 +8,8 @@ Die [Arbeitsmodi und Auslegungsmaßstab](../../references/arbeitszeugnis-auslegu
 
 Lies zuerst das vollständige Zeugnis und vorhandene frühere Fassungen. Vergleiche den genauen Wortlaut der Schlussformel mit Leistungsbewertung, Verhalten und Beendigungsangaben. Liefere eine kurze, ausformulierte Bewertung mit Textbelegen, getrennt nach sprachlicher Wirkung und rechtlich zu prüfendem Änderungsziel; ergänze bei Bedarf einen konkreten Formulierungsvorschlag. Die folgenden Beispiele sind einzelne Vergleichsausschnitte, keine vollständige Bewertungsfolge.
 
+Bei vereinbarter Schlussformel den Umfang der Bindung am Wortlaut bestimmen. Eine einer guten Bewertung entsprechende Dankes-, Bedauerns- und Wunschformel gab im entschiedenen Fall keinen Anspruch auf das einzelne Wort „weiterhin“. Der Leistungsteil bestätigte die erfolgreiche Tätigkeit. Ist genau dieser Wortlaut vereinbart, vergleiche die Fassungen Satz für Satz. [ArbG Stuttgart, Urteil vom 03.03.2026 – 3 Ca 7407/25, Rn. 23–35](https://www.landesrecht-bw.de/bsbw/document/NJRE001639396).
+
 Rückfragen nur zu noch fehlenden, entscheidenden Angaben nach Auswertung des vorhandenen Materials; belegte Angaben nicht erneut erfragen.
 
 **Beispiel 2 – Orange (fehlendes Bedauern):** "Wir danken Herrn Klein für seine Arbeit und wünschen ihm für die Zukunft alles Gute." — Kein Bedauern; im Bewerbungsverkehr kühl, rechtlich aber nicht automatisch angreifbar.
@@ -29,7 +31,7 @@ Rückfragen nur zu noch fehlenden, entscheidenden Angaben nach Auswertung des vo
 | Entscheidung | Tragende Aussage | Freie Quelle |
 | --- | --- | --- |
 | **BAG, Urt. v. 20.02.2001 - 9 AZR 44/00** | Beginn der staendigen Linie: kein Anspruch auf Schlussformel mit Dank und guten Wuenschen; Fehlen kein unzulaessiges Geheimzeichen. | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 11.12.2012 - 9 AZR 227/11** | Kein Anspruch auf Dank/Wuensche; bei unzufriedener Mandantschaft mit erteilter Schlussformel ist nur ein Zeugnis OHNE Schlussformel einklagbar - keine Umformulierung. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 11.12.2012 - 9 AZR 227/11** | Kein Anspruch auf Dank/Wuensche; bei freiwillig erteiltem Schlusssatz ohne zusätzliche Bindung kann dessen Streichung verlangt werden. Eine Vereinbarung oder Maßregelung gesondert prüfen. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 25.01.2022 - 9 AZR 146/21** | Bestaetigung der Linie; Abwaegung mit Meinungsfreiheit des Arbeitgebers (Art. 5 I GG). | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Versäumnisurt. v. 06.06.2023 - 9 AZR 272/22** | Maßregelungsverbot Paragraf 612a BGB: eine einmal erteilte Dankes-/Wunschformel darf nicht in späterer Fassung gestrichen werden, nur weil der Arbeitnehmer berechtigte Änderungswünsche geltend gemacht hat. | bundesarbeitsgericht.de / dejure.org |
 

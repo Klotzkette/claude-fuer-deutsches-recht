@@ -1,6 +1,6 @@
 {
   "name": "arbeitszeugnispruefer",
-  "version": "445.36.9",
+  "version": "445.36.11",
   "description": "Prüft Arbeitszeugnisse, vergleicht Fassungen und formuliert belegte Berichtigungen und Schreiben. Acht Arbeitswege verbinden Zeugnisanalyse und Rechtsprüfung mit Ausbildungs- und Führungsfällen, beiden Testaktenbeständen und einer vollständigen Fachbibliothek.",
   "license": "Apache-2.0 OR MIT",
   "author": {
