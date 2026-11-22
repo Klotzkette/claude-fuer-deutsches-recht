@@ -246,23 +246,14 @@ def is_markdown_work_file(destination: str) -> bool:
 
 
 def is_markdown_download_target(repo_path: str) -> bool:
-    """Markdown-Quellen und ausdrücklich konfigurierte TXT-Promptkopien."""
-    if (re.fullmatch(r"[A-Za-z0-9._/ -]+\.(?:md|txt)", repo_path) is None
-            or {"", ".", "..", ".git"}.intersection(repo_path.split("/"))):
+    """Akzeptiert die von GitHub Pages bereitgestellten Dateinamen und Endungen."""
+    if re.fullmatch(r"[A-Za-z0-9._/ -]+\.(?:md|txt)", repo_path) is None:
         return False
-    if repo_path.endswith(".md"):
-        return True
-    # TXT ist nur für die im Marketplace registrierte Pluginquelle und die
-    # konkreten Varianten seines Publikationsprofils freigegeben.
-    marketplace = json.loads(MARKETPLACE.read_text(encoding="utf-8"))
-    for plugin in marketplace.get("plugins", []):
-        name = plugin["name"]
-        if "txt" not in formats(name):
-            continue
-        source = str(plugin.get("source") or f"./{name}").removeprefix("./")
-        if repo_path in {f"{source}/{name}-{kind}.txt" for kind in standalone_kinds(name)}:
-            return True
-    return False
+    if {"", ".", "..", ".git"}.intersection(repo_path.split("/")):
+        return False
+    # Die Pages-Ausgabe umfasst auch eigenständige Prompts in Unterordnern.
+    # Publikationsprofile bestimmen die Pflichtlinks der generierten Kataloge.
+    return repo_path.endswith((".md", "-werkstatt.txt", "-schnellstart.txt", "-hauptproblem.txt"))
 
 
 def user_facing_download_docs() -> list[Path]:

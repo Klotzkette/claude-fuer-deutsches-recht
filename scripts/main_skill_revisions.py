@@ -401,12 +401,12 @@ def before_preview_release_link(root, path, current, expected, *, plugin=None):
     if plugin is not None and plugin != name:
         raise ValueError(f"{name}: Vorschau gehört zu einem anderen Plugin")
 
-    from release_routing import RELEASE_BASE
-    pinned = f'href="{RELEASE_BASE}/download/qualitaetsrunde-v445.36.9/{name}.zip"'.encode()
+    from release_routing import RELEASE_BASE, plugin_asset_url
+    current_href = f'href="{plugin_asset_url(name, root=root)}"'.encode()
     latest = f'href="{RELEASE_BASE}/latest/download/{name}.zip"'.encode()
-    if current.count(pinned) != 1:
+    if current.count(current_href) != 1:
         raise ValueError(f"{name}: genau ein belegter Paketlink in der Vorschau erforderlich")
-    original = current.replace(pinned, latest, 1)
+    original = current.replace(current_href, latest, 1)
     if digest(original) != expected:
         raise ValueError(f"{name}: Vorschau weicht über den Paketlink hinaus vom Original ab")
     return original
