@@ -19,9 +19,9 @@
   },
   "neuralis-medtech-erlangen-gestaltungsakte": {
     "titel": "Neuralis MedTech in Erlangen – Wer kann die Geschäftsführung anweisen?",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-neuralis-medtech-erlangen-gestaltungsakte.zip",
-    "sha256": "5476f4eb8490afd0d4cdec627f17b75cd4b51c6f77e36c200f18b172992f68b2",
-    "size": 1521394
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/lebensakte-neuralis-medtech-erlangen-gestaltungsakte.zip",
+    "sha256": "3a158e9026cbf6b9011c25a44c78e115db5ea6f4d89b5cd4ccdcc6305ae326d3",
+    "size": 1657584
   },
   "notariat-alltag-waldwinkel-gmbh-immobilien-erbfall": {
     "titel": "Akte Waldwinkel: GmbH-Anteile, Hofgrundstück, Erbfolge und drei Registerrückfragen",
