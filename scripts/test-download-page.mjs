@@ -14,6 +14,11 @@ const scenarios = [
   ['Raw liefert Markdown nach Pages-404', skill, [404, 200], 'demo--erste pruefung.md'],
   ['Raw liefert Markdown nach Netzfehler', skill, [0, 200], 'demo--erste pruefung.md'],
   ['Beide Quellen fehlen', skill, [404, 404], null],
+  ['Pages liefert einen verschachtelten Zusatzprompt',
+    'insolvenzsachbearbeitung/prompts/verbraucherinsolvenz/verbraucherinsolvenz-werkstatt.txt',
+    [200], 'verbraucherinsolvenz-werkstatt.txt'],
+  ['Ein fehlender TXT-Prompt bleibt ein Downloadfehler',
+    'demo/fehlender-schnellstart.txt', [404, 404], null],
   ['Gewöhnliche TXT-Datei führt zur GitHub-Quelle', 'requirements.txt', [], null],
 ];
 for (const kind of ['werkstatt', 'schnellstart', 'hauptproblem']) {

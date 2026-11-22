@@ -7,6 +7,7 @@ import unittest
 
 import main_skill_revisions as rev
 import quality_lab as lab
+from release_routing import RELEASE_BASE, plugin_asset_url
 
 
 def put(root, path, data):
@@ -352,11 +353,23 @@ class RevisionTests(unittest.TestCase):
     def test_preview_proof_rejects_other_edits_paths_plugins_and_hashes(self):
         repository = Path(__file__).resolve().parents[1]
         relative = "energierecht/assets/vorschau/index.html"
-        current = (repository / relative).read_bytes()
-        path = put(self.root, relative, current)
+        package = "energierecht.zip"
         expected = rev.PREVIEW_ORIGINAL_SHA256["energierecht"]
-        wrong_tag = current.replace(b"qualitaetsrunde-v445.36.9/energierecht.zip", b"anderer-tag/energierecht.zip")
-        wrong_zip = current.replace(b"/energierecht.zip", b"/umweltrecht.zip")
+        source = (repository / relative).read_bytes()
+        source_url = plugin_asset_url("energierecht", root=repository).encode()
+        latest = f"{RELEASE_BASE}/latest/download/{package}".encode()
+        original = source.replace(source_url, latest)
+        self.assertEqual(rev.digest(original), expected)
+
+        tag = "energierecht-v2.0.0"
+        routes = put(self.root, "scripts/scoped-release-assets.json",
+                     {"schema_version": 1, "assets": {package: tag}})
+        pinned = f"{RELEASE_BASE}/download/{tag}/{package}".encode()
+        current = original.replace(latest, pinned)
+        path = put(self.root, relative, current)
+        self.assertEqual(rev.historical_bytes(self.root, path, expected), original)
+        wrong_tag = current.replace(pinned, pinned.replace(tag.encode(), b"anderer-tag"))
+        wrong_zip = current.replace(pinned, pinned.replace(package.encode(), b"umweltrecht.zip"))
         for altered in (current + b"Zusatz", current + current, wrong_tag, wrong_zip):
             with self.subTest(altered=rev.digest(altered)), self.assertRaises(ValueError):
                 path.write_bytes(altered)
@@ -368,6 +381,16 @@ class RevisionTests(unittest.TestCase):
         for other in ("energierecht/references/index.html", "ungeprueft/assets/vorschau/index.html"):
             with self.subTest(path=other):
                 self.assertEqual(rev.historical_bytes(self.root, put(self.root, other, current), expected), current)
+
+        # Nach Aufhebung der komponentenspezifischen Zuordnung gilt der Sammelrelease.
+        routes.write_text(json.dumps({"schema_version": 1, "assets": {}}), encoding="utf-8")
+        with self.assertRaisesRegex(ValueError, "genau ein belegter Paketlink"):
+            rev.historical_bytes(self.root, path, expected)
+        path.write_bytes(original)
+        self.assertEqual(rev.historical_bytes(self.root, path, expected), original)
+        path.write_bytes(original + b"Zusatz")
+        with self.assertRaisesRegex(ValueError, "weicht über den Paketlink hinaus"):
+            rev.historical_bytes(self.root, path, expected)
 
 
 if __name__=='__main__': unittest.main()
