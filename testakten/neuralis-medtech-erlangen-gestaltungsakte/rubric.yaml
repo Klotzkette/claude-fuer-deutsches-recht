@@ -1,6 +1,6 @@
 name: neuralis-medtech-erlangen-gestaltungsakte
 plugin: sozialversicherungspflicht-pruefer
-description: Drei Aktenstände zur Rechtsmacht eines Minderheitsgeschäftsführers und zur notariellen Vorbereitung eines weiteren Gestaltungstermins.
+description: Bewertung der Statusprüfung und der notariellen Vorbereitung anhand dreier getrennt ausgegebener Aktenstände.
 checks:
   - id: satzungsgrundlage
     check_type: file_exists
@@ -12,14 +12,84 @@ checks:
     path: 01_Bescheid_und_erste_Aenderung/B10_Eintragungsmitteilung.pdf
   - id: offener-entwurf
     check_type: file_exists
-    description: Für den zweiten Termin liegt der bearbeitbare Arbeitsentwurf zu Zustimmung und Beirat vor.
+    description: Der erste Arbeitsentwurf zum zweiten Termin bleibt mit den späteren Gegenentwürfen vergleichbar.
     path: 02_Gestaltungsvorschlaege/G02_Arbeitsentwurf_Zustimmung_und_Beirat.docx
+  - id: rechenvarianten
+    check_type: file_exists
+    description: Die bearbeitbare Kapitaltabelle ermöglicht den Vergleich von Anteilskauf und Kapitalerhöhung.
+    path: 02_Gestaltungsvorschlaege/G10_Kapitalvarianten_zur_Finanzierungsrunde.xlsx
+  - id: grundakte
+    check_type: human_review
+    description: >-
+      Den Befund per 21.07.2023 mit A02–A13 belegen. Bei voller Stimmabgabe kann
+      der Fonds mit 51.000 von 100.000 Stimmen eine gewöhnliche Weisung durchsetzen. Vogts
+      32.000 Stimmen können in diesem Fall eine Dreiviertelmehrheit verhindern. Am
+      Klimaschrank (62.400 Euro netto) Beiratsfreigabe mit 2 zu 1 Stimmen,
+      Einzelunterschrift und Ausführung des einheitlichen Auftrags auseinanderhalten.
+      Vergütung, tatsächlich erstattete Reiseauslagen, Vertretung und persönliche
+      Bürgschaft würdigen. A13 dokumentiert eine Kreditanfrage, keine Zusage.
   - id: stichtage
     check_type: human_review
-    description: Wirksame Satzungsfassungen, Zugang des Bescheids und tatsächliche Weisung anhand der jeweiligen Belege auseinanderhalten.
+    description: >-
+      Den Antrag vom 15.12.2025 und den Tenor vom 09.02.2026 auf Vogts konkrete
+      Tätigkeit ab 01.03.2023 beziehen. Für die Zeit bis zur Eintragung vom
+      06.03.2023 die belegte gesellschaftsrechtliche Grundlage klären. Den beiden
+      Zustellungen am 11.02. die reguläre Monatsfrist bis 11.03. und beide am
+      18.02. eingegangenen Widersprüche zuordnen (B05/B05a, §§ 64, 84 SGG).
+      Aufschiebende Wirkung nach § 7a Abs. 6 SGB IV, offener Verfahrensstand und
+      Umfang der Statusfeststellung gehören in den Vermerk. Eine konkrete
+      Beitragsforderung müsste gesondert belegt werden.
+  - id: erste-aenderung
+    check_type: human_review
+    description: >-
+      Beschluss mit 100.000 Ja-Stimmen am 24.02., Anmeldung am 26.02. und Eintragung
+      am 09.03.2026 unterscheiden (B06–B10, §§ 53, 54 GmbHG). Bis zur Eintragung
+      gilt die bisherige Fassung. Die neue Fassung anhand des 90-Prozent-Quorums
+      für bestimmte Patentlizenzen sowie der an Amt und Beteiligung geknüpften
+      Ressort- und Studienschutzrechte auslegen. Bei der Einkaufsweisung am 19.03.
+      stehen 68.000 Ja- gegen 32.000 Nein-Stimmen. B11–B13 belegen, warum der
+      Übersetzungsauftrag über 21.600 Euro bei laufenden Studien und einer
+      Freigabegrenze von 18.000 Euro offen bleibt.
   - id: rechtsmacht
     check_type: human_review
-    description: Für jede Variante die Stimmrechte im Regelfall und im zustimmungspflichtigen Einzelfall sowie Änderung und Entzug dieser Rechte prüfen.
-  - id: vollzug
+    description: >-
+      Die Märzweisung als Gegenprobe für G02/G06 und G03/G07 durchspielen.
+      Benennen, wer bei persönlicher Zustimmung über Weisung und Beiratsgeschäfte
+      entscheidet und wie Zweitversammlung, Umlauf, Enthaltung, Stimmverbote,
+      Delegation und Änderung oder Entzug des Rechts geregelt wären. Dem die
+      befristete schuldrechtliche Stimmbindung mit sachlicher Begrenzung und freier
+      Stimmabgabe nach gescheiterter Einigung gegenüberstellen. Interessenkonflikte,
+      Blockaden und Ausweichmöglichkeiten am Fall prüfen. G09 enthält Seidls offene
+      Rückfragen. Keine Fassung als vereinbart voraussetzen.
+  - id: kapital-und-vollzug
     check_type: human_review
-    description: Die Vorschläge nach Interessen, Mehrheiten, Beurkundung, Eintragung und zeitlichen Grenzen beurteilen, ohne einen zweiten Vollzug zu unterstellen.
+    description: >-
+      G04/G08/G10 in zwei Rechnungen nachvollziehen. Beim Kauf eines Teilanteils
+      von nominal 18.000 Euro hält der Fonds 33.000, Vogt 50.000 und Seidl 17.000
+      von 100.000 Euro. Die Kaufpreisanahme 360.000 Euro (120.000 Eigenmittel,
+      240.000 Kreditbedarf) von Nennbetrag und Finanzierung der GmbH abgrenzen.
+      Bei Übernahme von neuem Kapital über 36.000 Euro allein durch Vogt ergeben
+      sich 51.000/68.000/17.000 von 136.000 Euro. Den Stimmengleichstand bei voller
+      Stimmabgabe, fehlenden Stichentscheid und fortbestehende Beiratsrechte für
+      beide Wege prüfen. Eine Enthaltung zählt bei bestehender Beschlussfähigkeit
+      nicht zu den abgegebenen Stimmen. Bleibt Vogt mit 50 Prozent ganz fern,
+      verfehlt die Erstversammlung das Präsenzquorum von 75 Prozent. Für die
+      Zweitversammlung sind erneute Einladung, Frist, Hinweis und Tagesordnung
+      zu prüfen. Für den Kauf Teilung, Zustimmung, notarielle Verpflichtung
+      und Abtretung, Bedingungen und Legitimation durch die Liste zeitlich trennen.
+      Für die Erhöhung Beschluss, Zulassung zur Übernahme, Erklärung, Einlage,
+      Registereintragung und Liste angeben (§§ 15, 16, 40, 53–57 GmbHG).
+  - id: arbeitsprodukte
+    check_type: human_review
+    description: >-
+      Der Statusvermerk benennt je Zeitraum Beleg, tragenden Befund, Gegenargument
+      und verbleibende Unsicherheit. Die notarielle Besprechungsvorlage vergleicht
+      die Interessen aller drei Gesellschafter, schlägt begründete Klauseln mit
+      offenen Entscheidungen und erforderlichen Vollzugsschritten vor. Sie
+      beantwortet Seidls Fragen zur gegenstandsbezogenen Vollmacht, zur befristeten
+      Vorabfreigabe mit Einzel- und Gesamtbudget sowie zum Geldzufluss bei Neuralis und trennt
+      die neutrale Betreuung von der anwaltlichen Interessenvertretung. Eine
+      Änderung des Dienstvertrags (etwa zum Urlaub) nach Zuständigkeit, Vertretung
+      und eigenständiger Wirkung prüfen. Alle Aprilunterlagen als Vorschläge
+      behandeln. Ein neuer Beschluss, Vollzug oder geänderter DRV-Bescheid wäre
+      gesondert nachzuweisen.

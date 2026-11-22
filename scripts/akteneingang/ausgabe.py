@@ -211,6 +211,10 @@ def check_reference(case, name, native):
 
 def build(case, record, redaktion, sources):
     native, printed = original_set(case, record, sources)
+    return build_from_documents(case, record, redaktion, native, printed)
+
+
+def build_from_documents(case, record, redaktion, native, printed):
     if not native:
         raise ValueError("Leerer Ausgangsbestand: " + case)
     for reference in redaktion["bezug"]:

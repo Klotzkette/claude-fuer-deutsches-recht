@@ -1,5 +1,9 @@
 # Neuralis MedTech in Erlangen – Wer kann die Geschäftsführung anweisen?
 
+Dr. Henrik Vogt hat für den Firmenkredit persönlich gebürgt. Die Bestellung eines Klimaschranks über 62.400 Euro hat er selbst unterschrieben. Trotzdem bleibt ein von ihm ausgehandelter Übersetzungsauftrag über 21.600 Euro im Freigabefach liegen. Als die Deutsche Rentenversicherung seine Tätigkeit als Beschäftigung einordnet, beruft er sich auf seine Stellung als Gründer. Welche Entscheidungen konnte er kraft seiner Beteiligung tatsächlich verhindern?
+
+Die Akte eignet sich für die Statusberatung und die Vorbereitung eines gesellschaftsrechtlichen Notartermins. Beginnen Sie mit den Eingangsunterlagen und öffnen Sie die beiden Nachträge erst, wenn der jeweilige Arbeitsauftrag es verlangt. [Statusprüfung](#auftrag-für-die-statusprüfung) · [Notariat](#auftrag-für-das-notariat)
+
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
@@ -13,10 +17,10 @@
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-neuralis-medtech-erlangen-gestaltungsakte.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-neuralis-medtech-erlangen-gestaltungsakte.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/lebensakte-neuralis-medtech-erlangen-gestaltungsakte.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/druckakte-neuralis-medtech-erlangen-gestaltungsakte.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/neuralis-medtech-erlangen-gestaltungsakte_gesamt.pdf`](gesamt-pdf/neuralis-medtech-erlangen-gestaltungsakte_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-neuralis-medtech-erlangen-gestaltungsakte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/werkstatt-partnerakten-v1.0.0/testakte-neuralis-medtech-erlangen-gestaltungsakte.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-neuralis-medtech-erlangen-gestaltungsakte-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/werkstatt-partnerakten-v1.0.0/testakte-neuralis-medtech-erlangen-gestaltungsakte-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-neuralis-medtech-erlangen-gestaltungsakte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/testakte-neuralis-medtech-erlangen-gestaltungsakte.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-neuralis-medtech-erlangen-gestaltungsakte-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/testakte-neuralis-medtech-erlangen-gestaltungsakte-einzelpdfs.zip) |
 
 Im Gesamt-PDF führen Lesezeichen zu den Aktenständen und einzelnen Belegen. Die ZIPs enthalten nur die Arbeitsunterlagen und den Herkunftshinweis.
 
@@ -24,23 +28,33 @@ English: Begin with the initial records in `Grundakte`. Both ZIP editions retain
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Dr. Henrik Vogt leitet die Entwicklung der Neuralis MedTech GmbH. Seine Beteiligung beträgt 32 Prozent. FrankenHealth Ventures hält 51 Prozent, Dr. Miriam Seidl 17 Prozent. In der technischen Arbeit verlässt sich das Team auf Vogts Urteil. Als die Gesellschafter später über Einkaufsberichte und externe Berater abstimmen, zählt jede Stimme. Was darf Vogt im Alltag selbst entscheiden, und welche Entscheidung kann er gegen den Willen seiner Mitgesellschafter verhindern?
-
-Der Fall hat zwei Einstiege. [Zum Auftrag des Sozialversicherungsprüfers](#auftrag-für-die-statusprüfung) · [Zum Auftrag des Notariats](#auftrag-für-das-notariat). Beide verwenden dieselben Originaldateien.
+<!-- reserved-example-contacts -->
+Die Kontaktadressen mit der Endung `.example` gehören zum erfundenen Fall.
 
 ## Die drei Aktenstände
 
-1. **Grundakte, 21. Juli 2023.** Öffnen Sie zunächst nur `Grundakte`. Rekonstruieren Sie aus den damaligen Unterlagen Beteiligungen, Weisungsrechte und die tatsächliche Arbeitsteilung. Notieren Sie, welche Frage Sie Vogt stellen würden.
-2. **Bescheid und erster Änderungsversuch.** Öffnen Sie `01_Bescheid_und_erste_Aenderung`. Ordnen Sie die Feststellung der DRV, den notariellen Beschluss, die Eintragung und die anschließende Abstimmung auf einer Zeitachse ein. Halten Sie an jedem Datum fest, welches Dokument die rechtliche oder tatsächliche Ausgangslage verändert.
-3. **Vorschläge für einen weiteren Termin.** Öffnen Sie `02_Gestaltungsvorschlaege`. Hier endet der Fall mit der Beratung. Für den zweiten Anlauf liegen ausschließlich Vorschläge im Mandat vor. Welche Fassung die Beteiligten wählen, ist offen.
+| Aktenstand | Was auf dem Tisch liegt | Frage für die erste Durchsicht |
+| --- | --- | --- |
+| **1 · Grundakte, 21. Juli 2023** | Satzung, Anstellungsvertrag, Beteiligungsübersicht, Bestellvorgang, Bankkorrespondenz und Reisekosten. Fonds, Vogt und Seidl halten 51, 32 und 17 Prozent. | Wer durfte den Klimaschrank auswählen, seine Anschaffung freigeben und den Auftrag nach außen erteilen? Wer trug die Kosten und wer haftete gegenüber der Bank? |
+| **2 · Statusverfahren und erste Satzungsänderung, Dezember 2025 bis März 2026** | Antrag, Bescheid und Eingang der Widersprüche. Auf die Urkunde folgen Registeranmeldung, Eintragung und die umstrittene Einkaufsweisung. | Was hatte sich bei der Abstimmung am 19. März bereits geändert? Warum wartet das Übersetzungsbüro am selben Nachmittag auf eine Bestellung? |
+| **3 · Verhandlung, 1. bis 17. April 2026** | Vorschläge von Vogts Anwalt und der Fondsseite, Seidls Rückfragen und eine interne Kapitalrechnung. Die Vorschläge stehen nebeneinander zur Beratung. | Welche Regelung würde auch bei der nächsten Einkaufsweisung greifen, wer müsste ihr zustimmen und ab wann könnte Vogt sich auf sie berufen? |
 
 ## Auftrag für die Statusprüfung
 
-Sie beraten Dr. Vogt. Halten Sie in einem kurzen Vermerk für jeden Zeitraum fest, wer ihm auch gegen seinen Willen Weisungen erteilen konnte. Gleichen Sie den Tenor des Bescheids mit der Tätigkeit und den erfassten Zeiträumen ab. Zeigen Sie an der tatsächlichen Abstimmung, was der erste Änderungsversuch bewirkt. Legen Sie zu jedem späteren Vorschlag dar, welche tatsächlichen oder rechtlichen Voraussetzungen noch offen sind. [Sozialversicherungspflicht-Prüfer](../../sozialversicherungspflicht-pruefer/README.md)
+Sie vertreten Dr. Vogt im laufenden Widerspruchsverfahren. Er braucht einen Vermerk für das Gespräch mit seinen Mitgesellschaftern und eine kurze ergänzende Widerspruchsbegründung. Bezeichnen Sie den Bescheid, die angegriffene Feststellung, die zugrunde gelegten Zeiträume und die Belege, auf die Sie Ihr Vorbringen stützen.
+
+1. Rekonstruieren Sie einen Einkauf vom Beiratsvotum bis zur Lieferantenbestätigung. Stellen Sie Vogts stärkstes Argument für seine Selbstständigkeit der tatsächlichen Freigabekette gegenüber. Ordnen Sie die persönliche Sicherheit, das Lohnjournal und die Reisekostenerstattung ein.
+2. Legen Sie die Satzungsfassungen auf eine Zeitachse. Halten Sie Zustellungen, Widersprüche, Beurkundung und Eintragung mit Datum und Beleg fest. Welche Tatsachen für die ersten Tage der Tätigkeit müssten Sie noch ermitteln?
+3. Rechnen Sie die Abstimmung vom 19. März nach. Prüfen Sie anschließend einen Patentlizenzbeschluss und eine gewöhnliche Weisung getrennt. Halten Sie für jeden Vorgang die zuständige Stelle, die anwesenden Anteile, die abgegebenen Stimmen und ein etwaiges persönliches Zustimmungsrecht fest.
+4. Erläutern Sie Vogt, was sich mit den Aprilvorschlägen künftig ändern könnte. Benennen Sie auch, was der Bescheid über Beiträge und einzelne Versicherungszweige tatsächlich regelt. [Sozialversicherungspflicht-Prüfer](../../sozialversicherungspflicht-pruefer/README.md)
 
 ## Auftrag für das Notariat
 
-Die Gesellschafter wünschen eine Vorbesprechung. Arbeiten Sie heraus, ob sie ihrem Mitgeschäftsführer dauerhaft eine Sperre bei Gesellschaftsbeschlüssen einräumen wollen und welchen Einfluss sie selbst dafür aufgeben würden. Prüfen Sie Mehrheit, Bezugsgröße, Weisungen, Beiratsbefugnisse, Form und Registervollzug. Trennen Sie die Interessen der einzelnen Auftraggeber von der neutralen Vorbereitung durch das Notariat. Liefern Sie Fragen für die Besprechung sowie einen begründeten Gestaltungsentwurf mit offenen Entscheidungen. [Notariatswerkstatt](../../notariat-alltag/README.md)
+Die Gesellschafter wünschen eine Vorbesprechung. Vogt will handlungsfähig bleiben, der Fonds will Aufträge kontrollieren, und Seidl muss den Klinikpartnern erklären können, wer in den Ferien eine Bestellung freigibt. Bereiten Sie einen neutralen Gesprächsvermerk und einen bearbeitbaren Klauselentwurf für die von den Beteiligten noch zu treffende Wahl vor.
+
+- Legen Sie den [Satzungsentwurf](02_Gestaltungsvorschlaege/G06_Satzungsfassung_Weisungen_und_Freigaben.docx) neben den [Stimmbindungsentwurf](02_Gestaltungsvorschlaege/G07_Stimmbindung_Fonds_und_Seidl.docx). Wer wäre jeweils gebunden? Was geschähe bei Enthaltung, Vertretung, einer zweiten Versammlung oder einer gegen die Absprache abgegebenen Stimme?
+- Prüfen Sie mit [Konditionenpapier](02_Gestaltungsvorschlaege/G08_Konditionen_Teilanteil_und_Finanzierung.docx) und [Kapitalrechnung](02_Gestaltungsvorschlaege/G10_Kapitalvarianten_zur_Finanzierungsrunde.xlsx) zwei Wege zu 50 Prozent. Wer gibt Anteile ab, wer erhält Geld und wer hält danach die anderen Stimmen? Trennen Sie Nennbetrag, Kaufpreis, Einlage und Kreditbedarf.
+- Erstellen Sie für den gewünschten Weg eine Vollzugsliste. Vermerken Sie die noch einzuholenden Erklärungen, einen möglichen Interessenkonflikt und den Vorgang, ab dem die neue Rechtsstellung für Vogt maßgeblich wäre. Die letzte Aprilunterlage ist eine interne Rechnung. Der zweite Termin und die Entscheidung der Beteiligten sind offen. [Notariatswerkstatt](../../notariat-alltag/README.md)
 
 ## Verhältnis zur Prozessakte
 

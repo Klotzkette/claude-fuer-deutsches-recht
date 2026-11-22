@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from functools import lru_cache
+from release_routing import scoped_asset_url
 
 from .quellen import URL, catalogs
 from .vertiefung import TAG as FACHTAG
@@ -37,9 +38,11 @@ def links(key, historisch=False):
     slug, group = all_routes()[key]
     if not historisch and key in fachpfade():
         base = URL + FACHTAG + "/"
+        native = f"lebensakte-{slug}.zip"
+        printed = f"druckakte-{slug}.zip"
         return (
-            f"[Arbeits-ZIP mit Eingangspost]({base}lebensakte-{slug}.zip)",
-            f"[Druckfassungen dieses Falls]({base}druckakte-{slug}.zip)",
+            f"[Arbeits-ZIP mit Eingangspost]({scoped_asset_url(native) or base + native})",
+            f"[Druckfassungen dieses Falls]({scoped_asset_url(printed) or base + printed})",
         )
     base = URL + TAG + "/"
     return (

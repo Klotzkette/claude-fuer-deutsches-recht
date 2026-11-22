@@ -105,10 +105,24 @@ def before_notariat_marketplace_count(root, path, current, *, plugin=None):
 
 def before_case_index_addition(root, path, current, addition):
     """Entfernt nur den belegten Falltabelleneintrag und setzt dessen Zähler zurück."""
-    from release_routing import case_asset_url
+    from release_routing import RELEASE_BASE, case_asset_url
 
     slug = addition["slug"]
     count = addition["previous_count"]
+    urls = {suffix: case_asset_url(slug, suffix, root=root) for suffix in ("", "-einzelpdfs")}
+    revision = addition.get("download_revision")
+    if revision:
+        previous_tag = revision["previous_tag"]
+        if not re.fullmatch(r"[a-z0-9][a-z0-9.-]*", previous_tag):
+            raise ValueError("Ungültiger historischer Release-Tag der Fallzeile")
+        historical = {suffix: f"{RELEASE_BASE}/download/{previous_tag}/testakte-{slug}{suffix}.zip"
+                      for suffix in urls}
+        if digest(current) == revision["after_sha256"]:
+            for suffix, url in urls.items():
+                if current.count(url.encode()) != 1:
+                    raise ValueError("Downloadlink der fortgeschriebenen Fallzeile nicht eindeutig")
+                current = current.replace(url.encode(), historical[suffix].encode(), 1)
+        urls = historical
     # Der Neuralis-Nachtrag aktualisiert auch die vier ausgeschriebenen
     # Zähler der Anleitung. Die rekonstruierte Fassung muss anschließend
     # unverändert zum bereits registrierten Hash des Tabellen-Nachtrags passen.
@@ -136,7 +150,7 @@ def before_case_index_addition(root, path, current, addition):
              f"[Gesamt-PDF]({base}/gesamt-pdf/{slug}_gesamt.pdf)"]
     for suffix in ("", "-einzelpdfs"):
         name = f"testakte-{slug}{suffix}.zip"
-        cells.append(f"[`{name}`]({case_asset_url(slug, suffix, root=root)})")
+        cells.append(f"[`{name}`]({urls[suffix]})")
     line = ("| " + " | ".join(cells) + " |\n").encode()
     def counter(n):
         return f"[{n} zugeordnete Akten](#zugeordnete-testakten)".encode()

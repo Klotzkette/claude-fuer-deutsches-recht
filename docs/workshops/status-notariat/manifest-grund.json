@@ -50,6 +50,21 @@
     "pdf": "docs/workshops/status-notariat/lesefassungen/Grundakte/A10_Abwesenheitsvertretung.pdf"
   },
   {
+    "source": "testakten/neuralis-medtech-erlangen-gestaltungsakte/Grundakte/A11_Auftragsbestaetigung_Altmuehl.pdf",
+    "archive": "Grundakte/A11_Auftragsbestaetigung_Altmuehl.pdf",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/Grundakte/A11_Auftragsbestaetigung_Altmuehl.pdf"
+  },
+  {
+    "source": "testakten/neuralis-medtech-erlangen-gestaltungsakte/Grundakte/A12_Reisekosten_Pruefzentrum.xlsx",
+    "archive": "Grundakte/A12_Reisekosten_Pruefzentrum.xlsx",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/Grundakte/A12_Reisekosten_Pruefzentrum.pdf"
+  },
+  {
+    "source": "testakten/neuralis-medtech-erlangen-gestaltungsakte/Grundakte/A13_Rueckfrage_Privater_Kreditrahmen.eml",
+    "archive": "Grundakte/A13_Rueckfrage_Privater_Kreditrahmen.eml",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/Grundakte/A13_Rueckfrage_Privater_Kreditrahmen.pdf"
+  },
+  {
     "source": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B01_Antrag_Erwerbsstatus.pdf",
     "archive": "01_Bescheid_und_erste_Aenderung/B01_Antrag_Erwerbsstatus.pdf",
     "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B01_Antrag_Erwerbsstatus.pdf"
@@ -113,5 +128,10 @@
     "source": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B12_Anforderung_Einzelfreigabe.eml",
     "archive": "01_Bescheid_und_erste_Aenderung/B12_Anforderung_Einzelfreigabe.eml",
     "pdf": "docs/workshops/status-notariat/lesefassungen/01_Bescheid_und_erste_Aenderung/B12_Anforderung_Einzelfreigabe.pdf"
+  },
+  {
+    "source": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B13_Angebotsfrist_Uebersetzung.eml",
+    "archive": "01_Bescheid_und_erste_Aenderung/B13_Angebotsfrist_Uebersetzung.eml",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/01_Bescheid_und_erste_Aenderung/B13_Angebotsfrist_Uebersetzung.pdf"
   }
 ]

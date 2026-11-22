@@ -73,15 +73,15 @@ def record(phase, stem, source, reading):
                      "pdf": reading.relative_to(ROOT).as_posix()})
 
 
-def stable_office(path):
+def stable_office(path, *, moment=datetime(2026, 3, 19), replacements=None):
     """ZIP-Zeitstempel und die automatischen Office-Bearbeitungsdaten stabil halten."""
     fixed = io.BytesIO()
     with ZipFile(path) as old, ZipFile(fixed, "w", compression=ZIP_DEFLATED) as new:
         for name in old.namelist():
-            data = old.read(name)
+            data = replacements[name] if replacements and name in replacements else old.read(name)
             if name == "docProps/core.xml":
-                data = re.sub(rb"(<dcterms:(?:created|modified)\b[^>]*>)[^<]+", rb"\g<1>2026-03-19T00:00:00Z", data)
-            info = ZipInfo(name, (2026, 3, 19, 0, 0, 0))
+                data = re.sub(rb"(<dcterms:(?:created|modified)\b[^>]*>)[^<]+", lambda match: match[1] + moment.strftime("%Y-%m-%dT%H:%M:%SZ").encode(), data)
+            info = ZipInfo(name, moment.timetuple()[:6])
             info.compress_type = ZIP_DEFLATED
             info.external_attr = 0o100644 << 16
             new.writestr(info, data)
@@ -467,6 +467,8 @@ def main():
     first_contact()
     decision_and_amendment()
     save_receipt()
+    from praxisbelege_bauen import build as build_praxisbelege
+    MANIFEST.extend(build_praxisbelege())
     records=sorted(MANIFEST,key=lambda r:(r["archive"].split("/")[0]!=BASE,r["archive"]))
     for r in records:
         if not (ROOT/r["pdf"]).is_file() or not (ROOT/r["source"]).is_file():

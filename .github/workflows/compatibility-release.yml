@@ -53,6 +53,10 @@ on:
       - 'scripts/test-e-rechnung-werkstatt.py'
       - 'e-rechnung-werkstatt/**'
       - 'notariat-alltag/**'
+      - 'scripts/test-neuralis-gestaltungsakte.py'
+      - 'scripts/build-werkstatt-partnerakten-release.py'
+      - 'testakten/neuralis-medtech-erlangen-gestaltungsakte/**'
+      - 'docs/workshops/status-notariat/**'
       - 'scripts/test-notariatswerkstatt.py'
       - 'scripts/test-notariat-dnoti-anfragen.py'
       - 'scripts/notariat_dnoti_satz.py'
@@ -152,6 +156,7 @@ jobs:
           python3 scripts/test-jugendmedien-paket.py
           python3 scripts/test-ustva-ausgabe.py
           python3 scripts/test-e-rechnung-werkstatt.py
+          python3 scripts/test-neuralis-gestaltungsakte.py
           python3 scripts/test-notariatswerkstatt.py
           python3 scripts/test-notariat-dnoti-anfragen.py
           python3 scripts/test-compliance-hameln.py
