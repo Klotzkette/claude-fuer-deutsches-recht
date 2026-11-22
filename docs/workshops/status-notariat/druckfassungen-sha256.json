@@ -60,6 +60,24 @@
     "pdf_sha256": "b8b3bd6b7d98962110f8a50909cb02e3b4e25e044ad39702094c93559841edf4"
   },
   {
+    "source": "Grundakte/A11_Auftragsbestaetigung_Altmuehl.pdf",
+    "source_sha256": "c33b7feb330a951817de8838c248b850694477814eaf950e3deac3d8090572d2",
+    "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/Grundakte/A11_Auftragsbestaetigung_Altmuehl.pdf",
+    "pdf_sha256": "c33b7feb330a951817de8838c248b850694477814eaf950e3deac3d8090572d2"
+  },
+  {
+    "source": "Grundakte/A12_Reisekosten_Pruefzentrum.xlsx",
+    "source_sha256": "3c8a8ff02f4e1cd816b4c3ecde85ac0f7d38da85800f6d13ea14cc45d804e0b9",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/Grundakte/A12_Reisekosten_Pruefzentrum.pdf",
+    "pdf_sha256": "71251a89ed6040e8fc131e271ea8e5f344c574b241363e768fc434ff8b791c4e"
+  },
+  {
+    "source": "Grundakte/A13_Rueckfrage_Privater_Kreditrahmen.eml",
+    "source_sha256": "b0ba67d8312240037e22faaa90ebc1cbba4928f8716a9cf17188808b2815be89",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/Grundakte/A13_Rueckfrage_Privater_Kreditrahmen.pdf",
+    "pdf_sha256": "44fecffc5829b16e502beb4cf64a544568f71e09e826b89187ae79983d5cea57"
+  },
+  {
     "source": "01_Bescheid_und_erste_Aenderung/B01_Antrag_Erwerbsstatus.pdf",
     "source_sha256": "d066c69ab8b7b1c8830150cfc5d1e7ecf43f0e2398616983e0bb281fcdbf1367",
     "pdf": "testakten/neuralis-medtech-erlangen-gestaltungsakte/01_Bescheid_und_erste_Aenderung/B01_Antrag_Erwerbsstatus.pdf",
@@ -138,6 +156,12 @@
     "pdf_sha256": "6879310dc75b60e7c756fac41a2cc9e7ac61a8e37eeec88639f6ff5ac82dbe39"
   },
   {
+    "source": "01_Bescheid_und_erste_Aenderung/B13_Angebotsfrist_Uebersetzung.eml",
+    "source_sha256": "c732827b20aa151561bcf6abe0e94ec91fcca37db06b8f4847f9ea0ce8acde42",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/01_Bescheid_und_erste_Aenderung/B13_Angebotsfrist_Uebersetzung.pdf",
+    "pdf_sha256": "d2ef9cdb5da13ad963bee6dcf63af534781ae01137d04774d8d8f9e5528154f4"
+  },
+  {
     "source": "02_Gestaltungsvorschlaege/G01_Anwaltsbrief_an_Dr_Vogt.pdf",
     "source_sha256": "2d290d405498d11f768bf950f976c368ce3d838fe49537ed5d4b4a6453e29aeb",
     "pdf": "docs/workshops/status-notariat/lesefassungen/gestaltung/G01_Anwaltsbrief_an_Dr_Vogt.pdf",
@@ -166,5 +190,35 @@
     "source_sha256": "c0e6d2c68e6b2246df07b541c34858a0c686c68bc124254d1277c5f400f15fde",
     "pdf": "docs/workshops/status-notariat/lesefassungen/gestaltung/G05_Anfrage_zur_Entwurfsbesprechung.pdf",
     "pdf_sha256": "fab7f99410d78483f2710a4306e5c5f0b426428db9a98ea0fcdc9eb25bc3872b"
+  },
+  {
+    "source": "02_Gestaltungsvorschlaege/G06_Satzungsfassung_Weisungen_und_Freigaben.docx",
+    "source_sha256": "a88ebb92583110042180cdf0e3a698555f83e068acab51eb596aa098528db72c",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/gestaltung/G06_Satzungsfassung_Weisungen_und_Freigaben.pdf",
+    "pdf_sha256": "3ce44e8624c1034fb441e00c8d0d4c9eb8a1aa42c287f3a0c546d1db9817b4ed"
+  },
+  {
+    "source": "02_Gestaltungsvorschlaege/G07_Stimmbindung_Fonds_und_Seidl.docx",
+    "source_sha256": "88b4d14583f7ee46d66699a8ab9836d3518a85e451f159188481dc288db75388",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/gestaltung/G07_Stimmbindung_Fonds_und_Seidl.pdf",
+    "pdf_sha256": "9d584588d162a1dd812d3db385f188b132bff93814fde55214e903fb1f6a9de3"
+  },
+  {
+    "source": "02_Gestaltungsvorschlaege/G08_Konditionen_Teilanteil_und_Finanzierung.docx",
+    "source_sha256": "c9d0773210105fec32b6c180d125bfded8030db38269f0bfd3f7ddc209df5bca",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/gestaltung/G08_Konditionen_Teilanteil_und_Finanzierung.pdf",
+    "pdf_sha256": "74d8f737a2a7d9b4080d66037fcec0d84a130241b5afd309217b1d625b75dad7"
+  },
+  {
+    "source": "02_Gestaltungsvorschlaege/G09_Rueckfragen_von_Dr_Seidl.eml",
+    "source_sha256": "a0e241740c9e6554cd4e917be1b68e9d6b17de240e69964117b1ced09c234be3",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/gestaltung/G09_Rueckfragen_von_Dr_Seidl.pdf",
+    "pdf_sha256": "0a14c65503ecedef5917214b08202131c89a12ef368279c64378a4b8e3ff0e50"
+  },
+  {
+    "source": "02_Gestaltungsvorschlaege/G10_Kapitalvarianten_zur_Finanzierungsrunde.xlsx",
+    "source_sha256": "d5a32dd046f14759cceae248c6ff8990d38077c81fa39cb8efe72252dbf58276",
+    "pdf": "docs/workshops/status-notariat/lesefassungen/gestaltung/G10_Kapitalvarianten_zur_Finanzierungsrunde.pdf",
+    "pdf_sha256": "1f74a3ccacd445d46ab2cd6a1519314b42535cbfe92dc78c500a5982cf9797e1"
   }
 ]

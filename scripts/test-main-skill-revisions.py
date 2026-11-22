@@ -166,6 +166,20 @@ class RevisionTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             rev.previous_bytes(self.root, path)
 
+        addition["after_sha256"] = rev.digest(current)
+        updated_tag = "akten-v1.1.0"
+        rerouted = current.replace(version.encode(), updated_tag.encode())
+        addition["download_revision"] = {"previous_tag": version, "after_sha256": rev.digest(rerouted)}
+        put(self.root, rev.REGISTRY, record)
+        put(self.root, "scripts/scoped-release-assets.json", {"schema_version": 1,
+            "assets": {name: updated_tag for name in names}})
+        for content in (current, rerouted):
+            path.write_bytes(content)
+            self.assertEqual(rev.previous_bytes(self.root, path), old)
+        path.write_bytes(rerouted.replace(b"Handbuch", b"Geaendert"))
+        with self.assertRaises(ValueError):
+            rev.previous_bytes(self.root, path)
+
     def test_followup_preserves_both_previous_editions_and_rejects_changed_text(self):
         relative = 'beispiel/README.md'
         url = b'https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/'

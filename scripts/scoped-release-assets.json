@@ -1631,10 +1631,12 @@
     "zugewinnausgleich.zip": "qualitaetsrunde-v445.36.9",
     "testakte-autohaus-boeblingen.zip": "werkstatt-partnerakten-v1.0.0",
     "testakte-autohaus-boeblingen-einzelpdfs.zip": "werkstatt-partnerakten-v1.0.0",
-    "testakte-neuralis-medtech-erlangen-gestaltungsakte.zip": "werkstatt-partnerakten-v1.0.0",
-    "testakte-neuralis-medtech-erlangen-gestaltungsakte-einzelpdfs.zip": "werkstatt-partnerakten-v1.0.0",
+    "testakte-neuralis-medtech-erlangen-gestaltungsakte.zip": "neuralis-rechtsmacht-v1.1.0",
+    "testakte-neuralis-medtech-erlangen-gestaltungsakte-einzelpdfs.zip": "neuralis-rechtsmacht-v1.1.0",
     "allgemeines-notariat.zip": "allgemeines-notariat-v1.0.0",
     "aktenanleger.zip": "fachaufnahme-v445.36.10",
-    "umwandlungssteuerrecht.zip": "fachaufnahme-v445.36.10"
+    "umwandlungssteuerrecht.zip": "fachaufnahme-v445.36.10",
+    "lebensakte-neuralis-medtech-erlangen-gestaltungsakte.zip": "neuralis-rechtsmacht-v1.1.0",
+    "druckakte-neuralis-medtech-erlangen-gestaltungsakte.zip": "neuralis-rechtsmacht-v1.1.0"
   }
 }
