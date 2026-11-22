@@ -11,7 +11,7 @@ Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`strafvollzug-jva.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/strafvollzug-jva.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`strafvollzug-jva.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/strafvollzug-jva.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/strafvollzug-jva.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-werkstatt.md) · [TXT herunterladen / Download TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-werkstatt.txt) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-schnellstart.md) · [TXT herunterladen / Download TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-schnellstart.txt) |
@@ -45,7 +45,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`strafvollzug-jva.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/strafvollzug-jva.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`strafvollzug-jva.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/strafvollzug-jva.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown / identisches TXT | [`strafvollzug-jva-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-schnellstart.md) · [`strafvollzug-jva-schnellstart.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-schnellstart.txt) |
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`strafvollzug-jva-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-werkstatt.md) · [`strafvollzug-jva-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [6 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
@@ -109,7 +109,7 @@ Fälle zu anderen Rechtsgebieten finden Sie in der [gesamten Testaktenübersicht
 
 ## 2. Installieren und sofort beginnen
 
-[Claude-Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/strafvollzug-jva.zip) · [Portables Paket herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/strafvollzug-jva-portable.zip)
+[Claude-Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/strafvollzug-jva.zip) · [Portables Paket herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/strafvollzug-jva-portable.zip)
 
 Claude Code und kompatible Claude-Cowork-Umgebungen können das Pluginpaket mit Skills und Befehlen verwenden. Codex erhält zusätzlich ein eigenes Manifest sowie das portable Manifest. In ChatGPT lässt sich der Schnellstart als Projektanweisung mit Werkstatt und Referenzen als Projektdateien verwenden. Import, Dateizugriff und Darstellung der Befehle hängen von der jeweiligen Umgebung ab; ein plattformübergreifender Live-Import ist damit nicht behauptet.
 

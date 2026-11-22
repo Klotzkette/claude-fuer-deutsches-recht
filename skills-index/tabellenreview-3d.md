@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`tabellenreview-3d-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=tabellenreview-3d/tabellenreview-3d-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`tabellenreview-3d-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=tabellenreview-3d/tabellenreview-3d-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [tabellenreview-3d.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/tabellenreview-3d.zip) |
+| **Plugin (installierbar)** | ZIP | [tabellenreview-3d.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/tabellenreview-3d.zip) |
 
 ## So benutzt man einen Skill
 

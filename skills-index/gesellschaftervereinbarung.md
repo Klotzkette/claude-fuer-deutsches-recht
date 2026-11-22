@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`gesellschaftervereinbarung-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`gesellschaftervereinbarung-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [gesellschaftervereinbarung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/gesellschaftervereinbarung.zip) |
+| **Plugin (installierbar)** | ZIP | [gesellschaftervereinbarung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/gesellschaftervereinbarung.zip) |
 
 ## So benutzt man einen Skill
 

@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`zwangsvollstreckung-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zwangsvollstreckung/zwangsvollstreckung-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`zwangsvollstreckung-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zwangsvollstreckung/zwangsvollstreckung-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [zwangsvollstreckung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/zwangsvollstreckung.zip) |
+| **Plugin (installierbar)** | ZIP | [zwangsvollstreckung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/zwangsvollstreckung.zip) |
 
 ## So benutzt man einen Skill
 

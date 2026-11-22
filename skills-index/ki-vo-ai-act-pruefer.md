@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`ki-vo-ai-act-pruefer-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`ki-vo-ai-act-pruefer-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [ki-vo-ai-act-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/ki-vo-ai-act-pruefer.zip) |
+| **Plugin (installierbar)** | ZIP | [ki-vo-ai-act-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/ki-vo-ai-act-pruefer.zip) |
 
 ## So benutzt man einen Skill
 

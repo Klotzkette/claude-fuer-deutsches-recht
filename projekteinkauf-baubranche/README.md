@@ -4,7 +4,7 @@ Für diese Aufgaben verwenden Sie das gemeinsame Plugin **[bauunternehmer-einkau
 
 ## 1. Gemeinsames Plugin verwenden
 
-[Anleitung und Skills](../bauunternehmer-einkauf/README.md) · [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/bauunternehmer-einkauf.zip) · [Werkstatt-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/bauunternehmer-einkauf-werkstatt.md) · [Mini-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/bauunternehmer-einkauf-schnellstart.md)
+[Anleitung und Skills](../bauunternehmer-einkauf/README.md) · [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/bauunternehmer-einkauf.zip) · [Werkstatt-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/bauunternehmer-einkauf-werkstatt.md) · [Mini-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauunternehmer-einkauf/bauunternehmer-einkauf-schnellstart.md)
 
 Im Marketplace wird das gemeinsame Paket `bauunternehmer-einkauf` ausgewählt. Dieser bisherige Pfad bleibt als Wegweiser und vollständiges Quellarchiv erhalten. Seine Manifeste und Fachtexte dokumentieren den früheren Paketstand; für die laufende Arbeit gilt die zusammengeführte Anleitung.
 

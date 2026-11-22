@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`fortbestehensprognose-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fortbestehensprognose/fortbestehensprognose-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`fortbestehensprognose-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fortbestehensprognose/fortbestehensprognose-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [fortbestehensprognose.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/fortbestehensprognose.zip) |
+| **Plugin (installierbar)** | ZIP | [fortbestehensprognose.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/fortbestehensprognose.zip) |
 
 ## So benutzt man einen Skill
 

@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`compliance-abteilung-grosskonzern-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`compliance-abteilung-grosskonzern-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [compliance-abteilung-grosskonzern.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/compliance-abteilung-grosskonzern.zip) |
+| **Plugin (installierbar)** | ZIP | [compliance-abteilung-grosskonzern.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/compliance-abteilung-grosskonzern.zip) |
 
 ## So benutzt man einen Skill
 

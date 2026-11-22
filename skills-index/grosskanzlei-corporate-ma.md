@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`grosskanzlei-corporate-ma-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grosskanzlei-corporate-ma/grosskanzlei-corporate-ma-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`grosskanzlei-corporate-ma-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grosskanzlei-corporate-ma/grosskanzlei-corporate-ma-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [grosskanzlei-corporate-ma.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/grosskanzlei-corporate-ma.zip) |
+| **Plugin (installierbar)** | ZIP | [grosskanzlei-corporate-ma.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/grosskanzlei-corporate-ma.zip) |
 
 ## So benutzt man einen Skill
 

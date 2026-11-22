@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`corporate-contract-law-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=corporate-contract-law/corporate-contract-law-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`corporate-contract-law-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=corporate-contract-law/corporate-contract-law-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [corporate-contract-law.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/corporate-contract-law.zip) |
+| **Plugin (installierbar)** | ZIP | [corporate-contract-law.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/corporate-contract-law.zip) |
 
 ## So benutzt man einen Skill
 

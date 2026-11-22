@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`bautraegervertrag-pruefer-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`bautraegervertrag-pruefer-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [bautraegervertrag-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.11/bautraegervertrag-pruefer.zip) |
+| **Plugin (installierbar)** | ZIP | [bautraegervertrag-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.11/bautraegervertrag-pruefer.zip) |
 
 ## So benutzt man einen Skill
 

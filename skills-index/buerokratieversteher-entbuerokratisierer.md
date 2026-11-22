@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`buerokratieversteher-entbuerokratisierer-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`buerokratieversteher-entbuerokratisierer-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [buerokratieversteher-entbuerokratisierer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/buerokratieversteher-entbuerokratisierer.zip) |
+| **Plugin (installierbar)** | ZIP | [buerokratieversteher-entbuerokratisierer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/buerokratieversteher-entbuerokratisierer.zip) |
 
 ## So benutzt man einen Skill
 

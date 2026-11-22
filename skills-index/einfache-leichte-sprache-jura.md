@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`einfache-leichte-sprache-jura-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`einfache-leichte-sprache-jura-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [einfache-leichte-sprache-jura.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/einfache-leichte-sprache-jura.zip) |
+| **Plugin (installierbar)** | ZIP | [einfache-leichte-sprache-jura.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/einfache-leichte-sprache-jura.zip) |
 
 ## So benutzt man einen Skill
 

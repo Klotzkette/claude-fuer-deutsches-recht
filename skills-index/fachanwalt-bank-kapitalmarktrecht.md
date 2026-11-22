@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`fachanwalt-bank-kapitalmarktrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`fachanwalt-bank-kapitalmarktrecht-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [fachanwalt-bank-kapitalmarktrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/fachanwalt-bank-kapitalmarktrecht.zip) |
+| **Plugin (installierbar)** | ZIP | [fachanwalt-bank-kapitalmarktrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/fachanwalt-bank-kapitalmarktrecht.zip) |
 
 ## So benutzt man einen Skill
 
