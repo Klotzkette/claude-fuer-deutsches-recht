@@ -96,6 +96,10 @@
       cursor: pointer;
     }
 
+    #download:not([href]) {
+      display: none;
+    }
+
     a.button.secondary {
       background: transparent;
       color: var(--accent);
@@ -109,12 +113,12 @@
 <body>
   <main>
     <h1>Prompt oder Skill herunterladen</h1>
-    <p id="status" role="status" aria-live="polite">Der Download wird gestartet.</p>
+    <p id="status" role="status" aria-live="polite">Die Datei wird geladen.</p>
     <p class="english">The download is starting. If the browser blocks it, use the download button below.</p>
     <p class="file" id="file"></p>
     <div class="actions">
       <a class="button" id="download" download>Datei herunterladen</a>
-      <a class="button secondary" href="https://github.com/Klotzkette/claude-fuer-deutsches-recht">Zum Repository / Repository</a>
+      <a class="button secondary" id="source" href="https://github.com/Klotzkette/claude-fuer-deutsches-recht">Zum Repository / Repository</a>
     </div>
     <noscript>
       <p class="error">Für den direkten Download muss JavaScript in dieser Seite aktiviert sein. JavaScript is required for the direct download.</p>
@@ -122,7 +126,7 @@
   </main>
 
   <script>
-    (() => {
+    (async () => {
       "use strict";
 
       const path = new URLSearchParams(window.location.search).get("path") || "";
@@ -133,7 +137,7 @@
       const isAllowedPath = (value) => {
         if (!/^[A-Za-z0-9._/ -]+\.(md|txt)$/.test(value)) return false;
         if (value.startsWith("/") || value.includes("\\")) return false;
-        return !value.split("/").includes("..");
+        return value.split("/").every(part => part && ![".", "..", ".git"].includes(part));
       };
 
       const downloadName = (value) => {
@@ -159,14 +163,34 @@
 
       const filename = downloadName(path);
       const encodedPath = path.split("/").map(encodeURIComponent).join("/");
-      const href = new URL(`downloads/${encodedPath}`, window.location.href).href;
-
+      const pagesUrl = new URL(`downloads/${encodedPath}`, window.location.href);
+      const source = document.getElementById("source");
+      source.href = `https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/${encodedPath}`;
+      source.textContent = "Datei auf GitHub öffnen";
       file.textContent = filename;
-      download.href = href;
-      download.download = filename;
-      download.textContent = path.endsWith(".txt") ? "TXT herunterladen" : "MD herunterladen";
-      status.textContent = `Der Download wurde gestartet. Falls nichts passiert, klicke auf „${download.textContent}“.`;
-      download.click();
+
+      if (path.endsWith(".txt") && !/-(werkstatt|schnellstart|hauptproblem)\.txt$/.test(path)) {
+        fail("Diese TXT-Datei kannst du über den GitHub-Link öffnen.");
+        return;
+      }
+
+      // Direkt nach einem Merge kann die Datei auf GitHub schon vor der Pages-Ausgabe stehen.
+      const rawUrl = `https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/${encodedPath}`;
+      for (const url of [pagesUrl, rawUrl]) {
+        try {
+          const response = await fetch(url);
+          if (!response.ok) continue;
+          download.href = URL.createObjectURL(await response.blob());
+        } catch {
+          continue;
+        }
+        download.download = filename;
+        download.textContent = path.endsWith(".txt") ? "TXT herunterladen" : "MD herunterladen";
+        status.textContent = `Falls der Download nicht startet, klicke auf „${download.textContent}“.`;
+        download.click();
+        return;
+      }
+      fail("Die Datei konnte nicht geladen werden. Prüfe die Quelldatei über den GitHub-Link.");
     })();
   </script>
 </body>

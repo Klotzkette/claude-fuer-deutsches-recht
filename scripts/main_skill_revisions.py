@@ -109,6 +109,21 @@ def before_case_index_addition(root, path, current, addition):
 
     slug = addition["slug"]
     count = addition["previous_count"]
+    # Der Neuralis-Nachtrag aktualisiert auch die vier ausgeschriebenen
+    # Zähler der Anleitung. Die rekonstruierte Fassung muss anschließend
+    # unverändert zum bereits registrierten Hash des Tabellen-Nachtrags passen.
+    if "summary_sha256" in addition and digest(current) == addition["summary_sha256"]:
+        if slug != "neuralis-medtech-erlangen-gestaltungsakte" or count != 12:
+            raise ValueError("Unbekannte Fortschreibung der Aktenzahlen")
+        for updated, previous in (
+            ("13 zugeordneten Fallakten", "zwölf zugeordneten Fallakten"),
+            ("Die 13 Fallakten", "Die zwölf Fallakten"),
+            ("13 practice cases", "Twelve practice cases"),
+            ("13 gesonderte Fallakten", "zwölf gesonderte Fallakten"),
+        ):
+            if current.count(updated.encode()) != 1:
+                raise ValueError("Aktenzahl im Überblick weicht vom geprüften Nachtrag ab")
+            current = current.replace(updated.encode(), previous.encode(), 1)
     if (not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", slug)
             or type(count) is not int or count < 2 or digest(current) != addition["after_sha256"]):
         raise ValueError("Unbelegte Erweiterung des Testaktenindexes")
@@ -357,6 +372,46 @@ def before_pruefer_release(root, path, current, expected, *, plugin=None):
         return pruefer_predecessor(files, name, row, current)
 
 
+# Originalhashes der Vorschauen aus der Konsolidierung vom 14. November.
+PREVIEW_ORIGINAL_SHA256 = {
+    "aussenwirtschaft-zoll-sanktionen": "20c611f68500e8c587edec0f898a11dfb859f42aa7d3e48b49e146de2e2f9c45",
+    "common-law-kompass": "66287d53c74db364f15ef8fd6b86996f2adace9e659a7419bfc959a019ae227c",
+    "energierecht": "35284bfcc202df215dba205bcc775b6abfdbb8a967ffc2a611a263dfe32cbd48",
+    "europarecht-kompass": "bd0fbac7eebb3ca3b06752d0967b2d71a50c8b2a1178cf0984ce6ad6d29afb9f",
+    "insolvenzforderungsanmeldungspruefung": "9a5a4f129e1d089d4443620a0f0f94a36ff655afc9c1e18bfde01b64ee5a754f",
+    "insolvenzplan-starug-planwerkstatt": "ded0c8678824bd83e2448085715a6204dec487f7eccead7a209b0d3d09508739",
+    "insolvenzverwaltung": "e8f15ed760503fcff2eca62013bdd84d22cfea71436f032871e435afece958d2",
+    "strafbefehl-verteidiger": "ade68954b7962e07f750027792485f8c86593870e7bf05651c26538edc0110af",
+    "umweltrecht": "a5756cec015843a5395354b19cdc2a1878d40250855787b75d610236789a3e00",
+    "verkehr-infrastrukturrecht": "13d83aacd91519e48a6e58545f2ec7756ba524178d6afcb5067655bfebd1bbdc",
+    "verkehrsowi-verteidiger": "d31c26b3daf94be9f884c5020768c844d2c45e127ea95de98f811a5d2e41b509",
+    "vertragsausfueller": "43af7eccf36781bab0ba987d2381ab083801f53ce5b16a9f0cc47a625036d8fa",
+    "zwangsverwaltung-zvg": "bc070fb970aa0bf336c8bb6588defaa69a415ba5bffc3243da96209a24292837",
+}
+
+
+def before_preview_release_link(root, path, current, expected, *, plugin=None):
+    """Rekonstruiert das einzige geänderte href einer belegten Paketvorschau."""
+    parts = path.relative_to(root).parts
+    if len(parts) != 4 or parts[1:] != ("assets", "vorschau", "index.html"):
+        return current
+    name = parts[0]
+    if name not in PREVIEW_ORIGINAL_SHA256 or PREVIEW_ORIGINAL_SHA256[name] != expected:
+        return current
+    if plugin is not None and plugin != name:
+        raise ValueError(f"{name}: Vorschau gehört zu einem anderen Plugin")
+
+    from release_routing import RELEASE_BASE
+    pinned = f'href="{RELEASE_BASE}/download/qualitaetsrunde-v445.36.9/{name}.zip"'.encode()
+    latest = f'href="{RELEASE_BASE}/latest/download/{name}.zip"'.encode()
+    if current.count(pinned) != 1:
+        raise ValueError(f"{name}: genau ein belegter Paketlink in der Vorschau erforderlich")
+    original = current.replace(pinned, latest, 1)
+    if digest(original) != expected:
+        raise ValueError(f"{name}: Vorschau weicht über den Paketlink hinaus vom Original ab")
+    return original
+
+
 def historical_bytes(root, path, expected, *, plugin=None):
     """Ein Hash passt entweder unmittelbar oder zu einer vollständig belegten Vorfassung."""
     current = Path(path).read_bytes()
@@ -364,6 +419,9 @@ def historical_bytes(root, path, expected, *, plugin=None):
         return current
     from case_navigation_revision import CASES, previous_case_readme
     root, path = Path(root).resolve(), Path(path).resolve()
+    earlier = before_preview_release_link(root, path, current, expected, plugin=plugin)
+    if earlier != current:
+        return earlier
     earlier = before_pruefer_release(root, path, current, expected, plugin=plugin)
     if earlier != current:
         return earlier

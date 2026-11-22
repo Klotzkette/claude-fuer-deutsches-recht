@@ -90,7 +90,7 @@ Alternativ via Marketplace:
 
 ```
 /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install bereicherungs-und-anfechtungsrecht-pruefer@claude-fuer-deutsches-recht
+/plugin install bereicherungs-und-anfechtungsrecht-pruefer@klotzkette-german-legal-skills
 ```
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
@@ -112,11 +112,13 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ---
 
-## Skills (98)
+## Prüfaufgaben und Vertiefungen
 
-### A. Triage / Weichenstellung (6)
+Die Tabellen zeigen fachliche Aufgaben. Die [Fachbibliothek](FACHMODULE.md) ordnet die Vertiefungen den [auswählbaren Skills](../skills-index/bereicherungs-und-anfechtungsrecht-pruefer.md) zu.
 
-| Skill | Inhalt |
+### A. Triage / Weichenstellung
+
+| Thema | Inhalt |
 |---|---|
 | `bereicherungs-und-anfechtungsrecht-pruefer-allgemein` | Einstieg, Routing und Überblick über Bereicherung, AnfG, InsO-Anfechtung und KI-Screening |
 | `triage-vermoegensverschiebung-erfassen` | Strukturierte Erfassung: Wer hat was an wen geleistet, Belege, Zeitpunkt |
@@ -125,18 +127,18 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | `parallel-und-konkurrenz-pruefung` | Bereicherungsrecht und Anfechtung nebeneinander |
 | `mandatsabbruch-empfehlung-an-fachanwalt-insolvenz` | Komplexitätsindikatoren, Fachanwaltsempfehlung |
 
-### B. Bereicherungsrecht — Dogmatik und Feinsortierung (4)
+### B. Bereicherungsrecht — Dogmatik und Feinsortierung
 
-| Skill | Inhalt |
+| Thema | Inhalt |
 |---|---|
 | `rechtsgrund-und-behaltensgrund-pruefen` | Vermögensvorteil, Zweck, Rechtsgrund und Behaltensgrund sauber trennen |
 | `zweckverfehlung-und-kondiktionszweck` | Zweckabrede, Zweckverfehlung, Risikozuweisung, Ausschlussgründe |
 | `saldotheorie-rueckabwicklung-nichtiger-vertraege` | Rückabwicklung gegenseitiger Verträge mit Saldo, Schutzkorrekturen, Zug um Zug |
 | `nutzungen-verwendungen-gefahrtragung-818` | Nutzungen, Surrogate, Verwendungen, Ersparnisse und Gefahrtragung bei § 818 BGB |
 
-### C. Bereicherungsrecht — 50 zusätzliche Vertiefungs-Skills (50)
+### C. Bereicherungsrecht — Vertiefungen
 
-| Skill | Inhalt |
+| Thema | Inhalt |
 |---|---|
 | `anspruchsziel-und-rueckabwicklungsarchitektur` | Anspruchsziel und Rückabwicklungsarchitektur: das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss |
 | `kondiktionskarte-vollstaendiger-fallaufbau` | Kondiktionskarte: vollständiger Fallaufbau: ein komplexer Fall zuerst als Personen-, Leistungs- und Vermögenskarte erfasst werden muss |
@@ -189,9 +191,9 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | `mandanteninterview-bereicherungsrecht` | Mandanteninterview Bereicherungsrecht: die Tatsachen für einen Bereicherungsfall erst strukturiert erhoben werden müssen |
 | `qualitaetskontrolle-halluzinationsschutz-bereicherungsrecht` | Qualitätskontrolle und Halluzinationsschutz: ein bereicherungsrechtlicher Output auf Scheinsicherheit und Quellenrisiken geprüft wird |
 
-### D. Bereicherungsrecht — Leistungskondiktion §§ 812 ff. BGB (8)
+### D. Bereicherungsrecht — Leistungskondiktion §§ 812 ff. BGB
 
-| Skill | Inhalt |
+| Thema | Inhalt |
 |---|---|
 | `leistungskondiktion-grundtatbestand-812-i-1-alt-1` | Grundtatbestand: etwas erlangt, durch Leistung, ohne Rechtsgrund |
 | `leistungsbegriff-bewusste-zweckgerichtete-mehrung` | Definition Leistung, Mehrpersonenverhältnisse |
@@ -202,18 +204,18 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | `verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit` | Bösgläubigkeit, Rechtshängigkeit, Haftungsfolgen |
 | `mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion` | Anweisungsfälle, Doppelmangel, Drittleistung |
 
-### E. Bereicherungsrecht — Nichtleistungskondiktion §§ 812 ff. BGB (4)
+### E. Bereicherungsrecht — Nichtleistungskondiktion §§ 812 ff. BGB
 
-| Skill | Inhalt |
+| Thema | Inhalt |
 |---|---|
 | `nichtleistungskondiktion-grundtatbestand-812-i-1-alt-2` | Grundtatbestand: in sonstiger Weise erlangt |
 | `eingriffskondiktion-zuweisungsgehalt` | Eingriff in Rechtszuweisungsgehalt, IP, Persönlichkeitsrecht |
 | `verfuegung-eines-nichtberechtigten-816-bgb` | Entgeltliche und unentgeltliche Verfügung |
 | `bereicherung-eines-dritten-822-bgb` | Unentgeltliche Weitergabe an Dritten |
 
-### F. Anfechtungsgesetz — außerhalb Insolvenz (8)
+### F. Anfechtungsgesetz — außerhalb Insolvenz
 
-| Skill | Inhalt |
+| Thema | Inhalt |
 |---|---|
 | `anfg-grundtatbestand-und-anfechtungsberechtigte` | § 2 AnfG: Titel, fällige Forderung, Fruchtlosigkeit |
 | `anfg-vorsatzanfechtung-3-i` | Benachteiligungsvorsatz und Kenntnis, zehn Jahre |
@@ -224,9 +226,9 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | `anfg-anfechtungsklage-prozessuales` | Zuständigkeit, Klageantrag, Streitwert, Vollstreckung |
 | `anfg-einreden-und-verteidigung-anfechtungsgegner` | Gegenwehr des Anfechtungsgegners |
 
-### G. Insolvenzanfechtung §§ 129–147 InsO (11)
+### G. Insolvenzanfechtung §§ 129–147 InsO
 
-| Skill | Inhalt |
+| Thema | Inhalt |
 |---|---|
 | `inso-grundtatbestand-129-glaeubigerbenachteiligung` | Grundtatbestand: Rechtshandlung, objektive Benachteiligung |
 | `inso-kongruente-deckung-130` | Drei Monate, Zahlungsunfähigkeit, Kenntnis |
@@ -240,17 +242,17 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | `inso-ki-anfechtungsansprueche-schuldnerakten` | KI-Screening von Schuldnerakten auf Anfechtungskandidaten mit Human-Review-Grenzen |
 | `inso-verteidigung-anfechtungsgegner` | Verteidigung gegen Insolvenzanfechtung aus Sicht des Anfechtungsgegners |
 
-### H. Konkurrenzen und Verjährung (3)
+### H. Konkurrenzen und Verjährung
 
-| Skill | Inhalt |
+| Thema | Inhalt |
 |---|---|
 | `konkurrenz-bereicherung-vertraglich-deliktisch` | §§ 812 ff. neben Vertrag, Delikt, EBV |
 | `konkurrenz-bereicherung-anfechtung-und-vindikation` | § 812 BGB neben AnfG, InsO und § 985 BGB |
 | `verjaehrung-bereicherung-anfechtung-fristen` | § 195 BGB, § 15 AnfG, § 146 InsO, absolute Grenzen |
 
-### Output-Skills (4)
+### Arbeitsprodukte
 
-| Skill | Inhalt |
+| Thema | Inhalt |
 |---|---|
 | `output-klageschrift-bereicherungsklage` | Muster Klageschrift § 812 BGB |
 | `output-anfechtungsklage-anfg` | Muster Anfechtungsklage nach AnfG |

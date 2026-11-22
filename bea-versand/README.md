@@ -148,9 +148,9 @@ Stand der Ausgangsprüfung: **28. September 2026**. Vor einem konkreten Einsatz 
 
 ## 1.12. Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 1 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
+Dieses Plugin enthält einen Skill. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
 
-English: Complete list of all 1 skills in this plugin. Both links in each row download the unchanged `SKILL.md` content as a Markdown file with a unique plugin-and-skill filename.
+English: This plugin contains one skill. Both links in each row download the unchanged `SKILL.md` content as a Markdown file with a unique plugin-and-skill filename.
 
 | Skill | Beschreibung | Markdown-Download |
 | --- | --- | --- |

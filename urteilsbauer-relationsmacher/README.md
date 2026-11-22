@@ -84,7 +84,7 @@ Alternativ via Marketplace:
 
 ```
 /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install urteilsbauer-relationsmacher@claude-fuer-deutsches-recht
+/plugin install urteilsbauer-relationsmacher@klotzkette-german-legal-skills
 ```
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.

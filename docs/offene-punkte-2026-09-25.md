@@ -30,7 +30,7 @@ Die Prüfung bezieht sich auf die elf offenen Issues und vier offenen Pull Reque
 
 - [Issue #298](https://github.com/Klotzkette/claude-fuer-deutsches-recht/issues/298) ist entsprechend dem ausdrücklichen Schließungswunsch des Autors abgeschlossen.
 - [Issue #318](https://github.com/Klotzkette/claude-fuer-deutsches-recht/issues/318) ist als Mitteilung über eine bereits erfolgte Verzeichnisaufnahme zur Kenntnis genommen und abgeschlossen. Es wurde kein neues Konto eröffnet und keine externe Eigentümerverifikation vorgenommen.
-- Zu [Issue #406](https://github.com/Klotzkette/claude-fuer-deutsches-recht/issues/406) wurde die gewünschte einzeilige Katalogaufnahme als [PR #465 bei awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins/pull/465) eingereicht. Alphabetische Sortierung und Beitragsvalidator sind erfolgreich. Die Annahme des externen Beitrags liegt bei den dortigen Maintainern.
+- Zu [Issue #406 (in der Vorgangshistorie dokumentiert)](vorgangshistorie/Uebersicht.md) wurde die gewünschte einzeilige Katalogaufnahme als [PR #465 bei awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins/pull/465) eingereicht. Alphabetische Sortierung und Beitragsvalidator sind erfolgreich. Die Annahme des externen Beitrags liegt bei den dortigen Maintainern.
 
 ## 5. Prüfgrenzen
 

@@ -178,19 +178,42 @@ checkDescription('.claude-plugin/marketplace.json', marketplace.description, 300
 if (!/^\d+\.\d+\.\d+$/.test(String(marketplace.version || ''))) {
   errors.push('.claude-plugin/marketplace.json: version ist kein striktes x.y.z');
 }
-if (!Array.isArray(marketplace.plugins) || marketplace.plugins.length === 0) {
+const plugins = Array.isArray(marketplace.plugins) ? marketplace.plugins : [];
+if (plugins.length === 0) {
   errors.push('.claude-plugin/marketplace.json: plugins fehlt oder ist leer');
 }
 
 const seen = new Set();
+const pluginNames = new Set(plugins.filter(isRecord).map(entry => entry.name));
+
+function checkInstallExamples(file, text) {
+  // Prüft qualifizierte IDs sowie die direkt aus diesem Repository installierten Plugins.
+  const command = /(?:^\s*|`)(?:\/plugin|claude plugin) install\s+([^\s`]+)(?:\s+--marketplace\s+([^\s`]+))?/g;
+  for (const [index, line] of text.split(/\r?\n/).entries()) {
+    for (const [, id, source] of line.matchAll(command)) {
+      const qualified = id.includes('@');
+      if (!qualified && source !== 'Klotzkette/claude-fuer-deutsches-recht') continue;
+      const pluginName = id.split('@')[0];
+      const unknownPlugin = pluginName !== '<plugin-name>' && !pluginNames.has(pluginName);
+      if (unknownPlugin || (qualified && id !== `${pluginName}@${marketplace.name}`)) {
+        errors.push(`${rel(file)}:${index + 1}: unbekannte Plugin-ID ${id}`);
+      }
+    }
+  }
+}
+
+for (const name of ['README.md', 'INSTALLATION_EINFACH.md', 'QUICKSTART.md']) {
+  const file = path.join(root, name);
+  if (fs.existsSync(file)) checkInstallExamples(file, readText(file));
+}
 const activeManifestPaths = new Set();
 let lastName = '';
 let skillCount = 0;
 let readmeCount = 0;
 
-for (const entry of marketplace.plugins || []) {
-  if (!entry.name || !/^[a-z0-9-]+$/.test(entry.name)) {
-    errors.push(`Marketplace: ungültiger Plugin-Name ${entry.name}`);
+for (const entry of plugins) {
+  if (!isRecord(entry) || typeof entry.name !== 'string' || !/^[a-z0-9-]+$/.test(entry.name)) {
+    errors.push(`Marketplace: ungültiger Plugin-Name ${entry?.name}`);
     continue;
   }
   if (seen.has(entry.name)) errors.push(`Marketplace: doppelter Plugin-Name ${entry.name}`);
@@ -295,6 +318,7 @@ for (const entry of marketplace.plugins || []) {
   } else {
     readmeCount += 1;
     const text = readText(readme);
+    checkInstallExamples(readme, text);
     const visibleVersion = text.match(/\*\*Version:\*\*\s*`?(\d+\.\d+\.\d+)`?/);
     if (visibleVersion && visibleVersion[1] !== entry.version) {
       errors.push(`${rel(readme)}: sichtbare Version ${visibleVersion[1]} passt nicht zu ${entry.version}`);

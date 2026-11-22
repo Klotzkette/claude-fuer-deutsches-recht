@@ -1,10 +1,21 @@
-# Installation in einfach
+# Plugins installieren
 
-[Startseite und fünf Verzeichnisse](./README.md#alle-vollständigen-listen-von-a-bis-z) · [Plugin-Katalog](./README.md#was-ist-drin) · [Downloads](./ASSET_INDEX.md) · [Kurzanleitung](./QUICKSTART.md)
+<a id="installation-in-einfach"></a>
 
-Für ChatGPT und die ChatGPT-App gelten die [Importwege im Haupt-README](./README.md#chatgpt-und-die-chatgpt-app). Die folgenden ZIP- und Organisationsschritte beschreiben die bisherige Cowork-Oberfläche; insbesondere deren Beschränkung auf private Organisations-Spiegel gilt nicht für den ChatGPT-Workspace-Import.
+Für Claude Code fügst du dieses Repository als Marketplace hinzu. In Claude Cowork kannst du ein einzelnes Plugin als ZIP hochladen. Eigenständige Prompts funktionieren direkt im Chat.
 
-Der robusteste Weg für einen einzelnen Nutzer ist: **ein Plugin-ZIP laden, in der Pluginverwaltung hochladen, neue Aufgabe öffnen**. Der Marketplace ist die bessere Wahl, wenn eine Organisation viele Plugins zentral verteilen und aktualisieren will.
+[Claude Code](#claude-code) · [Claude Cowork](#1-einzelnes-plugin-installieren) · [Cowork für Organisationen](#4-marketplace-für-eine-organisation) · [ChatGPT](./README.md#chatgpt-und-die-chatgpt-app) · [Ohne Installation](#5-ohne-installation-anfangen)
+
+## Claude Code
+
+Gib die Befehle nacheinander in Claude Code ein. Dieses Beispiel installiert die Liquiditätsplanung.
+
+```text
+/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
+/plugin install liquiditaetsplanung@klotzkette-german-legal-skills
+```
+
+Für ein anderes Plugin verwende den Paketnamen aus dem [Katalog](./README.md#was-ist-drin). Öffne anschließend eine neue Sitzung und prüfe über `/plugin`, ob das Paket als installiert angezeigt wird.
 
 ## 1. Einzelnes Plugin installieren
 
@@ -59,14 +70,7 @@ Ein manueller Marketplace wird unter **Add → Upload a plugin** mit einzelnen P
 
 Für automatische Updates **Sync automatically** prüfen. Die Herstellerhilfe beschreibt die Auslöser derzeit widersprüchlich: einmal auch direkte Pushes, an anderer Stelle nur gemergte Pull Requests mit Versionsanhebung. Deshalb nicht auf eine vermeintliche Automatik verlassen, sondern Sync-Status und übernommene Version kontrollieren und bei Bedarf **Update** auslösen. 30 Minuten sind die dokumentierte Timeout-Grenze, keine Zusage eines erfolgreichen Imports.
 
-Im zugehörigen Kommandozeilen-Client kann das öffentliche Repository unmittelbar verwendet werden:
-
-```text
-/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install liquiditaetsplanung@klotzkette-german-legal-skills
-```
-
-Der Marketplace lädt den Stand des verbundenen Spiegelrepositorys. Einzelne Plugin-ZIPs stammen dagegen aus dem getaggten Release und sind für einen gezielten, reproduzierbaren Stand meist einfacher.
+Der synchronisierte Organisations-Marketplace folgt dem Stand des verbundenen Spiegels. Für ein bestimmtes Release findest du die Einzel-ZIPs im [Download-Index](./ASSET_INDEX.md).
 
 Aktuelle Oberflächen- und Planvorgaben: [Plugins verwenden](https://support.claude.com/en/articles/13837440-use-plugins-in-claude), [Organisations-Marketplaces verwalten](https://support.claude.com/en/articles/13837433-manage-plugins-for-your-organization) und [Skills verwenden](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
 

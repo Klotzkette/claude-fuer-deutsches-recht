@@ -45,7 +45,7 @@ class ReadmeIntroductionTests(unittest.TestCase):
         for filename, heading in (
             ("QUICKSTART.md", "## 3. Ein einzelnes Plugin installieren"),
             ("INSTALLATION_EINFACH.md", "## 1. Einzelnes Plugin installieren"),
-            ("README.md", "## Für Einsteiger: Schritt-für-Schritt-Anleitung"),
+            ("README.md", "### Installation in Claude Cowork"),
         ):
             with self.subTest(filename=filename):
                 text = (ROOT / filename).read_text(encoding="utf-8")
@@ -472,6 +472,46 @@ class NavigationTests(unittest.TestCase):
         )
         self.assertEqual(self.anchors(text), {"überblick", "überblick-1", "echt", "alt"})
 
+    def test_heading_slugs_preserve_literal_underscores_and_reserve_collisions(self):
+        text = "# `ein_fall`\n\n## **A**\n\n## A-1\n\n## A\n"
+        self.assertEqual(self.anchors(text), {"ein_fall", "a", "a-1", "a-2"})
+
+    def test_html_images_and_repository_urls_resolve_in_their_own_context(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory).resolve()
+            nested = root / "teil"
+            nested.mkdir()
+            (nested / "bild.png").touch()
+            (nested / "Ziel eins.md").write_text("# Ziel\n", encoding="utf-8")
+            (nested / "README.md").write_text(
+                '# Teil\n\n[Link](/teil/Ziel%20eins.md#ziel)\n\n'
+                '<a href="Ziel%20eins.md#falsch">Fehler</a>\n\n'
+                '<img src="bild.png">\n\n![Bild](fehlt.png)\n\n'
+                '[Quelle](Ziel%20eins.md#L1) und [falsche Zeile](Ziel%20eins.md#L1-L10)\n\n'
+                f'[Quelle]({NAV.CANONICAL_REPO_BLOB_BASE}teil/Ziel%20eins.md#falsch)\n\n'
+                f'[Download]({NAV.DOWNLOAD_BASE}teil/fehlt.md)\n', encoding="utf-8"
+            )
+            with patch.object(NAV, "REPO", root):
+                errors = []
+                self.assertEqual(NAV.validate_markdown_links(errors), (8, 5))
+                self.assertEqual(len(errors), 5)
+                for target in ("Ziel%20eins.md#falsch", "fehlt.png", "Ziel%20eins.md#L1-L10",
+                               NAV.CANONICAL_REPO_BLOB_BASE + "teil/Ziel%20eins.md#falsch",
+                               NAV.DOWNLOAD_BASE + "teil/fehlt.md"):
+                    self.assertTrue(any(line.endswith(": " + target) for line in errors), target)
+
+    def test_pages_and_raw_urls_point_at_published_sources(self):
+        source = NAV.REPO / "teil" / "README.md"
+        pages = "https://klotzkette.github.io/claude-fuer-deutsches-recht/"
+        raw = "https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/"
+        self.assertEqual(NAV.internal_link(source, raw + "main/teil/README.md"), (source, ""))
+        self.assertIsNone(NAV.internal_link(source, raw + "v1/teil/README.md"))
+        self.assertEqual(NAV.internal_link(source, pages + "downloads/teil/README.md"), (source, ""))
+        self.assertEqual(NAV.internal_link(source, pages),
+                         (NAV.REPO / "uebersicht-fachanwaltschaften/index.html", ""))
+        with self.assertRaisesRegex(ValueError, "unzulässiges Markdown-Downloadziel"):
+            NAV.internal_link(source, pages + "download.html?projekt=teil")
+
     def test_nested_long_and_unclosed_fences_do_not_create_targets(self):
         for code in (
             '> ```html\n> <a id="beispiel"></a>\n> ```\n',
@@ -666,7 +706,7 @@ class NavigationTests(unittest.TestCase):
 
     def test_download_targets_reject_unsafe_or_unsupported_paths(self):
         for target in (
-            "../README.md", "/README.md", "plugin/../../README.md",
+            "../README.md", "/README.md", "plugin/../../README.md", "plugin/./README.md", "plugin//README.md",
             ".git/README.md", "https://example.org/file.md", "datei.pdf",
             "plugin\\datei.md", "plugin/datei.md?raw=1", "plugin/Übersicht.md",
         ):

@@ -92,6 +92,10 @@ def read_description(skill_md: Path) -> str:
     return desc
 
 
+def skill_count_label(skills: list[str]) -> str:
+    return "1 Skill" if len(skills) == 1 else f"{len(skills)} Skills"
+
+
 def natural_key(text: str) -> list[object]:
     normalized = text.lower()
     if re.match(r"^lph\d", normalized):
@@ -164,34 +168,15 @@ Stand: `{version}`.
 | **Alle Plugins (installierbar)** | Plugin-ZIPs des letzten Gesamtreleases für kompatible Plugin-Oberflächen | [`alle-plugins-megazip.zip`]({megazip}) |
 | **Komplettpaket (alles)** | Plugins + Skill-Markdowns + Testakten + Übersichten | [`alles-komplettpaket.zip`]({komplett}) |
 
-Die Bestandszahlen oben beziehen sich auf den aktuellen Quellbestand. Neuere Komponentenreleases sind noch nicht in älteren Sammelarchiven enthalten; für sie die aktuellen Einzelpakete in der Plugin-Tabelle verwenden.
-
-Das Markdown-Paket enthält die Skilltexte und ihre Markdown-Referenzen, aber keine automatisch eingerichteten Werkzeuge oder Zugriffsrechte. Für den manuellen Einstieg sind Werkstatt oder Schnellstart meist einfacher. Links mit „MD herunterladen“ speichern die Datei über die Downloadseite; Übersichtslinks bleiben lesbare GitHub-Seiten. Das installierbare Plugin-ZIP ist ein anderes Paket.
-
-Wer nur **ein bestimmtes Plugin** will: weiter unten in der Plugin-Tabelle pro Plugin eigene Links (Werkstatt-Markdown, Schnellstart-Markdown, Plugin-ZIP).
+Die Sammelpakete enthalten den Stand des letzten Gesamtreleases. Für ein später einzeln veröffentlichtes Plugin verwende das ZIP in der [Plugin-Tabelle](#alle-plugins).
 
 ## Einzelnen Skill oder eigenständigen Prompt verwenden
 
-Ein Skill beschreibt eine abgegrenzte Aufgabe und kann weitere Referenzen, Dateien oder Werkzeuge benötigen. Werkstatt und Schnellstart sind dagegen eigenständige Ein-Datei-Einstiege in das Thema eines Plugins. Ihre Reichweite ist nicht mit der gesamten Skill-Sammlung gleichzusetzen. Welche Dateiformate und Werkzeuge funktionieren, hängt von der verwendeten Arbeitsoberfläche ab.
+1. **Einzelne Aufgabe bearbeiten.** Öffne beim gewünschten Plugin **Skills ansehen**. Wähle anhand der Beschreibung einen Skill und lade seine Markdown-Datei herunter. Verlinkte Referenzen und benötigte Werkzeuge findest du in der Plugin-README.
+2. **Direkt im Chat beginnen.** Wähle in der Plugin-Tabelle einen verfügbaren **Schnellstart** für einen ersten Entwurf oder eine **Werkstatt** für einen mehrstufigen Vorgang. Gib den Prompt zusammen mit deinem Auftrag und den relevanten Unterlagen in den Chat.
+3. **Regelmäßig mit einem Plugin arbeiten.** Die [Installationsanleitung](INSTALLATION_EINFACH.md) erklärt den Marketplace und den ZIP-Import für die jeweilige Anwendung.
 
-So findest du die richtige Datei:
-
-1. Das Plugin in der alphabetischen Tabelle öffnen und die Beschreibungen seiner Skills lesen.
-2. Für eine bestimmte Teilaufgabe den Skillnamen oder „MD herunterladen“ in der Skill-Tabelle wählen. Für einen eigenständigen Einstieg stattdessen oben Schnellstart oder Werkstatt wählen.
-3. Die heruntergeladene Datei in der freigegebenen Arbeitsoberfläche zusammen mit den relevanten Unterlagen bereitstellen. Einen konkreten Auftrag nennen; bei einem einzelnen Skill zusätzlich benötigte Referenzen beachten.
-4. Das erste Ergebnis auf verwendete Belege, offene Fragen und Quellenstand prüfen. Ein Dateidownload allein installiert oder aktiviert keinen Skill.
-
-So bekommt man die komplette Sammlung als installierbares ZIP:
-
-- In der Plugin-Tabelle unten in der Spalte **Plugin-ZIP** auf den Download-Link klicken. Das lädt eine ZIP-Datei mit **allen** Skills dieses Plugins inkl. Hilfsdateien, Prüfrastern und Vorlagen — direkt in kompatiblen Plugin-Oberflächen installierbar.
-- Wer kein Plugin-Setup nutzt, nimmt **Werkstatt** oder **Schnellstart** als Markdown-Direkt-Download. Beide sind je eine `.md`-Datei, die in beliebige Chatbots gezogen oder kopiert werden kann.
-- Wer die volle Skilltiefe als Markdown will, nimmt zusätzlich das Sammelpaket `alle-skills-markdown.zip`; es enthält auch die von Skills bei Bedarf geladenen Markdown-Referenzen.
-
-Die Listen werden aus den im Marketplace registrierten Plugin-Verzeichnissen erzeugt und gegen den Dateibestand geprüft. Sie zeigen den Quellbestand: Im installierten Paket werden manche umfangreichen Spezialserien über einen Fachrouter bei Bedarf geladen, statt als eigene Menüeinträge zu erscheinen.
-
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit {total_skills} Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
-
-English: Plugin and index links open navigation pages. Links labelled **Download MD** download the unchanged skill, workshop or quick-start Markdown file instead of opening a source preview.
+English: Select **Skills ansehen** to browse a plugin’s workflows. **Download MD** saves the Markdown file for the selected skill or standalone prompt.
 
 """
 
@@ -200,7 +185,7 @@ def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
     lines = [
         "## Alle Plugins",
         "",
-        "Die Plugins sind alphabetisch sortiert. Der Name öffnet die Detailseite mit allen Skills, Beschreibungen und Einzel-Downloads. **Werkstatt** und **Schnellstart** laden die Ein-Datei-Prompts direkt als Markdown. **Plugin-ZIP** lädt die installierbare Plugin-Sammlung.",
+        "Wähle einen Anfangsbuchstaben. Unter **Skills ansehen** findest du die Arbeitsabläufe des Plugins. Die letzten drei Spalten führen zu den verfügbaren Prompts und zum installierbaren Einzelpaket.",
         "",
         alphabetical_navigation(plugins),
         "",
@@ -249,7 +234,7 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
     lines = [
         f"# {name}",
         "",
-        f"**{len(skills)} Skills** · Stand `{version}`",
+        f"**{skill_count_label(skills)}** · Stand `{version}`",
         "",
         f"[Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README]({plugin_readme}) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)",
         "",
@@ -274,7 +259,7 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         "- **Einzelnen Skill laden:** in der Tabelle auf den Skillnamen oder auf `MD herunterladen` klicken. Beide Wege speichern dieselbe Markdown-Datei.",
         "",
         *([
-            "Für Bauwirtschaft sind alle 29 Skills unmittelbar installiert. Die [HOAI-Phasenübersicht](../docs/bauwirtschaft-hoai-phasen.md) ordnet neun zusätzliche große Markdown-Werkstätten und neun eigene Schulungsakten den Leistungsphasen zu. Für eine Einzelrechnung genügt weiterhin der Rechnungs-Skill; für einen vollständigen Phasenauftrag den jeweiligen HOAI-Skill wählen.",
+            "Zehn auswählbare Skills erschließen die [29 Fachmodule der Bauwirtschaft](../bauwirtschaft/FACHMODULE.md). Die [HOAI-Phasenübersicht](../docs/bauwirtschaft-hoai-phasen.md) führt für jede der neun Leistungsphasen zum passenden Fachmodul, zur Werkstatt und zur Schulungsakte.",
             "",
         ] if name == "bauwirtschaft" else []),
         "## Skills in diesem Plugin",
@@ -348,7 +333,7 @@ def write_detail_index(plugins: list[tuple[str, list[str]]], version: str) -> st
     for label, items in grouped_plugins(plugins):
         lines.extend([f"### {label}", ""])
         for name, skills in items:
-            lines.append(f"- [{name}](./{name}.md) ({len(skills)} Skills)")
+            lines.append(f"- [{name}](./{name}.md) ({skill_count_label(skills)})")
         lines.append("")
     workflow_profiles = load_workflow_profiles()
     lines.extend([

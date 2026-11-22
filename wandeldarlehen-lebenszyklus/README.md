@@ -96,11 +96,13 @@ Phase D — Gesellschafterbeschluss und Notar
      → HR-Anmeldung → Post-Eintragung-Checkliste
 ```
 
-## Skills nach Phasen
+## Aufgaben nach Finanzierungsphase
 
-### Phase A — Erstellung (8 Skills)
+Die Tabellen zeigen fachliche Aufgaben. Die [Fachbibliothek](FACHMODULE.md) ordnet die Vertiefungen den [auswählbaren Skills](../skills-index/wandeldarlehen-lebenszyklus.md) zu.
 
-| Slug | Beschreibung |
+### Phase A — Erstellung
+
+| Thema | Beschreibung |
 |---|---|
 | `mandat-triage-mehrere-parallel` | Vorliegende Darlehen, Beteiligte und konkurrierende Wandelereignisse einordnen. |
 | `parteien-erfassen` | Gesellschaft, Gesellschafterinnen, Darlehensgeber, KYC, Vertretungsmacht |
@@ -111,9 +113,9 @@ Phase D — Gesellschafterbeschluss und Notar
 | `einsprachige-vertragsfassung-de` | Einsprachige DE-Fassung, identischer materieller Inhalt |
 | `vertraulichkeit-und-sprachklausel` | § 8 Vertraulichkeit, Sprachklausel, DIS-Schiedsklausel, salvatorische Klausel |
 
-### Phase B — Beurkundung und Unterzeichnung (6 Skills)
+### Phase B — Beurkundung und Unterzeichnung
 
-| Slug | Beschreibung |
+| Thema | Beschreibung |
 |---|---|
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `textform-vs-schriftform-vs-notariell` | § 126b/§ 126/§ 128 BGB, Formstufen, DocuSign-Praxis |
@@ -122,9 +124,9 @@ Phase D — Gesellschafterbeschluss und Notar
 | `gesellschafterbeschluss-vorbereiten` | Grundsatzbeschluss Kapitalerhöhungsbereitschaft, § 51 GmbHG |
 | `kyc-aml-geldwaesche` | GwG KYC, wirtschaftlich Berechtigte, PEP, Sanktionslisten EU/OFAC/UN |
 
-### Phase C — Wandelereignisse und Wandlungsberechnung (11 Skills)
+### Phase C — Wandelereignisse und Wandlungsberechnung
 
-| Slug | Beschreibung |
+| Thema | Beschreibung |
 |---|---|
 | `wandelereignis-eingang` | Eingang Wandlungserklärung, Vier-Augen-Prüfung, Eingangsbestätigung |
 | `wandelereignis-trigger-dispatcher` | Master-Logik bei parallelen Triggern, Prioritäts-Regelung, Cap-Table-Simulation, MFN-Kaskade |
@@ -138,9 +140,9 @@ Phase D — Gesellschafterbeschluss und Notar
 | `mehrere-wandeldarlehen-parallel` | Stack-Order, MFN, gleichzeitige Wandlung, kombinierter Cap-Table |
 | `wandlung-kommunikation-paketverteilung` | Lender, Gesellschaft, Steuerberater, Buchhaltung informieren |
 
-### Phase D — Gesellschafterbeschluss und Notar (7 Skills)
+### Phase D — Gesellschafterbeschluss und Notar
 
-| Slug | Beschreibung |
+| Thema | Beschreibung |
 |---|---|
 | `gesellschafterversammlung-einberufen` | Einberufung, § 51 GmbHG, Ladungsfristen, Vollmacht, Notartermin |
 | `gesellschafterbeschluss-kapitalerhoehung` | Beschluss Kapitalerhöhung gegen Sacheinlage, § 53 Abs. 2 GmbHG |

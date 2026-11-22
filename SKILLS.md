@@ -14,38 +14,19 @@ Stand: `v445.35.3`.
 | **Alle Plugins (installierbar)** | Plugin-ZIPs des letzten Gesamtreleases für kompatible Plugin-Oberflächen | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
 | **Komplettpaket (alles)** | Plugins + Skill-Markdowns + Testakten + Übersichten | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) |
 
-Die Bestandszahlen oben beziehen sich auf den aktuellen Quellbestand. Neuere Komponentenreleases sind noch nicht in älteren Sammelarchiven enthalten; für sie die aktuellen Einzelpakete in der Plugin-Tabelle verwenden.
-
-Das Markdown-Paket enthält die Skilltexte und ihre Markdown-Referenzen, aber keine automatisch eingerichteten Werkzeuge oder Zugriffsrechte. Für den manuellen Einstieg sind Werkstatt oder Schnellstart meist einfacher. Links mit „MD herunterladen“ speichern die Datei über die Downloadseite; Übersichtslinks bleiben lesbare GitHub-Seiten. Das installierbare Plugin-ZIP ist ein anderes Paket.
-
-Wer nur **ein bestimmtes Plugin** will: weiter unten in der Plugin-Tabelle pro Plugin eigene Links (Werkstatt-Markdown, Schnellstart-Markdown, Plugin-ZIP).
+Die Sammelpakete enthalten den Stand des letzten Gesamtreleases. Für ein später einzeln veröffentlichtes Plugin verwende das ZIP in der [Plugin-Tabelle](#alle-plugins).
 
 ## Einzelnen Skill oder eigenständigen Prompt verwenden
 
-Ein Skill beschreibt eine abgegrenzte Aufgabe und kann weitere Referenzen, Dateien oder Werkzeuge benötigen. Werkstatt und Schnellstart sind dagegen eigenständige Ein-Datei-Einstiege in das Thema eines Plugins. Ihre Reichweite ist nicht mit der gesamten Skill-Sammlung gleichzusetzen. Welche Dateiformate und Werkzeuge funktionieren, hängt von der verwendeten Arbeitsoberfläche ab.
+1. **Einzelne Aufgabe bearbeiten.** Öffne beim gewünschten Plugin **Skills ansehen**. Wähle anhand der Beschreibung einen Skill und lade seine Markdown-Datei herunter. Verlinkte Referenzen und benötigte Werkzeuge findest du in der Plugin-README.
+2. **Direkt im Chat beginnen.** Wähle in der Plugin-Tabelle einen verfügbaren **Schnellstart** für einen ersten Entwurf oder eine **Werkstatt** für einen mehrstufigen Vorgang. Gib den Prompt zusammen mit deinem Auftrag und den relevanten Unterlagen in den Chat.
+3. **Regelmäßig mit einem Plugin arbeiten.** Die [Installationsanleitung](INSTALLATION_EINFACH.md) erklärt den Marketplace und den ZIP-Import für die jeweilige Anwendung.
 
-So findest du die richtige Datei:
-
-1. Das Plugin in der alphabetischen Tabelle öffnen und die Beschreibungen seiner Skills lesen.
-2. Für eine bestimmte Teilaufgabe den Skillnamen oder „MD herunterladen“ in der Skill-Tabelle wählen. Für einen eigenständigen Einstieg stattdessen oben Schnellstart oder Werkstatt wählen.
-3. Die heruntergeladene Datei in der freigegebenen Arbeitsoberfläche zusammen mit den relevanten Unterlagen bereitstellen. Einen konkreten Auftrag nennen; bei einem einzelnen Skill zusätzlich benötigte Referenzen beachten.
-4. Das erste Ergebnis auf verwendete Belege, offene Fragen und Quellenstand prüfen. Ein Dateidownload allein installiert oder aktiviert keinen Skill.
-
-So bekommt man die komplette Sammlung als installierbares ZIP:
-
-- In der Plugin-Tabelle unten in der Spalte **Plugin-ZIP** auf den Download-Link klicken. Das lädt eine ZIP-Datei mit **allen** Skills dieses Plugins inkl. Hilfsdateien, Prüfrastern und Vorlagen — direkt in kompatiblen Plugin-Oberflächen installierbar.
-- Wer kein Plugin-Setup nutzt, nimmt **Werkstatt** oder **Schnellstart** als Markdown-Direkt-Download. Beide sind je eine `.md`-Datei, die in beliebige Chatbots gezogen oder kopiert werden kann.
-- Wer die volle Skilltiefe als Markdown will, nimmt zusätzlich das Sammelpaket `alle-skills-markdown.zip`; es enthält auch die von Skills bei Bedarf geladenen Markdown-Referenzen.
-
-Die Listen werden aus den im Marketplace registrierten Plugin-Verzeichnissen erzeugt und gegen den Dateibestand geprüft. Sie zeigen den Quellbestand: Im installierten Paket werden manche umfangreichen Spezialserien über einen Fachrouter bei Bedarf geladen, statt als eigene Menüeinträge zu erscheinen.
-
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 3189 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
-
-English: Plugin and index links open navigation pages. Links labelled **Download MD** download the unchanged skill, workshop or quick-start Markdown file instead of opening a source preview.
+English: Select **Skills ansehen** to browse a plugin’s workflows. **Download MD** saves the Markdown file for the selected skill or standalone prompt.
 
 ## Alle Plugins
 
-Die Plugins sind alphabetisch sortiert. Der Name öffnet die Detailseite mit allen Skills, Beschreibungen und Einzel-Downloads. **Werkstatt** und **Schnellstart** laden die Ein-Datei-Prompts direkt als Markdown. **Plugin-ZIP** lädt die installierbare Plugin-Sammlung.
+Wähle einen Anfangsbuchstaben. Unter **Skills ansehen** findest du die Arbeitsabläufe des Plugins. Die letzten drei Spalten führen zu den verfügbaren Prompts und zum installierbaren Einzelpaket.
 
 [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 

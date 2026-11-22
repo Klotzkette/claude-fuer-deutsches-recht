@@ -3,7 +3,7 @@
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Sozialversicherungsstatus und Versicherungspflicht: 14 Skills für Beschäftigung, Geschäftsführer, Lehrkräfte, freie Mitarbeit, Plattformen, KSVG, Auslandsbezug, Versorgungswerke und Beiträge. Mit eigenständiger Werkstatt, Mini-Prompt und zwölf zugeordneten Fallakten.
+Sozialversicherungsstatus und Versicherungspflicht: 14 Skills für Beschäftigung, Geschäftsführer, Lehrkräfte, freie Mitarbeit, Plattformen, KSVG, Auslandsbezug, Versorgungswerke und Beiträge. Mit eigenständiger Werkstatt, Mini-Prompt und 13 zugeordneten Fallakten.
 
 Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
@@ -21,9 +21,9 @@ Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navi
 
 Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
 
-Alle 14 Skills sind unmittelbar im Plugin enthalten, einschließlich des Hauptskills sozialversicherungspflicht-pruefen. Werkstatt und Mini-Prompt sind eigenständige separate Downloads. Die zwölf Fallakten werden unabhängig vom Plugin bereitgestellt. Beim Einzel-Download eines Skills müssen benötigte Referenzen zusätzlich verfügbar sein.
+Alle 14 Skills sind unmittelbar im Plugin enthalten, einschließlich des Hauptskills sozialversicherungspflicht-pruefen. Werkstatt und Mini-Prompt sind eigenständige separate Downloads. Die 13 Fallakten werden unabhängig vom Plugin bereitgestellt. Beim Einzel-Download eines Skills müssen benötigte Referenzen zusätzlich verfügbar sein.
 
-All 14 skills are included directly, including the main workflow. The workshop and mini prompt are separate standalone downloads. Twelve practice cases are provided separately. An individual skill download does not include its supporting references.
+All 14 skills are included directly, including the main workflow. The workshop and mini prompt are separate standalone downloads. 13 practice cases are provided separately. An individual skill download does not include its supporting references.
 
 Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/sozialversicherungspflicht-pruefer.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
 
@@ -81,7 +81,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Ein eigenes kompaktes Plugin für die deutsche Sozialversicherung: von der tatsächlich ausgeübten Tätigkeit über den Beschäftigungsstatus zu den einzelnen Versicherungszweigen, Befreiungen und Beiträgen. Es enthält **genau 14 Skills**, einen eigenständigen ausführlichen Werkstatt-Prompt, einen Mini-Prompt und zwölf gesonderte Fallakten.
+Ein eigenes kompaktes Plugin für die deutsche Sozialversicherung: von der tatsächlich ausgeübten Tätigkeit über den Beschäftigungsstatus zu den einzelnen Versicherungszweigen, Befreiungen und Beiträgen. Es enthält **genau 14 Skills**, einen eigenständigen ausführlichen Werkstatt-Prompt, einen Mini-Prompt und 13 gesonderte Fallakten.
 
 ## Direkt beginnen
 

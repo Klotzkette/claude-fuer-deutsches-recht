@@ -47,7 +47,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [bauwirtschaft-anfaenger](./bauwirtschaft-anfaenger.md) (8 Skills)
 - [bauwirtschaft-fortgeschrittene](./bauwirtschaft-fortgeschrittene.md) (8 Skills)
 - [bav-strategie-konzern](./bav-strategie-konzern.md) (10 Skills)
-- [bea-versand](./bea-versand.md) (1 Skills)
+- [bea-versand](./bea-versand.md) (1 Skill)
 - [beamtenrecht](./beamtenrecht.md) (9 Skills)
 - [bereicherungs-und-anfechtungsrecht-pruefer](./bereicherungs-und-anfechtungsrecht-pruefer.md) (12 Skills)
 - [berichtspflichten-erlediger](./berichtspflichten-erlediger.md) (7 Skills)

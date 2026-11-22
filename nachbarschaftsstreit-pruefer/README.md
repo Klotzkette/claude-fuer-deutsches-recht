@@ -76,14 +76,16 @@ Freistehendes Plugin für Nachbarrecht und eskalierte Grundstückskonflikte: Üb
 ## Start
 
 ```
-/nachbarschaftsstreit-pruefer:allgemein
+/nachbarschaftsstreit-pruefer:juristischer-argumentationskern
 ```
 
 Vorhandene Fotos, Grundstücksunterlagen und Schreiben werden zuerst ausgewertet. Nur entscheidende Lücken zu Bundesland, Grenze, Gefahr oder Beweis werden nachgefragt. Der Auftrag führt zum vollständigen Aufforderungsschreiben, Vergleich oder Rechtsbehelfsentwurf; ein Foto allein ersetzt keinen gesicherten Grenzverlauf. Nach neuen Messdaten oder einer Nachbarantwort wird am vorhandenen Dokument weitergearbeitet.
 
-## Skills (20)
+## Prüfaufgaben im Nachbarschaftsstreit
 
-| Skill | Zweck |
+Die Tabellen zeigen fachliche Aufgaben. Die [Fachbibliothek](FACHMODULE.md) ordnet die Vertiefungen den [auswählbaren Skills](../skills-index/nachbarschaftsstreit-pruefer.md) zu.
+
+| Thema | Zweck |
 |---|---|
 | `allgemein` | Schöner Einstieg, Fristen-/Gefahrenscan, Routing und Arbeitsplan |
 | `nachbarrecht-kaltstart-triage` | Erstaufnahme des Konflikts mit Bundesland, Grundstück, Beteiligten und Risiko |

@@ -2,14 +2,15 @@
 
 [Startseite und fünf Verzeichnisse](./README.md#alle-vollständigen-listen-von-a-bis-z) · [Plugin-Katalog](./README.md#was-ist-drin) · [Downloads](./ASSET_INDEX.md) · [Testakten](./testakten/README.md)
 
-Diese Anleitung führt ohne Umweg zum ersten verwertbaren Arbeitsprodukt. Für einen einzelnen Vorgang genügt meistens ein Plugin oder sogar nur dessen Schnellstart-Markdown; der gesamte Marketplace ist nur sinnvoll, wenn viele Rechtsgebiete dauerhaft gebraucht werden.
+Wähle ein Fachgebiet und benenne das gewünschte Ergebnis, etwa einen Vertragsentwurf oder eine Aktenchronologie. Für eine einzelne Aufgabe kannst du mit einem Prompt im Chat beginnen. Wenn du ein Plugin regelmäßig brauchst, installiere es in deiner Arbeitsumgebung.
 
 ## 1. Den passenden Weg wählen
 
 | Bedarf | Weg | Zeit bis zum Start |
 | --- | --- | --- |
-| Ein Rechtsgebiet, dauerhaft nutzbar | Einzel-ZIP über die Plugin-README oder den [Download-Index](./ASSET_INDEX.md) wählen | wenige Minuten |
-| Viele Rechtsgebiete in einer Organisation | den für die Anwendung vorgesehenen Marketplace-Import verwenden, siehe Abschnitt 4 | einmalige Einrichtung |
+| Ein Plugin in Claude Code nutzen | [Marketplace hinzufügen und Fachpaket installieren](./INSTALLATION_EINFACH.md#claude-code) | einmalige Einrichtung |
+| Ein Plugin in Claude Cowork nutzen | Einzel-ZIP über die Plugin-README oder den [Download-Index](./ASSET_INDEX.md) wählen | wenige Minuten |
+| Viele Rechtsgebiete in einer Organisation | den [Marketplace für die Organisation einrichten](#4-den-marketplace-einbinden) | einmalige Einrichtung |
 | Sofort arbeiten, nichts installieren | Schnellstart-Markdown aus der README des gewünschten Plugins laden | sofort |
 | Umfangreicher oder mehrstufiger Vorgang | Werkstatt-Markdown des gewünschten Plugins laden | sofort |
 

@@ -1,4 +1,4 @@
-name: Deploy uebersicht-fachanwaltschaften to GitHub Pages
+name: GitHub Pages und Markdown-Downloads
 
 on:
   push:
@@ -22,10 +22,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -37,15 +34,22 @@ jobs:
         run: |
           mkdir -p _site/downloads
           cp -R uebersicht-fachanwaltschaften/. _site/
-          while IFS= read -r -d '' file; do
-            target="_site/downloads/${file#./}"
-            mkdir -p "$(dirname "$target")"
-            cp "$file" "$target"
-          done < <(find . -type f \( -name '*.md' -o -name '*-werkstatt.txt' -o -name '*-schnellstart.txt' -o -name '*-hauptproblem.txt' \) -not -path './.git/*' -not -path './_site/*' -print0)
+          find . \
+            \( -path './.git' -o -path './_site' \) -prune -o \
+            -type f \( -name '*.md' -o -name '*-werkstatt.txt' -o -name '*-schnellstart.txt' -o -name '*-hauptproblem.txt' \) \
+            -exec cp --parents --target-directory=_site/downloads -- {} +
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
           path: ./_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5

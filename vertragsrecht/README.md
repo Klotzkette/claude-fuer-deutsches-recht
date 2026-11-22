@@ -108,9 +108,9 @@ Eine ausdrücklich gewünschte dauerhafte Ablage kann bei vorhandenem Schreibzug
 | `/vertragsrecht:abschluss-parteien-und-auslegung-bearbeiten Thema: vertragspruefung [Datei]` | Vertrag gegen den Vorgehensleitfaden prüfen |
 | `/vertragsrecht:vertragsverlaengerungs-monitor` | Welche Verträge laufen in 90 Tagen aus und bis wann muss die Kündigung eingehen? |
 | `/vertragsrecht:leistung-verguetung-und-abwicklung-bearbeiten Thema: eskalations-marker` | Eskalationspfad ermitteln und Vorlage formulieren |
-| `/vertragsrecht:aenderungs-historie [Datei(en)]` | Vertragsänderungen über Basisvertrag und alle Nachträge nachverfolgen |
+| `/vertragsrecht:leistung-verguetung-und-abwicklung-bearbeiten Thema: aenderungs-historie-agb-eskalations-marker [Datei(en)]` | Vertragsänderungen über Basisvertrag und alle Nachträge nachverfolgen |
 | `/vertragsrecht:leistung-verguetung-und-abwicklung-bearbeiten Thema: pruefungsvorschlaege` | Ausstehende Aktualisierungen des Vorgehensleitfadens aus dem Monitor-Agenten durcharbeiten |
-| `/vertragsrecht:vertragsrecht-mandat-arbeitsbereich` | Akten verwalten (nur Kanzleinutzung mit mehreren Mandanten) |
+| `/vertragsrecht:geheimnis-daten-und-rechte-bearbeiten Thema: mandat-arbeitsbereich-vr-einfuehrung` | Akten verwalten (nur Kanzleinutzung mit mehreren Mandanten) |
 
 ## Skills
 

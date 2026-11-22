@@ -98,27 +98,16 @@ def inventory_counts(plugins: list[dict]) -> dict[str, int]:
 
 def build_directory(plugins: list[dict]) -> str:
     counts = inventory_counts(plugins)
-    labels = sorted({group_label(plugin["name"]) for plugin in plugins})
-    plugin_navigation = " · ".join(
-        f"[{label}](#{label.lower()})" for label in labels
-    )
     return "\n".join(
         [
             DIRECTORY_BEGIN,
-            "Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jedem Release gegen Marketplace und Dateibestand geprüft. Jede Liste nennt zu jedem Eintrag eine Kurzbeschreibung und führt von dort unmittelbar zur Datei, zum Download oder zur passenden Detailseite.",
-            "",
             "| Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |",
             "| --- | ---: | --- | --- |",
-            f"| **Plugins** | {counts['plugins']} | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |",
-            f"| **Skills** | {counts['skills']} | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |",
-            f"| **Werkstatt-Prompts** | {counts['werkstatt']} | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |",
-            "| HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |",
-            f"| **Schnellstart-/Mini-Prompts** | {counts['schnellstart']} | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |",
-            f"| **Testakten** | {counts['central_testakten']} zentral / {counts['testakten']} gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und {counts['separate_testakten']} einzeln geführte Fälle in den Werkstätten für Vergaberecht, Notariat, Aktenanlage und Umwandlungssteuerrecht. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [Allgemeines Notariat](./allgemeines-notariat/testakten/README.md) · [Aktenanleger](./aktenanleger/testakten/README.md) · [Umwandlungssteuerrecht](./umwandlungssteuerrecht/testakten/README.md) · [weitere Akten im Plugin-Katalog](#was-ist-drin) |",
-            "",
-            f"Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz {counts['skills']} Skills benutzbar bleibt.",
-            "",
-            f"Plugin-Schnellwahl: {plugin_navigation}",
+            f"| **Plugins** | {counts['plugins']} | Installierbare Fachpakete | [Katalog](#was-ist-drin) · [Downloads](./ASSET_INDEX.md) |",
+            f"| **Skills** | {counts['skills']} | Arbeitsabläufe für einzelne Aufgaben | [Alle Skills](./SKILLS.md) · [Einzeldownloads je Plugin](./skills-index/) |",
+            f"| **Werkstatt-Prompts** | {counts['werkstatt']} | Ausführliche Anweisungen für mehrstufige Vorgänge | [Werkstatt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |",
+            f"| **Schnellstart-/Mini-Prompts** | {counts['schnellstart']} | Kurze Anweisungen für den Einstieg im Chat | [Mini-Prompt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |",
+            f"| **Testakten** | {counts['central_testakten']} zentral / {counts['testakten']} gesamt | Übungsfälle mit Arbeitsaufträgen und Unterlagen | [Zentrale Sammlung](./testakten/README.md#verfügbare-akten) · [Akten einzelner Plugins](#testakten) |",
             DIRECTORY_END,
         ]
     )
@@ -151,7 +140,9 @@ def build_catalog(plugins: list[dict]) -> str:
     for label in labels:
         lines.extend(
             [
-                f"### {label}",
+                f'<a id="{label.lower()}"></a>',
+                "<details>",
+                f"<summary>{label}</summary>",
                 "",
                 "| Plugin | Beschreibung |",
                 "| --- | --- |",
@@ -161,7 +152,7 @@ def build_catalog(plugins: list[dict]) -> str:
             name = plugin["name"]
             description = display_description(plugin).replace("|", "\\|")
             lines.append(f"| [`{name}`](./{source_rel(plugin)}) | {description} |")
-        lines.append("")
+        lines.extend(["", "</details>", ""])
     lines.append(END)
     return "\n".join(lines)
 

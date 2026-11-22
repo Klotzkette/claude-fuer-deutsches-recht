@@ -25,7 +25,7 @@ English: This index lists source skills, including specialist series accessed th
 - **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen und entpacken. Es enthält neben jeder `SKILL.md` auch deren Markdown-Referenzen; beim manuellen Einsatz die benötigten Dateien gemeinsam bereitstellen.
 - **Einzelnen Skill laden:** in der Tabelle auf den Skillnamen oder auf `MD herunterladen` klicken. Beide Wege speichern dieselbe Markdown-Datei.
 
-Für Bauwirtschaft sind alle 29 Skills unmittelbar installiert. Die [HOAI-Phasenübersicht](../docs/bauwirtschaft-hoai-phasen.md) ordnet neun zusätzliche große Markdown-Werkstätten und neun eigene Schulungsakten den Leistungsphasen zu. Für eine Einzelrechnung genügt weiterhin der Rechnungs-Skill; für einen vollständigen Phasenauftrag den jeweiligen HOAI-Skill wählen.
+Zehn auswählbare Skills erschließen die [29 Fachmodule der Bauwirtschaft](../bauwirtschaft/FACHMODULE.md). Die [HOAI-Phasenübersicht](../docs/bauwirtschaft-hoai-phasen.md) führt für jede der neun Leistungsphasen zum passenden Fachmodul, zur Werkstatt und zur Schulungsakte.
 
 ## Skills in diesem Plugin
 

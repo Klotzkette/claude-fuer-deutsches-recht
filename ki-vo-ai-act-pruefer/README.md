@@ -134,7 +134,7 @@ Alternativ via Marketplace:
 
 ```
 /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install ki-vo-ai-act-pruefer@claude-fuer-deutsches-recht
+/plugin install ki-vo-ai-act-pruefer@klotzkette-german-legal-skills
 ```
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.

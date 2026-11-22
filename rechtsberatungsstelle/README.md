@@ -117,9 +117,9 @@ Dieses Plugin senkt die Zeitkosten für alles **rund um die Rechtsarbeit**, dami
 /rechtsberatungsstelle:normstruktur-bearbeiten Thema: einarbeitung                   # Studentenr: Einarbeitung zum Semesterbeginn
 /rechtsberatungsstelle:arbeitsprodukt-bearbeiten Thema: mandant-aufnahme          # Neues Mandat aufnehmen
 /rechtsberatungsstelle:arbeitsprodukt-bearbeiten Thema: memo                   # Gutachtenstil-Memo erstellen
-/rechtsberatungsstelle:entwurf                  # Schriftsatz entwerfen
-/rechtsberatungsstelle:fristen              # Fristen prüfen
-/rechtsberatungsstelle:mandantenbrief          # Mandantenbrief in einfacher Sprache
+/rechtsberatungsstelle:arbeitsprodukt-bearbeiten Thema: entwurf-einarbeitung-einfache-sprache                  # Schriftsatz entwerfen
+/rechtsberatungsstelle:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: fristen-fristenkontrolle-rdg              # Fristen prüfen
+/rechtsberatungsstelle:arbeitsprodukt-bearbeiten Thema: mandantenbrief-memo-rbs-beratungshilfe          # Mandantenbrief in einfacher Sprache
 /rechtsberatungsstelle:normstruktur-bearbeiten Thema: semester-uebergabe       # Semesterübergabe vorbereiten
 ```
 

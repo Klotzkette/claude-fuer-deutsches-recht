@@ -107,7 +107,7 @@ Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-re
 | `/produktrecht:pflichten-und-belege-bearbeiten Thema: kaltstart-interview` | Kaltstart-Interview |
 | `/produktrecht:arbeitsprodukt-bearbeiten Thema: launch-pruefung [PRD oder Ticket]` | Vollständiger Launch-Review gegen Ihr Framework |
 | `/produktrecht:pflichten-und-belege-bearbeiten Thema: werbeaussagen-pruefung [Text]` | Werbeaussagen-Prüfung |
-| `/produktrecht:ist-das-ein-problem [Frage]` | Schnelle "Ist-das-ein-Problem?"-Antwort |
+| `/produktrecht:pflichten-und-belege-bearbeiten Thema: ist-ki-act-marktueberwachung-kommunikation [Frage]` | Schnelle "Ist-das-ein-Problem?"-Antwort |
 | `/produktrecht:fehler-und-risiko-bearbeiten Thema: feature-risikobewertung [Feature]` | Tiefgehende Feature-Risikobewertung |
 | `/produktrecht:pflichten-und-belege-bearbeiten Thema: impressum-pflicht` | Impressumspflichten prüfen (DDG, MStV) |
 | `/produktrecht:pflichten-und-belege-bearbeiten Thema: preisangaben` | Preisangabenpflichten prüfen (PAngV) |
@@ -159,7 +159,7 @@ Die Profilerstellung ist optional. Für eine konkrete Frage oder einen vorhanden
 Dann:
 
 ```
-/produktrecht:ist-das-ein-problem "Können wir den Preis auf der Preisseite A/B-testen?"
+/produktrecht:pflichten-und-belege-bearbeiten Thema: ist-ki-act-marktueberwachung-kommunikation "Können wir den Preis auf der Preisseite A/B-testen?"
 ```
 
 → Antwort in einer Minute, kalibriert auf Ihre Risikotabelle.

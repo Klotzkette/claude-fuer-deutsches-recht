@@ -332,6 +332,24 @@ class RoutingTests(Fixture):
                 self.assertEqual(len(errors), 1)
                 self.assertIn("README:2:", errors[0])
 
+    def test_html_plugin_zip_uses_its_published_package_route(self):
+        manifest = self.root / ".claude-plugin/marketplace.json"
+        manifest.write_text(json.dumps({"plugins": [{"name": "plugin"}]}))
+        routes = self.root / "scripts/scoped-release-assets.json"
+        routes.parent.mkdir(exist_ok=True)
+        routes.write_text(json.dumps({"schema_version": 1, "assets": {"plugin.zip": "plugin-v1.1.0"}}))
+        page = self.root / "index.html"
+        page.write_text(f'<a href="{R.RELEASE_BASE}/latest/download/plugin.zip">ZIP</a>')
+        with patch.object(DOWNLOADS, "ROOT", self.root):
+            errors = []
+            DOWNLOADS.validate_html_release_routes(self.root, errors)
+            self.assertEqual(len(errors), 1)
+            self.assertIn("index.html:1: Plugin-ZIP", errors[0])
+            page.write_text(f'<a href="{R.plugin_asset_url("plugin", root=self.root)}">ZIP</a>')
+            errors = []
+            DOWNLOADS.validate_html_release_routes(self.root, errors)
+            self.assertEqual(errors, [])
+
     def test_validator_checks_repo_wide_user_facing_html(self):
         slug = self.slugs[0]
         correct = R.case_asset_url(slug, root=self.root, config=self.config)

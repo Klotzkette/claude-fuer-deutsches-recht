@@ -81,7 +81,7 @@ Alternativ via Marketplace:
 
 ```
 /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install hausarbeitenmacher@claude-fuer-deutsches-recht
+/plugin install hausarbeitenmacher@klotzkette-german-legal-skills
 ```
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
@@ -145,26 +145,28 @@ Phase D — Schreiben, Reflektieren, Polieren (Tag 31-40)
      → Bei Seminararbeit: Vortrag und Disputation
 ```
 
-## Enthaltene Skills (23)
+## Aufgaben beim Schreiben der Arbeit
 
-### Optionale Adressaten-Klärung (2 Skills)
+Die Tabellen zeigen fachliche Aufgaben. Die [Fachbibliothek](FACHMODULE.md) ordnet die Vertiefungen den [auswählbaren Skills](../skills-index/hausarbeitenmacher.md) zu.
 
-| Slug | Beschreibung |
+### Optionale Adressaten-Klärung
+
+| Thema | Beschreibung |
 |---|---|
 | `professor-erkennen-und-strategie` | Fangfrage Lehrkraft Kurz-Recherche Adressaten-Strategie ohne Schleim |
 | `seminararbeit-modus` | Spezifika der Seminararbeit Forschungsfrage eigene These Vortrag Disputation |
 
-### Phase A — Auftakt (3 Skills)
+### Phase A — Auftakt
 
-| Slug | Beschreibung |
+| Thema | Beschreibung |
 |---|---|
 | `aufgabenstellung-erfassen` | Falltext zerlegen Wesentliche/Unwesentliche unterscheiden Bearbeitungsvermerk verstehen |
 | `fachgebiet-routing-zivil-oeffentlich-straf` | Welches Fachgebiet? Gemischte Konstellationen erkennen Reihenfolge bei Mix |
 | `bearbeitungsplan-erstellen` | Zeitplan Stoff-Aufteilung Lern-Ziele für die Arbeit |
 
-### Phase B — Methodisches Fundament (6 Skills)
+### Phase B — Methodisches Fundament
 
-| Slug | Beschreibung |
+| Thema | Beschreibung |
 |---|---|
 | `gutachtenstil-vs-urteilsstil` | Obersatz-Definition-Subsumtion-Ergebnis vs. begründungs-knapp Urteilsstil |
 | `methodenlehre-auslegung` | Wortlaut-Systematik-Geschichte-Sinn-Zweck + verfassungs-/EU-konform |
@@ -173,9 +175,9 @@ Phase D — Schreiben, Reflektieren, Polieren (Tag 31-40)
 | `quellenrecherche-rechtsprechung-literatur` | Bibliothek amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang Google-Scholar Suchstrategie |
 | `subsumtion-schritt-fuer-schritt` | Wie subsumiere ich richtig? Häufige Fehler |
 
-### Phase C — Fachgebiet-Schemata (6 Skills)
+### Phase C — Fachgebiet-Schemata
 
-| Slug | Beschreibung |
+| Thema | Beschreibung |
 |---|---|
 | `zivilrecht-anspruchsgrundlagen-pruefung` | V-C-G-D-D-B Reihenfolge BGB-Anspruch prüfen |
 | `oeffentliches-recht-statthaft-zulaessig-begruendet` | VwGO §§ 40 42 47 113 Schemata Verwaltungsklage |
@@ -184,16 +186,14 @@ Phase D — Schreiben, Reflektieren, Polieren (Tag 31-40)
 | `europarecht-anwendbarkeit-vorrang-vorabentscheidung` | Art. 267 AEUV RL-Auslegung EuGH-Bezug |
 | `rechtstheorie-rechtsphilosophie-anbindung` | Kelsen Hart Dworkin Radbruch Naturrecht Positivismus |
 
-### Phase D — Schreiben und Reflektieren (4 Skills)
+### Phase D — Schreiben und Reflektieren
 
-| Slug | Beschreibung |
+| Thema | Beschreibung |
 |---|---|
 | `meinungsstreit-darstellen` | h.M. — a.A. — eigene Stellungnahme strukturiert |
 | `haeufige-fehler-vermeiden` | Top-20 typische Hausarbeit-Fehler |
 | `selbstkontrolle-vor-abgabe` | Checkliste vor Abgabe Lernziel-Selbstprüfung |
 | `behutsame-frech-wertschaetzende-rueckfragen` | Stil-Anleitung für das Plugin selbst: trocken-ketzerische Würze am Rande |
-
-Plus der Master-Skill **`hausarbeit-workflow-start`** als Einstiegs-Schiene.
 
 ## Bedienungs-Hinweis
 
@@ -221,7 +221,7 @@ Beispiele für den Ton:
 
 **Niemals herablassend, niemals zynisch, niemals besserwisserisch.** Bei Frust oder Lebensbelastung der lernenden Person wechselt das Plugin sofort in den klassisch warm-fragenden Modus zurück.
 
-→ Skill `behutsame-frech-wertschaetzende-rueckfragen` regelt diesen Stil detailliert.
+Die [Fachbibliothek](FACHMODULE.md) enthält weitere Hinweise zum Gesprächsstil.
 
 ## Bei Unsicherheit
 

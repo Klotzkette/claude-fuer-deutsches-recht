@@ -1,58 +1,83 @@
 # Claude für deutsches Recht
 
-**Plugins, Skills und Prompts für die deutsche Rechtspraxis.** Die Sammlung richtet sich an Kanzleien, Rechtsabteilungen und Berater. Sie hilft dabei, Akten zu erschließen, Quellen zu prüfen und Verträge, Schriftsätze, Memos oder Entscheidungsvorlagen auszuarbeiten. Mit den Testakten kannst du die Arbeitsabläufe an erfundenen Fällen erproben.
+Mit diesen Plugins und Prompts für die deutsche Rechtspraxis können Kanzleien, Rechtsabteilungen und Berater Akten auswerten, Quellen prüfen und Verträge oder Schriftsätze entwerfen. Zum Ausprobieren stehen erfundene Fälle mit den zugehörigen Unterlagen bereit.
 
-[Fallauswahl für den Workshop: vollständige Arbeitsakten mit Eingangspost](./docs/grundakten-lebenswelt/README.md) · [Fachakten mit Schriftwechsel nach Rechtsgebiet](./docs/grundakten-lebenswelt/Fachakten.md)
-
-[Schnellstart](#schnellstart) · [Plugin-Katalog](#was-ist-drin) · [Skills](./SKILLS.md) · [Werkstatt-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) · [Mini-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) · [Testakten](./testakten/README.md) · [Downloads](./ASSET_INDEX.md) · [Installation](./INSTALLATION_EINFACH.md) · [English](#english-quick-guide)
+[Schnellstart](#schnellstart) · [Plugin-Katalog A–Z](#was-ist-drin) · [Skills](./SKILLS.md) · [Werkstatt-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) · [Mini-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) · [Testakten](./testakten/README.md) · [Installation](./INSTALLATION_EINFACH.md) · [Downloads](./ASSET_INDEX.md) · [English](#english-quick-guide)
 
 ## Schnellstart
 
-| Was möchtest du tun? | So steigst du ein |
+| Was möchtest du tun? | Einstieg |
 | --- | --- |
-| Ein Fachgebiet regelmäßig nutzen | Wähle im [Plugin-Katalog](#was-ist-drin) ein Paket und folge der [Installationsanleitung](./INSTALLATION_EINFACH.md) für deine Anwendung. |
-| Eine Aufgabe direkt im Chat beginnen | Lade einen [Mini-Prompt](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) als Markdown und verwende ihn mit deinem Auftrag und den Unterlagen als Arbeitsanweisung. |
-| Einen mehrstufigen Vorgang bearbeiten | Nutze einen [Werkstatt-Prompt](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) für den gesamten Ablauf oder einen [Schwerpunkt-Prompt](./SCHWERPUNKTE.md) für eine bestimmte Fachfrage. |
-| Die Arbeitsweise ausprobieren | Wähle eine [Testakte](#testakten), lege deine Rolle fest und bestelle ein konkretes Ergebnis, etwa eine Aktenchronologie oder einen Vertragsentwurf. |
+| Ein Fachgebiet regelmäßig in Claude nutzen | Wähle ein Paket im [Plugin-Katalog](#was-ist-drin). Die Installation für Claude Code steht direkt unter dieser Tabelle. |
+| Eine einzelne Aufgabe im Chat erledigen | Öffne einen [Mini-Prompt](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) und gib ihn zusammen mit deinem Auftrag und den Unterlagen in den Chat ein. |
+| Einen ganzen Vorgang bearbeiten | Ein [Werkstatt-Prompt](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) begleitet dich von der Akte bis zum Entwurf. Für Einzelfragen gibt es [Schwerpunkt-Prompts](./SCHWERPUNKTE.md). |
+| Mit einer Übungsakte anfangen | Wähle einen Fall aus der [Workshop-Fallauswahl](./docs/grundakten-lebenswelt/README.md) oder den [Fachakten nach Rechtsgebiet](./docs/grundakten-lebenswelt/Fachakten.md). |
 
-Wähle für den Vorgang einen Arbeitsweg und stelle die relevanten Unterlagen bereit. Benenne im ersten Satz das gewünschte Ergebnis und ergänze entscheidende Angaben bei Rückfragen im selben Vorgang. In der ModeFuchs-Akte kannst du mit folgendem Auftrag einsteigen.
+### Installation in Claude Code
+
+Gib die beiden Befehle nacheinander in Claude Code ein. Der erste fügt den Marketplace hinzu, der zweite installiert beispielhaft das Plugin für Arbeitsrecht.
+
+```text
+/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
+/plugin install arbeitsrecht@klotzkette-german-legal-skills
+```
+
+Für ein anderes Paket ersetze `arbeitsrecht` durch den Namen aus dem [Plugin-Katalog](#was-ist-drin). Die Kennung hinter dem `@` gehört zum Marketplace.
+
+<a id="für-einsteiger-schritt-für-schritt-anleitung"></a>
+
+### Installation in Claude Cowork
+
+1. Öffne im [Download-Index](./ASSET_INDEX.md) das gewünschte Plugin und lade das Einzel-ZIP herunter.
+2. Lade dieses ZIP in der Plugin-Verwaltung von Claude Cowork hoch.
+3. Öffne eine neue Aufgabe und wähle den passenden Skill. [Installationsanleitung für Einzelplätze und Organisationen](./INSTALLATION_EINFACH.md)
+
+Für ChatGPT findest du den passenden Einstieg unter [Workspace, Desktop-App und Chat](#chatgpt-und-die-chatgpt-app). [Schnellstart in fünf Minuten](./QUICKSTART.md)
+
+## Beispiel für den ersten Auftrag
+
+Öffne die [ModeFuchs-Akte](./testakten/inkasso-zahlungsklage-modefuchs/README.md) und beginne mit den Unterlagen im Ordner `Grundakte`. Nenne die Rolle und das Ergebnis, das du brauchst.
 
 > Ich vertrete die Anspruchstellerin. Gleiche Bestellung, Rechnung und Zahlungseingänge ab. Erstelle eine Forderungsübersicht mit Belegstellen und entwirf ein Schreiben zum noch offenen Betrag. Frage nach, wenn ein entscheidender Beleg fehlt.
-
-Die Werkstätten können Zeitachsen, Belegansichten und Vergleiche erzeugen. In einer Oberfläche mit interaktiven Werkzeugen lässt sich eine Auswahl aus einer solchen Ansicht in die Berechnung oder den Entwurf übernehmen. [Visuelle Werkstätten](./docs/werkstatt-visualisierung.md) · [Schnellstart in fünf Minuten](./QUICKSTART.md)
 
 ## Alle vollständigen Listen von A bis Z
 
 <!-- BEGIN HAUPTVERZEICHNIS (auto-generated) -->
-Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jedem Release gegen Marketplace und Dateibestand geprüft. Jede Liste nennt zu jedem Eintrag eine Kurzbeschreibung und führt von dort unmittelbar zur Datei, zum Download oder zur passenden Detailseite.
-
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
-| **Plugins** | 315 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
-| **Skills** | 3189 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
-| **Werkstatt-Prompts** | 313 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
-| HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |
-| **Schnellstart-/Mini-Prompts** | 312 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 633 zentral / 661 gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und 22 einzeln geführte Fälle in den Werkstätten für Vergaberecht, Notariat, Aktenanlage und Umwandlungssteuerrecht. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [Allgemeines Notariat](./allgemeines-notariat/testakten/README.md) · [Aktenanleger](./aktenanleger/testakten/README.md) · [Umwandlungssteuerrecht](./umwandlungssteuerrecht/testakten/README.md) · [weitere Akten im Plugin-Katalog](#was-ist-drin) |
-
-Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 3189 Skills benutzbar bleibt.
-
-Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
+| **Plugins** | 315 | Installierbare Fachpakete | [Katalog](#was-ist-drin) · [Downloads](./ASSET_INDEX.md) |
+| **Skills** | 3189 | Arbeitsabläufe für einzelne Aufgaben | [Alle Skills](./SKILLS.md) · [Einzeldownloads je Plugin](./skills-index/) |
+| **Werkstatt-Prompts** | 313 | Ausführliche Anweisungen für mehrstufige Vorgänge | [Werkstatt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
+| **Schnellstart-/Mini-Prompts** | 312 | Kurze Anweisungen für den Einstieg im Chat | [Mini-Prompt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
+| **Testakten** | 633 zentral / 661 gesamt | Übungsfälle mit Arbeitsaufträgen und Unterlagen | [Zentrale Sammlung](./testakten/README.md#verfügbare-akten) · [Akten einzelner Plugins](#testakten) |
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
 
-Die Tabelle zählt bei Werkstatt- und Mini-Prompts die jeweilige Hauptdatei je Plugin. Für besondere Aufgaben gibt es [Schwerpunkt-Prompts](./SCHWERPUNKTE.md) und zusätzliche Werkstätten.
+Die Prompt-Register zählen die Hauptdateien je Plugin. Zusätzliche Werkstätten gibt es unter anderem für die [neun HOAI-Leistungsphasen](./docs/bauwirtschaft-hoai-phasen.md) und die [Insolvenzanfechtung](./insolvenzanfechtung/werkstattprompts/README.md). Die [Hauptskills](./skills-index/README.md#hauptskills) führen durch einen ganzen Vorgang. Der [Werkstatt-Leitfaden](./docs/werkstatt-visualisierung.md) zeigt, wie sich Belege und Varianten bis zum Entwurf verfolgen lassen.
 
-Wenn du ein Plugin für einen ganzen Vorgang einsetzt, kannst du den passenden [Hauptskill direkt herunterladen](./skills-index/README.md#hauptskills) und mit dem Auftrag und den Unterlagen verwenden.
+<details>
+<summary>Weitere Werkstatt-Dateien</summary>
 
-Der [Leitfaden für lange Werkstatt-Prompts und Fallansichten](./docs/werkstatt-visualisierung.md) zeigt, wie du umfangreiche Akten in ChatGPT oder Claude schrittweise bearbeitest und Belege und Varianten bis in den Entwurf verfolgst.
+Werkstätten für [Betreuungsunterlagen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md), [Insolvenzanfechtung im Fachanwaltsprofil](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.md), [Sachbearbeitung in der Verbraucherinsolvenz](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzsachbearbeitung/prompts/verbraucherinsolvenz/verbraucherinsolvenz-werkstatt.md) und [Umsatzsteuer-Voranmeldung](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/ustva/werkstatt.md).
 
-- [Neun Werkstätten zu den HOAI-Leistungsphasen](./docs/bauwirtschaft-hoai-phasen.md)
-- [Zehn Werkstätten zur Insolvenzanfechtung](./insolvenzanfechtung/werkstattprompts/README.md)
-- Werkstatt-Dateien für [Betreuungsunterlagen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md), [Insolvenzanfechtung im Fachanwaltsprofil](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.md), [Sachbearbeitung in der Verbraucherinsolvenz](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzsachbearbeitung/prompts/verbraucherinsolvenz/verbraucherinsolvenz-werkstatt.md) und [Umsatzsteuer-Voranmeldung](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/ustva/werkstatt.md)
+</details>
+
+## Schwerpunkte für die deutsche Praxis
+
+| Arbeitsbereich | Fachliche Einstiege |
+| --- | --- |
+| Verträge und Unternehmen | [Vertragserstellung](./vertragserstellung/README.md), [AGB-Werkstatt](./agb-werkstatt/README.md), [Corporate und M&A](./corporate-kanzlei/README.md), [Due Diligence](./due-diligence/README.md) |
+| Arbeitsrecht und Altersversorgung | [Fachprofil Arbeitsrecht](./fachanwalt-arbeitsrecht/README.md), [Kündigungsschutzklage](./arbeitsrecht-kuendigungsschutzklagewerkstatt/README.md), [Betriebliche Altersversorgung im Konzern](./bav-strategie-konzern/README.md) |
+| Verfahren und Schriftsätze | [Forderungsmanagement](./forderungsmanagement-klagewerkstatt/README.md), [Schriftsatz-Versand](./schriftsatz-versandwerkstatt/README.md), [15 Gerichts- und Staatsanwaltschafts-Plugins](./gerichtsplugins/README.md) |
+| Immobilien, Bau und Vergabe | [Immobilienrecht](./immobilienrechtspraxis/README.md), [Bauunternehmer-Einkauf](./bauunternehmer-einkauf/README.md), [HOAI-Leistungsphasen](./docs/bauwirtschaft-hoai-phasen.md), [Bauvergabe](./bauvergabe/README.md) |
+| Krise und Insolvenz | [16 eigenständige Insolvenz-Plugins](./insolvenzrecht-plugins/README.md), darunter [Forderungsanmelder](./insolvenzforderungsanmeldungspruefung/README.md), [Zahlungsunfähigkeits- und Überschuldungsprüfer](./zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md) und [Insolvenzplan- und StaRUG-Planwerkstatt](./insolvenzplan-starug-planwerkstatt/README.md) |
+| Steuerrecht, Regulierung und Compliance | [Facheinstieg Steuerrecht](./fachanwalt-steuerrecht/README.md) mit dem [gemeinsamen Paket für Steueranwälte und Steuerberater](./steuerrecht-anwalt-und-berater/README.md), [Compliance im Großkonzern](./compliance-abteilung-grosskonzern/README.md), [KI-Governance](./ki-governance/README.md), [Geldwäscheprävention](./geldwaeschepraevention-aml-kyc/README.md) |
+| Methode, Sprache und Ausbildung | [Methodenlehre](./methodenlehre-buergerliches-recht/README.md), [Zitierweise](./zitierweise-deutsches-recht/README.md), [Einfache und Leichte Sprache](./einfache-leichte-sprache-jura/README.md), [Jurastudium](./jurastudium/README.md) |
+
+[Alle Fachanwaltsprofile](./_FACHANWALTSCHAFTS-PLUGINS/README.md) · [Plugin-Gruppen](./plugin-gruppen/README.md) · [Rechtsgebiete, Paketversionen und Skillzahlen](./references/rechtsgebiete-uebersicht.md) · [Klotzkettes kuratierte juristische Promptliste](./PROMPTLISTE.md)
 
 ## Testakten
 
-Die Akten enthalten je nach Fall Schriftstücke, Tabellen, E-Mails, Bilder und weitere Originalformate. Auf der Fallseite stehen Sachverhalt, Arbeitsauftrag und die verfügbaren Fassungen. Wähle für denselben Fall eine Fassung, damit Belege bei der Auswertung nur einmal gezählt werden.
+Die [zentrale Sammlung](./testakten/README.md) lässt sich [nach Rechtsgebiet](./testakten/README.md#2-testakten-nach-thema-finden) durchsuchen. Jede Fallseite beschreibt den Sachverhalt, den Arbeitsauftrag und die verfügbaren Fassungen. Wähle pro Fall eine Fassung, damit Belege bei der Auswertung nur einmal gezählt werden.
 
 | Fassung | Verwendung |
 | --- | --- |
@@ -61,18 +86,31 @@ Die Akten enthalten je nach Fall Schriftstücke, Tabellen, E-Mails, Bilder und w
 | Originalformat-ZIP | Mit bearbeitbaren Word-Dateien, Excel-Tabellen, E-Mails, Screenshots und anderen Originaldateien arbeiten. |
 | Ordner `Grundakte` im Originalformat-ZIP, soweit vorhanden | Mit den Eingangsunterlagen beginnen. Weitere Verfahrensschritte und Übungsergebnisse lassen sich anschließend über die übrige Akte erschließen. |
 
-- [29 Workshopakten mit konkreten Beweisfragen und nachgereichten Unterlagen](./docs/releases/testakten-praxis-v1.0.0.md)
-- [633 zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Auswahl nach Rechtsgebiet](./testakten/README.md#2-testakten-nach-thema-finden) · [Grundakten](./testakten/README.md#11-mit-den-eingangsunterlagen-beginnen)
+<details>
+<summary>Weitere Workshop- und Plugin-Akten</summary>
+
+- [29 Workshopakten mit Beweisfragen und nachgereichten Unterlagen](./docs/releases/testakten-praxis-v1.0.0.md)
+- Eigene Aktensammlungen führen außerdem das [Allgemeine Notariat](./allgemeines-notariat/testakten/README.md), der [Aktenanleger](./aktenanleger/testakten/README.md) und das [Umwandlungssteuerrecht](./umwandlungssteuerrecht/testakten/README.md).
 - Pluginlokale Bestände der [Kündigungsschutzklagewerkstatt](./arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/), des [Arbeitszeugnisgenerators](./arbeitszeugnisgenerator/testakte/), des [Arbeitszeugnisprüfers](./arbeitszeugnispruefer/testakte/), des [UN-Kaufrechts](./un-kaufrecht-cisg/testakte/) und der [Untersuchungshaft](./untersuchungshaft/testakte/)
 - [Sieben Akten der Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [Übungsakten der Gerichts-Plugins über die Rollenübersicht](./gerichtsplugins/README.md) · [Weitere Beispielsammlungen](#weitere-unterlagen-zum-testen)
 
-Die Bestandszahl im Verzeichnis zählt zentrale Aktenordner, pluginlokale Bestände und die sieben Akten der Vergaberecht-Werkstatt. Die Übungsakten der Gerichts-Plugins, zusätzliche Projektakten und Formatvorlagen sind über ihre eigenen Übersichten erreichbar.
+</details>
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-**Beispiel für den ersten Durchlauf:** In der [ModeFuchs-Akte](./testakten/inkasso-zahlungsklage-modefuchs/README.md) lassen sich Mahnungen, E-Mails und Kontoauszüge mit dem Forderungskonto abgleichen. Entpacke das [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-inkasso-zahlungsklage-modefuchs.zip) und beginne mit dem Ordner `Grundakte`.
+Das [Originalformat-ZIP der ModeFuchs-Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-inkasso-zahlungsklage-modefuchs.zip) enthält die Belege für den [Beispielauftrag](#beispiel-für-den-ersten-auftrag).
+
+## ChatGPT und die ChatGPT-App
+
+| Arbeitsumgebung | Einstieg |
+| --- | --- |
+| ChatGPT-Workspace | Ein Workspace-Administrator importiert das öffentliche GitHub-Repository als Marketplace und prüft den Importbericht je Plugin. Als Quelle kommen `main` oder ein festgelegter Commit bzw. Tag infrage. [Workspace-Import](https://learn.chatgpt.com/docs/enterprise/plugin-management) |
+| ChatGPT-Desktop-App mit Work oder Codex | Öffne das lokale Repository als Projekt und wähle im Plugin-Verzeichnis den Marketplace `klotzkette-german-legal-skills`. Für den Wechsel aus einer anderen Anwendung steht der Import in den Einstellungen zur Verfügung. [Lokale Marketplaces](https://developers.openai.com/plugins/build/plugins#how-local-marketplaces-work) · [Desktop-Import](https://learn.chatgpt.com/docs/import) |
+| Chat oder andere freigegebene Oberfläche | Verwende einen [eigenständigen Prompt](./docs/werkstatt-und-schnellstart-coverage.md) mit den für den Auftrag nötigen Unterlagen. |
+
+Verfügbarkeit, Dateizugriff, Quellenzugänge und der Export von DOCX, PDF oder Excel hängen von Konto und Oberfläche ab. Die [Prüfung der Installations- und Ladewege](./quality/source-audits/2026-10-31-werkstatt/host.md) dokumentiert die getesteten Umgebungen. [Portabilität am eigenen Arbeitsplatz prüfen](./QUICKSTART.md#9-portabilität-im-eigenen-arbeitsplatz-prüfen)
 
 ## Überblick
 
@@ -83,6 +121,9 @@ Die Bestandszahl im Verzeichnis zählt zentrale Aktenordner, pluginlokale Bestä
 | **Testakten** | 633 zentral / 661 gesamt |
 | **Fachanwaltsprofile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v445.35.3` als Basisversion des [Marketplace-Manifests](./.claude-plugin/marketplace.json). Die [Fachübersicht](./references/rechtsgebiete-uebersicht.md) nennt die jeweilige Version jedes Plugins. |
+
+<details>
+<summary>Sammelarchive und Prüfsummen vom 9. Oktober 2026</summary>
 
 ### Sammel-Downloads
 
@@ -106,46 +147,7 @@ Die Sammelarchive gehören zum veröffentlichten Bestand vom 9. Oktober 2026 mit
 | [Pluginlokale Akten in Originalformaten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/v445.35.3/alle-pluginlokalen-testakten.zip) · [als Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/v445.35.3/alle-pluginlokalen-testakten-einzelpdfs.zip) | Ergänzende Akten aus den Plugin-Ordnern des Sammelstands. |
 | [Komplettpaket des Sammelstands](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/v445.35.3/alles-komplettpaket.zip) | Plugin-ZIPs, Skill-Markdown, Testakten, Marketplace-Manifest und Übersichten. |
 
-## Schwerpunkte für die deutsche Praxis
-
-| Arbeitsbereich | Fachliche Einstiege |
-| --- | --- |
-| Verträge und Unternehmen | [Vertragserstellung](./vertragserstellung/README.md), [AGB-Werkstatt](./agb-werkstatt/README.md), [Corporate und M&A](./corporate-kanzlei/README.md), [Due Diligence](./due-diligence/README.md) |
-| Arbeitsrecht und Altersversorgung | [Fachprofil Arbeitsrecht](./fachanwalt-arbeitsrecht/README.md), [Kündigungsschutzklage](./arbeitsrecht-kuendigungsschutzklagewerkstatt/README.md), [Betriebliche Altersversorgung im Konzern](./bav-strategie-konzern/README.md) |
-| Verfahren und Schriftsätze | [Forderungsmanagement](./forderungsmanagement-klagewerkstatt/README.md), [Schriftsatz-Versand](./schriftsatz-versandwerkstatt/README.md), [15 Gerichts- und Staatsanwaltschafts-Plugins](./gerichtsplugins/README.md) |
-| Immobilien, Bau und Vergabe | [Immobilienrecht](./immobilienrechtspraxis/README.md), [Bauunternehmer-Einkauf](./bauunternehmer-einkauf/README.md), [HOAI-Leistungsphasen](./docs/bauwirtschaft-hoai-phasen.md), [Bauvergabe](./bauvergabe/README.md) |
-| Krise und Insolvenz | [16 eigenständige Insolvenz-Plugins](./insolvenzrecht-plugins/README.md), darunter [Forderungsanmelder](./insolvenzforderungsanmeldungspruefung/README.md), [Zahlungsunfähigkeits- und Überschuldungsprüfer](./zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md) und [Insolvenzplan- und StaRUG-Planwerkstatt](./insolvenzplan-starug-planwerkstatt/README.md) |
-| Steuerrecht, Regulierung und Compliance | [Facheinstieg Steuerrecht](./fachanwalt-steuerrecht/README.md) mit dem [gemeinsamen Paket für Steueranwälte und Steuerberater](./steuerrecht-anwalt-und-berater/README.md), [Compliance im Großkonzern](./compliance-abteilung-grosskonzern/README.md), [KI-Governance](./ki-governance/README.md), [Geldwäscheprävention](./geldwaeschepraevention-aml-kyc/README.md) |
-| Methode, Sprache und Ausbildung | [Methodenlehre](./methodenlehre-buergerliches-recht/README.md), [Zitierweise](./zitierweise-deutsches-recht/README.md), [Einfache und Leichte Sprache](./einfache-leichte-sprache-jura/README.md), [Jurastudium](./jurastudium/README.md) |
-
-[Alle Fachanwaltsprofile](./_FACHANWALTSCHAFTS-PLUGINS/README.md) · [Plugin-Gruppen](./plugin-gruppen/README.md) · [Rechtsgebiete, Paketversionen und Skillzahlen](./references/rechtsgebiete-uebersicht.md) · [Klotzkettes kuratierte juristische Promptliste](./PROMPTLISTE.md)
-
-## Für Einsteiger: Schritt-für-Schritt-Anleitung
-
-1. Lade das einzelne Plugin-ZIP aus der Plugin-README oder dem [Download-Index](./ASSET_INDEX.md).
-2. Öffne in Claude Cowork die Plugin-Verwaltung und lade das ZIP hoch.
-3. Öffne deinen Vorgang und wähle den passenden Skill. [Einzelinstallation und Organisations-Marketplace](./INSTALLATION_EINFACH.md)
-
-Die [Plugin-Seite](#was-ist-drin) führt zu den Skills, Referenzen und gegebenenfalls zu den eigenständigen Prompts. In den [Skill-Detailseiten](./skills-index/) öffnet der Übersichtslink die Beschreibung. Mit **MD herunterladen** speicherst du die unveränderte Arbeitsdatei. Referenzen, die ein einzelner Skill voraussetzt, stellst du bei manueller Nutzung mit bereit. In umfangreichen Plugins öffnen die Fachskills bei Bedarf zusätzliche Fachmodule.
-
-### Installation in Claude Code
-
-```text
-/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install arbeitsrecht@klotzkette-german-legal-skills
-```
-
-<a id="chatgpt-und-die-chatgpt-app"></a>
-
-## ChatGPT und die ChatGPT-App
-
-| Arbeitsumgebung | Einstieg |
-| --- | --- |
-| ChatGPT-Workspace | Ein Workspace-Administrator importiert das öffentliche GitHub-Repository als Marketplace und prüft den Importbericht je Plugin. Als Quelle kommen `main` oder ein festgelegter Commit bzw. Tag infrage. [Workspace-Import](https://learn.chatgpt.com/docs/enterprise/plugin-management) |
-| ChatGPT-Desktop-App mit Work oder Codex | Öffne das lokale Repository als Projekt und wähle im Plugin-Verzeichnis den Marketplace `klotzkette-german-legal-skills`. Für den Wechsel aus einer anderen Anwendung steht der Import in den Einstellungen zur Verfügung. [Lokale Marketplaces](https://developers.openai.com/plugins/build/plugins#how-local-marketplaces-work) · [Desktop-Import](https://learn.chatgpt.com/docs/import) |
-| Chat oder andere freigegebene Oberfläche | Verwende einen [eigenständigen Prompt](./docs/werkstatt-und-schnellstart-coverage.md) mit den für den Auftrag nötigen Unterlagen. |
-
-Verfügbarkeit, Dateizugriff, Quellenzugänge und der Export von DOCX, PDF oder Excel hängen von Konto und Oberfläche ab. Die [Prüfung der Installations- und Ladewege](./quality/source-audits/2026-10-31-werkstatt/host.md) dokumentiert die getesteten Umgebungen. [Portabilität am eigenen Arbeitsplatz prüfen](./QUICKSTART.md#9-portabilität-im-eigenen-arbeitsplatz-prüfen)
+</details>
 
 ## Berufsrecht, Datenschutz und technischer Einsatz
 
@@ -169,14 +171,53 @@ Für entscheidungserhebliche Rechtsprechung sind Gericht, Entscheidungsform, Dat
 
 Verträge, Schriftsätze, Vermerke und Schreiben sind vollständig ausformuliert. Die Dokumente verwenden, soweit technisch möglich, **Times New Roman 11 pt** und eine dezimale Gliederung wie `1`, `1.1` und `1.1.1`. Vorrangige Formular-, Gerichts- und Mandantenvorgaben bleiben zu beachten.
 
-## Was ist drin?
+## Weitere Unterlagen zum Testen
 
-Jede Zeile führt zum tatsächlichen Quellordner eines installierbaren Plugins. Dort findest du Zweck, Einsatzbereich, Skills, Referenzen und die zugehörigen Downloads. Für die technische Zuordnung nennt das [Marketplace-Manifest](./.claude-plugin/marketplace.json) den Paketnamen, Quellpfad und Paketstand.
+- [GVB Berlin – Reinigungsvergabe](./weitere-unterlagen/sektorenvergabe-gvb-berlin/README.md) bietet eine Reinigungsakte mit 48 Unterlagen und zehn einzeln verwendbare Markdown-Assistenten. [Installierbares Fachpaket](./gvb-reinigungsvergabe/README.md)
+- [Forderungsmanagement im Immobilienunternehmen](./projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/README.md) verbindet die Arbeit in der Rechtsabteilung mit [zehn Testakten](./projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/TESTAKTEN.md).
+- [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/README.md) bietet drei Arbeitsumgebungen für Vergabestelle, Bieter und Konkurrentenrechtsschutz. Für Bauleistungen gibt es die [Bauvergabe-Reihe](./bauvergabe/README.md) mit fünf Fachpaketen und zwei durchgehenden Bauakten.
+
+Für Studium und Referendariat eignen sich die Beispielakten, Relationen und Urteilsentwürfe zur Übung und zur Kontrolle der eigenen Lösung. Bei Prüfungsleistungen gelten die Vorgaben der jeweiligen Prüfungsstelle zur zulässigen Nutzung und Kennzeichnung.
+
+## Qualität und Mitwirkung
+
+Das [Qualitätslabor](./QUALITY.md) dokumentiert Bestandsprüfungen, Quellenabgleiche und Modelltests mit ihrer jeweiligen Reichweite. [Rechtsprechungsprüfung der Werkstatt-Prompts](./quality/source-audits/2026-10-31-werkstatt/README.md) · [Vergleichsmethodik und Herkunft](./quality/upstream-legal/2026-11-16/README.md)
+
+<a id="bitte-mit-testen-und-feedback-geben"></a>
+
+Mit einer Testakte kannst du prüfen, ob ein Arbeitsablauf zu deinen Aufgaben und Quellenzugängen passt. Ein hilfreicher Fehlerbericht nennt Paket, Aufgabe, erwartetes Ergebnis und beobachtete Abweichung. Verwende dabei erfundene oder zur Veröffentlichung geeignete Beispieldaten. [Fehler melden](https://github.com/Klotzkette/claude-fuer-deutsches-recht/issues) · [Beitragsleitfaden](./CONTRIBUTING.md)
+
+## Lizenz
+
+Eigene Beiträge stehen nach Wahl unter **Apache License, Version 2.0** oder **MIT License** (`Apache-2.0 OR MIT`). [Lizenzhinweis](./LICENSE) · [Apache-2.0-Lizenz](./LICENSE-APACHE) · [MIT-Lizenz](./LICENSE-MIT) · [Notice](./NOTICE)
+
+Anthropics Vorlage `claude-for-legal` steht seit dem Initialcommit unter der Apache License, Version 2.0. Für übernommenes Material gelten die Herkunfts- und Lizenzvermerke in den Dateien. [Lizenz der ursprünglichen Vorlage](https://github.com/anthropics/claude-for-legal/blob/d541734b08e67aae330a362b256d1eb6808a08f5/LICENSE)
+
+[Changelog](./CHANGELOG.md) · [Veröffentlichungen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases)
+
+## English Quick Guide
+
+Plugins, focused skills and standalone prompts for working with German law. Use the collection to review records, check sources and draft contracts, pleadings and memos. The working material is mainly in German.
+
+- **Install a plugin** for a field you work in regularly. Find the package in the [plugin catalogue](#was-ist-drin) and follow the [installation guide](./INSTALLATION_EINFACH.md) or the [ChatGPT setup guide](#chatgpt-und-die-chatgpt-app).
+- **Use one skill** for a specific task. The [complete skill index](./SKILLS.md) links to per-plugin descriptions and individual Markdown files. Provide any references required by the skill.
+- **Start with a prompt** if you want to work directly in a chat. Choose a [workshop prompt](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) for a detailed workflow or a [quick-start prompt](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) for a short entry point.
+- **Practise with a case file.** Open the [case index](./testakten/README.md) and choose one format. Use the combined PDF for reading, the individual-PDF ZIP to select documents, or the original-format ZIP for spreadsheets, emails and editable files. Where available, start with the `Grundakte` folder for the intake documents.
+
+The [download index](./ASSET_INDEX.md) identifies the release for each package. The aggregate archives cover the fixed collection dated 9 October 2026. File handling, source access and document export depend on your tools and workspace. Use fictitious material to test your setup and verify every substantive output before relying on it. The material is experimental and does not replace legal advice.
+
+<a id="was-ist-drin"></a>
+
+## Plugin-Katalog von A bis Z
+
+Der Katalog enthält alle installierbaren Plugins des Haupt-Marketplaces. Öffne einen Buchstaben und wähle ein Paket. Jede Plugin-Seite erklärt den Einsatz und führt zu Skills, Prompts und Downloads. In der [Fachübersicht](./references/rechtsgebiete-uebersicht.md) stehen zu jedem Paket auch Version und Skillzahl.
 
 <!-- BEGIN PLUGIN-KATALOG (auto-generated) -->
 Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 
-### A
+<a id="a"></a>
+<details>
+<summary>A</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -198,7 +239,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`aufsichtsrat-ag-se-praxis`](./aufsichtsrat-ag-se-praxis) | Praxisplugin für Aufsichtsräte in AG und SE: Überwachung, Informationsrechte, Vorstand bestellen/abberufen, Vergütung, Ausschüsse, Protokoll, Business Judgment, Haftungsvermeidung, Börse, SE und Mitbestimmung. |
 | [`aussenwirtschaft-zoll-sanktionen`](./aussenwirtschaft-zoll-sanktionen) | Freistehendes Plugin für Außenwirtschaft, Sanktionen, Zoll, Exportkontrolle, BAFA, TARIC, CBAM, Verbrauchsteuer, AWV, AML/KYC und Ermittlungen. |
 
-### B
+</details>
+
+<a id="b"></a>
+<details>
+<summary>B</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -241,7 +286,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`bundesnetzagentur-verfahren`](./bundesnetzagentur-verfahren) | Großes Regulierungs-Plugin für anwaltliche Arbeit mit der Bundesnetzagentur in Energie, Telekommunikation, Post, Eisenbahn und Digital Services. |
 | [`bundeswehrrecht-wehrrecht`](./bundeswehrrecht-wehrrecht) | Super-Plugin für Soldatenrecht, Wehrbeschwerde, Disziplinarrecht, Wehrpflicht, Reservisten, Versorgung und Bundeswehrverwaltung. |
 
-### C
+</details>
+
+<a id="c"></a>
+<details>
+<summary>C</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -251,7 +300,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`corporate-contract-law`](./corporate-contract-law) | Corporate Contract Law - Wirtschaftsverträge: zwanzig Skills für deutsche B2B-Vertragsgestaltung vom Geschäftsauftrag über den vollständigen Vertrag und die Verhandlung bis zum unterschriftsreifen Entwurf. |
 | [`corporate-kanzlei`](./corporate-kanzlei) | Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I, Signing/Closing, PMI. |
 
-### D
+</details>
+
+<a id="d"></a>
+<details>
+<summary>D</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -266,7 +319,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`dsa-dma-digitalregulierung`](./dsa-dma-digitalregulierung) | Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA AI Act NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und Paragraf 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Art. 34 Forschungsdatenzugang Art. 40 Account-Sperre Art. 20-23 Zustellung Art. 13 DSA Klagewege. |
 | [`due-diligence`](./due-diligence) | Due Diligence für Käufer, Investoren und Verkäufer: Unternehmen, Beteiligungen, Personal, Bilanz, Verträge und Kreditportfolios belegt prüfen und Befunde in Kaufpreis, Vertragsregelungen und Vollzugsbedingungen übersetzen. |
 
-### E
+</details>
+
+<a id="e"></a>
+<details>
+<summary>E</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -283,7 +340,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`europaeisches-prozessrecht`](./europaeisches-prozessrecht) | Europäisches Prozessrecht vor EuGH und EuG: Klagearten, Vorlage, e-Curia, Fristen, Rechtsschutz, Rechtsmittel, Intervention, Beweis, Kosten und Strategie. |
 | [`europarecht-kompass`](./europarecht-kompass) | Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting. |
 
-### F
+</details>
+
+<a id="f"></a>
+<details>
+<summary>F</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -320,7 +381,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`fortbestehensprognose`](./fortbestehensprognose) | Fortbestehensprognose Paragraf 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwölf-Monats-Liquidität. Sanierungsbausteine Patronatserklärung Comfortletter Rangrücktritt Stundung Forderungsverzicht. IDW S 11 StaRUG. Eskalation bei negativer Prognose. |
 | [`franchiserecht-praxis`](./franchiserecht-praxis) | Wirtschaftsrechtliches Plugin für Franchise-Systeme: vorvertragliche Aufklärung, Handbuch, Gebühren, Gebietsschutz, Kartellrecht, Kündigung, Expansion, Streit und Insolvenz. |
 
-### G
+</details>
+
+<a id="g"></a>
+<details>
+<summary>G</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -343,7 +408,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`grundstuecksrecherche`](./grundstuecksrecherche) | Lokale App für Grundstücksrecherche in deutschen Städten: amtliche Quellen entdecken, NRW-Flurstücke verifiziert auswählen oder manuell erfassen und vier Auskunftsentwürfe als DOCX und ZIP vorbereiten. Kein automatischer Versand. |
 | [`gvb-reinigungsvergabe`](./gvb-reinigungsvergabe) | Reinigungsvergaben im Berliner Nahverkehr: zehn aufeinander abgestimmte Skills für Bedarf, Leistungsverzeichnis, Vertrag, Bekanntmachung, Angebote, Rügen, Wertung, Zuschlag und Nachprüfung. |
 
-### H
+</details>
+
+<a id="h"></a>
+<details>
+<summary>H</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -357,7 +426,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`hoai-leistungsphasen-praxis`](./hoai-leistungsphasen-praxis) | Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung, Objektbetreuung, Honorar, Vertrag, Haftung, Nachträge und Bauprojektsteuerung. |
 | [`hochschulrecht-laender`](./hochschulrecht-laender) | Hochschulrecht der Länder: Hochschulgesetze, Satzungen, Gremien, Zulassung, Exmatrikulation, Berufung, Drittmittel, Promotion und Aufsicht. |
 
-### I
+</details>
+
+<a id="i"></a>
+<details>
+<summary>I</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -376,7 +449,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`internal-investigations-praxis`](./internal-investigations-praxis) | Internal-Investigations-Praxisplugin für Kanzleien und Unternehmen: Untersuchungsauftrag, Scope, Interviews, Arbeitsrecht, Datenschutz, Privilege-Risiko, StPO-Beschlagnahme, HinSchG, Dokumentation und Verteidigung. |
 | [`internationales-handelsrecht-lex-mercatoria`](./internationales-handelsrecht-lex-mercatoria) | Mega-Plugin für internationales Handelsrecht, CISG, Incoterms, UNIDROIT Principles, Lex Mercatoria, Schiedsverfahren, Trade Finance und Lieferkettenverträge. |
 
-### J
+</details>
+
+<a id="j"></a>
+<details>
+<summary>J</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -388,7 +465,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`juristische-sprache-deutsch-als-zweitsprache`](./juristische-sprache-deutsch-als-zweitsprache) | Plugin für Menschen im deutschen Recht mit anderer Herkunftssprache: einfache Erklärungen, Juristendeutsch, Bescheide, Schriftsätze, Grammatik, Fristen und Verfahrenslogik. |
 | [`jveg-kostenpruefer`](./jveg-kostenpruefer) | Freistehender JVEG-Kostenprüfer für Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen- und Dolmetscherkosten, Fristen, Festsetzung, Beschwerde und belegfeste Rechenprotokolle. |
 
-### K
+</details>
+
+<a id="k"></a>
+<details>
+<summary>K</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -417,7 +498,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`kriegsdienstverweigerung-wehrdienst`](./kriegsdienstverweigerung-wehrdienst) | Praxisplugin für Kriegsdienstverweigerung und Wehrdienst aus Gewissensgründen: Art. 4 Abs. 3 GG, KDVG n. F. 2026, Antrag über BAPersBw, BAFzA-Entscheidung, Gewissensbegründung, Soldaten, Reservisten, Rechtsschutz und saubere Abgrenzung zur Totalverweigerung. |
 | [`krisenfrueherkennung-starug`](./krisenfrueherkennung-starug) | Krisenfrüherkennung nach Paragraf 1 StaRUG, Warnpflicht bei Jahresabschlusserstellung nach Paragraf 102 StaRUG, 24-Monats-Prognose nach Paragraf 18 InsO, Haftung, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung. |
 
-### L
+</details>
+
+<a id="l"></a>
+<details>
+<summary>L</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -428,7 +513,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`lobbyregister-bundestag`](./lobbyregister-bundestag) | Lobbyregister-Bundestag-Superplugin mit neun aktiven Skills und erhaltenen Fachmodulen für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstößen und Fristen nach LobbyRG. |
 | [`luftrecht-flughafenrecht`](./luftrecht-flughafenrecht) | Luftrecht-Plugin für LuftVG, LuftSiG, LBA, Flughäfen, Airlines, Slots, Flugzeugpfandrechte, Beschlagnahme, Insolvenz, Drohnen und Aviation-Compliance. |
 
-### M
+</details>
+
+<a id="m"></a>
+<details>
+<summary>M</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -442,7 +531,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`mietrecht`](./mietrecht) | Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitätsstädte. Datenerhebung Mieterhöhungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht. |
 | [`mittelstand-corporate-ma`](./mittelstand-corporate-ma) | Freistehendes Mittelstandsmandat-Corporate/M&A-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung/GoBD, PMI. |
 
-### N
+</details>
+
+<a id="n"></a>
+<details>
+<summary>N</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -454,14 +547,22 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`normenkontrollrat-nkr`](./normenkontrollrat-nkr) | Plugin für den Nationalen Normenkontrollrat (NKR): Prüfung von Referentenentwürfen Formulierungshilfen und Gesetzentwürfen auf Erfüllungsaufwand Erforderlichkeit Verhältnismäßigkeit One-in-one-out Digitalcheck Mittelstandsfreundlichkeit und Praktikabilität im Vollzug. |
 | [`notariat-alltag`](./notariat-alltag) | Notariatswerkstatt für Mitarbeiter: Kundenordner, Bauträgerkauf, Grundschuld, Beglaubigung, GmbH-Gründung, Kapitalerhöhung, Geschäftsführerwechsel und Anteilsgeschäfte bis zur Vorlage an den Notar. |
 
-### O
+</details>
+
+<a id="o"></a>
+<details>
+<summary>O</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
 | [`oeffentliches-wirtschaftsrecht`](./oeffentliches-wirtschaftsrecht) | Öffentliches-Wirtschaftsrecht-Plugin für Scheinprivatisierung, ÖPP, Projektfinanzierung, kommunale Unternehmen, Beihilfen, Vergabe und Regulierung. |
 | [`ordnungswidrigkeitenrecht`](./ordnungswidrigkeitenrecht) | Allgemeines OWiG-Plugin für Bußgeldverfahren: Anhörung, Bescheid, Einspruch, Behörde, Akteneinsicht, Gericht, Verjährung, Einziehung und Nebenfolgen. |
 
-### P
+</details>
+
+<a id="p"></a>
+<details>
+<summary>P</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -477,7 +578,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`prozessrecht`](./prozessrecht) | Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung und Schriftsätze. |
 | [`pruefungsrecht-hochschule`](./pruefungsrecht-hochschule) | Hochschulprüfungsrecht: Prüfungsordnung, Bewertungsspielraum, Akteneinsicht, Krankheit, Nachteilsausgleich, Täuschung, KI, Drittversuch und Eilrechtsschutz. |
 
-### R
+</details>
+
+<a id="r"></a>
+<details>
+<summary>R</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -503,7 +608,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`roemisch-katholisches-kirchenrecht`](./roemisch-katholisches-kirchenrecht) | Großes, lehramts- und papsttreues Arbeitsplugin zum Recht der römisch-katholischen Kirche: CIC, Katechismus, Sakramente, Ehe, Kirchenaustritt, Verfahren, Disziplin, Pfarrei, Diözese, Kurie und mehrsprachige Kommunikation. |
 | [`roemisches-recht`](./roemisches-recht) | Mega-Plugin zum römischen Recht: Zwölftafelgesetz, Institutionensystem, Sachenrecht, Obligationen, Aktionenrecht, Erbrecht, Juristenrecht, Justinian, byzantinisches Recht und Rezeption. |
 
-### S
+</details>
+
+<a id="s"></a>
+<details>
+<summary>S</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -536,7 +645,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`strassenverkehrsrecht-stvo`](./strassenverkehrsrecht-stvo) | StVO-/Straßenverkehrsrecht-Plugin für Verkehrsregeln, Zeichen, Anordnungen, Ausnahmegenehmigungen, Fahrerlaubnis, Bußgeld-Schnittstellen und Behördenpraxis. |
 | [`subsumtions-pruefer`](./subsumtions-pruefer) | Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung. |
 
-### T
+</details>
+
+<a id="t"></a>
+<details>
+<summary>T</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -545,7 +658,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`tierschutzrecht`](./tierschutzrecht) | Tierschutzrecht-Plugin für TierSchG, BGB Paragraf 90a, Haltung, Zucht, Transport, Tierversuche, Behördenverfahren, Strafrecht, Bußgeld und zivilrechtliche Tierfälle. |
 | [`transparenzregister-assistent`](./transparenzregister-assistent) | Transparenzregister: Kontrollketten ermitteln, Meldungen und Berichtigungen vorbereiten, Einsicht und Unstimmigkeiten bearbeiten sowie optional freigegebene Portalhandlungen begleiten. Zehn Fachskills und ein Hauptproblem-Skill mit drei Akten. |
 
-### U
+</details>
+
+<a id="u"></a>
+<details>
+<summary>U</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -560,7 +677,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`us-copyright-registrierung-verlag`](./us-copyright-registrierung-verlag) | US Copyright Act für deutsche Verlage und Rechteinhaber: Title 17, Registrierung, Rechte, Fair Use, DMCA, Musik, AI, Litigation und Deals. |
 | [`us-sanktionspruefer`](./us-sanktionspruefer) | US-Sanktionen für Unternehmen und Kanzleien: OFAC-Treffer, Eigentum, US-Bezug, Terrorismusregime, Geschäfte, Lizenzen, Meldungen und EU-Rechtskonflikte. Ein Hauptskill und neun Fachskills führen zum belegten Vermerk, Antrag oder Schreiben. |
 
-### V
+</details>
+
+<a id="v"></a>
+<details>
+<summary>V</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -585,7 +706,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`vertragserstellung`](./vertragserstellung) | Kompakte Vertragswerkstatt für einzelne Geschäfte zwischen Unternehmen. Zehn Skills erstellen Verträge, Klauseln und Nachträge bis zur abgestimmten Endfassung. |
 | [`vertragsrecht`](./vertragsrecht) | Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB Paragrafen 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen. |
 
-### W
+</details>
+
+<a id="w"></a>
+<details>
+<summary>W</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -596,7 +721,11 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`wirtschaftsanwalt`](./wirtschaftsanwalt) | Laufende Unternehmensberatung im Mittelstand: zehn ausführende Skills verbinden Vertrags-, Personal-, Gesellschafts-, Daten- und Liquiditätsfragen mit konkreten Geschäftsentscheidungen und fertigen Dokumenten. |
 | [`word-legal-ai-plugin-and-skill-for-german-lawyers`](./word-legal-ai-plugin-and-skill-for-german-lawyers) | Word Legal AI for German Lawyers: Kaltstart, Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Redlines, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing und englische Verträge nach deutschem Recht. |
 
-### Z
+</details>
+
+<a id="z"></a>
+<details>
+<summary>Z</summary>
 
 | Plugin | Beschreibung |
 | --- | --- |
@@ -606,39 +735,6 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`zwangsverwaltung-zvg`](./zwangsverwaltung-zvg) | Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme. |
 | [`zwangsvollstreckung`](./zwangsvollstreckung) | Plugin Zwangsvollstreckung Paragrafen 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, Paragraf 802l Kontensuche, Vermögensauskunft, Räumung, Paragraf 800 ZPO Notar, Paragraf 201 InsO, ZVG, EU-Kontenpfändung VO 655/2014, Paragraf 765a Härtefall, Schuldnerschutz. |
 
+</details>
+
 <!-- END PLUGIN-KATALOG (auto-generated) -->
-
-## Weitere Unterlagen zum Testen
-
-- [GVB Berlin – Reinigungsvergabe](./weitere-unterlagen/sektorenvergabe-gvb-berlin/README.md) bietet eine Reinigungsakte mit 48 Unterlagen und zehn einzeln verwendbare Markdown-Assistenten. [Installierbares Fachpaket](./gvb-reinigungsvergabe/README.md)
-- [Forderungsmanagement im Immobilienunternehmen](./projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/README.md) verbindet die Arbeit in der Rechtsabteilung mit [zehn Testakten](./projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/TESTAKTEN.md).
-- [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/README.md) bietet drei Arbeitsumgebungen für Vergabestelle, Bieter und Konkurrentenrechtsschutz. Für Bauleistungen gibt es die [Bauvergabe-Reihe](./bauvergabe/README.md) mit fünf Fachpaketen und zwei durchgehenden Bauakten.
-
-Für Studium und Referendariat eignen sich die Beispielakten, Relationen und Urteilsentwürfe zur Übung und zur Kontrolle der eigenen Lösung. Bei Prüfungsleistungen gelten die Vorgaben der jeweiligen Prüfungsstelle zur zulässigen Nutzung und Kennzeichnung.
-
-## Qualität und Mitwirkung
-
-Das [Qualitätslabor](./QUALITY.md) dokumentiert Bestandsprüfungen, Quellenabgleiche und Modelltests mit ihrer jeweiligen Reichweite. [Rechtsprechungsprüfung der Werkstatt-Prompts](./quality/source-audits/2026-10-31-werkstatt/README.md) · [Vergleichsmethodik und Herkunft](./quality/upstream-legal/2026-11-16/README.md)
-
-<a id="bitte-mit-testen-und-feedback-geben"></a>
-
-Mit einer Testakte kannst du prüfen, ob ein Arbeitsablauf zu deinen Aufgaben und Quellenzugängen passt. Ein hilfreicher Fehlerbericht nennt Paket, Aufgabe, erwartetes Ergebnis und beobachtete Abweichung. Verwende dabei erfundene oder zur Veröffentlichung geeignete Beispieldaten. [Fehler melden](https://github.com/Klotzkette/claude-fuer-deutsches-recht/issues) · [Beitragsleitfaden](./CONTRIBUTING.md)
-
-## Lizenz
-
-Eigene Beiträge stehen nach Wahl unter **Apache License, Version 2.0** oder **MIT License** (`Apache-2.0 OR MIT`). [Lizenzhinweis](./LICENSE) · [Apache-2.0-Lizenz](./LICENSE-APACHE) · [MIT-Lizenz](./LICENSE-MIT) · [Notice](./NOTICE)
-
-Anthropics Vorlage `claude-for-legal` steht seit dem Initialcommit unter der Apache License, Version 2.0. Für übernommenes Material gelten die Herkunfts- und Lizenzvermerke in den Dateien. [Lizenz der ursprünglichen Vorlage](https://github.com/anthropics/claude-for-legal/blob/d541734b08e67aae330a362b256d1eb6808a08f5/LICENSE)
-
-[Changelog](./CHANGELOG.md) · [Veröffentlichungen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases)
-
-## English Quick Guide
-
-Plugins, focused skills and standalone prompts for working with German law. Use the collection to review records, check sources and draft contracts, pleadings and memos. The working material is mainly in German.
-
-- **Install a plugin** for a field you work in regularly. Find the package in the [plugin catalogue](#was-ist-drin) and follow the [installation guide](./INSTALLATION_EINFACH.md) or the [ChatGPT setup guide](#chatgpt-und-die-chatgpt-app).
-- **Use one skill** for a specific task. The [complete skill index](./SKILLS.md) links to per-plugin descriptions and individual Markdown files. Provide any references required by the skill.
-- **Start with a prompt** if you want to work directly in a chat. Choose a [workshop prompt](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) for a detailed workflow or a [quick-start prompt](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) for a short entry point.
-- **Practise with a case file.** Open the [case index](./testakten/README.md) and choose one format. Use the combined PDF for reading, the individual-PDF ZIP to select documents, or the original-format ZIP for spreadsheets, emails and editable files. Where available, start with the `Grundakte` folder for the intake documents.
-
-The [download index](./ASSET_INDEX.md) identifies the release for each package. The aggregate archives cover the fixed collection dated 9 October 2026. File handling, source access and document export depend on your tools and workspace. Use fictitious material to test your setup and verify every substantive output before relying on it. The material is experimental and does not replace legal advice.

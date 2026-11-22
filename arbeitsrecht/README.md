@@ -233,7 +233,7 @@ Vollständiger Workflow für Verbraucher und Anwälte zur eigenständigen Einrei
 | `/arbeitsrecht:arbeitsgericht-prozess-vergleich-bearbeiten Thema: kueschk-zeugnisanspruch-und-vergleich` | § 109 GewO; BAG-Mindeststandard; geheime Negativsignale; Vergleichsformulierungen |
 | `/arbeitsrecht:arbeitsgericht-prozess-vergleich-bearbeiten Thema: kueschk-streitwert-kostenfolge-prozesskostenhilfe` | § 42 GKG; § 12a ArbGG keine Kostenerstattung erste Instanz; PKH |
 | `/arbeitsrecht:arbeitsgericht-prozess-vergleich-bearbeiten Thema: kueschk-berufung-und-revision-lag-bag` | Berufung LAG; Revision BAG; Zulassungsgründe; Fristen |
-| `/arbeitsrecht:kueschk-output-warnschriftsatz-laie` | Vollständige Klageschrift mit Pflicht-Disclaimer für Laien |
+| `/arbeitsrecht:kaltstart-triage Thema: kueschk-output-warnschriftsatz-laie` | Vollständige Klageschrift mit Pflicht-Disclaimer für Laien |
 
 ### Bündel 2: Entfristungsklage / Befristungskontrollklage (TzBfG)
 

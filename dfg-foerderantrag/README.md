@@ -76,7 +76,7 @@ Vor jeder belastbaren Ausgabe aktuelle DFG-Seiten prüfen:
 ## Schnellstart
 
 ```text
-/dfg-foerderantrag:allgemein
+/dfg-foerderantrag:juristischer-argumentationskern
 ```
 
 Der Allgemein-Skill führt in 60 Sekunden durch: Forschungsfrage, Förderprogramm, Summe, Tempo, Zielgruppe der Begutachtung, Vorarbeiten, Risiken, Daten-/Ethikthemen und gewünschtes Ergebnis.
