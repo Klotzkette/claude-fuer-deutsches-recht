@@ -174,46 +174,46 @@ Skills für steuerrechtliche Anwaltskanzleien — streitbezogene Folgebearbeitun
 
 | Skill | Funktion |
 |---|---|
-| `/steuerrecht-anwalt-und-berater:anw-orientierung` | Orientierung Anwalt im Steuerrecht (Normen, Fristen, Quellenprüfung) + FAO § 9-Anhang |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-orientierung` | Orientierung Anwalt im Steuerrecht (Normen, Fristen, Quellenprüfung) + FAO § 9-Anhang |
 | `/steuerrecht-anwalt-und-berater:mandat-kanzleibetrieb-quellen-bearbeiten Thema: rechtsstand-mai-2026-faktenbank` | Quellen-Gate: E-Rechnung, Krypto, Grundsteuer, § 23 EStG, § 20 EStG, BFH/BMF/BZSt ohne Blindzitate |
-| `/steuerrecht-anwalt-und-berater:anw-kaltstart-interview` | Ersteinrichtung — Kanzleiprofil, Schwerpunkte, Finanzämter, FG-Bezirke |
-| `/steuerrecht-anwalt-und-berater:anw-mandat-triage-steuerrecht` | Eingangs-Triage: Steuerart, Vorgang, Fristen, Eskalation |
-| `/steuerrecht-anwalt-und-berater:anw-steuerbescheid-analyse` | Steuerbescheid systematisch auswerten vor Einspruch |
-| `/steuerrecht-anwalt-und-berater:anw-einspruch-finanzamt` | Einspruch § 347 AO mit AdV-Antrag und Akteneinsicht |
-| `/steuerrecht-anwalt-und-berater:anw-aussetzung-vollziehung` | AdV-Antrag zweistufig: FA § 361 AO + FG § 69 Abs. 3 FGO |
-| `/steuerrecht-anwalt-und-berater:anw-klage-finanzgericht` | Klage zum Finanzgericht § 40 ff. FGO |
-| `/steuerrecht-anwalt-und-berater:anw-akteneinsicht-steuerakte` | Akteneinsicht § 364 AO / § 78 FGO / Art. 15 DSGVO |
-| `/steuerrecht-anwalt-und-berater:anw-aussenpruefung-strategien` | Außenprüfung §§ 193 ff. AO: Begleitung, Strategie, Schlussbesprechung |
-| `/steuerrecht-anwalt-und-berater:anw-selbstanzeige-371` | Selbstanzeige § 371 AO — Hochrisikobereich, Pflichtprüfung mehrere Anwälte |
-| `/steuerrecht-anwalt-und-berater:anw-haftungswarn-15a-inso-mandant` | Anwaltliche Belehrung GF bei Insolvenzreife (§ 15a InsO, § 15b InsO) — Schreibvorlage mit Eingangsbestätigung |
-| `/steuerrecht-anwalt-und-berater:anw-insolvenzreife-pruefung-17-19-inso` | Anwaltliche Insolvenzreife-Prüfung §§ 17, 19 InsO mit steuerspezifischem Schwerpunkt (§ 222 AO Stundung, § 361 AO AdV, § 69 AO GF-Haftung, § 266a StGB) |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-kaltstart-interview` | Ersteinrichtung — Kanzleiprofil, Schwerpunkte, Finanzämter, FG-Bezirke |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-mandat-triage-steuerrecht` | Eingangs-Triage: Steuerart, Vorgang, Fristen, Eskalation |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-steuerbescheid-analyse` | Steuerbescheid systematisch auswerten vor Einspruch |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-einspruch-finanzamt` | Einspruch § 347 AO mit AdV-Antrag und Akteneinsicht |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-aussetzung-vollziehung` | AdV-Antrag zweistufig: FA § 361 AO + FG § 69 Abs. 3 FGO |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-klage-finanzgericht` | Klage zum Finanzgericht § 40 ff. FGO |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-akteneinsicht-steuerakte` | Akteneinsicht § 364 AO / § 78 FGO / Art. 15 DSGVO |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-aussenpruefung-strategien` | Außenprüfung §§ 193 ff. AO: Begleitung, Strategie, Schlussbesprechung |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-selbstanzeige-371` | Selbstanzeige § 371 AO — Hochrisikobereich, Pflichtprüfung mehrere Anwälte |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-haftungswarn-15a-inso-mandant` | Anwaltliche Belehrung GF bei Insolvenzreife (§ 15a InsO, § 15b InsO) — Schreibvorlage mit Eingangsbestätigung |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-insolvenzreife-pruefung-17-19-inso` | Anwaltliche Insolvenzreife-Prüfung §§ 17, 19 InsO mit steuerspezifischem Schwerpunkt (§ 222 AO Stundung, § 361 AO AdV, § 69 AO GF-Haftung, § 266a StGB) |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| `/steuerrecht-anwalt-und-berater:anw-stundung-erlass-vollstreckungsaufschub` | Stundung § 222 AO, Erlass § 227/§ 163 AO, Vollstreckungsaufschub § 258 AO — Antrag mit Liquiditätsbeleg, Ratenplan, Sicherheitsleistung — **NEU** |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-stundung-erlass-vollstreckungsaufschub` | Stundung § 222 AO, Erlass § 227/§ 163 AO, Vollstreckungsaufschub § 258 AO — Antrag mit Liquiditätsbeleg, Ratenplan, Sicherheitsleistung — **NEU** |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| `/steuerrecht-anwalt-und-berater:anw-grunderwerbsteuer-share-deal-90-prozent` | GrESt beim Share Deal — 90-%-Schwelle ab 1.7.2021, 10-Jahres-Frist, RETT-Blocker, § 19 GrEStG Anzeigepflicht — **NEU** |
-| `/steuerrecht-anwalt-und-berater:anw-grundsteuer-kaltstart-bescheidkette` | Grundsteuer-Mandat aufnehmen: Bescheidkette Finanzamt/Gemeinde, Fristen, Modellrouting, Sofortmaßnahmen |
-| `/steuerrecht-anwalt-und-berater:anw-grundsteuer-verfassungscheck-bundesmodell` | Grundsteuer-Reform verfassungsrechtlich einordnen: BVerfG 2018, BFH-AdV 2024, BFH-Bundesmodell 2025/2026 |
-| `/steuerrecht-anwalt-und-berater:anw-grundsteuer-ermittlungsbasis-flaeche-nutzung` | Flächen, Nutzung, Baujahr, wirtschaftliche Einheit, Schätzung und Beleglage prüfen |
-| `/steuerrecht-anwalt-und-berater:anw-grundsteuerwert-bewertung-bewg-218ff` | Grundsteuerwert nach BewG §§ 218 ff. prüfen: Ertragswert/Sachwert, Bodenrichtwert, Grundstücksart |
-| `/steuerrecht-anwalt-und-berater:anw-grundsteuer-einspruch-adv-bfh` | Einspruch und AdV in Grundsteuerfällen mit BFH-Linie und Belegstrategie |
-| `/steuerrecht-anwalt-und-berater:anw-grundsteuer-landesmodell-routing` | Bundesmodell und Landesmodelle trennen: Baden-Württemberg, Bayern, Hamburg, Hessen, Niedersachsen |
-| `/steuerrecht-anwalt-und-berater:anw-grundsteuer-hebesatz-zahlungsplan` | Kommunalen Grundsteuerbescheid, Hebesatz, Fälligkeit, Stundung und Zahlung prüfen |
-| `/steuerrecht-anwalt-und-berater:anw-grundsteuer-gutachten-gemeiner-wert` | Niedrigeren gemeinen Wert und Gutachtenstrategie für Grundsteuer-AdV vorbereiten |
-| `/steuerrecht-anwalt-und-berater:anw-grest-kaltstart-asset-share-deal` | GrESt-Kaltstart: Asset Deal, Share Deal, Signing, Closing, Anzeige und Bescheidroute |
-| `/steuerrecht-anwalt-und-berater:anw-grest-asset-deal-kaufvertrag` | GrESt beim Grundstückskauf: Gegenleistung, einheitlicher Erwerbsgegenstand, Kaufvertrag |
-| `/steuerrecht-anwalt-und-berater:anw-grest-share-deal-90-prozent-10-jahre` | Share-Deal-Vertiefung: § 1 Abs. 2a/2b/3/3a GrEStG, 90 %, 10 Jahre, RETT-Blocker |
-| `/steuerrecht-anwalt-und-berater:anw-grest-signing-closing-doppelfestsetzung` | Signing/Closing-Spezialskill mit BFH II B 13/25, II B 23/25 und II B 47/25 |
-| `/steuerrecht-anwalt-und-berater:anw-grest-anzeige-19-closing-check` | § 19-GrEStG-Anzeige, Closing-Checkliste, Anlagen und Zuständigkeiten |
-| `/steuerrecht-anwalt-und-berater:anw-grest-spa-tax-clause-indemnity` | SPA-Steuerklauseln, GrESt-Indemnity, Escrow und Mitwirkungspflichten |
-| `/steuerrecht-anwalt-und-berater:anw-grest-konzernklausel-6a` | Konzernklausel § 6a GrEStG bei Umwandlung, Einbringung und Konzernumstrukturierung |
-| `/steuerrecht-anwalt-und-berater:anw-grest-bescheid-einspruch-adv-16` | GrESt-Bescheid prüfen: Einspruch, AdV, § 16 GrEStG, Doppelbelastung |
-| `/steuerrecht-anwalt-und-berater:anw-dac7-dac8-plattformen-krypto` | DAC7 nach dem PStTG und DAC8 nach dem KStTG — Anbieterstatus, Sorgfaltspflichten, Meldungen und Bußgeldrisiken; DAC8-Meldejahr 2026, jährliche Regelfrist 31. Juli des Folgejahres |
-| `/steuerrecht-anwalt-und-berater:anw-minbestg-pillar2-konzernbesteuerung` | Pillar Two / MinBestG ab 1.1.2024 — globaler Mindeststeuersatz 15 % für Konzerne ab 750 Mio EUR; IIR/UTPR/QDMTT, GloBE Information Return — **NEU** |
-| `/steuerrecht-anwalt-und-berater:anw-steuerstrafverteidigung-verstaendigung` | Strafverteidigung Steuerstrafsache (§§ 369 ff. AO) mit Einstellung § 153a StPO und Verständigung § 257c StPO |
-| `/steuerrecht-anwalt-und-berater:anw-verbindliche-auskunft` | Verbindliche Auskunft § 89 Abs. 2 AO |
-| `/steuerrecht-anwalt-und-berater:anw-fristenbuch-steuerrecht` | Fristenbuch: Einspruchsfrist, Klagefrist, Vorfristen |
-| `/steuerrecht-anwalt-und-berater:anw-betriebsausgaben-werbungskosten-pruefraster` | Prüfraster Betriebsausgaben/Werbungskosten § 4 Abs. 4 / § 9 EStG |
-| `/steuerrecht-anwalt-und-berater:anw-umsatzsteuer-vorsteuerabzug-pruefen` | Vorsteuerabzug § 15 UStG; bei E-Rechnungen Empfang und Ausstellung trennen und Übergänge nach Paragraf 27 Absatz 38 UStG prüfen. |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grunderwerbsteuer-share-deal-90-prozent` | GrESt beim Share Deal — 90-%-Schwelle ab 1.7.2021, 10-Jahres-Frist, RETT-Blocker, § 19 GrEStG Anzeigepflicht — **NEU** |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grundsteuer-kaltstart-bescheidkette` | Grundsteuer-Mandat aufnehmen: Bescheidkette Finanzamt/Gemeinde, Fristen, Modellrouting, Sofortmaßnahmen |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grundsteuer-verfassungscheck-bundesmodell` | Grundsteuer-Reform verfassungsrechtlich einordnen: BVerfG 2018, BFH-AdV 2024, BFH-Bundesmodell 2025/2026 |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grundsteuer-ermittlungsbasis-flaeche-nutzung` | Flächen, Nutzung, Baujahr, wirtschaftliche Einheit, Schätzung und Beleglage prüfen |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grundsteuerwert-bewertung-bewg-218ff` | Grundsteuerwert nach BewG §§ 218 ff. prüfen: Ertragswert/Sachwert, Bodenrichtwert, Grundstücksart |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grundsteuer-einspruch-adv-bfh` | Einspruch und AdV in Grundsteuerfällen mit BFH-Linie und Belegstrategie |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grundsteuer-landesmodell-routing` | Bundesmodell und Landesmodelle trennen: Baden-Württemberg, Bayern, Hamburg, Hessen, Niedersachsen |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grundsteuer-hebesatz-zahlungsplan` | Kommunalen Grundsteuerbescheid, Hebesatz, Fälligkeit, Stundung und Zahlung prüfen |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grundsteuer-gutachten-gemeiner-wert` | Niedrigeren gemeinen Wert und Gutachtenstrategie für Grundsteuer-AdV vorbereiten |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grest-kaltstart-asset-share-deal` | GrESt-Kaltstart: Asset Deal, Share Deal, Signing, Closing, Anzeige und Bescheidroute |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grest-asset-deal-kaufvertrag` | GrESt beim Grundstückskauf: Gegenleistung, einheitlicher Erwerbsgegenstand, Kaufvertrag |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grest-share-deal-90-prozent-10-jahre` | Share-Deal-Vertiefung: § 1 Abs. 2a/2b/3/3a GrEStG, 90 %, 10 Jahre, RETT-Blocker |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grest-signing-closing-doppelfestsetzung` | Signing/Closing-Spezialskill mit BFH II B 13/25, II B 23/25 und II B 47/25 |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grest-anzeige-19-closing-check` | § 19-GrEStG-Anzeige, Closing-Checkliste, Anlagen und Zuständigkeiten |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grest-spa-tax-clause-indemnity` | SPA-Steuerklauseln, GrESt-Indemnity, Escrow und Mitwirkungspflichten |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grest-konzernklausel-6a` | Konzernklausel § 6a GrEStG bei Umwandlung, Einbringung und Konzernumstrukturierung |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-grest-bescheid-einspruch-adv-16` | GrESt-Bescheid prüfen: Einspruch, AdV, § 16 GrEStG, Doppelbelastung |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-dac7-dac8-plattformen-krypto` | DAC7 nach dem PStTG und DAC8 nach dem KStTG — Anbieterstatus, Sorgfaltspflichten, Meldungen und Bußgeldrisiken; DAC8-Meldejahr 2026, jährliche Regelfrist 31. Juli des Folgejahres |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-minbestg-pillar2-konzernbesteuerung` | Pillar Two / MinBestG ab 1.1.2024 — globaler Mindeststeuersatz 15 % für Konzerne ab 750 Mio EUR; IIR/UTPR/QDMTT, GloBE Information Return — **NEU** |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-steuerstrafverteidigung-verstaendigung` | Strafverteidigung Steuerstrafsache (§§ 369 ff. AO) mit Einstellung § 153a StPO und Verständigung § 257c StPO |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-verbindliche-auskunft` | Verbindliche Auskunft § 89 Abs. 2 AO |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-fristenbuch-steuerrecht` | Fristenbuch: Einspruchsfrist, Klagefrist, Vorfristen |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-betriebsausgaben-werbungskosten-pruefraster` | Prüfraster Betriebsausgaben/Werbungskosten § 4 Abs. 4 / § 9 EStG |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: anw-umsatzsteuer-vorsteuerabzug-pruefen` | Vorsteuerabzug § 15 UStG; bei E-Rechnungen Empfang und Ausstellung trennen und Übergänge nach Paragraf 27 Absatz 38 UStG prüfen. |
 
 ### Ersteinrichtung
 
@@ -231,13 +231,13 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
 
 | Skill | Funktion |
 |---|---|
-| `/steuerrecht-anwalt-und-berater:stb-kaltstart-interview` | Ersteinrichtung — Praxisprofil, Mandanten-Schwerpunkte, Buchhaltungssystem |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: stb-kaltstart-interview` | Ersteinrichtung — Praxisprofil, Mandanten-Schwerpunkte, Buchhaltungssystem |
 | `/steuerrecht-anwalt-und-berater:buchfuehrung-abschluss-bwa-bearbeiten Thema: stb-bwa-sus-bilanz-pruefung` | BWA-/SuSa-/Bilanzprüfung auf Krisensignale (§§ 17, 19 InsO, § 102 StaRUG) |
 | `/steuerrecht-anwalt-und-berater:stb-liquiditaetsvorschau-3wochen` | 3-Wochen-Liquiditätsvorschau § 17 InsO Vorprüfung |
 | `/steuerrecht-anwalt-und-berater:stb-liquiditaetsvorschau-3-6-12-monate` | Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose |
-| `/steuerrecht-anwalt-und-berater:stb-ueberschuldungspruefung-19-inso` | Stichtagsbezogene Überschuldungsprüfung § 19 InsO mit Fortführungsprognose nach IDW S 6/S 11 — **NEU** |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: stb-ueberschuldungspruefung-19-inso` | Stichtagsbezogene Überschuldungsprüfung § 19 InsO mit Fortführungsprognose nach IDW S 6/S 11 — **NEU** |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| `/steuerrecht-anwalt-und-berater:stb-drv-sozialversicherungspruefung` | Begleitung der DRV-Sozialversicherungsprüfung § 28p SGB IV — Statusfeststellung, Phantomlohn, Mindestlohn, § 266a StGB-Risiken — **NEU** |
+| `/steuerrecht-anwalt-und-berater:kaltstart-triage Thema: stb-drv-sozialversicherungspruefung` | Begleitung der DRV-Sozialversicherungsprüfung § 28p SGB IV — Statusfeststellung, Phantomlohn, Mindestlohn, § 266a StGB-Risiken — **NEU** |
 
 
 > **Power-Plugin Liquidität:** Die vollständige Power-Version der Liquiditätsvorschau (BGH-Schema Passiva II, Excel-Vorlage, HTML-Padlet, insolvenzrechtliche Stichtagsbilanz) lebt im Plugin [`liquiditaetsplanung/`](../liquiditaetsplanung/). Die `stb-`-Skills hier sind die Steuerberater-Sicht zur Krisenfrüherkennung und triggern die Power-Version bei tiefergehender Begutachtung.

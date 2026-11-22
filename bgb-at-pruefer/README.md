@@ -79,7 +79,10 @@ Experimentelles Werkzeug. Keine Rechtsberatung, keine Gewähr. Gesetzestext und 
 
 ## Schnellstart
 
-/plugin install bgb-at-prüfer@claude-für-deutsches-recht
+```text
+/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
+/plugin install bgb-at-pruefer@klotzkette-german-legal-skills
+```
 
 Starte mit dem Skill [Kaltstart-Triage](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bgb-at-pruefer/skills/kaltstart-triage/SKILL.md). Lies zuerst Erklärungen und Auftrag. Bei einer klaren Zugangs-, Form- oder Vollmachtsfrage direkt zur Prüfung und zum bestellten Text arbeiten; keine vorgeschaltete Themenkarte verlangen. Nur entscheidende Lücken klären und Antworten in den bestehenden Entwurf einarbeiten.
 

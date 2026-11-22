@@ -111,16 +111,19 @@ def build_overview(plugin_dir: Path) -> str:
     if not skills:
         return ""
 
+    inventory_de = "Dieses Plugin enthält einen Skill." if len(skills) == 1 else f"Automatisch generierte Komplett-Liste aller {len(skills)} Skills in diesem Plugin."
+    inventory_en = "This plugin contains one skill." if len(skills) == 1 else f"Complete list of all {len(skills)} skills in this plugin."
+
     lines = [
         BEGIN,
         "",
         "## Alle Skills im Überblick",
         "",
-        f"Automatisch generierte Komplett-Liste aller {len(skills)} Skills in diesem Plugin. "
+        f"{inventory_de} "
         "Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. "
         "Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.",
         "",
-        f"English: Complete list of all {len(skills)} skills in this plugin. Both links in each row download the unchanged `SKILL.md` content as a Markdown file with a unique plugin-and-skill filename.",
+        f"English: {inventory_en} Both links in each row download the unchanged `SKILL.md` content as a Markdown file with a unique plugin-and-skill filename.",
         "",
         "| Skill | Beschreibung | Markdown-Download |",
         "| --- | --- | --- |",

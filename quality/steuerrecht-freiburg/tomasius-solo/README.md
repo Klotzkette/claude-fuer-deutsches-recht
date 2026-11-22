@@ -41,7 +41,7 @@ Der Nachtrag ergänzt 22 Dateien. Die 379 bisherigen Aktenstücke sind bytegleic
 
 ## 5 UStVA selbst erstellen
 
-[Fachskill](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/SKILL.md) · [Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/ustva/werkstatt.md) · [Mini](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/ustva/mini.md)
+[Fachmodul zur Umsatzsteuer-Voranmeldung](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/FACHINHALT.md) · [Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/ustva/werkstatt.md) · [Mini](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/ustva/mini.md)
 
 [Freiburger Steuerwerkstatt](../README.md) · [Steuerrechts-Plugin](../../../steuerrecht-anwalt-und-berater/README.md)
 

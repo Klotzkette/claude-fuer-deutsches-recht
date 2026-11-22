@@ -50,6 +50,43 @@ class CodexManifestAbgleich(unittest.TestCase):
         return subprocess.run([self.node, str(VALIDATOR)], cwd=self.root,
                               capture_output=True, text=True, timeout=15)
 
+    def test_installationsbeispiele_nutzen_das_registrierte_plugin_und_den_marketplace(self):
+        readme = self.plugin / 'README.md'
+        original = readme.read_text()
+        root_readme = self.root / 'README.md'
+        quickstart = self.root / 'QUICKSTART.md'
+        guide = self.root / 'INSTALLATION_EINFACH.md'
+        repo = 'Klotzkette/claude-fuer-deutsches-recht'
+        self.schreiben(root_readme, f'Im Terminal: `claude plugin install {SLUG}@test-marketplace`.')
+        self.schreiben(readme, original + f'\n/plugin install {SLUG}@test-marketplace\n')
+        self.schreiben(quickstart, '/plugin install <plugin-name>@test-marketplace\n')
+        self.schreiben(guide, f'/plugin install {SLUG} --marketplace {repo}\n')
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
+        self.schreiben(root_readme, f'Im Terminal: `claude plugin install {SLUG}@repository-name`.')
+        self.schreiben(readme, original + '\n/plugin install tippfehler@test-marketplace\n')
+        self.schreiben(quickstart, '/plugin install <plugin-name>@repository-name\n')
+        self.schreiben(guide, f'/plugin install tippfehler --marketplace {repo}\n')
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 1)
+        self.assertIn(f'README.md:1: unbekannte Plugin-ID {SLUG}@repository-name', result.stderr)
+        self.assertIn(f'{SLUG}/README.md:5: unbekannte Plugin-ID tippfehler@test-marketplace', result.stderr)
+        self.assertIn('QUICKSTART.md:1: unbekannte Plugin-ID', result.stderr)
+        self.assertIn('INSTALLATION_EINFACH.md:1: unbekannte Plugin-ID tippfehler', result.stderr)
+
+    def test_malformed_pluginliste_ergibt_prueffehler(self):
+        path = self.root / '.claude-plugin/marketplace.json'
+        marketplace = json.loads(path.read_text())
+        for invalid in ({}, [None]):
+            with self.subTest(plugins=invalid):
+                marketplace['plugins'] = invalid
+                self.schreiben(path, json.dumps(marketplace))
+                result = self.pruefen()
+                self.assertEqual(result.returncode, 1)
+                self.assertIn('FEHLER:', result.stderr)
+                self.assertNotIn('TypeError', result.stderr)
+
     def test_codex_manifest_bleibt_optional_und_passende_version_besteht(self):
         result = self.pruefen()
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)

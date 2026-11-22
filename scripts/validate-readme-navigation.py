@@ -13,7 +13,7 @@ from os.path import relpath
 from pathlib import Path
 
 from prompt_profiles import formats, standalone_kinds
-from urllib.parse import quote, unquote, urlsplit
+from urllib.parse import parse_qs, quote, unquote, urlsplit
 
 from markdown_it import MarkdownIt
 import yaml
@@ -23,6 +23,10 @@ REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path="
 CANONICAL_REPO_BLOB_BASE = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/"
+REPOSITORY_URL_PREFIXES = {
+    "github.com": ("blob/main/", "tree/main/"),
+    "raw.githubusercontent.com": ("main/", "refs/heads/main/"),
+}
 MARKDOWN = MarkdownIt("gfm-like")
 
 
@@ -36,6 +40,8 @@ class ExplicitAnchors(HTMLParser):
         if tag == "a":
             self.anchors.update(value for key, value in attrs if key in {"id", "name"} and value)
             self.destinations.extend(value for key, value in attrs if key == "href" and value)
+        if tag == "img":
+            self.destinations.extend(value for key, value in attrs if key == "src" and value)
 
 
 def markdown_tokens(text: str):
@@ -93,9 +99,7 @@ def markdown_download_url(repo_path: str) -> str:
 
 
 def github_slug(heading: str) -> str:
-    text = re.sub(r"<[^>]+>", "", heading)
-    text = re.sub(r"!?\[([^\]]+)\]\([^)]+\)", r"\1", text)
-    text = re.sub(r"[`*_~]", "", text).strip().lower()
+    text = heading.strip().lower()
     kept = []
     for char in text:
         category = unicodedata.category(char)
@@ -105,16 +109,20 @@ def github_slug(heading: str) -> str:
 
 
 def heading_anchors(path: Path) -> set[str]:
-    counts: dict[str, int] = {}
     anchors: set[str] = set()
     text = path.read_text(encoding="utf-8", errors="ignore")
     tokens = markdown_tokens(text)
     for index, token in enumerate(tokens):
         if token.type == "heading_open":
-            base = github_slug(tokens[index + 1].content)
-            duplicate = counts.get(base, 0)
-            counts[base] = duplicate + 1
-            anchors.add(base if duplicate == 0 else f"{base}-{duplicate}")
+            heading = "".join(child.content for child in tokens[index + 1].children
+                              if child.type in {"text", "code_inline"})
+            base = github_slug(heading)
+            slug = base
+            duplicate = 0
+            while slug in anchors:
+                duplicate += 1
+                slug = f"{base}-{duplicate}"
+            anchors.add(slug)
     anchors.update(explicit_html(tokens).anchors)
     return anchors
 
@@ -128,6 +136,35 @@ def repository_markdown_files() -> list[Path]:
     return sorted(files)
 
 
+def internal_link(path: Path, destination: str) -> tuple[Path, str] | None:
+    url = urlsplit(destination)
+    fragment = unquote(url.fragment)
+    if not url.netloc and not url.scheme:
+        relative = unquote(url.path)
+        if relative.startswith("/"):
+            return REPO / relative.lstrip("/"), fragment
+        return (path.parent / relative if relative else path), fragment
+
+    if url.hostname == "klotzkette.github.io" and url.path.startswith("/claude-fuer-deutsches-recht/"):
+        relative = unquote(url.path.removeprefix("/claude-fuer-deutsches-recht/"))
+        if relative == "download.html" or relative.startswith("downloads/"):
+            target = (relative.removeprefix("downloads/") if relative.startswith("downloads/")
+                      else parse_qs(url.query).get("path", [""])[0])
+            if not is_markdown_download_target(target):
+                raise ValueError(f"unzulässiges Markdown-Downloadziel: {target}")
+            return REPO / target, ""
+        return REPO / "uebersicht-fachanwaltschaften" / (relative or "index.html"), fragment
+
+    # Nur URLs auf main spiegeln den aktuellen Checkout. Tags und feste
+    # Commit-Links beziehen sich auf einen anderen Stand.
+    parts = url.path.split("/", 3)
+    if len(parts) == 4 and parts[1].lower() == "klotzkette" and parts[2].lower() == "claude-fuer-deutsches-recht":
+        for prefix in REPOSITORY_URL_PREFIXES.get(url.hostname, ()):
+            if parts[3].startswith(prefix):
+                return REPO / unquote(parts[3][len(prefix):]), fragment
+    return None
+
+
 def validate_markdown_links(errors: list[str]) -> tuple[int, int]:
     markdown_files = repository_markdown_files()
     anchor_cache: dict[Path, set[str]] = {}
@@ -137,35 +174,60 @@ def validate_markdown_links(errors: list[str]) -> tuple[int, int]:
         text = path.read_text(encoding="utf-8", errors="ignore")
         if path.name == "README.md" and not re.search(r"^#\s+\S", text, re.MULTILINE):
             errors.append(f"{repo_relative(path)}: sichtbare Hauptüberschrift fehlt")
-        for label, destination in markdown_links(markdown_tokens(text)):
+        # Ohne Linksyntax oder unsere kanonischen Domains gibt es kein lokales
+        # Ziel. Große reine Fachtexte müssen dann nicht als GFM geparst werden.
+        if "[" not in text and "<" not in text and "github" not in text.lower():
+            continue
+        tokens = markdown_tokens(text)
+        links = markdown_links(tokens)
+        for label, _ in links:
             if not label:
                 errors.append(f"{repo_relative(path)}: Link ohne sichtbare Beschriftung")
+        destinations = [destination for _, destination in links]
+        destinations.extend(explicit_html(tokens).destinations)
+        destinations.extend(child.attrGet("src") or "" for token in tokens
+                            for child in token.children or [] if child.type == "image")
+        for destination in destinations:
             if not destination:
                 errors.append(f"{repo_relative(path)}: Link ohne Ziel")
                 continue
-            if destination.startswith(("http://", "https://", "mailto:")):
+            try:
+                local = internal_link(path, destination)
+            except ValueError as exc:
+                errors.append(f"{repo_relative(path)}: {exc}")
                 continue
-
+            if local is None:
+                continue
             checked_links += 1
-            base, separator, fragment = destination.partition("#")
-            decoded_base = unquote(base.split("?", 1)[0])
-            target = path if not decoded_base else (path.parent / decoded_base).resolve()
+            target, fragment = local
+            target = target.resolve()
             try:
                 target.relative_to(REPO)
             except ValueError:
                 errors.append(f"{repo_relative(path)}: Ziel außerhalb des Repositorys: {destination}")
                 continue
-            if decoded_base and not target.exists():
+            if not target.exists():
                 errors.append(f"{repo_relative(path)}: Ziel fehlt: {destination}")
                 continue
             if target.is_dir():
                 target = target / "README.md"
-            if separator and target.is_file() and target.suffix.lower() == ".md":
+                if fragment and not target.is_file():
+                    errors.append(f"{repo_relative(path)}: Verzeichnis ohne README für Sprungmarke: {destination}")
+                    continue
+                if fragment.lower() == "readme":
+                    continue
+            if fragment and target.is_file() and target.suffix.lower() == ".md":
                 checked_anchors += 1
+                lines = re.fullmatch(r"L([1-9]\d*)(?:-L([1-9]\d*))?", fragment)
+                if lines:
+                    first, last = lines.groups()
+                    if not int(first) <= int(last or first) <= len(target.read_bytes().splitlines()):
+                        errors.append(f"{repo_relative(path)}: Zeilenbereich fehlt: {destination}")
+                    continue
                 if target not in anchor_cache:
                     anchor_cache[target] = heading_anchors(target)
                 anchors = anchor_cache[target]
-                if unquote(fragment) not in anchors:
+                if fragment not in anchors:
                     errors.append(f"{repo_relative(path)}: Überschriftenanker fehlt: {destination}")
     return checked_links, checked_anchors
 
@@ -186,8 +248,7 @@ def is_markdown_work_file(destination: str) -> bool:
 def is_markdown_download_target(repo_path: str) -> bool:
     """Markdown-Quellen und ausdrücklich konfigurierte TXT-Promptkopien."""
     if (re.fullmatch(r"[A-Za-z0-9._/ -]+\.(?:md|txt)", repo_path) is None
-            or repo_path.startswith("/")
-            or {"..", ".git"}.intersection(repo_path.split("/"))):
+            or {"", ".", "..", ".git"}.intersection(repo_path.split("/"))):
         return False
     if repo_path.endswith(".md"):
         return True

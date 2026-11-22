@@ -75,14 +75,16 @@ Freistehendes Plugin für die Prüfung von Äußerungen nach einfachem Recht, Ve
 ## Start
 
 ```
-/meinungspruefer:allgemein
+/meinungspruefer:juristischer-argumentationskern
 ```
 
 Der Einstieg liest Äußerung, Screenshot und Korrespondenz zuerst und bestimmt Wortlaut, Zusammenhang und erkennbares Publikum. Nur fehlende Angaben, die Sinnermittlung, Beleglage oder den beauftragten Reaktionstext verändern, werden nachgefragt. Eine verlangte Erwiderung oder Überarbeitung wird vollständig formuliert; neue Kontextbelege führen zur gezielten Korrektur statt zu einer erneuten Gesamtaufnahme.
 
-## Skills (36)
+## Prüfaufgaben bei öffentlichen Äußerungen
 
-| Skill | Zweck |
+Die Tabellen zeigen fachliche Aufgaben. Die [Fachbibliothek](FACHMODULE.md) ordnet die Vertiefungen den [auswählbaren Skills](../skills-index/meinungspruefer.md) zu.
+
+| Thema | Zweck |
 |---|---|
 | `meinungspruefer-allgemein` | Schöner Einstieg, Schnelltriage, Quellenhygiene und Routing |
 | `schnelltriage-aeusserung` | Erste Ampel für Strafrecht, Zivilrecht, Plattform und arbeits-/schulbezogene Risiken |

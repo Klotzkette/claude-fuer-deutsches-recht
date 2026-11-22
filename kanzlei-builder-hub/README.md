@@ -134,7 +134,7 @@ Bei Problemen nach der Installation: `/kanzlei-builder-hub:pflege-deaktivierung-
 | `/kanzlei-builder-hub:installation-sicherheit-bearbeiten Thema: skill-installierer [skill]` | Community-Skill installieren (mit Security- und Berufsrechtsprüfung) |
 | `/kanzlei-builder-hub:pflege-deaktivierung-bearbeiten Thema: automatischer-aktualisierer` | Updates für installierte Skills prüfen (mit Diff-Review) |
 | `/kanzlei-builder-hub:navigation-uebergabe-bearbeiten Thema: verwandte-skills-vorschlag` | Verwandte Skills basierend auf aktueller Tätigkeit empfehlen |
-| `/kanzlei-builder-hub:skills-qualitaetspruefung [skill]` | Skill gegen das Kanzlei-Skill-Design-Framework prüfen (inkl. Zitierweise und Methodik) |
+| `/kanzlei-builder-hub:quellen-qualitaet-bearbeiten Thema: qualitaetspruefung-builder-daten-red-team-korrektur [skill]` | Skill gegen das Kanzlei-Skill-Design-Framework prüfen (inkl. Zitierweise und Methodik) |
 | `/kanzlei-builder-hub:skills-playbooks-gestalten-bearbeiten Thema: anpassen` | Kanzleiprofil und Einstellungen anpassen |
 | `/kanzlei-builder-hub:pflege-deaktivierung-bearbeiten Thema: deaktivieren [skill]` | Installierten Community-Skill deaktivieren (Dateien bleiben erhalten) |
 | `/kanzlei-builder-hub:pflege-deaktivierung-bearbeiten Thema: deinstallieren [skill]` | Community-Skill vollständig entfernen |

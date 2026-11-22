@@ -105,17 +105,17 @@ Das Ergebnis wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/gewer
 | Befehl | Funktion |
 |---|---|
 | `/gewerblicher-rechtsschutz:verfahrensstrategie-bearbeiten Thema: kaltstart-interview` | Ersteinrichtungsinterview ausführen (oder erneut ausführen) |
-| `/gewerblicher-rechtsschutz:abmahnung-urheberrecht [Kontext]` | Abmahnung entwerfen oder eingehende Abmahnung triagieren |
-| `/gewerblicher-rechtsschutz:takedown-anweisung [Kontext]` | Notice-and-Action (DSA / § 7 DDG) versenden oder auf eine erhaltene Meldung reagieren |
+| `/gewerblicher-rechtsschutz:arbeitsprodukt-bearbeiten Thema: abmahnung-urheberrecht-erfindungsmeldung [Kontext]` | Abmahnung entwerfen oder eingehende Abmahnung triagieren |
+| `/gewerblicher-rechtsschutz:arbeitsprodukt-bearbeiten Thema: takedown-anweisung-unterlassungsverlangen [Kontext]` | Notice-and-Action (DSA / § 7 DDG) versenden oder auf eine erhaltene Meldung reagieren |
 | `/gewerblicher-rechtsschutz:unterlagen-und-quellen-auswerten-bearbeiten Thema: markenrecherche [Marke]` | Erste Markenrecherche – Identitäts-/Verwechslungsanalyse, Anwalt zeichnet ab |
-| `/gewerblicher-rechtsschutz:fto-triage [Produkt / Anspruchsbereich]` | Freedom-to-Operate-Triage – Sperrpatente für Anwaltsprüfung aufzeigen |
+| `/gewerblicher-rechtsschutz:rechtsposition-bearbeiten Thema: fto-triage-gewerblicher-rechtsschutz-mandat [Produkt / Anspruchsbereich]` | Freedom-to-Operate-Triage – Sperrpatente für Anwaltsprüfung aufzeigen |
 | `/gewerblicher-rechtsschutz:rechtsposition-bearbeiten Thema: erfindungsmeldung-aufnahme [Offenbarung]` | Erstprüfung Erfindungsmeldung (ArbnErfG) – Neuheit, erfinderische Tätigkeit, Schutzumfang |
 | `/gewerblicher-rechtsschutz:verletzung-und-beweis-bearbeiten Thema: verletzungs-triage [Kontext]` | Verletzungstriage – Ignorieren / informelles Schreiben / Abmahnung / Klage |
 | `/gewerblicher-rechtsschutz:rechtsposition-bearbeiten Thema: ip-klausel-pruefung [Datei]` | IP-Klauseln in Verträgen prüfen – Abtretung, Lizenz, IP-Freistellung, OSS-Reps, ArbnErfG |
 | `/gewerblicher-rechtsschutz:arbeitsprodukt-bearbeiten Thema: open-source-pruefung [Repository / Dateiliste]` | Open-Source-Lizenz-Compliance-Prüfung – Copyleft-Pflichten, Attribution, Kompatibilität |
-| `/gewerblicher-rechtsschutz:schutzrechts-portfolio` | Schutzrechtsregister und Fristenverwaltung – fällige Verlängerungen, eingereichte Anmeldungen |
-| `/gewerblicher-rechtsschutz:markenanmeldung-dpma` | Markenanmeldung beim DPMA Schritt für Schritt |
-| `/gewerblicher-rechtsschutz:abmahnung-urheberrecht` | Urheberrechtliche Abmahnung (insb. Filesharing, § 97a UrhG) |
+| `/gewerblicher-rechtsschutz:verfahrensstrategie-bearbeiten Thema: schutzrechts-portfolio-schutzschrift` | Schutzrechtsregister und Fristenverwaltung – fällige Verlängerungen, eingereichte Anmeldungen |
+| `/gewerblicher-rechtsschutz:unterlagen-und-quellen-auswerten-bearbeiten Thema: markenanmeldung-dpma-markenrecherche-open` | Markenanmeldung beim DPMA Schritt für Schritt |
+| `/gewerblicher-rechtsschutz:arbeitsprodukt-bearbeiten Thema: abmahnung-urheberrecht-erfindungsmeldung` | Urheberrechtliche Abmahnung (insb. Filesharing, § 97a UrhG) |
 | `/gewerblicher-rechtsschutz:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: mandat-arbeitsbereich` | Mandatsarbeitsbereiche verwalten (nur Mehrmandat-Kanzleien) |
 
 ## Skills
@@ -192,7 +192,7 @@ Ergebnis: Identitätstreffer, Verwechslungsfaktorenanalyse, Kennzeichnungen zur 
 ### 3. Fällige Fristen anzeigen
 
 ```
-/gewerblicher-rechtsschutz:schutzrechts-portfolio
+/gewerblicher-rechtsschutz:verfahrensstrategie-bearbeiten Thema: schutzrechts-portfolio-schutzschrift
 ```
 
 Ergebnis: Schutzrechte mit Verlängerungs- oder Aufrechterhaltungsfristen in den nächsten 90 Tagen, nach Dringlichkeit gruppiert.
@@ -237,8 +237,8 @@ Dieser Pfad überlebt Plugin-Updates. Die mitgelieferte `CLAUDE.md` ist eine Vor
 ## Hinweise
 
 - Ein vorhandenes Kanzleiprofil wird berücksichtigt. Leere Profilfelder stoppen einen klaren Einzelauftrag nicht. Nur eine für die konkrete Anspruchsprüfung oder Strategie entscheidende Lücke wird nachgefragt; fehlende Portfolioangaben werden nicht erfunden. Versand und andere folgenreiche Handlungen behalten ihre Freigabegrenzen.
-- Das Versenden einer Abmahnung eröffnet einen Konflikt. Der `/gewerblicher-rechtsschutz:abmahnung-urheberrecht`-Skill sendet nichts selbst; er entwirft, zeigt den Genehmigungsmatrixeintrag an und wartet auf den Genehmiger.
-- `/gewerblicher-rechtsschutz:unterlagen-und-quellen-auswerten-bearbeiten Thema: markenrecherche` und `/gewerblicher-rechtsschutz:fto-triage` sind **erste Triage-Schritte**. Das Ergebnis ist ein Recherchepaket für einen Anwalt, kein Freigabegutachten. Der Skill gibt dies bei jedem Durchlauf an.
+- Das Versenden einer Abmahnung eröffnet einen Konflikt. Der `/gewerblicher-rechtsschutz:arbeitsprodukt-bearbeiten Thema: abmahnung-urheberrecht-erfindungsmeldung`-Skill sendet nichts selbst; er entwirft, zeigt den Genehmigungsmatrixeintrag an und wartet auf den Genehmiger.
+- `/gewerblicher-rechtsschutz:unterlagen-und-quellen-auswerten-bearbeiten Thema: markenrecherche` und `/gewerblicher-rechtsschutz:rechtsposition-bearbeiten Thema: fto-triage-gewerblicher-rechtsschutz-mandat` sind **erste Triage-Schritte**. Das Ergebnis ist ein Recherchepaket für einen Anwalt, kein Freigabegutachten. Der Skill gibt dies bei jedem Durchlauf an.
 - `/gewerblicher-rechtsschutz:arbeitsprodukt-bearbeiten Thema: open-source-pruefung` kennzeichnet Lizenzpflichten und -inkompatibilitäten. Er erteilt keine Genehmigung für eine kommerzielle Nutzungsentscheidung – das entscheiden Engineering und Recht gemeinsam.
 - Patentanspruchsformulierung ist bewusst nicht im Umfang. Dieses Plugin arbeitet gut neben einem Patentanwalt; es ersetzt ihn nicht.
 - **Berufsrechtlicher Hinweis:** Alle Entwürfe unterfallen dem Mandatsgeheimnis gem. § 43a Abs. 2 BRAO, § 203 StGB. Externe Weitergabe nur nach anwaltlicher Prüfung und Freigabe.

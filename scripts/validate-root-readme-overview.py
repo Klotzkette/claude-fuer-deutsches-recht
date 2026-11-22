@@ -132,7 +132,7 @@ def check_sorted_inventories(marketplace: dict) -> list[str]:
     errors += sequence_error("SKILLS.md Plugin-Liste", skills_names, expected_names)
 
     skills_index = (REPO / "skills-index" / "README.md").read_text(encoding="utf-8")
-    detail_names = re.findall(r"^- \[([^]]+)\]\(\./[^)]+\.md\) \(\d+ Skills\)$", skills_index, re.MULTILINE)
+    detail_names = re.findall(r"^- \[([^]]+)\]\(\./[^)]+\.md\) \((?:1 Skill|\d+ Skills)\)$", skills_index, re.MULTILINE)
     errors += sequence_error("skills-index/README.md", detail_names, expected_names)
     workflow_profiles = load_workflow_profiles()
     entry_links = re.findall(

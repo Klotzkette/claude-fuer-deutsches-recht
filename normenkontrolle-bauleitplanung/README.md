@@ -83,7 +83,7 @@ Alternativ via Marketplace:
 
 ```
 /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install normenkontrolle-bauleitplanung@claude-fuer-deutsches-recht
+/plugin install normenkontrolle-bauleitplanung@klotzkette-german-legal-skills
 ```
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
@@ -118,20 +118,22 @@ Phase D — Verfahren BayVGH/OVG
      → Mündliche Verhandlung
 ```
 
-## Enthaltene Skills
+## Prüfaufgaben nach Verfahrensphase
 
-### Phase A — Mandat und Zulässigkeit (4 Skills)
+Die Tabellen zeigen fachliche Aufgaben. Die [Fachbibliothek](FACHMODULE.md) ordnet die Vertiefungen den [auswählbaren Skills](../skills-index/normenkontrolle-bauleitplanung.md) zu.
 
-| Slug | Beschreibung |
+### Phase A — Mandat und Zulässigkeit
+
+| Thema | Beschreibung |
 |---|---|
 | `mandat-erstgespraech-normenkontrolle` | Erstgespräch, Mandantenbetroffenheit, Erfolgsaussichten-Prognose, Kosten |
 | `statthaftigkeit-47-vwgo` | B-Plan und örtliche Bauvorschrift; FNP nur im begrenzten Ausnahmefall; sonstige untergesetzliche Normen nach Landesrecht |
 | `antragsbefugnis-eigentuemer-nachbar` | § 47 Abs. 2 VwGO Möglichkeitstheorie, Eigentum, abwägungserheblicher Belang, Verbandsklage |
 | `jahresfrist-47-abs-2-vwgo` | Fristlauf ab Bekanntmachung, Wiedereinsetzung, Heilung durch ergänzendes Verfahren |
 
-### Phase B — Verfahrensfehler-Audit (5 Skills)
+### Phase B — Verfahrensfehler-Audit
 
-| Slug | Beschreibung |
+| Thema | Beschreibung |
 |---|---|
 | `aufstellungsbeschluss-bekanntmachung` | § 2 Abs. 1, § 10 Abs. 3 BauGB Verfahrenskette, Anstoßfunktion |
 | `beteiligung-frueh-foermlich` | §§ 3 Abs. 1, 3 Abs. 2, 4 Abs. 1, 4 Abs. 2 BauGB Behörden- und Öffentlichkeitsbeteiligung |
@@ -139,9 +141,9 @@ Phase D — Verfahren BayVGH/OVG
 | `umweltbericht-umweltpruefung` | § 2 Abs. 4 BauGB, § 2a BauGB, UVPG-Verzahnung, FFH-Vorprüfung |
 | `planerhaltung-214-215-baugb` | Beachtlichkeit, Rügefrist 1 Jahr, ergänzendes Verfahren § 214 Abs. 4 BauGB |
 
-### Phase C — Materielle Fehler (9 Skills)
+### Phase C — Materielle Fehler
 
-| Slug | Beschreibung |
+| Thema | Beschreibung |
 |---|---|
 | `erforderlichkeit-1-abs-3-baugb` | Planrechtfertigung, städtebauliches Konzept, Gefälligkeitsplanung |
 | `abwaegungsgebot-1-abs-7-baugb` | Abwägungsausfall, Abwägungsdefizit, Fehlgewichtung, Disproportionalität |
@@ -153,9 +155,9 @@ Phase D — Verfahren BayVGH/OVG
 | `festsetzungskatalog-9-baugb-baunvo` | Abschließender § 9-Katalog, BauNVO-Höchstgrenzen, dynamische Verweisungen, Bahnflächen § 38 BauGB |
 | `veraenderungssperre-zurueckstellung-14-15-baugb` | § 14 Sperre, § 15 Zurückstellung, Entschädigung § 18, vertraglich-faktische Sperre |
 
-### Phase D — Verfahren BayVGH/OVG (3 Skills)
+### Phase D — Verfahren BayVGH/OVG
 
-| Slug | Beschreibung |
+| Thema | Beschreibung |
 |---|---|
 | `normenkontrollantrag-schriftsatz` | Aufbau, Antragsformulierung, Begründungsstruktur, Streitwert |
 | `einstweilige-anordnung-47-abs-6-vwgo` | Vollzugsfolgenabwägung, Eilbedürftigkeit, Antragsbefugnis im Eilverfahren |

@@ -15,7 +15,7 @@ Die [veröffentlichte Fachübersicht](https://klotzkette.github.io/claude-fuer-d
 
 Wähle in einer Plugin-README oder im Download-Index „MD herunterladen“. Die veröffentlichte Downloadseite lädt die Datei und startet den Speichervorgang. Falls der Browser diesen blockiert, steht auf der Seite ein eigener Downloadknopf bereit; JavaScript muss aktiviert sein. Ein direkt in GitHub geöffnetes HTML-Quelldokument führt diesen Vorgang nicht aus.
 
-Die Bereitstellung der Übersichtsseite und der Markdown-Dateien erfolgt über den [Pages-Ablauf](../.github/workflows/pages.yml). Die ZIP-Pakete werden getrennt im [Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) veröffentlicht.
+Die Bereitstellung der Übersichtsseite und der Markdown-Dateien erfolgt über den [Pages-Ablauf](../.github/workflows/pages.yml). Jedes ZIP auf der Fachübersicht führt zum veröffentlichten Paketstand im [Download-Index](../ASSET_INDEX.md).
 
 ## 3. English
 

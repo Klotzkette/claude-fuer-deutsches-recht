@@ -152,11 +152,13 @@ Das System warnt aktiv in folgenden Situationen:
 - **Unbestimmte Rechtsbegriffe:** Begriff auslegen, belegte Umstände zuordnen und Gegenargumente abwägen; verbleibende Wertungsunsicherheit offen ausweisen (`unbestimmte-rechtsbegriffe-pruefen`).
 - **Offene TBM:** Fehlende Belege gefährden das Ergebnis (`beweisbedarf-und-belege-erfassen`)
 
-## Skills (31)
+## Aufgaben bei der Subsumtion
+
+Die Tabellen zeigen fachliche Aufgaben. Die [Fachbibliothek](FACHMODULE.md) ordnet die Vertiefungen den [auswählbaren Skills](../skills-index/subsumtions-pruefer.md) zu.
 
 ### A. Triage / Workflow-Einstieg
 
-| Skill | Funktion |
+| Thema | Funktion |
 |---|---|
 | `triage-rechtsfrage-oder-norm` | Interaktive Erfassung der Nutzereingabe |
 | `ziel-und-rechtsweg-bestimmung` | Ziel und Rechtsweg ermitteln |
@@ -166,7 +168,7 @@ Das System warnt aktiv in folgenden Situationen:
 
 ### B. Normbestimmung und Recherche
 
-| Skill | Funktion |
+| Thema | Funktion |
 |---|---|
 | `einschlaegige-normen-vorschlagen-de` | Deutsche Normen anhand Sachverhalt vorschlagen |
 | `einschlaegige-normen-vorschlagen-eu` | EU-Normen anhand Sachverhalt vorschlagen |
@@ -176,7 +178,7 @@ Das System warnt aktiv in folgenden Situationen:
 
 ### C. Tatbestandsmerkmale und Subsumtion
 
-| Skill | Funktion |
+| Thema | Funktion |
 |---|---|
 | `norm-zerlegen-mandantenbrief` | TBM-Liste mit Definitionen |
 | `ungeschriebene-merkmale-judikatur` | Richterrechtlich entwickelte Merkmale |
@@ -189,7 +191,7 @@ Das System warnt aktiv in folgenden Situationen:
 
 ### D. Rechtsfolgen, Konkurrenzen, Verfahren
 
-| Skill | Funktion |
+| Thema | Funktion |
 |---|---|
 | `rechtsfolge-bestimmen-einreden-interaktiver` | Anspruchsinhalt, Höhe, Nebenansprüche |
 | `konkurrenzen-anspruchsgrundlagen` | Normkonkurrenzen und Spezialität |
@@ -200,7 +202,7 @@ Das System warnt aktiv in folgenden Situationen:
 
 ### E. Output-Erzeugung
 
-| Skill | Funktion |
+| Thema | Funktion |
 |---|---|
 | `output-juristisch-gestochen-de` | Schriftsatzstil, Rubrum, Tenor |
 | `output-alltagssprache-de` | Verständliche Sprache für Betroffene |

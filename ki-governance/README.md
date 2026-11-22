@@ -120,12 +120,12 @@ Dokumentauftrag beginnt die Facharbeit direkt; neue Antworten ergänzen den lauf
 | Befehl | Funktion |
 |---|---|
 | `/ki-governance:behoerden-und-sanktionslage-bearbeiten Thema: kaltstart-interview` | Kaltstart-Interview – schreibt Ihr Praxisprofil |
-| `/ki-governance:ki-inventar [list \| add \| edit \| classify \| show]` | KI-Inventar verwalten – Rolle und Risikoklasse je KI-System nach KI-VO erfassen |
+| `/ki-governance:rolle-und-lieferkette-bearbeiten Thema: ki-inventar-marketing-werbung-rote-linien [list \| add \| edit \| classify \| show]` | KI-Inventar verwalten – Rolle und Risikoklasse je KI-System nach KI-VO erfassen |
 | `/ki-governance:unterlagen-und-quellen-auswerten-bearbeiten Thema: anwendungsfall-triage [Anwendungsfall]` | Use-Case gegen Ihr Register prüfen (genehmigt / bedingt / nie) |
-| `/ki-governance:ki-folgenabschaetzung [Anwendungsfall]` | Auslöser für FRIA nach Artikel 27 und DSFA nach Artikel 35 getrennt prüfen und die jeweils erforderliche Folgenabschätzung erstellen |
+| `/ki-governance:rolle-und-lieferkette-bearbeiten Thema: ki-folgenabschaetzung-ki-governance-mandat [Anwendungsfall]` | Auslöser für FRIA nach Artikel 27 und DSFA nach Artikel 35 getrennt prüfen und die jeweils erforderliche Folgenabschätzung erstellen |
 | `/ki-governance:rolle-und-lieferkette-bearbeiten Thema: ki-anbieter-pruefung [Anbieter/Datei]` | Vendor-KI-Vertrag gegen Ihre Positionen prüfen |
 | `/ki-governance:unterlagen-und-quellen-auswerten-bearbeiten Thema: regulierungs-luecken-analyse [Rechtsakt]` | Neuen Rechtsakt oder Leitlinie gegen aktuelle Richtlinien/Praxis abgleichen |
-| `/ki-governance:richtlinien-monitor` | Wöchentliche Prüfung auf Richtliniendrift oder direkte Anfrage zu neuer Praxis |
+| `/ki-governance:rolle-und-lieferkette-bearbeiten Thema: richtlinien-monitor-vorlage-anbieter` | Wöchentliche Prüfung auf Richtliniendrift oder direkte Anfrage zu neuer Praxis |
 | `/ki-governance:rolle-und-lieferkette-bearbeiten Thema: richtlinien-vorlage` | Erstentwurf einer KI-Richtlinie auf Basis Ihres Praxisprofils erstellen |
 | `/ki-governance:arbeitsprodukt-bearbeiten Thema: mandat-arbeitsbereich` | Mandatsworkspaces verwalten (nur Kanzleipraxis) – new, list, switch, close, none |
 
@@ -170,7 +170,7 @@ Folgenabschätzung erforderlich oder nicht.
 ### 3. Folgenabschätzung erstellen
 
 ```
-/ki-governance:ki-folgenabschaetzung "KI-gestützte Lebenslauf-Analyse für HR"
+/ki-governance:rolle-und-lieferkette-bearbeiten Thema: ki-folgenabschaetzung-ki-governance-mandat "KI-gestützte Lebenslauf-Analyse für HR"
 ```
 
 Vorhandene System- und Einsatzunterlagen → entscheidende Lücken klären → ausgelöste
@@ -190,7 +190,7 @@ Eskalationslücken.
 Diese drei Plugins sind aufeinander abgestimmt. KI-Governance ist das dritte Element.
 
 - **Produktrecht** erkennt, wenn ein Launch eine KI-Komponente enthält → Übergabe an
-  `/ki-governance:unterlagen-und-quellen-auswerten-bearbeiten Thema: anwendungsfall-triage` und `/ki-governance:ki-folgenabschaetzung`
+  `/ki-governance:unterlagen-und-quellen-auswerten-bearbeiten Thema: anwendungsfall-triage` und `/ki-governance:rolle-und-lieferkette-bearbeiten Thema: ki-folgenabschaetzung-ki-governance-mandat`
 - **Datenschutzrecht** erkennt, wenn ein KI-Anwendungsfall personenbezogene Daten umfasst →
   Übergabe an `/datenschutzrecht:dsfa-vvt-technische-organisation-bearbeiten Thema: dsfa-erstellung`, sofern das Plugin installiert ist
 - **KI-Governance** erkennt, wenn eine Folgenabschätzung datenschutzrechtliche Fragen aufwirft →

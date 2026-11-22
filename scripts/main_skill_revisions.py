@@ -109,6 +109,21 @@ def before_case_index_addition(root, path, current, addition):
 
     slug = addition["slug"]
     count = addition["previous_count"]
+    # Der Neuralis-Nachtrag aktualisiert auch die vier ausgeschriebenen
+    # Zähler der Anleitung. Die rekonstruierte Fassung muss anschließend
+    # unverändert zum bereits registrierten Hash des Tabellen-Nachtrags passen.
+    if "summary_sha256" in addition and digest(current) == addition["summary_sha256"]:
+        if slug != "neuralis-medtech-erlangen-gestaltungsakte" or count != 12:
+            raise ValueError("Unbekannte Fortschreibung der Aktenzahlen")
+        for updated, previous in (
+            ("13 zugeordneten Fallakten", "zwölf zugeordneten Fallakten"),
+            ("Die 13 Fallakten", "Die zwölf Fallakten"),
+            ("13 practice cases", "Twelve practice cases"),
+            ("13 gesonderte Fallakten", "zwölf gesonderte Fallakten"),
+        ):
+            if current.count(updated.encode()) != 1:
+                raise ValueError("Aktenzahl im Überblick weicht vom geprüften Nachtrag ab")
+            current = current.replace(updated.encode(), previous.encode(), 1)
     if (not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", slug)
             or type(count) is not int or count < 2 or digest(current) != addition["after_sha256"]):
         raise ValueError("Unbelegte Erweiterung des Testaktenindexes")

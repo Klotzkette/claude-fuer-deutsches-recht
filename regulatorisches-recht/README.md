@@ -94,7 +94,7 @@ Der optionale Kaltstart richtet eine Beobachtungsliste und die Kriterien für we
 |---|---|
 | `/regulatorisches-recht:regulierungsverfahren-und-rechtsschutz-bearbeiten Thema: kaltstart-interview` | Ersteinrichtung: Beobachtungsliste + Richtlinienindex + Materialitätsschwelle |
 | `/regulatorisches-recht:energie-und-netze-bearbeiten Thema: aufsichts-feed-monitor` | Feeds jetzt prüfen, Neues melden |
-| `/regulatorisches-recht:richtlinien-vergleich [Norm]` | Diff einer konkreten Rechtsänderung gegen die Richtlinienbibliothek |
+| `/regulatorisches-recht:regulierungsverfahren-und-rechtsschutz-bearbeiten Thema: richtlinien-anhoerung-red-aufsichtsrecht [Norm]` | Diff einer konkreten Rechtsänderung gegen die Richtlinienbibliothek |
 | `/regulatorisches-recht:unterlagen-und-quellen-auswerten-bearbeiten Thema: luecken` | Offener Gap-Tracker – was wurde gemeldet und noch nicht geschlossen? |
 | `/regulatorisches-recht:regulierungsverfahren-und-rechtsschutz-bearbeiten Thema: stellungnahmen` | Offene Konsultationszeiträume prüfen, Entscheidungen protokollieren, Fristen verfolgen |
 | `/regulatorisches-recht:energie-und-netze-bearbeiten Thema: richtlinien-neufassung` | Vorgeschlagene Richtlinienneufassung, die eine Lücke schließt – Erstentwurf zur internen Prüfung, kein direktes Bearbeiten von Quelldokumenten |

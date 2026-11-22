@@ -80,10 +80,10 @@ Die Prüfung betrifft nachvollziehbar ermittelten Erfüllungsaufwand und methodi
 
 ## Aufbau
 
-Die folgenden fünf Gruppen zeigen eine Auswahl typischer Prüfaufgaben. Der vollständige Bestand einschließlich zusätzlicher Vertiefungen steht in der [Skill-Liste](../skills-index/normenkontrollrat-nkr.md).
+Die folgenden fünf Gruppen zeigen eine Auswahl typischer Prüfaufgaben. Die [Fachbibliothek](FACHMODULE.md) ordnet die Vertiefungen den [auswählbaren Skills](../skills-index/normenkontrollrat-nkr.md) zu.
 
 ```
-1. Grundlagen, Verfahren, Mandat (7 Skills)
+1. Grundlagen, Verfahren, Mandat
    nkr-orientierung-und-mandatsaufnahme
    nkr-aufgabe-und-kompetenz-nkrg
    nkr-pruefumfang-was-prueft-der-nkr-nicht
@@ -92,7 +92,7 @@ Die folgenden fünf Gruppen zeigen eine Auswahl typischer Prüfaufgaben. Der vol
    nkr-eu-ebene-und-better-regulation
    nkr-evaluation-und-jahresbericht
 
-2. Erfüllungsaufwand-Methodik (8 Skills)
+2. Erfüllungsaufwand-Methodik
    nkr-erfuellungsaufwand-grundbegriff
    nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung
    nkr-standardkostenmodell-skm
@@ -102,7 +102,7 @@ Die folgenden fünf Gruppen zeigen eine Auswahl typischer Prüfaufgaben. Der vol
    nkr-fallzahlen-schaetzung-bandbreiten
    nkr-leitfaden-ermittlung-und-darstellung
 
-3. Prüfraster (8 Skills)
+3. Prüfraster
    nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln
    nkr-alternativen-pruefung-keine-regelung-soft-law
    nkr-verhaeltnismaessigkeit-aus-nkr-sicht
@@ -112,7 +112,7 @@ Die folgenden fünf Gruppen zeigen eine Auswahl typischer Prüfaufgaben. Der vol
    nkr-digital-anschlussfaehigkeit-tauglich
    nkr-one-in-one-out-bilanz-und-buchung
 
-4. Stellungnahme entwerfen (8 Skills)
+4. Stellungnahme entwerfen
    nkr-stellungnahme-aufbau-und-format
    nkr-stellungnahme-grundsatzfeststellung
    nkr-stellungnahme-ergebnis-und-empfehlung
@@ -122,7 +122,7 @@ Die folgenden fünf Gruppen zeigen eine Auswahl typischer Prüfaufgaben. Der vol
    nkr-stellungnahme-mahnender-charakter-grenzen
    nkr-stellungnahme-pressepolitik-und-jahresbericht
 
-5. Spezialfälle / komplexe Themen (6 Skills)
+5. Spezialfälle / komplexe Themen
    nkr-digitalcheck-und-onlinezugangsgesetz-ozg
    nkr-eu-richtlinien-umsetzung-und-goldplating
    nkr-handelsregister-und-elektronische-zustellung
@@ -163,7 +163,7 @@ Am 16.10.2026 gelesen: [Paragraf 1 Absätze 3 und 4 NKRG](https://www.gesetze-im
 
 ```
 /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install normenkontrollrat-nkr@claude-fuer-deutsches-recht
+/plugin install normenkontrollrat-nkr@klotzkette-german-legal-skills
 ```
 
 ## Konversationsstil

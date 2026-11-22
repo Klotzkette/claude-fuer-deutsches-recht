@@ -125,9 +125,9 @@ Dealspezifisches Setup (nur M&A-Modul):
 | `/gesellschaftsrecht:gruendung-und-gesellschaftsvertrag-bearbeiten Thema: gesellschafterbeschluss` | Gesellschafterbeschluss im schriftlichen Verfahren § 48 II GmbHG, Muster mit Unterzeichner-Tracker |
 | `/gesellschaftsrecht:gruendung-und-gesellschaftsvertrag-bearbeiten Thema: gesellschafts-compliance` | Gesellschafts-Compliance-Tracker – init, Bericht, Update, Audit, Export |
 | `/gesellschaftsrecht:haftung-und-gesellschaftsstreit-bearbeiten Thema: integrations-management` | Post-Closing-Integrationsplan, Zustimmungsregister, Vertragsübertragung, Statusberichte |
-| `/gesellschaftsrecht:gesellschaftsrecht-mandat-arbeitsbereich` | Mandatsarbeitsbereiche verwalten (Mehrmandat-Kanzleien) – neu, liste, wechsel, schließ, keins |
+| `/gesellschaftsrecht:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: mandat-arbeitsbereich-gesr-corporate` | Mandatsarbeitsbereiche verwalten (Mehrmandat-Kanzleien) – neu, liste, wechsel, schließ, keins |
 | `/gesellschaftsrecht:gruendung-und-gesellschaftsvertrag-bearbeiten Thema: gmbh-gruendung` | GmbH-Gründung Schritt-für-Schritt: Gesellschaftsvertrag, Notar, Handelsregister |
-| `/gesellschaftsrecht:handelsregisteranmeldung` | Handelsregisteranmeldungen: HRB/HRA, Änderungen, Kapitalmaßnahmen |
+| `/gesellschaftsrecht:haftung-und-gesellschaftsstreit-bearbeiten Thema: handelsregisteranmeldung-integrations` | Handelsregisteranmeldungen: HRB/HRA, Änderungen, Kapitalmaßnahmen |
 
 ## Voraussetzungen
 

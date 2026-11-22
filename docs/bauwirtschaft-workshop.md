@@ -1,6 +1,6 @@
 # 1. KI-Workshop Bauwirtschaft
 
-Sechs übergreifende Akten verbinden Planung, Bauausführung, Vergabe und kaufmännische Arbeit. Hinzu kommen [neun eigenständige Phasenakten](bauwirtschaft-hoai-phasen.md), jeweils mit einem HOAI-Phasenskill und einer eigenen großen Werkstatt. Das Plugin Bauwirtschaft enthält 29 ausführende Skills. Werkstatt, Schwerpunkt, Mini-/Schnellstart-Prompt und die neun Phasen-Werkstätten sind eigenständige Markdown-Dateien. Die Testakten werden separat bereitgestellt.
+Sechs übergreifende Akten verbinden Planung, Bauausführung, Vergabe und kaufmännische Arbeit. Hinzu kommen [neun eigenständige Phasenakten](bauwirtschaft-hoai-phasen.md), jeweils mit einem HOAI-Fachmodul und einer eigenen Werkstatt. Die zehn auswählbaren Skills im [Bauwirtschaft-Plugin](../bauwirtschaft/FACHMODULE.md) erschließen insgesamt 29 Fachmodule. Werkstatt, Schwerpunkt, Mini-/Schnellstart-Prompt und die neun Phasen-Werkstätten sind eigenständige Markdown-Dateien. Die Testakten werden separat bereitgestellt.
 
 ## 1.1. Vorbereitung
 
@@ -44,25 +44,25 @@ Die Ergänzungen 45–55 führen den Kenntnisstand bis zum 6. Oktober 2026 fort:
 
 ### 1.3.1. Alle Phasen nachvollziehen
 
-Skill: `hoai-phasen-und-planstaende-abgleichen`.
+Arbeitsweg im Plugin · [Planung und Genehmigung](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/skills/planung-und-genehmigung-bearbeiten/SKILL.md)
 
 > Erstelle für das Bürgerhaus Leinewinkel eine Tabelle der Gebäude-Leistungsphasen 1 bis 9. Ordne jeder Phase die vorhandenen Unterlagen mit Dateiname, Datum und maßgeblicher Fundstelle zu. Unterscheide beauftragte Leistung, vorhandenes Arbeitsergebnis und noch fehlenden Nachweis. Zeige bei mehreren Planfassungen, welche Fassung wann maßgeblich war. Leite drei konkrete nächste Arbeitsschritte mit Zuständigkeit ab.
 
 ### 1.3.2. Schwerpunkt Leistungsphase 8
 
-Skills: `bautagebuch-und-aufmass-fuehren`, `nachtraege-pruefen-und-vereinbaren`, `baurechnungen-pruefen-und-zahlung-vorbereiten`.
+Arbeitswege im Plugin · [Bauablauf und Nachträge](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/skills/bauablauf-und-nachtraege-bearbeiten/SKILL.md) · [Kosten und Zahlungsplan](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/skills/kosten-und-zahlungsplan-bearbeiten/SKILL.md)
 
 > Prüfe die Schlussrechnung anhand des Bauvertrags, der Nachtragsunterlagen und des gemeinsamen Aufmaßes. Stelle positionsbezogen Vertragssoll, belegte Menge, Preis, bisherige Zahlungen und vorgeschlagenen Prüfstatus gegenüber. Begründe Abweichungen anhand der Originalbelege. Erstelle daraus einen vollständigen Rechnungsprüfvermerk und ein kurzes Anschreiben mit den noch erforderlichen Klärungen. Berücksichtige Bautagebuch und Behinderungsanzeige nur, soweit sie für den konkreten Punkt etwas belegen.
 
 ### 1.3.3. Abnahme, Übergabe und Leistungsphase 9
 
-Skills: `maengel-und-abnahme-bearbeiten`, `uebergabe-und-gewaehrleistung-organisieren`.
+Arbeitsweg im Plugin · [Abnahme und Objektbetreuung](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/skills/abnahme-und-objektbetreuung-bearbeiten/SKILL.md)
 
 > Führe Abnahmeprotokoll, Übergabe, Archivverzeichnis, spätere Mängelmeldung und Objektbegehung in einer Restpunkte- und Fristenliste zusammen. Unterscheide die bei der Abnahme festgestellten Mängel von den später gemeldeten Mängeln. Ordne die beauftragten Leistungen den Phasen 8 und 9 zu und benenne fehlende Nachweise. Erstelle den nächsten erforderlichen Brief vollständig. Behaupte keine eigene Ortsbesichtigung und keine technische Freigabe.
 
 ## 1.4. Feuerwehrhaus Northeim: Vergaberecht mit Zahlen
 
-Skills: `bauangebote-werten-und-vergabevorschlag-erstellen`, `bieterfragen-und-ruegen-bearbeiten`.
+Arbeitsweg im Plugin · [Vergabe und Leistungsverzeichnis](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/skills/vergabe-und-leistungsverzeichnis-bearbeiten/SKILL.md)
 
 > Bearbeite den Vergabestand des Lüftungsloses zum aktenkundigen Stichtag aus Sicht der Vergabestelle. Prüfe die drei Angebote anhand der bekanntgemachten Anforderungen, des Leistungsverzeichnisses und der rechtzeitig vorliegenden Unterlagen. Rechne den Preisspiegel aus den Originalangeboten nach. Trenne Eignung, Angebotsinhalt, Aufklärung und Zuschlagswertung. Beziehe die Bieterfrage, Antwort, Nachforderung, Rüge und Unterlagen zum Nachprüfungsverfahren ein. Erstelle einen begründeten Vergabevermerk mit Fristen, Zuschlagsstatus und dem jetzt erforderlichen Handlungsschritt.
 
@@ -72,7 +72,7 @@ Als zweite Runde kann ein anderes Team aus Sicht des betroffenen Bieters prüfen
 
 ## 1.5. Bad Salzuflen: Rechnungen, Buchhaltung und Zahlungsverkehr
 
-Skills: `baubuchhaltung-und-belege-abgleichen`, `baurechnungen-pruefen-und-zahlung-vorbereiten`, `projektliquiditaet-und-zahlungsplan-erstellen`.
+Arbeitswege im Plugin · [Unterlagen und Quellen auswerten](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md) · [Kosten und Zahlungsplan](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/skills/kosten-und-zahlungsplan-bearbeiten/SKILL.md)
 
 Die Akte enthält 18 unterschiedliche Rechnungen aus dem Bauumfeld sowie Korrekturbelege und eine erneut übersandte Rechnungskopie. Der Grundbestand und der ergänzende Belegstapel besitzen getrennte Bankbestände. Die Abgrenzung ist in den Übergabeunterlagen dokumentiert. Der fallinterne Konten- und Steuerschlüsselstamm dient der Übung; ein Export darf nicht ungeprüft als Importdatei einer bestimmten Buchhaltungssoftware behandelt werden.
 
@@ -94,7 +94,7 @@ Die ergänzten Mappen 72–75 erklären offene Posten, Stundenkosten, Mietabrech
 
 ## 1.6. Warendorf: Wirtschaftliche Projektsteuerung
 
-Skills: `baubudget-und-kostenprognose-fortschreiben`, `bauablauf-und-terminplan-fortschreiben`, `projektbericht-und-entscheidungsvorlage-erstellen`.
+Arbeitswege im Plugin · [Kosten und Zahlungsplan](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/skills/kosten-und-zahlungsplan-bearbeiten/SKILL.md) · [Bauablauf und Nachträge](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/skills/bauablauf-und-nachtraege-bearbeiten/SKILL.md) · [Projektbericht und Entscheidung](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/skills/projektbericht-und-entscheidung-bearbeiten/SKILL.md)
 
 > Aktualisiere für die Werkhalle Warendorf Kostenprognose, Terminstand und Zahlungsplanung anhand der verspäteten Trafostation und der angebotenen Zwischenlösungen. Trenne Auftrag, Rechnung, Zahlung, Restleistung und Risiko. Vermeide die doppelte Erfassung von Nachtrag und Prognose. Stelle dem Auftraggeber die entscheidungsreifen Varianten mit ihren belegten Mehrkosten und Terminfolgen gegenüber und formuliere eine kurze Entscheidungsvorlage.
 

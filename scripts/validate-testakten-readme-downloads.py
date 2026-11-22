@@ -13,10 +13,11 @@ des Repositories geprüft.
 
 from __future__ import annotations
 
+import json
 import re
 import sys
 from pathlib import Path
-from release_routing import case_asset_url, rewrite_case_asset_urls
+from release_routing import RELEASE_BASE, case_asset_url, plugin_asset_url, rewrite_case_asset_urls
 
 from testakte_download_notices import (
     download_group_starts,
@@ -115,12 +116,18 @@ def user_facing_html(root: Path) -> list[Path]:
 
 def validate_html_release_routes(root: Path, errors: list[str]) -> int:
     pages = user_facing_html(root)
+    marketplace = json.loads(read_text(root / ".claude-plugin/marketplace.json"))
+    plugin_names = {plugin.get("name") for plugin in marketplace["plugins"]}
+    package_href = re.compile(re.escape(RELEASE_BASE) + r"/(?:latest/download|download/[^/\s]+?)/([a-z0-9-]+)\.zip")
     for page in pages:
-        validate_release_routes(
-            page.relative_to(root).as_posix(),
-            read_text(page),
-            errors,
-        )
+        label = page.relative_to(root).as_posix()
+        text = read_text(page)
+        validate_release_routes(label, text, errors)
+        for match in package_href.finditer(text):
+            slug = match[1]
+            if slug in plugin_names and match[0] != plugin_asset_url(slug, root=root):
+                line = text.count("\n", 0, match.start()) + 1
+                errors.append(f"{label}:{line}: Plugin-ZIP für {slug} verweist auf einen anderen Paketstand")
     return len(pages)
 
 

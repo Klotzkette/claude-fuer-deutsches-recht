@@ -22,6 +22,7 @@ from pypdf import PdfReader
 import yaml
 import zipfile
 
+from prompt_limits import MAX_WORKSHOP_BYTES
 from readme_decimal_headings import normalize_decimal_headings
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_MARKDOWN, pdf_content_errors
 from testakte_file_filter import include_in_working_dump
@@ -84,6 +85,7 @@ class Originals(unittest.TestCase):
                 self.assertGreater((folder / name).stat().st_size, 250, name)
 
     def test_skill_scope_and_standalone_prompts(self):
+        expected_product = {1: "Planungsgrundlage", 2: "Kostenschätzung", 3: "Kostenberechnung"}
         for phase, slug in SKILLS.items():
             path = fachinhalt_path(B.ROOT / "bauwirtschaft/skills" / slug / "SKILL.md")
             text = path.read_text(encoding="utf-8")
@@ -100,7 +102,11 @@ class Originals(unittest.TestCase):
                     self.assertTrue((path.parent / link).resolve().is_file(), link)
             prompt = (B.ROOT / f"bauwirtschaft/bauwirtschaft-hoai-{phase}-werkstatt.md").read_text()
             self.assertEqual(len(re.findall(r"^# ", prompt, re.M)), 1)
-            self.assertTrue(20000 <= len(prompt.encode()) <= 32000)
+            prompt_bytes = len(prompt.encode("utf-8"))
+            self.assertGreaterEqual(prompt_bytes, 20_000)
+            self.assertLessEqual(prompt_bytes, MAX_WORKSHOP_BYTES)
+            self.assertIn(f"HOAI-Leistungsphase {phase}", prompt.splitlines()[0])
+            self.assertIn(expected_product[phase], prompt)
             for link in re.findall(r"\]\(([^)]+)\)", prompt):
                 self.assertTrue(link.startswith("https://"), link)
             for required in ["Innenräume", "Gebäude", "Paragraf 34", "650p", "Anlage 10", "Rückfragen"]:
