@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "source_commit": "08340b20de627b275c8a336d3c6f96b7b902d624",
+  "release_tag": "qualitaetsrunde-v445.36.11",
+  "release_commit": "b9e717290f41f8ebf12b4d2e32c48b38e178b399",
+  "release_packages": {
+    "arbeitszeugnispruefer.zip": "ace674f3f9d1af31e5107bfe4fa7e25627c17aae2db0eb09e42716800d96ec52",
+    "bautraegervertrag-pruefer.zip": "559bdd86d8810304ec55e38733152719f949c2f025f6fb63a532a56cca9f012d"
+  },
+  "archive_sha256": "8aebc83fb0132d966dcf13ae9b5773791e0d09b7a8d2dec28e41c058c8139ad0",
+  "files": {
+    "arbeitszeugnispruefer/references/arbeitszeugnis-auslegung-und-arbeitsmodi.md": {
+      "previous_sha256": "52ad2c2b797b0816bfa3c5bb952e137e4df8d8344fd9269cb890f40f2e9fcbac",
+      "release_sha256": "3b84e51aa7e969a95442f493eeb326fb2fa659a6b20dc5437b9792b1976d7e98"
+    },
+    "arbeitszeugnispruefer/references/arbeitszeugnis-handbuch.md": {
+      "previous_sha256": "0934cc7876125277e39bf33bb35348d93bbb041d987ce1f50182e9ea36fe482d",
+      "release_sha256": "deb6dd28183292b155280292467940e42dd2c7ee0d0d2d1fa3b643b31e9477a7"
+    },
+    "arbeitszeugnispruefer/skills/aeussere-form-und-briefkopf/FACHINHALT.md": {
+      "previous_sha256": "172d235bd5f1047837c1a980ef97a9e9c6594f932f7112ece2fee391d970f036",
+      "release_sha256": "a99a75e0ae405b760ece90384ab5f0e82479354e64f2809bb3cabf12adff5d27"
+    },
+    "arbeitszeugnispruefer/skills/arbeitszeugnis-ampelsystem-dokumentenmatrix-lueckenliste/FACHINHALT.md": {
+      "previous_sha256": "c754fd1b14255540b79980cb55fff9956fd4d2f34bb8b0a40b36e80441ea654c",
+      "release_sha256": "c63362b69f2b365a55cc42047aa673fb11b85870c3e6226e12c430fc73d92ad9"
+    },
+    "arbeitszeugnispruefer/skills/azubi-zeugnis-analyse/FACHINHALT.md": {
+      "previous_sha256": "891f9bfc4c4729c91e0db048470dbbd6b9112884e4506587f788dbf81f5dc153",
+      "release_sha256": "83a818654021a5a9aa309ecdb74ac617bb5816895f669973933e414eb4ac8968"
+    },
+    "arbeitszeugnispruefer/skills/berichtigung-anspruch-verfahren-bearbeiten/SKILL.md": {
+      "previous_sha256": "d0c99b33ab449502a79312791240440e1da34b81a3a72fd46d934e50942bab37",
+      "release_sha256": "bde6ec4b019a773a41db8ff33648a679528342b5d7241a42f58a2dd5532bb42e"
+    },
+    "arbeitszeugnispruefer/skills/formulierungen-klarheit-schluss-bearbeiten/SKILL.md": {
+      "previous_sha256": "a5bc30fff1f3d924f8b968042bbe496c683a922dfbe1bdb4aa4a624c783ad3d5",
+      "release_sha256": "6eacd45eec3b72682beb1f5daad880eea7674edf17ca6c0392214f56078a9681"
+    },
+    "arbeitszeugnispruefer/skills/gruen-flaggen-katalog/FACHINHALT.md": {
+      "previous_sha256": "bda097d5b59e1c5659b3b262b73a1bedd6b2ca53d5a394261f13df6657de8208",
+      "release_sha256": "51d3ec2a7908de89fb68ff1300bfa204792f3bb4a3ebdc0103a6ee564fa6593c"
+    },
+    "arbeitszeugnispruefer/skills/kaltstart-triage/SKILL.md": {
+      "previous_sha256": "bf96824b6db1281a390a00e7b30dd6d928d991c1902850b4712ceeb3bbe1b0d2",
+      "release_sha256": "f5a9faaaf670bf0394d7396be4cbb06e9baf1d21c1fbde729e5e8932df892c99"
+    },
+    "arbeitszeugnispruefer/skills/klage-strategie-zeugnisberichtigung/FACHINHALT.md": {
+      "previous_sha256": "d5b1f7c278570f9ccb0c7d6bb971517a18025da5cc209978e4fb02e048275454",
+      "release_sha256": "4d373403b5c6476e4ea343e973e65977ff0be8f905bc99ec0f76f160336e336b"
+    },
+    "arbeitszeugnispruefer/skills/klagestrategie-und-vollstreckung/FACHINHALT.md": {
+      "previous_sha256": "19fa6d71c0a52914fcc605a624b14307b0e0468e962ba8f2bdc8a473625d2e7e",
+      "release_sha256": "57c9bd0d9e55a70ee73709e82696fc3c4d8d91107132e488c25f74e656ae7b92"
+    },
+    "arbeitszeugnispruefer/skills/muster-arbeitszeugnis-mit-roten-flaggen/FACHINHALT.md": {
+      "previous_sha256": "f18b744d5a5620ea0522d0120bea0df0f0819625fd6c878db2939fa79fc912d6",
+      "release_sha256": "ed3776d0a852341b1d2ad38631335c4f71832eb267cac5daec331a3a0c2aa0d9"
+    },
+    "arbeitszeugnispruefer/skills/schlussformel-bewertung/FACHINHALT.md": {
+      "previous_sha256": "f025a3ae38f36b43bab72c6de91af62edfc9b08ae144a17a5d527d1aec176d44",
+      "release_sha256": "6ce35f36e6be88bb564149a8c5e8fb6e5b6d154a750e87b65578d227d7d9657e"
+    },
+    "arbeitszeugnispruefer/skills/schlussformel-pruefen/FACHINHALT.md": {
+      "previous_sha256": "71deeabbd7ee199a7d640efe2169d1ed3029771443ddd0489fed2921a9cbcafd",
+      "release_sha256": "35aa5735334a5962d62860394896ebd7dfc2ca5c8aaf61c6ae39a4cfea0d1ae8"
+    },
+    "arbeitszeugnispruefer/skills/verhaltensbeurteilung-analyse/FACHINHALT.md": {
+      "previous_sha256": "41e84d1d14e2b59461de90530418aefdc4485fb5599d819ad5c6d18b579abebb",
+      "release_sha256": "02de66e06980005eb8427634c10dde568d61000492c427fa43efca81e950b61a"
+    },
+    "arbeitszeugnispruefer/skills/zeugnisart-erkennung/FACHINHALT.md": {
+      "previous_sha256": "6503741c9bc22d5a6522c5f006006e046e91a3c341d0c734d5a01ba53eeffee5",
+      "release_sha256": "94877274b846bf9b1d16873545551215636376853a4c45afb24c4eb5712bd424"
+    },
+    "arbeitszeugnispruefer/skills/zeugnisauftrag-form-taetigkeit-bearbeiten/SKILL.md": {
+      "previous_sha256": "b2020c773fca94438c79458873fc5c2ef79c5432326da9d21f446ecd7f8820e5",
+      "release_sha256": "49b547046d816179359faaf1dd49b3da92338341a6f2d079de9239a264a6d987"
+    },
+    "bautraegervertrag-pruefer/references/ausgangsworkflow-v2-5-4.md": {
+      "previous_sha256": "8e718c356aeb01d5ff088677cad867c92f8592fdcecf55a4bea37f4788609d14",
+      "release_sha256": "fbd1e4dc97e2ed9c2f6fa3350ba13ffb5d186522527660da2c604f555421b8e3"
+    },
+    "bautraegervertrag-pruefer/references/rechtsprechung-und-rollen.md": {
+      "previous_sha256": "e5843494c388d65291c1b97ead0043ea59cde0363ba744e28478b4a646fcd03c",
+      "release_sha256": "18a6871a6dc8a0934a2b9ebea3deb808f66c81904a04e91c70fdd30bf7a79070"
+    },
+    "bautraegervertrag-pruefer/skills/abnahme-gemeinschaftseigentum-schlussrate-und-maengelrechte/FACHINHALT.md": {
+      "previous_sha256": "46d558a6e274444b1c307af60432ed9f4b26114869b1055bd49835a33d7cc9aa",
+      "release_sha256": "6aa21fccc085e86206f0a63f3f2584f2731d4b68cf328d291003c34e6286ab17"
+    },
+    "bautraegervertrag-pruefer/skills/abnahme-maengel-weg-pruefen/SKILL.md": {
+      "previous_sha256": "86ee2c71d14a785c232c60a73f91c6c52eb13b11d6c2f7b86eeb8ce9d910c60e",
+      "release_sha256": "cc8178d14848e4595738b9ac1600e26c8f235e828d5b25c1dadf1e95c7a9a1d2"
+    },
+    "bautraegervertrag-pruefer/skills/abnahme-sondereigentum-paragraf-640/FACHINHALT.md": {
+      "previous_sha256": "ec86d484f585f6568e246e97f7c63e383d9f0af93851e09813bc5f4bab072031",
+      "release_sha256": "c19b1f4dba3b790bb5830adc41212c5520c74e8d72cbbf3af6074b0d1bb00d7f"
+    },
+    "bautraegervertrag-pruefer/skills/arbeitsprodukt-bearbeiten/SKILL.md": {
+      "previous_sha256": "fce9211620d3323a02e2f2b8ad63356319f29e798f31c8c604d0aa996968dd91",
+      "release_sha256": "18908c50f9b1f7494f191ddaf729cf3526edc72cebb13bff324b8beec4c1ad59"
+    },
+    "bautraegervertrag-pruefer/skills/architekt-bearbeiten/SKILL.md": {
+      "previous_sha256": "544af2a76fd45ec67144c2252ed4f1489e805fa4a82ae06d09cbc87a370e23b1",
+      "release_sha256": "66618331012aa6a16a248e498a2608442db7b91b1161df80e75cdb8ace754073"
+    },
+    "bautraegervertrag-pruefer/skills/bauablauf-bearbeiten/SKILL.md": {
+      "previous_sha256": "b7e7a6fe58e2727299fd2cb264359304ad5a240a9e3e2849a69a537d87038cc6",
+      "release_sha256": "a83634564cfef63260fff1532626dda8e90bea4555f38d41ebe51ecef4c97075"
+    },
+    "bautraegervertrag-pruefer/skills/baubeschreibung-bausoll-pruefen/FACHINHALT.md": {
+      "previous_sha256": "44a46e7f37ca65ab19cb102e839e329569cb3716cb1e86b3b03c6ed22797385f",
+      "release_sha256": "f7f251779985826257a3ab3ac2cce4e139365fc3c7f4ab28eda81ed9b5a91a1b"
+    },
+    "bautraegervertrag-pruefer/skills/bautraegervertrag-qualifikation/FACHINHALT.md": {
+      "previous_sha256": "72b2e1f2bbef590a29659a05b84d373e59886dd9fb88fa1e205ce8e386adc2ba",
+      "release_sha256": "92d7e34d55de5d15832eac2ee89292888991980ec1cad9c7e818a231c6b7273f"
+    },
+    "bautraegervertrag-pruefer/skills/beurkundung-verbraucherfrist-notar-und-bezugsurkunden/FACHINHALT.md": {
+      "previous_sha256": "41f9651b4feb9b7c57281f2e38942101c6356df1f17aba718c3d0b879c5e9b01",
+      "release_sha256": "9dd2678db309046f6d1f5bd5d7b08adce2e62b75406ffd10ac18b7ef953e1ab8"
+    },
+    "bautraegervertrag-pruefer/skills/fall-fingerabdruck-erstellen/FACHINHALT.md": {
+      "previous_sha256": "7191fde04fe686ace07b35463727db8acef257c54a373276cc688aa49a2ba6d1",
+      "release_sha256": "22d535edfc78d04fd700da1c2fadabb323a9a93b84417c9ad206026432ea8fa3"
+    },
+    "bautraegervertrag-pruefer/skills/fertigstellungssicherheit-650m-pruefen/FACHINHALT.md": {
+      "previous_sha256": "3d6ac216dc65e75907d90711084e534db8edb18982af45c1319a300cb04ebc1a",
+      "release_sha256": "aaace32deb1b5b97fdb902770382093e3b794a4bc9f2ca8a5be17bb4ce5862bb"
+    },
+    "bautraegervertrag-pruefer/skills/juristischer-argumentationskern/SKILL.md": {
+      "previous_sha256": "510eda2ffa200e1fc422c03268558b81283e490bfd680824812a58039930e2ab",
+      "release_sha256": "d4a376e7bc25c2772aff51b486ea684c05975a06fa1d48c95c3432b92ef18c2d"
+    },
+    "bautraegervertrag-pruefer/skills/mabv-ratenplan-pruefen/FACHINHALT.md": {
+      "previous_sha256": "4cbbd561a3851de189f41a859b5185eac425d9d0490e139a63cd0212254cee65",
+      "release_sha256": "a78582e6abffb678340d06e1b197c442d55f1800bc9f23a9452bbdbab5c78edc"
+    },
+    "bautraegervertrag-pruefer/skills/mabv-ratenplan-sicherheiten-und-notaranderkonto/FACHINHALT.md": {
+      "previous_sha256": "88620d77276f7a18db9244295f847af50b8cfbdd3ee6eff1afd8f7354bdcc757",
+      "release_sha256": "a9821f2ed87a4308ae5df369dd300057bb85dd4c3e3738fddf963a9af5b472d0"
+    },
+    "bautraegervertrag-pruefer/skills/mabv-sicherheit-paragraf-7-pruefen/FACHINHALT.md": {
+      "previous_sha256": "9b5f3e7293356904a0c3f33b6f73953664a71e4041deaf7a2efeb3139736c868",
+      "release_sha256": "fb19c6a7c753c04215e33cc05b5d2e26d4350fc3719dca4102919cab61c85df0"
+    },
+    "bautraegervertrag-pruefer/skills/nachzuegler-altbau-sanierung-und-kaufrecht-werkrecht/FACHINHALT.md": {
+      "previous_sha256": "c4240bcba8b073a16a2dce0efa95800070502f4079429f915f42824dca2a93bc",
+      "release_sha256": "fb4721c0a7634eb9c0478d635715e4c5b4563492fd52328d575eaf8c6709b089"
+    },
+    "bautraegervertrag-pruefer/skills/notarhaftung-belehrung-und-streitverkuendung/FACHINHALT.md": {
+      "previous_sha256": "fc7e0fb0b9dc2cacfbcf3ac0a5429de06e432aaa652126beedd35f2b74503e23",
+      "release_sha256": "0a45ee409a8f8a5e80b61d6efa07d950880021b98e3e3c3dfba7991d28a35f87"
+    },
+    "bautraegervertrag-pruefer/skills/raten-sicherheiten-eigentum-pruefen/SKILL.md": {
+      "previous_sha256": "84fe9a7d6e1b298f45e5a896050392d3980ec81ab87a332907798236cb9c5ee6",
+      "release_sha256": "37b847782112b8f1ae88f92643f17ee92b98739c79b9eb9b5bb1ce999ef45a07"
+    },
+    "bautraegervertrag-pruefer/skills/sicherheit-650m-fuenf-prozent-einbehalt-und-buergschaft/FACHINHALT.md": {
+      "previous_sha256": "62426fbc18fd160d36dbf5ee7963418d8a8f5b449c3ce107209c39d460e8b373",
+      "release_sha256": "429f391673816b84a0844192862870ecced50887e00f52d252b22aee2ed4660b"
+    },
+    "bautraegervertrag-pruefer/skills/sonderfaelle-baugruppe-sanierung-pruefen/SKILL.md": {
+      "previous_sha256": "391d158d15e44f52d3042ffda21885befa554262bb163f1e2496aff9d730bca7",
+      "release_sha256": "c41627b6b24109d072831670166eaf882824eb679e2e026f4b455f61ee4927e2"
+    },
+    "bautraegervertrag-pruefer/skills/teilungserklaerung-gemeinschaftsordnung/FACHINHALT.md": {
+      "previous_sha256": "c9f153bd0edf1e288b3cb191b630645dbae9ad25a476489ea7eda954727bf102",
+      "release_sha256": "d1e9a4dea39ca07e5b4625acc95da5d6980a5f8f9276cc88b1bdc7f32345e0e8"
+    },
+    "bautraegervertrag-pruefer/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md": {
+      "previous_sha256": "aabb340d6ec952955f710389f3110b8c7e6660efe2b5b08f554e71d091dafa68",
+      "release_sha256": "cb721d201cf438fb85ea124256f5f080a8a2fad901eb4a7e325ecb2fb45a10f6"
+    },
+    "bautraegervertrag-pruefer/skills/unwirksame-abnahmeklauseln-dreissig-jahre-und-nachholung/FACHINHALT.md": {
+      "previous_sha256": "5d47e590052aead6171b759e9614f64beba75dd3e95c932cdc3dc562a280405f",
+      "release_sha256": "c0d26bae51171e79d2a13f5615a1bdcc19a2b3a46d4900de2b69ec45e36877d6"
+    },
+    "bautraegervertrag-pruefer/skills/verbraucherbauvertrag-650i-650u-widerruf-und-unterlagen/FACHINHALT.md": {
+      "previous_sha256": "0a4e8ea586503db5b8cac9c7a260ee352494fd2d5d21b29f4a2061e82d8c7a2d",
+      "release_sha256": "595059e1c0ad3e6303004fca64062ee10d96c9ccaf70eaa5028512f22bac19f0"
+    },
+    "bautraegervertrag-pruefer/skills/verbraucherstatus-pruefen/FACHINHALT.md": {
+      "previous_sha256": "752272be93b18fe99a063069206da72b8b7c492ad919090fb774834c8306202b",
+      "release_sha256": "a14017f0274977718dbeede11e4bc11b5e5cd6ef9858ad1ab9b92129c1aa1ba1"
+    },
+    "bautraegervertrag-pruefer/skills/vertragssoll-bearbeiten/SKILL.md": {
+      "previous_sha256": "731ed316582cb6776f3a03d197629393eeee6439f8f5f7f451af4870489a8274",
+      "release_sha256": "21e9632a19263f49c14722c89e2a5c5b992fc3ffecb91e9c9a0da9b54c3ac875"
+    },
+    "bautraegervertrag-pruefer/skills/vollstaendige-fertigstellung-schlussrate-und-aussenanlagen/FACHINHALT.md": {
+      "previous_sha256": "d7bfd29992d7b0d4b2017f5ccb27b077015a56e4b4419ca8d08f94a889a9a848",
+      "release_sha256": "c0e51815d7774d667fb7e436a8bb6a4064871726838d12c4372af5f99836fc4e"
+    }
+  }
+}

@@ -19,6 +19,9 @@ on:
       - 'scripts/generate-megaprompt.py'
       - 'scripts/werkstatt_visualisierung.py'
       - 'scripts/consolidate-skill-cap.py'
+      - 'scripts/main_skill_revisions.py'
+      - 'scripts/test-main-skill-revisions.py'
+      - 'quality/pruefer-fortschreibung-2026-11-21/**'
       - 'scripts/integrate-skill-cap.py'
       - 'quality/bav-konzern-2026-11-15/**'
       - 'quality/evals/bav-strategie-konzern.json'
@@ -81,6 +84,7 @@ jobs:
           python3 scripts/validate-readme-navigation.py
           python3 scripts/validate-markdown-structure.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
+          python3 scripts/main_skill_revisions.py
           python3 scripts/consolidate-skill-cap.py --verify quality/skill-consolidation/2026-11-14/source-map.json --strict-links
           python3 scripts/sync-werkstatt-visualisierung.py --check
       - name: Akten und Veröffentlichungsschranken testen
@@ -93,6 +97,7 @@ jobs:
           python3 scripts/test-scoped-release-routing.py
           python3 scripts/test-skill-cap-integration.py
           python3 scripts/test-skill-cap-migration.py
+          python3 scripts/test-main-skill-revisions.py
           python3 scripts/test-skill-package-links.py
           python3 scripts/test-skill-sources.py
       - name: Aktuelles Plugin und vier unveränderte Arbeitsakten prüfen
