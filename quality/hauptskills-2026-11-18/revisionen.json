@@ -3625,6 +3625,16 @@
       "publication_followup": {
         "previous_archive": "quality/paketnavigation-2026-11-19/bestand/gesellschafterstreit/README.md.txt",
         "after_sha256": "522a9ede0f28c6ee4f249a917bdfd33e23435307dadc8c9024fea94e9aecf0c8"
+      },
+      "skill_overview_revision": {
+        "skill": "gesellschafterstreit-loesen",
+        "before_sha256": "961cae5d38cf1723524af85427020d37ac4eec19efafc4a94b8b1cf38c2fa9f2",
+        "after_sha256": "082f3fd6e48fb9c49551fb85e238e82c9d08d75c6b5e2b56d5b1a16f82743898"
+      },
+      "package_route_revision": {
+        "previous_tag": "qualitaetsrunde-v445.36.9",
+        "published_tag": "paketpflege-20261122-v445.36.9",
+        "after_sha256": "8837f53f9c3e4060d461cc7aa83f3a156ec21999a4861614a5fcb630be7d9986"
       }
     },
     {
@@ -3648,6 +3658,16 @@
           "previous_tag": "werkstatt-partnerakten-v1.0.0",
           "after_sha256": "3c334c3b02cee7a472877693fc03155d830324658e110e7ebf7553fb1ff39265"
         }
+      },
+      "skill_overview_revision": {
+        "skill": "sozialversicherungspflicht-pruefen",
+        "before_sha256": "cd693d786dc7212577d8358c638998ad50ee135ef21eb1659e4d8eb8b342a25d",
+        "after_sha256": "6645e7480aa60919dae99251144bf6d2dcd054627b93faad55d0b22394426375"
+      },
+      "package_route_revision": {
+        "previous_tag": "qualitaetsrunde-v445.36.9",
+        "published_tag": "paketpflege-20261122-v445.36.9",
+        "after_sha256": "a22724592e69da96c0dba7364d0231fa806dd2a0edaebde4e8b45d21300ea3c1"
       }
     },
     {
@@ -3684,6 +3704,16 @@
       "publication_followup": {
         "previous_archive": "quality/paketnavigation-2026-11-19/bestand/wirtschaftsanwalt/README.md.txt",
         "after_sha256": "0f83bf8191e3b38f58fd52c8938197424e363acbbe9cb5ff2f1367b51db262aa"
+      },
+      "skill_overview_revision": {
+        "skill": "unternehmensmandat-bis-zum-dokument-bearbeiten",
+        "before_sha256": "f072ed13e84cbedab50ab3e2f3e1076fe12743de020751bb5490e7e3d66a3718",
+        "after_sha256": "d33b43d1989846edfb6eebe34ab382a1fad282b1f89dfd2750e72fb591653d3a"
+      },
+      "package_route_revision": {
+        "previous_tag": "qualitaetsrunde-v445.36.9",
+        "published_tag": "paketpflege-20261122-v445.36.9",
+        "after_sha256": "2b6b73f00b1d7bccd182510ce82b1ec46a885694db3aa57eb5a342b553b6c39f"
       }
     }
   ]

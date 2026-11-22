@@ -13,6 +13,7 @@ from os.path import relpath
 from pathlib import Path
 
 from prompt_profiles import formats, standalone_kinds
+from release_routing import RELEASE_BASE, plugin_asset_url
 from urllib.parse import parse_qs, quote, unquote, urlsplit
 
 from markdown_it import MarkdownIt
@@ -165,12 +166,13 @@ def internal_link(path: Path, destination: str) -> tuple[Path, str] | None:
     return None
 
 
-def validate_markdown_links(errors: list[str]) -> tuple[int, int]:
+def validate_markdown_links(errors: list[str], plugin_urls: dict[str, str] | None = None) -> tuple[int, int]:
     markdown_files = repository_markdown_files()
     anchor_cache: dict[Path, set[str]] = {}
     checked_links = 0
     checked_anchors = 0
     for path in markdown_files:
+        release_notes = path.is_relative_to(REPO / "docs" / "releases")
         text = path.read_text(encoding="utf-8", errors="ignore")
         if path.name == "README.md" and not re.search(r"^#\s+\S", text, re.MULTILINE):
             errors.append(f"{repo_relative(path)}: sichtbare Hauptüberschrift fehlt")
@@ -191,6 +193,14 @@ def validate_markdown_links(errors: list[str]) -> tuple[int, int]:
             if not destination:
                 errors.append(f"{repo_relative(path)}: Link ohne Ziel")
                 continue
+            if plugin_urls and not release_notes and destination.startswith(
+                (RELEASE_BASE + "/latest/download/", RELEASE_BASE + "/download/")
+            ):
+                url = urlsplit(destination)
+                asset = unquote(url.path.rsplit("/", 1)[-1])
+                expected = plugin_urls.get(asset)
+                if expected and unquote(url._replace(query="", fragment="").geturl()) != expected:
+                    errors.append(f"{repo_relative(path)}: veralteter Plugin-Download: {destination} (aktuell: {expected})")
             try:
                 local = internal_link(path, destination)
             except ValueError as exc:
@@ -446,7 +456,9 @@ def validate_testakte_navigation(errors: list[str]) -> int:
 
 def main() -> int:
     errors: list[str] = []
-    checked_links, checked_anchors = validate_markdown_links(errors)
+    plugins = json.loads(MARKETPLACE.read_text(encoding="utf-8"))["plugins"]
+    plugin_urls = {plugin["name"] + ".zip": plugin_asset_url(plugin["name"], root=REPO) for plugin in plugins}
+    checked_links, checked_anchors = validate_markdown_links(errors, plugin_urls)
     markdown_downloads = validate_markdown_downloads(errors)
     plugin_count, skill_count = validate_generated_navigation(errors)
     validate_root_navigation(errors)

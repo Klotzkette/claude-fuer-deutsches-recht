@@ -495,6 +495,22 @@ _STEM_REPLACEMENTS = (
 )
 
 
+def catalog_description(plugin: dict, directory: Path) -> str:
+    readme = directory / "README.md"
+    description = str(plugin.get("description", ""))
+    if readme.is_file():
+        text = readme.read_text(encoding="utf-8", errors="ignore")
+        match = re.search(
+            r"<!-- BEGIN direkt-loslegen \(autogen\) -->[\s\S]*?"
+            r"## Was ist das hier\?\n\n(.+?)\n\n",
+            text,
+        )
+        if match:
+            description = match.group(1)
+    text = re.sub(r"\s+", " ", description).strip()
+    return display_plugin_description(text, directory).replace("|", "\\|")
+
+
 def display_plugin_description(text: str, directory: Path) -> str:
     return display_prose(_PLUGIN_README["description_with_current_count"](text, directory))
 

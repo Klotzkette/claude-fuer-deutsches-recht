@@ -2628,7 +2628,7 @@
     {
       "name": "sozialversicherungspflicht-pruefer",
       "source": "./sozialversicherungspflicht-pruefer",
-      "description": "Prüft Beschäftigungsstatus, Versicherungszweige, Befreiung und Beiträge. 14 Arbeitswege erfassen Geschäftsführung, Lehrkräfte, freie Mitarbeit, Versorgungswerke, Künstler, Plattformen, Drittpersonal und Auslandsbezüge. Mit zwölf Fallakten und vollständiger Fachbibliothek.",
+      "description": "Prüft Beschäftigungsstatus, Versicherungszweige, Befreiung und Beiträge. 14 Arbeitswege erfassen Geschäftsführung, Lehrkräfte, freie Mitarbeit, Versorgungswerke, Künstler, Plattformen, Drittpersonal und Auslandsbezüge. Mit vollständiger Fachbibliothek. Die 13 Fallakten sind separat verfügbar.",
       "version": "445.36.9",
       "author": {
         "name": "Klotzkette",

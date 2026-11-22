@@ -154,6 +154,6 @@ English: This plugin contains one skill. Both links in each row download the unc
 
 | Skill | Beschreibung | Markdown-Download |
 | --- | --- | --- |
-| [`bea-anlagen-versand`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/skills/bea-anlagen-versand/SKILL.md) | Bereitet beliebige Hauptdokumente mit Anlagen für den beA-Versand vor. Ermittelt Anlagen aus Dokument und Kontext, ordnet Originale inhaltlich zu, konvertiert Kopien in PDF, stempelt die erste Anlagenseite und benennt die Dateien für den... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/skills/bea-anlagen-versand/SKILL.md) |
+| [`bea-anlagen-versand`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/skills/bea-anlagen-versand/SKILL.md) | Hauptdokument und Anlagen versandfertig aufbereiten. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/skills/bea-anlagen-versand/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

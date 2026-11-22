@@ -159,8 +159,40 @@ def before_case_index_addition(root, path, current, addition):
     return current.replace(line, b"", 1).replace(counter(count + 1), counter(count), 1)
 
 
+def before_skill_overview_revision(current, archived, revision):
+    """Rekonstruiert den archivierten Wortlaut einer einzelnen Tabellenzelle."""
+    begin = b"<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->"
+    end = b"<!-- END SKILLS-OVERVIEW (auto-generated) -->"
+    row = re.compile(
+        rb"^\| \[`" + re.escape(revision["skill"].encode()) + rb"`\]\([^)\r\n]+\) \| "
+        rb"((?:\\\||[^|\r\n])+?) \| \[MD herunterladen / Download MD\]\([^)\r\n]+\) \|$", re.M
+    )
+
+    def description_cell(content):
+        if content.count(begin) != 1 or content.count(end) != 1:
+            raise ValueError("Skillübersicht fehlt oder ist nicht eindeutig")
+        matches = list(row.finditer(content, content.index(begin) + len(begin), content.index(end)))
+        if len(matches) != 1:
+            raise ValueError("Beschreibungszelle des registrierten Skills fehlt oder ist nicht eindeutig")
+        return matches[0]
+
+    if digest(current) != revision["after_sha256"]:
+        raise ValueError("README weicht von der belegten Skillübersicht ab")
+    start, stop = description_cell(current).span(1)
+    previous = current[:start] + description_cell(archived).group(1) + current[stop:]
+    if previous == current or digest(previous) != revision["before_sha256"]:
+        raise ValueError("README-Fortschreibung verändert mehr als die registrierte Beschreibungszelle")
+    return previous
+
+
+def replace_readme_package_urls(content, urls):
+    from release_routing import RELEASE_BASE
+    pattern = re.compile(re.escape(RELEASE_BASE) + r"/(?:latest/download|download/[^/\s)]+)/([a-z0-9.-]+\.zip)")
+    return pattern.sub(lambda match: urls.get(match[1]) or match[0], content.decode()).encode()
+
+
 def metadata_previous_bytes(root, path, *, plugin=None, expected_hash=None):
-    """Nur exakte Downloadlink-/Manifestversionspflege, keine Fachtext-Ausnahme."""
+    """Rekonstruiert belegte README- und Manifeststände samt Veröffentlichungslinks."""
     relative = path.relative_to(root).as_posix()
     registry = root / REGISTRY
     if not registry.exists():
@@ -181,8 +213,39 @@ def metadata_previous_bytes(root, path, *, plugin=None, expected_hash=None):
         raise ValueError("Falscher Metadatenarchivpfad")
     old = inside(root, row["archive"]).read_bytes()
     current = path.read_bytes()
+    package_revision = row.get("package_route_revision")
+    if path == source / "README.md":
+        from release_routing import RELEASE_BASE, scoped_asset_url
+        native = entry["name"] + ".zip"
+        names = (native, entry["name"] + "-portable.zip")
+        urls = {name: scoped_asset_url(name, root=root) for name in names}
+        if package_revision is not None:
+            previous_tag = package_revision["previous_tag"]
+            published_tag = package_revision["published_tag"]
+            if not all(re.fullmatch(r"[a-z0-9][a-z0-9.-]*", tag) for tag in (previous_tag, published_tag)):
+                raise ValueError("Unbelegte Fortschreibung der README-Paketziele")
+            previous_urls = {name: f"{RELEASE_BASE}/download/{previous_tag}/{name}" for name in names}
+            published_urls = {name: f"{RELEASE_BASE}/download/{published_tag}/{name}" for name in names}
+            prior = replace_readme_package_urls(current, previous_urls)
+            published = replace_readme_package_urls(prior, published_urls)
+            if prior == published or digest(published) != package_revision["after_sha256"]:
+                raise ValueError("Geplante Umschaltung der README-Paketziele weicht vom Nachweis ab")
+            if (urls[native] not in {previous_urls[native], published_urls[native]}
+                    or current not in (prior, published) or replace_readme_package_urls(prior, urls) != current):
+                raise ValueError("README-Paketziele weichen vom aktiven Release ab")
+            current, urls = prior, previous_urls
+    elif package_revision is not None:
+        raise ValueError("README-Paketziele außerhalb des Plugin-README")
+    before_package_route = current
+    overview = row.get("skill_overview_revision")
+    if overview is not None:
+        if path != source / "README.md":
+            raise ValueError("Skillübersicht außerhalb des Plugin-README")
+        current = before_skill_overview_revision(current, old, overview)
+    before_overview = current
     if path == source / "README.md":
         current = before_notariat_marketplace_count(root, path, current, plugin=row["plugin"])
+    before_count = current
     addition = row.get("case_index_addition")
     if addition is not None:
         if path != source / "README.md":
@@ -198,11 +261,7 @@ def metadata_previous_bytes(root, path, *, plugin=None, expected_hash=None):
     if digest(old) != row.get("before_sha256") or digest(last_reviewed) != row.get("after_sha256"):
         raise ValueError("Metadatenfortschreibung seit Prüfung verändert")
     if path == source / "README.md":
-        from release_routing import scoped_asset_url
-        pattern = re.compile(r"https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/(?:latest/download|download/[^/\s)]+)/([a-z0-9.-]+\.zip)")
-        names = {entry["name"] + suffix for suffix in (".zip", "-portable.zip")}
-        expected = pattern.sub(lambda m: (scoped_asset_url(m[1], root=root) or m[0]) if m[1] in names else m[0], old.decode())
-        if expected.encode() != current:
+        if replace_readme_package_urls(old, urls) != current:
             raise ValueError("README-Fortschreibung verändert mehr als eigene Paketlinks")
     elif path in {source / p for p in (".claude-plugin/plugin.json", ".codex-plugin/plugin.json", "plugin.json")}:
         before = json.loads(old, object_pairs_hook=unique_object)
@@ -212,6 +271,10 @@ def metadata_previous_bytes(root, path, *, plugin=None, expected_hash=None):
             raise ValueError("Manifest-Fortschreibung verändert mehr als die Paketversion")
     else:
         raise ValueError("Keine zulässige Release-Metadatendatei")
+    if (overview is not None or package_revision is not None) and expected_hash is not None:
+        for edition in (before_package_route, before_overview, before_count):
+            if digest(edition) == expected_hash:
+                return edition
     if addition is not None and digest(current) == expected_hash:
         return current
     if expected_hash is not None and digest(last_reviewed) == expected_hash:
@@ -404,25 +467,39 @@ PREVIEW_ORIGINAL_SHA256 = {
 }
 
 
-def before_preview_release_link(root, path, current, expected, *, plugin=None):
-    """Rekonstruiert das einzige geänderte href einer belegten Paketvorschau."""
+DIESEL_INDEX_SHA256 = {
+    "assets": "35faf86424f2ee2cc9ce92b73def25db387f3aa7bb11ad387b571be39960b775",
+    "references": "5a02e439b8eb7a23a2f8b44aa52e57254e3ad72bd355ff040cdedd5d2656f67d",
+    "skills": "2e6746f111a50d84a311d45a2702563727b139ab180f0cfec62d96fcc04e1759",
+    "tools": "2d3d131ffda36170fdc8e327b553f4c5a09639f604774d320baab0870f784842",
+}
+
+
+def before_package_download_link(root, path, current, expected, *, plugin=None):
+    """Rekonstruiert den einzelnen eigenen Downloadlink in den geprüften Paketdateien."""
     parts = path.relative_to(root).parts
-    if len(parts) != 4 or parts[1:] != ("assets", "vorschau", "index.html"):
+    if len(parts) == 4 and parts[1:] == ("assets", "vorschau", "index.html"):
+        original_hash = PREVIEW_ORIGINAL_SHA256.get(parts[0])
+        link = 'href="{}"'
+    elif len(parts) == 3 and parts[0] == "diesel-schadensersatz" and parts[2] == "README.md":
+        original_hash = DIESEL_INDEX_SHA256.get(parts[1])
+        link = "[Plugin herunterladen]({})"
+    else:
+        return current
+    if original_hash is None or original_hash != expected:
         return current
     name = parts[0]
-    if name not in PREVIEW_ORIGINAL_SHA256 or PREVIEW_ORIGINAL_SHA256[name] != expected:
-        return current
     if plugin is not None and plugin != name:
-        raise ValueError(f"{name}: Vorschau gehört zu einem anderen Plugin")
+        raise ValueError(f"{name}: Paketdatei gehört zu einem anderen Plugin")
 
     from release_routing import RELEASE_BASE, plugin_asset_url
-    current_href = f'href="{plugin_asset_url(name, root=root)}"'.encode()
-    latest = f'href="{RELEASE_BASE}/latest/download/{name}.zip"'.encode()
+    current_href = link.format(plugin_asset_url(name, root=root)).encode()
+    latest = link.format(f"{RELEASE_BASE}/latest/download/{name}.zip").encode()
     if current.count(current_href) != 1:
-        raise ValueError(f"{name}: genau ein belegter Paketlink in der Vorschau erforderlich")
+        raise ValueError(f"{name}: genau ein belegter Paketlink in der Datei erforderlich")
     original = current.replace(current_href, latest, 1)
     if digest(original) != expected:
-        raise ValueError(f"{name}: Vorschau weicht über den Paketlink hinaus vom Original ab")
+        raise ValueError(f"{name}: Paketdatei weicht über den Paketlink hinaus vom Original ab")
     return original
 
 
@@ -433,7 +510,7 @@ def historical_bytes(root, path, expected, *, plugin=None):
         return current
     from case_navigation_revision import CASES, previous_case_readme
     root, path = Path(root).resolve(), Path(path).resolve()
-    earlier = before_preview_release_link(root, path, current, expected, plugin=plugin)
+    earlier = before_package_download_link(root, path, current, expected, plugin=plugin)
     if earlier != current:
         return earlier
     earlier = before_pruefer_release(root, path, current, expected, plugin=plugin)

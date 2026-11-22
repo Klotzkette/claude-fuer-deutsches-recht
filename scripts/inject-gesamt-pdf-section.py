@@ -178,7 +178,7 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
             "ZIP links refer to the latest published release.",
             "ZIP links refer to the case companion release for the stated marketplace version.",
         )
-    if slug in {'autohaus-boeblingen', 'neuralis-medtech-erlangen-gestaltungsakte'}:
+    if slug == 'autohaus-boeblingen':
         intro = ('Öffnen Sie im Akten-ZIP zuerst den Ordner `Grundakte`. Geben Sie die weiteren '
                  'Ordner erst für den nächsten Arbeitsauftrag hinzu. Das Einzel-PDF-ZIP bewahrt '
                  'dieselben Aktenstände und enthält jede Unterlage als eigene PDF.')
@@ -186,6 +186,22 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
                    'Die ZIPs enthalten nur die Arbeitsunterlagen und den Herkunftshinweis.')
         english = ('English: Begin with the initial records in `Grundakte`. Both ZIP editions retain '
                    'the separate stages. The combined PDF includes bookmarks for individual documents.')
+    if slug == 'neuralis-medtech-erlangen-gestaltungsakte':
+        intro = ('Die Kernakte enthält 37 Belege. Für den Workshop mit zusätzlicher Korrespondenz '
+                 'und einer fortgeschriebenen Arbeitsfassung gibt es die Vollakte mit 43 Belegen. '
+                 'Beginnen Sie bei den Originalunterlagen jeweils im Ordner `Grundakte`.')
+        core_rows = []
+        if pdf_rel is not None:
+            core_rows.append(f"| Gesamt-PDF der Kernakte | PDF | [37 Belege mit Lesezeichen auf 55 Seiten]({pdf_rel}) |")
+        core_rows.append(f"| Akten-ZIP der Kernakte | ZIP | [37 Originalunterlagen in drei Aktenständen]({zip_url}) |")
+        if has_einzelpdf:
+            core_rows.append(f"| Einzel-PDF-ZIP der Kernakte | ZIP | [37 Einzel-PDFs in denselben Ordnern]({einzel_url}) |")
+        rows = "\n".join(core_rows)
+        trailer = ('Das Druckpaket der Vollakte enthält eine Gesamtfassung mit 62 Seiten und ein ZIP mit '
+                   '43 Einzel-PDFs. Die Dateinamen der Einzel-PDFs nennen den Aktenstand.')
+        english = ('The core file contains 37 records in three stages. Choose the combined PDF to read them '
+                   'in order or one of the two core ZIPs to work through the folders. The extended case '
+                   'contains 43 records, available as original files or as a print package.')
     intake_row = central_row(slug)
     if intake_row:
         rows = intake_row + "\n" + rows

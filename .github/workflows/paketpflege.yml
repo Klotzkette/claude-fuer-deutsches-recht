@@ -1,0 +1,74 @@
+name: Plugin-Pakete mit aktuellen Anleitungen
+
+on:
+  workflow_dispatch:
+    inputs:
+      expected_commit:
+        description: Vollständiger geprüfter Main-Commit
+        type: string
+        required: true
+      tag:
+        description: Optional eine einzelne Paketversion veröffentlichen
+        type: string
+        required: false
+
+permissions:
+  contents: read
+
+jobs:
+  umfang:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    outputs:
+      tags: ${{ steps.auswahl.outputs.tags }}
+    env:
+      EXPECTED_COMMIT: ${{ inputs.expected_commit }}
+      TAG: ${{ inputs.tag }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ inputs.expected_commit }}
+          fetch-depth: 0
+          filter: blob:none
+      - name: Main-Commit und Paketgruppen bestimmen
+        id: auswahl
+        run: |
+          [[ "$EXPECTED_COMMIT" =~ ^[a-f0-9]{40}$ ]]
+          test "$(git rev-parse HEAD)" = "$EXPECTED_COMMIT"
+          git merge-base --is-ancestor HEAD origin/main
+          tags="$(python3 scripts/paketpflege.py --tags --tag "$TAG")"
+          echo "tags=$tags" >> "$GITHUB_OUTPUT"
+
+  veroeffentlichen:
+    needs: umfang
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    strategy:
+      fail-fast: false
+      matrix:
+        tag: ${{ fromJSON(needs.umfang.outputs.tags) }}
+    concurrency:
+      group: paketpflege-${{ matrix.tag }}
+      cancel-in-progress: false
+    permissions:
+      contents: write
+    env:
+      EXPECTED_COMMIT: ${{ inputs.expected_commit }}
+      TAG: ${{ matrix.tag }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ inputs.expected_commit }}
+          fetch-depth: 0
+          filter: blob:none
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Paketprüfung ausführen
+        run: |
+          python3 -m pip install -r requirements.txt
+          python3 scripts/test-skill-quality-release.py
+          python3 scripts/validate-testakten-readme-downloads.py
+      - name: Dokumentierte Paketgruppe bauen, verifizieren und veröffentlichen
+        run: python3 scripts/paketpflege.py --tag "$TAG" --dist "$RUNNER_TEMP/ausgabe" --expected-commit "$EXPECTED_COMMIT" --repo "$GITHUB_REPOSITORY" --publish

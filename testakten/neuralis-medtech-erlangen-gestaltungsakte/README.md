@@ -9,7 +9,7 @@ Die Akte eignet sich für die Statusberatung und die Vorbereitung eines gesellsc
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Öffnen Sie im Akten-ZIP zuerst den Ordner `Grundakte`. Geben Sie die weiteren Ordner erst für den nächsten Arbeitsauftrag hinzu. Das Einzel-PDF-ZIP bewahrt dieselben Aktenstände und enthält jede Unterlage als eigene PDF.
+Die Kernakte enthält 37 Belege. Für den Workshop mit zusätzlicher Korrespondenz und einer fortgeschriebenen Arbeitsfassung gibt es die Vollakte mit 43 Belegen. Beginnen Sie bei den Originalunterlagen jeweils im Ordner `Grundakte`.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -18,13 +18,13 @@ Die Akte eignet sich für die Statusberatung und die Vorbereitung eines gesellsc
 | Was | Format | Quelle |
 | --- | --- | --- |
 | **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/lebensakte-neuralis-medtech-erlangen-gestaltungsakte.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/druckakte-neuralis-medtech-erlangen-gestaltungsakte.zip) |
-| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/neuralis-medtech-erlangen-gestaltungsakte_gesamt.pdf`](gesamt-pdf/neuralis-medtech-erlangen-gestaltungsakte_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-neuralis-medtech-erlangen-gestaltungsakte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/testakte-neuralis-medtech-erlangen-gestaltungsakte.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-neuralis-medtech-erlangen-gestaltungsakte-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/testakte-neuralis-medtech-erlangen-gestaltungsakte-einzelpdfs.zip) |
+| Gesamt-PDF der Kernakte | PDF | [37 Belege mit Lesezeichen auf 55 Seiten](gesamt-pdf/neuralis-medtech-erlangen-gestaltungsakte_gesamt.pdf) |
+| Akten-ZIP der Kernakte | ZIP | [37 Originalunterlagen in drei Aktenständen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/testakte-neuralis-medtech-erlangen-gestaltungsakte.zip) |
+| Einzel-PDF-ZIP der Kernakte | ZIP | [37 Einzel-PDFs in denselben Ordnern](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/testakte-neuralis-medtech-erlangen-gestaltungsakte-einzelpdfs.zip) |
 
-Im Gesamt-PDF führen Lesezeichen zu den Aktenständen und einzelnen Belegen. Die ZIPs enthalten nur die Arbeitsunterlagen und den Herkunftshinweis.
+Das Druckpaket der Vollakte enthält eine Gesamtfassung mit 62 Seiten und ein ZIP mit 43 Einzel-PDFs. Die Dateinamen der Einzel-PDFs nennen den Aktenstand.
 
-English: Begin with the initial records in `Grundakte`. Both ZIP editions retain the separate stages. The combined PDF includes bookmarks for individual documents.
+The core file contains 37 records in three stages. Choose the combined PDF to read them in order or one of the two core ZIPs to work through the folders. The extended case contains 43 records, available as original files or as a print package.
 
 <!-- END gesamt-pdf-section (autogen) -->
 

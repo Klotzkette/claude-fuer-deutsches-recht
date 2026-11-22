@@ -31,7 +31,7 @@ from pathlib import Path
 from prompt_profiles import enabled, formats, standalone_kinds
 from urllib.parse import quote
 
-from readme_display import display_prose
+from skill_overview_text import description
 from werkstatt_visualisierung import load_profiles as load_workflow_profiles
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -44,52 +44,6 @@ SKILLS_INDEX_DIR = REPO_ROOT / "skills-index"
 
 def markdown_download_url(repo_path: str) -> str:
     return DOWNLOAD_BASE + quote(repo_path, safe="/")
-
-
-def clean_description(desc: str) -> str:
-    """Entfernt alte Generator-/Konsolidierungsfloskeln aus Tabellenbeschreibungen."""
-    desc = re.sub(
-        r"\s+[—-]\s*Arbeitskontext:\s*[^.]+,\s*Schwerpunkt\s+[^.]+\.?",
-        "",
-        desc,
-    )
-    desc = re.sub(r"\s+im Plugin\s+[^.:\"`|]+(?=[:.])", "", desc)
-    desc = re.sub(r"\s+im Plugin\s+[^\"`|]+$", "", desc)
-    desc = re.sub(r"\s{2,}", " ", desc)
-    return desc.strip()
-
-
-def read_description(skill_md: Path) -> str:
-    with skill_md.open("r", encoding="utf-8") as fh:
-        first = fh.readline()
-        if first.strip() != "---":
-            return ""
-        frontmatter_lines: list[str] = []
-        for idx, line in enumerate(fh, start=1):
-            if idx > 200:
-                return ""
-            if line.strip() == "---":
-                break
-            frontmatter_lines.append(line)
-        else:
-            return ""
-    fm = "".join(frontmatter_lines)
-    if not fm:
-        return ""
-    desc = ""
-    for line in fm.splitlines():
-        if line.startswith("description:"):
-            desc = line.split(":", 1)[1].strip()
-            break
-    if not desc:
-        return ""
-    if desc.startswith('"') and desc.endswith('"'):
-        desc = desc[1:-1]
-    desc = display_prose(clean_description(desc.replace("\n", " ").strip()))
-    desc = desc.replace("|", "\\|").strip()
-    if len(desc) > 280:
-        desc = desc[:277].rstrip() + "..."
-    return desc
 
 
 def skill_count_label(skills: list[str]) -> str:
@@ -302,7 +256,7 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
                 index += 1
     for s in skills:
         skill_md = skills_dir / s / "SKILL.md"
-        desc = read_description(skill_md)
+        desc = description(skill_md, limit=280)
         rel_md = f"{_source_rel}/skills/{s}/SKILL.md"
         download_url = markdown_download_url(rel_md)
         lines.append(

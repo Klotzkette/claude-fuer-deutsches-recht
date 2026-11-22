@@ -137,6 +137,48 @@ class RevisionTests(unittest.TestCase):
         path=self.metadata_record('beispiel/README.md',old,new.replace(b'Anleitung',b'Andere Rechtsaussage'))
         with self.assertRaisesRegex(ValueError,'mehr als eigene Paketlinks'):rev.previous_bytes(self.root,path)
 
+    def test_readme_skill_cell_and_package_links_preserve_earlier_editions(self):
+        package = "beispiel.zip"
+        previous_tag = "komponente-v1.0.0"
+        tag = "paketpflege-v1.0.0"
+        old = (f"# Handbuch\n{RELEASE_BASE}/latest/download/{package}\n"
+               "<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->\n"
+               "| [`start`](start.md) | Alter Ablauf | [MD herunterladen / Download MD](start.md) |\n"
+               "| [`ende`](ende.md) | Abschluss | [MD herunterladen / Download MD](ende.md) |\n"
+               "<!-- END SKILLS-OVERVIEW (auto-generated) -->\n").encode()
+        previous = old.replace(b"latest/download", b"download/" + previous_tag.encode())
+        revised = previous.replace(b"Alter Ablauf", b"Neuer Ablauf")
+        published = revised.replace(previous_tag.encode(), tag.encode())
+        path = self.metadata_record("beispiel/README.md", old, previous)
+        registry = rev.load(self.root / rev.REGISTRY)
+        row = registry["integration_files"][0]
+        row["skill_overview_revision"] = {"skill": "start", "before_sha256": rev.digest(previous),
+                                         "after_sha256": rev.digest(revised)}
+        publication = {"previous_tag": previous_tag, "published_tag": tag, "after_sha256": rev.digest(published)}
+        row["package_route_revision"] = publication
+        put(self.root, rev.REGISTRY, registry)
+        for active_tag, active_readme in ((previous_tag, revised), (tag, published)):
+            put(self.root, "scripts/scoped-release-assets.json",
+                {"schema_version": 1, "assets": {package: active_tag}})
+            path.write_bytes(active_readme)
+            for edition in (old, previous, revised, active_readme):
+                self.assertEqual(rev.historical_bytes(self.root, path, rev.digest(edition), plugin="beispiel"), edition)
+            path.write_bytes(published if active_readme == revised else revised)
+            with self.assertRaisesRegex(ValueError, "aktiven Release"):
+                rev.previous_bytes(self.root, path, plugin="beispiel")
+
+        for word, replacement in ((b"Handbuch", b"Neue Rechtsfolge"), (b"Abschluss", b"Neuer Fachtext"),
+                                  (b"(start.md)", b"(fremd.md)"), (tag.encode(), b"fremder-tag")):
+            with self.subTest(word=word):
+                wrong = published.replace(word, replacement)
+                path.write_bytes(wrong)
+                publication["after_sha256"] = rev.digest(wrong)
+                row["skill_overview_revision"]["after_sha256"] = rev.digest(
+                    wrong.replace(tag.encode(), previous_tag.encode()))
+                put(self.root, rev.REGISTRY, registry)
+                with self.assertRaises(ValueError):
+                    rev.previous_bytes(self.root, path, plugin="beispiel")
+
     def test_reviewed_case_row_cannot_hide_unrelated_edits(self):
         slug = "erste-akte"
         base = "../testakten/" + slug
@@ -363,6 +405,25 @@ class RevisionTests(unittest.TestCase):
                 original = rev.historical_bytes(repository, path, row["sha256"])
                 self.assertEqual(rev.digest(original), row["sha256"])
                 self.assertEqual(rev.digest(original), row["original_sha256"])
+
+    def test_diesel_directory_indexes_restore_only_their_bound_download_link(self):
+        repository = Path(__file__).resolve().parents[1]
+        name = "diesel-schadensersatz"
+        tag = "paketpflege-v1.0.0"
+        route = f"{RELEASE_BASE}/download/{tag}/{name}.zip".encode()
+        put(self.root, "scripts/scoped-release-assets.json", {"schema_version": 1, "assets": {name + ".zip": tag}})
+        for directory, expected in rev.DIESEL_INDEX_SHA256.items():
+            relative = Path(name, directory, "README.md")
+            source = (repository / relative).read_bytes()
+            path = put(self.root, relative, source.replace(plugin_asset_url(name, root=repository).encode(), route))
+            with self.subTest(directory=directory):
+                original = rev.historical_bytes(self.root, path, expected, plugin=name)
+                self.assertEqual(rev.digest(original), expected)
+                path.write_bytes(path.read_bytes().replace(b"[Plugin-README]", b"[Fremdes Plugin]"))
+                with self.assertRaisesRegex(ValueError, "weicht über den Paketlink hinaus"):
+                    rev.historical_bytes(self.root, path, expected, plugin=name)
+                path.write_bytes(original)
+                self.assertEqual(rev.historical_bytes(self.root, path, expected, plugin=name), original)
 
     def test_preview_proof_rejects_other_edits_paths_plugins_and_hashes(self):
         repository = Path(__file__).resolve().parents[1]

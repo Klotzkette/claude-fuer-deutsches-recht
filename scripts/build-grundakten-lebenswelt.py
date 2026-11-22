@@ -13,9 +13,27 @@ from akteneingang.ausgabe import build
 from akteneingang.quellen import DATA, Sources, catalogs, digest
 from akteneingang.vertiefung import fachauswahl
 from akteneingang.verweise import routes
+from release_routing import case_asset_url
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
 
 SHEETS = ("a-f", "g-q", "r-z", "lokal", "weitere")
+
+
+def einzelquellen(records, requested):
+    """Übernimmt einzeln veröffentlichte Original- und PDF-ZIPs für ausgewählte Fachakten."""
+    editions = json.loads((DATA.parent / "grundakten-vertiefung/einzelausgaben.json").read_text(encoding="utf-8"))
+    selected = records.copy()
+    for key, checksums in editions.items():
+        if key not in records:
+            continue
+        slug = records[key].get("id", key.split("/")[-1])
+        if slug not in requested:
+            continue
+        record = records[key].copy()
+        for field, suffix in (("source", ""), ("print", "-einzelpdfs")):
+            record[field] = {**checksums[field], "url": case_asset_url(slug, suffix)}
+        selected[key] = record
+    return selected
 
 
 def write_bytes(path, data):
@@ -92,7 +110,10 @@ def main():
         parser.add_argument("--" + arg, type=Path, required=arg in ("dist", "stage"))
     parser.add_argument("--jobs", type=int, default=2)
     parser.add_argument("--redaktion", choices=SHEETS, nargs="+", default=SHEETS)
-    parser.add_argument("--akte", action="append", default=[])
+    parser.add_argument("--akte", action="append", default=[],
+                        help="Einzelakte nach Slug. Mit --vertiefung gilt ihre jüngste registrierte Einzelausgabe.")
+    parser.add_argument("--historisch", action="store_true",
+                        help="Mit --vertiefung --akte die Bezugsfassung der historischen Fachsammlung verwenden.")
     parser.add_argument("--paketieren", action="store_true")
     parser.add_argument(
         "--vertiefung",
@@ -105,6 +126,8 @@ def main():
         help="Geprüfte temporäre Druckdateien nach der Paketierung freigeben",
     )
     args = parser.parse_args()
+    if args.historisch and not (args.vertiefung and args.akte):
+        parser.error("--historisch erfordert --vertiefung und --akte")
     for d in (args.stage, args.dist):
         d.mkdir(parents=True, exist_ok=True)
     records = catalogs()
@@ -120,6 +143,8 @@ def main():
         if args.paketieren and set(articles) != set(records):
             raise ValueError("Paketierung erfordert die vollständige Redaktion")
         records, articles, targets = fachauswahl(records, articles)
+        if args.akte and not (args.historisch or args.paketieren):
+            records = einzelquellen(records, args.akte)
     source_dir = Path(__file__).parent
     version = digest(
         b"".join(
@@ -150,6 +175,8 @@ def main():
                     version,
                 )
             )
+    if args.paketieren and (set(articles) != set(records) or len(jobs) != len(records)):
+        raise ValueError("Paketierung setzt die gesamte Redaktion voraus")
     failures = []
     with ProcessPoolExecutor(args.jobs) as executor:
         for i, (slug, error) in enumerate(executor.map(single, jobs), 1):
@@ -162,8 +189,6 @@ def main():
         raise SystemExit(f"{len(failures)} Akten mit Fehlern")
     if not args.paketieren:
         return
-    if set(articles) != set(records) or len(jobs) != len(records):
-        raise ValueError("Paketierung setzt die gesamte Redaktion voraus")
     inventory = {}
     groups = {}
     for key, (slug, part) in targets.items():

@@ -13,6 +13,8 @@ from zipfile import ZipFile
 from openpyxl import load_workbook
 from pypdf import PdfReader
 
+from akteneingang.quellen import digest
+from release_asset_common import sha256_file
 from testakte_gestufte_lesefassung import NEURALIS, STAGES
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -80,6 +82,13 @@ class NeuralisTests(unittest.TestCase):
             }
             # Die PDF-Reihenfolge folgt dem dokumentierten Aktenzeichen.
             records = report["dokumente"]
+            readme = (CASE / "README.md").read_text(encoding="utf-8")
+            self.assertIn(f"{len(records)} Belege mit Lesezeichen auf {report['seiten']} Seiten", readme)
+            fach = report["fachausgabe"]
+            self.assertIn(f"{fach['druckseiten']} Seiten und ein ZIP mit {fach['aktenstuecke']} Einzel-PDFs", readme)
+            for asset in dist.glob("*.zip"):
+                self.assertIn(f"/releases/download/{inventory['release']}/{asset.name})", readme)
+            self.pruefe_einzelabruf(dist)
             for stage, identifiers in expected.items():
                 actual = [Path(row["original"]).name.split("_", 1)[0] for row in records
                           if Path(row["original"]).parent.name == stage]
@@ -130,6 +139,36 @@ class NeuralisTests(unittest.TestCase):
                         with self.subTest(akte=identifier):
                             for marker in witnesses[identifier]:
                                 self.assertIn(marker, text)
+
+    def pruefe_einzelabruf(self, release):
+        # Der eigenständige Fachakten-Aufruf muss denselben Fallstand bauen.
+        with tempfile.TemporaryDirectory() as scratch:
+            work = Path(scratch)
+            index = work / "quellen.json"
+            referenzen = json.loads((ROOT / "scripts/data/grundakten-vertiefung/einzelausgaben.json").read_text())
+            pfade = {}
+            for feld, suffix in (("source", ""), ("print", "-einzelpdfs")):
+                quelle = release / f"testakte-{NEURALIS}{suffix}.zip"
+                self.assertEqual(referenzen["testakten/" + NEURALIS][feld],
+                                 {"sha256": sha256_file(quelle), "size": quelle.stat().st_size})
+                pfade[quelle.name] = [str(quelle)]
+            index.write_text(json.dumps(pfade))
+            stage = work / "stage"
+            dist = work / "dist"
+            subprocess.run([
+                sys.executable, str(ROOT / "scripts/build-grundakten-lebenswelt.py"),
+                "--vertiefung", "--akte", NEURALIS, "--local-index", str(index),
+                "--stage", str(stage), "--dist", str(dist),
+            ], cwd=ROOT, check=True)
+            akte = stage / NEURALIS
+            bestand = json.loads((akte / "bestand.json").read_text())
+            self.assertEqual((bestand["aktenstuecke"], bestand["eingangspost"]), (43, 5))
+            self.assertEqual(len(PdfReader(akte / "Gesamtakte.pdf").pages), 62)
+            name = f"lebensakte-{NEURALIS}.zip"
+            self.assertEqual(sha256_file(dist / name), sha256_file(release / name))
+            with ZipFile(release / f"druckakte-{NEURALIS}.zip") as archiv:
+                for name in ("Gesamtakte.pdf", "Einzel-PDFs.zip"):
+                    self.assertEqual(sha256_file(akte / name), digest(archiv.read(f"{NEURALIS}/{name}")), name)
 
 
 if __name__ == "__main__":

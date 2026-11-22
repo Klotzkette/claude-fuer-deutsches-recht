@@ -42,7 +42,8 @@ def publish(dist: Path, scope: dict, expected_commit: str, repo: str, *, root: P
     execute(["git", "merge-base", "--is-ancestor", expected_commit, "origin/main"], root=root)
     builder.validate_assets(dist, scope, root, expected_commit=expected_commit)
     tag = scope["tag"]
-    notes = root / "docs/releases" / (tag + ".md")
+    notes_name = tag.rsplit("-v", 1)[0] if B.PAKETPFLEGE_TAG.fullmatch(tag) else tag
+    notes = root / "docs/releases" / (notes_name + ".md")
     if not notes.is_file() or not notes.read_text().strip():
         raise ValueError("Konkrete Release-Notiz fehlt")
     existing_tag = P.tag_commit(repo, tag, allow_missing=True)

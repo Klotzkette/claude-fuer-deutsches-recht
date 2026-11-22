@@ -186,6 +186,13 @@ PUBLIC_VERGABERECHT_ROLES = {
     "konkurrenten-rechtsschutz",
     "vergabestelle-behoerden",
 }
+# Diese READMEs haben eigene Einstiege mit den veröffentlichten Downloads.
+PRESERVED_README_ENTRIES = PUBLIC_VERGABERECHT_ROLES | {
+    "bauunternehmer-einkauf",
+    "e-rechnung-werkstatt",
+    "jugendmedienschutz-und-medienangebote",
+    "zahlungsunfaehigkeits-und-ueberschuldungspruefer",
+}
 
 
 def prompt_stem(plugin_name: str) -> str:
@@ -801,11 +808,7 @@ def inject(plugin: dict, akten_slugs: list[str], marketplace_count: int) -> str:
     original = readme.read_text(encoding="utf-8")
     version = plugin.get("version")
     text = sync_visible_version(original, version) if version else original
-    # Die drei öffentlichen Vergaberechtsrollen werden von ihren eigenen
-    # Generatoren gepflegt. Ihre Start-, Gesamtprompt- und Skillblöcke bilden
-    # zusammen eine geprüfte Navigation und dürfen hier nicht vereinheitlicht
-    # oder teilweise entfernt werden.
-    if name in PUBLIC_VERGABERECHT_ROLES:
+    if name in PRESERVED_README_ENTRIES:
         if text != original:
             readme.write_text(text, encoding="utf-8")
             return "UPDATED"

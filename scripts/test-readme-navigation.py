@@ -41,6 +41,36 @@ OVERVIEWS = load_script("validate-root-readme-overview.py")
 
 
 class ReadmeIntroductionTests(unittest.TestCase):
+    def test_direct_generator_preserves_editorial_entries_and_their_release_urls(self):
+        entries = json.loads(PLUGINS.MARKETPLACE.read_text(encoding="utf-8"))["plugins"]
+        names = ("bauunternehmer-einkauf", "e-rechnung-werkstatt", "jugendmedienschutz-und-medienangebote",
+                 "zahlungsunfaehigkeits-und-ueberschuldungspruefer")
+        for name in names:
+            entry = next(plugin for plugin in entries if plugin["name"] == name)
+            original = (ROOT / entry["source"] / "README.md").read_bytes()
+            self.assertIn(PLUGINS.plugin_asset_url(name, root=ROOT).encode(), original)
+            with self.subTest(plugin=name), tempfile.TemporaryDirectory() as temp, patch.object(PLUGINS, "REPO", Path(temp)):
+                readme = PLUGINS.plugin_dir(entry) / "README.md"
+                readme.parent.mkdir(parents=True)
+                readme.write_bytes(original)
+                for _ in range(2):
+                    self.assertEqual(PLUGINS.inject(entry, [], len(entries)), "UNCHANGED")
+                    self.assertEqual(readme.read_bytes(), original)
+
+    def test_new_plugin_still_gets_one_direct_entry(self):
+        entry = {"name": "belegpruefung", "description": "Gleicht die Belege ab."}
+        with tempfile.TemporaryDirectory() as temp, patch.object(PLUGINS, "REPO", Path(temp)):
+            (Path(temp) / "testakten").mkdir()
+            readme = PLUGINS.plugin_dir(entry) / "README.md"
+            readme.parent.mkdir(parents=True)
+            readme.write_text("# Belegprüfung\n\n## Unterlagen\n\nRechnungen beifügen.\n", encoding="utf-8")
+            self.assertEqual(PLUGINS.inject(entry, [], 1), "INSERTED")
+            self.assertEqual(PLUGINS.inject(entry, [], 1), "UNCHANGED")
+            rendered = readme.read_text(encoding="utf-8")
+            self.assertEqual(rendered.count(PLUGINS.BEGIN), 1)
+            self.assertEqual(rendered.count(PLUGINS.END), 1)
+            self.assertIn("Rechnungen beifügen.", rendered)
+
     def test_installation_steps_use_individual_package_index(self):
         for filename, heading in (
             ("QUICKSTART.md", "## 3. Ein einzelnes Plugin installieren"),
@@ -129,7 +159,7 @@ class CatalogVersionTests(unittest.TestCase):
                 path.write_text(text, encoding="utf-8")
                 self.assertEqual(OVERVIEWS.check_subject_index(marketplace), [])
                 self.assertLess(text.index("[`anwalt`]"), text.index("[`zivil`]"))
-                for old, new in (("| 1 |", "| 9 |"), ("`1.2.3`", "`0.1.0`"), ("2 Plugins", "3 Plugins"), ("../gerichte/zivil/", "../zivil/")):
+                for old, new in (("| 1 |", "| 9 |"), ("`1.2.3`", "`0.1.0`"), ("2 Plugins", "3 Plugins"), ("Für Anwälte.", "Frühere Beschreibung."), ("../gerichte/zivil/", "../zivil/")):
                     with self.subTest(old=old):
                         path.write_text(text.replace(old, new), encoding="utf-8")
                         self.assertTrue(OVERVIEWS.check_subject_index(marketplace))
@@ -504,6 +534,28 @@ class NavigationTests(unittest.TestCase):
                                NAV.CANONICAL_REPO_BLOB_BASE + "teil/Ziel%20eins.md#falsch",
                                NAV.DOWNLOAD_BASE + "teil/fehlt.md"):
                     self.assertTrue(any(line.endswith(": " + target) for line in errors), target)
+
+    def test_active_plugin_downloads_follow_routes_but_preserve_historical_record(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory).resolve()
+            old = NAV.RELEASE_BASE + "/download/frueher/demo.zip"
+            latest = NAV.RELEASE_BASE + "/latest/download/demo.zip"
+            current = NAV.RELEASE_BASE + "/download/neu/demo.zip"
+            sources = {
+                "plugin/skills/README.md": f'[Installieren]({latest})\n\n<a href="{old}">Paket</a>',
+                "detail.md": f"[Plugin]({current}?download=1)\n\n[Belege]({old.replace('demo.zip', 'belege.zip')})",
+                "docs/releases/frueher.md": f"[Paket des damaligen Releases]({old})",
+            }
+            for name, content in sources.items():
+                path = root / name
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_text("# Downloads\n\n" + content)
+            with patch.object(NAV, "REPO", root):
+                errors = []
+                NAV.validate_markdown_links(errors, {"demo.zip": current})
+            self.assertEqual(len(errors), 2)
+            for destination in (old, latest):
+                self.assertTrue(any("plugin/skills/README.md" in line and destination in line for line in errors))
 
     def test_pages_and_raw_urls_point_at_published_sources(self):
         source = NAV.REPO / "teil" / "README.md"
