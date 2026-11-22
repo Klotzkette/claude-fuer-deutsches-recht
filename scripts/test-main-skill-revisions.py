@@ -337,5 +337,37 @@ class RevisionTests(unittest.TestCase):
         report['files'][0]['original_sha256']='0'*64
         self.assertTrue(module.verify_source_map(self.root,report))
 
+    def test_preview_links_reconstruct_the_original_source_map_files(self):
+        repository = Path(__file__).resolve().parents[1]
+        report = rev.load(repository / "quality/skill-consolidation/2026-11-14/source-map.json")
+        for row in report["files"]:
+            if not row["path"].endswith("/assets/vorschau/index.html"):
+                continue
+            with self.subTest(path=row["path"]):
+                path = repository / row["path"]
+                original = rev.historical_bytes(repository, path, row["sha256"])
+                self.assertEqual(rev.digest(original), row["sha256"])
+                self.assertEqual(rev.digest(original), row["original_sha256"])
+
+    def test_preview_proof_rejects_other_edits_paths_plugins_and_hashes(self):
+        repository = Path(__file__).resolve().parents[1]
+        relative = "energierecht/assets/vorschau/index.html"
+        current = (repository / relative).read_bytes()
+        path = put(self.root, relative, current)
+        expected = rev.PREVIEW_ORIGINAL_SHA256["energierecht"]
+        wrong_tag = current.replace(b"qualitaetsrunde-v445.36.9/energierecht.zip", b"anderer-tag/energierecht.zip")
+        wrong_zip = current.replace(b"/energierecht.zip", b"/umweltrecht.zip")
+        for altered in (current + b"Zusatz", current + current, wrong_tag, wrong_zip):
+            with self.subTest(altered=rev.digest(altered)), self.assertRaises(ValueError):
+                path.write_bytes(altered)
+                rev.historical_bytes(self.root, path, expected)
+        path.write_bytes(current)
+        with self.assertRaisesRegex(ValueError, "anderen Plugin"):
+            rev.historical_bytes(self.root, path, expected, plugin="umweltrecht")
+        self.assertEqual(rev.historical_bytes(self.root, path, "0" * 64), current)
+        for other in ("energierecht/references/index.html", "ungeprueft/assets/vorschau/index.html"):
+            with self.subTest(path=other):
+                self.assertEqual(rev.historical_bytes(self.root, put(self.root, other, current), expected), current)
+
 
 if __name__=='__main__': unittest.main()

@@ -169,6 +169,11 @@
       source.textContent = "Datei auf GitHub öffnen";
       file.textContent = filename;
 
+      if (path.endsWith(".txt") && !/-(werkstatt|schnellstart|hauptproblem)\.txt$/.test(path)) {
+        fail("Diese TXT-Datei kannst du über den GitHub-Link öffnen.");
+        return;
+      }
+
       // Direkt nach einem Merge kann die Datei auf GitHub schon vor der Pages-Ausgabe stehen.
       const rawUrl = `https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/${encodedPath}`;
       for (const url of [pagesUrl, rawUrl]) {
