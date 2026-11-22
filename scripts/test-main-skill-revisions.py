@@ -227,6 +227,58 @@ class RevisionTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             rev.before_fachaufnahme(self.root, path, new)
 
+    def test_pruefer_release_reconstructs_only_the_bound_file_and_publication(self):
+        repository = Path(__file__).resolve().parents[1]
+        base = Path("quality/pruefer-fortschreibung-2026-11-21")
+        proof = put(self.root, base / "nachweis.json", (repository / base / "nachweis.json").read_bytes())
+        snapshot = put(self.root, base / "vorfassungen.zip", (repository / base / "vorfassungen.zip").read_bytes())
+        record = rev.load(proof)
+        for name in ("arbeitszeugnispruefer/skills/azubi-zeugnis-analyse/FACHINHALT.md",
+                     "bautraegervertrag-pruefer/skills/vertragssoll-bearbeiten/SKILL.md"):
+            with self.subTest(name=name):
+                body = (repository / name).read_bytes()
+                path = put(self.root, name, body)
+                expected = record["files"][name]["previous_sha256"]
+                plugin = name.split("/")[0]
+                self.assertEqual(rev.digest(rev.historical_bytes(self.root, path, expected, plugin=plugin)), expected)
+                self.assertEqual(rev.historical_bytes(self.root, path, "0" * 64, plugin=plugin), body)
+                with self.assertRaisesRegex(ValueError, "anderem Plugin"):
+                    rev.historical_bytes(self.root, path, expected, plugin="fremde-pruefung")
+                path.write_bytes(body + b"Abweichende fachliche Bewertung")
+                with self.assertRaisesRegex(ValueError, "weicht vom veröffentlichten Prüferpaket ab"):
+                    rev.historical_bytes(self.root, path, expected, plugin=plugin)
+        path.write_bytes(body)
+        snapshot.write_bytes(snapshot.read_bytes() + b"Nachtraegliche Veraenderung")
+        with self.assertRaisesRegex(ValueError, "Archiv der Prüferfortschreibung verändert"):
+            rev.historical_bytes(self.root, path, expected)
+        record["archive_sha256"] = rev.digest(snapshot.read_bytes())
+        put(self.root, proof, record)
+        with self.assertRaisesRegex(ValueError, "Nachweis der Prüferfortschreibung verändert"):
+            rev.historical_bytes(self.root, path, expected)
+
+    def test_full_release_audit_rejects_rollback_or_lost_proof(self):
+        repository = Path(__file__).resolve().parents[1]
+        base = rev.PRUEFER_PROOF
+        for name in ("nachweis.json", "vorfassungen.zip"):
+            put(self.root, base / name, (repository / base / name).read_bytes())
+        put(self.root, "scripts/data/rechtsprechung-pruefer-release.json",
+            (repository / "scripts/data/rechtsprechung-pruefer-release.json").read_bytes())
+        record = rev.pruefer_release_manifest(self.root)
+        for name in record["files"]:
+            put(self.root, name, (repository / name).read_bytes())
+        self.assertEqual(rev.validate_all(self.root), 1)
+        name = "bautraegervertrag-pruefer/skills/mabv-ratenplan-pruefen/FACHINHALT.md"
+        path = self.root / name
+        current = path.read_bytes()
+        with rev.pruefer_release_archive(self.root, record) as archive:
+            path.write_bytes(archive.read(name))
+        with self.assertRaisesRegex(ValueError, "weicht vom veröffentlichten Prüferpaket ab"):
+            rev.validate_all(self.root)
+        path.write_bytes(current)
+        (self.root / base).rename(self.root / "entfernter-nachweis")
+        with self.assertRaises(FileNotFoundError):
+            rev.validate_all(self.root)
+
     def test_catalog_growth_only_reverses_the_two_generated_counts(self):
         market = ".claude-plugin/marketplace.json"
         entries = [{"name": "beispiel", "source": "./beispiel"}]

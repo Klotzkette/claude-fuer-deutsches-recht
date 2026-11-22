@@ -22,6 +22,7 @@ on:
       - 'scripts/test-main-skill-revisions.py'
       - 'scripts/test-package-link-revisions.py'
       - 'quality/hauptskills-2026-11-18/**'
+      - 'quality/pruefer-fortschreibung-2026-11-21/**'
       - 'scripts/test-skill-registry-preparation.py'
       - 'scripts/add-finale-entscheidung-skill.py'
       - 'scripts/test-final-decision-generator.py'

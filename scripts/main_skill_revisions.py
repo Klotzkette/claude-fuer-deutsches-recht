@@ -11,7 +11,9 @@ import hashlib
 import json
 import os
 import re
+from io import BytesIO
 from pathlib import Path
+from zipfile import BadZipFile, ZipFile
 
 REGISTRY = "quality/hauptskills-2026-11-18/revisionen.json"
 ARCHIVE = "quality/hauptskills-2026-11-18/bestand/"
@@ -285,6 +287,76 @@ def before_fachaufnahme(root, path, current, *, plugin=None):
     return old
 
 
+PRUEFER_PROOF = Path("quality/pruefer-fortschreibung-2026-11-21")
+PRUEFER_MANIFEST_SHA256 = "c7372d50ab619d49c2a98070b3090bfd9a7f66c895ab9f3f001587bd4d4dd4f4"
+
+
+def pruefer_release_path(relative):
+    parts = relative.parts
+    return (len(parts) >= 3 and parts[0] in {"arbeitszeugnispruefer", "bautraegervertrag-pruefer"}
+            and (len(parts) == 3 and parts[1] == "references" and relative.suffix == ".md"
+                 or len(parts) == 4 and parts[1] == "skills" and parts[3] in {"FACHINHALT.md", "SKILL.md"}))
+
+
+def pruefer_release_manifest(root):
+    record = (root / PRUEFER_PROOF / "nachweis.json").read_bytes()
+    if digest(record) != PRUEFER_MANIFEST_SHA256:
+        raise ValueError("Nachweis der Prüferfortschreibung verändert")
+    return json.loads(record, object_pairs_hook=unique_object)
+
+
+def pruefer_release_archive(root, proof):
+    archive = (root / PRUEFER_PROOF / "vorfassungen.zip").read_bytes()
+    if digest(archive) != proof["archive_sha256"]:
+        raise ValueError("Archiv der Prüferfortschreibung verändert")
+    return ZipFile(BytesIO(archive))
+
+
+def pruefer_predecessor(files, name, row, current):
+    if digest(current) != row["release_sha256"]:
+        raise ValueError(f"{name}: Fachtext weicht vom veröffentlichten Prüferpaket ab")
+    try:
+        previous = files.read(name)
+    except (BadZipFile, KeyError) as exc:
+        raise ValueError(f"{name}: archivierte Vorfassung fehlt oder ist beschädigt") from exc
+    if digest(previous) != row["previous_sha256"] or previous == current:
+        raise ValueError(f"{name}: Vorfassung stimmt nicht mit historischem Quellhash überein")
+    return previous
+
+
+def validate_pruefer_release(root):
+    """Prüft die vollständige Veröffentlichung, auch einen Rückbau auf alte, gültige Bytes."""
+    if (not (root / PRUEFER_PROOF).exists()
+            and not (root / "scripts/data/rechtsprechung-pruefer-release.json").exists()):
+        return  # Kleiner Testbestand oder Stand vor der Prüferveröffentlichung.
+    proof = pruefer_release_manifest(root)
+    entries = proof["files"]
+    with pruefer_release_archive(root, proof) as files:
+        if sorted(files.namelist()) != sorted(entries):
+            raise ValueError("Belegte und archivierte Prüferdateien unterscheiden sich")
+        for name, row in entries.items():
+            if not pruefer_release_path(Path(name)):
+                raise ValueError(f"{name}: unzulässiger Fachtext im Prüferarchiv")
+            current = inside(root, name).read_bytes()
+            pruefer_predecessor(files, name, row, current)
+
+
+def before_pruefer_release(root, path, current, expected, *, plugin=None):
+    """Belegt die Vorfassung eines in der Konsolidierung erfassten Fachtextes."""
+    relative = path.relative_to(root)
+    if not pruefer_release_path(relative) or not (root / PRUEFER_PROOF / "nachweis.json").is_file():
+        return current
+    proof = pruefer_release_manifest(root)
+    name = relative.as_posix()
+    row = proof["files"].get(name)
+    if row is None or row["previous_sha256"] != expected:
+        return current
+    if plugin is not None and plugin != relative.parts[0]:
+        raise ValueError(f"{name}: Prüferfortschreibung gehört zu anderem Plugin")
+    with pruefer_release_archive(root, proof) as files:
+        return pruefer_predecessor(files, name, row, current)
+
+
 def historical_bytes(root, path, expected, *, plugin=None):
     """Ein Hash passt entweder unmittelbar oder zu einer vollständig belegten Vorfassung."""
     current = Path(path).read_bytes()
@@ -292,6 +364,9 @@ def historical_bytes(root, path, expected, *, plugin=None):
         return current
     from case_navigation_revision import CASES, previous_case_readme
     root, path = Path(root).resolve(), Path(path).resolve()
+    earlier = before_pruefer_release(root, path, current, expected, plugin=plugin)
+    if earlier != current:
+        return earlier
     earlier = before_fachaufnahme(root, path, current, plugin=plugin)
     if earlier != current and digest(earlier) == expected:
         return earlier
@@ -327,6 +402,7 @@ def validate_all(root):
             metadata_previous_bytes(root, inside(root, row["path"]), plugin=row.get("plugin"))
     from package_link_revisions import validate_all as validate_package_links
     validate_package_links(root)
+    validate_pruefer_release(root)
     return len(rows)
 
 
