@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`verkehrsowi-verteidiger-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verkehrsowi-verteidiger/verkehrsowi-verteidiger-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`verkehrsowi-verteidiger-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verkehrsowi-verteidiger/verkehrsowi-verteidiger-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [verkehrsowi-verteidiger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/verkehrsowi-verteidiger.zip) |
+| **Plugin (installierbar)** | ZIP | [verkehrsowi-verteidiger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/verkehrsowi-verteidiger.zip) |
 
 ## So benutzt man einen Skill
 

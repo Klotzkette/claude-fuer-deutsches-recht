@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`us-bankruptcy-code-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-bankruptcy-code/us-bankruptcy-code-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`us-bankruptcy-code-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-bankruptcy-code/us-bankruptcy-code-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [us-bankruptcy-code.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/us-bankruptcy-code.zip) |
+| **Plugin (installierbar)** | ZIP | [us-bankruptcy-code.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/us-bankruptcy-code.zip) |
 
 ## So benutzt man einen Skill
 

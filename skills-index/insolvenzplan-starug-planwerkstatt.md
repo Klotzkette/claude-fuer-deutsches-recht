@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`insolvenzplan-starug-planwerkstatt-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`insolvenzplan-starug-planwerkstatt-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [insolvenzplan-starug-planwerkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/insolvenzplan-starug-planwerkstatt.zip) |
+| **Plugin (installierbar)** | ZIP | [insolvenzplan-starug-planwerkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/insolvenzplan-starug-planwerkstatt.zip) |
 
 ## So benutzt man einen Skill
 

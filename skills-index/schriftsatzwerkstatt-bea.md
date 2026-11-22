@@ -9,7 +9,7 @@
 | Paket | Format | Link |
 | --- | --- | --- |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [schriftsatzwerkstatt-bea.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/schriftsatzwerkstatt-bea.zip) |
+| **Plugin (installierbar)** | ZIP | [schriftsatzwerkstatt-bea.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/schriftsatzwerkstatt-bea.zip) |
 
 ## App verwenden
 

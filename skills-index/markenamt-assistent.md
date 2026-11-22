@@ -15,7 +15,7 @@
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`markenamt-assistent-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/markenamt-assistent-hauptproblem.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | TXT | [`markenamt-assistent-hauptproblem.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/markenamt-assistent-hauptproblem.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [markenamt-assistent.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/markenamt-assistent.zip) |
+| **Plugin (installierbar)** | ZIP | [markenamt-assistent.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/markenamt-assistent.zip) |
 
 ## So benutzt man einen Skill
 

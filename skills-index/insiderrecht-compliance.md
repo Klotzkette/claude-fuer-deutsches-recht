@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`insiderrecht-compliance-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insiderrecht-compliance/insiderrecht-compliance-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`insiderrecht-compliance-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insiderrecht-compliance/insiderrecht-compliance-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [insiderrecht-compliance.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/insiderrecht-compliance.zip) |
+| **Plugin (installierbar)** | ZIP | [insiderrecht-compliance.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/insiderrecht-compliance.zip) |
 
 ## So benutzt man einen Skill
 

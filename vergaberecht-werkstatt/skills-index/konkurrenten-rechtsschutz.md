@@ -10,7 +10,7 @@ Das Plugin-ZIP enthält die aktuelle aktive Auswahl samt vollständigen Fachmodu
 
 | Bedarf | Link |
 | --- | --- |
-| Installierbares Plugin | [konkurrenten-rechtsschutz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/konkurrenten-rechtsschutz.zip) |
+| Installierbares Plugin | [konkurrenten-rechtsschutz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/konkurrenten-rechtsschutz.zip) |
 | Alle Skills als Markdown | [konkurrenten-rechtsschutz-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-skills-markdown.zip) |
 | Kompakter Ein-Datei-Start | [konkurrenten-rechtsschutz-unified-mini-prompt.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-unified-mini-prompt.md) |
 | Vollworkflow-Arbeitsprompt | [vergaberecht-arbeitsprompt-konkurrenten.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-konkurrenten.md) |
@@ -23,7 +23,7 @@ Das Plugin-ZIP enthält die aktuelle aktive Auswahl samt vollständigen Fachmodu
 | --- | --- | --- |
 | Unified Mini Prompt | Eine einzelne Markdown-Datei bis 7.500 Zeichen: Sparversion des Plugin-Workflows für Chatbots ohne Plugin-Installation | [konkurrenten-rechtsschutz-unified-mini-prompt.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-unified-mini-prompt.md) |
 | Markdown-ZIP | Alle `SKILL.md`-Dateien als reine Markdown — echter Datei-Download für ChatGPT, Gemini, Mistral, Le Chat usw. | [konkurrenten-rechtsschutz-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-skills-markdown.zip) |
-| Plugin-ZIP | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Prüfrastern + Vorlagen) | [konkurrenten-rechtsschutz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/konkurrenten-rechtsschutz.zip) |
+| Plugin-ZIP | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Prüfrastern + Vorlagen) | [konkurrenten-rechtsschutz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/konkurrenten-rechtsschutz.zip) |
 
 ## So benutzt man einen Skill
 

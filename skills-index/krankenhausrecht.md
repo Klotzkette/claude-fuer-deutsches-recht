@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`krankenhausrecht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhausrecht/krankenhausrecht-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`krankenhausrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhausrecht/krankenhausrecht-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [krankenhausrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/krankenhausrecht.zip) |
+| **Plugin (installierbar)** | ZIP | [krankenhausrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/krankenhausrecht.zip) |
 
 ## So benutzt man einen Skill
 

@@ -9,7 +9,7 @@ Der fachanwaltliche Einstieg für Steuerrechtsmandate führt zum gemeinsamen Plu
 | Ihr Ziel | Einstieg |
 | --- | --- |
 | Das gemeinsame Steuerrechts-Plugin verwenden | [Anleitung und Aufgabenübersicht](../steuerrecht-anwalt-und-berater/README.md) |
-| Das Plugin installieren | [Steuerrechts-Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/steuerrecht-anwalt-und-berater.zip) |
+| Das Plugin installieren | [Steuerrechts-Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/steuerrecht-anwalt-und-berater.zip) |
 | Einen einzelnen Arbeitsablauf wählen | [Alle 20 Skills mit Beschreibungen](../skills-index/steuerrecht-anwalt-und-berater.md) |
 | Eine umfangreiche Akte bearbeiten | [Werkstatt-Prompt als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md) |
 | Mit einem kompakten Auftrag beginnen | [Mini-Prompt als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md) |

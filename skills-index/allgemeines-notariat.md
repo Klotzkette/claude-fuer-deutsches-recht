@@ -13,7 +13,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`allgemeines-notariat-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/allgemeines-notariat-schnellstart.md) |
 | **Derselbe Schnellstart-Prompt als Text** | TXT | [`allgemeines-notariat-schnellstart.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/allgemeines-notariat-schnellstart.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [allgemeines-notariat.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/allgemeines-notariat-v1.0.0/allgemeines-notariat.zip) |
+| **Plugin (installierbar)** | ZIP | [allgemeines-notariat.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v1.0.0/allgemeines-notariat.zip) |
 
 ## So benutzt man einen Skill
 

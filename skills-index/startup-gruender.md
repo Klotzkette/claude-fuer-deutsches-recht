@@ -13,7 +13,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`startup-gruender-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-schnellstart.md) |
 | **Derselbe Schnellstart-Prompt als Text** | TXT | [`startup-gruender-schnellstart.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-schnellstart.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [startup-gruender.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/startup-gruender.zip) |
+| **Plugin (installierbar)** | ZIP | [startup-gruender.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/startup-gruender.zip) |
 
 ## So benutzt man einen Skill
 

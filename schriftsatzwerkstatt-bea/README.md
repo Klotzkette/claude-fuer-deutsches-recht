@@ -5,7 +5,7 @@
 
 Starten Sie die lokale App nach der Anleitung in dieser README. Die Installation allein startet keinen Server und garantiert keine eingebettete Browseransicht.
 
-[Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/schriftsatzwerkstatt-bea.zip) · [Plugin-Dateien](.)
+[Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/schriftsatzwerkstatt-bea.zip) · [Plugin-Dateien](.)
 <!-- END direkt-loslegen (autogen) -->
 
 Eigenständiges Cowork-Plugin für die letzte technische Strecke vor einer gerichtlichen Einreichung. Der rechtliche Inhalt ist bereits fertig und freigegeben; die Werkstatt inventarisiert den Ordner, sperrt die richtige Schriftsatzversion, ordnet Anlagen, erzeugt einzelne PDFs, prüft jede Seite, bildet kurze ASCII-Dateinamen und bereitet Signatur, Versandauftrag und Eingangsnachlauf vor.
@@ -144,7 +144,7 @@ Ein grüner Skriptlauf ersetzt weder die visuelle Seitenkontrolle noch die reale
 ## Downloads und Navigation
 
 - [Projektübersicht: Rechtsabteilung Forderungsmanagement Immobilienunternehmen](../projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/README.md)
-- [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/schriftsatzwerkstatt-bea.zip)
+- [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/schriftsatzwerkstatt-bea.zip)
 - [Fachplugin für die inhaltliche Bearbeitung](../rechtsabteilung-forderungsmanagement-immobilienunternehmen/README.md)
 - [Arbeitsregeln und Abgrenzung](./AGENTS.md)
 - [Root-README](../README.md)
