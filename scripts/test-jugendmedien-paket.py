@@ -19,11 +19,15 @@ import json
 from pathlib import Path
 import re
 import shutil
+import subprocess
 import sys
 import tempfile
 import unittest
 from urllib.parse import parse_qs, urlparse
 import zipfile
+
+from package_edition import edition_routes
+from release_routing import RELEASE_BASE, scoped_asset_url
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -90,8 +94,29 @@ class JugendmedienPaketTests(unittest.TestCase):
             "tag": full_scope["tag"],
             "plugins": [copy.deepcopy(plugin_scope)],
         }
+        # Echte Arbeitsdateien am aktuellen Commit, aber die beiden Routen der
+        # historischen Qualitätsrunde in einer eigenen kleinen Registry.
+        cls.package_root = cls.base / "paketquelle"
+        subprocess.run(["git", "clone", "--quiet", "--shared", "--no-checkout",
+                        str(ROOT), str(cls.package_root)], check=True)
+        shutil.copytree(PLUGIN, cls.package_root / NAME)
+        for relative in ("LICENSE", "LICENSE-APACHE", "LICENSE-MIT", "NOTICE", "README.md", "ASSET_INDEX.md",
+                         "SKILLS.md", "testakten/README.md", f"skills-index/{NAME}.md",
+                         "docs/grundakten-lebenswelt/README.md", f"quality/evals/{NAME}.json"):
+            destination = cls.package_root / relative
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(ROOT / relative, destination)
+        market = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
+        market["plugins"] = [entry for entry in market["plugins"] if entry["name"] == NAME]
+        planned = edition_routes(ROOT)
+        cls.package_routes = {asset: planned[asset] for asset in (f"{NAME}.zip", f"{NAME}-portable.zip")}
+        registry = {"schema_version": 1, "assets": {asset: old for asset, (old, _) in cls.package_routes.items()}}
+        for relative, data in ((".claude-plugin/marketplace.json", market), ("scripts/scoped-release-assets.json", registry)):
+            destination = cls.package_root / relative
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            destination.write_text(json.dumps(data), encoding="utf-8")
         cls.dist = cls.base / "original"
-        cls.report = RELEASE.build(cls.dist, cls.scope, ROOT)
+        cls.report = RELEASE.build(cls.dist, cls.scope, cls.package_root)
 
     def copied_dist(self, name: str) -> Path:
         target = self.base / name
@@ -117,6 +142,8 @@ class JugendmedienPaketTests(unittest.TestCase):
         return files
 
     def test_release_builder_keeps_ten_routes_and_all_local_sources(self):
+        commit = subprocess.check_output(["git", "rev-parse", "HEAD"], cwd=ROOT, text=True).strip()
+        self.assertEqual(self.report["source_state"]["commit"], commit)
         expected = self.expected_sources()
         self.assertTrue(REFERENCES <= set(expected))
         skills = {p.parent.name for p in (PLUGIN / "skills").glob("*/SKILL.md")}
@@ -185,6 +212,17 @@ class JugendmedienPaketTests(unittest.TestCase):
                 published_paths.update(parse_qs(url.query).get("path", []))
         self.assertTrue({f"{NAME}/{filename}" for filename in PROMPT_SNAPSHOTS} <= published_paths)
 
+    def test_installer_links_match_the_active_registered_release(self):
+        links = re.findall(r"\]\(([^)]+)\)", (PLUGIN / "README.md").read_text())
+        tags = set()
+        for asset, (previous, successor) in self.package_routes.items():
+            self.assertEqual(previous, self.scope["tag"])
+            url = scoped_asset_url(asset, root=ROOT)
+            self.assertIn(url, {f"{RELEASE_BASE}/download/{tag}/{asset}" for tag in (previous, successor)})
+            self.assertEqual({link for link in links if link.endswith("/" + asset)}, {url})
+            tags.add(url.rsplit("/", 2)[1])
+        self.assertEqual(len(tags), 1, "Natives und portables Paket müssen auf dieselbe Ausgabe zeigen")
+
     def test_preserved_snapshot_loss_hash_mismatch_and_changed_source_are_rejected(self):
         # Eigene kleine Scope-Fixture: Keine Produktdatei wird manipuliert und
         # aktuelle Paketversionen beeinflussen nicht die vier Prompt-Negativfälle.
@@ -240,21 +278,21 @@ class JugendmedienPaketTests(unittest.TestCase):
         rewrite_archive(dist / f"{NAME}.zip", remove="references/fallpruefung.md")
         RELEASE.write_checksums(dist)
         with self.assertRaisesRegex(ValueError, "Dateiliste weicht"):
-            RELEASE.validate_assets(dist, self.scope, ROOT)
+            RELEASE.validate_assets(dist, self.scope, self.package_root)
 
     def test_portable_skill_loss_is_rejected_after_checksum_refresh(self):
         dist = self.copied_dist("missing-portable-skill")
         rewrite_archive(dist / f"{NAME}-portable.zip", remove=f"{NAME}/skills/chat-und-ugc-moderieren/SKILL.md")
         RELEASE.write_checksums(dist)
         with self.assertRaisesRegex(ValueError, "Dateiliste weicht"):
-            RELEASE.validate_assets(dist, self.scope, ROOT)
+            RELEASE.validate_assets(dist, self.scope, self.package_root)
 
     def test_changed_reference_is_rejected_even_with_valid_outer_checksums(self):
         dist = self.copied_dist("changed-reference")
         rewrite_archive(dist / f"{NAME}.zip", replace=("references/amtliche-quellen.md", b"Fremder Quellenstand\n"))
         RELEASE.write_checksums(dist)
         with self.assertRaisesRegex(ValueError, "Inhalt weicht"):
-            RELEASE.validate_assets(dist, self.scope, ROOT)
+            RELEASE.validate_assets(dist, self.scope, self.package_root)
 
 
 class JugendmedienGrundakteTests(unittest.TestCase):
