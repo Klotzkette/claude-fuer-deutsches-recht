@@ -424,9 +424,9 @@ class WorkshopValidatorTests(unittest.TestCase):
         download = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachgebiet/"
         (plugin / "README.md").write_text(
             "# Testpaket\n\n<!-- BEGIN direkt-loslegen (autogen) -->\n"
-            "<!-- END direkt-loslegen (autogen) -->\n"
             "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachgebiet.zip\n"
-            + download + "fachgebiet-werkstatt.md\n" + download + "fachgebiet-schnellstart.md\n", encoding="utf-8")
+            + download + "fachgebiet-werkstatt.md\n" + download + "fachgebiet-schnellstart.md\n"
+            + "<!-- END direkt-loslegen (autogen) -->\n", encoding="utf-8")
         workflow = self.root / ".github/workflows/release-plugin-zips.yml"
         workflow.parent.mkdir(parents=True)
         workflow.write_text("testakte-*-einzelpdfs.zip\n", encoding="utf-8")
@@ -494,6 +494,90 @@ class WorkshopValidatorTests(unittest.TestCase):
     def test_mini_upper_bound_remains(self):
         self.mini.write_bytes(b"x" * 7501)
         self.validations(False)
+
+    def check_release_audit(self, message=None):
+        result = subprocess.run(["node", str(SCRIPTS / "audit-release-readiness.mjs")],
+                                cwd=self.root, capture_output=True, text=True, timeout=20)
+        if message is None:
+            self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        else:
+            self.assertEqual(result.returncode, 1, result.stdout + result.stderr)
+            self.assertIn(message, result.stderr)
+
+    def test_handwritten_and_managed_entry_keep_the_published_links(self):
+        readme = self.root / "fachgebiet/README.md"
+        begin = "<!-- BEGIN direkt-loslegen (autogen) -->"
+        end = "<!-- END direkt-loslegen (autogen) -->"
+        body = readme.read_text().replace(begin, "## Benutzung").replace(end, "Wählen Sie einen Einstieg.")
+        zip_url = next(line for line in body.splitlines() if line.endswith(".zip"))
+        for text, error in (
+            (body, None),
+            (begin + "\n" + body + "\n" + end, None),
+            ((begin + "\n" + body + "\n" + end).replace("direkt-loslegen", "plugin-sofort-download-section"), None),
+            (body.replace("## Benutzung", "Benutzung"), "gegliederter Einstieg"),
+            (body + end, "Downloadblock"),
+            (end + "\n" + body + "\n" + begin, "Downloadblock"),
+            (begin + "\n" + body + "\n" + begin + "\n" + end, "Downloadblock"),
+            (begin + "\n" + end + "\n" + body, "Einstiegslinks im Downloadblock fehlen"),
+            (body.replace(zip_url, zip_url + ".bak"), "Plugin-ZIP-Link fehlt"),
+            (body.replace(zip_url, "<!-- " + zip_url + " -->"), "Plugin-ZIP-Link fehlt"),
+            (body.replace(zip_url, "```text\n" + zip_url + "\n```"), "Plugin-ZIP-Link fehlt"),
+            (body + "\n```markdown\n" + begin + "\n```", None),
+        ):
+            with self.subTest(error=error):
+                readme.write_text(text)
+                self.check_release_audit(error)
+
+    def test_registered_case_collection_requires_the_listed_folders_and_exports(self):
+        cases = self.root / "fachgebiet/testakten"
+        folder = cases / "erstakte"
+        folder.mkdir(parents=True)
+        self.check_release_audit("eine Aktensammlung mit Bestand")
+        (cases / "README.md").write_text("# Übungsakten\n\n[Erstakte](erstakte/README.md)")
+        (folder / "README.md").write_text("# Erstakte\n")
+        document = folder / "rechnung.pdf"
+        document.write_bytes(b"Testbeleg")
+        lab.save(cases / "aktenbestand.json", {"erstakte": {"sha256": {
+            document.name: hashlib.sha256(document.read_bytes()).hexdigest(),
+        }}})
+        self.check_release_audit()
+        document.unlink()
+        self.check_release_audit("Aktenbestand stimmen nicht überein")
+
+    def test_pdf_depot_checks_release_paths_and_completeness(self):
+        cases = self.root / "fachgebiet/testakten"
+        archive = cases / "downloads/testakte-erstakte-einzelpdfs.zip"
+        archive.parent.mkdir(parents=True)
+        archive.touch()
+        proof = cases / "pruefung/bestand.json"
+        entry = {"slug": "erstakte", "pdf_zip": {"path": archive.relative_to(self.root).as_posix()}}
+        lab.save(proof, {"schema_version": 1, "cases": [entry]})
+        self.check_release_audit()
+        (archive.parent / "nicht-im-bestand.zip").touch()
+        self.check_release_audit("PDF-Depot und Aktennachweis stimmen nicht überein")
+
+    def test_fetch_terminology_is_distinct_from_retired_file_references(self):
+        document = self.root / "HINWEISE.md"
+        old = "skills/scraping-api-terms/SKILL.md"
+        for text, error in (
+            ("Das englische Quellenzitat lautet „scraped from the internet“. Scraping rechtlich einordnen.", None),
+            ("[Aktueller Skill](skills/entnahme-scraping-bearbeiten/SKILL.md)", None),
+            ("[Externe Quelle](https://example.org/" + old + ")", None),
+            ("[Historischer Beleg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/"
+             "blob/v392.0.0/datenbankrecht/" + old + ")", None),
+            ("Historischer Pfad: `" + old + "`", None),
+            ("[Entfernt](" + old + ")", "abgelösten Akten- oder Skillpfad"),
+            ("[Archiv](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/"
+             "testakte-datenbankrecht-scraping-plattform-investitionsschutz.zip)", "abgelösten Akten- oder Skillpfad"),
+        ):
+            with self.subTest(text=text):
+                document.write_text(text)
+                self.check_release_audit(error)
+        document.unlink()
+        retired = self.root / "fachgebiet" / old
+        retired.parent.mkdir(parents=True)
+        retired.touch()
+        self.check_release_audit("abgelöster Akten- oder Skillpfad")
 
     def test_release_audit_distinguishes_prompt_size_from_answer_truncation(self):
         document = self.root / "CHANGELOG.md"

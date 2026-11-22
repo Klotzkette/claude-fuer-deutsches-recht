@@ -107,7 +107,7 @@ def validate_focus_skill(zip_path: Path, plugin_directory: Path, profile_path: P
             fail(f"{zip_path}: Schwerpunkt-Skill weicht vom geprüften Quelltext ab")
 
 
-def validate_skill_sources(zip_path: Path, plugin_directory: Path) -> None:
+def validate_skill_sources(zip_path: Path, plugin_directory: Path, *, rendered_readmes=None) -> None:
     """Gleiche Versionsnummern beweisen noch keinen gleichen Skill-Stand."""
     sources = {
         path.relative_to(plugin_directory).as_posix(): path
@@ -121,7 +121,12 @@ def validate_skill_sources(zip_path: Path, plugin_directory: Path) -> None:
         if len(entries) != len(set(entries)) or set(entries) != set(sources):
             fail(f"{zip_path}: Skill-Dateiliste weicht vom Quellstand ab")
         for name, path in sources.items():
-            if path.is_symlink() or archive.read(name) != path.read_bytes():
+            if path.is_symlink():
+                fail(f"{zip_path}: Symlink als Skill-Datei unzulässig: {name}")
+            expected = path.read_bytes()
+            if path.name == "README.md" and rendered_readmes and name in rendered_readmes:
+                expected = rendered_readmes[name]
+            if archive.read(name) != expected:
                 fail(f"{zip_path}: Skill-Datei weicht vom Quellstand ab: {name}")
 
 

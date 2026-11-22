@@ -12,7 +12,7 @@ automatisch in der SKILLS.md auftaucht — mit:
 - Oben prominenter Hinweis: Skills sind reine Markdown-Prompts und
   funktionieren per Copy-Paste in jedem Chatbot.
 
-Idempotent: schreibt SKILLS.md neu. Liest Version aus marketplace.json.
+Idempotent: schreibt SKILLS.md neu. Spezialdownloads folgen dem veröffentlichten Komponentenstand.
 """
 from __future__ import annotations
 
@@ -21,9 +21,10 @@ import re
 import sys
 from pathlib import Path
 
-from public_release import BLOB_BASE as GH_BLOB, RAW_BASE as GH_RAW, RELEASE_BASE as GH_RELEASE
-from public_release import with_working_downloads, plugin_download
+from public_release import BLOB_BASE as GH_BLOB, RAW_BASE as GH_RAW, COMPONENT_RELEASE_BASE as GH_RELEASE
+from public_release import COMPONENT_RELEASE_TAG, with_working_downloads, plugin_download
 from testakte_notices import with_case_warnings
+from skill_overview_text import description
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SKILLS_INDEX_DIR = REPO_ROOT / "skills-index"
@@ -48,55 +49,6 @@ PLUGIN_PROFILES = {
         "kurzprompt": "vergaberecht-kurzprompt-konkurrenten.md",
     },
 }
-
-
-def clean_description(desc: str) -> str:
-    """Bereinigt Beschreibungen für die menschenlesbare Markdown-Ausgabe."""
-    desc = re.sub(
-        r"\s+[—-]\s*Arbeitskontext:\s*[^.]+,\s*Schwerpunkt\s+[^.]+\.?",
-        "",
-        desc,
-    )
-    desc = re.sub(r"\s+im Plugin\s+[^.:\"`|]+(?=[:.])", "", desc)
-    desc = re.sub(r"\s+im Plugin\s+[^\"`|]+$", "", desc)
-    # Frontmatter muss für den Marketplace "Paragraf" ausschreiben. In der
-    # sichtbaren Dokumentation ist dagegen das juristisch übliche Zeichen klarer.
-    desc = re.sub(r"\b(?:Paragrafen|Paragraphen)\s+(?=\d)", "§§ ", desc)
-    desc = re.sub(r"\b(?:Paragraf|Paragraph)\s+(?=\d)", "§ ", desc)
-    desc = re.sub(r"\b(?:Paragraf|Paragraph)-(?=\d)", "§-", desc)
-    desc = re.sub(r"\s{2,}", " ", desc)
-    return desc.strip()
-
-
-def read_description(skill_md: Path) -> str:
-    with skill_md.open("r", encoding="utf-8") as fh:
-        first = fh.readline()
-        if first.strip() != "---":
-            return ""
-        frontmatter_lines: list[str] = []
-        for idx, line in enumerate(fh, start=1):
-            if idx > 200:
-                return ""
-            if line.strip() == "---":
-                break
-            frontmatter_lines.append(line)
-        else:
-            return ""
-    fm = "".join(frontmatter_lines)
-    if not fm:
-        return ""
-    desc = ""
-    for line in fm.splitlines():
-        if line.startswith("description:"):
-            desc = line.split(":", 1)[1].strip()
-            break
-    if not desc:
-        return ""
-    if len(desc) >= 2 and desc[0] == desc[-1] and desc[0] in {'"', "'"}:
-        desc = desc[1:-1]
-    desc = clean_description(desc.replace("\n", " ").strip())
-    desc = desc.replace("|", "\\|").strip()
-    return desc
 
 
 def read_title(skill_md: Path) -> str:
@@ -283,7 +235,7 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
     for s in skills:
         skill_md = skills_dir / s / "SKILL.md"
         title = read_title(skill_md)
-        desc = read_description(skill_md)
+        desc = description(skill_md, limit=None, vergaberolle=True)
         rel_md = f"{name}/skills/{s}/SKILL.md"
         blob_url = f"{GH_BLOB}/{rel_md}"
         raw_url = f"{GH_RAW}/{rel_md}"
@@ -332,9 +284,7 @@ def main() -> int:
     plugins = collect_plugins()
     total_skills = sum(len(skills) for _, skills in plugins)
     total_plugins = len(plugins)
-    version = (
-        "v" + json.loads((REPO_ROOT / ".claude-plugin" / "marketplace.json").read_text())["version"]
-    )
+    version = COMPONENT_RELEASE_TAG.rsplit("-", 1)[1]
 
     # 1) Schlanke Hauptseite SKILLS.md
     main_text = (

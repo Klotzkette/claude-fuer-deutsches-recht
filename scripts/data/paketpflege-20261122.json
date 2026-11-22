@@ -1,0 +1,10 @@
+{
+  "edition": "paketpflege-20261122",
+  "gruppen": {
+    "445.36.9": {"vorgaenger": "qualitaetsrunde-v445.36.9", "native": 308, "portable": 27},
+    "445.36.10": {"vorgaenger": "fachaufnahme-v445.36.10", "native": 2, "portable": 0},
+    "445.36.11": {"vorgaenger": "qualitaetsrunde-v445.36.11", "native": 2, "portable": 0},
+    "1.0.0": {"vorgaenger": "allgemeines-notariat-v1.0.0", "native": 1, "portable": 0}
+  },
+  "unveraendert": ["aktenanleger", "umwandlungssteuerrecht"]
+}

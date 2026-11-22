@@ -6,6 +6,7 @@ import argparse
 from akteneingang.quellen import ROOT, catalogs
 from akteneingang.vertiefung import fachredaktion
 from akteneingang.verweise import central_row, links, routes
+from release_routing import case_asset_url
 from testakte_disclaimer import NOTICE_MARKDOWN
 
 HEADER = """# Arbeitsakten mit Eingangspost
@@ -62,10 +63,13 @@ def fachkatalog(records, check):
             fachgebiete.update(gebiete)
         for gebiet in fachgebiete:
             gruppen[gebiet].append(key)
+    neuralis_release = case_asset_url("neuralis-medtech-erlangen-gestaltungsakte").rsplit("/", 1)[0]
     lines = [
         "# Fachakten mit fortgeführter Eingangspost",
         "",
-        f"Die Auswahl umfasst {len(alle)} eigenständige Akten. Fälle mit mehreren fachlichen Schwerpunkten erscheinen in den jeweiligen Abschnitten. [Bestandsnachweis und Prüfsummen](fachausgabe.json).",
+        f"Die Auswahl umfasst {len(alle)} eigenständige Akten. Fälle mit mehreren fachlichen Schwerpunkten erscheinen in den jeweiligen Abschnitten.",
+        "",
+        f"Der [Bestandsnachweis mit Prüfsummen](fachausgabe.json) gehört zur Sammelausgabe `grundakten-fachakten-v1.1.0`. Für die erweiterte Neuralis-Akte gelten der [Bestandsnachweis]({neuralis_release}/release-bestand.json) und die [Prüfsummen der Einzelausgabe]({neuralis_release}/checksums-sha256.txt).",
         "",
         "Öffnen Sie zunächst das Arbeits-ZIP des Falls. Unter `Grundakte/00_Posteingang` stehen der ausgebaute Erstkontakt, anschließende Nachrichten und die dazugehörigen Belege. Eine Antwort lässt sich über den Nachrichtenkopf ihrer Anfrage zuordnen. Wenn eine Datei mitgeschickt wurde, können Sie die Anlage direkt aus der E-Mail öffnen.",
         "",

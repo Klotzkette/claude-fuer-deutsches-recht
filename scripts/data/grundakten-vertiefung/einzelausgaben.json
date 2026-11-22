@@ -1,0 +1,12 @@
+{
+  "testakten/neuralis-medtech-erlangen-gestaltungsakte": {
+    "source": {
+      "sha256": "5075f41165e2fd22dc2e20abff4107fdbcacec97c5f7780031468c6e72a3a30d",
+      "size": 1565131
+    },
+    "print": {
+      "sha256": "6ee72425a75c3fc74aabb855e4f1f0f4ad93173cceb1a325a4f89f66ce4d1eb2",
+      "size": 2621899
+    }
+  }
+}

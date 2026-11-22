@@ -5,7 +5,7 @@ Generiert in jeder Plugin-README einen Abschnitt
 am Ende der Datei. Der Abschnitt listet alle Skills mit Description
 aus den jeweiligen SKILL.md-Dateien.
 
-Idempotent: erkennt vorhandene Markierungsblöcke und ersetzt sie.
+Aktualisiert vorhandene Beschreibungszellen anhand der Skillnamen.
 Bestehende, manuell gepflegte Skills-Sektionen werden NICHT angetastet.
 """
 
@@ -23,7 +23,7 @@ import json
 from pathlib import Path
 from urllib.parse import quote
 
-from readme_display import display_prose
+from skill_overview_text import description
 
 BEGIN = "<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->"
 END = "<!-- END SKILLS-OVERVIEW (auto-generated) -->"
@@ -35,65 +35,19 @@ def markdown_download_url(repo_path: str) -> str:
     return DOWNLOAD_BASE + quote(repo_path, safe="/")
 
 
-def clean_description(desc: str) -> str:
-    """Entfernt alte Generator-/Konsolidierungsfloskeln aus Tabellenbeschreibungen."""
-    desc = re.sub(
-        r"\s+[—-]\s*Arbeitskontext:\s*[^.]+,\s*Schwerpunkt\s+[^.]+\.?",
-        "",
-        desc,
-    )
-    desc = re.sub(r"\s+im Plugin\s+[^.:\"`|]+(?=[:.])", "", desc)
-    desc = re.sub(r"\s+im Plugin\s+[^\"`|]+$", "", desc)
-    desc = re.sub(r"\s{2,}", " ", desc)
-    return desc.strip()
-
-
-def read_description(skill_md: Path) -> str:
-    """Liest description aus YAML-Frontmatter einer SKILL.md."""
-    if not skill_md.is_file():
-        return ""
-    with skill_md.open("r", encoding="utf-8") as fh:
-        first = fh.readline()
-        if first.strip() != "---":
-            return ""
-        frontmatter_lines: list[str] = []
-        for idx, line in enumerate(fh, start=1):
-            if idx > 200:
-                return ""
-            if line.strip() == "---":
-                break
-            frontmatter_lines.append(line)
-        else:
-            return ""
-    fm = "".join(frontmatter_lines)
-    if not fm:
-        return ""
-    # description kann mehrzeilig (mit Anführungszeichen) oder einzeilig sein
-    desc = ""
-    for line in fm.splitlines():
-        if line.startswith("description:"):
-            desc = line.split(":", 1)[1].strip()
-            break
-    if not desc:
-        return ""
-    # Anführungszeichen entfernen
-    if desc.startswith('"') and desc.endswith('"'):
-        desc = desc[1:-1]
-    # Pipes für Tabelle escapen, Zeilenumbrüche in Spaces
-    desc = display_prose(clean_description(desc.replace("\n", " ").strip()))
-    desc = desc.replace("|", "\\|").strip()
-    # Lange Beschreibungen abkürzen
-    if len(desc) > 240:
-        desc = desc[:237].rstrip() + "..."
-    return desc
-
-
 def natural_key(text: str) -> list[object]:
     normalized = text.lower()
     if re.match(r"^lph\d", normalized):
         normalized = f"lphz-{normalized}"
     normalized = re.sub(r"(?<=[a-z])(?=\d)", "-", normalized)
     return [int(part) if part.isdigit() else part for part in re.split(r"(\d+)", normalized)]
+
+
+def inventory_sentences(count: int) -> tuple[str, str]:
+    if count == 1:
+        return "Dieses Plugin enthält einen Skill.", "This plugin contains one skill."
+    return (f"Automatisch generierte Komplett-Liste aller {count} Skills in diesem Plugin.",
+            f"Complete list of all {count} skills in this plugin.")
 
 
 def build_overview(plugin_dir: Path) -> str:
@@ -111,8 +65,7 @@ def build_overview(plugin_dir: Path) -> str:
     if not skills:
         return ""
 
-    inventory_de = "Dieses Plugin enthält einen Skill." if len(skills) == 1 else f"Automatisch generierte Komplett-Liste aller {len(skills)} Skills in diesem Plugin."
-    inventory_en = "This plugin contains one skill." if len(skills) == 1 else f"Complete list of all {len(skills)} skills in this plugin."
+    inventory_de, inventory_en = inventory_sentences(len(skills))
 
     lines = [
         BEGIN,
@@ -130,7 +83,7 @@ def build_overview(plugin_dir: Path) -> str:
     ]
     plugin_rel = plugin_dir.relative_to(REPO).as_posix()
     for s in skills:
-        desc = read_description(skills_dir / s / "SKILL.md")
+        desc = description(skills_dir / s / "SKILL.md", vergaberolle=plugin_dir.parent.name == "vergaberecht-werkstatt")
         download_url = markdown_download_url(f"{plugin_rel}/skills/{s}/SKILL.md")
         lines.append(
             f"| [`{s}`]({download_url}) | {desc} | "
@@ -141,26 +94,56 @@ def build_overview(plugin_dir: Path) -> str:
     return "\n".join(lines)
 
 
-def update_readme(readme: Path, overview: str) -> bool:
-    """Returns True if file was changed."""
-    if not overview:
-        return False
-    original = readme.read_text(encoding="utf-8") if readme.is_file() else ""
-    new = original
+SKILL_ROW = re.compile(
+    r"^(?P<first>\| \[[^\]\n]+\]\((?:[^)\n]+/)?skills/(?P<slug>[a-z0-9-]+)/SKILL\.md\) \| )"
+    r"(?P<description>.*?)(?P<last> \| \[.*?\|)$", re.MULTILINE
+)
 
-    if BEGIN in new and END in new:
-        # Ersetze bestehende Autogen-Blöcke und ziehe versehentliche
-        # Duplikate zu genau einem aktuellen Block zusammen.
-        start = new.find(BEGIN)
-        end = new.rfind(END) + len(END)
-        new = new[:start] + overview + new[end:]
+
+def updated_overview(original: str, overview: str) -> str:
+    if BEGIN not in original and END not in original:
+        return original.rstrip() + "\n\n" + overview + "\n"
+    if original.count(BEGIN) != 1 or original.count(END) != 1:
+        raise ValueError("Markierungsblock der Skillübersicht ist nicht eindeutig")
+    start = original.index(BEGIN)
+    end = original.index(END, start)
+    block = original[start:end]
+    desired = {row["slug"]: row for row in SKILL_ROW.finditer(overview)}
+    old_rows = list(SKILL_ROW.finditer(block))
+    existing = {row["slug"]: row for row in old_rows}
+    if not desired or not existing or len(existing) != len(old_rows):
+        raise ValueError("Skill-Tabelle fehlt oder enthält doppelte Zeilen")
+
+    def updated(row):
+        return row["first"] + desired[row["slug"]]["description"] + row["last"]
+
+    if desired.keys() == existing.keys():
+        block = SKILL_ROW.sub(updated, block)
     else:
-        # Anhängen am Ende, mit Trenner
-        sep = "" if new.endswith("\n\n") else ("\n" if new.endswith("\n") else "\n\n")
-        new = new + sep + "\n" + overview + "\n"
+        # Neue Skills erhalten die bestehende Tabellenform. Erläuterungen,
+        # aufklappbare Abschnitte und zusätzliche Dateitabellen bleiben erhalten.
+        first, last = old_rows[0], old_rows[-1]
+        if block[first.start():last.end()].count("\n") + 1 != len(existing):
+            raise ValueError("Skill-Zeilen sind nicht in einer zusammenhängenden Tabelle angeordnet")
+        rows = []
+        download_label = "Raw .md" if "| Skill | Beschreibung | Rohdatei |" in block else "MD herunterladen / Download MD"
+        for slug, row in desired.items():
+            if slug in existing:
+                rows.append(updated(existing[slug]))
+            else:
+                rows.append(row.group().replace("[MD herunterladen / Download MD]", f"[{download_label}]"))
+        block = block[:first.start()] + "\n".join(rows) + block[last.end():]
+        old_count, new_count = len(existing), len(desired)
+        for before, after in zip(inventory_sentences(old_count), inventory_sentences(new_count)):
+            block = block.replace(before, after)
+        block = block.replace(f"Katalog enthält {old_count} Skills", f"Katalog enthält {new_count} Skills")
+        block = block.replace(f"Alle {old_count} Skills mit Beschreibung", f"Alle {new_count} Skills mit Beschreibung")
+    return original[:start] + block + original[end:]
 
-    from readme_decimal_headings import normalize_decimal_headings
-    new = normalize_decimal_headings(new)
+
+def update_readme(readme: Path, overview: str) -> bool:
+    original = readme.read_text(encoding="utf-8")
+    new = updated_overview(original, overview)
     if new == original:
         return False
     readme.write_text(new, encoding="utf-8")

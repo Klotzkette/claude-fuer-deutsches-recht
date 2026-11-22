@@ -55,6 +55,8 @@ on:
       - 'notariat-alltag/**'
       - 'scripts/test-neuralis-gestaltungsakte.py'
       - 'scripts/build-werkstatt-partnerakten-release.py'
+      - 'scripts/build-grundakten-lebenswelt.py'
+      - 'scripts/data/grundakten-vertiefung/einzelausgaben.json'
       - 'testakten/neuralis-medtech-erlangen-gestaltungsakte/**'
       - 'docs/workshops/status-notariat/**'
       - 'scripts/test-notariatswerkstatt.py'

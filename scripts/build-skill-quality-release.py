@@ -22,10 +22,11 @@ import subprocess
 import tempfile
 import zipfile
 
+from package_edition import edition_routes, planned_links
 from package_readme import render_readme
 from prompt_profiles import PROMPT_SUFFIXES
 from release_asset_common import expected_asset_metadata, read_checksums, sha256_file, write_checksums
-from release_routing import check_asset_limit, scoped_asset_url, validate_plugin_version
+from release_routing import PAKETPFLEGE_TAG, check_asset_limit, scoped_asset_url, validate_plugin_version
 from release_rate_limits import require_download_budget
 from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 
@@ -77,10 +78,41 @@ def inventory(root: Path, names: list[str]) -> dict:
     return {"plugins": plugins, "assets": sum(len(p["variants"]) + len(p["prompts"]) for p in plugins) + 2}
 
 
+def paketpflege_scope(tag: str, root: Path) -> dict:
+    """Leitet eine Paketnachauflage aus den exakten ZIP-Routen am Quellcommit ab."""
+    match = PAKETPFLEGE_TAG.fullmatch(tag)
+    if not match:
+        raise ValueError(f"Ungültiger Tag für eine Paketnachauflage: {tag}")
+    routes = edition_routes(root, tag.rsplit("-v", 1)[0])
+    routed = {asset for asset, (_, release) in routes.items() if release == tag}
+    marketplace = json.loads((root / ".claude-plugin/marketplace.json").read_text())
+    entries = {entry["name"]: entry for entry in marketplace["plugins"]}
+    names = sorted(name for name in entries if name + ".zip" in routed)
+    plugins = inventory(root, names)["plugins"]
+    archived = set()
+    for item in plugins:
+        name = item["name"]
+        if entries[name]["version"] != match[1]:
+            raise ValueError(f"{name}: Versionsgruppe der Paketnachauflage stimmt nicht")
+        for variant in item["variants"]:
+            archived.add(name + ("-portable" if variant == "portable" else "") + ".zip")
+        directory = root / entries[name]["source"]
+        item["preserved_prompts"] = {prompt: sha256_file(directory / prompt) for prompt in item["prompts"]}
+        item["prompts"] = []
+    if not names or archived != routed:
+        raise ValueError(f"{tag}: Native und zugehörige portable Pakete müssen vollständig zusammengehören")
+    return {"schema_version": 1, "tag": tag, "version": match[1],
+            "title": f"Plugin-Anleitungen und Downloads · Paketversion {match[1]}", "plugins": plugins}
+
+
 def validate_scope(scope: dict, root: Path) -> dict[str, dict]:
     if scope.get("schema_version") != 1 or not re.fullmatch(r"\d+\.\d+\.\d+", str(scope.get("version", ""))):
         raise ValueError("Scope benötigt schema_version 1 und eine semantische Version")
-    if scope.get("tag") != f"qualitaetsrunde-v{scope['version']}":
+    edition = PAKETPFLEGE_TAG.fullmatch(str(scope.get("tag", "")))
+    if edition:
+        if scope != paketpflege_scope(scope["tag"], root):
+            raise ValueError("Paketnachauflage weicht von den registrierten Ausgaben oder Quellen ab")
+    elif scope.get("tag") != f"qualitaetsrunde-v{scope['version']}":
         raise ValueError("Komponententag passt nicht zur Qualitätsrunde")
     if not isinstance(scope.get("plugins"), list) or not scope["plugins"]:
         raise ValueError("Expliziter nichtleerer Plugin-Scope erforderlich")
@@ -97,7 +129,7 @@ def validate_scope(scope: dict, root: Path) -> dict[str, dict]:
             raise ValueError(f"{name}: nur native und ausdrücklich vorhandene portable Variante zulässig")
         for variant in variants:
             asset = name + ("-portable" if variant == "portable" else "") + ".zip"
-            if scoped_asset_url(asset, root=root) != f"https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/{scope['tag']}/{asset}":
+            if not edition and scoped_asset_url(asset, root=root) != f"https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/{scope['tag']}/{asset}":
                 raise ValueError(f"{asset}: exakte Komponentenroute fehlt")
             assets.add(asset)
         prompts = plugin.get("prompts")
@@ -289,16 +321,39 @@ def verify_reachability(files: dict[str, Path]) -> list[str]:
     return active
 
 
-def write_zip(target: Path, files: dict[str, Path], prefix: str = "", *, readme: bytes | None = None) -> None:
+def document_contents(root, directory, files, commit, routes):
+    """Render included READMEs from their own folders and pin the planned download buttons."""
+    contents = {}
+    for name, path in files.items():
+        if path.name == "README.md":
+            data = render_readme(root, directory, files, commit, name=name)
+        elif routes and path.suffix.lower() == ".html":
+            data = path.read_bytes()
+        else:
+            continue
+        if routes:
+            data = planned_links(data.decode("utf-8"), routes).encode("utf-8")
+        if data != path.read_bytes():
+            contents[name] = data
+    return contents
+
+
+def write_zip(target: Path, files: dict[str, Path], prefix: str = "", *, readme: bytes | None = None, documents=None) -> None:
+    rendered = dict(documents or {})
+    if readme is not None:
+        rendered["README.md"] = readme
     with zipfile.ZipFile(target, "x", compression=zipfile.ZIP_DEFLATED) as archive:
         for name, path in sorted(files.items()):
             item = zipfile.ZipInfo(prefix + name, STAMP)
             item.compress_type = zipfile.ZIP_DEFLATED
             item.external_attr = (stat.S_IFREG | stat.S_IMODE(path.stat().st_mode)) << 16
-            archive.writestr(item, readme if name == "README.md" and readme is not None else path.read_bytes())
+            archive.writestr(item, rendered[name] if name in rendered else path.read_bytes())
 
 
-def verify_zip(target: Path, files: dict[str, Path], prefix: str = "", *, readme: bytes | None = None) -> dict[str, str]:
+def verify_zip(target: Path, files: dict[str, Path], prefix: str = "", *, readme: bytes | None = None, documents=None) -> dict[str, str]:
+    rendered = dict(documents or {})
+    if readme is not None:
+        rendered["README.md"] = readme
     with zipfile.ZipFile(target) as archive:
         expected = {prefix + name: path for name, path in files.items()}
         names = archive.namelist()
@@ -307,7 +362,7 @@ def verify_zip(target: Path, files: dict[str, Path], prefix: str = "", *, readme
         hashes = {}
         for name, path in sorted(expected.items()):
             data = archive.read(name)
-            if data != (readme if name == prefix + "README.md" and readme is not None else path.read_bytes()):
+            if data != (rendered[name[len(prefix):]] if name[len(prefix):] in rendered else path.read_bytes()):
                 raise ValueError(f"{target.name}/{name}: Inhalt weicht vom Quellstand ab")
             hashes[name] = hashlib.sha256(data).hexdigest()
         return hashes
@@ -325,6 +380,7 @@ def checkout_state(root: Path, expected_commit: str | None = None) -> dict:
 
 def validate_assets(dist: Path, scope: dict, root: Path, *, expected_commit: str | None = None) -> dict:
     entries = validate_scope(scope, root)
+    routes = edition_routes(root, scope["tag"].rsplit("-v", 1)[0]) if PAKETPFLEGE_TAG.fullmatch(scope["tag"]) else {}
     expected = {REPORT, CHECKSUMS}
     for plugin in scope["plugins"]:
         expected.update(plugin["prompts"])
@@ -352,17 +408,17 @@ def validate_assets(dist: Path, scope: dict, root: Path, *, expected_commit: str
         files = source_files(root, directory)
         manifests = check_manifests(files, name, scope["version"])
         active = verify_reachability(files)
-        readme = render_readme(root, directory, files, commit)
+        documents = document_contents(root, directory, files, commit, routes)
         evidence = report["plugins"][name]
         if evidence["skills"] != active or evidence["manifests"] != manifests:
             raise ValueError(f"{name}: Skill-/Manifestnachweis stimmt nicht")
         for variant in plugin["variants"]:
             filename = name + ("-portable" if variant == "portable" else "") + ".zip"
-            hashes = verify_zip(dist / filename, files, name + "/" if variant == "portable" else "", readme=readme)
+            hashes = verify_zip(dist / filename, files, name + "/" if variant == "portable" else "", documents=documents)
             if evidence["archives"][filename] != hashes:
                 raise ValueError(f"{filename}: Quellhashinventar stimmt nicht")
         CHECKS.validate_plugin_zip(dist, name, scope["version"])
-        CHECKS.validate_skill_sources(dist / f"{name}.zip", directory)
+        CHECKS.validate_skill_sources(dist / f"{name}.zip", directory, rendered_readmes=documents)
         CHECKS.validate_focus_skill(dist / f"{name}.zip", directory, root / "quality/evals" / f"{name}.json")
         for filename in plugin["prompts"]:
             if (dist / filename).read_bytes() != (directory / filename).read_bytes():
@@ -383,6 +439,7 @@ def build(dist: Path, scope: dict, root: Path = ROOT, *, expected_commit: str | 
     if dist.is_relative_to(root):
         raise ValueError("Buildziel muss außerhalb des Quellrepositories liegen")
     entries = validate_scope(scope, root)
+    routes = edition_routes(root, scope["tag"].rsplit("-v", 1)[0]) if PAKETPFLEGE_TAG.fullmatch(scope["tag"]) else {}
     state = checkout_state(root, expected_commit)
     dist.mkdir(parents=True, exist_ok=True)
     if any(dist.iterdir()):
@@ -397,13 +454,13 @@ def build(dist: Path, scope: dict, root: Path = ROOT, *, expected_commit: str | 
         files = source_files(root, directory)
         manifests = check_manifests(files, name, scope["version"])
         active = verify_reachability(files)
-        readme = render_readme(root, directory, files, state["commit"])
+        documents = document_contents(root, directory, files, state["commit"], routes)
         evidence = {"source": entries[name]["source"], "skills": active, "manifests": manifests, "archives": {}}
         for variant in plugin["variants"]:
             filename = name + ("-portable" if variant == "portable" else "") + ".zip"
             prefix = name + "/" if variant == "portable" else ""
-            write_zip(dist / filename, files, prefix, readme=readme)
-            evidence["archives"][filename] = verify_zip(dist / filename, files, prefix, readme=readme)
+            write_zip(dist / filename, files, prefix, documents=documents)
+            evidence["archives"][filename] = verify_zip(dist / filename, files, prefix, documents=documents)
         report["plugins"][name] = evidence
         for filename in plugin["prompts"]:
             source = directory / filename

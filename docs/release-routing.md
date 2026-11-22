@@ -1,5 +1,7 @@
 # Release-Routing für zentrale Testakten
 
+Die [Paketpflege vom 22. November 2026](releases/paketpflege-20261122.md) aktualisiert Anleitungen und Vorschau-Downloads in den betroffenen Einzel-ZIPs. Die vier Releases gruppieren native und portable Ausgaben nach ihrer deklarierten Plugin-Version. Der Build setzt die vorgesehenen Downloadziele in den Archiv-Anleitungen und HTML-Vorschauen ein. Die öffentlichen Verzeichnisse führen während der Bereitstellung weiter zu den Vorgängerausgaben. Nach der Veröffentlichung gleicht `python scripts/paketpflege.py --activate --expected-commit <Quellcommit>` die vier Tags, Bestandsnachweise und GitHub-Prüfsummen ab und aktualisiert die aktiven Verweise für den Folge-PR.
+
 ## 1. Aufteilung
 
 GitHub erlaubt [höchstens 1.000 Assets pro Release](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases).

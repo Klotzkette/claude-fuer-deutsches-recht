@@ -14,7 +14,7 @@ import re
 from pathlib import Path
 from release_routing import rewrite_case_asset_urls, validate_plugin_version, validate_version
 
-from readme_display import display_plugin_description
+from readme_display import catalog_description
 from testakte_zip_common import working_dump_flat_pairs
 
 
@@ -32,22 +32,6 @@ SKIP_TESTAKTEN = {"formatvorlagen-paradebeispiele", "megaprompts"}
 def source_rel(plugin: dict) -> str:
     source = plugin.get("source") or f"./{plugin['name']}"
     return source.removeprefix("./")
-
-
-def display_description(plugin: dict) -> str:
-    readme = REPO / source_rel(plugin) / "README.md"
-    if readme.is_file():
-        text = readme.read_text(encoding="utf-8", errors="ignore")
-        match = re.search(
-            r"<!-- BEGIN direkt-loslegen \(autogen\) -->[\s\S]*?"
-            r"## Was ist das hier\?\n\n(.+?)\n\n",
-            text,
-        )
-        if match:
-            return display_plugin_description(re.sub(r"\s+", " ", match.group(1)).strip(), readme.parent)
-    return display_plugin_description(
-        re.sub(r"\s+", " ", str(plugin.get("description", ""))).strip(), readme.parent
-    )
 
 
 def group_label(name: str) -> str:
@@ -150,7 +134,7 @@ def build_catalog(plugins: list[dict]) -> str:
         )
         for plugin in groups[label]:
             name = plugin["name"]
-            description = display_description(plugin).replace("|", "\\|")
+            description = catalog_description(plugin, REPO / source_rel(plugin))
             lines.append(f"| [`{name}`](./{source_rel(plugin)}) | {description} |")
         lines.extend(["", "</details>", ""])
     lines.append(END)
@@ -206,7 +190,7 @@ def build_subject_index(plugins: list[dict], version: str) -> str:
     for plugin in sorted(plugins, key=lambda p: p["name"]):
         source = source_rel(plugin)
         count = sum(1 for _ in (REPO / source / "skills").glob("*/SKILL.md"))
-        description = display_description(plugin).replace("|", "\\|")
+        description = catalog_description(plugin, REPO / source_rel(plugin))
         lines.append(f"| [`{plugin['name']}`](../{source}/) | {description} | `{plugin['version']}` | {count} |")
     return "\n".join(lines) + "\n"
 

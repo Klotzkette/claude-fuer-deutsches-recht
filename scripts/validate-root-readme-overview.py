@@ -8,6 +8,7 @@ import re
 from pathlib import Path
 
 from prompt_profiles import enabled
+from readme_display import catalog_description
 from werkstatt_visualisierung import load_profiles as load_workflow_profiles
 
 from testakte_zip_common import working_dump_flat_pairs
@@ -124,8 +125,14 @@ def check_sorted_inventories(marketplace: dict) -> list[str]:
         errors.append("README Plugin-Katalog: Generator-Markierungen fehlen")
     else:
         catalog = root_readme.split(CATALOG_BEGIN, 1)[1].split(CATALOG_END, 1)[0]
-        root_names = re.findall(r"^\| \[`([^`]+)`\]\(\./[^)]+\) \|", catalog, re.MULTILINE)
-        errors += sequence_error("README Plugin-Katalog", root_names, expected_names)
+        root_rows = re.findall(r"^\| \[`([^`]+)`\]\(\./([^)]*)\) \| (.*) \|$", catalog, re.MULTILINE)
+        errors += sequence_error("README Plugin-Katalog", [name for name, _, _ in root_rows], expected_names)
+        by_name = {plugin["name"]: plugin for plugin in plugins}
+        for name, source, description in root_rows:
+            if name in by_name:
+                directory = plugin_source(by_name[name])
+                if source != directory.relative_to(REPO).as_posix() or description != catalog_description(by_name[name], directory):
+                    errors.append(f"README Plugin-Katalog: Pfad oder Beschreibung für {name} veraltet")
 
     skills = (REPO / "SKILLS.md").read_text(encoding="utf-8")
     skills_names = re.findall(r"^\| \*\*([^*]+)\*\* \| \d+ \|", skills, re.MULTILINE)
@@ -214,18 +221,18 @@ def check_subject_index(marketplace: dict) -> list[str]:
         directory = plugin_source(plugin)
         count = sum(1 for _ in (directory / "skills").glob("*/SKILL.md"))
         source = directory.relative_to(REPO).as_posix()
-        expected_rows.append((plugin["name"], source, plugin["version"], count))
+        expected_rows.append((plugin["name"], source, catalog_description(plugin, directory), plugin["version"], count))
     actual_rows = [
-        (name, source, version, int(count))
-        for name, source, version, count in re.findall(
-            r"^\| \[`([^`]+)`\]\(\.\./([^)]*)/\) \| .* \| `([^`]+)` \| (\d+) \|$",
+        (name, source, description, version, int(count))
+        for name, source, description, version, count in re.findall(
+            r"^\| \[`([^`]+)`\]\(\.\./([^)]*)/\) \| (.*) \| `([^`]+)` \| (\d+) \|$",
             text, re.MULTILINE,
         )
     ]
     errors = []
     if actual_rows != expected_rows:
-        errors.append("Rechtsgebiete-Übersicht: Einträge, Pfade, Sortierung, Versionen oder Skillzahlen veraltet")
-    summary = f"Stand v{marketplace['version']}: {len(plugins)} Plugins, {sum(row[3] for row in expected_rows)} Skills."
+        errors.append("Rechtsgebiete-Übersicht: Einträge, Pfade, Beschreibungen, Sortierung, Versionen oder Skillzahlen veraltet")
+    summary = f"Stand v{marketplace['version']}: {len(plugins)} Plugins, {sum(row[-1] for row in expected_rows)} Skills."
     if summary not in text:
         errors.append("Rechtsgebiete-Übersicht: Bestandsangabe veraltet")
     return errors

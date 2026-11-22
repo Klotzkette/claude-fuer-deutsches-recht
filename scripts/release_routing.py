@@ -7,6 +7,7 @@ import json
 import re
 from pathlib import Path
 
+PAKETPFLEGE_TAG = re.compile(r"paketpflege-(?:[0-9]{8})-v([0-9]+\.[0-9]+\.[0-9]+)\Z")
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = Path(__file__).with_name("release-routes.json")
 REPOSITORY = "Klotzkette/claude-fuer-deutsches-recht"

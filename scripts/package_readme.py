@@ -1,7 +1,8 @@
-"""Render the root README against the contents of an installable plugin package."""
+"""Render README navigation against the contents of an installable plugin package."""
 from __future__ import annotations
 
 import argparse
+import os
 from pathlib import Path, PurePosixPath
 import re
 import subprocess
@@ -20,12 +21,15 @@ TOKENS = re.compile(
 )
 
 
-def render_readme(root: Path, directory: Path, members, commit: str | None) -> bytes | None:
+def render_readme(root: Path, directory: Path, members, commit: str | None, *, name: str = "README.md") -> bytes | None:
     """Use local links for shipped files or directories, commit links for omitted targets."""
     names = {name.rstrip("/") for name in members}
-    if "README.md" not in names:
+    if name not in names:
         return None
     root, directory = root.resolve(), directory.resolve()
+    readme = (directory / name).resolve()
+    if readme.name != "README.md" or not readme.is_relative_to(directory):
+        raise ValueError(f"Ungültiger README-Pfad: {name}")
     directories = {parent.as_posix() for name in names for parent in PurePosixPath(name).parents}
 
     def replace(match):
@@ -41,14 +45,14 @@ def render_readme(root: Path, directory: Path, members, commit: str | None) -> b
         path = unquote(parts.path)
         if path.startswith("/") or "\\" in path:
             raise ValueError(f"Ungültiges README-Ziel in {directory.name}: {dest}")
-        target = ((root if main else directory) / path).resolve()
+        target = ((root if main else readme.parent) / path).resolve()
         if not target.is_relative_to(root):
             raise ValueError(f"README-Ziel außerhalb des Repositorys: {dest}")
         local = target.relative_to(directory).as_posix() if target.is_relative_to(directory) else None
         if local in names or local in directories:
             if not main and ".." not in path.split("/"):
                 return match[0]
-            new_path = quote(local, safe="/")
+            new_path = quote(Path(os.path.relpath(target, readme.parent)).as_posix(), safe="/")
         else:
             if not target.exists():
                 raise ValueError(f"README-Ziel im Repository fehlt: {dest}")
@@ -62,7 +66,7 @@ def render_readme(root: Path, directory: Path, members, commit: str | None) -> b
         new = urlunsplit(("", "", new_path, parts.query, parts.fragment))
         return match["start"] + (f"<{new}>" if angle else new)
 
-    return TOKENS.sub(replace, (directory / "README.md").read_bytes().decode("utf-8")).encode("utf-8")
+    return TOKENS.sub(replace, readme.read_bytes().decode("utf-8")).encode("utf-8")
 
 
 def add_to_archive(archive_path: Path, root: Path, directory: Path, commit: str):

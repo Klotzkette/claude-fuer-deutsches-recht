@@ -17,7 +17,7 @@ Die Quellenkarte trennt gelesene Volltexte, amtliche Leitsätze, amtliche Zusamm
 | YAML-Frontmatter | Bestanden: keine Fehler oder Warnungen |
 | Hauptverzeichnis und Bestandszahlen | Bestanden |
 | `scripts/test-agb-werkstatt.py` | Zehn Regressionstests bestanden |
-| Kompaktprompts | Schnellstart und Hauptproblem jeweils höchstens 7500 Zeichen und Bytes |
+| Dateigröße der Kompaktprompts | Schnellstart und Hauptproblem hielten beide Dateigrenzen ein (je 7.500 Zeichen und 7.500 UTF-8-Bytes). |
 | Installationspakete | Elf Skills, konsistente Manifeste, keine automatisch installierten Standalone-Prompts oder Akten |
 | Paketwiederholung | Pluginarchive bei Wiederholung bytegleich |
 | Originalunterlagen | 36 Dateien; neun DOCX, neun PDF, neun EML und neun CSV-/Textdateien |
