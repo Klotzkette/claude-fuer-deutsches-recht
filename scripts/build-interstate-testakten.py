@@ -7,12 +7,15 @@ import json
 import math
 import re
 from datetime import date, datetime, time
+from decimal import Decimal, ROUND_HALF_UP
 from email.headerregistry import Address
 from email.message import EmailMessage
 from email.policy import SMTP
 from pathlib import Path
 from urllib.parse import quote
+from xml.dom.minidom import parseString
 from xml.sax.saxutils import escape
+from zipfile import ZipFile
 from zoneinfo import ZoneInfo
 
 from docx import Document
@@ -20,6 +23,7 @@ from docx.shared import Cm, Pt, RGBColor
 from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
+from openpyxl.worksheet.datavalidation import DataValidation
 from pypdf import PdfReader, PdfWriter
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4, landscape
@@ -27,7 +31,7 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
 
 from akteneingang.ausgabe import archive
-from akteneingang.dokumente import office_bytes, sha, simple
+from akteneingang.dokumente import add_member, office_bytes, sha, simple
 from akteneingang.quellen import safe_member
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME, NOTICE_MARKDOWN
 
@@ -63,6 +67,140 @@ def widths(rows):
     # Long descriptions need more space than dates or reference numbers.
     count = len(rows[0])
     return [max(12, min(55, max(len(str(r[c])) for r in rows) + 2)) for c in range(count)]
+
+
+def german_number(value, minimum_decimals):
+    number = Decimal(str(value)).normalize()
+    precision = max(minimum_decimals, -number.as_tuple().exponent)
+    return f"{number:,.{precision}f}".translate(str.maketrans(",.", ".,"))
+
+
+class BillOfQuantities:
+    """Positionspreise für die ausfüllbare Arbeitsmappe und deren Lesefassung."""
+
+    def __init__(self, doc):
+        self.rows = doc["tabelle"]
+        header = self.rows[0]
+        columns = [doc["lv"][key] for key in ("menge", "einheitspreis", "gesamtpreis")]
+        if len(set(columns)) != 3 or any(header.count(label) != 1 for label in columns):
+            raise ValueError(f'{doc["datei"]}: LV-Spalten sind nicht eindeutig')
+        self.quantity, self.price, self.amount = map(header.index, columns)
+        self.lot = None
+        if "losspalte" in doc["lv"]:
+            lot_header = doc["lv"]["losspalte"]
+            if header.count(lot_header) != 1 or lot_header in columns:
+                raise ValueError(f'{doc["datei"]}: Losspalte ist nicht eindeutig')
+            self.lot = header.index(lot_header)
+        label_columns = [c for c in range(len(header)) if c not in (self.quantity, self.price, self.amount, self.lot)]
+        lengths = widths(self.rows)
+        self.label = max(label_columns, key=lengths.__getitem__, default=self.quantity)
+        self.amounts = []
+        lot_amounts = {}
+        for position, row in enumerate(self.rows[1:], 1):
+            quantity, price = row[self.quantity], row[self.price]
+            if type(quantity) not in (int, float) or not math.isfinite(quantity) or quantity <= 0:
+                raise ValueError(f'{doc["datei"]}: ungültige Menge in Position {position}')
+            if price is not None and (type(price) not in (int, float) or not math.isfinite(price) or price < 0):
+                raise ValueError(f'{doc["datei"]}: ungültiger Einheitspreis in Position {position}')
+            if row[self.amount] is not None:
+                raise ValueError(f'{doc["datei"]}: Gesamtpreis in Position {position} wird berechnet')
+            amount = None
+            if price is not None:
+                amount = (Decimal(str(quantity)) * Decimal(str(price))).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
+            self.amounts.append(amount)
+            if self.lot is not None:
+                lot = row[self.lot]
+                if not isinstance(lot, str) or not lot.strip():
+                    raise ValueError(f'{doc["datei"]}: fehlende Loskennung in Position {position}')
+                lot_amounts.setdefault(lot, []).append(amount)
+        groups = {None: self.amounts, **lot_amounts}
+        self.totals = {lot: sum(amounts, Decimal(0)) if None not in amounts else None
+                       for lot, amounts in groups.items()}
+
+    def total_label(self, lot):
+        if lot is None:
+            return "Summe netto (alle Positionen)" if self.lot is not None else "Summe netto"
+        return f"Summe Los {lot} netto"
+
+    def print_rows(self):
+        result = [self.rows[0]]
+        for source, amount in zip(self.rows[1:], self.amounts, strict=True):
+            row = source.copy()
+            row[self.quantity] = german_number(row[self.quantity], 0)
+            row[self.price] = "" if row[self.price] is None else german_number(row[self.price], 2)
+            row[self.amount] = "" if amount is None else german_number(amount, 2)
+            result.append(row)
+        for lot, value in self.totals.items():
+            total = [""] * len(result[0])
+            total[self.label] = self.total_label(lot)
+            total[self.amount] = "" if value is None else german_number(value, 2)
+            if lot is not None:
+                total[self.lot] = lot
+            result.append(total)
+        return result
+
+    def add_formulas(self, sheet, heading):
+        first, last = heading + 1, heading + len(self.amounts)
+        price_inputs = DataValidation(type="decimal", operator="greaterThanOrEqual", formula1="0", allow_blank=True)
+        price_inputs.showErrorMessage = True
+        price_inputs.error = "Geben Sie einen nichtnegativen Einheitspreis als Zahl ein."
+        sheet.add_data_validation(price_inputs)
+        price_column = get_column_letter(self.price + 1)
+        price_inputs.add(f"{price_column}{first}:{price_column}{last}")
+        cache = {}
+        for row, amount in enumerate(self.amounts, first):
+            quantity = sheet.cell(row, self.quantity + 1).coordinate
+            price = sheet.cell(row, self.price + 1)
+            price.number_format = '#,##0.00##'
+            price.fill = PatternFill("solid", fgColor="DAEFF8")
+            line_total = sheet.cell(row, self.amount + 1)
+            line_total.value = f'=IF(COUNT({quantity},{price.coordinate})=2,ROUND({quantity}*{price.coordinate},2),"")'
+            line_total.number_format = '#,##0.00'
+            cache[line_total.coordinate] = amount
+        amount_column = get_column_letter(self.amount + 1)
+        positions = f"${amount_column}${first}:${amount_column}${last}"
+        for row, (lot, value) in enumerate(self.totals.items(), last + 1):
+            sheet.cell(row, self.label + 1, self.total_label(lot))
+            total = sheet.cell(row, self.amount + 1)
+            if lot is None:
+                total.value = f'=IF(COUNT({positions})=ROWS({positions}),SUM({positions}),"")'
+            else:
+                key = sheet.cell(row, self.lot + 1, lot).coordinate
+                column = get_column_letter(self.lot + 1)
+                matching = f'--(${column}${first}:${column}${last}={key})'
+                count = f"SUMPRODUCT({matching})"
+                priced = f"SUMPRODUCT({matching},--ISNUMBER({positions}))"
+                subtotal = f"SUMPRODUCT({matching},{positions})"
+                total.value = f'=IF(AND({count}>0,{priced}={count}),{subtotal},"")'
+            total.number_format = '#,##0.00'
+            cache[total.coordinate] = value
+            for cell in sheet[row]:
+                cell.font = Font(name="Calibri", size=10, bold=True, color="FFFFFF" if lot is None else ACCENT)
+                cell.fill = PatternFill("solid", fgColor=ACCENT if lot is None else "E1EAEC")
+            sheet.row_dimensions[row].height = 24
+        return cache
+
+
+def cached_workbook(book, cache):
+    # openpyxl writes the formulas. Also supply their current result for PDF
+    # importers, previews and spreadsheets opened with data_only=True.
+    out = io.BytesIO()
+    with ZipFile(io.BytesIO(office_bytes(book))) as source, ZipFile(out, "w") as target:
+        for name in source.namelist():
+            data = source.read(name)
+            if name == "xl/worksheets/sheet1.xml":
+                with parseString(data) as xml:
+                    for cell in xml.getElementsByTagName("c"):
+                        coord = cell.getAttribute("r")
+                        if coord in cache:
+                            value = cache[coord]
+                            if value is None:
+                                cell.setAttribute("t", "str")
+                            else:
+                                cell.getElementsByTagName("v")[0].appendChild(xml.createTextNode(str(value)))
+                    data = xml.toxml(encoding="utf-8")
+            add_member(target, name, data)
+    return out.getvalue()
 
 
 def word(doc, case):
@@ -102,7 +240,7 @@ def word(doc, case):
     return office_bytes(book)
 
 
-def worksheet(doc, case):
+def worksheet(doc, case, lv):
     table = doc["tabelle"]
     spec = widths(table)
     book = Workbook()
@@ -129,21 +267,22 @@ def worksheet(doc, case):
         sheet.row_dimensions[ri].height = max(24, 7 + 15 * max(math.ceil(len(str(v)) / (w * .8)) for v, w in zip(row, spec)))
     sheet.freeze_panes = f"A{heading + 1}"
     sheet.auto_filter.ref = f"A{heading}:{get_column_letter(len(spec))}{sheet.max_row}"
+    cache = lv.add_formulas(sheet, heading) if lv else None
     sheet.print_title_rows = f"{heading}:{heading}"
     sheet.sheet_properties.pageSetUpPr.fitToPage = True
     sheet.page_setup.fitToWidth, sheet.page_setup.fitToHeight = 1, 0
     sheet.page_setup.paperSize = sheet.PAPERSIZE_A4
     sheet.page_setup.orientation = "landscape" if len(spec) >= 4 else "portrait"
     sheet.print_area = sheet.dimensions
-    return office_bytes(book)
+    return cached_workbook(book, cache) if lv else office_bytes(book)
 
 
-def native(doc, case, name):
+def native(doc, case, name, lv):
     ext = Path(name).suffix
     if ext == ".docx":
         return word(doc, case)
     if ext == ".xlsx":
-        return worksheet(doc, case)
+        return worksheet(doc, case, lv)
     if ext == ".csv":
         data = io.StringIO(newline="")
         writer = csv.writer(data, delimiter=";", lineterminator="\r\n")
@@ -177,12 +316,13 @@ def paragraph(text, font="Times-Roman", size=11, leading=14.5, color="24333B", a
     return Paragraph(escape(str(text)).replace("\n", "<br/>"), style)
 
 
-def reading(doc, case, name):
-    rows = doc.get("tabelle", [])
+def reading(doc, case, name, lv):
+    rows = lv.print_rows() if lv else doc.get("tabelle", [])
     page_size = landscape(A4) if rows and len(rows[0]) >= 4 else A4
     out = io.BytesIO()
     pdf = SimpleDocTemplate(out, pagesize=page_size, leftMargin=48, rightMargin=48,
-                            topMargin=56, bottomMargin=47, invariant=1, title=doc["titel"], author=doc["von"])
+                            topMargin=46 if lv else 56, bottomMargin=40 if lv else 47,
+                            invariant=1, title=doc["titel"], author=doc["von"])
     kinds = {".docx": "Schriftstück", ".xlsx": "Tabellenblatt", ".csv": "Datenexport", ".eml": "E-Mail", ".txt": "Textauszug"}
     kind = kinds[Path(name).suffix]
 
@@ -215,10 +355,16 @@ def reading(doc, case, name):
             heading = paragraph(text, "Times-Bold", 11, 14.5, ACCENT, 3)
             heading.keepWithNext = True
             story.append(heading)
+        elif lv:
+            story.append(paragraph(text, size=10.5, leading=13.5, after=5))
         else:
             story.append(paragraph(text))
     if rows:
-        weights = widths(rows)
+        if lv:
+            # Leave space for service descriptions; item/lot codes need only a few characters.
+            weights = [max(7, min(75, max(len(str(row[i])) for row in rows) + 2)) for i in range(len(rows[0]))]
+        else:
+            weights = widths(rows)
         available = pdf.width - 12
         grid = Table([[paragraph(v, "Helvetica-Bold" if i == 0 else "Helvetica", 9, 11.5,
                                  "FFFFFF" if i == 0 else "24333B", 0) for v in row]
@@ -230,6 +376,15 @@ def reading(doc, case, name):
             ("VALIGN",(0,0),(-1,-1),"TOP"),
             ("TOPPADDING",(0,0),(-1,-1),6), ("BOTTOMPADDING",(0,0),(-1,-1),6),
         ]))
+        if lv:
+            first_total = len(lv.rows)
+            grid.setStyle(TableStyle([
+                ("TOPPADDING", (0, 0), (-1, -1), 4),
+                ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
+                ("LINEABOVE", (0, first_total), (-1, first_total), 0.8, colors.HexColor("#" + ACCENT)),
+                ("BACKGROUND", (0, first_total), (-1, -1), colors.HexColor("#E1EAEC")),
+                ("NOSPLIT", (0, -2), (-1, -1)),
+            ]))
         story.extend([Spacer(1, 3), grid])
     pdf.build(story, onFirstPage=furniture, onLaterPages=furniture)
     return out.getvalue()
@@ -267,8 +422,13 @@ def make_case(case, slug):
                 raise ValueError(f"{rel}: uneinheitliche Spaltenzahl")
             if Path(name).suffix in (".csv", ".xlsx") and len(rows) < 2:
                 raise ValueError(f"{rel}: Tabelle ohne Datenzeilen")
-            originals[rel] = native(doc, case, rel)
-            singles[single] = reading(doc, case, rel)
+            lv = None
+            if "lv" in doc:
+                if Path(name).suffix != ".xlsx":
+                    raise ValueError(f"{rel}: LV-Preisspalten erfordern eine XLSX-Arbeitsmappe")
+                lv = BillOfQuantities(doc)
+            originals[rel] = native(doc, case, rel, lv)
+            singles[single] = reading(doc, case, rel, lv)
             page = len(combined.pages)
             combined.append(PdfReader(io.BytesIO(singles[single])), import_outline=False)
             if parent is None:

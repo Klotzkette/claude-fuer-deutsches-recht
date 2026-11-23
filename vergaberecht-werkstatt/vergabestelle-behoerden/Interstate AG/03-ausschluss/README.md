@@ -6,7 +6,7 @@ Auf dem Angebotsblatt steht „96 Stunden eingehalten“. Das beigelegte Datenbl
 
 ## Arbeitsauftrag
 
-Prüfen Sie für die Vergabeleitung den ungezeichneten Ausschlussvermerk des Messnetzbetriebs vom 9. September. Kommentieren Sie seine tatsächlichen und rechtlichen Annahmen anhand der Originalunterlagen. Arbeiten Sie nötige Korrekturen in denselben Vermerk ein und geben Sie zum Stichtag eine begründete Empfehlung ab. Behandeln Sie den Umsatznachweis, die technische Aufklärung und die Rangfolge getrennt. Legen Sie die nächste Bieterkorrespondenz, den möglichen Entscheidungstermin und den für eine andere Beurteilung entscheidenden Beleg bei.
+Prüfen Sie für die Vergabeleitung den ungezeichneten Ausschlussvermerk des Messnetzbetriebs vom 9. September. Gleichen Sie das ausgegebene Bieter-LV mit dem eingereichten Preisblatt W-668 und Formblatt T ab. Belegen die Preise eine bestimmte Akkubestückung? Arbeiten Sie nötige Korrekturen in denselben Vermerk ein und geben Sie zum Stichtag eine begründete Empfehlung ab. Behandeln Sie den Umsatznachweis, die technische Aufklärung und die Rangfolge getrennt. Legen Sie die nächste Bieterkorrespondenz, den möglichen Entscheidungstermin und den für eine andere Beurteilung entscheidenden Beleg bei.
 
 ## Downloads
 
@@ -26,8 +26,10 @@ Beginnen Sie mit diesen Unterlagen.
 | --- | --- | --- |
 | 28.07.2026 | [Beschaffungsfreigabe für das Messnetz Kiebitzrinne](Grundakte/01_beschaffungsfreigabe.docx) | DOCX |
 | 11.08.2026 | [Leistungsverzeichnis und Angebotsbedingungen · bereitgestellte Fassung 2](Grundakte/02_leistungsverzeichnis.docx) | DOCX |
+| 11.08.2026 | [Bieter-LV Kiebitzrinne · Preisblatt zur Fassung 2](Grundakte/02a_bieter_lv_messstationen.xlsx) | XLSX |
 | 24.08.2026 | [Bieterinformation 04 an alle registrierten Unternehmen](Grundakte/03_bieterinformation.eml) | EML |
 | 07.09.2026 | [Angebot W-668 · Auszug aus Preisblatt, Formblatt T und Begleitschreiben](Grundakte/04_angebot_flutzeichen.docx) | DOCX |
+| 07.09.2026 | [Angebot W-668 · eingereichtes Bieter-LV](Grundakte/04a_preisblatt_w668.xlsx) | XLSX |
 | 07.09.2026 | [Öffnung am 7. September 2026 · Preisblatt und Anlagenliste](Grundakte/05_oeffnungsprotokoll.xlsx) | XLSX |
 | 08.09.2026 | [Vergabeplattform · Nachforderung der Eigenerklärung E3](Grundakte/06_nachforderung_e3.eml) | EML |
 | 09.09.2026 | [Vergabeplattform · Bestellkennzeichen im fristgerechten Angebot](Grundakte/07_technische_rueckfrage.eml) | EML |

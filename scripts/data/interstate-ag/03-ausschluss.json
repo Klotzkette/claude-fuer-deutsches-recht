@@ -2,7 +2,7 @@
   "titel": "Das Kreuz bei 96 Stunden",
   "zeichen": "DI-W/26-031",
   "einstieg": "Auf dem Angebotsblatt steht „96 Stunden eingehalten“. Das beigelegte Datenblatt verspricht für die Grundausführung 72 Stunden. Nach einem Unwetter muss das Messnetz Kiebitzrinne vier Tage ohne Zugang zu den Stationen auskommen. Der günstigste Bieter liegt 15.600 Euro vor dem nächsten. Am 9. September liegt der Vorgang erstmals beim Rechtsdienst.",
-  "auftrag": "Prüfen Sie für die Vergabeleitung den ungezeichneten Ausschlussvermerk des Messnetzbetriebs vom 9. September. Kommentieren Sie seine tatsächlichen und rechtlichen Annahmen anhand der Originalunterlagen. Arbeiten Sie nötige Korrekturen in denselben Vermerk ein und geben Sie zum Stichtag eine begründete Empfehlung ab. Behandeln Sie den Umsatznachweis, die technische Aufklärung und die Rangfolge getrennt. Legen Sie die nächste Bieterkorrespondenz, den möglichen Entscheidungstermin und den für eine andere Beurteilung entscheidenden Beleg bei.",
+  "auftrag": "Prüfen Sie für die Vergabeleitung den ungezeichneten Ausschlussvermerk des Messnetzbetriebs vom 9. September. Gleichen Sie das ausgegebene Bieter-LV mit dem eingereichten Preisblatt W-668 und Formblatt T ab. Belegen die Preise eine bestimmte Akkubestückung? Arbeiten Sie nötige Korrekturen in denselben Vermerk ein und geben Sie zum Stichtag eine begründete Empfehlung ab. Behandeln Sie den Umsatznachweis, die technische Aufklärung und die Rangfolge getrennt. Legen Sie die nächste Bieterkorrespondenz, den möglichen Entscheidungstermin und den für eine andere Beurteilung entscheidenden Beleg bei.",
   "nachreichung": "Öffnen Sie danach die drei Eingänge vom 10. und 11. September. Führen Sie denselben Vermerk fort. Ordnen Sie die belegte frühere Produktkonfiguration, die nachträglich angebotene Zusatzbatterie und die inzwischen eingegangene Beanstandung jeweils dem zutreffenden Verfahrensschritt zu. Arbeiten Sie die Konsequenzen für alle Bieter und die weitere Kommunikation aus.",
   "quellen": [
     [
@@ -67,6 +67,89 @@
     },
     {
       "phase": "Grundakte",
+      "datei": "02a_bieter_lv_messstationen.xlsx",
+      "titel": "Bieter-LV Kiebitzrinne · Preisblatt zur Fassung 2",
+      "datum": "2026-08-11",
+      "von": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "an": "Bieterkreis · Vergabeplattform Kiebitzrinne",
+      "text": [
+        "Tragen Sie je Position den Netto-Einheitspreis ein. Das Preisblatt multipliziert ihn mit der ausgeschriebenen Menge und summiert die Positionsbeträge. Die Summe der Beträge umfasst die vollständige Lieferung von 24 baugleichen, vormontierten Stationen an den Werkhof West. Montage an den vorhandenen Pfosten und Datenkartenaktivierung übernimmt die AG.",
+        "Pos. 2.4 umfasst die vollständige, im Gerät montierte Energieversorgung, mit der die fertige Station die Laufzeitvorgabe erfüllen soll. Kalkulieren Sie dafür einen Preis pro betriebsfertiger Station. Anzahl und Preis einzelner Akku-Einschübe sind im Preisblatt nicht separat abzufragen. Übertragen Sie in die letzte Spalte den Bestellschlüssel der fertigen Station und die Bestätigung aus Formblatt T, Zeile 7. Das Serienblatt der Baureihe ist gesondert beizufügen.",
+        "Der Gesamtpreis ergibt sich aus den Positionsbeträgen für die 24 Sätze. Übernehmen Sie Gesamtpreis und Preis pro vollständigem Stationssatz in das Angebotsschreiben. Heranzuziehen sind alle sechs Positionen. Ladegerät und Transportbehälter gehören in der angegebenen Stückzahl zur Lieferung. Formblatt E3 ist eine gesonderte Anlage."
+      ],
+      "tabelle": [
+        [
+          "Pos.",
+          "Lieferumfang / Abnahmemerkmal",
+          "Menge",
+          "Einheit",
+          "EP netto EUR",
+          "Betrag netto EUR",
+          "Bieterangabe"
+        ],
+        [
+          "2.1",
+          "Pegelsonde mit Logger und Gehäuse. Gerät und Datenstrom derselben Seriennummer zuordnen. Energieversorgung unter 2.4.",
+          24,
+          "Stück",
+          null,
+          null,
+          ""
+        ],
+        [
+          "2.2",
+          "Im Gehäuse montiertes Mobilfunkmodem mit Antenne. Bei der Übergabe Datensatz mit Gerätekennung und Zeitstempel senden.",
+          24,
+          "Stück",
+          null,
+          null,
+          ""
+        ],
+        [
+          "2.3",
+          "Zum Liefergerät passendes Netzladegerät mit Anschlussleitung. Ladefunktion am montierten Gerät nachweisen.",
+          24,
+          "Stück",
+          null,
+          null,
+          ""
+        ],
+        [
+          "2.4",
+          "Werksseitige Energieversorgung: mindestens 96 h bei −5 °C ohne Netz. Messung jede Minute, Versand alle 15 Minuten, kein Eingriff. Maßgeblich ist der Lieferzustand.",
+          24,
+          "Stationen",
+          null,
+          null,
+          ""
+        ],
+        [
+          "2.5",
+          "Je Station ein wiederverwendbarer Transportbehälter mit Einsatz sowie ein Satz Befestigungsmittel für den vorhandenen Messpfosten.",
+          24,
+          "Satz",
+          null,
+          null,
+          ""
+        ],
+        [
+          "2.6",
+          "Werksfunktionsprüfung und Protokoll mit Seriennummer, Ladeprüfung, Messwert und gesendetem Testdatensatz; Anlieferung an den Werkhof.",
+          24,
+          "Satz",
+          null,
+          null,
+          ""
+        ]
+      ],
+      "lv": {
+        "menge": "Menge",
+        "einheitspreis": "EP netto EUR",
+        "gesamtpreis": "Betrag netto EUR"
+      }
+    },
+    {
+      "phase": "Grundakte",
       "datei": "03_bieterinformation.eml",
       "titel": "Bieterinformation 04 an alle registrierten Unternehmen",
       "datum": "2026-08-24",
@@ -92,6 +175,88 @@
         "Begleitschreiben: „Wir liefern stationsfertig gemäß Formblatt T. Das Serienblatt P16, Stand Juni, liegt bei. Der dort für Sonderausstattungen abgebildete Einschub ist nicht als separates Ersatzteil bepreist.“ Die Liste der beigefügten Dateien nennt das Preisblatt, Formblatt T und das Serienblatt. Der Platz neben „E3-Umsätze“ ist leer.",
         "Serienblatt, Seite 2: „Grundausführung mit einem Einschub: 72 h bei −5 °C. Ausführung mit zwei Einschüben: 102 h bei −5 °C. Messintervall 1 min, Übertragung 15 min.“ Der abgebildete Typenschlüssel auf Seite 3 endet bei „P16/06“; die Ziffernfolge /07 wird dort nicht erläutert."
       ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "04a_preisblatt_w668.xlsx",
+      "titel": "Angebot W-668 · eingereichtes Bieter-LV",
+      "datum": "2026-09-07",
+      "von": "Fatma Reuter · Flutzeichen Messtechnik GmbH, Vertrieb",
+      "an": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "text": [
+        "Preisblatt W-668 zum Messnetz Kiebitzrinne. Anlage der am 7. September 2026 um 09:41 Uhr auf der Vergabeplattform freigegebenen Abgabe. Grundlage ist das Bieter-LV zur Fassung 2. Alle Beträge in Euro ohne Umsatzsteuer; maßgeblich sind die nachstehenden angebotenen Festpreise.",
+        "Wir liefern 24 vormontierte Stationssätze an den Werkhof West. Pos. 2.4 enthält den Preis für die vollständige Energieversorgung im Liefergerät. Für die Ausführung verweisen wir auf Formblatt T, Zeile 7, und das beigefügte Serienblatt P16, Stand Juni. Einen gesonderten Ersatzakku im Transportbehälter bieten wir nicht an. Der Preis für einen vollständigen Stationssatz beträgt 17.450,00 Euro netto."
+      ],
+      "tabelle": [
+        [
+          "Pos.",
+          "Lieferumfang",
+          "Menge",
+          "Einheit",
+          "EP netto EUR",
+          "Betrag netto EUR",
+          "Bieterangabe"
+        ],
+        [
+          "2.1",
+          "Pegelsonde, Logger und Gehäuse",
+          24,
+          "Stück",
+          11700,
+          null,
+          "Flutzeichen P16"
+        ],
+        [
+          "2.2",
+          "Mobilfunkmodem mit Antenne, vormontiert",
+          24,
+          "Stück",
+          1850,
+          null,
+          "Werkseinbau"
+        ],
+        [
+          "2.3",
+          "Netzladegerät mit Anschlussleitung",
+          24,
+          "Stück",
+          575,
+          null,
+          "Ladesatz P16"
+        ],
+        [
+          "2.4",
+          "Montierte Energieversorgung. Laufzeit im Lieferzustand gemäß Pos. 2.4 des LV",
+          24,
+          "Stationen",
+          1700,
+          null,
+          "P16/07 · eingehalten: ja"
+        ],
+        [
+          "2.5",
+          "Transportbehälter und Befestigungsmittel",
+          24,
+          "Satz",
+          1175,
+          null,
+          "passend für P16"
+        ],
+        [
+          "2.6",
+          "Werksfunktionsprüfung, Protokoll und Anlieferung",
+          24,
+          "Satz",
+          450,
+          null,
+          "Werkhof West"
+        ]
+      ],
+      "lv": {
+        "menge": "Menge",
+        "einheitspreis": "EP netto EUR",
+        "gesamtpreis": "Betrag netto EUR"
+      }
     },
     {
       "phase": "Grundakte",

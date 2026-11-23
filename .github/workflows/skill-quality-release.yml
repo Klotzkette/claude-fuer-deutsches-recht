@@ -28,7 +28,7 @@ jobs:
     env:
       TAG: ${{ inputs.tag }}
       EXPECTED_COMMIT: ${{ inputs.expected_commit }}
-      SCOPE: ${{ inputs.tag == 'qualitaetsrunde-v445.36.12' && 'scripts/data/interstate-ag-release-scope.json' || 'scripts/data/skill-quality-release-scope.json' }}
+      SCOPE: ${{ inputs.tag == 'qualitaetsrunde-v445.36.12' && 'scripts/data/interstate-ag-release-scope.json' || inputs.tag == 'qualitaetsrunde-v445.36.13' && 'scripts/data/qualitaetsrunde-v445.36.13-scope.json' || 'scripts/data/skill-quality-release-scope.json' }}
     steps:
       - name: Nur geprüften Main-Workflow zulassen
         if: github.ref != 'refs/heads/main'
@@ -52,11 +52,14 @@ jobs:
         run: |
           test "$(git rev-parse HEAD)" = "$EXPECTED_COMMIT"
           git merge-base --is-ancestor HEAD origin/main
+          if [[ "$TAG" == qualitaetsrunde-v445.36.12 ]]; then
+            test "$EXPECTED_COMMIT" = "$(git rev-parse "refs/tags/$TAG^{commit}")"
+          fi
           test "$TAG" = "$(python3 -c 'import json, sys; print(json.load(open(sys.argv[1]))["tag"])' "$SCOPE")"
           test -s "docs/releases/$TAG.md"
           python3 -m pip install -r requirements.txt
       - name: Vergabestellen-Akten und installierbares Paket prüfen
-        if: inputs.tag == 'qualitaetsrunde-v445.36.12'
+        if: inputs.tag == 'qualitaetsrunde-v445.36.12' || inputs.tag == 'qualitaetsrunde-v445.36.13'
         run: python3 scripts/test-interstate-testakten.py
       - name: Struktur, Auswahl und Quellenbindung prüfen
         run: |

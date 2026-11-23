@@ -19,6 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 def verify_public(publisher, routes, tags, commit):
     """Prüft für jede Gruppe Publikationsstatus, Git-Tag, Bestandsbeleg und alle GitHub-Assetdigests."""
     public = publisher.B.load_module("validate-public-downloads.py")
+    reports = {}
     for tag in tags:
         assets = public.public_assets(tag, public.github_cli_json)
         expected = {name for name, pair in routes.items() if pair[1] == tag}
@@ -42,6 +43,8 @@ def verify_public(publisher, routes, tags, commit):
             raise ValueError(f"{tag}: Bestandsnachweis oder Quellenbindung stimmt nicht")
         if any(assets[name].get("digest") != "sha256:" + digest for name, digest in sums.items()):
             raise ValueError(f"{tag}: Öffentliche Asset-Prüfsumme stimmt nicht mit der Freigabe überein")
+        reports[tag] = report
+    return reports
 
 
 def main():

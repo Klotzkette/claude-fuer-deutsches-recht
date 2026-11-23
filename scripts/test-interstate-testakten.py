@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import csv
 from datetime import date
+from decimal import Decimal, ROUND_HALF_UP
 from email import policy
 from email.parser import BytesParser
 from email.utils import parseaddr, parsedate_to_datetime
@@ -165,16 +166,114 @@ class InterstateAktenTests(unittest.TestCase):
                         self.assertEqual(sent.isoformat(timespec="minutes")[:16], f'{row["datum"]}T{row["uhrzeit"]}')
 
 
+class InterstateLeistungsverzeichnisTests(unittest.TestCase):
+    def positions(self, slug, name):
+        case = json.loads((INPUT / (slug + ".json")).read_bytes())
+        doc = next(d for d in case["dokumente"] if d["datei"] == name)
+        path = COLLECTION / slug / doc["phase"] / name
+        fields = doc["tabelle"][0]
+        amount = fields.index(doc["lv"]["menge"])
+        price = fields.index(doc["lv"]["einheitspreis"])
+        total = fields.index(doc["lv"]["gesamtpreis"])
+        formulas = load_workbook(path, read_only=True)
+        try:
+            rows = iter(formulas.active.rows)
+            next(row for row in rows if [cell.value for cell in row] == fields)
+            for row in rows:
+                self.assertEqual(row[total].data_type, "f", f"{name}: {row[total].coordinate}")
+        finally:
+            formulas.close()
+        with path.open("rb") as stream:
+            book = load_workbook(stream, read_only=True, data_only=True)
+            try:
+                rows = iter(book.active.values)
+                next(row for row in rows if list(row) == fields)
+                items = {}
+                for position in doc["tabelle"][1:]:
+                    row = next(rows)
+                    self.assertEqual(row[0], position[0])
+                    self.assertNotIn(row[0], items)
+                    qty, ep, gp = row[amount], row[price], row[total]
+                    self.assertIsInstance(qty, (int, float))
+                    self.assertGreater(qty, 0)
+                    self.assertNotIsInstance(qty, bool)
+                    if ep is None:
+                        self.assertIn(gp, (None, ""))
+                    else:
+                        expected = (Decimal(str(qty)) * Decimal(str(ep))).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
+                        self.assertEqual(Decimal(str(gp)), expected)
+                    items[row[0]] = (qty, ep, gp)
+                summary = next(rows)
+                priced = [item[2] for item in items.values() if item[1] is not None]
+                if len(priced) == len(items):
+                    self.assertEqual(summary[total], sum(priced))
+                else:
+                    self.assertIn(summary[total], (None, ""))
+                if "losspalte" in doc["lv"]:
+                    lot_column = fields.index(doc["lv"]["losspalte"])
+                    by_lot = {}
+                    for position in doc["tabelle"][1:]:
+                        by_lot.setdefault(position[lot_column], []).append(items[position[0]][2])
+                    summaries = {row[lot_column]: row[total] for row in rows if row[lot_column]}
+                    self.assertEqual(set(summaries), set(by_lot))
+                    for lot, amounts in by_lot.items():
+                        if all(value is not None for value in amounts):
+                            self.assertEqual(summaries[lot], sum(amounts))
+                        else:
+                            self.assertIn(summaries[lot], (None, ""))
+                return items
+            finally:
+                book.close()
+
+    def test_teillose_fachlose_und_marktpreise(self):
+        slug = "02-fachlose"
+        north = self.positions(slug, "02a_lv_nord.xlsx")
+        south = self.positions(slug, "02b_lv_sued.xlsx")
+        self.assertTrue(north.keys().isdisjoint(south))
+        self.assertEqual({key.split(".")[1] for key in north}, {"B", "O", "M"})
+        self.assertEqual({key.split(".")[1] for key in south}, {"B", "O", "M"})
+        blank = north | south
+        self.assertTrue(all(item[1] is None for item in blank.values()))
+        priced = self.positions(slug, "09_richtpreis_gewerke.xlsx")
+        self.assertEqual({k: v[0] for k, v in blank.items()}, {k: v[0] for k, v in priced.items()})
+        self.assertTrue(all(item[1] is not None for item in priced.values()))
+        lots = {}
+        for code, (_, _, value) in priced.items():
+            lot = code.rsplit(".", 1)[0]
+            lots[lot] = lots.get(lot, 0) + value
+        self.assertEqual(lots, {"N.B": 2519500, "N.O": 1231200, "N.M": 503400,
+                                "S.B": 1720750, "S.O": 820800, "S.M": 335600})
+        self.assertEqual(sum(lots.values()), 7131250)
+
+    def test_wertbarer_preis_und_vertragsvergleich(self):
+        blank = self.positions("03-ausschluss", "02a_bieter_lv_messstationen.xlsx")
+        offered = self.positions("03-ausschluss", "04a_preisblatt_w668.xlsx")
+        self.assertEqual({k: v[0] for k, v in blank.items()}, {k: v[0] for k, v in offered.items()})
+        self.assertTrue(all(item[1] is None for item in blank.values()))
+        self.assertEqual(offered["2.4"], (24, 1700, 40800))
+        self.assertEqual(sum(item[2] for item in offered.values()), 418800)
+        contract = self.positions("06-nachtrag", "00_auftrags_lv_kf3.xlsx")
+        supplement = self.positions("06-nachtrag", "11_nachtrags_lv_n7.xlsx")
+        self.assertEqual(sum(item[2] for item in contract.values()), 486230)
+        self.assertEqual({key: vals[0] for key, vals in supplement.items()},
+                         {"N7.1": 124, "N7.2": 44, "N7.3": 4, "N7.4": 16})
+        self.assertEqual(sum(item[2] for item in supplement.values()), 12924)
+
+
 class InterstatePluginTests(unittest.TestCase):
     def test_installierbares_desktop_paket(self):
-        scope = ROOT / "scripts/data/interstate-ag-release-scope.json"
-        tag = json.loads(scope.read_text())["tag"]
+        scope = ROOT / "scripts/data/qualitaetsrunde-v445.36.13-scope.json"
+        edition = json.loads(scope.read_text())
+        tag = edition["tag"]
         with tempfile.TemporaryDirectory() as output:
             subprocess.run([sys.executable, str(ROOT / "scripts/build-skill-quality-release.py"),
                             "--scope", str(scope), "--dist", output], cwd=ROOT, check=True)
             name = "vergabestelle-behoerden.zip"
             with ZipFile(Path(output) / name) as package:
-                self.assertIn(f"/releases/download/{tag}/{name}", package.read("README.md").decode())
+                readme = package.read("README.md").decode()
+                self.assertIn(f"/releases/download/{tag}/{name}", readme)
+                self.assertNotIn(f"/releases/download/{edition['plugins'][0]['previous_release']['tag']}/{name}", readme)
+                self.assertEqual(json.loads(package.read(".claude-plugin/plugin.json"))["version"], edition["version"])
                 self.assertIn("(Interstate%20AG/README.md)", package.read("README.md").decode())
                 self.assertEqual(package.read("README.txt"), NOTICE_BYTES)
                 index = package.read("Interstate AG/README.md").decode()

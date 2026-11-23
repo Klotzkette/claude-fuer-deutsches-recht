@@ -116,6 +116,45 @@ class QualityReleaseTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "Nachfolgetag"):
             edition_routes(self.root)
 
+    def test_staged_release_keeps_published_routes_until_activation(self):
+        import hashlib
+        from release_routing import RELEASE_BASE
+        next_version = "445.36.13"
+        next_tag = "qualitaetsrunde-v" + next_version
+        claimed = copy.deepcopy(self.scope)
+        claimed.update(tag=next_tag, version=next_version)
+        manifests = {}
+        for member in B.MANIFESTS:
+            path = self.root / self.source / member
+            data = B.versioned_manifest(json.loads(path.read_bytes()), self.version)
+            path.write_bytes(data)
+            manifests[member] = hashlib.sha256(data).hexdigest()
+        claimed["plugins"][0]["previous_release"] = {"tag": self.tag, "version": self.version, "manifests": manifests}
+        self.write("scripts/data/" + next_tag + "-scope.json", json.dumps(claimed))
+        readme = self.write(self.source + "/README.md", f"[Plugin]({RELEASE_BASE}/download/{self.tag}/{self.name}.zip)")
+        before = (self.root / self.source / B.MANIFESTS[0]).read_bytes()
+        B.build(self.dist, claimed, self.root)
+        self.assertEqual((self.root / self.source / B.MANIFESTS[0]).read_bytes(), before)
+        self.assertIn(self.tag, readme.read_text())
+        with zipfile.ZipFile(self.dist / (self.name + ".zip")) as archive:
+            self.assertEqual(json.loads(archive.read(B.MANIFESTS[0]))["version"], next_version)
+            self.assertIn(next_tag, archive.read("README.md").decode())
+        with self.assertRaisesRegex(ValueError, "registrierten Scope"):
+            B.validate_scope({**claimed, "title": "Unbestätigter Plan"}, self.root)
+        path = self.root / self.source / B.MANIFESTS[0]
+        path.write_bytes(B.versioned_manifest({**json.loads(before), "description": "andere Datei"}, self.version))
+        with self.assertRaisesRegex(ValueError, "Vorgängernachweis"):
+            B.validate_assets(self.dist, claimed, self.root)
+        path.write_bytes(before)
+        for member in B.MANIFESTS:
+            path = self.root / self.source / member
+            path.write_bytes(B.versioned_manifest(json.loads(path.read_bytes()), next_version))
+        for relative in (".claude-plugin/marketplace.json", "scripts/scoped-release-assets.json"):
+            path = self.root / relative
+            path.write_text(path.read_text().replace(self.version, next_version))
+        readme.write_text(readme.read_text().replace(self.tag, next_tag))
+        B.validate_assets(self.dist, claimed, self.root)
+
     def test_native_portable_manifests_fachtext_and_tool_are_byte_exact(self):
         report = self.build()
         self.assertEqual(len(list(self.dist.iterdir())), 6)

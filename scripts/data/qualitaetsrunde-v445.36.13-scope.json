@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "tag": "qualitaetsrunde-v445.36.13",
+  "version": "445.36.13",
+  "title": "Vergabestelle der Interstate AG: Fach- und Teillose und Leistungsverzeichnisse",
+  "plugins": [
+    {
+      "name": "vergabestelle-behoerden",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "preserved_prompts": {
+        "vergabestelle-behoerden-schnellstart.md": "d968fcf9a60093480cb32be239eee4cb954cee16216a8206b53101753360394d",
+        "vergabestelle-behoerden-werkstatt.md": "dba7494ecc173cb809ac0c2fa2d75bc18caa02e45a6db95a20df228cb97bb1eb"
+      },
+      "previous_release": {
+        "tag": "qualitaetsrunde-v445.36.12",
+        "version": "445.36.12",
+        "manifests": {
+          ".claude-plugin/plugin.json": "f35ba492f2fd631f362f665c7d14e7b6b06395d4d2c4ca7cff93c9112d023d8c"
+        }
+      }
+    }
+  ]
+}
