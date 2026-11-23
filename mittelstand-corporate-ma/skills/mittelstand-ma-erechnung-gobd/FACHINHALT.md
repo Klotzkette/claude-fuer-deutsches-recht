@@ -81,7 +81,7 @@ Mit der Einführung der E-Rechnungspflicht im B2B-Verkehr (§ 14 UStG n.F. ab 01
 | 12 | ZUGFeRD-Paket (falls nötig) | PDF/A-3 mit eingebettetem XML (Factur-X Level EXTENDED oder EN 16931); Echtheitsprüfung | ZUGFeRD fertig |
 | 13 | GoBD-Protokoll | Änderungslog; Storno und Korrekturrechnung dokumentieren; Unveränderbarkeit durch Zeitstempel | GoBD-konform |
 | 14 | DATEV-Export | CSV-kompatible Buchungsvorschläge: Buchungsdatum, Buchungstext, Betrag, Konto, Gegenkonto | Export bereit |
-| 15 | Versand und Archivierung | E-Rechnung per Peppol oder direkte XML-Übermittlung; Archivierung 10 Jahre (§ 147 AO) | Archiviert |
+| 15 | Versand und Archivierung | E-Rechnung per Peppol oder direkte XML-Übermittlung; Rechnung grundsätzlich acht Jahre ab Schluss des Ausstellungsjahrs archivieren (§ 14b Abs. 1 UStG) | Archiviert |
 
 ## GoBD-Anforderungen im Überblick
 
@@ -92,7 +92,7 @@ Mit der Einführung der E-Rechnungspflicht im B2B-Verkehr (§ 14 UStG n.F. ab 01
 | Ordnung | Belege müssen jederzeit auffindbar und lesbar sein; Indexierung erforderlich | Unstrukturierte E-Mail-Ablage ohne Belegkette |
 | Nachvollziehbarkeit | Buchungsweg vom Erstbeleg bis zum Jahresabschluss muss lückenlos sein | Fehlende Verknüpfung zwischen Zeiterfassung und Buchungsbeleg |
 | Zeitgerechtheit | Buchungen zeitnah vornehmen; keine systematischen Rückdatierungen | Rechnungen erst Monate nach Leistung gestellt und rückdatiert |
-| Aufbewahrung | 10 Jahre für Rechnungen (§ 147 Abs. 1 Nr. 1 AO) | Löschung digitaler Unterlagen nach 6 Jahren |
+| Aufbewahrung | Rechnungen grundsätzlich acht Jahre ab Schluss des Ausstellungsjahrs. Für Rechnungen als Buchungsbelege auch die offene Festsetzungsfrist prüfen. [§ 14b UStG](https://www.gesetze-im-internet.de/ustg_1980/__14b.html) Abs. 1, [§ 147 AO](https://www.gesetze-im-internet.de/ao_1977/__147.html) Abs. 1 Nr. 4, Abs. 3 und 4. | E-Rechnung allein wegen des Alters aus dem Archiv entfernen, obwohl sie noch für eine offene Festsetzung erheblich ist |
 
 ## E-Rechnung: XRechnung vs. ZUGFeRD
 

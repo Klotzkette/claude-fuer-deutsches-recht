@@ -49,7 +49,7 @@ Bei Aufrechnung laufender Leistungen prüfe SGB I Paragraf 51 und einschlägiges
 
 Trenne Aufhebung einer Bewilligung und Erstattung nach SGB X Paragraf 50. Prüfe insbesondere, ob Paragraf 45 oder Paragraf 48 einschlägig ist, welche Änderung oder anfängliche Rechtswidrigkeit behauptet wird und welche Vertrauensschutzfragen tatsächlich entstehen. Keine pauschale Rückforderung allein aus einem behaupteten Überzahlungsbetrag ableiten.
 
-Bei Verjährung Paragraf 50 Absatz 4 und den maßgeblichen Fristbeginn genau prüfen. Die alte Kurzformel „vier Jahre ab Bekanntgabe“ reicht ohne Prüfung des vollständigen Tatbestands nicht aus. Frage bei fehlendem Aufhebungs- oder Erstattungsbescheid nach genau diesem Dokument und überarbeite danach den bestellten Einwand.
+Für die Verjährung des Erstattungsanspruchs zählt der Ablauf des Kalenderjahres, in dem der Erstattungsbescheid unanfechtbar geworden ist. Ging der Bescheid im Dezember 2020 zu und wurde die Festsetzung nach einem Rechtsbehelf im Februar 2022 unanfechtbar, endet die reguläre Vierjahresfrist mit Ablauf des 31. Dezember 2026. Prüfe zwischenzeitliche Hemmung, Ablaufhemmung, Neubeginn und einen weiteren Feststellungs- oder Durchsetzungsbescheid. Fordere die fehlenden Bescheide und Nachweise an und formuliere gegebenenfalls die Einrede gegenüber der fordernden Stelle. [§ 50 Abs. 3 und 4 SGB X](https://www.gesetze-im-internet.de/sgb_10/__50.html) · [§ 52 SGB X](https://www.gesetze-im-internet.de/sgb_10/__52.html)
 
 ### 4.3. Krankenversicherung
 

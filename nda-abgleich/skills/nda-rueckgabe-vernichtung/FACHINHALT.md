@@ -53,9 +53,10 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 ### Ausnahmen (Standard-Carve-outs)
 
-- **Gesetzliche Aufbewahrungspflichten** (z.B. § 257 HGB 10 Jahre für Geschäftsbriefe, § 147 AO 10 Jahre für steuerlich relevante Unterlagen, § 50 GwG 5 Jahre für Geldwaeschepruefung).
+- **Gesetzliche Aufbewahrungspflichten.** Für die empfangende Partei und jede Unterlage die konkrete Pflicht feststellen. Grundfristen für Bücher und Jahresabschlüsse sind zehn Jahre, für Buchungsbelege acht und für Handels- oder Geschäftsbriefe sechs. Bei den in § 257 Abs. 4 Satz 2 HGB genannten Finanzunternehmen die Sonderregel für Buchungsbelege prüfen. [§ 257 HGB](https://www.gesetze-im-internet.de/hgb/__257.html), [§ 147 AO](https://www.gesetze-im-internet.de/ao_1977/__147.html).
+- **Geldwäscherechtliche Nachweise.** Verpflichtete bewahren Aufzeichnungen und Belege nach § 8 Abs. 1 bis 3 GwG fünf Jahre auf, bei anderweitiger längerer gesetzlicher Pflicht bis zu deren Ablauf. Spätestens nach zehn Jahren sind diese Nachweise zu vernichten. Der Fristbeginn folgt § 8 Abs. 4 Satz 3 und 4 GwG. [§ 8 GwG](https://www.gesetze-im-internet.de/gwg_2017/__8.html).
 - **Backups / Archivsysteme:** "Standard IT-Backups" müssen nicht aktiv geloescht werden, solange Zugriff beschraenkt und Vernichtung im normalen Backup-Zyklus erfolgt.
-- **Rechtsberater (Legal Hold):** Anwaelte müssen nach Berufsrecht (§ 50 BRAO, § 53 StPO) Mandantenakten aufbewahren; gleichwohl unterliegen sie dem Mandatsgeheimnis.
+- **Anwaltliche Handakte.** Eine anwaltliche Handakte ist sechs Jahre ab Ablauf des Kalenderjahrs der Auftragsbeendigung aufzubewahren. Eine Zurückbehaltung für einen konkreten Rechtsstreit gesondert begründen und den Zugriff auf den erforderlichen Umfang beschränken. [§ 50 BRAO](https://www.gesetze-im-internet.de/brao/__50.html) Abs. 1.
 - **Vorbereitungsmaterial / Memoranden:** Eigene Analysen mit Bezug auf Vertrauliche Informationen werden oft mit Vernichtungspflicht erfasst; abweichende Klausel ("Working Papers") nur dann tragbar, wenn der Inhalt vollstaendig anonymisiert wird.
 
 ### DSGVO-Bezug

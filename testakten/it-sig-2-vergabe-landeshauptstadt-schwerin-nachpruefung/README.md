@@ -1,5 +1,7 @@
 # IT-SIG-2-Vergabe Landeshauptstadt Schwerin – Nachprüfungsverfahren VK
 
+**Fassungsstand.** Die Unterlagen in diesem Ordner nennen noch die Vergabekammer des Bundes und das OLG Düsseldorf. Die [fortgeschriebene Schweriner Fachakte](../../vergaberecht-werkstatt/testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/README.md) führt das Verfahren vor der Vergabekammer Mecklenburg-Vorpommern und dem OLG Rostock bis zur Neuwertung.
+
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
@@ -54,7 +56,7 @@ für die **Nahverkehr Schwerin GmbH** (KRITIS-Sektor Verkehr) – geschätzter A
 
 - Rechtsgrundlage: GWB §§ 97 ff., 160 ff.; VgV; BSI-Gesetz (BSIG); IT-SIG 2.0; NIS2-Richtlinie (Übergangsregelungen bis Oktober 2024)
 - KRITIS-Relevanz: Nahverkehr Schwerin GmbH = KRITIS-Betreiber Sektor Verkehr (§ 2 Abs. 10 BSIG)
-- Zuständigkeit VK: **Vergabekammer Bund**, VK 1 (BSI-relevante Ausschreibung, KRITIS-Sektor)
+- Für die Nachprüfung ist hier der Sitz der kommunalen Auftraggeberin maßgeblich. Der KRITIS-Bezug der Leistung begründet für sich allein keine Bundeszuständigkeit. Über die sofortige Beschwerde entscheidet das für den Sitz der Vergabekammer zuständige Oberlandesgericht. [§ 159 GWB](https://www.gesetze-im-internet.de/gwb/__159.html) · [§ 171 Abs. 3 GWB](https://www.gesetze-im-internet.de/gwb/__171.html)
 
 ### Kernkonflikte
 

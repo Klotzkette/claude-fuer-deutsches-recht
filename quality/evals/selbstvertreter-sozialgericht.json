@@ -50,12 +50,13 @@
       "Leerstart: Sozialbescheid verstehen, Widerspruch oder Eilhilfe wählen.",
       "Eine nachgewiesene Teilzahlung verändert gegenwärtigen Eilbedarf und Antrag; nachgereichte Funktionsangaben verändern die konkrete Leistungsbegründung.",
       "Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln.",
-      "2026-10-16, redaktioneller Einstiegsreview: Eigener Brief und belegte Änderung zuerst; aktuelle Not mit Eilmaßstab verbunden, ohne Leistungsversprechen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "2026-10-16, redaktioneller Einstiegsreview: Eigener Brief und belegte Änderung zuerst; aktuelle Not mit Eilmaßstab verbunden, ohne Leistungsversprechen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+      "2026-11-23: Fristbeginn und Fristende für den Erstattungsanspruch in Abschnitt 4.2 anhand von § 50 Abs. 4 und § 52 SGB X geprüft. Das Beispiel trennt die Bekanntgabe 2020 von der Unanfechtbarkeit 2022."
     ],
-    "sha256": "be70d8913c7934161370424f98691a8bfa7a55301d51378de8712acd813ce9d9",
-    "reviewed_on": "2026-10-16",
+    "sha256": "7284776a5a4962af9b85acf7b2d3c4c7825895ff79086ca85f23e9e360976410",
+    "reviewed_on": "2026-11-23",
     "method": "desk_review",
-    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft. Nachprüfung vom 23. November 2026 beschränkt auf die Erstattungsverjährung in Abschnitt 4.2."
   },
   "selection": {
     "positive": [

@@ -24,14 +24,14 @@ Krankenkassen fordern manchmal Leistungen zurück, die sie zu Unrecht erbracht h
 - **§ 50 SGB X** – Erstattung zu Unrecht erhaltener Leistungen
 - **§ 24 SGB X** – Anhörung vor Rücknahme
 - **§ 45 Abs. 4 SGB X** – Rücknahmefrist: 2 Jahre nach Kenntnis
-- **§ 50 Abs. 4 SGB X** – Verjährung Erstattungsanspruch: 4 Jahre
+- **§ 50 Abs. 4 SGB X** – Vierjahresfrist für den festgesetzten Erstattungsanspruch, Berechnung unter Schritt 4.
 - BSG B 1 KR 8/15 R (Rückforderung GKV-Leistungen, Vertrauensschutz)
 
 ## Rücknahme-Matrix (§ 45 SGB X)
 
 | Verschulden | Wirkung | Zeitraum |
 |-------------|---------|----------|
-| Arglist / Vorsatz | Rücknahme + volle Erstattung | Unbegrenzt (30-Jahres-Verjährung) |
+| Arglist / Vorsatz | Rücknahme + volle Erstattung | Rücknahmefristen und Verjährung der Erstattung getrennt prüfen |
 | Grobe Fahrlässigkeit | Rücknahme + Erstattung | Rückwirkend bis zu 4 Jahren |
 | Kein Verschulden | Kein Rücknahmerecht bei Vertrauensschutz | Nur für Zukunft |
 | Vertrauensschutz | Keine Rücknahme für Vergangenheit | Schutz wenn Mittel verbraucht |
@@ -55,8 +55,8 @@ Krankenkassen fordern manchmal Leistungen zurück, die sie zu Unrecht erbracht h
 
 ### Schritt 4 – Fristen prüfen
 - § 45 Abs. 4: Rücknahme nur innerhalb 2 Jahre nach Kenntnis der Tatsachen
-- Verjährung Erstattungsanspruch: 4 Jahre (§ 50 Abs. 4 SGB X) ab Entstehung
-- Absolute Verjährungsgrenze: 30 Jahre (§ 199 Abs. 2 BGB)
+- Der Erstattungsanspruch verjährt in vier Jahren nach Ablauf des Kalenderjahres, in dem der Erstattungsbescheid nach Absatz 3 unanfechtbar geworden ist. Klären Sie bei einem Rechtsbehelf, wann das Verfahren endete und welche Festsetzung davon betroffen war. Für Hemmung, Ablaufhemmung, Neubeginn und Wirkung der Verjährung gelten die Vorschriften des BGB sinngemäß. [§ 50 Abs. 4 SGB X](https://www.gesetze-im-internet.de/sgb_10/__50.html)
+- Prüfen Sie bei einer geltend gemachten Frist von 30 Jahren, ob während der bereits laufenden Verjährung ein weiterer Verwaltungsakt zur Feststellung oder Durchsetzung dieses Anspruchs unanfechtbar geworden ist. Der ursprüngliche Erstattungsbescheid löst die Vierjahresfrist aus. [§ 52 SGB X](https://www.gesetze-im-internet.de/sgb_10/__52.html) · [BSG, Urteil vom 4. März 2021 – B 11 AL 5/20 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2021/2021_03_04_B_11_AL_05_20_R.html)
 
 ### Schritt 5 – Widerspruch und Klage
 - Rücknahmebescheid anfechten: 1-Monats-Widerspruchsfrist (§ 84 SGG)

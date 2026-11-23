@@ -1,0 +1,22 @@
+{
+  "fachanwalt-sozialrecht/skills/laienhilfe-aufhebung-rueckforderung/FACHINHALT.md": {
+    "vorher": "da62b0514316b02e044eedbaa5c009a111b6198d57e11c1f3d29a6b1b6154803",
+    "nachher": "1fca9050f3af79819f2da12d192c9cf595d841bf8540ea5805e9bfd840569fa8"
+  },
+  "krankenkassenrecht-krankenversicherung/skills/rueckforderung-unrecht-erstattungsstreit/FACHINHALT.md": {
+    "vorher": "d998779a380d96372189ea64dc6b2fdb1a604edd0ac5d4e1ce54d0429c585b92",
+    "nachher": "98cce2a6cc64d0a32caffe1200f7805af9ffeda4d4d99188b29c15844c69a5f8"
+  },
+  "selbstvertreter-sozialgericht/skills/buergergeld-jobcenter-sgb-ii/FACHINHALT.md": {
+    "vorher": "f52d8dd0f5bdfaf44a2678cdd994fa527dfd73b5f400a41910d8057ba10c58b3",
+    "nachher": "83a4dc658f2c816a25cf9f1091abb41028b4877918c5d804d908a803f9d6119e"
+  },
+  "selbstvertreter-sozialgericht/skills/erstattung-zu-unrecht-50-sgb-x/FACHINHALT.md": {
+    "vorher": "7a5144e7ef6c8b30fa5d23a83cfc254ea43355b5ab81143efb4c6a87b0bbe83b",
+    "nachher": "afc835fa07116578c9d86d089c966ba1e2e37e34187c85412447b56813e90a7b"
+  },
+  "selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-werkstatt.md": {
+    "vorher": "be70d8913c7934161370424f98691a8bfa7a55301d51378de8712acd813ce9d9",
+    "nachher": "7284776a5a4962af9b85acf7b2d3c4c7825895ff79086ca85f23e9e360976410"
+  }
+}

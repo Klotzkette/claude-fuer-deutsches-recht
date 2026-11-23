@@ -34,8 +34,8 @@ naechstes-ereignis-erwartet: 2026-06-20 (Berufungsbegründungsfrist)
 ruhend-seit: null
 abgeschlossen-am: null
 abgeschlossen-begruendung: null
-archivierung-faellig: null # bei Abschluss berechnen: + 6 Jahre § 50 BRAO
-vernichtung-faellig: null # 6 Jahre nach Mandatsende
+archivierung-faellig: null # bei Mandatsabschluss festlegen
+vernichtung-faellig: null # Frist ab Ablauf des Kalenderjahrs der Auftragsbeendigung prüfen
 ```
 
 ## Mandatsende
@@ -43,8 +43,8 @@ vernichtung-faellig: null # 6 Jahre nach Mandatsende
 Bei Abschluss:
 
 1. **Schlussrechnung** über Skill `rechnungserstellung-rvg`.
-2. **Aktenherausgabe** an Mandanten falls gewünscht (Originalbelege Restmaterial — Akteneinsichtsrecht des Mandanten § 50 Abs. 5 BRAO).
-3. **Aufbewahrungspflicht** sechs Jahre nach Mandatsende (§ 50 Abs. 1 BRAO).
+2. **Herausgabe:** Bei Verlangen des Auftraggebers die aus Anlass des Mandats von ihm oder für ihn erhaltenen Dokumente nach § 50 Abs. 2 und 3 BRAO prüfen.
+3. **Aufbewahrungspflicht:** Für die anwaltliche Handakte sechs Jahre ab Ablauf des Kalenderjahrs der Auftragsbeendigung (§ 50 Abs. 1 BRAO).
 4. **Status** auf `abgeschlossen` setzen.
 5. **Archivierungsdatum** und **Vernichtungsdatum** berechnen.
 
@@ -61,8 +61,8 @@ Skript prüft alle drei Monate:
 
 ## Datenschutz und Löschung
 
-- **Aufbewahrungsfrist** § 50 Abs. 1 BRAO sechs Jahre nach Mandatsende.
-- **Steuerlich** § 147 AO bei Buchhaltungsunterlagen acht oder zehn Jahre.
+- **Handakte:** Die sechsjährige Frist beginnt mit Ablauf des Kalenderjahrs der Auftragsbeendigung. Weitere gesetzliche Pflichten bleiben nach Abs. 5 unberührt. [§ 50 BRAO](https://www.gesetze-im-internet.de/brao/__50.html).
+- **Steuerunterlagen:** Für Buchungsbelege grundsätzlich acht Jahre, für Bücher und Jahresabschlüsse zehn Jahre, für Handels- oder Geschäftsbriefe sechs Jahre. Fristbeginn und offene Festsetzungsfristen je Unterlage prüfen. [§ 147 AO](https://www.gesetze-im-internet.de/ao_1977/__147.html) Abs. 1, 3 und 4.
 - **Nach Ablauf** vernichten — physisch durch Aktenvernichter oder digital durch sicheres Löschen.
 - **DSGVO Art. 5 Abs. 1 lit. e** Speicherbegrenzung: Daten nicht laenger als notwendig.
 
