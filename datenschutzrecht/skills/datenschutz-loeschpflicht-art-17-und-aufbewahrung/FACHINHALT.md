@@ -19,7 +19,7 @@ Lies Antrag und Eingangsdatum, Datenverzeichnis, Zwecke, Empfänger, Speicherort
 
 Artikel 17 Absatz 1 je Datenkategorie prüfen, dann eine konkret belegte Ausnahme nach Absatz 3. Gesetzliche Aufbewahrung und erforderliche Rechtsverteidigung erlauben nur den jeweils nötigen Umfang und Zweck. Artikel 18 hat eigene Voraussetzungen; er ist kein allgemeiner Ersatz für technisch schwierige Löschung. Zweckbeschränkung und Zugriffsschutz verbleibender Belege sind nicht automatisch eine Einschränkung nach Artikel 18.
 
-Paragraf 257 HGB unterscheidet grundsätzlich zehn Jahre für Bücher/Abschlüsse, acht für Buchungsbelege und sechs für Handelsbriefe; Sonderregeln für bestimmte Finanzunternehmen beachten. Paragraf 147 AO mit Belegart, Fristbeginn, Übergang und steuerlicher Verlängerung gesondert prüfen. Geldwäscherechtliche Dokumentation richtet sich nach Paragraf 8 Absatz 4 GwG, nicht Paragraf 17: grundsätzlich fünf Jahre, andere längere gesetzliche Pflichten und Vernichtungsgrenze berücksichtigen. Keine pauschale Sechsmonatsfrist für alle Bewerberdaten als Gesetz ausgeben.
+Paragraf 257 HGB unterscheidet grundsätzlich zehn Jahre für Bücher/Abschlüsse, acht für Buchungsbelege und sechs für Handelsbriefe; Sonderregeln für bestimmte Finanzunternehmen beachten. Auch nach § 147 Abs. 1, 3 und 4 AO gelten für Bücher und Jahresabschlüsse zehn Jahre, für Buchungsbelege grundsätzlich acht Jahre und für Handels- oder Geschäftsbriefe sechs Jahre. Fristbeginn und Fortdauer bei offener Festsetzungsfrist je Unterlage bestimmen. Für Altbestände und bestimmte Finanzunternehmen gilt Art. 97 § 19a EGAO. Geldwäscherechtliche Dokumentation richtet sich nach Paragraf 8 Absatz 4 GwG, nicht Paragraf 17: grundsätzlich fünf Jahre, andere längere gesetzliche Pflichten und Vernichtungsgrenze berücksichtigen. Keine pauschale Sechsmonatsfrist für alle Bewerberdaten als Gesetz ausgeben.
 
 ### 3.2. Speicher und Empfänger bearbeiten
 
@@ -39,7 +39,7 @@ Begründe je Bestand: gelöscht, aus welchem Grund bis wann aufbewahrt oder noch
 
 ## 4. Quellenpflicht
 
-Artikel 5, 12, 17 bis 19 und 28 [DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de), [Paragraf 257 HGB](https://www.gesetze-im-internet.de/hgb/__257.html), [Paragraf 147 AO](https://www.gesetze-im-internet.de/ao_1977/__147.html), [Paragraf 8 GwG](https://www.gesetze-im-internet.de/gwg_2017/__8.html). Prüfstand 2. Oktober 2026; bei späterer Verwendung aktuelle Fassung prüfen. Kein Urteil zur Gleichwertigkeit von Filtern erfinden. [Zitierweise](../../references/zitierweise.md).
+Artikel 5, 12, 17 bis 19 und 28 [DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de), [Paragraf 257 HGB](https://www.gesetze-im-internet.de/hgb/__257.html), [Paragraf 147 AO](https://www.gesetze-im-internet.de/ao_1977/__147.html), [Art. 97 § 19a EGAO](https://www.gesetze-im-internet.de/aoeg_1977/art_97__19a.html), [Paragraf 8 GwG](https://www.gesetze-im-internet.de/gwg_2017/__8.html). Die Aufbewahrungsvorschriften wurden am 23. November 2026 geprüft. Bei späterer Verwendung die maßgebliche Fassung abrufen. [Zitierweise](../../references/zitierweise.md).
 
 ## 5. Ausgabeformat
 

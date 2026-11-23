@@ -1,0 +1,66 @@
+{
+  "datenschutzrecht/skills/avv-loeschung-rueckgabe-nach-vertragsende/FACHINHALT.md": {
+    "vorher": "206977eef9137a88cec6ffa4a08d31866fa51f1e39cc5b4689df2d4ed1bdec97",
+    "nachher": "02bf43ad828809dad0afead24b83c49e6b662cb6f560267104a5dcc3fbadb23b"
+  },
+  "datenschutzrecht/skills/datenschutz-loeschpflicht-art-17-aufbewahrung/FACHINHALT.md": {
+    "vorher": "471820c142e47fa224a573feaecdee23a05f04f3c806e68ac3ed5687c218d90e",
+    "nachher": "3707344d6b53f8f1c5084d11a62f958363f1189a8b0cfaf5674444fba09fefa2"
+  },
+  "datenschutzrecht/skills/datenschutz-loeschpflicht-art-17-und-aufbewahrung/FACHINHALT.md": {
+    "vorher": "87714d56cbf18e0611f18d335c297a6b1bdb9fea0c0a8144b435f8c26346b4d6",
+    "nachher": "e0afc68f51257d9e505ba2d4849cefaa540a3248180d54f1996ad3fa2d95f684"
+  },
+  "datenschutzrecht/skills/dsfa-dokumentation-und-rechenschaftspflicht-art-5-ii/FACHINHALT.md": {
+    "vorher": "7d24d3daf0130bc9298f5d956c7e5feeada385cb1b7da09e97c0718ca703b129",
+    "nachher": "0b165d5f659ad21bc908cfa1c6fdd98cd0d0bf7f0b2269f307523e065537fe01"
+  },
+  "datenschutzrecht/skills/dsfa-rechenschaftspflicht-art-5-ii/FACHINHALT.md": {
+    "vorher": "af52b887d41adb0305931254f6e17b99598929db7d9b95ddf1460aa42cfbf14d",
+    "nachher": "9f54aa519d9e10789270d0f6fe376b24585c0d6b7aa5556cc5fba3d5f5bb41e4"
+  },
+  "gesellschaftsgruender/skills/daten-und-ki-compliance-start/FACHINHALT.md": {
+    "vorher": "d31ee71b25f11b9bcb04ce0d87178a45865ea64711e5dbb77ea0032af7362287",
+    "nachher": "6b057312054f5f3a44cd84d1b1d015f56d5cb3c9d6b5adefdf68f59372d47a2b"
+  },
+  "influencer-recht/skills/buchhaltung-datev-creator-kontenplan/FACHINHALT.md": {
+    "vorher": "7814d95f1b4996617a81ad52d454b641d35f02c7d75fbdd1dc2b8d9f1370d596",
+    "nachher": "6840b27ecf63f3a48a3df601bf0d167b64c94a755a97707011d954de106ea774"
+  },
+  "influencer-recht/skills/steuerpruefung-creator-buchhaltung-datev/FACHINHALT.md": {
+    "vorher": "5508184dd499da6d12b9a43c2193b0bc2da924c1c713ad19d16c182d7cd673ef",
+    "nachher": "412395cbf3a62859fd6c611f2650bd3c3d283d48e388158dbf3652081cae33b0"
+  },
+  "kanzlei-allgemein/skills/aktenbestand-pflege-bea-versand/FACHINHALT.md": {
+    "vorher": "03bd8d9180538ace5a787d1852de7615deb48dee3adbd80d6a3b517a56d79e2e",
+    "nachher": "081d7a88ff5392a99fbd62186d9906acdda137186b3dbf82ebe97dceb190563e"
+  },
+  "kanzlei-allgemein/skills/timesheet-aktenzeitung-umgang-ki/FACHINHALT.md": {
+    "vorher": "b3d68434c23ed2316b1c22fdf8e1a28f979d81deff5aed97316e2fcc8fb4764c",
+    "nachher": "c350c84168fc26289e60548810da69f8d63fcc166d2f236d9dd1d11a1263a148"
+  },
+  "kanzlei-allgemein/skills/ustva-buchhaltung-simulation/FACHINHALT.md": {
+    "vorher": "8061754128bc66e01226a469aeff7fdf14ffb4c4099e27f95889d674cb0d7d87",
+    "nachher": "a8a20fe480e074c71908d94f6beed3a3b7901ed5b0e3d849c1536c20ea872013"
+  },
+  "mittelstand-corporate-ma/skills/mittelstand-ma-erechnung-gobd/FACHINHALT.md": {
+    "vorher": "58ba91af02446676e4ba4668ca3cc6daca7b01215ddb173a5c5bd1032e555a12",
+    "nachher": "26dd865401b857ea7c1499ea6202c0d18dba189c4973594896bea49c60ae010b"
+  },
+  "nda-abgleich/skills/nda-rueckgabe-vernichtung/FACHINHALT.md": {
+    "vorher": "64c24b8fc01aa9718e544686404aafc549986bb78f37c904a6808b7a1b9c266c",
+    "nachher": "b5bbdb0e779368e3af4ecd87c90009d83136162c9c3761917bbf11c8ec35c36f"
+  },
+  "nda-abgleich/skills/rueckgabe-vernichtung-nda-typen/FACHINHALT.md": {
+    "vorher": "18cd6392a7df5c23354b92001120039e3d4d8c4e5a203359e4b24ce673669daa",
+    "nachher": "7142c9d1274b97c7ebe75a30ce97afc336b53367de33780b9671c558629f760f"
+  },
+  "weg-hausverwaltung/skills/datenschutz-betroffenenrechte-auskunft-loeschung-weg/FACHINHALT.md": {
+    "vorher": "8cbc9a1f07fab59300619858acd33fb6252d79130f66cfdb26026d33c5dde8fc",
+    "nachher": "2cab3de85e5d48858394eebfb164873e625bda89f33e40e258b13888966f2221"
+  },
+  "weg-hausverwaltung/skills/datenschutz-betroffenenrechte-auskunft/FACHINHALT.md": {
+    "vorher": "9aa38c0143f46a0000dcde397d535cd8896eab35411a6538e28d85e25f2ee762",
+    "nachher": "c2d7c286f2b124fe784b0c79fbb29da27ed094d3873eecf829fdbba8235f7808"
+  }
+}

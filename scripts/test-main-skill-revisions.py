@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
+from unittest.mock import patch
 
 import main_skill_revisions as rev
 import quality_lab as lab
@@ -15,6 +16,44 @@ def put(root, path, data):
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_bytes(data if isinstance(data, bytes) else json.dumps(data).encode())
     return target
+
+
+class FachkorrekturTests(unittest.TestCase):
+    def test_unveraenderte_vorlage_und_gepruefter_nachfolger(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            plugin = "selbstvertreter-sozialgericht"
+            name = plugin + "/skills/erstattung-zu-unrecht-50-sgb-x/FACHINHALT.md"
+            old, new = b"Ausgangsfassung", b"Berichtigte Fassung"
+            path = put(root, name, new)
+            proof = rev.FACHKORREKTUREN
+            archive = put(root, proof + "/bestand/" + name + ".txt", old)
+            register = put(root, proof + "/sozialrecht-erstattung.json",
+                           {name: {"vorher": rev.digest(old), "nachher": rev.digest(new)}})
+            other = put(root, proof + "/aufbewahrung-und-gruender.json", {})
+            hashes = patch.dict(rev.FACHKORREKTUR_HASHES,
+                                {"sozialrecht-erstattung": rev.digest(register.read_bytes()),
+                                 "aufbewahrung-und-gruender": rev.digest(other.read_bytes())})
+            hashes.start()
+            self.addCleanup(hashes.stop)
+            rev.validate_fachkorrekturen(root)
+            other.unlink()
+            with self.assertRaisesRegex(ValueError, "Register der Fachkorrekturen fehlt"):
+                rev.validate_fachkorrekturen(root)
+            put(root, other, {})
+            self.assertEqual(rev.historical_bytes(root, path, rev.digest(old), plugin=plugin), old)
+            with self.assertRaises(ValueError):
+                rev.historical_bytes(root, path, rev.digest(old), plugin="anderes-plugin")
+            archive.write_bytes(b"Abweichende Vorfassung")
+            with self.assertRaises(ValueError):
+                rev.validate_fachkorrekturen(root)
+            archive.write_bytes(old)
+            path.write_bytes(old)
+            with self.assertRaises(ValueError):
+                rev.validate_fachkorrekturen(root)
+            put(root, register, {})
+            with self.assertRaisesRegex(ValueError, "Register"):
+                rev.validate_fachkorrekturen(root)
 
 
 class RevisionTests(unittest.TestCase):

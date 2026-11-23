@@ -21,7 +21,7 @@ Strukturierung des Endphase-Managements im AVV: Wahlrecht des Verantwortlichen, 
 - Art. 28 Abs. 3 lit. g DSGVO: "alle personenbezogenen Daten nach Abschluss der Erbringung der Verarbeitungsleistungen nach Wahl des Verantwortlichen entweder loescht oder zurueckgibt, sofern nicht nach dem Unionsrecht oder dem Recht der Mitgliedstaaten eine Verpflichtung zur Speicherung der personenbezogenen Daten besteht".
 - Art. 17 DSGVO: Recht auf Loeschung.
 - Art. 5 Abs. 1 lit. e DSGVO: Speicherbegrenzung.
-- § 257 HGB, § 147 AO, § 50 BDSG, § 11 BORA – steuer-, handels- und berufsrechtliche Aufbewahrungspflichten.
+- Für jede Aufbewahrungsausnahme die konkrete Vorschrift, den Verpflichteten und den betroffenen Datensatz bestimmen.
 
 ## Ablauf / Checkliste
 
@@ -40,9 +40,9 @@ Strukturierung des Endphase-Managements im AVV: Wahlrecht des Verantwortlichen, 
  - Logfiles: Aufbewahrungspflicht versus Datensparsamkeit abwaegen.
 
 4. **Aufbewahrungsausnahmen.**
- - § 257 HGB, § 147 AO: 10 Jahre, 6 Jahre.
- - § 50 BDSG: bis Zweckerreichung beendet.
- - § 195 BGB i.V.m. § 199 BGB: Verjährungsablauf abwarten.
+ - Kaufleute und Steuerpflichtige unterscheiden nach der Dokumentart. Grundsätzlich gelten für Buchungsbelege acht Jahre, für Bücher und Jahresabschlüsse zehn Jahre und für Handels- oder Geschäftsbriefe sechs Jahre. Maßgebliche Jahresenden, sektorale Sonderregeln und offene Festsetzungsfristen prüfen. [§ 257 HGB](https://www.gesetze-im-internet.de/hgb/__257.html), [§ 147 AO](https://www.gesetze-im-internet.de/ao_1977/__147.html).
+ - Für eigene Rechnungen des Auftragsverarbeiters und für auf Kundenweisung gespeicherte Bestände den jeweiligen Pflichtadressaten bestimmen. Eine eigene Rechnung begründet keine Aufbewahrung des gesamten Kundendatenbestands.
+ - Für eine konkrete Rechtsverteidigung Erforderlichkeit, Rechtsgrundlage und Wiedervorlage gesondert prüfen. Die regelmäßige Verjährungsfrist begründet keine gesetzliche Pflicht zur Aufbewahrung aller Auftragsdaten.
  - Sicherstellen: Aufbewahrungsdaten sind separiert, zugriffsbeschraenkt und nicht weiter verarbeitet (Sperrung).
 
 5. **Nachweis.**
@@ -80,7 +80,7 @@ Klausel zu Loeschung und Rueckgabe:
 ## Quellen Stand 06/2026
 
 - Art. 28 Abs. 3 lit. g, Art. 17, Art. 5 Abs. 1 lit. e DSGVO.
-- § 257 HGB, § 147 AO, § 50 BDSG, § 11 BORA.
+- [§ 257 HGB](https://www.gesetze-im-internet.de/hgb/__257.html) Abs. 1, 4 und 5, [§ 147 AO](https://www.gesetze-im-internet.de/ao_1977/__147.html) Abs. 1, 3 und 4.
 - DIN 66399 – Vernichtung von Datentraegern.
 - NIST SP 800-88 Rev. 1 – Guidelines for Media Sanitization.
 - Zitierweise: `../../../references/zitierweise.md`.

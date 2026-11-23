@@ -33,7 +33,7 @@ description: "Für Dokumentation der DSFA als Beleg der Rechenschaftspflicht nac
 - Art. 30 DSGVO: Verzeichnis von Verarbeitungstaetigkeiten — DSFA-Verweis.
 - Art. 35 Abs. 11 DSGVO: Re-Prüfungspflicht.
 - Art. 58 Abs. 1 lit. a DSGVO: Auskunftsbefugnis der Aufsicht.
-- § 257 HGB, § 147 AO für Aufbewahrungsfristen kaufmaennischer und steuerlicher Unterlagen — DSFA ist nicht kaufmaennisches Dokument, aber an die Verarbeitungstaetigkeit gekoppelt.
+- Eine Datenschutz-Folgenabschätzung (DSFA) dokumentiert die Prüfung nach Art. 35 DSGVO. Für Geschäftsbriefe oder Belege in ihren Anlagen ist zusätzlich die Funktion der jeweiligen Unterlage maßgeblich.
 
 ## Ablauf 6-Schritte-Methodik
 
@@ -82,10 +82,10 @@ Zugriffskonzept
 ## Aufbewahrungsregeln
 
 - DSFA muss waehrend der gesamten Dauer der Verarbeitungstaetigkeit aufbewahrt werden.
-- Nach Ende der Verarbeitung mindestens für den Zeitraum etwaiger Anspruchsverjaehrungen (Art. 82 DSGVO; immaterieller Schaden) — Empfehlung: 5 Jahre nach Ende der Verarbeitung; bei öffentlichen Stellen oft 10 Jahre.
-- Alte Versionen nicht loeschen, sondern archivieren.
+- Nach Ende der Verarbeitung den fortbestehenden Nachweiszweck und konkrete Ansprüche prüfen. Erforderliche Bestandteile, Zugriffsrechte und nächsten Überprüfungstermin festhalten.
+- Frühere Versionen aufbewahren, soweit sie erforderlich sind, um frühere Risiken, Maßnahmen und Entscheidungen nachzuweisen.
 - Bei Anbieterwechsel: Übergabe der Akte einschliesslich aller Versionen.
-- Bei steuerlich relevanten Verarbeitungen ggf. § 147 AO 10 Jahre.
+- Der Einsatz einer Verarbeitung in der Buchhaltung legt keine Steuerfrist für die gesamte DSFA fest. Ist eine Anlage selbst ein Buchungsbeleg, beträgt dessen Frist grundsätzlich acht Jahre. Für Bücher und Jahresabschlüsse gelten zehn, für Handels- oder Geschäftsbriefe sechs Jahre. Fristbeginn und fortbestehende steuerliche Bedeutung anhand [§ 147 AO](https://www.gesetze-im-internet.de/ao_1977/__147.html) Abs. 1, 3 und 4 prüfen.
 
 ## Beweiswertkriterien
 

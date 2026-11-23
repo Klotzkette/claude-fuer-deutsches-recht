@@ -7,6 +7,11 @@ on:
       - 'scripts/validate-current-law-sentinels.py'
       - 'scripts/test-externe-hinweise.py'
       - 'scripts/test-reviewed-law-corrections.py'
+      - 'scripts/test-fachkorrektur-aufbewahrung.py'
+      - 'scripts/test-current-law-fachinhalte.py'
+      - 'scripts/test-main-skill-revisions.py'
+      - 'scripts/main_skill_revisions.py'
+      - 'quality/fachkorrekturen-2026-11-23/**'
       - 'scripts/generator_cli.py'
       - 'scripts/test-generator-cli.py'
       - 'scripts/skill_limits.py'
@@ -27,6 +32,11 @@ on:
       - 'scripts/validate-current-law-sentinels.py'
       - 'scripts/test-externe-hinweise.py'
       - 'scripts/test-reviewed-law-corrections.py'
+      - 'scripts/test-fachkorrektur-aufbewahrung.py'
+      - 'scripts/test-current-law-fachinhalte.py'
+      - 'scripts/test-main-skill-revisions.py'
+      - 'scripts/main_skill_revisions.py'
+      - 'quality/fachkorrekturen-2026-11-23/**'
       - 'scripts/generator_cli.py'
       - 'scripts/test-generator-cli.py'
       - 'scripts/skill_limits.py'
@@ -57,7 +67,11 @@ jobs:
       - name: Fehlermuster und Altjahresabgrenzung testen
         run: python3 scripts/test-externe-hinweise.py
       - name: Eigenständig geprüfte Norm- und Verfahrenskorrekturen testen
-        run: python3 scripts/test-reviewed-law-corrections.py
+        run: |
+          python3 scripts/test-reviewed-law-corrections.py
+          python3 scripts/test-fachkorrektur-aufbewahrung.py
+          python3 scripts/test-current-law-fachinhalte.py
+          python3 scripts/test-main-skill-revisions.py
       - name: Generator-Hilfe ohne Dateiveränderung prüfen
         run: |
           python3 scripts/test-generator-cli.py

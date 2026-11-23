@@ -18,7 +18,7 @@ description: "Für Influencer-Recht: Steuerprüfung – Unterlagenpaket für Cre
 Betriebsprüfungen bei Creator richten sich auf typische Schwachstellen:
 
 - **§ 193 AO**: Betriebsprüfung bei Gewerbetreibenden und Freiberuflern; Creator mit relevanten Umsätzen typischerweise alle 3–5 Jahre.
-- **§ 147 AO**: Aufbewahrungspflicht 10 Jahre für Buchungsbelege, 6 Jahre für sonstige Unterlagen; elektronische Belege analog.
+- **§ 147 Abs. 1, 3 und 4 AO.** Auch bei elektronischen Unterlagen entscheidet die Funktion. Buchungsbelege grundsätzlich acht Jahre ab Ende des Entstehungsjahrs, Bücher und Jahresabschlüsse zehn Jahre, Handels- oder Geschäftsbriefe sechs Jahre aufbewahren. Ein als Buchungsbeleg dienender Plattformbericht gehört zu den Buchungsbelegen. [§ 147 AO](https://www.gesetze-im-internet.de/ao_1977/__147.html).
 - **§ 200 AO**: Mitwirkungspflicht des Steuerpflichtigen; Creator muss Unterlagen vorlegen.
 - **§ 162 AO**: Schätzung bei fehlendem Nachweis; Finanzamt schätzt zuungunsten.
 - **GoBD**: Grundsätze ordnungsmäßiger Buchführung und Datenhaltung; Screenshots und digitale Belege müssen revisionssicher sein.
@@ -57,7 +57,7 @@ Betriebsprüfungen bei Creator richten sich auf typische Schwachstellen:
 ## Typische Fallen
 
 - Sachleistungen für Prüfungsjahre nicht erfasst → Nachversteuerung mit Zinsen.
-- Belege vernichtet vor Ablauf 10 Jahre → Schätzung zuungunsten.
+- Fehlen erforderliche Belege, dokumentieren, welche Besteuerungsgrundlagen sich noch ermitteln oder berechnen lassen. Vor einer Löschung die dokumentbezogene Frist und eine offene Festsetzungsfrist prüfen. [§ 162 AO](https://www.gesetze-im-internet.de/ao_1977/__162.html), [§ 147 AO](https://www.gesetze-im-internet.de/ao_1977/__147.html).
 - Reisekostenanteil ohne Reisetagebuch → kompletter Abzug verweigert.
 - Kommunikation mit Prüfer ohne Berater → unbeabsichtigte Zugeständnisse.
 

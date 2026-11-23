@@ -358,6 +358,68 @@ def previous_bytes(root, path, *, plugin=None):
     return old
 
 
+FACHKORREKTUREN = "quality/fachkorrekturen-2026-11-23"
+FACHKORREKTUR_REGISTER = {
+    "sozialrecht-erstattung": {"fachanwalt-sozialrecht", "krankenkassenrecht-krankenversicherung",
+                               "selbstvertreter-sozialgericht"},
+    "aufbewahrung-und-gruender": {"datenschutzrecht", "gesellschaftsgruender", "influencer-recht",
+                                  "kanzlei-allgemein", "mittelstand-corporate-ma", "nda-abgleich",
+                                  "weg-hausverwaltung"},
+}
+# Die Einzelregister binden Pfad und beide Hashes an genau diese Prüfung.
+FACHKORREKTUR_HASHES = {
+    "sozialrecht-erstattung": "b87b3e34cfd940cd967a88f2edd3df9569f85f8d09f89c68b6a52e657f6fb7f8",
+    "aufbewahrung-und-gruender": "01478a5d5aecac24b999de7ab80a14baac5371910d1c26c8320c54510e4ba973",
+}
+
+
+def archived_fachtext(root, base, relative, row, current, plugin):
+    if plugin and relative.parts[0] != plugin:
+        raise ValueError("Falsches Plugin der belegten Fachtextfortschreibung")
+    old = inside(root, f"{base}/bestand/{relative.as_posix()}.txt").read_bytes()
+    if digest(current) != row["nachher"] or digest(old) != row["vorher"] or old == current:
+        raise ValueError("Fachtext oder Vorfassung verändert: " + str(relative))
+    return old
+
+
+def fachkorrektur_register(root, topic, *, required=False):
+    registry = root / FACHKORREKTUREN / (topic + ".json")
+    if not registry.is_file():
+        if required:
+            raise ValueError(f"{topic}: Register der Fachkorrekturen fehlt")
+        return {}
+    raw = registry.read_bytes()
+    if digest(raw) != FACHKORREKTUR_HASHES[topic]:
+        raise ValueError(f"{topic}: Register der Fachkorrekturen verändert")
+    rows = json.loads(raw, object_pairs_hook=unique_object)
+    for name in rows:
+        parts = Path(name).parts
+        if not (parts and parts[0] in FACHKORREKTUR_REGISTER[topic] and
+                (len(parts) == 4 and parts[1] == "skills" and parts[3] == "FACHINHALT.md" or
+                 len(parts) == 2 and parts[1] == parts[0] + "-werkstatt.md")):
+            raise ValueError(f"{name}: unzulässiger Pfad im Fachkorrekturregister")
+    return rows
+
+
+def before_fachkorrektur(root, path, current, *, plugin=None):
+    relative = path.relative_to(root)
+    for topic, plugins in FACHKORREKTUR_REGISTER.items():
+        if relative.parts[0] in plugins:
+            row = fachkorrektur_register(root, topic).get(relative.as_posix())
+            if row is not None:
+                return archived_fachtext(root, FACHKORREKTUREN, relative, row, current, plugin)
+    return current
+
+
+def validate_fachkorrekturen(root):
+    if not (root / FACHKORREKTUREN).exists():
+        return  # Historischer Stand oder Testbestand ohne diese Korrekturrunde.
+    for topic in FACHKORREKTUR_REGISTER:
+        for name, row in fachkorrektur_register(root, topic, required=True).items():
+            path = inside(root, name)
+            archived_fachtext(root, FACHKORREKTUREN, Path(name), row, path.read_bytes(), None)
+
+
 def before_fachaufnahme(root, path, current, *, plugin=None):
     """Liest die einzeln belegte Vorfassung eines redaktionell geänderten Fachtexts."""
     relative = path.relative_to(root)
@@ -371,12 +433,7 @@ def before_fachaufnahme(root, path, current, *, plugin=None):
     row = load(registry).get(relative.as_posix())
     if row is None:
         return current
-    if plugin and relative.parts[0] != plugin:
-        raise ValueError("Falsches Plugin der belegten Fachtextfortschreibung")
-    old = inside(root, base + "bestand/" + relative.as_posix() + ".txt").read_bytes()
-    if digest(current) != row["nachher"] or digest(old) != row["vorher"] or old == current:
-        raise ValueError("Fachtext oder Vorfassung verändert: " + str(relative))
-    return old
+    return archived_fachtext(root, base.rstrip("/"), relative, row, current, plugin)
 
 
 PRUEFER_PROOF = Path("quality/pruefer-fortschreibung-2026-11-21")
@@ -510,6 +567,9 @@ def historical_bytes(root, path, expected, *, plugin=None):
         return current
     from case_navigation_revision import CASES, previous_case_readme
     root, path = Path(root).resolve(), Path(path).resolve()
+    earlier = before_fachkorrektur(root, path, current, plugin=plugin)
+    if earlier != current and digest(earlier) == expected:
+        return earlier
     earlier = before_package_download_link(root, path, current, expected, plugin=plugin)
     if earlier != current:
         return earlier
@@ -552,6 +612,7 @@ def validate_all(root):
     from package_link_revisions import validate_all as validate_package_links
     validate_package_links(root)
     validate_pruefer_release(root)
+    validate_fachkorrekturen(root)
     return len(rows)
 
 

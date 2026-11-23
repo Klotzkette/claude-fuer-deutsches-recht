@@ -114,7 +114,7 @@ Jobcenter rechnet alte Forderungen mit Buergergeld auf. Prüfen Sie:
 
 - Maximalbetrag 30 % des Regelbedarfs (§ 43 SGB II)
 - Tilgungsplan
-- Verjährung (4 Jahre § 50 SGB X)
+- Wann ist der Erstattungsbescheid unanfechtbar geworden? Die vier Jahre laufen ab dem Ende dieses Kalenderjahres. Fordern Sie auch spätere Bescheide und die Nachweise über Zahlungen oder Vollstreckung an, wenn das Jobcenter die Forderung weiterhin einzieht. [§ 50 Abs. 4 SGB X](https://www.gesetze-im-internet.de/sgb_10/__50.html)
 
 ## Worauf Sie besonders achten müssen
 

@@ -32,7 +32,9 @@ EuGH, Urteil vom 26.10.2023 - C-307/22, FT: Die erste Kopie der personenbezogene
 
 ## Löschfristen und Aufbewahrungspflichten
 
-Löschbegehren scheitern regelmäßig an: § 257 HGB (10 Jahre Handelsbücher und Buchungsbelege), § 147 AO (6 Jahre Geschäftsbriefe, 10 Jahre Buchungsunterlagen), § 195 ff. BGB (regelmäßige Verjährungsfrist 3 Jahre ab Jahresende), § 18 Abs. 4 WEG i.V.m. § 24 WEG (Beschlusssammlung dauerhaft als Gemeinschaftseigentum). Norm § 257 HGB: https://www.gesetze-im-internet.de/hgb/__257.html. Norm § 147 AO: https://www.gesetze-im-internet.de/ao_1977/__147.html
+Bei einem Löschantrag bestimmen, ob die Gemeinschaft oder der Verwalter für genau diese Unterlage handels- oder steuerrechtlich aufbewahrungspflichtig ist. Die Grundfristen betragen für Bücher und Jahresabschlüsse zehn Jahre, für Buchungsbelege acht und für Handels- oder Geschäftsbriefe sechs. Das maßgebliche Jahresende und eine offene steuerliche Festsetzungsfrist je Unterlage prüfen. [§ 257 HGB](https://www.gesetze-im-internet.de/hgb/__257.html) Abs. 1, 4 und 5, [§ 147 AO](https://www.gesetze-im-internet.de/ao_1977/__147.html) Abs. 1, 3 und 4.
+
+Eine konkrete Rechtsverteidigung kann die erforderlichen Unterlagen nach Art. 17 Abs. 3 Buchst. e DSGVO schützen. Die regelmäßige Verjährung allein begründet keine Pflicht, sämtliche Eigentümerdaten zu speichern. Für Einträge in der Beschluss-Sammlung die Pflicht zur Führung und die Löschungsmöglichkeiten bei Aufhebung oder Bedeutungsverlust prüfen. [§ 24 WEG](https://www.gesetze-im-internet.de/woeigg/__24.html) Abs. 7 und 8.
 
 ## Verweigerungsgründe
 

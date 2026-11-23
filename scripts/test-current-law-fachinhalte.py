@@ -50,6 +50,31 @@ class FachinhaltSentinelTests(unittest.TestCase):
                 self.assertEqual(status, 1)
                 self.assertIn(finding, output)
 
+    def test_erstattungsfrist_in_den_arbeitsunterlagen(self):
+        from skill_sources import fachinhalt_path
+
+        root = Path(__file__).resolve().parents[1]
+        modules = {
+            "fachanwalt-sozialrecht": ["laienhilfe-aufhebung-rueckforderung"],
+            "krankenkassenrecht-krankenversicherung": ["rueckforderung-unrecht-erstattungsstreit"],
+            "selbstvertreter-sozialgericht": ["buergergeld-jobcenter-sgb-ii", "erstattung-zu-unrecht-50-sgb-x"],
+        }
+        workshop = root / "selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-werkstatt.md"
+        paths = [fachinhalt_path(root / plugin / "skills" / slug / "SKILL.md")
+                 for plugin, slugs in modules.items() for slug in slugs]
+        for path in [*paths, workshop]:
+            with self.subTest(path=path.relative_to(root)):
+                text = path.read_text(encoding="utf-8")
+                self.assertIn("unanfechtbar geworden", text)
+                self.assertIn("Kalenderjahr", text)
+                self.assertRegex(text.lower(), r"vier(?:jährige|jahresfrist| jahre)")
+                self.assertNotRegex(text, r"Kalenderjahrs der Bekanntgabe|ab 4[.] Jahr Verjaehrung|"
+                                          r"§ 50 Abs[.] 4 SGB X\) ab Entstehung|"
+                                          r"Absolute Verjährungsgrenze: 30 Jahre")
+        # Ein Rechtsbehelf über den Jahreswechsel muss das Ende verschieben.
+        example = workshop.read_text(encoding="utf-8")
+        self.assertRegex(example, r"Dezember 2020[^.]+Februar 2022[^.]+31[.] Dezember 2026")
+
     def test_clean_preserved_text_and_other_subject_remain_permitted(self):
         self.assertEqual(self.run_source("FACHINHALT.md", "# Belegter Prüfauftrag\n")[0], 0)
         self.assertEqual(self.run_source("FACHINHALT.md", "# Immissionsschutz\nBImSchG\n")[0], 0)
