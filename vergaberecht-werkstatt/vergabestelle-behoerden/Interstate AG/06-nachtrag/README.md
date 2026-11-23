@@ -24,6 +24,7 @@ Beginnen Sie mit diesen Unterlagen.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
+| 31.07.2026 | [Auftragsleistungsverzeichnis KF3 · bepreister Bieterrücklauf](Grundakte/00_auftrags_lv_kf3.xlsx) | XLSX |
 | 13.08.2026 | [Bauvertrag KF3 · Vertragsurkunde und Leistungsverzeichnis](Grundakte/01_bauvertrag.docx) | DOCX |
 | 13.08.2026 | [KF3 · Wer für die Niederlassung West Erklärungen abgibt](Grundakte/02_zustaendigkeit.eml) | EML |
 | 02.10.2026 | [Wandfuß Feldrain · Varianten für Querung der beiden Engstellen](Grundakte/03_aenderungsbegehren.eml) | EML |
@@ -35,12 +36,13 @@ Beginnen Sie mit diesen Unterlagen.
 
 ## Nachreichungen
 
-Der gemeinsam unterschriebene Feldbuchauszug und die am 23. November eingegangenen Leistungsnachweise verändern die Mengenbasis. Stellen Sie bisher ausgeführte Leistungen und die Prognose bis zum Bauende gesondert dar. Überarbeiten Sie das Verhandlungsergebnis und formulieren Sie eine umsetzbare Anweisung für die nächste Schicht.
+Der gemeinsam unterschriebene Feldbuchauszug, die Leistungsnachweise und das fortgeschriebene Nachtrags-LV vom 23. November verändern die Mengenbasis. Stellen Sie bisher ausgeführte Leistungen und die Prognose bis zum Bauende gesondert dar. Überarbeiten Sie das Verhandlungsergebnis und formulieren Sie eine umsetzbare Anweisung für die nächste Schicht.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
 | 19.11.2026 | [Gemeinsames Aufmaß FB-12 · Stand nach der vierten Nachtschicht](Nachreichungen/09_feldbuch.xlsx) | XLSX |
 | 23.11.2026 | [Sperrprotokolle und Baggerstunden · Belegabgleich zu N7.2 bis N7.4](Nachreichungen/10_schichtabgleich.xlsx) | XLSX |
+| 23.11.2026 | [Nachtragsleistungsverzeichnis N7 · Mengenfortschreibung der Auftragnehmerin](Nachreichungen/11_nachtrags_lv_n7.xlsx) | XLSX |
 
 ## Quellen
 

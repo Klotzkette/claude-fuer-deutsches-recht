@@ -4,7 +4,8 @@
 Keine Testakte wird erzeugt oder als Release-Asset mitveröffentlicht. Native
 Plugins bleiben flach; bereits vorhandene portable Varianten behalten ihren
 Plugin-Unterordner. Für die Paket-README wird die Navigation anhand des
-Archivinhalts und des Quellcommits gesetzt. Alle übrigen Dateien bleiben bytegleich.
+Archivinhalts und des Quellcommits gesetzt. Bei gestuften Freigaben wird das
+Versionsfeld der ausdrücklich per Quellhash gebundenen Paketmanifeste aktualisiert.
 """
 from __future__ import annotations
 
@@ -116,6 +117,10 @@ def validate_scope(scope: dict, root: Path) -> dict[str, dict]:
         raise ValueError("Komponententag passt nicht zur Qualitätsrunde")
     if not isinstance(scope.get("plugins"), list) or not scope["plugins"]:
         raise ValueError("Expliziter nichtleerer Plugin-Scope erforderlich")
+    if any("previous_release" in plugin for plugin in scope["plugins"]):
+        registered = root / "scripts/data" / (scope["tag"] + "-scope.json")
+        if edition or not registered.is_file() or json.loads(registered.read_bytes()) != scope:
+            raise ValueError("Gestufte Freigabe benötigt den vollständigen registrierten Scope ihres Tags")
     market = json.loads((root / ".claude-plugin/marketplace.json").read_text())
     entries = {p["name"]: p for p in market["plugins"]}
     seen, assets = set(), {REPORT, CHECKSUMS}
@@ -124,12 +129,26 @@ def validate_scope(scope: dict, root: Path) -> dict[str, dict]:
         if not SLUG.fullmatch(name) or name in seen or name not in entries:
             raise ValueError(f"Unbekanntes oder doppeltes Plugin im Scope: {name}")
         seen.add(name)
+        source_version = entries[name]["version"]
+        active_tag = scope["tag"]
+        if "previous_release" in plugin:
+            prior = plugin["previous_release"]
+            if (not isinstance(prior, dict) or set(prior) != {"tag", "version", "manifests"}
+                    or not re.fullmatch(r"\d+\.\d+\.\d+", str(prior["version"]))
+                    or prior["tag"] != "qualitaetsrunde-v" + prior["version"]
+                    or tuple(map(int, prior["version"].split("."))) >= tuple(map(int, scope["version"].split(".")))
+                    or not isinstance(prior["manifests"], dict) or not prior["manifests"]):
+                raise ValueError(f"{name}: ungültiger Vorgänger der gestuften Freigabe")
+            if source_version == prior["version"]:
+                active_tag = prior["tag"]
+        if source_version != scope["version"] and active_tag == scope["tag"]:
+            raise ValueError(f"{name}: Marketplace-Version passt nicht zum Scope")
         variants = plugin.get("variants", [])
         if variants not in (["native"], ["native", "portable"]):
             raise ValueError(f"{name}: nur native und ausdrücklich vorhandene portable Variante zulässig")
         for variant in variants:
             asset = name + ("-portable" if variant == "portable" else "") + ".zip"
-            if not edition and scoped_asset_url(asset, root=root) != f"https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/{scope['tag']}/{asset}":
+            if not edition and scoped_asset_url(asset, root=root) != f"https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/{active_tag}/{asset}":
                 raise ValueError(f"{asset}: exakte Komponentenroute fehlt")
             assets.add(asset)
         prompts = plugin.get("prompts")
@@ -157,8 +176,6 @@ def validate_scope(scope: dict, root: Path) -> dict[str, dict]:
                     or sha256_file(directory / filename) != expected):
                 raise ValueError(f"{name}: erhaltener Prompt wurde verändert und muss neu veröffentlicht werden: {filename}")
         validate_plugin_version(entries[name], market["version"], root=root)
-        if entries[name]["version"] != scope["version"]:
-            raise ValueError(f"{name}: Marketplace-Version passt nicht zum Scope")
     if scope.get("required_main_workflow_reviews") is not None:
         if scope["required_main_workflow_reviews"] is not True:
             raise ValueError("Hauptworkflow-Nachprüfung muss ausdrücklich true sein")
@@ -338,6 +355,31 @@ def document_contents(root, directory, files, commit, routes):
     return contents
 
 
+def versioned_manifest(manifest, version):
+    return (json.dumps({**manifest, "version": version}, ensure_ascii=False, indent=2) + "\n").encode()
+
+
+def package_contents(root, directory, files, entry, plugin, scope, commit, routes):
+    """Die öffentlich aktive Version und die im Release geprüfte Ausgabe dürfen gestuft wechseln."""
+    manifests = check_manifests(files, entry["name"], entry["version"])
+    prior = plugin.get("previous_release")
+    if not prior:
+        return manifests, document_contents(root, directory, files, commit, routes)
+    if set(manifests) != set(prior["manifests"]):
+        raise ValueError(f"{entry['name']}: Nachweis erfasst nicht alle Paketmanifeste")
+    routes = {entry["name"] + ("-portable" if v == "portable" else "") + ".zip": (prior["tag"], scope["tag"])
+              for v in plugin["variants"]}
+    rendered = document_contents(root, directory, files, commit, routes)
+    for name in manifests:
+        raw = files[name].read_bytes()
+        manifest = json.loads(raw)
+        predecessor_digest = hashlib.sha256(versioned_manifest(manifest, prior["version"])).hexdigest()
+        if raw != versioned_manifest(manifest, entry["version"]) or predecessor_digest != prior["manifests"][name]:
+            raise ValueError(f"{entry['name']}/{name}: Manifest stimmt nicht mit dem Vorgängernachweis überein")
+        rendered[name] = versioned_manifest(manifest, scope["version"])
+    return manifests, rendered
+
+
 def write_zip(target: Path, files: dict[str, Path], prefix: str = "", *, readme: bytes | None = None, documents=None) -> None:
     rendered = dict(documents or {})
     if readme is not None:
@@ -406,9 +448,8 @@ def validate_assets(dist: Path, scope: dict, root: Path, *, expected_commit: str
         name = plugin["name"]
         directory = (root / entries[name]["source"]).resolve()
         files = source_files(root, directory)
-        manifests = check_manifests(files, name, scope["version"])
+        manifests, documents = package_contents(root, directory, files, entries[name], plugin, scope, commit, routes)
         active = verify_reachability(files)
-        documents = document_contents(root, directory, files, commit, routes)
         evidence = report["plugins"][name]
         if evidence["skills"] != active or evidence["manifests"] != manifests:
             raise ValueError(f"{name}: Skill-/Manifestnachweis stimmt nicht")
@@ -452,9 +493,8 @@ def build(dist: Path, scope: dict, root: Path = ROOT, *, expected_commit: str | 
         name = plugin["name"]
         directory = (root / entries[name]["source"]).resolve()
         files = source_files(root, directory)
-        manifests = check_manifests(files, name, scope["version"])
+        manifests, documents = package_contents(root, directory, files, entries[name], plugin, scope, state["commit"], routes)
         active = verify_reachability(files)
-        documents = document_contents(root, directory, files, state["commit"], routes)
         evidence = {"source": entries[name]["source"], "skills": active, "manifests": manifests, "archives": {}}
         for variant in plugin["variants"]:
             filename = name + ("-portable" if variant == "portable" else "") + ".zip"
