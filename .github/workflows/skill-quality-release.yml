@@ -28,6 +28,7 @@ jobs:
     env:
       TAG: ${{ inputs.tag }}
       EXPECTED_COMMIT: ${{ inputs.expected_commit }}
+      SCOPE: ${{ inputs.tag == 'qualitaetsrunde-v445.36.12' && 'scripts/data/interstate-ag-release-scope.json' || 'scripts/data/skill-quality-release-scope.json' }}
     steps:
       - name: Nur geprüften Main-Workflow zulassen
         if: github.ref != 'refs/heads/main'
@@ -51,9 +52,12 @@ jobs:
         run: |
           test "$(git rev-parse HEAD)" = "$EXPECTED_COMMIT"
           git merge-base --is-ancestor HEAD origin/main
-          test "$TAG" = "$(python3 -c 'import json; print(json.load(open("scripts/data/skill-quality-release-scope.json"))["tag"])')"
+          test "$TAG" = "$(python3 -c 'import json, sys; print(json.load(open(sys.argv[1]))["tag"])' "$SCOPE")"
           test -s "docs/releases/$TAG.md"
           python3 -m pip install -r requirements.txt
+      - name: Vergabestellen-Akten und installierbares Paket prüfen
+        if: inputs.tag == 'qualitaetsrunde-v445.36.12'
+        run: python3 scripts/test-interstate-testakten.py
       - name: Struktur, Auswahl und Quellenbindung prüfen
         run: |
           node scripts/validate-plugin-structure.mjs
@@ -113,8 +117,8 @@ jobs:
         run: python3 scripts/validate-plugin-consolidation.py
       - name: Vollständige Pakete aus dem freigegebenen Commit bauen
         run: |
-          python3 scripts/build-skill-quality-release.py --dist "$RUNNER_TEMP/quality-dist" --expected-commit "$EXPECTED_COMMIT"
-          python3 scripts/build-skill-quality-release.py --dist "$RUNNER_TEMP/quality-dist" --verify --expected-commit "$EXPECTED_COMMIT"
+          python3 scripts/build-skill-quality-release.py --scope "$SCOPE" --dist "$RUNNER_TEMP/quality-dist" --expected-commit "$EXPECTED_COMMIT"
+          python3 scripts/build-skill-quality-release.py --scope "$SCOPE" --dist "$RUNNER_TEMP/quality-dist" --verify --expected-commit "$EXPECTED_COMMIT"
       - name: Prüfnachweise sichern
         if: always()
         uses: actions/upload-artifact@v4
@@ -130,4 +134,4 @@ jobs:
         # führt die vollständige --verify-download-Prüfung gegen die Quellen aus
         # und setzt erst danach --draft=false; bestehende Publikationen bleiben.
         run: |
-          python3 scripts/publish-skill-quality-release.py --dist "$RUNNER_TEMP/quality-dist" --expected-commit "$EXPECTED_COMMIT" --repo "$GITHUB_REPOSITORY"
+          python3 scripts/publish-skill-quality-release.py --scope "$SCOPE" --dist "$RUNNER_TEMP/quality-dist" --expected-commit "$EXPECTED_COMMIT" --repo "$GITHUB_REPOSITORY"
