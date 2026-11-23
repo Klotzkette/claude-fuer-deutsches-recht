@@ -1,0 +1,369 @@
+{
+  "titel": "Schieferbachbrücke – fünf Wartetage am Widerlager West",
+  "zeichen": "DI-W/05-BW17",
+  "einstieg": "Für das Widerlager der Schieferbachbrücke fehlte eine freigegebene Bewehrungszeichnung. Die Steinbogen Ingenieurbau GmbH verlangt 13.787,00 Euro. Ihr Terminplan sieht einen Kran und drei Fachkräfte am Widerlager vor. Im Bautagebuch tauchen dieselben Ressourcen an anderer Stelle auf. Die Niederlassung West begleitet als Auftraggeberin einen laufenden Zivilprozess.",
+  "auftrag": "Bereiten Sie für die Prozessvertretung der Deutschen Interstate AG die Klageerwiderung und eine Entscheidungsvorlage für die Projektleitung vor. Stellen Sie den vorgesehenen Ablauf dem belegbaren Ablauf jeder Schicht gegenüber. Arbeiten Sie heraus, welche Mitwirkung geschuldet war, wann die Auftragnehmerin leistungsbereit war und welche Positionen durch welche Ursache entstanden sein können. Beziffern Sie die vertretbaren Betragsvarianten, ordnen Sie den Beweisangeboten konkrete Tatsachen zu und halten Sie die gerichtliche Frist fest.",
+  "nachreichung": "Am 19. und 20. November gehen die Maschinenaufzeichnung und die Antwort des Kranvermieters ein. Gleichen Sie beides mit der früheren Erklärung der Bauleitung und der Kalkulation ab. Überarbeiten Sie die bestrittenen Zeitfenster, den Umfang einer noch sinnvollen Beweiserhebung und den Verhandlungsspielraum.",
+  "quellen": [
+    [
+      "§ 642 BGB – Mitwirkung des Bestellers",
+      "https://www.gesetze-im-internet.de/bgb/__642.html"
+    ],
+    [
+      "§ 280 BGB – Schadensersatz wegen Pflichtverletzung",
+      "https://www.gesetze-im-internet.de/bgb/__280.html"
+    ],
+    [
+      "§ 286 BGB – Verzug des Schuldners",
+      "https://www.gesetze-im-internet.de/bgb/__286.html"
+    ],
+    [
+      "§ 291 BGB – Prozesszinsen",
+      "https://www.gesetze-im-internet.de/bgb/__291.html"
+    ],
+    [
+      "§ 288 BGB – Verzugszinsen und sonstiger Verzugsschaden",
+      "https://www.gesetze-im-internet.de/bgb/__288.html"
+    ],
+    [
+      "§ 138 ZPO – Erklärungspflicht über Tatsachen",
+      "https://www.gesetze-im-internet.de/zpo/__138.html"
+    ],
+    [
+      "§ 286 ZPO – Freie Beweiswürdigung",
+      "https://www.gesetze-im-internet.de/zpo/__286.html"
+    ],
+    [
+      "§ 287 ZPO – Schadensermittlung",
+      "https://www.gesetze-im-internet.de/zpo/__287.html"
+    ]
+  ],
+  "dokumente": [
+    {
+      "phase": "Grundakte",
+      "datei": "01_vertragsauszug.docx",
+      "titel": "Unterzeichneter Bauvertrag BW 17 · Freigabe und Ausführung",
+      "datum": "2026-06-12",
+      "von": "Anke Röder · Deutsche Interstate AG, Niederlassung West, Projektleitung Schieferbachbrücke",
+      "an": "Miriam Jost · Steinbogen Ingenieurbau GmbH, Bauleitung",
+      "text": [
+        "Die Deutsche Interstate AG, Niederlassung West, beauftragt die Steinbogen Ingenieurbau GmbH mit der Instandsetzung der Schieferbachbrücke in Essen. Der Einheitspreisvertrag umfasst insbesondere die Herstellung des westlichen Widerlagers und des östlichen Entwässerungsschachts. Auftragssumme 1.124.600,00 Euro netto. Es gilt das BGB. Die Parteien haben die VOB/B nicht einbezogen. Abschnitt 11 bestimmt Essen als Gerichtsstand für Streitigkeiten aus diesem Vertrag zwischen den Kaufleuten.",
+        "Abschnitt 5.3 überträgt der Auftraggeberin die Ausführungsplanung des Tragwerks. Sie hat die prüffähige Planung einzuholen und die zur Ausführung freigegebene Bewehrungszeichnung W17-B spätestens am 4. September über das Projektpostfach bereitzustellen. Erst mit dem Vermerk „zur Ausführung freigegeben“ dürfen die Anschlussstäbe gesetzt werden. Schalung und Arbeiten am Schacht Ost lassen sich nach den bereits freigegebenen Unterlagen ausführen.",
+        "Abschnitt 8 bestimmt den 21. September, 16 Uhr, als verbindlichen Termin für die Übergabe der Arbeitsfläche West an den nächsten Bauabschnitt. Die Auftragnehmerin meldet fehlende Unterlagen und Auswirkungen unverzüglich an die Projektleitung. Das gemeinsame Bautagebuch hält Personal, Gerät und anderweitige Einsätze fest. Kosten für Bauablaufänderungen sind mit ihrer zeitlichen Zuordnung zu belegen.",
+        "Ausfertigung 2 von 2. Für die Deutsche Interstate AG unterzeichnete Anke Röder mit Einzelvollmacht für BW 17. Für die Steinbogen Ingenieurbau GmbH unterzeichnete Geschäftsführer Georg Damm."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "02_sollablauf.xlsx",
+      "titel": "Terminplan S2 · freigegebener Stand für Widerlager und Folgetakt",
+      "datum": "2026-08-28",
+      "von": "Miriam Jost · Steinbogen Ingenieurbau GmbH, Bauleitung",
+      "an": "Anke Röder · Deutsche Interstate AG, Niederlassung West, Projektleitung Schieferbachbrücke",
+      "text": [
+        "Gemeinsam abgestimmter Steuerungsterminplan. Die Kolonne W besteht aus Jana Wilms, Timo Lentz und Saul Frey. Je Schicht sind 07.00 bis 15.30 Uhr einschließlich 30 Minuten Pause vorgesehen. Der Mietkran K17 ist für acht Stunden je Schicht eingeplant. Samstag und Sonntag sind arbeitsfrei.",
+        "Das Labor gibt den Ausschaltzeitpunkt nach der tatsächlich festgestellten Festigkeit frei. Die beiden Arbeitstage 17. und 18. September stehen im Plan als Reserve zwischen Freigabe und Übergabe. Eine freie Reserve im Gesamtplan belegt noch keine freie Ausweicharbeit für die Westkolonne."
+      ],
+      "tabelle": [
+        [
+          "Vorgang",
+          "Sollbeginn",
+          "Sollende",
+          "Vorgänger / Ressource"
+        ],
+        [
+          "W10 Zeichnungsfreigabe",
+          "04.09.",
+          "04.09.",
+          "Projektleitung und Tragwerksplanung"
+        ],
+        [
+          "W20 Anschlussstäbe und Schalung",
+          "07.09.",
+          "08.09.",
+          "W10 / Kolonne W, K17"
+        ],
+        [
+          "W30 Bewehrungskorb einheben und abnehmen",
+          "09.09.",
+          "09.09.",
+          "W20 / Kolonne W, K17"
+        ],
+        [
+          "W40 Betonage Widerlager",
+          "10.09.",
+          "10.09.",
+          "W30 / Betonwerk Nord"
+        ],
+        [
+          "W50 Erhärten und Freigabe Ausschalen",
+          "11.09.",
+          "16.09.",
+          "W40 / Laborversuch"
+        ],
+        [
+          "W60 Übergabe Arbeitsfläche",
+          "21.09.",
+          "21.09.",
+          "W50 / Projektleitung, Folgelos"
+        ],
+        [
+          "O10 Ringe am Schacht Ost versetzen",
+          "14.09.",
+          "15.09.",
+          "Schachtsohle vorbereitet / K17 bei Bedarf"
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "03_anzeige.eml",
+      "titel": "W17-B · Kolonne ab Montag am Widerlager, Freigabe fehlt",
+      "datum": "2026-09-07",
+      "von": "Miriam Jost · Steinbogen Ingenieurbau GmbH, Bauleitung",
+      "an": "Anke Röder · Deutsche Interstate AG, Niederlassung West, Projektleitung Schieferbachbrücke",
+      "text": [
+        "Frau Röder, heute um 06.52 Uhr war im Projektpostfach weiterhin nur die als Entwurf gekennzeichnete Revision 2 vorhanden. Die Anschlusseisen ändern sich am Rand um mehrere Zentimeter. Wir setzen sie erst nach Ihrer Freigabe. Die drei Mitarbeiter der Westkolonne, die Schalung und der Kran stehen am Bauwerk. Wir bieten die Arbeiten für die vereinbarte Schicht an und bitten bis 09.00 Uhr um den freigegebenen Stand.",
+        "Unser Polier versucht zwischenzeitlich, Ringe am Schacht Ost vorzuziehen. Falls der Zufahrtsstreifen frei bleibt, reicht das nach seiner Schätzung für zwei Stunden. Für die anschließenden Schichten haben wir dort noch keine Einweisung. Wir werden die Einsätze im Tagesbericht ausweisen und machen die Folgen der ausstehenden Mitwirkung dem Grunde nach geltend."
+      ],
+      "absender": "m.jost@steinbogen.example",
+      "empfaenger": "a.roeder@interstate.example",
+      "uhrzeit": "07:08"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "04_schichten.xlsx",
+      "titel": "Baustellenjournal · Auszug aus den Tagesberichten 36 bis 43",
+      "datum": "2026-09-24",
+      "von": "Nils Kall · Deutsche Interstate AG, Niederlassung West, örtliche Bauüberwachung",
+      "an": "Anke Röder · Deutsche Interstate AG, Niederlassung West, Projektleitung Schieferbachbrücke",
+      "text": [
+        "Ich habe die Einträge von meinem Kontrollgang bzw. vom Polier übernommen. Die Kürzel W und O betreffen dasselbe Bauwerk. Die Werte für Personenstunden sind nur eingetragen, wenn eine Leistung von beiden Seiten abgezeichnet wurde. Meine Unterschrift bestätigt die jeweilige Beobachtung. Die abgerechneten Stillstandskosten habe ich nicht anerkannt."
+      ],
+      "tabelle": [
+        [
+          "Datum",
+          "West / dokumentiertes Ereignis",
+          "Andere Beobachtung / Nachweis"
+        ],
+        [
+          "07.09.",
+          "Kein W17-B im Postfach. Drei Kräfte bei Einweisung 07.00 Uhr.",
+          "Schacht Ost 09.00–11.00 Uhr, drei Kräfte und K17, beiderseits quittiert."
+        ],
+        [
+          "08.09.",
+          "Zwei Kräfte am Lagerplatz gesehen. Dritte Person beim Rundgang 10.15 Uhr nicht angetroffen.",
+          "Kranhaube geöffnet. Monteurfahrzeug bis Mittag, auf der Liste als Inspektion."
+        ],
+        [
+          "09.09.",
+          "Polier meldet Westkolonne im Bereitschaftsraum. Keine Westarbeiten quittiert.",
+          "Funkmeldung über Umladen am Ostschacht ab 09.30 Uhr. Dauer offen."
+        ],
+        [
+          "10.09.",
+          "Regen ab 10.40 Uhr. Vor Baubesprechung kein Stillstand wegen Witterung eingetragen.",
+          "Kranfahrer meldet Windunterbrechung 11.00–13.00 Uhr. Kein Windmesserprotokoll beigefügt."
+        ],
+        [
+          "11.09.",
+          "Revision 3 um 15.42 Uhr im Projektpostfach freigegeben. Schichtende 15.30 Uhr.",
+          "Kolonne um 07.15 Uhr gesehen. Schalhaut stapelte der Staplerfahrer."
+        ],
+        [
+          "14.–16.09.",
+          "Anschlussstäbe und Schalung am 14./15., Bewehrungskorb am 16. gesetzt.",
+          "Eingangskontrolle Betonwerk für 17.09. bestätigt."
+        ],
+        [
+          "17.–24.09.",
+          "Betonage am 17., Laborfreigabe zum Ausschalen am 23.09. um 13.10 Uhr.",
+          "Übergabe an das Folgelos am 24.09. um 08.20 Uhr, von beiden Bauleitern quittiert."
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "05_kostennachweis.xlsx",
+      "titel": "Forderung zu BW 17 · Ansatz, Anrechnung und Überleitung",
+      "datum": "2026-10-02",
+      "von": "Miriam Jost · Steinbogen Ingenieurbau GmbH, Bauleitung",
+      "an": "Anke Röder · Deutsche Interstate AG, Niederlassung West, Projektleitung Schieferbachbrücke",
+      "text": [
+        "Beträge in Euro. Der Lohnsatz von 52,00 Euro je Personenstunde stammt aus der Angebotskalkulation und enthält Lohnnebenkosten und anteilige Gemeinkosten. Das Gerät K17 ist als Bediengerät mit Fahrer zu 148,00 Euro je Stunde kalkuliert. Der Fahrer gehört nicht zu den drei Fachkräften. Die Tagessätze für Schalung und Baustelleneinrichtung stammen aus zwei eigenen Kostenstellen.",
+        "Bei dieser Forderung setzen wir für die fünf Schichten 7. bis 11. September die planmäßige Belegung abzüglich des abgezeichneten Einsatzes am Schacht Ost an. Für die drei zusätzlichen Arbeitstage 22., 23. und 24. September beanspruchen wir jeweils den vollen Tagessatz der gemeinsamen Baustelleneinrichtung. Zu letzterem Ansatz ist bislang keine Fremdrechnung gebucht."
+      ],
+      "tabelle": [
+        [
+          "Position",
+          "Zeit bzw. Menge",
+          "Satz EUR",
+          "Forderung EUR"
+        ],
+        [
+          "Westkolonne",
+          "3 Personen × 5 Tage × 8 Stunden",
+          "52,00",
+          "6.240,00"
+        ],
+        [
+          "Mietkran K17 mit Fahrer",
+          "5 Tage × 8 Stunden",
+          "148,00",
+          "5.920,00"
+        ],
+        [
+          "Schalungssatz W",
+          "5 Tage",
+          "195,00",
+          "975,00"
+        ],
+        [
+          "Baustelleneinrichtung",
+          "3 Tage",
+          "420,00",
+          "1.260,00"
+        ],
+        [
+          "Zwischensumme",
+          "",
+          "",
+          "14.395,00"
+        ],
+        [
+          "Arbeit am Schacht Ost am 07.09.",
+          "6 Personenstunden",
+          "52,00",
+          "−312,00"
+        ],
+        [
+          "Kraneinsatz am Schacht Ost am 07.09.",
+          "2 Gerätestunden",
+          "148,00",
+          "−296,00"
+        ],
+        [
+          "Geltend gemachter Betrag",
+          "",
+          "",
+          "13.787,00"
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "06_klage.docx",
+      "titel": "Klage · Steinbogen Ingenieurbau GmbH gegen Deutsche Interstate AG",
+      "datum": "2026-10-30",
+      "von": "Rechtsanwältin Svea Benthin · Kanzlei Benthin, Prozessbevollmächtigte der Steinbogen Ingenieurbau GmbH",
+      "an": "Landgericht Essen · Zivilkammer für Bau- und Architektensachen",
+      "text": [
+        "Namens und in Vollmacht der Steinbogen Ingenieurbau GmbH, vertreten durch ihren Geschäftsführer Georg Damm, erhebe ich gegen die Deutsche Interstate AG, vertreten durch ihren Vorstand, Klage. Das Verfahren betrifft den Bauvertrag BW 17 der Niederlassung West. Die Parteien haben den Gerichtsstand Essen in Abschnitt 11 vereinbart.",
+        "Ich beantrage, die Beklagte zu verurteilen, an die Klägerin 13.787,00 Euro nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen, und der Beklagten die Kosten des Rechtsstreits aufzuerlegen.",
+        "Die Beklagte schuldete die Ausführungsfreigabe bis zum 4. September. Ihr Tragwerksplaner hatte einen Anschluss am westlichen Widerlager geändert. Ohne belastbare Lage der Stäbe durfte die Klägerin dort weder bohren noch den Bewehrungskorb einheben. Am 7. September hat die Klägerin ihre Leistung ausdrücklich angeboten. Die freigegebene Revision 3 ging erst am Freitag nach Schichtende ein. Beweis: Vertragsauszug und E-Mail vom 7. September, vorgelegt als K1 und K3. Zum Empfang und zur tatsächlichen Bereitschaft benennen wir die Polierin Jana Wilms, zu laden über die Klägerin.",
+        "Die Mannschaft musste für die jederzeit erwartete Planlieferung am Bauwerk bleiben. Die Ersatzarbeit am Montagmorgen hat die Klägerin mit 608,00 Euro abgesetzt. Die kurze Geräteinspektion am Dienstag war nach Auskunft des Fahrers bei Bedarf unterbrechbar. Das Umladen am Mittwoch ist nach unserer Kenntnis im Tagebuch als Funkmeldung eines anderen Gewerks erfasst. Am Donnerstag hätte die Mannschaft auch bei einer zeitweisen Kranpause Anschlussstäbe vorbereiten können. Zum vorgesehenen Ablauf legen wir den gemeinsam abgestimmten Plan S2 als K2 und den Journalauszug als K4 vor.",
+        "Für die während des Annahmeverzugs bereitgehaltene Leistung beansprucht die Klägerin 12.527,00 Euro nach § 642 BGB. Die Kostenaufstellung K5 weist Lohn, Gerät und Schalung einschließlich der Gutschriften aus. Für die anschließend verlängerte Baustelleneinrichtung fordert sie weitere 1.260,00 Euro als Verzugsschaden nach §§ 280 Abs. 1 und 2, 286 BGB. Der Übergabetermin war trotz der vorgesehenen Reserve nicht zu halten. Die Zahlung von zusammen 13.787,00 Euro hat die Beklagte mit Schreiben vom 16. Oktober zurückgewiesen. Die Klägerin begehrt mit dieser Klage keine zusätzliche Umsatzsteuer.",
+        "Die zeitlich getrennten Positionen treffen unterschiedliche Ressourcen. Die Klägerin bietet zum Schichtverlauf die Vernehmung ihrer Bauleiterin Miriam Jost und zur erforderlichen Erhärtungszeit ein baubetriebliches Sachverständigengutachten unter Auswertung des Laborbuchs an. Den Originalauftrag und die Geräteabrechnung wird sie auf gerichtlichen Hinweis vorlegen. Svea Benthin, Rechtsanwältin."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "07_verfuegung.docx",
+      "titel": "Begleitverfügung des Landgerichts · schriftliches Vorverfahren",
+      "datum": "2026-11-04",
+      "von": "Landgericht Essen · Zivilkammer für Bau- und Architektensachen",
+      "an": "Rechtsanwalt Kerem Ünal · Kanzlei Ünal, Prozessbevollmächtigter der Deutschen Interstate AG",
+      "text": [
+        "In dem Rechtsstreit Steinbogen Ingenieurbau GmbH gegen Deutsche Interstate AG, Geschäftsnummer 4 O 217/26, ordnet die Kammer das schriftliche Vorverfahren an. Das elektronische Empfangsbekenntnis der Beklagtenvertretung zur Zustellung des Klageschriftsatzes und dieser Verfügung weist den 4. November 2026 aus.",
+        "Die Beklagte wird aufgefordert, ihre Verteidigungsabsicht innerhalb von zwei Wochen ab Zustellung anzuzeigen. Zur schriftlichen Klageerwiderung wird ihr eine Frist bis zum 2. Dezember 2026 gesetzt. Sie soll insbesondere angeben, welche Tagesabläufe und Kostenansätze sie bestreitet und auf welche eigene Wahrnehmung sie sich stützt. Die Einzelheiten der Freigabe und die Dokumentation zur Übergabe an das Folgelos sind für die Vorbereitung des Termins von Interesse.",
+        "Geschäftsstellenvermerk vom 12. November (nach Zustellung auf der Gerichtsabschrift ergänzt): Die anwaltliche Verteidigungsanzeige vom selben Tag ist im elektronischen Gerichtsfach eingegangen und dem Verfahren zugeordnet."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "08_erwiderung_projektteam.docx",
+      "titel": "Erwiderung des Projektteams zur Klage · zur anwaltlichen Verwendung",
+      "datum": "2026-11-16",
+      "von": "Anke Röder · Deutsche Interstate AG, Niederlassung West, Projektleitung Schieferbachbrücke",
+      "an": "Rechtsanwalt Kerem Ünal · Kanzlei Ünal, Prozessbevollmächtigter der Deutschen Interstate AG",
+      "text": [
+        "Sehr geehrter Herr Ünal, für die Beklagte halten wir den Antrag auf Klageabweisung für vertretbar. Die Planfreigabe am 11. September um 15.42 Uhr und die Übergabe am 24. September um 08.20 Uhr räumen wir ein. Das sind eigene Einträge. Vor Gericht sollten wir die verspätete Freigabe ausdrücklich zugestehen. Streitig ist, was die Klägerin in den einzelnen Schichten bei rechtzeitiger Freigabe hätte ausführen können.",
+        "Am Montag wurde am Ostschacht gearbeitet. Dienstag sah Herr Kall gegen 10.15 Uhr den Kran mit offener Haube und einen Monteur. Für die Behauptung, die Inspektion sei sofort unterbrechbar gewesen, fehlt uns der Arbeitszettel. Mittwoch hörte Herr Kall über Funk die Weisung, weitere Ringe umzuladen. Er konnte vom Widerlager aus das Gerät nicht sehen. Donnerstag meldete der Fahrer Wind. Ob die Grenze für den geplanten Hub überhaupt erreicht wurde und wie viele Leute am Boden hätten arbeiten können, ist offen. Die Klägerin behauptet für alle Tage vollständige Bindung, legt aber nur Montag belastbare Arbeitszeiten vor.",
+        "Für die drei Tage nach der geplanten Übergabe ist der Betrag von 420,00 Euro pro Tag erklärungsbedürftig. Der Baucontainer diente auch dem weiterlaufenden Ostschacht. Die tatsächliche Übergabe am Donnerstagmorgen belegt keine ganztägige Zusatzbelegung. Ebenso wenig kennen wir die Festigkeitsmessungen, mit denen die Beklagte den Zeitbedarf zwischen Betonage und Ausschalen prüfen könnte. Bitte fordern Sie die Aufteilung der Baustelleneinrichtung und konkrete Laborwerte an.",
+        "Die Kalkulationssätze bestreiten wir hinsichtlich der enthaltenen ersparten Aufwendungen und der anderweitigen Einsätze. Wir können weder einen Stillstand noch eine andere Beschäftigung pauschal für alle Stunden bestätigen. Als Zeugen stehen Nils Kall für seine Rundgänge und ich für die Freigabe im Projektpostfach zur Verfügung. Für den Kran fordere ich den unveränderten Gerätespeicherauszug und die Tagesabrechnung beim Vermieter an. Bitte reichen Sie diese interne Stellungnahme vor einer Rücksprache mit mir nicht als Parteierklärung ein. Anke Röder."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "09_kranexport.csv",
+      "titel": "K17 · Auszug aus dem Gerätejournal nach Zeitabgleich",
+      "datum": "2026-11-19",
+      "von": "Leif Marten · Hublast West GmbH, Flottenservice",
+      "an": "Anke Röder · Deutsche Interstate AG, Niederlassung West, Projektleitung Schieferbachbrücke",
+      "text": [
+        "Export für Gerätenummer HW-K17 vom 7. bis 11. September, Zeitzone Europe/Berlin. Diese Auswahl enthält alle Zustandswechsel für die angefragten Zeiträume. Der Speicher ordnet keinen Auftrag zu. Die Ortsangaben beruhen auf zwei sich am Rand überlappenden Funkzellen."
+      ],
+      "tabelle": [
+        [
+          "Datum",
+          "Von",
+          "Bis",
+          "Maschinenstatus",
+          "Bereich / Bemerkung"
+        ],
+        [
+          "07.09.",
+          "09.01",
+          "10.58",
+          "Hubwinde aktiv, 4 Lastspiele",
+          "Funkzelle O"
+        ],
+        [
+          "08.09.",
+          "08.10",
+          "11.50",
+          "Hydraulik gesperrt",
+          "Schlüsselschalter Wartung"
+        ],
+        [
+          "09.09.",
+          "09.33",
+          "11.06",
+          "Hubwinde aktiv, 6 Lastspiele",
+          "Grenze der Funkzellen W/O"
+        ],
+        [
+          "10.09.",
+          "11.04",
+          "12.47",
+          "Windauslösung, Hubfreigabe gesperrt",
+          "Anemometer K17"
+        ],
+        [
+          "11.09.",
+          "07.02",
+          "15.28",
+          "Steuerung bereit, keine Lastspiele",
+          "Funkzelle W"
+        ]
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "10_mietabrechnung.eml",
+      "titel": "AW: Rechnung HW-991 und Wartungsfenster des Mietkrans",
+      "datum": "2026-11-20",
+      "von": "Pia Voss · Hublast West GmbH, Vermietung",
+      "an": "Miriam Jost · Steinbogen Ingenieurbau GmbH, Bauleitung",
+      "text": [
+        "Frau Jost, für HW-K17 berechneten wir Ihnen für 7. bis 11. September fünf Vorhaltetage à 750,00 Euro und zwölf auf beide Baustellenbereiche zusammen gebuchte Bedienerstunden à 64,00 Euro, jeweils netto. In der Monatsrechnung HW-991 steht daher für diese Woche ein Teilbetrag von 4.518,00 Euro. Treibstoff stellen Sie selbst. Ein spezieller Stillstandszuschlag ist in dieser Rechnung nicht enthalten.",
+        "Am 8. September hatte unser Monteur einen neuen Druckschlauch eingesetzt. Zwischen 08.10 und 11.50 Uhr blieb die Hydraulik aus Sicherheitsgründen verriegelt. Wir haben den vertraglichen Vorhaltetag dennoch ungekürzt berechnet. Unser Disponent konnte keinen Ersatzkran innerhalb derselben Schicht zusagen. Wer am 9. September die Lastspiele veranlasst hat, geht aus unserem System nicht hervor. Den Bedienstundenzettel hatte der Polier nur als Wochensumme freigezeichnet.",
+        "Sie baten um Weitergabe an Frau Röder. Diesem Schreiben können Sie entnehmen, welche Beträge wir tatsächlich berechnet haben. Eine Bewertung Ihrer Angebotskalkulation ist damit nicht verbunden. Freundliche Grüße, Pia Voss."
+      ],
+      "absender": "p.voss@hublast-west.example",
+      "empfaenger": "m.jost@steinbogen.example",
+      "uhrzeit": "09:17"
+    }
+  ]
+}

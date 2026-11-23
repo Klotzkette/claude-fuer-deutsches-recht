@@ -5,6 +5,8 @@ on:
     paths:
       - 'vergaberecht-werkstatt/**'
       - 'scripts/*vergaberecht-import*'
+      - 'scripts/*interstate*'
+      - 'scripts/data/interstate-ag/**'
       - 'scripts/package-vergaberecht-werkstatt.py'
       - '.github/workflows/vergaberecht-werkstatt.yml'
   push:
@@ -50,6 +52,7 @@ jobs:
           node scripts/validate-marketplace-import.mjs
           python scripts/validate-yaml-frontmatter.py
           python scripts/test-vergaberecht-import.py
+          python scripts/test-interstate-testakten.py
       - name: Fachpakete und Regressionen
         working-directory: vergaberecht-werkstatt
         run: |

@@ -72,6 +72,8 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
+Sieben weitere [Akten der Deutschen Interstate AG](../vergaberecht-werkstatt/vergabestelle-behoerden/Interstate%20AG/README.md) behandeln die Vermerk- und Vertragsprüfung aus Sicht der Vergabestelle.
+
 ## 1. Schwerpunkt: Punktespiegel und Rangfolgenkontrolle
 
 Für streitige Preis- und Qualitätswertungen rekonstruiert der Schwerpunkt Punkte, Angebotsbelege und mögliche Rangwechsel. Die Verbindung umfangreicher Angebotslektüre mit der wirtschaftlichen Zuschlagschance macht ihn zu einem geeigneten vertieften Arbeitsgang.

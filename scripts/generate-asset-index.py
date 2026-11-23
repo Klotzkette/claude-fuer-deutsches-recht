@@ -64,6 +64,8 @@ def companion_section(version: str) -> list[str]:
     lines = [
         "## Akten-Begleitrelease",
         "",
+        "Die [Deutsche Interstate AG](vergaberecht-werkstatt/vergabestelle-behoerden/Interstate%20AG/README.md) stellt sieben Fälle der Niederlassung West jeweils mit Originalunterlagen, Einzel-PDFs und Gesamt-PDF bereit.",
+        "",
         f"Die Akten-ZIPs liegen grundsätzlich in den versionsgleichen Begleitreleases {release_links}. "
         "Je Teil werden höchstens 499 Akten mit beiden ZIP-Varianten und einer eigenen Prüfsummenliste veröffentlicht. "
         "Die vollständigen Akten-Sammelpakete und `alles-komplettpaket.zip` bleiben im Hauptrelease. "

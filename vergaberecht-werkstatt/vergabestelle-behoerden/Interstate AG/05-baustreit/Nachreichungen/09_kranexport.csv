@@ -1,0 +1,10 @@
+﻿Datum;Von;Bis;Maschinenstatus;Bereich / Bemerkung;Exportvermerk
+07.09.;09.01;10.58;Hubwinde aktiv, 4 Lastspiele;Funkzelle O;"K17 · Auszug aus dem Gerätejournal nach Zeitabgleich
+
+19.11.2026 · Leif Marten · Hublast West GmbH, Flottenservice an Anke Röder · Deutsche Interstate AG, Niederlassung West, Projektleitung Schieferbachbrücke
+
+Export für Gerätenummer HW-K17 vom 7. bis 11. September, Zeitzone Europe/Berlin. Diese Auswahl enthält alle Zustandswechsel für die angefragten Zeiträume. Der Speicher ordnet keinen Auftrag zu. Die Ortsangaben beruhen auf zwei sich am Rand überlappenden Funkzellen."
+08.09.;08.10;11.50;Hydraulik gesperrt;Schlüsselschalter Wartung;
+09.09.;09.33;11.06;Hubwinde aktiv, 6 Lastspiele;Grenze der Funkzellen W/O;
+10.09.;11.04;12.47;Windauslösung, Hubfreigabe gesperrt;Anemometer K17;
+11.09.;07.02;15.28;Steuerung bereit, keine Lastspiele;Funkzelle W;

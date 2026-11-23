@@ -27,6 +27,8 @@ SHARED_NAVIGATION[
     f"https://github.com/{REPOSITORY}/blob/main/{CASE_CATALOG}"
     "#weitere-arbeitsakten-und-eigenständige-pluginfassungen"
 ] = CASE_CATALOG
+INTERSTATE_ARCHIVE = "docs/downloads/interstate-ag-nl-west-testakten.zip"
+SHARED_NAVIGATION[f"https://raw.githubusercontent.com/{REPOSITORY}/main/{INTERSTATE_ARCHIVE}"] = INTERSTATE_ARCHIVE
 ORIGINAL_COUNTS = dict(zip(PROMPT_SUFFIXES, (122, 113, 20)))
 
 

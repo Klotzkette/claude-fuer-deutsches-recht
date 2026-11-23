@@ -4,6 +4,8 @@
 
 Sieben fiktive, realitätsnah aufgebaute Vergabeakten mit insgesamt 115 nummerierten Aktenstücken. Jede Akte enthält Ausgangsunterlagen, Verfahrensdaten, Wertungs- oder Eignungsfragen und die passenden Vergabe-, Angebots- oder Rechtsschutzdokumente bis zur Umsetzung einer VK- oder OLG-Entscheidung.
 
+Eine weitere Sammlung für die Auftraggeberseite führt die [Deutsche Interstate AG, Niederlassung West](../vergabestelle-behoerden/Interstate%20AG/README.md). Ihre sieben Fälle enthalten jeweils eine Grundakte und spätere Nachreichungen.
+
 Alle Personen, Unternehmen, Anschriften, Aktenzeichen und Verfahrensabläufe sind frei erfunden. Reale Orts- oder Behördenbezeichnungen dienen ausschließlich einem plausiblen Aktenbild; eine Ähnlichkeit mit einem tatsächlichen Vergabeverfahren ist nicht beabsichtigt.
 
 Die Kontaktdaten sind ausschließlich Bestandteile der fiktiven Testakten. Keine angegebenen E-Mail-Adressen, Telefonnummern, Anschriften oder Domains zur Kontaktaufnahme, Zustellung oder Einreichung verwenden; real wirkende Domains können Dritten gehören.

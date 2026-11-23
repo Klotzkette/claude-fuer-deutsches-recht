@@ -6,5 +6,8 @@
     "445.36.11": {"vorgaenger": "qualitaetsrunde-v445.36.11", "native": 2, "portable": 0},
     "1.0.0": {"vorgaenger": "allgemeines-notariat-v1.0.0", "native": 1, "portable": 0}
   },
-  "unveraendert": ["aktenanleger", "umwandlungssteuerrecht"]
+  "unveraendert": ["aktenanleger", "umwandlungssteuerrecht"],
+  "nachfolger": {
+    "vergabestelle-behoerden.zip": {"ausgabeversion": "445.36.9", "tag": "qualitaetsrunde-v445.36.12"}
+  }
 }
