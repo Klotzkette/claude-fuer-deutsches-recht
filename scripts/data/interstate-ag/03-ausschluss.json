@@ -1,0 +1,229 @@
+{
+  "titel": "Das Kreuz bei 96 Stunden",
+  "zeichen": "DI-W/26-031",
+  "einstieg": "Auf dem Angebotsblatt steht „96 Stunden eingehalten“. Das beigelegte Datenblatt verspricht für die Grundausführung 72 Stunden. Nach einem Unwetter muss das Messnetz Kiebitzrinne vier Tage ohne Zugang zu den Stationen auskommen. Der günstigste Bieter liegt 15.600 Euro vor dem nächsten. Am 9. September liegt der Vorgang erstmals beim Rechtsdienst.",
+  "auftrag": "Prüfen Sie für die Vergabeleitung den ungezeichneten Ausschlussvermerk des Messnetzbetriebs vom 9. September. Kommentieren Sie seine tatsächlichen und rechtlichen Annahmen anhand der Originalunterlagen. Arbeiten Sie nötige Korrekturen in denselben Vermerk ein und geben Sie zum Stichtag eine begründete Empfehlung ab. Behandeln Sie den Umsatznachweis, die technische Aufklärung und die Rangfolge getrennt. Legen Sie die nächste Bieterkorrespondenz, den möglichen Entscheidungstermin und den für eine andere Beurteilung entscheidenden Beleg bei.",
+  "nachreichung": "Öffnen Sie danach die drei Eingänge vom 10. und 11. September. Führen Sie denselben Vermerk fort. Ordnen Sie die belegte frühere Produktkonfiguration, die nachträglich angebotene Zusatzbatterie und die inzwischen eingegangene Beanstandung jeweils dem zutreffenden Verfahrensschritt zu. Arbeiten Sie die Konsequenzen für alle Bieter und die weitere Kommunikation aus.",
+  "quellen": [
+    [
+      "GWB § 97 · Wettbewerb, Transparenz und Gleichbehandlung",
+      "https://www.gesetze-im-internet.de/gwb/__97.html"
+    ],
+    [
+      "VgV § 15 Abs. 5 · Aufklärung im offenen Verfahren",
+      "https://www.gesetze-im-internet.de/vgv_2016/__15.html"
+    ],
+    [
+      "VgV § 53 Abs. 7 · Änderungen der Vergabeunterlagen",
+      "https://www.gesetze-im-internet.de/vgv_2016/__53.html"
+    ],
+    [
+      "VgV § 56 · Prüfung und Nachforderung",
+      "https://www.gesetze-im-internet.de/vgv_2016/__56.html"
+    ],
+    [
+      "VgV § 57 · Ausschluss von Angeboten",
+      "https://www.gesetze-im-internet.de/vgv_2016/__57.html"
+    ],
+    [
+      "GWB § 134 · Vorabinformation und Wartefrist",
+      "https://www.gesetze-im-internet.de/gwb/__134.html"
+    ],
+    [
+      "GWB § 160 Abs. 3 · Rüge und Nachprüfungsantrag",
+      "https://www.gesetze-im-internet.de/gwb/__160.html"
+    ],
+    [
+      "EuGH, 11.05.2017, C-131/16, Archus und Gama · Aufklärung und Austausch eines ursprünglich eingereichten Musters im damaligen Sektorenrecht",
+      "https://op.europa.eu/de/publication-detail/-/publication/962a0cba-3624-11e7-a08e-01aa75ed71a1/language-de"
+    ]
+  ],
+  "dokumente": [
+    {
+      "phase": "Grundakte",
+      "datei": "01_beschaffungsfreigabe.docx",
+      "titel": "Beschaffungsfreigabe für das Messnetz Kiebitzrinne",
+      "datum": "2026-07-28",
+      "von": "Sven Korte · Deutsche Interstate AG, Niederlassung West, Messnetzbetrieb",
+      "an": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "text": [
+        "Beschafft werden 24 baugleiche mobile Pegelstationen einschließlich Mobilfunkmodem, Ladegerät und Transportbehälter. Die eigenen Mitarbeiter setzen die vormontierten Stationen auf vorhandene Messpfosten und aktivieren die Datenkarte. Erdarbeiten oder eine feste Stromversorgung sind nicht vorgesehen.",
+        "Die AG steht unter öffentlicher Kontrolle und betreibt das Messnetz im Rahmen ihrer öffentlichen Aufgaben. Schätzwert für die gesamte Lieferung 452.000 Euro netto. Die Vergabestelle versendet die EU-Bekanntmachung für das offene Lieferverfahren am 30. Juli. Zuschlagskriterium ist allein der Gesamtpreis der Angebote, die alle Mindestanforderungen erfüllen. Nebenangebote sind nicht zugelassen.",
+        "Nach einem Hochwasser kommt unser Trupp mitunter erst am fünften Tag an die Pegel. Daher müssen Messung und Übertragung im angebotenen Lieferzustand vier Tage weiterlaufen. Eine Reservebatterie im Werkhof hilft an der abgesperrten Messstelle nicht."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "02_leistungsverzeichnis.docx",
+      "titel": "Leistungsverzeichnis und Angebotsbedingungen · bereitgestellte Fassung 2",
+      "datum": "2026-08-11",
+      "von": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "an": "Bieterkreis · Vergabeplattform Kiebitzrinne",
+      "text": [
+        "Pos. 2.4: „Die Station muss im angebotenen Lieferzustand mindestens 96 Stunden bei −5 °C ohne Netzanschluss durchgehend jede Minute messen und alle 15 Minuten einen Datensatz senden. Zulässig ist ein im Gehäuse montiertes Zusatzmodul. Ein Eingriff während der 96 Stunden ist ausgeschlossen.“",
+        "Formblatt T, Zeile 7: „Hersteller, Baureihe und vollständiges Bestellkennzeichen der verbindlich angebotenen Ausführung angeben. Die Einhaltung der Pos. 2.4 ist zu bestätigen. Ein Produktblatt der Baureihe ist beizulegen. Das Bestellkennzeichen bestimmt die angebotene Ausstattung.“ Ein herstellerspezifisches Laufzeitgutachten wird mit Angebotsabgabe nicht gefordert.",
+        "Formblatt E3: „Eigenerklärung zum Umsatz im Tätigkeitsbereich in den letzten drei abgeschlossenen Geschäftsjahren beifügen.“ Die Vergabestelle hat sich die Nachforderung fehlender unternehmensbezogener Unterlagen vorbehalten. Angebotsfrist 7. September, 10:00 Uhr. Bindefrist 16. Oktober 2026."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "03_bieterinformation.eml",
+      "titel": "Bieterinformation 04 an alle registrierten Unternehmen",
+      "datum": "2026-08-24",
+      "von": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "an": "Registrierte Unternehmen · Vergabeplattform",
+      "text": [
+        "Auf die Frage, ob wir für die Laufzeit einen externen zweiten Akku im Lieferkoffer akzeptieren: Der Akku im Koffer genügt nicht. Das angebotene Gerät muss die Zeit erreichen, ohne geöffnet zu werden. Ein bereits montierter zweiter Akkueinschub ist zulässig.",
+        "Ein allgemeines Serienblatt darf mehrere Ausstattungsvarianten aufführen. Für unsere Materialwirtschaft ist der Bestellschlüssel der angebotenen Konfiguration erforderlich. Die Abnahme findet bei den in 2.4 genannten Mess- und Sendetakten statt. Die Angebotsfrist bleibt bestehen."
+      ],
+      "absender": "vergabe@interstate-west.example",
+      "empfaenger": "teilnehmer@vergabeplattform.example",
+      "uhrzeit": "11:18"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "04_angebot_flutzeichen.docx",
+      "titel": "Angebot W-668 · Auszug aus Preisblatt, Formblatt T und Begleitschreiben",
+      "datum": "2026-09-07",
+      "von": "Fatma Reuter · Flutzeichen Messtechnik GmbH, Vertrieb",
+      "an": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "text": [
+        "Preisblatt: 24 Stationen zu je 17.450,00 Euro netto, Gesamtpreis 418.800,00 Euro netto einschließlich aller betriebsnotwendigen Einbauten. Formblatt T, Zeile 7: „Flutzeichen P16 | Bestellkennzeichen P16/07 | Pos. 2.4 eingehalten: ja.“",
+        "Begleitschreiben: „Wir liefern stationsfertig gemäß Formblatt T. Das Serienblatt P16, Stand Juni, liegt bei. Der dort für Sonderausstattungen abgebildete Einschub ist nicht als separates Ersatzteil bepreist.“ Die Liste der beigefügten Dateien nennt das Preisblatt, Formblatt T und das Serienblatt. Der Platz neben „E3-Umsätze“ ist leer.",
+        "Serienblatt, Seite 2: „Grundausführung mit einem Einschub: 72 h bei −5 °C. Ausführung mit zwei Einschüben: 102 h bei −5 °C. Messintervall 1 min, Übertragung 15 min.“ Der abgebildete Typenschlüssel auf Seite 3 endet bei „P16/06“; die Ziffernfolge /07 wird dort nicht erläutert."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "05_oeffnungsprotokoll.xlsx",
+      "titel": "Öffnung am 7. September 2026 · Preisblatt und Anlagenliste",
+      "datum": "2026-09-07",
+      "von": "Lennart Birke · Deutsche Interstate AG, Niederlassung West, Submissionsdienst",
+      "an": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "text": [
+        "Export nach Entschlüsselung durch zwei Beschäftigte um 10:08 Uhr. Beträge netto. Die Plattform führt nur die letzte fristgerecht freigegebene Abgabe. Ein gesonderter Eintrag über einen korrigierten Bestellschlüssel liegt nicht vor."
+      ],
+      "tabelle": [
+        [
+          "Bieter",
+          "Abgabe 07.09.",
+          "Stückzahl",
+          "Einzelpreis EUR",
+          "Gesamt EUR",
+          "E3"
+        ],
+        [
+          "Flutzeichen Messtechnik GmbH",
+          "09:41",
+          24,
+          17450,
+          418800,
+          "fehlt"
+        ],
+        [
+          "Uferpuls Instrumente KG",
+          "09:16",
+          24,
+          18100,
+          434400,
+          "enthalten"
+        ],
+        [
+          "Sondenkontor West GmbH",
+          "09:58",
+          24,
+          19250,
+          462000,
+          "enthalten"
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "06_nachforderung_e3.eml",
+      "titel": "Vergabeplattform · Nachforderung der Eigenerklärung E3",
+      "datum": "2026-09-08",
+      "von": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "an": "Fatma Reuter · Flutzeichen Messtechnik GmbH, Vertrieb",
+      "text": [
+        "Bei der Durchsicht Ihres Eingangs konnten wir Formblatt E3 nicht feststellen. Bitte übermitteln Sie ausschließlich die ausgefüllte Erklärung zum Umsatz im Tätigkeitsbereich für die drei letzten abgeschlossenen Geschäftsjahre bis Freitag, 11. September, 12:00 Uhr über das Nachrichtenfach. Sie können das Formblatt hochladen oder die Felder für die drei Jahresumsätze und die Erklärung des Unternehmens in Textform unmittelbar in das Nachrichtenfeld übernehmen.",
+        "Ihr Preisblatt und Ihre technischen Angebotsunterlagen verbleiben im verschlossenen Angebotsbestand. Dieses Schreiben betrifft ausschließlich den Unternehmenseignungsnachweis. Für den elektronischen Zugang der Antwort erzeugt die Plattform einen gesonderten Zeitstempel."
+      ],
+      "absender": "vergabe@interstate-west.example",
+      "empfaenger": "f.reuter@flutzeichen.example",
+      "uhrzeit": "09:16"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "07_technische_rueckfrage.eml",
+      "titel": "Vergabeplattform · Bestellkennzeichen im fristgerechten Angebot",
+      "datum": "2026-09-09",
+      "von": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "an": "Fatma Reuter · Flutzeichen Messtechnik GmbH, Vertrieb",
+      "text": [
+        "Unser Messnetzbetrieb kann das eingetragene Bestellkennzeichen P16/07 nicht dem mitgelieferten Serienblatt zuordnen. Bitte erläutern Sie bis Freitag, 11. September, 12:00 Uhr, welche Ausführung dieser Schlüssel am 7. September um 10:00 Uhr bezeichnete. Bitte benennen Sie die damals bereits bestehende Zuordnungsunterlage mit Versionsstand und die Zahl der eingebauten Einschübe.",
+        "Wir bitten nicht um die Wahl einer Ausstattungsvariante oder die Einreichung eines neuen Angebots. Die separate Nachricht vom 8. September zu E3 bleibt davon unberührt."
+      ],
+      "absender": "vergabe@interstate-west.example",
+      "empfaenger": "f.reuter@flutzeichen.example",
+      "uhrzeit": "08:45"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "08_vermerk_wertung.docx",
+      "titel": "Vergabevermerk zum geplanten Angebotsausschluss · ungezeichneter Entwurf vom 9. September",
+      "datum": "2026-09-09",
+      "von": "Sven Korte · Deutsche Interstate AG, Niederlassung West, Messnetzbetrieb",
+      "an": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "text": [
+        "Zur Mitzeichnung, 14:20 Uhr. Entscheidungsvorschlag: Das Angebot W-668 der Flutzeichen Messtechnik GmbH wird von der Wertung ausgeschlossen. Mit 434.400 Euro netto rückt das Angebot der Uferpuls Instrumente KG auf den ersten Platz. Die abschließende Freigabe und Vorabinformation bleiben der Vergabeleitung vorbehalten.",
+        "Pos. 2.4 der Fassung 2 fordert: „Die Station muss im angebotenen Lieferzustand mindestens 96 Stunden bei −5 °C ohne Netzanschluss durchgehend jede Minute messen und alle 15 Minuten einen Datensatz senden.“ In Formblatt T steht: „Flutzeichen P16 | Bestellkennzeichen P16/07 | Pos. 2.4 eingehalten: ja.“ Laut Serienblatt erreicht ein Einschub nur 72 Stunden, zwei Einschübe erreichen 102 Stunden. Die Angebotsbedingungen bestimmen ausdrücklich, dass der Bestellschlüssel die Ausstattung festlegt.",
+        "Der Fachbereich wertet P16/07 als Grundausführung: Im beigefügten Blatt lässt sich diesem Schlüssel keine zweite Bestückung zuordnen, und im Preisblatt fehlt ein gesonderter zweiter Akku. Deshalb hält er die allgemeine Bestätigung „ja“ für widerlegt. Ein nach Fristablauf zusätzlich zugesagter Einschub wäre nach seiner Auffassung eine Änderung der angebotenen Leistung. Der Mehrpreis zum nächsten Angebot beträgt 15.600 Euro. Die beiden weiteren Angebote enthalten zugeordnete Typenschlüssel für zwei bestückte Einschübe.",
+        "Vermerk der Vergabestelle zur Vorlage: Im selben Serienblatt endet die Schlüsseltabelle bei /06. Das Preisblatt verlangt einen Gesamtpreis einschließlich Einbauten. Flutzeichen hat für das Bestellkennzeichen noch bis 11. September, 12:00 Uhr, Gelegenheit zur Erklärung. Zu E3 läuft eine eigene Nachforderung mit gleichem Fristende. Der Fachbereich empfiehlt dennoch, den Ausschlussbeschluss heute vorzubereiten. Ob das fehlende E3 dafür einen weiteren Grund trägt, hat er nicht beurteilt.",
+        "Zur Entscheidung am 15. September vorgesehen. Die Vorinformation ist als elektronischer Entwurf vorgemerkt. Weder ein Ausschlussschreiben noch eine Zuschlagsmitteilung wurde versandt. Mitzeichnung Technik: offen. Mitzeichnung Einkauf und Rechtsdienst: offen."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "09_umsatzantwort.eml",
+      "titel": "Antwort im Nachrichtenfach E3 · 10. September, 08:34 Uhr",
+      "datum": "2026-09-10",
+      "von": "Fatma Reuter · Flutzeichen Messtechnik GmbH, Vertrieb",
+      "an": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "text": [
+        "Zur Nachricht vom 8. September reichen wir die Erklärung der Geschäftsführung nach. Das zum 31. Dezember abgeschlossene Geschäftsjahr ist unser satzungsmäßiges Geschäftsjahr. Unsere Umsätze mit Messstationen betrugen 2023 2.160.000 Euro, 2024 2.440.000 Euro und 2025 2.610.000 Euro netto. Die Werte stammen aus den abgezeichneten Jahresauswertungen.",
+        "Ich bestätige die Zahlen im Auftrag der Geschäftsführung und bitte um Zuordnung ausschließlich zur Nachforderung E3. Preis und technische Einträge sind nicht Gegenstand dieser Nachricht."
+      ],
+      "absender": "f.reuter@flutzeichen.example",
+      "empfaenger": "vergabe@interstate-west.example",
+      "uhrzeit": "08:34"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "10_schluesselkarte.docx",
+      "titel": "Vertriebstechnik · Schlüsselkarte Blatt 4 und Fertigungsauszug",
+      "datum": "2026-09-11",
+      "von": "Alwin Pesch · Flutzeichen Messtechnik GmbH, Fertigungssteuerung",
+      "an": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "text": [
+        "Mit Zustimmung unseres Vertriebs übermitteln wir um 09:06 Uhr über die Plattform einen Auszug aus dem Warenstamm. Schlüsselkarte 4.2 war vom 1. Juli bis 8. September freigegeben. Wörtlich: „P16/07 – Inlandspaket mit frostfestem Modem und einem bestückten Akkueinschub; zweiter Einschub mechanisch vorbereitet. Zweitbestückung ab Werk unter P16/07-D.“ Dies betrifft keinen Ersatzakku im Koffer.",
+        "Die Warenstammkarte beschreibt die Regelkonfiguration. Ein fest zugeordneter Kundenauftrag kann vor Angebotsabgabe eine abweichende Stückliste erhalten. Das archivierte Angebot W-668 trägt im Feld Kundenstückliste einen Strich. Der Vertrieb hat die interne Materialreservierung über 24 zusätzliche Einsätze am 8. September um 15:48 Uhr ausgelöst; ein früherer Reservierungssatz war bei meiner Abfrage nicht sichtbar. Die Abrufliste beweist nicht, ob im Vertrieb vorher eine Nebenrechnung geführt wurde."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "11_bieterstellungnahme.eml",
+      "titel": "Stellungnahme W-668 · 11. September, 10:42 Uhr",
+      "datum": "2026-09-11",
+      "von": "Fatma Reuter · Flutzeichen Messtechnik GmbH, Vertrieb",
+      "an": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "text": [
+        "Wir haben die verlangten 96 Stunden ohne Vorbehalt bestätigt und den gesamten Leistungsumfang in den Festpreis hineinkalkuliert. Die zweite Stelle war technisch schon vorgesehen. Dem Kunden ist aus unserer Sicht ein fertiges Ergebnis versprochen, nicht die interne Buchungsfolge. Eine vor dem 7. September mit W-668 verknüpfte Sonderstückliste konnten wir bislang nicht auffinden.",
+        "Damit der Termin nicht an der Kodierung scheitert, bieten wir hilfsweise an, die komplette Serie mit P16/07-D und zweitem Einschub für denselben Gesamtpreis zu liefern. Der Wechsel kostet Sie nichts. Sollten Sie unser ursprüngliches Angebot wegen der fehlenden zweiten Bestückung für nicht wertbar halten, beanstanden wir diese Handhabung ausdrücklich. Bitte teilen Sie uns eine Entscheidung mit, bevor Sie den Zuschlag an ein anderes Unternehmen erteilen."
+      ],
+      "absender": "f.reuter@flutzeichen.example",
+      "empfaenger": "vergabe@interstate-west.example",
+      "uhrzeit": "10:42"
+    }
+  ]
+}

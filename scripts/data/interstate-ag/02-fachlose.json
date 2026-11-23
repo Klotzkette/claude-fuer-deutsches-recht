@@ -1,0 +1,103 @@
+{
+  "titel": "Drei Gewerke für den Betriebshof Weidenstück",
+  "zeichen": "DI-W/BAU-26-073",
+  "einstieg": "Im Betriebshof Weidenstück der Deutschen Interstate AG, Niederlassung West, sollen beschädigte Betonflächen instand gesetzt, beanspruchte Flächen beschichtet und Sozialräume gestrichen werden. Die Bauabteilung möchte sämtliche Arbeiten mit einem Vertrag vergeben. Die Vergabestelle erhält die ungezeichnete Bauvorlage am 9. November 2026. Es gibt weder eine Bekanntmachung noch einen Zuschlag. Betriebshof, Gesellschaft, Unternehmen und Vorgang sind erfunden.",
+  "auftrag": "Sie beraten die Vergabestelle für die Sitzung am 12. November 2026. Prüfen Sie die gewünschte Gesamtvergabe gewerkeweise. Arbeiten Sie aus, welche Annahmen den Kosten- und Terminvergleich tragen, wie sich Schnittstellen bei getrennter Vergabe regeln ließen und welche Bedeutung der Finanzierung und dem geschätzten Gesamtwert zukommt. Legen Sie einen Vergabevermerk mit Entscheidungsvorschlag, begründeten Alternativen und offenen Freigaben vor. Formulieren Sie die Rückmeldung an die Bauabteilung und eine belastbare Antwort auf die Anfrage des Fachunternehmens.",
+  "nachreichung": "Prüfen Sie Ihre Empfehlung getrennt am 13. und am 18. November erneut. Bezeichnen Sie konkret, welches Gewerk, welche Kalkulationszeile oder welche Übergabe von der jeweiligen Nachricht berührt wird. Die Leitung benötigt zur Festlegung der Bekanntmachung am 20. November eine gezeichnete Entscheidungsvorlage und die ausdrücklich noch offenen Vorbehalte.",
+  "quellen": [
+    ["§ 97a GWB – Losgrundsatz, wirtschaftliche, technische und zeitliche Gründe", "https://www.gesetze-im-internet.de/gwb/__97a.html"],
+    ["§ 99 GWB – öffentliche Auftraggeber", "https://www.gesetze-im-internet.de/gwb/__99.html"],
+    ["§ 2 VgV – Vergabe von Bauaufträgen", "https://www.gesetze-im-internet.de/vgv_2016/__2.html"],
+    ["§ 3 VgV – Schätzung des Auftragswerts", "https://www.gesetze-im-internet.de/vgv_2016/__3.html"],
+    ["Art. 1 Delegierte Verordnung (EU) 2025/2152 – Schwellenwerte 2026 und 2027", "https://op.europa.eu/de/publication-detail/-/publication/ed53995b-afac-11f0-b37f-01aa75ed71a1/language-de"],
+    ["VOB/A 2026, Abschnitt 2, insbesondere § 5a EU und § 20 EU – BAnz AT 24.08.2026 B6", "https://bundesanzeiger.de/pub/publication/73xO0rpP1jfX5HRt0Ja/content/73xO0rpP1jfX5HRt0Ja/BAnz%20AT%2024.08.2026%20B6.pdf?inline="]
+  ],
+  "dokumente": [
+    {
+      "phase": "Grundakte", "datei": "01_bauauftrag_weidenstueck.docx", "titel": "Projektauftrag für Werkhalle und Sozialtrakt", "datum": "2026-10-19",
+      "von": "Ina Merz · Kaufmännische Leitung, Deutsche Interstate AG, Niederlassung West", "an": "Joris Falk · Projektleitung Hochbau West",
+      "text": [
+        "Wir geben die Vorbereitung der Instandsetzung des Bestandsgebäudes im Betriebshof Weidenstück frei. Der Hof dient dem Unterhalt von Bundesfernstraßen. Die Arbeiten finden ausschließlich im Werkstatt- und Sozialgebäude statt. Die AG nimmt im Allgemeininteresse nichtgewerbliche Verwaltungsaufgaben wahr. Ihre öffentlichen Träger finanzieren den Betrieb überwiegend und bestimmen die Mehrheit des Aufsichtsrats. Vertragspartnerin wird die AG.",
+        "Die Maßnahme umfasst den Beton der Werkhalle und der zugehörigen Materialräume, den Oberflächenschutz dort sowie Anstricharbeiten in den getrennten Sozialräumen. Die Ausführungsplanung liegt bereits vor. Es werden weder Planungsoptionen noch Folgeabschnitte mitvergeben. Für diesen abgegrenzten Bauauftrag sind 7.180.000 EUR netto veranschlagt. Die Mittel stammen vollständig aus dem regulären Bauunterhalt. Die Buchung läuft nicht über das Sondervermögen Infrastruktur und Klimaneutralität.",
+        "Die Nutzer sollen während der Arbeiten in eine gemietete Ausweichhalle umziehen. Das Mietende ist bisher auf den 31. August 2027 gesetzt. Der Fachbereich soll dem Einkauf bis zum 9. November belastbare Übergabepunkte für die Gewerke, eine Einschätzung der Bewerbermärkte und die Mehrkosten vorlegen, die bei einer getrennten Vergabe tatsächlich beim Auftraggeber verbleiben."
+      ]
+    },
+    {
+      "phase": "Grundakte", "datei": "02_kostenschaetzung.xlsx", "titel": "Kostenberechnung nach Gewerken – Preisstand Oktober 2026", "datum": "2026-10-23",
+      "von": "Miro Dannen · Kostenplanung, Büro Kreidebogen", "an": "Joris Falk · Projektleitung Hochbau West",
+      "text": [
+        "Die Ansätze sind Nettobeträge für das ausführungsreife Gesamtvorhaben. Sie enthalten die üblichen gewerkeeigenen Rüst- und Nebenleistungen. Die Position für gemeinsam nutzbare Baustelleneinrichtung ist einmal vollständig dem Betonbau zugeordnet. Deren Mitbenutzung durch Nachfolgegewerke wurde in den übrigen Ansätzen vorausgesetzt. Im Vergabeleistungsverzeichnis wären Übergabedauer und Vergütung dafür noch festzulegen.",
+        "Die Gewerkesumme bildet den geschätzten Bauauftragswert am heutigen Stand. Leistungen aus dem bereits erledigten Planervertrag, unsere spätere Bauüberwachung sowie eine Verlängerung der Ausweichmiete sind darin nicht als Bauleistungen enthalten. Für einen Generalunternehmerzuschlag und einen eventuellen Risikoaufschlag liegt uns keine Marktzahl für dieses Gebäude vor."
+      ],
+      "tabelle": [
+        ["Kostenposition", "EUR netto", "Grundlage"],
+        ["Betoninstandsetzung", 4080000, "Mengenansätze und zwei abgerechnete Vergleichsobjekte"],
+        ["Gemeinsam nutzbare Baustelleneinrichtung", 200000, "einmalig im Betongewerk"],
+        ["Oberflächenschutz Werkhalle und Materialräume", 2100000, "behandelte Fläche, abschnittsweise Ausführung"],
+        ["Malerarbeiten Sozialräume", 800000, "Wände, Decken und Vorarbeiten im Sozialtrakt"],
+        ["Gesamter Bauauftrag", 7180000, "keine Optionen oder weiteren Bauabschnitte"]
+      ]
+    },
+    {
+      "phase": "Grundakte", "datei": "03_uebergabe_und_nutzung.docx", "titel": "Baubesprechung im Betriebshof – Abnahmen und Nutzung", "datum": "2026-10-28",
+      "von": "Helene Reim · Bauüberwachung, Büro Kreidebogen", "an": "Joris Falk · Projektleitung Hochbau West",
+      "text": [
+        "Im Altbau Süd hatten wir vor zwei Jahren Ablösungen an der fertigen Beschichtung. Betonbauer und Beschichter legten unterschiedliche Angaben zum übergebenen Untergrund vor. Der Eigentümer ließ ein Gutachten für 19.600 EUR einholen. Eine Verantwortlichkeit wurde damals durch Vergleich offengelassen. Die Teilnehmer waren sich einig, dass das damals fehlende Übergabeprotokoll den Streit erschwert hat. Eine Schadensstatistik für mehrere Gebäude gibt es bei uns nicht.",
+        "Für Weidenstück schlagen wir je fertig gestelltem Abschnitt ein beidseitiges Zustandsprotokoll, dokumentierte Prüfergebnisse, ein Verfahren bei Bedenken und die Freigabe durch die Bauüberwachung vor. Ob das in der verfügbaren Zeit gelingt, hängt auch davon ab, ob wir die Übergaben verbindlich terminieren dürfen. Ein Musterprotokoll wäre innerhalb von drei Arbeitstagen erstellbar. Bei einem gemeinsamen Auftrag entfällt der Übergabepunkt für den Eigentümer nicht vollständig, die vertragliche Zuordnung eines Mangels wird für ihn aber einfacher.",
+        "Die Malerarbeiten betreffen ausschließlich normale Innenräume des Sozialtrakts. Der Betonuntergrund der Werkhalle wird dort nicht bearbeitet. Die Innenräume haben einen eigenen nutzbaren Zugang. Für beide Bereiche sind ein übergreifender Baustellenkalender und abgestimmte Lieferzeiten erforderlich. Nach Auskunft der Nutzer kann der Sozialtrakt abschnittsweise übergeben werden."
+      ]
+    },
+    {
+      "phase": "Grundakte", "datei": "04_zeit_und_kostenvergleich.xlsx", "titel": "Bauzeiten und Mehrkosten – Rechenstand für die Besprechung", "datum": "2026-11-03",
+      "von": "Joris Falk · Projektleitung Hochbau West", "an": "Ina Merz · Kaufmännische Leitung West",
+      "text": [
+        "Grundlage sind die Projektbesprechung vom 28. Oktober und eine unverbindliche Terminabfrage bei unserer Bauüberwachung. Die erste Spalte setzt eine durchgehende Mannschaftsdisposition voraus, die zweite eine gekoppelte Vergabe von Beton und Beschichtung. In der dritten sind drei getrennte Aufträge mit unserer bisherigen Terminfolge angesetzt. Bei allen Modellen soll der Bau im März 2027 beginnen. Ein Bieter hat keinen der Termine zugesagt.",
+        "Zusatzaufwand meint Stunden der nicht bereits eingekauften externen Koordination zu 120 EUR netto. Die vom Bauherrn angenommene Monatsmiete von 27.000 EUR ist zunächst je begonnenem Verlängerungsmonat eingestellt. Ob der Vermieter die Halle tatsächlich über August hinaus anbieten kann, haben wir angefragt. Allgemeine Zuschläge der anbietenden Firmen sind in keiner Variante erfasst. Es handelt sich um Szenarien für die Entscheidung, nicht um einen bepreisten Wettbewerb."
+      ],
+      "tabelle": [
+        ["Planungsannahme", "1 Gesamtauftrag", "2 Aufträge", "3 Fachlose"],
+        ["Voraussichtliche Übergabe", "20.08.2027", "27.08.2027", "17.09.2027"],
+        ["Externe Koordination zusätzlich (Stunden)", 0, 160, 360],
+        ["Externe Koordination (EUR netto)", 0, 19200, 43200],
+        ["Mietverlängerung (EUR netto)", 0, 0, 27000],
+        ["Summe der angesetzten Mehrkosten (EUR netto)", 0, 19200, 70200]
+      ]
+    },
+    {
+      "phase": "Grundakte", "datei": "05_interesse_fachbetrieb.eml", "titel": "Beteiligung am Gewerk Oberflächenschutz", "datum": "2026-11-05", "uhrzeit": "11:07",
+      "von": "Tarek Lemke · Geschäftsführung, Firnschicht Bauhandwerk GmbH", "an": "Judith Velten · Vergabestelle West",
+      "absender": "t.lemke@firnschicht.example", "empfaenger": "j.velten@interstate.example",
+      "text": [
+        "Frau Velten, im öffentlich zugänglichen Jahresprogramm ist die Instandsetzung im Betriebshof Weidenstück aufgeführt. Wird der Oberflächenschutz gesondert ausgeschrieben? Wir beschäftigen 26 Personen und bieten dieses Gewerk regelmäßig an. Ein Gesamtauftrag über Beton, Beschichtung und Innenanstrich überschritte unseren Tätigkeitsbereich. Bei einer vergleichbaren Werkhalle haben wir nach einem gemeinsamen Termin mit dem Vorunternehmer übernommen. Wir würden dafür einen Prüftermin und eine Regel zum Umgang mit offenen Restarbeiten verlangen.",
+        "Die Aussicht, als Nachunternehmer angesprochen zu werden, hilft uns bei der Einsatzplanung wenig. Wir hätten keinen Einfluss darauf, welche Firmen die Generalunternehmer anfragen oder ob sie das Gewerk mit eigenem Personal ausführen. Wenn Sie mehrere Leistungsverzeichnisse erwägen, wäre für uns interessant, ob Einzelangebote möglich sind. Eine Preisangabe können wir ohne Flächenverzeichnis und Terminplan nicht machen. Bitte benachrichtigen Sie uns über den öffentlich vorgesehenen Informationsweg."
+      ]
+    },
+    {
+      "phase": "Grundakte", "datei": "06_fachvermerk_gesamtauftrag.docx", "titel": "Fachvermerk Hochbau – Antrag auf gemeinsame Vergabe", "datum": "2026-11-09",
+      "von": "Joris Falk · Projektleitung Hochbau West", "an": "Judith Velten · Vergabestelle West",
+      "text": [
+        "Ich beantrage einen EU-weit auszuschreibenden Gesamtauftrag. Aus meiner Sicht spricht vor allem die Abfolge von Betoninstandsetzung und Beschichtung dafür. Der Beschichter setzt unmittelbar auf der Leistung seines Vorgängers auf. Entsteht später ein Mangel, verliert der Betrieb bei langwierigen Beweissicherungen einen Teil seiner Werkhalle. Der Altbau Süd zeigt, dass selbst ein relativ kleiner Schaden längere Auseinandersetzungen auslösen kann. Ich will dafür einen Vertragspartner haben, der die Ursachenklärung und Koordination übernimmt.",
+        "Der Sozialtrakt ist technisch eigenständig. Ich würde ihn dennoch im selben Auftrag belassen, damit der Bauleiter des Auftragnehmers Liefertermine und die abschnittsweise Nutzerrückkehr in der Hand hält. Bei drei Aufträgen rechnen wir bis 17. September und mit zusätzlichen 70.200 EUR. Für die Verbindung von Beton und Beschichtung liegt die Prognose dagegen noch im laufenden Mietzeitraum. Die 19.200 EUR für die zweite Variante wären bei einer Entscheidung zugunsten getrennter Malerarbeiten einzuplanen.",
+        "Unsere eigene Bauleitung ist im Sommer mit zwei weiteren Projekten belegt. Eine externe Übergabekoordination scheint möglich, aber die Terminreserve ist nicht beauftragt. Die Kostenaufstellung enthält keinen geschätzten Unterschied bei den angebotenen Baupreisen. Eine Generalunternehmerin könnte mittelständische Betriebe als Nachunternehmer einsetzen. Von Firnschicht liegt der Wunsch nach einem unmittelbaren Angebot vor. Ich bitte um Zeichnung der Losentscheidung oder einen geänderten Zuschnitt rechtzeitig vor dem Bekanntmachungsentwurf. Eine förmliche Freigabe liegt noch nicht vor."
+      ]
+    },
+    {
+      "phase": "Nachreichungen", "datei": "07_angebot_mietverlaengerung.eml", "titel": "Ausweichhalle – Option für die erste Septemberhälfte", "datum": "2026-11-13", "uhrzeit": "15:22",
+      "von": "Ronja Bahl · Mietverwaltung, Hallenkontor Uferbogen KG", "an": "Ina Merz · Kaufmännische Leitung West",
+      "absender": "r.bahl@hallenkontor.example", "empfaenger": "i.merz@interstate.example",
+      "text": [
+        "Guten Tag Frau Merz, wir können Ihnen die Ersatzhalle nach Ende der bisherigen Mietzeit vom 1. bis einschließlich 15. September 2027 für 13.500 EUR netto überlassen. Die Zusage bindet uns bis 24. November 2026, 12 Uhr. Für eine verbindliche Reservierung brauchen wir Ihre schriftliche Annahme. Bis dahin bleibt der 31. August Vertragsende.",
+        "Am 16. September beginnt die Anlieferung des nächsten Mieters. Eine Verlängerung um den vollen Monat zu 27.000 EUR ist daher auch gegen Aufpreis nicht verfügbar. Bewegliches Inventar und Personal müssen die Halle bis zum Abend des 15. September verlassen haben. Eine gestaffelte Rückgabe einzelner Hallenteile wäre innerhalb des angebotenen Zeitraums möglich. Bitte nennen Sie uns bei Annahme eine Person, mit der wir den Umzug abstimmen dürfen."
+      ]
+    },
+    {
+      "phase": "Nachreichungen", "datei": "08_planer_stellungnahme.docx", "titel": "Überarbeiteter Übergabeplan und befristete Personalzusage", "datum": "2026-11-18",
+      "von": "Helene Reim · Bauüberwachung, Büro Kreidebogen", "an": "Joris Falk und Judith Velten · Hochbau und Vergabestelle West",
+      "text": [
+        "Wir haben die bisher nacheinander geplanten Übergaben mit den Nutzern neu geordnet. Für drei Fachlose erscheint nun eine Übergabe am 10. September 2027 möglich. Der Sozialtrakt kann unabhängig von den Hallenflächen fertiggestellt werden. Beton und Beschichtung würden in zwei benannten Abschnitten mit gemeinsam dokumentierter Zustandsfeststellung an getrennten Tagen ineinandergreifen. Für die Rückverlagerung benötigt der Hof anschließend drei Kalendertage. Wird ein Prüftermin verfehlt, rechnen wir im ungünstigen Verlauf mit dem bisherigen Fertigstellungstermin am 17. September.",
+        "Wir können die Begleitung der beiden Übergaben und die Vorabprüfung der Nachweise mit 220 zusätzlichen Stunden zu 120 EUR netto übernehmen. Die 26.400 EUR ersetzen den bisherigen Ansatz von 43.200 EUR für die Dreilosvariante. Das Angebot gilt bis 23. November, 15 Uhr. Wir können die Termine koordinieren und bezeugen. Wir übernehmen weder die Ausführungshaftung der Fachunternehmen noch garantieren wir die mangelfreie Übergabe.",
+        "Für die Zweiauftragsvariante bleiben der 27. August und die bisher angesetzten 160 Stunden unverändert. Die Entscheidung zur Ausweichhalle bleibt beim Auftraggeber. Die neue Ablaufannahme setzt verbindliche Mitwirkung beider Gewerke beim Übergabetermin, einen benannten Ansprechpartner beim Hof und das rechtzeitige Freiräumen der Arbeitsbereiche durch die Nutzer voraus. Schriftliche Freigaben der Nutzer für die zwei Übergabetage liegen uns bislang nicht vor."
+      ]
+    }
+  ]
+}

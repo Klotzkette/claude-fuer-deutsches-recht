@@ -1,0 +1,344 @@
+{
+  "titel": "Deutsche Interstate AG · Zwei Vertragsmuster für die Kontrollschichten am Westtor",
+  "zeichen": "DI-W/K17-2026-07",
+  "einstieg": "Die Einkaufsrunde der Niederlassung West soll ein wiederverwendbares Vertragsset für Kontrollleistungen freigeben. Für das erste Projekt K17 hat der Einkauf den Rahmen ausgefüllt, die Projektleitung den Abruf. Die Daten des Lieferanten sind bereits eingetragen. Vor den Oktoberterminen will die Bauherrin wissen, wer ihr die Belege überlassen darf.",
+  "auftrag": "Prüfen Sie Rahmenvertrag und Abrufblatt getrennt und in ihrem Zusammenwirken mit den beiden Bedingungswerken. Erstellen Sie bis 16. September, 12 Uhr, eine Entscheidungsvorlage für Einkauf und Projektleitung. Benennen Sie je Konflikt die betroffenen Ziffern, den Verwender, die tatsächliche Verhandlungslage, das betriebliche Risiko und eine priorisierte Entscheidung. Arbeiten Sie Ersatzklauseln und eine verhandelbare Rückfallposition aus. Trennen Sie die Freigabe des Pilotabrufs von der späteren Verwendung des Musters.",
+  "nachreichung": "Ab 17. September gehen die Gesprächserinnerung der Anbieterin, ein konkretes Änderungsblatt und die Antwort der kaufmännischen Leitung ein. Führen Sie die bestehende Prüfung bis zur Entscheidung über den unveränderten Abruf und die zusätzlich angefragten Leistungen fort. Erläutern Sie die Wertgrenzen und formulieren Sie die interne sowie externe Rückmeldung.",
+  "quellen": [
+    [
+      "§ 150 BGB · Verspätete und abändernde Annahme",
+      "https://www.gesetze-im-internet.de/bgb/__150.html"
+    ],
+    [
+      "§ 164 BGB · Wirkung der Erklärung des Vertreters",
+      "https://www.gesetze-im-internet.de/bgb/__164.html"
+    ],
+    [
+      "§ 271a Abs. 2, 3 und 5 BGB · Zahlungs-, Überprüfungs- und Abnahmefristen sowie Abschlags- und Ratenzahlungen",
+      "https://www.gesetze-im-internet.de/bgb/__271a.html"
+    ],
+    [
+      "§ 99 Nr. 2 GWB · Öffentliche Auftraggeber in privater Rechtsform",
+      "https://www.gesetze-im-internet.de/gwb/__99.html"
+    ],
+    [
+      "§ 305 BGB · Einbeziehung Allgemeiner Geschäftsbedingungen in den Vertrag",
+      "https://www.gesetze-im-internet.de/bgb/__305.html"
+    ],
+    [
+      "§ 305b BGB · Vorrang der Individualabrede",
+      "https://www.gesetze-im-internet.de/bgb/__305b.html"
+    ],
+    [
+      "§ 305c BGB · Überraschende und mehrdeutige Klauseln",
+      "https://www.gesetze-im-internet.de/bgb/__305c.html"
+    ],
+    [
+      "§ 306 BGB · Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit",
+      "https://www.gesetze-im-internet.de/bgb/__306.html"
+    ],
+    [
+      "§ 307 BGB · Inhaltskontrolle",
+      "https://www.gesetze-im-internet.de/bgb/__307.html"
+    ],
+    [
+      "§ 310 BGB · Anwendungsbereich",
+      "https://www.gesetze-im-internet.de/bgb/__310.html"
+    ],
+    [
+      "§ 339 BGB · Verwirkung der Vertragsstrafe",
+      "https://www.gesetze-im-internet.de/bgb/__339.html"
+    ],
+    [
+      "§ 341 BGB · Strafversprechen für nicht gehörige Erfüllung",
+      "https://www.gesetze-im-internet.de/bgb/__341.html"
+    ],
+    [
+      "§ 611 BGB · Vertragstypische Pflichten beim Dienstvertrag",
+      "https://www.gesetze-im-internet.de/bgb/__611.html"
+    ],
+    [
+      "§ 631 BGB · Vertragstypische Pflichten beim Werkvertrag",
+      "https://www.gesetze-im-internet.de/bgb/__631.html"
+    ],
+    [
+      "§ 640 BGB · Abnahme",
+      "https://www.gesetze-im-internet.de/bgb/__640.html"
+    ],
+    [
+      "§ 641 BGB · Fälligkeit der Vergütung",
+      "https://www.gesetze-im-internet.de/bgb/__641.html"
+    ],
+    [
+      "BGH, Urteil vom 15. Februar 2024 – VII ZR 42/22 · Vertragsstrafenbemessung im Einheitspreisvertrag (amtlicher Volltext, XML im ZIP)",
+      "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304022024.zip"
+    ]
+  ],
+  "dokumente": [
+    {
+      "phase": "Grundakte",
+      "datei": "01_pruefbitte_einkauf.eml",
+      "titel": "K17 · Vor der Freigabe der Kontrollverträge",
+      "datum": "2026-09-14",
+      "von": "Nora Feld · Deutsche Interstate AG, Warengruppeneinkauf West",
+      "an": "Dr. Jakob Elsen · Deutsche Interstate AG, Rechtsabteilung West",
+      "text": [
+        "Guten Morgen Herr Elsen,",
+        "unsere Einkaufsrunde tagt am Mittwoch, 16. September, um 14 Uhr. Bitte geben Sie mir bis 12 Uhr eine Entscheidungsvorlage für die beiden Word-Fassungen: Was können wir in die Verhandlung geben, welche Textstellen brauchen vor Versand einen anderen Wortlaut, und was darf erst die Leitung entscheiden? Bitte nennen Sie zu jeder Änderung die Ziffer und schreiben Sie die Ersatzfassung so, dass ich sie in Word übernehmen kann.",
+        "Die Niederlassung kauft im Namen der Deutschen Interstate AG ein. Deren öffentliche Träger haben die AG für nichtgewerbliche Aufgaben der Straßenverwaltung im Allgemeininteresse gegründet, finanzieren ihren Betrieb überwiegend und bestellen die Mehrheit des Aufsichtsrats. Der Einkauf führt die AG deshalb als öffentliche Auftraggeberin. Die Westtor Objekt GmbH erhält die Berichte für ihre Objektakte. Die Rechnungen von Rheinspur zahlt unsere AG.",
+        "Wir möchten den Rahmen und den Abruf künftig bei mindestens sechs Projekten der Niederlassung verwenden. Die Einkaufstexte stammen von uns. Beim ersten Abruf haben wir die Daten des Loses K17 und Rheinspurs Preise bereits eingesetzt. Preis und Termine sollen verhandelbar bleiben. Die Dienstleistungsbedingungen der Firma kamen mit ihrem Preisbrief. Beide Word-Dateien lagen der Firma zur Kommentierung vor. Niemand hat unterschrieben, wir haben keine Bestellung ausgelöst und die Firma hat nach meinem Kenntnisstand keine Schicht besetzt.",
+        "Für die Sitzung zählt zuerst, wer im Betrieb welche Änderung auslösen kann und welcher Betrag dadurch gebunden wird. Gleich danach kommen der belastbare Termin für die Schlussdokumentation und unser Zugriff auf die Berichte gegenüber dem Bauherrn. Wir brauchen eine Entscheidung sowohl für K17 als auch für die spätere Serienverwendung. Bitte nennen Sie auch eine Rückfallposition, wenn die Firma bei Haftung oder Zahlungsplan nicht mitgeht. Vermerke aus den Preisgesprächen hat Frau Köhler bei den Teilnehmenden angefragt.",
+        "Nora Feld"
+      ],
+      "absender": "nora.feld@deutsche-interstate.example",
+      "empfaenger": "jakob.elsen@deutsche-interstate.example",
+      "uhrzeit": "09:12"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "02_rahmenvertrag_kontrollleistungen.docx",
+      "titel": "Rahmenvertrag über baubegleitende Kontrollleistungen · Einkaufsmuster RV-K 3.2",
+      "datum": "2026-09-08",
+      "von": "Nora Feld · Deutsche Interstate AG, Warengruppeneinkauf West",
+      "an": "Anne Holst · Rheinspur Kontrolltechnik GmbH, Geschäftsführung",
+      "text": [
+        "Verhandlungsfassung für Los West K17 | Ausfertigung zur beiderseitigen Unterzeichnung",
+        "1 Vertragsparteien und Laufzeit",
+        "Die Deutsche Interstate AG, handelnd durch ihre Niederlassung West, Postanschrift Am Schleusenring 18, 45127 Essen (Auftraggeberin), und die Rheinspur Kontrolltechnik GmbH, Hafenbogen 31, 44147 Dortmund (Auftragnehmerin), schließen diesen Vertrag für Abrufe vom 1. Oktober 2026 bis zum 30. September 2027. Eine Verlängerung erfordert die Zustimmung beider Parteien in Textform. Vor Fristablauf wirksam erteilte Abrufe werden zu Ende geführt.",
+        "2 Gegenstand und Einzelaufträge",
+        "2.1 Die Auftragnehmerin stellt qualifizierte Fachkräfte für vereinbarte Kontrollschichten bereit. Sie vergleicht vor Ort zugängliche Lieferscheine, Kennzeichnungen und Bautagesprotokolle, hält Abweichungen fest und übermittelt je Schicht einen Bericht. Sie erteilt den ausführenden Unternehmen keine Weisungen. Anordnungen, Baustellenfreigabe und Verkehrsführung bleiben bei den hierfür zuständigen Stellen.",
+        "2.2 Soweit ein Abruf ein Abschlussdossier bestellt, liefert die Auftragnehmerin ein nach Bauteil und Datum erschlossenes, durchsuchbares PDF samt der im Abruf benannten Datendatei. Der erwartete Jahresabrufwert beträgt 96.000,00 EUR netto. Weder Mindestmenge noch Ausschließlichkeit sind vereinbart. Weitere Einzelaufträge entstehen mit Bestätigung des Abrufs in Textform durch beide Parteien.",
+        "3 Grundlagen und Rang",
+        "Individuell festgehaltene Vereinbarungen gehen vor. Für übrige Widersprüche gilt in dieser Reihenfolge der Rahmenvertrag, das beiderseits bestätigte Abrufblatt und die Einkaufsbedingungen DI-EK 4.1 vom 2. September 2026. Bedingungen der Auftragnehmerin werden auch bei Entgegennahme ihrer Leistungen nicht Vertragsbestandteil. Eine Bezugnahme auf ihr Preisangebot übernimmt ausschließlich die ausdrücklich im Abruf genannten Preise.",
+        "4 Ansprechpartner und Mitwirkung",
+        "Die Projektleitung benennt die Schichtfenster, verschafft den angemeldeten Fachkräften den vereinbarten Zugang und stellt bis 12 Uhr am vorangehenden Arbeitstag den letzten Planstand bereit. Erkennt die Auftragnehmerin fehlende Unterlagen, eine Zugangssperre oder eine erkennbare Lücke im Prüfbereich, meldet sie Ort, Zeitraum und voraussichtliche Auswirkung unverzüglich der Projektleitung. Beide Seiten halten die getroffene Zwischenmaßnahme im Schichtbericht fest.",
+        "5 Abrufänderung",
+        "Die Auftraggeberin darf Zeit, Reihenfolge und Umfang einzelner Kontrollen ändern, wenn der Bauablauf dies erfordert. Die Projektleitung darf die sofortige Ausführung in Textform anordnen. Die Auftragnehmerin führt aus, auch wenn der Preis offen ist. Ein Anspruch auf Mehrvergütung besteht nur, wenn der Einkauf den Betrag vor Beginn in Textform bestätigt hat. Die Kostenmeldung muss dem Einkauf binnen zwei Arbeitstagen nach Zugang der Anordnung vorliegen, sonst erlischt der Anspruch. Arbeitstage im Sinne dieses Vertrages sind Montag bis Freitag, ausgenommen gesetzliche Feiertage in Nordrhein-Westfalen.",
+        "6 Vergütung und Rechnungslegung",
+        "Es gelten Nettopreise zuzüglich gesetzlicher Umsatzsteuer. Schichtpreise umfassen Wegezeiten, Fahrtkosten und die jeweilige Schichtmeldung. Die Auftragnehmerin darf monatlich nach Leistung abrechnen. Die Pauschale für das Abschlussdossier darf nach dessen Abnahme abgerechnet werden. Rechnungen sind unter Angabe von Abrufnummer und Leistungszeitraum binnen 30 Kalendertagen nach Zugang zu zahlen. Über einen bestrittenen Rechnungsposten informieren sich die Parteien in Textform. Der unstreitige Teil bleibt zu seinem ursprünglichen Termin fällig.",
+        "7 Lieferung und Prüfung des Dossiers",
+        "Die Auftragnehmerin übergibt das Dossier im Projektpostfach und fordert zur Abnahme auf. Die Auftraggeberin prüft binnen zehn Arbeitstagen und dokumentiert konkret bezeichnete Abweichungen. Der Empfang eines Schichtberichts löst diese Prüfung nicht aus. Nach einer beanstandeten Lieferung erhält die Auftragnehmerin Gelegenheit, binnen einer nach Art und Umfang des Befundes angemessenen Frist nachzubessern. Die Nutzung als interne Arbeitsunterlage gilt für sich allein nicht als Erklärung der Abnahme.",
+        "8 Terminbindung und Vertragsstrafe",
+        "Gerät die Auftragnehmerin mit dem im Abruf kalendermäßig bestimmten Dossiertermin in Verzug, schuldet sie für jeden vollendeten Arbeitstag des Verzugs eine Vertragsstrafe von 0,3 Prozent des erwarteten Nettojahresabrufwerts nach Ziffer 2.2, insgesamt höchstens fünf Prozent dieses Werts. Die Auftraggeberin kann die Strafe bis zur Schlusszahlung verlangen. Eine verwirkte Vertragsstrafe wird auf den Ersatz desselben Verzögerungsschadens angerechnet.",
+        "9 Haftung und Versicherung",
+        "Beide Parteien haften nach den gesetzlichen Vorschriften. Die Auftragnehmerin unterhält während der Laufzeit eine Betriebshaftpflicht mit mindestens 3.000.000 EUR für Personen- und Sachschäden sowie eine Vermögensschadenversicherung mit mindestens 500.000 EUR je Schadenfall. Den Nachweis erbringt sie vor der ersten Schicht und bei Erneuerung der Police. Die Versicherungssummen beschränken die Haftung aus diesem Vertrag nicht.",
+        "10 Berichte, Nutzungsrechte und Vertraulichkeit",
+        "Die Auftraggeberin darf die für den Abruf hergestellten Berichte und Dossiers zeitlich unbefristet im jeweiligen Projekt vervielfältigen, mit Quellenhinweis auszugsweise bearbeiten und dem Bauherrn, seinen Prüfstellen sowie ihren Rechts- und Versicherungsberatern für Zwecke dieses Projekts überlassen. Rechte an vorbestehenden Methoden und Blankoformularen verbleiben bei der Auftragnehmerin. Beide Parteien schützen nicht öffentliche projektbezogene Informationen vor unbefugtem Zugriff und verpflichten eingesetzte Dritte entsprechend.",
+        "11 Ende der Zusammenarbeit",
+        "Jede Partei kann den Rahmen zum Monatsende mit vier Wochen Frist in Textform kündigen. Einzelaufträge bleiben hiervon unberührt. Das Recht zur Kündigung aus wichtigem Grund bleibt bestehen. Endet ein Einzelauftrag, übergibt die Auftragnehmerin die bis dahin erstellten Berichte und benennt offene Prüfpunkte. Bereits erbrachte, vertraglich geschuldete Leistungen werden nach dem Abruf abgerechnet.",
+        "12 Schlussbestimmungen und Zeichnung",
+        "Es gilt deutsches Recht. Gerichtsstand für Streitigkeiten aus diesem Vertrag ist Essen. Jede Partei erhält eine vollständige Fassung mit dem Abrufblatt und den Einkaufsbedingungen. Änderungen des Rahmens sollen die Parteien in Textform dokumentieren.",
+        "Zur Zeichnung vorgesehen: Nora Feld und Luis Aden für die Deutsche Interstate AG, Anne Holst für die Rheinspur Kontrolltechnik GmbH. Ausfertigungsstand ohne Unterschriften."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "03_abrufblatt_k17.docx",
+      "titel": "Projektabruf K17-01 mit Änderungsverfahren · Projektmuster PA-K 2.0",
+      "datum": "2026-09-10",
+      "von": "Eda Köhler · Deutsche Interstate AG, Projektleitung K17",
+      "an": "Anne Holst · Rheinspur Kontrolltechnik GmbH, Geschäftsführung",
+      "text": [
+        "Arbeitsfassung zur Bestätigung im Pilotprojekt | Kontrollschichten am Betriebsgebäude Westtor",
+        "1 Abruf und Projektziel",
+        "Die Deutsche Interstate AG, Niederlassung West, beauftragt die Rheinspur Kontrolltechnik GmbH auf Grundlage des Rahmenvertrages RV-K 3.2 mit den unten aufgeführten Kontrollen. Die Bestätigung beider Unternehmen steht aus. Der Bauherr erwartet eine geordnete Zuordnung der Lieferschein- und Fotobelege zu 24 Bauteilen. Der Auftrag umfasst weder die Freigabe von Bauleistungen noch eine lückenlose Überwachung außerhalb der gebuchten Zeitfenster.",
+        "2 Einsatz und Übergaben",
+        "2.1 Tagschichten sind am 5., 7., 9., 12., 16. und 19. Oktober 2026 jeweils von 7 bis 15 Uhr vorgesehen. Nachtschichten laufen am 14. und 21. Oktober jeweils von 21 Uhr bis 5 Uhr des Folgetags. Auftragnehmerseitig disponiert Anne Holst. Änderungen am Zugang und das Projektpostfach betreut Eda Köhler.",
+        "2.2 Die Fachkraft notiert je Kontrolle Bauteilkennung, Zeitpunkt, eingesehenen Beleg und festgestellte Abweichung. Ist die Kontrolle vor Ort nicht möglich, hält sie Grund und Verständigung der Projektleitung fest. Bis 12 Uhr des folgenden Arbeitstags übersendet sie den Schichtbericht als PDF. Das ausgefüllte Schichtblatt des Pförtners weist die Anwesenheit nach.",
+        "2.3 Das Abschlussdossier muss am 26. Oktober 2026 bis 12 Uhr im Projektpostfach eingehen. Es enthält ein durchsuchbares Gesamt-PDF mit Register der 24 Bauteile und eine XLSX-Zuordnungsliste mit Bauteilkennung, Belegdatum und Fundstelle im PDF. Eine Position ohne verfügbaren Fremdbeleg ist mit Quelle der Anfrage und offenem Status zu kennzeichnen. Für den 27. Oktober ist die Übergaberunde mit der Bauherrin Westtor Objekt GmbH vorgesehen.",
+        "3 Abrufpreise und Zahlungsplan",
+        "Sechs Tagschichten zu je 1.240,00 EUR, zwei Nachtschichten zu je 1.680,00 EUR und das Abschlussdossier zu 2.200,00 EUR ergeben 13.000,00 EUR netto zuzüglich Umsatzsteuer. Entsprechend dem Preisgespräch werden 50 Prozent der Abrufsumme bei beiderseitiger Bestätigung und die übrigen 50 Prozent mit Eingang des Dossiers zahlbar, jeweils binnen 14 Kalendertagen nach Rechnungseingang. Die in diesem Blatt genannten Zahlungs- und Prüfregeln gehen bei K17 den allgemeinen Regelungen des Rahmenvertrages vor.",
+        "4 Prüfung, Rückmeldung und Verwendung",
+        "Das Dossier ist freigegeben, wenn die Projektleitung nicht binnen drei Arbeitstagen nach Eingang per E-Mail unter Nennung der betroffenen Belegnummer widerspricht. Die Weitergabe an die Bauherrin zur Übergaberunde gilt ebenfalls als Freigabe. Die erste technische Eingangsprüfung darf Benno Kern im Projektpostfach quittieren. Er prüft Lesbarkeit, Dateinamen und Anzahl der Anlagen. Zu einer Erklärung über Mängel oder Nachträge ist er intern nicht befugt.",
+        "5 Projektänderungen und Nachweis",
+        "5.1 Für ein verschobenes Zeitfenster meldet die Projektleitung per E-Mail ursprünglichen Einsatz, neuen Termin, Grund und gewünschte Besetzung. Die Auftragnehmerin teilt unverzüglich mit, welche Besetzung sie verbindlich halten kann. Die bloße Anfrage reserviert keine zusätzliche Schicht.",
+        "5.2 Braucht die Projektleitung zusätzliche Kontrollen, sendet sie vor Beginn ein Änderungsblatt an Einkauf und Auftragnehmerin. Darin stehen die Abrufnummer, Anlass, Menge, Preis, Gesamtwert nach Änderung sowie die Auswirkung auf das Dossierdatum. Bei unveränderten Leistungsarten gelten die Schichtpreise aus Ziffer 3. Mit der Bestätigung durch die Projektleitung und die Auftragnehmerin in Textform wird das Änderungsblatt Teil dieses Abrufs. Eine gesonderte Unterschrift des Einkaufs ist hierfür entbehrlich.",
+        "5.3 Die Eingangszeit der Bestätigungen ist im Vorgang K17-01 festzuhalten. Wird eine Leistung vor Bestätigung benötigt, hält die Projektleitung die voraussichtlichen Stunden und den Grund der Eile in der Schichtmeldung fest. Der Nachweis dient der späteren kaufmännischen Entscheidung.",
+        "6 Nutzung und Aufbewahrung",
+        "Die Bauherrin darf das Dossier über das Projektpostfach für die Übergaberunde abrufen und eine Fassung für ihre Objektakte behalten. Die Beteiligten dokumentieren, welche Version übersandt wurde. Eine Weitergabe an am Projekt unbeteiligte Empfänger erfordert eine gesonderte Einwilligung.",
+        "7 Bestätigung",
+        "Der Abruf wird mit Zugang der letzten Bestätigung in Textform wirksam. Weitere Projekte sind gesondert abzurufen. Für die Auftraggeberin sind Nora Feld und Luis Aden, für die Auftragnehmerin Anne Holst als Zeichnende vorgesehen. In dieser Fassung ist keine Bestätigung vermerkt."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "04_einkaufsbedingungen_di_ek.docx",
+      "titel": "Einkaufsbedingungen für Kontrolldienstleistungen · DI-EK 4.1",
+      "datum": "2026-09-02",
+      "von": "Nora Feld · Deutsche Interstate AG, Warengruppeneinkauf West",
+      "an": "Einkaufsstellen und Bieter für Kontrolldienstleistungen",
+      "text": [
+        "1 Geltung und spätere Fassungen",
+        "Die Deutsche Interstate AG legt diese Einkaufsbedingungen ihren Bestellungen im Geschäftsverkehr mit Unternehmen zugrunde. Sie gelten für Einzelabrufe unter einem Rahmenvertrag. Für einen späteren Abruf gilt die bei dessen Erteilung im Lieferantenportal veröffentlichte Fassung, auch ohne gesonderte Beifügung. Ein Widerspruch des Lieferanten gegen diese Bedingungen muss vor Beginn des Einsatzes beim Einkauf eingehen.",
+        "2 Bestellweg und Nachträge",
+        "Nur eine mit Einkaufsnummer versehene Bestellung des Einkaufs berechtigt zur Abrechnung. Bestätigungen durch Baustellenpersonal oder Projektleitung ersetzen die Einkaufsnummer auch bei eilbedürftigen Zusatzleistungen nicht. Die Leistungserfassung am Einsatzort dokumentiert nur Zeit und Anwesenheit.",
+        "3 Zahlung und Sicherung",
+        "Der Rechnungsbetrag wird 45 Kalendertage nach Eingang der prüfbaren Rechnung und vollständiger Prüfung sämtlicher Leistungen des jeweiligen Abrufs fällig. Bei einer Beanstandung kann die Auftraggeberin den gesamten Rechnungsbetrag bis zur Beseitigung zurückbehalten. Abschlagszahlungen bedürfen einer vom Einkauf ausdrücklich bestätigten Vereinbarung.",
+        "4 Dokumentation und Ersatzpersonal",
+        "Bei Ausfall einer angemeldeten Fachkraft setzt der Lieferant auf eigene Kosten qualifizierten Ersatz ein. Der Einkauf kann den Nachweis der für die vereinbarte Kontrollaufgabe erforderlichen Qualifikation verlangen. Die Auftraggeberin benennt der Ersatzkraft die gültigen Zutrittszeiten und lässt sie nach Anmeldung nach denselben Regeln wie die ursprünglich angemeldete Person zu.",
+        "5 Technische Erklärungen und Änderungen",
+        "Schichtquittungen, Zutrittsnachweise und die bloße technische Entgegennahme einer Datei enthalten keine Erklärung zur vertragsgemäßen Leistung. Ergänzungen individuellen Inhalts sollen zum Nachweis zur Bestellung genommen werden. Die für diese Bestellung ausgegebene PDF-Fassung wird im Einkaufsvorgang abgelegt.",
+        "Ausgabe 4.1, freigegeben am 2. September 2026 durch den Warengruppeneinkauf. An Rheinspur am 8. September als Datei ausgegeben."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "05_preisbrief_rheinspur.docx",
+      "titel": "Preisbrief RS-618 mit Geschäftsbedingungen für Kontrollaufträge",
+      "datum": "2026-09-09",
+      "von": "Anne Holst · Rheinspur Kontrolltechnik GmbH, Geschäftsführung",
+      "an": "Nora Feld · Deutsche Interstate AG, Warengruppeneinkauf West",
+      "text": [
+        "Guten Tag Frau Feld,",
+        "wir bieten Ihnen für K17 die Tagschicht zu 1.240,00 EUR, die Nachtschicht zu 1.680,00 EUR und das Abschlussdossier zu 2.200,00 EUR an, jeweils netto zuzüglich Umsatzsteuer. Die Ansätze gelten bei verbindlicher Beauftragung bis 25. September für die im Oktober vorgesehenen Zeitfenster. Die Acht-Stunden-Schichten enthalten An- und Abfahrt sowie eine PDF-Schichtmeldung. Baustellenausrüstung und Versicherung sind eingerechnet. Eine Erweiterung um eine eigens programmierte Datenausgabe haben wir nicht eingepreist.",
+        "1 Vertragsgrundlagen",
+        "Unser Angebot erfolgt unter unseren nachstehenden Bedingungen RS-K 2/26. Die Käuferbedingungen DI-EK 4.1 haben wir erhalten. Einer Anwendung widersprechen wir. Maßgeblich sind unser Preisbrief, die von beiden Seiten ausgehandelten Abweichungen und ein danach bestätigter Abruf. Als Einverständnis mit unseren Bedingungen verstehen wir auch den Zugang einer Bestellung, die unsere Angebotsnummer nennt.",
+        "2 Vergütung, Storno und Wartezeit",
+        "50 Prozent der bestätigten Abrufsumme berechnen wir bei Auftrag, 50 Prozent nach Lieferung des Abschlussdossiers, jeweils zahlbar in 14 Kalendertagen. Storniert der Auftraggeber eine Schicht weniger als 48 Stunden vor Beginn, berechnen wir 80 Prozent des Schichtpreises. Der Auftraggeber kann geringere Ausfallkosten nachweisen. Eine tatsächlich anderweitig vergebene Schicht ziehen wir ab. Für Wartezeiten rechnen wir keinen Zusatzbetrag ab, solange sie in die gebuchte Schicht fallen.",
+        "3 Verantwortung und Haftung",
+        "Wir haften für leichte Fahrlässigkeit höchstens bis zur Nettovergütung des betroffenen Einzelabrufs. Für Datenverlust, mittelbare Schäden und Schäden aus Ansprüchen des Bauherrn gegen den Auftraggeber haften wir nicht. Für Vorsatz sowie Schäden an Leben, Körper oder Gesundheit gelten die gesetzlichen Vorschriften. Auf Verlangen legen wir die aktuelle Versicherungsbestätigung vor.",
+        "4 Unterlagen und Prüfung",
+        "Unsere Standardformulare verbleiben bei uns. Der Auftraggeber darf ausgefüllte Berichte intern zur Projektsteuerung nutzen. Die Weitergabe an den Bauherrn, Sachverständige oder Versicherer setzt unsere vorherige schriftliche Zustimmung voraus. Beanstandungen sollen nach Erkennen unter Angabe des konkreten Belegs an die Disposition gehen.",
+        "Wir können die Fristen für die Vor-Ort-Leistung nur halten, wenn Sie uns die Zugangsdaten am Vortag mitteilen. Die Dossierlieferung und Datenweitergabe besprechen wir gern gesondert. Dieser Preisbrief reserviert noch keine der Schichten.",
+        "Anne Holst, Geschäftsführerin"
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "06_freigabewerte_k17.xlsx",
+      "titel": "K17-01 · Bestellwert, Kontierung und Zeichnungsgrenzen",
+      "datum": "2026-09-11",
+      "von": "Luis Aden · Deutsche Interstate AG, Kaufmännische Leitung West",
+      "an": "Nora Feld · Deutsche Interstate AG, Warengruppeneinkauf West",
+      "text": [
+        "Auszug aus der kaufmännischen Abrufplanung, Stand vor Erstbestellung. Kontierung K17 / 4120 Fremdprüfungen. Alle Beträge netto in EUR. Die Kostenfreigabe der Projektleitung ersetzt die rechtsgeschäftliche Zeichnung nach der Bestellordnung nicht.",
+        "Für Bestellungen der Warengruppe Kontrollleistungen gilt in der Niederlassung West eine gesonderte Zeichnungsregel. Bis einschließlich 15.000,00 EUR netto zeichnet der Warengruppeneinkauf allein. Bei einem höheren Bestellwert zeichnen Einkauf und kaufmännische Leitung gemeinsam. Für die Wertgrenze zählen sämtliche bestätigten Änderungen desselben Abrufs kumuliert. Die Projektleitung darf Einsatzzeiten im bewilligten Leistungsumfang verschieben. Die Mitzeichnung im Pilotabruf erfolgt auf Wunsch des Einkaufs auch unter der Wertgrenze.",
+        "Für K17 sind insgesamt 16.000,00 EUR freigegeben. Die Verfügung über Geld oberhalb dieser Kostenstelle bedarf eines gesonderten Budgetübertrags. Ein solcher Übertrag ist im Stand des Vorblatts nicht gebucht."
+      ],
+      "tabelle": [
+        [
+          "Position / Freigabe",
+          "Menge",
+          "Einheit",
+          "Einzelwert EUR netto",
+          "Gesamt EUR netto"
+        ],
+        [
+          "Tagschichten",
+          "6",
+          "Schicht",
+          "1.240,00",
+          "7.440,00"
+        ],
+        [
+          "Nachtschichten",
+          "2",
+          "Schicht",
+          "1.680,00",
+          "3.360,00"
+        ],
+        [
+          "Abschlussdossier",
+          "1",
+          "Pauschale",
+          "2.200,00",
+          "2.200,00"
+        ],
+        [
+          "Gesamt Pilot",
+          "",
+          "",
+          "",
+          "13.000,00"
+        ],
+        [
+          "Freigegebenes Projektbudget",
+          "",
+          "",
+          "",
+          "16.000,00"
+        ],
+        [
+          "Noch frei vor weiteren Abrufen",
+          "",
+          "",
+          "",
+          "3.000,00"
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "07_projektpostfach_und_termin.eml",
+      "titel": "Was im Übergabetermin mit der Bauherrin wirklich gebraucht wird",
+      "datum": "2026-09-14",
+      "von": "Eda Köhler · Deutsche Interstate AG, Projektleitung K17",
+      "an": "Dr. Jakob Elsen · Deutsche Interstate AG, Rechtsabteilung West",
+      "text": [
+        "Guten Tag Herr Elsen,",
+        "die Bauherrin rechnet am 27. Oktober um 9 Uhr mit dem Dossier. Ihre Prüfstelle lädt es schon am Vortag aus unserem Projektpostfach, um die Fundstellen auf zwei Bildschirmen zu vergleichen. Ohne dieses Recht hilft mir selbst eine pünktliche interne Lieferung nicht. Das Team kann morgens den Eingang quittieren. Die inhaltliche Prüfung der 24 Zuordnungen braucht in guten Wochen acht Arbeitstage. Bei der letzten Übergabe hat Herr Kern dafür lediglich „Datei geöffnet“ in die Empfangsmaske eingetragen.",
+        "Zur Schicht-Disposition möchte ich einen Termin verschieben können, ohne nachts beim Einkauf anzurufen. Zwei zusätzliche Nächte nachträglich freizugeben wäre etwas anderes. Die Projektleitung hat aus einer Vorbestellung die Erinnerung, dass jede E-Mail mit dem Betreff „Bitte disponieren“ ausreicht. Ich möchte vor dem ersten Einsatz einen Satz im Formular, den die Bauleitung auch im Spätdienst anwenden kann.",
+        "Bei der Besprechung mit Rheinspur war ich während der ersten halben Stunde auf der Baustelle. Ich weiß deshalb nicht, ob die Anzahlung tatsächlich fest vereinbart oder nur als Preisvoraussetzung besprochen wurde.",
+        "Eda Köhler"
+      ],
+      "absender": "eda.koehler@deutsche-interstate.example",
+      "empfaenger": "jakob.elsen@deutsche-interstate.example",
+      "uhrzeit": "11:38"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "08_protokoll_preisgespraech.eml",
+      "titel": "Nachtrag zum Gespräch vom 10. September · Kosten und Weitergabe",
+      "datum": "2026-09-17",
+      "von": "Anne Holst · Rheinspur Kontrolltechnik GmbH, Geschäftsführung",
+      "an": "Nora Feld · Deutsche Interstate AG, Warengruppeneinkauf West",
+      "text": [
+        "Guten Morgen Frau Feld,",
+        "Sie wollten wissen, wie die Zahlungsregel in Ihr Blatt kam. Ihr Vorschlag im Gespräch war 30 Tage nach jeder Monatsrechnung. Ich habe Ihnen statt 50 Prozent Anzahlung auch die Abrechnung nach jeder einzelnen Schicht zu denselben Stückpreisen angeboten. Herr Aden wollte eine Rechnung je Schicht vermeiden. Sie haben daraufhin gesagt: „Dann nehmen wir die 50 Prozent ins Blatt und lassen die Leitung das mit dem Rahmen zusammen vorlegen.“ Die zweite Hälfte sollte nach meiner Mitschrift bei Lieferung fällig sein. Eine unterschriebene Vereinbarung gibt es dazu nicht. Wir können den Punkt erneut öffnen, wenn bis Freitag entschieden wird.",
+        "Für die Empfängerfrage habe ich mehr Spielraum: Ein eigenes Einsichtsrecht für die namentlich benannte Westtor Objekt GmbH einschließlich dauerhafter Objektakte habe ich im Telefonat mit Frau Köhler angeboten. Für die unabhängige Prüfstelle des Bauherrn sollten Sie mir den Namen und den Verwendungszweck nennen. Einer Weitergabe unserer leeren Kalkulations- oder Kontrollformulare habe ich nicht zugestimmt.",
+        "Über die Bezugsgröße Ihrer Vertragsstrafe haben wir im Termin nicht gesprochen. Sie hatten gesagt, dieser Passus komme aus der Zentrale. Den Auftrag kann ich zu unseren bisherigen Preisen bis 25. September offenhalten. Eine Bestellung liegt mir noch nicht vor.",
+        "Anne Holst"
+      ],
+      "absender": "anne.holst@rheinspur-kontrolltechnik.example",
+      "empfaenger": "nora.feld@deutsche-interstate.example",
+      "uhrzeit": "08:46"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "09_aenderungsanfrage_k17.docx",
+      "titel": "K17-01 · Änderungsblatt 01 zur Preis- und Terminbestätigung",
+      "datum": "2026-09-18",
+      "von": "Eda Köhler · Deutsche Interstate AG, Projektleitung K17",
+      "an": "Nora Feld · Warengruppeneinkauf West und Anne Holst · Rheinspur Kontrolltechnik GmbH",
+      "text": [
+        "1 Anlass und gewünschte Entscheidung",
+        "Die Bauherrin hat die Belegaufnahme für zwei Liefergruppen vom Tag in die Nacht verlegt. Die Tagschichten am 12. und 19. Oktober werden weiterhin an anderen Bauteilen gebraucht. Die Projektleitung fragt deshalb zwei zusätzliche Nachtschichten vom 12. auf den 13. sowie vom 19. auf den 20. Oktober an. Beide dauern von 21 bis 5 Uhr. Die Termine ersetzen keine der acht Schichten aus dem Pilotabruf.",
+        "2 Neue Positionen",
+        "Für die zwei Nächte setzen wir den angebotenen Satz von 1.680,00 EUR je Schicht und damit 3.360,00 EUR an. Die Bauherrin wünscht zusätzlich eine CSV-Ausgabe der vereinbarten XLSX-Zuordnungsliste in UTF-8 mit Semikolon als Trennzeichen. Rheinspur hat auf telefonische Anfrage für Programmierung und Test dieser Ausgabe 420,00 EUR pauschal genannt. Diese Datenlieferung tritt neben PDF und XLSX. Alle Beträge verstehen sich netto.",
+        "3 Termin und Angebotsstand",
+        "Als Termin für PDF und XLSX ist weiterhin der 26. Oktober, 12 Uhr, vermerkt. Für die CSV ist der 28. Oktober, 12 Uhr, angefragt. Bitte bestätigen Sie beide Liefertermine separat. Der Auftraggeberin liegt noch keine schriftliche Zusage zu Datenformat, Preis und zusätzlichen Nächten vor. Der Pförtner hat die Zutrittsliste noch nicht geändert.",
+        "4 Bestätigungslauf",
+        "Alte Abrufsumme 13.000,00 EUR, angefragte Erhöhung 3.780,00 EUR, daraus 16.780,00 EUR neue Abrufsumme netto. Frau Köhler hat angekreuzt: Angebot und interne Entscheidung einholen. Die Felder für rechtsgeschäftliche Bestätigung und Gegenzeichnung sind frei. Frau Feld sammelt die Antworten. Ohne Rückmeldung bis 22. September, 15 Uhr, meldet die Disposition die Schichten als unbesetzt.",
+        "Eda Köhler, Projektleitung K17, 18. September 2026"
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "10_leitung_zu_budget_und_zeichnung.eml",
+      "titel": "K17 · Änderungsblatt 01 vor Disposition",
+      "datum": "2026-09-21",
+      "von": "Luis Aden · Deutsche Interstate AG, Kaufmännische Leitung West",
+      "an": "Dr. Jakob Elsen · Deutsche Interstate AG, Rechtsabteilung West",
+      "text": [
+        "Guten Tag Herr Elsen,",
+        "die 16.000 EUR auf K17 bleiben vorläufig der freigegebene Kostenrahmen. Einen Übertrag von 780 EUR kann unsere Kostenstellenrunde am 23. September beraten, nicht vorher. Die gemeinsame Zeichnung durch Frau Feld und mich ist technisch möglich. Ein Budgetübertrag ist damit noch nicht entschieden. Ich habe weder die beiden zusätzlichen Nächte noch die CSV bestellt.",
+        "Frau Holst hat auf die Dispositionsanfrage nur mitgeteilt, dass sie die zwei Fachkräfte bis Dienstag 15 Uhr freihalten könne. Unser Kollege hat im Projektpostfach „eingegangen“ gewählt. Die Bestellnummer kann das System erst nach einer Kostenfreigabe erzeugen. Der Warengruppeneinkauf möchte heute von mir wissen, ob er die ursprünglichen acht Schichten als eigenständigen Abruf freigeben und über die Änderung später entscheiden darf.",
+        "Bitte führen Sie Ihre Prüfung für diesen Stand fort. Ich brauche je einen versandfertigen Text für die Rückmeldung an Rheinspur und für den internen Freigabeumlauf, mitsamt Beträgen, Terminen und zulässigem Umfang einer Dispositionsanfrage. Die operative Entscheidung, ob die ursprünglichen Termine für das Projekt allein sinnvoll sind, trifft Frau Köhler morgen Vormittag.",
+        "Luis Aden"
+      ],
+      "absender": "luis.aden@deutsche-interstate.example",
+      "empfaenger": "jakob.elsen@deutsche-interstate.example",
+      "uhrzeit": "10:24"
+    }
+  ]
+}

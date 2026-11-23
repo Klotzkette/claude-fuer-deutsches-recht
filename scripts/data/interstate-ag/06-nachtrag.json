@@ -1,0 +1,318 @@
+{
+  "titel": "Knoten Feldrain – Nachtrag 7 für einen zusätzlichen Rohrmantel",
+  "zeichen": "DI-W/06-KF3",
+  "einstieg": "Am Knoten Feldrain liegt die geplante Kabelschutzrohrtrasse näher an einer alten Stützwand, als die Bestandszeichnung erkennen ließ. Tiefbau Wiesenfeld baut abschnittsweise geteilte Stahlrohrmäntel ein und verlangt dafür 21.188,00 Euro netto. Die nächste Sperrnacht steht bevor. Projektleitung, Bauüberwachung und Vertragsleitung haben der Firma unterschiedliche Mitteilungen geschickt.",
+  "auftrag": "Prüfen Sie für die Niederlassung West jede Position des Nachtrags 7 und entwerfen Sie die Antwort an die Auftragnehmerin vor der nächsten Sperrnacht. Unterscheiden Sie den geschuldeten Vertragsumfang, die verlangte Änderung, das Zustandekommen einer Vereinbarung und die Voraussetzungen einer einseitigen Anordnung. Ermitteln Sie aus den Belegen Preise und Mengen, weisen Sie mögliche Überschneidungen mit dem Hauptauftrag aus und benennen Sie die Nachweise für eine belastbare Teilfreigabe. Halten Sie fest, wer weitere Arbeiten mit welcher Wirkung veranlassen kann.",
+  "nachreichung": "Der gemeinsam unterschriebene Feldbuchauszug und die am 23. November eingegangenen Leistungsnachweise verändern die Mengenbasis. Stellen Sie bisher ausgeführte Leistungen und die Prognose bis zum Bauende gesondert dar. Überarbeiten Sie das Verhandlungsergebnis und formulieren Sie eine umsetzbare Anweisung für die nächste Schicht.",
+  "quellen": [
+    [
+      "§ 650a BGB – Bauvertrag",
+      "https://www.gesetze-im-internet.de/bgb/__650a.html"
+    ],
+    [
+      "§ 650b BGB – Änderung des Vertrags und Anordnungsrecht des Bestellers",
+      "https://www.gesetze-im-internet.de/bgb/__650b.html"
+    ],
+    [
+      "§ 650c BGB – Vergütungsanpassung bei Anordnungen",
+      "https://www.gesetze-im-internet.de/bgb/__650c.html"
+    ],
+    [
+      "§ 164 BGB – Wirkung der Erklärung des Vertreters",
+      "https://www.gesetze-im-internet.de/bgb/__164.html"
+    ],
+    [
+      "§ 177 BGB – Vertragsschluss durch Vertreter ohne Vertretungsmacht",
+      "https://www.gesetze-im-internet.de/bgb/__177.html"
+    ],
+    [
+      "§ 632a BGB – Abschlagszahlungen",
+      "https://www.gesetze-im-internet.de/bgb/__632a.html"
+    ],
+    [
+      "§ 126b BGB – Textform",
+      "https://www.gesetze-im-internet.de/bgb/__126b.html"
+    ]
+  ],
+  "dokumente": [
+    {
+      "phase": "Grundakte",
+      "datei": "01_bauvertrag.docx",
+      "titel": "Bauvertrag KF3 · Vertragsurkunde und Leistungsverzeichnis",
+      "datum": "2026-08-13",
+      "von": "Farid Kemper · Deutsche Interstate AG, Niederlassung West, kaufmännische Vertragsleitung",
+      "an": "Lisa Türk · Tiefbau Wiesenfeld GmbH, kaufmännische Bauleitung",
+      "text": [
+        "Die Deutsche Interstate AG, Niederlassung West, bestellt bei der Tiefbau Wiesenfeld GmbH den Leitungsgraben und die Kabelschutzrohrtrasse am Knoten Feldrain für 486.230,00 Euro netto zu Einheitspreisen. Vertragsgrundlagen sind die unterzeichnete Urkunde, das Leistungsverzeichnis vom 22. Juli und Plan KF-L4, Revision 0. Es gilt das BGB. Die VOB/B wurde nicht vereinbart. Die Auftraggeberin stellt die Trassenplanung.",
+        "Pos. 03.10 umfasst das Liefern und Einbauen des PE-HD-Schutzrohrs einschließlich Bettung und Verbindungen. Ein stählerner Außenmantel ist im Querschnitt der Revision 0 nicht vorgesehen. Pos. 03.20 vergütet das Herstellen und Schließen des Regelgrabens bis 0,80 m Breite einschließlich Bagger und Fahrer. Bei einer Ausweitung des Grabens sind die abweichenden Querschnitte gemeinsam aufzunehmen.",
+        "Pos. 01.40 erfasst eine vollständig eingerichtete und unterhaltene Nachtsperrung pro Schicht. Darin sind Verkehrszeichen, Sicherungsfahrzeug und Sicherungsposten für die Regeltrasse enthalten. Zusätzliche Sicherungen sind mit Ort, Dauer und Gerät zu belegen. Eine allein für Nachtrag 7 eingerichtete Schicht ist als solche im Sperrprotokoll zu kennzeichnen. Die Regeln für Nachweise ändern die vertraglichen Vertretungsbefugnisse nicht.",
+        "Unterzeichnet für die Deutsche Interstate AG durch die gemeinsam bevollmächtigten Ronja Evers und Farid Kemper sowie für die Tiefbau Wiesenfeld GmbH durch Geschäftsführer Tom Berger. Die bestätigte Zuständigkeitsmitteilung der Niederlassung vom selben Tag ist Gegenstand der Vertragskorrespondenz."
+      ],
+      "tabelle": [
+        [
+          "LV-Pos.",
+          "Einheit",
+          "Vertragsmenge",
+          "Einheitspreis netto"
+        ],
+        [
+          "03.10 PE-HD-Rohr",
+          "m",
+          "480",
+          "62,00 EUR"
+        ],
+        [
+          "03.20 Regelgraben",
+          "m",
+          "480",
+          "46,00 EUR"
+        ],
+        [
+          "01.40 Nachtsperrung",
+          "Schicht",
+          "12",
+          "850,00 EUR"
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "02_zustaendigkeit.eml",
+      "titel": "KF3 · Wer für die Niederlassung West Erklärungen abgibt",
+      "datum": "2026-08-13",
+      "von": "Farid Kemper · Deutsche Interstate AG, Niederlassung West, kaufmännische Vertragsleitung",
+      "an": "Lisa Türk · Tiefbau Wiesenfeld GmbH, kaufmännische Bauleitung",
+      "text": [
+        "Frau Türk, für KF3 dürfen Frau Evers und ich gemeinsam Vertragsänderungen und kostenwirksame Anordnungen erklären. Bei Angeboten bis 10.000 Euro netto darf ich allein schriftlich beauftragen. Bei darüberliegenden Angeboten benötigen Sie unsere gemeinsame Erklärung. Eine einzelne E-Mail kann die Erklärungen beider enthalten, wenn beide als Erklärende erkennbar sind.",
+        "Herr Abel von der örtlichen Bauüberwachung darf Aufmaß, Lage und ordnungsgemäße Ausführung quittieren. Er kann eine Arbeit aus Sicherheitsgründen stoppen. Er hat keine Vollmacht, zusätzliche Vergütung oder abweichende Preise zu vereinbaren. Die Projektleitung kann Planstände technisch freigeben. Bitte senden Sie Nachtragsangebote an uns beide."
+      ],
+      "absender": "f.kemper@interstate.example",
+      "empfaenger": "l.tuerk@wiesenfeld.example",
+      "uhrzeit": "14:43"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "03_aenderungsbegehren.eml",
+      "titel": "Wandfuß Feldrain · Varianten für Querung der beiden Engstellen",
+      "datum": "2026-10-02",
+      "von": "Ronja Evers · Deutsche Interstate AG, Niederlassung West, Projektleitung Knoten Feldrain",
+      "an": "Lisa Türk · Tiefbau Wiesenfeld GmbH, kaufmännische Bauleitung",
+      "text": [
+        "Frau Türk, die Suchschürfe zeigen Vorsprünge der Altwand in der Regeltrasse. Bitte bieten Sie bis 9. Oktober zwei Wege zur Sicherung des Schutzrohrs an: eine Verschwenkung des Grabens auf die Fahrbahnseite oder eine geteilte Stahlummantelung in Bestandstrasse. Die Zufahrt am Pumpenhaus muss verfügbar bleiben. Als vorläufigen Prüfkorridor nehmen Sie Station 0+420 bis 0+590.",
+        "Unsere Tragwerksplanung klärt gerade, welche Abstände am Wandfuß freizuhalten sind. Den geänderten Lageplan erhalten Sie nach Rücklauf der Bestandsaufnahme. Bitte lösen Sie aus dieser Variantenabfrage noch keine Materialbestellung aus. Die Arbeiten außerhalb der Engstellen laufen planmäßig weiter. Ronja Evers."
+      ],
+      "absender": "r.evers@interstate.example",
+      "empfaenger": "l.tuerk@wiesenfeld.example",
+      "uhrzeit": "08:25"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "04_planfreigabe.eml",
+      "titel": "KF-L4 Revision 2 · Festlegung der Stahlummantelung",
+      "datum": "2026-10-09",
+      "von": "Ronja Evers · Deutsche Interstate AG, Niederlassung West, Projektleitung Knoten Feldrain",
+      "an": "Lisa Türk · Tiefbau Wiesenfeld GmbH, kaufmännische Bauleitung",
+      "text": [
+        "Frau Türk, die Verschwenkung würde die Zufahrt sperren. Wir verlangen die Ausarbeitung der Stahlmantelvariante für Station 0+420 bis 0+512 und 0+522 bis 0+590. Zwischen den Bereichen liegt der vorhandene Kontrollschacht. Revision 2 zeigt beide Abschnitte mit Schnitten und den freizuhaltenden Wandabstand. Das PE-HD-Innenrohr bleibt unverändert. Die Auftraggeberplanung ist für die dargestellte Lage technisch freigegeben.",
+        "Bitte legen Sie ein prüfbares Angebot mit Abgrenzung zu den vorhandenen Graben- und Verkehrspositionen vor. Unterbreiten Sie Mehr- und Minderkosten getrennt. Die Kostenfreigabe stimmen Herr Kemper und ich nach Eingang ab. Wir müssen die Trasse in den November-Sperrungen fertigstellen. Den gemeinsam zu messenden Anfangspunkt legen Sie bitte mit Herrn Abel vor der ersten Schicht fest."
+      ],
+      "absender": "r.evers@interstate.example",
+      "empfaenger": "l.tuerk@wiesenfeld.example",
+      "uhrzeit": "10:42"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "05_nachtragsangebot.xlsx",
+      "titel": "Nachtragsangebot 7 · Stahlmantel, Grabenrand und Nachtarbeit",
+      "datum": "2026-10-12",
+      "von": "Lisa Türk · Tiefbau Wiesenfeld GmbH, kaufmännische Bauleitung",
+      "an": "Farid Kemper · Deutsche Interstate AG, Niederlassung West, kaufmännische Vertragsleitung",
+      "text": [
+        "Angebot an Farid Kemper und Ronja Evers, Stand 12. Oktober. Wir gehen von 28 geteilten Rohrlängen à 6 m aus. Unsere Preise gelten netto bei abschnittsweiser Ausführung. Das Innenrohr, der Regelgraben und die vertragliche Nachtsperrung rechnen wir weiterhin nach dem Haupt-LV ab. Die hier angebotene Sicherung betrifft nach unserer Annahme eine zusätzliche Fahrspur. Der Ansatz für den Löffelbagger gilt für Einsätze am Wandfuß.",
+        "Je Meter fertigen Mantels setzen wir 34,50 Euro Material, 0,25 Facharbeiterstunden à 48,00 Euro und 0,10 Stunden Hebegerät à 72,00 Euro an. Auf die Einzelkosten erheben wir 8 Prozent Zuschlag gemäß der bei Vertragsschluss hinterlegten Kalkulation. Beim Grabenrand rechnen wir mit 0,25 Facharbeiterstunden à 48,00 Euro und 0,10 Stunden Löffelbagger à 74,00 Euro, ebenfalls zuzüglich 8 Prozent. Der auf volle Euro gerundete Ansatz von 21,00 Euro ist ein Angebotspreis. Für den gesonderten Baggereinsatz enthält der Stundensatz von 88,00 Euro bereits Fahrer und Zuschläge.",
+        "Wir bitten um Entscheidung bis 4. November. Wir können den vorgeschlagenen Preis bei unverändertem Zuschnitt bis 25. November halten. Die Lieferlängen werden verpackt berechnet. Ob Reststücke einem anderen Bauabschnitt zugeordnet werden können, lässt sich vor der Montage nicht sagen. Alle Mengen und Maschinenstunden sind vorläufig."
+      ],
+      "tabelle": [
+        [
+          "Pos.",
+          "Leistung / Ansatz",
+          "Menge",
+          "EP EUR",
+          "Gesamt EUR"
+        ],
+        [
+          "N7.1",
+          "Stahlmantel liefern und montieren",
+          "168 m",
+          "58,00",
+          "9.744,00"
+        ],
+        [
+          "N7.2",
+          "Mehrarbeit am Grabenrand",
+          "168 m",
+          "21,00",
+          "3.528,00"
+        ],
+        [
+          "N7.3",
+          "Zusätzliche Nachtsicherung",
+          "6 Schichten",
+          "850,00",
+          "5.100,00"
+        ],
+        [
+          "N7.4",
+          "Löffelbagger am Wandfuß",
+          "32 Stunden",
+          "88,00",
+          "2.816,00"
+        ],
+        [
+          "",
+          "Angebotsbetrag netto",
+          "",
+          "",
+          "21.188,00"
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "06_freigabeposten.eml",
+      "titel": "Sperrnacht am 9. November · Übergabe der Arbeitsstelle KF3",
+      "datum": "2026-11-06",
+      "von": "Gregor Abel · Büro Planort GmbH, örtliche Bauüberwachung Knoten Feldrain",
+      "an": "Lisa Türk · Tiefbau Wiesenfeld GmbH, kaufmännische Bauleitung",
+      "text": [
+        "Frau Türk, das Verkehrsfenster für Montag, 9. November, 20 Uhr, ist bestätigt. Die Kolonne kann in der ersten Engstelle nach Revision 2 mit dem Mantel beginnen. Ich habe den Standort der ersten Absperrung auf dem Lageplan markiert. Wenn Sie dort ohne Schutz bis an den Wandfuß heran müssten, unterbrechen Sie und rufen mich an.",
+        "Frau Evers hat den Einbau in der morgendlichen Runde als dringend bezeichnet. Herr Kemper war nicht anwesend. Meine Unterschrift im heutigen Schichtbuch betrifft die sichere Übergabe der Fläche. Von der kaufmännischen Vertragsleitung liegt mir noch keine Antwort auf Ihr Angebot vor. Bitte teilen Sie uns die Materialcharge und die anwesende Mannschaft vor dem Abladen mit."
+      ],
+      "absender": "g.abel@planort.example",
+      "empfaenger": "l.tuerk@wiesenfeld.example",
+      "uhrzeit": "13:12"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "07_vertragsleitung.eml",
+      "titel": "Ihre Bitte um Bestätigung für Nachtrag 7",
+      "datum": "2026-11-10",
+      "von": "Farid Kemper · Deutsche Interstate AG, Niederlassung West, kaufmännische Vertragsleitung",
+      "an": "Lisa Türk · Tiefbau Wiesenfeld GmbH, kaufmännische Bauleitung",
+      "text": [
+        "Frau Türk, Ihre Nachricht von gestern um 18.16 Uhr mit dem Hinweis, dass Sie die technische Freigabe als Auftrag auffassen, habe ich erhalten. Wir prüfen Ihre vier Preispositionen noch. Ich habe in der Nachtragsliste neben „technisch erforderlich“ nur „Kosten offen“ eingetragen. Die zwischen mir und Frau Evers vorgesehene gemeinsame Erklärung ist bisher nicht abgegeben. Den Eingang unserer Mitteilung zu den Vollmachten vom 13. August haben Sie laut Empfangsvermerk im Projektpostfach am 13. August um 15.18 Uhr bestätigt.",
+        "Bitte legen Sie schon für die erste Nacht getrennte Mengen für Regelgraben und erweiterten Graben vor. Bitte weisen Sie die geplanten sechs zusätzlichen Nachtsicherungen einer Station und einer Sperranordnung zu. Der Bauüberwachung habe ich Gelegenheit zur gemeinsamen Aufnahme gegeben. Eine Stilllegung der gesamten Baustelle haben wir nicht verlangt."
+      ],
+      "absender": "f.kemper@interstate.example",
+      "empfaenger": "l.tuerk@wiesenfeld.example",
+      "uhrzeit": "10:03"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "08_abschlagsbegehren.docx",
+      "titel": "Nachtrag 7 · Zahlungsbegehren zur vierten Abschlagsrechnung",
+      "datum": "2026-11-16",
+      "von": "Lisa Türk · Tiefbau Wiesenfeld GmbH, kaufmännische Bauleitung",
+      "an": "Farid Kemper · Deutsche Interstate AG, Niederlassung West, kaufmännische Vertragsleitung",
+      "text": [
+        "Sehr geehrter Herr Kemper, die vertraglich vorgesehene PE-HD-Leitung ist ausführbar, wenn die zusätzliche Stahlummantelung eingebaut wird. Seit der ersten von Ihnen freigegebenen Sperrnacht arbeitet unsere Mannschaft mit Revision 2. Frau Evers hat die Trassenführung vorgegeben. Herr Abel hat uns am 6. November in die Mantelmontage eingewiesen und die bisherigen Schichten abgenommen. Wir müssen den Lieferanten zum Monatsende bezahlen.",
+        "Wir verlangen deshalb in der vierten Abschlagsrechnung vorläufig 80 Prozent des angebotenen Netto-Nachtrags von 21.188,00 Euro, mithin 16.950,40 Euro netto, unter Berufung auf § 650c Abs. 3 BGB. Eine Einigung über einen Preis ist bisher nicht zustande gekommen. Die Endabrechnung erfolgt nach Fertigstellung und Aufmaß. Für die zwischenzeitliche Bereitstellung von 28 Lieferlängen verweisen wir auf den Lieferschein WF-402.",
+        "Bitte teilen Sie uns bis 24. November mit, welche Teilleistungen Sie jedenfalls anerkennen und wer die Fortführung im zweiten Abschnitt verbindlich für Sie erklärt. Das nächste Verkehrsfenster ist für den 25. November ab 20 Uhr angeboten. Unser Bauleiter hält Mannschaft und Material bis zum vorhergehenden Mittag frei. Mit freundlichen Grüßen, Lisa Türk."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "09_feldbuch.xlsx",
+      "titel": "Gemeinsames Aufmaß FB-12 · Stand nach der vierten Nachtschicht",
+      "datum": "2026-11-19",
+      "von": "Gregor Abel · Büro Planort GmbH, örtliche Bauüberwachung Knoten Feldrain",
+      "an": "Lisa Türk · Tiefbau Wiesenfeld GmbH, kaufmännische Bauleitung",
+      "text": [
+        "Vor Ort aufgenommen und elektronisch gegengezeichnet von Gregor Abel für die Bauüberwachung und Luca Seitz, Polier der Tiefbau Wiesenfeld GmbH. Stationierungen folgen der Rohrachse. „Erweitert“ bezeichnet einen über 0,80 m breiten Graben. Die örtliche Aufnahme entscheidet weder über die Kostenzuordnung noch über eine Anordnung.",
+        "Im Materiallager liegen nach Zählung sechs ganze 6-m-Halbschalensätze und vermessene nutzbare Reststücke von zusammen 4 m. Weitere kurze Verschnittstücke summieren sich auf 4 m. Lieferschein WF-402 nennt 28 vollständige 6-m-Sätze. Die Lieferung steht damit im Feldbuch neben dem bislang tatsächlich montierten Mantel. Über die weitere Verwendung der Reststücke wurde nicht entschieden."
+      ],
+      "tabelle": [
+        [
+          "Teil / Bereich",
+          "Zustand am 19.11.",
+          "Mantel nach Rohrachse",
+          "Davon Graben erweitert"
+        ],
+        [
+          "0+420 bis 0+512",
+          "Fertig und zugänglich abgenommen",
+          "92 m",
+          "0+446 bis 0+478 = 32 m"
+        ],
+        [
+          "0+512 bis 0+522",
+          "Vorhandener Kontrollschacht ohne Mantel",
+          "0 m",
+          "0 m"
+        ],
+        [
+          "0+522 bis 0+554",
+          "Montiert und aufgenommen",
+          "32 m",
+          "0+530 bis 0+542 = 12 m"
+        ],
+        [
+          "0+554 bis 0+590",
+          "Noch offen, vorgesehen ab 25.11.",
+          "36 m geplant",
+          "Querschnitt erst nach Freilegen messbar"
+        ]
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "10_schichtabgleich.xlsx",
+      "titel": "Sperrprotokolle und Baggerstunden · Belegabgleich zu N7.2 bis N7.4",
+      "datum": "2026-11-23",
+      "von": "Mona Kühl · Deutsche Interstate AG, Niederlassung West, Bauabrechnung",
+      "an": "Farid Kemper · Deutsche Interstate AG, Niederlassung West, kaufmännische Vertragsleitung",
+      "text": [
+        "Ich habe die vier unterschriebenen Schichtzettel, die Einsatzmeldung des Sicherers Randschild und den Gerätezähler W-18 vom 9. bis 18. November nach Station zusammengeführt. Für alle vier Nächte ist die Grundsicherung bereits in Abschlagsrechnung 4 unter Pos. 01.40 mit 4 × 850,00 Euro enthalten. Lediglich für den 13. November trägt das Sicherungsbuch eine zweite mobile Tafel. Der gesonderte Lieferbeleg RS-77 lautet auf 260,00 Euro netto für eine Nacht. Zur dafür beanspruchten zweiten Mannschaft gibt es keine gesonderte Zeitliste.",
+        "Die 16 protokollierten Maschinenstunden sind Bruttowerte eines Geräts. Die Angaben „Regelgraben“, „Verbreiterung“ und „Freilegen Wandkopf“ stammen aus den handschriftlichen Fahrerzetteln. Für die Verbreiterung setzt der Unternehmer im angebotenen Meterpreis N7.2 bereits einen Löffelbagger an. Für die geplanten nächsten zwei Nächte enthält die Übersicht weder Sperrbeleg noch Laufzeit. Der Sicherer hat das Verkehrsfenster am 25. November bis zur Mittagsbesprechung reserviert."
+      ],
+      "tabelle": [
+        [
+          "Schicht",
+          "Sicherung neben Grundsicherung",
+          "Bagger h gesamt",
+          "Davon Regelgraben / Verbreiterung / Wandkopf"
+        ],
+        [
+          "09.11.",
+          "kein weiterer Beleg",
+          "4",
+          "2 / 2 / 0"
+        ],
+        [
+          "11.11.",
+          "kein weiterer Beleg",
+          "5",
+          "2 / 2 / 1"
+        ],
+        [
+          "13.11.",
+          "zweite mobile Tafel RS-77",
+          "4",
+          "1 / 1 / 2"
+        ],
+        [
+          "18.11.",
+          "kein weiterer Beleg",
+          "3",
+          "1 / 1 / 1"
+        ],
+        [
+          "Summe aus Fahrerzetteln",
+          "",
+          "16",
+          "6 / 6 / 4"
+        ]
+      ]
+    }
+  ]
+}

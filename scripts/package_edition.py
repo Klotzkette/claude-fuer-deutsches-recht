@@ -21,18 +21,27 @@ def edition_routes(root: Path, edition: str = EDITION) -> dict[str, tuple[str, s
         raise ValueError("Ausgabeplan und Dateiname stimmen nicht überein")
     active = json.loads((root / "scripts/scoped-release-assets.json").read_text())["assets"]
     market = json.loads((root / ".claude-plugin/marketplace.json").read_text())["plugins"]
+    successors = plan.get("nachfolger", {})
     result = {}
     for version, group in plan["gruppen"].items():
         previous, new_tag = group["vorgaenger"], f"{edition}-v{version}"
         native, portable = 0, 0
         for plugin in market:
             name = plugin["name"]
-            if plugin["version"] != version or name in plan["unveraendert"]:
+            if name in plan["unveraendert"]:
                 continue
             for asset in (name + ".zip", name + "-portable.zip"):
+                successor = successors.get(asset)
+                recorded_version = successor["ausgabeversion"] if successor else plugin["version"]
+                if recorded_version != version:
+                    continue
                 if asset.endswith("-portable.zip") and asset not in active:
                     continue
-                if active.get(asset) not in (previous, new_tag):
+                if successor:
+                    if (active.get(asset) != successor["tag"]
+                            or not successor["tag"].endswith("-v" + plugin["version"])):
+                        raise ValueError(f"{asset}: Nachfolgetag oder Marketplace-Version stimmt nicht")
+                elif active.get(asset) not in (previous, new_tag):
                     raise ValueError(f"{asset}: Aktueller Paketstand gehört nicht zum Ausgabeplan")
                 result[asset] = previous, new_tag
                 if asset == name + ".zip":
@@ -41,6 +50,8 @@ def edition_routes(root: Path, edition: str = EDITION) -> dict[str, tuple[str, s
                     portable += 1
         if (native, portable) != (group["native"], group["portable"]):
             raise ValueError(f"{new_tag}: Abweichende Anzahl nativer oder portabler Pakete")
+    if set(successors) - result.keys():
+        raise ValueError("Unbekanntes Nachfolgepaket im Ausgabeplan")
     return result
 
 
@@ -56,6 +67,11 @@ def planned_links(text: str, routes: dict[str, tuple[str, str]]) -> str:
 
 def activate_routes(root: Path, routes) -> int:
     """Schaltet Nutzerseiten und aktive Zuordnung auf dieselben geprüften Ausgabeziele."""
+    registry = root / "scripts/scoped-release-assets.json"
+    data = json.loads(registry.read_text())
+    for asset, choices in routes.items():
+        if data["assets"].get(asset) not in choices:
+            raise ValueError(f"{asset}: Diese Aktivierung würde einen anderen Paketstand überschreiben")
     tracked = subprocess.check_output(["git", "ls-files", "-z"], cwd=root).decode().split("\0")
     total = 0
     for relative in tracked:
@@ -74,8 +90,6 @@ def activate_routes(root: Path, routes) -> int:
         if content != updated:
             file.write_bytes(updated)
             total += 1
-    registry = root / "scripts/scoped-release-assets.json"
-    data = json.loads(registry.read_text())
     if any(data["assets"][asset] != pair[1] for asset, pair in routes.items()):
         data["assets"].update({asset: pair[1] for asset, pair in routes.items()})
         registry.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")

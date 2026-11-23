@@ -78,7 +78,7 @@ Die Links führen zu den fachlich zugeordneten Akten der jeweiligen Plugins. Dor
 | Transport- und Speditionsrecht | [Transport, Fracht und Logistik](../fachanwalt-transport-speditionsrecht/README.md#zugeordnete-testakten) |
 | Untersuchungshaft | [Vier Fälle zu Haftprüfung und Haftbedingungen](../untersuchungshaft/README.md#14-vier-akten-zum-ausprobieren--four-practice-cases) |
 | Urheber- und Medienrecht | [Werke, Veröffentlichungen und Medien](../fachanwalt-urheber-medienrecht/README.md#zugeordnete-testakten) |
-| Vergaberecht | [Vergaberechtliche Fälle](../fachanwalt-vergaberecht/README.md#zugeordnete-testakten) · [Vergaberecht-Werkstatt](../vergaberecht-werkstatt/testakten/README.md) · [Bauvergabe](../bauvergabe/bauvergabe-unterlagen/README.md#zugeordnete-testakten) |
+| Vergaberecht | [Deutsche Interstate AG · sieben Vergabe- und Vertragsakten der Niederlassung West](../vergaberecht-werkstatt/vergabestelle-behoerden/Interstate%20AG/README.md) · [Vergaberechtliche Fälle](../fachanwalt-vergaberecht/README.md#zugeordnete-testakten) · [Vergaberecht-Werkstatt](../vergaberecht-werkstatt/testakten/README.md) · [Bauvergabe](../bauvergabe/bauvergabe-unterlagen/README.md#zugeordnete-testakten) |
 | Verkehrsrecht | [Verkehrsunfall und Verkehrsverfahren](../fachanwalt-verkehrsrecht/README.md#zugeordnete-testakten) |
 | Versicherungsrecht | [Deckung und Versicherungsleistungen](../fachanwalt-versicherungsrecht/README.md#zugeordnete-testakten) |
 | Verwaltungsrecht | [Behördenentscheidungen und Rechtsschutz](../fachanwalt-verwaltungsrecht/README.md#zugeordnete-testakten) |

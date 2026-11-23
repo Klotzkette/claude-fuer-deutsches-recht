@@ -94,6 +94,28 @@ class QualityReleaseTests(unittest.TestCase):
         self.assertIn(tag, current.read_text())
         self.assertEqual(previous.read_text(), before)
 
+    def test_historical_package_cannot_replace_its_registered_successor(self):
+        from package_edition import activate_routes, edition_routes
+        version = "445.36.12"
+        successor = f"qualitaetsrunde-v{version}"
+        edition = "paketpflege-20261122"
+        asset = self.name + ".zip"
+        plan = {"edition": edition, "gruppen": {
+            self.version: {"vorgaenger": self.tag, "native": 1, "portable": 0}},
+            "unveraendert": [], "nachfolger": {asset: {"ausgabeversion": self.version, "tag": successor}}}
+        self.write("scripts/data/" + edition + ".json", json.dumps(plan))
+        self.write(".claude-plugin/marketplace.json", json.dumps({"plugins": [{"name": self.name, "version": version}]}))
+        route_file = "scripts/scoped-release-assets.json"
+        self.write(route_file, json.dumps({"assets": {asset: successor}}))
+        routes = edition_routes(self.root)
+        self.assertEqual(routes, {asset: (self.tag, edition + "-v" + self.version)})
+        with self.assertRaisesRegex(ValueError, "überschreiben"):
+            activate_routes(self.root, routes)
+        self.assertEqual(json.loads((self.root / route_file).read_text())["assets"][asset], successor)
+        self.write(route_file, json.dumps({"assets": {asset: "unbekannt-v" + version}}))
+        with self.assertRaisesRegex(ValueError, "Nachfolgetag"):
+            edition_routes(self.root)
+
     def test_native_portable_manifests_fachtext_and_tool_are_byte_exact(self):
         report = self.build()
         self.assertEqual(len(list(self.dist.iterdir())), 6)

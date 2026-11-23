@@ -1,0 +1,192 @@
+#!/usr/bin/env python3
+"""Prüft die ausgelieferten Unterlagen der Niederlassung West gegen die Falldaten."""
+from __future__ import annotations
+
+import csv
+from datetime import date
+from email import policy
+from email.parser import BytesParser
+from email.utils import parseaddr, parsedate_to_datetime
+import io
+import json
+from pathlib import Path
+import subprocess
+import sys
+import tempfile
+import unicodedata
+import unittest
+from zipfile import ZipFile
+from zoneinfo import ZoneInfo
+
+from docx import Document
+from openpyxl import load_workbook
+from pypdf import PdfReader
+
+from testakte_disclaimer import NOTICE_BYTES, NOTICE_DE, NOTICE_EN, NOTICE_MARKDOWN, notice_text_errors
+
+ROOT = Path(__file__).resolve().parents[1]
+INPUT = ROOT / "scripts/data/interstate-ag"
+COLLECTION = ROOT / "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG"
+CASES = ("01-alleinstellung", "02-fachlose", "03-ausschluss", "04-oekopunkte",
+         "05-baustreit", "06-nachtrag", "07-vertragsmuster")
+
+
+def condensed(value):
+    text = unicodedata.normalize("NFKC", str(value)).replace("\u00ad", "")
+    return "".join(text.split())
+
+
+def native_text(path):
+    if path.suffix == ".docx":
+        doc = Document(path)
+        cells = [cell.text for table in doc.tables for row in table.rows for cell in row.cells]
+        return "\n".join([p.text for p in doc.paragraphs] + cells)
+    if path.suffix == ".xlsx":
+        book = load_workbook(path, read_only=True)
+        try:
+            return "\n".join(str(cell) for sheet in book for row in sheet.values for cell in row if cell is not None)
+        finally:
+            book.close()
+    if path.suffix == ".eml":
+        mail = BytesParser(policy=policy.default).parsebytes(path.read_bytes())
+        return mail.get_body(preferencelist=("plain",)).get_content()
+    if path.suffix == ".csv":
+        with path.open(encoding="utf-8-sig", newline="") as stream:
+            sample = stream.readline()
+            stream.seek(0)
+            rows = list(csv.reader(stream, delimiter=";" if ";" in sample else ","))
+        return "\n".join(cell for row in rows for cell in row)
+    if path.suffix == ".txt":
+        return path.read_text(encoding="utf-8-sig")
+    raise AssertionError(f"Unbekanntes Aktenformat: {path}")
+
+
+class InterstateAktenTests(unittest.TestCase):
+    def test_fallauswahl(self):
+        self.assertEqual({p.stem for p in INPUT.glob("*.json")}, set(CASES))
+        self.assertEqual({p.name for p in COLLECTION.iterdir() if p.is_dir()}, set(CASES))
+        index = (COLLECTION / "README.md").read_text()
+        for slug in CASES:
+            self.assertIn(f"({slug}/README.md)", index)
+
+    def test_sammelpaket(self):
+        bundle = ROOT / "docs/downloads/interstate-ag-nl-west-testakten.zip"
+        expected = {}
+        for slug in CASES:
+            folder = COLLECTION / slug
+            for phase in ("Grundakte", "Nachreichungen", "gesamt-pdf", "downloads"):
+                for path in (folder / phase).iterdir():
+                    if phase != "downloads" or path.name.endswith("-einzelpdfs.zip"):
+                        expected[path.relative_to(COLLECTION).as_posix()] = path
+        with ZipFile(bundle) as archive:
+            self.assertEqual(archive.namelist()[0], "README.txt")
+            notice = archive.read("README.txt").decode("utf-8")
+            self.assertIn(NOTICE_DE, notice.split(NOTICE_EN)[0])
+            self.assertIn(NOTICE_EN, notice)
+            self.assertEqual(len(archive.namelist()), len(expected) + 1)
+            self.assertEqual(set(archive.namelist()), set(expected) | {"README.txt"})
+            for member, source in expected.items():
+                self.assertEqual(archive.read(member), source.read_bytes(), member)
+
+    def test_falllieferungen(self):
+        for slug in CASES:
+            with self.subTest(fall=slug):
+                self.check_case(slug)
+
+    def check_case(self, slug):
+        case = json.loads((INPUT / (slug + ".json")).read_bytes())
+        root = COLLECTION / slug
+        rows = case["dokumente"]
+        initial = [row for row in rows if row["phase"] == "Grundakte"]
+        later = [row for row in rows if row["phase"] == "Nachreichungen"]
+        self.assertEqual(rows, initial + later)
+        self.assertGreaterEqual(len(initial), 6)
+        self.assertGreaterEqual(len(later), 2)
+        self.assertLess(max(date.fromisoformat(d["datum"]) for d in initial),
+                        min(date.fromisoformat(d["datum"]) for d in later))
+        self.assertEqual(len({r["datei"] for r in rows}), len(rows))
+        originals = {f"{row['phase']}/{row['datei']}" for row in rows}
+        on_disk = {p.relative_to(root).as_posix() for phase in ("Grundakte", "Nachreichungen")
+                   for p in (root / phase).rglob("*") if p.is_file()}
+        self.assertEqual(on_disk, originals)
+
+        label = "testakte-" + slug
+        combined_path = root / "gesamt-pdf" / (label + "_gesamt.pdf")
+        originals_path = root / "downloads" / (label + ".zip")
+        pdfs_path = root / "downloads" / (label + "-einzelpdfs.zip")
+        readme = (root / "README.md").read_text()
+        self.assertIn(NOTICE_MARKDOWN, readme)
+        for export in (combined_path, originals_path, pdfs_path):
+            self.assertIn(export.relative_to(root).as_posix(), readme)
+
+        combined = PdfReader(combined_path)
+        named_pages = {}
+        for item in combined.outline:
+            if isinstance(item, list):
+                for target in item:
+                    named_pages[target.title] = combined.get_destination_page_number(target)
+        self.assertEqual([o.title for o in combined.outline if not isinstance(o, list)], ["Grundakte", "Nachreichungen"])
+        self.assertEqual(list(named_pages), [r["titel"] for r in rows])
+        all_pages = [condensed(p.extract_text()) for p in combined.pages]
+        self.assertTrue(all(all_pages))
+        self.assertFalse(any(condensed(notice) in page for notice in (NOTICE_DE, NOTICE_EN) for page in all_pages))
+
+        expected_pdfs = {f"{row['phase']}__{Path(row['datei']).stem}.pdf" for row in rows}
+        with ZipFile(originals_path) as files, ZipFile(pdfs_path) as singles:
+            for archive, names in ((files, originals), (singles, expected_pdfs)):
+                self.assertEqual(archive.namelist()[0], "README.txt")
+                self.assertEqual(set(archive.namelist()), names | {"README.txt"})
+                self.assertEqual(len(archive.namelist()), len(names) + 1)
+                self.assertEqual(notice_text_errors(archive.read("README.txt")), [])
+            for row in rows:
+                original = f"{row['phase']}/{row['datei']}"
+                path = root / original
+                with self.subTest(akte=slug, dokument=original):
+                    self.assertEqual(files.read(original), path.read_bytes())
+                    part = PdfReader(io.BytesIO(singles.read(f"{row['phase']}__{path.stem}.pdf")))
+                    pages = [condensed(p.extract_text()) for p in part.pages]
+                    start = named_pages[row["titel"]]
+                    self.assertEqual(pages, all_pages[start:start + len(pages)])
+                    pdf = "".join(pages)
+                    native = condensed(native_text(path))
+                    for paragraph in row["text"]:
+                        self.assertIn(condensed(paragraph), native)
+                        self.assertIn(condensed(paragraph), pdf)
+                    for cells in row.get("tabelle", []):
+                        for cell in cells:
+                            if isinstance(cell, str) and cell.strip():
+                                self.assertIn(condensed(cell), native)
+                                self.assertIn(condensed(cell), pdf)
+                    if path.suffix == ".eml":
+                        mail = BytesParser(policy=policy.default).parsebytes(path.read_bytes())
+                        self.assertEqual(parseaddr(str(mail["From"]))[1], row["absender"])
+                        self.assertEqual(parseaddr(str(mail["To"]))[1], row["empfaenger"])
+                        sent = parsedate_to_datetime(str(mail["Date"])).astimezone(ZoneInfo("Europe/Berlin"))
+                        self.assertEqual(sent.isoformat(timespec="minutes")[:16], f'{row["datum"]}T{row["uhrzeit"]}')
+
+
+class InterstatePluginTests(unittest.TestCase):
+    def test_installierbares_desktop_paket(self):
+        scope = ROOT / "scripts/data/interstate-ag-release-scope.json"
+        tag = json.loads(scope.read_text())["tag"]
+        with tempfile.TemporaryDirectory() as output:
+            subprocess.run([sys.executable, str(ROOT / "scripts/build-skill-quality-release.py"),
+                            "--scope", str(scope), "--dist", output], cwd=ROOT, check=True)
+            name = "vergabestelle-behoerden.zip"
+            with ZipFile(Path(output) / name) as package:
+                self.assertIn(f"/releases/download/{tag}/{name}", package.read("README.md").decode())
+                self.assertIn("(Interstate%20AG/README.md)", package.read("README.md").decode())
+                self.assertEqual(package.read("README.txt"), NOTICE_BYTES)
+                index = package.read("Interstate AG/README.md").decode()
+                for slug in CASES:
+                    with self.subTest(akte=slug):
+                        self.assertIn(f"({slug}/README.md)", index)
+                        label = f"testakte-{slug}"
+                        for path in (f"downloads/{label}.zip", f"downloads/{label}-einzelpdfs.zip",
+                                     f"gesamt-pdf/{label}_gesamt.pdf"):
+                            self.assertEqual(package.read(f"Interstate AG/{slug}/{path}"),
+                                             (COLLECTION / slug / path).read_bytes())
+
+
+if __name__ == "__main__":
+    unittest.main()
