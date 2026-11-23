@@ -13,6 +13,7 @@ Empfohlene MCP-/Tool-Konnektoren für die Arbeit mit diesem Repository. Pflicht:
 | rechtsprechung-im-internet.de | Amtliche Veröffentlichung des BMJ. Frei zugänglich. |
 | openJur | Frei zugängliches Rechtsprechungs-Repository. |
 | dejure.org | Norm- und Rechtsprechungsverlinkung, Volltext häufig. |
+| Open Legal Data (MCP) | Frei zugängliche Rechtsprechung (über 425.000 Entscheidungen) und Gesetze mit Zitationsverknüpfung; Remote-MCP-Server `https://de.openlegaldata.io/mcp`, ohne Anmeldung, auch im Claude-Konnektor-Verzeichnis. Nichtamtliche Sekundärquelle: zur Suche und Aktenzeichenprüfung, tragende Zitate an der amtlichen Quelle gegenprüfen. Keine Mandantendaten in Suchanfragen. |
 | gesetze-im-internet.de | Amtliche Bundesgesetze. |
 | bundesanzeiger.de | Veröffentlichungen, HRB-Einträge, Bilanzen. |
 | EUR-Lex | Konsolidierte EU-Rechtsakte (z. B. DORA VO 2022/2554), Anhänge, delegierte VO und ITS; CELEX-Aufruf `eur-lex://celex/<CELEX>`. |
@@ -61,9 +62,12 @@ Empfohlene MCP-/Tool-Konnektoren für die Arbeit mit diesem Repository. Pflicht:
     "dpma":         { "command": "node", "args": ["./mcp/dpma.js"] },
     "elster":       { "command": "node", "args": ["./mcp/elster.js"] },
     "eur-lex":      { "command": "node", "args": ["./mcp/eur-lex.js"] },
-    "esa-feeds":    { "command": "node", "args": ["./mcp/esa-feeds.js"] }
+    "esa-feeds":    { "command": "node", "args": ["./mcp/esa-feeds.js"] },
+    "open-legal-data-de": { "type": "http", "url": "https://de.openlegaldata.io/mcp" }
   }
 }
 ```
+
+Open Legal Data ohne Installation hinzufügen: `claude mcp add --transport http open-legal-data-de https://de.openlegaldata.io/mcp`
 
 Hinweis: Die Beck-/juris-Konnektoren sind nicht Teil dieses Repositories. Setze sie nach den AGB des jeweiligen Anbieters auf.
