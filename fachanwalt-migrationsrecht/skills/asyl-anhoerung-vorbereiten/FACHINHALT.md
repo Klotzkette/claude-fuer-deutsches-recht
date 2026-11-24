@@ -43,18 +43,20 @@ description: "Für Asyl Anhörung Vorbereiten: ordnet Norm, Beweislast und Gegen
 | § 4 AsylG | Subsidiärer Schutz: Todesstrafe, Folter, unmenschliche Behandlung, bewaffneter Konflikt |
 | § 25 AsylG | Anhörungspflicht des BAMF; Recht auf Beistand Abs. 5; geschlechtsspezifischer Anhörer Abs. 6a |
 | § 26a AsylG | Drittstaaten-Regelung (sichere Drittstaaten) |
-| § 36 AsylG | Frist einer Woche für Eilrechtsmittel bei offensichtlich unbegründetem Antrag |
-| § 74 AsylG | Klagefrist zwei Wochen nach BAMF-Ablehnungsbescheid |
+| § 36 Abs. 2 Satz 1 AsylG | In den erfassten Fällen Eilantrag gegen die Abschiebungsandrohung innerhalb einer Woche ab Bekanntgabe. |
+| § 74 Abs. 1 AsylG | Klagefrist im neuen Recht regelmäßig zwei Wochen ab Zustellung, in den Fällen der Sätze 2 und 3 eine Woche. |
 | § 60 AufenthG | Nationales Abschiebungsverbot: Abs. 5 (EMRK), Abs. 7 (konkrete Gefahr) |
 | § 12a AsylG | Verfahrensbeistand für unbegleitete Minderjährige |
 | Art. 4 Abs. 4 RL 2011/95/EU | Beweiserleichterung für Vorverfolgte (Vermutung erneuter Verfolgung) |
 
-### Dublin-III-Rahmen
+### Zuständigkeitsverfahren und Übergang
+
+Für die Kriterien der Zuständigkeit ist der Registrierungsstichtag 1. Juli 2026 zu prüfen (Art. 84 Abs. 2 VO (EU) 2024/1351). Die folgende Tabelle betrifft den Dublin-III-Altfall.
 
 | Norm | Inhalt |
 |---|---|
 | VO (EU) 604/2013 | Dublin-III: Zuständigkeitsbestimmung; Familienzusammenführung Art. 8–11; Humanitäre Klausel Art. 17 |
-| Art. 20 Abs. 3 Dublin-III | Frist sechs Monate für Überstellungsersuchen; Ablauf = DE zuständig |
+| Art. 21 Abs. 1 Dublin III | Aufnahmegesuch grundsätzlich innerhalb von drei Monaten ab Antragstellung, bei einer einschlägigen Eurodac-Treffermeldung zwei Monate ab Erhalt der Meldung. |
 | Art. 29 Dublin-III | Frist für physische Überstellung (sechs Monate, bei Untertauchen 18 Monate) |
 
 ### Leitentscheidungen
@@ -91,7 +93,7 @@ description: "Für Asyl Anhörung Vorbereiten: ordnet Norm, Beweislast und Gegen
 | 8 | Dublin-III-Vorverfahren aufklären (Erstland, Registrierungen) | Fristprüfung; Überstellungsrisiko |
 | 9 | Trauma-Assessment — PTBS-Attest einholen | Inkonsistenzen erklären |
 | 10 | Dolmetscher-Eignung prüfen (Dialekt, Vertrauen, keine Verfolger-Nationalität) | § 25 AsylG |
-| 11 | Logistik sichern (Anreise, Vollmacht, Beistand-Anmeldung) | § 25 Abs. 5 AsylG |
+| 11 | Logistik sichern (Anreise, Vollmacht, Begleitung) | Bevollmächtigung und persönliche Anhörung getrennt dokumentieren. |
 | 12 | Vortrag strukturieren: chronologisch, konkret, eigene Wahrnehmung | Keine Spekulation |
 | 14 | Protokoll-Prüfung nach Anhörung: Korrekturen vor Unterschrift | § 25 AsylG |
 | 15 | Ergänzungsschreiben BAMF bei vergessenen Aspekten (mit Fristsetzung) | Mitwirkungspflicht |
@@ -147,13 +149,13 @@ Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
 
-### Baustein 2 — Eilantrag bei Ablehnung (Dublin-III-Fall)
+### Baustein 2 — Eilantrag gegen eine Abschiebungsanordnung (Dublin-III-Altfall)
 
 ```
 An das Verwaltungsgericht [Ort] [Datum]
 
 Antrag auf Anordnung der aufschiebenden Wirkung
-gem. § 80 Abs. 5 VwGO i.V.m. § 34a Abs. 2 AsylG
+gemäß § 80 Abs. 5 VwGO i.V.m. § 34a Abs. 2 Satz 1 AsylG in der hier anwendbaren früheren Fassung
 
 In dem Verfahren [Name] ./. Bundesrepublik Deutschland (BAMF)
 
@@ -242,15 +244,17 @@ Mit freundlichen Grüßen
 
 ---
 
-## Fristen und Verjährung
+## Termine, Klage und Eilrechtsschutz
+
+Bei der Schutzprüfung entscheidet das Einreichungsdatum des Antrags: vor dem 12. Juni 2026 gilt das bisherige Verfahrensrecht fort, ab dem 12. Juni 2026 das neue Recht. Bei Entzug ist der Beginn der Überprüfung maßgeblich. [§ 87e AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__87e.html) und [Art. 79 Abs. 3 VO (EU) 2024/1348](https://eur-lex.europa.eu/eli/reg/2024/1348/oj/deu). Im neuen Recht beträgt die Klagefrist grundsätzlich zwei Wochen ab Zustellung. Eine Woche gilt nach § 74 Abs. 1 Satz 2 AsylG im Fall des § 34a Abs. 3 Satz 1 sowie nach Satz 3 in den Fällen des Art. 67 Abs. 7 Buchst. a VO (EU) 2024/1348. Bei der zweiten Fallgruppe sind auch die dort genannten Umstände nach Art. 42 Abs. 1 oder 3 im Zeitpunkt der Entscheidung zu prüfen. Bei fehlender oder unrichtiger Rechtsbehelfsbelehrung § 74 Abs. 1 Satz 4 AsylG und § 58 Abs. 2 VwGO prüfen (grundsätzlich drei Monate). Im bisherigen Recht gilt nach § 74 Abs. 1 AsylG a. F. grundsätzlich die Zweiwochenfrist, bei einwöchiger Eilantragsfrist nach § 34a Abs. 2 Satz 1 oder § 36 Abs. 3 Satz 1 AsylG a. F. die Wochenfrist. Bei fehlender oder unrichtiger Belehrung gilt dort grundsätzlich die Jahresfrist nach § 58 Abs. 2 VwGO. Die Vorlage des Bescheids, seinen verfügenden Teil, die Zustellung und die Belehrung sichern. Rechtsgrundlagen: [§ 74 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__74.html), [§ 34a AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__34a.html), [§ 36 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__36.html) und [§ 58 VwGO](https://www.gesetze-im-internet.de/vwgo/__58.html).
 
 | Frist | Grundlage | Inhalt |
 |---|---|---|
 | Asylantrag sofort nach Einreise | § 13 Abs. 1 AsylG | Schriftlich oder mündlich bei BAMF oder Grenzbehörde |
 | Anhörungsfrist | § 25 AsylG | BAMF setzt Termin; Verzögerung = Rechtsmittel möglich |
-| Zwei Wochen | § 74 Abs. 1 AsylG | Klagefrist gegen BAMF-Ablehnungsbescheid |
-| Eine Woche | § 36 Abs. 3 AsylG | Bei offensichtlich unbegründetem Antrag (§ 30 AsylG) |
-| Sechs Monate | Art. 20 Dublin-III | BAMF-Frist für Überstellungsersuchen; Ablauf = DE zuständig |
+| Ein oder zwei Wochen | § 74 Abs. 1 Sätze 1 bis 3 AsylG | Klagefrist anhand der konkreten Entscheidung und ihres Zustellungsdatums berechnen. |
+| Eine Woche | § 34a Abs. 3 Satz 1 bzw. § 36 Abs. 2 Satz 1 AsylG | Eilantrag in den dort erfassten Fällen ab Bekanntgabe. |
+| Überstellung im Dublin-III-Altfall | Art. 29 Abs. 1 Dublin III | Grundsätzlich sechs Monate ab Annahme des Gesuchs oder endgültiger Rechtsbehelfsentscheidung mit aufschiebender Wirkung. Aufnahmegesuche gesondert nach Art. 21 prüfen. |
 | 18 Monate | Art. 29 Abs. 2 Dublin-III | Überstellungsfrist bei Untertauchen |
 
 ---
@@ -273,7 +277,7 @@ Mit freundlichen Grüßen
 | Position | Richtwert |
 |---|---|
 | Streitwert Asylklage | EUR 5000 (pauschal, § 52 GKG) |
-| Klagefrist-Einhaltung | Zwei Wochen ab BAMF-Bescheid |
+| Klagefrist | Zustellung, Entscheidungsart, maßgebliche Fassung, Belehrung und tatsächlichen Eingang dokumentieren. |
 | Prozesskostenhilfe | Regelmäßig bewilligbar; Antrag gleichzeitig mit Klage |
 | Gerichtskosten VG Asyl | In der Regel gerichtskostenfrei (§ 83b AsylG) |
 | Anwaltskosten | PKH-Beiordnung; Wahlanwalt EUR 500 bis 1500 (erste Instanz) |
@@ -289,7 +293,7 @@ Mit freundlichen Grüßen
 | PTBS / Trauma bekannt | Vor Anhörung Attest sichern; Sonderregelungen § 25 Abs. 6a, 6b AsylG nutzen |
 | Dublin-III droht | Fristen sofort prüfen; Familienstruktur dokumentieren; Humanitäre Klausel vorbereiten |
 | Protokoll-Fehler nach Anhörung | Sofort Ergänzungsschreiben mit Korrektur einreichen |
-| Ablehnung erwartet | Klagefrist (zwei Wochen) im Kalender eintragen; Eilantrag parallel vorbereiten |
+| Ablehnung erwartet | Posteingang überwachen, Vollmacht und Eilkontakt klären. Nach Zustellung Klagefrist und etwaige Eilantragsfrist getrennt berechnen. |
 | Minderjährig unbegleitet | Verfahrensbeistand § 12a AsylG sicherstellen; keine Anhörung ohne Beistand |
 
 ---
@@ -317,7 +321,7 @@ BAMF-Anhörung: [DATUM, UHRZEIT, BAMF-Aussenstelle]
 Bevollmaechtigte Kanzlei: [NAME]
 
 A. LOGISTIK (bis 2 Tage vor Termin)
-[ ] Vollmacht § 25 Abs. 5 AsylG bei BAMF angezeigt
+[ ] Vertretung beim BAMF angezeigt, Vollmachtsnachweis und Termin zur persönlichen Anhörung geklärt
 [ ] Beistandsanmeldung erfolgt
 [ ] Dolmetscher-Wahl bestätigt (Sprache: [X])
 [ ] Anreise und Begleitung organisiert
@@ -340,9 +344,9 @@ Kernaussagen zur Glaubwuerdigkeit:
 - [Warum innerstaatliche Fluchtalternative nicht moeglich: ...]
 
 D. NACH DER ANHOERUNG
-[ ] Protokoll sofort pruefen — Korrekturen NICHT unterschreiben
-[ ] Korrekturen in Schriftform innerhalb 3 Tage an BAMF
-[ ] Klagefrist vormerken: § 74 AsylG 2 Wochen / § 36 AsylG 1 Woche
+[ ] Niederschrift und Übersetzung abgleichen, Einwendungen festhalten und Inhalt jeder erbetenen Bestätigung vor der Unterschrift prüfen.
+[ ] Niederschrift sofort prüfen. Konkret benannte Übersetzungsfehler und Ergänzungen mit Belegen unverzüglich vorbringen und eine etwa gesetzte Frist dokumentieren.
+[ ] Tenor, Zustellung und Belehrung erfasst. Klagefrist nach § 74 Abs. 1 AsylG und einen erforderlichen Eilantrag gesondert berechnet, Ende und Wiedervorlage eingetragen.
 [ ] PKH-Antrag VG vorbereiten (§ 83b AsylG: gerichtskostenfrei)
 
 Naechste Schritte:

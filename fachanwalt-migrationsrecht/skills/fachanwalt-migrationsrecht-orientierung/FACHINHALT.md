@@ -15,7 +15,7 @@ description: "Für Fachanwalt für Migrationsrecht — Orientierung: ordnet Norm
 | Bereich | Norm |
 |---|---|
 | Aufenthaltsrecht | AufenthG §§ 1 ff. (Aufenthaltstitel) § 60 (Abschiebungsverbote) § 25 (humanitaer) § 81 (Antragstellung Fiktionswirkung) |
-| Asylrecht | AsylG §§ 3 ff. (Fluechtlingsstatus) § 4 (subsidiaerer Schutz) § 36 (beschleunigtes Verfahren) § 74 (Klagefrist) |
+| Asylrecht | AsylG §§ 3 ff. (Fluechtlingsstatus) § 4 (subsidiaerer Schutz) § 36 (Eilrechtsschutz gegen die Abschiebungsandrohung) § 74 (Klagefrist) |
 | Genfer Konvention | GFK 1951 Art. 1A (Fluechtlingsbegriff) Art. 33 Refoulementverbot |
 | EU-Recht | Dublin III VO (EU 604/2013) Qualifikations-RL 2011/95 Verfahrens-RL 2013/32 Aufnahme-RL 2013/33 Rückführungs-RL 2008/115 |
 | Staatsangehoerigkeit | StAG (Einbürgerung Anspruchseinbürgerung Ermessenseinbürgerung) |
@@ -28,7 +28,7 @@ description: "Für Fachanwalt für Migrationsrecht — Orientierung: ordnet Norm
 - Aufenthaltstitel-Verlängerung und -Versagung
 - Abschiebungsverfahren Eilrechtsschutz § 80 Abs. 5 VwGO / § 123 VwGO
 - Familiennachzug §§ 27 ff. AufenthG
-- Einbürgerung StAG §§ 10 ff. (acht Jahre / verkürzbar)
+- Anspruchseinbürgerung nach fünf Jahren rechtmäßigen gewöhnlichen Aufenthalts im Inland, wenn die weiteren Voraussetzungen vorliegen. [§ 10 Abs. 1 StAG](https://www.gesetze-im-internet.de/stag/__10.html)
 - Aufenthaltsverfestigung (Niederlassungserlaubnis Daueraufenthalt EU)
 - Duldung § 60a AufenthG
 - Ausländerrecht und Strafrecht (Ausweisung nach Straftat)
@@ -36,11 +36,12 @@ description: "Für Fachanwalt für Migrationsrecht — Orientierung: ordnet Norm
 
 ## Notfristen
 
-- **Klagefrist § 36 AsylG-Bescheid** — **eine Woche** ab Bekanntgabe.
-- **Klagefrist sonstiger Asyl-Bescheid** zwei Wochen oder ein Monat je nach Bescheidart.
-- **Klage Ausländerbehörde** ein Monat (§ 74 VwGO).
+- **Anwendbares Recht.** Bei der Schutzprüfung entscheidet das Einreichungsdatum des Antrags: vor dem 12. Juni 2026 gilt das bisherige Verfahrensrecht fort, ab dem 12. Juni 2026 das neue Recht. Bei Entzug ist der Beginn der Überprüfung maßgeblich. [§ 87e AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__87e.html) und [Art. 79 Abs. 3 VO (EU) 2024/1348](https://eur-lex.europa.eu/eli/reg/2024/1348/oj/deu).
+- **Asylklage.** Im neuen Recht beträgt die Klagefrist grundsätzlich zwei Wochen ab Zustellung. Eine Woche gilt nach § 74 Abs. 1 Satz 2 AsylG im Fall des § 34a Abs. 3 Satz 1 sowie nach Satz 3 in den Fällen des Art. 67 Abs. 7 Buchst. a VO (EU) 2024/1348. Bei der zweiten Fallgruppe sind auch die dort genannten Umstände nach Art. 42 Abs. 1 oder 3 im Zeitpunkt der Entscheidung zu prüfen. Bei fehlender oder unrichtiger Rechtsbehelfsbelehrung § 74 Abs. 1 Satz 4 AsylG und § 58 Abs. 2 VwGO prüfen (grundsätzlich drei Monate). Im bisherigen Recht gilt nach § 74 Abs. 1 AsylG a. F. grundsätzlich die Zweiwochenfrist, bei einwöchiger Eilantragsfrist nach § 34a Abs. 2 Satz 1 oder § 36 Abs. 3 Satz 1 AsylG a. F. die Wochenfrist. Bei fehlender oder unrichtiger Belehrung gilt dort grundsätzlich die Jahresfrist nach § 58 Abs. 2 VwGO. Die Vorlage des Bescheids, seinen verfügenden Teil, die Zustellung und die Belehrung sichern. [§ 74 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__74.html).
+- **Eilrechtsschutz.** Für den Eilantrag Beginn und Ende gesondert erfassen: bei der Abschiebungsanordnung nach § 34a Abs. 3 Satz 1 und bei der Abschiebungsandrohung im Anwendungsbereich des § 36 Abs. 2 Satz 1 AsylG grundsätzlich eine Woche ab Bekanntgabe. [§ 34a AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__34a.html), [§ 36 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__36.html).
+- **Ausländerbehördlicher Verwaltungsakt.** Für Anfechtungs- und Verpflichtungsklage die Voraussetzungen und den Fristbeginn des § 74 VwGO prüfen. Die dortige Monatsfrist gesondert von der Asylklage berechnen.
 - **Eilrechtsschutz** sofort bei drohender Abschiebung.
-- **Wiedereinsetzung** § 60 VwGO zwei Wochen.
+- **Wiedereinsetzung:** Bei unverschuldeter Versäumung der Klagefrist den Antrag grundsätzlich binnen zwei Wochen nach Wegfall des Hindernisses stellen, Wiedereinsetzungsgründe glaubhaft machen und versäumte Handlung nachholen (§ 60 Abs. 1 und 2 VwGO).
 
 ## Hauptgerichte
 
@@ -77,7 +78,7 @@ Rechtsprechung im Mandat live verifizieren. Aktuelle Linien zur Orientierung (St
 
 - **AsylG §§ 3, 3a, 3b, 4** — Fluchtlingsstatus, Verfolgungshandlungen/-gruende, subsidiaerer Schutz
 - **AufenthG §§ 25, 60, 60a, 81** — Humanitaere Aufenthaltstitel, Abschiebungsverbote, Duldung, Fiktionswirkung Antrag
-- **§§ 74 AsylG, 74 VwGO, 36 AsylG** — Klagefristen (1 Woche / 2 Wochen / 1 Monat)
+- **§ 74 Abs. 1 und 2 AsylG.** Klagefrist und die Monatsfrist zur Angabe der Begründungstatsachen und Beweismittel getrennt notieren.
 - **VwGO §§ 80 Abs. 5, 123** — Eilrechtsschutz aufschiebende Wirkung und einstweilige Anordnung
 - **Dublin III-VO (EU) 604/2013** Art. 3 Abs. 2 — systemische Maengel; Art. 17 — Selbsteintrittsrecht
 - **GFK 1951** Art. 1A Fluechtlingsbegriff; Art. 33 Refoulementverbot
@@ -88,7 +89,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Triage vor Bearbeitung
 
 Bevor losgelegt wird, klaere:
-1. Akute Frist — §-36-AsylG-1-Woche-Frist bereits angelaufen? Wenn ja: Sofort-Eilantrag.
+1. Welcher Bescheidtenor ist wann zugestellt worden, hat die Klage aufschiebende Wirkung und muss heute ein eigener Eilantrag eingehen? Bei angekündigter Abschiebung Vollzugstermin sofort klären.
 2. Mandantenstatus exakt — Aufenthaltsgestattung, Duldung, bestehender Titel, EU-Buerger?
 3. Besteht bereits Bescheid — BAMF oder Auslaenderbehoerde?
 4. Familienangehoerige in Deutschland mit Titel — Relevant fuer Art. 6 GG / § 60a AufenthG?

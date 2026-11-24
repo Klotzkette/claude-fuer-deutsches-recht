@@ -20,16 +20,16 @@ description: "Für Abschiebungsabwehr: ordnet Norm, Beweislast und Gegenargument
 - Inlandsbezogene Vollstreckungshindernisse — Familieneinheit Art. 6 GG, Privat- und Familienleben Art. 8 EMRK.
 - Reiseunfähigkeit als rechtliches Hindernis § 60a Abs. 2c AufenthG — qualifiziertes ärztliches Attest.
 - Eilrechtsschutz: § 80 Abs. 5 VwGO bei vollziehbarem Verwaltungsakt; § 123 VwGO bei Anspruch auf Duldung.
-- Asylfolgeantrag § 71 AsylG bei neuen Beweismitteln/Wiederaufgreifensgründen § 51 VwVfG.
+- Bei einem Folgeantrag das Einreichungsdatum und neue entscheidungserhebliche Elemente feststellen. Für Neuanträge nach dem Übergang regelt § 71 Abs. 1 AsylG die Prüfung durch das BAMF nach Art. 55 und 56 VO (EU) 2024/1348. [§ 71 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__71.html)
 - **Dublin-III:** EuGH, Urt. v. 05.03.2026 — C-458/24 (Daraa) — Zuständigkeit geht nach Ablauf 6-Monatsfrist (Art. 29 Abs. 2 Dublin-III-VO) auf ersuchenden Mitgliedstaat über, wenn Überstellung an den primär zuständigen Staat tatsächlich nicht erfolgt; einseitige Erklärung Italiens, keine Dublin-Rückübernahmen mehr durchzuführen, bewirkt allein keinen Zuständigkeitswechsel. Verifikation: [curia.europa.eu](https://curia.europa.eu/) zum Az. C-458/24.
 - Weitere Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.
 
 ## Beweislast und Frist
 
 - Antragsteller trägt Glaubhaftmachung § 123 Abs. 3 VwGO i.V.m. § 920 Abs. 2 ZPO.
-- Klagefrist § 74 AsylG: zwei Wochen bei einfach unbegründeter, eine Woche bei offensichtlich unbegründeter Ablehnung Asyl.
+- Für ab dem 12. Juni 2026 eingereichte Asylanträge beträgt die Klagefrist ab Zustellung regelmäßig zwei Wochen. Eine Woche gilt für die Abschiebungsanordnung nach § 34a Abs. 3 Satz 1 AsylG sowie in den Fällen des Art. 67 Abs. 7 Buchst. a VO (EU) 2024/1348 (§ 74 Abs. 1 Sätze 2 und 3 AsylG). Bei Ablehnung als unzulässig, stillschweigend zurückgenommen, unbegründet oder offensichtlich unbegründet kommt es für Buchstabe a darauf an, ob bei der Entscheidung ein Umstand nach Art. 42 Abs. 1 oder 3 vorlag. Fehlt die vorgeschriebene Rechtsbehelfsbelehrung oder ist sie unrichtig, gilt nach § 74 Abs. 1 Satz 4 AsylG grundsätzlich eine Frist von drei Monaten. Für die Klagefrist bei zuvor eingereichten Anträgen ist die frühere Fassung maßgeblich (§ 87e AsylG, Art. 79 Abs. 3 der Verordnung). Dort gilt die Wochenfrist, wenn der Eilantrag binnen einer Woche zu stellen war (§ 74 Abs. 1 Halbsatz 2 a. F.). [§ 74 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__74.html) · [§ 87e AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__87e.html) · [Art. 67 Abs. 7 und Art. 79 Abs. 3 VO (EU) 2024/1348](https://eur-lex.europa.eu/eli/reg/2024/1348/oj/deu)
 - VwGO-Klage gegen ausländerbehördliche Bescheide: ein Monat § 74 VwGO.
-- Eilantrag idealerweise unverzüglich nach Bekanntgabe; spätestens vor angekündigtem Abschiebetermin.
+- Die Wochenfrist für einen Antrag nach § 80 Abs. 5 VwGO in den Fällen der §§ 36 Abs. 2 Satz 1, 34a Abs. 3 Satz 1 AsylG gesondert ab Bekanntgabe berechnen (früher § 36 Abs. 3 Satz 1 bzw. § 34a Abs. 2 Satz 1). Bei früherem drohendem Vollzug unverzüglich handeln. [§ 36 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__36.html) · [§ 34a AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__34a.html)
 
 ## Prüfschema Eilantrag
 
@@ -40,10 +40,12 @@ description: "Für Abschiebungsabwehr: ordnet Norm, Beweislast und Gegenargument
 4. Glaubhaftmachung — Atteste Geburtsurkunden Beziehungsnachweise
 5. Folgenabwaegung
 6. Antrag formulieren — aufschiebende Wirkung anordnen / einstweilige Verfuegung Duldung
-7. Beschwerde § 146 VwGO falls Eilantrag abgelehnt
+7. Bei ablehnendem Eilbeschluss Statthaftigkeit der Beschwerde und Ausschluss nach § 80 AsylG prüfen.
 ```
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+Für einen Duldungsantrag den Rechtsträger der zuständigen Ausländerbehörde ermitteln (Land oder kommunale Körperschaft). Wenn Landesrecht das Behördenprinzip vorsieht, die Behörde selbst benennen. Bei Rechtsschutz gegen einen BAMF-Bescheid ist die Bundesrepublik Deutschland, vertreten durch das BAMF, Beteiligte. [§ 78 Abs. 1 VwGO](https://www.gesetze-im-internet.de/vwgo/__78.html)
 
 ## Schreibvorlage Eilantrag § 123 VwGO
 
@@ -53,8 +55,7 @@ An das Verwaltungsgericht [Ort]
 Antrag auf Erlass einer einstweiligen Anordnung gemaess § 123 VwGO
 
 Antragsteller: [Name Geburtsdatum Staatsangehoerigkeit]
-Antragsgegner: Bundesrepublik Deutschland vertreten durch die
-   Auslaenderbehoerde [Ort]
+Antragsgegner: [Rechtsträger der zuständigen Ausländerbehörde mit Vertretung und Anschrift; bei landesrechtlichem Behördenprinzip die Behörde selbst]
 
 Wir beantragen:
 1. dem Antragsgegner im Wege der einstweiligen Anordnung aufzugeben dem
@@ -86,7 +87,7 @@ Mit freundlichen Gruessen
 ## Übergabe
 
 - Bei Erfolg: Duldung ausstellen lassen, Beschäftigungserlaubnis § 4a AufenthG beantragen.
-- Bei Ablehnung: Beschwerde § 146 VwGO innerhalb zwei Wochen; ggf. Verfassungsbeschwerde nach Erschöpfung Rechtsweg.
+- Gegen Entscheidungen in Asylstreitigkeiten und über die in § 80 AsylG bezeichneten Vollzugsmaßnahmen ist die gewöhnliche Beschwerde ausgeschlossen. Bei einem eigenständigen ausländerrechtlichen Eilbegehren die Statthaftigkeit nach § 146 VwGO prüfen. Ist die Beschwerde zulässig, binnen zwei Wochen ab Bekanntgabe einlegen und die einmonatige Begründungsfrist für den vorläufigen Rechtsschutz gesondert notieren. [§ 80 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__80.html) · [§ 146 VwGO](https://www.gesetze-im-internet.de/vwgo/__146.html) · [§ 147 VwGO](https://www.gesetze-im-internet.de/vwgo/__147.html)
 - Bei neuen Tatsachen: Asylfolgeantrag § 71 AsylG prüfen.
 
 ## Vertiefung: Aktuelle Rechtsprechung
@@ -100,7 +101,7 @@ Mit freundlichen Gruessen
 - **§ 60a Abs. 2c AufenthG** — Gesundheitliche Hindernisse; Anforderungen qualifiziertes Attest
 - **§ 123 VwGO** — Einstweilige Anordnung bei Anspruch auf Duldung
 - **§ 80 Abs. 5 VwGO** — Antrag auf Wiederherstellung / Anordnung der aufschiebenden Wirkung
-- **§ 71 AsylG** — Asylfolgeantrag bei neuen Wiederaufgreifensgruenden (§ 51 VwVfG)
+- **§ 71 AsylG** — Vorentscheidung und neue Elemente des Folgeantrags dokumentieren. Einen drohenden Vollzug gesondert prüfen.
 - **Art. 6 GG / Art. 8 EMRK** — Familienschutz als inlandsbezogenes Vollstreckungshindernis
 
 ## Quellenregel
@@ -121,8 +122,7 @@ Antragsteller: [VOLLSTAENDIGER NAME, geb. DATUM, STAATSANG.]
 Anschrift: [ADRESSE bzw. Aufnahmeeinrichtung]
 Prozessbevollmaechtigte: [KANZLEI, ADRESSE, TEL, beA-ID]
 
-Antragsgegner: Bundesrepublik Deutschland,
-vertreten durch Auslaenderbehoerde [ORT], [ADRESSE]
+Antragsgegner: [Rechtsträger der zuständigen Ausländerbehörde mit Vertretung und Anschrift; bei landesrechtlichem Behördenprinzip die Behörde selbst]
 
 ANTRAG:
 1. Dem Antragsgegner wird im Wege der einstweiligen Anordnung

@@ -214,7 +214,7 @@ Vor Versand:
 ### Normen-Kette Schriftsatz Migrationsrecht
 
 - **§ 80 Abs. 5 VwGO** — Eilantrag aufschiebende Wirkung; § 123 VwGO — einstweilige Anordnung
-- **§ 74 AsylG / § 74 VwGO** — Klagefristen (2 Wochen Asyl; 1 Monat VwGO)
+- **Klagefrist im Asylverfahren.** Bei der Schutzprüfung entscheidet das Einreichungsdatum des Antrags: vor dem 12. Juni 2026 gilt das bisherige Verfahrensrecht fort, ab dem 12. Juni 2026 das neue Recht. Bei Entzug ist der Beginn der Überprüfung maßgeblich. [§ 87e AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__87e.html) und [Art. 79 Abs. 3 VO (EU) 2024/1348](https://eur-lex.europa.eu/eli/reg/2024/1348/oj/deu). Im neuen Recht beträgt die Klagefrist grundsätzlich zwei Wochen ab Zustellung. Eine Woche gilt nach § 74 Abs. 1 Satz 2 AsylG im Fall des § 34a Abs. 3 Satz 1 sowie nach Satz 3 in den Fällen des Art. 67 Abs. 7 Buchst. a VO (EU) 2024/1348. Bei der zweiten Fallgruppe sind auch die dort genannten Umstände nach Art. 42 Abs. 1 oder 3 im Zeitpunkt der Entscheidung zu prüfen. Bei fehlender oder unrichtiger Rechtsbehelfsbelehrung § 74 Abs. 1 Satz 4 AsylG und § 58 Abs. 2 VwGO prüfen (grundsätzlich drei Monate). [§ 74 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__74.html). Die Monatsfrist nach § 74 Abs. 2 AsylG betrifft Begründungstatsachen und Beweismittel. Im allgemeinen Verwaltungsprozess § 74 VwGO gesondert prüfen.
 - **§ 82 AufenthG** — Mitwirkungspflicht und Darlegungslast des Antragstellers
 - **§ 83b AsylG** — Gerichtskostenfreiheit; PKH-Bewilligung nach §§ 166 VwGO, 114 ZPO
 - **§ 920 Abs. 2 ZPO iVm § 123 Abs. 3 VwGO** — Glaubhaftmachungspflicht im Eilverfahren
@@ -227,7 +227,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Triage vor Schriftsatzerstellung
 
 Bevor losgelegt wird, klaere:
-1. Verfahrenstyp: Asylklage (§ 74 AsylG 2 Wochen), VwGO-Klage (1 Monat), Eilantrag?
+1. Welcher Verwaltungsakt oder welche Untätigkeit liegt vor? Für Klage und vorläufigen Rechtsschutz jeweils Rechtsgrundlage, Zustellung oder Bekanntgabe, Belehrung und frühestens drohenden Fristablauf sichern.
 2. Gerichtskostenfrei (§ 83b AsylG Asylverfahren) oder kostenpflichtig (VwGO)?
 3. PKH-Antrag — Voraussetzungen darlegen (Beiordnung Anwalt nach §§ 166 VwGO, 114 ZPO)?
 4. Welche Beweismittel: Atteste, Identitaetsdokumente, Familienstandsnachweise?
@@ -241,7 +241,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Migrationsrecht Schriftsatz verfassen | Schriftsatz-Template; Template unten |
-| Variante A — Verwaltungsgericht (Asyl) | Asylklage-spezifische Anforderungen; 3-Wochen-Klagefrist |
+| Variante A — Verwaltungsgericht (Asyl) | Klage und erforderlichen Eilantrag nach Tenor, anwendbarer Gesetzesfassung und Zustellungsnachweis getrennt berechnen. |
 | Variante B — Oberverwaltungsgericht Berufung | Berufungszulassung begruenden; Divergenzruege |
 | Variante C — Eilverfahren Abschiebungsstopp | § 123 VwGO Antrag; Anordnungsanspruch und -grund |
 

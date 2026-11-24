@@ -34,7 +34,7 @@ Vor der Bearbeitung folgende Fragen klären:
 3. **Ziel des Mandats:** Beschlussvorbereitung, Wirksamkeitsprüfung eines gefassten Beschlusses oder Anfechtungsklage?
 4. **Stimmrechte und Quorum:** Liegt der Gesellschaftsvertrag vor? Sonderregeln zu Mehrheiten?
 5. **Stimmverbote:** Paragraf 47 Abs. 4 GmbHG oder Paragraf 136 AktG einschlägig?
-6. **Anfechtungsfrist:** Wann wurde der Beschluss gefasst? (1-Monat-Frist analog Paragraf 246 Abs. 1 AktG läuft!)
+6. **Anfechtungsfrist:** Wann wurde der Beschluss gefasst? Bei der AG gilt ein Monat ab Beschlussfassung. Bei der GmbH zuerst die Satzung auf Frist und Fristbeginn prüfen. Fehlt eine Regelung, ist grundsätzlich binnen eines Monats mit aller zumutbaren Beschleunigung zu klagen. Etwaige zwingende Hinderungsgründe belegen.
 
 ## Zentrale Normen
 
@@ -43,22 +43,28 @@ Paragraf 46 GmbHG (Zuständigkeitskatalog GV) — Paragraf 47 GmbHG (Abstimmung;
 ## Rechtsprechungsanker
 
 - BGH, Urteil vom 20.11.2018 - II ZR 12/17: Die Legitimationswirkung des Paragrafen 16 Absatz 1 Satz 1 GmbHG greift auch bei eingezogenen Geschäftsanteilen. Eine unberechtigte Übernahme der Versammlungsleitung macht Beschlüsse nicht automatisch anfechtbar; zusätzlich ist ein relevanter Durchführungsfehler erforderlich.
+- BGH, Urteil vom 6. Dezember 2022 – II ZR 187/21, Rn. 28–29: Bei satzungsändernden GmbH-Beschlüssen gilt Paragraf 242 Abs. 2 Satz 1 AktG entsprechend. Bei bloßer Anfechtbarkeit ist die Monatsfrist grundsätzlich maßgeblich, soweit die Satzung keine abweichende Regel enthält. [Urteil des BGH](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Gericht=bgh&anz=1&nr=132387&pos=0&sid=06e9d37a5f777946f9eac97dd33a7eb4)
+- BGH, Urteil vom 20. September 2004 – II ZR 288/02, Gründe II.1: Bei einem Verfahrensverstoß zählt die Bedeutung für Informations- und Mitgliedschaftsrechte. Im entschiedenen Fall war der Beschluss bereits wegen seines Inhalts nichtig. [Urteil des BGH](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Gericht=bgh&Seite=2322&anz=82072&nr=30537&pos=69664&sid=10b1e65de2811127f13c20100b151250)
 - Weitere Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
 
 ## Prüfschema: Gesellschafterbeschluss
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
-| 1 | Einberufung | Ladungsform (GmbH: eingeschriebener Brief Paragraf 51; AG: Paragraf 121 AktG); Ladungsfrist (GmbH: 1 Woche; AG: 30 Tage Paragraf 123); Tagesordnung vollständig? | Einberufungsmangel → anfechtbar; Heilung möglich |
+| 1 | Einberufung | Ladungsform, Frist und Tagesordnung prüfen (GmbH: Paragraf 51 GmbHG und Satzung, AG: Paragraf 121 und 123 AktG) | Konkreten Mangel als möglichen Nichtigkeits- oder Anfechtungsgrund einordnen |
 | 2 | Beschlussfähigkeit | Quorum aus GV/Satzung; bei GmbH ohne Satzungsregelung: jede ordnungsgemäß einberufene GV beschlussfähig | Quorum-Mangel → Beschluss ungültig |
-| 3 | Stimmrechte ermitteln | GmbH: je 1 EUR = 1 Stimme (Paragraf 47 Abs. 2); AG: je Aktie (Paragraf 134 Abs. 1) | Stimmrechtsverteilung festgestellt |
-| 4 | Stimmrechtsausschluss | Paragraf 47 Abs. 4 GmbHG: Entlastung, Befreiung von Verbindlichkeit, Rechtsverfolgung; Paragraf 136 AktG analog | Stimmen stimmbefangener Gesellschafter nicht zählen |
-| 5 | Mehrheit berechnen | Einfache Mehrheit (Paragraf 47 Abs. 1 GmbHG; Paragraf 133 Abs. 1 AktG); qualifizierte 3/4-Mehrheit bei Satzungsänderung (Paragraf 53 Abs. 2 GmbHG; Paragraf 179 Abs. 2 AktG) | Mehrheit erreicht? |
-| 6 | Protokollierung | GmbH: Protokoll mit Abstimmungsergebnis; Satzungsänderung notariell beurkunden (Paragraf 53 Abs. 2); AG: Paragraf 130 AktG notarielle Beurkundung | Formfehler → Paragraf 241 Nr. 2 AktG Nichtigkeit |
-| 7 | Anfechtbarkeit | Kausalität des Mangels für Beschlussergebnis (Relevanztheorie Quellenprüfung Paragraf 243 Rn. 8)? | Anfechtbar aber nicht nichtig |
-| 8 | Nichtigkeit | Paragraf 241 AktG analog: fehlende Form, Sittenwidrigkeit, zwingende Gesetzesvorschriften verletzt | Nichtig von Anfang an; jedermann kann einwenden |
-| 9 | Anfechtungsklage | Frist: 1 Monat ab Beschlussfassung analog Paragraf 246 Abs. 1 AktG; Klage gegen Gesellschaft; LG am Sitz | Fristnotiz anlegen! |
-| 10 | Heilung | Paragraf 242 AktG (Einberufungsmängel nach 3 Jahren); nicht bei Paragraf 241 Nr. 3 und 5 AktG | Heilung möglich → Abwarten sinnvoll? |
+| 3 | Stimmrechte ermitteln | GmbH: grundsätzlich eine Stimme je Euro eines Geschäftsanteils (Paragraf 47 Abs. 2 GmbHG). AG: nach Aktiennennbeträgen, bei Stückaktien nach deren Zahl (Paragraf 134 Abs. 1 AktG). Satzung und Aktiengattung prüfen, insbesondere zulässige Mehrstimmrechte und Vorzugsaktien ohne oder mit wiederaufgelebtem Stimmrecht (Paragraf 12, 135a, 139 und 140 AktG). | Stimmberechtigte und Stimmenzahl je Beschluss festhalten |
+| 4 | Stimmrechtsausschluss | Paragraf 47 Abs. 4 GmbHG: Entlastung, Befreiung von Verbindlichkeit, Rechtsverfolgung; bei der AG Paragraf 136 AktG | Stimmen stimmbefangener Gesellschafter nicht zählen |
+| 5 | Mehrheit berechnen | Regelbeschluss: grundsätzlich Mehrheit der abgegebenen Stimmen (Paragraf 47 Abs. 1 GmbHG, Paragraf 133 Abs. 1 AktG). Satzungsänderung der GmbH: drei Viertel der abgegebenen Stimmen, gegebenenfalls weitere Satzungserfordernisse. Eine Vermehrung von Leistungspflichten erfordert die Zustimmung sämtlicher betroffener Gesellschafter (Paragraf 53 Abs. 2 und 4 GmbHG). Satzungsänderung der AG: neben der Stimmenmehrheit grundsätzlich mindestens drei Viertel des bei Beschlussfassung vertretenen Grundkapitals. Die Satzung darf die Kapitalmehrheit ändern, für eine Änderung des Unternehmensgegenstands nur erhöhen. Weitere Erfordernisse und gegebenenfalls den Sonderbeschluss einer benachteiligten Gattung prüfen (Paragraf 179 Abs. 2 und 3 AktG). | Stimmenmehrheit, gegebenenfalls Kapitalmehrheit und zusätzliche Zustimmungen getrennt ausweisen |
+| 6 | Protokollierung | Bei der GmbH die vorgeschriebene Form für den konkreten Beschluss prüfen, etwa notarielle Beurkundung der Satzungsänderung nach Paragraf 53 Abs. 3 Satz 1 GmbHG. Bei der AG gilt Paragraf 130 AktG einschließlich der Erleichterung für bestimmte Beschlüsse nichtbörsennotierter Gesellschaften. | Beurkundungsmangel nach Paragraf 241 Nr. 2 AktG prüfen |
+| 7 | Anfechtbarkeit | Inhaltsmangel am Gesetz oder an der Satzung prüfen. Bei Verfahrensmängeln zählt die Bedeutung für Teilnahme- und Mitgliedschaftsrechte. Bei fehlerhafter Stimmzählung das richtige Abstimmungsergebnis ermitteln. Für Informationsmängel bei der AG gilt Paragraf 243 Abs. 4 AktG. | Mangel und seine konkrete Auswirkung begründen |
+| 8 | Nichtigkeit | Für die AG den konkreten Tatbestand des Paragrafen 241 AktG oder die dort genannten Sonderfälle prüfen. Bei der GmbH die entsprechende Anwendung begründen. Für Nr. 3 kommt es auf das Wesen der Gesellschaft oder den besonderen Gläubiger- bzw. öffentlichen Schutz der verletzten Vorschrift an, für Nr. 4 auf den Beschlussinhalt. | Nichtigkeit und mögliche Heilung gesondert prüfen |
+| 9 | Anfechtungsklage | AG: ein Monat ab Beschlussfassung nach Paragraf 246 Abs. 1 AktG. GmbH: Satzungsregelung prüfen, ersatzweise das Monatsleitbild und belegte Ausnahmegründe. Klage gegen die Gesellschaft. | Fristbeginn, Eingang, Zustellung und zuständiges Gericht bestimmen |
+| 10 | Heilung der Nichtigkeit | Bei der AG Paragraf 242 AktG unmittelbar anwenden, bei der GmbH die entsprechende Anwendbarkeit für den jeweiligen Beschluss prüfen. | Registereintragung, Klage, Genehmigung und Sonderfälle anhand der Akte prüfen |
+
+**Wann lässt sich Nichtigkeit noch geltend machen?** Einen Beurkundungsmangel nach Paragraf 241 Nr. 2 AktG kann man nach Eintragung des Beschlusses nicht mehr geltend machen (Paragraf 242 Abs. 1 AktG). Bei den Gründen nach Nr. 1, 3 oder 4 beginnt mit der Eintragung eine Dreijahresfrist. Ist die Nichtigkeitsfeststellungsklage bei Ablauf bereits rechtshängig, verlängert sich die Frist bis zur rechtskräftigen Entscheidung oder anderweitigen endgültigen Erledigung. Eine Amtslöschung nach Paragraf 398 FamFG bleibt trotz Zeitablaufs möglich.
+
+Für den besonderen Ladungsmangel nach Paragraf 121 Abs. 4 Satz 2 in Verbindung mit Paragraf 241 Nr. 1 AktG kann auch der nicht geladene Aktionär den Beschluss genehmigen (Paragraf 242 Abs. 2 Satz 4 AktG). Bei einem rechtskräftig für nichtig erklärten Beschluss nach Nr. 5 oder Paragraf 249 AktG gilt die Sonderregel des Paragrafen 242 Abs. 2 Satz 5: Steht nach Paragraf 246a Abs. 1 rechtskräftig fest, dass die Mängel die Eintragungswirkung unberührt lassen, kann das Urteil nicht mehr nach Paragraf 248 Abs. 1 Satz 3 eingetragen werden. Paragraf 398 FamFG findet in diesem Fall keine Anwendung. Bei verspäteten Eintragungen in den vier Sonderfällen der Paragrafen 217 Abs. 2, 228 Abs. 2, 234 Abs. 3 und 235 Abs. 2 gilt Absatz 2 entsprechend (Paragraf 242 Abs. 3).
 
 ## Schritt-für-Schritt-Workflow
 
@@ -69,8 +75,8 @@ Paragraf 46 GmbHG (Zuständigkeitskatalog GV) — Paragraf 47 GmbHG (Abstimmung;
 5. **Mehrheit berechnen:** Gesamtstimmen (ohne stimmbefangene); Mehrheitserfordernis je Beschlussgegenstand.
 6. **Beschlusstext formulieren:** Präzise, vollständig, widerspruchsfrei; Abstimmungsergebnis als Zahl.
 7. **Protokoll vorbereiten:** TOP-Nummerierung, Beschlusstext, Abstimmungsergebnis, Unterschrift Versammlungsleiter; bei Satzungsänderung Notar beauftragen.
-8. **Anfechtbarkeit screenen:** Bei vorhandenen Mängeln Kausalität prüfen (Relevanztheorie).
-9. **Fristen notieren:** 1-Monat-Frist analog Paragraf 246 AktG sofort kalendarisch sichern.
+8. **Anfechtbarkeit screenen:** Bei Verfahrensmängeln die betroffenen Mitgliedschaftsrechte benennen. Bei Zählfehlern zulässige Stimmen neu zählen. Einen Inhaltsmangel aus der verletzten Regel herleiten.
+9. **Fristen notieren:** Frist und Fristbeginn für die Rechtsform ermitteln. Bei der GmbH die Satzung beiziehen und vorsorglich die früheste in Betracht kommende Frist sichern.
 10. **Ausgabe:** Beschlussvorlage oder Anfechtungs-Memo je nach Mandatsinhalt.
 
 ## Output-Template
@@ -117,12 +123,12 @@ _________________________________
 Beschlussgegenstand: [BESCHLUSSINHALT]
 
 Mängel:
-1. [MANGEL 1] — Norm: [Paragraf] — Kausalität: [ja/nein]
-2. [MANGEL 2] — Norm: [Paragraf] — Kausalität: [ja/nein]
+1. [MANGEL 1] — Norm: [Paragraf] — Art des Mangels und rechtliche Bedeutung: [Begründung]
+2. [MANGEL 2] — Norm: [Paragraf] — Art des Mangels und rechtliche Bedeutung: [Begründung]
 
 Anfechtungsklage:
-Frist: 1 Monat ab [DATUM] = [ABLAUFDATUM]
-Klage gegen: [GESELLSCHAFT] (Paragraf 246 Abs. 2 AktG analog)
+Frist: [gesetzliche Monatsfrist AG / Satzung GmbH / Monatsleitbild GmbH] ab [DATUM UND BELEG] bis [ABLAUFDATUM]
+Klage gegen: [GESELLSCHAFT] (bei der AG Paragraf 246 Abs. 2 AktG, bei der GmbH entsprechend)
 Zuständiges Gericht: LG [ORT AM SITZ]
 
 Risikobewertung:
@@ -134,15 +140,15 @@ Empfehlung:
 
 ## Rote Schwellen
 
-- Anfechtungsfrist 1 Monat analog Paragraf 246 Abs. 1 AktG — sofortige Fristnotiz nach Mandatsannahme
-- Fehlende notarielle Beurkundung bei Satzungsänderung → Nichtigkeit nach Paragraf 241 Nr. 2 AktG analog
-- Stimmrechtsausschluss übersehen → Anfechtbarkeit; Heilung nur möglich wenn kein Berechtigter klagt
+- Bei Mandatsannahme Beschlusstag, Satzung und Fristbeginn sofort prüfen. Für die AG einen Kalendermonat ab Beschlussfassung notieren. Bei der GmbH Satzungsregelung oder Monatsleitbild festhalten.
+- Fehlende vorgeschriebene Beurkundung bei Satzungsänderung auf Nichtigkeit und etwaige Heilung durch Eintragung prüfen.
+- Bei einer unzulässig mitgezählten Stimme das Ergebnis ohne diese Stimme berechnen. Umfang einer Anfechtung und Frist gesondert prüfen.
 - Beschlussfähigkeit nicht festgestellt → gesamter Beschluss ungültig; Sitzung zu wiederholen
 
 ## Quellen und Zitierweise
 
 - GmbHG Paragraf 46, 47, 48, 51, 53, 54
-- AktG Paragraf 121, 130, 133, 134, 136, 179, 241, 243, 246, 249
+- AktG Paragraf 121, 130, 133, 134, 136, 179, 241, 242, 243, 246, 249
 
 Zitierweise nach `../../references/zitierweise.md`.
 

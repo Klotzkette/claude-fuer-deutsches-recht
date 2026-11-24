@@ -38,7 +38,7 @@ description: "Für Gesellschafterstreit: ordnet Norm, Beweislast und Gegenargume
 
 | Norm | Inhalt |
 |------|--------|
-| § 241 AktG | Nichtigkeitsgründe (analog GmbH): fehlende notarielle Beurkundung, Verstoß gegen zwingendes Recht, Sittenwidrigkeit § 138 BGB |
+| § 241 AktG | Nichtigkeit nach dem jeweils einschlägigen Tatbestand prüfen, bei der GmbH entsprechend. Nr. 3 betrifft das Wesen der Gesellschaft oder vorwiegend dem Gläubiger- bzw. öffentlichen Schutz dienende Vorschriften. Bei Nr. 4 muss der Beschlussinhalt gegen die guten Sitten verstoßen. |
 | § 245 AktG | Anfechtungsbefugnis bei AG: Widerspruch zur Niederschrift; Ausnahmen bei verhinderter Teilnahme |
 | Paragraf 246 Absatz 1 AktG | Anfechtungsklage der AG innerhalb eines Monats nach der Beschlussfassung |
 | § 246 Abs. 2 AktG | Passivlegitimation AG: Gesellschaft vertreten durch Vorstand und Aufsichtsrat |
@@ -75,9 +75,9 @@ description: "Für Gesellschafterstreit: ordnet Norm, Beweislast und Gegenargume
 | 1 | Gesellschafterbeschluss gefasst? | §§ 46 ff. GmbHG | Kein positiver Beschluss = positive Beschlussfeststellungsklage |
 | 2 | Aktivlegitimation: Gesellschafter im Beschlusszeitpunkt? | § 246 Abs. 1 AktG analog | Nachweis durch Gesellschafterliste |
 | 3 | Passivlegitimation: Gesellschaft selbst? | § 246 Abs. 2 AktG analog GmbH | Klage gegen GmbH, vertreten durch Geschäftsführer |
-| 4 | Fristmaßstab: Wurde die Klage mit aller im Interesse der Rechtssicherheit zumutbaren Beschleunigung erhoben? | Paragraf 246 Absatz 1 AktG entsprechend; BGH, Urteil vom 18. April 2005, II ZR 151/03 | Die Monatsfrist ist grundsätzlich der Maßstab; eine Überschreitung bedarf eines eng begrenzten Ausnahmegrundes |
+| 4 | Fristmaßstab: Wurde die Klage mit aller im Interesse der Rechtssicherheit zumutbaren Beschleunigung erhoben? | Paragraf 246 Absatz 1 AktG entsprechend; BGH, Urteil vom 18. April 2005, II ZR 151/03 | Zuerst die Satzungsregelung prüfen. Ohne abweichende Regelung ist die Monatsfrist grundsätzlich der Maßstab. Eine Überschreitung bedarf eines eng begrenzten Ausnahmegrundes. |
 | 5 | Anfechtungsgrund: Verfahrensmangel (§ 51 GmbHG Einberufung, Stimmverbot § 47 Abs. 4)? | §§ 47, 51 GmbHG | Heilung nur bei Relevanz-Ausschluss und Vollversammlung |
-| 6 | Anfechtungsgrund: Inhaltsmangel (Satzungsverstoß, Treuepflicht, Gleichbehandlung)? | § 243 AktG analog | Kausalität des Mangels für Beschluss prüfen |
+| 6 | Verstößt der Inhalt gegen Satzung, Treuepflicht oder Gleichbehandlungsgebot? | § 243 AktG, bei der GmbH entsprechend | Verletzte Regel und Rechtsfolge darlegen. Bei Verfahrensmängeln gesondert die Bedeutung für die betroffenen Mitgliedschaftsrechte prüfen. |
 | 7 | Nichtigkeitsgrund? | § 241 AktG analog | Keine Frist; keine Heilung durch Zeitablauf |
 | 8 | Einstweilige Verfügung auf Vollzugsstopp? | §§ 935, 940 ZPO | Dringlichkeit; Eintragungshindernis HReg. |
 
@@ -159,7 +159,7 @@ III. Anfechtungsgründe
  dient allein dem Interesse des Mehrheitsgesellschafters.
 
 IV. Frist
-Beschlussfassung am [Datum], Klageerhebung am [Datum]; Monatsfrist eingehalten.
+Beschlussfassung am [Datum]. Maßgebliche Frist und Beginn [bei der GmbH: Satzung oder Monatsleitbild]. Klageerhebung am [Datum], Fristablauf am [Datum].
 
 [Kanzlei, Fachanwalt/Fachanwältin für Handels- und Gesellschaftsrecht]
 ```
@@ -239,7 +239,7 @@ einer evident unangemessenen Unterbewertung führen.
 | Gesellschafterstellung im Beschlusszeitpunkt | Kläger | Gesellschafterliste; HR-Auszug; Abtretungsurkunde |
 | Beschlussfassung mit konkretem Inhalt | Kläger | Protokoll; Einladungsschreiben |
 | Anfechtungsgrund (Verfahrensmangel) | Kläger | Einladung (Datum, Form); Protokoll; Stimmzettel |
-| Kausalität des Mangels für Beschluss | Kläger | Ohne Stimmverbotsverletzer: hätte Beschluss keine Mehrheit |
+| Einfluss falsch gezählter Stimmen | Kläger | Stimmen mit und ohne die betroffene Stimme ausweisen und Mehrheit neu berechnen. |
 | Wichtiger Grund für Ausschluss | Kläger | Urkunden, Zeugen, interne Korrespondenz |
 | Verkehrswert für Abfindung | Beide / Sachverständiger | Unternehmensbewertungsgutachten (DCF, Ertragswertverfahren) |
 | Widerspruch zur Niederschrift (AG § 245 Nr. 1) | Kläger | Protokollauszug mit Widerspruchsvermerk |
@@ -259,8 +259,8 @@ einer evident unangemessenen Unterbewertung führen.
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| "Anfechtungsfrist versäumt" | Beklagte | Bei der AG Beschlussfassung und Klageeingang dokumentieren; bei der GmbH den Monatsmaßstab und einen etwaigen eng begrenzten Ausnahmegrund prüfen |
-| "Verfahrensmangel war kausal irrelevant" | Beklagte | BGH: Kausalität nur bei offensichtlicher Unerheblichkeit entfallen; Zweifel gehen zu Lasten der Gesellschaft |
+| „Anfechtungsfrist versäumt“ | Beklagte | Bei der AG ab Beschlussfassung rechnen. Bei der GmbH zuerst die Satzungsregelung, sonst den Monatsmaßstab und belegte Ausnahmegründe prüfen. |
+| „Der Verfahrensmangel ist unerheblich.“ | Beklagte | Betroffene Informations- oder sonstige Mitgliedschaftsrechte konkret benennen. Die Stimmenmehrheit allein entscheidet diese Frage nicht. |
 | "Kein wichtiger Grund für Ausschluss" | Beklagter (Ausschlossener) | Schwere der Pflichtverletzung + Zumutbarkeit des Verbleibs darlegen; mehrere Vorfälle kumulativ |
 
 ## Streitwert und Kosten

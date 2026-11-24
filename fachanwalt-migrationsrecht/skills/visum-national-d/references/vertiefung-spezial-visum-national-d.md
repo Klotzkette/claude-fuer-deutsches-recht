@@ -5,7 +5,7 @@ Auswahlsignal: Wenn es um Nationales Visum D in Fachanwalt Migrationsrecht geht:
 ### Nationales Visum D
 
 #### Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Botschaft, Unterlagen, Zweck, Finanzierung, Remonstrations-/Klageweg.
+Prüfen Sie die Zuständigkeit der Auslandsvertretung, Aufenthaltszweck, Finanzierung und erforderliche Belege. Bei einer Ablehnung ab dem 1. Juli 2025 kommt eine Klage auf Erteilung des Visums, regelmäßig beim Verwaltungsgericht Berlin, oder ein neuer vollständiger Visumantrag in Betracht. Die Remonstration wurde weltweit abgeschafft. Für die Klage erfassen Sie den nachweisbaren Bekanntgabetag und die Rechtsbehelfsbelehrung. Für einen Neuantrag benennen Sie die Belege, die den konkreten Ablehnungsgrund ausräumen, und klären die Kosten. Die Klagefrist zum ursprünglichen Bescheid läuft weiter. Bei einem früheren Bescheid sind die damalige Belehrung und der Stand einer bereits eingelegten Remonstration maßgeblich. [Auswärtiges Amt zur Abschaffung des Remonstrationsverfahrens](https://www.auswaertiges-amt.de/de/newsroom/2724844-2724844) · [Auswärtiges Amt zum Übergang bei älteren Bescheiden](https://rabat.diplo.de/ma-de/service/visa/2798822-2798822) · [§ 74 VwGO](https://www.gesetze-im-internet.de/vwgo/__74.html)
 
 #### Kaltstart
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?

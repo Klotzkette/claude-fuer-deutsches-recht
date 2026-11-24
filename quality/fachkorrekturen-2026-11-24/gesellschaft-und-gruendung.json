@@ -1,0 +1,706 @@
+{
+  "fachanwalt-handels-gesellschaftsrecht/skills/erstgespraech-mandatsannahme/FACHINHALT.md": {
+    "vorher": "1afa6dc2a9121de96bc0298f4a12bbaf9d0da931eb1b5c5d93c64427043dc78c",
+    "nachher": "1e85f132857bfda3235b21590d228e0b9a257efef9749af950883ab76b015658"
+  },
+  "fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung/FACHINHALT.md": {
+    "vorher": "094a014d3f1bb46b1c2823a821a34e5ea0f6ab4d9fb414992bbfa17d9430ccae",
+    "nachher": "2934622cb4f32c0649878a4f74af1f72bffd03f213d0ef7f4ba26890d5bb2200"
+  },
+  "fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit/FACHINHALT.md": {
+    "vorher": "df85235fa305f0f2f980d8ae8713db004e4ddba029d9632f06a4f9b2f8bbf38b",
+    "nachher": "b40e1f8788dbf40a00c60f7357e1a7a76d70d65775ec9249183d21019baa4acd"
+  },
+  "fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung/FACHINHALT.md": {
+    "vorher": "e0cf54d607d8e6b275f8bb8a22125e0c313ddbf2127e5dd473dec08e78e2e9e3",
+    "nachher": "6ee0e5f02354f616a94aac59b9aa03b4c126b515f6f8a5060784c01420ff290b"
+  },
+  "fachanwalt-handels-gesellschaftsrecht/skills/geschaeftsfuehrerhaftung/FACHINHALT.md": {
+    "vorher": "7c55301cf3d312582409eaaf90d78edbdf0b23ed8111977aea6039dd686188ea",
+    "nachher": "8f1ac97d8cb354d205c2313de1ef717aa1dd82c12196b6f39815f89277435907"
+  },
+  "fachanwalt-handels-gesellschaftsrecht/skills/gesellschafterstreit/FACHINHALT.md": {
+    "vorher": "dc3de707efb676faaf0ae31cc8ae602efde0e37f64103812296d7c5ae45d4fdc",
+    "nachher": "adc056dc5a26b921b69aea501ea6f71e0202e56c6fa8b0845f08e4b5a49db0aa"
+  },
+  "fachanwalt-handels-gesellschaftsrecht/skills/gmbhg-schriftsatz-brief-und-memo-bausteine/FACHINHALT.md": {
+    "vorher": "a16fc21dbb69082f09d16a47162c7c968a5566aaf3289cee47b9f2fae86b6605",
+    "nachher": "7be0636a1fe7fa482c8e122bad6915477d54985b2912056a4461fe4c0ce453e3"
+  },
+  "fachanwalt-handels-gesellschaftsrecht/skills/gmbhg-schriftsatz-brief-und-memo-bausteine/references/vertiefung-spezial-gmbhg-schriftsatz-brief-und-memo-bausteine.md": {
+    "vorher": "7b16762a9c55bfde0d4494529981e16567ab619e3347e6079b65306c70879507",
+    "nachher": "b8c936f5b75d4b8760fcb068e3199f88a72429230956f30341c293f510f1e652"
+  },
+  "fachanwalt-handels-gesellschaftsrecht/skills/holding-strukturplanung/FACHINHALT.md": {
+    "vorher": "8d1974d6b46923fab736849ea6796dadb80d111c4f81a29f9335510fb55f70d0",
+    "nachher": "2fc8470074cff8b3cd6e266a391eaa6099cf0a8bc943d6da39fd41e8b7af1f55"
+  },
+  "fachanwalt-handels-gesellschaftsrecht/skills/workflow-fristen-und-risikoampel/FACHINHALT.md": {
+    "vorher": "5ce0d933644e939e53666b1f5a92589e4bac60fc916eda63b6218a35e53ac4b6",
+    "nachher": "6194c96afb7b96ba9b82908b6470ca0f2c94442c8a2f8363b4a608aa8dc24a01"
+  },
+  "gesellschaftsgruender/gesellschaftsgruender-schnellstart.md": {
+    "vorher": "24c744cfccdf38e825f11fd373f80fc5cc9a57007b1f0978fee76670d4f53824",
+    "nachher": "613a9c11b74523e23969954ef635069c6e5d23a3decce08749772d4894614909"
+  },
+  "gesellschaftsgruender/gesellschaftsgruender-werkstatt.md": {
+    "vorher": "955be452193e8300279ba1ae9fea3f83649955654fde962090a746ef69135768",
+    "nachher": "61f28410e3dde4b24a4d94ceafeed1c8b49141cb476119a41577786f87cec480"
+  },
+  "gesellschaftsgruender/skills/ag-kleine-ag/FACHINHALT.md": {
+    "vorher": "1befd57bb3edb6be4c7fa87e02fa96a7868e442ba115499b6a037e369979487b",
+    "nachher": "33c15fbdea3946d2535d20f58dd569280852cee91519beab4fb7822288707ce3",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/aufloesung-liquidation-start/FACHINHALT.md": {
+    "vorher": "10ad785b8fdaa89a9e2c90bb068051d3a7534ed1b698eca0568a7366dfdb8e1a",
+    "nachher": "7dc2b788bfe24ceb2596d30fe71455a922298c2745ba098771e638ce59f06486",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/auslandsgesellschafter-kyc/FACHINHALT.md": {
+    "vorher": "62dfc0fed202e4c5f534799814345391f72fa25a0286f374fa872180702ac934",
+    "nachher": "9a639a2a1a771d25c1e60622bbc4351c1a7da6f89dff9a5dd1cf6c5714570b60",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/bankkonto-kyc-beirat/FACHINHALT.md": {
+    "vorher": "e7e690223b6388a651234423e9c9390b5b9028210bff8902d19b890593d894bb",
+    "nachher": "193258e7d6308fbf13d4c0489a2dbfae2f3bd27208d20f937b792a6950f5f442",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/beirat-advisory-board/FACHINHALT.md": {
+    "vorher": "dcc85b2a2a7372658768eb375e71b43ece0946371d46113fea0c2bdfe657ba15",
+    "nachher": "7079b582fb0f0bdd6739e5af2f60c58b3a9f4db8bf7078b92a8507a58a9a9f7a",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/bilinguale-dokumente/FACHINHALT.md": {
+    "vorher": "3abf9d33a9c3a91b8641147a38813ea44dc507b0459fe17a7aa02b5560bf662c",
+    "nachher": "0235d47c713b967d352da33f663247d855b331168300b7ef56eb9453deccad9a",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/board-pack-erste-100-tage/FACHINHALT.md": {
+    "vorher": "9cdac6d598b25dbeeb9304f76d6afc88b4ebd84fb967aefddb23f63b03c710cb",
+    "nachher": "f967512e9ccc5fa0ed997b6f3161be91dba811c9cca308dc8b9f653ad636dd24",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/cap-table/FACHINHALT.md": {
+    "vorher": "a14ff47adbf81b7de647cbff66e05f451767c1f26c03628d2ba4b6d543d5e3a9",
+    "nachher": "75ee1f687df0aa6daaefc99fe94b3bf25bd0b15c5c17d027bc2df19b1711fa23",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/cashburn/FACHINHALT.md": {
+    "vorher": "9a47a1f226425ff5b9bb5fcdc87a391deed7bc1ad9ec8ce6b40b3d2b92b1e959",
+    "nachher": "1456c2e313ce216f07b7c73fa9c873c06d1df8bf93a9bad0abb0ef2bce61d5aa",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/checkliste-vor-unterschrift/FACHINHALT.md": {
+    "vorher": "a056b98d7f79d1c6c1542c065670e82891eef57fdbe14e168dcfb995baf1a0a7",
+    "nachher": "df25f76451d73e3d5f32e563586b6eac7fa9deb23ed686fd5effc205d94d9737",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/deadlock-und-mediation/FACHINHALT.md": {
+    "vorher": "466f66fc5f2979823663e0c4b94a17d56ae248e14a9e805354b58c30e655a206",
+    "nachher": "56c578582e06333d7e5df7e19076bdc0279721d9480b74472804008e46c149a3",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/egbr-grundstueck/FACHINHALT.md": {
+    "vorher": "90994a6a09af2e7a33a2013eb4367e268887f928d782a96dc2480152c4681f15",
+    "nachher": "c9da3060c78a10620056159a04a77efa17ed5cbfbe1d1ebefa0f9767186fc146",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/familiengesellschaft/FACHINHALT.md": {
+    "vorher": "cff68e00150ad9c17ea974e22f7688dcc566966ad28a707fd4f6442caec14719",
+    "nachher": "3103106a7f0e723bf32d532dc54e58a9f5c9748cc890ffff4aa1e9fd9b18e1bf",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/finanzierungsrunde-seed/FACHINHALT.md": {
+    "vorher": "fc1cd333692892c217b049139f588dcec0824e84d80d8c01ab8b288512c43ef6",
+    "nachher": "b1953da09af5fa0d7972f4ce389e77ef9bb5ab0215424bef26bcddde79405416",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/firmenname-pruefung/FACHINHALT.md": {
+    "vorher": "d76feb62398000a5ba1886833e72f8a25b777a520965b05d621fb3d0c2610248",
+    "nachher": "1ef9101bb77aa5cc6e182d29769b25e68cc65dd6d70776ad3cf6e73cd78ba5d7",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/founder-vesting/FACHINHALT.md": {
+    "vorher": "38b485f18cb4e6d76d519266459f6b154aed05f24853a10025f4b264076e65e8",
+    "nachher": "d09e3e313c00da0eb2963fbd6cc36011557d8261422f2d185c1b1273aaa335bf",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/freiberufler-partg-gbr/FACHINHALT.md": {
+    "vorher": "9ec742a94df79f11b1517dbd2e3180cf4359925d07a599cb4adc61c1b790c1dc",
+    "nachher": "b4566422db9a5bb9f21638ec7c857f56791c17c59d87b479f2cc401cad06c008",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/gbr-zu-ohg-statuswechsel/FACHINHALT.md": {
+    "vorher": "f906bb2daa81fc000f7f7486178c087392eb7c23aa054a22d8d1ae2e96c3e140",
+    "nachher": "6417ca4e9ad6799b49dd436296345df8acad6bdd594cafdc3878bf6bebb53655",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/genehmigtes-kapital/FACHINHALT.md": {
+    "vorher": "c8b02c985e099d39f834bb41dfbf1ebba6c6b33d108719141a61ce8ab2e011cf",
+    "nachher": "8f360a452574d761b3a63024b8a59d8ab6cc4ee235652f541f8375d58ca051ad",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/genossenschaft-eg/FACHINHALT.md": {
+    "vorher": "cae5c326d69d976b7b0dc5cf2514a200329c8102519fd09ac6dcb98612935c26",
+    "nachher": "5b144e8873502e4144f48b0bf47eaf1b9760c7d1502d410917e64f6d99812800",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/geschaeftsfuehrer-pflichten-startphase/FACHINHALT.md": {
+    "vorher": "10fbb9ab3a5213ab8f4599f2e83cae68bf94b7b9c56d7faf1da5d0735b623849",
+    "nachher": "72a997554ab5c7647143ea7b89513d974c73b677d65e180c2d9a2ee8f99efbd1",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/geschaeftsfuehrervertrag/FACHINHALT.md": {
+    "vorher": "b6797dc7737e4adcb92fd9a5932e0b7ee01bc02b454bedcc346d4aa3f69b5dae",
+    "nachher": "5c264012bbac0c5204fbddbc4f486fa9332ee993256e2201b9b161d041ddf4d9",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/geschaeftsordnung-gf-gesellschafterstreit/FACHINHALT.md": {
+    "vorher": "62622b9b6247e1ff6aede301aa737033c9515477c49eb4db25a7977360baf583",
+    "nachher": "2f529d2c828ffb3db964b473f0b05ffa89bd419f64ee6b340d1aed1f369f2fb8",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/gesellschaften-tatbestand-beweis-und-belege/FACHINHALT.md": {
+    "vorher": "936016eb21ab859be6a2e8300cf1137314f25557c234a108cc3f548ea001ffc3",
+    "nachher": "0edb9a283592a5e75216427d5a62e3fc55c355d2ffa653cabdafe212ebf1be10",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/gesellschafterstreit-eilantraege/FACHINHALT.md": {
+    "vorher": "8d8603e14186f520a6cdfddcdc8e84ad5dee05c9793b11deb8989c5009fa0fd6",
+    "nachher": "7aeec29c50580432df3bbd961e0fc3f5e304408491aebbcd86d77fdc141b5d5c"
+  },
+  "gesellschaftsgruender/skills/gesellschaftervereinbarung/FACHINHALT.md": {
+    "vorher": "e356038a92b87bc471f9d5bca53aaa255b3be7ccafa56b8fd71972e07bb57e9a",
+    "nachher": "08c0be29b5190446137a5cf1a269f20dcff20cb2795a95c94fe55ec18c70839a",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/gesellschaftsvertrag-gmbh/FACHINHALT.md": {
+    "vorher": "354ed7951900f219535c9f428bbf55106ebdaef2035c46c3a038dbc63dddbb02",
+    "nachher": "0679c93859ee7434be11a9abdcbaca050fd0b69c30551aa4d1f1c51f25e92222",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/gesellschaftsvertrag-vergleich-eskalation/FACHINHALT.md": {
+    "vorher": "c583bd7c0b7159a7cb00536d937bc9c940ef65882238e04e6685e8abdeff7c0c",
+    "nachher": "be61287ecd9376603477343b01cae461baef5e3b8641663e54b09c7d7548e6db",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/gewerbeanmeldung-finanzamt/FACHINHALT.md": {
+    "vorher": "87368c7459615af64946815327ef8827d32e8e3ba4279a3d5732b8540299faea",
+    "nachher": "608ee4b3dac13db45b40ec3a150a9c4c5dc1fa0b9e61c0d57b05c69014278475",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/gf-meeting-templates/FACHINHALT.md": {
+    "vorher": "2f97a6eb7ca55e39f83cfda1b54d1f01b86d05b3c054aaede5301ffa068d0274",
+    "nachher": "abaa62a5b390d96ad62b983f3c0fc02d4aebd4407fa0906874009079bbdbe67c",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/gf-sozialversicherungs-status/FACHINHALT.md": {
+    "vorher": "5e12e3bbfef24676a456b71c117f348e513e1d29046451ccde05bcbf23ec5e28",
+    "nachher": "6dacade2b0cfb41e0ef373cdd0e8db7f7345a885bb09908d30308b62cc3d99d2",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/ggmbh-gemeinnuetzigkeit/FACHINHALT.md": {
+    "vorher": "b73803d0b101a780884aeb90c9e0a24cb85247dc1016fa9dc8a0e271f951220b",
+    "nachher": "80e8a22f559ac04b7961db2bd3b2d6e69e1a34e4cf48a9c071a71948368a45c3",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/ggmbh-risikoampel-und-gegenargumente/FACHINHALT.md": {
+    "vorher": "d8f9d59e2e61756cc4a1b94ccd508f6abdc72d6f24dfe525d7a5d4843916ecec",
+    "nachher": "83fdb0e501ceb7bb7a2e9507556fdd102a9e30aba88fa84049ffa2aaf844478a",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/gmbh-fristen-form-und-zustaendigkeit/FACHINHALT.md": {
+    "vorher": "b70f18e65d11389af90d7b469687572bcb02c55b16a0db0ec711ed4d464b13e6",
+    "nachher": "95ca9fd924a48ce917e1699b2af3b80d666c7e79d64dd092b17764819f6658ed"
+  },
+  "gesellschaftsgruender/skills/gmbh-vorbereitung/FACHINHALT.md": {
+    "vorher": "1d799cfa08058196f1e17f0000ed7b82ac32a43a99233eb4e2fb63e770faddfa",
+    "nachher": "058ac40b2990a68c76b252c16427fc1b6d6f954c1c3fcec5ed2e0d41ecf77a33"
+  },
+  "gesellschaftsgruender/skills/golden-share-und-vetorechte/FACHINHALT.md": {
+    "vorher": "65bfc4a3784a5bf6f2b85c6aa0ee380400d4a98d52d79faff91220d7ce8f1c21",
+    "nachher": "b1c5180cfe9c2b184c553c3f6cfd6d803c051a0f66a6c5f5768c17f1aa050362",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/gruenderrollen-konfliktcheck/FACHINHALT.md": {
+    "vorher": "2c92c7030fcd5b1dbb16542f70554651d6e33123c536322b76387d4d55c97de6",
+    "nachher": "0bff82c8a676fd4cedc994f19d94aabeaf6c0ef823daaf939474a7b80239d071",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/gruendungsassistent-erstpruefung-und-mandatsziel/FACHINHALT.md": {
+    "vorher": "9ac9a3550736d9b05fc0d38798931a99e9d6bc813f4c7ad86399945c499a2621",
+    "nachher": "7d66ff495aabb6e0cafa15aa0d7c415f1fce937df5f723756b4f711ad5884cb4"
+  },
+  "gesellschaftsgruender/skills/gv-einladung-tagesordnung/FACHINHALT.md": {
+    "vorher": "6e886993cbb0d786f5e26fc4f6f357376581b4a7a8310e7217b68f3d0c2ca819",
+    "nachher": "a0794fdcaa15a482867718482221845b1303a82a85b12f3887597b5cb5872f87",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/gv-protokoll-und-versammlungsleiter/FACHINHALT.md": {
+    "vorher": "22f224438929c82716f3df4aca0f6f44c741f249d90aa26304ff4dfcf6a210b0",
+    "nachher": "0be005fbf26030401a14acabbf91080037dcd50a07bdd37adc8b8a0d16a5ccbb",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/handelsregister/FACHINHALT.md": {
+    "vorher": "9b8d9c115246b3bd22f4a714a91c4dce11341ef924da06361ea814df8bd937ba",
+    "nachher": "ffb4ee917bda472180f0751711232fb666e752659a467a6b74187a876afa45e0"
+  },
+  "gesellschaftsgruender/skills/holdingmodell/FACHINHALT.md": {
+    "vorher": "793779057c021cba3ae986fcf865d75c186f4f8748d2107090ba96105fb3d8bf",
+    "nachher": "2d36e9c719421f96471a9f74f38c05ecd334588c27c6e206492369d820651281",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/ihk-und-berufsgenossenschaft/FACHINHALT.md": {
+    "vorher": "0e75d8d9c99154eb8f8893d55caea62bd50fa221d33ebc543d2fdaa773cd4434",
+    "nachher": "d76b9a134c306802dc314b3dd12fd4fc497734ff755adfd86817106cfaa60857",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/intake-decision-kg-gmbhcokg/FACHINHALT.md": {
+    "vorher": "26950e0b47d9c669396fe765392569e53d63d78c7ed9dff8184e0025f469e379",
+    "nachher": "da0c96f74eaa40842fb937f276fd55f1ac7a7ea60cbb37ca907c29b6fa576e2c"
+  },
+  "gesellschaftsgruender/skills/investor-dd-vorbereiten/FACHINHALT.md": {
+    "vorher": "d811779cf800d2dc275e68b95301e4c3fb6db31bbeb22d6cbc16c3137e036293",
+    "nachher": "d8bbd54cd8e78dfe6bb1a586c8bf835f1ce53dfb7852d3f4a2385567f40ae291",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/ip-einbringung/FACHINHALT.md": {
+    "vorher": "803c18addc0014a978e05a40886ffeeaa62c097ea0d688c5aba341529d5c5f29",
+    "nachher": "de66309491278add6aca71a63c52bd1e9fc63b6724aea935b0d5486002b69b30",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/kapitalerhoehung-bezugsrecht/FACHINHALT.md": {
+    "vorher": "73f9761bd4d7dc3e450f2dea9549001e600b76870173945787137db1c318f63e",
+    "nachher": "579ffe4877385163366e6d7244c0f3117e821b67f343a17ab936222c6f026a70"
+  },
+  "gesellschaftsgruender/skills/kg-und-gmbhcokg/FACHINHALT.md": {
+    "vorher": "77ba64b78a751163f9f9ead2bba3c0dc247d2e7ac1d0fd16d498c0a9be510c70",
+    "nachher": "6164ffb33d54b4644d9d77615730d6c549028ebfab242d4ece7afd7976228d97",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/klauselkatalog-bilingual/FACHINHALT.md": {
+    "vorher": "de65221644195dc883811d88831ee5d6e579442dc1800f29695f716868bc2057",
+    "nachher": "953a60f259776b179634d7a24994b08342ca2bc12593a7524cb0acef7a431236",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/leaver-klauseln-mietvertrag-buero-mitarbeiter/FACHINHALT.md": {
+    "vorher": "07d9d763d451b02044939d3d61d7fb34607fd82e31c01953349af5c8a5344db2",
+    "nachher": "463bd5f65d0b417d8664842bd553dc1f2e062b493f08e2769d4329e4e9094f4b",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/lizenz-und-vertriebsstart/FACHINHALT.md": {
+    "vorher": "7baffe2ece5cfa7d573cb92a22eefcdfa3b338c470931a03c7922249118b0505",
+    "nachher": "422f8c11131d955ced5eff427979fe43ccea4f2158e74303b134c0c562735a59",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/lizenz-vertriebsstart/FACHINHALT.md": {
+    "vorher": "7999c9bec203af782a1fa5c8f220f2ed971b2679f77c206ff6b71a1803481545",
+    "nachher": "3e250310d2911da4d753400ca9f8a969a92dadd626b033c34d8c61dd407f22e8",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/lohn-payroll-start/FACHINHALT.md": {
+    "vorher": "89db6e18193616ad0e55692dd4401fdf86f1de6ba770d47e26a4a380090debe2",
+    "nachher": "0456fc27086340e1c503ec9d6ae5715ce885adbac8fe82bec3dad4652c88b921",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/mandantenbrief-naechste-schritte/FACHINHALT.md": {
+    "vorher": "647b94406241a8b94ae1405b8b37d970f8969b6f321eff9d56a3a519078345bc",
+    "nachher": "35664e2d2a3bb271f54719978d89c424acba52d28aa54f6c33d8b2a71f6497e1",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/mietvertrag-buero-labor/FACHINHALT.md": {
+    "vorher": "1e02743fa3034bcbfebe4631a850427618611d13d77dbf8fa859eb8db837e726",
+    "nachher": "d80537fa5574261cac2c93ebaf7017800240bb9e6aab0f28191e8c12460a0478",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/minderjaehrige-gesellschafter/FACHINHALT.md": {
+    "vorher": "d36cdd16c63cd638bdf17d692a4c88c1480489ea2ec70720df3c99bcb6a84ce1",
+    "nachher": "2a8b7fb7ab8bce7a1254680c6669a39e0288f5b99b5e43430456fc82626f31df",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/mitarbeiter-gf-arbeitsvertrag/FACHINHALT.md": {
+    "vorher": "535af40d146d9df954800d10e2b2b1c9cbf85afde1a3ff24a98ddbfbead3e4ee",
+    "nachher": "2a3da16715881372fc6bc6bbc039a3a9ce5eed2182042c6408c66a14f141fcb0",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/mitarbeiterbeteiligung-esop-vsop/FACHINHALT.md": {
+    "vorher": "5e7484021471a88a5a44ace6632c2a6eb6200f71dc8c898de204a326c6750b89",
+    "nachher": "86f0561b84b5a452ee903e7063c3dfaf4f6b5cfd4eb1fb59ebaeb0229b6615d0",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/notar-vorbereitung/FACHINHALT.md": {
+    "vorher": "a6264bbb5781c6cd8b7265d531d4340f2f2227ca129f216d710ca3286bbfce69",
+    "nachher": "ebaeb45dc9c3602890744f8acd4abea67b498aa77b5da447ad2af4ba3881229f",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/notarbriefing-onepager/FACHINHALT.md": {
+    "vorher": "ba64f9d9316cd7d35cdf6786c7f3d6960bfb4f97b9d18fed342b7e7a4cdb9468",
+    "nachher": "d72c4f502656394b929917138dca35be5f694b3bd8f06c19392f58d68f6cb65e",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/one-page-roadmap/FACHINHALT.md": {
+    "vorher": "fb093f02fcddaffdbd8b50b136e09afc8c5b262346c1b9c47f8a3f20505c0343",
+    "nachher": "ed1135d7372dd59df887b1d470dd56ac623354610e55ce48257ca979d1e94ce0",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/online-gruendung-dirug/FACHINHALT.md": {
+    "vorher": "451bcd614d900aad3bf812493ca2e5ca3d9784d721be116239dfc27ce4d4cb6a",
+    "nachher": "12cb34d9c5daccd652b4a9c4d89965cd7aad8951b1928cece761162b9dd73ddc"
+  },
+  "gesellschaftsgruender/skills/open-source-plain/FACHINHALT.md": {
+    "vorher": "6f32a1a234b005ead3fdfaf2619abea991a8f72e3737ac82774e9fd094bf61f9",
+    "nachher": "0ba767f786a12d2619f97e6028772de0e706ab0885d7c4a34afd15122649c41f",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/partg-dokumentenmatrix-und-lueckenliste/FACHINHALT.md": {
+    "vorher": "288de143a589bd21662d6ca4e29007a521c88a2781a7dd5d9ec96719d514b261",
+    "nachher": "2b8a448c205eebadcd964e7bc160cbdc55695a2e9eb2ae9af721d2ff09605db2",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/plain-language-modus/FACHINHALT.md": {
+    "vorher": "5382484d8f28795167dc62433c820835b966bdc79ed21700730ebd96bc40a68e",
+    "nachher": "d548a027ecf59bbee6105a109d0f91050e597f2888f43ab899969cb11079154c",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/produkt-und-produkthaftung-start/FACHINHALT.md": {
+    "vorher": "f0f2c7d46136724d44b34a82baee9633fb8718bd5124d159db932752bde0266f",
+    "nachher": "0e4b289b726b49a486572a0c0490496beed363644fc144acd1060703c9c59390",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/rechtsformwahl-ueber/FACHINHALT.md": {
+    "vorher": "832345130ee39dfd8c9e052315296136ce8fd2db1a01b9153c19befbced0a43e",
+    "nachher": "261042b6111d12eedb6be78f14922e3ea56f80cd770fc1949888aa8e071d3752"
+  },
+  "gesellschaftsgruender/skills/rechtsformwahl/FACHINHALT.md": {
+    "vorher": "18818fa855ed82ca74f3a24c00a7911b4579df0b639efb5f6eb32f13058ef170",
+    "nachher": "15bb191c76c3dc036f32d1d04db66445e426bef3b3fea060f39e0087dbfdef62"
+  },
+  "gesellschaftsgruender/skills/registerbeanstandung-beantworten/FACHINHALT.md": {
+    "vorher": "2dd170e65b31a493c28334380c5a68992dda2e0dd6a6e53d1860de584c9ba9d7",
+    "nachher": "e7263dbd631261ac53046b62195b4e5378e96a8bd3da9fd8794b3422634553bc",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/reguliertes-geschaeftsmodell/FACHINHALT.md": {
+    "vorher": "e8d1c6eaadb3577172268bb48e96fa6e8f45e035bc7aae4bdbf9c8e890068008",
+    "nachher": "bc6b4b910eb46414f7a35a1692084cf4a65049cef91ce28e4aec290b1bd93f98",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/sacheinlage-und-verdeckte-sacheinlage/FACHINHALT.md": {
+    "vorher": "0fcaf60dfcb83bdda2b4adea6e6e5d2b601a25b569501753a1081c2dfc2f22b2",
+    "nachher": "3e2df1a32d9f460e9ec17acaf496d133aa21540497b334468eac182789a40e8c",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/sanktionen-investorcheck-gewerbeanmeldung/FACHINHALT.md": {
+    "vorher": "5d135b6caa677633b12209770739430ba712837b52935ab55d1c8d14d0fa2d48",
+    "nachher": "370f145977e2530461cba473f0b495bcfadeb778c031d3f6db1e3dcadbb147f3",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/se-crossborder-sha-satzung-stammkapital/FACHINHALT.md": {
+    "vorher": "4231721b8dd7b48b1945965b63603a391af4906eb2e0ffb9df873fadea1b0e53",
+    "nachher": "11ff0091943b1a2ba9a762dc87138f4ca8d6b657bb542436ddacfece125cf7ce",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/sha-satzung-stimmverpflichtung/FACHINHALT.md": {
+    "vorher": "af46ef4f3096c99b699ba6f496976c9578e3807817bde0b5a304c2e85c460da4",
+    "nachher": "a988136bac9fc3b4c8ab288015436148d9f22ecb07b03745b2de4d85ef829d0d",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/share-classes-a-b-c/FACHINHALT.md": {
+    "vorher": "c114f9073db3988ce3fa945b05bf86ddbdc197de2daf54983e914c008e66b077",
+    "nachher": "7e460e5ce45b469422995eb3b60c0ccf844db1ee58a3c307c4f608305bf3a730",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/stammkapital-einzahlung/FACHINHALT.md": {
+    "vorher": "b112b9ef91351b246ac3709fc4e9bb77a683955c5e4f871e5a59f8445419256c",
+    "nachher": "bb06bfd4845e378c02972fe21581ce1c129b3e67904156f055c5aed19f92cd5a"
+  },
+  "gesellschaftsgruender/skills/stammkapitalverlust-paragraf-49-gmbhg/FACHINHALT.md": {
+    "vorher": "23d801ea476373b0a96ec6275fc3fd1a631e3b17cdfecffc21e86f4307407fd6",
+    "nachher": "c3286e825091eff6c5dfd968756b5f6a28a59659c38b44b5b307bf5fa00dfe35"
+  },
+  "gesellschaftsgruender/skills/steuerliche-erfassung/FACHINHALT.md": {
+    "vorher": "83f48719dce616185f6661e7da153840755afb728a52b7a252d9b050f18ecd5f",
+    "nachher": "1d1dd1a41fdce212e9475fdf05e765663af44dbcf96596a79745c32fc1779f93",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/transparenzregister/FACHINHALT.md": {
+    "vorher": "77737a37ed6e3ae25d702dd78536e1df68a9e4e0c8f2122c2a68af49a5f48c52",
+    "nachher": "50c4a146be01da1c9a52c2f008132cf2cba7a883bce7fcedc52229f0124a5b0d",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/treuhand-und-nominee/FACHINHALT.md": {
+    "vorher": "c195dcdf206dccfa7acf5fd0eb85210a5af5bbd73e291e0bef7bcf8cafb51aba",
+    "nachher": "b59cd46d39278c4acde7ce2c6bcd9603fc19e71ef941a8413eece7f4d80dc689",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/ueber-schriftsatz-brief-und-memo-bausteine/FACHINHALT.md": {
+    "vorher": "0614bec06cb8d16e2e33017ec91f34f7e9295325cedd1fe087ac83b0fe0c8c55",
+    "nachher": "0c401605c80036ff2e2cbf9e043c43ab701d367f7f382126171d8385a6be963c",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/ug-vorbereitung/FACHINHALT.md": {
+    "vorher": "0318cd0bab985ac8dcfcd202c5886b926e4a1157585094f45a6cfd054d6b7ad8",
+    "nachher": "0bd261f6bc13933e1faf5cbe1806d8f7931fd6a27214cb4f89f29a571f18e47c"
+  },
+  "gesellschaftsgruender/skills/umsatzsteuer-start/FACHINHALT.md": {
+    "vorher": "69cbe368a69a13d6f0bf34d78e46fb74a4a5a005546333b233f2d34b77278203",
+    "nachher": "de921548fcf4bc5ac8e9dd18739bb5c9294ae779bbc061a38e9d32ddf8aa9daa",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/versicherungen-start/FACHINHALT.md": {
+    "vorher": "dc8141ac90fce81b27f8cdda45ef2b8938e454f4175492650af2bf03c63a50c8",
+    "nachher": "f762bdf1e9780fd6200c9325653514cde745bc962a3998e075341f9f61ee55ae",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/vinkulierung-und-transfer/FACHINHALT.md": {
+    "vorher": "dc1530fcfc23a1fc59949f267d41348bb4803a5d4140eec0b653707dc8148797",
+    "nachher": "777209d0e0b6f710c48c69896f09636878e043e543ca8af8b835e37c23c0cd02",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsgruender/skills/wandeldarlehen/FACHINHALT.md": {
+    "vorher": "48698dd949a236ac397ff0ce388591b5a7e3fd23e2ddbf193d061ae9eaf47f97",
+    "nachher": "a3ab6c9e190f0071e58109d8638ecfd214ff8dba28c8b0dd86956f055e08a8d5",
+    "ersetzung": [
+      "51a, 53, 55, 64, BGB Paragraf 705",
+      "51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705"
+    ]
+  },
+  "gesellschaftsrecht/skills/geschaeftsfuehrer-haftung-43-gmbhg/FACHINHALT.md": {
+    "vorher": "ca840985917715c39097c0878d1abb10f5c09426c2ccb85815b1be3cae70491e",
+    "nachher": "d3b2855fcf6a7d377a43831e5b0e67f595cb1693c42c7c16dd0830d1cce396e8"
+  },
+  "gesellschaftsrecht/skills/gesellschafterbeschluss/FACHINHALT.md": {
+    "vorher": "eccd2a588192b0b7434cf3a8866a2bc94e18916d139bebccde91944cb83aa1cb",
+    "nachher": "cb819ea2591329dbfd51d43a4ddcdbe44362dbb1b398d1f280fe73cb6ad24ef3"
+  },
+  "gesellschaftsrecht/skills/gmbh-gruendung/FACHINHALT.md": {
+    "vorher": "4498ecd2d4fadfa0cf8df45c26d7563abbcdff830e17da4bc15c2de9b4ab5902",
+    "nachher": "1ccf4f1cd82ca607d06f984d5b2dbad346cf6f36a1bf5b20a4f2bff3b5f7b7d8"
+  },
+  "testakten/megaprompts/fachanwalt-handels-gesellschaftsrecht.md": {
+    "vorher": "aca6e82bd3cd8ed50bb126a1abb751fbcd99f1fd76b6957ef2828a64f0f7cc50",
+    "nachher": "5bc47c8d051765c2073375592f62965ecca08be1bffffffe4c8a5b3f7d012b98"
+  },
+  "testakten/megaprompts/gesellschaftsgruender.md": {
+    "vorher": "8e762b97650ef86a5e59d21d0c82a369f37af1f701397d5a404347786f1a2fe2",
+    "nachher": "fc183ca15c9a2e8f86f89efdaa975a011a630888e1c3392e1fd1e2a9fb720bd8"
+  }
+}

@@ -9,7 +9,7 @@ description: "Für Gesellschafterstreit — Eilanträge: ordnet Norm, Beweislast
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -29,7 +29,7 @@ Behandelt das vollständige Eilrechtsschutz-Werkzeugset für GmbH-Gesellschafter
 ## Kaltstart-Rückfragen
 
 1. **Was ist passiert?** Welcher Beschluss wurde gefasst (Kapitalerhöhung, Abberufung GF, Satzungsänderung, Auflösung)?
-2. **Datum des Beschlusses?** Anfechtungsfrist: 1 Monat ab Beschlussfassung (BGH-Linie analog Paragraf 246 AktG).
+2. **Datum des Beschlusses und Satzungsfrist?** Bei der GmbH die Satzung zu Frist und Fristbeginn lesen. Ohne abweichende Regelung ist grundsätzlich binnen eines Monats mit aller zumutbaren Beschleunigung zu klagen.
 3. **Wurde Anmeldung beim Handelsregister bereits eingereicht?** Bei Ja: Anmeldungs-Sperre zeitkritisch (Tage bis Eintragung).
 4. **Anteilsverhältnisse:** Wer hat welchen Anteil? Mehrheits- und Minderheitsgesellschafter?
 5. **Stimmergebnis:** Wie wurde abgestimmt? Gab es Stimmverbote (Paragraf 47 Abs. 4 GmbHG)?
@@ -58,7 +58,7 @@ In der Praxis wird die Registersperre durch Antrag beim zuständigen Amtsgericht
 **Paragraf 241, 243, 246 AktG analog GmbH**
 > Paragraf 241 AktG (Nichtigkeitsgründe): Gesetzlich abschließend geregelte Fälle der Nichtigkeit (z.B. fehlende notarielle Form, Verstoß gegen Gläubigerschutz).
 > Paragraf 243 AktG (Anfechtbarkeit): Beschluss anfechtbar bei Verstoß gegen Gesetz oder Satzung.
-> Paragraf 246 Abs. 1 AktG (Anfechtungsfrist): 1 Monat ab Beschlussfassung.
+> Paragraf 246 Abs. 1 AktG bestimmt für die AG einen Monat ab Beschlussfassung. Bei der GmbH ist die Monatsfrist ohne abweichende Satzungsregelung das Leitbild.
 
 Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
@@ -85,8 +85,8 @@ Verstoß gegen Stimmverbot: Beschluss anfechtbar; ggf. kausal, wenn stimmbefange
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
 | 1 | Beschluss analysieren | Welcher Beschluss? Kapitalerhöhung, Abberufung, Satzungsänderung, Auflösung? | Bestimmung des Angriffsmittels (Anfechtung vs. Nichtigkeit) |
-| 2 | Nichtigkeit oder Anfechtbarkeit? | Paragraf 241 AktG analog: Nichtigkeitsgründe (fehlende Form, Gläubigerschutz)? oder Paragraf 243 AktG analog: Anfechtbarkeit (Gesetzes-/Satzungsverstoß)? | Nichtigkeit: keine Frist; Anfechtbarkeit: 1 Monat (Paragraf 246 AktG analog) |
-| 3 | Anfechtungsfrist prüfen | Datum des Beschlusses + 1 Monat? | Fristversäumnis = Beschluss wird endgültig wirksam (außer bei Nichtigkeit) |
+| 2 | Nichtigkeit oder Anfechtbarkeit? | Nichtigkeitsgrund entsprechend Paragraf 241 AktG oder anfechtbarer Gesetzes-/Satzungsverstoß entsprechend Paragraf 243 AktG? | Für Nichtigkeit Heilung prüfen. Für Anfechtbarkeit Frist und Fristbeginn nach der Satzung, sonst Monatsleitbild prüfen. |
+| 3 | Anfechtungsfrist prüfen | Beschlussdatum, gegebenenfalls Bekanntgabe nach Satzung, frühesten Fristablauf und mögliche zwingende Hinderungsgründe belegen. | Anfechtungs- und Nichtigkeitsgründe getrennt behandeln. |
 | 4 | Handelsregister-Status | Ist Anmeldung beim HR bereits eingereicht? Noch nicht? Eintragung drohend? | Bei drohendem Eintrag: Anmeldungs-Sperre zeitkritisch (Priorität: Tage) |
 | 5 | Stimmverbot geprüft? | Paragraf 47 Abs. 4 GmbHG: Hat stimmbefangenes Mitglied abgestimmt? War die Stimme kausal für das Ergebnis? | Kausalitätsprüfung: Ohne stimmbefangene Stimme — hätte das Ergebnis anders gelautet? |
 | 6 | Bezugsrechtsausschluss gerechtfertigt? | Bei KE mit Bezugsrechtsausschluss: Sachliche Rechtfertigung (BGH Kali+Salz)? Verhältnismäßigkeit? Nicht diskriminierend? | Fehlt Rechtfertigung: Anfechtbarkeit; ggf. Unterlassungsklage |
@@ -94,15 +94,15 @@ Verstoß gegen Stimmverbot: Beschluss anfechtbar; ggf. kausal, wenn stimmbefange
 | 8 | Verfügungsgrund glaubhaft machen | Eilbedürftigkeit: Würde Eintragung einen unwiderruflichen Schaden verursachen? Quantifizierung des drohenden Schadens? | Eidesstattliche Versicherung + Protokoll + Gutachten |
 | 9 | Schiedsklausel prüfen | Enthält der Gesellschaftsvertrag eine DIS-Schiedsklausel? | Bei Schiedsklausel: Eilrechtsschutz beim staatlichen Gericht trotzdem möglich (vorläufige Maßnahmen nicht ausgeschlossen); aber: Hauptsache zum Schiedsgericht |
 | 10 | Schlichtungspflicht prüfen | Gibt es eine Schlichtungspflicht vor Klage (Beirat)? Ausnahme bei Eilbedürftigkeit? | Eilanträge von Schlichtungspflicht regelmäßig ausgenommen |
-| 11 | Anfechtungsklage einreichen | Fristwahrung: Klage beim LG des Gesellschaftssitzes binnen 1 Monat ab Beschluss | Parallel zu Eilverfahren; Hauptverfahren läuft unabhängig |
+| 11 | Anfechtungsklage einreichen | Fristwahrung: Klage beim LG des Gesellschaftssitzes nach Maßgabe der Satzung, sonst grundsätzlich binnen eines Monats ab Beschluss | Parallel zu Eilverfahren; Hauptverfahren läuft unabhängig |
 | 12 | Hauptverfahren | LG entscheidet über Anfechtbarkeit; typische Dauer: 6–18 Monate LG; ggf. OLG; BGH selten | Rechtskraft der Anfechtung beseitigt den Beschluss ex tunc |
 
 ## Beweislast
 
 | Frage | Beweislast | Erläuterung |
 |---|---|---|
-| Beschluss anfechtbar (Paragraf 243 AktG analog) | Kläger (Gesellschafter) | Nachweis des Gesetzes-/Satzungsverstoßes; Kausalität für Beschlussergebnis |
-| Beschluss nichtig (Paragraf 241 AktG analog) | Kläger oder von Amts wegen | Nichtigkeitsgründe können jederzeit geltend gemacht werden |
+| Beschluss anfechtbar (Paragraf 243 AktG analog) | Kläger (Gesellschafter) | Gesetzes- oder Satzungsverstoß darlegen. Bei Verfahrensmängeln die Bedeutung für Teilnahmerechte und Mitgliedschaftsrechte erläutern, bei Zählfehlern das Ergebnis neu berechnen. |
+| Beschluss nichtig (Paragraf 241 AktG analog) | Kläger oder von Amts wegen | Mögliche Heilung nach Paragraf 242 AktG entsprechend und Registerstand gesondert prüfen |
 | Sachliche Rechtfertigung des Bezugsrechtsausschlusses | Gesellschaft / Mehrheitsgesellschafter | Mehrheitsgesellschafter muss sachliche Gründe darlegen (BGH Kali+Salz) |
 | Stimmverbot nicht verletzt (Paragraf 47 Abs. 4 GmbHG) | Gesellschaft / Versammlungsleiter | Nachweis durch Protokoll (kein stimmbefangener Gesellschafter hat abgestimmt) |
 | Verfügungsanspruch und Verfügungsgrund (Paragraf 920 ZPO) | Antragsteller (Glaubhaftmachung ausreichend) | Glaubhaftmachung durch Urkunden und eidesstattliche Versicherung |
@@ -125,7 +125,7 @@ Verstoß gegen Stimmverbot: Beschluss anfechtbar; ggf. kausal, wenn stimmbefange
 | Bezugsrechtsausschluss sachlich gerechtfertigt | Strategischer Investor bringt Mehrwert (Technologie, Netzwerk) | Sachliche Rechtfertigung muss substantiiert dargelegt werden; pauschale Aussagen reichen nicht (BGH Kali+Salz); Verhältnismäßigkeit prüfen: Warum kein Bezugsrecht mit gleichem Ausgabepreis? |
 | Kein Verfügungsgrund, weil Hauptsache schnell entschieden | LG entscheidet zügig | Eintragung ins HR ist nicht rückgängig zu machen; unwiderrufliche Verwässerung ist irreversibler Schaden |
 | Schiedsklausel schließt staatlichen Eilrechtsschutz aus | Schiedsklausel erfasst alle Streitigkeiten | Vorläufige Maßnahmen vor staatlichen Gerichten bleiben trotz Schiedsklausel zulässig (Paragraf 1041 ZPO); Eilantrag ist kein Einwand gegen Schiedsklausel |
-| Anfechtungsfrist abgelaufen | Beschluss vom Monat zurück | Prüfen, ob Nichtigkeitsgründe (Paragraf 241 AktG analog) vorliegen — keine Frist; oder ob Frist wegen versteckten Beschlussmangels neu läuft |
+| Anfechtungsfrist abgelaufen | Beschlusstag, Satzung und Klageerhebung belegen | Zwingenden Hinderungsgrund und Beschleunigung nach dessen Wegfall prüfen. Die spätere Entdeckung eines Mangels allein setzt keine neue Monatsfrist in Gang. Mögliches Eingreifen eines Nichtigkeitsgrunds und Heilung gesondert prüfen. |
 | Stimmverbot-Verstoß war nicht kausal | Mehrheit hätte auch ohne stimmbefangene Stimme bestanden | Kausalitätsprüfung: Stimmergebnis ohne stimmbefangene Stimme neu berechnen; bei Ja: keine Kausalität |
 | Versammlungsleiter war legitimiert | Mehrheitsbeschluss zur Wahl des Versammlungsleiters | Wenn kein wirksamer Mehrheitsbeschluss vor GV-Leiterwahl: Versammlungsleiter ohne Legitimation; Beschlüsse anfechtbar |
 
@@ -136,7 +136,7 @@ Verstoß gegen Stimmverbot: Beschluss anfechtbar; ggf. kausal, wenn stimmbefange
 | Kapitalerhöhung mit Bezugsrechtsausschluss vor Eintragung | eV beim LG + Anmeldungs-Sperre beim Registergericht | Innerhalb 48–72 Stunden |
 | GF-Abberufung soll sofort vollzogen werden | eV auf Unterlassung der Eintragung + eV auf Unterlassung der Abberufungswirkungen | Sofort; Abberufung wirkt ab Beschluss |
 | Versammlungsleiter umstritten | Neutralen Notar beauftragen; ggf. eV auf Besetzung | Vor Beginn der GV |
-| Streit über Beschlussfähigkeit / fehlendes Quorum | Protokoll anfechten; Feststellungsklage | Bis 1 Monat nach Beschluss |
+| Streit über Beschlussfähigkeit / fehlendes Quorum | Art des Mangels und Beschlussfeststellung prüfen. Statthafte Hauptsacheklage und Eilantrag bestimmen. | Bei Anfechtbarkeit die Satzungsregelung oder das Monatsleitbild beachten. |
 | StaRUG-Plan gegen Golden-Share-Veto | Golden Share greift nicht bei gesetzlicher Insolvenzantragspflicht; Klärung im StaRUG-Verfahren | Sofort bei StaRUG-Antrag |
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -318,8 +318,7 @@ II. Anfechtungsgrund
 
 III. Rechtsfolge
 Der Beschluss ist gemäß Paragraf 241, 243 AktG analog nichtig / anfechtbar.
-Frist: Monatsfrist nach Paragraf 246 AktG analog gewahrt (Beschluss: [Datum];
-Klageerhebung: [Datum = heute]).
+Fristgrundlage: [Satzung mit Fristbeginn / Monatsleitbild nach Paragraf 246 AktG entsprechend]. Beschluss am [Datum], Fristablauf am [Datum], Klageerhebung am [Datum].
 
 Beweismittel:
 - Gesellschaftsvertrag (Anlage K 1)

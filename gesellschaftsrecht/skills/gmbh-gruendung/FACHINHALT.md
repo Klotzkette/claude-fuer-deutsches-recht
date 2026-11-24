@@ -68,8 +68,7 @@ Vor Beginn der Gruendungsbegleitung klären:
 - **Paragraf 5a GmbHG** – UG (haftungsbeschränkt): Mindestkapital 1 €; Rücklage 25 % des
  Jahresüberschusses bis Aufstockung auf 25.000 € (Paragraf 5a Abs. 3 GmbHG).
 - **Paragraf 6 GmbHG** – Geschäftsführer; Bestellungshindernisse Paragraf 6 Abs. 2 GmbHG.
-- **Paragraf 7 GmbHG** – Anmeldung zum Handelsregister; Voraussetzung: Einzahlung
- von mindestens 12.500 € (Hälfte) auf Bareinlage (Paragraf 7 Abs. 2 GmbHG).
+- **Paragraf 7 GmbHG** – Zur Anmeldung je Baranteil mindestens ein Viertel des Nennbetrags einzahlen. Gezahltes Geld und Nennbeträge der Geschäftsanteile mit Sacheinlage müssen zusammen mindestens 12.500 € erreichen. Die Sacheinlagen vorher vollständig zur freien Verfügung der Geschäftsführer bewirken.
 - **Paragraf 8 GmbHG** – Inhalt der Anmeldung; Versicherung des Geschäftsführers über
  Bestellungshindernisse (Paragraf 8 Abs. 3 GmbHG).
 - **Paragraf 11 GmbHG** – Entstehung der GmbH mit Eintragung; Haftung in der Vorgesellschaft.
@@ -109,7 +108,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 3. **Stammkapital einzahlen** – Bareinlage auf Geschäftskonto einzahlen; bei UG:
  vollständige Einzahlung vor Anmeldung erforderlich (Paragraf 5a Abs. 2 GmbHG).
- Bei GmbH: mindestens 12.500 € (Paragraf 7 Abs. 2 Satz 1 GmbHG) vor Anmeldung.
+ Bei der GmbH Viertelbetrag je Baranteil und Gesamtschwelle einschließlich der Nennbeträge der Sachanteile nach Paragraf 7 Abs. 2 GmbHG berechnen. Sacheinlagen nach Abs. 3 erbringen.
 
 4. **Geschäftsführer bestellen und Versicherung abgeben** – Gesellschafterbeschluss
  (Paragraf 46 Nr. 5 GmbHG); Anstellungsvertrag; Versicherung nach Paragraf 8 Abs. 3 GmbHG
@@ -173,7 +172,7 @@ Datum: [TT.MM.JJJJ]
 
 --- STAMMKAPITAL-EINZAHLUNG (Paragraf 7 Abs. 2 GmbHG) ---
 ☐ Geschaftskonto eroeffnet bei: [BANK]
-☐ Einzahlung: [BETRAG EUR] eingezahlt am: [DATUM] (mind. 12.500 EUR bei GmbH vor Anmeldung)
+☐ Barleistungen je Anteil [BETRAG, DATUM], Nennbeträge und Erbringung der Sacheinlagen [BETRAG, BELEG], Gesamtschwelle nach Paragraf 7 Abs. 2 Satz 2 GmbHG [BETRAG].
 ☐ Einzahlungsnachweis: [VORHANDEN / AUSSTEHEND]
 
 --- HANDELSREGISTERANMELDUNG (Paragraf 7 GmbHG) ---
@@ -221,7 +220,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ## Rote Schwellen
 
 - **Handeln vor HR-Eintragung ohne Hinweis auf Vorgesellschaftshaftung** — Paragraf 11 Abs. 2 GmbHG: persönliche Haftung der Handelnden; Mandant explizit warnen.
-- **Stammkapital nicht oder zu wenig eingezahlt vor Anmeldung** — Paragraf 7 Abs. 2 GmbHG: mind. 12.500 EUR vor Anmeldung; Registergericht lehnt sonst Eintragung ab.
+- **Einlagen vor Anmeldung unzureichend:** Viertel je Baranteil, Gesamtschwelle von 12.500 EUR und vollständig bewirkte Sacheinlagen einzeln prüfen. Für die UG gilt volle Einzahlung in Geld.
 - **Bestellungshindernis Paragraf 6 Abs. 2 GmbHG uebersehen** — Vorstrafe des Geschäftsführers fuehrt zur Ablehnung der Eintragung; Strafregisterauszug vorab anfordern.
 - **Transparenzregister-Frist versaeumt** — Bussgeld bis 1.000.000 EUR (Paragraf 56 Abs. 1 GwG); 2-Wochen-Frist ab Eintragung sofort im Fristenbuch verankern.
 - **Erlaubnispflichtige Taetigkeit ohne Genehmigung aufgenommen** — Ordnungswidrigkeitsrisiko, Betriebsuntersagung; Genehmigung VOR Aufnahme der Taetigkeit einholen.
@@ -235,14 +234,7 @@ alleinvertretungsberechtigter Geschäftsführer werden.
 *Ablaufskizze (Urteilsstil):*
 
 Der Gesellschaftsvertrag ist nach Paragraf 2 Abs. 1 Satz 1 GmbHG notariell zu beurkunden.
-Das Stammkapital von 25.000 € ist gemäß Paragraf 5 Abs. 1 GmbHG zulässig. Vor der
-Anmeldung muss A mindestens 15.000 € (60 % von 25.000 €) und B mindestens
-10.000 € (40 %) eingezahlt haben, so dass insgesamt 25.000 € auf das
-Geschäftskonto der Gesellschaft eingezahlt sind – Paragraf 7 Abs. 2 Satz 1 GmbHG
-verlangt Einzahlung von mindestens der Hälfte, hier also 12.500 €; es empfiehlt
-sich jedoch die volle Einzahlung zur Vermeidung der Vorbelastungshaftung
-Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
-Versicherung nach Paragraf 8 Abs. 3 GmbHG gegenüber dem Registergericht abzugeben.
+A übernimmt bei der vorgesehenen Bargründung einen Anteil über 15.000 €, B einen über 10.000 €. Die Viertelbeträge betragen 3.750 € und 2.500 €. Zusammen reichen diese 6.250 € noch nicht. Zahlen A vor der Anmeldung beispielsweise 7.500 € und B 5.000 € ein, sind sowohl beide Viertelbeträge als auch die Gesamtschwelle von 12.500 € erreicht (Paragraf 7 Abs. 2 GmbHG). Die restlichen Einlagepflichten bestehen fort. A versichert als Geschäftsführer die bewirkten Leistungen und die endgültige freie Verfügung nach Paragraf 8 Abs. 2 sowie die persönlichen Voraussetzungen nach Abs. 3 GmbHG.
 Die Transparenzregistereintragung ist innerhalb von 2 Wochen vorzunehmen
 (Paragraf 20 Abs. 1 GwG).
 

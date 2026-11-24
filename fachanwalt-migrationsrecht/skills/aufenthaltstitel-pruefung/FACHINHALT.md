@@ -14,7 +14,7 @@ description: "Für Aufenthaltstitel Prüfung: ordnet Norm, Beweislast und Gegena
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Ausländerbehoerde erhalten. Prüfraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identität. Versagungs- und Ausweisungsinteressen § 11 AufenthG. Output Aufenthaltstitel-Prüf-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für den Antrag selbst.
+**Fokus:** Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Ausländerbehoerde erhalten. Prüfraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18g Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identität. Ausweisungsinteressen nach § 54 AufenthG und bestehende Einreise- und Aufenthaltsverbote nach § 11 AufenthG prüfen. Output Aufenthaltstitel-Prüf-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für den Antrag selbst.
 
 ### Aufenthaltstitel-Prüfung
 
@@ -43,7 +43,7 @@ description: "Für Aufenthaltstitel Prüfung: ordnet Norm, Beweislast und Gegena
 | Berufsausbildung | AE Ausbildung | § 16a AufenthG |
 | Studium | AE Studium | § 16b AufenthG |
 | Fachkräfte-Beschäftigung | AE Beschäftigung | § 18a AufenthG |
-| Hochqualifizierte / Blaue Karte EU | Blaue Karte EU | § 18b AufenthG |
+| Qualifizierte Beschäftigung mit passender Gehaltsschwelle | Blaue Karte EU | § 18g AufenthG |
 | Forschung | AE Forschung | § 18d AufenthG |
 | Intra-Corporate-Transfer | ICT-Karte | § 19 AufenthG |
 | Selbständigkeit | AE Selbständige | § 21 AufenthG |
@@ -129,24 +129,16 @@ Aufenthaltserlaubnis nach § 25b AufenthG.
 
 Voraussetzungen nach § 25b Abs. 1 AufenthG sind erfüllt:
 
-1. Mindestaufenthalt: Ununterbrochener rechtmäßiger oder geduldeter
- Aufenthalt seit [Datum] — mindestens acht Jahre
- (sechs Jahre bei Kindern/Alleinerziehenden). Belegt durch
- Anlage A1 (Ausländerbehördennachweis).
+1. Derzeitiger Status: [Duldung oder Aufenthaltserlaubnis nach § 104c]. Seit [Datum] ununterbrochen geduldet, gestattet oder mit Aufenthaltserlaubnis im Bundesgebiet. Die regelmäßige Voraufenthaltszeit beträgt sechs Jahre oder vier Jahre bei häuslicher Gemeinschaft mit einem minderjährigen ledigen Kind. Anlage A1 belegt [Aufenthaltszeiten und ggf. häusliche Gemeinschaft].
 
-2. Lebensunterhaltssicherung: Monatliches Nettoeinkommen
- EUR [Betrag] aus Beschäftigung bei [Arbeitgeber]. Überschreitet
- SGB-II-Regelbedarf für [Personen] (EUR [Betrag]) deutlich.
- Anlage A2: Lohnabrechnungen.
+2. Lebensunterhalt: [Überwiegende Sicherung durch Erwerbstätigkeit oder anhand der bisherigen Schul-, Ausbildungs-, Einkommens- und Familiensituation begründete Prognose nach § 25b Abs. 1 Satz 2 Nr. 3]. Einkommen, Bedarf und ggf. Leistungsbezug sind in Anlage A2 belegt.
 
 3. Mündliche Deutschkenntnisse A2: [Sprachzertifikat, Datum]
  Anlage A3.
 
-4. Kein Bezug von SGB-II-/SGB-XII-Leistungen seit [Datum]:
- Bescheinigung Jobcenter Anlage A4.
+4. Weitere Integrationsmerkmale: [Bekenntnis zur freiheitlichen demokratischen Grundordnung und Grundkenntnisse, bei schulpflichtigen Kindern tatsächlicher Schulbesuch]. Nachweise: Anlage A4.
 
-5. Keine Ausweisungsinteressen § 54 AufenthG: Führungszeugnis
- ohne Eintrag Anlage A5.
+5. Die Versagungsgründe des § 25b Abs. 2 AufenthG wurden anhand [Akte, Auskünfte und Mitwirkungsbelege] geprüft. Ergebnis und Belege: [Anlage A5].
 
 Wir bitten um Ausstellung einer Fiktionsbescheinigung und
 Terminbestätigung.
@@ -154,6 +146,8 @@ Terminbestätigung.
 Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
+
+[§ 25b AufenthG: Integrationsvoraussetzungen, Ausnahmen und Versagungsgründe](https://www.gesetze-im-internet.de/aufenthg_2004/__25b.html)
 
 ### Baustein 2 — Widerspruch gegen Versagung wegen Lebensunterhalt
 
@@ -192,17 +186,17 @@ Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
 
-### Baustein 3 — Blaue Karte EU § 18b Abs. 2 AufenthG
+### Baustein 3 — Blaue Karte EU nach § 18g AufenthG
 
 ```
 An die Ausländerbehörde [Ort]
 
-Antrag auf Erteilung der Blauen Karte EU § 18b Abs. 2 AufenthG
+Antrag auf Erteilung der Blauen Karte EU § 18g AufenthG
 
 Sehr geehrte Damen und Herren,
 
 namens und in Vollmacht beantragen wir die Erteilung der Blauen
-Karte EU nach § 18b Abs. 2 AufenthG.
+Karte EU nach § 18g AufenthG.
 
 Voraussetzungen sind erfüllt:
 
@@ -210,14 +204,11 @@ Voraussetzungen sind erfüllt:
  Abschluss-Zeugnis mit Übersetzung: Anlage B1.
  Anabin-Datenbank-Prüfung: Anlage B2 (Gleichwertigkeitsnachweis).
 
-2. Konkreter Arbeitsplatz: Arbeitsvertrag mit [Arbeitgeber] vom
- [Datum] (Anlage B3). Bruttojahresgehalt EUR [Betrag].
- Aktueller Schwellenwert 2025 (§ 18b Abs. 2 Satz 1 Nr. 2 AufenthG):
- EUR 45300 (Regelberuf) / EUR 41041 (Mangelberuf) —
- bitte aktuellen Wert aus BMAS-Bekanntmachung prüfen.
+2. Beschäftigung: [Tätigkeit, Arbeitgeber, Beginn und Laufzeit von mindestens sechs Monaten, Anlage B3]. Das vereinbarte Bruttojahresgehalt beträgt [Betrag] Euro. Die Beschäftigung entspricht der nachgewiesenen Qualifikation.
 
-3. Zustimmungsfreiheit: Blaue Karte EU ist nach § 2 Abs. 1 Nr. 2
- BeschV zustimmungsfrei.
+3. Gehalt und Zustimmung: [Variante und maßgebliches Kalenderjahr einsetzen]. Für die Regelschwelle nach § 18g Abs. 1 Satz 1 AufenthG gelten 50 % der jährlichen Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung (2025: 48.300 Euro, 2026: 50.700 Euro). Die Erteilung erfolgt ohne Zustimmung der Bundesagentur für Arbeit.
+
+Für den Antrag mit abgesenkter Schwelle und Zustimmung der Bundesagentur für Arbeit nach § 18g Abs. 1 Satz 2 AufenthG gilt: [einschlägige ISCO-08-Gruppe nach Nr. 1 oder Hochschulabschluss innerhalb der letzten drei Jahre vor Antragstellung nach Nr. 2 samt Beleg]. Die Schwelle beträgt 45,3 % (2025: 43.759,80 Euro, 2026: 45.934,20 Euro).
 
 4. Allgemeine Voraussetzungen § 5 AufenthG: Pass Anlage B4,
  Krankenversicherung Anlage B5, Führungszeugnis Anlage B6.
@@ -226,10 +217,12 @@ Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
 
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+Vor Versand nur die einschlägige Variante im Antrag belassen. Das BMI gibt die Mindestgehälter für jedes Kalenderjahr im Bundesanzeiger bekannt (§ 18g Abs. 7 AufenthG). Für die niedrigere Schwelle nach Abs. 1 Satz 2 Nr. 1 ist die tatsächliche Tätigkeit einer der ISCO-08-Gruppen 132, 133, 134, 21, 221, 222, 225, 226, 23 oder 25 zuzuordnen. Für gleichwertige tertiäre Bildungsprogramme die besonderen Voraussetzungen des Abs. 1 Satz 5 prüfen. Der gesonderte IT-Zugang nach Abs. 2 verlangt die Gruppe 133 oder 25, Zustimmung der BA und unter anderem mindestens drei Jahre einschlägige Berufserfahrung innerhalb der letzten sieben Jahre auf vergleichbarem Niveau. Amtliche Grundlagen für Qualifikation, Zustimmung und Jahr der Gehaltsgrenze: [§ 18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html) · [§ 4 SVBezGrV 2025](https://www.gesetze-im-internet.de/svbezgrv_2025/__4.html) · [§ 4 SVBezGrV 2026](https://www.gesetze-im-internet.de/svbezgrv_2026/__4.html).
+
+Vor Versand prüfen:
+1. Sind Tätigkeitsbeschreibung, Vertragslaufzeit und Bruttojahresgehalt belegt?
+2. Welche Qualifikation und welche Gehaltsschwelle tragen den Antrag im maßgeblichen Jahr?
+3. Ist eine Zustimmung der Bundesagentur für Arbeit erforderlich und ist ihr Stand dokumentiert?
 
 ---
 
@@ -252,10 +245,9 @@ Mit freundlichen Grüßen
 | Frist | Grundlage | Inhalt |
 |---|---|---|
 | Vor Ablauf AE | § 81 Abs. 4 AufenthG | Verlängerungsantrag für Fiktionswirkung |
-| Vier Wochen | § 74 Abs. 1 VwGO | Klagefrist gegen Ablehnungsbescheid |
+| Ein Monat | § 74 Abs. 1 und 2 VwGO | Verpflichtungsklage bei ordnungsgemäßer Belehrung. Maßgeblich ist die Zustellung des Widerspruchsbescheids oder, ohne erforderlichen Widerspruchsbescheid, die Bekanntgabe der Ablehnung. |
 | Fünf Jahre | § 9 Abs. 2 AufenthG | Mindestaufenthalt für Niederlassungserlaubnis |
-| Acht Jahre | § 10 Abs. 1 StAG | Regelaufenthalt für Einbürgerung (seit StARModG 2024) |
-| Fünf Jahre | § 10 Abs. 1 StAG | Einbürgerung bei besonderen Integrationsleistungen |
+| Fünf Jahre | § 10 Abs. 1 StAG | Rechtmäßiger gewöhnlicher Aufenthalt für die reguläre Anspruchseinbürgerung. Die weiteren gesetzlichen Voraussetzungen gesondert prüfen. |
 | 60 Monate | § 9 Abs. 2 Nr. 3 AufenthG | Rentenversicherungsbeiträge für Niederlassungserlaubnis |
 
 ---
@@ -268,7 +260,7 @@ Mit freundlichen Grüßen
 | "Ausweisungsinteresse § 54 vorhanden" | Abwägung § 53 Abs. 1 AufenthG; Bleibeinteressen § 55 qualifiziert prüfen |
 | "Hochschulabschluss nicht anerkannt" | KMK-Bescheid beantragen; anabin-Datenbank; ENIC-NARIC-Netzwerk |
 | "§ 11 Einreise-/Aufenthaltsverbot" | Befristungsantrag nach § 11 Abs. 4 AufenthG; humanitäre Ausnahme |
-| "§ 25b — Lebensunterhalt nicht eigenständig" | § 25b Abs. 1 Nr. 3 AufenthG: Stufenmodell; Ausnahme bei unverschuldeter Hilfsbedürftigkeit |
+| "§ 25b — Lebensunterhalt nicht eigenständig" | § 25b Abs. 1 Satz 2 Nr. 3, Satz 3 und Abs. 3 AufenthG: Erwerbseinkommen, Prognose und ausdrücklich geregelte Ausnahmen prüfen |
 
 ---
 
@@ -302,17 +294,17 @@ Mit freundlichen Grüßen
 
 ## Einbürgerungsperspektive (StARModG 2024)
 
-Das Staatsangehörigkeitsreformgesetz (StARModG) vom 27.06.2024 hat die Einbürgerungsvoraussetzungen erheblich geändert:
+Das Gesetz zur Modernisierung des Staatsangehörigkeitsrechts vom 22. März 2024 änderte zum 27. Juni 2024 die Voraussetzungen der Anspruchseinbürgerung.
 
-| Merkmal | Alte Regelung | Neue Regelung (ab 27.06.2024) |
+| Merkmal | Bis 26.06.2024 | Heutiger Stand |
 |---|---|---|
 | Regelaufenthalt | 8 Jahre | 5 Jahre (§ 10 Abs. 1 StAG) |
-| Besondere Integration | 6 Jahre | 3 Jahre (§ 10 Abs. 3 StAG) |
-| Doppelte Staatsangehörigkeit | Grundsätzlich nicht | Zulässig (§ 10 Abs. 6 StAG) |
+| Besondere Integrationsleistungen | Verkürzung auf 6 Jahre möglich | Die zwischenzeitliche Verkürzung auf bis zu drei Jahre entfiel am 30.10.2025. |
+| Doppelte Staatsangehörigkeit | Grundsätzlich nicht | Die frühere Voraussetzung der Aufgabe der bisherigen Staatsangehörigkeit ist entfallen (§ 10 Abs. 1 Satz 1 Nr. 4 a. F.). |
 | Sprachnachweis | B1 | B1 (unverändert) |
 | Lebensunterhalt eigenständig | Ja | Ja (§ 10 Abs. 1 Satz 1 Nr. 3 StAG) |
 
-Hinweis: Die frühere Verkürzung auf drei Jahre bei besonderen Integrationsleistungen wurde durch das Sechste Gesetz zur Änderung des StAG (30.10.2025) ohne Übergangsregelung gestrichen — auf alle nach diesem Datum noch nicht beschiedenen Anträge findet die neue Rechtslage Anwendung.
+Rechtsstand: Das Gesetz zur Änderung des Staatsangehörigkeitsgesetzes sowie weiterer Vorschriften vom 27. Oktober 2025 hob § 10 Abs. 3 StAG mit Wirkung vom 30. Oktober 2025 auf. [§ 10 StAG](https://www.gesetze-im-internet.de/stag/__10.html) · [BGBl. 2025 I Nr. 256](https://www.recht.bund.de/bgbl/1/2025/256/regelungstext.pdf?__blob=publicationFile) · [BGBl. 2024 I Nr. 104](https://www.recht.bund.de/bgbl/1/2024/104/regelungstext.pdf?__blob=publicationFile)
 
 ---
 

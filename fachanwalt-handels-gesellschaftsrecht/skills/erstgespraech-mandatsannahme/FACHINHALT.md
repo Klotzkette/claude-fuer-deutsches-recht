@@ -174,7 +174,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ### Normenkette Erstgespräch HGR
 
-§ 246 AktG (Monatsfrist Anfechtungsklage AG) → § 47 GmbHG (analoge Anfechtungsfrist GmbH) → § 15 GmbHG (Anteilsabtretung notariell) → §§ 43a, 45 BRAO (Interessenkonflikt bei GmbH-Gesellschaft + GF) → §§ 3, 3a RVG (Honorarvereinbarung) → §§ 10, 11 GwG (GwG-Pflichten bei GmbH/AG-Mandaten) → § 15a InsO (Insolvenzantragspflicht — im Erstgespräch auf Krisensignale prüfen)
+§ 246 AktG (Monatsfrist Anfechtungsklage AG) → GmbH-Satzung (Frist und Fristbeginn), sonst Monatsleitbild des § 246 Abs. 1 AktG → § 15 GmbHG (Anteilsabtretung notariell) → §§ 43a, 45 BRAO (Interessenkonflikt bei GmbH-Gesellschaft + GF) → §§ 3, 3a RVG (Honorarvereinbarung) → §§ 10, 11 GwG (GwG-Pflichten bei GmbH/AG-Mandaten) → § 15a InsO (Insolvenzantragspflicht — im Erstgespräch auf Krisensignale prüfen)
 
 ### Quellenregel
 

@@ -31,7 +31,7 @@ description: "Für Aufenthaltstitel-Antrag: erstellt Entwurf mit Antrag, Beweis 
 | § 11 AufenthG | Einreise- und Aufenthaltsverbot |
 | § 16b AufenthG | AE zum Zweck des Studiums |
 | § 18a AufenthG | AE zur Beschäftigung — qualifizierte Berufsausübung |
-| § 18b AufenthG | Blaue Karte EU (Hochschulabschluss + Mindestgehalt) |
+| § 18g AufenthG | Blaue Karte EU. Qualifikation, konkretes Arbeitsplatzangebot und geltende Gehaltsschwelle prüfen. |
 | § 18d AufenthG | AE zur Forschung |
 | § 21 AufenthG | AE zur Ausübung einer selbständigen Tätigkeit |
 | §§ 27–36 AufenthG | Familiennachzug zu Ausländern und zu Deutschen |
@@ -67,7 +67,7 @@ description: "Für Aufenthaltstitel-Antrag: erstellt Entwurf mit Antrag, Beweis 
 | 11 | Einreise- und Aufenthaltsverbot § 11 AufenthG vorhanden? | § 11 AufenthG |
 | 12 | Unterlagen zusammenstellen (Belegliste nach Zweck) | § 82 AufenthG |
 | 13 | Antrag bei zuständiger Ausländerbehörde stellen; Fiktionsbescheinigung anfordern | § 81 Abs. 5 AufenthG |
-| 14 | Bei Ablehnung: Widerspruch/Klage VG innerhalb von vier Wochen § 74 VwGO | § 74 VwGO |
+| 14 | Bei Ablehnung prüfen, ob ein Vorverfahren erforderlich ist. Bei ordnungsgemäßer Belehrung grundsätzlich ein Monat für Widerspruch oder Klage. | §§ 58, 68, 70, 74 VwGO |
 
 ---
 
@@ -184,13 +184,13 @@ Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
 
-### Baustein 3 — Antrag auf Blaue Karte EU § 18b Abs. 2 AufenthG
+### Baustein 3 — Antrag auf Blaue Karte EU nach § 18g AufenthG
 
 ```
 An die Ausländerbehörde [Ort]
 
 Betreff: Antrag auf Erteilung der Blauen Karte EU
-         gem. § 18b Abs. 2 AufenthG für [Name, Geburtsdatum]
+         gem. § 18g AufenthG für [Name, Geburtsdatum]
 
 Sehr geehrte Damen und Herren,
 
@@ -203,13 +203,11 @@ Voraussetzungen sind erfüllt:
    (Anlage B1: Zeugnis mit beglaubigter Übersetzung; Anlage B2:
    Anerkennungsbescheid der [KMK / anabin-Datenbank-Nachweis]).
 
-2. Konkretes Beschäftigungsangebot: Arbeitsvertrag mit [Arbeitgeber]
-   (Anlage B3). Bruttojahresgehalt EUR [Betrag] übersteigt den
-   Mindestgehaltsschwellenwert von EUR 45300 (2025 — aktuellen
-   Wert prüfen) gemäß § 18b Abs. 2 Satz 1 Nr. 2 AufenthG.
+2. Beschäftigung: [Tätigkeit, Arbeitgeber, Beginn und Laufzeit von mindestens sechs Monaten, Anlage B3]. Das vereinbarte Bruttojahresgehalt beträgt [Betrag] Euro. Die Beschäftigung entspricht der nachgewiesenen Qualifikation.
 
-3. Keine Zustimmungspflicht: Blaue Karte EU ist nach § 2 Abs. 1
-   Nr. 2 BeschV zustimmungsfrei.
+3. Gehalt und Zustimmung: [Variante und maßgebliches Kalenderjahr einsetzen]. Für die Regelschwelle nach § 18g Abs. 1 Satz 1 AufenthG gelten 50 % der jährlichen Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung (2025: 48.300 Euro, 2026: 50.700 Euro). Die Erteilung erfolgt ohne Zustimmung der Bundesagentur für Arbeit.
+
+Für den Antrag mit abgesenkter Schwelle und Zustimmung der Bundesagentur für Arbeit nach § 18g Abs. 1 Satz 2 AufenthG gilt: [einschlägige ISCO-08-Gruppe nach Nr. 1 oder Hochschulabschluss innerhalb der letzten drei Jahre vor Antragstellung nach Nr. 2 samt Beleg]. Die Schwelle beträgt 45,3 % (2025: 43.759,80 Euro, 2026: 45.934,20 Euro).
 
 4. Allgemeine Voraussetzungen § 5 AufenthG: erfüllt (s. Anlagen
    B4–B6: Pass, Krankenversicherung, Führungszeugnis).
@@ -219,6 +217,8 @@ Wir bitten um Ausstellung der Blauen Karte EU.
 Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
+
+Vor Versand nur die einschlägige Variante im Antrag belassen. Das BMI gibt die Mindestgehälter für jedes Kalenderjahr im Bundesanzeiger bekannt (§ 18g Abs. 7 AufenthG). Für die niedrigere Schwelle nach Abs. 1 Satz 2 Nr. 1 ist die tatsächliche Tätigkeit einer der ISCO-08-Gruppen 132, 133, 134, 21, 221, 222, 225, 226, 23 oder 25 zuzuordnen. Für gleichwertige tertiäre Bildungsprogramme die besonderen Voraussetzungen des Abs. 1 Satz 5 prüfen. Der gesonderte IT-Zugang nach Abs. 2 verlangt die Gruppe 133 oder 25, Zustimmung der BA und unter anderem mindestens drei Jahre einschlägige Berufserfahrung innerhalb der letzten sieben Jahre auf vergleichbarem Niveau. Amtliche Grundlagen für Qualifikation, Zustimmung und Jahr der Gehaltsgrenze: [§ 18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html) · [§ 4 SVBezGrV 2025](https://www.gesetze-im-internet.de/svbezgrv_2025/__4.html) · [§ 4 SVBezGrV 2026](https://www.gesetze-im-internet.de/svbezgrv_2026/__4.html).
 
 --- vor Versand klaeren ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
@@ -245,7 +245,7 @@ Mit freundlichen Grüßen
 | Frist | Grundlage | Inhalt |
 |---|---|---|
 | Vor Ablauf AE | § 81 Abs. 4 AufenthG | Verlängerungsantrag für Fiktionswirkung |
-| Vier Wochen | § 74 Abs. 1 VwGO | Klagefrist gegen Ablehnungsbescheid ab Zustellung |
+| Ein Monat | § 74 Abs. 1 Satz 2, Abs. 2 VwGO | Verpflichtungsklage ab Bekanntgabe der Ablehnung, wenn kein Widerspruchsbescheid erforderlich ist und die Belehrung ordnungsgemäß war. |
 | Ein Monat | § 74 Abs. 1 VwGO (nach Widerspruch) | Klagefrist nach Widerspruchsbescheid |
 | Fünf Jahre | § 9 Abs. 2 AufenthG | Mindestaufenthalt für Niederlassungserlaubnis |
 | 60 Monate | § 9 Abs. 2 Nr. 3 AufenthG | Rentenversicherungsbeiträge für NE |

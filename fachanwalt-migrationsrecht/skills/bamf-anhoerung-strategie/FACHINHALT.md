@@ -122,8 +122,8 @@ Stand: 05/2026. AsylG, AufenthG. GEAS-Reform ab 12.6.2026 wirksam.
 - **§ 24 VwVfG** — Amtsermittlungsgrundsatz; § 28 VwVfG — rechtliches Gehoer
 - **Art. 4 Qualifikations-RL 2011/95** — Prüfung von Tatsachen und Umstaenden; Glaubwuerdigkeitspruefung
 - **Art. 15 Verfahrens-RL 2013/32** — Garantien für Antragsteller; Recht auf Anhörungsprotokoll
-- **§ 36 AsylG** — beschleunigtes Verfahren mit 1-Wochen-Klagefrist
-- **§ 74 Abs. 1 AsylG** — Klagefrist zwei Wochen (Standardbescheid), eine Woche (§ 36 AsylG)
+- **Eilrechtsschutz.** Für den Eilantrag Beginn und Ende gesondert erfassen: bei der Abschiebungsanordnung nach § 34a Abs. 3 Satz 1 und bei der Abschiebungsandrohung im Anwendungsbereich des § 36 Abs. 2 Satz 1 AsylG grundsätzlich eine Woche ab Bekanntgabe. [§ 36 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__36.html), [§ 34a AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__34a.html).
+- **Klagefrist.** Bei der Schutzprüfung entscheidet das Einreichungsdatum des Antrags: vor dem 12. Juni 2026 gilt das bisherige Verfahrensrecht fort, ab dem 12. Juni 2026 das neue Recht. Bei Entzug ist der Beginn der Überprüfung maßgeblich. [§ 87e AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__87e.html) und [Art. 79 Abs. 3 VO (EU) 2024/1348](https://eur-lex.europa.eu/eli/reg/2024/1348/oj/deu). Im neuen Recht beträgt die Klagefrist grundsätzlich zwei Wochen ab Zustellung. Eine Woche gilt nach § 74 Abs. 1 Satz 2 AsylG im Fall des § 34a Abs. 3 Satz 1 sowie nach Satz 3 in den Fällen des Art. 67 Abs. 7 Buchst. a VO (EU) 2024/1348. Bei der zweiten Fallgruppe sind auch die dort genannten Umstände nach Art. 42 Abs. 1 oder 3 im Zeitpunkt der Entscheidung zu prüfen. Bei fehlender oder unrichtiger Rechtsbehelfsbelehrung § 74 Abs. 1 Satz 4 AsylG und § 58 Abs. 2 VwGO prüfen (grundsätzlich drei Monate). [§ 74 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__74.html).
 
 ## Triage vor Anhörungsvorbereitung
 
@@ -132,7 +132,7 @@ Bevor losgelegt wird, klaere:
 2. Bestehen Traumatisierungen, Behinderungen oder sprachliche Barrieren, die Sonderregelungen auslösen?
 3. Liegt das Anhörungsprotokoll der Erstanhoerung vor — Konsistenz prüfen?
 4. Welche Sprache des Dolmetschers ist am naechsten zur Muttersprache des Mandanten?
-5. Frist: § 36 AsylG (1 Woche) oder § 74 AsylG (2 Wochen) nach zu erwartendem Bescheid?
+5. Wann ist welcher Bescheid zugestellt worden? Bei einem nur erwarteten Bescheid zunächst Eingang und Erreichbarkeit sichern. Klage- und Eilantragsfrist erst anhand des Tenors und der Belehrung berechnen.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)

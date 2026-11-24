@@ -9,7 +9,7 @@ description: "Für Kapitalerhöhung und Bezugsrecht: ordnet Norm, Beweislast und
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -209,7 +209,7 @@ Bei späterer Erhöhung zu niedrigerem Preis als Erstausgabe:
 |---|---|
 | 1 | GV-Einladung mit Beschluss-Vorlage (Frist 1 Woche+) |
 | 2 | GV mit Beschluss (Notar bei Satzungsaenderung) |
-| 3 | Einzahlung Bareinlage (mind. 12.500 EUR vor Anmeldung) |
+| 3 | Vor Anmeldung je neuem Baranteil mindestens ein Viertel des Nennbetrags einzahlen. Vereinbarte Sacheinlagen vollständig zur freien Verfügung der Geschäftsführer bewirken (Paragraf 56a in Verbindung mit Paragraf 7 Abs. 2 Satz 1 und Abs. 3 GmbHG). |
 | 4 | Anmeldung HR durch Notar |
 | 5 | Eintragung HR |
 | 6 | Aktualisierte Gesellschafterliste |
@@ -232,7 +232,7 @@ Klaere vor Bearbeitung einer Kapitalerhoehung:
 3. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 4. **75%-Mehrheit gesichert?** Stimmverbot Paragraf 47 IV GmbHG prüfen; Golden-Share-Veto prüfen.
 5. **Anti-Dilution-Klauseln in SHA?** Bestehende Investoren-Schutzrechte können durch neue Runde ausgeloest werden.
-6. **Stamm- oder Nennkapital nach Erhoehung?** Handelsregister-Eintragung erst nach vollstaendiger Einzahlung möglich.
+6. **Welche Leistungen sind auf das neue Stammkapital vor der Anmeldung zu bewirken?** Paragraf 56a GmbHG verweist auf Paragraf 7 Abs. 2 Satz 1 und Abs. 3. Die 12.500-EUR-Gesamtschwelle der Gründung gilt für die Kapitalerhöhung einer GmbH nicht. Vereinbarte weitergehende Einzahlungsbedingungen und die Versicherung nach Paragraf 57 Abs. 2 GmbHG prüfen.
 
 ## Aktuelle Rechtsprechung
 

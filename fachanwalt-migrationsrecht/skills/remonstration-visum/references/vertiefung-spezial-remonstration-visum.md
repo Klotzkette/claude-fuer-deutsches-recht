@@ -1,11 +1,13 @@
 ## Remonstration/Visumklage
 
-Auswahlsignal: Wenn es um Remonstration/Visumklage in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten.
+Auswahlsignal: Nach einer Visumablehnung sind Klagefrist, gerichtlicher Antrag und die Erfolgsaussicht eines neuen Visumantrags zu klären. Der Begriff Remonstration betrifft die Übergangsprüfung bei älteren Bescheiden.
 
 ### Remonstration/Visumklage
 
 #### Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Begründung, Frist, Akteneinsicht, Botschaft, VG Berlin.
+Gleichen Sie die Gründe des Bescheids mit dem Antrag, den bereits vorgelegten Belegen und den nun verfügbaren Nachweisen ab. Bei einer Ablehnung ab dem 1. Juli 2025 gibt es weltweit keine Remonstration mehr. Wer das Visum gerichtlich erstreiten will, prüft eine Verpflichtungsklage, regelmäßig beim Verwaltungsgericht Berlin. Auf dem Fristenblatt stehen Bekanntgabe, Wortlaut der Belehrung, Gericht und Ende der Klagefrist. Bei ordnungsgemäßer Belehrung gilt regelmäßig ein Monat ab Bekanntgabe. Bei einer fehlenden oder unrichtigen Belehrung prüfen Sie § 58 Abs. 2 VwGO. Ein neuer vollständiger Visumantrag, etwa mit besseren Nachweisen, ist jederzeit möglich und lässt die Klagefrist aus dem Altbescheid weiterlaufen. [Auswärtiges Amt zur Abschaffung des Remonstrationsverfahrens](https://www.auswaertiges-amt.de/de/newsroom/2724844-2724844) · [§ 74 VwGO](https://www.gesetze-im-internet.de/vwgo/__74.html) · [§ 58 VwGO](https://www.gesetze-im-internet.de/vwgo/__58.html)
+
+Bei einem vor dem 1. Juli 2025 ausgestellten Bescheid sichern Sie die damalige Belehrung, das Datum der Bekanntgabe und gegebenenfalls den Zugangsnachweis der Remonstration bei der zuständigen Auslandsvertretung. Klären Sie, ob das Altverfahren noch bearbeitet wird oder ein eigener Remonstrationsbescheid mit neuer Belehrung vorliegt. [Auswärtiges Amt zum Übergang bei älteren Bescheiden](https://rabat.diplo.de/ma-de/service/visa/2798822-2798822)
 
 #### Kaltstart
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?

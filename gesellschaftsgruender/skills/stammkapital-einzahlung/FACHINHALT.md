@@ -9,7 +9,7 @@ description: "Für Stammkapital-Einzahlung: ordnet Norm, Beweislast und Gegenarg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -25,8 +25,8 @@ description: "Für Stammkapital-Einzahlung: ordnet Norm, Beweislast und Gegenarg
 ### GmbH (Bargründung)
 
 - **Stammkapital**: 25.000 EUR (Paragraf 5 I GmbHG)
-- **Mindesteinzahlung vor Anmeldung**: 12.500 EUR (Paragraf 7 II 2 GmbHG)
-- **Pro Anteil mindestens 25 %** und insgesamt mindestens 12.500 EUR
+- **Gesamtschwelle vor der Anmeldung:** Eingezahlte Geldbeträge und die Nennbeträge der Geschäftsanteile mit vereinbarter Sacheinlage müssen zusammen mindestens 12.500 EUR erreichen (Paragraf 7 Abs. 2 Satz 2 GmbHG).
+- **Je bar zu leistendem Geschäftsanteil** ist außerdem mindestens ein Viertel des Nennbetrags einzuzahlen (Paragraf 7 Abs. 2 Satz 1 GmbHG). Vereinbarte Sacheinlagen sind vollständig zur endgültigen freien Verfügung der Geschäftsführer zu bewirken (Abs. 3).
 - Restliche Bareinlage **bei Aufforderung** des Geschäftsführers oder spaetestens bei Beendigung der Gesellschaft
 
 ### UG (Bargründung)
@@ -88,7 +88,7 @@ description: "Für Stammkapital-Einzahlung: ordnet Norm, Beweislast und Gegenarg
 
 - **Quelle**: Privat-Konto der Gesellschafter
 - **Verwendungszweck**: "Stammkapital-Einzahlung [Gesellschaftername i.G.]"
-- **Höhe**: mindestens Pflicht-Höhe (GmbH 12.500 EUR; UG 100 % des Stammkapitals)
+- **Höhe:** Barleistung je Anteil und Gesamtschwelle nach Paragraf 7 Abs. 2 GmbHG berechnen. Bei der UG ist das gesamte Stammkapital vor Anmeldung in Geld einzuzahlen.
 
 ### Schritt 3: Bank-Bestätigung
 
@@ -206,7 +206,7 @@ Die Einlage muss **endgültig** und **uneingeschraenkt** beim GF zur freien Verf
 
 Klaere vor Anmeldung beim HR:
 
-1. **GmbH oder UG?** GmbH: mind. 12.500 EUR einzuzahlen vor Anmeldung; UG: Stammkapital vollstaendig.
+1. **GmbH oder UG?** Für die GmbH Viertelbetrag je Baranteil und Gesamtschwelle unter Anrechnung der Nennbeträge aller Sachanteile separat prüfen. Für die UG vollständige Bareinzahlung belegen.
 2. **Bar- oder Sachgruendung?** Bar: Konto-Bestätigung; Sach: Werthaltigkeitsnachweis und Sachgruendungsbericht.
 3. Rückleistungsrisiko: Geplanten Sachkauf nach Paragraf 19 Absatz 4 von sonstiger vereinbarter Rückzahlung nach Absatz 5 GmbHG unterscheiden.
 4. **Vorratsgesellschaft?** Wird eine bestehende GmbH neu aktiviert? Dann neue Einzahlung erforderlich.
@@ -228,7 +228,7 @@ STAMMKAPITAL-EINZAHLUNGS-PROTOKOLL
 Gesellschaft: [FIRMA i.G.] | Datum: [DATUM]
 
 STAMMKAPITAL: [BETRAG] EUR
-MINDESTEINZAHLUNG (GmbH: je Baranteil mindestens 25 Prozent, insgesamt mindestens 12.500 EUR; UG: vollständig): [BETRAG] EUR
+MINDESTEINZAHLUNG: Viertel je Baranteil [EUR], Summe gezahltes Geld + Nennbeträge der Sachanteile [EUR, mindestens 12.500 EUR], Sachleistungen erbracht [BELEG]. Bei UG gesamtes Stammkapital in Geld [EUR, BELEG].
 EINGEZAHLT AM: [DATUM]
 KONTONUMMER: [IBAN]
 BANK: [NAME]

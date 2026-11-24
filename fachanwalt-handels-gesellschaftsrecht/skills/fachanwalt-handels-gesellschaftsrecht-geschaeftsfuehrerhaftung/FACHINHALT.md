@@ -109,7 +109,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 |---|---|
 | Standard — GF-Haftung pruefen und Klage vorbereiten | Pruefschema; Schriftsatzbausteine unten |
 | Variante A — Innenhaftung GmbH gegen GF | Klage-Baustein Innenhaftung unten; Entlastungsbeschluss pruefen |
-| Variante B — Aussenhaeftung Glaeubiger gegen GF | § 64 GmbHG analog; unmittelbare Klage des Glaeeubigers |
+| Variante B — Gläubiger verlangt Ersatz vom Geschäftsführer | Anspruchsgrundlage und eigenen Schaden prüfen, etwa Paragraf 823 Abs. 2 BGB in Verbindung mit Paragraf 15a InsO. Erstattung verbotener Zahlungen nach Paragraf 15b Abs. 4 InsO steht der Gesellschaft zu. Im eröffneten Regelverfahren macht der Insolvenzverwalter den Anspruch für die Masse geltend. Für Zahlungen vor dem 1. Januar 2021 gilt das frühere Recht (Paragraf 64 GmbHG a.F., Art. 103m EGInsO). Bei einem Gesamtschaden der Insolvenzgläubiger Paragraf 92 InsO beachten. |
 | Variante C — Steuerhaftung § 69 AO | Finanzbehorde parallel; privatrechtliche Klage koordinieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
