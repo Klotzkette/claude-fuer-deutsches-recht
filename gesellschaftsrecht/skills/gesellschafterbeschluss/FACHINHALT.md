@@ -34,7 +34,7 @@ Vor der Bearbeitung folgende Fragen klären:
 3. **Ziel des Mandats:** Beschlussvorbereitung, Wirksamkeitsprüfung eines gefassten Beschlusses oder Anfechtungsklage?
 4. **Stimmrechte und Quorum:** Liegt der Gesellschaftsvertrag vor? Sonderregeln zu Mehrheiten?
 5. **Stimmverbote:** Paragraf 47 Abs. 4 GmbHG oder Paragraf 136 AktG einschlägig?
-6. **Anfechtungsfrist:** Wann wurde der Beschluss gefasst? (1-Monat-Frist analog Paragraf 246 Abs. 1 AktG läuft!)
+6. **Anfechtungsfrist:** Wann wurde der Beschluss gefasst? (AG: 1 Monat, Paragraf 246 Abs. 1 AktG; GmbH: Satzungsfrist, sonst grundsätzlich 1 Monat nach dem Leitbild des Paragraf 246 Abs. 1 AktG – Frist läuft!)
 
 ## Zentrale Normen
 
@@ -55,10 +55,10 @@ Paragraf 46 GmbHG (Zuständigkeitskatalog GV) — Paragraf 47 GmbHG (Abstimmung;
 | 4 | Stimmrechtsausschluss | Paragraf 47 Abs. 4 GmbHG: Entlastung, Befreiung von Verbindlichkeit, Rechtsverfolgung; Paragraf 136 AktG analog | Stimmen stimmbefangener Gesellschafter nicht zählen |
 | 5 | Mehrheit berechnen | Einfache Mehrheit (Paragraf 47 Abs. 1 GmbHG; Paragraf 133 Abs. 1 AktG); qualifizierte 3/4-Mehrheit bei Satzungsänderung (Paragraf 53 Abs. 2 GmbHG; Paragraf 179 Abs. 2 AktG) | Mehrheit erreicht? |
 | 6 | Protokollierung | GmbH: Protokoll mit Abstimmungsergebnis; Satzungsänderung notariell beurkunden (Paragraf 53 Abs. 2); AG: Paragraf 130 AktG notarielle Beurkundung | Formfehler → Paragraf 241 Nr. 2 AktG Nichtigkeit |
-| 7 | Anfechtbarkeit | Kausalität des Mangels für Beschlussergebnis (Relevanztheorie Quellenprüfung Paragraf 243 Rn. 8)? | Anfechtbar aber nicht nichtig |
+| 7 | Anfechtbarkeit | Kausalität des Mangels für Beschlussergebnis (Relevanz des Mangels, Paragraf 243 AktG analog)? | Anfechtbar aber nicht nichtig |
 | 8 | Nichtigkeit | Paragraf 241 AktG analog: fehlende Form, Sittenwidrigkeit, zwingende Gesetzesvorschriften verletzt | Nichtig von Anfang an; jedermann kann einwenden |
-| 9 | Anfechtungsklage | Frist: 1 Monat ab Beschlussfassung analog Paragraf 246 Abs. 1 AktG; Klage gegen Gesellschaft; LG am Sitz | Fristnotiz anlegen! |
-| 10 | Heilung | Paragraf 242 AktG (Einberufungsmängel nach 3 Jahren); nicht bei Paragraf 241 Nr. 3 und 5 AktG | Heilung möglich → Abwarten sinnvoll? |
+| 9 | Anfechtungsklage | Frist: AG 1 Monat ab Beschlussfassung (Paragraf 246 Abs. 1 AktG); GmbH Satzungsfrist, sonst grundsätzlich 1 Monat nach dem Leitbild des Paragraf 246 Abs. 1 AktG, länger nur bei zwingenden Hinderungsgründen; Klage gegen Gesellschaft; LG am Sitz | Fristnotiz anlegen! |
+| 10 | Heilung | Paragraf 242 AktG analog, nur nach Eintragung im Handelsregister: Beurkundungsmangel (Paragraf 241 Nr. 2 AktG) mit Eintragung, Paragraf 241 Nr. 1, 3 und 4 AktG nach 3 Jahren; nicht bei Paragraf 241 Nr. 5 AktG | Heilung möglich → Abwarten sinnvoll? |
 
 ## Schritt-für-Schritt-Workflow
 

@@ -37,7 +37,7 @@ Vor Beginn des Haftungsprüfrasters folgende Fragen klären:
 1. **Mandantenrolle:** Auf welcher Seite steht der Mandant — GF als Beklagter oder Gesellschaft/Insolvenzverwalter als Kläger?
 2. **Konkrete Pflichtverletzung:** Welche Handlung oder Unterlassung wird vorgeworfen?
 3. **Schaden bezifferbar:** Liegt ein konkreter bezifferter Schaden vor oder nur Schadensverdacht?
-4. **Verjährung:** Wann ist die Pflichtverletzung eingetreten? (5 Jahre, Paragraf 43 Abs. 4 GmbHG)
+4. **Verjährung:** Wann ist der Schaden dem Grunde nach entstanden? (5 Jahre ab Entstehung des Anspruchs, Paragraf 43 Abs. 4 GmbHG, Paragraf 200 BGB; kenntnisunabhängig)
 5. **D&O-Deckung:** Besteht eine D&O-Versicherung? Wurden vorvertragliche Anzeigepflichten erfüllt?
 6. **Entlastungsbeschluss:** Wurde der GF entlastet (Paragraf 46 Nr. 5 GmbHG)? Sperrwirkung prüfen.
 7. **Insolvenz:** Ist die Gesellschaft insolvent oder war sie es bei der Pflichtverletzung?
@@ -64,7 +64,7 @@ Paragraf 43 GmbHG (Haftung des Geschäftsführers) — Paragraf 43 Absatz 4 GmbH
 | 8 | Steuerrecht Paragraf 69 AO | Steuern vorsätzlich oder grob fahrlässig nicht abgeführt? | Persönliche Haftung des GF |
 | 9 | Sozialversicherung Paragraf 266a StGB | Arbeitnehmeranteile nicht abgeführt? | Strafbarkeit + Zivilhaftung |
 | 10 | Entlastung Paragraf 46 Nr. 5 GmbHG | Entlastungsbeschluss gefasst? Sperrwirkung prüfen (nur bekannte Sachverhalte) | Klage gesperrt soweit Sperrwirkung reicht |
-| 11 | Verjährung Paragraf 43 Abs. 4 GmbHG | 5 Jahre ab Pflichtverletzung; Hemmung nach BGB | Verjährt oder Fristnotiz anlegen |
+| 11 | Verjährung Paragraf 43 Abs. 4 GmbHG | 5 Jahre ab Entstehung des Anspruchs (Schadenseintritt dem Grunde nach, Paragraf 200 BGB), kenntnisunabhängig; Hemmung nach BGB | Verjährt oder Fristnotiz anlegen |
 | 12 | D&O-Versicherung | Deckungsumfang; Selbstbehalt; Vorsatz ausgeschlossen; Deckungsablehnung wegen grober Fahrlässigkeit | Deckungszusage oder -ablehnung prüfen |
 
 ## Schritt-für-Schritt-Workflow
@@ -76,7 +76,7 @@ Paragraf 43 GmbHG (Haftung des Geschäftsführers) — Paragraf 43 Absatz 4 GmbH
 5. **Schaden beziffern:** Konkreter Schaden vs. hypothetisch rechtmäßiges Alternativverhalten.
 6. **Insolvenzrisiko screenen:** Paragraf 15a InsO-Zeitpunkt bestimmen; Zahlungen nach Insolvenzreife inventarisieren.
 7. **Entlastung prüfen:** Beschlusstext und Aktenlage zum Zeitpunkt des Beschlusses analysieren.
-8. **Verjährung berechnen:** 5-Jahres-Frist ab konkreter Pflichtverletzung; Hemmungstatbestände prüfen.
+8. **Verjährung berechnen:** 5-Jahres-Frist ab Schadenseintritt dem Grunde nach; Hemmungstatbestände prüfen.
 9. **D&O anzeigen:** Unverzügliche Anzeige bei Versicherer; Obliegenheitspflichten beachten.
 10. **Strategie festlegen:** Verteidigung (BJR + Entlastung + Verjährung) oder Aktivseite (Pflichtverletzung + Schaden + Kausalität).
 
@@ -123,7 +123,7 @@ Bearbeitungsstand: [DATUM]
 ## Empfehlung
 [Aktivseite: Klagefähigkeit bewerten | Verteidigung: Risikobewertung + Strategie]
 
-Fristnotiz: Verjährung läuft ab [DATUM DER PFLICHTVERLETZUNG] + 5 Jahre = [DATUM]
+Fristnotiz: Verjährung läuft ab [DATUM DES SCHADENSEINTRITTS DEM GRUNDE NACH] + 5 Jahre = [DATUM]
 ```
 
 ## Rote Schwellen

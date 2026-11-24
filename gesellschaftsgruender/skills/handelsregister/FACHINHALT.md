@@ -59,7 +59,7 @@ description: "Für Handelsregister-Anmeldung: ordnet Norm, Beweislast und Gegena
 
 Jeder GF muss folgendes versichern:
 
-1. Stammkapital vollständig eingezahlt und dem GF frei verfügbar.
+1. Leistungen nach Paragraf 7 Abs. 2 und 3 GmbHG bewirkt und endgültig in der freien Verfügung der GF.
 2. Kein GF ist vorbestraft wegen Insolvenzverschleppung, Betrug, Untreue oder anderer GmbHG-relevanter Tatbestände in den letzten 5 Jahren.
 3. Kein gerichtliches oder behördliches Berufsverbot für GF-Tätigkeiten.
 4. Keine Insolvenz- oder Verwertungsverfahren gegen GF persönlich.

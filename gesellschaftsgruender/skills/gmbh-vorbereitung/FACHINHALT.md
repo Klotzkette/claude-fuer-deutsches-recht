@@ -9,7 +9,7 @@ description: "Für GmbH-Vorbereitung: ordnet Norm, Beweislast und Gegenargument;
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, InsO Paragraf 15b (statt Paragraf 64 GmbHG a.F.), BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -51,7 +51,7 @@ Firma -> Sitz -> Gegenstand -> Stammkapital -> Gesellschafter -> Geschäftsführ
 |---|---|---|---|
 | 1 Firma | IHK-Vorprüfung, Verwechslungsgefahr (Paragraf 30 HGB), DPMA-Markencheck | Ähnliche Firma im HR-Bezirk → Eintragungsversagung | Firma freigegeben |
 | 2 Sitz | Satzungssitz Inland; ladungsfähige Geschäftsadresse | Briefkasten-Sitz unzulässig; tatsächliche Erreichbarkeit | Sitz bestätigt |
-| 3 Gegenstand | Paragraf 3 Abs. 1 Nr. 2 GmbHG: konkret genug, weit genug | Zu eng: Pivot erfordert Satzungsänderung; zu veit: HR-Beanstandung | Gegenstand formuliert |
+| 3 Gegenstand | Paragraf 3 Abs. 1 Nr. 2 GmbHG: konkret genug, weit genug | Zu eng: Pivot erfordert Satzungsänderung; zu weit: HR-Beanstandung | Gegenstand formuliert |
 | 4 Stammkapital | Bar oder Sach? 25.000 EUR Minimum; Einzahlung 12.500 EUR vor Anmeldung | Sacheinlage: Differenzhaftung Paragraf 9 GmbHG | Kapitalstruktur festgelegt |
 | 5 Gesellschafter | Quoten; Mehrheit; 75-%-Schwelle für Satzungsänderung; Holding-Überlegung | Falsche Quotenplanung vor Investoren-Runde | Gesellschafterstruktur fixiert |
 | 6 Geschäftsführer | Einzel- oder Gesamtvertretung; Paragraf 181 BGB Befreiung; Anstellungsvertrag | GF ohne Anstellungsvertrag = unklares SV-Verhältnis | GF-Parameter festgelegt |
@@ -118,7 +118,7 @@ Anstellungsvertrag: [vorhanden / noch abzuschließen]
 - Sacheinlage ohne Sachgründungsbericht → HR verweigert Eintragung; persönliche Differenzhaftung (Paragraf 9 GmbHG).
 - Firma nicht vorab geprüft → Eintragungsversagung durch Handelsregister; Verzögerung 4-8 Wochen.
 - Musterprotokoll bei geplantem Investoren-Einstieg → spätere Satzungsänderung kostet mehr als initiale individuelle Satzung.
-- Stammkapital nicht vollständig eingezahlt vor Anmeldung → Anmeldevoraussetzung fehlt; persönliche Haftung GF.
+- Mindesteinzahlung nach Paragraf 7 Abs. 2 GmbHG vor Anmeldung nicht erbracht (je Geldeinlage ein Viertel, insgesamt mindestens 12.500 EUR; UG: volle Einzahlung, Paragraf 5a Abs. 2 GmbHG) → Anmeldevoraussetzung fehlt; persönliche Haftung GF bei falscher Versicherung.
 - Genehmigungspflichtiger Gegenstand ohne Genehmigung → Eintragung verzögert oder verweigert.
 
 ## Typische Gründungsfehler
@@ -135,7 +135,6 @@ Anstellungsvertrag: [vorhanden / noch abzuschließen]
 - Paragraf 2, 5, 7, 9, 53 GmbHG (Gründung, Stammkapital, Differenzhaftung, Satzungsänderung)
 - Paragraf 17-18, 30 HGB (Firmenrecht, Verwechslungsgefahr)
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
-- Scholz/Emmerich, GmbHG, Paragraf 5 Rn. 1-50
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Übergabe an andere Skills
