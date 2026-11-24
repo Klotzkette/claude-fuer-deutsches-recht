@@ -1,0 +1,55 @@
+{
+  "slug": "klageerwiderung-lieferant",
+  "titel": "Klageerwiderung des Lieferanten auf Rückgewähr von Rechnungszahlungen",
+  "zweck": "Schriftsatz der Lieferantenseite zur Deckung, zur Liquidität der Schuldnerin und zum Kenntnisstand bei jeder Zahlung.",
+  "abschnitte": [
+    {
+      "titel": "Rubrum und Antrag",
+      "absaetze": [
+        "An das [Gericht], [Anschrift]. In dem Rechtsstreit [klagende Partei in Amtsfunktion] gegen [Lieferunternehmen mit Rechtsform und Vertretung], Az. [Aktenzeichen], zeigen wir die Vertretung der beklagten Partei an.",
+        "Zu der Klage vom [Datum] beantragen wir [ausformulierter Sachantrag mit Umfang, gegebenenfalls Teilbetrag]. Zum Zinsantrag erklären wir [Antrag und Begründung zum geltend gemachten Beginn]."
+      ]
+    },
+    {
+      "titel": "Liefergeschäft und Zuordnung der Zahlungen",
+      "absaetze": [
+        "Die Parteien vereinbarten für [Ware oder Leistung] die Zahlungsbedingungen [Wortlaut, Fälligkeit und etwaige Abreden]. Die klagende Partei ordnet [Buchung] der Rechnung [Bezeichnung] zu. Der Abgleich mit [Kundenkonto, Rechnung, Kontoauszug] ergibt [Übereinstimmung oder konkrete Abweichung]. Für Art und Zeitpunkt der geschuldeten Befriedigung folgt daraus [Begründung je betroffener Position]."
+      ],
+      "spalten": [
+        "Rechnung und Fälligkeit",
+        "Zahlung und Betrag",
+        "Abrede oder Tilgungsbestimmung",
+        "Belegstelle"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Zahlungsfähigkeit an den maßgeblichen Tagen",
+      "absaetze": [
+        "Der Eröffnungsantrag ging am [Datum] ein. Die klagende Partei leitet den behaupteten Eintritt der Zahlungsunfähigkeit aus [Tatsachen und Anlagen] ab. Die bei [Zahlungstag] fälligen Verbindlichkeiten und verfügbaren Mittel ergeben sich nach ihrem Vortrag aus [Status, offene Posten, verfügbare Kreditlinien]. Dazu erklären wir [zugestandene Tatsachen, begründetes Bestreiten oder zulässige Erklärung mit Nichtwissen].",
+        "Für die Zeit nach dem jeweiligen Stichtag sprechen [Fälligkeiten, Zahlungseingänge, Stundungen und deren Dauer] für [Folgerung zur Entwicklung]. Die Aussagekraft der betriebswirtschaftlichen Auswertung für tatsächliche Fälligkeit und verfügbares Geld ist [Einordnung mit Tatsachenbezug]."
+      ]
+    },
+    {
+      "titel": "Was der Lieferant tatsächlich wusste",
+      "absaetze": [
+        "Vor der Zahlung vom [Datum] erreichte [Person und Funktion beim Lieferanten] die Mitteilung [Wortlaut, Absender, Empfang und Empfängerkreis]. Der damalige Kenntnisstand über weitere Gläubiger und die allgemeine Liquidität war [konkrete Tatsachen]. Was erst später aus den Schuldnerunterlagen hervorging, waren [Angaben mit Zeitpunkt].",
+        "Die klagende Partei zieht aus [Mahnung, Rücklastschrift, Ratenbitte, Lieferstopp oder interner Vermerk] den Schluss [behauptete Kenntnis]. Dem stehen [zeitgleich bekannt gewordene Zahlungen, Auftragsnachricht oder andere Tatsachen einschließlich ihrer Belastbarkeit] gegenüber. Für die Kenntnis der Zahlungsunfähigkeit oder zwingend darauf hindeutender Umstände nach § 130 InsO ergibt sich für diese Zahlung [begründete Würdigung]."
+      ],
+      "spalten": [
+        "Zahlungstag",
+        "Kenntnisquelle und Zugang",
+        "Belastender oder entlastender Umstand",
+        "Bedeutung für diese Zahlung"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Beweisantritt und Abschluss",
+      "absaetze": [
+        "Zum Beweis der Tatsache [konkrete Wahrnehmung] benennen wir [Name und ladungsfähige Anschrift] und nehmen auf [Anlage, Seite] Bezug. Zur streitigen Liquiditätsfrage lautet das sachverständig klärbare Beweisthema [Stichtag und fachliche Tatsachenfrage].",
+        "Danach ist über die geltend gemachten Haupt- und Nebenforderungen wie beantragt zu entscheiden. [Ort, Datum, Name und Unterschrift der Prozessvertretung]."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "klage-rueckgewaehr-vollstreckung",
+  "titel": "Klageschrift auf Rückgewähr von Vollstreckungserlösen und Abwendungszahlungen",
+  "zweck": "Klageentwurf der Insolvenzverwaltung. Barzahlung, Kassenpfändung und Überweisung werden als einzeln bezifferte Streitgegenstände oder Anspruchsteile beschrieben.",
+  "abschnitte": [
+    {
+      "titel": "Gericht und Parteien",
+      "absaetze": [
+        "An [Gericht, zuständige Abteilung oder Kammer, Anschrift]",
+        "[Ort und Datum] · Geschäftszeichen: [Zeichen]",
+        "[Name und Anschrift der klagenden Partei in ihrer Eigenschaft als Insolvenzverwalterin oder Insolvenzverwalter über das Vermögen von …], vertreten durch [Prozessbevollmächtigte und Anschrift],",
+        "gegen [Name oder Firma der beklagten Partei, Vertretung und ladungsfähige Anschrift]",
+        "wegen Rückgewähr von Leistungen im Zusammenhang mit der Zwangsvollstreckung. Vorläufiger Streitwert: [Betrag und Herleitung]."
+      ]
+    },
+    {
+      "titel": "Anträge",
+      "absaetze": [
+        "Namens der klagenden Partei wird beantragt, die beklagte Partei zu verurteilen, an die klagende Partei in ihrer Eigenschaft als Insolvenzverwaltung [Gesamtbetrag und Währung] zu zahlen.",
+        "Hierauf werden Zinsen aus [jeweiliger Teilbetrag] in Höhe von [Zinssatz] seit [Datum oder Rechtshängigkeit mit jeweiliger Grundlage] begehrt. Der Zahlungsantrag setzt sich aus den nachfolgend einzeln zugeordneten Beträgen zusammen."
+      ]
+    },
+    {
+      "titel": "Zuständigkeit, Amtsstellung und Titel",
+      "absaetze": [
+        "Die Zuständigkeit des angerufenen Gerichts folgt aus [Tatsachen und Norm]. Die Bestellung ergibt sich aus [Gericht, Beschluss und Anlage]. Titel, Zustellung, Vollstreckungsauftrag und Höhe der titulierten Forderung ergeben sich aus [Urkunden]."
+      ]
+    },
+    {
+      "titel": "Vollstreckungshergang",
+      "absaetze": [
+        "Bei dem Besuch des Vollstreckungsorgans am [Datum] wurde [Wortlaut der Aufforderung, Handlung und Handlungsspielraum] festgestellt. Für die spätere Wegnahme aus der Kasse bezeichnen wir [Pfändungsprotokoll, Gegenstand, Auskehr und Empfänger].",
+        "Der Überweisung gingen [konkret angedrohte Maßnahme, Termin und Mitteilung] voraus. Die beklagte Partei stellt den Ablauf als [Gegenvortrag] dar. Für den tatsächlichen Zahlungsanlass und den verbliebenen Handlungsspielraum sprechen [Beweistatsachen]."
+      ]
+    },
+    {
+      "titel": "Zeitpunkt und Antragseingang",
+      "absaetze": [
+        "Der nach § 139 InsO maßgebliche Antrag ging am [Tag] bei [Gericht] ein. Beginn und Ende der jeweils maßgeblichen Zeiträume errechnen sich wie folgt: [Berechnung]. Die rechtliche Wirkung nach § 140 InsO ist für Sicherung, Befriedigung und Überweisung getrennt zu bestimmen."
+      ],
+      "spalten": [
+        "Vorgang / Betrag",
+        "Wirkung und Zeitpunkt",
+        "Monatsfenster / Norm",
+        "Zufluss / Beweis"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Anfechtbarkeit und Verteidigung",
+      "absaetze": [
+        "Der Zugriff auf das den Gläubigern verfügbare Vermögen bewirkte je Vorgang [Nachteil]. Zur beanspruchbaren Art und Zeit der Befriedigung sowie zum konkreten Vollstreckungsdruck ergibt sich [Einordnung nach § 131 InsO oder tragfähiger alternativer Grundlage].",
+        "Soweit der maßgebliche Tatbestand Zahlungsunfähigkeit oder Kenntnis voraussetzt, tragen wir dazu vor: [stichtagsbezogene Tatsachen, Belege und Zuordnung]. Das Bestreiten der Gegenseite betrifft [Position]. Der Gesamtbetrag ergibt sich nach Abzug von [Teilrückzahlungen oder sonstige Anrechnungen] aus [Rechenweg]."
+      ]
+    },
+    {
+      "titel": "Beweisangebote und Unterzeichnung",
+      "absaetze": [
+        "Zur Behauptung [präzise Beweistatsache] wird Beweis angeboten durch [Urkunde mit Fundstelle / Zeugin oder Zeuge mit ladungsfähiger Anschrift / anderes Beweismittel].",
+        "Zum vorgerichtlichen Schriftwechsel und zu einer gütlichen Beilegung wird erklärt: [Angaben].",
+        "Anlagenverzeichnis: [Anlage, Dokument, Datum und Bezug zum Vortrag].",
+        "[Ort und Datum] · [Name, Berufsbezeichnung und Unterzeichnung]"
+      ]
+    }
+  ]
+}

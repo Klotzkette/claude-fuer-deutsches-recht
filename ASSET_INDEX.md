@@ -14,6 +14,8 @@ Die allgemeinen Sammelpakete v445.35.3 enthalten den geprüften Bestand vom 9. O
 
 Die [drei Übungsakten für Patentanmelder](./patentrecht/Patentanmelder/README.md) führen vom ersten Anspruchsentwurf zu einer prüfbaren Anmeldefassung. Zu jedem Fall stehen Originalunterlagen, Einzel-PDFs und eine Gesamt-PDF bereit.
 
+Die [Arbeitsvorlagen für Insolvenz- und Sanierungsrecht](./fachanwalt-insolvenz-sanierungsrecht/README.md#arbeitsvorlagen) enthalten den leeren Asset-Deal-Vertrag mit acht Anlagen sowie Word- und Excel-Vorlagen für die einzelnen Testakten.
+
 Die drei Rollen-Plugins der [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/README.md) gehören zum Plugin-Sammelpaket. Die sieben gesondert verwalteten Akten und die Projektkopie bleiben über das Komponentenrelease erreichbar. Die Plugin-Einzelzeilen unten behalten ihre ausdrücklich zugeordneten Komponentendownloads.
 
 [Betreuungsrecht](./betreuungsrecht/README.md) enthält den Unterlagen-Auswerter, eine [eigenständige Unterlagen-Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md), eine [Excel-Vorlage](./betreuungsrecht/templates/unterlagen-abrechnung.xlsx) und die Dreijahresakte Adelheid Pfister. Der damalige Pluginstand und die zentrale Akte sind in den Sammelarchiven v445.35.3 enthalten; das aktuelle Einzelpaket ist in der Pluginzeile verlinkt. Die Werkstatt bleibt ein eigenständiger Download.

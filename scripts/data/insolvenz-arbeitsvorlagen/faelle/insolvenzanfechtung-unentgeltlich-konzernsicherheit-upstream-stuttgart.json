@@ -1,0 +1,48 @@
+{
+  "slug": "vermerk-konzernsicherheiten",
+  "titel": "Entscheidungsvermerk zur Freigabe und Verwertung von Konzernsicherheiten",
+  "zweck": "Vermerk der Insolvenzverwaltung über eine Grundschuld und eine Bürgschaft für fremde Verbindlichkeiten. Er dient zur Entscheidung über Freigabeverlangen, Tabellenwiderspruch oder einen Anspruch auf Verwertungserlös.",
+  "abschnitte": [
+    {
+      "titel": "Entscheidungsgegenstand und Stand",
+      "absaetze": [
+        "Verfahren [Schuldnerin, Insolvenzgericht und Aktenzeichen]. Verfasser und Adressat [Name, Funktion]. Stand [Datum]. Zur Entscheidung steht [Sicherungsmittel, beanspruchte Rechtsposition und bevorstehender Verfahrensschritt]. Frist und wirtschaftliches Interesse sind [Termin, Betragsspanne und Beleg]."
+      ]
+    },
+    {
+      "titel": "Kreditvergabe und Sicherheitenbestellung",
+      "absaetze": [
+        "Im Kreditverhältnis standen sich [Kreditgeber und Kreditnehmerin] gegenüber. Sicherungsgeberin war [Gesellschaft]. Verhandelt, zugesagt, ausgezahlt und bestellt wurde jeweils [Handlung, Beteiligte und Zeitpunkt]. Die Kreditvaluta floss an [Empfänger]. Die Sicherheitenvereinbarung verknüpfte die Bestellung mit [konkrete Kreditgewährung, Stundung, bestehende Pflicht oder andere Gegenleistung].",
+        "Bei der Grundschuld sind Grundbuch, Rang, Eintragungsantrag, endgültige Bindung sowie etwaige Vorranglasten durch [Urkunden und Registerstellen] belegt. Bei der Bürgschaft folgen gesicherte Forderung, Umfang, Zugang der Erklärung und etwaige Inanspruchnahme aus [Urkunden]. Für den nach §§ 139, 140 InsO maßgeblichen Zeitpunkt und den Vierjahreszeitraum gilt jeweils [begründete Einordnung]."
+      ],
+      "spalten": [
+        "Sicherheit und Rechtsinhaber",
+        "Bestellung und rechtliche Wirkung",
+        "Gesicherte Verbindlichkeit und Rang",
+        "Verwertungs- oder Tabellenstand"
+      ],
+      "zeilen": 2
+    },
+    {
+      "titel": "Leistungsbeziehungen und Entgeltlichkeit",
+      "absaetze": [
+        "Im Verhältnis zur Bank erhielt oder schuldete [Partei] aufgrund [Abrede] die Leistung [konkret]. Die Bedeutung einer bei Kreditgewährung vereinbarten oder erst nachträglich gestellten Sicherheit für die Entgeltlichkeit ist [Würdigung der Vertragsverknüpfung und der Gegenleistung an die Sicherungsgeberin oder einen Dritten]. Der behauptete Verzicht des Kreditgebers auf [Forderung, Sicherheit oder Kündigungsrecht] hatte zum maßgeblichen Zeitpunkt [wirtschaftlichen Wert mit Beleg].",
+        "Im Innenverhältnis folgt ein möglicher Freistellungs- oder Rückgriffsanspruch aus [Vertrag oder Gesetz, Entstehung und Fälligkeit]. Seine wirtschaftliche Werthaltigkeit bei Bestellung ergibt sich aus [Planung, Vermögen, Rang und Ausfallszenario der Hauptschuldnerin]. Zwischen damals bekannten Umständen und späterer Entwicklung ist wie folgt zu unterscheiden [Feststellung]. Die benannten Konzernvorteile [Art] waren der Sicherungsgeberin in folgendem Umfang konkret zugeordnet und messbar [Beleg und Wert]."
+      ]
+    },
+    {
+      "titel": "Massewirkung und Gegenposition",
+      "absaetze": [
+        "Bei einem Verzicht auf die Grundschuld stünden der Masse aus dem Grundstück voraussichtlich [Wert abzüglich vorrangiger Lasten und maßgeblicher Verwertungskosten] zur Verfügung. Tatsächlich wurden [Absonderungsrecht oder Erlös und Zeitpunkt] beansprucht. Die Differenz ist [Berechnung]. Aus der Bürgschaft droht oder erfolgte [Inanspruchnahme, Anmeldung zur Tabelle oder Zahlung]. Eine Überschneidung der Sicherheiten für dieselbe Hauptschuld betrifft [Betrag und Begrenzung].",
+        "Die stärkste Gegenposition der Bank ist [Einwand nebst belastbarer Unterlage]. Gegen diese oder für sie spricht [konkrete Tatsache, Beweisangebot und Auswirkung auf §§ 129, 134, 143 InsO]. Für eine bereits eingetretene Verwertung verändert sich Gegenstand oder Höhe einer Rückgewähr wie folgt [Ergebnis je Sicherungsmittel]."
+      ]
+    },
+    {
+      "titel": "Vorschlag zur Entscheidung",
+      "absaetze": [
+        "Ich empfehle [konkrete Maßnahme für Grundschuld und gegebenenfalls Verwertungserlös] gegenüber [Adressat] sowie [Erklärung oder Vorgehen zur Bürgschaftsforderung und deren Tabellenstand]. Der erforderliche Inhalt der Freigabe, Erklärung oder Leistung lautet [konkretisierter Wortlaut nach Verfahrensstand].",
+        "Beim Vergleich von [Prozess, einvernehmliche Freigabe oder andere konkret verfügbare Vorgehensweise] ergeben sich für die Masse [Nettoerlös, Bewertungsrisiko, Kosten und Dauer]. Offen ist [entscheidungsrelevante Tatsache]. Entscheidung [freigegebene Maßnahme oder Rückstellung mit Grund], verantwortlich [Person], bis [Frist]. [Name und Zeichnung]."
+      ]
+    }
+  ]
+}

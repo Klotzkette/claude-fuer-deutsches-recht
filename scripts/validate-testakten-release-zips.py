@@ -15,6 +15,7 @@ from pathlib import Path
 
 from testakte_disclaimer import NOTICE_FILENAME, notice_text_errors, pdf_content_errors
 from testakte_zip_common import (
+    editable_working_forms,
     original_zip_preserves_directories,
     safe_archive_name,
     source_zip_includes_gesamt_pdf,
@@ -33,11 +34,14 @@ def fail(message: str) -> None:
     raise SystemExit(1)
 
 
-def expected_entries(testakte_dir: Path) -> list[str]:
-    return working_dump_expected_arcnames(
+def expected_entries(testakte_dir: Path, *, include_forms: bool = False) -> list[str]:
+    entries = working_dump_expected_arcnames(
         testakte_dir,
         include_gesamt_pdf=source_zip_includes_gesamt_pdf(testakte_dir),
     )
+    if include_forms:
+        entries.extend(name for _, name in editable_working_forms(testakte_dir))
+    return entries
 
 
 def zip_entries(zip_path: Path, *, require_notice: bool, allow_directories: bool = False) -> list[str]:
@@ -113,11 +117,11 @@ def main() -> None:
     individual_archives = [
         f"testakte-{d.name}.zip"
         for d in all_dirs
-        if expected_entries(d)
+        if expected_entries(d, include_forms=True)
     ]
 
     for testakte_dir in dirs:
-        entries = expected_entries(testakte_dir)
+        entries = expected_entries(testakte_dir, include_forms=True)
         if not entries:
             empty_dirs.append(testakte_dir.name)
             continue
@@ -126,7 +130,7 @@ def main() -> None:
         actual = zip_entries(
             dist / f"testakte-{testakte_dir.name}.zip",
             require_notice=True,
-            allow_directories=original_zip_preserves_directories(testakte_dir),
+            allow_directories=original_zip_preserves_directories(testakte_dir) or bool(editable_working_forms(testakte_dir)),
         )
         assert_same(f"testakte-{testakte_dir.name}.zip", entries, actual)
     if empty_dirs:
@@ -139,7 +143,7 @@ def main() -> None:
 
     print(
         "validate-testakten-release-zips OK "
-        f"({len(dirs)} Testakten-ZIPs, {sum(len(expected_entries(d)) for d in dirs)} Dateien, "
+        f"({len(dirs)} Testakten-ZIPs, {sum(len(expected_entries(d, include_forms=True)) for d in dirs)} Dateien, "
         f"{gesamt_pdf_count} Gesamt-PDFs)"
     )
 

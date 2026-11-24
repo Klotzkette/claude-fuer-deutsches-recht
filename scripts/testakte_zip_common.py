@@ -7,7 +7,7 @@ import hashlib
 from pathlib import Path
 from typing import Iterable
 
-from testakte_file_filter import include_in_working_dump
+from testakte_file_filter import contains_blocking_export_content, include_in_working_dump
 from testakte_disclaimer import NOTICE_FILENAME
 from testakte_grundakte import FOLDER, PROCEEDING, check_intake_member, selection
 
@@ -151,6 +151,23 @@ def flat_archive_pairs(
         used.add(key)
         pairs.append((source, name))
     return pairs
+
+
+def editable_working_forms(testakte_dir: Path) -> list[tuple[Path, str]]:
+    """Native Zusatzmaterialien neben der Grundakte; die Belegauswahl bleibt eigenständig."""
+    folder = testakte_dir / "Arbeitsvorlagen"
+    if not folder.exists():
+        return []
+    if folder.is_symlink() or not folder.is_dir():
+        raise ValueError(f"Ungültiger Vorlagenordner: {folder}")
+    items = [(path, path.relative_to(testakte_dir)) for path in sorted(folder.iterdir())
+             if path.suffix.lower() in {".docx", ".xlsx"} and not path.name.startswith(("~$", "."))]
+    if any(path.is_symlink() or not path.is_file() for path, _ in items):
+        raise ValueError(f"Keine reguläre Vorlagendatei in {folder}")
+    return structured_archive_pairs(
+        (path, relative) for path, relative in items
+        if not contains_blocking_export_content(path, allow_template_fields=True)
+    )
 
 
 def _working_dump_items(

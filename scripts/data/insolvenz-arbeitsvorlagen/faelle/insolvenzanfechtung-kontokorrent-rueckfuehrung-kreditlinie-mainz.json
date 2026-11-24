@@ -1,0 +1,63 @@
+{
+  "slug": "klagebegruendung-linienherabsetzung",
+  "titel": "Klage auf Rückgewähr nach schrittweiser Herabsetzung einer Kreditlinie",
+  "zweck": "Klage der Insolvenzverwaltung mit nachvollziehbarer Bezifferung aus Vertragsänderungen, Kontobewegungen und einer möglichen Drittkontopfändung.",
+  "abschnitte": [
+    {
+      "titel": "Parteien und Klageantrag",
+      "absaetze": [
+        "An das [sachlich und örtlich zuständige Gericht]. [Name der verwaltenden Person] als Insolvenzverwalterin oder Insolvenzverwalter über das Vermögen von [Schuldnerin, Anschrift], vertreten durch [Prozessvertretung], erhebt Klage gegen [Kreditinstitut, Rechtsform, Vertretung und Anschrift].",
+        "Es wird beantragt, die beklagte Partei zu verurteilen, an die klagende Partei in ihrer Amtsstellung [genauer Betrag und Währung] nebst [Zinssatz und begründeter Zinsbeginn] zu zahlen. Die Zuständigkeit ergibt sich aus [Tatsachen]. Die Bestellung folgt aus [Eröffnungsbeschluss, Gericht und Aktenzeichen]."
+      ]
+    },
+    {
+      "titel": "Kreditabrede und Wirksamkeit der Änderungen",
+      "absaetze": [
+        "Der Kontokorrentvertrag vom [Datum] räumte der Schuldnerin [Kreditrahmen, Laufzeit und Verfügungsmöglichkeiten] ein. Die beklagte Partei beruft sich für den Abbau auf [Vertragsklausel oder Vereinbarung]. Aus Angebot, Annahme, Zugang und etwaigen Bedingungen ergibt sich [Wirksamkeit und Zeitpunkt für jede Absenkung].",
+        "An den einzelnen Tagen durfte die Bank nach [konkreter Rechtsgrundlage] [Leistung oder Sicherung zu der Zeit und in der Art] beanspruchen. Zum Einwand einer einvernehmlichen Vertragsänderung tragen wir [Verhandlungsablauf, Gegenbelege und Rechtsfolge] vor."
+      ],
+      "spalten": [
+        "Änderung und Beleg",
+        "Zeitpunkt der Wirkung",
+        "Rahmen vorher / danach",
+        "Fälligkeit des Rückführungsanspruchs"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Berechnung der endgültigen Rückführung",
+      "absaetze": [
+        "Am [Beginn des belegten Zeitabschnitts] bestand ein Sollsaldo von [Betrag]. Zum [Endstichtag] betrug er [Betrag]. Durch [Gutschriften] und [zugelassene oder zurückgewiesene Verfügungen, Rückbelastungen] änderte sich die tatsächliche Inanspruchnahme wie folgt. Aus der Kontenentwicklung und den verfügbaren Neudispositionen ergibt sich ein dauerhafter Vorteil von [Betrag und Rechenweg].",
+        "Für die Hauptforderung berücksichtigen wir [Positionen]. Die Differenz zur Summe sämtlicher Eingänge und zur nominellen Linienkürzung erklärt sich durch [konkrete Rechenschritte und ausgeschlossene Doppelzählungen]."
+      ],
+      "spalten": [
+        "Abschnitt und Kontoauszug",
+        "Sollsaldo Beginn / Ende",
+        "Wirksame Eingänge und Verfügungen",
+        "Zurechenbare Rückführung"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Drittpfändung und Massevergleich",
+      "absaetze": [
+        "Der Bank wurde der Pfändungs- und Überweisungsbeschluss [Gericht, Aktenzeichen] am [Zeitpunkt] zugestellt. Er erfasste [genaue Forderung oder Guthaben]. Für die streitige Gutschrift vom [Datum] sind Valuta, bestehender Sollsaldo, Pfändungsrang und die Verrechnungsposition der Bank [konkreter Befund].",
+        "Ohne die bezeichnete Verrechnung hätte [wer] über [welche Valuta oder welches Guthaben] verfügen können. Daraus folgt für die Gläubigerbenachteiligung [Betrag mit Begründung]. Dies belegen [Beschluss und Zustellnachweis, Kontoauszug, Kontoabrede oder weitere Beweismittel]."
+      ]
+    },
+    {
+      "titel": "Anfechtungsgrund und Gegenleistung",
+      "absaetze": [
+        "Der für die Fristberechnung maßgebliche Eröffnungsantrag ging am [Datum] ein. Wir ordnen [Einzelhandlungen und Zeitpunkte] § 130 oder § 131 InsO zu, weil [Anspruch der Bank auf die konkrete Deckung oder Abweichung davon]. Für die jeweilige zeitliche Alternative sind [Zahlungsunfähigkeit, Kenntnis oder weitere einschlägige Voraussetzungen und Belegstellen] vorzutragen.",
+        "Zur Kenntnis der Bank tragen wir [Rückgaben, Engagementvermerk, Zeitpunkt, zuständige Stelle und Aussage] vor. Den Erklärungen der Bank zu saisonalen Schwankungen oder zur erneuten Mittelüberlassung stehen [Feststellungen] gegenüber. Zum Bargeschäftseinwand sind Art, Wert und zeitlicher Zusammenhang des tatsächlich gewährten Vorteils [konkreter Gegenstand der Auseinandersetzung]."
+      ]
+    },
+    {
+      "titel": "Rückgewähr, Beweise und Anlagen",
+      "absaetze": [
+        "Der Rückgewährbetrag nach § 143 InsO setzt sich aus [Teilbeträge mit Verweis auf Kontenabschnitte] zusammen. Für die Zinsforderung tragen wir [Verzug oder Rechtshängigkeit, Zeitpunkt und Nachweis] vor. Beweis für [Tatsache] ist [Urkunde mit Seite, Zeuge mit Anschrift oder konkrete Gutachtenfrage].",
+        "Die Anlagen [Verzeichnis mit Kennzeichen und Beweisthema] sind beigefügt. [Ort, Datum, Name, Unterschrift der Prozessvertretung]."
+      ]
+    }
+  ]
+}

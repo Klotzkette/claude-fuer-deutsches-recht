@@ -1,0 +1,111 @@
+[
+  {
+    "slug": "schreiben-erwerber-grundstuecksverkauf",
+    "titel": "Rückgewährverlangen wegen eines Grundstücksgeschäfts",
+    "zweck": "Schreiben der Insolvenzverwaltung an die Erwerbsseite zum betroffenen Grundstücksgeschäft und zur konkret verlangten Rückgewähr.",
+    "abschnitte": [
+      {
+        "titel": "Anschrift und Bezug",
+        "absaetze": [
+          "[Absender und Anschrift]",
+          "[Empfänger, Funktion und Anschrift]",
+          "[Ort und Datum] · [Unser Zeichen] · [Ihr Zeichen]",
+          "Betreff: Grundstück [Grundbuch, Blatt und Flurstück] – Insolvenzverfahren [Verfahren]",
+          "[Anrede]"
+        ]
+      },
+      {
+        "titel": "Gegenstand und Verfahrensstellung",
+        "absaetze": [
+          "Ich bin mit Beschluss des [Gericht] vom [Datum] über das Vermögen von [Schuldner] zum Verwalter bestellt worden. Mein Verlangen betrifft [Verpflichtungs- oder Verfügungsgeschäft, Urkunde, Auflassung, Vormerkung bzw. Eintragung und maßgeblicher Zeitpunkt]."
+        ]
+      },
+      {
+        "titel": "Kaufpreis und für die Gläubiger verfügbarer Wert",
+        "absaetze": [
+          "Zur vereinbarten Gegenleistung und zur Belastungssituation lege ich [Bewertungsstichtag und Wertgrundlage] zugrunde. Rang, Nominalbetrag des Grundpfandrechts und tatsächliche Valutierung ergeben sich aus [Nachweise]."
+        ],
+        "spalten": [
+          "Bewertungs- oder Zahlungsposition",
+          "Stichtag / Betrag",
+          "Empfänger / Rang",
+          "Grundlage / Beleg"
+        ],
+        "zeilen": 4
+      },
+      {
+        "titel": "Vergleich mit dem Verlauf ohne Veräußerung",
+        "absaetze": [
+          "Der Masse wäre ohne das Geschäft wirtschaftlich [Vergleichswert unter Abzug tatsächlich vorrangiger Rechte und maßgeblicher Verwertungskosten] verblieben. Aus der Abwicklung sind [Zahlungswege und tatsächlich verbleibender Gegenwert] festzustellen. Ein im Wertgutachten angesetzter Abschlag ist wie folgt einzuordnen: [Marktbezug, Verkaufsumstände, Nachweis]."
+        ]
+      },
+      {
+        "titel": "Anspruch und Erfüllung",
+        "absaetze": [
+          "Der Anfechtungstatbestand nach [Norm] ist für die bezeichnete Rechtshandlung aus [konkrete Tatsachen zu Zeitraum, Benachteiligung und ggf. Kenntnis] erfüllt, soweit [konkreter Umfang]. Zu Ihren Einwendungen aus [Gegenleistung oder Belastung] nehme ich wie folgt Stellung: [Würdigung].",
+          "Ich verlange [genau bezeichnete Mitwirkung an der Rückübertragung / einschlägigen Wertersatz mit Herleitung]. Die Behandlung der Gegenleistung nach § 144 InsO ergibt sich aus [Verbleib, Werthaltigkeit und Zuordnung]. Bitte erklären bzw. leisten Sie bis [Datum] [Erfüllungshandlung und Modalitäten]."
+        ]
+      },
+      {
+        "titel": "Abschluss",
+        "absaetze": [
+          "Mit freundlichen Grüßen",
+          "[Unterschrift]",
+          "[Name und Funktion]",
+          "Anlagen: [Bezeichnung und Umfang der beigefügten Unterlagen]"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "schreiben-provisionsempfaenger",
+    "titel": "Rückforderung einer Vermittlungsprovision",
+    "zweck": "Gesondertes Schreiben an den Empfänger einer Provisionszahlung. Es ordnet den behaupteten Vermittlungsbeitrag, die Vergütung und die konkrete Zahlung ein.",
+    "abschnitte": [
+      {
+        "titel": "Anschrift und Bezug",
+        "absaetze": [
+          "[Absender und Anschrift]",
+          "[Empfänger, Funktion und Anschrift]",
+          "[Ort und Datum] · [Unser Zeichen] · [Ihr Zeichen]",
+          "Betreff: Provisionszahlung [Buchungsreferenz] im Insolvenzverfahren [Verfahren]",
+          "[Anrede]"
+        ]
+      },
+      {
+        "titel": "Vertretung der Masse und Buchung",
+        "absaetze": [
+          "In meiner Eigenschaft als [Amtsstellung gemäß Beschluss, Gericht und Datum] spreche ich Sie wegen der von [Zahlender] am [Datum] an [Empfänger in richtiger Rechtsträgerstellung] bewirkten Zahlung von [Betrag] an. Der Zahlungsbeleg nennt [Verwendungszweck]."
+        ]
+      },
+      {
+        "titel": "Vermittlungsauftrag und tatsächliche Tätigkeit",
+        "absaetze": [
+          "Nach der Vereinbarung [Urkunde und Datum] sollte [geschuldete Leistung] vergütet werden. Für die Anbahnung und den Abschluss des vermittelten Geschäfts ergeben sich aus [Korrespondenz, Erstkontakt und notarielle Urkunde] folgende Beiträge: [nachgewiesene Tätigkeit und deren zeitliche Zuordnung]. Zur Entstehung des Provisionsanspruchs und zum Wert einer Gegenleistung ergibt sich [begründete Einordnung]."
+        ]
+      },
+      {
+        "titel": "Anfechtung und Umfang",
+        "absaetze": [
+          "Die angefochtene Zahlung und ihr maßgeblicher Zeitpunkt sind [Bezeichnung und Beleg]. Aus [Tatsachen zur Entgeltlichkeit oder Unentgeltlichkeit bzw. zu den subjektiven Voraussetzungen] leite ich [Anspruchsgrundlage und beanspruchten Teilbetrag] ab. Für die Bedeutung eines persönlichen Näheverhältnisses sind [konkrete Umstände und rechtliche Zuordnung] maßgeblich.",
+          "Der Betrag von [Summe] betrifft ausschließlich [abgegrenzter Provisionsvorgang]. Bereits anderweitig für denselben Nachteil zurückerlangte Beträge wurden durch [Berechnung] berücksichtigt."
+        ]
+      },
+      {
+        "titel": "Zahlung oder substantiierte Stellungnahme",
+        "absaetze": [
+          "Bitte überweisen Sie [Betrag] bis [Fristende] auf das Massekonto [Kontoverbindung, Verwendungszweck]. Soweit Sie sich auf weitere Leistungen berufen, erbitte ich bis [Datum] die näheren Angaben zu [Kontaktperson, Tätigkeit, Zeitpunkt und Beleg]."
+        ]
+      },
+      {
+        "titel": "Abschluss",
+        "absaetze": [
+          "Mit freundlichen Grüßen",
+          "[Unterschrift]",
+          "[Name und Funktion]",
+          "Anlagen: [Bezeichnung und Umfang der beigefügten Unterlagen]"
+        ]
+      }
+    ]
+  }
+]

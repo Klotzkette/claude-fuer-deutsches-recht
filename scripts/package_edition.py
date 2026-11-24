@@ -65,12 +65,13 @@ def planned_links(text: str, routes: dict[str, tuple[str, str]]) -> str:
     return LINK.sub(replace, text)
 
 
-def activate_routes(root: Path, routes) -> int:
+def activate_routes(root: Path, routes, *, fallback_tags=None, extra_documents=()) -> int:
     """Schaltet Nutzerseiten und aktive Zuordnung auf dieselben geprüften Ausgabeziele."""
     registry = root / "scripts/scoped-release-assets.json"
     data = json.loads(registry.read_text())
+    fallback_tags = fallback_tags or {}
     for asset, choices in routes.items():
-        if data["assets"].get(asset) not in choices:
+        if data["assets"].get(asset, fallback_tags.get(asset)) not in choices:
             raise ValueError(f"{asset}: Diese Aktivierung würde einen anderen Paketstand überschreiben")
     tracked = subprocess.check_output(["git", "ls-files", "-z"], cwd=root).decode().split("\0")
     total = 0
@@ -80,7 +81,7 @@ def activate_routes(root: Path, routes) -> int:
             continue
         if not (path.name == "README.md" or path.suffix.lower() == ".html"
                 or path.parts[0] in {"skills-index", "vergaberecht-werkstatt"} and path.suffix == ".md"
-                or relative in {"SKILLS.md", "ASSET_INDEX.md"}):
+                or relative in {"SKILLS.md", "ASSET_INDEX.md"} or relative in extra_documents):
             continue
         file = root / path
         content = file.read_bytes()
@@ -90,7 +91,7 @@ def activate_routes(root: Path, routes) -> int:
         if content != updated:
             file.write_bytes(updated)
             total += 1
-    if any(data["assets"][asset] != pair[1] for asset, pair in routes.items()):
+    if any(data["assets"].get(asset) != pair[1] for asset, pair in routes.items()):
         data["assets"].update({asset: pair[1] for asset, pair in routes.items()})
         registry.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
         total += 1

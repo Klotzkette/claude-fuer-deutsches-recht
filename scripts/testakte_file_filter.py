@@ -229,7 +229,8 @@ def _safe_text(path: Path, limit: int = 160_000) -> str:
         return ""
 
 
-def _contains_blocking_export_content(path: Path, *, allow_template_fields: bool = False) -> bool:
+def contains_blocking_export_content(path: Path, *, allow_template_fields: bool = False) -> bool:
+    """Erkennt ausgeschlossene Inhalte auch bei ausdrücklich erlaubten Eingabefeldern."""
     if path.suffix.lower() not in CONTENT_SCAN_EXTS:
         return False
     if "formatvorlagen-paradebeispiele" in path.parts:
@@ -304,7 +305,7 @@ def is_export_meta_file(path: Path, testakte_dir: Path) -> bool:
                 and relative.as_posix() == '09_Vorlage_Entscheidungsvorlage.docx')
         )
     )
-    if _contains_blocking_export_content(path, allow_template_fields=requested_template):
+    if contains_blocking_export_content(path, allow_template_fields=requested_template):
         return True
     if _is_initial_overview(path, testakte_dir):
         return True
@@ -322,6 +323,9 @@ def include_in_working_dump(path: Path, testakte_dir: Path, *, include_gesamt_pd
     try:
         rel = path.relative_to(testakte_dir)
     except ValueError:
+        return False
+    # Befüllbare Vorlagen gehören zum Arbeits-ZIP, nicht zu den Belegen der Lesefassungen.
+    if rel.parts and rel.parts[0] == "Arbeitsvorlagen":
         return False
     if any(part.startswith(".") for part in rel.parts):
         return False

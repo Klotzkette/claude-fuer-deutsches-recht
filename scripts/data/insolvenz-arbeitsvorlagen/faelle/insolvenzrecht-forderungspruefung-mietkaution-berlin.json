@@ -1,0 +1,55 @@
+{
+  "slug": "pruefblatt-mietkaution",
+  "titel": "Prüfblatt für Mietforderungen, Kaution und Aufrechnung",
+  "zweck": "Für die Insolvenzverwaltung. Jede angemeldete Teilforderung vom Leistungszeitraum bis zur Erklärung im Prüfungstermin verfolgen.",
+  "abschnitte": [
+    {
+      "titel": "Verfahren, Mietverhältnis und Zeitgrenzen",
+      "absaetze": [
+        "[Gericht, Aktenzeichen, Eröffnung mit Zeitpunkt, zuständige Person und Prüfungstermin]. [Vermieter, Schuldner oder Untermieter, Objekt und Vertragsparteien].",
+        "[Vertrag und Nachträge, Besitzüberlassung, Kündigung oder sonstiges Vertragsende, tatsächliche Rückgabe]. Für Mietzins, Nutzung und Schäden sind [Leistungszeitraum, maßgebliches Ereignis und rechtliche Folge] getrennt zu bestimmen."
+      ]
+    },
+    {
+      "titel": "Forderungen nach Grund und Höhe",
+      "absaetze": [
+        "Für jede Position [Anmeldung, Vertrag, Zahlungs- oder Korrekturbeleg] angeben. Bei Betriebskosten [Abrechnungszeitraum, Schlüssel, Vorauszahlungen und Zugang]. Bei Schäden [Einzelschaden, Rückgabeprotokoll, Vorschaden, Fristsetzung soweit erforderlich, Zeitwert und Beleg]."
+      ],
+      "spalten": [
+        "Position / Zeitraum",
+        "Fälligkeit und Beleg",
+        "Angemeldet / geprüft",
+        "Rang oder Massebezug"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Sicherungsabrede und Zugriff",
+      "absaetze": [
+        "[Kautionsart, Kontoinhaber, Kreditinstitut, ursprünglicher Einzahler und durch die Abrede gesicherte Ansprüche]. Bei Verpfändung [Pfandbestellung, Anzeige, Rang, Pfandreife und Auszahlungsvoraussetzungen].",
+        "Ordne jeden Anspruch seinem Berechtigten zu: [Vermieter, Bank, Unterkunde oder Masse], [Aussonderung, Absonderung, Rückgewähranspruch oder persönliche Forderung] und [tragender Beleg].",
+        "Eigene Verrechnung der Bank, Inanspruchnahme der Kaution durch den Vermieter und Rückzahlungsanspruch des Sicherungsgebers sind anhand folgender Buchungen abzugrenzen: [Datum, Richtung, Rechtsgrund, Konto und Saldo]."
+      ]
+    },
+    {
+      "titel": "Aufrechnung und Anfechtbarkeit",
+      "absaetze": [
+        "[Haupt- und Gegenforderung einschließlich der jeweiligen Gläubiger, Entstehung, Fälligkeit und Erfüllbarkeit]. Zur Lage bei Eröffnung und zu §§ 94–96 InsO: [Zeitpunkt und Beleg für Erwerb, Erklärung und etwaige Ausschlussgründe].",
+        "Soweit die Verrechnungslage anfechtbar erlangt sein kann, sind [gesondert zu prüfende Rechtshandlung, Wirkungsdatum, Gläubigerbenachteiligung und subjektive Voraussetzungen] auf [Unterlagen] zu stützen."
+      ]
+    },
+    {
+      "titel": "Erklärung zur Tabelle",
+      "absaetze": [
+        "Für die Forderungsnummer [Nr.] beantrage oder erkläre ich [Feststellung nach Höhe und Rang oder konkret begründetes ganzes bzw. teilweises Bestreiten]. [Gesicherter Teil, Verwertungsstand und etwaiger Ausfall] werden für eine spätere Verteilung gesondert festgehalten.",
+        "Abstimmung: angemeldet [Betrag], erklärt [Teilbeträge], offener Unterschied [Betrag und Grund]. Belege für einen Zahlungsvorgang nur einmal einrechnen."
+      ]
+    },
+    {
+      "titel": "Folgen eines Widerspruchs",
+      "absaetze": [
+        "Widersprechender [Beteiligter], Titel [Art, Inhalt und Vollstreckbarkeit]. Für die weitere Feststellung ist nach §§ 179 ff. InsO [Person, Rechtsweg, Betroffenheit und Antrag] zu prüfen. Noch erforderlicher Beleg [Anforderung und Frist]. [Bearbeitungsstand und Gegenzeichnung]."
+      ]
+    }
+  ]
+}

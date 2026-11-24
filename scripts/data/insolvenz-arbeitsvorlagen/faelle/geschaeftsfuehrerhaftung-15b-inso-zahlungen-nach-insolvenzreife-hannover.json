@@ -1,0 +1,131 @@
+[
+  {
+    "slug": "zahlungsersatz-geltend-machen",
+    "titel": "Schreiben zur Erstattung von Zahlungen nach Insolvenzreife",
+    "zweck": "Anspruchsschreiben der Insolvenzverwaltung mit bezifferter Einzelaufstellung.",
+    "abschnitte": [
+      {
+        "titel": "Anschrift und Anspruchsberechtigung",
+        "absaetze": [
+          "[Absender, Funktion, Anschrift, Datum] · An [Organmitglied und Anschrift]",
+          "Betreff: [Verfahren, Aktenzeichen und Zahlungszeitraum].",
+          "[Anrede], als [Amtsstellung, Beschluss, Gericht und Datum] fordere ich für [Rechtsträger] nach § 15b Abs. 4 InsO die Erstattung von [Betrag]. Ihre Organstellung ergibt sich aus [Beleg und Zeitraum]."
+        ]
+      },
+      {
+        "titel": "Eintritt der Insolvenzreife und Antrag",
+        "absaetze": [
+          "Am [Stichtag] standen [tatsächlich verfügbare Mittel] fälligen Verpflichtungen von [Betrag] gegenüber. Für die Prognose maßgeblich sind [belegte Zuflüsse, Fälligkeiten und verfügbare Kreditlinien].",
+          "[Eintritt und Begründung der Zahlungsunfähigkeit oder Überschuldung]. Zur abweichenden Datierung in [Quelle]: [Gegenindizien und Würdigung].",
+          "Für den unverzüglichen Antrag maßgeblich waren [Umstände und Zeitraum]. [Letzter rechtzeitiger Zeitpunkt, tatsächliche Antragstellung und gerichtliche Anordnungen mit Belegen]."
+        ]
+      },
+      {
+        "titel": "In Anspruch genommene Zahlungen",
+        "absaetze": [
+          "Anlage [Nummer] führt Zahlungstag, Ihre Veranlassung, Empfänger, Betrag und Massewirkung jeder Buchung auf. Die zeitlich getrennten Zwischensummen betragen [Beträge].",
+          "Einzüge und Umbuchungen betreffen [Kontenstände vor und nach Buchung, Sicherungsrechte, Verfügbarkeit des Gegenkontos]."
+        ]
+      },
+      {
+        "titel": "Sorgfalt und Gegenleistungen",
+        "absaetze": [
+          "Zur Fortführung, Krisenbeseitigung oder Antragsvorbereitung tragen Sie [Maßnahmen] vor. Für [Buchungsnummern] folgt aus § 15b Abs. 1–3 InsO [zeitbezogene Würdigung].",
+          "Steuern, Arbeitnehmer- und Arbeitgeberbeiträge sowie Leistungen an Beteiligte: [Fälligkeit, Gläubiger, Pflichtenkollision, Rechtsgrund und Ergebnis je Position].",
+          "Zum Gegenwert und zum Einwand eines geringeren Gläubigerschadens: [Zuordnung, verfügbarer Wert, Vergleichsrechnung und Belege]."
+        ]
+      },
+      {
+        "titel": "Betrag, Frist und Antwort",
+        "absaetze": [
+          "Vom [Ausgangsbetrag] verbleiben nach [belegte Abzüge, Rückflüsse und Abgleich mit weiteren Ansprüchen] insgesamt [Betrag].",
+          "Ich bitte um Zahlung bis [Datum] auf [Inhaber, IBAN und Verwendungszweck]. Bitte ordnen Sie etwaige Einwände und Nachweise den Buchungsnummern zu.",
+          "[Grußformel und Unterschrift] · Anlagen: [Bestellungsurkunde, Stichtagsnachweise, Einzelaufstellung]."
+        ]
+      }
+    ]
+  },
+  {
+    "format": "xlsx",
+    "slug": "organhaftung-zahlungsmatrix",
+    "titel": "Zahlungsprüfung und Masseabgleich",
+    "zweck": "Identische Buchungsnummern verbinden den Zahlungsweg mit der Einzelfallprüfung. Abzüge nur einmal berücksichtigen. Der rechnerische Rest bezeichnet keine abschließend geprüfte Haftung.",
+    "blaetter": [
+      {
+        "titel": "Buchungen",
+        "spalten": [
+          "Buchungsnr.",
+          "Valuta",
+          "Zahlungskonto",
+          "Empfänger",
+          "Zweck",
+          "Abfluss",
+          "Zahlungsbeleg",
+          "Zeitfenster",
+          "Veranlassung"
+        ],
+        "zeilen": 15,
+        "formate": {
+          "Valuta": "dd.mm.yyyy",
+          "Abfluss": "#,##0.00"
+        }
+      },
+      {
+        "titel": "Einzelprüfung",
+        "spalten": [
+          "Buchungsnr.",
+          "Fälligkeit",
+          "Sorgfaltsmaßstab",
+          "Maßnahme / Zustimmung",
+          "Gegenwert und Verfügbarkeit",
+          "Einwand zum Gläubigerschaden",
+          "Beleg / Gegenbeleg",
+          "Würdigung"
+        ],
+        "zeilen": 15,
+        "formate": {
+          "Fälligkeit": "dd.mm.yyyy"
+        }
+      },
+      {
+        "titel": "Betragsabgleich",
+        "spalten": [
+          "Buchungsnr.",
+          "Geprüfter Abfluss",
+          "Anerkannter Abzug",
+          "Weitere Erfüllung",
+          "Rechnerischer Rest",
+          "Quelle der Abzüge"
+        ],
+        "zeilen": 15,
+        "formeln": {
+          "Rechnerischer Rest": "=IF(COUNT(B{r}:D{r})=3,ROUND(B{r}-C{r}-D{r},2),\"\")"
+        },
+        "formate": {
+          "Geprüfter Abfluss": "#,##0.00",
+          "Anerkannter Abzug": "#,##0.00",
+          "Weitere Erfüllung": "#,##0.00",
+          "Rechnerischer Rest": "#,##0.00"
+        }
+      },
+      {
+        "titel": "Deckung und Fristen",
+        "spalten": [
+          "Police / Fassung",
+          "Anspruchserhebung",
+          "Anzeige an Versicherer",
+          "Zugang / Nachweis",
+          "Frist",
+          "Deckungsumfang / Einwand",
+          "Abstimmung vor Vergleich"
+        ],
+        "zeilen": 15,
+        "formate": {
+          "Anspruchserhebung": "dd.mm.yyyy",
+          "Anzeige an Versicherer": "dd.mm.yyyy",
+          "Frist": "dd.mm.yyyy"
+        }
+      }
+    ]
+  }
+]

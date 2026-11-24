@@ -28,6 +28,8 @@ Die Unterlagen umfassen Eigenantrag, gerichtliche Beschlüsse, Fortführungsberi
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
+Öffnen Sie für Ihren Entwurf die leere Arbeitsvorlage aus der Tabelle und speichern Sie eine eigene Kopie. Entnehmen Sie die Angaben der Grundakte und tragen Sie sie in die markierten Felder oder freien Tabellenzeilen ein.
+
 Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
@@ -36,6 +38,10 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Arbeitsvorlage zum Ausfüllen** | DOCX | [Prüfblatt für eine Forderungsanmeldung](Arbeitsvorlagen/erklaerung-pruefungstermin.docx?raw=true) |
+| **Arbeitsvorlage zum Ausfüllen** | DOCX | [Betriebskauf aus der Insolvenz · Vollzugs- und Übergabeprotokoll](Arbeitsvorlagen/betriebskauf-vollzugsprotokoll.docx?raw=true) |
+| **Arbeitsvorlage zum Ausfüllen** | XLSX | [Forderungsprüfung und Sicherheiten](Arbeitsvorlagen/forderungspruefung-und-sicherheiten.xlsx?raw=true) |
+| **Zusätzlicher Blankovertrag für einen Asset Deal zum Ausfüllen** | DOCX | [Unternehmenskaufvertrag über einzelne Vermögenswerte aus der Insolvenzmasse](Arbeitsvorlagen/asset-purchase-agreement-blanko.docx?raw=true) |
 | **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-insolvenzforderungen-handwerk-koeln.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-insolvenzforderungen-handwerk-koeln.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/insolvenzforderungen-handwerk-koeln_gesamt.pdf`](gesamt-pdf/insolvenzforderungen-handwerk-koeln_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzforderungen-handwerk-koeln.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-insolvenzforderungen-handwerk-koeln.zip) |

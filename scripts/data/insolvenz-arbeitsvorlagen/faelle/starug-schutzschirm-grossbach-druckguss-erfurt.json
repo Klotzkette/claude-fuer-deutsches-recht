@@ -1,0 +1,57 @@
+{
+  "slug": "sanierungswege-entscheidungsvorlage",
+  "titel": "Entscheidungsvorlage für Geschäftsleitung und Sanierungsberatung",
+  "zweck": "Verfahrenswechsel, Finanzierung und Verhandlungen an dokumentierten Ereignissen und Entscheidungsterminen ausrichten.",
+  "abschnitte": [
+    {
+      "titel": "Entscheidung und Informationsstand",
+      "absaetze": [
+        "An [vertretungsberechtigtes Organ und Mandatsinhaber]. Stand [Datum und Uhrzeit]. Zu entscheiden bis [Datum und Anlass] über [konkret beschriebene Fortführungs- oder Verfahrensoption].",
+        "Die Auftraggeber- und Vertretungsverhältnisse zwischen Gesellschaft, geschäftsführender Gesellschafterin und einzelnen Organmitgliedern sind [Beschreibung]. Eigeninteressen und gesonderte Beratung: [Folge für den Auftrag]."
+      ]
+    },
+    {
+      "titel": "Liquidität, Antragspflicht und Fremdantrag",
+      "absaetze": [
+        "[Verfügbare Mittel, fällige Verbindlichkeiten, kurzfristig erfüllbare Eingangszusagen und wesentliche Szenarien]. Der Status nach §§ 17–19 InsO zum [Stichtag] beruht auf [Rechnung und Belegen]. [Antragspflichtige Person, maßgebender Eintritt, unverzügliches Handeln, Frist und offene Nachweise].",
+        "Zum Gläubigerantrag nach § 14 InsO: [Zustellung und Stellungnahmefrist], [Forderung, Insolvenzgrund, Glaubhaftmachung und rechtliches Interesse]. Etwaige Erfüllung und ihre Folgen für das Verfahren sind [Würdigung und Beleg]."
+      ]
+    },
+    {
+      "titel": "Verfahrenswege und Wechsel",
+      "absaetze": [
+        "Für eine Restrukturierung außerhalb eines Insolvenzverfahrens: [Zugangsvoraussetzungen, planbetroffene Forderungen, Gruppen und Mehrheitsrisiko]. Bei bereits angezeigtem Vorhaben: [Anzeigepflichten, Wirkung eines Eigenantrags, einer Eröffnung oder angezeigter Insolvenzreife nach §§ 32, 33 StaRUG].",
+        "Für Eigenverwaltung und Schutzschirm: [Voraussetzungen und Stichtagsnachweis, Bescheinigung, Planungs- und Finanzierungsunterlagen, Sachwaltervorschlag und Planfrist]. Bei Wegfall einer Voraussetzung: [wirksame Alternative, Zuständigkeit, erforderliche Anzeige und Termin].",
+        "Zu jedem Verfahrensweg [Antragsteller, zuständiges Gericht, Verfahrensstand, Folgen für Gläubiger und Zeitpunkt der Entscheidung]."
+      ]
+    },
+    {
+      "titel": "Finanzierungsbeiträge und Verhandlungen",
+      "absaetze": [
+        "[Kreditlinien, belegte Stundungen oder Vollstreckungsstillhalteabkommen, Vertragsstrafenrisiken und betriebsnotwendige Lieferungen]. Für jede Zusage [Bindungsdauer, Bedingungen, Nachweis und Folge des Scheiterns].",
+        "Für digitale Vermögenswerte sind [Inhaber, Verfügungsberechtigung, Bestandsnachweis, Bewertungszeitpunkt, Kosten und Nettoerlös] festzuhalten. Bei Privatvermögen gesondert [bindender Beitrag, Übertragungsweg, Verfügbarkeit und Bedingungen]. Zugangsdaten gehören nicht in dieses Dokument."
+      ],
+      "spalten": [
+        "Verhandlungspartner",
+        "Entscheidungsbedarf",
+        "Belegter Spielraum",
+        "Verantwortung / Termin"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Rückgewähransprüche und Verfahrensbefugnis",
+      "absaetze": [
+        "Für jede mögliche Rückzahlung eines Gesellschafterdarlehens oder sonstige Vergütung: [Anspruchsgrund, Berechtigung des Empfängers, Zahlung aus Schuldnervermögen und rechtlicher Wirkungszeitpunkt]. [Voraussetzungen der einschlägigen Tatbestände nach §§ 129 ff. InsO, Einwände und Beweislücken].",
+        "Zur Anspruchsverfolgung berechtigt ist nach [Eröffnungsbeschluss, Verfahrensart und Bestellung] [Verfahrensorgan]. Bei eröffneter Eigenverwaltung § 280 InsO berücksichtigen. [Sicherungsmaßnahme oder spätere Durchsetzung, Auswirkung auf Prognose und Zeitpunkt eines möglichen Zuflusses]."
+      ]
+    },
+    {
+      "titel": "Beschluss und Wiedervorlage",
+      "absaetze": [
+        "Auf Basis der Unterlagen bis [Stichtag] wird [empfohlener Verfahrensweg mit Begründung] zur Entscheidung gestellt. Entscheidend ist [Bedingung]. Falls [beobachtbares Ereignis] bis [Zeitpunkt] eintritt oder ausbleibt, veranlasst [Person] den Wechsel zu [Anschlussmaßnahme].",
+        "Entscheidung der Geschäftsleitung [Beschluss, Vertretungsbefugnis, Zeitpunkt]. Wiedervorlage [Datum] mit [Status, weitere Nachweise und verantwortliche Person]."
+      ]
+    }
+  ]
+}

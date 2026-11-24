@@ -19,7 +19,7 @@ import zipfile
 from pathlib import Path
 
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
-from testakte_zip_common import source_zip_includes_gesamt_pdf, working_dump_archive_pairs
+from testakte_zip_common import editable_working_forms, source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
@@ -46,26 +46,29 @@ def write_bytes(zipf: zipfile.ZipFile, data: bytes, arcname: str) -> None:
     zipf.writestr(info, data)
 
 
-def add_testakte(zipf: zipfile.ZipFile, testakte_dir: Path) -> int:
+def add_testakte(zipf: zipfile.ZipFile, testakte_dir: Path, *, include_forms: bool = False) -> int:
     write_bytes(zipf, NOTICE_BYTES, NOTICE_FILENAME)
     count = 1
-    for path, arcname in working_dump_archive_pairs(
+    pairs = working_dump_archive_pairs(
         testakte_dir,
         include_gesamt_pdf=source_zip_includes_gesamt_pdf(testakte_dir),
-    ):
+    )
+    if include_forms:
+        pairs.extend(editable_working_forms(testakte_dir))
+    for path, arcname in pairs:
         write_file(zipf, path, arcname)
         count += 1
     return count
 
 
-def build_single(testakte_dir: Path, dist: Path) -> tuple[Path, int]:
+def build_single(testakte_dir: Path, dist: Path, *, include_forms: bool = False) -> tuple[Path, int]:
     out = dist / f"testakte-{testakte_dir.name}.zip"
     temporary = out.with_name(f".{out.name}.tmp")
     try:
         with zipfile.ZipFile(
             temporary, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1
         ) as zipf:
-            count = add_testakte(zipf, testakte_dir)
+            count = add_testakte(zipf, testakte_dir, include_forms=include_forms)
         if count == 0:
             temporary.unlink(missing_ok=True)
             out.unlink(missing_ok=True)
@@ -107,7 +110,7 @@ def main() -> None:
     total_files = 0
     built: list[Path] = []
     for d in dirs:
-        out, count = build_single(d, dist)
+        out, count = build_single(d, dist, include_forms=True)
         if count == 0:
             raise SystemExit(f"{d}: keine exportfaehigen Dateien")
         total_files += count

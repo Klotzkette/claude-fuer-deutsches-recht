@@ -1,0 +1,71 @@
+{
+  "slug": "rueckgewaehr-warenlager-und-zessionen",
+  "titel": "Rückgewähr von Warenlager und abgetretenen Kundenforderungen",
+  "zweck": "Schreiben zur Leistung an Erfüllungs statt. Es trennt vorhandene Ware, Verwertungserlöse und den Stand jeder abgetretenen Forderung.",
+  "abschnitte": [
+    {
+      "titel": "Anschrift und Bezug",
+      "absaetze": [
+        "[Absender und Anschrift]",
+        "[Empfänger, Funktion und Anschrift]",
+        "[Ort und Datum] · [Unser Zeichen] · [Ihr Zeichen]",
+        "Betreff: Übertragung von Waren und Kundenforderungen im Verfahren [Schuldner, Aktenzeichen]",
+        "[Anrede]"
+      ]
+    },
+    {
+      "titel": "Amt und ursprünglicher Lieferanspruch",
+      "absaetze": [
+        "Mit Beschluss vom [Datum] hat mich [Gericht] im bezeichneten Verfahren bestellt. Ihre ursprüngliche Forderung war auf [geschuldete Leistung, Fälligkeit und Vertragsgrund] gerichtet. Die spätere Vereinbarung sah [Gegenstände und Tilgungswirkung] vor. Zum Anspruch auf diese Art der Deckung nehme ich wie folgt Stellung: [Vereinbarung, Zeitpunkt und Umfang]."
+      ]
+    },
+    {
+      "titel": "Warenbestand und Besitzwechsel",
+      "absaetze": [
+        "Lagerliste, Inventur und Übergabeprotokoll weisen [Unterschiede und Abgleich] aus. Die Ware ist durch [Artikel, Menge, Charge und Standort] bestimmbar. Den Wert am [Stichtag] entnehmen wir [Bewertungsgrundlage]. Der für die Gläubiger zugängliche Anteil ergibt sich nach Berücksichtigung von [mögliche Eigentumsvorbehalte bzw. sonstige Rechte Dritter]."
+      ],
+      "spalten": [
+        "Warenposition / Kennung",
+        "Übernommen / Verbleib",
+        "Wertgrundlage / Fremdrechte",
+        "Verlangte Rückgewähr"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Abgetretene Forderungen",
+      "absaetze": [
+        "Abtretung, Entstehung der Forderung, Anzeige und möglicher Einzug sind für jede Drittschuldnerforderung getrennt belegt."
+      ],
+      "spalten": [
+        "Forderung / Drittschuldner",
+        "Abtretung / Anzeige",
+        "Offen / eingezogen",
+        "Erlös / Auskehr / Beleg"
+      ],
+      "zeilen": 2
+    },
+    {
+      "titel": "Zeitraum und Tatsachen zur Deckung",
+      "absaetze": [
+        "Als Antragseingang ist [Datum, Gericht und Fundstelle] dokumentiert. Für die Warenübertragung sowie jede Abtretung ergeben sich nach §§ 139 und 140 InsO [Wirksamkeitszeitpunkt, Monatsfenster und Herleitung]. Aus [Liquiditätsunterlagen und Stichtage] ergibt sich [Befund]. Zur Kenntnis auf Empfängerseite tragen wir [zeitgenössische, zuordenbare Erklärung] vor, soweit diese das herangezogene Tatbestandsmerkmal betrifft."
+      ]
+    },
+    {
+      "titel": "Leistung an die Masse",
+      "absaetze": [
+        "Für [vorhandene Positionen] fordere ich die Rückübertragung und Übergabe am [Ort, Termin]. Für [offene abgetretene Forderungen] erbitte ich [Rückabtretung mit genauer Bezeichnung und erforderlicher Mitwirkung]. Für [verwertete Ware oder bereits eingezogene Forderungen] verlange ich [Erlös oder Wertersatz, jeweilige Grundlage und Berechnung]. Überschneidungen sind durch [Abgrenzung] ausgeschieden.",
+        "Bitte teilen Sie mir bis [Datum] den nach Belegen aufgeschlüsselten Verbleib von [Positionen] mit und erfüllen Sie das bezeichnete Verlangen bis [Datum] auf [Massekonto bzw. Übergabeweg]."
+      ]
+    },
+    {
+      "titel": "Abschluss",
+      "absaetze": [
+        "Mit freundlichen Grüßen",
+        "[Unterschrift]",
+        "[Name und Funktion]",
+        "Anlagen: [Bezeichnung und Umfang der beigefügten Unterlagen]"
+      ]
+    }
+  ]
+}

@@ -16,6 +16,7 @@ Downloadsektionen zu erneuern.
 """
 from __future__ import annotations
 
+import json
 import re
 import sys
 from pathlib import Path
@@ -43,6 +44,29 @@ MARKER_END = "<!-- END gesamt-pdf-section (autogen) -->"
 
 
 from akteneingang.verweise import central_row
+
+
+def editable_template_rows(slug: str) -> str:
+    sources = REPO_ROOT / "scripts/data/insolvenz-arbeitsvorlagen"
+    case = sources / "faelle" / f"{slug}.json"
+    if not case.is_file():
+        return ""
+    forms = json.loads(case.read_text(encoding="utf-8"))
+    if isinstance(forms, dict):
+        forms = [forms]
+    agreement = json.loads((sources / "asset-deal.json").read_text(encoding="utf-8"))
+    asset_case = slug == "insolvenz-asset-deal-chaincortex-ai-berlin"
+    ordered = [agreement, *forms] if asset_case else [*forms, agreement]
+    rows = []
+    for form in ordered:
+        extension = form.get("format", "docx")
+        title = form["titel"].replace("|", "–")
+        filename = form["slug"] + "." + extension
+        label = "Blankovertrag" if form is agreement else "Arbeitsvorlage"
+        if form is agreement and not asset_case:
+            label = "Zusätzlicher Blankovertrag für einen Asset Deal"
+        rows.append(f"| **{label} zum Ausfüllen** | {extension.upper()} | [{title}](Arbeitsvorlagen/{filename}?raw=true) |")
+    return "\n".join(rows)
 
 
 def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -> str:
@@ -205,6 +229,12 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
     intake_row = central_row(slug)
     if intake_row:
         rows = intake_row + "\n" + rows
+    templates = editable_template_rows(slug)
+    if templates:
+        rows = templates + "\n" + rows
+        intro = ("Öffnen Sie für Ihren Entwurf die leere Arbeitsvorlage aus der Tabelle und speichern Sie "
+                 "eine eigene Kopie. Entnehmen Sie die Angaben der Grundakte und tragen Sie sie "
+                 "in die markierten Felder oder freien Tabellenzeilen ein.\n\n" + intro)
     return f"""{MARKER_BEGIN}
 ## Akte komplett herunterladen
 

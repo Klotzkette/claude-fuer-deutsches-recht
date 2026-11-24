@@ -1,0 +1,254 @@
+{
+  "quellen": {
+    "lebensakte-fintech-darlehen-vertragsuebernahme-bremen.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "7d1272ccc6d48a5ce9991c155254d6a107b79fc4087abfef3511f0441843903c",
+      "bytes": 3183004
+    },
+    "lebensakte-geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "d3b63eb341a9e85fcf538a77a1ddfa4515bb74c96b587c98e6acd212fe35adb9",
+      "bytes": 896533
+    },
+    "lebensakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "b9709321625ad3e95151a35d7a1780f86d0b3687a0ce321c35b0a73ad0ce4c85",
+      "bytes": 1555841
+    },
+    "lebensakte-insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "69e2dd26c71e2e9d0a28c208a84e5f8476a425b7d96dc23b850b57644f37c775",
+      "bytes": 860957
+    },
+    "lebensakte-insolvenzanfechtung-blechliebe-bamberg.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "7af1b63ab3e3b9a8f8fc3d6d88da1dec64620fd556058570f006eb26d1c83547",
+      "bytes": 1031390
+    },
+    "lebensakte-insolvenzanfechtung-faltenwurf-fuerth.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "893543e93ff2f8f6c3e71cd365069aeed5900bfe97297b92cb03638bd87da2d3",
+      "bytes": 1131249
+    },
+    "lebensakte-insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "2556ad1bc10099926a369b8f9bcc2d29b9a2d5a26e3fd6ccb9e71d7fb1dcfe4c",
+      "bytes": 990487
+    },
+    "lebensakte-insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "058a8fc56dba2df4fe7f62e8147131e0b625fddcf4b43bd1875b52ae98c967b2",
+      "bytes": 1023886
+    },
+    "lebensakte-insolvenzanfechtung-inkongruente-deckung-warenlager-an-erfuellungs-statt-kassel.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "b6b13d885913f97f091a2d7edb1e45648b43a1401680703d24b3d41abbb7b3fd",
+      "bytes": 1009027
+    },
+    "lebensakte-insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "2509e6cf1270754089e23ca6e1c73072ac02dac2309e51aecdfb2e7f72bf7361",
+      "bytes": 1016376
+    },
+    "lebensakte-insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "f3e9c82e87c79d53db696e861597ac9f419f7e8f93df0574190a9a9deba939e4",
+      "bytes": 943890
+    },
+    "lebensakte-insolvenzanfechtung-kongruente-deckung-krankenkasse-nach-antrag-luebeck.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "557651a1dd3a029a570477325f4999484cb82f461de5d50545c98148b9cc25cc",
+      "bytes": 907344
+    },
+    "lebensakte-insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "7c22d4102b8f85d732cd17c55be26be6ebb3699952b1e2e098073bb7e9fc77ce",
+      "bytes": 929365
+    },
+    "lebensakte-insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "05f448ff79183ecfd9d870f724643fd5b190f55c6a1d903c28579c267f93b3fa",
+      "bytes": 919455
+    },
+    "lebensakte-insolvenzanfechtung-kontokorrent-verrechnungen-geduldete-ueberziehung-dortmund.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "89ce7b0ce3013052fbc60e147de46f3f211f04d27a1915453aa2eebace9b2239",
+      "bytes": 897935
+    },
+    "lebensakte-insolvenzanfechtung-schenkung-familie-oldenburg.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "4de41993a4383372c1c1b178aa600e2631daf4d1103742d52e8d8de8753ae48f",
+      "bytes": 945191
+    },
+    "lebensakte-insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "f16ce27ce6fc2f20d33090d3fec73acabe8b58fce2d6fdc1db314ebd593fd917",
+      "bytes": 1052275
+    },
+    "lebensakte-insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "094f908f13c4c14d84035c9dcee4fe8d72626bf295dbe752e876cd24946d752c",
+      "bytes": 1142689
+    },
+    "lebensakte-insolvenzanfechtung-veedelwende-zession-koeln.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "ea68c89b48a523cbac8cff5e5e678b6f627dc6f1a622cdc248d7845033066a1a",
+      "bytes": 1368280
+    },
+    "lebensakte-insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "37950b041db56e348f5e78f6539874e7e63d857cdea818d3c87fbe929b6ce0fa",
+      "bytes": 944452
+    },
+    "lebensakte-insolvenzforderungen-handwerk-koeln.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "276c738220920eee66844240e392832b6f48316923ecb33d6b71906d28ef227e",
+      "bytes": 2239937
+    },
+    "lebensakte-insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "eba02129972b1042a5e1c992518b7a6e4665812cd53697bc83848b3079337b1f",
+      "bytes": 1002649
+    },
+    "lebensakte-insolvenzrecht-forderungspruefung-mietkaution-berlin.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "a888a83a2dfe291966b20715aca381a0685e23f638a668f73b9b725b001ea9d7",
+      "bytes": 989360
+    },
+    "lebensakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "64f81896f239d1131f7a5a57a09a91ce66523a9831dbef53319242a2d8d9dd70",
+      "bytes": 1097111
+    },
+    "lebensakte-starug-schutzschirm-grossbach-druckguss-erfurt.zip": {
+      "tag": "grundakten-fachakten-v1.1.0",
+      "sha256": "d59e008f652bded4b34d337d3559bf44c58b635b775d7506268b418c49e58c70",
+      "bytes": 1209330
+    },
+    "testakte-fintech-darlehen-vertragsuebernahme-bremen.zip": {
+      "tag": "insolvenz-arbeitsakten-v1.0.0",
+      "sha256": "87a513a4516aa7dcd7dad505b3646b48addcacae99be8068263fd66b72afcc60",
+      "bytes": 3109921
+    },
+    "testakte-geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "b0c47e923f907df42a418017126c2bf46ddb693e7d2726a1faf28b01f23dc50d",
+      "bytes": 854076
+    },
+    "testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "44bb5e1841e39923c7af983cd736a30f21c276f66558bc2e5a783416d42e22e0",
+      "bytes": 1482743
+    },
+    "testakte-insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "9acbeefb43459660013d9c820e6d8b453bebcdc60cb1d0a11a063ef6879c6ecb",
+      "bytes": 787311
+    },
+    "testakte-insolvenzanfechtung-blechliebe-bamberg.zip": {
+      "tag": "insolvenz-arbeitsakten-v1.0.0",
+      "sha256": "253cc108eee34d05962853a879bd8291110bc01a8aa576c23687ed0fc1f5f114",
+      "bytes": 988391
+    },
+    "testakte-insolvenzanfechtung-faltenwurf-fuerth.zip": {
+      "tag": "insolvenz-arbeitsakten-v1.0.0",
+      "sha256": "7d663d17f8bc88c49f8e282d8a79a69ec7f3e7b6fb71f426da91f8805bbd77db",
+      "bytes": 1057594
+    },
+    "testakte-insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "3d12d44232428bfdf2ad2a46d9531cae197dc3f518423b524aa3078f0464551e",
+      "bytes": 942066
+    },
+    "testakte-insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "3400384ceb35b0f22548d08eceb43aa2ed7482bb970e226f93ab6e0a894d6d3f",
+      "bytes": 950183
+    },
+    "testakte-insolvenzanfechtung-inkongruente-deckung-warenlager-an-erfuellungs-statt-kassel.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "f5f0000b95ebfc4be5b33f0f0a8643fb4bd7add840d3411e076d0c341f20ad9c",
+      "bytes": 943391
+    },
+    "testakte-insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "c35b6278e0634c62b8dc5b2955197f6c4fc955b326048bd4fbee86aebb5ca433",
+      "bytes": 942814
+    },
+    "testakte-insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "0895ecf1689826562207d23b9c45080b7dcde850a907bde4c55220494bc32e80",
+      "bytes": 895194
+    },
+    "testakte-insolvenzanfechtung-kongruente-deckung-krankenkasse-nach-antrag-luebeck.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "74acac61a26211e5c43b51451b3e4e55b636de0041cc472573d941feff486541",
+      "bytes": 858639
+    },
+    "testakte-insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "0fc31f01ce8c61a31a9927c2b5453402f557e26864cbaa4a7317cc3d3091a612",
+      "bytes": 855791
+    },
+    "testakte-insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "7119a37b7c810b133c5de66fe4174aba69d2fbcb66026e175655d130adc9a361",
+      "bytes": 870570
+    },
+    "testakte-insolvenzanfechtung-kontokorrent-verrechnungen-geduldete-ueberziehung-dortmund.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "a6c99a024fd8299546546be68543b1c1f88e0dd3667ca8bb31c82c7e672ce1de",
+      "bytes": 824162
+    },
+    "testakte-insolvenzanfechtung-schenkung-familie-oldenburg.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "24c8cca9a013ee6d53d056fbfc47cb07467755e76e6ba411270226053c7baac7",
+      "bytes": 870410
+    },
+    "testakte-insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "03f9c30ee4f02cab37f92fd587134c49a1059aa1b86bbe2b871e3049842cf34c",
+      "bytes": 978287
+    },
+    "testakte-insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln.zip": {
+      "tag": "insolvenz-arbeitsakten-v1.0.0",
+      "sha256": "cf5dae75ccb5d474d43249e29871ef245cf7294b7a8bace3c9dec2f0af6563b9",
+      "bytes": 1069885
+    },
+    "testakte-insolvenzanfechtung-veedelwende-zession-koeln.zip": {
+      "tag": "insolvenz-arbeitsakten-v1.0.0",
+      "sha256": "bdde26d1eba3dfb390a9b9ceaeb77c52d8e7f6b285bbfcaf353017b514c100e7",
+      "bytes": 1320274
+    },
+    "testakte-insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "d70d1586b9e9b18d161d91f43f685dce0b0c2a501c6f4fb8374fbfd09594f5d1",
+      "bytes": 870628
+    },
+    "testakte-insolvenzforderungen-handwerk-koeln.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "58d554475deb2dbe14eacfe616f92ea763843fea64a944bdb140de5bcd6624a7",
+      "bytes": 2166393
+    },
+    "testakte-insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "57f2d53480ee9d28a45adf93d5a229dec51f0bc04b030e79e2d8b0001b67d48c",
+      "bytes": 929689
+    },
+    "testakte-insolvenzrecht-forderungspruefung-mietkaution-berlin.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "e01b35d4cf228e1f933bbe5d71f8a55f4dd253fb4a6328e7d625930a60e547b5",
+      "bytes": 915743
+    },
+    "testakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "118f860f9552cf9625ceb425b1cf3491f85af13bfc277c43b14c46a6d01b135b",
+      "bytes": 1054270
+    },
+    "testakte-starug-schutzschirm-grossbach-druckguss-erfurt.zip": {
+      "tag": "grundakten-sammlung-v1.0.0",
+      "sha256": "01813772d91f68e03dc7aa1afe6983b2466d7c22f3f9095d2a94e51f60ec8dde",
+      "bytes": 1136501
+    }
+  }
+}

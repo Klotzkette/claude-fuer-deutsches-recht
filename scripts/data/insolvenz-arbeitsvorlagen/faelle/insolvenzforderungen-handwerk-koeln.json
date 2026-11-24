@@ -1,0 +1,187 @@
+[
+  {
+    "slug": "erklaerung-pruefungstermin",
+    "titel": "Prüfblatt für eine Forderungsanmeldung",
+    "zweck": "Für jede Anmeldung ein eigenes Blatt anlegen. Die abschließende Erklärung dient der Vorbereitung des Prüfungstermins.",
+    "abschnitte": [
+      {
+        "titel": "Verfahren und Anmeldung",
+        "absaetze": [
+          "Verfahren [Gericht, Aktenzeichen, Schuldner, Eröffnungszeitpunkt]. Prüfung [Termin oder schriftliches Verfahren, Fristen].",
+          "Tabellennummer [Nummer]. Anmeldung durch [Gläubiger und gegebenenfalls Vertreter, Vollmacht]. Eingang [Zeitpunkt, Form, etwaige Nachmeldung und Prüfweg nach § 177 InsO]."
+        ]
+      },
+      {
+        "titel": "Anmeldegrund und Leistung",
+        "absaetze": [
+          "Rechtsgrund, Bestellkreis und Leistungszeitraum [Vertrag, Teilleistung, Abnahme oder Lieferschein]. Die zeitliche Zuordnung zu vorläufigem und eröffnetem Verfahren ergibt sich aus [Leistungsdaten und Reichweite etwaiger Einzelermächtigung]."
+        ],
+        "spalten": [
+          "Teilposition",
+          "Angemeldet",
+          "Nachweis",
+          "Einwand oder Korrektur"
+        ],
+        "zeilen": 3
+      },
+      {
+        "titel": "Zahlungen, Gutschriften und Gläubigerwechsel",
+        "absaetze": [
+          "[Zuordnung zu Auftrag und Teilforderung, Wertstellung, widersprechende Belegangaben].",
+          "Bei Vorfinanzierung von Arbeitsentgelt: [Entgeltmonat, Zustimmung, einzelne Abtretung, Auszahlungsweg, gesetzlicher Übergang und verbleibender Berechtigter]."
+        ]
+      },
+      {
+        "titel": "Rang, Titel und Rechte an Gegenständen",
+        "absaetze": [
+          "Für [Teilposition] kommen [Forderungsart, Rang und gegebenenfalls Aufforderung zur Nachranganmeldung] in Betracht. [Begründung und Nachweise].",
+          "[Titel, Parteien, Vollstreckbarkeit, Zustellung, etwaige Auswirkungen auf die Verfolgung eines Widerspruchs nach § 179 InsO].",
+          "[Gegenstand, Eigentum oder Sicherungsrecht, Verwertungserlös, persönlicher Anspruch und noch offener Ausfall]."
+        ]
+      },
+      {
+        "titel": "Erklärung und Folgeauftrag",
+        "absaetze": [
+          "Zur laufenden Nummer [Nr.] erkläre ich [Feststellungsvorschlag nach Betrag/Rang oder begründetes ganzes bzw. teilweises Bestreiten]. Die Teilbeträge ergeben zusammen [Abstimmung mit der Anmeldung].",
+          "Gegenüber [Beteiligter] ist [welche Unterlage oder Erklärung] bis [Datum] anzufordern. Nach dem Termin sind [Tabelleneintrag, Widersprechender, Zuständigkeit für die weitere Verfolgung] abzugleichen. [Bearbeitung und Gegenprüfung]."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "betriebskauf-vollzugsprotokoll",
+    "titel": "Betriebskauf aus der Insolvenz · Vollzugs- und Übergabeprotokoll",
+    "zweck": "Die Beteiligten protokollieren den Vollzug anhand der unterzeichneten Vertragsfassung, der Anlagen und der tatsächlich verfügbaren Rechte.",
+    "abschnitte": [
+      {
+        "titel": "Vertrag, Vertretung und Stichtag",
+        "absaetze": [
+          "Zum Vertrag vom [Datum, Fassung] zwischen [veräußernde Partei und Amtsstellung] und [erwerbende Partei und Vertretung]. Die Übergabe erfolgt am [Ort, Datum, Uhrzeit]. Anwesend sind [Namen, Vertretungsnachweise]."
+        ]
+      },
+      {
+        "titel": "Voraussetzungen für die Übergabe",
+        "absaetze": [
+          "[Kaufpreiseingang, vereinbarte Teilzahlung oder Ablösung samt Zuordnung]. [Erforderliche Genehmigungen und etwaige Mitwirkung von Gläubigerorganen]."
+        ],
+        "spalten": [
+          "Vollzugsbedingung",
+          "Vertragsstelle",
+          "Beleg / Zeitpunkt",
+          "Offen und Folge"
+        ],
+        "zeilen": 3
+      },
+      {
+        "titel": "Maschinen, Vorräte und Fremdbestand",
+        "absaetze": [
+          "[Für jede Position Inventar- oder Seriennummer, Zustand und Zubehör mit der Vertragsanlage abgleichen. Beigestelltes Material und Vorbehaltsware gesondert ausweisen.]"
+        ],
+        "spalten": [
+          "Position / Anlage",
+          "Menge / Zustand",
+          "Eigentum und Freigabe",
+          "Übergabe / Vorbehalt"
+        ],
+        "zeilen": 3
+      },
+      {
+        "titel": "Aufträge, Räume, Kennzeichen und Daten",
+        "absaetze": [
+          "Die Belege für die Übernahme einzelner Verträge, die Zustimmung von Auftraggebern und Vermieter sowie den Stand von Anzahlungen, Abnahmen und Gewährleistung enthält [Anlage].",
+          "Übertragbarkeit und Umfang der Nutzungsrechte an [Zeichen, Domains, Software oder Konstruktionsdateien] sind in [Anlage] belegt. Datenumfang, Übergabeweg und Berechtigung: [Nachweis]."
+        ]
+      },
+      {
+        "titel": "Arbeitsverhältnisse und offene Positionen",
+        "absaetze": [
+          "Für die arbeitsrechtliche Übergabe sind [Zuständigkeit, Unterrichtung, dokumentierter Stand etwaiger Widersprüche und beschränkter Zugriff auf Personalunterlagen] vermerkt.",
+          "Zum Stichtag abgegrenzt werden [Forderungen, Zahlungen, laufende Kosten und Nutzungen]. Ausgenommene Gegenstände verbleiben bei [Berechtigter]. Offene Positionen werden wie folgt nachbearbeitet: [Gegenstand, Verantwortlicher, Frist und Rechtsfolge nach Vertrag].",
+          "[Ort und Datum] · [Unterschrift veräußernde Partei] · [Unterschrift erwerbende Partei] · Anlagenstand [Fassungen]."
+        ]
+      }
+    ]
+  },
+  {
+    "format": "xlsx",
+    "slug": "forderungspruefung-und-sicherheiten",
+    "titel": "Forderungsprüfung und Sicherheiten",
+    "zweck": "Jede Teilposition mit stabiler Kennung erfassen. Für Geldspalten bestätigte Nullbeträge eintragen, ungeklärte Beträge offen lassen. Die Restspalte dient der Abstimmung des Anmeldebetrags.",
+    "blaetter": [
+      {
+        "titel": "Prüfpositionen",
+        "spalten": [
+          "Tabellennr. / Teilposition",
+          "Gläubiger",
+          "Grund / Leistungszeitraum",
+          "Angemeldet",
+          "Zur Feststellung",
+          "Bestritten",
+          "Sonstiger Abgang",
+          "Ungeklärte Differenz",
+          "Beleg / Grund"
+        ],
+        "zeilen": 15,
+        "formeln": {
+          "Ungeklärte Differenz": "=IF(COUNT(D{r}:G{r})=4,ROUND(D{r}-SUM(E{r}:G{r}),2),\"\")"
+        },
+        "formate": {
+          "Angemeldet": "#,##0.00",
+          "Zur Feststellung": "#,##0.00",
+          "Bestritten": "#,##0.00",
+          "Sonstiger Abgang": "#,##0.00",
+          "Ungeklärte Differenz": "#,##0.00"
+        }
+      },
+      {
+        "titel": "Sonderrechte",
+        "spalten": [
+          "Tabellennr. / Teilposition",
+          "Gegenstand / Recht",
+          "Berechtigter",
+          "Dinglicher Beleg",
+          "Stand der Verwertung",
+          "Tatsächlicher Erlös",
+          "Zuordnung / Ausfallnachweis",
+          "Rang / Teilnahme"
+        ],
+        "zeilen": 15,
+        "formate": {
+          "Tatsächlicher Erlös": "#,##0.00"
+        }
+      },
+      {
+        "titel": "Entgelt und Übergang",
+        "spalten": [
+          "Tabellennr. / Teilposition",
+          "Beschäftigtenkennung",
+          "Entgeltzeitraum",
+          "Abtretung / Zustimmung",
+          "Vorfinanzierung",
+          "Zahlung / Datum",
+          "Leistungsbescheid",
+          "Berechtigter und Rest",
+          "Beleg"
+        ],
+        "zeilen": 15
+      },
+      {
+        "titel": "Nachmeldungen und Titel",
+        "spalten": [
+          "Tabellennr.",
+          "Anmeldefrist",
+          "Eingang",
+          "Titel / Zustellung",
+          "Prüfweg",
+          "Widersprechender",
+          "Nächster Schritt / Frist"
+        ],
+        "zeilen": 15,
+        "formate": {
+          "Anmeldefrist": "dd.mm.yyyy",
+          "Eingang": "dd.mm.yyyy"
+        }
+      }
+    ]
+  }
+]

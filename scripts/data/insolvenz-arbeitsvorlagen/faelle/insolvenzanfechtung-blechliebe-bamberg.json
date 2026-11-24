@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "mandantenbrief-raten-vorkasse-und-zession",
+    "titel": "Mandantenbrief zu Altraten, Vorkasselieferung und Sicherungsabtretung",
+    "zweck": "Vertrauliche schriftliche Einschätzung für den vertretenen Lieferanten zur Rückforderung und zu seinen eigenen offenen Positionen.",
+    "abschnitte": [
+      {
+        "titel": "Anschrift und Bezug",
+        "absaetze": [
+          "[Absender und Anschrift]",
+          "[Empfänger, Funktion und Anschrift]",
+          "[Ort und Datum] · [Unser Zeichen] · [Ihr Zeichen]",
+          "Betreff: Vertraulich – Ihre Anfrage zur Rückgewährforderung [Aktenzeichen]",
+          "[Anrede]"
+        ]
+      },
+      {
+        "titel": "Mandatsumfang und Fristen",
+        "absaetze": [
+          "Sie haben uns mit [Umfang der außergerichtlichen Vertretung] beauftragt. Die Gegenseite verlangt [Leistung] bis [Datum]. Für die Antwort ist [Freigabeweg] vereinbart. Der Stand eines gerichtlichen Verfahrens ergibt sich aus [Zustellnachweis oder Auskunft]."
+        ]
+      },
+      {
+        "titel": "Altraten und laufende Belieferung",
+        "absaetze": [
+          "Ausgangsforderung, Zahlungsplan und spätere Abreden ergeben sich aus [Unterlagen]. Wir trennen bereits fällige Altrechnungen von Zahlungen, denen eine konkrete neue Lieferung gegenübersteht."
+        ],
+        "spalten": [
+          "Rechnung / Fälligkeit",
+          "Rate bzw. Vorkasse / Tag",
+          "Lieferung / Verrechnung",
+          "Einwand / Beleg"
+        ],
+        "zeilen": 4
+      },
+      {
+        "titel": "Informationsstand im Unternehmen",
+        "absaetze": [
+          "Der Vertrieb erfuhr [Information und Quelle] am [Zeitpunkt]. Der Buchhaltung lagen zu diesem Zeitpunkt [Rückstände, Mahnungen und Antworten] vor. An die Entscheidungsstelle gelangten [Inhalt, Zeitpunkt und Beleg]. Für die einzelnen Zahlungen bedeutet das [abweichende Deutungen und verbleibende Unsicherheit]."
+        ]
+      },
+      {
+        "titel": "Sicherheit und offene eigene Forderung",
+        "absaetze": [
+          "Die abgetretene Forderung ist durch [Vertrag, Schuldner der Forderung und Bestimmbarkeit] beschrieben. Zum Zugang der Anzeige, Einzug und Erlös liegt [Belegstand] vor. Für Behalten, Rückübertragung oder weitere Sicherung des Rechts kommen [Handlungsoptionen und Folgen] in Betracht.",
+          "Die zur Tabelle in Betracht kommende Restforderung errechnet sich aus [Ausgangsforderung, Teilzahlungen, Gutschriften und ggf. künftige Rückgewähr]. Für die Anmeldung schlagen wir [Betrag, Rang, Unterlagen und Zeitpunkt] vor."
+        ]
+      },
+      {
+        "titel": "Einschätzung und Entscheidung",
+        "absaetze": [
+          "Unsere vorläufige Einschätzung lautet je Position [Ergebnis, Beweisrisiko und Bandbreite]. Für die getrennten Rücksprachen mit Vertrieb und Buchhaltung benötigen wir [Unterlagen oder Gesprächspunkte]. Bitte teilen Sie uns bis [Datum] mit, welche Fassung der beigefügten Außenantwort wir freigeben dürfen."
+        ]
+      },
+      {
+        "titel": "Abschluss",
+        "absaetze": [
+          "Mit freundlichen Grüßen",
+          "[Unterschrift]",
+          "[Name und Funktion]",
+          "Anlagen: [Bezeichnung und Umfang der beigefügten Unterlagen]"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "antwort-lieferant-auf-rueckforderung",
+    "titel": "Antwort des Lieferanten auf die Rückgewährforderung",
+    "zweck": "Außergerichtliche Antwort an die Insolvenzverwaltung. Sie hält die Erklärung zu den einzelnen Vorgängen und den Umfang der angeforderten Belege fest.",
+    "abschnitte": [
+      {
+        "titel": "Anschrift und Bezug",
+        "absaetze": [
+          "[Absender und Anschrift]",
+          "[Empfänger, Funktion und Anschrift]",
+          "[Ort und Datum] · [Unser Zeichen] · [Ihr Zeichen]",
+          "Betreff: Ihr Rückgewährverlangen vom [Datum] im Verfahren [Bezeichnung]",
+          "[Anrede]"
+        ]
+      },
+      {
+        "titel": "Vertretung und Stand der Prüfung",
+        "absaetze": [
+          "Wir vertreten [Mandantschaft]. Ihr Schreiben vom [Datum] betrifft [bezeichnete Einzelvorgänge]. Zu den bereits geprüften Punkten nehmen wir im freigegebenen Umfang Stellung."
+        ]
+      },
+      {
+        "titel": "Raten auf frühere Lieferungen",
+        "absaetze": [
+          "Die Beträge aus [Ratenvereinbarung und Zahlungsdaten] sind folgenden Forderungen zugeordnet: [Rechnung, Fälligkeit, Tilgungsbestimmung und Beleg]. Zu der von Ihnen angenommenen Kenntnis im jeweiligen Zahlungszeitpunkt tragen wir vor: [freigegebene Darstellung]."
+        ]
+      },
+      {
+        "titel": "Vorkasse für eine neue Lieferung",
+        "absaetze": [
+          "Bei [Bestellung] sind der Eingang des Kaufpreises am [Datum] und die Übergabe der Ware am [Datum] in [Belege] dokumentiert. Zur Gleichwertigkeit und zur behaupteten Tilgung eines Altsaldos ergibt sich daraus [Stellungnahme]."
+        ]
+      },
+      {
+        "titel": "Abtretung und weiteres Verfahren",
+        "absaetze": [
+          "Zu der von Ihnen angesprochenen Sicherheit können wir anhand von [Urkunde, Anzeige, Zahlungsnachweis] Folgendes mitteilen: [freigegebene Angaben]. Zu den hierfür beanspruchten Rechtsfolgen bitten wir um [Konkretisierung oder Unterlagen].",
+          "Bitte ordnen Sie [noch streitige Positionen] den jeweiligen Kontobelegen und den geltend gemachten Anspruchsgrundlagen zu. Für die ergänzende Stellungnahme bitten wir um [Frist oder Verfahrensabstimmung]."
+        ]
+      },
+      {
+        "titel": "Abschluss",
+        "absaetze": [
+          "Mit freundlichen Grüßen",
+          "[Unterschrift]",
+          "[Name und Funktion]",
+          "Anlagen: [Bezeichnung und Umfang der beigefügten Unterlagen]"
+        ]
+      }
+    ]
+  }
+]

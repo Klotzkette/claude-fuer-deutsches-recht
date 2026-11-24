@@ -1,0 +1,54 @@
+{
+  "slug": "beschwerde-aufhebung-restrukturierung",
+  "titel": "Sofortige Beschwerde gegen die Aufhebung einer Restrukturierungssache",
+  "zweck": "Schriftsatz der Schuldnerseite mit Finanzierungsnachweis und Gläubigervergleich.",
+  "abschnitte": [
+    {
+      "titel": "Rubrum und Antrag",
+      "absaetze": [
+        "An [Gericht]. In der Restrukturierungssache [Schuldnerin, Vertretung, Anschrift, Aktenzeichen] lege ich namens [Beteiligte] gegen den Beschluss vom [Datum], zugestellt am [Datum], sofortige Beschwerde nach § 33 Abs. 4 StaRUG ein.",
+        "Ich beantrage, [vollständiger, dem Verfahrensstand entsprechender Antrag]."
+      ]
+    },
+    {
+      "titel": "Zulässigkeit und fortbestehendes Interesse",
+      "absaetze": [
+        "[Beschwerdeberechtigung, Form, Fristberechnung und Eingangsnachweis]. Das Restrukturierungsziel verfolgen wir mit [Schritte und Erklärungen] weiter. Die Wirkung der Anzeige nach § 31 Abs. 4 Nr. 3 und 4 StaRUG, Zeitablauf und Rechtsmittel sind wie folgt zu beurteilen: [Würdigung und Fundstelle]."
+      ]
+    },
+    {
+      "titel": "Gründe der angefochtenen Entscheidung",
+      "absaetze": [
+        "Der Beschluss stützt sich auf [tragende Feststellungen mit Fundstellen]. Zum Status und zur Anzeige nach § 32 Abs. 3 StaRUG: [Zeitpunkt, Grundlage und weitere Umstände]. Angegriffen wird [Feststellung oder rechtliche Würdigung] wegen [Grund und Beweis]."
+      ]
+    },
+    {
+      "titel": "Interesse der Gläubigergesamtheit",
+      "absaetze": [
+        "Nach § 33 Abs. 2 Satz 1 Nr. 1 Halbsatz 2 StaRUG: Warum läge die Eröffnung angesichts des erreichten Planstands offensichtlich nicht im Interesse der Gläubigergesamtheit? [Tatsachenvortrag mit Zeit-, Kosten- und Vollzugsrisiken].",
+        "[Verteilbares Vermögen, Quoten und Auswirkung unsicherer Ansätze]."
+      ],
+      "spalten": [
+        "Vergleichsposition",
+        "Planverfahren",
+        "Insolvenzverfahren",
+        "Quelle / Unsicherheit"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Planbetroffene Forderung und Wahrscheinlichkeit der Zielerreichung",
+      "absaetze": [
+        "Zu Halbsatz 3: [Kündigung oder Fälligstellung, Wirkungsdatum und Einbeziehung der Forderung in das angezeigte Konzept]. Die Ursächlichkeit für die Insolvenzreife ergibt sich aus [Statusvergleich und übrige fällige Pflichten].",
+        "Zur überwiegenden Wahrscheinlichkeit der Zielerreichung: [Gruppen und Zustimmungslage, Drittbeiträge, Bindungswirkung, Leistungsfähigkeit, Sicherung und Auszahlungstermin]."
+      ]
+    },
+    {
+      "titel": "Ermessensausübung und Beweisangebote",
+      "absaetze": [
+        "Die Schuldnerin stützt die Ausnahme auf [Tatsachen und Nachweise]. Zum gerichtlichen Ermessen: [abwägungserhebliche Gründe, Gegenargumente und konkreter Beschwerdeangriff].",
+        "Anlagen: [Planfassung, Status, Zusagen und Zugangsbelege]. [Ort, Datum, anwaltliche Zeichnung]."
+      ]
+    }
+  ]
+}

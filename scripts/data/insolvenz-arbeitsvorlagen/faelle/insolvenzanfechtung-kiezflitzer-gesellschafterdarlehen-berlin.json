@@ -1,0 +1,70 @@
+{
+  "slug": "klage-darlehen-beraterhonorar-vorschuss",
+  "titel": "Klageschrift zu Darlehensrückzahlung, Beraterhonorar und Vorschuss",
+  "zweck": "Entwurf für die Rückgewährklage gegen den Empfänger mehrerer Zahlungen. Die in den Antrag aufgenommenen Beträge werden mit der Begründung für jede Zahlung abgeglichen.",
+  "abschnitte": [
+    {
+      "titel": "Gericht und Parteien",
+      "absaetze": [
+        "An [Gericht, zuständige Abteilung oder Kammer, Anschrift]",
+        "[Ort und Datum] · Geschäftszeichen: [Zeichen]",
+        "[Name und Anschrift der klagenden Partei in ihrer Eigenschaft als Insolvenzverwalterin oder Insolvenzverwalter über das Vermögen von …], vertreten durch [Prozessbevollmächtigte und Anschrift],",
+        "gegen [Name oder Firma der beklagten Partei, Vertretung und ladungsfähige Anschrift]",
+        "wegen Rückgewähr von Zahlungen an eine an der Schuldnerin beteiligte Person. Vorläufiger Streitwert: [Betrag und Herleitung]."
+      ]
+    },
+    {
+      "titel": "Klageanträge und Bezifferung",
+      "absaetze": [
+        "Die klagende Partei beantragt, die beklagte Partei zu verurteilen, an sie in ihrer Eigenschaft als Insolvenzverwaltung [Hauptsumme und Währung] zu zahlen. Als Nebenforderung werden [Zinssatz, Bezugsbetrag und begründeter Beginn je Teilforderung] beantragt.",
+        "Die Hauptsumme enthält ausschließlich die in dieser Aufstellung zur Entscheidung gestellten Beträge. Zum Streitwert: [Summe und Abgleich mit den Anträgen]."
+      ],
+      "spalten": [
+        "Zahlung / Valuta",
+        "Überwiesener Betrag",
+        "Eingeklagter Teil",
+        "Grund / Anlagenbezug"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Verfahren und Funktionen",
+      "absaetze": [
+        "Der Eröffnungsantrag ging am [Datum] ein. Die Bestellung der klagenden Partei ergibt sich aus [Beschluss]. Die Zuständigkeit folgt aus [Tatsachen und Vorschriften]. Beteiligung, Geschäftsführung, Tätigkeit im Finanzbereich und tatsächlicher Zugang zu Informationen ergeben sich aus [Vertrag, Register, Gesellschafterunterlage und Beweis]."
+      ]
+    },
+    {
+      "titel": "Rückführung des Darlehens",
+      "absaetze": [
+        "Die Forderung beruhte auf [Darlehensvertrag, Auszahlung, Laufzeit und Rückzahlungsabrede]. Durch [Buchung, Tilgungsbestimmung] wurde [Betrag] zurückgeführt. Zum Zeitraum des § 135 Abs. 1 Nr. 2 InsO und zu einer etwaigen Ausnahme für den Empfänger ergibt sich [Anwendung auf die festgestellte Rolle und Beteiligung]."
+      ]
+    },
+    {
+      "titel": "Vergütung aus dem Beratervertrag",
+      "absaetze": [
+        "Vertraglich geschuldet waren [Leistungsinhalt, Abrechnung, Fälligkeit]. Für die streitige Rechnung sind [Stundennachweise und konkrete Arbeitsergebnisse] den Positionen [Zeitraum, Zahlung] zugeordnet. Wert und zeitlicher Zusammenhang von Leistung und Gegenleistung sowie die Deckungsart sind danach wie folgt zu beurteilen: [Würdigung, Einwendungen und Beweis]."
+      ]
+    },
+    {
+      "titel": "Vorschuss auf künftige Beratung",
+      "absaetze": [
+        "Der an den Empfänger gezahlte Vorschuss vom [Datum] ist durch [Überweisung und Verwendungszweck] belegt. Ein Anspruch auf Vorleistung im Zahlungszeitpunkt ergibt sich nach dem Wortlaut der Vereinbarung und etwaigen Änderungen aus [Belegstand und Würdigung]. Für Zeitfenster, Anfechtungstatbestand und Höhe werden [Tatsachen] geltend gemacht."
+      ]
+    },
+    {
+      "titel": "Kenntnis und Finanzierungsaussichten",
+      "absaetze": [
+        "Für die Zahlungen, bei denen es auf subjektive Merkmale ankommt, erreichten den Empfänger [Bericht, Gespräch, Protokoll oder Mahnung] am [Zeitpunkt]. Der damalige Stand einer in Aussicht gestellten Finanzierung war [Bindungsgrad, Bedingungen und verfügbare Mittel]. Den Einwendungen aus [vorgerichtlicher Antwort] stehen [Belege oder Gegenindizien] gegenüber. Den Vermögensnachteil je geltend gemachter Zahlung zeigt [Vergleichsrechnung]."
+      ]
+    },
+    {
+      "titel": "Beweisangebote und Unterzeichnung",
+      "absaetze": [
+        "Zur Behauptung [präzise Beweistatsache] wird Beweis angeboten durch [Urkunde mit Fundstelle / Zeugin oder Zeuge mit ladungsfähiger Anschrift / anderes Beweismittel].",
+        "Zum vorgerichtlichen Schriftwechsel und zu einer gütlichen Beilegung wird erklärt: [Angaben].",
+        "Anlagenverzeichnis: [Anlage, Dokument, Datum und Bezug zum Vortrag].",
+        "[Ort und Datum] · [Name, Berufsbezeichnung und Unterzeichnung]"
+      ]
+    }
+  ]
+}

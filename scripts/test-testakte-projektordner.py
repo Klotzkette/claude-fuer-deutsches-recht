@@ -11,9 +11,10 @@ from unittest.mock import patch
 import zipfile
 
 from docx import Document
+from openpyxl import Workbook
 from reportlab.pdfgen.canvas import Canvas
 from testakte_file_filter import include_in_working_dump
-from testakte_zip_common import safe_archive_name, structured_archive_pairs
+from testakte_zip_common import safe_archive_name, structured_archive_pairs, working_dump_archive_pairs
 from testakte_disclaimer import NOTICE_BYTES
 
 SCRIPTS = Path(__file__).resolve().parent
@@ -120,6 +121,53 @@ class ProjectDirectories(unittest.TestCase):
                 singles, _ = E.build_single(case, root)
                 with zipfile.ZipFile(singles) as archive:
                     self.assertEqual(set(archive.namelist()), {'README.txt', 'Eingang.pdf', 'Klageentwurf.pdf'})
+
+    def test_editable_forms_only_in_current_native_zip(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            case = root / 'testakten' / 'probe'
+            forms = case / 'Arbeitsvorlagen'
+            forms.mkdir(parents=True)
+            evidence = case / 'Eingang.txt'
+            evidence.write_text('Die Zahlung ist auf dem Konto eingegangen.', encoding='utf-8')
+            word = forms / 'Pruefvermerk.docx'
+            doc = Document()
+            doc.add_paragraph('Die Forderung wurde am [Datum] angemeldet.')
+            doc.save(word)
+            doc.add_paragraph('Musterlösung und Erwartungshorizont')
+            doc.save(forms / 'Hinweise.docx')
+            sheet = forms / 'Buchungen.xlsx'
+            book = Workbook()
+            book.active.append(['Buchung vom [Datum]', 'Betrag'])
+            book.save(sheet)
+            book.active.append(['Prüferhinweis'])
+            book.save(forms / 'Auswertung.xlsx')
+            (forms / '~$Pruefvermerk.docx').write_bytes(b'Office-Sperrdatei')
+            (forms / 'Interne-Notiz.txt').write_text('Bearbeitungsnotiz', encoding='utf-8')
+
+            dist = root / 'dist'
+            native_names = {'README.txt', 'Grundakte/Eingang.txt'}
+            with patch('testakte_zip_common.selection', return_value={'central': {'probe': ['Eingang.txt']}}):
+                # Den aktuellen CLI-Pfad prüfen, einschließlich der Wahl von include_forms.
+                with patch.object(W, 'TESTAKTEN', case.parent), patch.object(V, 'TESTAKTEN', case.parent), \
+                        patch('sys.argv', ['akten-zips', str(dist), case.name]), redirect_stdout(io.StringIO()):
+                    W.main()
+                    V.main()
+                with zipfile.ZipFile(dist / 'testakte-probe.zip') as archive:
+                    self.assertCountEqual(archive.namelist(), native_names | {
+                        'Arbeitsvorlagen/Pruefvermerk.docx', 'Arbeitsvorlagen/Buchungen.xlsx',
+                    })
+                    for form in (word, sheet):
+                        self.assertEqual(archive.read(form.relative_to(case).as_posix()), form.read_bytes())
+
+                self.assertEqual(working_dump_archive_pairs(case, include_gesamt_pdf=False),
+                                 [(evidence, 'Grundakte/Eingang.txt')])
+                historical, _ = W.build_single(case, root)
+                with zipfile.ZipFile(historical) as archive:
+                    self.assertCountEqual(archive.namelist(), native_names)
+                individual, _ = E.build_single(case, root)
+                with zipfile.ZipFile(individual) as archive:
+                    self.assertCountEqual(archive.namelist(), ['README.txt', 'Eingang.pdf'])
 
     def test_intake_rejects_procedural_attachment_in_selected_email(self):
         with tempfile.TemporaryDirectory() as temporary:

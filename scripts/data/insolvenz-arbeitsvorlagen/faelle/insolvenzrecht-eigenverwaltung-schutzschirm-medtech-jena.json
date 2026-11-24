@@ -1,0 +1,123 @@
+[
+  {
+    "slug": "antrag-eigenverwaltung-schutzschirm",
+    "titel": "Eigenverwaltung und Schutzschirm · Antragsentwurf",
+    "zweck": "Die Anträge anhand des aktuellen Stichtagsbefunds auswählen und die bezeichneten Nachweise in der einzureichenden Fassung beifügen.",
+    "abschnitte": [
+      {
+        "titel": "Gericht, Antragsteller und Anträge",
+        "absaetze": [
+          "An das [Insolvenzgericht]. Schuldnerin [Rechtsträger, Sitz, Register, Geschäftsmittelpunkt], gesetzlich vertreten durch [Organ, Vertretungsnachweis].",
+          "Namens [Schuldnerin] beantrage ich die Eröffnung des Insolvenzverfahrens über ihr Vermögen und [konkret gefasster Antrag auf Eigenverwaltung].",
+          "Zum Eröffnungsverfahren beantrage ich [vorläufige Eigenverwaltung und gegebenenfalls konkret benötigte Anordnungen]. Nach § 270d Abs. 1 InsO beantrage ich [Frist zur Vorlage eines Insolvenzplans, gewünschte Dauer und Begründung]."
+        ]
+      },
+      {
+        "titel": "Eröffnungsgrund und Stichtagsstatus",
+        "absaetze": [
+          "Am [Stichtag] sind [fällige Verpflichtungen] und [tatsächlich verfügbare Mittel] durch [Anlagen] belegt. Bei streitigen Positionen ergeben sich Fälligkeit, Gegenbeleg und Folgen einer Berücksichtigung aus [Vertrag, Leistungsnachweis und Alternativrechnung].",
+          "Zum Eintritt einer drohenden Zahlungsunfähigkeit oder Überschuldung und zur Abgrenzung gegenüber bereits eingetretener Zahlungsunfähigkeit trage ich vor: [zeitlicher Verlauf, Prognoseannahmen und Nachweise]. Die Aktualisierung bis zum Antragsdatum ergibt [Stand]."
+        ]
+      },
+      {
+        "titel": "Finanzierung des Geschäftsbetriebs",
+        "absaetze": [
+          "Der Finanzplan nach § 270a Abs. 1 Nr. 1 InsO für sechs Monate liegt als [Anlage] bei. Er behandelt Fortführungskosten, Verfahrenskosten, deren Fälligkeit und Deckung durch [Finanzierungsquellen, Zusagestatus und Bedingungen].",
+          "Für das operative Wochenfenster ergeben sich aus [Planfassung] die kritischen Zahlungstermine. Verfügbarkeit von Kreditlinien, Reichweite von Stillhalten und Auswirkungen einer Umstellung auf Vorkasse sind belegt durch [Unterlagen]. Der Einfluss einer Rangrücktrittsvereinbarung auf Fälligkeit und Status ist getrennt vom Mittelzufluss dargelegt in [Anlage]."
+        ]
+      },
+      {
+        "titel": "Eigenverwaltungsplanung und Erklärungen",
+        "absaetze": [
+          "Krisenursache, Sanierungsziel, Maßnahmen, Verhandlungsstand und insolvenzrechtliche Organisation ergeben sich aus [Anlagen, Zuständigkeiten und Kontrollbefugnisse]. Die voraussichtlichen Mehr- oder Minderkosten gegenüber dem Regelverfahren erläutert [Vergleich samt Bezugsmasse].",
+          "Zu Rückständen in den gesetzlich genannten Bereichen, früheren Vollstreckungs- oder Verwertungssperren und Offenlegung erteilen wir die Erklärungen nach § 270a Abs. 2 InsO in [vollständige Erklärung und Anlage]."
+        ]
+      },
+      {
+        "titel": "Bescheinigung und Sachwaltervorschlag",
+        "absaetze": [
+          "Die mit Gründen versehene Bescheinigung nach § 270d Abs. 1 InsO wurde von [Name, Qualifikation und Insolvenzerfahrung] auf Grundlage der Unterlagen bis [Stichtag] erstellt. Zum Sanierungsziel und seinen Aussichten verweist sie auf [konkrete Nachweise].",
+          "Für das Amt des vorläufigen Sachwalters schlagen wir [andere Person als den Aussteller der Bescheinigung, Eignung und Bereitschaft] vor. Zu Gläubigerinteressen und Stand einer Ausschussbildung: [Tatsachen und Belege]."
+        ]
+      },
+      {
+        "titel": "Anlagen, Aktualisierung und Zeichnung",
+        "absaetze": [
+          "[Gläubigerverzeichnis und Erklärungen nach § 13 InsO, Eigenverwaltungsplanung, Bescheinigung, weitere Unterlagen nach Antrag].",
+          "Ein zwischenzeitlicher Eintritt der Zahlungsunfähigkeit ist nach § 270d Abs. 4 InsO unverzüglich anzuzeigen. Zuständig für die laufende Überwachung sind [Verantwortliche, Berichtstakt und Meldeweg].",
+          "[Ort, Datum, Vertretungsberechtigung und Unterschrift]."
+        ]
+      }
+    ]
+  },
+  {
+    "format": "xlsx",
+    "slug": "wochenliquiditaet-und-massnahmen",
+    "titel": "Liquiditätsplanung für dreizehn Wochen",
+    "zweck": "Je Woche verfügbare Anfangsmittel mit dem Vorwochenschluss abstimmen. Bestätigte Nullwerte ausdrücklich erfassen. Bestrittene Zusatzabflüsse nur im Szenario erfassen. Operative Fortschreibung zur Eigenverwaltungsplanung.",
+    "blaetter": [
+      {
+        "titel": "Wochenplan",
+        "spalten": [
+          "Wochenbeginn",
+          "Anfangsbestand",
+          "Gesicherte Einzahlungen",
+          "Fällige Auszahlungen",
+          "Endbestand Basis",
+          "Streitiger Zusatzabfluss",
+          "Endbestand Stress",
+          "Belege / Stand"
+        ],
+        "zeilen": 13,
+        "formeln": {
+          "Endbestand Basis": "=IF(COUNT(B{r}:D{r})=3,ROUND(B{r}+C{r}-D{r},2),\"\")",
+          "Endbestand Stress": "=IF(COUNT(E{r}:F{r})=2,ROUND(E{r}-F{r},2),\"\")"
+        },
+        "formate": {
+          "Wochenbeginn": "dd.mm.yyyy",
+          "Anfangsbestand": "#,##0.00",
+          "Gesicherte Einzahlungen": "#,##0.00",
+          "Fällige Auszahlungen": "#,##0.00",
+          "Endbestand Basis": "#,##0.00",
+          "Streitiger Zusatzabfluss": "#,##0.00",
+          "Endbestand Stress": "#,##0.00"
+        }
+      },
+      {
+        "titel": "Kritische Positionen",
+        "spalten": [
+          "Position",
+          "Vertrag / Beleg",
+          "Fällig am",
+          "Wert",
+          "Bestätigt oder strittig",
+          "Bedingung / Kreditverfügbarkeit",
+          "Szenario / Woche",
+          "Zuständig"
+        ],
+        "zeilen": 15,
+        "formate": {
+          "Fällig am": "dd.mm.yyyy",
+          "Wert": "#,##0.00"
+        }
+      },
+      {
+        "titel": "Maßnahmen und Nachweise",
+        "spalten": [
+          "Fälligkeit",
+          "Finanzierungsbedarf / Anlass",
+          "Maßnahme",
+          "Finanzierungspartner",
+          "Zusage und Bedingungen",
+          "Wirkung in Woche",
+          "Nächster Nachweis",
+          "Verantwortlich"
+        ],
+        "zeilen": 15,
+        "formate": {
+          "Fälligkeit": "dd.mm.yyyy"
+        }
+      }
+    ]
+  }
+]

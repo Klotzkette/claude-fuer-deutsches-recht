@@ -1,0 +1,52 @@
+{
+  "slug": "pruefvermerk-cashpool-nachbesicherung-minderheit",
+  "titel": "Entscheidungsvermerk zu Cash-Pool, Nachbesicherung und Minderheitsdarlehen",
+  "zweck": "Vorlage für die Handakte der Insolvenzverwaltung zur Auswahl von Anspruch, Gegner, Beweismitteln und erforderlicher Freigabe.",
+  "abschnitte": [
+    {
+      "titel": "Auftrag und Verfahrensdaten",
+      "absaetze": [
+        "Verfahren und Aktenzeichen: [Eintrag]. Bearbeiter, Stand und Adressat: [Eintrag]. Maßgeblicher Eröffnungsantrag und Bestellungsnachweis: [Fundstellen]. Zur Entscheidung stehen [Anspruchsgegner und beantragte Freigabe]."
+      ]
+    },
+    {
+      "titel": "Poolvertrag und Zahlungsrechnung",
+      "absaetze": [
+        "Kontoinhaber, Poolführung und beteiligte Gesellschaften: [Zuordnung]. Aus [Vertragsklausel und tatsächlicher Handhabung] ergeben sich [Forderungsinhaber, Rückzahlbarkeit und Laufzeit]. Für das maßgebliche Zeitfenster wurde [Beginn, Ende und Begründung] zugrunde gelegt."
+      ],
+      "spalten": [
+        "Tag / Buchungsbeleg",
+        "Abführung / Zuführung",
+        "Saldo Schuldner vorher / nachher",
+        "Valuta / Tilgungsbezug"
+      ],
+      "zeilen": 4
+    },
+    {
+      "titel": "Rückführung an die Poolführung",
+      "absaetze": [
+        "Anfangssaldo [Betrag] und Endsaldo [Betrag] sind aus [Kontenabgleich] hergeleitet. Bruttoabführungen [Betrag], Zwischenzuführungen [Betrag], zwischenzeitlich höchste Inanspruchnahme [Betrag und Tag]. Der Verlauf und die Vertragsgestaltung sprechen für folgende Bemessung nach § 135 Abs. 1 Nr. 2 InsO: [Maßstab, Gegenrechnung, Ergebnis]. Bereits berücksichtigte Buchungen sind [Abgrenzung]."
+      ]
+    },
+    {
+      "titel": "Nachträgliche Sicherheit für das Altdarlehen",
+      "absaetze": [
+        "Gesicherte Forderung, Entstehung, etwaige ursprüngliche Sicherungszusage und Vollzug der Übereignung: [Urkunden und Zeitpunkte]. Die Anlage [Verzeichnis] identifiziert die erfassten Maschinen durch [Kennzeichen, Besitz und Eigentum].",
+        "Für § 135 Abs. 1 Nr. 1 InsO ergibt sich [Prüfung des Zeitfensters, der Sicherung und der Gläubigerbenachteiligung]. Nach Stand von Verwertung und Besitz kommt [Freigabe, Rückübertragung, Erlös oder Wertersatz unter den jeweiligen Voraussetzungen] in Betracht. Die Bewertung stützt sich auf [Grundlage und Zeitpunkt]."
+      ]
+    },
+    {
+      "titel": "Rückzahlung an den weiteren Gesellschafter",
+      "absaetze": [
+        "Empfänger, Beteiligungsquote, Geschäftsführung und mögliche Abreden zur gemeinsamen Einflussnahme: [Feststellungen mit Belegen]. Die Zahlung betrifft [Darlehensforderung und Valuta]. Das Kleinbeteiligtenprivileg nach § 39 Abs. 5 in Verbindung mit § 135 Abs. 4 InsO ist dazu wie folgt zu würdigen: [für und gegen seine Voraussetzungen sprechende Umstände]."
+      ]
+    },
+    {
+      "titel": "Krisenkenntnis, Beweisbedarf und Verfügung",
+      "absaetze": [
+        "Reporting, Angaben im Eigenantrag und Treasury-Unterlagen weichen zu [Stichtag und Sachverhalt] voneinander ab. Für [Anspruchsgrundlage] ist das für [konkretes Merkmal] erheblich. Für eine ergänzende Aufklärung benötigen wir [Beleg, Person und Auftrag].",
+        "Entscheidung je Gegner: [weiter aufklären / außergerichtlich geltend machen / Klage vorbereiten / zurückstellen], begründet durch [Beweisstand und wirtschaftliche Aussicht]. Wiedervorlage [Datum]. Bearbeitung und Freigabe: [Name, Funktion, Zeichnung]."
+      ]
+    }
+  ]
+}

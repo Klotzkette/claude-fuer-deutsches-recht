@@ -1,0 +1,56 @@
+{
+  "slug": "replik-kontokorrent-verrechnungen",
+  "titel": "Erwiderung der Insolvenzverwaltung auf Einwendungen gegen Kontoverrechnungen",
+  "zweck": "Schreiben an die Bank über die Aufteilung der Rückführung auf Kreditlinie und geduldete Überziehung sowie deren Sicherheiten- und Bargeschäftseinwand.",
+  "abschnitte": [
+    {
+      "titel": "Adressat und Gegenstand",
+      "absaetze": [
+        "[Insolvenzverwaltung, Anschrift] an [Kreditinstitut oder bevollmächtigte Kanzlei, Anschrift]. [Ort, Datum]. Insolvenzverfahren über das Vermögen von [Schuldnerin], [Gericht und Aktenzeichen].",
+        "[Anrede], zu Ihrer Erwiderung vom [Datum] auf unser Rückgewährverlangen vom [Datum] nehmen wir für die Insolvenzmasse Stellung. Sie beziffern [Einwendung oder Gegenrechnung] mit [Betrag]. Unser jetziger Stand ergibt sich aus [Kontounterlagen und ergänzenden Nachweisen]."
+      ]
+    },
+    {
+      "titel": "Kontostand und verfügbarer Rahmen",
+      "absaetze": [
+        "Nach dem Vertrag galt am [Stichtag] eine Linie von [Betrag]. Ob und bis zu welcher Grenze die Schuldnerin weitere Verfügungen beanspruchen konnte, ergibt sich aus [Absprache, Bankpraxis, Widerrufsvorbehalt und Befund]. Für die Unterscheidung zwischen geduldeten Einzelverfügungen und verbindlich eingeräumten Ausweitungen ist ab [Datum] maßgeblich, dass [konkrete Tatsachen und Begründung].",
+        "Aus dem herangezogenen Anfangs- oder Höchststand und dem Endstand folgt zunächst [Rechnung]. Zwischenzeitlich erneuerte Verfügungen, Rückbelastungen und Änderungen des Rahmens bewirken [Korrekturen]. Der verbleibende Rückführungsbetrag [Gesamtbetrag] verteilt sich auf [Teil im Überziehungsbereich] und [Teil innerhalb der vereinbarten Linie]."
+      ],
+      "spalten": [
+        "Tag und Buchungsbeleg",
+        "Sollsaldo / zugesagte Linie",
+        "Neue Verfügungen oder verweigerte Freigabe",
+        "Endgültige Rückführung je Bereich"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Tatbestand und Kenntnis am Buchungstag",
+      "absaetze": [
+        "Für die Buchung vom [Tag] bestand nach [Vertragsbestimmung, Kündigung oder Fälligstellung] ein Anspruch auf Befriedigung [Art und Zeitpunkt]. Daraus folgt [Kongruenz oder Inkongruenz samt Begründung]. Für die jeweils einschlägige Alternative der §§ 130, 131 InsO sind der Antragseingang [Datum] und [weitere Voraussetzungen mit Tatsachen und Beleg] maßgeblich.",
+        "Zum Kenntnisstand Ihres Hauses am [Tag] liegen [Kontobeobachtung, zurückgewiesener Auftrag, Gesprächsnotiz, interner Vermerk] vor. Für die Zahlungsfähigkeit der Schuldnerin an diesem Tag ergibt der gesonderte Status [Feststellung und Quelle]. Auf Ihr Gegenargument [Wortlaut] erwidern wir [Würdigung mit konkreten Tatsachen]."
+      ]
+    },
+    {
+      "titel": "Bargeschäft und Globalzession",
+      "absaetze": [
+        "Den verwiesenen Neueinräumungen ordnen wir die jeweils dadurch ermöglichten Abflüsse [Buchungen und Zeitabstand] zu. Für den Austausch gleichwertiger Leistungen und die fortbestehende Verfügungsfreiheit ergibt sich [Befund zu § 142 InsO].",
+        "Zur Globalzession identifizieren Sie [einzelne abgetretene Forderungen und Vereinbarung]. Deren Entstehung, Werthaltigkeit, etwaige vorrangige Abtretung und Zuordnung zu den Gutschriften stellen sich wie folgt dar. Ohne die Verrechnung stünde der Masse je Position [Wert oder liquide Mittel aus der Vergleichslage] zur Verfügung. Der in der Saldorechnung bereits berücksichtigte Teil beträgt [Betrag]."
+      ],
+      "spalten": [
+        "Gutschrift / Forderung",
+        "Entstehung / Sicherheit / Rang",
+        "Werthaltigkeit und Nachweis",
+        "Auswirkung auf den beanspruchten Betrag"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Rückgewähr und weitere Erklärung",
+      "absaetze": [
+        "Unter Berücksichtigung Ihrer Einwendungen beträgt das Rückgewährverlangen [Betrag und Rechenweg]. Für [verbleibende Streitposition] bitten wir bis [Frist] um [genau bezeichnete Unterlage oder Erklärung]. Der verlangte Ausgleich ist bis [Datum] an [Massekonto und Verwendungszweck] zu leisten. Unsere Erklärung zu etwaigen Nebenforderungen lautet [Rechtsgrund, Betrag und Beginn].",
+        "[Grußformel, Name und Funktion, Anlagen mit Bezeichnung]."
+      ]
+    }
+  ]
+}

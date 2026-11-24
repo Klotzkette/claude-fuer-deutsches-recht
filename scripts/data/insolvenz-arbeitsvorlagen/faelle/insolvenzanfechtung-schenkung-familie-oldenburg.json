@@ -1,0 +1,49 @@
+{
+  "slug": "rueckgewaehr-familienzuwendung",
+  "titel": "Rückgewährverlangen wegen einer Zuwendung im Familienkreis",
+  "zweck": "Einzelschreiben der Insolvenzverwaltung an die Person, die den jeweiligen Vermögensvorteil erhalten hat. Der Gegenstand und die Anspruchshöhe werden für jede Zuwendung einzeln ausgefüllt.",
+  "abschnitte": [
+    {
+      "titel": "Absender, Empfänger und Verfahren",
+      "absaetze": [
+        "[Name und Anschrift der Insolvenzverwaltung] an [Adressat oder bevollmächtigte Vertretung, Anschrift]. [Ort, Datum]. Rückgewähr von [zugeordneter Vermögensvorteil] im Insolvenzverfahren über das Vermögen von [Schuldnerin].",
+        "[Anrede], das [Insolvenzgericht] hat mich mit Beschluss vom [Datum, Aktenzeichen] bestellt. Meine Erklärung betrifft die nachfolgend einzeln bezeichneten Vorgänge und den Vorteil, der Ihnen nach den Unterlagen [unmittelbar oder auf welchem Leistungsweg] zugeflossen ist."
+      ]
+    },
+    {
+      "titel": "Zuwendungen auf dem jeweiligen Leistungsweg",
+      "absaetze": [
+        "Am [Datum der rechtlichen Wirkung] hat die Schuldnerin [Gegenstand übertragen, Zahlung geleistet oder bestimmte fremde Verbindlichkeit erfüllt]. Vertragspartner, Zahlungsempfänger und wirtschaftlich begünstigte Person waren [Einzelzuordnung mit Zahlungs- oder Übergabebeleg]. Im Fall der Drittzahlung bestand die Forderung aus [Schuldverhältnis] gegen [Schuldner der Forderung]. Durch die Leistung änderten sich die Rechtspositionen folgendermaßen: [Forderungsverlust, Befreiung und Werthaltigkeit, jeweils mit Nachweis].",
+        "Der maßgebliche Eröffnungsantrag ging am [Datum] ein. Für die einzelnen Leistungen und den Zeitraum nach §§ 134 Abs. 1, 139, 140 InsO ergibt sich folgende Zuordnung."
+      ],
+      "spalten": [
+        "Vorteil und Empfänger",
+        "Zeitpunkt der Wirkung",
+        "Gegenstand / Wert / Beleg",
+        "Berücksichtigung im Rückgewährbetrag"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Gegenleistung und Gelegenheitsgeschenk",
+      "absaetze": [
+        "Als Gegenleistung ist [vereinbarte Tätigkeit, Leistung oder Zahlung] angegeben. Die Vereinbarung, ihr Leistungsbezug, tatsächliche Erfüllung und objektiver Wert ergeben sich aus [Belege]. Zur behaupteten früheren Mitarbeit oder Hilfe ist konkret dokumentiert [Zeitraum, Vergütungsabrede, Abgeltungszusammenhang und Nachweis]. Für die Entgeltlichkeit ergibt sich daraus [begründete Zuordnung].",
+        "Zu der Zuwendung anlässlich [Anlass] sind im Hinblick auf § 134 Abs. 2 InsO die Gebräuchlichkeit, die Lebens- und Vermögensumstände und der geringe Wert wie folgt belegt [Tatsachen und Bewertung]. Für die Gläubigerbenachteiligung ist der Massevergleich [konkrete Gegenüberstellung]."
+      ]
+    },
+    {
+      "titel": "Umfang der Rückgewähr",
+      "absaetze": [
+        "Wir verlangen gemäß § 143 InsO [genau bezeichnete Herausgabe, Rückübertragung oder bezifferte Zahlung]. Der maßgebliche Wert der Sache ist mit [Bewertungszeitpunkt und Marktwertbeleg] belegt. Der Buchwert von [Eintrag] und die vorgelegte Wertunterlage verhalten sich zueinander wie folgt [Erläuterung]. Doppelansätze aus Sachherausgabe und Ersatz desselben Werts sind in der Berechnung wie folgt berücksichtigt [Abgrenzung].",
+        "Zum Verbleib des Erlangten und zu einer etwaigen Beschränkung nach § 143 Abs. 2 InsO liegen [Tatsachen und Belege] vor. Ob und ab wann Sie wussten oder den Umständen nach wissen mussten, dass die Leistung die Gläubiger benachteiligt, beurteilen wir mit [Ergebnis und konkreter Begründung, soweit erheblich]."
+      ]
+    },
+    {
+      "titel": "Erfüllung und Stellungnahme",
+      "absaetze": [
+        "Bitte [konkrete Leistung, Ort und Modalitäten der Übergabe oder Zahlungsweg] bis [Datum]. Die geltend gemachte Nebenforderung beruht auf [Rechtsgrund, Beginn und Berechnung]. Zu [streitige Gegenleistung, heutiger Verbleib oder anderer konkret offener Punkt] bitten wir um [Unterlage oder Erklärung] bis [Datum].",
+        "[Grußformel, Name, Funktion und Anlagen]."
+      ]
+    }
+  ]
+}
