@@ -1,0 +1,319 @@
+{
+  "patentrecht/patentrecht-schnellstart.md": {
+    "vorher": "969ae59eb540cdacbb9267ab05ccd41ae4ba49bbd0156fd03467760f9c7164fc",
+    "nachher": "213a4446fd4de1c022dcff623155ea0a1788fbe59623bbd3208c2fb757cbf393"
+  },
+  "patentrecht/patentrecht-werkstatt.md": {
+    "vorher": "1b97e7c724fb48820e3871136be026d17573d7d4ff10e46c35bc454906a82b87",
+    "nachher": "ddec62b40e1b62d2c9ab36a3664c69f77882a341497894e3872b8ec1ed40785e"
+  },
+  "patentrecht/skills/abmahnung-patentverletzung-verteidigung/FACHINHALT.md": {
+    "vorher": "bd6d453574e3dc511037441d92cd19f84d7e48b776bbbf9ce5308bec29656943",
+    "nachher": "5061438a2cc2913c640248787684df871501d4baa43daa36ff424a4ea04dc78e",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/anspruchsentwurf-dokumentenmatrix-und-lueckenliste/FACHINHALT.md": {
+    "vorher": "7abbe3c97b092e007b74db58bc4e6db73745437e9a98adc12b5563bba9e1ef1e",
+    "nachher": "95058d9cb90a443b3f565d1810dc480a296655ab00b47519249375d2d05b53c3",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md": {
+    "vorher": "88c8c783092fb09fd6db99f9afc3c4c79058c4f307b0d13dc6986ca34ec96ff8",
+    "nachher": "36faceea4e2b5ff269a4ac65612637dc52978a4765fc8f9c2f68f3d04fb2e564"
+  },
+  "patentrecht/skills/arbeitsprodukt-bearbeiten/SKILL.md": {
+    "vorher": "934b1e226e63226df508d2ddb0086870e69423b3aa0be9f99a3e4acc0f163076",
+    "nachher": "4ec708f5d2a0addb8cc10f877e81c302ba469f1fe977b5e52202ffa98e17ccf6"
+  },
+  "patentrecht/skills/beschreibung-zeichnungen-einspruch-epa-epo/FACHINHALT.md": {
+    "vorher": "5b741c3714b8948d015524dee7ff9345a93eb9cbc4dbf9169b2908864eb8dfe0",
+    "nachher": "998464330beff0a23f36d07df63b690fdb2a5cb2ee2c0cad182a8740dd18a0f2",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/einspruch-epa-und-nichtigkeit-bpatg/FACHINHALT.md": {
+    "vorher": "8411b07639e316cef34e5c465d1eec08837142ac502a03b970720d22407646d6",
+    "nachher": "55473a949d07dba4845d328cb9e670a667331ddea274b5ce580673374b1602d8",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/einstieg-routing/SKILL.md": {
+    "vorher": "1388962e89958bf8f85e76230956974764a8a1842dff8bdfe4557c3ff836c904",
+    "nachher": "4496dbf54d0100d8d7b62ee67f61a913fa4b0e423bc832d992ba631cede35731"
+  },
+  "patentrecht/skills/epo-epue-einspruch-beschwerde-beschraenkung/FACHINHALT.md": {
+    "vorher": "c6d2bff23a292dac8240887e9c57026a2a461a1cec6d9e41428121b11f28542b",
+    "nachher": "d32150c5929d96bce83ad03b1450b7953a1afde2505c4a4db4fc2e20d7ddf1fd",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/erfinderbenennung-arbeitnehmererfindung/FACHINHALT.md": {
+    "vorher": "0a256fcc23ce9234e6fc3e23754ed23b31cc162bcd3a5f1ed76cb630d8e48541",
+    "nachher": "e2a1ba9b83d8e6d2603d2d42ebb1211e960659ac5231b33bf4d1b5165e0746d3",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/erfindungsaufnahme-tatbestand-beweis-und-belege/FACHINHALT.md": {
+    "vorher": "2cb03c1a2d57911bc95035ae4676d112ef10077ae944ff99e98a7b8eb330740f",
+    "nachher": "91a68f2927a1726645a3935676757b063ca3893fe490606660100584fb4289be",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/erfindungsmeldung-aufnahme-und-rueckfragen/FACHINHALT.md": {
+    "vorher": "7e260087220e32135aaa595b5bb1902483d0eae0ecc972a70a61bfbf210d17b3",
+    "nachher": "98b3f7b2cca3f949f02ad501c0fb1c3959c4410cf0129aeddf066b97cdfd7fd6",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/freedom-to-operate-und-schutzbereich/FACHINHALT.md": {
+    "vorher": "a7ee1723b098e07816c1f9679ec1cc64f9e9afaf2ff650dfc7af787afd2e9626",
+    "nachher": "8265f04fdbdd0f7b396ccb25581d2674f0ad65f9416e31bf7b460a37e5f85e06",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/gebrauchsmuster-patent-patentrechts/FACHINHALT.md": {
+    "vorher": "3e5ce375890e510cbb3a442be50302937d1776b0ee6a8961cf2e6e51978f91cf",
+    "nachher": "e1eec7fc313e73cd7e445d9b14bfcca8b2ad816f9c4fd8d54544211685f9d16d",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/internationaler-patentrechts-und-laendercheck/FACHINHALT.md": {
+    "vorher": "aa7a9ed5d6d0234d2d202f0049eab978a62a686c505f842fcdd6699dc5d822e9",
+    "nachher": "5d104b4b493b02c16ee70571d7a479fd16f81c5a7000ec42d860b90f06f75956",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/israel-patentrecht-ilpo-opposition-revocation/FACHINHALT.md": {
+    "vorher": "99acd298aba87bce2750df329ac216cc52ffd0fd8da2c982b9a47d2779836506",
+    "nachher": "d6df71f9e3b35d2568cafce98d27b0d622dc3c464aedd7df06acb570b131b9f7",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/japan-jpo-kanada-cipo-loeschung-widerruf/FACHINHALT.md": {
+    "vorher": "245b5f1286a43b34f3f6f8808091fb9f4939c8eded94286fc8eac262a817f5ad",
+    "nachher": "0262b3798339c05ee8f569daf5a63117abf4d52b2f288013745db5fa602c7e46",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/juristischer-argumentationskern/SKILL.md": {
+    "vorher": "ba03534fb87b744e8b08f536bdb49a8d6038f64ae6f7a809576eeb2ae8eeabae",
+    "nachher": "4bed8f22d92966cd6fb5d71a01668924f1c69b2ca4275e237e2013c98b1a6439"
+  },
+  "patentrecht/skills/kanada-patentrecht-cipo-federal-court/FACHINHALT.md": {
+    "vorher": "f7c298a62d9e42f498ae89a4ea99883053ef8ba77fc368d5ac3c1ad66c237883",
+    "nachher": "c5eb783a4a3b6d97a9f180391754779dcc11e8d44ebee6ab015099d2189e88d8",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/loeschung-widerruf-nichtigkeit-global-route/FACHINHALT.md": {
+    "vorher": "b7dce054b0d312592f87b96a3f915e0eab84b8157934fafc97c6cc6b0fdd221b",
+    "nachher": "05530b923d876989ac34779196eac06335c5d509e9fee03c8f1255a20f1a27c9",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/neuheit-erfinderische-patentprozess/FACHINHALT.md": {
+    "vorher": "9b446b4a8ee8cd5a4d07b3b6384a139e65b8aeb8c95312c86aa6818f601f0122",
+    "nachher": "a91e4322d591d0ede5553bb01a579571a945e2999589b6a9edc645b427ff5709",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentanmeldung-anspruchsentwurf/FACHINHALT.md": {
+    "vorher": "66fff6c7a26885be1a53fb257e6a87caaaadf5259ef1ef390bba1c1b21b2f7c2",
+    "nachher": "a8027ca43869c391c13234b9b741515cdafddd2fb2012074a4f81f225472d11c",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentanmeldung-fristen-form-und-zustaendigkeit/FACHINHALT.md": {
+    "vorher": "c48bf14f7398c864ff3d4f97adf194461e895a8837891779435b97ed3b2da7f7",
+    "nachher": "ff526d63d34b6c3a063a9c7e0acc0e252d2c0da6b706753d0ad48f1a6ed2fc4c",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentlizenzvertrag-drafting-review/FACHINHALT.md": {
+    "vorher": "97775dc8a2d36a308053cf5eb4d5a8b0b953a7a8f327ae1b04bcf94c2d2f8b11",
+    "nachher": "0414eed0d738090595d877d4f63c70d644d7342c06591be49fb6d5eb95c5e055",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentlizenzvertrag-review/FACHINHALT.md": {
+    "vorher": "15594dab4dceefd6f34b1c65132bdda5e6061e298e4f78d6426a7c71388e1e2b",
+    "nachher": "df508a494df9f07c2abf87b9c1ee34d44425fe407086016af6654105eee7413d",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentportfolio-und-technikstrategie/FACHINHALT.md": {
+    "vorher": "f29e1baabc28d4ab7cd98bf188281b2d334611dc0b4b4bd32ded2fa986e57aaa",
+    "nachher": "a75d51187ec76d415d4cb4a8e59799fea1d59d1ffaa262b0a5788a2e0ed1b1ed",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentprozess-auskunft-patentportfolio/FACHINHALT.md": {
+    "vorher": "c17eb30986c7aa2b018e0ff42f8dc99ae07479a38ec62d06f3a56c86afceb31d",
+    "nachher": "4a6475e10bd1eafbd3195080a59a66a81f84c5cf3305fbbf857af963707c418c",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentprozess-besichtigung-beweissicherung/FACHINHALT.md": {
+    "vorher": "c89abc56384bf1e3a022d08cacf30c1c8a4b29dcecc3cb343c0c2a73be82b6ce",
+    "nachher": "d9f7d5deb1e78f5afcf577fd754bb776d3e4eca03bfb84ff75d6b26b14b3f7a6",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentprozess-claim-construction-de-en/FACHINHALT.md": {
+    "vorher": "66ffc21e083c6390b1b96c8ecdedf120b63b6d0204c142c270afb88c8e93d982",
+    "nachher": "af486ef762326ffcc0bf66a990c4299d7d768d1c5a738c93d84526982e48d0b3",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentprozess-einstweilige-verfuegung/FACHINHALT.md": {
+    "vorher": "0bbe182191937b0120c7356c17c9e1868fcc9df6d4bd4502ce9c78ab79133183",
+    "nachher": "c4a32119e65ee138b82952029270f3c199fac970ca28c64569cac9cd2fe14b75",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentprozess-experten-und-sachverstaendige/FACHINHALT.md": {
+    "vorher": "fd5666382635dac917777a9ac2176593420cd638bc09ff8c74e8dfab3c00315f",
+    "nachher": "5d622a7264a4534e33f1b4d3069d62433134f78460e76868a487a43aa665273d",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentprozess-kostensicherheit-und-budget/FACHINHALT.md": {
+    "vorher": "9e5d588f3d23c326d34c3ba03730dd8e2d160d24a8acdb5c2c6d3f9c6fc6de0d",
+    "nachher": "e12344022289f8771a7bba4bfb5a39916601ea9f3af3f5cbf55b28da17cd9a9a",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentprozess-negative-schutzschrift/FACHINHALT.md": {
+    "vorher": "12d9741bd1417979fc97494f2f41985d718ef6b940c6710d5d9c1599a14e3762",
+    "nachher": "25d11c315a5549a16d126858d7179e9f401b1a55f7ee6922f2ab0c164756521a",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentprozess-schutzschrift-und-caveat/FACHINHALT.md": {
+    "vorher": "847726e836fc71a4528fdb1a48354dc1c035e6eee90dd85e41154a90779cffcf",
+    "nachher": "105b7f7b7cbe629aea96b28681be9749a9c8895e20b361846391a94a381dccca",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentrechts-tuerkei-turkpatent-uk-patents/FACHINHALT.md": {
+    "vorher": "6071922af675e3c292a0ca0632b6bed5f9b342d9a2d3f202183dc22e466f527b",
+    "nachher": "90bcc8d29d4a10ee7c607557c7e1e12870ea3a62b857cf9dd3f022e848c905f1",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentsettlement-und-cross-license-litigation/FACHINHALT.md": {
+    "vorher": "03c700c98dbc68f075f4a92b8f3f65d9c9da3363c77f8e4ee2ef023dc27d8b0f",
+    "nachher": "11482844222e69ce89d7d059dde450ade841eb4cb8b076456c82a639dcd872af",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patentverletzung-claim-patr2/FACHINHALT.md": {
+    "vorher": "07ef075569dc91edeb57ca6b59f1f4bbe258be45ba65bea43c57f751d0d4c625",
+    "nachher": "b242052310b008b8f803b4ea086d1a22150692531c44ebdff8a8134cd092f2da",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patr2-anmeldeverfahren-bauleiter/FACHINHALT.md": {
+    "vorher": "1853238ab76d316eda24366e3165bbec14f6b642679697612297f7479068c494",
+    "nachher": "ca6a8101dedf12c55307be817675a82a58c3502abaf1a091ae61845d68b08665",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patr2-arbeitnehmererfindung-leitfaden/FACHINHALT.md": {
+    "vorher": "34051676ff48e3bddf326311b095a8b5a27189ffae57d178859c08400ada9e51",
+    "nachher": "fb7be6bef14ba247f70355f2d6ce4d272f20f2283ac27a7e66915d5e7686b553",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patr2-patentverletzungsklage-spezial/FACHINHALT.md": {
+    "vorher": "3c74c327a81fbf6b1e4b1a92f6002c02d272ca89a6975d38aee62b88c8ce1a36",
+    "nachher": "fda5b1035f7168c4945598b34ffe81a86656cfe8dc248688ddfab65c087a1d30",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/patr2-zwangslizenz-pct-laenderstrategie/FACHINHALT.md": {
+    "vorher": "789019a22e7f6a91728b936e07e7891ffc7c2acb22c042dc29c82a462c093e23",
+    "nachher": "75ee56c9a021d8136eba8f6479b35a49980b3051d528b16f9c0388121fc1bf9b",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/pct-laenderstrategie-und-nationalphasen/FACHINHALT.md": {
+    "vorher": "a27fb274a8010e5bf9d7b201dd7f3a9b09c081eaf3e911302e1b51f43ffa4601",
+    "nachher": "ec79dd4010c7fcecaff6dacc2b95141d92483a7898e843bf8eee6dca8d9b3aac",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/pruefungsbescheid-dpma-epa-erwiderung/FACHINHALT.md": {
+    "vorher": "55b83944e027b1cef81935daee1634c4ab276f695ee5a3c2f8c84211431f90eb",
+    "nachher": "53dbb681f84c38bc34e44acec15a897178d243cffe805e1c08c81843abd0c7a3"
+  },
+  "patentrecht/skills/rechtsabteilung-employee-invention-frand/FACHINHALT.md": {
+    "vorher": "deed8a7cbcedda6ed05d256666775e9c18407a4e2d0c259bc3b757140713fc16",
+    "nachher": "7d8154520170feed2eaa9ac97522172e3942db6c9d5cc3334d383208f5904373",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/rechtsabteilung-frand-verteidigung-bei-sep-abmahnung/FACHINHALT.md": {
+    "vorher": "c4d2dd15f83d106a059f06dd04f25f9698edc368d6e3383e6a789a829e1ed1a0",
+    "nachher": "9cb947ce38aa66d6fa944e2f55a34e9e4b5d94d39650dcbb99b795bfd5cc2791",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/rechtsabteilung-freedom-to-operate-vor-product-launch/FACHINHALT.md": {
+    "vorher": "a3930dbeed3cba69715598be672d0660d0a9845c095a64119d011e0ac70a593d",
+    "nachher": "66fa1926f67577f026fd269b4cee59b97a7a0976dadedcf69af11d58b4813f9d",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/rechtsabteilung-proportionalitaet-schweiz/FACHINHALT.md": {
+    "vorher": "4b239efbb5f5f955ba694fa89903ed38083c5bc612b5075ae21631edac227b5c",
+    "nachher": "efc43dc17c3e7dc1ff3eca8ee078ef75378385926a8954d2b468cea3f1e6d0f4",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/rechtsabteilung-upc-eilverfahren-und-deutsche-parallelstrategie/FACHINHALT.md": {
+    "vorher": "862ad55d3a9a2c97b0d6ab623fe84521f65b261014582edb55c25303a5b2b68a",
+    "nachher": "65fea7103e85969eee3ed5889ec86f0444570efc1cc88014c2f2cad0fea7cfbe",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/rechtsbestand-bearbeiten/SKILL.md": {
+    "vorher": "1c292b60d50e7bcf54619c86549623c71f1af2356552975cf6e0f3779af1bb7f",
+    "nachher": "aede6440d0e29ebe2cbccca2ea16876b7571553d6d4c7b7d75a7de5056a216d8"
+  },
+  "patentrecht/skills/register-patentanmeldung-anspruchsentwurf/FACHINHALT.md": {
+    "vorher": "c69e046a91fbb0bc0f6c5e75f6961abc7219cca3149d6d9570c3750f37d9aed6",
+    "nachher": "31bd85ebcfa0f04938e2be5cd5b8937508023eb06e263cf68e9b333d420a0261",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/schutzbereich-und-fto-bearbeiten/SKILL.md": {
+    "vorher": "2c0f87bb054a2ec476db3ffb9cc172d0e2aa41dfc7f765dba3631b64b989bcf3",
+    "nachher": "674fea5377e76dd758f58a984c0ea9057c0687c5ab5346605a3d0c9e7f566bea"
+  },
+  "patentrecht/skills/schweiz-patentrecht-bundespatentgericht/FACHINHALT.md": {
+    "vorher": "3f977ba198ae703cb496b4af41aa7dfc36a6c8474465bcecc1e38ddc957c1f1b",
+    "nachher": "02ba45ff854b3684ce0ca6bea6f61a84bfa6bb2259107f917e5128f764d00b2d",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/stand-technik-patr2-anmeldeverfahren/FACHINHALT.md": {
+    "vorher": "5bc332563b78dc3d7b9303c14f1bb4d4e9fe43da899f55c702f60917523d43da",
+    "nachher": "0173bc5b0242b48afc1e3ec8f757f13aa6001591ef11dda0c490c212b5495e22",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/technische-lehre-bearbeiten/SKILL.md": {
+    "vorher": "d135c37805c0f454fa3f8a343ef4184a020732969bb19aa7d154eaa5f8d90e56",
+    "nachher": "a73ed74820baa153983aa55f6afa2ec59dcb8c957f59498fc59f19348b539f54"
+  },
+  "patentrecht/skills/tuerkei-patentrecht-turkpatent-ip-courts/FACHINHALT.md": {
+    "vorher": "cd6c1b635cc22328b588f016ae0a6a778831d3aeac2d766c4d3ff2e5630edb85",
+    "nachher": "026fc13d2c5993e0ef4a91f8e37908d996310a3debc4024d36a5dc716df54229",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/uk-patentrecht-patents-court-ipec-ukipo/FACHINHALT.md": {
+    "vorher": "58c782edb0c7737c6a39776e37ddd13af78c5b8102e4f9c5067f510333f0f085",
+    "nachher": "42942acbd6cfa7f42e5e0a1431bb24347cdfa7466038ef51311138be9be960c7",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md": {
+    "vorher": "967bd077066b699628abf95cb542f3d94a15972f18c55e3f90049f3e1061ab68",
+    "nachher": "745d290d258563c5d6db0b8cb1642b1d4ff354426910d488bedb56cc3c57e485"
+  },
+  "patentrecht/skills/upc-einstweilige-massnahmen-verletzung-rechtsbestand/FACHINHALT.md": {
+    "vorher": "1f9647f3761db9d77339c52766cdf1b36226f59cdab628fc4480ffdcec5cd088",
+    "nachher": "4b7a59b017533eba4114ce3e2a412f58d7ba59689deb3c71bb58466cd2b1235c",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/upc-verletzung-und-rechtsbestand/FACHINHALT.md": {
+    "vorher": "8bbd76c5505b5a1de0fff72633f99d6de7158a2ab487b9d6de24094944561646",
+    "nachher": "8f494fd196fe45150eb276b5c8e4dc0ac3ce7b14da27f82b86c0536cc4f572cf",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/upc-widerruf-und-widerklage-revocation/FACHINHALT.md": {
+    "vorher": "780f6b6554545a280b67f3c07d62d23230ba3f2f35357641272267b7ba57ac44",
+    "nachher": "2b50167e00f73d4476da102665231a82711616692250b204c8a3b2f8a174d421",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/us-patent-litigation-district-court-itc/FACHINHALT.md": {
+    "vorher": "de85289010a8c1127dbd359b4e503c9bb4a19cf31f8ded92c1b7628a87a063ac",
+    "nachher": "49595f07d8be2e32f4e077b6807d4e8f85ce154bbf441fcfd38d16ebd2e7fc5f",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/us-patent-us-vorbenutzungsrecht-paragraph/FACHINHALT.md": {
+    "vorher": "3f4100747b28a1b941b152c2683d71cce3119ad8b1ed02a961f119a89fa2c10c",
+    "nachher": "1128e05d06879e49545a1328961aeb5baa4b7ab4fb3dfa449037ce90131f4e7d",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/verfahren-bearbeiten/SKILL.md": {
+    "vorher": "b210472827dcc7d14a602692188dbfd5d8f65c26a40982a07dbb1c8c7249b783",
+    "nachher": "64bda61154ffcd694d372dfdb9e63b1b42b4a9e565834c80a93ad6559c869c4e"
+  },
+  "patentrecht/skills/vorbenutzungsrecht-paragraph-12-patg/FACHINHALT.md": {
+    "vorher": "aea9c6d3bba7785919b08d84ea3413819bbdd4b46a77d6f735ea1bc1d4a191aa",
+    "nachher": "b333d7d9808433048a6982278e0ca0648514df82fb59fb5ff2be78e0a6e1f91d",
+    "aenderung": "fristenspalte"
+  },
+  "patentrecht/skills/workflow-kaltstart-und-routing/SKILL.md": {
+    "vorher": "917b170d084dddeb8a9c510b2dd7cf66aecf713ed0ef8aa619dfc12e2f5fc076",
+    "nachher": "27445f1f17436447a932bf4f2e3cea2be15f149a9c053a8dff249f7a4d296438"
+  }
+}

@@ -110,6 +110,8 @@ def main() -> int:
         "",
         "[Phishing und Zahlungsdienste 445.35.4](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/phishing-v445.35.4) enthält sieben fachlich betroffene Pluginpakete, ihre separaten Prompts und die Akte Rabenstein. Für diese Angebote führen die Einzelzeilen zum Komponentenstand; die allgemeinen Sammelarchive bleiben auf ihrem veröffentlichten Stand.",
         "",
+        "Die [drei Übungsakten für Patentanmelder](./patentrecht/Patentanmelder/README.md) führen vom ersten Anspruchsentwurf zu einer prüfbaren Anmeldefassung. Zu jedem Fall stehen Originalunterlagen, Einzel-PDFs und eine Gesamt-PDF bereit.",
+        "",
         "Die drei Rollen-Plugins der [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/README.md) gehören zum Plugin-Sammelpaket. Die sieben gesondert verwalteten Akten und die Projektkopie bleiben über das Komponentenrelease erreichbar. Die Plugin-Einzelzeilen unten behalten ihre ausdrücklich zugeordneten Komponentendownloads.",
         "",
         f"[Betreuungsrecht](./betreuungsrecht/README.md) enthält den Unterlagen-Auswerter, eine [eigenständige Unterlagen-Werkstatt]({DOWNLOAD_BASE}betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md), eine [Excel-Vorlage](./betreuungsrecht/templates/unterlagen-abrechnung.xlsx) und die Dreijahresakte Adelheid Pfister. Der damalige Pluginstand und die zentrale Akte sind in den Sammelarchiven v445.35.3 enthalten; das aktuelle Einzelpaket ist in der Pluginzeile verlinkt. Die Werkstatt bleibt ein eigenständiger Download.",

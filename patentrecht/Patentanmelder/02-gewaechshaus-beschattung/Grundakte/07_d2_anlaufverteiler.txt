@@ -1,0 +1,6 @@
+Fiktive Entgegenhaltung D2 · Anlaufverteiler für Rollabschlüsse
+10.11.2026 · Ruth Eilert · Kanzlei Mund, Recherche an Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam
+
+Fiktiver Schulungsauszug, für den Fall als seit 15. August 2022 frei erhältlich unterstellt. D2 betrifft zwei elektrische Rollabschlüsse an einer begrenzten Zuleitung. Ein örtliches Schaltmodul gibt den nächsten Start 500 ms nach dem Abschaltbefehl für den ersten Ausgang frei.
+
+Der Zeitgeber startet mit dem Abfallen des Steuersignals. Die Entwickler geben einen pauschalen Zuschlag für den Motornachlauf an. Ein Messwandler für den tatsächlichen Reststrom, eine Referenzfahrt nach Gerätetausch oder ein Vergleich von Pulszählwert und Endschalter sind im Auszug nicht beschrieben. Andere Ausführungen außerhalb des Materials sind im Fall nicht belegt.

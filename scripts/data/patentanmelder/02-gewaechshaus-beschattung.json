@@ -1,0 +1,684 @@
+{
+  "titel": "Zwei Gewächshausschirme an einer Zuleitung",
+  "zeichen": "KM/26-119 · GH2",
+  "einstieg": "Ein Hersteller liefert Austauschregler, ein externer Dienst Zielwerte und eine Gärtnerei die vorhandenen Antriebe. Abnahmeprotokoll und Bildschirmfoto beschreiben unterschiedliche Ebenen. Für die Anmeldung ist zu klären, wer einen Fahrbefehl geben kann und wo die zweite Anfahrt tatsächlich freigegeben wird.",
+  "auftrag": "Übernehmen Sie das Mandat von Blattwinkel. Befragen Sie Produktleitung, Entwicklung, Betreiberin und Ferndienst getrennt zu Signal, Handlung und Nachweis. Prüfen Sie G0 anhand von F12 und D1/D2. Entwerfen Sie aus den tragfähigen Angaben eine vollständige deutsche Patentanmeldung einschließlich Figurenbeschreibung, Ansprüchen und Zusammenfassung. Arbeiten Sie den verkauften Regler, die Mehrzonenanlage und den tatsächlichen Ablauf auseinander. Benennen Sie dem Mandanten die Beweise, die für eine spätere Verletzungsprüfung im Client, beim Dienst und vor Ort zugänglich wären.",
+  "nachreichung": "Legen Sie erst nach der ersten Gesprächsrunde die Antworten zum Netztrennversuch, zur Cloudquittung und zum Ersatzgerät vor. Überarbeiten Sie den Entwurf mit der neuen Signalfolge. Kennzeichnen Sie ausdrücklich, welche bisherige Behauptung entfällt und welcher technische Zustand bei fehlendem Endschalter offenbleibt.",
+  "quellen": [
+    [
+      "§ 3 PatG",
+      "https://www.gesetze-im-internet.de/patg/__3.html"
+    ],
+    [
+      "§ 4 PatG",
+      "https://www.gesetze-im-internet.de/patg/__4.html"
+    ],
+    [
+      "§ 34 PatG",
+      "https://www.gesetze-im-internet.de/patg/__34.html"
+    ],
+    [
+      "§ 38 PatG",
+      "https://www.gesetze-im-internet.de/patg/__38.html"
+    ],
+    [
+      "Art. 54 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a54.html"
+    ],
+    [
+      "Art. 56 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a56.html"
+    ],
+    [
+      "Art. 83 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a83.html"
+    ],
+    [
+      "Art. 84 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a84.html"
+    ],
+    [
+      "§ 9 PatG",
+      "https://www.gesetze-im-internet.de/patg/__9.html"
+    ],
+    [
+      "§ 10 PatG",
+      "https://www.gesetze-im-internet.de/patg/__10.html"
+    ]
+  ],
+  "dokumente": [
+    {
+      "phase": "Grundakte",
+      "datei": "01_auftrag.eml",
+      "titel": "Zwei Schirme am gemeinsamen Antriebskreis · Produkt GH2",
+      "datum": "2026-11-02",
+      "von": "Silke Hain · Blattwinkel Regeltechnik GmbH, Produktleitung",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Unser Kunde kauft den lokalen Regler als Ersatzgerät. Die Motoren und die Endschalter im Gewächshaus bleiben Eigentum des Betriebs. Prognosen vermietet Fernfeld separat. Ein Beschäftigter des Gärtners kann die Beschattung auch im Browser anfordern. Ich möchte die Anmeldefrage für das lieferbare Gerät und für die installierte Anlage vor der nächsten Ausschreibung klären.",
+        "Die Broschüre sagt derzeit „die Cloud kennt jeden Schirmstand und schließt eine gemeinsame Anfahrt aus“. Ermitteln Sie bitte, welcher Schritt im Regler stattfindet, was Fernfeld tatsächlich sieht und was die App nach einem Reglerwechsel anzeigen kann. Der Kundentermin am 27. November soll erst nach der Anmeldeentscheidung stattfinden."
+      ],
+      "absender": "s.hain@blattwinkel.example",
+      "empfaenger": "t.mund@kanzlei-mund.example",
+      "uhrzeit": "10:11"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "02_verdrahtung.docx",
+      "titel": "GH2 · Einbauanleitung zum Vorserienstand L4",
+      "datum": "2026-11-05",
+      "von": "Enno Reh · Blattwinkel Regeltechnik GmbH, Entwicklung",
+      "an": "Nina Klug · Blattwinkel Regeltechnik GmbH, Abnahme",
+      "text": [
+        "Die Schirme A und B liegen in zwei Zonen. Beide stromgespeisten Getriebemotoren hängen an einem gemeinsamen, begrenzten Stromkreis. Bei gemeinsamer Anfahrt kann dessen Schutzschalter auslösen. Jeder Motor hat einen örtlichen Impulsgeber und je einen verdrahteten Endschalter für die offene und geschlossene Lage. Sie werden an den lokalen Regler 20 geführt. Ein unter Glas angebrachter Strahlungssensor 10 liefert den aktuellen Istwert.",
+        "Der lokale Regler puffert je Zone eine Fahranforderung. Er kann sie aus dem Istwert und einem gespeicherten Schwellenwert erzeugen oder eine Zielvorgabe vom Bedienclient 80 bzw. vom Ferndienst 70 annehmen. Der Regler schaltet je einen Motorausgang. Ein Strommessglied 30 am gemeinsamen Abgang liefert ihm ein Signal auch nach einem Abschaltbefehl. Die Servicezeichnung nennt ein Sperrfenster und einen Stromfreigang. Im abgezogenen Ausdruck fehlt die Versionsnotiz, welche Freigabebedingung im Auslieferungsstand tatsächlich gilt.",
+        "Die Anzeige im Client besitzt zwei getrennte Felder „Sollwert übernommen“ und „Position“. Bei einem Austausch wird der nichtflüchtige Zählspeicher des alten Reglers nicht umgesteckt. Welche Daten das neue Gerät nach Anschluss des Netzwerks zurückholt, ist mit Fernfeld zu klären."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "03_schaltschema.svg",
+      "titel": "Figur 1 · örtlicher Steuerpfad und optionale Fernvorgabe",
+      "datum": "2026-11-05",
+      "von": "Enno Reh · Blattwinkel Regeltechnik GmbH, Entwicklung",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Links steht der Sensor, in der Mitte der örtliche Regler. Die beiden oberen Leitungen führen vom Regler zu den Motorausgängen A und B. Der gemeinsame Speiseabgang mit Strommessglied ist unten dargestellt. Die äußere Rückleitung führt das gemessene Stromsignal zum Regler. Die getrennte Verbindung für Fernvorgaben führt über die Schnittstelle zum Regler. Die Endschalter sind als jeweiliges Paar bei den Motoren dargestellt."
+      ],
+      "figur": {
+        "linien": [
+          [
+            [
+              38,
+              115
+            ],
+            [
+              101,
+              115
+            ],
+            [
+              101,
+              159
+            ],
+            [
+              38,
+              159
+            ],
+            [
+              38,
+              115
+            ]
+          ],
+          [
+            [
+              170,
+              108
+            ],
+            [
+              281,
+              108
+            ],
+            [
+              281,
+              200
+            ],
+            [
+              170,
+              200
+            ],
+            [
+              170,
+              108
+            ]
+          ],
+          [
+            [
+              380,
+              62
+            ],
+            [
+              460,
+              62
+            ],
+            [
+              460,
+              109
+            ],
+            [
+              380,
+              109
+            ],
+            [
+              380,
+              62
+            ]
+          ],
+          [
+            [
+              380,
+              162
+            ],
+            [
+              460,
+              162
+            ],
+            [
+              460,
+              209
+            ],
+            [
+              380,
+              209
+            ],
+            [
+              380,
+              162
+            ]
+          ],
+          [
+            [
+              322,
+              250
+            ],
+            [
+              382,
+              250
+            ],
+            [
+              382,
+              285
+            ],
+            [
+              322,
+              285
+            ],
+            [
+              322,
+              250
+            ]
+          ],
+          [
+            [
+              186,
+              260
+            ],
+            [
+              248,
+              260
+            ],
+            [
+              248,
+              295
+            ],
+            [
+              186,
+              295
+            ],
+            [
+              186,
+              260
+            ]
+          ],
+          [
+            [
+              40,
+              245
+            ],
+            [
+              102,
+              245
+            ],
+            [
+              102,
+              281
+            ],
+            [
+              40,
+              281
+            ],
+            [
+              40,
+              245
+            ]
+          ],
+          [
+            [
+              101,
+              137
+            ],
+            [
+              170,
+              137
+            ]
+          ],
+          [
+            [
+              281,
+              127
+            ],
+            [
+              312,
+              127
+            ],
+            [
+              312,
+              85
+            ],
+            [
+              380,
+              85
+            ]
+          ],
+          [
+            [
+              281,
+              178
+            ],
+            [
+              380,
+              178
+            ]
+          ],
+          [
+            [
+              420,
+              250
+            ],
+            [
+              420,
+              209
+            ]
+          ],
+          [
+            [
+              420,
+              250
+            ],
+            [
+              462,
+              250
+            ],
+            [
+              462,
+              107
+            ],
+            [
+              460,
+              107
+            ]
+          ],
+          [
+            [
+              382,
+              267
+            ],
+            [
+              420,
+              267
+            ],
+            [
+              420,
+              250
+            ]
+          ],
+          [
+            [
+              352,
+              250
+            ],
+            [
+              352,
+              215
+            ],
+            [
+              265,
+              215
+            ],
+            [
+              265,
+              200
+            ]
+          ],
+          [
+            [
+              101,
+              264
+            ],
+            [
+              135,
+              264
+            ],
+            [
+              135,
+              188
+            ],
+            [
+              170,
+              188
+            ]
+          ],
+          [
+            [
+              217,
+              260
+            ],
+            [
+              217,
+              200
+            ]
+          ],
+          [
+            [
+              460,
+              82
+            ],
+            [
+              492,
+              82
+            ],
+            [
+              492,
+              118
+            ],
+            [
+              255,
+              118
+            ]
+          ],
+          [
+            [
+              460,
+              180
+            ],
+            [
+              513,
+              180
+            ],
+            [
+              513,
+              194
+            ],
+            [
+              281,
+              194
+            ]
+          ],
+          [
+            [
+              500,
+              74
+            ],
+            [
+              500,
+              91
+            ]
+          ],
+          [
+            [
+              521,
+              167
+            ],
+            [
+              521,
+              184
+            ]
+          ]
+        ],
+        "kreise": [],
+        "bezugszeichen": [
+          [
+            "10",
+            "Örtlicher Strahlungssensor",
+            59,
+            118,
+            65,
+            73
+          ],
+          [
+            "20",
+            "Örtlicher Regler mit Warteschlange",
+            194,
+            110,
+            171,
+            52
+          ],
+          [
+            "30",
+            "Strommessglied am gemeinsamen Abgang",
+            343,
+            282,
+            315,
+            313
+          ],
+          [
+            "40",
+            "Motor A",
+            411,
+            64,
+            373,
+            33
+          ],
+          [
+            "42",
+            "Motor B",
+            410,
+            197,
+            477,
+            218
+          ],
+          [
+            "50",
+            "Endschalterpaar A",
+            491,
+            92,
+            549,
+            60
+          ],
+          [
+            "52",
+            "Endschalterpaar B",
+            512,
+            179,
+            572,
+            162
+          ],
+          [
+            "70",
+            "Ferndienst mit Schnittstelle",
+            68,
+            275,
+            50,
+            315
+          ],
+          [
+            "80",
+            "Bedienclient",
+            211,
+            289,
+            199,
+            322
+          ]
+        ]
+      }
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "04_abnahme.xlsx",
+      "titel": "Abnahmeversuch F12 · drei Nachrichten und zwei Ausgänge",
+      "datum": "2026-11-06",
+      "von": "Nina Klug · Blattwinkel Regeltechnik GmbH, Abnahme",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Zeiten in Sekunden ab Beginn der Messung um 13.40 Uhr. Der Prüfstecker zeichnet die Ausgänge und den gemeinsamen Motorstrom mit 20 ms Takt auf. Der Brokerexport enthält nur Empfangsquittungen. Die Zeitbasis des Brokers und die des Prüfsteckers sind nicht synchronisiert. Die Aufstellung gibt deren gerundete Laborzeit wieder. Eine Beweiskette für Gleichzeitigkeit im Millisekundenbereich lässt sich daraus nicht bilden."
+      ],
+      "tabelle": [
+        [
+          "Zeit",
+          "Kanal",
+          "Beobachtung"
+        ],
+        [
+          "0,00",
+          "Broker",
+          "Vorgabe A=60 %, B=40 % angenommen, Job 417."
+        ],
+        [
+          "0,20",
+          "Prüfstecker",
+          "A EIN, Stromspitze 6,1 A. B AUS."
+        ],
+        [
+          "2,10",
+          "Prüfstecker",
+          "A AUS, 1,2 A Reststrom. B AUS."
+        ],
+        [
+          "2,34",
+          "Prüfstecker",
+          "Strom erstmals unter 0,35 A. B AUS."
+        ],
+        [
+          "2,65",
+          "Prüfstecker",
+          "B EIN, Stromspitze 6,0 A."
+        ],
+        [
+          "3,00",
+          "Bedienclient",
+          "Status „Vorgabe übernommen“. Foto des Schirms fehlt."
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "05_anspruchsentwurf.docx",
+      "titel": "Entwurf G0 · Anspruchssatz aus dem Pflichtenheft",
+      "datum": "2026-11-09",
+      "von": "Silke Hain · Blattwinkel Regeltechnik GmbH, Produktleitung",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "1. Cloudplattform zur automatisierten Beschattung eines Gewächshauses, die einen Bedarf bestimmt, jederzeit die absolute Iststellung aller Schirme kennt und durch Freischaltung eines zweiten Motors nach Empfang einer Sollwertquittung eine gleichzeitige Anfahrt verhindert.",
+        "2. Anlage nach Anspruch 1, bei der im Fall eines Steuergerätetauschs alle bisherigen Schirmpositionen automatisch wiederhergestellt werden. 3. Verfahren nach Anspruch 1, das eine Überschreitung eines zulässigen Stroms ausschließt.",
+        "Die Zahlen in Screenshot 417 sind Prozentwerte. Unser Vertrieb behandelt sie bislang als Istwerte. Die Vertragsanlage von Fernfeld beschreibt nur eine Verfügbarkeit der Vorgabenschnittstelle. Prüfen Sie, ob ein Nachweis allein aus dem Client oder dem Broker gelingt. Für die von Wettbewerbern einzeln lieferbaren Ersatzregler soll eine praktisch prüfbare Fassung entstehen."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "06_d1_klimarechner.txt",
+      "titel": "Fiktive Entgegenhaltung D1 · Zentraler Klimarechner Wiesenlicht",
+      "datum": "2026-11-10",
+      "von": "Ruth Eilert · Kanzlei Mund, Recherche",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Fiktive Fachinformation für die Übung. Die öffentliche Auslage in einer Technikbibliothek am 6. Mai 2021 wird als Tatsache vorgegeben. Weder der Herstellername noch der Auszug bezeichnet eine reale Fundstelle.",
+        "Ein Zentralrechner ermittelt aus Strahlung und Prognose für zwei Gewächshauszonen Schirmziele. Die Motorbox führt die nacheinander empfangenen Ziele aus und sendet eine Auftragsbestätigung. Jede Motorleitung besitzt einen Überstromabschalter. Die Unterlage nennt keine Freigabe des zweiten Antriebs in Abhängigkeit vom gemessenen Nachlaufstrom des ersten. Bei Netzausfall hält die Motorbox den zuletzt übernommenen Sollwert."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "07_d2_anlaufverteiler.txt",
+      "titel": "Fiktive Entgegenhaltung D2 · Anlaufverteiler für Rollabschlüsse",
+      "datum": "2026-11-10",
+      "von": "Ruth Eilert · Kanzlei Mund, Recherche",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Fiktiver Schulungsauszug, für den Fall als seit 15. August 2022 frei erhältlich unterstellt. D2 betrifft zwei elektrische Rollabschlüsse an einer begrenzten Zuleitung. Ein örtliches Schaltmodul gibt den nächsten Start 500 ms nach dem Abschaltbefehl für den ersten Ausgang frei.",
+        "Der Zeitgeber startet mit dem Abfallen des Steuersignals. Die Entwickler geben einen pauschalen Zuschlag für den Motornachlauf an. Ein Messwandler für den tatsächlichen Reststrom, eine Referenzfahrt nach Gerätetausch oder ein Vergleich von Pulszählwert und Endschalter sind im Auszug nicht beschrieben. Andere Ausführungen außerhalb des Materials sind im Fall nicht belegt."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "08_erfinderantwort.eml",
+      "titel": "F12 mit gezogenem Netzstecker wiederholt · Freigabe in L4",
+      "datum": "2026-11-18",
+      "von": "Enno Reh · Blattwinkel Regeltechnik GmbH, Entwicklung",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Der Wiederholungsversuch lief auf Software L4.3 mit abgezogenem Ethernetkabel. Zwei örtlich ausgelöste Fahranfragen standen gleichzeitig an. Erst nach Abfall des ersten Motorausgangs UND ununterbrochenem Unterschreiten des Stromgrenzwerts von 0,35 A für 300 ms schaltet der Regler den wartenden zweiten Ausgang. In unserem Versuch mit trägem Motor lag der Strom nach dem Abschalten noch 720 ms über der Schwelle. Der zweite Ausgang folgte nach weiteren 310 ms. Ein fester 500-ms-Timer hätte in diesem Versuch zu früh freigegeben.",
+        "Die Zahlen sind Parameter unseres Musters. Die Vergleichszeit läuft bei erneutem Überschreiten von vorn. Ersatzregler L4.3 setzt beide Positionsstände auf unbekannt. Er fährt jede Zone einzeln auf Anforderung des Bedieners bis zum verdrahteten Endschalter „offen“, setzt dort den örtlichen Zähler und erlaubt dann Sollfahrten. Die Anfahrreihenfolge und Stromfreigabe gelten auch bei diesen Referenzfahrten. Ohne funktionierenden Endschalter bleibt die Lage unbekannt. Den lokalen Schaltplan und die Klemmenbelegung können wir einem Sachverständigen zeigen."
+      ],
+      "absender": "e.reh@blattwinkel.example",
+      "empfaenger": "t.mund@kanzlei-mund.example",
+      "uhrzeit": "08:26"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "09_brokerbefund.eml",
+      "titel": "Job 417 · Bedeutung des Prozentwerts und der Quittung",
+      "datum": "2026-11-19",
+      "von": "Efe Tan · Fernfeld Dienste GmbH, Betriebsdaten",
+      "an": "Silke Hain · Blattwinkel Regeltechnik GmbH, Produktleitung",
+      "text": [
+        "Fernfeld speichert pro Zone den übernommenen Vorgabewert, seine Sequenznummer und einen Empfangszeitpunkt. Im Tarif der Sonnenbogen eG werden weder Motorausgang noch gemessener Strom noch Endschaltersignal hochgeladen. Die 60 und 40 im Export sind Zielwerte. Wir können nicht bescheinigen, wo der Schirm bei Eingang der Quittung stand. Ein neuer Regler erhält auf Anmeldung die letzte Vorgabe erneut, aber keine rekonstruierte Position.",
+        "Für den Trennversuch am 18. November enthält unser Protokoll keine Sitzung. Das belegt die fehlende Sitzung bei unserem Dienst. Aussagen zu anderen Verbindungen können wir nicht treffen. Der Betreiber kann die lokalen Anschlusswerte und die Seriennummer des eingebauten Reglers gesondert freigeben."
+      ],
+      "absender": "e.tan@fernfeld.example",
+      "empfaenger": "s.hain@blattwinkel.example",
+      "uhrzeit": "14:21"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "10_tauschprotokoll.xlsx",
+      "titel": "Service T-28 · Ersatzregler und abgezogener Endschalter",
+      "datum": "2026-11-20",
+      "von": "Rika Damm · Glasgärtnerei Sonnenbogen eG, Betriebsleitung",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Wir haben im Kundenhaus das Seriengerät G-221 durch G-225 ersetzt. Der Abschnitt ist ein protokollierter Serviceversuch mit Zustimmung der Betriebsleitung. Der Browser und die lokale Diagnoseseite sind getrennt abgelesen worden. Die Strommessung dokumentiert das Ausgangssignal des Stromwandlers. Für den genauen mechanischen Öffnungswinkel wurde kein unabhängiges Messgerät verwendet."
+      ],
+      "tabelle": [
+        [
+          "Schritt",
+          "Lokaler Zustand",
+          "Client / Anschlussbefund"
+        ],
+        [
+          "1 · Nach Austausch",
+          "Beide Zähler unbekannt",
+          "Letzte Zielvorgabe erscheint weiterhin als 60 und 40 %."
+        ],
+        [
+          "2 · A referenziert",
+          "Kontakt A-offen schaltet, Zähler A=0",
+          "B-offen für Serviceversuch absichtlich abgesteckt."
+        ],
+        [
+          "3 · B referenziert",
+          "Kein Endkontakt, Laufzeitbegrenzung beendet Versuch. B unbekannt.",
+          "Keine normale Sollfahrt B freigegeben."
+        ],
+        [
+          "4 · Kontakt B wieder angeschlossen",
+          "Referenzlauf erreicht B-offen. Zähler B=0.",
+          "Erst jetzt erste normale Sollfahrt B freigegeben."
+        ]
+      ]
+    }
+  ],
+  "erwartung": [
+    {
+      "titel": "Trennung der Interessen und Bausteine",
+      "text": [
+        "Die erste Fassung mit dem zunächst offenen Auslösemechanismus, den vertraglich getrennten Beteiligten und der Schwäche des Brokerbeweises vergleichen. Keine Prozentanzeige ohne Gegenbeleg in eine gemessene Stellung umdeuten."
+      ]
+    },
+    {
+      "titel": "Widerspruchsprüfung",
+      "text": [
+        "Die Freigabe nach tatsächlichem Stromfreigang und Mindestdauer von der bekannten Wartezeit trennen. Der Trennversuch, das erneute Zieltelegramm und die ausdrücklich unbekannte Position nach Austausch müssen im überarbeiteten Anspruchs- oder Variantenkonzept nachvollziehbare Folgen haben."
+      ]
+    },
+    {
+      "titel": "Nachweis und Offenbarung",
+      "text": [
+        "Die konkrete Ausführung mit einmaliger Referenzfahrt, Endkontakt und Ausfallbeschreibung im Ersatzfall prüfen. Für die Zentral-, Regler- und Verfahrensfassung erfassen, ob eine technische Sanktion oder ein bloßes Ergebnis beansprucht ist. Eine Ausgestaltung mit nicht belegter Wiederherstellung der absoluten Position zurückstellen."
+      ]
+    },
+    {
+      "titel": "Beispiel für eine nachgeführte Merkmalsfassung",
+      "text": [
+        "G0 „nach Empfang einer Sollwertquittung“ an der Erfinderantwort L4.3 und dem Netztrennversuch messen. Eine prüfbare Reglerfassung kann vorsehen, dass der zweite Ausgang erst nach Abschaltung des ersten Ausgangs und nach ununterbrochenem Unterschreiten eines Stromgrenzwerts während einer vorgegebenen Dauer freigegeben wird. Im Ausführungsbeispiel sind dies 0,35 A und 300 ms. Für die Austauschvariante die erste normale Sollfahrt an die erfolgreiche örtliche Referenzfahrt knüpfen, gestützt auf T-28, Schritte 2 bis 4."
+      ]
+    }
+  ]
+}

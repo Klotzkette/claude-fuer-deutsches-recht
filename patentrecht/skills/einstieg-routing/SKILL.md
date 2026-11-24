@@ -9,6 +9,8 @@ description: "Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fac
 
 Bestimme aus Auftrag, Anspruchsfassung und technischen Unterlagen, ob eine Anmeldung, Bescheidserwiderung, Verletzungs- oder Bestandsprüfung bestellt ist. Arbeite auf dieses Dokument hin, statt nur einen Spezialskill zu benennen.
 
+**Wenn Patentansprüche vorliegen**, übernimm Nummer, Wortlaut und Fassung und zeige am ersten unabhängigen Anspruch, welche Formulierung den Schutzgegenstand oder den Rückbezug unklar lässt. **Wenn jemand seine Erfindung schildert**, fasse die technische Wirkung und die dafür beschriebenen Mittel zusammen. Frage nach dem einen noch ungeklärten Zusammenhang, der den Hauptanspruch ändern würde. Führe beide Wege mit dem [Patentanmelder-Hauptskill](../juristischer-argumentationskern/SKILL.md) in derselben Bearbeitung bis zum verlangten Prüfbericht oder Anmeldungsentwurf fort.
+
 ## Fachlandkarte dieses Plugins
 
 - `schutzbereich-und-fto-bearbeiten` (Fachthema: abmahnung-patentverletzung-verteidigung) — Abmahnung Patentverletzung Verteidigung
@@ -29,7 +31,7 @@ Bestimme aus Auftrag, Anspruchsfassung und technischen Unterlagen, ob eine Anmel
 ## Arbeitsweg
 
 - Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: PatG § 34 Anmeldetag, § 41 Priorität 12 Monate, § 81 Nichtigkeitsklage, EPÜ R. 161/162 6 Monate Einreichungsfrist EP-Anmeldung.
+- Prüfe bei einer DE-Anmeldung die Unterlagen nach § 34 PatG und gesondert den für den Anmeldetag maßgeblichen Eingang nach § 35 Abs. 1 PatG. Prüfe bei beanspruchter Priorität Voranmeldung, Gegenstand und Frist nach dem einschlägigen Regime. Bei einer Euro-PCT-Anmeldung ordne eine Mitteilung nach Regeln 161/162 EPÜ dem Eintritt in die europäische Phase zu und ermittle die darin betroffene Handlung und Frist aus der Akte.
 - Fachpfad wählen: zentrale Anker im Patentrecht sind PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87–89, PCT Art. 3, 8, UPCA. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
 - Zuständige Stelle bestimmen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPO, BPatG, BGH X. Senat, UPC.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.

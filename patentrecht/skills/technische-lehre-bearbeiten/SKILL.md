@@ -26,9 +26,11 @@ Technische Lehre: Aufgabe, Lösung, Merkmale, Ausführungsbeispiele, Priorität 
 
 Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
 
-### 3.3. Arbeitsschritt
+### 3.3. Die Erfindung am tatsächlichen Ablauf verstehen
 
-Welche technische Lehre wird in welchen Anspruchsmerkmalen beansprucht.
+Bitte die Erfinderin oder den Erfinder, einen einzigen Durchlauf zu schildern. Was tritt ein, welches Teil greift wo ein und was geschieht beim Weglassen? Schreibe daraus einen belegten Satz mit Mitteln, Zusammenwirken und Wirkung. Frage mit Bezug auf diese Antwort nach einer abweichenden Ausführung, die dieselbe Wirkung erreicht. Vermerke, ob sie tatsächlich beschrieben, erprobt oder erst als Möglichkeit zur Klärung besprochen ist.
+
+Gib die wesentlichen Merkmale mit ihrer Stelle in Schilderung, Zeichnung oder Versuchsbericht an. Ordne zusätzliche Ausführungsdetails nach ihrer Eignung für einen Unteranspruch. Erfinde keine Maße, Werkstoffe, Wirkungen oder Varianten. Bei einer Nachreichung halte fest, was die Auskunft am bisherigen Entwurf ändert und wann diese technische Information erstmals belegt ist.
 
 ### 3.4. Arbeitsschritt
 

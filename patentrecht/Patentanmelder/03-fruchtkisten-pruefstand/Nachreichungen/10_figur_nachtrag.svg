@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="756" height="761" preserveAspectRatio="xMinYMin meet" viewBox="0 0 756 761" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Figur 1 · Prüfstand mit schwenkbarem Referenzträger</title>
+	<desc>Draufsicht nach der Montagezeichnung vom 21. November. Auf dem Förderband liegt die Kiste 10 am Anschlag 20. Kamera 40 und seitliche Leuchten 30 und 32 betrachten dieselbe Wandstelle. Schwenkarm 60, Referenzplatte 62 und Kontakt 64 sind in Parklage dargestellt. Der zweite, schräg liegende Umriss bei der Kamera zeigt die Arbeitsstellung in einer freien Kistenlücke. Die Steuerung 50 gibt das Sortiersignal am Anschluss 80 aus. Diese Figur erläutert den Laborstand nach der Anmeldung E1. In P0 und bei Einreichung von E1 war sie kein Bestandteil der Unterlagen.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="756" height="761"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-761)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="28" y="735" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,42%); stroke:none;" transform="translate(0,1470) scale(1,-1)">KM/26-123 · FK8   ·   23.11.2026</text>
+			<text x="600.78" y="735" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,42%); stroke:none;" transform="translate(0,1470) scale(1,-1)">TECHNISCHE ZEICHNUNG</text>
+			<text x="28" y="702" style="font-family: Helvetica-Bold; font-size: 20px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1404) scale(1,-1)">Figur 1 · Prüfstand mit schwenkbarem Referenzträger</text>
+			<text x="28" y="686" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,42%); stroke:none;" transform="translate(0,1372) scale(1,-1)">Nora Balt · Kistenkreis Prüftechnik GmbH, optische Entwicklung · An Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam</text>
+			<rect x="28" y="317" width="700" height="360" style="stroke: rgb(78%,84%,84%); stroke-linecap: butt; stroke-width: 0.8; fill: none; fill-rule: evenodd;"/>
+			<polyline points="108 461, 548 461" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="108 402, 548 402" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="303 457, 383 457, 383 412, 303 412, 303 457" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="385 462, 385 406, 401 406" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="316 639, 366 639, 366 604, 316 604, 316 639" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="226 565, 268 565, 268 546, 226 546, 226 565" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="424 565, 466 565, 466 546, 424 546, 424 565" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="341 604, 341 459" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="258 544, 334 459" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="433 544, 350 459" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="151 508, 203 513" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="200 523, 232 523, 232 507, 200 507, 200 523" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="151 508, 284 517, 335 522" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="326 532, 353 535, 355 522, 328 518, 326 532" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="179 498, 197 498, 197 485, 179 485, 179 498" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="473 641, 540 641, 540 606, 473 606, 473 641" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="508 604, 508 565" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="540 624, 582 624" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="259 465, 259 489, 273 489" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<circle cx="151" cy="508" r="6" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2; fill: none; fill-rule: evenodd;"/>
+			<path d="M 320,440 L 232,364 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="232" cy="364" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="225.884" y="360" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,720) scale(1,-1)">10</text>
+			<path d="M 394,410 L 439,364 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="439" cy="364" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="432.884" y="360" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,720) scale(1,-1)">20</text>
+			<path d="M 236,561 L 174,595 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="174" cy="595" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="167.884" y="591" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1182) scale(1,-1)">30</text>
+			<path d="M 439,559 L 487,522 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="487" cy="522" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="480.884" y="518" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1036) scale(1,-1)">32</text>
+			<path d="M 341,638 L 372,657 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="372" cy="657" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="365.884" y="653" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1306) scale(1,-1)">40</text>
+			<path d="M 514,636 L 536,661 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="536" cy="661" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="529.884" y="657" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1314) scale(1,-1)">50</text>
+			<path d="M 165,510 L 103,549 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="103" cy="549" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="96.884" y="545" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1090) scale(1,-1)">60</text>
+			<path d="M 217,521 L 188,551 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="188" cy="551" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="181.884" y="547" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1094) scale(1,-1)">62</text>
+			<path d="M 184,493 L 109,482 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="109" cy="482" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="102.884" y="478" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,956) scale(1,-1)">64</text>
+			<path d="M 266,489 L 249,511 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="249" cy="511" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="242.884" y="507" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1014) scale(1,-1)">70</text>
+			<path d="M 576,624 L 622,625 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="622" cy="625" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="615.884" y="621" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1242) scale(1,-1)">80</text>
+			<text x="28" y="297" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,594) scale(1,-1)">BEZUGSZEICHEN</text>
+			<text x="28" y="274" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,548) scale(1,-1)">10</text>
+			<text x="60" y="274" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,548) scale(1,-1)">Kiste</text>
+			<text x="386" y="274" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,548) scale(1,-1)">20</text>
+			<text x="418" y="274" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,548) scale(1,-1)">Anschlag</text>
+			<text x="28" y="250" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,500) scale(1,-1)">30</text>
+			<text x="60" y="250" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,500) scale(1,-1)">Linke Leuchte</text>
+			<text x="386" y="250" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,500) scale(1,-1)">32</text>
+			<text x="418" y="250" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,500) scale(1,-1)">Rechte Leuchte</text>
+			<text x="28" y="226" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,452) scale(1,-1)">40</text>
+			<text x="60" y="226" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,452) scale(1,-1)">Kamera</text>
+			<text x="386" y="226" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,452) scale(1,-1)">50</text>
+			<text x="418" y="226" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,452) scale(1,-1)">Steuerung</text>
+			<text x="28" y="202" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,404) scale(1,-1)">60</text>
+			<text x="60" y="202" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,404) scale(1,-1)">Schwenkarm</text>
+			<text x="386" y="202" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,404) scale(1,-1)">62</text>
+			<text x="418" y="202" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,404) scale(1,-1)">Matte Referenzplatte</text>
+			<text x="28" y="178" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,356) scale(1,-1)">64</text>
+			<text x="60" y="178" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,356) scale(1,-1)">Endkontakt Parklage</text>
+			<text x="386" y="178" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,356) scale(1,-1)">70</text>
+			<text x="418" y="178" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,356) scale(1,-1)">Lichtschranke</text>
+			<text x="28" y="154" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,308) scale(1,-1)">80</text>
+			<text x="60" y="154" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,308) scale(1,-1)">Sortierausgang</text>
+			<text x="28" y="122" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,244) scale(1,-1)">Draufsicht nach der Montagezeichnung vom 21. November. Auf dem Förderband liegt die Kiste 10 am Anschlag 20. Kamera 40</text>
+			<text x="28" y="107" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,214) scale(1,-1)">und seitliche Leuchten 30 und 32 betrachten dieselbe Wandstelle. Schwenkarm 60, Referenzplatte 62 und Kontakt 64 sind in</text>
+			<text x="28" y="92" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,184) scale(1,-1)">Parklage dargestellt. Der zweite, schräg liegende Umriss bei der Kamera zeigt die Arbeitsstellung in einer freien Kistenlücke. Die</text>
+			<text x="28" y="77" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,154) scale(1,-1)">Steuerung 50 gibt das Sortiersignal am Anschluss 80 aus.</text>
+			<text x="28" y="56" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,112) scale(1,-1)">Diese Figur erläutert den Laborstand nach der Anmeldung E1. In P0 und bei Einreichung von E1 war sie kein Bestandteil der</text>
+			<text x="28" y="41" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,82) scale(1,-1)">Unterlagen.</text>
+		</g>
+	</g>
+</svg>

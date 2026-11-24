@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "tag": "qualitaetsrunde-v445.36.14",
+  "version": "445.36.14",
+  "title": "Patentanmelder: Ansprüche und Anmeldeunterlagen ausarbeiten",
+  "plugins": [
+    {
+      "name": "patentrecht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [
+        "patentrecht-werkstatt.md",
+        "patentrecht-schnellstart.md"
+      ],
+      "previous_release": {
+        "tag": "paketpflege-20261122-v445.36.9",
+        "version": "445.36.9",
+        "manifests": {
+          ".claude-plugin/plugin.json": "f6d90f5c09fccd677e16b788c9a386a9916d4e1299ea417c0eb2494d0a3606a8"
+        }
+      }
+    }
+  ]
+}

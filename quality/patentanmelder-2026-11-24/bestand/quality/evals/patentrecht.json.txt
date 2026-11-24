@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "plugin": "patentrecht",
+  "reviewed_on": "2026-10-01",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/__14.html",
+      "checked_on": "2026-09-14",
+      "supports": "Patentansprüche bestimmen den Schutzbereich; Beschreibung und Zeichnungen dienen der Auslegung."
+    },
+    {
+      "url": "https://www.wipo.int/wipolex/en/text/597230",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 12.03.2002, Az. X ZR 168/00, Schneidmesser I, Gründe II.3.a bis d. Anwendung: Abgewandeltes Mittel nach Gleichwirkung, fachmännischer Auffindbarkeit und anspruchsorientierter Gleichwertigkeit prüfen. Grenze und Prüfzugang: Keine allgemeine Abweichungstoleranz und kein Ersatz numerischer Anspruchsgrenzen durch bloßen Erfindungsgedanken; gerichtliche Gründe bei WIPO Lex gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/__14.html",
+      "checked_on": "2026-09-22",
+      "supports": "Anspruchsbestimmter Schutzbereich mit Beschreibung und Zeichnungen als Auslegungshilfe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/BJNR201170936.html",
+      "checked_on": "2026-09-23",
+      "supports": "Paragraf 14 im Gesamttext gelesen, nachdem Einzelseitenabruf scheiterte; Schutzbereich weiterhin am Anspruch mit Beschreibung und Zeichnungen ausgelegt."
+    },
+    {
+      "url": "https://www.wipo.int/wipolex/en/text/597230",
+      "checked_on": "2026-09-23",
+      "supports": "Schneidmesser I, Gründe II.3.a bis d, erneut im bei WIPO Lex veröffentlichten gerichtlichen Text gelesen: drei Äquivalenzanforderungen und Bedeutung von Zahlenangaben. Keine technische Begutachtung eines Sensors und keine pauschale Toleranzregel."
+    },
+    {
+      "url": "https://www.epo.org/de/legal/epc/2020/a123.html",
+      "checked_on": "2026-09-23",
+      "supports": "Artikel 123 Absätze 2 und 3 gelesen: ursprünglicher Offenbarungsgehalt und Verbot der Erweiterung des Schutzbereichs nach Erteilung als getrennte Grenzen des Änderungsvorschlags."
+    },
+    {
+      "url": "https://www.epo.org/de/legal/epc/2020/a99.html",
+      "checked_on": "2026-09-23",
+      "supports": "Artikel 99 Absatz 1 gelesen: neunmonatige EPA-Einspruchsfrist ab Bekanntmachung des Erteilungshinweises im Europäischen Patentblatt und Entrichtung der Einspruchsgebühr. Keine konkrete Frist aus einer Mandatsakte berechnet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/__81.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absatz 2 gelesen: Sperre der nationalen Nichtigkeitsklage während möglichem oder anhängigem Einspruch; nicht ungeprüft auf andere Bestandsverfahren übertragen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2024/X_ZR__35-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf/Leitsätze/Tenor, Anspruch 1, Gründe Rn. 13–43, 44–93 (ausgewählte Passagen), insbesondere 19–28 und 79–86. Zweckangabe oder zwingender Verfahrensschritt durch Anspruchsauslegung bestimmen; Ausgangspunkt und Übergriff auf fremdes Fachgebiet mit konkretem Anlass begründen. Grenze: Keine allgemeine Pflicht zur tatsächlichen Zweckverwendung und kein Verbot gebietsübergreifender Recherche; deutsche Nichtigkeitsentscheidung, keine Aussage zur Bindung der EPA-Kammern."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Anspruchsbezogenen Schutzbereich und drei Äquivalenzanforderungen vor die technische Aufnahme gestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "changes": [
+      "Schneidmesser I in die Prüfung abgewandelter Mittel integriert",
+      "Zahlenangaben des Anspruchs nicht zu bloßen Beispielen erklärt",
+      "Nicht verwendete Entscheidungsnummern durch konkrete Forschungsfragen ersetzt",
+      "Drei Einstiege für Produktvergleich, Bescheidserwiderung oder Lizenz; keine Startübersicht bei klarem Auftrag.",
+      "Nachgereichte Lichtschranke verändert nur die betroffene Produktversion in verletzungsvermerk.md; ursprüngliche Offenbarung verändert Anspruch und Erwiderung gemeinsam.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Anspruchsbezogenen Schutzbereich und drei Äquivalenzanforderungen vor die technische Aufnahme gestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+    ],
+    "sha256": "969ae59eb540cdacbb9267ab05ccd41ae4ba49bbd0156fd03467760f9c7164fc",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Anspruchsbezogenen Schutzbereich und drei Äquivalenzanforderungen vor die technische Aufnahme gestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "changes": [
+      "Schneidmesser I in die Prüfung abgewandelter Mittel integriert",
+      "Zahlenangaben des Anspruchs nicht zu bloßen Beispielen erklärt",
+      "Nicht verwendete Entscheidungsnummern durch konkrete Forschungsfragen ersetzt",
+      "Neue Entwicklung von ursprünglicher Offenbarung getrennt; Beschränkung, Argumentation und Hilfsanträge am tatsächlichen Bescheideinwand ausgerichtet.",
+      "EPA-Einspruchsbeginn und Gebühr, nationale Nichtigkeitssperre sowie eigenständige Grenzen nach Artikel 123 EPÜ ergänzt.",
+      "Produktversion, Versuchsfrage und Gegenbefunde sowie Lizenzereignis, Retouren und Rechteänderung bis zur konkreten Dokumentfassung ausgearbeitet.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Anspruchsbezogenen Schutzbereich und drei Äquivalenzanforderungen vor die technische Aufnahme gestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+    ],
+    "sha256": "1b97e7c724fb48820e3871136be026d17573d7d4ff10e46c35bc454906a82b87",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+  },
+  "selection": {
+    "positive": [
+      "Prüfe mein Produkt anhand des geltenden Patentanspruchs auf Verletzung.",
+      "Ordne geplante Anspruchsänderungen den ursprünglichen Offenbarungsstellen zu."
+    ],
+    "negative": [
+      "Erstelle ausschließlich Suchstrings und ein Datenbankprotokoll ohne rechtliche Patentbewertung.",
+      "Prüfe ausschließlich den Designschutz der äußeren Gehäuseform, ohne technische Schutzrechte."
+    ]
+  },
+  "cases": [
+    {
+      "id": "fehlender-positionssensor",
+      "request": "Erstelle ergebnis.md als Claim Chart und vorläufigen Verletzungsvermerk zu einem fiktiven, für diese Übung als geltend angenommenen deutschen Patent. Anspruch 1 verlangt einen Behälter, einen motorischen Deckelantrieb und einen optischen Sensor zur Feststellung der Deckelposition. Beschreibung Absatz 12 erläutert den optischen Sensor als Lichtsender und Empfänger; andere Sensoren werden nicht erwähnt. Das angegriffene Gerät hat nach übereinstimmendem Handbuch und geöffnetem Prüfexemplar Behälter und Motor, misst aber ausschließlich Motorstrom und besitzt keinen optischen Sender oder Empfänger. Es erreicht eine automatische Abschaltung am Deckelanschlag. Rechteinhaberschaft und Deutschlandvertrieb sind unstreitig. Bitte keine externe Suche nach einer Patentnummer, sondern Bewertung dieses vollständig vorgegebenen technischen Vergleichs.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet alle drei Anspruchsmerkmale einzeln zu und erkennt den nicht verwirklichten optischen Positionssensor.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verneint eine belegte wortsinngemäße Verwirklichung des gesamten Anspruchs trotz gleicher Abschaltfunktion.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behandelt Äquivalenz allenfalls als eigenständige offene Prüfung und leitet sie nicht allein aus dem gleichen Abschaltergebnis ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "schutzbereich-und-fto-bearbeiten"
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-01",
+    "files": [
+      "patentrecht/patentrecht-werkstatt.md",
+      "patentrecht/patentrecht-schnellstart.md",
+      "patentrecht/README.md",
+      "quality/evals/patentrecht.json"
+    ],
+    "opening_change": "Geltenden Patentanspruch, Produktmerkmal und vorveröffentlichten Stand der Technik unmittelbar vergleichen.",
+    "norms": [
+      "Paragraf 14 PatG",
+      "Paragrafen 3, 4 und 139 PatG",
+      "Artikel 69 EPÜ"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 12.03.2002, Az. X ZR 168/00, Schneidmesser I, Gründe II.3.a bis d",
+        "url": "https://www.wipo.int/wipolex/en/text/597230",
+        "application": "Abgewandeltes Mittel nach Gleichwirkung, fachmännischer Auffindbarkeit und anspruchsorientierter Gleichwertigkeit prüfen.",
+        "limit": "Keine allgemeine Abweichungstoleranz und kein Ersatz numerischer Anspruchsgrenzen durch bloßen Erfindungsgedanken; gerichtliche Gründe bei WIPO Lex gelesen."
+      },
+      {
+        "citation": "BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2024/X_ZR__35-24.pdf?__blob=publicationFile&v=1",
+        "application": "Zweckangabe oder zwingender Verfahrensschritt durch Anspruchsauslegung bestimmen; Ausgangspunkt und Übergriff auf fremdes Fachgebiet mit konkretem Anlass begründen.",
+        "limit": "Keine allgemeine Pflicht zur tatsächlichen Zweckverwendung und kein Verbot gebietsübergreifender Recherche; deutsche Nichtigkeitsentscheidung, keine Aussage zur Bindung der EPA-Kammern."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Keine technische Begutachtung konkreter Sensoren oder Schneidvorrichtungen; SEP-/FRAND-Spezialrecht nicht neu vollständig geprüft.",
+      "Workflow-Nachprüfung 2026-09-23: Schneidmesser I Gründe II.3.a bis d bei WIPO erneut gelesen; Paragraf 14 über Gesamtgesetz statt fehlgeschlagenem Einzelabruf geprüft. Artikel 99 und 123 EPÜ sowie Paragraf 81 PatG für Ergänzungen gelesen. Paragraf 59 als Einzelseite nicht erreichbar und nicht neu vollverifiziert; keine tatsächliche Amtsakte, technische Untersuchung oder Vertragsverhandlung ausgeführt."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Auswahl zwischen Anspruchs-/Produktvergleich, Anmeldung/Bescheid und Lizenz/Bestandsangriff; Mini fokussiert drei konkrete Arbeitsprodukte.",
+      "Dateien ohne Auftrag: Patentfassung oder technische Unterlagen still lesen und nur das gewünschte Ergebnis klären.",
+      "Klarer Auftrag: Anspruchsentwurf, Erwiderung, Bewertung oder Lizenzregel sofort bearbeiten; nur entscheidende Fassung, Staat oder technische Lücke erfragen."
+    ],
+    "continuation": "Neue Serienzeichnung ändert Sensorbefund und Schlussfolgerung in verletzungsvermerk.md; Offenbarungsstelle ändert Anspruch und Begründung in bescheidserwiderung.md; Gebietsangabe ändert Rechteumfang und Verweise in lizenzvertrag.md.",
+    "enrichment": "Technische Alternativen und ursprüngliche Stütze, Änderung und Hilfsanträge, EPA-Frist und nationale Sperre, reproduzierbare Produktbefunde, einzelne Rechtsfolgen und konkrete Lizenzabrechnung.",
+    "limits": "desk review; no live client execution"
+  },
+  "visual_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-11-16",
+    "scope": "Fachlich zugeordnete Darstellung, mehrstufige Aktenbearbeitung und Übergabe aus tatsächlich verfügbaren Oberflächen; Fachtext außerhalb des Zusatzes bytegleich.",
+    "files": [
+      "patentrecht/patentrecht-werkstatt.md"
+    ],
+    "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
+    "pending_prior_changes": []
+  }
+}

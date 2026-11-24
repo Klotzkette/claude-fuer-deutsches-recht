@@ -549,6 +549,15 @@ def read_artifact(path: Path, *, raw: bytes | None = None) -> str:
         if len(reader.pages) > 200:
             raise LabError("PDF überschreitet Seitenbudget; engeren Prüfauftrag verwenden")
         text = bounded_text(page.extract_text() or "" for page in reader.pages)
+    elif suffix == ".svg":
+        svg = "{http://www.w3.org/2000/svg}"
+        figure = ElementTree.fromstring(raw)
+        if figure.tag != svg + "svg":
+            raise LabError("Dateiendung täuscht SVG-Zeichnung vor")
+        labels = [node for node in figure.iter() if node.tag in {svg + "text", svg + "title", svg + "desc"}]
+        text = bounded_text("".join(node.itertext()).strip() for node in labels)
+        if text.strip():
+            text = "Beschriftungen der SVG-Zeichnung. Geometrie am Original prüfen.\n" + text
     elif suffix in {".md", ".txt", ".csv", ".json", ".eml"}:
         text = raw.decode("utf-8")
     else:

@@ -310,6 +310,7 @@ def previous_bytes(root, path, *, plugin=None):
     old = inside(root, archive_name).read_bytes()
     current = path.read_bytes()
     last_reviewed = before_fachaufnahme(root, path, current, plugin=name)
+    last_reviewed = before_patentanmelder(root, path, last_reviewed, plugin=name)
     followup = row.get("publication_followup")
     if followup is not None:
         archive = "quality/paketnavigation-2026-11-19/bestand/" + relative + ".txt"
@@ -380,6 +381,38 @@ def archived_fachtext(root, base, relative, row, current, plugin):
     if digest(current) != row["nachher"] or digest(old) != row["vorher"] or old == current:
         raise ValueError("Fachtext oder Vorfassung verändert: " + str(relative))
     return old
+
+
+PATENT_PROOF = "quality/patentanmelder-2026-11-24"
+PATENT_REGISTER_HASH = "333c76ab9da83faa40e4b9468607952546df1a3b75368d76d11ab61fedc57028"
+
+
+def patent_register(root):
+    raw = inside(root, PATENT_PROOF + "/fassungen.json").read_bytes()
+    if digest(raw) != PATENT_REGISTER_HASH:
+        raise ValueError("Fassungsnachweis der Patentanmelder-Werkstatt verändert")
+    return json.loads(raw, object_pairs_hook=unique_object)
+
+
+def before_patentanmelder(root, path, current, *, plugin=None):
+    """Verbindet die Fachredaktion mit den älteren Patent- und Konsolidierungsprüfungen."""
+    relative = path.relative_to(root)
+    if relative.parts[0] != "patentrecht" or not (root / PATENT_PROOF).is_dir():
+        return current
+    row = patent_register(root).get(relative.as_posix())
+    if row is None:
+        return current
+    if row.get("aenderung") != "fristenspalte":
+        return archived_fachtext(root, PATENT_PROOF, relative, row, current, plugin)
+    if plugin is not None and plugin != "patentrecht":
+        raise ValueError("Anmeldetag-Korrektur gehört zu anderem Plugin")
+    old = "PatG § 34 Anmeldetag, § 41 Priorität 12 Monate".encode()
+    new = ("PatG § 35 Abs. 1 Anmeldetag, Prioritätsjahr (§ 40 Abs. 1 PatG bzw. Art. 4 C Abs. 1 PVÜ), "
+           "Nachweise ausländischer Priorität (§ 41 Abs. 1 PatG) vor Ablauf des 16. Monats nach dem Prioritätstag").encode()
+    previous = current.replace(new, old, 1)
+    if current.count(new) != 1 or digest(current) != row["nachher"] or digest(previous) != row["vorher"]:
+        raise ValueError(f"{relative}: Anmeldetag-Korrektur oder historischer Fachtext weicht ab")
+    return previous
 
 
 def fachkorrektur_register(root, topic, *, required=False):
@@ -567,6 +600,9 @@ def historical_bytes(root, path, expected, *, plugin=None):
         return current
     from case_navigation_revision import CASES, previous_case_readme
     root, path = Path(root).resolve(), Path(path).resolve()
+    patent_previous = before_patentanmelder(root, path, current, plugin=plugin)
+    if patent_previous != current and digest(patent_previous) == expected:
+        return patent_previous
     earlier = before_fachkorrektur(root, path, current, plugin=plugin)
     if earlier != current and digest(earlier) == expected:
         return earlier
@@ -613,6 +649,10 @@ def validate_all(root):
     validate_package_links(root)
     validate_pruefer_release(root)
     validate_fachkorrekturen(root)
+    if (root / PATENT_PROOF).is_dir():
+        for relative in patent_register(root):
+            path = inside(root, relative)
+            before_patentanmelder(root, path, path.read_bytes(), plugin="patentrecht")
     return len(rows)
 
 

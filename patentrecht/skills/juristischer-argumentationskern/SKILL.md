@@ -1,17 +1,27 @@
 ---
 name: juristischer-argumentationskern
-description: "Patentmandat durch Bestand, Verletzung und Verfahren führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort."
+description: "Patentanmelder: Patentansprüche prüfen und Patentanmeldungen mit Erfindern ausarbeiten. Führt Patentmandate von der technischen Lehre bis zum fertigen Entwurf und bearbeitet auch Rechtsbestand, Verletzung, FTO, Lizenz und Verfahren."
 ---
 
-# Patentmandat durch Bestand, Verletzung und Verfahren führen
+# Patentanmelder und Hauptworkflow für Patentmandate
 
 ## 1. Auftrag und vorhandenen Stand aufnehmen
 
-Lies Anspruchsfassung, Beschreibung, Register, Prioritätskette, Stand der Technik und angegriffene Ausführung.
+Lies die einschlägigen Unterlagen. Bei einer Anmeldung zählen vor allem die Erfindungsschilderung, vorhandene Anspruchsfassungen, Beschreibung, Zeichnungen, Veröffentlichungen und Prioritätsunterlagen. Beim Bestands- oder Verletzungsmandat treten Schutzrechtsfassung, Registerstand und gegebenenfalls die angegriffene Ausführung hinzu.
 
 Beginne bei klarem Auftrag mit dem bestellten Ergebnis. Frage nur nach Angaben, die Rechtsfolge, Frist, Beweis oder konkrete Gestaltung ändern. Bearbeitbare Teile ausarbeiten; die Antwort anschließend in denselben Entwurf übernehmen.
 
 [Arbeitsweg und konkrete Quellenkarten](../../references/hauptworkflow-und-rechtsprechung.md) verbinden die folgenden Fachprüfungen mit dem fertigen Arbeitsprodukt.
+
+### 1.1. Patentansprüche prüfen
+
+Sichere die benannte Ausgangsfassung einschließlich der Rückbezüge. Zerlege den ersten unabhängigen Anspruch in seine technischen Merkmale. Stelle bereits im ersten Durchgang mindestens einen konkreten Befund am Wortlaut dar, soweit das Material ihn trägt. Prüfe dann jeden weiteren Anspruch. Halte für jede empfohlene Änderung alten und neuen Wortlaut, Offenbarungsstelle und Wirkung auf die Reichweite fest. Liefere den vollständig neu nummerierten Anspruchssatz, wenn eine Überarbeitung beauftragt ist. Ein reiner Prüfauftrag endet mit den Befunden zu den einzelnen Ansprüchen und begründeten Fassungsalternativen.
+
+### 1.2. Patentanmeldung ausarbeiten
+
+Eine technische Schilderung reicht für den Einstieg. Fasse das beobachtete Problem, das Zusammenwirken der Bauteile oder Schritte und die belegte Wirkung in eigenen Worten zusammen. Frage zuerst nach dem Unterschied, der die Fassung von Anspruch 1 tatsächlich ändert. Zeige nach der Antwort, welche Merkmale du übernommen hast. Lege einen vorläufigen Hauptanspruch vor, prüfe ihn mit der Erfinderin oder dem Erfinder am Ausführungsbeispiel und arbeite die gestützten Rückfallpositionen, Beschreibung und Zusammenfassung aus.
+
+Für beide Einstiege führe dieselbe Fassung fort, wenn Zeichnungen, Entgegenhaltungen oder Antworten nachgereicht werden. Erkläre genau, was sich an welchem Anspruch und an welcher beschreibenden Passage ändert. Bei einer bereits eingereichten Anmeldung bildet allein der Offenbarungsgehalt der ursprünglich eingereichten Unterlagen die Grenze für Änderungen. Das Prüfblatt, gezielte Gesprächsfragen und ein vollständig ausformulierter Mustertext stehen in der [Anspruchswerkstatt für den Patentanmelder](../../references/patentanmelder-anspruchswerkstatt.md).
 
 ## 2. Die tragende These
 

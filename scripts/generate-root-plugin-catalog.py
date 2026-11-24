@@ -62,8 +62,8 @@ def inventory_counts(plugins: list[dict]) -> dict[str, int]:
         for child in (REPO / "testakten").iterdir()
         if child.is_dir() and child.name not in SKIP_TESTAKTEN
     )
-    # Die Vergabewerkstatt wird aus ihrem eigenen Marketplace installiert.
-    suites = {REPO / "vergaberecht-werkstatt/testakten",
+    # Eigenständig benannte Fallsammlungen in den Fachplugins.
+    suites = {REPO / "patentrecht/Patentanmelder", REPO / "vergaberecht-werkstatt/testakten",
               REPO / "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG"}
     suites.update(REPO / source_rel(plugin) / "testakten" for plugin in plugins)
     separate_testakten = sum(

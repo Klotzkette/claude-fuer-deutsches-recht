@@ -26,9 +26,11 @@ Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berec
 
 Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
 
-### 3.3. Arbeitsschritt
+### 3.3. Den ausformulierten Entwurf gegenlesen
 
-Welcher Rechtsbestands-, Verletzungs- oder Lizenzschritt ist jetzt fristgebunden.
+Lies jeden Anspruch mit allen Merkmalen seiner Bezugskette als einen Satz. Prüfe eindeutige Bezugswörter, Einheitlichkeit der Begriffe und Bezugszeichen, wirksame zusätzliche Beschränkung und technische Ausführbarkeit über die beanspruchte Breite. Verifiziere jede neu eingeführte Merkmalskombination an ihrer Offenbarungsstelle. Prüfe, ob Zwischenverallgemeinerungen entstehen, wenn ein Merkmal aus einem Ausführungsbeispiel ohne seine funktional verbundenen Begleitmerkmale übernommen wird.
+
+Vergleiche anschließend Beschreibung, Figuren, Ansprüche und Zusammenfassung miteinander. Liefere eine lesbare Reinschrift der bearbeiteten Fassung und einen getrennten Vermerk mit Änderungen, Fundstellen und offenen Freigabepunkten. Wenn die Basis für einen beantragten breiten Anspruch fehlt, lege die gestützte engere Fassung vollständig vor und erkläre, welche zusätzliche Information vor einer ersten Einreichung eine andere Fassung tragen könnte.
 
 ### 3.4. Arbeitsschritt
 

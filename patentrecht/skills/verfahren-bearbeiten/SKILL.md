@@ -26,9 +26,11 @@ Verfahren: DPMA- oder EPA-Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, 
 
 Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
 
-### 3.3. Arbeitsschritt
+### 3.3. Anmeldungs- und Fristenstand bestimmen
 
-Welche Produktausführung verwirklicht welches Merkmal wortsinngemäß oder äquivalent.
+Unterscheide den Entwurf vor der ersten Einreichung, die bereits eingereichte Anmeldung und den Bescheid mit benannter Fassung. Bei einer deutschen Anmeldung ordnet § 34 Abs. 3 PatG die Anmeldungsunterlagen. Für den Anmeldetag regelt § 35 Abs. 1 PatG den maßgeblichen Eingang von Anmelderangabe, Erteilungsantrag und Angaben, die dem Anschein nach eine Beschreibung sind. Für eine europäische Anmeldung prüfe Art. 78 und 80 sowie Regel 40 EPÜ. Halte Datum, Amt, Aktenzeichen und Beleg nur fest, soweit sie vorliegen.
+
+Bei Prioritätsanspruch prüfe Voranmeldung, Berechtigung, Frist sowie Offenbarung desselben Gegenstands. Bei einem Bescheid nimm konkrete Erwiderungsfrist und fristauslösendes Ereignis aus der Akte. Dokumentiere mögliche Fristverlängerung und deren Voraussetzungen getrennt von der laufenden Frist. Nach der Einreichung kontrolliere jeden Änderungsvorschlag gegen die Ursprungsfassung (§ 38 PatG oder Art. 123 Abs. 2 EPÜ).
 
 ### 3.4. Arbeitsschritt
 

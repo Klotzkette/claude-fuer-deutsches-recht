@@ -1,0 +1,24 @@
+From: Efe Tan =?utf-8?q?=C2=B7_Fernfeld_Dienste_GmbH=2C?= Betriebsdaten
+ <e.tan@fernfeld.example>
+To: Silke Hain =?utf-8?q?=C2=B7_Blattwinkel_Regeltechnik_GmbH=2C?=
+ Produktleitung <s.hain@blattwinkel.example>
+Date: Thu, 19 Nov 2026 14:21:00 +0100
+Message-ID: <f8cdabb3332dba62126ac8e9@fallpost.example>
+Subject: Job 417 =?utf-8?q?=C2=B7?= Bedeutung des Prozentwerts und der
+ Quittung
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Fernfeld speichert pro Zone den =C3=BCbernommenen Vorgabewert, seine Sequenzn=
+ummer und einen Empfangszeitpunkt. Im Tarif der Sonnenbogen eG werden weder M=
+otorausgang noch gemessener Strom noch Endschaltersignal hochgeladen. Die 60 =
+und 40 im Export sind Zielwerte. Wir k=C3=B6nnen nicht bescheinigen, wo der S=
+chirm bei Eingang der Quittung stand. Ein neuer Regler erh=C3=A4lt auf Anmeld=
+ung die letzte Vorgabe erneut, aber keine rekonstruierte Position.
+
+F=C3=BCr den Trennversuch am 18. November enth=C3=A4lt unser Protokoll keine =
+Sitzung. Das belegt die fehlende Sitzung bei unserem Dienst. Aussagen zu ande=
+ren Verbindungen k=C3=B6nnen wir nicht treffen. Der Betreiber kann die lokale=
+n Anschlusswerte und die Seriennummer des eingebauten Reglers gesondert freig=
+eben.

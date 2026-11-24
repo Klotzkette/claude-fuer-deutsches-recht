@@ -69,6 +69,7 @@ Die Links führen zu den fachlich zugeordneten Akten der jeweiligen Plugins. Dor
 | Medizinrecht | [Behandlung, Haftung und ärztliche Tätigkeit](../fachanwalt-medizinrecht/README.md#zugeordnete-testakten) |
 | Mietrecht und Wohnungseigentum | [Miet- und Wohnungseigentumsrecht](../fachanwalt-miet-wohnungseigentumsrecht/README.md#zugeordnete-testakten) · [Hausverwaltung](../weg-hausverwaltung/README.md#zugeordnete-testakten) |
 | Migrationsrecht | [Aufenthalt, Asyl und Einbürgerung](../fachanwalt-migrationsrecht/README.md#zugeordnete-testakten) |
+| Patentrecht | [Drei Akten für Patentanmelder zu Anspruchsprüfung, Erfindergespräch und Anmeldung](../patentrecht/Patentanmelder/README.md) · [Bestehende Patent- und Gebrauchsmusterakten](../patentrecht/README.md#zugeordnete-testakten) |
 | Sanktionen der EU und der USA | [EU: Beteiligungen und Mandatszahlungen](../eu-sanktionspruefer/testakte/README.md) · [USA: Eigentum und Namensähnlichkeit](../us-sanktionspruefer/testakte/README.md). Ausschließlich Fantasiepersonen und ausdrücklich erfundene Listungen. |
 | Sozialrecht | [Leistungen und Sozialversicherung](../fachanwalt-sozialrecht/README.md#zugeordnete-testakten) · [Status und Sozialversicherungspflicht](../sozialversicherungspflicht-pruefer/README.md#zugeordnete-testakten) |
 | Sportrecht | [Verein, Sportbetrieb und Verträge](../fachanwalt-sportrecht/README.md#zugeordnete-testakten) |

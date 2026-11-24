@@ -391,6 +391,12 @@ def first_product(directory: Path, plugin_name: str) -> str:
 
 
 def quickstart_section(plugin_name: str, directory: Path) -> str:
+    if plugin_name == "patentrecht":
+        return """## In 30 Sekunden starten
+
+Öffnen Sie den [Hauptskill für den Patentanmelder](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/juristischer-argumentationskern/SKILL.md) und die Grundakte einer [Werkstattakte](Patentanmelder/README.md). Ohne Installation können Sie denselben Auftrag mit dem Werkstatt- oder Mini-Prompt aus der Downloadtabelle bearbeiten.
+
+> Ich vertrete den Anmelder. Prüfe unseren Anspruch 1 am tatsächlichen Liefergegenstand. Stelle mir die technische Frage, deren Antwort für den Wortlaut entscheidend ist. Überarbeite anschließend denselben Anspruchssatz und zeige, was die Änderung für den Schutzumfang bedeutet."""
     if plugin_name in {"aktenanleger", "umwandlungssteuerrecht"}:
         example = {
             "aktenanleger": "Öffnen Sie die Grundakte zur Werklohnforderung. Ordnen Sie jede Anlage einer Person und Forderung zu. Erstellen Sie die Aktenanlage, prüfen Sie den Auftrag und halten Sie im ersten Schreiben fest, welcher Nachweis noch fehlt.",
@@ -658,6 +664,11 @@ Starten Sie die lokale App nach der Anleitung in dieser README. Die Installation
         focus_explanation = f'| Schwerpunkt-Prompt | Eigenständiger, eng abgegrenzter Mandatsauftrag bis 7500 Zeichen. Der zugehörige Fachskill ist auch im Plugin vorhanden. | Standalone workflow for one demanding practice problem, up to 7500 characters. Its corresponding skill is also part of the plugin. | <a href="{focus_url}" download>MD herunterladen / Download MD</a> |\n'
         focus_download = f'| Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="{focus_url}" download>{focus_file}</a> |\n'
     testakte_cell = testakte_download_cell(directory, akten_slugs)
+    practice_row = (
+        "| Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. "
+        "| Separate practice files in PDF and original formats; they are not installed with the plugin. "
+        f"| [Testakten-Übersicht / Test-file index]({relative_link(directory, TESTAKTEN_DIR / 'README.md')}) |"
+    )
     description = markdown_text(description_with_current_count(
         plugin.get("description") or readme_title(directory, plugin_name), directory
     ))
@@ -705,6 +716,21 @@ Starten Sie die lokale App nach der Anleitung in dieser README. Die Installation
     elif plugin_name == "bauwirtschaft":
         skill_note = "Zehn auswählbare Skills führen zu allen 29 vollständigen Fachmodulen: zwanzig für konkrete Projektaufgaben und neun für die HOAI-Leistungsphasen bei Gebäuden und Innenräumen. Wähle den Arbeitsweg nach dem verlangten Ergebnis; er lädt die passende Projekt- oder Phasenvertiefung. Die [Fachbibliothek](FACHMODULE.md) enthält sämtliche Fachtexte. Die neun zusätzlichen Phasen-Werkstätten und ihre eigenen Schulungsakten stehen in der [Phasenübersicht](../docs/bauwirtschaft-hoai-phasen.md). Technische Prüfungen und Freigaben bleiben bei den dafür zuständigen Fachleuten."
         skill_note_en = "Ten selectable skills cover all 29 complete specialist modules: twenty project tasks and nine building-planning phases. Choose the workflow for the requested result; it loads the relevant task or phase guidance. The [specialist library](FACHMODULE.md) retains every module. The [phase index](../docs/bauwirtschaft-hoai-phasen.md) links nine separate workshops and practice files. Technical inspections and approvals remain with the responsible professionals."
+    if plugin_name == "patentrecht":
+        description = (
+            "Für Patentanmelder, Patentabteilungen und ihre Vertretung. Prüfen Sie einen vorhandenen Anspruchssatz "
+            "oder entwickeln Sie aus der Erfindungsmeldung eine DE- oder EP-Patentanmeldung.\n\n"
+            "Beginnen Sie mit dem [Hauptskill](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/juristischer-argumentationskern/SKILL.md) "
+            "oder erproben Sie das Erfindergespräch an einer [von drei Werkstattakten](Patentanmelder/README.md)."
+        )
+        practice_row = (
+            "| Testakten | Drei Anmeldeakten liegen im Plugin. Die beiden zentralen Akten sind separat verfügbar. "
+            "| Three drafting cases are included. The two central case files are separate downloads. "
+            "| [Anmeldeakten](Patentanmelder/README.md) · [Zentrale Akten](#zugeordnete-testakten) |"
+        )
+        testakte_cell = f"[Drei Anmeldeakten im Plugin](Patentanmelder/README.md) · {testakte_cell}"
+        skill_note = "Alle zehn Skills sind im Plugin enthalten. Der Hauptskill begleitet die Anspruchsprüfung und den Anmeldeentwurf vom Erfindergespräch bis zur überarbeiteten Fassung."
+        skill_note_en = "All ten skills are included. The main workflow handles claim review and patent drafting from the inventor interview through revision."
     result = ensure_download_notices(f"""{BEGIN}
 ## Was ist das hier?
 
@@ -720,7 +746,7 @@ Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Für die 
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list]({skill_detail}) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | {werkstatt_download_link} |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | {schnellstart_download_link} |
-{focus_explanation}| Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index]({relative_link(directory, TESTAKTEN_DIR / 'README.md')}) |
+{focus_explanation}{practice_row}
 
 Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navigationslinks zu README- und Übersichtsseiten bleiben dagegen als GitHub-Seiten geöffnet.
 
