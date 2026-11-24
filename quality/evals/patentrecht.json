@@ -198,7 +198,8 @@
           ]
         }
       ],
-      "target_skill": "juristischer-argumentationskern"
+      "target_skill": "juristischer-argumentationskern",
+      "decode_mime_mail": true
     },
     {
       "id": "01-moebel-schnappfuss-nachreichung",
@@ -241,7 +242,8 @@
           ]
         }
       ],
-      "target_skill": "juristischer-argumentationskern"
+      "target_skill": "juristischer-argumentationskern",
+      "decode_mime_mail": true
     },
     {
       "id": "02-gewaechshaus-beschattung-grundakte",
@@ -282,7 +284,8 @@
           ]
         }
       ],
-      "target_skill": "juristischer-argumentationskern"
+      "target_skill": "juristischer-argumentationskern",
+      "decode_mime_mail": true
     },
     {
       "id": "02-gewaechshaus-beschattung-nachreichung",
@@ -326,7 +329,8 @@
           ]
         }
       ],
-      "target_skill": "juristischer-argumentationskern"
+      "target_skill": "juristischer-argumentationskern",
+      "decode_mime_mail": true
     },
     {
       "id": "03-fruchtkisten-pruefstand-grundakte",
@@ -367,7 +371,8 @@
           ]
         }
       ],
-      "target_skill": "juristischer-argumentationskern"
+      "target_skill": "juristischer-argumentationskern",
+      "decode_mime_mail": true
     },
     {
       "id": "03-fruchtkisten-pruefstand-nachreichung",
@@ -420,7 +425,8 @@
           ]
         }
       ],
-      "target_skill": "juristischer-argumentationskern"
+      "target_skill": "juristischer-argumentationskern",
+      "decode_mime_mail": true
     }
   ],
   "prompt_editorial_review": {

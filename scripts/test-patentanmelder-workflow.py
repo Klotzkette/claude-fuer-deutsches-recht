@@ -117,13 +117,21 @@ class PatentanmelderWorkflow(unittest.TestCase):
                         manifest = lab.prepare(PLUGIN, case["id"], mode, run, root=ROOT)
                         self.assertEqual(manifest["status"], "prepared")
                         self.assertFalse(any((run / "output").iterdir()))
-                        docs = lab.read_source_documents(run, manifest)
+                        self.assertIs(case["decode_mime_mail"], True)
+                        docs = lab.read_source_documents(run, manifest, decode_mime_mail=case["decode_mime_mail"])
                         self.assertEqual(set(docs), {Path(p).name for p in expected})
                         for name, text in docs.items():
                             self.assertTrue(text.strip(), name)
                             if name.endswith(".svg"):
                                 self.assertIn("Geometrie am Original prüfen", text)
                                 self.assertRegex(text, r"(?:Figur|Bezugszeichen)")
+                            if name.endswith(".eml"):
+                                message = next(doc for doc in source["dokumente"] if doc["datei"] == name)
+                                self.assertIn("Subject: " + message["titel"], text)
+                                for paragraph in message["text"]:
+                                    self.assertIn(paragraph, text)
+                                path = run / "input" / name
+                                self.assertEqual(lab.read_artifact(path), path.read_bytes().decode("utf-8"))
                         self.assertTrue(all("Auswertung" not in p for p in expected))
                 before = indexed[slug + "-grundakte"]
                 after = indexed[slug + "-nachreichung"]
