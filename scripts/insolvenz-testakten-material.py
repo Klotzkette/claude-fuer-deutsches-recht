@@ -110,7 +110,7 @@ def evidence_snapshot(case):
     records = []
     for path in sorted(case.rglob("*")):
         rel = path.relative_to(case)
-        if (not path.is_file() or INSOLVENZ_PRUEFMATERIAL in rel.parts
+        if (not path.is_file() or INSOLVENZ_PRUEFMATERIAL in rel.parts or rel.parts[0] == "Arbeitsvorlagen"
                 or "gesamt-pdf" in rel.parts or any(part.startswith(".") for part in rel.parts)
                 or path.name in {"README.md", "rubric.yaml"}):
             continue
