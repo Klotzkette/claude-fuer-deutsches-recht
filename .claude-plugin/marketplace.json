@@ -2131,7 +2131,7 @@
       "name": "patentrecht",
       "source": "./patentrecht",
       "description": "Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbenennung, Einspruch, Nichtigkeit, Register und Fristen.",
-      "version": "445.36.9",
+      "version": "445.36.14",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
