@@ -1,0 +1,86 @@
+name: Insolvenz-Testakten mit Arbeitsvorlagen
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/insolvenz-arbeitsvorlagen-release.yml'
+      - 'scripts/*insolvenz-arbeitsvorlagen*.py'
+      - 'scripts/data/insolvenz-arbeitsvorlagen-quellen.json'
+      - 'scripts/data/insolvenz-arbeitsvorlagen/**'
+      - 'testakten/**/Arbeitsvorlagen/*'
+      - 'docs/downloads/insolvenz-arbeitsvorlagen.zip'
+      - 'docs/releases/insolvenz-arbeitsvorlagen-v1.0.0.md'
+  workflow_dispatch:
+    inputs:
+      expected_commit:
+        description: Vollständiger SHA des geprüften Main-Commits
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  pruefen:
+    if: github.event_name == 'pull_request' || github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      EXPECTED_COMMIT: ${{ github.event_name == 'workflow_dispatch' && inputs.expected_commit || github.sha }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ env.EXPECTED_COMMIT }}
+          fetch-depth: 0
+          filter: blob:none
+      - name: Prüfstand bestätigen
+        run: |
+          [[ "$EXPECTED_COMMIT" =~ ^[a-f0-9]{40}$ ]]
+          test "$(git rev-parse HEAD)" = "$EXPECTED_COMMIT"
+          if [[ "$GITHUB_EVENT_NAME" == workflow_dispatch ]]; then
+            git merge-base --is-ancestor HEAD origin/main
+          fi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 -m pip install -r requirements.txt
+      - name: Bearbeitbare Vorlagen und Archivregeln prüfen
+        run: |
+          python3 scripts/test-insolvenz-arbeitsvorlagen.py
+          python3 scripts/test-insolvenz-arbeitsvorlagen-release.py
+          python3 scripts/test-insolvenz-arbeitsvorlagen-aktivierung.py
+      - name: Beide Archivvarianten jeder Akte gegen ihre veröffentlichte Quelle prüfen
+        run: |
+          python3 scripts/build-insolvenz-arbeitsvorlagen-release.py --dist "$RUNNER_TEMP/ausgabe" --cache "$RUNNER_TEMP/quellen" --expected-commit "$EXPECTED_COMMIT"
+
+  veroeffentlichen:
+    needs: pruefen
+    if: github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main' && github.repository == 'Klotzkette/claude-fuer-deutsches-recht'
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    concurrency:
+      group: insolvenz-arbeitsvorlagen-v1.0.0
+      cancel-in-progress: false
+    permissions:
+      contents: write
+    env:
+      EXPECTED_COMMIT: ${{ inputs.expected_commit }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ inputs.expected_commit }}
+          fetch-depth: 0
+          filter: blob:none
+      - name: Freigegebenen Main-Commit bestätigen
+        run: |
+          [[ "$EXPECTED_COMMIT" =~ ^[a-f0-9]{40}$ ]]
+          test "$(git rev-parse HEAD)" = "$EXPECTED_COMMIT"
+          git merge-base --is-ancestor HEAD origin/main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 -m pip install -r requirements.txt
+      - name: Geprüfte Ausgabe als Entwurf hochladen, vollständig herunterladen und freigeben
+        run: |
+          python3 scripts/build-insolvenz-arbeitsvorlagen-release.py --dist "$RUNNER_TEMP/ausgabe" --cache "$RUNNER_TEMP/quellen" --expected-commit "$EXPECTED_COMMIT" --publish

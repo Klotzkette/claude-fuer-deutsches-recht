@@ -391,6 +391,14 @@ def first_product(directory: Path, plugin_name: str) -> str:
 
 
 def quickstart_section(plugin_name: str, directory: Path) -> str:
+    if plugin_name == "fachanwalt-insolvenz-sanierungsrecht":
+        return """## In 30 Sekunden starten
+
+Für ChainCortex/Voracis öffnen Sie den [leeren Asset-Deal-Vertrag und die Vollzugsliste](#arbeitsvorlagen). Bei den übrigen Fällen stehen die passenden Word- und Excel-Dateien jeweils in der [Aktenauswahl](#zugeordnete-testakten). Speichern Sie eine Arbeitskopie und beginnen Sie mit den Belegen aus der Grundakte.
+
+> Fülle die Blankovorlage anhand der bereitgestellten Akte aus. Ordne jede wesentliche Eintragung einem Beleg zu und markiere offen gebliebene Angaben im Entwurf.
+
+Für ein eigenes Mandat wählen Sie einen [Fachskill](../skills-index/fachanwalt-insolvenz-sanierungsrecht.md). Ohne Installation können Sie den Schnellstart oder für eine mehrstufige Prüfung die Werkstatt aus der Downloadtabelle verwenden."""
     if plugin_name == "patentrecht":
         return """## In 30 Sekunden starten
 
@@ -576,6 +584,12 @@ def testakten_section(plugin_name: str, directory: Path, akten_slugs: list[str])
         "| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |",
         "| --- | --- | --- | --- |",
     ]
+    if plugin_name == "fachanwalt-insolvenz-sanierungsrecht":
+        lines[2:2] = [
+            "[Grundakten für Insolvenzrecht mit Eingangspost, Rückfragen und Belegen]"
+            "(../docs/grundakten-lebenswelt/Fachakten.md#insolvenzrecht)",
+            "",
+        ]
     if has_plugin_local_testakte(directory):
         pdf = directory / "testakte" / "gesamt-pdf" / "testakte_gesamt.pdf"
         pdf_link = "[Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf)" if pdf.is_file() else "nicht vorhanden"

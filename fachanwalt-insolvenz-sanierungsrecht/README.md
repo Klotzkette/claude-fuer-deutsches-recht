@@ -30,17 +30,11 @@ Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](.
 
 ## In 30 Sekunden starten
 
-| Ausgangslage | Schnellster Weg |
-| --- | --- |
-| Plugin installiert | Passenden Fachskill in der [alphabetisch sortierten Skill-Liste](../skills-index/fachanwalt-insolvenz-sanierungsrecht.md) wählen und den untenstehenden Startsatz mit dem Arbeitsordner absenden. |
-| Noch keine Installation | Den Schnellstart unten als Markdown herunterladen und mit den Unterlagen in einer freigegebenen Arbeitsoberfläche bereitstellen. |
-| Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
+Für ChainCortex/Voracis öffnen Sie den [leeren Asset-Deal-Vertrag und die Vollzugsliste](#arbeitsvorlagen). Bei den übrigen Fällen stehen die passenden Word- und Excel-Dateien jeweils in der [Aktenauswahl](#zugeordnete-testakten). Speichern Sie eine Arbeitskopie und beginnen Sie mit den Belegen aus der Grundakte.
 
-Startsatz für Fachanwalt Insolvenz- und Sanierungsrecht:
+> Fülle die Blankovorlage anhand der bereitgestellten Akte aus. Ordne jede wesentliche Eintragung einem Beleg zu und markiere offen gebliebene Angaben im Entwurf.
 
-> Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken.
-
-Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
+Für ein eigenes Mandat wählen Sie einen [Fachskill](../skills-index/fachanwalt-insolvenz-sanierungsrecht.md). Ohne Installation können Sie den Schnellstart oder für eine mehrstufige Prüfung die Werkstatt aus der Downloadtabelle verwenden.
 
 ## Downloads
 
@@ -56,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 ## Zugeordnete Testakten
 
-[Grundakten für Insolvenzrecht mit Eingangspost, Rückfragen und Belegen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/Fachakten.md#insolvenzrecht)
+[Grundakten für Insolvenzrecht mit Eingangspost, Rückfragen und Belegen](../docs/grundakten-lebenswelt/Fachakten.md#insolvenzrecht)
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
@@ -149,22 +143,26 @@ Besonders hilfreich ist das bei Akten, in denen viele Ebenen gleichzeitig laufen
 
 Vor verbindlichen Aussagen prüft der jeweilige Skill den aktuellen Gesetzeswortlaut und verlangt für Rechtsprechung Gericht, Datum, Aktenzeichen und möglichst eine frei zugängliche amtliche oder gerichtliche Quelle. Literatur- und Datenbankfundstellen werden nicht aus Modellwissen behauptet.
 
-## Vorlage Asset-Purchase-Agreement (Insolvenz-Asset-Deal)
+## Arbeitsvorlagen
 
-Der ausgefüllte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures GmbH steht als Übungsentwurf zum Direkt-Download bereit. Er ist kein ungeprüft einsetzbarer Vertrag für ein reales Mandat:
+Alle 24 zugeordneten Testakten und der zusätzlich verlinkte Bremer Fall enthalten einen leeren Asset-Deal-Vertrag und bearbeitbare Vorlagen für ihren jeweiligen Auftrag. Öffnen Sie auf der Fallseite unter „Akte komplett herunterladen“ das gewünschte Word-Dokument oder die Excel-Tabelle. Ersetzen Sie die eckigen Platzhalter, tragen Sie belegte Zahlen in die freien Zellen ein und speichern Sie die ausgefüllte Fassung unter einem eigenen Namen.
+
+### Vorlage Asset-Purchase-Agreement (Insolvenz-Asset-Deal)
+
+In der Akte **ChainCortex AI GmbH / Voracis Ventures GmbH** beginnen Sie mit dem Blankovertrag. Die Vertragsanlagen und die Excel-Vollzugsliste begleiten die Arbeit von der Abgrenzung der Kaufgegenstände bis zur dokumentierten Übergabe. Die ausgefüllten Vertragsfassungen der Akte stehen zum späteren Vergleich bereit.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-| Format | Direkt-Download |
+| Datei | Verwendung |
 | --- | --- |
-| **Word (DOCX, Times New Roman, 12 pt)** | [asset-purchase-agreement-chaincortex-voracis.docx](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/docx/asset-purchase-agreement-chaincortex-voracis.docx) |
-| **PDF (Times Roman, A4)** | [asset-purchase-agreement-chaincortex-voracis.pdf](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/pdfs/asset-purchase-agreement-chaincortex-voracis.pdf) |
-| Weiterer Word-Volltext (DOCX) | [09_asset-purchase-agreement-text.docx](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.docx) |
-| Gesamte Testakte als ZIP | [testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip) |
-
-Das Template umfasst 11 Paragraphen: Präambel, Vertragsgegenstand mit Datenschutz- und Betriebsübergangsbausteinen, Kaufpreis, Vollzugsvoraussetzungen, Signaturklausel, Haftungsregeln, Compliance-Klausel und Schlussbestimmungen plus Anlagen. Vor Verwendung im Mandat: Anpassung an konkrete Parteien, IP-Liste, Arbeitnehmerübergang, Kundendaten und Kaufpreis erforderlich.
+| [**Leeren Asset-Deal-Vertrag herunterladen (Word)**](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/Arbeitsvorlagen/asset-purchase-agreement-blanko.docx?raw=true) | Vertragsentwurf mit offenen Eingabefeldern, Unterschriften und acht ausfüllbaren Anlagen. |
+| [**Leere Anlagen- und Vollzugsliste herunterladen (Excel)**](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/Arbeitsvorlagen/anlagen-und-vollzugsliste-blanko.xlsx?raw=true) | Vermögensgegenstände, Rechte, Zustimmungen, Zahlungen und Vollzugsschritte erfassen. |
+| [**Alle Blankovorlagen herunterladen (ZIP)**](../docs/downloads/insolvenz-arbeitsvorlagen.zip?raw=true) | Die fallbezogenen Arbeitsvorlagen für alle 25 Akten und der gemeinsame Blankovertrag. |
+| [ChainCortex/Voracis – Akte und Belege](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/README.md) | Grundakte und Verfahrensunterlagen für den ersten Entwurf. |
+| [Ausgefüllter Vergleichsvertrag (Word)](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/docx/asset-purchase-agreement-chaincortex-voracis.docx?raw=true) · [PDF](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/pdfs/asset-purchase-agreement-chaincortex-voracis.pdf) | Ausgearbeitete Fassung zur Nachbesprechung. |
+| [Weiterer ausgefüllter Vertragsentwurf (Word)](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.docx?raw=true) | Vergleich mit einer zweiten Fassung aus der Akte. |
 
 ## Installation in der Plugin-Umgebung
 

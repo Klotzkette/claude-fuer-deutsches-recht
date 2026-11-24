@@ -1,0 +1,28 @@
+{
+  "format": "xlsx",
+  "slug": "anlagen-und-vollzugsliste-blanko",
+  "titel": "Asset Deal – Anlagen und Vollzug",
+  "zweck": "Tragen Sie die Vermögensgegenstände und Vollzugsschritte aus der Akte ein und ordnen Sie jeden Nachweis der passenden Vertragsanlage zu.",
+  "blaetter": [
+    {
+      "titel": "Übertragungsgegenstände",
+      "spalten": ["Anlage / Position", "Gegenstand / Kennung", "Berechtigter", "Beleg / Fundstelle", "Drittrecht / Belastung", "Übertragungsakt", "Zustimmung / Nachweis", "Ausnahme / Streitpunkt"]
+    },
+    {
+      "titel": "Software und Daten",
+      "spalten": ["Komponente / Bestand", "Quelle / Herkunft", "Recht / Lizenzumfang", "Drittlizenz / Bedingung", "Datenkategorie", "Prüfbeleg", "Freigabe / Übergabeschritt"]
+    },
+    {
+      "titel": "Verträge und Personal",
+      "spalten": ["Kennung", "Vertrag / Funktion", "Vertragspartner / Zuordnung", "Rechtlicher Übergangsweg", "Information / Zustimmung", "Frist / Nachweis", "Stand"]
+    },
+    {
+      "titel": "Preis und Rückbehalt",
+      "spalten": ["Position", "Betrag", "Währung", "Auslöser / Vertragsziffer", "Fälligkeit", "Beleg", "Zahlung / Freigabe", "Offener Punkt"]
+    },
+    {
+      "titel": "Vollzugsprotokoll",
+      "spalten": ["Bedingung / Handlung", "Vertragsziffer", "Verantwortlich", "Solltermin", "Vollzugsbeleg", "Erledigt am", "Restaufgabe / Vorbehalt"]
+    }
+  ]
+}

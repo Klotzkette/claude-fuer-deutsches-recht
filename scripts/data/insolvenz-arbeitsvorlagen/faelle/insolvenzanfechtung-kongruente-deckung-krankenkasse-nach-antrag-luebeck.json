@@ -1,0 +1,60 @@
+{
+  "slug": "klageentscheidung-beitragszahlung-nach-fremdantrag",
+  "titel": "Entscheidungsvermerk zur Beitragszahlung nach einem Fremdantrag",
+  "zweck": "Arbeitsvorlage für die Entscheidung über eine Rückgewährklage gegen eine Einzugsstelle nach deren vorgerichtlicher Erwiderung.",
+  "abschnitte": [
+    {
+      "titel": "Auftrag und Entscheidungsstand",
+      "absaetze": [
+        "Handakte [Bezeichnung und Registerzeichen]. Bearbeitung [Name, Stand]. Entscheidung über [Klageerhebung, weitere Ermittlungen oder andere Erledigung] bis [Wiedervorlage]. Rückforderung und Antwort der Einzugsstelle liegen vor als [Anlagen und Zustellnachweise]."
+      ]
+    },
+    {
+      "titel": "Antrag, Beitragsschuld und Zahlungszeitpunkt",
+      "absaetze": [
+        "Urheber und Eingang des für die Fristberechnung maßgeblichen Antrags, Fortgang des Eröffnungsverfahrens und Anordnung von Sicherungsmaßnahmen: [Daten und Fundstellen]. Für die Zahlung ist die rechtliche Wirkung am [Datum] aus [Buchung, Wertstellung und Verfügbarkeit] abzuleiten.",
+        "Die Zusammensetzung der beanspruchten Zahlung ist mit Beitragskonto und Bankbeleg abzugleichen."
+      ],
+      "spalten": [
+        "Beitragszeitraum / Position",
+        "Fälligkeit / Saldo",
+        "Verrechnung / Wertstellung",
+        "Beleg / offener Punkt"
+      ],
+      "zeilen": 4
+    },
+    {
+      "titel": "Kenntnis des Antrags",
+      "absaetze": [
+        "Der Gesprächsvermerk gibt folgende Äußerung wieder: [Wortlaut oder als Erinnerung gekennzeichnete Wiedergabe]. Wahrnehmung, Zeitpunkt und eigener Kenntnisstand der auskunftgebenden Person sind durch [Originalvermerk, Aussage und Gegenbeleg] dokumentiert.",
+        "Für den Weg vom Außendienst zur zuständigen Stelle liegen [Weiterleitung, Empfänger, Zugang, Aufgabenbereich und tatsächliche Bearbeitung] vor. Daraus folgt für die Wissenszurechnung im Zahlungszeitpunkt [Bewertung]. Der Stand der öffentlichen Bekanntmachung zu diesem Zeitpunkt ist belegt durch [Quelle und Abfragedatum]."
+      ]
+    },
+    {
+      "titel": "Zahlungsunfähigkeit als eigenständiger Anknüpfungspunkt",
+      "absaetze": [
+        "Aus Beitragsrückständen, Mahn- und Vollstreckungsverlauf sowie zeitgleichen anderweitigen Ausfällen ergeben sich [Befunde]. Welche Umstände der Einzugsstelle tatsächlich bekannt waren und ob sie zwingend auf Zahlungsunfähigkeit schließen ließen, ergibt sich aus [getrennte Prüfung]. Der Liquiditätsbefund aus [Gutachten oder Status] betrifft den Stichtag [Datum] und war der Einzugsstelle [Kenntnisstand und Beleg]."
+      ]
+    },
+    {
+      "titel": "Beweisplanung und wirtschaftliche Entscheidung",
+      "absaetze": [
+        "Der objektive Nachteil und die beanspruchbare Art der Zahlung sind wie folgt belegt: [Tatsachen]. Für § 130 Abs. 1 Satz 1 Nr. 2 und Abs. 2 InsO ergibt die Prüfung von Antragskenntnis bzw. Kenntnis der Zahlungsunfähigkeit [jeweiliges Ergebnis und Prozessrisiko]."
+      ],
+      "spalten": [
+        "Streitige Tatsache",
+        "Zeuge oder Urkunde",
+        "Gegenbeweis / Zuordnung",
+        "Nächster Ermittlungsschritt"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Verfügung",
+      "absaetze": [
+        "Bezifferbarer Rückgewähranspruch [Hauptforderung, Verrechnungen und Nebenforderungen mit eigener Grundlage]. Kostenrisiko und Durchsetzbarkeit [Bewertung]. Auf dieser Grundlage wird [Maßnahme und Umfang] vorgeschlagen.",
+        "Freigabe durch [Funktion und Name] am [Datum]. Frist oder Wiedervorlage [Datum, Zuständigkeit und auszulösende Handlung]. [Zeichnung]"
+      ]
+    }
+  ]
+}

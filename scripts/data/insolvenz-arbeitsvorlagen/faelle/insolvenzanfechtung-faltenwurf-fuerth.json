@@ -1,0 +1,121 @@
+[
+  {
+    "slug": "einzelmandat-darlehen-sicherheit-buergschaft",
+    "titel": "Vertraulicher Mandantenbrief zu Darlehen, Maschine und Bürgschaft",
+    "zweck": "Persönliche Einschätzung für die vertretene Beteiligte vor Freigabe einer Antwort an die Insolvenzverwaltung.",
+    "abschnitte": [
+      {
+        "titel": "Anschrift und Bezug",
+        "absaetze": [
+          "[Absender und Anschrift]",
+          "[Empfänger, Funktion und Anschrift]",
+          "[Ort und Datum] · [Unser Zeichen] · [Ihr Zeichen]",
+          "Betreff: Vertrauliche Beratung zu Ihrer persönlichen Inanspruchnahme [Zeichen]",
+          "[Anrede]"
+        ]
+      },
+      {
+        "titel": "Vertretung und Informationsgrenzen",
+        "absaetze": [
+          "Unser Mandat umfasst [eigene Rechte und Pflichten der Mandantschaft]. Zur Geschäftsführung, zu Angehörigen und zu weiteren Beteiligten bestehen [Abgrenzung der Interessen, gesonderte Vertretung]. Für eine Weitergabe persönlicher Unterlagen ist [Umfang der Freigabe] festgehalten."
+        ]
+      },
+      {
+        "titel": "Darlehenskonto und Rückzahlungen",
+        "absaetze": [
+          "Beteiligung und Aufgaben im maßgeblichen Zeitraum sind durch [Gesellschafterliste, Satzung, Organstellung und sonstige Vereinbarungen] belegt. Für die Einordnung nach §§ 39 und 135 InsO bedeutet dies [Würdigung einschließlich etwaiger Ausnahme]."
+        ],
+        "spalten": [
+          "Buchung / Empfänger",
+          "Vertrags- oder Auslagenbezug",
+          "Valuta / Betrag",
+          "Anfechtbarkeit / Beleg"
+        ],
+        "zeilen": 3
+      },
+      {
+        "titel": "Sicherheit an der Maschine",
+        "absaetze": [
+          "Die Sicherungsabrede vom [Datum] erfasst [Gegenstand, Seriennummer und gesicherte Forderung]. Erwerb, Besitz und ein möglicher Wechsel der Kennzeichnung sind nach [Rechnung, Wartungsunterlage und Zeuge] einzuordnen. Daraus folgen für Bestand, Verwertung und Anfechtungsrisiko [Einschätzung]."
+        ]
+      },
+      {
+        "titel": "Zahlung auf die Banklinie",
+        "absaetze": [
+          "Der Zahlung an die Bank stand vorab eine Inanspruchnahme aus [Bürgschaft, Höchstbetrag, Valutierung] gegenüber. Nach Zahlung blieb [Haftungsumfang] mit folgender Grundlage bestehen: [Bankbestätigung und Stichtag]. Die mögliche persönliche Befreiung ist mit [Berechnung und Obergrenze] anzusetzen. Überschneidungen mit der Darlehensrückzahlung behandeln wir wie folgt: [Abgleich]."
+        ]
+      },
+      {
+        "titel": "Antwort und Unterlagenfreigabe",
+        "absaetze": [
+          "Zu den einzelnen Ansprüchen empfehlen wir [Reaktion mit Begründung und Risiko]. Für eine abschließende Bewertung fehlen [Nachweis und Beschaffungsweg]. Bitte entscheiden Sie bis [Datum] über [freizugebenden Text und Anlagen]. Persönliche Angaben, zu denen keine Freigabe vorliegt, verbleiben in unserer Handakte."
+        ]
+      },
+      {
+        "titel": "Abschluss",
+        "absaetze": [
+          "Mit freundlichen Grüßen",
+          "[Unterschrift]",
+          "[Name und Funktion]",
+          "Anlagen: [Bezeichnung und Umfang der beigefügten Unterlagen]"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "stellungnahme-gesellschafterin-an-verwaltung",
+    "titel": "Stellungnahme zur persönlichen Inanspruchnahme als Gesellschafterin",
+    "zweck": "Freigabefähige Außenantwort für die einzeln vertretene Person zu Rückzahlung, Sicherungsgut und Bankbürgschaft.",
+    "abschnitte": [
+      {
+        "titel": "Anschrift und Bezug",
+        "absaetze": [
+          "[Absender und Anschrift]",
+          "[Empfänger, Funktion und Anschrift]",
+          "[Ort und Datum] · [Unser Zeichen] · [Ihr Zeichen]",
+          "Betreff: Ihr Schreiben vom [Datum] – Insolvenzverfahren [Verfahren]",
+          "[Anrede]"
+        ]
+      },
+      {
+        "titel": "Mandat und Umfang der Antwort",
+        "absaetze": [
+          "Wir vertreten in dieser Angelegenheit [Mandantschaft]. Wir antworten auf die an sie persönlich gerichteten Ansprüche und Auskunftsersuchen vom [Datum]."
+        ]
+      },
+      {
+        "titel": "Darlehen und Zahlung an die Mandantschaft",
+        "absaetze": [
+          "Zu Darlehensvaluta, Rückzahlung und verbliebenem Saldo ergibt sich aus [Vertrag und bezeichnete Buchungen] folgender Stand: [Darstellung]. Zur behaupteten Rechtsfolge für diese Zahlung erklären wir [freigegebene Stellungnahme]."
+        ]
+      },
+      {
+        "titel": "Bezeichnetes Sicherungsgut",
+        "absaetze": [
+          "Das im Sicherungsvertrag bezeichnete Wirtschaftsgut lässt sich anhand von [Unterlagen oder Identifikationsmerkmalen] wie folgt zuordnen: [Erklärung]. Für den weiteren Abgleich bitten wir um [Nachweis oder Besichtigung]."
+        ]
+      },
+      {
+        "titel": "Bürgschaft und Zahlung an die Bank",
+        "absaetze": [
+          "Die von Ihnen angeführte Zahlung an die Bank ist unter [Buchungsangabe] erfasst. Zum Umfang einer daraus abgeleiteten persönlichen Entlastung liegen [freigegebene Unterlagen] vor. Zur noch offenen Differenz zwischen Zahlung, Valutierung und verbleibender Bürgschaft bitten wir um [konkrete Aufstellung]."
+        ]
+      },
+      {
+        "titel": "Nächste Erklärung",
+        "absaetze": [
+          "Für die noch ausstehenden Unterlagen und eine ergänzende Antwort schlagen wir [Termin oder Frist] vor. Unserer Stellungnahme sind die unter [Anlagenverzeichnis] benannten Unterlagen beigefügt."
+        ]
+      },
+      {
+        "titel": "Abschluss",
+        "absaetze": [
+          "Mit freundlichen Grüßen",
+          "[Unterschrift]",
+          "[Name und Funktion]",
+          "Anlagen: [Bezeichnung und Umfang der beigefügten Unterlagen]"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,238 @@
+{
+  "slug": "asset-purchase-agreement-blanko",
+  "titel": "Unternehmenskaufvertrag über einzelne Vermögenswerte aus der Insolvenzmasse",
+  "zweck": "Ausfüllbare Vertragsfassung für die Übertragung eines Betriebs oder Betriebsteils aus einem eröffneten Insolvenzverfahren. Vor der Unterzeichnung sind insbesondere die Einzelgegenstände, Rechteketten, Zustimmungen, der Kaufpreis und die Vollzugsbedingungen mit den zugehörigen Anlagen zu vervollständigen.",
+  "abschnitte": [
+    {
+      "titel": "Vertragsparteien und Verfügungsbefugnis",
+      "absaetze": [
+        "[Name, Kanzlei und Geschäftsanschrift], handelnd in der Eigenschaft als Insolvenzverwalter über das Vermögen der [Firma, Rechtsform, Sitz, Registergericht und Registernummer der Schuldnerin], nachfolgend „Verkäufer“, und [Firma, Rechtsform, Sitz, Registergericht, Registernummer und Geschäftsanschrift], vertreten durch [Name und Vertretungsbefugnis], nachfolgend „Käufer“, schließen diesen Vertrag.",
+        "Das Insolvenzgericht [Gericht] hat mit Beschluss vom [Datum und Aktenzeichen] das Verfahren eröffnet und den Verkäufer bestellt. Er handelt für die von ihm verwaltete Insolvenzmasse. Der Käufer weist seine Vertretung durch [Registerauszug oder Vollmacht] nach. Die Anlage „Freigaben und Vollzug“ bezeichnet die beigefügten Nachweise sowie etwaige Beschränkungen."
+      ]
+    },
+    {
+      "titel": "Betrieb, Umfang und Ausnahmen",
+      "absaetze": [
+        "Der Verkäufer verkauft dem Käufer den in [Beschreibung der betrieblichen Tätigkeit, Standorte und Abgrenzung eines Betriebsteils] bezeichneten Betrieb im Umfang der einzeln bezeichneten Kaufgegenstände. Der Käufer nimmt den Kauf an. Die Parteien grenzen jeden Gegenstand anhand der Anlagen „Inventar und Ausnahmen“, „Software und Rechte“, „Marken und Domains“ sowie „Verträge und Forderungen“ ab. Werden Datenträger mitverkauft, bestimmt sich die Befugnis zur Nutzung ihres Inhalts gesondert nach den Rechte- und Datenanlagen.",
+        "Kassen- und Bankguthaben, Ansprüche aus Insolvenzanfechtung, Organhaftungsansprüche der Masse, Steuererstattungsansprüche und die zur Verfahrensführung dienenden Originalakten verbleiben beim Verkäufer. Forderungen aus Lieferungen und Leistungen sowie körperliche Betriebsmittel gehen nur über, soweit sie positiv bezeichnet sind. Weitere ausgeschlossene Gegenstände, Fremdeigentum, Miet- und Leihgeräte sind im Inventar mit ihrer Abgrenzung verzeichnet. Eine Aufnahme in den Datenraum allein erweitert den Kaufgegenstand nicht."
+      ]
+    },
+    {
+      "titel": "Übereignung, Forderungsabtretung und Rechte Dritter",
+      "absaetze": [
+        "Die Parteien sind sich über den Eigentumsübergang an den mit Kennung bezeichneten beweglichen Sachen auf den Käufer einig. Die Einigung steht unter der Bedingung des Vollzugs. Der Verkäufer übergibt dem Käufer die Sachen und dokumentiert dies im Vollzugsprotokoll. Für Sachen im Gewahrsam eines Dritten tritt der Verkäufer dem Käufer unter derselben Bedingung den im Inventar nach Schuldner und Rechtsgrund bezeichneten Herausgabeanspruch ab. Der Käufer nimmt die Abtretung an.",
+        "Der Verkäufer tritt dem Käufer die in „Verträge und Forderungen“ nach Schuldner, Rechtsgrund und Leistungszeitraum bestimmten, übertragbaren Forderungen zum Vollzug mit den übergehenden Nebenrechten ab. Der Käufer nimmt an. Die Parteien stimmen die Mitteilung an Drittschuldner ab. Nach dem Übergang fehlgeleitete Zahlungen sind unverzüglich abzurechnen und an die berechtigte Partei weiterzuleiten.",
+        "Der Verkäufer bezeichnet Aus- und Absonderungsrechte, Eigentumsvorbehalte und Verfügungsbeschränkungen in den Anlagen. Bei belasteten Gegenständen sind die gesetzliche Verwertungsbefugnis oder die erforderliche Freigabe sowie der Zahlungsweg für den Erlös einzeln nachzuweisen. Ein Drittrecht gilt durch diesen Vertrag allein nicht als erloschen."
+      ]
+    },
+    {
+      "titel": "Software, KI-Komponenten und Know-how",
+      "absaetze": [
+        "Gegenstand und Lieferstand jedes Repositories, Modells, Datensatzes und Dokuments ergeben sich aus „Software und Rechte“. Der Verkäufer überträgt die dort bezeichneten übertragbaren Nutzungsrechte mit Wirkung zum Vollzug. Soweit anstelle einer Übertragung eine Rechtseinräumung zulässig und in der Anlage vereinbart ist, räumt er dem Käufer das bezeichnete Nutzungsrecht ein. Der Käufer nimmt die jeweilige Verfügung an. Das Urheberrecht als solches ist nicht Gegenstand des Verkaufs.",
+        "Die Anlage bestimmt je Bestandteil Inhaber, Rechtskette, Ausschließlichkeit, Nutzungsarten, Gebiet und Dauer sowie Befugnisse zur Bearbeitung, Weitergabe und Unterlizenzierung. Sie unterscheidet Eigenentwicklungen, Leistungen von Beschäftigten, Beiträge freier Entwickler und Drittkomponenten. Der Verkäufer stellt die dort bezeichneten Verträge und Erklärungen in dem zur Rechteprüfung zulässigen Umfang bereit. Er holt die ihm zugeordneten erforderlichen Zustimmungen ein. Eine gesetzliche Ausnahme vom Zustimmungserfordernis, insbesondere bei einer Unternehmens- oder Teilveräußerung nach § 34 Abs. 3 UrhG, und ein gesetzliches Rückrufsrecht bleiben unberührt.",
+        "Für Modelle, Modellgewichte, Adapter, Trainings- und Testmaterial sowie externe Modelle oder API-Dienste werden Liefergegenstand und Nutzungsbefugnis jeweils getrennt vereinbart. Zugang zu einem Dienst vermittelt dem Käufer keine weitergehenden Rechte an dessen Modell oder Trainingsdaten. Der Verkäufer übergibt den vereinbarten Quell- und Objektcode, Versionskennung, Build-Anleitung, Dokumentation und gesondert bezeichnetes Know-how gegen Empfangsnachweis. Systemzugänge werden auf den Käufer eingerichtet oder umgestellt. Zugangsschlüssel werden über einen getrennten sicheren Kanal ersetzt."
+      ]
+    },
+    {
+      "titel": "Open Source und fehlende Rechte",
+      "absaetze": [
+        "Der Verkäufer übergibt die in „Software und Rechte“ bezeichnete Komponentenliste mit Versionen, Lizenztexten und Hinweisen einschließlich der ihm vorliegenden Herkunftsnachweise. Der Käufer beachtet bei Änderung, Verbreitung oder Bereitstellung die für seine Nutzungsart geltenden Lizenzpflichten. Ein ausschließliches Recht an fremden Open-Source-Bestandteilen wird nicht eingeräumt.",
+        "Für einen ungeklärten Bestandteil vereinbaren die Parteien in derselben Anlage Maßnahme, verantwortliche Partei, Frist, Kosten und Freigabenachweis. Bis zur Klärung bleibt die betroffene, nicht gedeckte Nutzung ausgesetzt. Austausch oder Abtrennung setzt einen dokumentierten Funktionstest und einen aktualisierten Lieferstand voraus. Ist die Freigabe als wesentliche Vollzugsbedingung bezeichnet, gilt die Regelung über den ausbleibenden Vollzug."
+      ]
+    },
+    {
+      "titel": "Marken, Domains und geschützte Informationen",
+      "absaetze": [
+        "Der Verkäufer überträgt die in „Marken und Domains“ bezeichneten Markenrechte mit Wirkung zum Vollzug für die dort ausgewiesenen Waren und Dienstleistungen auf den Käufer, der die Übertragung annimmt. Bestehende Lizenzen, Pfandrechte und anhängige Verfahren sind kenntlich zu machen. Beide Parteien unterzeichnen die erforderlichen Registerunterlagen und unterstützen die Umschreibung.",
+        "Bei Domains führen die Parteien die vom jeweiligen Registrar oder der Vergabestelle verlangte Änderung des Domaininhabers durch. Authentisierungscodes werden gesondert übermittelt. Bis zur erfolgreichen Umschreibung halten sie nach der in der Anlage vereinbarten Aufgabenverteilung DNS, Zertifikate und Erreichbarkeit aufrecht. Namens- und Kennzeichenrechte Dritter bleiben unberührt.",
+        "Betriebsgeheimnisse und nicht veröffentlichte technische Informationen werden den in der Anlage „Software und Rechte“ benannten Funktionen zugänglich gemacht. Beide Parteien verpflichten die zugriffsberechtigten Personen zur Vertraulichkeit. Gesetzliche Auskunfts-, Aufbewahrungs- und Berichtspflichten sowie die Aufgaben der Verfahrensorgane bleiben gewahrt."
+      ]
+    },
+    {
+      "titel": "Verträge und Verbindlichkeiten",
+      "absaetze": [
+        "Nur die in „Verträge und Forderungen“ bezeichneten Kunden-, Lizenz-, Lieferanten- und Dienstleistungsverträge sollen auf den Käufer übergehen. Die Parteien schließen mit dem jeweiligen Vertragspartner eine Übernahmevereinbarung oder dokumentieren eine bereits wirksame Zustimmung oder gesetzliche Grundlage. Bis zum wirksamen Eintritt bleibt der bisherige Vertragspartner im Außenverhältnis verpflichtet. Das insolvenzrechtliche Wahlrecht des Verwalters, soweit es besteht, wird durch diese Liste nicht ausgeübt.",
+        "Der Käufer trägt im Innenverhältnis die Verpflichtungen aus wirksam übernommenen Verträgen ab dem diesen zugeordneten Übernahmezeitpunkt. Vorleistungen, Vorauszahlungen, Gewährleistungsfälle, offene Servicezeiträume und ausdrücklich übernommene Altverbindlichkeiten sind mit Stichtag und Betrag oder Berechnungsschlüssel einzeln in der Anlage festzuhalten. Andere Altverbindlichkeiten übernimmt der Käufer im Innenverhältnis nicht. Gesetzliche Haftung und Rechte der Gläubiger bleiben unberührt. Eine befreiende Schuldübernahme setzt die dafür erforderliche Mitwirkung des Gläubigers voraus.",
+        "Fehlt eine Zustimmung, wird der Vertrag nicht allein durch den Vollzug übertragen. Eine befristete Abwicklung für Rechnung des Käufers kommt nur nach gesonderter Vereinbarung in Betracht, wenn sie vertraglich und insolvenzrechtlich zulässig ist. Die Anlage bestimmt das Ende der Zwischenlösung und ihre Kosten. Ohne zulässige Zwischenlösung unterbleiben Nutzung und Datenzugriff. Die Parteien wenden die hierfür ausdrücklich vereinbarte Regelung zum Teilvollzug an."
+      ]
+    },
+    {
+      "titel": "Arbeitsverhältnisse und Unterrichtung",
+      "absaetze": [
+        "Ob Arbeitsverhältnisse auf den Käufer übergehen, bestimmt sich nach den tatsächlichen Verhältnissen und § 613a BGB. Die Übersicht „Personal und Übergang“ hält die Zuordnung zum Betrieb oder Betriebsteil und den Bearbeitungsstand fest. Weder die Aufnahme noch die Auslassung eines Arbeitsverhältnisses ersetzt die gesetzliche Zuordnung. Kündigungen wegen des Betriebsübergangs sind unzulässig.",
+        "Vor dem Übergang stimmen die Parteien die vollständige Unterrichtung in Textform über Zeitpunkt oder geplanten Zeitpunkt, Grund, rechtliche, wirtschaftliche und soziale Folgen sowie die für die Arbeitnehmer in Aussicht genommenen Maßnahmen ab. [Zuständige Partei oder Stelle] veranlasst die Unterrichtung und dokumentiert Zugang und Rücklauf. Das gesetzliche schriftliche Widerspruchsrecht gegenüber bisherigem Arbeitgeber oder neuem Inhaber bleibt gewahrt. Seine Monatsfrist setzt den Zugang einer ordnungsgemäßen Unterrichtung voraus.",
+        "Geht ein Widerspruch ein oder ist eine Zuordnung streitig, informieren sich die Parteien unverzüglich und klären die weitere Beschäftigung und Abrechnung im Einzelfall. Zwingende Arbeitnehmerrechte und die insolvenzrechtliche Behandlung von Ansprüchen nach ihrem Entstehungszeitpunkt bleiben unberührt. Die interne Abgrenzung von Entgelt, Urlaub, Zeitguthaben und sonstigen Vergütungsbestandteilen ergibt sich aus der Personalübersicht. Eine Außenhaftung wird dadurch weder erweitert noch beschränkt."
+      ]
+    },
+    {
+      "titel": "Personenbezogene Daten",
+      "absaetze": [
+        "Die Parteien legen für jede Datenkategorie in „Daten und Übermittlung“ den Zweck, die betroffenen Personen, den Umfang, die einschlägige Rechtsgrundlage, den Empfänger und die Freigabe fest. Der Vertrag allein berechtigt nicht zur Offenlegung oder Weiterverwendung personenbezogener Daten. Bis zur dokumentierten Freigabe bleiben die betroffenen Daten technisch vom Übergabebestand getrennt.",
+        "Firmenstammdaten werden von personenbezogenen Daten geschäftlicher Ansprechpartner unterschieden. Für laufende Privatkundenverträge, die Anbahnung eines neuen Vertrags, beendete Kundenbeziehungen, Werbung, Beschäftigtendaten und Trainingsdaten wird jeweils ein eigener Übermittlungs- und Nutzungstatbestand dokumentiert. Besteht eine Rechtsgrundlage nur zur Aufbewahrung, erfolgt keine Übergabe zur Kundenansprache. Bedarf es einer Einwilligung, werden Wortlaut, Umfang und Nachweis vor Übermittlung dokumentiert. Schweigen auf ein Informationsschreiben ersetzt weder eine erforderliche Einwilligung noch die Zustimmung zur Vertragsübernahme. Für besondere Kategorien personenbezogener Daten ist zusätzlich eine Voraussetzung nach Art. 9 DSGVO erforderlich.",
+        "Jede Partei erfüllt ihre Informationspflichten nach Art. 13 oder 14 DSGVO in der ihr zukommenden Rolle und ermöglicht die Ausübung von Betroffenenrechten. Soweit ein Beteiligter auf Weisung verarbeitet, wird vor Zugriff die erforderliche Vereinbarung nach Art. 28 DSGVO geschlossen. Die Parteien übertragen freigegebene Daten verschlüsselt, beschränken Zugriffe und protokollieren Übergabe, Sperren und Löschtermine. Gesetzlich aufzubewahrende Kopien verbleiben zweckgebunden und zugriffsbeschränkt."
+      ]
+    },
+    {
+      "titel": "Kaufpreis und Umsatzsteuer",
+      "absaetze": [
+        "Der Kaufpreis beträgt [Betrag und Währung] ohne eine etwa geschuldete Umsatzsteuer. Die Parteien ordnen ihn den übertragenen Gegenständen und Rechten in „Kaufpreis und Sicherheit“ zu. Die Summe der Einzelbeträge entspricht dem vereinbarten Kaufpreis. Für nicht vollzogene Einzelübertragungen gelten nur die dort ausdrücklich bestimmten Anpassungen.",
+        "Die Parteien dokumentieren ihre umsatzsteuerliche Einordnung und die hierfür maßgeblichen tatsächlichen Umstände in der Anlage. Liegt eine Geschäftsveräußerung im Ganzen nach § 1 Abs. 1a UStG vor, weist der Verkäufer keine Umsatzsteuer aus. Ist der Umsatz steuerbar und steuerpflichtig und schuldet der Verkäufer die Steuer, zahlt der Käufer die gesetzlich geschuldete Umsatzsteuer zusätzlich gegen ordnungsgemäße Rechnung binnen [Zahlungsfrist] nach Zugang. Schuldet der Käufer die Steuer selbst, erfolgt kein zusätzlicher Steuerbetrag an den Verkäufer.",
+        "Ändert sich die steuerliche Einordnung, unterrichten sich die Parteien unverzüglich, wirken bei der Berichtigung von Rechnungen und Erklärungen mit und gleichen einen erforderlichen Mehr- oder Erstattungsbetrag binnen [Abrechnungsfrist] nach Vorliegen der berichtigten Abrechnung aus."
+      ]
+    },
+    {
+      "titel": "Fälligkeit und Kaufpreiseinbehalt",
+      "absaetze": [
+        "Die Kaufpreiszahlung wird am vereinbarten Vollzugstag fällig, sobald der Verkäufer dem Käufer den Eintritt oder die zulässige Abbedingung der vor der Zahlung zu erfüllenden Bedingungen nachgewiesen und die Zug um Zug zu übergebenden Vollzugsunterlagen bereitgestellt hat. Der Käufer zahlt den Kaufpreis abzüglich des in „Kaufpreis und Sicherheit“ festgelegten Einbehalts auf das bestätigte Massekonto. Den Einbehalt zahlt er gleichzeitig auf das dort bezeichnete Treuhandkonto. Maßgeblich ist jeweils die endgültige Gutschrift. Wird kein Einbehalt vereinbart, ist der gesamte Kaufpreis auf das Massekonto zu zahlen.",
+        "Ein Einbehalt sichert ausschließlich die in der Anlage bezeichneten Ansprüche. Bei Vereinbarung eines Einbehalts schließen die Parteien vor Fälligkeit eine entsprechende Treuhandvereinbarung mit [Treuhänder]. Sie bezeichnet Betrag, Kontoinhaber, Gebühren, Zinsen, Freigabetermin und Auszahlungsberechtigte. Der Treuhänder darf den gesicherten Betrag weder einer Partei einseitig auf deren Anforderung auszahlen noch ihn für andere Forderungen verwenden.",
+        "Der Käufer zeigt einen Sicherungsfall bis [Freigabetermin] beiden anderen Beteiligten in Textform unter Angabe von Sachverhalt, Grundlage und nachvollziehbar geschätztem Betrag an. Ohne rechtzeitige Anzeige wird das Guthaben an die Masse freigegeben. Bei rechtzeitiger Anzeige bleibt nur der begründet bezifferte streitige Teil zurück. Der übrige Betrag wird freigegeben. Über den streitigen Teil wird nach gemeinsamer Weisung oder vollstreckbarer Entscheidung entsprechend der Treuhandvereinbarung verfügt. Die Anzeigefrist betrifft die Sicherheit. Bestand und Verjährung des zugrunde liegenden Anspruchs richten sich nach den dafür geltenden Regeln."
+      ]
+    },
+    {
+      "titel": "Zustimmungen und Vollzug",
+      "absaetze": [
+        "Der Vollzug steht unter den in „Freigaben und Vollzug“ als wesentlich bezeichneten Bedingungen. Für die Veräußerung des Unternehmens oder Betriebs ist die nach § 160 InsO erforderliche Zustimmung des Gläubigerausschusses, bei fehlendem Ausschuss die der Gläubigerversammlung, nach Maßgabe der gesetzlichen Regeln einzuholen. Weitere erforderliche Zustimmungen, insbesondere bei einem Erwerb durch besonders Interessierte oder unter den Voraussetzungen des § 163 InsO, stehen mit Nachweis in der Anlage. Die gesondert vereinbarten Vollzugsbedingungen lassen § 164 InsO unberührt.",
+        "Zustimmungen Dritter und etwa erforderliche behördliche Freigaben sind nach Gegenstand, Erklärendem und Wirksamkeitsdatum festzuhalten. Auf eine vertragliche Bedingung können die Parteien nur gemeinsam in Textform verzichten und nur, soweit Gesetz und Drittrechte dies zulassen. Teilvollzug ist für ausdrücklich bezeichnete Positionen zulässig, wenn Auswirkungen auf Nutzung, Betrieb und Kaufpreis in der Anlage geregelt sind.",
+        "Vorgesehener wirtschaftlicher Stichtag ist [Datum, Uhrzeit und Zeitzone]. Der rechtliche Vollzug erfolgt mit Eintritt oder zulässiger Abbedingung der wesentlichen Bedingungen und Gutschrift der geschuldeten Kaufpreiszahlungen. Die Parteien protokollieren die vollzogenen Einzelübertragungen, übergebenen Sachen, freigegebenen Daten, Testnachweise und offenen Nachläufe. Ein Protokoll kann eine fehlende Zustimmung, Form oder Übergabe nicht ersetzen.",
+        "Nutzen, Lasten und laufende Erlöse ordnen die Parteien im Innenverhältnis ab dem vereinbarten wirtschaftlichen Stichtag zu, sofern der Vollzug stattfindet. Die Gefahr des zufälligen Untergangs körperlicher Sachen geht erst mit Besitzübergabe über. Gesetzlich bestimmte Übergangszeitpunkte insbesondere für Arbeitsverhältnisse bleiben unberührt. Vor dem tatsächlichen Vollzug erhält der Käufer nur den hierfür gesondert zugelassenen Prüfzugang."
+      ]
+    },
+    {
+      "titel": "Ausbleibender Vollzug und Nachlauf",
+      "absaetze": [
+        "Sind wesentliche Bedingungen bis [Endtermin] nicht erfüllt, kann jede Partei nach einer Nachfrist von [Dauer] durch Erklärung in Textform zurücktreten, sofern sie das Ausbleiben nicht selbst treuwidrig herbeigeführt hat. Eine Nachfrist entfällt, soweit die Bedingung endgültig ausgefallen ist. Bei Rücktritt geben die Parteien bereits empfangene Leistungen zurück, veranlassen die Rückzahlung eingezahlter Treuhandbeträge und entziehen gewährte Zugänge. Vertraulichkeit und gesetzliche Aufbewahrungspflichten gelten fort.",
+        "Der Verkäufer ermöglicht nach dem Vollzug für [Dauer] den rechtlich zulässigen Zugriff auf noch benötigte Geschäftsunterlagen, soweit dies die Verfahrensführung erlaubt. Der Käufer stellt dem Verkäufer Unterlagen zur Verfügung, die dieser für Abrechnung, Steuererklärungen oder Verfahrensnachweise benötigt. Soweit keine Übergabe der Originale zulässig ist, werden im erforderlichen Umfang gesicherte Kopien oder Einsicht gewährt. Ansprechpartner, angemessene Fristen, Gebühren und ausstehende Umschreibungen sind im Vollzugsprotokoll festzuhalten."
+      ]
+    },
+    {
+      "titel": "Beschaffenheit, Ansprüche und Haftung",
+      "absaetze": [
+        "Für den geschuldeten Lieferstand und ausdrücklich vereinbarte Eigenschaften gelten die in „Software und Rechte“ sowie „Kaufpreis und Sicherheit“ einzeln als Beschaffenheit bezeichneten Angaben. Der Verkäufer schuldet die vereinbarte Übertragung und die zugesagten Mitwirkungshandlungen. Für die künftige Ertragsfähigkeit oder Eignung für weitere Nutzungszwecke übernimmt er keine Garantie. Garantien gelten nur für die jeweils ausdrücklich als Garantie bezeichnete Erklärung.",
+        "Soweit die Parteien für einzelne Gegenstände einen Ausschluss oder eine Begrenzung der gesetzlichen Mängelrechte vereinbaren, halten sie Gegenstand, erfassten Mangel, Rechtsfolge sowie gegebenenfalls Betrag und Dauer in „Kaufpreis und Sicherheit“ fest. Fehlt ein solcher Eintrag, gelten die gesetzlichen Mängelrechte. Auf einen Ausschluss oder eine Beschränkung kann sich der Verkäufer bei arglistigem Verschweigen oder einer übernommenen Beschaffenheitsgarantie im Umfang des § 444 BGB nicht berufen. Zwingende Haftung sowie Ansprüche wegen Vorsatzes, grober Fahrlässigkeit oder Verletzung von Leben, Körper oder Gesundheit bleiben unberührt.",
+        "Mängelanzeigen richten sich mit Beschreibung, betroffenem Lieferstand und vorhandenen Belegen an [Empfangsstelle]. Die Parteien sichern den maßgeblichen Stand und ermöglichen die Prüfung und Nacherfüllung nach den gesetzlichen oder ausdrücklich vereinbarten Voraussetzungen. Eine Belastung der Treuhandsicherheit setzt zusätzlich das vereinbarte Anzeigeverfahren voraus.",
+        "Vertragspartner auf Verkäuferseite ist der Insolvenzverwalter in seiner amtlichen Eigenschaft. Eine rechtsgeschäftliche persönliche Einstandspflicht übernimmt er nicht. Einordnung und Durchsetzung von Ansprüchen gegen die Insolvenzmasse richten sich nach dem Insolvenzrecht. Eine gesetzliche Eigenhaftung, insbesondere nach §§ 60, 61 InsO, bleibt unberührt."
+      ]
+    },
+    {
+      "titel": "Erklärungen, Kosten und Rechtswahl",
+      "absaetze": [
+        "Für Mitteilungen gelten als Empfangsstellen [Verkäufer, Post- und E-Mail-Adresse] und [Käufer, Post- und E-Mail-Adresse]. Änderungen der Empfangsdaten sind der anderen Partei unverzüglich mitzuteilen. Gesetzlich vorgeschriebene Formen für einzelne Verfügungen und Erklärungen bleiben gewahrt.",
+        "Jede Partei trägt ihre eigenen Beratungsaufwendungen. Umschreibungs-, Treuhand- und sonstige Vollzugskosten tragen die Parteien nach „Kaufpreis und Sicherheit“. Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts. Soweit eine Gerichtsstandsvereinbarung zulässig ist, ist [Ort] vereinbart. Die im Vertrag bezeichneten und bei Unterzeichnung identifizierten Anlagen sind Bestandteil der Vereinbarung."
+      ]
+    },
+    {
+      "titel": "Unterzeichnung",
+      "absaetze": [
+        "Die Parteien bestätigen mit ihrer Unterschrift den Vertrag einschließlich der in „Freigaben und Vollzug“ nach Stand bezeichneten Anlagen. Zwingend vorgeschriebene weitergehende Form wird gewahrt.",
+        "[Ort und Datum]     ____________________________________\n[Name des Verkäufers], als Insolvenzverwalter über das Vermögen der [Schuldnerin]",
+        "[Ort und Datum]     ____________________________________\n[Name, Funktion und gegebenenfalls weiterer Vertretungsberechtigter], für [Firma des Käufers]"
+      ]
+    },
+    {
+      "titel": "Inventar und Ausnahmen",
+      "absaetze": [
+        "Jede Position erhält eine eindeutige Kennung. Mitverkaufte Sachen und ausgeschlossene Bestände sind ausdrücklich zu unterscheiden. Seriennummer oder Fundstelle, Besitz und Rechte Dritter müssen eine eindeutige Zuordnung erlauben."
+      ],
+      "spalten": [
+        "Kennung, Sache, Seriennummer",
+        "Standort und Besitzer",
+        "Einbezogen / ausgeschlossen",
+        "Eigentum, Belastung, Freigabe"
+      ],
+      "zeilen": 4
+    },
+    {
+      "titel": "Software und Rechte",
+      "absaetze": [
+        "Pro Komponente den konkreten Lieferstand eintragen. Zu längeren Rechteketten, Komponentenlisten oder Nachweisen Anlage, Version und Fundstelle angeben. Für ausdrücklich vereinbarte Eigenschaften und Garantien die jeweilige Bezeichnung verwenden."
+      ],
+      "spalten": [
+        "Kennung, Stand, Lieferbestand",
+        "Rechtsinhaber, Rechtekette, Lizenz",
+        "Umfang, Befugnisse, Beschaffenheit",
+        "Offener Punkt, Maßnahme, Kosten, Beleg"
+      ],
+      "zeilen": 5
+    },
+    {
+      "titel": "Marken und Domains",
+      "absaetze": [
+        "Für Marken Register, Nummer, Gebiet und betroffene Waren oder Dienstleistungen, für Domains Inhaber, Registrar und Umschreibungsverfahren eintragen. Authentisierungscodes getrennt austauschen."
+      ],
+      "spalten": [
+        "Kennung, Register / Domain",
+        "Rechtsinhaber und Umfang",
+        "Rechte Dritter / Zustimmung",
+        "Umschreibung, Zuständiger, Termin"
+      ],
+      "zeilen": 3
+    },
+    {
+      "titel": "Verträge und Forderungen",
+      "absaetze": [
+        "Bei Forderungen Schuldner, Leistungsgrund und abrechenbaren Zeitraum angeben. Bei Verträgen Vertragspartei, Vertragsstand, Übernahmetag, offene Altpositionen und Abgrenzung laufender Leistungen festhalten."
+      ],
+      "spalten": [
+        "Vertrag / Forderung, Kennung",
+        "Gegenpartei, Leistungszeitraum",
+        "Übernahme, Betrag / Abgrenzung",
+        "Zustimmung, Zwischenlösung, Ende"
+      ],
+      "zeilen": 4
+    },
+    {
+      "titel": "Personal und Übergang",
+      "absaetze": [
+        "Für die vertragliche Zuordnung zunächst Personalnummern oder Pseudonyme verwenden. Die Identitätszuordnung und Zustellnachweise werden zugriffsbeschränkt geführt. Bei Widerspruch sind Eingangsdatum, Empfänger und Bearbeitungsstand festzuhalten."
+      ],
+      "spalten": [
+        "Personal-ID, Funktion, Zuordnung",
+        "Geplanter / tatsächlicher Übergang",
+        "Unterrichtung, Zugang, Widerspruch",
+        "Vergütungsabgrenzung, Bearbeiter"
+      ],
+      "zeilen": 4
+    },
+    {
+      "titel": "Daten und Übermittlung",
+      "absaetze": [
+        "Jede freizugebende, zu sperrende oder nur aufzubewahrende Kategorie gesondert ausweisen. Abwägung, Einwilligung oder Auftragsregelung sowie Informationsnachweis durch datierte Fundstelle belegen."
+      ],
+      "spalten": [
+        "Kategorie, betroffene Personen, Umfang",
+        "Zweck, Empfänger, Rechtsgrundlage",
+        "Freigabe / Sperre, Information",
+        "Übertragungsweg, Löschtermin, Nachweis"
+      ],
+      "zeilen": 5
+    },
+    {
+      "titel": "Kaufpreis und Sicherheit",
+      "absaetze": [
+        "Kaufpreisallokation in [Währung] für den vereinbarten Stichtag. Summe der Positionen [Betrag]. Davon unmittelbare Zahlung auf das Massekonto [Betrag] und Einzahlung auf das Treuhandkonto [Betrag oder kein Einbehalt]. Verifizierte Kontoverbindungen und Treuhandvereinbarung [Fundstelle].",
+        "Umsatzsteuerliche Einordnung und Tatsachengrundlage [Feststellung]. Kostenverteilung [Gebühren und Kostenträger]. Sicherungszweck [konkrete Ansprüche], Freigabetermin [Datum], Empfangsstelle des Treuhänders [Kontaktdaten]. Etwaige gegenstandsbezogene Haftungsabreden sind mit genauer Reichweite in der Tabelle zu benennen."
+      ],
+      "spalten": [
+        "Kaufgegenstand / Kennung",
+        "Kaufpreisanteil und Anpassung",
+        "Gesicherter Anspruch / Teilbetrag",
+        "Beschaffenheit, Garantie oder Begrenzung"
+      ],
+      "zeilen": 4
+    },
+    {
+      "titel": "Freigaben und Vollzug",
+      "absaetze": [
+        "Fassung und Stand der unterzeichneten Anlagen [Anlagenstände]. Wirtschaftlicher Stichtag [Datum, Zeit, Zeitzone]. Festgestellter rechtlicher Vollzug [Datum, Zeit, Zeitzone]. Bestätigte Zahlungseingänge [Belege]. Für jede Freigabe oder ausstehende Übertragung Bedingung, dokumentiertes Ergebnis und den nächsten Schritt eintragen.",
+        "Bestätigung des Vollzugsprotokolls durch Verkäufer [Ort, Datum, Name und Unterschrift] und Käufer [Ort, Datum, Name und Unterschrift]."
+      ],
+      "spalten": [
+        "Position, Bedingung oder Übergabe",
+        "Wesentlich / Teilvollzug, Berechtigter",
+        "Beleg, Fassung, Datum",
+        "Offener Punkt, Verantwortlicher, Termin"
+      ],
+      "zeilen": 5
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "nachforderung-zahlungswege",
+    "titel": "Auskunftsersuchen zu Darlehensübertragung und Zahlungswegen",
+    "zweck": "Schreiben der Insolvenzverwaltung an den jeweiligen Auskunftsadressaten. Bankbelege und den zeitlich nachvollziehbaren Zugang von Informationen für einzelne Vorgänge anfordern.",
+    "abschnitte": [
+      {
+        "titel": "Empfänger und Gegenstand",
+        "absaetze": [
+          "[Absender, Amtsstellung, Anschrift] · [Ort, Datum]",
+          "An [vollständiger Rechtsträger, Ansprechpartner und Anschrift]. Betreff: [Verfahren, Vertragsreferenz, abgegrenzter Zeitraum].",
+          "[Anrede], für die Prüfung von [Vorgang und Anspruch] benötige ich die nachfolgend bezeichneten Unterlagen aus Ihrem Verantwortungsbereich. Ausgangspunkt sind [bereits vorliegende Unterlagen und verbleibender Widerspruch]."
+        ]
+      },
+      {
+        "titel": "Vertragsstellung und Risiko",
+        "absaetze": [
+          "Bitte übersenden Sie die bei [Stichtag] geltenden Fassungen von [Vertrag, Übernahme- oder Abtretungsvereinbarung] samt Unterlagen zu Wirksamwerden, Zustimmung oder Anzeige. Bitte erläutern Sie für [Zeitraum], wer Forderungsinhaber war, wer einziehen durfte und wer das Ausfallrisiko trug.",
+          "Bitte bezeichnen Sie etwaige Vereinbarungen zu [Rückkauf, Erlösweiterleitung, Vergütung oder sonstige Risikoteilung]. Soweit keine Unterlage auffindbar ist, nennen Sie die geprüften Bestände, den Zeitraum und die auskunftgebende Stelle."
+        ]
+      },
+      {
+        "titel": "Weg der einzelnen Zahlungen",
+        "absaetze": [
+          "Für [Vorgangskennungen] bitten wir um Buchungsnachweise zu Auftraggeber, Kontoinhaber, Wertstellung, Verwendungszweck und Empfängerkonto. Erwerbspreis, Zahlungen des Darlehensnehmers und etwaige Weiterleitungen führen Sie bitte mit getrennten Referenzen auf.",
+          "Für bloß erwogene oder zurückgewiesene Zahlungsanweisungen bitten wir um [Anweisung und Antwort]. Bei behaupteter Ausführung erbitten wir [Belastungs- und Gutschriftnachweis, möglicher Rücklauf und Zuordnung zur Forderung]."
+        ]
+      },
+      {
+        "titel": "Informationsstand am Zahlungstag",
+        "absaetze": [
+          "Bitte teilen Sie uns für [Einzelvorgang] mit, welche Informationen zu Finanzierung, Rückständen oder Fälligkeiten welcher Person in Ihrem Haus bis [Zeitpunkt] zugingen. Zu [streitiger Nachricht oder Gespräch] bitten wir um das Original mit Zugangsnachweis oder einen zeitnahen Vermerk.",
+          "Soweit Ihre Antwort auf späteren Erinnerungen beruht, bitten wir um [Datum der Befragung, eigene Wahrnehmung der Auskunftsperson und erkennbare Grenzen]."
+        ]
+      },
+      {
+        "titel": "Antwort und Anlagen",
+        "absaetze": [
+          "Die fehlenden Punkte betreffen [konkrete Nachweise]. Bitte beantworten Sie die Fragen zu den genannten Vorgangskennungen bis [Datum] über [abgestimmter Übermittlungsweg]. Offen gebliebene Positionen können Sie mit dem Stand Ihrer Prüfung und einem Rückmeldetermin kennzeichnen.",
+          "[Grußformel, Amtsbezeichnung und Unterschrift]. Anlagen: [geprüfte Referenzliste und gegebenenfalls Vollmachts- oder Bestellungsnachweis]."
+        ]
+      }
+    ]
+  },
+  {
+    "format": "xlsx",
+    "slug": "darlehenszahlungen-und-kenntnis",
+    "titel": "Darlehenszahlungen, Stichtagsstatus und Kenntnisstände",
+    "zweck": "Jede ausgeführte Schuldnerzahlung nur einmal erfassen. Erwerbspreis und mögliche Weiterleitung getrennt zuordnen. Offene Zahlen bleiben leer, bestätigte Nullwerte ausdrücklich erfassen.",
+    "blaetter": [
+      {
+        "titel": "Zahlungsweg",
+        "spalten": [
+          "Vorgangskennung",
+          "Wertstellung",
+          "Art: Tilgung, Preis, Weiterleitung",
+          "Sender / Kontoinhaber",
+          "Empfänger / Kontoinhaber",
+          "Ausgeführter Betrag",
+          "Status / Rücklauf",
+          "Bezugsbuchung",
+          "Bankbeleg"
+        ],
+        "zeilen": 15,
+        "formate": {
+          "Wertstellung": "dd.mm.yyyy",
+          "Ausgeführter Betrag": "#,##0.00"
+        }
+      },
+      {
+        "titel": "Teilbeträge",
+        "spalten": [
+          "Forderungskennung",
+          "Einbezogene Buchungsnr.",
+          "Bezugsbetrag",
+          "Darin enthaltener Teil",
+          "Übriger Teil",
+          "Empfänger / Rechtsgrund",
+          "Beleg"
+        ],
+        "zeilen": 15,
+        "formeln": {
+          "Übriger Teil": "=IF(COUNT(C{r}:D{r})=2,ROUND(C{r}-D{r},2),\"\")"
+        },
+        "formate": {
+          "Bezugsbetrag": "#,##0.00",
+          "Darin enthaltener Teil": "#,##0.00",
+          "Übriger Teil": "#,##0.00"
+        }
+      },
+      {
+        "titel": "Stichtagsstatus",
+        "spalten": [
+          "Stichtag",
+          "Verfügbare Mittel",
+          "Erhobene fällige Pflichten",
+          "Weitere fällige Pflichten",
+          "Fällige Pflichten gesamt",
+          "Mittelüberschuss / Fehlbetrag",
+          "Bank- / Fälligkeitsnachweis",
+          "Offene Erhebung"
+        ],
+        "zeilen": 15,
+        "formeln": {
+          "Fällige Pflichten gesamt": "=IF(COUNT(C{r}:D{r})=2,ROUND(C{r}+D{r},2),\"\")",
+          "Mittelüberschuss / Fehlbetrag": "=IF(COUNT(B{r},E{r})=2,ROUND(B{r}-E{r},2),\"\")"
+        },
+        "formate": {
+          "Stichtag": "dd.mm.yyyy",
+          "Verfügbare Mittel": "#,##0.00",
+          "Erhobene fällige Pflichten": "#,##0.00",
+          "Weitere fällige Pflichten": "#,##0.00",
+          "Fällige Pflichten gesamt": "#,##0.00",
+          "Mittelüberschuss / Fehlbetrag": "#,##0.00"
+        }
+      },
+      {
+        "titel": "Kenntnis vor Zahlung",
+        "spalten": [
+          "Vorgangskennung",
+          "Zahlungstag",
+          "Nachricht / eigener Eindruck",
+          "Informationsquelle",
+          "Konkreter Empfänger",
+          "Zugang am",
+          "Zugangsnachweis",
+          "Gegenbeleg / Erinnerungsgrenze"
+        ],
+        "zeilen": 15,
+        "formate": {
+          "Zahlungstag": "dd.mm.yyyy",
+          "Zugang am": "dd.mm.yyyy"
+        }
+      }
+    ]
+  }
+]

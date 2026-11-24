@@ -260,7 +260,7 @@ function checkMarkdownLinks() {
     for (const match of context.text.matchAll(linkPattern)) {
       const target = match[1].trim();
       if (/^(https?:|mailto:|#|\/)/.test(target)) continue;
-      const clean = target.split('#')[0].replaceAll('%20', ' ');
+      const clean = target.split(/[?#]/, 1)[0].replaceAll('%20', ' ');
       if (!clean || /^[A-Za-z]+:/.test(clean)) continue;
       const resolved = path.resolve(path.dirname(context.file), clean);
       if (!exists(resolved)) errors.push(`${rel(file)}: relative markdown link missing: ${target}`);

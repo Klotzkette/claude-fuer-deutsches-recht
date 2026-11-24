@@ -1,0 +1,65 @@
+{
+  "slug": "rueckgewaehr-vorkasselieferungen",
+  "titel": "Rückgewährverlangen wegen Zahlungen auf Rohstofflieferungen",
+  "zweck": "Außergerichtliches Schreiben der Insolvenzverwaltung an den Lieferanten. Jede verlangte Position wird einer konkreten Lieferung und einem wirtschaftlichen Nachteil zugeordnet.",
+  "abschnitte": [
+    {
+      "titel": "Anschrift und Bezug",
+      "absaetze": [
+        "[Absender und Anschrift]",
+        "[Empfänger, Funktion und Anschrift]",
+        "[Ort und Datum] · [Unser Zeichen] · [Ihr Zeichen]",
+        "Betreff: Insolvenzverfahren [Schuldner], [Aktenzeichen] – Zahlungen auf Rohstofflieferungen",
+        "[Anrede]"
+      ]
+    },
+    {
+      "titel": "Bestellung und Umfang des Verlangens",
+      "absaetze": [
+        "Mit Beschluss vom [Datum] hat mich [Gericht] im bezeichneten Verfahren bestellt. Auf Grundlage der nachstehend bezeichneten Vorgänge verlange ich für die Masse [Gegenstand und bezifferter Umfang]."
+      ]
+    },
+    {
+      "titel": "Zahlungs- und Lieferzuordnung",
+      "absaetze": [
+        "Das frühere Zahlungsziel ergab sich aus [Vertragsstelle]. Für die Umstellung auf Vorkasse oder Zahlung bei Lieferung sind [Erklärung, Zugang und Geltungsbeginn] maßgeblich. Die Zuordnung beruht auf [Bestellung, Rechnung, Wareneingang und Buchungsnachweis]."
+      ],
+      "spalten": [
+        "Rechnung / Bestellung",
+        "Zahlung / Betrag",
+        "Lieferung / Abstand",
+        "Verrechnung / Beleg"
+      ],
+      "zeilen": 4
+    },
+    {
+      "titel": "Wert des Austauschs",
+      "absaetze": [
+        "Der Wert der gelieferten Ware zum jeweiligen Leistungszeitpunkt ergibt sich aus [Menge, Qualität, handelsüblicher Preis, Quelle]. Für den berechneten Zuschlag ergibt der Vergleich mit [Preis und Vergleichsbedingungen] eine Differenz von [Betrag oder Bewertungsbandbreite]. Die Anrechnung auf offene Altforderungen ist durch [Zuordnungsbeleg] geklärt wie folgt: [Darstellung]."
+      ]
+    },
+    {
+      "titel": "Anfechtungsgründe und Einwendungen",
+      "absaetze": [
+        "Für die einzelnen Positionen stütze ich mich auf [Anspruchsgrundlage, Rechtshandlung und maßgeblicher Zeitpunkt]. Der Nachteil für die Gläubigergesamtheit besteht in [wirtschaftlicher Vergleich]. Ihre damalige Kenntnis entnehme ich [konkrete Mitteilung, Empfänger und Zugang].",
+        "Zu den Voraussetzungen des § 142 InsO, insbesondere zeitlichem Zusammenhang und Gleichwertigkeit, nehme ich wie folgt Stellung: [Würdigung je Position]. Soweit ein unlauteres Handeln und dessen Erkennen geltend gemacht werden, beruhen diese auf [getrennte tatsächliche Anhaltspunkte]. Zu gegenläufigen Umständen: [Stellungnahme]."
+      ]
+    },
+    {
+      "titel": "Zahlung und Stellungnahme",
+      "absaetze": [
+        "Der verlangte Hauptbetrag von [Betrag] setzt sich aus [Einzelpositionen laut Anlage] zusammen. Soweit nur ein Teilbetrag zurückverlangt wird: [Betrag, betroffene Position und Verhältnis zum Hauptverlangen].",
+        "Bitte überweisen Sie [Betrag] bis zum [Fristende] auf [Massekonto, Verwendungszweck]. Ihren Einwendungen sehen wir bis [Datum] unter Beifügung von [konkret benötigter Nachweis] entgegen."
+      ]
+    },
+    {
+      "titel": "Abschluss",
+      "absaetze": [
+        "Mit freundlichen Grüßen",
+        "[Unterschrift]",
+        "[Name und Funktion]",
+        "Anlagen: [Bezeichnung und Umfang der beigefügten Unterlagen]"
+      ]
+    }
+  ]
+}

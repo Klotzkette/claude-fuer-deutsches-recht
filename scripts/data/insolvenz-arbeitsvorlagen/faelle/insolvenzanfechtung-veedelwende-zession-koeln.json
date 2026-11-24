@@ -1,0 +1,119 @@
+[
+  {
+    "slug": "prozessrisiko-forderungsabtretung",
+    "titel": "Prozessrisiko bei Zahlung an den Erwerber einer Darlehensforderung",
+    "zweck": "Interner Entscheidungsvermerk der Insolvenzverwaltung über Anspruchsgegner, Beweislage und wirtschaftlich vertretbares Vorgehen nach einer Abtretung.",
+    "abschnitte": [
+      {
+        "titel": "Entscheidung und Prüfstand",
+        "absaetze": [
+          "An [Insolvenzverwaltung oder zuständiges Gremium]. Verfahren [Bezeichnung und Aktenzeichen]. Bearbeitet von [Name] am [Datum].",
+          "Zu entscheiden ist, ob und gegen wen wegen [konkrete Zahlung] in Höhe von [offener Betrag] vorgegangen werden soll. Nach dem Stand [Datum und Aktenumfang] empfehle ich [Vorgehen], weil [entscheidende Tatsache und Beweisrisiko]."
+        ]
+      },
+      {
+        "titel": "Verpflichtung, Verfügung und Zahlungswege",
+        "absaetze": [
+          "Das Darlehen wurde von [Person und Beteiligung] gewährt. Vertragspartner beim Forderungskauf waren [Parteien]. Die Abtretung stand unter [Wirksamkeitsvoraussetzungen]. Vertragsschluss, Wirksamkeit, Anzeige und Bestätigung sind durch [Fundstellen] zeitlich einzuordnen."
+        ],
+        "spalten": [
+          "Ereignis und Zeitpunkt",
+          "Beteiligte / Konten",
+          "Betrag und Rechtsgrund",
+          "Fundstelle / Gegenbeleg"
+        ],
+        "zeilen": 3
+      },
+      {
+        "titel": "Zwei Zeitvergleiche und Fälligkeit",
+        "absaetze": [
+          "Der nach § 139 InsO maßgebliche Antrag ging am [Datum] ein. Die für § 135 Abs. 1 Nr. 2 InsO relevante Jahresgrenze liegt bei [Datum]. Der wirksame Forderungsübergang am [Datum und Nachweis] liegt [Abstand und Einordnung]. Für die Befriedigung am [Rechtshandlungszeitpunkt nach § 140 InsO und Beleg] ergibt sich gesondert [Abstand und Einordnung].",
+          "Die Kündigung oder Zahlungsanforderung ging am [Datum] zu. Nach [Vertragsklausel und Fristberechnung] war die Forderung am [Datum] fällig. Im Verhältnis zur tatsächlichen Zahlung ergibt sich [Abweichung oder Übereinstimmung]. Für eine bei Zahlung noch nicht geschuldete Tilgung ergeben sich nach § 131 Abs. 1 InsO [einschlägige Friststufe, deren weitere Voraussetzungen und belegtes Ergebnis]."
+        ]
+      },
+      {
+        "titel": "Wer finanzierte und wer trug das Ausfallrisiko?",
+        "absaetze": [
+          "Für Rechnung von [Person] wurde der Kaufpreis aus [festgestellte Mittelherkunft] gezahlt. Das Verhältnis von Nominalwert, Preis und damaligem Ausfallrisiko lässt sich auf Grundlage von [Bewertungsgrundlage] mit [belegte Deutung und Gegenhypothese] erklären.",
+          "Bei der Prüfung von Treuhand, Rückgriff, Erlösbeteiligung, Weisungen oder Weiterleitung des Zahlungseingangs sprechen [konkrete Tatsachen und Belegstellen] für [Zuordnung]. Dagegen sprechen [abweichende Vertragsbestimmung, tatsächlicher Vollzug und Fundstellen]. Die vorliegende Kommunikation belegt unmittelbar [Inhalt]. Eine weitergehende Folgerung hängt von [Beweistatsache] ab."
+        ],
+        "spalten": [
+          "Streitige Tatsachenbehauptung",
+          "Beleg dafür / Fundstelle",
+          "Gegenbeleg / Erklärung",
+          "Offene Beweisfrage"
+        ],
+        "zeilen": 3
+      },
+      {
+        "titel": "Anspruch und Gegenposition",
+        "absaetze": [
+          "BGH IX ZR 32/12 betrifft die Abtretung durch einen Gesellschafter innerhalb der Jahresfrist und anschließende Tilgung an den Erwerber. Für den hier belegten Zeitpunkt des wirksamen Wechsels folgt daraus [Fallvergleich und Reichweite]. Bei einem früheren echten Verkauf beruht die behauptete fortdauernde wirtschaftliche Zuordnung auf [konkrete Zurechnungsgründe, Beweisantritt und Lücke].",
+          "Für [Erwerber] als Zahlungsempfänger ergibt sich aus §§ 129, 135, 143 InsO [eigenständig begründetes Ergebnis]. Für [früherer Darlehensgeber] ergibt sich aus dessen eigener Stellung [abweichende oder übereinstimmende Rechtsfolge mit Beleg]. Der Vergleich zwischen Masse mit und ohne Zahlung führt zu [Gegenstand und Ausmaß der Benachteiligung]. Eine selbstständig verfolgte weitere Anfechtungsgrundlage [Vorschrift] setzt [zusätzliche Tatbestandsmerkmale] voraus. Belegt sind [konkrete Tatsachen und Beweismittel]."
+        ]
+      },
+      {
+        "titel": "Prozessentscheidung und Mandat",
+        "absaetze": [
+          "Dem realisierbaren Rückgewährbetrag von [Betrag nach etwaigen Rückflüssen] stehen [Kostenrisiko, Beweisaufwand und Vollstreckungsaussicht] gegenüber. Das stärkste Verteidigungsargument lautet [Einwand]. Die Beweislage zu diesem Punkt ist [verfügbares Beweismittel oder verbleibendes Risiko].",
+          "Ich schlage [Anspruch verfolgen, Vergleich, weitere Ermittlungen oder Abstandnahme mit Begründung] vor. Für die Entscheidung bis [Frist mit Auslöser] werden [benanntes Beweismittel, zulässiger Beschaffungsweg und verantwortliche Person] benötigt. Die Befugnis für das weitere Vorgehen ergibt sich aus [erteilte oder noch erforderliche Freigabe].",
+          "[Name und Zeichnung der bearbeitenden Person]"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "klageerwiderung-forderungsabtretung",
+    "titel": "Klageerwiderung des Erwerbers einer Darlehensforderung",
+    "zweck": "Schriftsatz zur Verteidigung gegen ein Rückgewährverlangen nach Tilgung einer abgetretenen Darlehensforderung.",
+    "abschnitte": [
+      {
+        "titel": "Rubrum und Antrag",
+        "absaetze": [
+          "An das [Gericht und Anschrift]. Geschäftsnummer [gerichtliches Aktenzeichen]. [Ort und Datum].",
+          "In dem Rechtsstreit [klagende Partei und Amtsstellung] gegen [beklagte Partei] zeige ich die Vertretung der beklagten Partei an. Namens der beklagten Partei beantrage ich [Klageabweisung im konkret bezeichneten Umfang sowie gegebenenfalls weiterer Antrag]."
+        ]
+      },
+      {
+        "titel": "Unstreitiges und streitiger Kern",
+        "absaetze": [
+          "Die Parteien stimmen darin überein, dass [nach Aktenstand zugestandene Tatsachen zur Finanzierung und Zahlung]. Streitig ist [behauptete rechtliche oder wirtschaftliche Verbindung zum ursprünglichen Darlehensgeber]. Auf die Klagebehauptung in [Abschnitt oder Seite] erwidert die beklagte Partei [eigener Tatsachenvortrag und Umfang eines etwaigen Bestreitens]."
+        ]
+      },
+      {
+        "titel": "Erwerb und tatsächlicher Vollzug",
+        "absaetze": [
+          "Die Beteiligten verständigten sich am [Datum] über [Kaufgegenstand, Preis, Abtretung und Bedingungen]. Der Forderungsübergang wurde am [Datum] wirksam, weil [maßgebliche Vertragserklärung oder Bedingungseintritt]. Für Anzeige, Buchung und Verwaltung der Forderung ergibt sich aus [Beleg] der Ablauf [Darstellung]. Zum Beweis wird [Anlage mit konkreter Fundstelle oder Zeuge mit Beweisthema] benannt.",
+          "Der Kaufpreis wurde am [Datum] aus [Mittelherkunft] an [Empfänger] gezahlt. Nach [Regelung zu Rückgriff, Ausfallrisiko und Überschuss] lag das wirtschaftliche Risiko bei [Person]. Den tatsächlichen Verbleib des Tilgungsbetrags belegt [Kontobewegung oder sonstiger Beweis]. Zum behaupteten Weisungs- oder Treuhandverhältnis trägt die beklagte Partei vor [auf den konkreten Klagevortrag bezogene Tatsachen]."
+        ]
+      },
+      {
+        "titel": "Fälligkeit, Zahlung und Jahresgrenze",
+        "absaetze": [
+          "Aus [Kündigungserklärung, Zugang und Fristklausel] folgt für die Fälligkeit [Datum und Rechenweg]. Zu der Überweisung am [Datum], ihrer Zuordnung und der behaupteten vorzeitigen Zahlung trägt die beklagte Partei [Tatsachen, Belege und rechtliche Auswirkung] vor.",
+          "Der maßgebliche Eröffnungsantrag ging am [Datum] ein. Für die Frist des § 135 Abs. 1 Nr. 2 InsO fällt der Wechsel des Forderungsinhabers auf [Zeitpunkt und Einordnung], die Befriedigung auf [Zeitpunkt und Einordnung]. Die in BGH IX ZR 32/12 behandelte Abtretung innerhalb der Jahresfrist und anschließende Zahlung unterscheiden sich vom Streitfall bzw. entsprechen ihm in [konkrete Vergleichstatsachen und Rechtsfolge]."
+        ]
+      },
+      {
+        "titel": "Erwiderung auf die einzelnen Indizien",
+        "absaetze": [
+          "Dem von der Klage aus [Kaufpreisabschlag, persönlichem Kontakt oder Nachricht] abgeleiteten Schluss [behauptete Folgerung] steht aus Sicht der beklagten Partei [alternative Erklärung mit Beleg] gegenüber. Zur behaupteten fortbestehenden Beteiligung an Risiko, Kontrolle oder Erlös erwidert die beklagte Partei [konkrete Tatsachen nach Maßgabe der eigenen Wahrnehmung]."
+        ],
+        "spalten": [
+          "Klagebehauptung / Fundstelle",
+          "Tatsächliche Erwiderung",
+          "Beweismittel und Beweisthema"
+        ],
+        "zeilen": 3
+      },
+      {
+        "titel": "Anspruchshöhe, Nebenforderungen und Schluss",
+        "absaetze": [
+          "Zu der behaupteten Benachteiligung im Sinne des § 129 Abs. 1 InsO und dem nach § 143 InsO verlangten Betrag trägt die beklagte Partei [unstreitige Höhe, streitige Abzüge und Begründung] vor. Die Voraussetzungen einer hilfsweise geltend gemachten weiteren Norm [Vorschrift] sind hinsichtlich [Merkmal] nach [Tatsachen und Beweisangebot] zu würdigen.",
+          "Zum geltend gemachten Zinsbeginn und zum Zugang einer Zahlungsaufforderung wird vorgetragen [Datum, Nachweis, Einwendung und Umfang]. Die Anlagen [Bezeichnung, Datum und Kennzeichnung] sind beigefügt.",
+          "[Name und Zeichnung der Prozessvertretung]"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "slug": "replik-steuerraten",
+  "titel": "Replik zur Rückgewähr von Steuerraten und zusätzlich gestellten Sicherheiten",
+  "zweck": "Gerichtliche Erwiderung der Insolvenzverwaltung auf eine behördliche Klageerwiderung. Sie ordnet Rechtsträger, einzelne Raten, Zahlungserleichterungen und Vollstreckungstatsachen ein.",
+  "abschnitte": [
+    {
+      "titel": "Rubrum und Anträge",
+      "absaetze": [
+        "An das [Gericht], [Anschrift]. In dem Rechtsstreit [Insolvenzverwaltung in Amtsstellung, Verfahren] gegen [zutreffender Rechtsträger, vertretende Stelle, Anschrift], Az. [Aktenzeichen], nehmen wir zum Schriftsatz der Gegenseite vom [Datum] Stellung.",
+        "Die klagende Partei verfolgt [Anträge nach Nummer, gegebenenfalls geänderter Antrag im Wortlaut] weiter. Die Hauptforderung setzt sich aus [Raten und gegebenenfalls gesondert erlangtem Sicherungsvorteil] zusammen. Die Zuordnung des Rechtsträgers ergibt sich aus [Steuerart, Empfänger und Vertretungsgrundlage]."
+      ]
+    },
+    {
+      "titel": "Raten und Sicherheiten im Anfechtungszeitraum",
+      "absaetze": [
+        "Der maßgebliche Eröffnungsantrag ging am [Datum] ein. Für die einzelnen Befriedigungen und Sicherungen ist der Vierjahreszeitraum des § 133 Abs. 2 InsO von [Beginn] bis [Ende] anzulegen. Für eine Zahlung sind Veranlassung, endgültiger Vermögensabfluss und gegebenenfalls Rückbelastung mit [Beleg] dokumentiert. Für die zusätzlich bestellte Sicherheit sind Zeitpunkt ihrer rechtlichen Wirkung, gesicherte Forderung, Rang und realisierbarer Wert [Belege und Bewertung].",
+        "Aus den berücksichtigten Einzelpositionen ergibt sich [Summe]. Sicherheitenbestellung, späterer Verwertungserlös und Tilgung derselben Schuld überschneiden sich in [Betrag und rechnerische Abgrenzung]."
+      ],
+      "spalten": [
+        "Rate oder Sicherheit / Beleg",
+        "Rechtliche Wirkung / Zeitfenster",
+        "Kongruenz / Einzelbetrag",
+        "Beitrag zur Klagesumme"
+      ],
+      "zeilen": 4
+    },
+    {
+      "titel": "Handlung der Schuldnerin und Benachteiligungsvorsatz",
+      "absaetze": [
+        "Zur Verfügung über die Mittel trug die Schuldnerin bei durch [eigener Willensakt]. Der konkrete Stand der Vollstreckung war [Ankündigung, Maßnahme oder Einziehung und Zeitpunkt]. Daraus ergibt sich für die Zurechnung als Handlung der Schuldnerin und den hypothetischen Vermögensstand ohne sie [begründete Einordnung].",
+        "Die verantwortliche Person kannte bei [Einzelzahlung oder erkennbar gleichgelagerter Zeitraum] [fällige Gesamtverbindlichkeiten, liquide Mittel und gesicherte Zuflüsse]. Für ihre Erwartung, die übrigen Gläubiger später befriedigen zu können, sprechen [konkrete Sanierungsschritte] und dagegen [konkrete Hindernisse]. Ihre damalige Sicht belegt [Unterlage, Äußerung oder Zeuge]. Der Benachteiligungsvorsatz ist daraus wie folgt zu würdigen [Schluss und Anknüpfungstatsachen]."
+      ]
+    },
+    {
+      "titel": "Kenntnis des Rechtsträgers und Zahlungserleichterung",
+      "absaetze": [
+        "Die Gegenseite beruft sich auf die Vereinbarung vom [Tag] mit den Bedingungen [Raten, Fälligkeiten, Sicherheiten und etwaige Veränderungen]. Im Fall einer kongruenten Befriedigung ist für § 133 Abs. 1 Satz 2 in Verbindung mit Abs. 3 Satz 1 InsO die eingetretene Zahlungsunfähigkeit maßgeblich. Zu der Vermutung nach § 133 Abs. 3 Satz 2 InsO bei einer geschlossenen Zahlungsvereinbarung oder sonst gewährten Zahlungserleichterung tragen wir [eigenständige Tatsachen und Entkräftung oder Fortbestand der Vermutung] vor.",
+        "Den gegenüber der zuständigen Stelle bereits bekannten Tatsachen [Vollstreckungsbefund, Rückgabe, neue Rückstände, Sicherheitenforderung mit jeweiligem Datum] steht [damals bekannter Umstand zugunsten der Gegenposition] gegenüber. Der Kenntnisstand über Benachteiligung und Vorsatz für die jeweilige Rate folgt aus [Gesamtwürdigung]. Erst später bekannt gewordene interne Erkenntnisse der Schuldnerin sind [Abgrenzung]."
+      ]
+    },
+    {
+      "titel": "Betrag, Zinsen und Beweisangebot",
+      "absaetze": [
+        "Die Gegenrechnung der Gegenseite vom [Datum] weicht wegen [einzeln benannte Buchungen, Verwertung oder Rücklastschrift] um [Betrag] ab. Zur Hauptforderung und zum Beginn etwaiger Zinsen nach § 143 Abs. 1 InsO tragen wir [verbleibender Betrag, Anspruchsgrund und Datum von Verzug oder Rechtshängigkeit] vor.",
+        "Zum Beweis für [konkrete nach außen wahrnehmbare Tatsache] wird [Urkunde mit Fundstelle oder Zeuge mit Anschrift] angeboten. Für die objektive Liquiditätslage an [Stichtag] lautet das sachverständig klärbare Beweisthema [rechnerische Frage und Ausgangsdaten]. [Ort, Datum, Name und Unterschrift der Prozessvertretung]."
+      ]
+    }
+  ]
+}

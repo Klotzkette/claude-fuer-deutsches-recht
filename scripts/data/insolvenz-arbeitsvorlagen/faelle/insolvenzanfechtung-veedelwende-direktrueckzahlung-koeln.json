@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "zahlungsaufforderung-darlehen",
+    "titel": "Aufforderung zur Rückgewähr einer Darlehensrückzahlung",
+    "zweck": "Außergerichtliches Schreiben der Insolvenzverwaltung an die empfangende Person mit einem zur Übersendung bestimmten Zahlungsspiegel.",
+    "abschnitte": [
+      {
+        "titel": "Absender und Empfänger",
+        "absaetze": [
+          "[Name und Anschrift der Insolvenzverwaltung] · [Geschäftszeichen] · [Ort und Datum]",
+          "An [Name und ladungsfähige Anschrift des Zahlungsempfängers]",
+          "Insolvenzverfahren über das Vermögen der [Bezeichnung der Schuldnerin], [Insolvenzgericht und Aktenzeichen]"
+        ]
+      },
+      {
+        "titel": "Rückgewährverlangen",
+        "absaetze": [
+          "[Anrede],",
+          "als [Amtsbezeichnung] im oben genannten Verfahren fordere ich Sie auf, [Betrag und Währung] bis zum [Datum] auf das Massekonto [Kontoinhaber und IBAN], Verwendungszweck [Referenz], zu zahlen. Das Verlangen betrifft die Zahlung vom [Datum] auf [genau bezeichnete Darlehensforderung]. Den Anspruch nach §§ 129, 135 Abs. 1 Nr. 2, 143 Abs. 1 InsO stütze ich auf [Beteiligung, zeitliche Einordnung und konkrete Auswirkung auf die Masse].",
+          "Den Zahlungsweg können Sie dem beigefügten Zahlungsspiegel entnehmen. Nach Fristablauf werde ich [angekündigtes weiteres Vorgehen].",
+          "Mit freundlichen Grüßen",
+          "[Name und Amtsbezeichnung]"
+        ]
+      },
+      {
+        "titel": "Anlage zum Schreiben · Zahlungsspiegel",
+        "absaetze": [
+          "Darlehen aus [Vertrag oder sonstiger Beleg]. Maßgeblicher Antragseingang [Datum und Beleg]."
+        ],
+        "spalten": [
+          "Datum / Beleg",
+          "Vorgang und Zahlungszweck",
+          "Von / an",
+          "Betrag und Währung"
+        ],
+        "zeilen": 3
+      },
+      {
+        "titel": "Herleitung des verlangten Betrags",
+        "absaetze": [
+          "Von der dem Darlehen zugeordneten Rückzahlung von [Betrag] entfallen [Betrag und Grund] auf anderweitig zuzuordnende oder bereits ausgeglichene Posten. Der geltend gemachte offene Hauptbetrag beträgt [Betrag]."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "rueckgewaehrklage-darlehen",
+    "titel": "Klage auf Rückgewähr einer Zahlung auf ein Gesellschafterdarlehen",
+    "zweck": "Ausformulierbarer Klageschriftsatz der Insolvenzverwaltung nach einer unmittelbar an die darlehensgebende Person geflossenen Zahlung.",
+    "abschnitte": [
+      {
+        "titel": "Rubrum und Klageantrag",
+        "absaetze": [
+          "An das [zuständige Gericht und Anschrift]. [Geschäftszeichen der Prozessvertretung] · [Ort und Datum].",
+          "In dem Rechtsstreit [Name, Amtsbezeichnung und Anschrift der klagenden Partei] in der bezeichneten Amtsstellung für das Vermögen der [Schuldnerin] gegen [Name und ladungsfähige Anschrift der beklagten Partei] erhebe ich namens der klagenden Partei Klage.",
+          "Ich beantrage, die beklagte Partei zu verurteilen, an [Name der klagenden Partei in Amtsstellung] [Hauptbetrag und Währung] zu zahlen. [Gesonderter bezifferter Zinsantrag mit Zinsmaßstab, Bemessungsbetrag und Beginn, soweit erhoben.] Der vorläufige Streitwert beträgt [Betrag]."
+        ]
+      },
+      {
+        "titel": "Zuständigkeit und Amtsstellung",
+        "absaetze": [
+          "Die sachliche Zuständigkeit folgt aus [Streitwert, maßgebliche Vorschrift und gegebenenfalls Übergangsrecht], die örtliche aus [Tatsachen zum Gerichtsstand und Rechtsgrundlage]. Durch Beschluss vom [Datum] eröffnete [Insolvenzgericht] das Verfahren über das Vermögen der [Schuldnerin] und bestellte [Name] als [Amtsbezeichnung]. Dies belegt [Anlagenbezeichnung und Fundstelle]."
+        ]
+      },
+      {
+        "titel": "Beteiligung, Finanzierung und Zahlung",
+        "absaetze": [
+          "Die darlehensgebende Person war bei [maßgebliche Zeitpunkte] mit [Beteiligung] am Haftkapital beteiligt und übte [Stellung in der Geschäftsführung oder abweichende Funktion] aus. Zu Rechtsform und etwaigen Besonderheiten nach § 135 Abs. 4 in Verbindung mit § 39 Abs. 4 und 5 InsO ergibt sich [Tatsache und rechtliche Folge]. Dies belegt [Beleg, Datum und Fundstelle].",
+          "Der Vertrag vom [Datum] sah [Darlehensbetrag, Rückzahlungsabrede und Fälligkeit] vor. Die Valuta gelangte am [Datum] von [Ausgangskonto] auf [Empfängerkonto]. Maßgeblich für die Zuordnung der späteren Zahlung sind [Anforderung, Freigabe, Verwendungszweck und Kontenabgleich]. Dies belegen [Anlagen und konkrete Fundstellen]."
+        ]
+      },
+      {
+        "titel": "Zahlungsverlauf und Beweisantritt",
+        "spalten": [
+          "Tatsache und Zeitpunkt",
+          "Zahlungsweg / Betrag",
+          "Anlage / Fundstelle",
+          "Weiteres Beweismittel und Beweisthema"
+        ],
+        "zeilen": 3
+      },
+      {
+        "titel": "Anfechtbarkeit und Massewirkung",
+        "absaetze": [
+          "Der maßgebliche Eröffnungsantrag ging am [Datum] bei [Gericht] ein. Nach §§ 139 und 140 InsO liegt der Zeitpunkt der Befriedigung bei [Datum und rechtlicher Grund]. Im Verhältnis zur Jahresfrist des § 135 Abs. 1 Nr. 2 InsO bedeutet das [konkreter Fristvergleich]. Dies belegen [Antragseingang, Bankbeleg und Fundstellen].",
+          "Ohne die angegriffene Zahlung hätte für die gemeinschaftliche Befriedigung [konkreter Vermögenswert] zur Verfügung gestanden. Unter Einbeziehung von [Teilrückflüssen, Gegenleistungen oder sonstigen wertändernden Umständen] ergibt sich als Unterschied [Betrag und Herleitung]. Die klagende Partei leitet daraus nach § 129 Abs. 1 und § 143 Abs. 1 InsO [konkrete Rückgewährfolge] ab. Hierfür wird [konkreter Beweis mit Fundstelle oder Beweisthema] angeboten."
+        ]
+      },
+      {
+        "titel": "Einwendungen gegen Grund und Höhe",
+        "absaetze": [
+          "Die beklagte Partei ordnet die Zahlung [abweichend behaupteter Vergütung oder anderem Schuldgrund] zu und verweist auf [Vertrag, Entwurf oder Leistungsnachweis]. Hierzu trägt die klagende Partei [Abrede, tatsächliche Leistung, zeitlicher Zusammenhang und Folgerung für die Tilgungsbestimmung] vor. Zum Beweis wird [Urkunde oder Zeuge mit Beweisthema] benannt.",
+          "Zu den weiteren Einwendungen [Fälligkeit, Beschlusslage, Liquidität oder Kenntnis, soweit vorgebracht] trägt die klagende Partei [konkrete rechtliche und tatsächliche Erwiderung samt Bedeutung für den Tatbestand] vor."
+        ]
+      },
+      {
+        "titel": "Nebenforderungen, Anlagen und Zeichnung",
+        "absaetze": [
+          "Die Aufforderung vom [Datum] ging am [Datum] zu. Die Zahlungsfrist und die weitere Reaktion ergeben sich aus [Zugangsbeleg, Fristende, Einlassung und Zahlungseingang]. Der Zinsanspruch nach § 143 Abs. 1 InsO in Verbindung mit [Verzugsvorschriften oder § 291 BGB] ist ab [Datum] in Höhe von [Zinssatz auf Bezugsbetrag] begründet, weil [Tatsachen zum Zinsbeginn].",
+          "Beigefügt sind [nummerierte Anlagen mit Bezeichnung, Datum und Fundstelle].",
+          "[Name und Zeichnung der Prozessvertretung]"
+        ]
+      }
+    ]
+  }
+]
