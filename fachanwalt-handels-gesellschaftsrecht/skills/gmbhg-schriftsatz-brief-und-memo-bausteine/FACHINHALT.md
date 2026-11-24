@@ -38,7 +38,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **GmbHG-Anker setzen:** § 5 GmbHG Mindeststammkapital 25.000 EUR; § 7 Abs. 2 GmbHG mindestens ein Viertel je Einlage und insgesamt mindestens 12.500 EUR vor Anmeldung erbracht; § 8 GmbHG Anmeldungsinhalt; § 15 Abs. 3 GmbHG notarielle Beurkundung jeder Anteilsübertragung; § 53 GmbHG Satzungsänderung notariell mit 3/4-Mehrheit.
+2. **GmbHG-Anker setzen:** § 5 GmbHG Mindeststammkapital 25.000 EUR; § 7 Abs. 2 und 3 GmbHG mindestens ein Viertel je Baranteil, gezahltes Geld plus Nennbeträge der Sachanteile zusammen mindestens 12.500 EUR, Sacheinlagen vor Anmeldung vollständig bewirkt; § 8 GmbHG Anmeldungsinhalt; § 15 Abs. 3 GmbHG notarielle Beurkundung jeder Anteilsübertragung; § 53 GmbHG Satzungsänderung notariell mit 3/4-Mehrheit.
 3. **Bausteinwahl:** Schriftsatz an Registergericht (Anmeldungstext mit § 8 GmbHG-Inhalten), Aufforderungsbrief Gesellschafter (§ 26 GmbHG Nachschuss/§ 27 GmbHG Kaduzierung), Memo Geschäftsführerhaftung (§ 43 GmbHG Verschuldensmaßstab, § 43a GmbHG Kreditverbot), Beschlussvorschlag Gesellschafterversammlung (§ 47 GmbHG Stimmrecht je 1 EUR Geschäftsanteil eine Stimme).
 4. **Form- und Fristenkontrolle:** Notarielle Beurkundung bei Gründung (§ 2 GmbHG), Anteilsübertragung (§ 15 Abs. 3 GmbHG), Kapitalmaßnahmen (§§ 55 ff. GmbHG); MoPeG-Reform betrifft GbR/PartG, nicht GmbH unmittelbar. Anfechtungsfrist Gesellschafterbeschluss analog § 246 AktG: einen Monat, BGH ständige Rechtsprechung.
 5. **Anschluss:** Konkreten Textbaustein mit Platzhaltern liefern; spezial-Skills.

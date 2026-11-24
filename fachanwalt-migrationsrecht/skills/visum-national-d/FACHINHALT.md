@@ -14,7 +14,9 @@ description: "Für Nationales Visum D: Fachmodul im Migrationsrecht: ordnet Norm
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Nationales Visum D: Fachmodul im Migrationsrecht; prüft Botschaft, Unterlagen, Zweck, Finanzierung, Remonstrations-/Klageweg; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Für das nationale Visum bestimmen Sie den Aufenthaltszweck nach § 6 Abs. 3 AufenthG und der Vorschrift für den angestrebten Aufenthaltstitel. Ordnen Sie jeder streitigen Voraussetzung die eingereichten und die noch fehlenden Nachweise zu. [§ 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__6.html)
+
+Bei einer Ablehnung ab dem 1. Juli 2025 entfällt die Remonstration. Zur gerichtlichen Durchsetzung kommt eine Verpflichtungsklage, regelmäßig beim Verwaltungsgericht Berlin, in Betracht. Sichern Sie die Klagefrist anhand von Bekanntgabe und Rechtsbehelfsbelehrung. Alternativ kann ein neuer vollständiger und in der Regel erneut gebührenpflichtiger Visumantrag sinnvoll sein, etwa nach Vorlage eines bisher fehlenden Nachweises. Der Neuantrag wahrt die Klagefrist nicht. Bei früheren Bescheiden prüfen Sie die damalige Belehrung und den Stand eines etwaigen Remonstrationsverfahrens. [Auswärtiges Amt zur Abschaffung des Remonstrationsverfahrens](https://www.auswaertiges-amt.de/de/newsroom/2724844-2724844) · [Auswärtiges Amt zum Übergang bei älteren Bescheiden](https://rabat.diplo.de/ma-de/service/visa/2798822-2798822) · [§ 74 VwGO](https://www.gesetze-im-internet.de/vwgo/__74.html)
 
 ### Nationales Visum D
 

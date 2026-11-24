@@ -9,7 +9,7 @@ description: "Für Rechtsformwahl: ordnet Norm, Beweislast und Gegenargument; Er
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -48,7 +48,7 @@ Vor der Rechtsformempfehlung sind folgende Angaben erforderlich:
 > Paragraf 5 Abs. 1 GmbHG: Das Stammkapital der Gesellschaft muss mindestens 25.000 Euro betragen.
 > Paragraf 5 Abs. 2 GmbHG: Jeder Gesellschafter hat auf das Stammkapital eine Stammeinlage zu leisten.
 
-Bei Bargründung mit Musterprotokoll (Paragraf 2 Abs. 1a GmbHG): vereinfachte Gründung mit maximal 3 Gesellschaftern und einem Geschäftsführer. Einzahlung: mind. die Hälfte des Stammkapitals vor Handelsregisteranmeldung (Paragraf 7 Abs. 2 GmbHG).
+Bei Bargründung mit Musterprotokoll (Paragraf 2 Abs. 1a GmbHG): vereinfachte Gründung mit maximal 3 Gesellschaftern und einem Geschäftsführer. Vor der Handelsregisteranmeldung je Baranteil mindestens ein Viertel des Nennbetrags und insgesamt mindestens 12.500 EUR einzahlen (Paragraf 7 Abs. 2 GmbHG).
 
 **UG (haftungsbeschränkt) — Thesaurierungspflicht:**
 > Paragraf 5a Abs. 3 GmbHG: In der Bilanz des nach dem Inkrafttreten dieser Vorschrift beginnenden Geschäftsjahres ist in der Bilanz eine gesetzliche Rücklage zu bilden, in die ein Viertel des um einen Verlustvortrag aus dem Vorjahr geminderten Jahresüberschusses einzustellen ist.
@@ -173,7 +173,7 @@ Wenn ein Gründer seine Anteile über eine Holding-GmbH hält, werden Veräußer
 | Merkmal | Inhalt |
 |---|---|
 | Haftung | Beschränkt auf Gesellschaftsvermögen (Paragraf 13 Abs. 2 GmbHG) |
-| Mindestkapital | 25.000 EUR (Paragraf 5 Abs. 1 GmbHG); bei Bargründung: mind. 12.500 EUR einzuzahlen (Paragraf 7 Abs. 2 GmbHG) |
+| Mindestkapital | 25.000 EUR (Paragraf 5 Abs. 1 GmbHG); bei Bargründung: je Geschäftsanteil mindestens ein Viertel, insgesamt mindestens 12.500 EUR einzuzahlen (Paragraf 7 Abs. 2 GmbHG) |
 | Notarpflicht | Ja (Paragraf 2 Abs. 1 GmbHG); Musterprotokoll für einfache Fälle (Paragraf 2 Abs. 1a GmbHG) |
 | Buchführung | Doppelte Buchführung; Jahresabschluss; Offenlegung (Paragraf 325 HGB) |
 | Steuer | KSt 15 % (Paragraf 23 Abs. 1 KStG) + Gewerbesteuer (Hebesatz: meist 14–17 %); Gesamtbelastung 29–32 % |

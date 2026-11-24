@@ -22,7 +22,7 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -61,7 +61,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 | KG (Paragraf 161 ff. HGB) | kein, Haftsumme frei wählbar | gering | Komplementär unbeschränkt; Kommanditist auf Haftsumme Paragraf 171 HGB | notarielle HR-Anmeldung | Investoren-Beteiligung |
 | GmbH & Co. KG | GmbH 25.000 EUR | mittel | Komplementär-GmbH | notariell | Mittelstand, Steueroptimierung |
 | UG (haftungsbeschränkt) Paragraf 5a GmbHG | 1 EUR Stammkapital, Aufstockungspflicht Paragraf 5a Abs. 3 GmbHG (25 % Gewinn) | gering, Musterprotokoll Paragraf 2 Abs. 1a GmbHG | begrenzt | notariell, vereinfachte Online-Gründung möglich (DiRUG) | Bootstrap-Startup |
-| GmbH | 25.000 EUR, hälftige Einzahlung Paragraf 7 GmbHG (12.500 EUR) | mittel | begrenzt Paragraf 13 Abs. 2 GmbHG | notariell, Online-Gründung Paragraf 2 Abs. 3 GmbHG (DiRUG seit 01.08.2022) | Mittelstand-Standard |
+| GmbH | Mindestens 25.000 EUR Stammkapital. Je Baranteil mindestens 25 %, eingezahltes Geld und Nennbeträge der Sachanteile zusammen mindestens 12.500 EUR (Paragraf 7 GmbHG) | mittel | begrenzt Paragraf 13 Abs. 2 GmbHG | notariell, Online-Gründung Paragraf 2 Abs. 3 GmbHG (DiRUG seit 01.08.2022) | Mittelstand-Standard |
 | AG | 50.000 EUR Paragraf 7 AktG | hoch | begrenzt | notariell | kapitalmarktreife Strukturen |
 | PartG mbB | kein | mittel | nur Berufsausübungs-Haftpflicht (Paragraf 8 Abs. 4 PartGG) | nicht zwingend, Partnerschaftsregister | Freiberufler, Sozietäten |
 | gGmbH | 25.000 EUR | mittel | begrenzt | notariell + Finanzamt Gemeinnützigkeit Paragraf 52 AO | gemeinnützige Zwecke |

@@ -1,6 +1,6 @@
 ---
 name: remonstration-visum
-description: "Für Remonstration/Visumklage: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Für abgelehnte Visumanträge: Klagefrist und Zuständigkeit klären, Klage oder Neuantrag vorbereiten und frühere Remonstrationsverfahren einordnen."
 ---
 
 # Remonstration/Visumklage: Fachmodul im Migrationsrecht
@@ -14,7 +14,11 @@ description: "Für Remonstration/Visumklage: Fachmodul im Migrationsrecht: ordne
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Remonstration/Visumklage: Fachmodul im Migrationsrecht; prüft Begründung, Frist, Akteneinsicht, Botschaft, VG Berlin; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Liegt ein ablehnender Bescheid einer deutschen Auslandsvertretung vor, erfassen Sie Visumart, Bescheiddatum, Datum der Bekanntgabe, Rechtsbehelfsbelehrung und die einzelnen Ablehnungsgründe.
+
+- **Bescheid ab dem 1. Juli 2025:** Das Auswärtige Amt hat die Remonstration weltweit für nationale Visa und Schengen-Visa abgeschafft. Für gerichtlichen Rechtsschutz kommt eine Klage auf Visumerteilung, regelmäßig beim Verwaltungsgericht Berlin, in Betracht. Bei ordnungsgemäßer Belehrung beträgt die Frist regelmäßig einen Monat ab Bekanntgabe. Entnehmen Sie dem Bescheid Gericht und Belehrung, prüfen Sie den Zugangsnachweis und vermerken Sie den letzten Tag für den Eingang bei Gericht. Bei fehlender oder unrichtiger Belehrung prüfen Sie § 58 Abs. 2 VwGO. [Auswärtiges Amt zur Abschaffung des Remonstrationsverfahrens](https://www.auswaertiges-amt.de/de/newsroom/2724844-2724844) · [§ 74 VwGO](https://www.gesetze-im-internet.de/vwgo/__74.html) · [§ 58 VwGO](https://www.gesetze-im-internet.de/vwgo/__58.html)
+- **Neuantrag:** Ist der Ablehnungsgrund behebbar, kann jederzeit erneut ein vollständiger Antrag bei der zuständigen Visastelle gestellt werden, in der Regel gegen eine neue Gebühr. Benennen Sie für jeden Grund den geänderten Umstand oder den neuen Nachweis. Die Klagefrist für den ersten Bescheid läuft unabhängig vom Neuantrag oder einer Nachricht an die Visastelle weiter.
+- **Bescheid vor dem 1. Juli 2025:** Prüfen Sie die damalige Rechtsbehelfsbelehrung, die Praxis der konkreten Auslandsvertretung und gegebenenfalls den nachweisbaren Eingang einer Remonstration. Bereits eingegangene Altfälle werden nach den Übergangshinweisen bearbeitet. Liegt ein Remonstrationsbescheid vor, prüfen Sie dessen Bekanntgabe und Belehrung gesondert. Aus dem früheren Bescheiddatum allein folgt heute keine offene Frist. [Auswärtiges Amt zum Übergang bei älteren Bescheiden](https://rabat.diplo.de/ma-de/service/visa/2798822-2798822)
 
 ### Remonstration/Visumklage
 

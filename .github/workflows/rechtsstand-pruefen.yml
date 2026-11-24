@@ -12,6 +12,8 @@ on:
       - 'scripts/test-main-skill-revisions.py'
       - 'scripts/main_skill_revisions.py'
       - 'quality/fachkorrekturen-2026-11-23/**'
+      - 'quality/fachkorrekturen-2026-11-24/**'
+      - 'scripts/test-fachkorrektur-gesellschaft-migration.py'
       - 'scripts/generator_cli.py'
       - 'scripts/test-generator-cli.py'
       - 'scripts/skill_limits.py'
@@ -37,6 +39,8 @@ on:
       - 'scripts/test-main-skill-revisions.py'
       - 'scripts/main_skill_revisions.py'
       - 'quality/fachkorrekturen-2026-11-23/**'
+      - 'quality/fachkorrekturen-2026-11-24/**'
+      - 'scripts/test-fachkorrektur-gesellschaft-migration.py'
       - 'scripts/generator_cli.py'
       - 'scripts/test-generator-cli.py'
       - 'scripts/skill_limits.py'
@@ -70,6 +74,7 @@ jobs:
         run: |
           python3 scripts/test-reviewed-law-corrections.py
           python3 scripts/test-fachkorrektur-aufbewahrung.py
+          python3 scripts/test-fachkorrektur-gesellschaft-migration.py
           python3 scripts/test-current-law-fachinhalte.py
           python3 scripts/test-main-skill-revisions.py
       - name: Generator-Hilfe ohne Dateiveränderung prüfen

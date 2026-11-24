@@ -360,17 +360,23 @@ def previous_bytes(root, path, *, plugin=None):
 
 
 FACHKORREKTUREN = "quality/fachkorrekturen-2026-11-23"
+FACHRUNDE_NOVEMBER = "quality/fachkorrekturen-2026-11-24"
+FACHKORREKTUR_PFADE = dict.fromkeys(("gesellschaft-und-gruendung", "migrationsrecht"), FACHRUNDE_NOVEMBER)
 FACHKORREKTUR_REGISTER = {
     "sozialrecht-erstattung": {"fachanwalt-sozialrecht", "krankenkassenrecht-krankenversicherung",
                                "selbstvertreter-sozialgericht"},
     "aufbewahrung-und-gruender": {"datenschutzrecht", "gesellschaftsgruender", "influencer-recht",
                                   "kanzlei-allgemein", "mittelstand-corporate-ma", "nda-abgleich",
                                   "weg-hausverwaltung"},
+    "gesellschaft-und-gruendung": {"gesellschaftsgruender", "gesellschaftsrecht", "fachanwalt-handels-gesellschaftsrecht"},
+    "migrationsrecht": {"fachanwalt-migrationsrecht"},
 }
 # Die Einzelregister binden Pfad und beide Hashes an genau diese Prüfung.
 FACHKORREKTUR_HASHES = {
     "sozialrecht-erstattung": "b87b3e34cfd940cd967a88f2edd3df9569f85f8d09f89c68b6a52e657f6fb7f8",
     "aufbewahrung-und-gruender": "01478a5d5aecac24b999de7ab80a14baac5371910d1c26c8320c54510e4ba973",
+    "gesellschaft-und-gruendung": "4598cced624c0b539a3bedc5a38c1fa7222666f2b35e7cb30eb894b33d6b6146",
+    "migrationsrecht": "61cecdf004720d51106a5b10483a4fc6690cd7cbb9283237438ea75bbc59f21f",
 }
 
 
@@ -415,8 +421,15 @@ def before_patentanmelder(root, path, current, *, plugin=None):
     return previous
 
 
+def fachkorrektur_owner(relative):
+    if relative.parts[:2] == ("testakten", "megaprompts"):
+        return relative.stem
+    return relative.parts[0] if relative.parts else None
+
+
 def fachkorrektur_register(root, topic, *, required=False):
-    registry = root / FACHKORREKTUREN / (topic + ".json")
+    base = FACHKORREKTUR_PFADE.get(topic, FACHKORREKTUREN)
+    registry = root / base / (topic + ".json")
     if not registry.is_file():
         if required:
             raise ValueError(f"{topic}: Register der Fachkorrekturen fehlt")
@@ -426,31 +439,59 @@ def fachkorrektur_register(root, topic, *, required=False):
         raise ValueError(f"{topic}: Register der Fachkorrekturen verändert")
     rows = json.loads(raw, object_pairs_hook=unique_object)
     for name in rows:
-        parts = Path(name).parts
-        if not (parts and parts[0] in FACHKORREKTUR_REGISTER[topic] and
-                (len(parts) == 4 and parts[1] == "skills" and parts[3] == "FACHINHALT.md" or
-                 len(parts) == 2 and parts[1] == parts[0] + "-werkstatt.md")):
-            raise ValueError(f"{name}: unzulässiger Pfad im Fachkorrekturregister")
+        relative = Path(name)
+        parts = relative.parts
+        owner = fachkorrektur_owner(relative)
+        if owner not in FACHKORREKTUR_REGISTER[topic]:
+            raise ValueError(f"{name}: Plugin gehört nicht zur Fachkorrektur")
+        if len(parts) == 4 and parts[1] == "skills" and parts[3] == "FACHINHALT.md":
+            continue
+        if len(parts) == 2 and parts[1] == owner + "-werkstatt.md":
+            continue
+        if base == FACHRUNDE_NOVEMBER and (
+            len(parts) == 3 and parts[:2] == ("testakten", "megaprompts") and parts[2] == owner + ".md"
+            or len(parts) == 5 and parts[1] == "skills" and parts[3] == "references" and relative.suffix == ".md"
+            or len(parts) == 2 and parts[1] == owner + "-schnellstart.md"
+        ):
+            continue
+        raise ValueError(f"{name}: unzulässiger Pfad im Fachkorrekturregister")
     return rows
+
+
+def fachkorrektur_vorfassung(root, topic, relative, row, current, plugin):
+    base = FACHKORREKTUR_PFADE.get(topic, FACHKORREKTUREN)
+    owner = fachkorrektur_owner(relative)
+    if plugin is not None and plugin != owner:
+        raise ValueError("Falsches Plugin der belegten Fachkorrektur")
+    if "ersetzung" not in row:
+        return archived_fachtext(root, base, relative, row, current, None)
+    previous, revised = (text.encode("utf-8") for text in row["ersetzung"])
+    if not previous or not revised or current.count(revised) != 1:
+        raise ValueError(f"{relative}: erwartete einmalige Fachkorrektur fehlt")
+    old = current.replace(revised, previous, 1)
+    if old == current or digest(current) != row["nachher"] or digest(old) != row["vorher"]:
+        raise ValueError(f"{relative}: Fachkorrektur oder rekonstruierte Vorfassung verändert")
+    return old
 
 
 def before_fachkorrektur(root, path, current, *, plugin=None):
     relative = path.relative_to(root)
+    owner = fachkorrektur_owner(relative)
     for topic, plugins in FACHKORREKTUR_REGISTER.items():
-        if relative.parts[0] in plugins:
+        if owner in plugins:
             row = fachkorrektur_register(root, topic).get(relative.as_posix())
             if row is not None:
-                return archived_fachtext(root, FACHKORREKTUREN, relative, row, current, plugin)
+                return fachkorrektur_vorfassung(root, topic, relative, row, current, plugin)
     return current
 
 
 def validate_fachkorrekturen(root):
-    if not (root / FACHKORREKTUREN).exists():
-        return  # Historischer Stand oder Testbestand ohne diese Korrekturrunde.
     for topic in FACHKORREKTUR_REGISTER:
+        if not (root / FACHKORREKTUR_PFADE.get(topic, FACHKORREKTUREN)).exists():
+            continue  # Historischer Stand oder Testbestand ohne diese Korrekturrunde.
         for name, row in fachkorrektur_register(root, topic, required=True).items():
             path = inside(root, name)
-            archived_fachtext(root, FACHKORREKTUREN, Path(name), row, path.read_bytes(), None)
+            fachkorrektur_vorfassung(root, topic, Path(name), row, path.read_bytes(), None)
 
 
 def before_fachaufnahme(root, path, current, *, plugin=None):

@@ -1,0 +1,94 @@
+{
+  "fachanwalt-migrationsrecht/skills/abschiebungsabwehr/FACHINHALT.md": {
+    "vorher": "953d6654d796c4002a2200c9c9273d52631c4be4a65467b23cc1d1113ce14fe5",
+    "nachher": "4a89c72bfcbd39d23783770ac29417f0c9076b109ece46289a5e65c7073f4578"
+  },
+  "fachanwalt-migrationsrecht/skills/asyl-anhoerung-vorbereiten/FACHINHALT.md": {
+    "vorher": "0a2f210aebd191eb3a225e224021d034380ca975866d0038c096ef61f5a137a7",
+    "nachher": "bd2a8bb08ad2e778635f97bbe7365fd97bf0a24efbbd818b694a5fb5abadd5b6"
+  },
+  "fachanwalt-migrationsrecht/skills/asyl-folgeantrag-71/FACHINHALT.md": {
+    "vorher": "e468c44b8e48d6e1a7aa9a2315e173dd13ebc2ed0509df0c4c8a9d8a58bb5884",
+    "nachher": "98757b8f2c4b57df13ca7f3ed508b3228c5313ea13a31e85777ca7147dcbb059"
+  },
+  "fachanwalt-migrationsrecht/skills/aufenthaltstitel-antrag/FACHINHALT.md": {
+    "vorher": "64fd413bdb216805638366e9c64a2806303a9b592ee1c5c32ffd05b78614978d",
+    "nachher": "a5e93a35ff064ff11fd475860e4ec263a63cd2cbf4e43d5d424dabe75fa55427"
+  },
+  "fachanwalt-migrationsrecht/skills/aufenthaltstitel-pruefung/FACHINHALT.md": {
+    "vorher": "9fbb30f5ef0650a0061cb2c0c1c3ad575dff747555b7096f64f6c76254f02a13",
+    "nachher": "d1c82dd75c17124099220a9c1427f090876c6d2e480bd3ae3d00823d2e31ffba"
+  },
+  "fachanwalt-migrationsrecht/skills/bamf-anhoerung-strategie/FACHINHALT.md": {
+    "vorher": "19f02717a5a1c8318f08130e7b27110d15cd010629261d915aff4f942cfac9bc",
+    "nachher": "b7c52d2bed005e1d537d603f37fca5ff0fb81a7c8909f9a7636c0921fdc07327"
+  },
+  "fachanwalt-migrationsrecht/skills/einbuergerung-quellenkarte/FACHINHALT.md": {
+    "vorher": "3c1cf3e6d4fa7d16b367fcce3cdb8319baeded7b3297802de5d6d20fa5dad9bb",
+    "nachher": "b0d642ff6cb7c8fbfa7a3bfb526947cdf7499ccfbae37be4edb5bdb2dd834efd"
+  },
+  "fachanwalt-migrationsrecht/skills/erstgespraech-mandatsannahme/FACHINHALT.md": {
+    "vorher": "8fcd35788f1001cb8a0a0f82f71277c1fb951fc8b0bcd9ef9eaf45f4e8e1cb64",
+    "nachher": "9a9f99d2796efcad8b1f50e8898504b194fcc96be3a9b84100d7a7a8c10bb922"
+  },
+  "fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-abschiebungsabwehr/FACHINHALT.md": {
+    "vorher": "c202705730ad66712b6167a0282094e13ada588a874eaba63cf03e404d02b166",
+    "nachher": "d75225175e7dbf61472f84da1d68c1e9af5209a852bebba2f0a8afbccae83c64"
+  },
+  "fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-asyl-folgeantrag-71/FACHINHALT.md": {
+    "vorher": "aa4b355b6fc26bae3b647ef5bc7c075dce3b8e9a8510019905f6c3476506049b",
+    "nachher": "e1fde156e2a6bf20835f6d785f06aff566ad646993fffbfe27b0501ec2759a39"
+  },
+  "fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-aufenthaltstitel-antrag/FACHINHALT.md": {
+    "vorher": "0711691d690c323968590e4aa877508b29ce78d26297bfffd3bd2e9b4e455ab2",
+    "nachher": "f2681bb309478615722c4b3c20e779c7ab55bf674b7669b67ea50ea630a3fb6a"
+  },
+  "fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-bamf-anhoerung-strategie/FACHINHALT.md": {
+    "vorher": "b14f98828b0382f94494c0a81455a3e2eb795b04869c4d6964d9e8cc867c50ad",
+    "nachher": "555535a992312089669c6d8b9bf4979a9e455424bc2f542c7af05b69ffbf97c1"
+  },
+  "fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-orientierung/FACHINHALT.md": {
+    "vorher": "97733e9630220c6326ee6db73ada42d974b88554f0274d393d42f631c3e53204",
+    "nachher": "700b8b473c246f69d8dd22dc9385f060231be33f3a1e2df3e4d508c712a1c4fc"
+  },
+  "fachanwalt-migrationsrecht/skills/geas-fehlerkatalog/FACHINHALT.md": {
+    "vorher": "490f1711005ebd43aa3539a95c4e104c44fc83768675cd8138fc4254a41f5438",
+    "nachher": "5e98fe9b2ccd8c6b5b82a5f3372354a69ebf04630372804e4cbc4bc444864022"
+  },
+  "fachanwalt-migrationsrecht/skills/mandat-triage-migrationsrecht/FACHINHALT.md": {
+    "vorher": "2e6ca9f3905050996c8a9584d1a22f9a769f3f3ba4eac9d14f4c1a0b87ee92f4",
+    "nachher": "baec4319a5d0dcb5cbb8b43828dd3296a1c7c5836fa7963f44e6f2aafe5c2474"
+  },
+  "fachanwalt-migrationsrecht/skills/orientierung-fachanwaltschaft-mandat/FACHINHALT.md": {
+    "vorher": "dde0d3e7f799aaa711cd85ae8f7195fbd53e2d01dd92537cde0be8aa073723aa",
+    "nachher": "d08983e015b2aea5470bfdc0e9952f8b3d741c8a9d82ebc420d15728b40fb240"
+  },
+  "fachanwalt-migrationsrecht/skills/remonstration-visum/FACHINHALT.md": {
+    "vorher": "3da6cf2628a789064fbfbdebab1717688cbfdd852fb115b1f602a290ff074baa",
+    "nachher": "7946dc5c9db5a7b7e4822c78f8805ec30b0f76a5242a3318825dab7f6ae943e7"
+  },
+  "fachanwalt-migrationsrecht/skills/remonstration-visum/references/vertiefung-spezial-remonstration-visum.md": {
+    "vorher": "4e86408856a42991936872846187c4d30ea137fd6dca0ec500c756a82695ec81",
+    "nachher": "dad69ddc00c8aee1af36435a76328c8f9a76bb716ed2831cbfda898a817ad4a0"
+  },
+  "fachanwalt-migrationsrecht/skills/schriftsatzkern-substantiierung/FACHINHALT.md": {
+    "vorher": "cacff6187a11177e6429ef4f6f379bf8812c13d5341d8fb9ec2e115ec74c3cf6",
+    "nachher": "a2a9bb5931d800ab31bcdc6b07de7e3069dc772c5569917de6eb10a8c68f9253"
+  },
+  "fachanwalt-migrationsrecht/skills/visum-national-d/FACHINHALT.md": {
+    "vorher": "ba767cbd74f5c4ea0df9023df998ae1e7603127a8ee84a5306e1a033392bd4e2",
+    "nachher": "28512a43b0c0f99b816276efde5d64eb4ab8ab2dcc2a88dd58a576817240f30a"
+  },
+  "fachanwalt-migrationsrecht/skills/visum-national-d/references/vertiefung-spezial-visum-national-d.md": {
+    "vorher": "6f1a4b5e83257583b4e8ce7148d5d61fc26ab552c266be252b40ab3a0295ae7d",
+    "nachher": "30bad8d70e14673b6dbd6f17d020211e86857c4936b63cf332705914a53ee317"
+  },
+  "fachanwalt-migrationsrecht/skills/workflow-botschaft-visumtermin/FACHINHALT.md": {
+    "vorher": "ab07eb98b8808f6bfda63d646590ccce541ad4a2151251963a932f82a4c72de9",
+    "nachher": "0f76f911549631c22041f842d09a934181b62d4cf6162c08634e97c5acf0636a"
+  },
+  "testakten/megaprompts/fachanwalt-migrationsrecht.md": {
+    "vorher": "fae1ef0d7139b76d1c42039f4d375a011fee725ca7a403a85a215308e1cbc1b4",
+    "nachher": "3f25e2a57169e2a204d2a232b7a4c9760abf9efaf0cfb18ee4533ea01de1926b"
+  }
+}

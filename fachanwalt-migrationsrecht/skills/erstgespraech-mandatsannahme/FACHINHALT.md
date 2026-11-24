@@ -53,7 +53,7 @@ Standard-Fragenraster für Ausländer-, Asyl- und Staatsangehoerigkeitsrecht:
 
 Standard-Streitwerte im Bereich Ausländer-, Asyl- und Staatsangehoerigkeitsrecht:
 
-- Skizze: Streitwert grob abschaetzen (z.B. Hauptforderung, ggf. + Zinsen, Nebenforderungen).
+- In einer Streitigkeit nach dem Asylgesetz die Gerichtskostenfreiheit und den Gegenstandswert für die Anwaltsvergütung getrennt erläutern. Verfahrensart und Anzahl der beteiligten natürlichen Personen erfassen. Für eine ausländerrechtliche Streitigkeit außerhalb des Asylgesetzes die dafür geltende Wertvorschrift gesondert bestimmen.
 - RVG-Pauschalrechnung (Berechnungstool im Plugin) oder Stundenhonorarvereinbarung.
 - Beratungshilfe-/Prozesskostenhilfe-Antrag prüfen, wenn wirtschaftlich angezeigt.
 - Vorschussanforderung nach § 9 RVG.
@@ -170,7 +170,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 - **§ 43a Abs. 4 BRAO / § 3 BORA** — Interessenkonflikt; Doppelvertretung verboten
 - **§ 3a RVG** — Honorarvereinbarung; Schriftform; Trennungsgebot RVG-Gebühren / Stundensatz
 - **§§ 166 VwGO, 114 ZPO** — Prozesskostenhilfe im Verwaltungsverfahren
-- **§ 52 GKG** — Streitwert; Abs. 2 Regelstreitwert 5.000 EUR für Asylklage
+- **Gerichtskosten und Anwaltsvergütung in Asylsachen.** In Streitigkeiten nach dem Asylgesetz fallen keine Gerichtskosten an. Für anwaltliche Gebühren beträgt der Gegenstandswert im Klageverfahren grundsätzlich 5.000 Euro, im Fall des § 77 Abs. 4 Satz 1 AsylG 10.000 Euro und im vorläufigen Rechtsschutz 2.500 Euro. Bei mehreren natürlichen Personen in demselben Verfahren kommen je weiterer Person 1.000 bzw. 500 Euro hinzu. Im Einzelfall kann das Gericht den Wert nach Absatz 2 anpassen. [§ 83b AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__83b.html) · [§ 30 RVG](https://www.gesetze-im-internet.de/rvg/__30.html)
 - **§ 25 Abs. 6 AsylG** — Recht auf anwaltlichen Beistand bei BAMF-Anhörung
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -9,7 +9,7 @@ description: "Für GmbH-Vorbereitung: ordnet Norm, Beweislast und Gegenargument;
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, InsO Paragraf 15b (Zahlungen ab 1. Januar 2021, für frühere Zahlungen Paragraf 64 GmbHG a.F. nach Art. 103m EGInsO), BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -23,7 +23,7 @@ description: "Für GmbH-Vorbereitung: ordnet Norm, Beweislast und Gegenargument;
 ## Triage — kläre vor der Notarsitzung
 
 1. Wie viele Gesellschafter — Solo, Paar oder Team? Bei bis zu 3 Gesellschaftern und einem GF: Musterprotokoll möglich.
-2. Stammkapital: Bargründung oder Sachgründung? Sacheinlage erfordert Sachgründungsbericht (Paragraf 5 Abs. 4 GmbHG) und löst Differenzhaftung (Paragraf 9 GmbHG) aus.
+2. Sind Bar-, Sach- oder gemischte Einlagen vereinbart? Für Sacheinlagen Festsetzungen, Sachgründungsbericht und Werthaltigkeit prüfen (Paragraf 5 Abs. 4 und Paragraf 8 Abs. 1 GmbHG). Eine Unterdeckung kann Differenzhaftung auslösen (Paragraf 9 GmbHG).
 3. Ist eine Holding-Struktur sinnvoll (Gesellschafter hält über UG/GmbH Holding statt direkt)?
 4. Ist Investoren-Aufnahme in den nächsten 12-24 Monaten geplant — dann individuelle Satzung, nicht Musterprotokoll.
 5. Liegt ein genehmigungspflichtiger Unternehmensgegenstand vor (Bank, Versicherung, Spielhalle, Apotheke)?
@@ -33,7 +33,8 @@ description: "Für GmbH-Vorbereitung: ordnet Norm, Beweislast und Gegenargument;
 
 - **Paragraf 5 GmbHG** — Stammkapital mindestens 25.000 EUR; Mindestbetrag je Anteil 1 EUR; Sachgründung erfordert Sachgründungsbericht.
 - **Paragraf 5a GmbHG** — UG-Sondervariante (Mindestkapital 1 EUR; Thesaurierungspflicht 25 %).
-- **Paragraf 7 GmbHG** — Anmeldevoraussetzungen: Einzahlung mindestens 12.500 EUR (Bargründung) bzw. volle Sacheinlage.
+- **Paragraf 7 Abs. 2 und 3 GmbHG** — Vor der Anmeldung ist auf jeden bar zu leistenden Geschäftsanteil mindestens ein Viertel seines Nennbetrags einzuzahlen. Eingezahlte Geldbeträge und Nennbeträge der Geschäftsanteile mit vereinbarter Sacheinlage müssen zusammen mindestens 12.500 EUR erreichen. Alle Sacheinlagen müssen vor der Anmeldung so bewirkt sein, dass sie den Geschäftsführern endgültig zur freien Verfügung stehen.
+- **Rechenbeispiel für die Mischgründung:** Bei 15.000 EUR Baranteil und 10.000 EUR Sachanteil sind mindestens 3.750 EUR bar zu zahlen. Mit der vollständig bewirkten Sacheinlage ergibt die Summenprüfung 13.750 EUR. Bei der UG ist das gesamte Stammkapital vor der Anmeldung in Geld einzuzahlen. Sacheinlagen sind ausgeschlossen (Paragraf 5a Abs. 2 GmbHG).
 - **Paragraf 9 GmbHG** — Differenzhaftung: Gesellschafter haftet für den Wertunterschied, wenn Sacheinlage unter angemeldeten Wert liegt.
 - **Paragraf 17 ff. HGB / Paragraf 30 HGB** — Firmenbildung: Kennzeichnungskraft, keine Irreführung, keine Verwechslungsgefahr.
 - **Paragraf 53 Abs. 2 GmbHG** — Satzungsänderung erfordert 75 %-Mehrheit.
@@ -51,8 +52,8 @@ Firma -> Sitz -> Gegenstand -> Stammkapital -> Gesellschafter -> Geschäftsführ
 |---|---|---|---|
 | 1 Firma | IHK-Vorprüfung, Verwechslungsgefahr (Paragraf 30 HGB), DPMA-Markencheck | Ähnliche Firma im HR-Bezirk → Eintragungsversagung | Firma freigegeben |
 | 2 Sitz | Satzungssitz Inland; ladungsfähige Geschäftsadresse | Briefkasten-Sitz unzulässig; tatsächliche Erreichbarkeit | Sitz bestätigt |
-| 3 Gegenstand | Paragraf 3 Abs. 1 Nr. 2 GmbHG: konkret genug, weit genug | Zu eng: Pivot erfordert Satzungsänderung; zu veit: HR-Beanstandung | Gegenstand formuliert |
-| 4 Stammkapital | Bar oder Sach? 25.000 EUR Minimum; Einzahlung 12.500 EUR vor Anmeldung | Sacheinlage: Differenzhaftung Paragraf 9 GmbHG | Kapitalstruktur festgelegt |
+| 3 Gegenstand | Paragraf 3 Abs. 1 Nr. 2 GmbHG: konkret genug, weit genug | Zu eng: Pivot erfordert Satzungsänderung; zu weit: HR-Beanstandung | Gegenstand formuliert |
+| 4 Stammkapital | GmbH: mindestens 25.000 EUR. Viertelbetrag je Baranteil, Gesamtschwelle von 12.500 EUR und vollständige Erbringung der Sacheinlagen getrennt prüfen. | Bei der UG gilt Volleinzahlung in Geld. Bei Sacheinlagen der GmbH Werthaltigkeit prüfen. | Finanzierungs- und Einlageplan je Anteil |
 | 5 Gesellschafter | Quoten; Mehrheit; 75-%-Schwelle für Satzungsänderung; Holding-Überlegung | Falsche Quotenplanung vor Investoren-Runde | Gesellschafterstruktur fixiert |
 | 6 Geschäftsführer | Einzel- oder Gesamtvertretung; Paragraf 181 BGB Befreiung; Anstellungsvertrag | GF ohne Anstellungsvertrag = unklares SV-Verhältnis | GF-Parameter festgelegt |
 | 7 Satzungswahl | Musterprotokoll (Paragraf 2 Abs. 1a GmbHG, max. 3 Gesellschafter) oder individuelle Satzung | Musterprotokoll bei Investoren-Plan: teure Nachänderung | Satzungstyp gewählt |
@@ -65,7 +66,7 @@ Firma -> Sitz -> Gegenstand -> Stammkapital -> Gesellschafter -> Geschäftsführ
 4. **Gesellschafterstruktur** — Quoten festlegen; Holding-Frage klären; Vesting/Vorkaufsrecht in individuelle Satzung.
 5. **Satzungsentwurf** — Musterprotokoll oder individuelle Satzung; GF-Parameter (Vertretung, Paragraf 181 BGB).
 6. **Notartermin** — Unterlagen-Checkliste abarbeiten (siehe unten); alle Anwesenden mit Personalausweis.
-7. **Einzahlung** — nach Beurkundung: Stammkapital auf Gesellschaftskonto; Einzahlungsbeleg an Notar.
+7. **Einlagen erbringen** — Nach Beurkundung Baranteile nach dem Einlageplan einzahlen und Sacheinlagen übertragen. Leistung und endgültige freie Verfügung dokumentieren.
 8. **HR-Anmeldung** — Notar meldet beim Handelsregister an; bei genehmigungspflichtigem Gegenstand: Genehmigung vorlegen.
 9. **Folgeakte** — Gewerbeanmeldung, Finanzamt-Fragebogen, IHK-Mitgliedschaft, Transparenzregister (sofern nicht bereits eingetragen).
 
@@ -91,7 +92,7 @@ VOR DEM TERMIN — bitte mitbringen
 [ ] Genehmigungsunterlagen (sofern genehmigungspflichtiger Gegenstand)
 
 NACH DER BEURKUNDUNG — nächste Schritte
-[ ] Stammkapital auf neu eröffnetes GmbH-Konto einzahlen ([BETRAG] EUR)
+[ ] Barleistungen je Anteil auf das Gesellschaftskonto einzahlen ([BETRAG] EUR), Sacheinlagen übertragen und freie Verfügung belegen.
 [ ] Einzahlungsbeleg an Notar schicken bis [Datum]
 [ ] Handelsregisteranmeldung — Notar veranlasst
 [ ] Geschäftskonto-Eröffnung (Firmenname + HR-Nummer nach Eintragung)
@@ -115,10 +116,10 @@ Anstellungsvertrag: [vorhanden / noch abzuschließen]
 
 ## Rote Schwellen
 
-- Sacheinlage ohne Sachgründungsbericht → HR verweigert Eintragung; persönliche Differenzhaftung (Paragraf 9 GmbHG).
+- Bei fehlendem Sachgründungsbericht Unterlagen vervollständigen. Ist der Wert der Sacheinlage bei Anmeldung geringer als der Nennbetrag des übernommenen Anteils, ist der Fehlbetrag nach Paragraf 9 GmbHG in Geld zu leisten.
 - Firma nicht vorab geprüft → Eintragungsversagung durch Handelsregister; Verzögerung 4-8 Wochen.
 - Musterprotokoll bei geplantem Investoren-Einstieg → spätere Satzungsänderung kostet mehr als initiale individuelle Satzung.
-- Stammkapital nicht vollständig eingezahlt vor Anmeldung → Anmeldevoraussetzung fehlt; persönliche Haftung GF.
+- Sind die Leistungen nach Paragraf 7 Abs. 2 und 3 GmbHG bzw. bei der UG nach Paragraf 5a Abs. 2 GmbHG noch offen, mit der Anmeldung warten. Bei falschen Angaben Ersatzansprüche der Gesellschaft nach Paragraf 9a und Strafbarkeit nach Paragraf 82 GmbHG gesondert prüfen.
 - Genehmigungspflichtiger Gegenstand ohne Genehmigung → Eintragung verzögert oder verweigert.
 
 ## Typische Gründungsfehler
@@ -135,7 +136,7 @@ Anstellungsvertrag: [vorhanden / noch abzuschließen]
 - Paragraf 2, 5, 7, 9, 53 GmbHG (Gründung, Stammkapital, Differenzhaftung, Satzungsänderung)
 - Paragraf 17-18, 30 HGB (Firmenrecht, Verwechslungsgefahr)
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
-- Scholz/Emmerich, GmbHG, Paragraf 5 Rn. 1-50
+- [Paragraf 5a GmbHG](https://www.gesetze-im-internet.de/gmbhg/__5a.html) · [Paragraf 7 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__7.html) · [Paragraf 8 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__8.html)
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Übergabe an andere Skills

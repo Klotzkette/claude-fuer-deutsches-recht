@@ -36,8 +36,8 @@ Vor Beginn des Haftungsprüfrasters folgende Fragen klären:
 
 1. **Mandantenrolle:** Auf welcher Seite steht der Mandant — GF als Beklagter oder Gesellschaft/Insolvenzverwalter als Kläger?
 2. **Konkrete Pflichtverletzung:** Welche Handlung oder Unterlassung wird vorgeworfen?
-3. **Schaden bezifferbar:** Liegt ein konkreter bezifferter Schaden vor oder nur Schadensverdacht?
-4. **Verjährung:** Wann ist die Pflichtverletzung eingetreten? (5 Jahre, Paragraf 43 Abs. 4 GmbHG)
+3. **Schaden:** Welche Vermögenseinbuße ist bereits eingetreten, wann und wodurch? Welche Folgen lassen sich schon beziffern?
+4. **Verjährung:** Wann ist der Ersatzanspruch nach Paragraf 43 Abs. 2 GmbHG entstanden? Maßgeblich ist der erste Schaden dem Grunde nach. Fehlende Kenntnis der Gesellschaft und eine noch offene Schadenshöhe hindern den Fristbeginn grundsätzlich nicht.
 5. **D&O-Deckung:** Besteht eine D&O-Versicherung? Wurden vorvertragliche Anzeigepflichten erfüllt?
 6. **Entlastungsbeschluss:** Wurde der GF entlastet (Paragraf 46 Nr. 5 GmbHG)? Sperrwirkung prüfen.
 7. **Insolvenz:** Ist die Gesellschaft insolvent oder war sie es bei der Pflichtverletzung?
@@ -64,7 +64,7 @@ Paragraf 43 GmbHG (Haftung des Geschäftsführers) — Paragraf 43 Absatz 4 GmbH
 | 8 | Steuerrecht Paragraf 69 AO | Steuern vorsätzlich oder grob fahrlässig nicht abgeführt? | Persönliche Haftung des GF |
 | 9 | Sozialversicherung Paragraf 266a StGB | Arbeitnehmeranteile nicht abgeführt? | Strafbarkeit + Zivilhaftung |
 | 10 | Entlastung Paragraf 46 Nr. 5 GmbHG | Entlastungsbeschluss gefasst? Sperrwirkung prüfen (nur bekannte Sachverhalte) | Klage gesperrt soweit Sperrwirkung reicht |
-| 11 | Verjährung Paragraf 43 Abs. 4 GmbHG | 5 Jahre ab Pflichtverletzung; Hemmung nach BGB | Verjährt oder Fristnotiz anlegen |
+| 11 | Verjährung nach Paragraf 43 Abs. 4 GmbHG | Fünf Jahre ab Anspruchsentstehung nach Paragraf 200 BGB. Für Schadensersatz genügt der Schaden dem Grunde nach, wenn die Gesellschaft zumindest Feststellung verlangen könnte. | Datum, Hemmung und Neubeginn prüfen |
 | 12 | D&O-Versicherung | Deckungsumfang; Selbstbehalt; Vorsatz ausgeschlossen; Deckungsablehnung wegen grober Fahrlässigkeit | Deckungszusage oder -ablehnung prüfen |
 
 ## Schritt-für-Schritt-Workflow
@@ -76,7 +76,7 @@ Paragraf 43 GmbHG (Haftung des Geschäftsführers) — Paragraf 43 Absatz 4 GmbH
 5. **Schaden beziffern:** Konkreter Schaden vs. hypothetisch rechtmäßiges Alternativverhalten.
 6. **Insolvenzrisiko screenen:** Paragraf 15a InsO-Zeitpunkt bestimmen; Zahlungen nach Insolvenzreife inventarisieren.
 7. **Entlastung prüfen:** Beschlusstext und Aktenlage zum Zeitpunkt des Beschlusses analysieren.
-8. **Verjährung berechnen:** 5-Jahres-Frist ab konkreter Pflichtverletzung; Hemmungstatbestände prüfen.
+8. **Verjährung berechnen:** Anspruchsentstehung anhand des ersten Schadens dem Grunde nach datieren. Fünf Jahre ohne Anknüpfung an Kenntnis oder Jahresende berechnen. Hemmung und Neubeginn gesondert prüfen.
 9. **D&O anzeigen:** Unverzügliche Anzeige bei Versicherer; Obliegenheitspflichten beachten.
 10. **Strategie festlegen:** Verteidigung (BJR + Entlastung + Verjährung) oder Aktivseite (Pflichtverletzung + Schaden + Kausalität).
 
@@ -123,7 +123,7 @@ Bearbeitungsstand: [DATUM]
 ## Empfehlung
 [Aktivseite: Klagefähigkeit bewerten | Verteidigung: Risikobewertung + Strategie]
 
-Fristnotiz: Verjährung läuft ab [DATUM DER PFLICHTVERLETZUNG] + 5 Jahre = [DATUM]
+Fristnotiz: Eintritt des Schadens dem Grunde nach [DATUM, BELEG]. Rechnerischer Ablauf nach fünf Jahren [DATUM]. Hemmung oder Neubeginn [GRUND, DATUM, GGF. KORRIGIERTER ABLAUF].
 ```
 
 ## Rote Schwellen
@@ -135,9 +135,11 @@ Fristnotiz: Verjährung läuft ab [DATUM DER PFLICHTVERLETZUNG] + 5 Jahre = [DAT
 
 ## Quellen und Vertiefung
 
+- BGH, Urteil vom 21. Februar 2005 – II ZR 112/03, Gründe II.1.a: Für den Ersatzanspruch aus Paragraf 43 Abs. 2 GmbHG genügt der Schaden dem Grunde nach. Seine Höhe darf noch offen sein. Kenntnis der Gesellschafter ist keine Voraussetzung. [Volltextabdruck](https://www.prinz.law/static/urteile/pdf/bgh/II_ZR_112-03.pdf) und [Paragraf 200 BGB](https://www.gesetze-im-internet.de/bgb/__200.html)
 - GmbHG Paragraf 43, 46, 50: https://www.gesetze-im-internet.de/gmbhg/__43.html
 - AktG Paragraf 93: https://www.gesetze-im-internet.de/aktg/__93.html
 - InsO Paragraf 15a (Insolvenzantragspflicht; Frist seit SanInsFoG mit Wirkung 01.01.2021: ohne Antrag 3 Wochen Zahlungsunfaehigkeit/6 Wochen Ueberschuldung — kein Automatismus, sondern Hoechstfrist): https://www.gesetze-im-internet.de/inso/__15a.html
+- Art. 103m EGInsO: Für Zahlungen vor dem 1. Januar 2021 gelten die bisherigen Vorschriften, für Zahlungen ab dem 1. Januar 2021 gilt Paragraf 15b InsO. [Übergangsrecht](https://www.gesetze-im-internet.de/eginso/art_103m.html)
 - InsO Paragraf 15b (rechtsformneutrales Zahlungsverbot bei Insolvenzreife, in Kraft seit 01.01.2021 durch SanInsFoG, BGBl. I 2020, 3256; ersetzt Paragraf 64 GmbHG a.F. und Paragraf 92 II AktG a.F.): https://www.gesetze-im-internet.de/inso/__15b.html
 - InsO Paragraf 17, 18, 19: https://www.gesetze-im-internet.de/inso/__17.html ; https://www.gesetze-im-internet.de/inso/__18.html ; https://www.gesetze-im-internet.de/inso/__19.html
 - AO Paragraf 69: https://www.gesetze-im-internet.de/ao_1977/__69.html

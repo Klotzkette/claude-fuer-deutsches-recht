@@ -196,7 +196,7 @@ Schritt 2: Notartermin
 
 Schritt 3: Anmeldung
 [ ] Handelsregistereintragung (durch Notar)
-[ ] Stammkapital mind. EUR 12.500 einzahlen vor Anmeldung (§ 7 Abs. 2 GmbHG)
+[ ] Vor Anmeldung je Baranteil mindestens ein Viertel einzahlen, gezahltes Geld und Nennbeträge der Sachanteile zusammen mindestens 12.500 EUR. Sacheinlagen vollständig bewirken (§ 7 Abs. 2 und 3 GmbHG).
 [ ] Steuerliche Anmeldung beim Finanzamt (USt-IdNr.; KSt-Voranmeldung)
 
 Schritt 4: Post-Gründung

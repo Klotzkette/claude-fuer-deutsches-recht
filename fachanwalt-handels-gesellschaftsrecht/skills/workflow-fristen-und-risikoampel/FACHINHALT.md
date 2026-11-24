@@ -40,12 +40,12 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **fachanwalt-ha
 | Mängelrüge Handelskauf | § 377 HGB | unverzüglich nach Ablieferung | Genehmigungsfiktion (§ 377 Abs. 2 HGB) |
 | Anfechtungsklage Hauptversammlung AG | § 246 AktG | ein Monat ab Beschlussfassung | Bestandskraft, keine Anfechtung mehr |
 | Anfechtungsklage GmbH-Beschluss | analoge Anwendung §§ 241 ff. AktG (BGH ständige Rechtsprechung) | grundsätzlich ein Monat, im Einzelfall angemessene Frist | Bestandskraft |
-| Insolvenzantragspflicht | § 15a InsO | drei Wochen Zahlungsunfähigkeit / sechs Wochen Überschuldung (§§ 17, 19 InsO) | Strafbarkeit § 15a Abs. 4 InsO, Geschäftsführerhaftung § 64 GmbHG |
+| Insolvenzantragspflicht | § 15a InsO | Ohne schuldhaftes Zögern, spätestens drei Wochen ab Zahlungsunfähigkeit bzw. sechs Wochen ab Überschuldung | Strafbarkeit nach § 15a Abs. 4 oder 5 InsO prüfen. Zahlungen und mögliche Erstattung an die Gesellschaft nach § 15b InsO getrennt erfassen. Für Zahlungen vor dem 1. Januar 2021 gilt § 64 GmbHG a.F. (Art. 103m EGInsO). |
 | Handelsregistereintragung GmbH-Gründung | §§ 7, 8 GmbHG | unverzüglich; Existenz erst mit Eintragung | Vorgesellschaft / Vorgründungsgesellschaft (persönliche Haftung) |
 | Verzugszinsen B2B | § 353 HGB i.V.m. § 288 Abs. 2 BGB | sofort fällig | 9 % über Basiszinssatz |
 | Verjährung Handelskauf | § 438 BGB (zwei Jahre) bzw. fünf Jahre bei Bauwerk | absolute Grenze | Einrede der Verjährung |
 | Transparenzregister-Meldung | §§ 19 ff. GwG | unverzüglich bei Änderung | Bußgeld (BVA) |
-| GmbH-Stammkapital | §§ 5, 7 GmbHG | bei Gründung 25.000 EUR, Hälfte einzubezahlen, mind. 12.500 EUR | Eintragungs-Hindernis |
+| GmbH-Stammkapital | §§ 5, 7 GmbHG | Stammkapital mindestens 25.000 EUR. Viertel je Baranteil, Gesamtschwelle von 12.500 EUR aus gezahltem Geld und Nennbeträgen der Sachanteile. Sacheinlagen vor Anmeldung vollständig bewirken. | Anmeldevoraussetzungen einzeln prüfen |
 | Differenzhaftung Sacheinlage | § 9 GmbHG | bei Überbewertung | persönliche Differenzhaftung Gesellschafter |
 
 Bei Eilbedarf: § 935 ZPO einstweilige Verfügung (z.B. Untersagung Hauptversammlungsbeschluss), § 916 ZPO Arrest (Geldforderungen). Zuständigkeit Kammer für Handelssachen (KfH) auf Antrag § 96 GVG.

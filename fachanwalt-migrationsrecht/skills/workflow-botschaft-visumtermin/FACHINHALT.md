@@ -14,7 +14,9 @@ description: "Für Botschaft/Visumtermin: Prüfungslinie für Migrationsrecht: o
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Botschaft/Visumtermin: Prüfungslinie für Migrationsrecht; prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Klären Sie zuerst, ob die Person auf einen Termin wartet, ob ein Antrag bereits eingegangen ist oder ob die Auslandsvertretung das Visum abgelehnt hat. Halten Sie je nach Stand Terminregistrierung, Antragseingang oder Bescheid samt Bekanntgabe und Rechtsbehelfsbelehrung fest.
+
+Eine Terminregistrierung ersetzt keinen Nachweis über einen bereits gestellten Visumantrag. Bei einer bloßen Wartezeit dokumentieren Sie die bisherigen Kontaktversuche und eine etwaige besondere Dringlichkeit. Bei einer Ablehnung ab dem 1. Juli 2025 ist die Remonstration weltweit abgeschafft. Prüfen Sie die Klage auf Visumerteilung, regelmäßig beim Verwaltungsgericht Berlin, und einen neuen vollständigen Visumantrag. Eine Sachstandsanfrage, Terminbuchung oder erneute Antragstellung wahrt die Klagefrist nicht. Für Bescheide vor dem Stichtag klären Sie die damalige Belehrung und den Eingang einer etwaigen Remonstration. [Auswärtiges Amt zur Abschaffung des Remonstrationsverfahrens](https://www.auswaertiges-amt.de/de/newsroom/2724844-2724844) · [Auswärtiges Amt zum Übergang bei älteren Bescheiden](https://rabat.diplo.de/ma-de/service/visa/2798822-2798822)
 
 ### Botschaft/Visumtermin
 

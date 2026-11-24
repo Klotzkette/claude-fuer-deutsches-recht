@@ -14,7 +14,7 @@ description: "Für Asyl Folgeantrag 71: erstellt Entwurf mit Antrag, Beweis und 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Asylantrag wurde abgelehnt und Mandant will neuen Antrag stellen oder hat neue Beweise oder Lage hat sich geaendert. Prüfraster § 71 AsylG Folgeantrag Voraussetzungen Wiederaufgreifensgründe Änderung Sachlage neue Beweismittel. Frist drei Monate ab Kenntnis der neuen Umstaende Folge-Folgeantrag Dublin-III-Überstellungs-Sperre. Output Folgeantrag-Entwurf mit Begründung neuer Umstaende und Sperr-Argument für Dublin-Überstellung. Abgrenzung: asyl-anhoerung-vorbereiten für Erst-Anhörung fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Gefahr.
+**Fokus:** Asylantrag wurde abgelehnt und Mandant will neuen Antrag stellen oder hat neue Beweise oder Lage hat sich geaendert. Prüfraster § 71 AsylG Folgeantrag Voraussetzungen Wiederaufgreifensgründe Änderung Sachlage neue Beweismittel. Vorverfahren, Zeitpunkt des neuen Vorbringens und Vollzugslage prüfen. Output Folgeantrag-Entwurf mit Begründung neuer Umstaende und Sperr-Argument für Dublin-Überstellung. Abgrenzung: asyl-anhoerung-vorbereiten für Erst-Anhörung fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Gefahr.
 
 ### Asyl-Folgeantrag § 71 AsylG
 
@@ -26,18 +26,17 @@ description: "Für Asyl Folgeantrag 71: erstellt Entwurf mit Antrag, Beweis und 
 4. Neue Beweismittel?
 5. Ausreise-Druck (Abschiebung)?
 
-## 2) Voraussetzungen § 71 AsylG iVm § 51 VwVfG
+## 2) Zulässigkeit und neues Vorbringen
 
-### Wiederaufgreifens-Gründe
+Bei der Schutzprüfung entscheidet das Einreichungsdatum des Antrags: vor dem 12. Juni 2026 gilt das bisherige Verfahrensrecht fort, ab dem 12. Juni 2026 das neue Recht. Bei Entzug ist der Beginn der Überprüfung maßgeblich. [§ 87e AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__87e.html) und [Art. 79 Abs. 3 VO (EU) 2024/1348](https://eur-lex.europa.eu/eli/reg/2024/1348/oj/deu). Für den Folgeantrag Einreichungsdatum, Unanfechtbarkeit des früheren Verfahrens und den damals beschiedenen Gegenstand festhalten.
 
-- **Änderung Sachlage** (Heimatland, persönlich)
-- **Neue Beweismittel**, die zu günstigerer Entscheidung geführt hätten
-- **Änderung Rechtslage**
+### Neue Umstände im anwendbaren Verfahren
 
-### Frist
+Im neuen Recht richtet sich die Vorprüfung nach § 71 Abs. 1 AsylG und Art. 55 VO (EU) 2024/1348. Darlegen, welche neuen Umstände die Wahrscheinlichkeit einer Schutzberechtigung erheblich erhöhen oder sich auf einen früheren Unzulässigkeitsgrund beziehen. Frühere Vortragsmöglichkeiten und die Ausnahmen nach Art. 55 Abs. 5 prüfen. Ist das erste Verfahren noch nicht unanfechtbar abgeschlossen, neues Vorbringen grundsätzlich im laufenden Verfahren behandeln (Abs. 1).
 
-- 3 Monate ab Kenntnis des Wiederaufgreifens-Grundes
-- Bei Versäumnis: Antrag unzulaessig
+### Zeitpunkt der Einreichung
+
+Auftreten, Kenntnis und erste Nachweismöglichkeit der neuen Umstände dokumentieren und bei Vollzugsgefahr sofort handeln. Eine pauschale dreimonatige Ausschlussfrist ab Kenntnis sieht diese Folgeantragsprüfung nicht vor. [§ 71 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__71.html) und [VO (EU) 2024/1348](https://eur-lex.europa.eu/eli/reg/2024/1348/oj/deu).
 
 ### Ergebnis
 
@@ -68,20 +67,19 @@ description: "Für Asyl Folgeantrag 71: erstellt Entwurf mit Antrag, Beweis und 
 
 - Auch wiederholt möglich
 - Aber: jeder Antrag braucht neue Wiederaufgreifens-Gründe
-- Bei missbraeuchlichem Verhalten: Unzulaessigkeit
+- Bei wiederholten Folgeanträgen die Zulässigkeit und das Recht auf Verbleib jeweils nach eigenständigem Tatbestand prüfen.
 
-## 5) Dublin-III VO 604/2013
+## 5) Zuständigkeit und Vollzug
 
 ### Bei Folgeantrag
 
 - Prüfung ob anderer EU-Staat zuständig
-- 6-Monats-Überstellungs-Frist
-- Bei Versäumnis: DE-Zuständigkeit
+- Bei vor dem 1. Juli 2026 registrierten Anträgen die Zuständigkeitskriterien nach Art. 84 Abs. 2 VO (EU) 2024/1351 bestimmen. Überstellungsfrist, Beginn, Unterbrechung und mögliche Verlängerung im jeweils anwendbaren Regime gesondert prüfen.
 
 ### Aufenthalts-Recht
 
-- Bei Folgeantrag: kein automatisches Aufenthaltsrecht
-- Antrag auf Aussetzung Vollstreckung § 80 V VwGO bei VG
+- Bei einem Folgeantrag prüfen, ob im konkreten Verfahren ein Recht auf Verbleib besteht und wann die Abschiebung vollzogen werden darf (§ 71 Abs. 3 AsylG sowie Art. 56 und 68 VO (EU) 2024/1348).
+- Bei unmittelbar drohendem Vollzug behördliche Mitteilung, bestehenden Titel und statthaften gerichtlichen Eilrechtsschutz sofort klären.
 
 ## 6) Workflow
 
@@ -94,21 +92,21 @@ description: "Für Asyl Folgeantrag 71: erstellt Entwurf mit Antrag, Beweis und 
 
 ### Schritt 2 — Antrag BAMF
 
-- Schriftlich, mit Wiederaufgreifens-Grund
+- Persönliche Einreichung des Folgeantrags bei der zuständigen Außenstelle und die Ausnahmen nach § 71 Abs. 2 AsylG prüfen. Das anwaltliche Schreiben begründet und belegt das Vorbringen.
 - Beweismittel beigefügt
 - Dolmetscher bei Vorbringen
 
 ### Schritt 3 — Bescheid
 
-- BAMF entscheidet binnen Wochen
-- Bei Unzulaessigkeit: Aussetzung Anhörung
+- Eingang, persönliche Einreichung und bisherigen Verfahrensstand dokumentieren. Einen Entscheidungstermin nur auf belegter Grundlage angeben.
+- In der ersten Prüfung nach Art. 55 Abs. 4 VO (EU) 2024/1348 sind schriftliche Angaben oder eine persönliche Anhörung möglich. Die Gründe für einen Verzicht konkret prüfen.
 - Bei Zulässigkeit: persönliche Anhörung
 
 ### Schritt 4 — Klage VG bei Ablehnung
 
-- Frist 2 Wochen bei Schnellverfahren
-- Frist 1 Monat bei Standard-Bescheid
-- Eilantrag § 80 V VwGO bei drohender Abschiebung
+- Im neuen Recht beträgt die Klagefrist grundsätzlich zwei Wochen ab Zustellung. Eine Woche gilt nach § 74 Abs. 1 Satz 2 AsylG im Fall des § 34a Abs. 3 Satz 1 sowie nach Satz 3 in den Fällen des Art. 67 Abs. 7 Buchst. a VO (EU) 2024/1348. Bei der zweiten Fallgruppe sind auch die dort genannten Umstände nach Art. 42 Abs. 1 oder 3 im Zeitpunkt der Entscheidung zu prüfen. Bei fehlender oder unrichtiger Rechtsbehelfsbelehrung § 74 Abs. 1 Satz 4 AsylG und § 58 Abs. 2 VwGO prüfen (grundsätzlich drei Monate). [§ 74 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__74.html).
+- Für den Eilantrag Beginn und Ende gesondert erfassen: bei der Abschiebungsanordnung nach § 34a Abs. 3 Satz 1 und bei der Abschiebungsandrohung im Anwendungsbereich des § 36 Abs. 2 Satz 1 AsylG grundsätzlich eine Woche ab Bekanntgabe.
+- Vollzugsschutz insbesondere nach § 71 Abs. 3 AsylG, Art. 56 und 68 VO (EU) 2024/1348 am konkreten Bescheid prüfen. Mitteilung des BAMF und aktuellen Vollzugstermin beiziehen.
 
 ## 7) Spezielle Konstellationen
 
@@ -144,10 +142,10 @@ description: "Für Asyl Folgeantrag 71: erstellt Entwurf mit Antrag, Beweis und 
 
 ## 9) Typische Fehler
 
-1. **3-Monats-Frist verpasst**
+1. **Neues Vorbringen zu spät abgeklärt:** Kenntnis, Belegzugang und drohenden Vollzug dokumentieren.
 2. **Wiederaufgreifens-Grund zu schwach**
 3. **Eilantrag versäumt** bei drohender Abschiebung
-4. **Folge-Folge-Antrag missbraeuchlich** -> Unzulaessigkeit
+4. **Wiederholter Antrag:** Neue Umstände und besondere Voraussetzungen für den Vollzug nach Art. 56 VO (EU) 2024/1348 gesondert prüfen.
 
 ## 10) BVerwG-Linien
 
@@ -164,12 +162,9 @@ description: "Für Asyl Folgeantrag 71: erstellt Entwurf mit Antrag, Beweis und 
 
 ## Normen-Kette Folgeantrag
 
-- **§ 71 Abs. 1 AsylG** iVm **§ 51 Abs. 1-3 VwVfG** — Wiederaufgreifensvoraussetzungen, Frist 3 Monate
-- **§ 71 Abs. 5 AsylG** — Abschiebungsandrohung bei Unzulaessigkeit des Folgeantrags
-- **§ 51 Abs. 2 VwVfG** — Frist ab Kenntnis des Wiederaufgreifensgrundes
-- **§ 36 AsylG** — Klagefrist eine Woche wenn Folgeantrag als unzulaessig beschieden
-- **§ 74 Abs. 1 AsylG** — Klagefrist zwei Wochen bei Sachabweisung des Folgeantrags
-- **Art. 40 Verfahrens-RL 2013/32** — Folgeantraege; Mitgliedstaat kann Folgeantrag nur ablehnen wenn keine neuen Elemente
+- [§ 71 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__71.html) Abs. 1 und 2 sowie Art. 55 VO (EU) 2024/1348 für Vorprüfung und Einreichung. Abs. 3 und Art. 56 sowie 68 für den Vollzug.
+- [§ 74 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__74.html) Abs. 1 und die einschlägige Eilrechtsschutzregel für gerichtliche Fristen prüfen.
+- Für das Übergangsrecht gelten [§ 87e AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__87e.html) und [Art. 79 Abs. 3 VO (EU) 2024/1348](https://eur-lex.europa.eu/eli/reg/2024/1348/oj/deu).
 
 ## Output-Template: Folgeantrag BAMF
 
@@ -190,14 +185,13 @@ Re: Asyl-Folgeantrag gemaess § 71 AsylG
 
 Sehr geehrte Damen und Herren,
 
-in Vertretung des o.g. Antragstellers stellen wir hiermit Folgeantrag
-gemaess § 71 AsylG und § 51 VwVfG.
+zum Folgeantrag nach § 71 AsylG reichen wir die nachstehende Begründung und die bezeichneten Belege ein. Zur Einreichung bei der zuständigen Außenstelle ist Folgendes dokumentiert: [Zeitpunkt, Ort, gegebenenfalls Ausnahmegrund mit Nachweis].
 
-I. BISHERIGER VERFAHRENSSTAND
+1. Bisheriger Verfahrensstand
 Erstantrag abgelehnt am [DATUM], Bescheid Az. [AZ].
 Klage [wurde erhoben / nicht erhoben].
 
-II. WIEDERAUFGREIFENSGRUENDE (§ 51 Abs. 1 Nr. [X] VwVfG)
+2. Neue Umstände und Bedeutung für die erneute Prüfung
 [Variante A — Aenderung Sachlage:]
 Seit der Ablehnung des Erstantrags hat sich die Lage im Herkunftsland
 [LAND] wesentlich veraendert: [KONKRETE SCHILDERUNG MIT DATUM].
@@ -211,14 +205,13 @@ verfuegbar waren: [ATTEST / DOKUMENT / ZEUGNIS]. Anlage 3.
 Der Antragsteller ist am [DATUM] zum [Christentum / Islam / ...] konvertiert.
 Bescheinigung beigefuegt Anlage 4. Die innere Uberzeugung ist echt und stabil
 
-III. FRIST § 51 ABS. 2 VWVFG
-Der Antragsteller hat von dem o.g. Wiederaufgreifensgrund am [DATUM]
-Kenntnis erlangt. Die 3-Monats-Frist laeuft bis [DATUM]; dieser Antrag
-wird fristgerecht gestellt.
+3. Zeitpunkt des neuen Vorbringens
 
-IV. SICHERUNGSMASSNAHMEN
-Bei drohender Abschiebung bitten wir um unverzuegliche Bestaetigung
-des Folgeantragseingangs (§ 71 Abs. 4 AsylG).
+Der Antragsteller erfuhr am [Datum] von [konkreter Umstand]. Im früheren Verfahren konnte er dies aus folgenden Gründen nicht vorbringen: [Tatsachen und Beleg]. Für die damalige Entscheidung ist dies erheblich, weil [Bezug zum früheren Ablehnungsgrund].
+
+4. Vollzugslage
+
+Uns ist folgender Vollzugstermin bekannt: [Datum oder Stand der Nachfrage]. Wir bitten um unverzügliche Eingangsbestätigung und Mitteilung über den Stand der Prüfung. Erforderlichen gerichtlichen Eilrechtsschutz prüfen wir gesondert.
 
 Anlagen: K1 bis K[X]
 
