@@ -14,7 +14,7 @@ description: "Für Aufenthaltstitel Prüfung: ordnet Norm, Beweislast und Gegena
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Ausländerbehoerde erhalten. Prüfraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identität. Versagungs- und Ausweisungsinteressen § 11 AufenthG. Output Aufenthaltstitel-Prüf-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für den Antrag selbst.
+**Fokus:** Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Ausländerbehoerde erhalten. Prüfraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18g Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identität. Ausweisungsinteressen § 54 AufenthG, Einreise- und Aufenthaltsverbot § 11 AufenthG. Output Aufenthaltstitel-Prüf-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für den Antrag selbst.
 
 ### Aufenthaltstitel-Prüfung
 
@@ -43,7 +43,7 @@ description: "Für Aufenthaltstitel Prüfung: ordnet Norm, Beweislast und Gegena
 | Berufsausbildung | AE Ausbildung | § 16a AufenthG |
 | Studium | AE Studium | § 16b AufenthG |
 | Fachkräfte-Beschäftigung | AE Beschäftigung | § 18a AufenthG |
-| Hochqualifizierte / Blaue Karte EU | Blaue Karte EU | § 18b AufenthG |
+| Hochqualifizierte / Blaue Karte EU | Blaue Karte EU | § 18g AufenthG |
 | Forschung | AE Forschung | § 18d AufenthG |
 | Intra-Corporate-Transfer | ICT-Karte | § 19 AufenthG |
 | Selbständigkeit | AE Selbständige | § 21 AufenthG |
@@ -130,8 +130,8 @@ Aufenthaltserlaubnis nach § 25b AufenthG.
 Voraussetzungen nach § 25b Abs. 1 AufenthG sind erfüllt:
 
 1. Mindestaufenthalt: Ununterbrochener rechtmäßiger oder geduldeter
- Aufenthalt seit [Datum] — mindestens acht Jahre
- (sechs Jahre bei Kindern/Alleinerziehenden). Belegt durch
+ Aufenthalt seit [Datum] — mindestens sechs Jahre
+ (vier Jahre bei Zusammenleben mit minderjährigem ledigen Kind). Belegt durch
  Anlage A1 (Ausländerbehördennachweis).
 
 2. Lebensunterhaltssicherung: Monatliches Nettoeinkommen
@@ -192,17 +192,17 @@ Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
 
-### Baustein 3 — Blaue Karte EU § 18b Abs. 2 AufenthG
+### Baustein 3 — Blaue Karte EU § 18g Abs. 1 AufenthG
 
 ```
 An die Ausländerbehörde [Ort]
 
-Antrag auf Erteilung der Blauen Karte EU § 18b Abs. 2 AufenthG
+Antrag auf Erteilung der Blauen Karte EU § 18g Abs. 1 AufenthG
 
 Sehr geehrte Damen und Herren,
 
 namens und in Vollmacht beantragen wir die Erteilung der Blauen
-Karte EU nach § 18b Abs. 2 AufenthG.
+Karte EU nach § 18g Abs. 1 AufenthG.
 
 Voraussetzungen sind erfüllt:
 
@@ -212,12 +212,12 @@ Voraussetzungen sind erfüllt:
 
 2. Konkreter Arbeitsplatz: Arbeitsvertrag mit [Arbeitgeber] vom
  [Datum] (Anlage B3). Bruttojahresgehalt EUR [Betrag].
- Aktueller Schwellenwert 2025 (§ 18b Abs. 2 Satz 1 Nr. 2 AufenthG):
+ Aktueller Schwellenwert 2025 (§ 18g Abs. 1 Satz 1 und 2 AufenthG):
  EUR 45300 (Regelberuf) / EUR 41041 (Mangelberuf) —
  bitte aktuellen Wert aus BMAS-Bekanntmachung prüfen.
 
-3. Zustimmungsfreiheit: Blaue Karte EU ist nach § 2 Abs. 1 Nr. 2
- BeschV zustimmungsfrei.
+3. Zustimmungsfreiheit: Blaue Karte EU ist nach § 18g Abs. 1 Satz 1
+ AufenthG zustimmungsfrei (Satz 2: mit Zustimmung der BA).
 
 4. Allgemeine Voraussetzungen § 5 AufenthG: Pass Anlage B4,
  Krankenversicherung Anlage B5, Führungszeugnis Anlage B6.
@@ -252,10 +252,10 @@ Mit freundlichen Grüßen
 | Frist | Grundlage | Inhalt |
 |---|---|---|
 | Vor Ablauf AE | § 81 Abs. 4 AufenthG | Verlängerungsantrag für Fiktionswirkung |
-| Vier Wochen | § 74 Abs. 1 VwGO | Klagefrist gegen Ablehnungsbescheid |
+| Ein Monat | § 74 Abs. 1 VwGO | Klagefrist gegen Ablehnungsbescheid |
 | Fünf Jahre | § 9 Abs. 2 AufenthG | Mindestaufenthalt für Niederlassungserlaubnis |
-| Acht Jahre | § 10 Abs. 1 StAG | Regelaufenthalt für Einbürgerung (seit StARModG 2024) |
-| Fünf Jahre | § 10 Abs. 1 StAG | Einbürgerung bei besonderen Integrationsleistungen |
+| Fünf Jahre | § 10 Abs. 1 StAG | Regelaufenthalt für Einbürgerung (seit StARModG 2024) |
+| Drei Jahre | § 10 Abs. 3 StAG a. F. | Einbürgerung bei besonderen Integrationsleistungen; seit 30.10.2025 aufgehoben |
 | 60 Monate | § 9 Abs. 2 Nr. 3 AufenthG | Rentenversicherungsbeiträge für Niederlassungserlaubnis |
 
 ---
@@ -302,13 +302,13 @@ Mit freundlichen Grüßen
 
 ## Einbürgerungsperspektive (StARModG 2024)
 
-Das Staatsangehörigkeitsreformgesetz (StARModG) vom 27.06.2024 hat die Einbürgerungsvoraussetzungen erheblich geändert:
+Das Staatsangehörigkeitsreformgesetz (StARModG) vom 22.03.2024 (in Kraft seit 27.06.2024) hat die Einbürgerungsvoraussetzungen erheblich geändert:
 
 | Merkmal | Alte Regelung | Neue Regelung (ab 27.06.2024) |
 |---|---|---|
 | Regelaufenthalt | 8 Jahre | 5 Jahre (§ 10 Abs. 1 StAG) |
 | Besondere Integration | 6 Jahre | 3 Jahre (§ 10 Abs. 3 StAG) |
-| Doppelte Staatsangehörigkeit | Grundsätzlich nicht | Zulässig (§ 10 Abs. 6 StAG) |
+| Doppelte Staatsangehörigkeit | Grundsätzlich nicht | Zulässig (§ 10 Abs. 1 Satz 1 Nr. 4 StAG aufgehoben) |
 | Sprachnachweis | B1 | B1 (unverändert) |
 | Lebensunterhalt eigenständig | Ja | Ja (§ 10 Abs. 1 Satz 1 Nr. 3 StAG) |
 

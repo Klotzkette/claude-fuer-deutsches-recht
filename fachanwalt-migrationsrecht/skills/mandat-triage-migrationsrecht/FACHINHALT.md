@@ -27,7 +27,7 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung. Sofort-Fristen § 74 AsylG zwei-Wochen-Klagefrist § 36 AsylG ein-Wochen-Frist Eilantrag § 80 Abs. 5 VwGO bei Abschiebungsandrohung. Normen AufenthG AsylG § 27 AufenthG Familiennachzug. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Haft Dublin-Überstellung. Output Triage-Memo Fristen-Ampel Routing zu aufenthaltstitel-prüfung und Fachmodule. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden).
+**Fokus:** Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung. Sofort-Fristen § 74 AsylG zwei-Wochen-Klagefrist (eine Woche in den Fällen des § 74 Abs. 1 Satz 2 und 3 AsylG, a. F. Halbsatz 2) § 36 AsylG ein-Wochen-Frist Eilantrag § 80 Abs. 5 VwGO bei Abschiebungsandrohung. Normen AufenthG AsylG § 27 AufenthG Familiennachzug. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Haft Dublin-Überstellung. Output Triage-Memo Fristen-Ampel Routing zu aufenthaltstitel-prüfung und Fachmodule. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden).
 
 ### Mandat-Triage Migrationsrecht
 
@@ -38,8 +38,8 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 - **Abschiebung angekündigt / im Gange** — sofortiger Eilrechtsschutz
 - **Abschiebungs-Haft** — Haftbeschwerde
 - **Dublin-Überstellung** in einen anderen EU-Staat
-- **Asylklage-Frist** zwei Wochen § 74 AsylG
-- **Visum-Ablehnung** Klage drei Monate / mit Remonstration
+- **Asylklage-Frist** zwei Wochen § 74 AsylG (eine Woche in den Fällen des § 74 Abs. 1 Satz 2 und 3 AsylG, a. F. Halbsatz 2)
+- **Visum-Ablehnung** Klage ein Monat § 74 VwGO / mit Remonstration
 - **Ausreisepflicht-Frist abgelaufen**
 - **Aktuelle Festnahme** an Grenze oder im Inland
 
@@ -97,8 +97,8 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 
 ### Frage 6 — Frist?
 
-- **Asylklage** zwei Wochen § 74 AsylG
-- **Asyl-Eilantrag** bei sofortiger Vollziehung sofort
+- **Asylklage** zwei Wochen § 74 AsylG (eine Woche in den Fällen des § 74 Abs. 1 Satz 2 und 3 AsylG, a. F. Halbsatz 2)
+- **Asyl-Eilantrag** § 80 Abs. 5 VwGO eine Woche nach Bekanntgabe (§ 36 Abs. 2 Satz 1, § 34a Abs. 3 Satz 1 AsylG; a. F. § 36 Abs. 3 Satz 1, § 34a Abs. 2 Satz 1)
 - **Visum-Remonstration** keine Frist aber zeitnah
 - **Klage gegen Visum-Versagung** ein Monat § 74 VwGO
 - **Aufenthaltstitel-Antrag** vor Ablauf des bestehenden Titels — fiktive Fortgeltung § 81 Abs. 4 AufenthG
@@ -138,7 +138,7 @@ Bei drohender Abschiebung:
 
 - **Konflikt-Check** — keine Doppelvertretung Behörde / Mandant
 - **Prozesskostenhilfe** § 166 VwGO iVm § 114 ZPO häufig
-- **Streitwert** § 52 GKG Asyl typisch EUR 5000
+- **Gegenstandswert** § 30 Abs. 1 RVG Asyl EUR 5000 (vorläufiger Rechtsschutz EUR 2500)
 - **Beratungshilfe** außergerichtlich
 - **Sprache** Dolmetscher
 
@@ -146,7 +146,7 @@ Bei drohender Abschiebung:
 
 - **Telefon-Sofort** Abschiebung morgen Überstellung Dublin morgen Festnahme Grenze
 - **Binnen einer Stunde** Eilantrag § 80 Abs. 5 VwGO
-- **Heute** Asyl-Klage Frist zwei Wochen
+- **Heute** Asyl-Klage Frist zwei Wochen bzw. eine Woche (§ 74 Abs. 1 Satz 2 und 3 AsylG)
 - **Diese Woche** Aufenthaltstitel-Antrag Niederlassungs-Antrag
 
 ## Ausgabe
@@ -176,9 +176,9 @@ Bei drohender Abschiebung:
 
 ## Normen-Kette Triage
 
-- **§ 36 AsylG** — 1-Woche-Klagefrist bei offensichtlich unbegruedet; § 74 Abs. 1 AsylG — 2-Wochen-Klagefrist
+- **§ 36 AsylG** — 1-Woche-Frist für den Eilantrag § 80 Abs. 5 VwGO; § 74 Abs. 1 AsylG — 2-Wochen-Klagefrist, 1-Woche-Klagefrist u. a. bei offensichtlich unbegruendet (Satz 2 und 3, a. F. Halbsatz 2)
 - **§§ 80 Abs. 5, 123 VwGO** — Eilrechtsschutzoptionen
-- **§ 52 GKG** — Streitwert (Abs. 2: EUR 5.000 Regelwert Asyl)
+- **§ 30 Abs. 1 RVG** — Gegenstandswert Asyl (Klage EUR 5.000, vorläufiger Rechtsschutz EUR 2.500)
 - **§ 83b AsylG** — Gerichtskostenfreiheit im Asylverfahren
 - **§§ 166 VwGO, 114 ZPO** — PKH im Verwaltungsverfahren
 - **§ 71 AsylG** — Folgeantrag bei Wiederaufgreifensgruenden
@@ -200,7 +200,7 @@ Sprache / Dolmetscher: [SPRACHE; Dolmetscher erforderlich: ja/nein]
 
 2. AKUTE EILBEDUERFTIGKEIT (Checkboxen)
 [ ] Abschiebung angekuendigt — Datum: [...]
-[ ] Asylklage-Frist 2 Wochen — laeuft ab: [DATUM]
+[ ] Asylklage-Frist 2 Wochen bzw. 1 Woche (§ 74 Abs. 1 AsylG) — laeuft ab: [DATUM]
 [ ] § 36 AsylG 1-Woche-Frist — laeuft ab: [DATUM]
 [ ] Dublin-Ueberstellung droht
 [ ] Abschiebehaft

@@ -41,7 +41,7 @@ description: "Für Abschiebung abwehren — Duldung Paragraf 60a AufenthG Abschi
 ## Beweislast und Frist
 
 - Antragsteller trägt Glaubhaftmachung § 123 Abs. 3 VwGO i.V.m. § 920 Abs. 2 ZPO.
-- Klagefrist § 74 AsylG: zwei Wochen bei einfach unbegründeter, eine Woche bei offensichtlich unbegründeter Ablehnung Asyl.
+- Klagefrist § 74 AsylG: zwei Wochen; eine Woche bei offensichtlich unbegründeter Ablehnung Asyl und in den übrigen Fällen des § 74 Abs. 1 Satz 2 und 3 AsylG (a. F. Halbsatz 2).
 - VwGO-Klage gegen ausländerbehördliche Bescheide: ein Monat § 74 VwGO.
 - Eilantrag idealerweise unverzüglich nach Bekanntgabe; spätestens vor angekündigtem Abschiebetermin.
 
@@ -67,7 +67,7 @@ An das Verwaltungsgericht [Ort]
 Antrag auf Erlass einer einstweiligen Anordnung gemaess § 123 VwGO
 
 Antragsteller: [Name Geburtsdatum Staatsangehoerigkeit]
-Antragsgegner: Bundesrepublik Deutschland vertreten durch die
+Antragsgegner: [Land, Koerperschaft oder Behoerde nach § 78 VwGO] vertreten durch die
  Auslaenderbehoerde [Ort]
 
 Wir beantragen:
@@ -132,7 +132,7 @@ Antragsteller: [VOLLSTAENDIGER NAME, geb. DATUM, STAATSANG.]
 Anschrift: [ADRESSE bzw. Aufnahmeeinrichtung]
 Prozessbevollmaechtigte: [KANZLEI, ADRESSE, TEL, beA-ID]
 
-Antragsgegner: Bundesrepublik Deutschland,
+Antragsgegner: [LAND, KOERPERSCHAFT ODER BEHOERDE NACH § 78 VwGO],
 vertreten durch Auslaenderbehoerde [ORT], [ADRESSE]
 
 ANTRAG:
