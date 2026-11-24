@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "patentrecht",
-  "reviewed_on": "2026-10-01",
+  "reviewed_on": "2026-11-24",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/patg/__14.html",
@@ -47,52 +47,84 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2024/X_ZR__35-24.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-01",
       "supports": "Kopf/Leitsätze/Tenor, Anspruch 1, Gründe Rn. 13–43, 44–93 (ausgewählte Passagen), insbesondere 19–28 und 79–86. Zweckangabe oder zwingender Verfahrensschritt durch Anspruchsauslegung bestimmen; Ausgangspunkt und Übergriff auf fremdes Fachgebiet mit konkretem Anlass begründen. Grenze: Keine allgemeine Pflicht zur tatsächlichen Zweckverwendung und kein Verbot gebietsübergreifender Recherche; deutsche Nichtigkeitsentscheidung, keine Aussage zur Bindung der EPA-Kammern."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/__34.html",
+      "checked_on": "2026-11-24",
+      "supports": "Anmeldungsinhalt und ausführbare Offenbarung nach Absatz 3 und 4."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/__35.html",
+      "checked_on": "2026-11-24",
+      "supports": "Anmeldetag: Eingang der Mindestunterlagen nach Absatz 1; vom vollständigen Inhalt einer Anmeldung unterscheiden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/__38.html",
+      "checked_on": "2026-11-24",
+      "supports": "Eine Änderung darf den Gegenstand der deutschen Anmeldung nicht erweitern; zusätzliche Einschränkungen vor Eingang des Prüfungsantrags gesondert beachten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patv/__9.html",
+      "checked_on": "2026-11-24",
+      "supports": "Aufbau der Patentansprüche mit Haupt- und Unteransprüchen; konkret beanspruchte technische Merkmale."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patv/__10.html",
+      "checked_on": "2026-11-24",
+      "supports": "Inhalt der Beschreibung, Bezug zu Technik, Figuren und Ausführungsbeispielen."
+    },
+    {
+      "url": "https://www.epo.org/de/legal/epc/2020/a87.html",
+      "checked_on": "2026-11-24",
+      "supports": "Die Priorität ist für dieselbe Erfindung und innerhalb von zwölf Monaten zu prüfen."
+    },
+    {
+      "url": "https://www.epo.org/de/legal/epc/2020/a123.html",
+      "checked_on": "2026-11-24",
+      "supports": "Absatz 2 begrenzt Änderungen anhand der ursprünglich eingereichten Unterlagen. Eine nachträglich angefertigte Zeichnung schafft keine frühere Offenbarung."
+    },
+    {
+      "url": "https://www.epo.org/de/legal/official-journal/2012/06/p376",
+      "checked_on": "2026-11-24",
+      "supports": "G 2/10, Gründe 4.3 und Entscheidungsformel gelesen. Der Offenbarungstest betrifft den nach der Änderung verbleibenden Gegenstand, im Ausgangsfall einen offenbarten Disclaimer."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Anspruchsbezogenen Schutzbereich und drei Äquivalenzanforderungen vor die technische Aufnahme gestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Am fertigen Kurzprompt den Einstieg am vorgelegten Anspruch bzw. an der technischen Schilderung sowie die Fortsetzung nach einer Erfinderantwort gelesen.",
     "changes": [
-      "Schneidmesser I in die Prüfung abgewandelter Mittel integriert",
-      "Zahlenangaben des Anspruchs nicht zu bloßen Beispielen erklärt",
-      "Nicht verwendete Entscheidungsnummern durch konkrete Forschungsfragen ersetzt",
-      "Drei Einstiege für Produktvergleich, Bescheidserwiderung oder Lizenz; keine Startübersicht bei klarem Auftrag.",
-      "Nachgereichte Lichtschranke verändert nur die betroffene Produktversion in verletzungsvermerk.md; ursprüngliche Offenbarung verändert Anspruch und Erwiderung gemeinsam.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
-      "2026-10-16, redaktioneller Einstiegsreview: Anspruchsbezogenen Schutzbereich und drei Äquivalenzanforderungen vor die technische Aufnahme gestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "Schutzgegenstand, Zielakteur und verfügbare Beweise vor dem Formulieren klären.",
+      "Konkrete Erfinderantworten, Anspruchswortlaut, Beschreibung und verbleibende Unsicherheit gemeinsam fortschreiben."
     ],
-    "sha256": "969ae59eb540cdacbb9267ab05ccd41ae4ba49bbd0156fd03467760f9c7164fc",
-    "reviewed_on": "2026-10-16",
+    "sha256": "213a4446fd4de1c022dcff623155ea0a1788fbe59623bbd3208c2fb757cbf393",
+    "reviewed_on": "2026-11-24",
     "method": "desk_review",
-    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+    "review_scope": "Fachlektüre der Anmeldewege und Abgleich mit den Arbeitsakten. Keine gemessenen Modellantworten; ältere Prüfungen bleiben mit ihrem damaligen Geltungsbereich archiviert."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Anspruchsbezogenen Schutzbereich und drei Äquivalenzanforderungen vor die technische Aufnahme gestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Beide Einstiege und die Arbeit am einzelnen Anspruch, der vollständigen Anmeldung und einer geänderten Beweislage anhand der drei Arbeitsakten redaktionell geprüft.",
     "changes": [
-      "Schneidmesser I in die Prüfung abgewandelter Mittel integriert",
-      "Zahlenangaben des Anspruchs nicht zu bloßen Beispielen erklärt",
-      "Nicht verwendete Entscheidungsnummern durch konkrete Forschungsfragen ersetzt",
-      "Neue Entwicklung von ursprünglicher Offenbarung getrennt; Beschränkung, Argumentation und Hilfsanträge am tatsächlichen Bescheideinwand ausgerichtet.",
-      "EPA-Einspruchsbeginn und Gebühr, nationale Nichtigkeitssperre sowie eigenständige Grenzen nach Artikel 123 EPÜ ergänzt.",
-      "Produktversion, Versuchsfrage und Gegenbefunde sowie Lizenzereignis, Retouren und Rechteänderung bis zur konkreten Dokumentfassung ausgearbeitet.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
-      "2026-10-16, redaktioneller Einstiegsreview: Anspruchsbezogenen Schutzbereich und drei Äquivalenzanforderungen vor die technische Aufnahme gestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "Schutzgegenstand, Zielakteur und verfügbare Beweise vor dem Formulieren klären.",
+      "Konkrete Erfinderantworten, Anspruchswortlaut, Beschreibung und verbleibende Unsicherheit gemeinsam fortschreiben."
     ],
-    "sha256": "1b97e7c724fb48820e3871136be026d17573d7d4ff10e46c35bc454906a82b87",
-    "reviewed_on": "2026-10-16",
+    "sha256": "ddec62b40e1b62d2c9ab36a3664c69f77882a341497894e3872b8ec1ed40785e",
+    "reviewed_on": "2026-11-24",
     "method": "desk_review",
-    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+    "review_scope": "Fachlektüre der Anmeldewege und Abgleich mit den Arbeitsakten. Keine gemessenen Modellantworten; ältere Prüfungen bleiben mit ihrem damaligen Geltungsbereich archiviert."
   },
   "selection": {
     "positive": [
       "Prüfe mein Produkt anhand des geltenden Patentanspruchs auf Verletzung.",
-      "Ordne geplante Anspruchsänderungen den ursprünglichen Offenbarungsstellen zu."
+      "Ordne geplante Anspruchsänderungen den ursprünglichen Offenbarungsstellen zu.",
+      "Patentanmelder: Prüfe die Ansprüche meines Entwurfs einzeln und arbeite aus der Erfinderschilderung eine vollständige Patentanmeldung aus.",
+      "Nach dem Versuch passen Anspruch 1 und Beschreibung nicht mehr zusammen. Stelle die entscheidende Rückfrage und schreibe die konkrete Anmeldung fort."
     ],
     "negative": [
       "Erstelle ausschließlich Suchstrings und ein Datenbankprotokoll ohne rechtliche Patentbewertung.",
       "Prüfe ausschließlich den Designschutz der äußeren Gehäuseform, ohne technische Schutzrechte."
-    ]
+    ],
+    "target_skill": "juristischer-argumentationskern"
   },
   "cases": [
     {
@@ -126,21 +158,293 @@
         }
       ],
       "target_skill": "schutzbereich-und-fto-bearbeiten"
+    },
+    {
+      "id": "01-moebel-schnappfuss-grundakte",
+      "request": "KM/26-114 · R40 · Vertreten Sie den Zubehörhersteller. Erheben Sie die Erfindung im Gespräch mit Konstruktion, Montage und Vertrieb und protokollieren Sie zu jedem strittigen Merkmal Frage, belegte Antwort und Folge für V0. Prüfen Sie die drei vorgelegten Ansprüche an Figur 1, P-141 und den fiktiven Unterlagen D1/D2. Erstellen Sie eine einreichungsnahe deutsche Anmeldeschrift mit aufeinander abgestimmten Patentansprüchen, Beschreibung, Figurenbeschreibung, Bezugszeichenliste und Zusammenfassung. Stellen Sie daneben dar, welche Handlungen des Zubehörlieferanten und des Monteurs sich anhand welcher Belege nachweisen ließen. Bearbeiten Sie ausschließlich den jetzt übergebenen Aktenstand; markieren Sie offene Punkte und die entscheidende nächste Rückfrage.",
+      "input_files": [
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Grundakte/01_mandat.eml",
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Grundakte/02_werkstattbuch.docx",
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Grundakte/03_schnittskizze.svg",
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Grundakte/04_pruefblatt.xlsx",
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Grundakte/05_entwurf_v0.docx",
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Grundakte/06_d1_steckfuss.txt",
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Grundakte/07_d2_schieber.txt"
+      ],
+      "deliverables": [
+        "anmeldung.md",
+        "pruefvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Stellt Zunge, Rastnase, Führung und seitlich beweglichen Schieber anhand der Werkstattnotiz und Figur 1 in einer tatsächlich beanspruchten Kombination dar.",
+          "deliverables": [
+            "anmeldung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft die drei Ansprüche aus V0, benennt die ungeklärte Ausgangsstellung bei P-141 und fragt nach einer Kraftübertragung vom Teller.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft D1 und D2 zunächst jeweils allein, unterscheidet am losen Zubehör sichtbare Merkmale von der Kombination mit der Stütze.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        }
+      ],
+      "target_skill": "juristischer-argumentationskern",
+      "decode_mime_mail": true
+    },
+    {
+      "id": "01-moebel-schnappfuss-nachreichung",
+      "request": "KM/26-114 · R40 · Öffnen Sie am 17. und 18. November den Montagerücklauf und die Kontrolluntersuchung. Konfrontieren Sie die Erfinderin nochmals mit dem ursprünglichen Verkaufsversprechen. Legen Sie eine geänderte Anmeldeschrift und eine kurze Synopse mit den betroffenen Anspruchswörtern, den Quellen und den verbleibenden Grenzen vor. Rekonstruieren Sie zunächst die bisher vertretbare Fassung anhand der Grundakte. Stellen Sie danach für jedes von der Nachreichung betroffene Merkmal alten Wortlaut, neuen Wortlaut, Quelle und Konsequenz gegenüber.",
+      "input_files": [
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Grundakte/01_mandat.eml",
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Grundakte/02_werkstattbuch.docx",
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Grundakte/03_schnittskizze.svg",
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Grundakte/04_pruefblatt.xlsx",
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Grundakte/05_entwurf_v0.docx",
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Grundakte/06_d1_steckfuss.txt",
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Grundakte/07_d2_schieber.txt",
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Nachreichungen/08_montageruecklauf.eml",
+        "patentrecht/Patentanmelder/01-moebel-schnappfuss/Nachreichungen/09_antwort_erfinderin.docx"
+      ],
+      "deliverables": [
+        "anmeldung.md",
+        "pruefvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Arbeitet den belegten manuellen Riegel in den fertigen Anspruchssatz samt Beschreibung, Bezugszeichen und Zusammenfassung ein.",
+          "deliverables": [
+            "anmeldung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Korrigiert den Ausgangszustand von A-02/B-02. A-11 blieb unter 500 N offen, A-12 erreichte von Hand 4,0 mm. Die 300 N bezeichnen eine Abschaltschwelle.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verfolgt den geänderten Wortlaut bis zur Reichweite für Zubehör und Regal und hält die ungestützte Lastbetätigung L aus dem eingereichten Anspruchsentwurf heraus.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        }
+      ],
+      "target_skill": "juristischer-argumentationskern",
+      "decode_mime_mail": true
+    },
+    {
+      "id": "02-gewaechshaus-beschattung-grundakte",
+      "request": "KM/26-119 · GH2 · Übernehmen Sie das Mandat von Blattwinkel. Befragen Sie Produktleitung, Entwicklung, Betreiberin und Ferndienst getrennt zu Signal, Handlung und Nachweis. Prüfen Sie G0 anhand von F12 und D1/D2. Entwerfen Sie aus den tragfähigen Angaben eine vollständige deutsche Patentanmeldung einschließlich Figurenbeschreibung, Ansprüchen und Zusammenfassung. Arbeiten Sie den verkauften Regler, die Mehrzonenanlage und den tatsächlichen Ablauf auseinander. Benennen Sie dem Mandanten die Beweise, die für eine spätere Verletzungsprüfung im Client, beim Dienst und vor Ort zugänglich wären. Bearbeiten Sie ausschließlich den jetzt übergebenen Aktenstand; markieren Sie offene Punkte und die entscheidende nächste Rückfrage.",
+      "input_files": [
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Grundakte/01_auftrag.eml",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Grundakte/02_verdrahtung.docx",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Grundakte/03_schaltschema.svg",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Grundakte/04_abnahme.xlsx",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Grundakte/05_anspruchsentwurf.docx",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Grundakte/06_d1_klimarechner.txt",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Grundakte/07_d2_anlaufverteiler.txt"
+      ],
+      "deliverables": [
+        "anmeldung.md",
+        "pruefvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Entwirft eine technisch ausführbare Fassung für den lokalen Regler und grenzt die Mehrzonenanlage und den Ablauf ab.",
+          "deliverables": [
+            "anmeldung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Stellt der Cloudbehauptung in G0 den begrenzten Inhalt der Quittungen gegenüber; fragt nach dem auslösenden Signal für den zweiten Ausgang.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ordnet D1, D2, getrennte Akteure und die ohne synchronisierte Uhren begrenzte Aussage von F12 den jeweiligen Merkmalen zu.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        }
+      ],
+      "target_skill": "juristischer-argumentationskern",
+      "decode_mime_mail": true
+    },
+    {
+      "id": "02-gewaechshaus-beschattung-nachreichung",
+      "request": "KM/26-119 · GH2 · Legen Sie erst nach der ersten Gesprächsrunde die Antworten zum Netztrennversuch, zur Cloudquittung und zum Ersatzgerät vor. Überarbeiten Sie den Entwurf mit der neuen Signalfolge. Kennzeichnen Sie ausdrücklich, welche bisherige Behauptung entfällt und welcher technische Zustand bei fehlendem Endschalter offenbleibt. Rekonstruieren Sie zunächst die bisher vertretbare Fassung anhand der Grundakte. Stellen Sie danach für jedes von der Nachreichung betroffene Merkmal alten Wortlaut, neuen Wortlaut, Quelle und Konsequenz gegenüber.",
+      "input_files": [
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Grundakte/01_auftrag.eml",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Grundakte/02_verdrahtung.docx",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Grundakte/03_schaltschema.svg",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Grundakte/04_abnahme.xlsx",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Grundakte/05_anspruchsentwurf.docx",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Grundakte/06_d1_klimarechner.txt",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Grundakte/07_d2_anlaufverteiler.txt",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Nachreichungen/08_erfinderantwort.eml",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Nachreichungen/09_brokerbefund.eml",
+        "patentrecht/Patentanmelder/02-gewaechshaus-beschattung/Nachreichungen/10_tauschprotokoll.xlsx"
+      ],
+      "deliverables": [
+        "anmeldung.md",
+        "pruefvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Fasst die Freigabe anhand abgeschalteten Ausgangs und für eine Mindestdauer unterschrittenen gemessenen Nachlaufstroms; schließt den bloßen Timer nicht durch ein unbelegtes Wirkungsversprechen aus.",
+          "deliverables": [
+            "anmeldung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erklärt die Messwerte des Netztrennversuchs, den Unterschied zum festen 500-ms-Timer und die begrenzte Aussage der Cloudquittung.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt nach Gerätetausch unbekannte Stellung, lokale Referenzfahrt mit Endkontakt und fehlgeschlagene Referenz; ordnet Hersteller, Betreiberin und Ferndienst konkreten Belegen zu.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        }
+      ],
+      "target_skill": "juristischer-argumentationskern",
+      "decode_mime_mail": true
+    },
+    {
+      "id": "03-fruchtkisten-pruefstand-grundakte",
+      "request": "KM/26-123 · FK8 · Prüfen Sie E1 Wort für Wort, einschließlich Rückbezügen, Gegenstand, zeitlicher Aussage, Prioritätsstütze und technischer Ausführbarkeit. Führen Sie ein Streitgespräch mit Erfinderin, Versuchsfeld und Patentkoordination über das angezeigte Graufeld. Geben Sie jeder Merkmalskombination eine konkrete Fundstelle und einen möglichen wirksamen Zeitrang. Prüfen Sie D1 und D2 getrennt nach Datum und Inhalt. Erstellen Sie vor der Freigabe eine vollständige europäische Anmeldeschrift mit Ansprüchen, Beschreibung, Figurenangaben und Zusammenfassung. Nennen Sie ausstehende Freigaben, ohne eine Einreichung zu behaupten. Bearbeiten Sie ausschließlich den jetzt übergebenen Aktenstand; markieren Sie offene Punkte und die entscheidende nächste Rückfrage.",
+      "input_files": [
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Grundakte/01_prioritaetsakte.docx",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Grundakte/01a_prioritaetsfigur.svg",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Grundakte/02_versuchsjournal.docx",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Grundakte/03_auftrag.eml",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Grundakte/04_entwurf_e1.docx",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Grundakte/05_d1_zweilicht.txt",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Grundakte/06_d2_referenz.txt"
+      ],
+      "deliverables": [
+        "anmeldung.md",
+        "pruefvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verfasst einen abgestimmten Anspruchssatz für Prüfstand und Verfahren. Löst den Zirkel zwischen Anspruch 2/3 und die Verwechslung von Kiste und Lebensmittel.",
+          "deliverables": [
+            "anmeldung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet P0, E1 und D1/D2 nach Datum und technischer Merkmalskombination zu; die Priorität des Referenzabgleichs bleibt überprüfungsbedürftig.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Hinterfragt das zusammengefügte Bedienbild, verlangt Rohbilder und Freigabe-/Einreichungsstand und wahrt bei unbelegter Gleichzeitigkeit den offenen Punkt.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        }
+      ],
+      "target_skill": "juristischer-argumentationskern",
+      "decode_mime_mail": true
+    },
+    {
+      "id": "03-fruchtkisten-pruefstand-nachreichung",
+      "request": "KM/26-123 · FK8 · Nach der ersten Fassung trifft die Nachricht ein, dass E1 bereits unverändert eingereicht wurde. Prüfen Sie das Zeitstempelprotokoll und die neue Figur mit der Erfinderin. Fordern Sie die Rohbilder an, soweit ihre eigene Prüfung für eine Aussage erforderlich ist. Entwerfen Sie einen auf die eingereichten Unterlagen gestützten Änderungssatz für E1 und eine gesonderte vollständige Anmeldeschrift E2 für den später konkretisierten Prüfstand. Ordnen Sie für beide Wege Prioritätsfenster, zwischenzeitliche Offenbarungen und die Vorführung am 4. Dezember ein. Rekonstruieren Sie zunächst die bisher vertretbare Fassung anhand der Grundakte. Stellen Sie danach für jedes von der Nachreichung betroffene Merkmal alten Wortlaut, neuen Wortlaut, Quelle und Konsequenz gegenüber.",
+      "input_files": [
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Grundakte/01_prioritaetsakte.docx",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Grundakte/01a_prioritaetsfigur.svg",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Grundakte/02_versuchsjournal.docx",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Grundakte/03_auftrag.eml",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Grundakte/04_entwurf_e1.docx",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Grundakte/05_d1_zweilicht.txt",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Grundakte/06_d2_referenz.txt",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Nachreichungen/07_eingangsvermerk.eml",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Nachreichungen/08_erfinderantwort.docx",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Nachreichungen/09_rohdaten.csv",
+        "patentrecht/Patentanmelder/03-fruchtkisten-pruefstand/Nachreichungen/10_figur_nachtrag.svg"
+      ],
+      "deliverables": [
+        "anmeldung.md",
+        "pruefvermerk.md",
+        "weitere-anmeldung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erarbeitet eine für die tatsächlich eingereichte E1 belegbare Änderung mit Fundstellen zu den gespeicherten Referenzgrauwerten. Später bestätigte mechanische oder zeitliche Details begründen keine ursprüngliche Offenbarung.",
+          "deliverables": [
+            "anmeldung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet im Zeitstempelprotokoll Z31 Referenzbilder bei 80/115 ms und Objektbilder bei 545/580 ms zu, erkennt das Fehlen der Bilddateien und fordert sie für eine eigene Bildprüfung an; trennt die Beweisbedeutung der nachträglichen Figur von P0 und dem am 20.11. eingereichten E1.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt den Zeitrang je Kombination, das Prioritätsjahr ab 02.12.2025, D2 vom 18.05.2026 und die geplante Vorführung am 04.12.2026. Prüft neue Anmeldung vor Offenbarung.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Formuliert eine getrennte vollständige Neuanmeldung für Schwenkarm, Referenzplatte und Freigabe der Objektaufnahme mit eigenen gestützten Rückfallpositionen.",
+          "deliverables": [
+            "weitere-anmeldung.md"
+          ]
+        }
+      ],
+      "target_skill": "juristischer-argumentationskern",
+      "decode_mime_mail": true
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-10-01",
+    "date": "2026-11-24",
     "files": [
       "patentrecht/patentrecht-werkstatt.md",
       "patentrecht/patentrecht-schnellstart.md",
       "patentrecht/README.md",
       "quality/evals/patentrecht.json"
     ],
-    "opening_change": "Geltenden Patentanspruch, Produktmerkmal und vorveröffentlichten Stand der Technik unmittelbar vergleichen.",
+    "opening_change": "Die Anmeldung beginnt beim technischen Unterschied, seinen Belegen und dem wirtschaftlich verletzungsrelevanten Gegenstand. Bei klarem Bestands-, Verletzungs- oder Lizenzauftrag bleibt der Einstieg bei der dafür maßgeblichen Fassung.",
     "norms": [
       "Paragraf 14 PatG",
       "Paragrafen 3, 4 und 139 PatG",
-      "Artikel 69 EPÜ"
+      "Artikel 69 EPÜ",
+      "§§ 34, 35, 36 und 38 PatG",
+      "§§ 9 und 10 PatV",
+      "Art. 84, 87 und 123 Abs. 2 EPÜ"
     ],
     "decisions": [
       {
@@ -154,25 +458,32 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2024/X_ZR__35-24.pdf?__blob=publicationFile&v=1",
         "application": "Zweckangabe oder zwingender Verfahrensschritt durch Anspruchsauslegung bestimmen; Ausgangspunkt und Übergriff auf fremdes Fachgebiet mit konkretem Anlass begründen.",
         "limit": "Keine allgemeine Pflicht zur tatsächlichen Zweckverwendung und kein Verbot gebietsübergreifender Recherche; deutsche Nichtigkeitsentscheidung, keine Aussage zur Bindung der EPA-Kammern."
+      },
+      {
+        "citation": "EPA, Große Beschwerdekammer, 30.08.2011, G 2/10, Gründe 4.3 und Entscheidungsformel",
+        "url": "https://www.epo.org/de/legal/official-journal/2012/06/p376",
+        "application": "Bei einer Anspruchsänderung prüfen, ob der verbleibende Gegenstand für die Fachperson unmittelbar und eindeutig aus den ursprünglich eingereichten Unterlagen hervorgeht.",
+        "limit": "Die Entscheidung betraf einen offenbarten Disclaimer. Sie entscheidet weder den technischen Gehalt der fiktiven Unterlagen noch deren Priorität."
       }
     ],
     "remaining_limits": [
       "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
       "Keine technische Begutachtung konkreter Sensoren oder Schneidvorrichtungen; SEP-/FRAND-Spezialrecht nicht neu vollständig geprüft.",
-      "Workflow-Nachprüfung 2026-09-23: Schneidmesser I Gründe II.3.a bis d bei WIPO erneut gelesen; Paragraf 14 über Gesamtgesetz statt fehlgeschlagenem Einzelabruf geprüft. Artikel 99 und 123 EPÜ sowie Paragraf 81 PatG für Ergänzungen gelesen. Paragraf 59 als Einzelseite nicht erreichbar und nicht neu vollverifiziert; keine tatsächliche Amtsakte, technische Untersuchung oder Vertragsverhandlung ausgeführt."
+      "Workflow-Nachprüfung 2026-09-23: Schneidmesser I Gründe II.3.a bis d bei WIPO erneut gelesen; Paragraf 14 über Gesamtgesetz statt fehlgeschlagenem Einzelabruf geprüft. Artikel 99 und 123 EPÜ sowie Paragraf 81 PatG für Ergänzungen gelesen. Paragraf 59 als Einzelseite nicht erreichbar und nicht neu vollverifiziert; keine tatsächliche Amtsakte, technische Untersuchung oder Vertragsverhandlung ausgeführt.",
+      "Am 24.11.2026 wurden die Anmeldewege anhand fiktiver Akten, Textfassungen und bezeichneten Primärnormen gelesen. Eine tatsächliche Prüfung durch DPMA oder EPA und ein Lauf mit Claude wurden nicht durchgeführt."
     ]
   },
   "prompt_workflow_review": {
-    "date": "2026-09-23",
+    "date": "2026-11-24",
     "method": "desk_review",
     "opening_modes": [
-      "Leer: Auswahl zwischen Anspruchs-/Produktvergleich, Anmeldung/Bescheid und Lizenz/Bestandsangriff; Mini fokussiert drei konkrete Arbeitsprodukte.",
-      "Dateien ohne Auftrag: Patentfassung oder technische Unterlagen still lesen und nur das gewünschte Ergebnis klären.",
-      "Klarer Auftrag: Anspruchsentwurf, Erwiderung, Bewertung oder Lizenzregel sofort bearbeiten; nur entscheidende Fassung, Staat oder technische Lücke erfragen."
+      "Vorhandenen Anspruchssatz mit ausdrücklich benannten Mängeln und Rückbezügen bearbeiten.",
+      "Ohne Anspruchsentwurf anhand der technischen Schilderung einen vorläufigen Hauptanspruch und die entscheidende Rückfrage entwickeln.",
+      "Vorhandenen Verletzungs-, Bestands- oder Lizenzauftrag anhand seiner eigenen Fassung und Belege weiterführen."
     ],
-    "continuation": "Neue Serienzeichnung ändert Sensorbefund und Schlussfolgerung in verletzungsvermerk.md; Offenbarungsstelle ändert Anspruch und Begründung in bescheidserwiderung.md; Gebietsangabe ändert Rechteumfang und Verweise in lizenzvertrag.md.",
-    "enrichment": "Technische Alternativen und ursprüngliche Stütze, Änderung und Hilfsanträge, EPA-Frist und nationale Sperre, reproduzierbare Produktbefunde, einzelne Rechtsfolgen und konkrete Lizenzabrechnung.",
-    "limits": "desk review; no live client execution"
+    "continuation": "Erfinderantwort, Messprotokoll oder späterer Eingang ändern nur die belegte Fassung. Beim Fruchtkisten-Prüfstand nach dem Eingangsvermerk den beschränkten Änderungsweg E1 und die ergänzte neue Anmeldung getrennt ausarbeiten.",
+    "enrichment": "Grundakte und Nachreichung getrennt ausgewertet: Lastantrieb beim Möbelfuß, Motorstrom und Referenzfahrt im Gewächshaus, Aufnahmereihenfolge und Prioritätsstütze am Prüfstand.",
+    "limits": "Redaktionelle Prüfung der Belege und Ergebnisse, technisch durch die Bereitstellung unverfälschter Stufen geprüft. Keine Ausführung mit einem Modell und keine Aussage über die tatsächliche Auswahl durch einen Client."
   },
   "visual_workflow_review": {
     "method": "desk_review",
@@ -183,5 +494,11 @@
     ],
     "limits": "Keine erneute Rechtsquellenverifikation und kein Live-Modelltest. Bereits offene Prüfungen bleiben offen.",
     "pending_prior_changes": []
+  },
+  "reviewed_file_hashes": {
+    "patentrecht/references/patentanmelder-anspruchswerkstatt.md": "76a6ab20858fc88044b75f2253b80c6f5d3b263f4f574eadd65e850496cbee8c",
+    "scripts/data/patentanmelder/01-moebel-schnappfuss.json": "67b111d8ed2124ed7d34c559a0c88c6f400c9b338d620581a38b288776b013a5",
+    "scripts/data/patentanmelder/02-gewaechshaus-beschattung.json": "42ed27ac12d8aff9030d3b986219abd44cb9ee71a1d6dec3c411f9a11625a721",
+    "scripts/data/patentanmelder/03-fruchtkisten-pruefstand.json": "2a15c617d826fb9a02bac05fbe7c15160fe0c9832f4e298960fc0cc2c7fe3e31"
   }
 }

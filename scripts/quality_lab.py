@@ -18,6 +18,8 @@ import sys
 import time
 import tempfile
 from datetime import date, datetime, timezone
+from email import policy
+from email.parser import BytesParser
 from importlib.metadata import version
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlsplit
@@ -433,6 +435,8 @@ def validate_profile(profile, plugin, directory, root=ROOT):
         if not isinstance(target, str) or not SLUG.fullmatch(target) or not (directory / "skills" / target / "SKILL.md").is_file():
             raise LabError(f"Zielskill fehlt: {target}")
         list_strings(case.get("input_files", []), "Eingabedateien", minimum=0)
+        if "decode_mime_mail" in case and case["decode_mime_mail"] is not True:
+            raise LabError("MIME-Textlesung muss ausdrücklich aktiviert sein")
         for name in case.get("input_files", []):
             path = inside(root, name)
             if not path.is_file() or path.name == "rubric.yaml" or path.is_relative_to((root / "quality").resolve()):
@@ -516,7 +520,7 @@ def workbook_text(workbook):
             yield "\t".join(str(v) if v is not None else "" for v in row)
 
 
-def read_artifact(path: Path, *, raw: bytes | None = None) -> str:
+def read_artifact(path: Path, *, raw: bytes | None = None, decode_mime_mail=False) -> str:
     raw = bounded_bytes(path) if raw is None else raw
     if not raw:
         raise LabError(f"Leere Ergebnisdatei: {path.name}")
@@ -549,6 +553,23 @@ def read_artifact(path: Path, *, raw: bytes | None = None) -> str:
         if len(reader.pages) > 200:
             raise LabError("PDF überschreitet Seitenbudget; engeren Prüfauftrag verwenden")
         text = bounded_text(page.extract_text() or "" for page in reader.pages)
+    elif suffix == ".svg":
+        svg = "{http://www.w3.org/2000/svg}"
+        figure = ElementTree.fromstring(raw)
+        if figure.tag != svg + "svg":
+            raise LabError("Dateiendung täuscht SVG-Zeichnung vor")
+        labels = [node for node in figure.iter() if node.tag in {svg + "text", svg + "title", svg + "desc"}]
+        text = bounded_text("".join(node.itertext()).strip() for node in labels)
+        if text.strip():
+            text = "Beschriftungen der SVG-Zeichnung. Geometrie am Original prüfen.\n" + text
+    elif suffix == ".eml" and decode_mime_mail:
+        mail = BytesParser(policy=policy.default).parsebytes(raw)
+        if (mail.get_content_type() == "text/plain" and not mail.is_multipart()
+                and mail.get("Content-Transfer-Encoding", "").lower() in {"quoted-printable", "base64"}):
+            headers = "\n".join(f"{field}: {value}" for field, value in mail.items())
+            text = headers + "\n\n" + mail.get_content()
+        else:
+            text = raw.decode("utf-8")
     elif suffix in {".md", ".txt", ".csv", ".json", ".eml"}:
         text = raw.decode("utf-8")
     else:
@@ -791,7 +812,7 @@ def remote_judge(judge, prompt):
     return choice.get("message", {}).get("content", "")
 
 
-def read_source_documents(run, manifest):
+def read_source_documents(run, manifest, *, decode_mime_mail=False):
     inputs = {}
     for name, expected in manifest["inputs"].items():
         if name in {"request.txt", "instructions.md"}:
@@ -800,7 +821,10 @@ def read_source_documents(run, manifest):
         raw = bounded_bytes(path)
         if digest(raw) != expected:
             raise LabError("Eingaben während der Prüfung geändert")
-        inputs[name] = read_artifact(path, raw=raw)
+        if decode_mime_mail and path.suffix.lower() == ".eml":
+            inputs[name] = read_artifact(path, raw=raw, decode_mime_mail=True)
+        else:
+            inputs[name] = read_artifact(path, raw=raw)
     return inputs
 
 
@@ -827,7 +851,7 @@ def evaluate(run, config, allow_remote=False, root=ROOT, caller=None):
         raise LabError("Externe Übermittlung nicht freigegeben; --allow-remote erforderlich")
     call = caller or remote_judge
     manifest, _ = current_case(run, root)
-    inputs = read_source_documents(run, manifest)
+    inputs = read_source_documents(run, manifest, decode_mime_mail=case.get("decode_mime_mail", False))
     grading = grading_context(inputs, artifacts, "remote_api" if caller is None else "local_adapter")
     results = []
     for judge in judges:
@@ -904,7 +928,7 @@ def compare(paths, root=ROOT):
         if run in seen:
             raise LabError("Derselbe Lauf darf nicht mehrfach verglichen werden")
         seen.add(run)
-        manifest, _ = current_case(run, root)
+        manifest, case = current_case(run, root)
         inspection, _, artifacts = inspect_run(run, root)
         score = load(run / "scores_dual.json")
         if score.get("run_fingerprint") != inspection["run_fingerprint"]:
@@ -916,7 +940,8 @@ def compare(paths, root=ROOT):
             raise LabError("Lauf eignet sich nicht für die Ergebnisbewertung")
         grading = comparison_grading(score)
         if grading and grading["grader_sha256"] == GRADER_SHA256:
-            observed = grading_context(read_source_documents(run, manifest), artifacts, grading["execution"])
+            inputs = read_source_documents(run, manifest, decode_mime_mail=case.get("decode_mime_mail", False))
+            observed = grading_context(inputs, artifacts, grading["execution"])
             if observed["reader_versions"] == grading["reader_versions"] and observed != score["grading"]:
                 raise LabError("Bewertung beruht auf abweichender Textsicht")
         # Alte Ergebnisse bleiben sichtbar. Ohne erfassten Bewertungsstand

@@ -1,0 +1,472 @@
+{
+  "titel": "Der Schnappfuß am Regal R40",
+  "zeichen": "KM/26-114 · R40",
+  "einstieg": "Ein Zubehörhersteller will seinen nachrüstbaren Fuß vor einem Händlertermin schützen. Der Vertrieb verspricht eine selbsttätige Sperre unter Last. Die Werkstattzeichnungen und die ersten Messergebnisse erlauben mehrere Deutungen.",
+  "auftrag": "Vertreten Sie den Zubehörhersteller. Erheben Sie die Erfindung im Gespräch mit Konstruktion, Montage und Vertrieb und protokollieren Sie zu jedem strittigen Merkmal Frage, belegte Antwort und Folge für V0. Prüfen Sie die drei vorgelegten Ansprüche an Figur 1, P-141 und den fiktiven Unterlagen D1/D2. Erstellen Sie eine einreichungsnahe deutsche Anmeldeschrift mit aufeinander abgestimmten Patentansprüchen, Beschreibung, Figurenbeschreibung, Bezugszeichenliste und Zusammenfassung. Stellen Sie daneben dar, welche Handlungen des Zubehörlieferanten und des Monteurs sich anhand welcher Belege nachweisen ließen.",
+  "nachreichung": "Öffnen Sie am 17. und 18. November den Montagerücklauf und die Kontrolluntersuchung. Konfrontieren Sie die Erfinderin nochmals mit dem ursprünglichen Verkaufsversprechen. Legen Sie eine geänderte Anmeldeschrift und eine kurze Synopse mit den betroffenen Anspruchswörtern, den Quellen und den verbleibenden Grenzen vor.",
+  "quellen": [
+    [
+      "§ 3 PatG",
+      "https://www.gesetze-im-internet.de/patg/__3.html"
+    ],
+    [
+      "§ 4 PatG",
+      "https://www.gesetze-im-internet.de/patg/__4.html"
+    ],
+    [
+      "§ 34 PatG",
+      "https://www.gesetze-im-internet.de/patg/__34.html"
+    ],
+    [
+      "§ 38 PatG",
+      "https://www.gesetze-im-internet.de/patg/__38.html"
+    ],
+    [
+      "Art. 54 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a54.html"
+    ],
+    [
+      "Art. 56 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a56.html"
+    ],
+    [
+      "Art. 83 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a83.html"
+    ],
+    [
+      "Art. 84 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a84.html"
+    ],
+    [
+      "§ 9 PatG",
+      "https://www.gesetze-im-internet.de/patg/__9.html"
+    ],
+    [
+      "§ 10 PatG",
+      "https://www.gesetze-im-internet.de/patg/__10.html"
+    ]
+  ],
+  "dokumente": [
+    {
+      "phase": "Grundakte",
+      "datei": "01_mandat.eml",
+      "titel": "Der Fuß für Regalserie R40 · vor dem Ersatzteilgespräch",
+      "datum": "2026-11-06",
+      "von": "Lutz Ebert · Kante & Kufe Zubehörtechnik GmbH, Geschäftsführung",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Wir verkaufen den Fuß künftig im Zweierbeutel ohne Stütze. Maßwerk baut ihn an gebrauchten Regalen ein. Ein Wettbewerber könnte genau diesen Beutel anbieten und den letzten Handgriff dem Monteur überlassen. Ein Anspruch, den nur der fertig eingerichtete Laden erfüllt, hilft mir bei dieser Vertriebsform wenig. Die Geschäftsführung möchte bis 25. November eine unterschriftsreife deutsche Erstanmeldung sehen.",
+        "Im Vertrieb sagen wir bisher „der Fuß sperrt sich unter dem Regalgewicht selbst“. Ich habe Entwicklung und Montage gebeten, diesen Satz am Vorführstück zu überprüfen. Der Händlertermin ist am 26. November. Bislang gab es nur Gespräche mit namentlich erfassten Monteuren unter Vertraulichkeitsvereinbarung. Vor der Freigabe bitte ich um Abgleich mit dem Vorführkalender."
+      ],
+      "absender": "l.ebert@kante-kufe.example",
+      "empfaenger": "t.mund@kanzlei-mund.example",
+      "uhrzeit": "09:12"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "02_werkstattbuch.docx",
+      "titel": "Werkstattbuch M-14 · Riegel hinter der Rastzunge",
+      "datum": "2026-11-09",
+      "von": "Mara Siem · Kante & Kufe Zubehörtechnik GmbH, Konstruktion",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Der Fußkörper 10 wird von unten auf eine rechteckige, unten offene Stahlstütze 50 der Regalserie R40 gesteckt. Ihr Außenquerschnitt beträgt 40 × 30 mm. Zwei Führungswangen des Körpers übergreifen die Außenwand. Die Stirnkante der Stütze trägt auf dem geschlossenen Bodenteller 20. In der Stützenwand liegt ein vorhandenes querrechteckiges Fenster 52, Unterkante 14 mm über der Stirnkante.",
+        "Eine an der Wand des Körpers befestigte federnde Zunge 30 trägt an der zur Stütze gewandten Seite eine Nase 32. Beim Aufstecken drängt die Stützenwand die Nase nach außen. Auf Fensterhöhe federt die Nase nach innen. Hinter dem freien Zungenende liegt ein Freiraum. Der geführte Schieber 40 kann in diesen Raum einfahren. In der anderen Endstellung ist der Freiraum für das Ausfedern offen. Die Rasttaschen im Körper halten beide Schieberstellungen.",
+        "Stand A vom 28. Oktober hat eine in den Kunststoffkörper eingeformte Zunge und eine seitliche Lasche am Schieber. Stand B verwendet eine angeschraubte Federstahlzunge. Ich hatte daneben eine Variante L mit federndem Teller und Schrägkulisse skizziert. Der Zettel liegt nur in meinem Ideenskizzenbuch. Im Präsentationsmuster waren die Innenteile mit weißem Band überklebt. Welcher Antrieb tatsächlich gemessen wurde, muss Pia anhand der Probennummer klären."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "03_schnittskizze.svg",
+      "titel": "Figur 1 · Raststelle an der Stützenwand, Schieber eingefahren",
+      "datum": "2026-11-09",
+      "von": "Mara Siem · Kante & Kufe Zubehörtechnik GmbH, Konstruktion",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Schnitt durch eine Führungswange, schematisch und ohne Maßstab. Links liegt der Innenraum der Stütze, rechts der von außen erreichbare Schieber. Die Unterbrechung in der Stützenwand ist das Rastfenster. Die Zunge ist unten am Fußkörper gehalten. Der am oberen Ende eingezeichnete Vorsprung greift durch das Fenster.",
+        "Der schraffurfreie rechteckige Kopf rechts hinter der Zunge gehört zum Schieber. Die Führung lässt seine Rücknahme nach rechts zu. Die Zeichnung beschreibt die Sperrstellung. Ein Lastantrieb oder ein federnder Bodenteller ist in dieser Figur nicht eingezeichnet."
+      ],
+      "figur": {
+        "linien": [
+          [
+            [
+              180,
+              273
+            ],
+            [
+              518,
+              273
+            ],
+            [
+              518,
+              296
+            ],
+            [
+              180,
+              296
+            ],
+            [
+              180,
+              273
+            ]
+          ],
+          [
+            [
+              385,
+              273
+            ],
+            [
+              385,
+              101
+            ],
+            [
+              414,
+              101
+            ],
+            [
+              414,
+              273
+            ]
+          ],
+          [
+            [
+              275,
+              272
+            ],
+            [
+              275,
+              174
+            ],
+            [
+              287,
+              174
+            ],
+            [
+              287,
+              272
+            ]
+          ],
+          [
+            [
+              275,
+              138
+            ],
+            [
+              275,
+              65
+            ],
+            [
+              287,
+              65
+            ],
+            [
+              287,
+              138
+            ]
+          ],
+          [
+            [
+              316,
+              264
+            ],
+            [
+              316,
+              160
+            ],
+            [
+              261,
+              160
+            ],
+            [
+              261,
+              147
+            ],
+            [
+              328,
+              147
+            ],
+            [
+              328,
+              264
+            ],
+            [
+              316,
+              264
+            ]
+          ],
+          [
+            [
+              330,
+              145
+            ],
+            [
+              380,
+              145
+            ],
+            [
+              380,
+              168
+            ],
+            [
+              330,
+              168
+            ],
+            [
+              330,
+              145
+            ]
+          ],
+          [
+            [
+              380,
+              151
+            ],
+            [
+              468,
+              151
+            ],
+            [
+              468,
+              162
+            ],
+            [
+              380,
+              162
+            ],
+            [
+              380,
+              151
+            ]
+          ],
+          [
+            [
+              468,
+              140
+            ],
+            [
+              477,
+              140
+            ],
+            [
+              477,
+              175
+            ],
+            [
+              468,
+              175
+            ],
+            [
+              468,
+              140
+            ]
+          ]
+        ],
+        "kreise": [],
+        "bezugszeichen": [
+          [
+            "10",
+            "Fußkörper mit Führungswange",
+            409,
+            110,
+            509,
+            69
+          ],
+          [
+            "20",
+            "Bodenteller",
+            223,
+            285,
+            144,
+            309
+          ],
+          [
+            "30",
+            "Federnde Zunge",
+            322,
+            211,
+            370,
+            236
+          ],
+          [
+            "32",
+            "Rastnase",
+            263,
+            154,
+            192,
+            169
+          ],
+          [
+            "40",
+            "Schieber mit außenliegender Lasche",
+            441,
+            157,
+            524,
+            191
+          ],
+          [
+            "50",
+            "Stützenwand",
+            281,
+            94,
+            187,
+            72
+          ],
+          [
+            "52",
+            "Rastfenster",
+            280,
+            138,
+            211,
+            119
+          ]
+        ]
+      }
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "04_pruefblatt.xlsx",
+      "titel": "Prüfblatt P-141 · Abziehen bei entlastetem Teller",
+      "datum": "2026-11-11",
+      "von": "Pia Lamm · Kante & Kufe Zubehörtechnik GmbH, Prüflabor",
+      "an": "Mara Siem · Kante & Kufe Zubehörtechnik GmbH, Konstruktion",
+      "text": [
+        "Prüfmaschine Z4, Zugrichtung parallel zur Stützenachse nach unten. Teller frei, Stütze am oberen Ende eingespannt. Die Spalte „vorbelastet“ bezeichnet eine frühere Druckbelastung des Fußes von 500 N über 60 Sekunden. Sie war beim Zugversuch vollständig aufgehoben. Je Zeile wurde ein eigener Prüfling einmal gezogen. Die Kraftabschaltung lag bei 300 N. Der Oberflächenzustand und der manuelle Riegelzustand sind auf dem Durchschlag nicht durchgängig dokumentiert."
+      ],
+      "tabelle": [
+        [
+          "Probe",
+          "Stütze / Wand",
+          "Vorbelastet",
+          "Zugkraft bis Ablösen",
+          "Handnotiz"
+        ],
+        [
+          "A-01",
+          "R40 / 1,5 mm",
+          "nein",
+          "76 N",
+          "Lasche offen"
+        ],
+        [
+          "A-02",
+          "R40 / 1,5 mm",
+          "ja",
+          "bei 300 N noch gehalten",
+          "Übergabe durch Montage"
+        ],
+        [
+          "B-01",
+          "R40 / 1,5 mm",
+          "nein",
+          "71 N",
+          "Zunge Federstahl"
+        ],
+        [
+          "B-02",
+          "R40 / 1,5 mm",
+          "ja",
+          "bei 300 N noch gehalten",
+          "Bedienung ungeklärt"
+        ],
+        [
+          "A-03",
+          "R40 / 2,0 mm",
+          "ja",
+          "121 N",
+          "Riegel ließ sich schwer bewegen"
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "05_entwurf_v0.docx",
+      "titel": "Anspruchsentwurf V0 · Beilage zur Produktfreigabe",
+      "datum": "2026-11-12",
+      "von": "Lutz Ebert · Kante & Kufe Zubehörtechnik GmbH, Geschäftsführung",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "1. Regaleinrichtung mit einer Stütze, einem darin montierten Fuß und einem durch das Gewicht des Regals selbsttätig betätigten Verriegelungsmechanismus, der den Fuß jederzeit sicher an der Stütze hält.",
+        "2. Fuß nach Anspruch 1, bei dem die Verriegelung eine Federstahlzunge umfasst und der Bodenteller sich durch das Regalgewicht verschiebt. 3. Verwendung des Regals nach Anspruch 2 bei einer Zugkraft von mindestens 300 N.",
+        "Ich habe mit „jederzeit“ auch den Transport in entlastetem Zustand gemeint. Von der Lastautomatik verspreche ich mir eine Abgrenzung zum üblichen Steckfuß. Bitte prüfen Sie den Gegenstand des Anspruchs 2, den Absatzkanal und die Zahlen anhand der Originalaufzeichnungen. Ich möchte auch das zweiteilige Produkt ohne mitgelieferte Regalstütze verkaufen können."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "06_d1_steckfuss.txt",
+      "titel": "Fiktive Vergleichsunterlage D1 · Katalogblatt Rasteck",
+      "datum": "2026-11-12",
+      "von": "Ruth Eilert · Kanzlei Mund, Recherche",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "D1 ist ausschließlich für diese Fallakte erdacht. Es gibt keine Veröffentlichungsnummer und keinen externen Fundort. Für die Übung wird eine unbeschränkte Katalogverteilung am 7. Februar 2022 unterstellt.",
+        "Seite 4 zeigt einen Bodenteller mit zwei Führungswangen und einer elastischen Nase. Die Nase federt beim Aufstecken auf eine geschlitzte Metallstütze zurück und rastet im Schlitz. Zum Lösen drückt der Monteur die Nase mit einem Schraubendreher aus dem Schlitz. Der abgebildete Bereich hinter der Nase bleibt auch nach Montage frei. Ein gesondert bewegliches Teil ist dort weder beschrieben noch gezeichnet."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "07_d2_schieber.txt",
+      "titel": "Fiktive Vergleichsunterlage D2 · Verbinder für Regalrückwände",
+      "datum": "2026-11-12",
+      "von": "Ruth Eilert · Kanzlei Mund, Recherche",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "D2 ist ein für die Übung erstellter Montageblattauszug, keine reale Patentschrift. Als Ausgabe- und öffentlicher Verteilungstag gilt im Fall der 19. Juni 2023.",
+        "Zwei starre Pilzzapfen an einer Rückwand gelangen durch weite Schlüsselöffnungen. Ein seitlich von Hand verschiebbares Blech deckt die weiten Öffnungsteile ab. Es verschließt damit den Rückweg der Zapfen. Die Zapfen federn nicht aus. D2 nennt eine flache Bauhöhe und werkzeuglose Demontage als Ziele. Maße für das Einfahren eines Schiebers hinter eine federnde Zunge oder für einen Fuß fehlen."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "08_montageruecklauf.eml",
+      "titel": "So haben wir die Muster tatsächlich verriegelt",
+      "datum": "2026-11-17",
+      "von": "David Kroll · Maßwerk Ladenmontage GmbH, Montageleitung",
+      "an": "Mara Siem · Kante & Kufe Zubehörtechnik GmbH, Konstruktion",
+      "text": [
+        "Ich habe die Fotoserie MZ-28 mit den am 11. November übergebenen Proben abgeglichen. Bei A-02 und B-02 hatte ich vor der Lastbehandlung die seitliche Lasche von Hand bis zum zweiten Klick gedrückt. Die weißen Klebestreifen dienten nur dazu, die Stellung auf dem Transport zu halten. A-01 und B-01 habe ich offen übergeben. Ich habe weder Tellerhub noch selbsttätiges Einfahren beobachtet.",
+        "Bei der 2-mm-Stütze lag unter dem Fenster ein alter Lackgrat. Ich konnte die Lasche nicht bis zum zweiten Klick drücken. Der Zubehörbeutel enthält Körper, Schieber und Anleitung. Die Stütze bleibt beim Ladenbauer. Für den Ausbau ziehen wir zuerst die Lasche zurück und drücken dann die Zunge mit einem schmalen Stift nach außen."
+      ],
+      "absender": "d.kroll@masswerk.example",
+      "empfaenger": "m.siem@kante-kufe.example",
+      "uhrzeit": "08:37"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "09_antwort_erfinderin.docx",
+      "titel": "Erfinderantwort mit Kontrollversuch M-19",
+      "datum": "2026-11-18",
+      "von": "Mara Siem · Kante & Kufe Zubehörtechnik GmbH, Konstruktion",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Die Lastbehauptung aus V0 nehme ich für A und B zurück. Wir haben A-11 im offenen Zustand mit 500 N gedrückt und entlastet. Die Markierung auf der Lasche stand vorher und nachher auf 0,0 mm. Der Teller ist mit dem Körper aus einem Stück. Bei einer unbelasteten anderen Fußprobe A-12 fuhr die Lasche von Hand 4,0 mm bis zum zweiten Rastpunkt. Eine Fühlerlehre von 0,25 mm ließ sich dann hinter dem Zungenende nicht mehr einschieben. Der Zugversuch endete bei 300 N, ohne Ablösung.",
+        "Die Variante L aus dem Skizzenbuch ist nur die Idee, den Schieber einmal über einen beweglichen Teller anzutreiben. Eine ausführbare Kopplung haben wir weder gezeichnet noch erprobt. Bei B kommen die Zunge und ihr Befestigungspunkt aus einem austauschbaren Federblech. Stellung und Bewegung der Rastnase sowie des geführten Schiebers sind wie bei A. Die 300 N waren die Abschaltschwelle, keine nachgewiesene Grenzlast aller Profile.",
+        "Bitte legen Sie mir beim zweiten Entwurf die Stelle vor, die am losen Zubehörteil sichtbar sein muss. Eine Stütze mit anderen Fensterhöhen haben wir nicht vermessen. Über eine bloße Federzunge verfügen die mir bekannten Wettbewerbsfüße bereits. Ich möchte wissen, welchen Unterschied ein anders betätigter Schieber oder eine starre Lochblende bei einem Dritten machen würde."
+      ]
+    }
+  ],
+  "erwartung": [
+    {
+      "titel": "Prüfspur für die Gesprächsleitung",
+      "text": [
+        "Gibt die bearbeitende Person beiden Lesarten von P-141 zunächst Raum und verlangt den Ausgangszustand des Schiebers? Prüfen, ob die spätere Korrektur von A-02 und B-02 und die Kraftabschaltung die Überarbeitung der Last- und Kraftmerkmale tatsächlich auslösen."
+      ]
+    },
+    {
+      "titel": "Schutzgegenstand und Belege",
+      "text": [
+        "Am verkauften Fuß nachweisbare Körper-, Zungen- und Schiebermerkmale mit Figur 1 und Montagezustand abgleichen. Einen Betätigungsvorgang der Montage und die vollständige Regalanordnung eigenständig betrachten. D1 und D2 getrennt auf Neuheit und erst anschließend auf ein mögliches Zusammenwirken prüfen."
+      ]
+    },
+    {
+      "titel": "Vollständige Einreichungsfassung",
+      "text": [
+        "Für jeden unabhängigen und abhängigen Anspruch die örtliche Offenbarung benennen. Die bestätigten Varianten A und B, die Vorstellung L und die Grenzen des Versuchs auseinanderhalten. Eine stimmige Umschreibung des Sperrzustands und eine tatsächlich dazu passende Beschreibung, Figur und Zusammenfassung verlangen."
+      ]
+    },
+    {
+      "titel": "Beispiel für den erneuten Entwurf",
+      "text": [
+        "V0 „durch das Gewicht des Regals selbsttätig betätigt“ gegen eine durch die Bauform überprüfbare Angabe prüfen, etwa „ein im Fußkörper (10) geführter Schieber (40), der in einer Sperrstellung in den Ausweichraum hinter dem freien Ende der Rastzunge (30) eingreift“. Stütze in Werkstattbuch M-14, Abs. 2, und Figur 1. Als Rückfallposition kommen die in zwei Endstellungen haltenden Rasttaschen in Betracht. Die Handbestätigung am unbelasteten A-12 trägt die Wirkungsprüfung. Die 300-N-Abschaltung ist keine untere Auslegungsgrenze für alle Profile."
+      ]
+    }
+  ]
+}

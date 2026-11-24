@@ -49,7 +49,7 @@ Für ChatGPT findest du den passenden Einstieg unter [Workspace, Desktop-App und
 | **Skills** | 3189 | Arbeitsabläufe für einzelne Aufgaben | [Alle Skills](./SKILLS.md) · [Einzeldownloads je Plugin](./skills-index/) |
 | **Werkstatt-Prompts** | 313 | Ausführliche Anweisungen für mehrstufige Vorgänge | [Werkstatt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | **Schnellstart-/Mini-Prompts** | 312 | Kurze Anweisungen für den Einstieg im Chat | [Mini-Prompt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 633 zentral / 668 gesamt | Übungsfälle mit Arbeitsaufträgen und Unterlagen | [Zentrale Sammlung](./testakten/README.md#verfügbare-akten) · [Akten einzelner Plugins](#testakten) |
+| **Testakten** | 633 zentral / 671 gesamt | Übungsfälle mit Arbeitsaufträgen und Unterlagen | [Zentrale Sammlung](./testakten/README.md#verfügbare-akten) · [Akten einzelner Plugins](#testakten) |
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
 
 Die Prompt-Register zählen die Hauptdateien je Plugin. Zusätzliche Werkstätten gibt es unter anderem für die [neun HOAI-Leistungsphasen](./docs/bauwirtschaft-hoai-phasen.md) und die [Insolvenzanfechtung](./insolvenzanfechtung/werkstattprompts/README.md). Die [Hauptskills](./skills-index/README.md#hauptskills) führen durch einen ganzen Vorgang. Der [Werkstatt-Leitfaden](./docs/werkstatt-visualisierung.md) zeigt, wie sich Belege und Varianten bis zum Entwurf verfolgen lassen.
@@ -119,7 +119,7 @@ Verfügbarkeit, Dateizugriff, Quellenzugänge und der Export von DOCX, PDF oder 
 | --- | --- |
 | **Plugins** | 315 |
 | **Skills (SKILL.md)** | 3189 im Quellbestand |
-| **Testakten** | 633 zentral / 668 gesamt |
+| **Testakten** | 633 zentral / 671 gesamt |
 | **Fachanwaltsprofile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v445.35.3` als Basisversion des [Marketplace-Manifests](./.claude-plugin/marketplace.json). Die [Fachübersicht](./references/rechtsgebiete-uebersicht.md) nennt die jeweilige Version jedes Plugins. |
 
@@ -569,7 +569,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | --- | --- |
 | [`parteienrecht-parteiorganisation`](./parteienrecht-parteiorganisation) | Parteienrechts- und Parteiorganisations-Plugin für formale Parteiarbeit: Parteiengesetz, Satzung, Mitgliederrechte, Parteitage, Kreis- und Bezirksversammlungen, Kandidatenaufstellung, Wahlvorschläge, Parteigerichte, Spenden, Rechenschaft, Abgeordnetenrecht und Wahlleiterkommunikation. |
 | [`patentrecherche`](./patentrecherche) | Patentrecherche für Patentanwälte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO USPTO. Stand der Technik Neuheit Paragraf 3 PatG Art. 54 EPÜ erfinderische Tätigkeit Paragraf 4 PatG Art. 56 EPÜ Problem-Solution-Approach FTO CPC IPC INPADOC Recherchebericht. |
-| [`patentrecht`](./patentrecht) | Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbenennung, Einspruch, Nichtigkeit, Register und Fristen. |
+| [`patentrecht`](./patentrecht) | Für Patentanmelder, Patentabteilungen und ihre Vertretung. Prüfen Sie einen vorhandenen Anspruchssatz oder entwickeln Sie aus der Erfindungsmeldung eine DE- oder EP-Patentanmeldung. |
 | [`pflegerecht-sgb-xi`](./pflegerecht-sgb-xi) | Pflegeversicherung nach SGB XI: Pflegegrad, Begutachtung, häusliche Leistungen, Ersatzpflege, Wohnumfeld, Heimkosten, Pflegepersonen, Beiträge und Rechtsbehelfe. Zehn spezialisierte Skills vom Beleg zum Antrag oder Schriftsatz. |
 | [`phishing-vorfall-pruefer`](./phishing-vorfall-pruefer) | Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB Paragraf 675u, Paragraf 675v, Paragraf 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankpflichten, Schlichtung und Klage. |
 | [`playbook-pruefer`](./playbook-pruefer) | Verträge regelweise an freigegebenen Kanzlei-Playbooks prüfen: Themen, Ausgangspositionen, Kompromisse und rote Linien mit Originalzitaten und Word-Bericht. |

@@ -1,0 +1,13 @@
+﻿Zeit ms;Eingang / Kamera;Beobachtung;Exportvermerk
+0;Lichtschranke frei;Kein Kistenkörper vor dem Anschlag.;"Prüfzyklus Z31 · Auszug aus dem Zeitstempelprotokoll
+
+23.11.2026 · Sibel Ott · Kistenkreis Prüftechnik GmbH, Versuchsfeld an Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam
+
+Eine gemeinsame Steuerungsuhr, Angaben in Millisekunden ab Beginn des Zyklus Z31. Der Grauwert der Referenz wird über das mittlere Prüffeld ausgewertet. Die hier zugeordneten Dateinamen und Ereignisse sind vom Steuerungsprotokoll übernommen. Darstellungen eines zusammengesetzten Bedienbildes wurden nicht als Rohbilder gezählt."
+80;Referenz links;ref31L, Mittelwert 144.;
+115;Referenz rechts;ref31R, Mittelwert 160.;
+210;Kontakt Parklage;Arm aus Bildfeld, Kisteneinlauf freigegeben.;
+530;Anschlag erreicht;Kiste 10 festgelegt.;
+545;Objekt links;obj31L, keine Referenzplatte im Bild.;
+580;Objekt rechts;obj31R, derselbe Wandabschnitt.;
+665;Sortierausgang;Unterbrechung an einem Kistensteg im Bildvergleich, Signal an die Fremdweiche.;

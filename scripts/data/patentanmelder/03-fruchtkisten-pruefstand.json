@@ -1,0 +1,925 @@
+{
+  "titel": "Optischer Prüfstand für wiederverwendbare Fruchtkisten",
+  "zeichen": "KM/26-123 · FK8",
+  "einstieg": "Ein Prüfstand soll schadhafte Kisten trotz driftender Beleuchtung aussortieren. Die Patentkoordination legt eine deutsche Prioritätsanmeldung, einen fehlerhaften europäischen Anspruchsentwurf und ein Laborjournal vor. Eine zweite Unterlage wurde zwischen dem Prioritätstag und der geplanten europäischen Einreichung öffentlich.",
+  "auftrag": "Prüfen Sie E1 Wort für Wort, einschließlich Rückbezügen, Gegenstand, zeitlicher Aussage, Prioritätsstütze und technischer Ausführbarkeit. Führen Sie ein Streitgespräch mit Erfinderin, Versuchsfeld und Patentkoordination über das angezeigte Graufeld. Geben Sie jeder Merkmalskombination eine konkrete Fundstelle und einen möglichen wirksamen Zeitrang. Prüfen Sie D1 und D2 getrennt nach Datum und Inhalt. Erstellen Sie vor der Freigabe eine vollständige europäische Anmeldeschrift mit Ansprüchen, Beschreibung, Figurenangaben und Zusammenfassung. Nennen Sie ausstehende Freigaben, ohne eine Einreichung zu behaupten.",
+  "nachreichung": "Nach der ersten Fassung trifft die Nachricht ein, dass E1 bereits unverändert eingereicht wurde. Prüfen Sie das Zeitstempelprotokoll und die neue Figur mit der Erfinderin. Fordern Sie die Rohbilder an, soweit ihre eigene Prüfung für eine Aussage erforderlich ist. Entwerfen Sie einen auf die eingereichten Unterlagen gestützten Änderungssatz für E1 und eine gesonderte vollständige Anmeldeschrift E2 für den später konkretisierten Prüfstand. Ordnen Sie für beide Wege Prioritätsfenster, zwischenzeitliche Offenbarungen und die Vorführung am 4. Dezember ein.",
+  "quellen": [
+    [
+      "§ 3 PatG",
+      "https://www.gesetze-im-internet.de/patg/__3.html"
+    ],
+    [
+      "§ 4 PatG",
+      "https://www.gesetze-im-internet.de/patg/__4.html"
+    ],
+    [
+      "§ 34 PatG",
+      "https://www.gesetze-im-internet.de/patg/__34.html"
+    ],
+    [
+      "§ 38 PatG",
+      "https://www.gesetze-im-internet.de/patg/__38.html"
+    ],
+    [
+      "Art. 54 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a54.html"
+    ],
+    [
+      "Art. 56 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a56.html"
+    ],
+    [
+      "Art. 83 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a83.html"
+    ],
+    [
+      "Art. 84 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a84.html"
+    ],
+    [
+      "Art. 87 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a87.html"
+    ],
+    [
+      "Art. 88 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a88.html"
+    ],
+    [
+      "Art. 89 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a89.html"
+    ],
+    [
+      "Art. 123 EPÜ",
+      "https://www.epo.org/de/legal/epc/2020/a123.html"
+    ]
+  ],
+  "dokumente": [
+    {
+      "phase": "Grundakte",
+      "datei": "01_prioritaetsakte.docx",
+      "titel": "P0 · bestätigte Fallabschrift der ursprünglichen Anmeldungsunterlagen",
+      "datum": "2025-12-02",
+      "von": "Etienne Wolf · Kistenkreis Prüftechnik GmbH, Patentkoordination",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Fiktive nationale Erstanmeldung P0, Aktenkürzel KK-P0 als internes Kennzeichen; keine echte Amtsnummer. Der Eingangsvermerk in dieser Akte gilt im Übungsfall als Beleg für die Einreichung am 2. Dezember 2025 durch die Kistenkreis Prüftechnik GmbH. Erfinderin Nora Balt. Die nachstehenden Ansprüche, die drei anschließenden Beschreibungsabsätze und die beigefügte Fig. P bilden die vollständige technische Offenbarung der Einreichung im Fall.",
+        "Anspruch 1. Vorrichtung zum Prüfen einer wiederverwendbaren Fruchtkiste mit einem Anschlag, der die Kiste in einer Prüfposition festlegt, einer Kamera für einen Wandabschnitt, zwei auf denselben Wandabschnitt aus unterschiedlichen Richtungen gerichteten Lichtquellen und einer Steuereinheit, die bei festgelegter Kiste je eine Aufnahme unter der einen und anschließend unter der anderen Lichtquelle auslöst und aus dem Unterschied beider Bilder ein Sortiersignal ausgibt.",
+        "Anspruch 2. Vorrichtung nach Anspruch 1, bei der der Anschlag während beider Aufnahmen dieselbe Wandseite vor der Kamera hält und erst nach der zweiten Belichtung zurückgezogen wird.",
+        "P0 Abs. 1. Gebrauchte Obstkisten laufen einzeln an einen starren Anschlag. Eine Kamera blickt quer zum Band auf die Außenseite einer Kistenwand. Die linke und rechte Leuchte beleuchten denselben Ausschnitt schräg. Die erste Leuchte ist während der zweiten Aufnahme aus. Beide Bilder zeigen dieselbe Stelle der ruhenden Kiste.",
+        "P0 Abs. 2. Der Rechner bildet für jede Bildposition den Betrag der Differenz beider Grauwerte. Überschreitet die Summe zusammenhängender auffälliger Bildpunkte eine voreingestellte Größe, setzt er den Sortierausgang. Fig. P zeigt Anschlag, Kiste, Kamera, beide Lichtquellen und den Ausgang zur Weiche.",
+        "P0 Abs. 3. Durch die wechselnde Lichtrichtung wird ein ausgebrochener Steg auch bei geringem Farbkontrast sichtbar. Die Grauwertschwelle wird bei Einrichtung fest eingestellt. Weitere Kalibriereinrichtungen, Referenzflächen oder Verfahren sind in P0 nicht beschrieben."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "01a_prioritaetsfigur.svg",
+      "titel": "Figur P · Zeichnung zum ursprünglichen Prioritätsbeleg P0",
+      "datum": "2025-12-02",
+      "von": "Etienne Wolf · Kistenkreis Prüftechnik GmbH, Patentkoordination",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Blick von oben auf die angehaltene Fruchtkiste vor der Kamera. Die eingezeichneten Sicht- und Beleuchtungslinien treffen denselben Wandabschnitt. Die beiden Leuchten werden zeitlich nacheinander aktiviert. Die Steuerung gibt nach dem Bildvergleich das Signal an einen Anschluss für die Weiche aus. Zeichnungsstand der Fallabschrift vom 2. Dezember 2025."
+      ],
+      "figur": {
+        "linien": [
+          [
+            [
+              85,
+              240
+            ],
+            [
+              540,
+              240
+            ]
+          ],
+          [
+            [
+              85,
+              294
+            ],
+            [
+              540,
+              294
+            ]
+          ],
+          [
+            [
+              270,
+              245
+            ],
+            [
+              360,
+              245
+            ],
+            [
+              360,
+              285
+            ],
+            [
+              270,
+              285
+            ],
+            [
+              270,
+              245
+            ]
+          ],
+          [
+            [
+              365,
+              239
+            ],
+            [
+              365,
+              286
+            ],
+            [
+              377,
+              286
+            ]
+          ],
+          [
+            [
+              296,
+              43
+            ],
+            [
+              345,
+              43
+            ],
+            [
+              345,
+              80
+            ],
+            [
+              296,
+              80
+            ],
+            [
+              296,
+              43
+            ]
+          ],
+          [
+            [
+              175,
+              127
+            ],
+            [
+              226,
+              127
+            ],
+            [
+              226,
+              149
+            ],
+            [
+              175,
+              149
+            ],
+            [
+              175,
+              127
+            ]
+          ],
+          [
+            [
+              411,
+              127
+            ],
+            [
+              462,
+              127
+            ],
+            [
+              462,
+              149
+            ],
+            [
+              411,
+              149
+            ],
+            [
+              411,
+              127
+            ]
+          ],
+          [
+            [
+              319,
+              80
+            ],
+            [
+              319,
+              243
+            ]
+          ],
+          [
+            [
+              220,
+              148
+            ],
+            [
+              312,
+              243
+            ]
+          ],
+          [
+            [
+              417,
+              148
+            ],
+            [
+              326,
+              243
+            ]
+          ],
+          [
+            [
+              475,
+              47
+            ],
+            [
+              539,
+              47
+            ],
+            [
+              539,
+              86
+            ],
+            [
+              475,
+              86
+            ],
+            [
+              475,
+              47
+            ]
+          ],
+          [
+            [
+              540,
+              67
+            ],
+            [
+              585,
+              67
+            ]
+          ]
+        ],
+        "kreise": [],
+        "bezugszeichen": [
+          [
+            "10",
+            "Fruchtkiste",
+            290,
+            262,
+            220,
+            323
+          ],
+          [
+            "20",
+            "Anschlag",
+            377,
+            284,
+            420,
+            320
+          ],
+          [
+            "30",
+            "Linke Lichtquelle",
+            189,
+            128,
+            135,
+            98
+          ],
+          [
+            "32",
+            "Rechte Lichtquelle",
+            444,
+            128,
+            490,
+            105
+          ],
+          [
+            "40",
+            "Kamera",
+            315,
+            45,
+            350,
+            24
+          ],
+          [
+            "50",
+            "Steuerung",
+            490,
+            51,
+            503,
+            23
+          ],
+          [
+            "80",
+            "Ausgang zur Weiche",
+            577,
+            66,
+            609,
+            42
+          ]
+        ]
+      }
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "02_versuchsjournal.docx",
+      "titel": "Versuchsjournal V28 · Drift nach Austausch einer Leuchte",
+      "datum": "2026-10-27",
+      "von": "Sibel Ott · Kistenkreis Prüftechnik GmbH, Versuchsfeld",
+      "an": "Nora Balt · Kistenkreis Prüftechnik GmbH, optische Entwicklung",
+      "text": [
+        "Nach Wärmelauf der linken LED-Gruppe löste die Ausschleusung auch bei unbeschädigten Seitenwänden aus. In einem Fenster von 40 × 40 Bildpunkten sank der mittlere Messwert an unserem matten Prüffeld von 180 auf 144, obwohl Bandanschlag und Kameraabstand gleich blieben. Der Referenzwert der rechten Beleuchtung lag bei 160. Die Zahlen sind Grauwerte der 8-Bit-Kamera.",
+        "Nora schlug vor, die beiden Objektaufnahmen vor dem Vergleich mit je einem zur jeweiligen Beleuchtungsrichtung passenden Faktor zu normieren. Die Laborsoftware verwendete für links 180/144 und für rechts 160/160. Die Datei refL liegt ohne Zeitstempel im Auswerteordner der ersten Serie. Der dortige Bildschirm zeigt links ein kleines Graufeld neben dem Kistenbild. Ob es vom selben Sensorbild oder aus einem zweiten Bild stammt, geht aus dem Bericht nicht hervor.",
+        "Beim Test im Poolbetrieb war der Bereich hinter der Kamerahaube mit einem Schutzblech verschlossen. Der Betreiber erhielt am 10. November 2025 eine Gerätebesichtigung ausschließlich unter unterschriebener Vertraulichkeitsvereinbarung. Eine öffentliche Vorführung oder Abgabe des ungekapselten Versuchsstands wurde in diesem Journal bis zum 27. Oktober 2026 nicht vermerkt."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "03_auftrag.eml",
+      "titel": "Prüfung EP-Entwurf E1 vor Einreichung mit Priorität P0",
+      "datum": "2026-11-12",
+      "von": "Etienne Wolf · Kistenkreis Prüftechnik GmbH, Patentkoordination",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Wir wollen aus P0 europäisch nachanmelden. Dieselbe Gesellschaft ist Anmelderin geblieben. Der Entwurf E1 vom 12. November enthält eine neue Normalisierung und einen Anspruch aus der Vertriebspräsentation. Bitte zeichnen Sie die Unterschiede zum ursprünglichen Text entlang der Ansprüche ab. Für die Anlage am 4. Dezember ist eine öffentliche Vorführung vorgesehen.",
+        "Der Poolbetreiber stellt die Kisten, wir liefern Prüfstand, Software und Sortierausgang. Die vorhandene mechanische Weiche gehört dem Betreiber. Unsere Geschäftsführung wird am 20. November entscheiden, ob sie den vorgelegten Stand schon auf elektronischem Weg einreicht. Bis zur schriftlichen Rückmeldung ist nichts freigegeben. Wir benötigen eine voll ausformulierte, überprüfte Fassung und eine Liste der erforderlichen Entscheidungen."
+      ],
+      "absender": "e.wolf@kistenkreis.example",
+      "empfaenger": "t.mund@kanzlei-mund.example",
+      "uhrzeit": "08:35"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "04_entwurf_e1.docx",
+      "titel": "E1 · zur Freigabe vorgelegte Ansprüche und Beschreibung",
+      "datum": "2026-11-12",
+      "von": "Nora Balt · Kistenkreis Prüftechnik GmbH, optische Entwicklung",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Anspruch 1. Intelligentes System, das Schäden an einer beliebigen Kiste automatisch und zuverlässig erkennt und dabei eine Referenzfläche gleichzeitig mit dem Prüfobjekt aufnimmt.",
+        "Anspruch 2. Prüfstand nach Anspruch 3, bei dem ein Schwenkarm die Vorrichtung kalibriert. Anspruch 3. Prüfstand nach Anspruch 2 mit zwei Beleuchtungsrichtungen. Anspruch 4. Verwendung einer Kamera nach Anspruch 1 zum Sortieren von Lebensmitteln.",
+        "E1 Abs. 1. Ein Förderband führt eine gebrauchte Fruchtkiste an einen Anschlag. Während die Kiste ruht, bildet die Kamera nacheinander denselben Wandabschnitt unter linker und rechter schräger Beleuchtung ab. Die Steuerung vergleicht die beiden Bilder und übermittelt ein Sortiersignal an einen Anschluss für eine getrennte Weiche. Damit werden Kisten mit unterbrochenen Stegen ausgeschleust.",
+        "E1 Abs. 2. Für jede Beleuchtungsrichtung kann ein Grauwert einer matten Referenzfläche gespeichert werden, die zuvor mit der Kamera unter der jeweiligen Beleuchtung vermessen wurde. Die Steuerung normiert die Werte jeder Objektaufnahme mit dem Quotienten aus Sollgrauwert und gespeichertem Referenzgrauwert der zugehörigen Beleuchtung. Anschließend bildet sie die Differenz der normierten Bilder. Für eine sichere Auswertung muss der gespeicherte Referenzgrauwert größer als null sein.",
+        "E1 Abs. 3. Der Prototyp zeigt im Bedienbildschirm ein Graufeld neben der Kistenwand. Eine technische Zeichnung oder Beschreibung der Bewegung der Referenzfläche ist E1 nicht beigefügt. Die Beschriftung „Schwenkarm“ in Anspruch 2 ist aus der mündlichen Laborbesprechung übernommen. Bezugnahmen der Ansprüche 2 und 3 sind vor Freigabe zu kontrollieren."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "05_d1_zweilicht.txt",
+      "titel": "Fiktive Vergleichsunterlage D1 · Prüfung von Mehrwegbehältern",
+      "datum": "2026-11-13",
+      "von": "Ruth Eilert · Kanzlei Mund, Recherche",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Fiktiver, für diese Akte verfasster Auszug. Als öffentliche Verteilung dieses Tagungsblatts wird der 14. März 2024 unterstellt, vor P0. Eine reale Dokument- oder Veröffentlichungsnummer existiert nicht.",
+        "Auf dem Weg zu einer Weiche beleuchten zwei gegenüberliegende LED-Balken eine Mehrwegkiste gleichzeitig. Eine Kamera nimmt ein einzelnes Helligkeitsbild der vorbeifahrenden Kiste auf. Ein Klassifikator löst den Sortierausgang aus. Individuelle Aufnahmezeitpunkte für die beiden Richtungen, ein Anhalten der Kiste, eine Referenzmessung und eine pixelweise Differenz zweier Aufnahmen nennt der Auszug nicht."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "06_d2_referenz.txt",
+      "titel": "Fiktive Vergleichsunterlage D2 · nachveröffentlichte Wartungsinformation",
+      "datum": "2026-11-13",
+      "von": "Ruth Eilert · Kanzlei Mund, Recherche",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Fiktives öffentliches Herstellerbulletin mit für die Übung feststehendem ersten Verteilungstag 18. Mai 2026. Bis dahin waren die Exemplare nur im internen Entwurfsumlauf. Es handelt sich weder um eine tatsächliche Patentschrift noch um einen Hinweis auf eine früher eingereichte Patentanmeldung.",
+        "Eine stationäre Farbprüfkamera korrigiert ihre Verstärkung nach einer neutralen Karte. Eine Bedienperson hält diese Karte bei leerer Station vor die Kamera und entnimmt sie für die nächste Probe. Der letzte Kartenwert wird gespeichert. Ein zweiter Beleuchtungskanal, gerichtungsbezogene Bildpaare, ein beweglich gelagerter Referenzträger oder eine Freigabe durch einen Kistenlückensensor sind nicht beschrieben."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "07_eingangsvermerk.eml",
+      "titel": "E1 eingereicht · unveränderte Fassung mit Prioritätsangabe",
+      "datum": "2026-11-20",
+      "von": "Etienne Wolf · Kistenkreis Prüftechnik GmbH, Patentkoordination",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Die Geschäftsführung hat heute um 10.16 Uhr die europäische Anmeldung mit Prioritätsangabe P0 abgesandt. Das elektronische Eingangsprotokoll für E1 nennt die Kistenkreis Prüftechnik GmbH und den 20. November 2026. Dieses interne Fallkürzel steht ausschließlich für die in der Übung fingierte Einreichung.",
+        "Entgegen meiner früheren Erwartung gingen genau der Anspruchssatz und die Beschreibung vom 12. November unverändert ein. Eine weitere technische Anlage oder Zeichnung wurde nicht übermittelt. Insbesondere lag die jetzt angekündigte Laborzeichnung nicht beim Eingang. Bitte unterscheiden Sie Ihre Vorschläge für eine Änderung dieser Anmeldung von einer eigenständig einreichbaren Fassung für die zusätzliche Ausgestaltung. Die Vorführung vom 4. Dezember steht weiter im Kalender."
+      ],
+      "absender": "e.wolf@kistenkreis.example",
+      "empfaenger": "t.mund@kanzlei-mund.example",
+      "uhrzeit": "11:02"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "08_erfinderantwort.docx",
+      "titel": "Erfinderantwort FK8 · Referenz in der Kistenlücke",
+      "datum": "2026-11-23",
+      "von": "Nora Balt · Kistenkreis Prüftechnik GmbH, optische Entwicklung",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Die Aussage „gleichzeitig“ in Anspruch 1 ist für den Versuchsstand falsch. Die Oberfläche im Bildschirm ist ein gespeichertes Vorschaubild. Eine matte Platte 62 sitzt an einem Schwenkarm 60. Meldet die Lichtschranke 70 eine freie Prüfposition, schwenkt der Arm die Platte vor die Kamera 40. Die Steuerung nimmt erst unter der linken Leuchte 30, dann unter der rechten Leuchte 32 je ein Referenzbild auf. Danach schwenkt die Platte zurück. Ein Endkontakt 64 meldet die Parklage und gibt den nächsten Kisteneinlauf frei.",
+        "Für die nächste am Anschlag 20 gehaltene Kiste 10 verwendet die Steuerung 50 die beiden gespeicherten Werte, nimmt nacheinander die Objektbilder auf und gibt bei einem durch die Differenz erkannten Fehler ein Signal an den Ausgang 80. In der Objektaufnahme ist die Platte dann physisch außerhalb des Sichtfelds. Ein Schwenken in den Strahlengang während eines Kistenstillstands wäre eine andere Anordnung. Sie wurde an diesem Gerät nicht ausprobiert.",
+        "Sicher datierbar ist unsere erste vollständige Montagezeichnung mit Lichtschranke, Parkkontakt und der obigen Ablaufsteuerung auf den 21. November. Vor E1 stand nur „Schwenkarm“ im Anspruchsentwurf und „zuvor vermessen“ in der Beschreibung. Ich kann die konkrete Kombination vor dem 20. November nicht mit einem früheren Beleg stützen. Den Tischversuch mit nacheinander gespeicherten Kanalwerten hatten wir dagegen schon am 27. Oktober dokumentiert."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "09_rohdaten.csv",
+      "titel": "Prüfzyklus Z31 · Auszug aus dem Zeitstempelprotokoll",
+      "datum": "2026-11-23",
+      "von": "Sibel Ott · Kistenkreis Prüftechnik GmbH, Versuchsfeld",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Eine gemeinsame Steuerungsuhr, Angaben in Millisekunden ab Beginn des Zyklus Z31. Der Grauwert der Referenz wird über das mittlere Prüffeld ausgewertet. Die hier zugeordneten Dateinamen und Ereignisse sind vom Steuerungsprotokoll übernommen. Darstellungen eines zusammengesetzten Bedienbildes wurden nicht als Rohbilder gezählt."
+      ],
+      "tabelle": [
+        [
+          "Zeit ms",
+          "Eingang / Kamera",
+          "Beobachtung"
+        ],
+        [
+          "0",
+          "Lichtschranke frei",
+          "Kein Kistenkörper vor dem Anschlag."
+        ],
+        [
+          "80",
+          "Referenz links",
+          "ref31L, Mittelwert 144."
+        ],
+        [
+          "115",
+          "Referenz rechts",
+          "ref31R, Mittelwert 160."
+        ],
+        [
+          "210",
+          "Kontakt Parklage",
+          "Arm aus Bildfeld, Kisteneinlauf freigegeben."
+        ],
+        [
+          "530",
+          "Anschlag erreicht",
+          "Kiste 10 festgelegt."
+        ],
+        [
+          "545",
+          "Objekt links",
+          "obj31L, keine Referenzplatte im Bild."
+        ],
+        [
+          "580",
+          "Objekt rechts",
+          "obj31R, derselbe Wandabschnitt."
+        ],
+        [
+          "665",
+          "Sortierausgang",
+          "Unterbrechung an einem Kistensteg im Bildvergleich, Signal an die Fremdweiche."
+        ]
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "10_figur_nachtrag.svg",
+      "titel": "Figur 1 · Prüfstand mit schwenkbarem Referenzträger",
+      "datum": "2026-11-23",
+      "von": "Nora Balt · Kistenkreis Prüftechnik GmbH, optische Entwicklung",
+      "an": "Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam",
+      "text": [
+        "Draufsicht nach der Montagezeichnung vom 21. November. Auf dem Förderband liegt die Kiste 10 am Anschlag 20. Kamera 40 und seitliche Leuchten 30 und 32 betrachten dieselbe Wandstelle. Schwenkarm 60, Referenzplatte 62 und Kontakt 64 sind in Parklage dargestellt. Der zweite, schräg liegende Umriss bei der Kamera zeigt die Arbeitsstellung in einer freien Kistenlücke. Die Steuerung 50 gibt das Sortiersignal am Anschluss 80 aus.",
+        "Diese Figur erläutert den Laborstand nach der Anmeldung E1. In P0 und bei Einreichung von E1 war sie kein Bestandteil der Unterlagen."
+      ],
+      "figur": {
+        "linien": [
+          [
+            [
+              80,
+              216
+            ],
+            [
+              520,
+              216
+            ]
+          ],
+          [
+            [
+              80,
+              275
+            ],
+            [
+              520,
+              275
+            ]
+          ],
+          [
+            [
+              275,
+              220
+            ],
+            [
+              355,
+              220
+            ],
+            [
+              355,
+              265
+            ],
+            [
+              275,
+              265
+            ],
+            [
+              275,
+              220
+            ]
+          ],
+          [
+            [
+              357,
+              215
+            ],
+            [
+              357,
+              271
+            ],
+            [
+              373,
+              271
+            ]
+          ],
+          [
+            [
+              288,
+              38
+            ],
+            [
+              338,
+              38
+            ],
+            [
+              338,
+              73
+            ],
+            [
+              288,
+              73
+            ],
+            [
+              288,
+              38
+            ]
+          ],
+          [
+            [
+              198,
+              112
+            ],
+            [
+              240,
+              112
+            ],
+            [
+              240,
+              131
+            ],
+            [
+              198,
+              131
+            ],
+            [
+              198,
+              112
+            ]
+          ],
+          [
+            [
+              396,
+              112
+            ],
+            [
+              438,
+              112
+            ],
+            [
+              438,
+              131
+            ],
+            [
+              396,
+              131
+            ],
+            [
+              396,
+              112
+            ]
+          ],
+          [
+            [
+              313,
+              73
+            ],
+            [
+              313,
+              218
+            ]
+          ],
+          [
+            [
+              230,
+              133
+            ],
+            [
+              306,
+              218
+            ]
+          ],
+          [
+            [
+              405,
+              133
+            ],
+            [
+              322,
+              218
+            ]
+          ],
+          [
+            [
+              123,
+              169
+            ],
+            [
+              175,
+              164
+            ]
+          ],
+          [
+            [
+              172,
+              154
+            ],
+            [
+              204,
+              154
+            ],
+            [
+              204,
+              170
+            ],
+            [
+              172,
+              170
+            ],
+            [
+              172,
+              154
+            ]
+          ],
+          [
+            [
+              123,
+              169
+            ],
+            [
+              256,
+              160
+            ],
+            [
+              307,
+              155
+            ]
+          ],
+          [
+            [
+              298,
+              145
+            ],
+            [
+              325,
+              142
+            ],
+            [
+              327,
+              155
+            ],
+            [
+              300,
+              159
+            ],
+            [
+              298,
+              145
+            ]
+          ],
+          [
+            [
+              151,
+              179
+            ],
+            [
+              169,
+              179
+            ],
+            [
+              169,
+              192
+            ],
+            [
+              151,
+              192
+            ],
+            [
+              151,
+              179
+            ]
+          ],
+          [
+            [
+              445,
+              36
+            ],
+            [
+              512,
+              36
+            ],
+            [
+              512,
+              71
+            ],
+            [
+              445,
+              71
+            ],
+            [
+              445,
+              36
+            ]
+          ],
+          [
+            [
+              480,
+              73
+            ],
+            [
+              480,
+              112
+            ]
+          ],
+          [
+            [
+              512,
+              53
+            ],
+            [
+              554,
+              53
+            ]
+          ],
+          [
+            [
+              231,
+              212
+            ],
+            [
+              231,
+              188
+            ],
+            [
+              245,
+              188
+            ]
+          ]
+        ],
+        "kreise": [
+          [
+            123,
+            169,
+            6
+          ]
+        ],
+        "bezugszeichen": [
+          [
+            "10",
+            "Kiste",
+            292,
+            237,
+            204,
+            313
+          ],
+          [
+            "20",
+            "Anschlag",
+            366,
+            267,
+            411,
+            313
+          ],
+          [
+            "30",
+            "Linke Leuchte",
+            208,
+            116,
+            146,
+            82
+          ],
+          [
+            "32",
+            "Rechte Leuchte",
+            411,
+            118,
+            459,
+            155
+          ],
+          [
+            "40",
+            "Kamera",
+            313,
+            39,
+            344,
+            20
+          ],
+          [
+            "50",
+            "Steuerung",
+            486,
+            41,
+            508,
+            16
+          ],
+          [
+            "60",
+            "Schwenkarm",
+            137,
+            167,
+            75,
+            128
+          ],
+          [
+            "62",
+            "Matte Referenzplatte",
+            189,
+            156,
+            160,
+            126
+          ],
+          [
+            "64",
+            "Endkontakt Parklage",
+            156,
+            184,
+            81,
+            195
+          ],
+          [
+            "70",
+            "Lichtschranke",
+            238,
+            188,
+            221,
+            166
+          ],
+          [
+            "80",
+            "Sortierausgang",
+            548,
+            53,
+            594,
+            52
+          ]
+        ]
+      }
+    }
+  ],
+  "erwartung": [
+    {
+      "titel": "Frühe Fehler im Entwurf",
+      "text": [
+        "P0 und E1 mit den jeweiligen Ansprüchen vergleichen. Die zirkulären Rückbezüge 2 und 3, die fehlende Vorrichtungsdefinition, den behaupteten gleichzeitigen Bildinhalt und die Verwechslung von Kiste und Lebensmittel konkret benennen."
+      ]
+    },
+    {
+      "titel": "Prüfung in zwei Zeitfenstern",
+      "text": [
+        "P0 (2. Dezember 2025), öffentliche Bereitstellung von D2 (18. Mai 2026), E1 (20. November 2026) und Zeichnung (21. November 2026) zuordnen. Das reguläre Einjahresfenster für P0 endet ohne begründete Besonderheit am 2. Dezember 2026. Der Zeitrang richtet sich nach der unmittelbar und eindeutig offenbarten beanspruchten Merkmalskombination oder Alternative. Bei einem generisch formulierten Anspruch den früher offenbarten alternativen Gegenstand abgrenzen. Gehören zwei Merkmale zwingend zusammen, ist die Stütze für genau diese Kombination zu prüfen. D1 und D2 sind fiktive Fallbelege."
+      ]
+    },
+    {
+      "titel": "Überarbeitung nach Rückmeldung",
+      "text": [
+        "Das Wort „gleichzeitig“ gehört in Anspruch 1 zum tatsächlich eingereichten Wortlaut von E1. Die spätere Erfinderantwort erklärt, dass es den erprobten Prüfstand falsch beschreibt. Z31 führt Referenzbilder bei 80 und 115 ms und Objektbilder bei 545 und 580 ms auf. Die Originalbilddateien sind in der Akte nur mit Namen belegt. Für eine eigene Beurteilung des Bildinhalts die vier Dateien anfordern.",
+        "Für eine Änderung von E1 konkret prüfen, ob E1 Abs. 1 und 2 die beanspruchte Merkmalskombination unmittelbar und eindeutig tragen. Abs. 2 beschreibt die Normierung jeder Objektaufnahme anhand eines zuvor gespeicherten Referenzgrauwerts derselben Lichtrichtung. Der in Anspruch 2 erwähnte Schwenkarm belegt für sich genommen weder die Auslösung in der Kistenlücke noch die Freigabe des Einlaufs durch den Parkkontakt. Bei der Änderung den ursprünglich eingereichten Anspruch 1, die vollständige Beschreibung und das Verhältnis der Varianten berücksichtigen."
+      ]
+    },
+    {
+      "titel": "Separate Ausgestaltung und Nachweis",
+      "text": [
+        "Für E2 als eigenständige Anmeldung kann die neue Ausgestaltung mit Erfinderantwort, Zeichnung und dem Zeitstempel bei 210 ms beschrieben werden. Eine mögliche Rückfallposition lautet „wobei der Endkontakt (64) die Parklage des aus dem Sichtfeld geschwenkten Referenzträgers bestätigt und die Steuerung (50) daraufhin den Kisteneinlauf freigibt“. Der von der Fremdweiche getrennte Ausgang muss im beanspruchten Gegenstand erkennbar sein.",
+        "E2 erhält durch die spätere Versuchsdokumentation keinen früheren Anmeldetag. Für jede beanspruchte Kombination ihre Stütze in der eigenen Einreichungsfassung und separat die Voraussetzungen einer etwaigen Priorität aus P0 oder E1 prüfen, einschließlich erster Anmeldung für den betreffenden Gegenstand und Frist. Die neue Zeichnung ist für E1 datiert als spätere Erläuterung zu behandeln. Sie erweitert die ursprüngliche Offenbarungsbasis von E1 nicht."
+      ]
+    }
+  ]
+}

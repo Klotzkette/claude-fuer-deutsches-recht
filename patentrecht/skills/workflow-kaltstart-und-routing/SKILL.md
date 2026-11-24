@@ -9,8 +9,9 @@ description: "Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fa
 Dieser Workflow-Skill leitet im Plugin `patentrecht` vom ersten Mandantenkontakt in den passenden Arbeitsweg: Erfindungsmeldung, Anmeldestrategie, Bescheidsantwort DPMA/EPA, Verletzungsverteidigung, Lizenzverhandlung, Einspruch oder Nichtigkeitsklage.
 
 ## Routing nach Mandanten-Situation
-- **Mandant hat Erfindungsidee:** Erfindungsmeldung aufnehmen, Schutzfähigkeit (§§ 1, 3, 4 PatG / Art. 52-57 EPÜ), Offenbarungsrisiken klären (jede Vorveröffentlichung neuheitsschädlich, kein "grace period" im EPÜ).
-- **Bescheid DPMA/EPA:** Frist für Erwiderung (DPMA: idR 4 Monate; EPA: idR 4 Monate, Art. 94 EPÜ); Argumentation zu D1/D2 mit Aufgabe-Lösungs-Ansatz (Problem-Solution-Approach).
+- **Eine Erfindung wird geschildert.** Nimm den technischen Ablauf und die Wirkung auf. Kläre bei einem Messeauftritt, einer Vorführung oder einem Verkauf, wann welche Merkmale wem zugänglich waren und ob Vertraulichkeit galt. Prüfe für jeden Anspruch, ob ein einzelner zugänglicher Gegenstand seine gesamte Merkmalskombination unmittelbar und eindeutig offenbart. Prüfe gegebenenfalls die engen Ausnahmen nach § 3 Abs. 5 PatG oder Art. 55 EPÜ.
+- **Patentansprüche liegen bereits vor.** Arbeite an der bezeichneten Fassung. Zeige zunächst eine konkrete Stelle mit Beleg und Verbesserungsvorschlag. Führe das Gespräch im [Patentanmelder-Hauptskill](../juristischer-argumentationskern/SKILL.md) entweder zur vollständigen Anspruchsprüfung oder von der technischen Schilderung zur ausgearbeiteten Anmeldung fort.
+- **Bescheid von DPMA oder EPA.** Lies Bescheid, Versand- oder Zustellnachweis und benannte Erwiderungsfrist. Ermittle Fristbeginn und Ende nach dem jeweiligen Verfahrensrecht. Stelle für jeden Einwand die angegriffene Fassung, die genaue Passage der Entgegenhaltung und die Erwiderung mit Offenbarungsbeleg gegenüber.
 - **Patentverletzung in Sicht / Abmahnung erhalten:** FTO-Analyse, Verteidigungslinien (Nichtverletzung, Nichtigkeit, Erschöpfung, Lizenz, eigene Vorbenutzung § 12 PatG).
 - **Einspruch beim EPA:** Frist 9 Monate (Art. 99 EPÜ); zulässige Einspruchsgründe Art. 100 EPÜ.
 - **Nichtigkeitsklage BPatG:** § 81 PatG; Nichtigkeitsgründe § 22 PatG i. V. m. § 21 PatG.

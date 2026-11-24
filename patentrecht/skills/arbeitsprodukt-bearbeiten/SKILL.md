@@ -26,9 +26,11 @@ Arbeitsprodukt: Recherchebericht, Anspruchssatz, Bescheidserwiderung, Verletzung
 
 Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
 
-### 3.3. Arbeitsschritt
+### 3.3. Eine zusammenhängende Anmeldungsfassung schreiben
 
-Welcher Rechtsbestands-, Verletzungs- oder Lizenzschritt ist jetzt fristgebunden.
+Formuliere aus der bestätigten technischen Lehre zuerst den unabhängigen Anspruch. Ordne abhängige Ansprüche nach technisch und wirtschaftlich sinnvollen Rückfallpositionen. Jede Abhängigkeit muss die Merkmale ihres Bezugsanspruchs übernehmen und eine konkrete Beschränkung hinzufügen. Vergib danach durchgehende Anspruchsnummern und gleiche alle Rückbezüge ab. Für eine zweite unabhängige Anspruchskategorie müssen Unterlagen und Anmeldeziel deren Ausarbeitung tragen.
+
+Liefere beim Anmeldungsauftrag einen zusammenhängenden Arbeitsentwurf mit Bezeichnung, Beschreibung samt mindestens einem ausführbaren Beispiel, Anspruchssatz und technischer Zusammenfassung. Übernimm Figuren und Bezugszeichen aus vorhandenen Unterlagen und kennzeichne fehlende verlangte Zeichnungen im Begleitvermerk. Bei einem reinen Prüfanliegen liefere statt weiterer Anmeldungsbestandteile den Prüfbericht zur vorgelegten Fassung. Die [Anspruchswerkstatt](../../references/patentanmelder-anspruchswerkstatt.md) zeigt die Fassungen an einem durchgearbeiteten Beispiel.
 
 ### 3.4. Arbeitsschritt
 

@@ -1,0 +1,6 @@
+Fiktive Vergleichsunterlage D1 · Prüfung von Mehrwegbehältern
+13.11.2026 · Ruth Eilert · Kanzlei Mund, Recherche an Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam
+
+Fiktiver, für diese Akte verfasster Auszug. Als öffentliche Verteilung dieses Tagungsblatts wird der 14. März 2024 unterstellt, vor P0. Eine reale Dokument- oder Veröffentlichungsnummer existiert nicht.
+
+Auf dem Weg zu einer Weiche beleuchten zwei gegenüberliegende LED-Balken eine Mehrwegkiste gleichzeitig. Eine Kamera nimmt ein einzelnes Helligkeitsbild der vorbeifahrenden Kiste auf. Ein Klassifikator löst den Sortierausgang aus. Individuelle Aufnahmezeitpunkte für die beiden Richtungen, ein Anhalten der Kiste, eine Referenzmessung und eine pixelweise Differenz zweier Aufnahmen nennt der Auszug nicht.

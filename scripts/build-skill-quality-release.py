@@ -23,11 +23,11 @@ import subprocess
 import tempfile
 import zipfile
 
-from package_edition import edition_routes, planned_links
+from package_edition import EDITION, edition_routes, planned_links
 from package_readme import render_readme
 from prompt_profiles import PROMPT_SUFFIXES
 from release_asset_common import expected_asset_metadata, read_checksums, sha256_file, write_checksums
-from release_routing import PAKETPFLEGE_TAG, check_asset_limit, scoped_asset_url, validate_plugin_version
+from release_routing import PAKETPFLEGE_TAG, RELEASE_BASE, check_asset_limit, scoped_asset_url, validate_plugin_version
 from release_rate_limits import require_download_budget
 from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 
@@ -135,7 +135,8 @@ def validate_scope(scope: dict, root: Path) -> dict[str, dict]:
             prior = plugin["previous_release"]
             if (not isinstance(prior, dict) or set(prior) != {"tag", "version", "manifests"}
                     or not re.fullmatch(r"\d+\.\d+\.\d+", str(prior["version"]))
-                    or prior["tag"] != "qualitaetsrunde-v" + prior["version"]
+                    or prior["tag"] not in ("qualitaetsrunde-v" + prior["version"],
+                                            EDITION + "-v" + prior["version"])
                     or tuple(map(int, prior["version"].split("."))) >= tuple(map(int, scope["version"].split(".")))
                     or not isinstance(prior["manifests"], dict) or not prior["manifests"]):
                 raise ValueError(f"{name}: ungültiger Vorgänger der gestuften Freigabe")
@@ -338,7 +339,7 @@ def verify_reachability(files: dict[str, Path]) -> list[str]:
     return active
 
 
-def document_contents(root, directory, files, commit, routes):
+def document_contents(root, directory, files, commit, routes, *, release_links=None):
     """Render included READMEs from their own folders and pin the planned download buttons."""
     contents = {}
     for name, path in files.items():
@@ -350,6 +351,8 @@ def document_contents(root, directory, files, commit, routes):
             continue
         if routes:
             data = planned_links(data.decode("utf-8"), routes).encode("utf-8")
+        for current, published in (release_links or {}).items():
+            data = data.replace(current, published)
         if data != path.read_bytes():
             contents[name] = data
     return contents
@@ -369,7 +372,17 @@ def package_contents(root, directory, files, entry, plugin, scope, commit, route
         raise ValueError(f"{entry['name']}: Nachweis erfasst nicht alle Paketmanifeste")
     routes = {entry["name"] + ("-portable" if v == "portable" else "") + ".zip": (prior["tag"], scope["tag"])
               for v in plugin["variants"]}
-    rendered = document_contents(root, directory, files, commit, routes)
+    # The Pages URLs keep tracking the working tree; standalone files inside this edition have immutable URLs.
+    prompt_directory = directory.relative_to(root).as_posix()
+    pages = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path="
+    prompt_links = {
+        f"({pages}{prompt_directory}/{prompt})".encode(): f"({RELEASE_BASE}/download/{scope['tag']}/{prompt})".encode()
+        for prompt in plugin["prompts"]
+    }
+    if prompt_links and commit:
+        raw_artifacts = "https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/"
+        prompt_links[f"({raw_artifacts}main/docs/downloads/".encode()] = f"({raw_artifacts}{commit}/docs/downloads/".encode()
+    rendered = document_contents(root, directory, files, commit, routes, release_links=prompt_links)
     for name in manifests:
         raw = files[name].read_bytes()
         manifest = json.loads(raw)

@@ -28,7 +28,7 @@ jobs:
     env:
       TAG: ${{ inputs.tag }}
       EXPECTED_COMMIT: ${{ inputs.expected_commit }}
-      SCOPE: ${{ inputs.tag == 'qualitaetsrunde-v445.36.12' && 'scripts/data/interstate-ag-release-scope.json' || inputs.tag == 'qualitaetsrunde-v445.36.13' && 'scripts/data/qualitaetsrunde-v445.36.13-scope.json' || 'scripts/data/skill-quality-release-scope.json' }}
+      SCOPE: ${{ inputs.tag == 'qualitaetsrunde-v445.36.12' && 'scripts/data/interstate-ag-release-scope.json' || inputs.tag == 'qualitaetsrunde-v445.36.13' && 'scripts/data/qualitaetsrunde-v445.36.13-scope.json' || inputs.tag == 'qualitaetsrunde-v445.36.14' && 'scripts/data/qualitaetsrunde-v445.36.14-scope.json' || 'scripts/data/skill-quality-release-scope.json' }}
     steps:
       - name: Nur geprüften Main-Workflow zulassen
         if: github.ref != 'refs/heads/main'
@@ -52,7 +52,7 @@ jobs:
         run: |
           test "$(git rev-parse HEAD)" = "$EXPECTED_COMMIT"
           git merge-base --is-ancestor HEAD origin/main
-          if [[ "$TAG" == qualitaetsrunde-v445.36.12 ]]; then
+          if [[ "$TAG" == qualitaetsrunde-v445.36.12 || "$TAG" == qualitaetsrunde-v445.36.13 ]]; then
             test "$EXPECTED_COMMIT" = "$(git rev-parse "refs/tags/$TAG^{commit}")"
           fi
           test "$TAG" = "$(python3 -c 'import json, sys; print(json.load(open(sys.argv[1]))["tag"])' "$SCOPE")"
@@ -61,6 +61,15 @@ jobs:
       - name: Vergabestellen-Akten und installierbares Paket prüfen
         if: inputs.tag == 'qualitaetsrunde-v445.36.12' || inputs.tag == 'qualitaetsrunde-v445.36.13'
         run: python3 scripts/test-interstate-testakten.py
+      - name: Patentanmelder-Ausgabe mit drei vollständigen Offline-Akten prüfen
+        if: inputs.tag == 'qualitaetsrunde-v445.36.14'
+        run: |
+          RENDER_LIBS="$RUNNER_TEMP/patentanmelder-render"
+          python3 -m pip install --target "$RENDER_LIBS" \
+            reportlab==4.4.9 pypdf==6.21.4 openpyxl==3.1.5 python-docx==1.2.0 lxml==6.1.1
+          PYTHONPATH="$RENDER_LIBS" python3 scripts/build-patentanmelder-akten.py --check
+          python3 scripts/test-patentanmelder-workflow.py
+          python3 scripts/test-patentanmelder-release.py
       - name: Struktur, Auswahl und Quellenbindung prüfen
         run: |
           node scripts/validate-plugin-structure.mjs

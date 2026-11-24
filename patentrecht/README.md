@@ -1,9 +1,11 @@
-# patentrecht
+# Patentrecht für Patentanmelder und Patentpraxis
 
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbenennung, Einspruch, Nichtigkeit, Register und Fristen.
+Für Patentanmelder, Patentabteilungen und ihre Vertretung. Prüfen Sie einen vorhandenen Anspruchssatz oder entwickeln Sie aus der Erfindungsmeldung eine DE- oder EP-Patentanmeldung.
+
+Beginnen Sie mit dem [Hauptskill](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/juristischer-argumentationskern/SKILL.md) oder erproben Sie das Erfindergespräch an einer [von drei Werkstattakten](Patentanmelder/README.md).
 
 Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
@@ -15,31 +17,23 @@ Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nim
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/patentrecht.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/patentrecht-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/patentrecht-schnellstart.md) |
-| Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index](../testakten/README.md) |
+| Testakten | Drei Anmeldeakten liegen im Plugin. Die beiden zentralen Akten sind separat verfügbar. | Three drafting cases are included. The two central case files are separate downloads. | [Anmeldeakten](Patentanmelder/README.md) · [Zentrale Akten](#zugeordnete-testakten) |
 
 Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navigationslinks zu README- und Übersichtsseiten bleiben dagegen als GitHub-Seiten geöffnet.
 
 Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
 
-Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein.
+Alle zehn Skills sind im Plugin enthalten. Der Hauptskill begleitet die Anspruchsprüfung und den Anmeldeentwurf vom Erfindergespräch bis zur überarbeiteten Fassung.
 
-The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
+All ten skills are included. The main workflow handles claim review and patent drafting from the inventor interview through revision.
 
 Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/patentrecht.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
 
 ## In 30 Sekunden starten
 
-| Ausgangslage | Schnellster Weg |
-| --- | --- |
-| Plugin installiert | Passenden Fachskill in der [alphabetisch sortierten Skill-Liste](../skills-index/patentrecht.md) wählen und den untenstehenden Startsatz mit dem Arbeitsordner absenden. |
-| Noch keine Installation | Den Schnellstart unten als Markdown herunterladen und mit den Unterlagen in einer freigegebenen Arbeitsoberfläche bereitstellen. |
-| Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
+Öffnen Sie den [Hauptskill für den Patentanmelder](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/juristischer-argumentationskern/SKILL.md) und die Grundakte einer [Werkstattakte](Patentanmelder/README.md). Ohne Installation können Sie denselben Auftrag mit dem Werkstatt- oder Mini-Prompt aus der Downloadtabelle bearbeiten.
 
-Startsatz für patentrecht:
-
-> Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken.
-
-Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
+> Ich vertrete den Anmelder. Prüfe unseren Anspruch 1 am tatsächlichen Liefergegenstand. Stelle mir die technische Frage, deren Antwort für den Wortlaut entscheidend ist. Überarbeite anschließend denselben Anspruchssatz und zeige, was die Änderung für den Schutzumfang bedeutet.
 
 ## Downloads
 
@@ -48,7 +42,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`patentrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/patentrecht.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`patentrecht-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/patentrecht-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`patentrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/patentrecht-werkstatt.md) |
-| Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
+| Zugeordnete Testakten | PDF / ZIP | [Drei Anmeldeakten im Plugin](Patentanmelder/README.md) · [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
@@ -68,90 +62,37 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-> Großes Arbeitsplugin für Patentanwältinnen, Rechtsanwälte, Patentabteilungen und technische Gründerteams. Es führt vom rohen Erfindungsgedanken über Anspruchsentwurf, Recherche, Anmeldung, Prüfung, Freedom-to-Operate, Abmahnung, Lizenzvertrag, Einspruch und Nichtigkeit bis zur belastbaren Mandantenkommunikation.
+## Vom Erfindergespräch zum einreichungsfähigen Entwurf
 
-## Wofür dieses Plugin gedacht ist
-
-Das Plugin ist nicht nur eine Recherchehilfe. Es ist der Mandatsarbeitsplatz für Patentrecht:
-
-- **Erfindung aufnehmen:** technische Lehre, Problem, Lösung, Ausführungsformen, Offenbarungsrisiken und fehlende Zeichnungen sauber einsammeln.
-- **Anmeldung vorbereiten:** Anspruch 1, Unteransprüche, Beschreibung, Bezugszeichenliste, Figurenlogik, Alternativausführungen und Rückfragen strukturieren.
-- **Patentfähigkeit prüfen:** Neuheit und erfinderische Tätigkeit nach PatG und EPÜ mit Merkmalsgliederung, nächstliegendem Stand der Technik und Aufgaben-Lösungs-Ansatz.
-- **Recherche steuern:** gezielte Übergabe an das Spezialplugin [`patentrecherche`](../patentrecherche) für Espacenet, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE und weitere Datenbanken.
-- **Verletzung und FTO prüfen:** Schutzbereich, wortsinngemäße Verwirklichung, Äquivalenz, Registerstand, Territory, Rechtsbestand und Design-around.
-- **Abmahnung verteidigen:** Fristen, Unterlassung, Auskunft, Rückruf, Schadensersatz, negative Feststellung, Schutzschrift, Vergleichsfenster.
-- **Verträge prüfen:** Patentlizenz, Exclusivity, Territory, Field of Use, Sublicensing, Improvements, Know-how, Royalties, Audit, Termination und DE/EN-Klauselrisiken.
-- **Bestand angreifen oder verteidigen:** EPA-Einspruch, deutsche Nichtigkeitsklage, Beschränkung, Hilfsanträge, Fristen und Beweismittel.
-
-## Arbeitsstil
-
-Der Einstiegsskill fragt nicht lehrbuchartig alles ab, sondern sortiert den Fall sofort nach Dringlichkeit, Materiallage und Ziel. Bei Dokumentenupload ohne Begleittext erkennt er Fristen, Aktenart und Primärpfad. Danach schlägt er die passenden Spezialskills vor oder arbeitet direkt weiter.
-
-## Quellen- und Zitierhygiene
-
-- Normen und Behördeninformationen werden bevorzugt aus offiziellen Quellen geprüft: Patentgesetz auf Gesetze-im-Internet, DPMA-Informationen, DPMAregister/DEPATISnet, EPO/EPA Legal Texts, EPO Register, Espacenet, WIPO PATENTSCOPE und amtliche Gerichtsquellen.
-- Rechtsprechung wird nur ausgegeben, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei zugängliche oder amtliche Fundstelle verifiziert sind.
-- Keine BeckRS-/juris-/Paywall-Fundstellen erfinden oder als eigene Quelle verwenden.
-- Wenn eine Bewertung von aktueller Amts- oder Registerlage abhängt, muss live nachgesehen werden.
-
-## Verhältnis zu anderen Plugins
-
-- [`patentrecherche`](../patentrecherche): tiefe Datenbankrecherche, CPC/IPC, Patentfamilien, Registerstand, Recherchebericht.
-- [`gewerblicher-rechtsschutz`](../gewerblicher-rechtsschutz) und [`fachanwalt-gewerblicher-rechtsschutz`](../fachanwalt-gewerblicher-rechtsschutz): Marken, Designs, UWG, Verletzungsprozess und IP-Kollisionslagen.
-- [`zitierweise-deutsches-recht`](../zitierweise-deutsches-recht): saubere Nachweise und Rechtsprechungszitate.
-- [`word-legal-ai-plugin-and-skill-for-german-lawyers`](../word-legal-ai-plugin-and-skill-for-german-lawyers): Schriftsatz-, Gutachten-, Vertrags- und Mandantenbriefstil.
-
-## Kern-Workflow
-
-1. **Material erfassen:** Upload, Fristen, Beteiligte, Schutzrechte, Produkt/Verfahren, Technikfeld, Zielterritorien.
-2. **Primärfrage festlegen:** Anmeldung, Recherche, FTO, Verletzung, Lizenz, Prüfungsbescheid, Einspruch/Nichtigkeit.
-3. **Technische Lehre zerlegen:** Merkmale, Varianten, Wirkungen, Problem, Lösung, Zeichnungen, Bezugszeichen.
-4. **Rechts- und Registerlage sichern:** Anmeldetag, Priorität, Veröffentlichung, Erteilung, Einspruch, Jahresgebühren, Validierungen, Rechtsstand.
-5. **Spezialskill starten:** passende Skills aus diesem Plugin und bei Recherchebedarf aus `patentrecherche`.
-6. **Output bauen:** Claim Draft, Merkmalsgliederung, Rechercheauftrag, Claim Chart, Risikomemo, Antwortentwurf, Lizenz-Redline oder Fristenplan.
-7. **Red Team:** offene Tatsachen, technische Unschärfen, Fristen, Quellen, Gegenargumente, Mandantenrückfragen.
-
-## Kernskills und neue internationale Module
-
-Die folgende Tabelle nennt die ursprünglichen Kernskills. Die vollständige, automatisch generierte Liste steht direkt darunter und enthält jetzt auch UPC, PCT, USA, Kanada, Japan, Schweiz, UK, Türkei, Israel sowie Patentprozess/Eilrechtsschutz/Revocation.
-
-| Skill | Funktion |
+| Was liegt auf dem Tisch? | Was die Werkstatt liefert |
 | --- | --- |
-| `patentrecht-allgemein` | Einstieg, Triage und Workflow-Routing für jedes Patentrechtsmandat |
-| `patentrecht-kaltstart-interview` | kurzes Mandatsprofil und wiederverwendbare Fallarchitektur |
-| `erfindungsmeldung-aufnahme-und-rueckfragen` | rohe Erfindung, Offenbarung, technische Lehre und Rückfragen erfassen |
-| `patentanmeldung-anspruchsentwurf` | Anspruch 1, Unteransprüche und Varianten vorbereiten |
-| `beschreibung-und-zeichnungen-pruefen` | Beschreibung, Figuren, Bezugszeichen und Offenbarungsstütze prüfen |
-| `neuheit-und-erfinderische-taetigkeit` | Merkmalsanalyse, Einzeldokumentprüfung, Aufgaben-Lösungs-Ansatz |
-| `stand-der-technik-recherche-workflow` | Rechercheauftrag und Übergabe an `patentrecherche` |
-| `gebrauchsmuster-oder-patent-route` | Patent, Gebrauchsmuster, EP/PCT, Geheimhaltung oder defensive Veröffentlichung abwägen |
-| `pruefungsbescheid-dpma-epa-erwiderung` | Beanstandungen zerlegen und Erwiderung vorbereiten |
-| `freedom-to-operate-und-schutzbereich` | FTO, Schutzbereich, Rechtsstand und Design-around |
-| `abmahnung-patentverletzung-verteidigung` | Abmahnung, Fristen, Unterlassung, Schutzschrift, Vergleich |
-| `patentverletzung-claim-chart` | claim chart für Verletzung oder Nichtverletzung |
-| `vorbenutzungsrecht-paragraph-12-patg` | Vorbenutzungsrecht, Beweisführung und Risikostrategie |
-| `patentlizenzvertrag-review` | Lizenzvertragsprüfung, Red Flags und Verhandlungspositionen |
-| `patentlizenzvertrag-de-en-drafting` | zweisprachige Lizenzklauseln und Term-Sheet-Umsetzung |
-| `erfinderbenennung-und-arbeitnehmererfindung` | Erfinderstatus, Arbeitnehmererfindung und Vergütungsschnittstellen |
-| `einspruch-epa-und-nichtigkeit-bpatg` | EPA-Einspruch und Nichtigkeitsklage strategisch vorbereiten |
-| `rechtsstand-register-und-fristen` | Register, Fristen, Jahresgebühren, Validierung, Einspruchs- und Klagefenster |
-| `patentportfolio-und-technikstrategie` | Portfolio, Schutzzaun, Wettbewerbsmonitoring und Produktroadmap |
-| `patentrecht-redteam-qualitygate` | Qualitätskontrolle für alle patentrechtlichen Outputs |
+| Erste Skizze, Prototyp oder Erfindungsmeldung | Ein Gespräch über Liefergegenstand, beteiligte Akteure und die technisch entscheidende Lücke. Aus den Antworten entstehen ein Anspruchssatz, eine Beschreibung mit Figurenbezug und eine technische Zusammenfassung für den gewählten Anmeldeweg. |
+| Ein eigener oder fremder Anspruchsentwurf | Eine Prüfung am genauen Wortlaut. Für jedes strittige Merkmal werden Offenbarungsstelle, Beleg am Produkt und Stand der Technik zugeordnet. Sie erhalten eine begründete Neufassung mit engerer Rückfallposition. |
+| Eine nachgereichte Zeichnung oder ein Prüfungsbescheid | Einen Vergleich mit der ursprünglichen Fassung, eine Prüfung des jeweiligen Zeitrangs und eine überarbeitete Fassung samt Erwiderung, soweit die Änderungen gestützt sind. |
 
-## Internationaler und prozessualer Ausbau
+Eine Beispielfrage aus der Werkstatt lautet „Verkauft die Wettbewerberin das Gerät bereits mit diesem Bauteil, oder montiert es erst der Kunde?“ Die Antwort kann darüber entscheiden, ob ein Anspruch die verkaufte Baugruppe erfasst oder erst den beim Kunden zusammengesetzten Aufbau. Als Nachweis eignen sich je nach Fall eine Stückliste zum Lieferdatum, eine Schnittzeichnung oder ein reproduzierbarer Funktionstest.
 
-Neu hinzugekommen sind Skills für internationale Patentstrategie und Patentstreitigkeiten: UPC-Verletzung und Revocation, UPC-Eilverfahren, EPO-Einspruch/Beschwerde, PCT-Nationalphasen, US/UK/Kanada/Japan/Schweiz/Türkei/Israel, globale Rechtsbestandsangriffe, Schutzschrift/Protective Letter, Besichtigung, Auskunft/Rechnungslegung, Claim Construction DE/EN, Patentvergleich/Cross-License, Expertenarbeit und Prozessbudget.
+### Mit einer Testakte beginnen
 
-Jeder dieser Skills arbeitet mit derselben Grundregel: Registerstand und lokale Verfahrensfragen live prüfen; ausländisches Recht als Arbeitsstruktur und Counsel-Briefing behandeln, nicht als scheinbar endgültige lokale Rechtsauskunft.
+Öffnen Sie zunächst nur die **Grundakte**. Lassen Sie die technische Streitfrage und eine erste Einschätzung festhalten. Geben Sie anschließend die **Nachreichungen** hinzu. Vergleichen Sie den geänderten Anspruch und seine Begründung erst am Ende mit der getrennten **Auswertung**.
 
-## Pflicht-Disclaimer im Output
+| Testakte | Frage für das erste Gespräch |
+| --- | --- |
+| [Möbel-Schnappfuß](Patentanmelder/01-moebel-schnappfuss/README.md) | Wie wird der Fuß tatsächlich verriegelt und was davon verkauft der Zulieferer einzeln? |
+| [Gewächshausbeschattung](Patentanmelder/02-gewaechshaus-beschattung/README.md) | Welche Entscheidung fällt am Antrieb, welche außerhalb, und was lässt sich bei unterbrochener Verbindung beobachten? |
+| [Prüfstand für Mehrweg-Fruchtkisten](Patentanmelder/03-fruchtkisten-pruefstand/README.md) | Welche Merkmalskombination trägt die frühere Anmeldung und welchen Zeitrang hat die spätere Ausführung? |
 
-Jedes externe Ergebnis enthält knapp: KI-gestützte Vorprüfung; keine amtliche Recherche; Register- und Rechtsstand sind live zu verifizieren; technische Bewertung setzt vollständige Unterlagen voraus.
+Die [Aktenübersicht](Patentanmelder/README.md) führt zu den Originalen, den Einzel-PDFs und den Gesamt-PDFs. Die bisherigen Mandatsakten der Kanzlei Ravenstein & Moll und die Akte S-14 zum Gebrauchsmuster finden Sie in der [zentralen Aktenauswahl](#zugeordnete-testakten).
+
+## Weitere Patentmandate
+
+Der Hauptskill bearbeitet auch Verletzung und Schutzbereich, Freedom to Operate, Lizenz und FRAND, Einspruch, Nichtigkeit sowie Prüfungsbescheide. Die Fachbibliothek enthält unter anderem Vertiefungen zu Erfinderbenennung, Arbeitnehmererfindungen und internationalen Verfahren. Recherche und Registerstand lassen sich im eigenen Recherche-Plugin vertiefen. [Fachbibliothek](FACHMODULE.md) · [Patentrecherche](../patentrecherche/README.md)
+
+Ein Gutachten nennt die geprüfte Anspruchsfassung, den Gebiets- und Zeitbezug sowie die tragenden Aktenstellen. Maßgebliche Normen, Entscheidungen und Registerstände werden an amtlichen Quellen geprüft. Die Akten unterscheiden dokumentierte Befunde, Angaben der Beteiligten und offene Fragen. Die Entscheidung über eine Einreichung treffen Anmelder und Vertretung.
 
 ## Lizenz
 
-Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
+Apache-2.0 OR MIT. Es gelten die Lizenztexte des Repositorys.
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
@@ -193,7 +134,7 @@ English: Complete list of all 10 skills in this plugin. Both links in each row d
 | [`arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) | Patentrechtliche Fallbearbeitung: Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) |
 | [`arbeitsprodukt-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/arbeitsprodukt-bearbeiten/SKILL.md) | Für Patentrecht: Arbeitsprodukt: Recherchebericht, Anspruchssatz, Bescheidserwiderung, Verletzungsmatrix, FTO-Memo, Lizenz oder FRAND-Schritt erstellen. Vollständige Fachanweisungen und lokale Vorlagen werden gezielt nach dem konkreten A... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/arbeitsprodukt-bearbeiten/SKILL.md) |
 | [`einstieg-routing`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/einstieg-routing/SKILL.md) | Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: patentrecht. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/einstieg-routing/SKILL.md) |
-| [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/juristischer-argumentationskern/SKILL.md) | Patentmandat durch Bestand, Verletzung und Verfahren führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben f... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/juristischer-argumentationskern/SKILL.md) |
+| [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/juristischer-argumentationskern/SKILL.md) | Patentanmelder: Patentansprüche prüfen und Patentanmeldungen mit Erfindern ausarbeiten. Führt Patentmandate von der technischen Lehre bis zum fertigen Entwurf und bearbeitet auch Rechtsbestand, Verletzung, FTO, Lizenz und Verfahren. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/juristischer-argumentationskern/SKILL.md) |
 | [`rechtsbestand-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/rechtsbestand-bearbeiten/SKILL.md) | Patentrechtliche Fallbearbeitung: Rechtsbestand: Stand der Technik, Neuheit, erfinderische Tätigkeit, Offenbarung, Erweiterung und Priorität in einer Merkmalsmatrix prüfen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/rechtsbestand-bearbeiten/SKILL.md) |
 | [`schutzbereich-und-fto-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/schutzbereich-und-fto-bearbeiten/SKILL.md) | Patentrechtliche Fallbearbeitung: Schutzbereich und FTO: Anspruch auslegen, Produkt zuordnen, wortsinngemäße und äquivalente Benutzung sowie Drittpatente getrennt bewerten. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/schutzbereich-und-fto-bearbeiten/SKILL.md) |
 | [`technische-lehre-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/technische-lehre-bearbeiten/SKILL.md) | Patentrechtliche Fallbearbeitung: Technische Lehre: Aufgabe, Lösung, Merkmale, Ausführungsbeispiele, Priorität und Erfinderbeitrag belastbar erfassen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/skills/technische-lehre-bearbeiten/SKILL.md) |

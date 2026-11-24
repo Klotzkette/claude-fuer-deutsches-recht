@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="756" height="662" preserveAspectRatio="xMinYMin meet" viewBox="0 0 756 662" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Figur P · Zeichnung zum ursprünglichen Prioritätsbeleg P0</title>
+	<desc>Blick von oben auf die angehaltene Fruchtkiste vor der Kamera. Die eingezeichneten Sicht- und Beleuchtungslinien treffen denselben Wandabschnitt. Die beiden Leuchten werden zeitlich nacheinander aktiviert. Die Steuerung gibt nach dem Bildvergleich das Signal an einen Anschluss für die Weiche aus. Zeichnungsstand der Fallabschrift vom 2. Dezember 2025.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="756" height="662"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-662)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="28" y="636" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,42%); stroke:none;" transform="translate(0,1272) scale(1,-1)">KM/26-123 · FK8   ·   02.12.2025</text>
+			<text x="600.78" y="636" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,42%); stroke:none;" transform="translate(0,1272) scale(1,-1)">TECHNISCHE ZEICHNUNG</text>
+			<text x="28" y="603" style="font-family: Helvetica-Bold; font-size: 20px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1206) scale(1,-1)">Figur P · Zeichnung zum ursprünglichen Prioritätsbeleg P0</text>
+			<text x="28" y="587" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,42%); stroke:none;" transform="translate(0,1174) scale(1,-1)">Etienne Wolf · Kistenkreis Prüftechnik GmbH, Patentkoordination · An Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam</text>
+			<rect x="28" y="218" width="700" height="360" style="stroke: rgb(78%,84%,84%); stroke-linecap: butt; stroke-width: 0.8; fill: none; fill-rule: evenodd;"/>
+			<polyline points="113 338, 568 338" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="113 284, 568 284" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="298 333, 388 333, 388 293, 298 293, 298 333" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="393 339, 393 292, 405 292" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="324 535, 373 535, 373 498, 324 498, 324 535" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="203 451, 254 451, 254 429, 203 429, 203 451" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="439 451, 490 451, 490 429, 439 429, 439 451" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="347 498, 347 335" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="248 430, 340 335" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="445 430, 354 335" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="503 531, 567 531, 567 492, 503 492, 503 531" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="568 511, 613 511" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<path d="M 318,316 L 248,255 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="248" cy="255" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="241.884" y="251" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,502) scale(1,-1)">10</text>
+			<path d="M 405,294 L 448,258 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="448" cy="258" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="441.884" y="254" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,508) scale(1,-1)">20</text>
+			<path d="M 217,450 L 163,480 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="163" cy="480" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="156.884" y="476" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,952) scale(1,-1)">30</text>
+			<path d="M 472,450 L 518,473 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="518" cy="473" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="511.884" y="469" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,938) scale(1,-1)">32</text>
+			<path d="M 343,533 L 378,554 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="378" cy="554" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="371.884" y="550" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1100) scale(1,-1)">40</text>
+			<path d="M 518,527 L 531,555 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="531" cy="555" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="524.884" y="551" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1102) scale(1,-1)">50</text>
+			<path d="M 605,512 L 637,536 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="637" cy="536" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="630.884" y="532" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1064) scale(1,-1)">80</text>
+			<text x="28" y="198" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,396) scale(1,-1)">BEZUGSZEICHEN</text>
+			<text x="28" y="175" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,350) scale(1,-1)">10</text>
+			<text x="60" y="175" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,350) scale(1,-1)">Fruchtkiste</text>
+			<text x="386" y="175" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,350) scale(1,-1)">20</text>
+			<text x="418" y="175" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,350) scale(1,-1)">Anschlag</text>
+			<text x="28" y="151" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,302) scale(1,-1)">30</text>
+			<text x="60" y="151" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,302) scale(1,-1)">Linke Lichtquelle</text>
+			<text x="386" y="151" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,302) scale(1,-1)">32</text>
+			<text x="418" y="151" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,302) scale(1,-1)">Rechte Lichtquelle</text>
+			<text x="28" y="127" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,254) scale(1,-1)">40</text>
+			<text x="60" y="127" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,254) scale(1,-1)">Kamera</text>
+			<text x="386" y="127" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,254) scale(1,-1)">50</text>
+			<text x="418" y="127" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,254) scale(1,-1)">Steuerung</text>
+			<text x="28" y="103" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,206) scale(1,-1)">80</text>
+			<text x="60" y="103" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,206) scale(1,-1)">Ausgang zur Weiche</text>
+			<text x="28" y="71" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,142) scale(1,-1)">Blick von oben auf die angehaltene Fruchtkiste vor der Kamera. Die eingezeichneten Sicht- und Beleuchtungslinien treffen</text>
+			<text x="28" y="56" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,112) scale(1,-1)">denselben Wandabschnitt. Die beiden Leuchten werden zeitlich nacheinander aktiviert. Die Steuerung gibt nach dem Bildvergleich</text>
+			<text x="28" y="41" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,82) scale(1,-1)">das Signal an einen Anschluss für die Weiche aus. Zeichnungsstand der Fallabschrift vom 2. Dezember 2025.</text>
+		</g>
+	</g>
+</svg>

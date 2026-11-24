@@ -1,0 +1,6 @@
+Fiktive Entgegenhaltung D1 · Zentraler Klimarechner Wiesenlicht
+10.11.2026 · Ruth Eilert · Kanzlei Mund, Recherche an Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam
+
+Fiktive Fachinformation für die Übung. Die öffentliche Auslage in einer Technikbibliothek am 6. Mai 2021 wird als Tatsache vorgegeben. Weder der Herstellername noch der Auszug bezeichnet eine reale Fundstelle.
+
+Ein Zentralrechner ermittelt aus Strahlung und Prognose für zwei Gewächshauszonen Schirmziele. Die Motorbox führt die nacheinander empfangenen Ziele aus und sendet eine Auftragsbestätigung. Jede Motorleitung besitzt einen Überstromabschalter. Die Unterlage nennt keine Freigabe des zweiten Antriebs in Abhängigkeit vom gemessenen Nachlaufstrom des ersten. Bei Netzausfall hält die Motorbox den zuletzt übernommenen Sollwert.

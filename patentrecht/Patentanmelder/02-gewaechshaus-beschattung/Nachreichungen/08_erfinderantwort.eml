@@ -1,0 +1,29 @@
+From: Enno Reh =?utf-8?q?=C2=B7_Blattwinkel_Regeltechnik_GmbH=2C?= Entwicklung
+ <e.reh@blattwinkel.example>
+To: =?utf-8?q?Dr=2E_Tessa_Mund_=C2=B7_Patentanwaltskanzlei_Mund=2C?=
+ Anmeldeteam <t.mund@kanzlei-mund.example>
+Date: Wed, 18 Nov 2026 08:26:00 +0100
+Message-ID: <23437f63c7398a30cd88c687@fallpost.example>
+Subject: F12 mit gezogenem Netzstecker wiederholt =?utf-8?q?=C2=B7?= Freigabe
+ in L4
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Der Wiederholungsversuch lief auf Software L4.3 mit abgezogenem Ethernetkabel=
+. Zwei =C3=B6rtlich ausgel=C3=B6ste Fahranfragen standen gleichzeitig an. Ers=
+t nach Abfall des ersten Motorausgangs UND ununterbrochenem Unterschreiten de=
+s Stromgrenzwerts von 0,35 A f=C3=BCr 300 ms schaltet der Regler den wartende=
+n zweiten Ausgang. In unserem Versuch mit tr=C3=A4gem Motor lag der Strom nac=
+h dem Abschalten noch 720 ms =C3=BCber der Schwelle. Der zweite Ausgang folgt=
+e nach weiteren 310 ms. Ein fester 500-ms-Timer h=C3=A4tte in diesem Versuch =
+zu fr=C3=BCh freigegeben.
+
+Die Zahlen sind Parameter unseres Musters. Die Vergleichszeit l=C3=A4uft bei =
+erneutem =C3=9Cberschreiten von vorn. Ersatzregler L4.3 setzt beide Positions=
+st=C3=A4nde auf unbekannt. Er f=C3=A4hrt jede Zone einzeln auf Anforderung de=
+s Bedieners bis zum verdrahteten Endschalter =E2=80=9Eoffen=E2=80=9C, setzt d=
+ort den =C3=B6rtlichen Z=C3=A4hler und erlaubt dann Sollfahrten. Die Anfahrre=
+ihenfolge und Stromfreigabe gelten auch bei diesen Referenzfahrten. Ohne funk=
+tionierenden Endschalter bleibt die Lage unbekannt. Den lokalen Schaltplan un=
+d die Klemmenbelegung k=C3=B6nnen wir einem Sachverst=C3=A4ndigen zeigen.

@@ -26,9 +26,11 @@ Schutzbereich und FTO: Anspruch auslegen, Produkt zuordnen, wortsinngemäße und
 
 Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
 
-### 3.3. Arbeitsschritt
+### 3.3. Die Reichweite einer Anspruchsfassung erproben
 
-Warum lag die Merkmalskombination für den Fachmann nahe oder gerade nicht nahe.
+Lege neben den Hauptanspruch das beschriebene Produkt und eine konkret belegte Ausführungsvariante. Vermerke je Merkmal, ob die jeweilige Ausführung darunter fällt und welche Änderung des Wortlauts den Befund verschiebt. Ein zusätzlicher Griffsteg im Hauptanspruch kann beispielsweise Produkte ohne Griffsteg aus dem Wortsinn herausnehmen. Prüfe, ob ein Unteranspruch diesem nachgeordneten Detail besser entspricht und welche Offenbarung beide Fassungen trägt.
+
+Erteilt der Mandant einen Auftrag zur Benutzungsfreiheit (Freedom to Operate, FTO), ermittle für das benannte Land, Produkt und den maßgeblichen Zeitpunkt die einschlägigen Rechte Dritter, deren Anspruchsfassungen und Rechtsstand. Ein eigener Patentanmeldungsentwurf beantwortet diese Frage nicht. Übernimm aus einer FTO-Prüfung nur konkret belegte technische oder rechtliche Befunde in die weitere Anmeldearbeit.
 
 ### 3.4. Arbeitsschritt
 

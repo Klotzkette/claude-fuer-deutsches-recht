@@ -26,9 +26,11 @@ Unterlagen und Quellen auswerten: Akte, Belege, Chronologie, Recherche und entsc
 
 Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
 
-### 3.3. Arbeitsschritt
+### 3.3. Fassungen und Offenbarungsstellen belegen
 
-Welcher Rechtsbestands-, Verletzungs- oder Lizenzschritt ist jetzt fristgebunden.
+Führe je Merkmal zwei getrennte Nachweise. Die eigene Offenbarungsgrundlage erhält Dokument, Datum, Fassung und Absatz oder Figur. Beim Stand der Technik notiere zusätzlich den Nachweis der öffentlichen Zugänglichkeit und den Inhalt der konkreten Passage. Ein prioritätsbegründendes Dokument erhält eine eigene Spalte, sobald seine Offenbarung für den Zeitrang eines Merkmals wichtig wird.
+
+Sichere die ursprünglichen Anmeldungsunterlagen getrennt vom aktuellen Entwurf, späteren Versuchen und Erfinderantworten. Bei einem undatierten Foto frage nach Entstehung, Empfängerkreis und Vertraulichkeit. Bis zur Klärung kann das Foto die Bauform erläutern. Für eine zeitlich eingeordnete öffentliche Offenbarung fehlt dann noch der Beleg. Die [Anspruchswerkstatt](../../references/patentanmelder-anspruchswerkstatt.md) enthält eine ausgefüllte Merkmalsprüfung.
 
 ### 3.4. Arbeitsschritt
 

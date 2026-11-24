@@ -43,6 +43,8 @@ def verify_public(publisher, routes, tags, commit):
             raise ValueError(f"{tag}: Bestandsnachweis oder Quellenbindung stimmt nicht")
         if any(assets[name].get("digest") != "sha256:" + digest for name, digest in sums.items()):
             raise ValueError(f"{tag}: Öffentliche Asset-Prüfsumme stimmt nicht mit der Freigabe überein")
+        if any(sums.get(name) != digest for name, digest in report.get("prompts", {}).items()):
+            raise ValueError(f"{tag}: Prompt-Prüfsummen und Bestandsnachweis weichen voneinander ab")
         reports[tag] = report
     return reports
 

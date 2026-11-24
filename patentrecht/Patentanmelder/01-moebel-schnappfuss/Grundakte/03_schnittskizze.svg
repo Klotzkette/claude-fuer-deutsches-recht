@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="756" height="713" preserveAspectRatio="xMinYMin meet" viewBox="0 0 756 713" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Figur 1 · Raststelle an der Stützenwand, Schieber eingefahren</title>
+	<desc>Schnitt durch eine Führungswange, schematisch und ohne Maßstab. Links liegt der Innenraum der Stütze, rechts der von außen erreichbare Schieber. Die Unterbrechung in der Stützenwand ist das Rastfenster. Die Zunge ist unten am Fußkörper gehalten. Der am oberen Ende eingezeichnete Vorsprung greift durch das Fenster. Der schraffurfreie rechteckige Kopf rechts hinter der Zunge gehört zum Schieber. Die Führung lässt seine Rücknahme nach rechts zu. Die Zeichnung beschreibt die Sperrstellung. Ein Lastantrieb oder ein federnder Bodenteller ist in dieser Figur nicht eingezeichnet.</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="756" height="713"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-713)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="28" y="687" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,42%); stroke:none;" transform="translate(0,1374) scale(1,-1)">KM/26-114 · R40   ·   09.11.2026</text>
+			<text x="600.78" y="687" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,42%); stroke:none;" transform="translate(0,1374) scale(1,-1)">TECHNISCHE ZEICHNUNG</text>
+			<text x="28" y="654" style="font-family: Helvetica-Bold; font-size: 20px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1308) scale(1,-1)">Figur 1 · Raststelle an der Stützenwand, Schieber eingefahren</text>
+			<text x="28" y="638" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,40%,42%); stroke:none;" transform="translate(0,1276) scale(1,-1)">Mara Siem · Kante &amp; Kufe Zubehörtechnik GmbH, Konstruktion · An Dr. Tessa Mund · Patentanwaltskanzlei Mund, Anmeldeteam</text>
+			<rect x="28" y="269" width="700" height="360" style="stroke: rgb(78%,84%,84%); stroke-linecap: butt; stroke-width: 0.8; fill: none; fill-rule: evenodd;"/>
+			<polyline points="208 356, 546 356, 546 333, 208 333, 208 356" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="413 356, 413 528, 442 528, 442 356" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="303 357, 303 455, 315 455, 315 357" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="303 491, 303 564, 315 564, 315 491" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="344 365, 344 469, 289 469, 289 482, 356 482, 356 365, 344 365" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="358 484, 408 484, 408 461, 358 461, 358 484" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="408 478, 496 478, 496 467, 408 467, 408 478" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<polyline points="496 489, 505 489, 505 454, 496 454, 496 489" style="stroke: rgb(11%,20%,22%); stroke-linecap: butt; stroke-width: 2.2; fill: None; fill-rule: evenodd;"/>
+			<path d="M 437,519 L 537,560 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="537" cy="560" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="530.884" y="556" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1112) scale(1,-1)">10</text>
+			<path d="M 251,344 L 172,320 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="172" cy="320" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="165.884" y="316" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,632) scale(1,-1)">20</text>
+			<path d="M 350,418 L 398,393 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="398" cy="393" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="391.884" y="389" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,778) scale(1,-1)">30</text>
+			<path d="M 291,475 L 220,460 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="220" cy="460" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="213.884" y="456" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,912) scale(1,-1)">32</text>
+			<path d="M 469,472 L 552,438 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="552" cy="438" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="545.884" y="434" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,868) scale(1,-1)">40</text>
+			<path d="M 309,535 L 215,557 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="215" cy="557" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="208.884" y="553" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1106) scale(1,-1)">50</text>
+			<path d="M 308,491 L 239,510 Z" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9;"/>
+			<circle cx="239" cy="510" r="11" style="stroke: rgb(12%,36%,38%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="232.884" y="506" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,1012) scale(1,-1)">52</text>
+			<text x="28" y="249" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,498) scale(1,-1)">BEZUGSZEICHEN</text>
+			<text x="28" y="226" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,452) scale(1,-1)">10</text>
+			<text x="60" y="226" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,452) scale(1,-1)">Fußkörper mit Führungswange</text>
+			<text x="386" y="226" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,452) scale(1,-1)">20</text>
+			<text x="418" y="226" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,452) scale(1,-1)">Bodenteller</text>
+			<text x="28" y="202" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,404) scale(1,-1)">30</text>
+			<text x="60" y="202" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,404) scale(1,-1)">Federnde Zunge</text>
+			<text x="386" y="202" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,404) scale(1,-1)">32</text>
+			<text x="418" y="202" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,404) scale(1,-1)">Rastnase</text>
+			<text x="28" y="178" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,356) scale(1,-1)">40</text>
+			<text x="60" y="178" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,356) scale(1,-1)">Schieber mit außenliegender Lasche</text>
+			<text x="386" y="178" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,356) scale(1,-1)">50</text>
+			<text x="418" y="178" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,356) scale(1,-1)">Stützenwand</text>
+			<text x="28" y="154" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(12%,36%,38%); stroke:none;" transform="translate(0,308) scale(1,-1)">52</text>
+			<text x="60" y="154" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,308) scale(1,-1)">Rastfenster</text>
+			<text x="28" y="122" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,244) scale(1,-1)">Schnitt durch eine Führungswange, schematisch und ohne Maßstab. Links liegt der Innenraum der Stütze, rechts der von außen</text>
+			<text x="28" y="107" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,214) scale(1,-1)">erreichbare Schieber. Die Unterbrechung in der Stützenwand ist das Rastfenster. Die Zunge ist unten am Fußkörper gehalten.</text>
+			<text x="28" y="92" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,184) scale(1,-1)">Der am oberen Ende eingezeichnete Vorsprung greift durch das Fenster.</text>
+			<text x="28" y="71" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,142) scale(1,-1)">Der schraffurfreie rechteckige Kopf rechts hinter der Zunge gehört zum Schieber. Die Führung lässt seine Rücknahme nach</text>
+			<text x="28" y="56" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,112) scale(1,-1)">rechts zu. Die Zeichnung beschreibt die Sperrstellung. Ein Lastantrieb oder ein federnder Bodenteller ist in dieser Figur nicht</text>
+			<text x="28" y="41" style="font-family: Helvetica; font-size: 12px;fill: rgb(11%,20%,22%); stroke:none;" transform="translate(0,82) scale(1,-1)">eingezeichnet.</text>
+		</g>
+	</g>
+</svg>

@@ -26,9 +26,11 @@ Rechtsbestand: Stand der Technik, Neuheit, erfinderische Tätigkeit, Offenbarung
 
 Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
 
-### 3.3. Arbeitsschritt
+### 3.3. Patentfähigkeit Anspruch für Anspruch prüfen
 
-Welches Dokument offenbart welches Merkmal unmittelbar und eindeutig zu welchem Prioritätszeitpunkt.
+Ermittle den maßgeblichen Zeitrang für die beanspruchte Merkmalskombination. Prüfe die Neuheit an jeder Entgegenhaltung für sich. Benenne bei einem behaupteten Treffer die Stelle für jedes Merkmal und für deren Zusammenwirken. Eine in einer früher angemeldeten und später veröffentlichten Anmeldung offenbarte Lehre verlangt gesonderte Prüfung der Voraussetzungen des § 3 Abs. 2 PatG oder Art. 54 Abs. 3 EPÜ und ihrer alleinigen Bedeutung für die Neuheit.
+
+Für die erfinderische Tätigkeit benenne einen begründeten Ausgangspunkt, das verbleibende Unterscheidungsmerkmal, seine belegte technische Wirkung und die sich ergebende Aufgabe. Prüfe, welchen Anlass die Fachperson am maßgeblichen Tag hatte, ausgehend davon gerade zu der beanspruchten Lösung zu gelangen. Begründe sowohl Einwand als auch Erwiderung. Beschränke die Aussage auf den belegten Recherchestand. Für einen geänderten Anspruch prüfe zusätzlich, ob genau diese Merkmalskombination ursprünglich offenbart war.
 
 ### 3.4. Arbeitsschritt
 
