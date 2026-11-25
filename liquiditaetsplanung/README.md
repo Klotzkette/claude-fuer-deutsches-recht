@@ -15,7 +15,7 @@ Aktueller Quellenabgleich: [geprüfte Entscheidungen, Anwendung und Grenzen vom 
 
 Liquiditätsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Lücken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -66,7 +66,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`liquiditaetsplanung-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/liquiditaetsplanung-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [4 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -137,9 +137,9 @@ Die [Prüfregeln zu §§ 17–19 InsO](references/insolvenzpruefung.md) behandel
 
 ## 1.9. Geprüfte Rechtsprechung und Abgleich
 
-**Prüfstand 28.09.2026:** Die fünf im überlassenen Fachkapitel genannten Urteile – IX ZR 123/04, IX ZR 228/03, II ZR 88/16, IX ZR 133/14 und II ZR 84/20 – sind in Datum, Aktenzeichen und Themenzuordnung bestätigt. Hinzu kommen sechs bereits relevante neuere Entscheidungen zu Nachweismethoden, Indizien, Darlegung und Titeln. Die [Entscheidungskarte](references/rechtsprechung/INDEX.md) führt **elf Entscheidungen**, ihre amtlichen Volltexte und genaue Anwendungsgrenzen sowie den ergänzenden Berichtigungsbeschluss auf.
+**Prüfstand 28.09.2026:** Die fünf im überlassenen Fachkapitel genannten Urteile – IX ZR 123/04, IX ZR 228/03, II ZR 88/16, IX ZR 133/14 und II ZR 84/20 – sind in Datum, Aktenzeichen und Themenzuordnung bestätigt. Sechs weitere Entscheidungen behandeln Nachweismethoden, Indizien, Darlegung und Titeln. Die [Entscheidungskarte](references/rechtsprechung/INDEX.md) führt **elf Entscheidungen**, ihre amtlichen Volltexte und genaue Anwendungsgrenzen sowie den ergänzenden Berichtigungsbeschluss auf.
 
-Die Überlegungen zu Belegen, rollierender Planung, gezielten Rückfragen, Szenarien und Weiterarbeit waren weitgehend vorhanden. Präzisiert wurden insbesondere die Insolvenzmethodik, die Behandlung von Rangrücktritt und Drittmitteln sowie die Rechenhilfen. Werkstatt und Mini wurden entsprechend aktualisiert; die Skillzahl bleibt unverändert. Der Mini bleibt unter 7.500 UTF-8-Bytes.
+Werkstatt und Mini führen von belegten Ein- und Auszahlungen zur rollierenden Planung. Sie prüfen Rangrücktritte und Drittmittel, rechnen Szenarien durch und benennen die Rückfrage, deren Antwort das Ergebnis ändern kann. Der Mini umfasst weniger als 7.500 UTF-8-Bytes.
 
 Der [Prüfbericht mit drei ausgearbeiteten Grenzfällen und Rechentests](../quality/liquiditaetsplanung/abgleich-2026-09-28/README.md) trennt Quellenabgleich, redaktionelle Prüfung und tatsächlich ausgeführte Tests.
 
@@ -159,7 +159,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **12 auswählbare Skills**. Die **74 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **12 auswählbare Skills**. Die **74 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 

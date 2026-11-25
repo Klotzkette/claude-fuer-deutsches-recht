@@ -85,7 +85,7 @@ Die Klage stellt die bestimmten Zahlungs- und Auskunftsanträge vor die Begründ
 
 Der Regressionstest `scripts/test-fintech-bremen.py` prüft Seitenzahlen, Buchungswerte, Trennung der Arbeitsbereiche, native Dateien und die Übereinstimmung der Archive mit den Originalen. Eine menschliche juristische Freigabe oder ein Live-Versand wird durch diese Prüfungen nicht ersetzt.
 
-Mit `scripts/build-fintech-bremen-akte.py --pleadings-only` werden die Schriftsätze sowie die beiden davon abhängigen Blattzahlangaben reproduzierbar neu gesetzt. Der [Migrationsnachweis](../../scripts/fixtures/fintech-bremen/satz-migration-2026-11.json) hält die alten und neuen Dateihashes für genau fünf Aktenstücke sowie den Erhalt der Sachargumente fest; die historischen Hashlisten bleiben unverändert. `scripts/test-fintech-bremen-schriftsatzsatz.py` prüft die Form und weist die frühere Fassung zurück.
+Mit `scripts/build-fintech-bremen-akte.py --pleadings-only` werden die Schriftsätze sowie die beiden davon abhängigen Blattzahlangaben reproduzierbar neu gesetzt. Der [Prüfnachweis](../../scripts/fixtures/fintech-bremen/satz-migration-2026-11.json) dokumentiert Satz und Prüfsummen von fünf Aktenstücken. `scripts/test-fintech-bremen-schriftsatzsatz.py` prüft ihre Form.
 
 Mit `scripts/build-fintech-bremen-akte.py --supplements-only --qa-dir /tmp/fintech-expansion-qa/native` lassen sich nur die sieben Ergänzungen erzeugen. Der Aufruf prüft vorher und nachher die SHA-256-Werte der 35 bestehenden Dateien. `AKTEN_NODE` und `AKTEN_NODE_MODULES` können auf den bereitgestellten Node-/Artifact-tool-Laufzeitbestand zeigen. Die Arbeitsmappen enthalten echte Formeln mit geprüften Ergebniswerten; die Vorschauen und späteren ZIP-Prüfläufe werden außerhalb des Aktenordners abgelegt.
 

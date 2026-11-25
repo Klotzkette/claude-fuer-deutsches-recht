@@ -5,7 +5,7 @@
 
 Betriebliche Altersversorgung im Konzern: Versorgungsordnungen und Besitzstände prüfen; Harmonisierung, Carve-out, CTA, Rentnergesellschaft und Pensionskassenkürzung anhand belegter Unterlagen gestalten.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`bav-strategie-konzern-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bav-strategie-konzern/bav-strategie-konzern-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [4 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -121,7 +121,7 @@ Der Stil verbindet präzise Mandantenkommunikation mit ausführlichen Vertragsun
 
 ## 5. Rechtsstand und Aussagegrenzen
 
-Die Fachüberarbeitung hat den Prüfstand **15. November 2026**. Die Quellenübersicht erläutert bei jeder Entscheidung, welche Passage die Aussage trägt und welche Frage damit nicht entschieden ist. Bereits geltende Regeln, Übergangsrecht und erst später wirksame Änderungen sind zu trennen. Vor einer konkreten Gestaltung werden Rechtsstand und Vertragsbestand nochmals auf den maßgeblichen Stichtag geprüft.
+Die dokumentierte Quellenprüfung hat den Stand **15. November 2026**. Die Quellenübersicht erläutert bei jeder Entscheidung, welche Passage die Aussage trägt und welche Frage damit nicht entschieden ist. Bereits geltende Regeln, Übergangsrecht und erst später wirksame Änderungen sind zu trennen. Vor einer konkreten Gestaltung werden Rechtsstand und Vertragsbestand nochmals auf den maßgeblichen Stichtag geprüft.
 
 Arbeitsrechtliche Zusage, Versorgungsträgerleistung, Finanzierung, Insolvenzsicherung und bilanzielle Abbildung bleiben eigenständige Prüfebenen. Eine Bezeichnung wie „Buy-out“, „CTA“ oder „DC“ beantwortet noch nicht die Haftungsfrage. Fiktive Anbieterangebote sind Fallmaterial; ihre Zahlen stellen keine belegten Marktpreise dar. Excel-Szenarien ersetzen keine versicherungsmathematische Bewertung oder Jahresabschlussprüfung.
 

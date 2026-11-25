@@ -1,0 +1,19 @@
+{
+  "name": "betriebsvereinbarungen",
+  "version": "1.0.0",
+  "description": "Betriebsvereinbarungen für Arbeitgeber und Betriebsrat entwerfen, verhandeln und durchführen. Mit Tarif- und Zuständigkeitsprüfung, Sachverständigenauftrag, Beschäftigtendatenschutz und einer Arbeitsakte zu Microsoft 365 Copilot.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Betriebsvereinbarungen",
+    "shortDescription": "Betriebsvereinbarungen verhandeln",
+    "longDescription": "Betriebsvereinbarungen für Arbeitgeber und Betriebsrat entwerfen, verhandeln und durchführen. Mit Tarif- und Zuständigkeitsprüfung, Sachverständigenauftrag, Beschäftigtendatenschutz und einer Arbeitsakte zu Microsoft 365 Copilot.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Prüfe Auftrag, Entwurf und Unterlagen. Arbeite anhand der betrieblichen Interessen, Mitbestimmungsrechte und offenen Nachweise an der bestellten Vereinbarung weiter."
+  }
+}

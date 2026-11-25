@@ -5,7 +5,7 @@
 
 Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB Paragraf 675u, Paragraf 675v, Paragraf 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankpflichten, Schlichtung und Klage.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`phishing-vorfall-pruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=phishing-vorfall-pruefer/phishing-vorfall-pruefer-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -85,7 +85,7 @@ Rechtsstand dieser Ergänzung: **16. Oktober 2026**. Die [Quellenkarte zu EuGH C
 
 Für den vollständigen Ablauf den [Hauptworkflow](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=phishing-vorfall-pruefer/skills/pruefen/FACHINHALT.md) oder die Werkstatt verwenden. Mit der Akte Rabenstein beginnen: „Prüfen Sie die 700-Euro-Belastung und die Antwort der Bank. Erstellen Sie ein begründetes Erstattungsverlangen; untersuchen Sie einen möglichen Rückgriff getrennt. Verwenden Sie nur belegte Anlagen.“
 
-Die ältere Akte Mayer bleibt erhalten. Die Akte Rabenstein enthält 28 Originaldateien: sechs Word-Dokumente, zehn PDF-Belege, zehn E-Mails mit echten Anhängen und zwei Excel-Arbeitsmappen. Die 85 Euro aus der Verkaufsanzeige und eine Apothekenrückzahlung gehören nicht zur streitigen 700-Euro-Belastung. Der genaue SMS-Wortlaut ist bewusst offen; die Akte ersetzt fehlende Beweise nicht durch eine Musterlösung.
+Die Akte Mayer betrifft einen Streit mit der Sparkasse Berlin. Die Akte Rabenstein enthält 28 Originaldateien: sechs Word-Dokumente, zehn PDF-Belege, zehn E-Mails mit echten Anhängen und zwei Excel-Arbeitsmappen. Die 85 Euro aus der Verkaufsanzeige und eine Apothekenrückzahlung gehören nicht zur streitigen 700-Euro-Belastung. Der genaue SMS-Wortlaut ist bewusst offen; die Akte ersetzt fehlende Beweise nicht durch eine Musterlösung.
 
 ## Hilfsdateien und Lesefassungen
 
@@ -98,7 +98,7 @@ Komponentenfassung **445.35.4**: [Release und Downloads](https://github.com/Klot
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **9 auswählbare Skills**. Die **61 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **9 auswählbare Skills**. Die **61 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 

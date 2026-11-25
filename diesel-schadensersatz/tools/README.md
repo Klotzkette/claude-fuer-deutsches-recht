@@ -26,7 +26,7 @@ PDF-Tiefenprüfungen laufen isoliert mit Zeit-, CPU-, Speicher-, Dateideskriptor
   --output-dir /pfad/zum/arbeitsordner/aktenstart
 ```
 
-Das Bundle enthält `aktenstart-manifest.json` für Skill 01 und `aktenstart-startkarte.md` für die Sichtprüfung. Die Startkarte nennt jetzt direkt die drei Übergabeschritte und enthält den kopierfertigen Profi-Schnellstartauftrag; Bearbeiter müssen weder Skill noch Fallart bestimmen. Exitcode `0` bedeutet `STARTBEREIT`, `2` bedeutet `PRUEFUNG_NOETIG` oder `BLOCKIERT`, `1` bedeutet Aufruf- oder Systemfehler. Eine Blockierung betrifft das automatische Lesen; sie ist keine Aussage zum materiellen Beweiswert der Datei.
+Das Bundle enthält `aktenstart-manifest.json` für Skill 01 und `aktenstart-startkarte.md` für die Sichtprüfung. Die Startkarte nennt die drei Übergabeschritte und enthält den kopierfertigen Profi-Schnellstartauftrag; Bearbeiter müssen weder Skill noch Fallart bestimmen. Exitcode `0` bedeutet `STARTBEREIT`, `2` bedeutet `PRUEFUNG_NOETIG` oder `BLOCKIERT`, `1` bedeutet Aufruf- oder Systemfehler. Eine Blockierung betrifft das automatische Lesen; sie ist keine Aussage zum materiellen Beweiswert der Datei.
 
 ## Fünfjahreskorpus und kleine Modelle
 

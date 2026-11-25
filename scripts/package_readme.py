@@ -21,8 +21,10 @@ TOKENS = re.compile(
 )
 
 
-def render_readme(root: Path, directory: Path, members, commit: str | None, *, name: str = "README.md") -> bytes | None:
-    """Use local links for shipped files or directories, commit links for omitted targets."""
+def render_readme(root: Path, directory: Path, members, commit: str | None, *, name: str = "README.md", release_tag: str | None = None) -> bytes | None:
+    """Link shipped files locally. Omitted targets use a commit or an explicitly versioned release tag."""
+    if release_tag is not None and (commit is not None or not re.fullmatch(r"[a-z][a-z0-9-]*-v[0-9]+\.[0-9]+\.[0-9]+", release_tag)):
+        raise ValueError("Die Paketfassung benötigt einen eindeutigen, versionierten Release-Tag.")
     names = {name.rstrip("/") for name in members}
     if name not in names:
         return None
@@ -56,11 +58,11 @@ def render_readme(root: Path, directory: Path, members, commit: str | None, *, n
         else:
             if not target.exists():
                 raise ValueError(f"README-Ziel im Repository fehlt: {dest}")
-            if not commit or not re.fullmatch(r"[a-f0-9]{40}", commit):
+            if release_tag is None and (not commit or not re.fullmatch(r"[a-f0-9]{40}", commit)):
                 raise ValueError("Externer Paketverweis benötigt den vollständigen Git-Commit")
             view = "tree" if target.is_dir() else "blob"
             source = quote(target.relative_to(root).as_posix(), safe="/")
-            new_path = f"{REPOSITORY}/{view}/{commit}"
+            new_path = f"{REPOSITORY}/{view}/{release_tag or commit}"
             if target != root:
                 new_path += f"/{source}"
         new = urlunsplit(("", "", new_path, parts.query, parts.fragment))

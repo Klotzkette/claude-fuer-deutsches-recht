@@ -7,7 +7,7 @@
 
 Insolvenzsachbearbeitung vom Beschluss bis zur Verteilung vorbereiten. Zehn Fachskills und ein Hauptskill verbinden Forderungen, Korrespondenz, Eigentum, Sicherheiten, Massebelege, Betrieb und Verbraucherinsolvenz mit belegten, ausformulierten Arbeitsprodukten.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,7 +54,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown / identisches TXT | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzsachbearbeitung/insolvenzsachbearbeitung-hauptproblem.md" download>insolvenzsachbearbeitung-hauptproblem.md</a> · [`insolvenzsachbearbeitung-hauptproblem.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzsachbearbeitung/insolvenzsachbearbeitung-hauptproblem.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [4 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -82,7 +82,7 @@ Bearbeiten Sie Insolvenzakten vom Beschluss bis zum konkreten Prüfvermerk, Glä
 
 Beginnen Sie mit den vorhandenen Unterlagen und dem bestellten Dokument. Der Hauptskill führt in sechs Gesprächsphasen von Aktenlektüre und Auftragsklärung über gebündelte Entscheidungsfragen zum ersten vollständigen Arbeitsprodukt. Antworten und Nachreichungen werden unter derselben Produktkennung als Änderung fortgeschrieben. Vier Freigabestufen trennen interne Dateiarbeit, Registerstand, Versandvorbereitung und die konkrete Außenhandlung. Zehn Fachskills werden nach Bedarf verbunden. Für Verbraucherinsolvenz gibt es zusätzlich eine eigenständige Werkstatt und einen Mini-Prompt über dieselben Fachrouten; sie schaffen keine weiteren Skills.
 
-Dieses Plugin gehört zum Marketplace mit **308 Plugins**. Version **1.1.0**, Quellenabgleich **22.10.2026**. Änderungen stehen im [Changelog](CHANGELOG.md). Die [Originalquellen](references/rechtsquellen.md) dokumentieren 22 Entscheidungsanker mit Aussage und Grenze sowie die amtlich geprüften Pfändungswerte 2026. Der [Quellennachtrag](../quality/insolvenzsachbearbeitung/quellenpruefung-nachtrag-2026-10-22.md) weist die neu gelesenen Randnummern und den Rechtsprechungsgang einzeln nach.
+Version **1.1.0**, Quellenabgleich **22.10.2026**. Änderungen stehen im [Changelog](CHANGELOG.md). Die [Originalquellen](references/rechtsquellen.md) dokumentieren 22 Entscheidungsanker mit Aussage und Grenze sowie die amtlich geprüften Pfändungswerte 2026. Der [Quellennachtrag](../quality/insolvenzsachbearbeitung/quellenpruefung-nachtrag-2026-10-22.md) weist die ausgewerteten Randnummern und den Rechtsprechungsgang einzeln nach.
 
 ## 1. Direkt beginnen
 

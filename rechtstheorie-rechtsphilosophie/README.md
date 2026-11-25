@@ -5,7 +5,7 @@
 
 Rechtstheorie- und Rechtsphilosophie-Plugin für juristische Praxis: Rechtsbegriff, Kelsen-orientierte Normgeltung, Demokratie, Rechtsrealismus, Systemdenken, Besitzdogmatik, Law-and-Economics, Hayek-Wissensproblem, spontane Ordnung, Machtkritik und anti-dezisionistische Red-Team-Prüfung.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,7 +54,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`rechtstheorie-rechtsphilosophie-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtstheorie-rechtsphilosophie/rechtstheorie-rechtsphilosophie-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
@@ -62,15 +62,15 @@ Dieses Plugin übersetzt große rechtstheoretische, rechtsphilosophische und rec
 
 Das Plugin hilft bei Grundsatzgutachten, Methodenstreit, Rechtsfortbildung, Präjudizienarbeit, Abwägung, Gesetzesbindung, Rechtsrealismus, Systemkritik, Machtkritik und rechtspolitischer Selbstkontrolle. Es eignet sich für Kanzleivermerke, wissenschaftsnahe Memos, strategische Schriftsätze, Gesetzgebungsvorbereitung und Red-Team-Prüfungen.
 
-Neu stärker ausgearbeitet ist eine kelsenianische Arbeitsachse: Norm, Quelle, Kompetenz, Rang, Verfahren und Rechtsschutz werden immer zuerst sauber sortiert, bevor moralische, politische, verwaltungspraktische oder technokratische Argumente rechtlich angeschlossen werden. Dadurch bleibt das Plugin positivistisch klar, ohne moralisch blind zu werden.
+Die kelsenianische Prüfung ordnet zuerst Norm, Quelle, Kompetenz, Rang, Verfahren und Rechtsschutz. Darauf aufbauend untersucht sie, welche rechtliche Bedeutung moralische, politische, verwaltungspraktische oder technokratische Argumente im konkreten Fall haben.
 
-Ebenso ausdrücklich eingebaut ist eine anti-autoritäre Red-Team-Achse gegen Carl-Schmitt-nahe und sonstige dezisionistische Denkfiguren: Ausnahmezustand, Souveränitätsbehauptung, Freund-Feind-Rhetorik, Institutionenmythos, Staatsräson und technokratischer Sachzwang werden nicht als Tiefsinn akzeptiert, sondern in prüfbare Fragen nach Normgrundlage, Kompetenz, Grundrechten, Minderheitenschutz, Befristung und Kontrolle übersetzt.
+Die Machtkritik untersucht Carl Schmitt nahestehende und andere dezisionistische Denkfiguren. Ausnahmezustand, Souveränitätsbehauptung, Freund-Feind-Rhetorik, Institutionenmythos, Staatsräson und technokratischer Sachzwang werden nicht als Tiefsinn akzeptiert, sondern in prüfbare Fragen nach Normgrundlage, Kompetenz, Grundrechten, Minderheitenschutz, Befristung und Kontrolle übersetzt.
 
-Hinzu kommt eine stärker privatrechtliche Theorieachse am Beispiel von Besitz, Eigentum und wirtschaftlicher Ressourcenzuordnung: historische Dogmatik, Rechtsrealismus und Law-and-Economics werden so verbunden, dass Begriffe, tatsächliche Kontrolle, Beweisbarkeit, Verkehrsschutz, Investitionsanreize und Transaktionskosten gemeinsam geprüft werden, ohne Effizienz zum Ersatz für geltendes Recht zu machen.
+Die privatrechtliche Analyse behandelt Besitz, Eigentum und wirtschaftliche Ressourcenzuordnung. Sie verbindet historische Dogmatik, Rechtsrealismus und Law-and-Economics so, dass Begriffe, tatsächliche Kontrolle, Beweisbarkeit, Verkehrsschutz, Investitionsanreize und Transaktionskosten gemeinsam geprüft werden, ohne Effizienz zum Ersatz für geltendes Recht zu machen.
 
-Neu ergänzt ist außerdem eine hayekianisch informierte, aber kritisch kontrollierte Wissensachse: dezentrale Information, stilles Erfahrungswissen, gewachsene Praxis, Regeln als kognitive Entlastung und spontane Ordnung werden als wichtige Erkenntnisquellen behandelt. Zugleich prüft das Plugin, ob Gewohnheit nur schlechte Praxis, Kartelllogik, Umweltlasten, Diskriminierung, Trägheit oder demokratiefeindliche Gesetzgebungsskepsis stabilisiert.
+Die Auseinandersetzung mit Hayek untersucht, wie dezentrale Information, stilles Erfahrungswissen, gewachsene Praxis und spontane Ordnung Entscheidungen prägen und wie Regeln die Beteiligten entlasten. Zugleich prüft das Plugin, ob Gewohnheit nur schlechte Praxis, Kartelllogik, Umweltlasten, Diskriminierung, Trägheit oder demokratiefeindliche Gesetzgebungsskepsis stabilisiert.
 
-Neu vertieft ist die Legalitäts- und Rechtsstaatsachse: Recht wird nicht schon dadurch gut, dass es formal als Recht auftritt. Entscheidend ist, ob Normen öffentlich, allgemein, zukunftsgerichtet, verständlich, widerspruchsfrei, erfüllbar, stabil und mit der Anwendungspraxis kongrünt sind. Diese Achse hilft besonders bei Machtkritik, Verwaltungsrealismus, Rückwirkung, Ausnahmebehauptungen und der Frage, ob Menschen als verantwortliche Rechtsadressaten ernst genommen werden.
+Für die Prüfung von Legalität und Rechtsstaatlichkeit ist entscheidend, ob Normen öffentlich, allgemein, zukunftsgerichtet, verständlich, widerspruchsfrei, erfüllbar, stabil und mit der Anwendungspraxis kongrünt sind. Diese Kriterien helfen besonders bei Machtkritik, Verwaltungsrealismus, Rückwirkung, Ausnahmebehauptungen und der Frage, ob Menschen als verantwortliche Rechtsadressaten ernst genommen werden.
 
 ## Kaltstart
 
@@ -91,7 +91,7 @@ Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate. Rechtspr
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **8 auswählbare Skills**. Die **66 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **8 auswählbare Skills**. Die **66 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 

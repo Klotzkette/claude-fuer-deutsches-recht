@@ -10,13 +10,15 @@ Die vertiefte Fassung enthält 45 eigenständige Unterlagen, darunter acht Excel
 
 <!-- BEGIN vertiefte-ausgabe-20261006 -->
 
-<!-- decimal-anchor --> <a id="vertiefte-ausgabe-vom-6-oktober-2026"></a>
+<a id="vertiefte-ausgabe-vom-6-oktober-2026"></a>
 
-## 1.1. Vertiefte Ausgabe vom 6. Oktober 2026
+<!-- decimal-anchor --> <a id="unterlagen-und-downloadformate"></a>
 
-**45 Originalunterlagen, darunter 8 bearbeitbare Excel-Arbeitsmappen.** Diese Ausgabe ergänzt 13 Aktenstücke. Die bisherigen Originale bleiben vollständig erhalten. Die neuen Mappen erläutern Eingaben, Quellen und Rechenwege; offene Angaben bleiben als solche erkennbar.
+## 1.1. Unterlagen und Downloadformate
 
-Die folgenden Downloads enthalten den vollständigen erweiterten Bestand. Der Fallstichtag steht in den Übergabeunterlagen; das Ausgabedatum macht daraus keine nachträgliche Kenntnis der Beteiligten.
+**45 Originalunterlagen, darunter 8 bearbeitbare Excel-Arbeitsmappen.** Die Arbeitsmappen erläutern Eingaben, Quellen und Rechenwege. Offene Angaben sind gekennzeichnet.
+
+Die Downloadtabelle führt zu den Originaldateien und Lesefassungen. Für Entscheidungen im Fall gilt der in den Übergabeunterlagen bezeichnete Stichtag.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -146,7 +148,7 @@ Die folgenden amtlichen Seiten wurden am 25.09.2026 abgerufen. Rechtsprechungsfu
 
 Für die am 27.07.2026 eingeleitete Vergabe wurde die Einbeziehung von VOB/B und VOB/C anhand von Paragraf 8a EU VOB/A 2019 geprüft und mit der später bekanntgemachten Fassung 2026 abgeglichen. Diese Pflicht besteht in beiden Fassungen. Damit wird keine pauschale Aussage zum gesamten Übergangsrecht 2026 getroffen. Bekanntmachung und Vergabeunterlagen legen übereinstimmend VOB/B 2016 und VOB/C 2019 einschließlich Ergänzungsband 2023 fest. Die einschlägigen ATV werden einbezogen, ihre urheberrechtlich geschützten Volltexte jedoch nicht mitgeliefert. Eine vollständige technische Normenprüfung wird nicht behauptet. Die Teilnahmebedingungen sind in den Verfahrensunterlagen selbst ausformuliert.
 
-Für die Vertiefung wurden Paragraf 134 Absatz 2 GWB und Paragraf 169 Absatz 1 GWB am 06.10.2026 erneut über die oben verlinkten amtlichen Einzelnormen geprüft. Der Abgleich betrifft den Rechenweg der bereits dokumentierten Wartezeit und das gesonderte Zuschlagsverbot. Der Aktenstichtag bleibt 25.09.2026; eine spätere Entscheidung oder ein späterer Eingang wird nicht erfunden. Neue Rechtsprechungsfundstellen werden nicht verwendet.
+Der Fristenprüfung liegen Paragraf 134 Absatz 2 und Paragraf 169 Absatz 1 GWB zugrunde. Die amtlichen Einzelnormen sind oben verlinkt (Abruf am 06.10.2026). Der Abgleich betrifft den Rechenweg der bereits dokumentierten Wartezeit und das gesonderte Zuschlagsverbot. Die Beurteilung beruht auf dem Aktenstand vom 25.09.2026.
 
 Der gewählte VOB/C-Stand war bei Ausgabe der Unterlagen am 29.07.2026 bereits veröffentlicht: Der BMWSB-Erlass nennt den 01.10.2023 als Einführungstermin im Bundesbau. Ergänzend bestätigt der Herausgeber in seiner [Produktinformation zu VOB 2019 mit Ergänzungsband 2023](https://www.dinmedia.de/de/fachliteratur/paket-vob-gesamtausgabe-2019-vob-ergaenzungsband-2023/368217354), dass die neuen ATV die betroffenen bisherigen Fassungen ersetzen und die nicht überarbeiteten ATV fortgelten. Der Erlass für den Bundesbau wird hier als Editionsnachweis verwendet, nicht als eigenständige Bindungsgrundlage der Stadt Northeim. Aus Änderungen der VOB/A 2026 wird keine neue VOB/C-Ausgabe abgeleitet.
 
@@ -154,13 +156,13 @@ Der gewählte VOB/C-Stand war bei Ausgabe der Unterlagen am 29.07.2026 bereits v
 
 ## 1.6. Neubau und technische Prüfung
 
-Die Vertiefung wird mit `scripts/vertiefung_northeim_20261006.py`, `scripts/vertiefung_northeim_20261006_tabellen.mjs` und `scripts/vertiefung_northeim_20261006_pakete.py all` in dieser Reihenfolge gebaut. Der letzte Schritt berechnet ausschließlich die drei neuen Mappen nativ neu, erzeugt sämtliche 45 Einzel-PDFs, das Gesamt-PDF und beide Archive und rendert die neuen Seiten. Die Erzeugung der Tabellen erfolgt mit `artifact_tool`, die der Word-Belege mit `python-docx`.
+Die Vertiefung wird mit `scripts/vertiefung_northeim_20261006.py`, `scripts/vertiefung_northeim_20261006_tabellen.mjs` und `scripts/vertiefung_northeim_20261006_pakete.py all` in dieser Reihenfolge gebaut. Der letzte Schritt berechnet die drei Arbeitsmappen in LibreOffice, erzeugt sämtliche 45 Einzel-PDFs, das Gesamt-PDF und beide Archive und rendert die betroffenen Dokumentseiten. Die Erzeugung der Tabellen erfolgt mit `artifact_tool`, die der Word-Belege mit `python-docx`.
 
-`scripts/vertiefung_northeim_20261006_test.py --native --packages` prüft die unveränderten Originale, den positionsweisen Angebotsabgleich, die neuen Formeln, 18 native Eingabemutationen und die Exportpakete. Geprüft werden unter anderem Preisrang, leere und echte Nullpreise, Cent-Rundung, fehlender Luftstrom, die SFP-Grenze, Eingang genau zur Frist und eine Sekunde später sowie noch offene Arbeitsschritte trotz einzelner erledigter Punkte. Die Tests arbeiten in temporären Kopien. Prüfausgaben, Seitenbilder und interne Dateimanifeste liegen außerhalb der Akte unter `/tmp/bauwirtschaft-vertiefung-20261006/northeim`; die Release-Dateien liegen unter `/tmp/bauwirtschaft-vertiefung-20261006/dist`.
+`scripts/vertiefung_northeim_20261006_test.py --native --packages` prüft die unveränderten Originale, den positionsweisen Angebotsabgleich, die Tabellenformeln, 18 native Eingabemutationen und die Exportpakete. Geprüft werden unter anderem Preisrang, leere und echte Nullpreise, Cent-Rundung, fehlender Luftstrom, die SFP-Grenze, Eingang genau zur Frist und eine Sekunde später sowie noch offene Arbeitsschritte trotz einzelner erledigter Punkte. Die Tests arbeiten in temporären Kopien. Prüfausgaben, Seitenbilder und interne Dateimanifeste liegen außerhalb der Akte unter `/tmp/bauwirtschaft-vertiefung-20261006/northeim`; die Release-Dateien liegen unter `/tmp/bauwirtschaft-vertiefung-20261006/dist`.
 
 Die Laufzeiten werden über `AKTEN_NODE_MODULES`, `SOFFICE` und `AKTEN_DOCX_RENDERER` festgelegt. Ausschließlich die gebündelte LibreOffice-Laufzeit darf benutzt werden. Falls der gebündelten Python-Laufzeit PyYAML fehlt, wird es in einem temporären Zusatzverzeichnis installiert und über `PYTHONPATH` eingebunden. Die installierte Laufzeit selbst wird nicht verändert.
 
-Die folgenden ursprünglichen Builder dokumentieren die unveränderte Ausgangsakte mit 32 Dokumenten. Für die vollständige Fassung mit 45 Dokumenten ist die oben genannte Vertiefung maßgeblich.
+Die folgenden Skripte erzeugen die 32 Unterlagen der Ausgangsakte. Für die 45 Dokumente der Vollakte führen Sie anschließend die Skripte für die weiteren Belege aus.
 
 Die fallbezogenen Skripte heißen `scripts/build-bauwirtschaft-northeim-akte.py`, `scripts/build-bauwirtschaft-northeim-workbooks.mjs`, `scripts/build-bauwirtschaft-northeim-pakete.py` und `scripts/test-bauwirtschaft-northeim.py`. Der Neubau erfolgt in dieser Reihenfolge; das Paketskript unterstützt die Schritte `recalc`, `receipts`, `packages` und `previews`. Für die Arbeitsmappen wird `artifact_tool` über den vorhandenen Laufzeithelfer verwendet. Native Neuberechnung und PDF-Ausgabe benötigen LibreOffice. Python benötigt die bereits für die zentralen Aktenbuilder verwendeten Dokument-, Tabellen-, PDF- und YAML-Bibliotheken.
 

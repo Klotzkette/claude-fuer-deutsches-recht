@@ -91,7 +91,9 @@ Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das
 | I — Insolvenz | Handelsregisterauszug, Gesellschafterliste, Eigenantrag Weber, Antrag Richter auf Rücknahme, Beschlüsse, Gutachten Dr. Bergmann, Abweisungsbeschluss § 26, HR-Mitteilung |
 | II — Ermittlung / Straf | Mitteilung Insolvenzgericht → StA, Einleitungsverfügung, Anhörungsbogen, Vernehmungsprotokolle (Dr. Bergmann, StB Hartmann), StA-Vermerke (Buchführung, Kontobewegungen, Rechtliche Würdigung), BZR-Auszug, Schreiben RA Steinbach (2x), StA-Vermerke, Teileinstellung, Strafbefehlsantrag, Strafbefehl, Zustellungsurkunden + Einspruch |
 
-## Aktenstücke (Ausbau ab Nr. 10)
+<a id="aktenstücke-ausbau-ab-nr-10"></a>
+
+## Verfahrensunterlagen ab Nr. 10
 
 | Datei | Inhalt |
 | --- | --- |

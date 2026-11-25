@@ -41,6 +41,43 @@ OVERVIEWS = load_script("validate-root-readme-overview.py")
 
 
 class ReadmeIntroductionTests(unittest.TestCase):
+    def test_change_notices_are_found_on_reader_pages_without_other_links(self):
+        notices = {
+            "README.md": "## 2. Was ist neu?",
+            "ASSET_INDEX.md": "The package now includes four templates.",
+            "bauvergabe/bieter/README.md": "## What’s **new**",
+            "testakten/demo/README.md": "Ausgabe als PDF. Das aktualisierte Gesamt-PDF umfasst 35 Seiten.",
+            "bauvergabe/testakten/fall/README.md": "Neu in dieser Version ist eine zweite Anlage.",
+            "plugin/README-bestand.md": "Seit dem letzten Update unterstützt das Plugin Excel.",
+        }
+        histories = ("CHANGELOG.md", "docs/releases/fall.md", "docs/vorgangshistorie/README.md",
+                     "quality/plugin/audit/README.md", "testakten/demo/Brief.md")
+        with tempfile.TemporaryDirectory() as tmp, patch.object(NAV, "REPO", Path(tmp)):
+            for name, content in {**dict.fromkeys(histories, "Neu in dieser Version"), **notices}.items():
+                path = Path(tmp) / name
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_text("# Angebot\n\n## Verwendung\n\n" + content + "\n", encoding="utf-8")
+            errors = []
+            NAV.validate_markdown_links(errors)
+            self.assertEqual(len(errors), len(notices))
+            self.assertEqual({error.split(":", 1)[0] for error in errors}, set(notices))
+
+    def test_case_chronologies_law_dates_quotes_and_usage_instructions_remain_valid(self):
+        text = """## Neu erzeugen
+
+Rechtsstand 1. Januar 2026. Seit dem letzten Update der Satzung gelten andere Stimmrechte.
+Die Bank berichtet: „Das Plugin unterstützt jetzt SEPA.“ Prüfen Sie diese Behauptung.
+
+> Neu in dieser Version der Vereinbarung ist eine längere Kündigungsfrist.
+
+[What's new](CHANGELOG.md)
+
+```text
+Neu in dieser Version
+```
+"""
+        self.assertEqual(NAV.readme_announcements(NAV.markdown_tokens(text)), [])
+
     def test_direct_generator_preserves_editorial_entries_and_their_release_urls(self):
         entries = json.loads(PLUGINS.MARKETPLACE.read_text(encoding="utf-8"))["plugins"]
         names = ("bauunternehmer-einkauf", "e-rechnung-werkstatt", "jugendmedienschutz-und-medienangebote",
@@ -178,10 +215,10 @@ class CatalogVersionTests(unittest.TestCase):
             self.assertEqual(actual, {"README.md", "plugin/skills/einstieg/SKILL.md"})
 
     def test_case_index_count_follows_inventory(self):
-        source = "Stand v444.8.0: 340 zentrale Testakten.\n"
-        expected = "Stand v444.9.0: 341 zentrale Testakten.\n"
-        self.assertEqual(CATALOG.update_testakten_version(source, "444.9.0", 341), expected)
-        self.assertEqual(CATALOG.update_testakten_version(expected, "444.9.0", 341), expected)
+        source = "Hier finden Sie 340 zentrale Testakten und 2 Hilfsmaterialsammlungen.\n"
+        expected = source.replace("340", "341")
+        self.assertEqual(CATALOG.update_testakten_count(source, 341), expected)
+        self.assertEqual(CATALOG.update_testakten_count(expected, 341), expected)
 
     def test_all_repeated_summary_counts_are_updated_and_idempotent(self):
         original = (
@@ -199,16 +236,17 @@ class CatalogVersionTests(unittest.TestCase):
         description = "Oeffentliches Strassen- und Strassenverkehrsverwaltungsrecht: Schulstrassen und Fahrraeder."
         self.assertEqual(PLUGINS.markdown_text(description), "Öffentliches Straßen- und Straßenverkehrsverwaltungsrecht: Schulstraßen und Fahrräder.")
 
-    def test_case_index_version_follows_release_without_changing_content(self):
-        original = "# Akten\n\nStand v444.5.2: 337 Akten.\n\nInhalt bleibt erhalten.\n"
-        expected = original.replace("v444.5.2", "v444.6.0")
-        self.assertEqual(CATALOG.update_testakten_version(original, "444.6.0"), expected)
-        self.assertEqual(CATALOG.update_testakten_version(expected, "444.6.0"), expected)
+    def test_legacy_case_index_version_is_removed_without_changing_case_information(self):
+        original = "# Akten\n\nStand v444.5.2: 337 zentrale Testakten.\n\nFallstand v1.0.0.\n"
+        expected = original.replace("Stand v444.5.2:", "Hier finden Sie")
+        self.assertEqual(CATALOG.update_testakten_count(original, 337), expected)
+        self.assertEqual(CATALOG.update_testakten_count(expected, 337), expected)
 
-    def test_missing_or_ambiguous_case_index_version_is_rejected(self):
-        for text in ("# Akten\n", "Stand v1.0.0: A\nStand v1.0.0: B\n"):
+    def test_missing_or_ambiguous_case_index_count_is_rejected(self):
+        row = "Hier finden Sie 12 zentrale Testakten.\n"
+        for text in ("# Akten\n", row + row):
             with self.subTest(text=text), self.assertRaises(RuntimeError):
-                CATALOG.update_testakten_version(text, "444.6.0")
+                CATALOG.update_testakten_count(text, 337)
 
 
 class GeneratedNavigationTests(unittest.TestCase):
@@ -797,7 +835,7 @@ class NavigationTests(unittest.TestCase):
         self.assertIn("drei Formaten", three)
         self.assertIn("Einzel-PDF-ZIP", three)
         self.assertIn("English:", three)
-        self.assertIn("zuletzt veröffentlichten Release", three)
+        self.assertIn("Die ZIP-Links führen zur veröffentlichten Aktenfassung.", three)
 
     def test_curated_inventory_and_category_counts(self):
         market = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
@@ -823,6 +861,16 @@ class NavigationTests(unittest.TestCase):
         self.assertEqual({title: int(count) for title, count in counts}, categories)
         self.assertIn(f"{len(listed)} kuratierte Plugins in {len(categories)} Kategorien", text)
         self.assertIn(f"insgesamt {len(plugins)} Marketplace-Plugins", text)
+
+        insolvency = text.split("## Insolvenz- und Sanierungsrecht", 1)[1].split("\n## ", 1)[0]
+        self.assertIn("- [fachanwalt-insolvenz-sanierungsrecht]", insolvency)
+        self.assertNotIn("- [insolvenzrecht]", insolvency)
+        self.assertNotIn("- [insolvenzforderungsanmeldungspruefung]", insolvency)
+        claims = next(line for line in insolvency.splitlines() if line.startswith("- [insolvenzforderungen-checker]"))
+        self.assertRegex(claims, r"(?i)gläubiger")
+        self.assertRegex(claims, r"(?i)insolvenzverwaltung|verwalter")
+        labour = text.split("## Arbeitsrecht", 1)[1].split("\n## ", 1)[0]
+        self.assertIn("- [betriebsvereinbarungen]", labour)
 
     def test_no_obsolete_quickstart_skill_in_plugin_readmes(self):
         market = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())

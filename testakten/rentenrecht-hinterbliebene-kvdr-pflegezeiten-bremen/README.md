@@ -34,7 +34,7 @@ Helga Bruns, 68, ist seit dem 21.04.2026 verwitwet. Die DRV Oldenburg-Bremen bew
 
 Die Akte verlangt die saubere Trennung von Sterbevierteljahr und Einkommensanrechnung, die beitragsrechtliche Einordnung dreier Zahlungsströme in der KVdR und die Aufklärung der Pflegebeitragslücken samt Zuordnungsfrage.
 
-Neu hinzugekommen ist ein vierter Streitpunkt: Die Weser Krankenkasse stellt nach dem Tod des Ehemannes die KVdR-Pflichtmitgliedschaft der Mandantin selbst in Frage und droht mit dem Wechsel in die deutlich teurere freiwillige Versicherung. Sie zählt für die Vorversicherungszeit nur die gesetzlich belegten Monate und übergeht die Kindererziehung der drei Kinder Anke, Torben und Wiebke. Ob die Neun-Zehntel-Belegung erfüllt ist, entscheidet sich rechnerisch an dieser Anrechnung.
+Auch die Mitgliedschaft selbst ist streitig. Die Weser Krankenkasse stellt nach dem Tod des Ehemannes die KVdR-Pflichtmitgliedschaft der Mandantin selbst in Frage und droht mit dem Wechsel in die deutlich teurere freiwillige Versicherung. Sie zählt für die Vorversicherungszeit nur die gesetzlich belegten Monate und übergeht die Kindererziehung der drei Kinder Anke, Torben und Wiebke. Ob die Neun-Zehntel-Belegung erfüllt ist, entscheidet sich rechnerisch an dieser Anrechnung.
 
 ## Aktenstruktur
 

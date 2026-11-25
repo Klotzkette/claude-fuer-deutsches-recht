@@ -181,6 +181,7 @@ FAMILY_OVERRIDES = {
     "us-sanktionspruefer": "beziehungen",
 }
 LABEL_OVERRIDES = {
+    "betriebsvereinbarungen": "die Verhandlung der Betriebsvereinbarung",
     "aktenanleger": "die Eröffnung und Zuordnung der Akte",
     "umwandlungssteuerrecht": "die steuerliche Umstrukturierung",
     "allgemeines-notariat": "die notarielle Amtsentscheidung",
@@ -197,6 +198,13 @@ LABEL_OVERRIDES = {
 # Diese Mandate brauchen auch eine eigene Datengrundlage und ein passendes Ergebnis,
 # nicht nur eine andere Zeichnung innerhalb der allgemeinen Themenfamilie.
 ROUTE_OVERRIDES = {
+    "betriebsvereinbarungen": (
+        "Welche Formulierung schützt die Beschäftigten bei der vorgesehenen Funktion und unter welchen Voraussetzungen kann der Betrieb sie freigeben?",
+        "Ordne jeder streitigen Klausel den Vorschlag von Arbeitgeber und Betriebsrat, die betroffenen Rollen, den konkreten Beleg und die noch erforderliche Abnahme zu.",
+        "Bei Auswahl eines Berichtsfelds im Copilot-Fall zeige die Sicht einer Führungskraft, den Testmandanten, die Kleinteamgröße und das Risiko eines Rückschlusses. Übernimm die verhandelte Begrenzung als Text in die Anlage.",
+        "Klausel, Entwurfsfassung, Gremium, Testumgebung, Datenfeld und Berichtsempfänger, Beschluss, Kostenfreigabe und Nachweis",
+        "die abgestimmte Verhandlungsfassung mit Schutzanlage und den noch offenen Beschluss- und Abnahmepunkten",
+    ),
     "aktenanleger": (
         "Wer beauftragt wen in welcher Rolle und welches Original löst die erste Aufgabe aus?",
         "Stelle Auftraggeber, vertretene Person, Gegenpartei, Amtsbeteiligte und interne Freigabe nebeneinander. Belege die Zuordnung durch Nachricht und Anlage.",

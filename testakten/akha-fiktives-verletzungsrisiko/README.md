@@ -21,7 +21,7 @@ Für einen kurzen Einstieg reichen zunächst diese sechs Unterlagen:
 - [09_Kassenforderung.eml](09_Kassenforderung.eml)
 - [11_Insassenforderung.eml](11_Insassenforderung.eml)
 
-Die weiteren Belege dienen der anschließenden Bearbeitung und gezielten Rückfrage. Der ursprüngliche Akteneingang enthält keine Musterlösung, Bewertungsmatrix oder abgeschriebene Seminarfolie. Der später ergänzte Klageentwurf ist ein ausdrücklich bestelltes Arbeitsstück zur Gegenprüfung.
+Die weiteren Belege dienen der anschließenden Bearbeitung und gezielten Rückfrage. Der ursprüngliche Akteneingang enthält keine Musterlösung, Bewertungsmatrix oder abgeschriebene Seminarfolie. Der gesondert bestellte Klageentwurf dient der Gegenprüfung.
 
 <!-- BEGIN kommunale-vertiefung -->
 
@@ -29,9 +29,9 @@ Die weiteren Belege dienen der anschließenden Bearbeitung und gezielten Rückfr
 
 ## 1.2. Vertiefter Schriftwechsel und bearbeitbare Briefe
 
-25 Arbeitsdateien einschließlich der gesonderten Fassungen in Word und PDF. Das aktualisierte Gesamt-PDF umfasst 43 Seiten. Ein Brief in zwei Formaten und seine MIME-Anlage sind derselbe Beleg; sie dürfen weder als zusätzlicher Schaden noch als unabhängige Bestätigung gezählt werden. Die Akteneingänge und bisher vorhandenen Klageentwürfe bleiben erhalten. Neu hinzugekommene Unterlagen befinden sich unter `kommunikation-und-deckung`. Vorhandene Brief-PDFs erhalten ergänzende Word-Fassungen unter `briefvorlagen`, soweit solche Briefe bereits zur Akte gehörten.
+25 Arbeitsdateien einschließlich der gesonderten Fassungen in Word und PDF. Das Gesamt-PDF umfasst 43 Seiten. Ein Brief, seine PDF-Fassung und die per E-Mail übermittelte Anlage zählen als ein Beleg. Den Schriftwechsel zur Deckung finden Sie unter `kommunikation-und-deckung`.
 
-Der neue Klageentwurf betrifft allein Ottokar Wolkenbein gegen die Stadt Lindenquell und 636,20 EUR als vorläufige Wertvorstellung. Die Forderungen Pimpinellas und der Krankenkasse werden nicht eingeklagt. Die 79 EUR für die Wellnessmassage bleiben außerhalb des Zahlungsantrags. Die Klägervertretung Rhabarber ist von der bereits beauftragten Versicherervertretung Knister getrennt. Die vorhandenen Quellen werden nicht um eine gesicherte Verletzungsdiagnose oder ein ärztlich angeordnetes Taxi ergänzt. Für diesen kleinen Vorgang wird keine erfundene Einzelkorrespondenz mit einem Rückversicherer angelegt.
+Der Klageentwurf betrifft allein Ottokar Wolkenbein gegen die Stadt Lindenquell und 636,20 EUR als vorläufige Wertvorstellung. Die Forderungen Pimpinellas und der Krankenkasse werden nicht eingeklagt. Die 79 EUR für die Wellnessmassage bleiben außerhalb des Zahlungsantrags. Die Klägervertretung Rhabarber ist von der bereits beauftragten Versicherervertretung Knister getrennt. Eine gesicherte Verletzungsdiagnose und eine ärztliche Anordnung der Taxifahrt sind nicht belegt. Es liegt keine Korrespondenz mit einem Rückversicherer vor.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -79,9 +79,9 @@ English: Start with the `Grundakte` folder in the original-format ZIP. It contai
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Das aktualisierte Gesamt-PDF umfasst 43 Seiten. Der unveränderte Grundbestand umfasst Der unveränderte Grundbestand umfasst 18 Originale: zehn Word-Dokumente, fünf E-Mails, zwei Textdateien und eine CSV-Datei. Beide ZIPs sind flach, ohne Unterordner. Das Originalpaket enthält kein Markdown. Die drei Quittungen sind getrennte Dokumente, ebenso die Behandlungsberichte der beiden Insassen. E-Mail-Anlagen sind tatsächlich beigefügt und bytegleich mit den einzeln abgelegten Dateien; sie sind keine zusätzlichen Belege oder Schäden. Die ZIPs enthalten den zweisprachigen Hinweis in README.txt; die PDFs selbst enthalten keine Warnseite.
+Das Gesamt-PDF umfasst 43 Seiten. Der Akteneingang umfasst 18 Originale: zehn Word-Dokumente, fünf E-Mails, zwei Textdateien und eine CSV-Datei. Die ZIP-Dateien enthalten bearbeitbare Originale oder Einzel-PDFs. Die drei Quittungen sind getrennte Dokumente, ebenso die Behandlungsberichte der beiden Insassen. E-Mail-Anlagen sind tatsächlich beigefügt und bytegleich mit den einzeln abgelegten Dateien; sie sind keine zusätzlichen Belege oder Schäden. Die ZIPs enthalten den zweisprachigen Hinweis in README.txt; die PDFs selbst enthalten keine Warnseite.
 
-English: One incident, two occupants, separate medical records and claims. Start with the instruction email. Choose the combined reading PDF, the flat archive of native files, or one PDF per source document. The original case intake contains no answer key; a separately requested draft statement of claim is included for review. Each archive contains a bilingual notice in README.txt.
+English: One incident, two occupants, separate medical records and claims. Start with the instruction email. Choose the combined reading PDF, the ZIP of native files, or one PDF per source document. The original case intake contains no answer key; a separately requested draft statement of claim is included for review. Each archive contains a bilingual notice in README.txt.
 
 <!-- decimal-anchor --> <a id="unterlagen"></a>
 

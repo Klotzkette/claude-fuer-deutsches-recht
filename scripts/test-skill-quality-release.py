@@ -116,6 +116,28 @@ class QualityReleaseTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "Nachfolgetag"):
             edition_routes(self.root)
 
+    def test_published_edition_retains_archived_plugins_and_rejects_same_size_substitution(self):
+        import hashlib
+        from package_edition import EDITION, edition_routes
+
+        membership = b"archiviert.zip\nbeispiel.zip\n"
+        group = {"vorgaenger": self.tag, "native": 2, "portable": 0,
+                 "archivnamen_sha256": hashlib.sha256(membership).hexdigest()}
+        self.write(f"scripts/data/{EDITION}.json", json.dumps({
+            "edition": EDITION, "gruppen": {self.version: group}, "unveraendert": [],
+        }))
+        self.write(".claude-plugin/marketplace.json", json.dumps({"plugins": [
+            {"name": name, "version": self.version} for name in [self.name, "anderes"]
+        ]}))
+        route_file = "scripts/scoped-release-assets.json"
+        routes = {"beispiel.zip": self.tag, "archiviert.zip": self.tag, "anderes.zip": "anderes-v" + self.version}
+        self.write(route_file, json.dumps({"assets": routes}))
+        self.assertEqual(set(edition_routes(self.root)), {"beispiel.zip", "archiviert.zip"})
+        routes["anderes.zip"] = routes.pop("archiviert.zip")
+        self.write(route_file, json.dumps({"assets": routes}))
+        with self.assertRaisesRegex(ValueError, "Archivnamen"):
+            edition_routes(self.root)
+
     def test_staged_release_keeps_published_routes_until_activation(self):
         import hashlib
         from release_routing import RELEASE_BASE

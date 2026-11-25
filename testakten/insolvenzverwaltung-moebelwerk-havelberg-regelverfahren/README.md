@@ -185,7 +185,7 @@ Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blanko
 
 ## Weitere Unterlagen im Mandat
 
-Der ergänzende Kontennachweis macht die zwei Zahlungsbuchungen und die Anrechnung in der Forderungskartei getrennt nachvollziehbar. Die Vollakte enthält die bisherige Originalfassung und beide zusätzlichen Belege im Ordner `Nachlieferung`. Die separat angebotenen PDF-Fassungen zeigen den vorherigen Aktenstand.
+Der ergänzende Kontennachweis macht die zwei Zahlungsbuchungen und die Anrechnung in der Forderungskartei getrennt nachvollziehbar. Die Vollakte enthält die Aktenunterlagen und die beiden Belege im Ordner `Nachlieferung`. Die separaten PDF-Fassungen zeigen den Fall vor dem Eingang der beiden Belege.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

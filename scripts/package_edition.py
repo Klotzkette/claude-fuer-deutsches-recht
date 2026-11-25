@@ -1,6 +1,7 @@
 """Geplante Paketlinks und die spätere Aktivierung derselben öffentlichen Dateien."""
 from __future__ import annotations
 
+import hashlib
 import json
 from pathlib import Path
 import re
@@ -20,36 +21,40 @@ def edition_routes(root: Path, edition: str = EDITION) -> dict[str, tuple[str, s
     if plan["edition"] != edition:
         raise ValueError("Ausgabeplan und Dateiname stimmen nicht überein")
     active = json.loads((root / "scripts/scoped-release-assets.json").read_text())["assets"]
-    market = json.loads((root / ".claude-plugin/marketplace.json").read_text())["plugins"]
+    plugins = json.loads((root / ".claude-plugin/marketplace.json").read_text())["plugins"]
+    versions = {plugin["name"]: plugin["version"] for plugin in plugins}
+    excluded = {name + suffix for name in plan["unveraendert"] for suffix in (".zip", "-portable.zip")}
     successors = plan.get("nachfolger", {})
     result = {}
     for version, group in plan["gruppen"].items():
         previous, new_tag = group["vorgaenger"], f"{edition}-v{version}"
-        native, portable = 0, 0
-        for plugin in market:
-            name = plugin["name"]
-            if name in plan["unveraendert"]:
-                continue
-            for asset in (name + ".zip", name + "-portable.zip"):
-                successor = successors.get(asset)
-                recorded_version = successor["ausgabeversion"] if successor else plugin["version"]
-                if recorded_version != version:
-                    continue
-                if asset.endswith("-portable.zip") and asset not in active:
-                    continue
-                if successor:
-                    if (active.get(asset) != successor["tag"]
-                            or not successor["tag"].endswith("-v" + plugin["version"])):
-                        raise ValueError(f"{asset}: Nachfolgetag oder Marketplace-Version stimmt nicht")
-                elif active.get(asset) not in (previous, new_tag):
-                    raise ValueError(f"{asset}: Aktueller Paketstand gehört nicht zum Ausgabeplan")
-                result[asset] = previous, new_tag
-                if asset == name + ".zip":
-                    native += 1
-                else:
-                    portable += 1
-        if (native, portable) != (group["native"], group["portable"]):
+        # Früher veröffentlichte Plugins können im heutigen Marketplace zusammengeführt sein.
+        # Die damaligen Routen und die Namensliste des Releases bestimmen den Archivbestand.
+        names = {asset for asset, tag in active.items()
+                 if asset.endswith(".zip") and tag in {previous, new_tag} and asset not in excluded}
+        names.update(asset for asset, row in successors.items() if row["ausgabeversion"] == version)
+        portable = {asset for asset in names if asset.endswith("-portable.zip")}
+        if (len(names) - len(portable), len(portable)) != (group["native"], group["portable"]):
             raise ValueError(f"{new_tag}: Abweichende Anzahl nativer oder portabler Pakete")
+        if any(asset.removesuffix("-portable.zip") + ".zip" not in names for asset in portable):
+            raise ValueError(f"{new_tag}: Portables Paket ohne natives Paket")
+        published = group.get("archivnamen_sha256")
+        if published is not None:
+            members = "".join(name + "\n" for name in sorted(names)).encode("utf-8")
+            if hashlib.sha256(members).hexdigest() != published:
+                raise ValueError(f"{new_tag}: Archivnamen weichen vom veröffentlichten Bestand ab")
+        for asset in sorted(names):
+            name = asset.removesuffix(".zip").removesuffix("-portable")
+            successor = successors.get(asset)
+            if successor:
+                if (successor["ausgabeversion"] != version or active.get(asset) != successor["tag"]
+                        or name not in versions or not successor["tag"].endswith("-v" + versions[name])):
+                    raise ValueError(f"{asset}: Nachfolgetag oder Marketplace-Version stimmt nicht")
+            elif name in versions and versions[name] != version:
+                raise ValueError(f"{asset}: Marketplace-Version stimmt nicht mit der Ausgabe überein")
+            elif name not in versions and published is None:
+                raise ValueError(f"{asset}: Kein Nachweis im Marketplace oder veröffentlichten Archivbestand")
+            result[asset] = previous, new_tag
     if set(successors) - result.keys():
         raise ValueError("Unbekanntes Nachfolgepaket im Ausgabeplan")
     return result

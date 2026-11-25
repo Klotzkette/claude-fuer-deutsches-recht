@@ -368,16 +368,14 @@ def check_generated_overviews(values: dict[str, int | str]) -> list[str]:
 
     testakten = (REPO / "testakten" / "README.md").read_text(encoding="utf-8")
     testakten_match = require(
-        r"Stand (v\d+\.\d+\.\d+): (\d+) zentrale Testakten",
+        r"^Hier finden Sie (\d+) zentrale Testakten\b",
         testakten,
-        "Testakten-README Stand",
+        "Testakten-README Aktenzahl",
     )
-    if testakten_match.group(1) != values["version"]:
-        errors.append(f"Testakten-README Version: {testakten_match.group(1)} statt {values['version']}")
-    if int(testakten_match.group(2)) != values["central_testakten"]:
+    if int(testakten_match.group(1)) != values["central_testakten"]:
         errors.append(
             "Testakten-README Zählung: "
-            f"{testakten_match.group(2)} statt {values['central_testakten']}"
+            f"{testakten_match.group(1)} statt {values['central_testakten']}"
         )
 
     return errors

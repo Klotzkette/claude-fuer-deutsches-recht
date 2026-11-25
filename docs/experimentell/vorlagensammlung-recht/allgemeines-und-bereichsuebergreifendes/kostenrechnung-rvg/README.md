@@ -1,6 +1,6 @@
 # Kostenrechnung nach RVG
 
-Anwaltliche Gebührenrechnung gem. § 10 RVG mit Aufstellung aller Gebührentatbestände, Auslagen und Anrechnungsregeln — aktualisiert für KostBRÄG 2025 (ab 1.6.2025).
+Anwaltliche Gebührenrechnung gem. § 10 RVG mit Aufstellung aller Gebührentatbestände, Auslagen und Anrechnungsregeln — unter Berücksichtigung des KostBRÄG 2025 (ab 1.6.2025).
 
 ## Download
 

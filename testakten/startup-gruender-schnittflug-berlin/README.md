@@ -34,7 +34,7 @@ English: Start with the `Grundakte` folder in the original-format ZIP. It contai
 
 ## 1.2. Fall und Auftrag
 
-Testakte für das Plugin `startup-gruender`, insbesondere den Hauptsache-Skill `gruendung-begleiten`. Aktenstichtag ist der 28.09.2026, ergänzt bis 18:55 Uhr. Sieben in Berlin lebende Gründer mit schwäbischen, internationalen und unterschiedlichen beruflichen Hintergründen bereiten die Schnittflug Robotics GmbH vor. Die Marke lautet Drohnenfriseur.
+Testakte für das Plugin `startup-gruender`, insbesondere den Hauptsache-Skill `gruendung-begleiten`. Aktenstichtag ist der 28.09.2026 um 18:55 Uhr. Sieben in Berlin lebende Gründer mit schwäbischen, internationalen und unterschiedlichen beruflichen Hintergründen bereiten die Schnittflug Robotics GmbH vor. Die Marke lautet Drohnenfriseur.
 
 Die Produktidee umfasst einen Kopfscan mit dem Handy und ein späteres robotisches Haarpflegesystem. Vorhanden sind Unterlagen zu einem stationären Prüfstand. Die Gründer diskutieren UG oder GmbH, individuelle Satzung, Geschäftsführung, Anteilverteilung, Rechte am Produkt und den späteren Einstieg von Investoren. Der Notartermin ist lediglich angefragt. Ein Gesellschaftskonto, geleistetes Stammkapital oder eine Registereintragung werden durch die Akte nicht belegt.
 
@@ -56,15 +56,15 @@ Die Unterlagen enthalten ältere Vorschläge neben aktuellen Arbeitsständen. Ei
 | --- | --- |
 | Kommunikation | 48 EML mit Nachrichtenköpfen und Threads; 20 Nachrichten enthalten zusammen 31 echte Anhänge. Sechs Chat-Exporte zeigen Verhandlungen und Gründeralltag. |
 | Bildschirmabbildungen | Sieben gestaltete, fiktive Ansichten von Teamboard, Chat und Projektablage; der neue Chat-Ausschnitt stimmt wortgleich mit dem Export überein. |
-| Vertragsarbeit | 22 Word-Dokumente: die bisherigen zehn Vertragsentwürfe sowie zwölf ausgearbeitete Gegenfassungen, Bedingungen, Freigabeschreiben und Besprechungsunterlagen. |
+| Vertragsarbeit | 22 Word-Dokumente: zehn Vertragsentwürfe sowie zwölf ausgearbeitete Gegenfassungen, Bedingungen, Freigabeschreiben und Besprechungsunterlagen. |
 | Weitere Word-Unterlagen | 20 Dokumente zu Personen, Produkt, Status, Bank, Werkraum und Rechten; neu unter anderem Entwicklungsangebot, Werkstattbuch, Saloninteresse, Designauftrag, Schriftlizenzen, Datenablage, Werkbank und Mittelherkunft. |
 | Excel | Fünf bearbeitbare Arbeitsmappen mit 16 Blättern zu Beteiligung, Finanzierung, Auslagen, Zahlungsabgleich, Mehrheiten, Bezugsrechten und möglichen Fälligkeiten. |
 | Kosten- und Zahlungsbelege | 23 PDF-Unterlagen: bisherige Rechnungen und Gutschrift sowie zehn weitere Rechnungs-, Korrektur- und Zahlungsnachweise. Teilzahlungen sind eigenständige Nachweise zu den jeweiligen Forderungen. |
 | Bestandsverzeichnisse | Zwei CSV-Dateien zu Softwareherkunft und Datenablage. |
 
-Insgesamt **133 native Arbeitsdateien**; das zugehörige Gesamt-PDF umfasst **260 Seiten** einschließlich Dateitrennblättern. Die Erweiterung ergänzt 65 Dateien. Die 68 bisherigen Originale bleiben unverändert als frühere Arbeitsstände erhalten. Der Morgenstand und die Nachreichung am Nachmittag sind ausdrücklich unterscheidbar. Eingebettete Mailanhänge liegen zusätzlich eigenständig vor und sind keine zusätzlichen Geschäftsvorgänge.
+Insgesamt **133 native Arbeitsdateien**; das zugehörige Gesamt-PDF umfasst **260 Seiten** einschließlich Dateitrennblättern. 68 Unterlagen dokumentieren den Stand am Morgen. Die 65 weiteren Dateien gehören zur Nachreichung am Nachmittag. Eingebettete Mailanhänge liegen zusätzlich eigenständig vor und sind keine zusätzlichen Geschäftsvorgänge.
 
-Die neuen Unterlagen bilden zusammenhängende Vorgänge: Auf das Entwicklungsangebot folgen eine Rückfrage zum Bruttopreis und eine Prüfung der Finanzierung; zu Rechnungen kommen Teilzahlungen und eine Gutschrift; unterschiedliche Budgetklauseln erscheinen in den deutschen und englischen Verhandlungsständen, im Chat und in den Besprechungsnotizen. Ein Salon relativiert sein Interesse, der Eigentümer der Werkbank begrenzt die Nutzung, und die Beteiligten reichen Unterlagen zur Herkunft von Software, Schriftdateien und privaten Geldmitteln nach.
+Die Unterlagen zeigen den Verlauf der Verhandlungen. Auf das Entwicklungsangebot folgen eine Rückfrage zum Bruttopreis und eine Prüfung der Finanzierung; zu Rechnungen kommen Teilzahlungen und eine Gutschrift; unterschiedliche Budgetklauseln erscheinen in den deutschen und englischen Verhandlungsständen, im Chat und in den Besprechungsnotizen. Ein Salon relativiert sein Interesse, der Eigentümer der Werkbank begrenzt die Nutzung, und die Beteiligten reichen Unterlagen zur Herkunft von Software, Schriftdateien und privaten Geldmitteln nach.
 
 Die Vertragsfassungen sind verhandelbare Parteientwürfe, keine beurkundeten oder bereits unterschriebenen Vereinbarungen. Offene Rechtefreigaben und noch benötigte Identitätsunterlagen werden nicht durch erfundene amtliche Dokumente ersetzt.
 

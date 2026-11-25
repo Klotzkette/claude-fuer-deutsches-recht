@@ -1,0 +1,57 @@
+# Einstieg und Routing
+
+## Einsatzlage
+
+Dieser Einstieg routet **Insolvenzrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
+
+## Fachlandkarte dieses Plugins
+
+- `krisenpruefung-antrag-eroeffnung-bearbeiten` (Fachthema: anfechtungsrechte-antragspflicht-15a) — Anfechtungsrechte Antragspflicht 15A
+- `verfahrenssteuerung-glaeubigerkommunikation-bearbeiten` (Fachthema: mandat-triage-insolvenzrecht) — Mandat-Triage Insolvenzrecht
+- `krisenpruefung-antrag-eroeffnung-bearbeiten` (Fachthema: antragspflicht-15a-17-19) — Antragspflicht 15A 17 19
+- `krisenpruefung-antrag-eroeffnung-bearbeiten` (Fachthema: antragspflicht-15a-inso) — Antragspflicht 15A Inso
+- `international-konzern-bearbeiten` (Fachthema: auslaendischer-insolvenzverwalter-register-und-grundbuch) — Ausländischer Insolvenzverwalter Register und Grundbuch
+- `international-konzern-bearbeiten` (Fachthema: auslaendischer-office-holder-register-und-grundbuch) — Ausländischer Office Holder Register und Grundbuch
+- `verfahrenssteuerung-glaeubigerkommunikation-bearbeiten` (Fachthema: belegmatrix-formular-portal-und-einreichung) — Belegmatrix Formular Portal und Einreichung
+- `international-konzern-bearbeiten` (Fachthema: chronologie-internationaler-bezug-und-schnittstellen) — Chronologie Internationaler Bezug und Schnittstellen
+- `anfechtung-organhaftung-bearbeiten` (Fachthema: do-versicherung-manager-haftung) — DO Versicherung Manager Haftung
+- `verfahrenssteuerung-glaeubigerkommunikation-bearbeiten` (Fachthema: einfuehrung-verhandlung-vergleich-und-eskalation) — Einfuehrung Verhandlung Vergleich und Eskalation
+- `krisenpruefung-antrag-eroeffnung-bearbeiten` (Fachthema: feststellung-sonderfall-glaeubigerantrag-inso) — Feststellung Sonderfall Gläubigerantrag Inso
+- `forderungen-tabelle-sicherheiten-bearbeiten` (Fachthema: forderungsanmeldung-glaeubiger-174-177-inso) — Forderungsanmeldung Gläubiger 174 177 Inso
+- `verfahrenssteuerung-glaeubigerkommunikation-bearbeiten` (Fachthema: glaeubigerantrag-glaeubigerausschuss) — Gläubigerantrag Gläubigerausschuss
+- `verfahrenssteuerung-glaeubigerkommunikation-bearbeiten` (Fachthema: dokumente-intake) — Dokumente Intake
+- `verfahrenssteuerung-glaeubigerkommunikation-bearbeiten` (Fachthema: output-waehlen) — Output Waehlen
+
+## Arbeitsweg
+
+- Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
+- Eilfristen isolieren: Die Antragspflicht nach Paragraf 15a Absatz 1 InsO ist ohne schuldhaftes Zögern zu erfüllen; drei Wochen nach Eintritt der Zahlungsunfähigkeit und sechs Wochen nach Eintritt der Überschuldung sind nur Höchstgrenzen. Daneben die im Eröffnungsbeschluss nach Paragraf 28 Absatz 1 InsO gesetzte Anmeldefrist sowie Prüfungs-, Verteilungs- und Schlusstermine getrennt erfassen. Paragraf 188 InsO regelt das Verteilungsverzeichnis, Paragraf 197 InsO den Schlusstermin.
+- Fachpfad wählen: zentrale Anker im Insolvenzrecht sind InsO §§ 1, 13, 14, 15a, 17, 18, 19, 20, 21, 22, 27, 35, 39, 47, 55, 56, 60, 64, 80, 87, 97, 129, 133, 142, 174, 175, 179, 187, 199, 270, 270a-d, 286, 287, 295, 300, StaRUG §§ 1, 29, 31, 39, 49–55, 84, 100, 102. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
+- Zuständige Stelle bestimmen: Schuldner, IV/SV/Restrukturierungsbeauftragter, Gläubigerausschuss, Insolvenzgericht, Gläubiger, Geschäftsführer (§ 15a-Adressat).
+- Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+<!-- BEGIN werkstatt-visualisierung -->
+## 1. Verständlich arbeiten und sichtbar prüfen
+
+Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
+
+**Leitfrage für Insolvenz- und Sanierungsrecht:** Welche belegten Beträge tragen das Ergebnis und welche Annahme verändert es?
+
+**Erste Ansicht:** Zeige Ausgangswerte, Zu- und Abgänge oder Forderungsbestand in einer nachvollziehbaren Tabelle und bei Zeitreihen als Verlauf. Trenne Stichtag, Zeitraum, Fälligkeit und tatsächlichen Geldfluss.
+
+**Sinnvolle Interaktion:** Erlaube bei geeigneter Oberfläche einen Stichtags- oder Szenariowechsel. Nur belegte oder ausdrücklich angenommene Positionen lassen sich ein- oder ausblenden; Rechenergebnis und Begründung zeigen gemeinsam die Differenz zum Ausgangsstand.
+
+**Datengrundlage:** Betrag, Währung, Vorzeichen, Datum, Zuordnungsgrund, Berechnungsregel und Originalfundstelle. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
+
+**Weiter zum Ergebnis:** nachrechenbare Berechnung mit begründetem Befund und dem bestellten Bericht oder Anspruchsschreiben. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
+
+Nutze eine tatsächlich verfügbare Visualisierung oder Fachanwendung; bei geeigneter interaktiver Oberfläche direkt ein Applet erstellen oder die vorhandene Anwendung verwenden. Ohne diese Fähigkeit eine verständliche Tabelle oder Skizze liefern. Belege und Annahmen trennen, fehlende Werte nicht als null behandeln. Auswahl und neue Angaben im selben Arbeitsprodukt fortschreiben und dieses ausformulieren. Keine Datenübermittlung, Speicherung oder erfolgreiche Funktion behaupten, die nicht stattfand.
+
+Bei interaktiver Arbeit die [lokalen Regeln für Oberfläche, Belege und Fortsetzung](../../arbeitsoberflaeche-und-visualisierung.md) lesen.
+<!-- END werkstatt-visualisierung -->

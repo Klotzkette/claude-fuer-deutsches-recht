@@ -50,7 +50,7 @@ Enthalten sind ausformulierte Aktenstücke, Formulare, medizinische Verlaufsberi
 | `21_bg_aktenauszug_akteneinsicht_paragraf25.docx` | Akteneinsichtsantrag und -ergebnis nach Paragraf 25 SGB X |
 | `22_bg_anhoerung_vor_ablehnung.docx` | Anhörungsschreiben der BG vor dem Ablehnungsbescheid |
 | `23_bg_ablehnungsbescheid_vollversion.docx` | Vollständig ausformulierter Ablehnungsbescheid mit Begründung |
-| `24_widerspruch_vollversion.docx` | Vollständig ausgebauter Widerspruch mit Beweiswürdigung |
+| `24_widerspruch_vollversion.docx` | Ausformulierter Widerspruch mit Beweiswürdigung |
 | `25_widerspruchsbescheid_bg.docx` | Zurückweisender Widerspruchsbescheid der BG |
 | `26_klageschrift_sozialgericht_trier.docx` | Klageschrift zum Sozialgericht Trier |
 | `27_klageerwiderung_bg.docx` | Klageerwiderung der Berufsgenossenschaft |

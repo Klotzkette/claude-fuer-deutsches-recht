@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "betriebsvereinbarung-blanko",
+    "titel": "Betriebsvereinbarung über [Regelungsgegenstand]",
+    "zweck": "Verhandlungsfassung vom [Datum] · Fassung [Kennung]. Zwischen [Arbeitgeberin und Vertretung] und [zuständiges Gremium, vertreten durch] wird folgende Betriebsvereinbarung geschlossen.",
+    "abschnitte": [
+      {
+        "titel": "Geltungsbereich und Zweck",
+        "absaetze": [
+          "Diese Vereinbarung gilt räumlich für [Betrieb und Standorte], persönlich für [Personenkreis und begründete Ausnahmen] und sachlich für [Arbeitsablauf, Technik oder Maßnahme]. Sie verfolgt [betrieblicher Zweck] unter Wahrung von [Schutzinteresse]. Für [Schnittstelle zu Tarifvertrag, Rahmenvereinbarung oder anderem Gremium] gilt [Abgrenzung]."
+        ]
+      },
+      {
+        "titel": "Freigegebener Umfang",
+        "absaetze": [
+          "Die Arbeitgeberin darf [genau bezeichnete Maßnahme] ab [Voraussetzung, Nachweis, frühester Termin] im Umfang von Anlage 1 durchführen. [Einsatzfelder, Datenquellen und Funktionen] sind von der Freigabe ausgeschlossen. Die Arbeitgeberin stellt [gleichwertiger Arbeitsweg oder Ersatzverfahren] bereit."
+        ]
+      },
+      {
+        "titel": "Rechte der Beschäftigten",
+        "absaetze": [
+          "[Stelle] informiert die betroffenen Beschäftigten vor [Zeitpunkt] in [zugängliche Form] über Zweck, Rechte, Schutzmaßnahmen und Ansprechpersonen. Beschäftigte können [konkretes Recht, Wahlrecht oder Antrag] bei [Stelle] geltend machen. Innerhalb [Frist] erhalten sie [Rückmeldung und Begründung]. Aus [zulässiger Nichtteilnahme, Kritik oder Meldung] entstehen keine Nachteile bei [benannte Entscheidungen]."
+        ]
+      },
+      {
+        "titel": "Verantwortung und Qualifizierung",
+        "absaetze": [
+          "Die Arbeitgeberin benennt [verantwortliche Rolle] für die Umsetzung. Vor Einsatz erhalten [Beschäftigtenkreis, Fach- und Führungskräfte] eine Schulung zu [Lernziele, Zeit, Wiederholung]. Bei automatisiert erstellten Entwürfen prüft [zuständige Person] die Ergebnisse vor [nach außen oder im Betrieb wirksamer Verwendung] anhand von [Kriterium]."
+        ]
+      },
+      {
+        "titel": "Daten und Auswertungen",
+        "absaetze": [
+          "Verarbeitet werden ausschließlich die in Anlage 2 bezeichneten Daten für die dort bezeichneten Zwecke. Berichte werden in [Rhythmus] an [abschließend genannte Empfänger] gegeben. Sie enthalten [Felder, Aggregation, Mindestgruppengröße und Schutz gegen Rückschlüsse durch Vergleich]. [Bezeichnete Auswertungen, Ranglisten, Zusammenführungen oder Personalverwendungen] sind untersagt. Änderungen von Berichtsfeldern, Empfängern und Verwendungszwecken richten sich nach Abschnitt 8."
+        ]
+      },
+      {
+        "titel": "Zugriff, Aufbewahrung und Löschung",
+        "absaetze": [
+          "Für [konkret beschriebener Anlass] kann [berechtigte Stelle] für [abgegrenzter Zweck und Zeitraum] Zugriff beantragen. [Freigabestelle] dokumentiert Anlass, Umfang, Entscheidung und anschließende Kontrolle. Die Stelle [Rolle] prüft [Zeitpunkt] und meldet [Ergebnis an Empfänger]. Berichte und Protokolle werden nach den Fristen der Anlage 2 gelöscht. Bei einer gesetzlichen Aufbewahrungspflicht dokumentiert [Stelle] die Grundlage, begrenzt den Zugriff und prüft die Löschung am [Termin oder Auslöser]."
+        ]
+      },
+      {
+        "titel": "Kontrolle und Beschwerden",
+        "absaetze": [
+          "Beschäftigte können sich an [Stelle] oder den Betriebsrat wenden. Bis [Frist] bestätigt [Stelle] den Eingang und teilt das weitere Verfahren mit. Die Betriebsparteien prüfen die Einhaltung anhand [Prüffälle und Unterlagen] in [Rhythmus]. Bei [Abweichung] trifft [Stelle] die vorläufige Maßnahme [Sperre, Rücknahme oder Ersatzablauf] und unterrichtet [Adressaten] bis [Termin]."
+        ]
+      },
+      {
+        "titel": "Änderung, Abnahme und Konflikt",
+        "absaetze": [
+          "Eine beabsichtigte Erweiterung von [wesentliche Funktionen, Arbeitsbereiche, Zugriffe oder Zwecke] legt die Arbeitgeberin dem Betriebsrat vor Aktivierung mit [Unterlagen] vor. Über die Änderung beraten die Parteien nach [Verfahren und Frist]. Für [begrenzte rein technische Änderungen] gilt [Unterrichtungsweg]. Die Freigabe eines betroffenen Funktionsumfangs setzt [konkrete gemeinsame Abnahme und Nachweis] voraus. Für Sicherheitsmaßnahmen im laufenden Betrieb gilt [eng begrenzte Befugnis, Bericht und Rückkehrregel]. Die gesetzlich vorgesehenen Streitbeilegungswege bleiben gewahrt."
+        ]
+      },
+      {
+        "titel": "Laufzeit, Kündigung und Übergang",
+        "absaetze": [
+          "Die Vereinbarung tritt am [Datum oder definierter Auslöser] in Kraft. Der [Pilot oder Regelbetrieb] läuft bis [Datum oder Ereignis]. Eine Verlängerung setzt [Beschluss und Erklärung] voraus. Für die Kündigung gilt [Frist und Termin]. Die Parteien prüfen die gesetzliche Nachwirkung je Regelungsgegenstand. Bei Ende übernimmt [Stelle] bis [Termin] Abschaltung, Rückgabe von Rechten und Löschkontrolle. Der anschließend verfügbare Arbeitsweg ist [Verfahren]."
+        ]
+      },
+      {
+        "titel": "Anlage 1 · Freigabeumfang",
+        "absaetze": [
+          "Bezeichnung und Fassungskennung der Anlage [Kennung]. Betriebsparteien halten je Position Voraussetzung, Ausschluss, Freigabe und spätere Änderung fest."
+        ],
+        "spalten": [
+          "Arbeitsablauf / Funktion",
+          "Zweck / Grenze",
+          "Nachweis / Prüfkonto",
+          "Zuständige Stelle"
+        ],
+        "zeilen": 3
+      },
+      {
+        "titel": "Anlage 2 · Daten und Zugriffe",
+        "absaetze": [
+          "Bezeichnung und Fassungskennung [Kennung]. Für Datenquellen, Berichte und Exportkopien jeweils eine Zeile anlegen."
+        ],
+        "spalten": [
+          "Quelle / Datenfelder",
+          "Zweck / Rechtsgrundlage",
+          "Rolle / Empfänger",
+          "Frist / Löschbeleg"
+        ],
+        "zeilen": 3
+      },
+      {
+        "titel": "Abschluss",
+        "absaetze": [
+          "[Ort und Datum]",
+          "Für die Arbeitgeberin [Name, Funktion, Unterschrift]",
+          "Für den Betriebsrat [Name, Funktion, Unterschrift]",
+          "Beschlossene Text- und Anlagenfassung [Kennung] · Beschlussnachweis [Fundstelle]"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "sachverstaendigenvereinbarung-blanko",
+    "titel": "Nähere Vereinbarung über die Hinzuziehung einer sachverständigen Person",
+    "zweck": "Zwischen [Arbeitgeberin] und [Betriebsrat] wird zur Durchführung der Betriebsratsaufgabe [Aufgabe und Beschluss] Folgendes vereinbart.",
+    "abschnitte": [
+      {
+        "titel": "Gegenstand und Person",
+        "absaetze": [
+          "Der Betriebsrat zieht [Name, Qualifikation, Erklärung zu Interessenkonflikten] zur Beurteilung von [konkrete Fragen] hinzu. Gegenstand sind [Leistungsblöcke und Fallgrenzen]. Fragen außerhalb dieses Auftrags bedürfen einer gesonderten Vereinbarung."
+        ]
+      },
+      {
+        "titel": "Zugang und Vertraulichkeit",
+        "absaetze": [
+          "[Verantwortliche Stelle] stellt bis [Termin] die Unterlagen [Liste], Testkonten [Rollen] und einen beaufsichtigten Zugang zu [Umgebung] bereit. Zugriff auf produktive personenbezogene Inhalte ist nur unter [ausdrückliche Bedingungen] zulässig. [Stelle] protokolliert die Berechtigung und entzieht sie am [Termin]. Verschwiegenheit, Aufbewahrung und Löschung richten sich nach [Regeln]."
+        ]
+      },
+      {
+        "titel": "Ergebnis und Vergütung",
+        "absaetze": [
+          "Die sachverständige Person übergibt bis [Termin] an [Adressat] einen Bericht zu [Prüffragen, Nachweisen, Grenzen]. Die Vergütung beträgt [Tagessatz, Zahl Tage, Nebenkosten, Umsatzsteuer und Obergrenze]. Für Mehraufwand wird vor Leistung eine schriftliche Ergänzung eingeholt. [Rolle] erteilt den Auftrag nach [Voraussetzung]. Rechnungsadressat und Prüfzuständigkeit sind [Angaben]."
+        ]
+      },
+      {
+        "titel": "Abschluss",
+        "absaetze": [
+          "[Ort, Datum]",
+          "Für die Arbeitgeberin [Name und Unterschrift]",
+          "Für den Betriebsrat [Name und Unterschrift]"
+        ]
+      }
+    ]
+  },
+  {
+    "format": "xlsx",
+    "slug": "rollen-und-abnahme-blanko",
+    "titel": "Freigabestand und Prüfung einer betrieblichen Technikvereinbarung",
+    "zweck": "Für jede Zeile den tatsächlichen Mandantenstand, den Beleg, die Entscheidung und die offene Freigabe ergänzen.",
+    "blaetter": [
+      {
+        "titel": "Funktion und Zweck",
+        "spalten": [
+          "Funktion / Version",
+          "Umgebung / Lizenz",
+          "Zweck",
+          "Zulässiger Umfang",
+          "Beleg / Prüfdatum",
+          "Entscheidung"
+        ]
+      },
+      {
+        "titel": "Zugriff und Bericht",
+        "spalten": [
+          "Quelle / Datenfeld",
+          "Einsichtsrolle",
+          "Empfänger / Export",
+          "Personenbezug / Verknüpfung",
+          "Frist / Nachweis",
+          "Schutzmaßnahme"
+        ]
+      },
+      {
+        "titel": "Abnahme und Änderung",
+        "spalten": [
+          "Testfall / Fallstand",
+          "Rolle / Konto",
+          "Sollverhalten",
+          "Beobachtung / Beleg",
+          "Verantwortlich / Frist",
+          "Freigabe / Stopp"
+        ]
+      }
+    ]
+  }
+]

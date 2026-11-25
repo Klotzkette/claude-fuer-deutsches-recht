@@ -5,7 +5,7 @@
 
 Bereitet Aktenanlagen in Anwaltskanzlei, Anwaltsnotariat und Nurnotariat vor. Ordnet Eingangspost, Beteiligte, Auftrag, Fristen, Vorbefassung und getrennte Zugriffsrechte zu.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -44,7 +44,7 @@ Geben Sie anschließend die Nachreichung hinzu und lassen Sie die betroffene Pas
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`aktenanleger-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktenanleger/aktenanleger-werkstatt.md) · [`aktenanleger-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktenanleger/aktenanleger-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [Fallauswahl und Akten-Downloads](testakten/README.md) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 <!-- END direkt-loslegen (autogen) -->
 
 Eine Mail mit vier Anlagen kommt kurz vor Büroschluss. Wer hat das Büro womit beauftragt, zu welcher Sache gehören die Anlagen und wer muss heute handeln? Der Aktenanleger bereitet eine **anwaltliche Handakte, einen notariellen Vorgang oder eine interne Verwaltungsakte** vor. Im Anwaltsnotariat klärt er zuerst die Rolle und hält die Zugriffe getrennt.

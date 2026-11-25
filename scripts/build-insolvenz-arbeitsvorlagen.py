@@ -46,7 +46,10 @@ def case_list(root):
         raise ValueError("Abschnitt zur Testaktenzuordnung fehlt in der Plugin-README.")
     section = after.partition("\n## ")[0]
     rows = re.findall(r"^\| \[([^\]]+)\]\(\.\./testakten/([a-z0-9-]+)/README\.md\)", section, re.M)
-    if len(rows) != 24 or len({slug for _, slug in rows}) != 24:
+    # Die Editionsdateien begrenzen den unveränderten Kreis der Blankovorlagen.
+    sources = {path.stem for path in (root / SOURCES / "faelle").glob("*.json")}
+    rows = [(title, slug) for title, slug in rows if slug in sources and slug != CROSS_REFERENCE]
+    if {slug for _, slug in rows} | {CROSS_REFERENCE} != sources or len(rows) != 24 or len({slug for _, slug in rows}) != 24:
         raise ValueError("Die Zuordnungstabelle muss 24 eindeutige Insolvenztestakten enthalten.")
     if f"../testakten/{CROSS_REFERENCE}/README.md" not in text or CROSS_REFERENCE in {s for _, s in rows}:
         raise ValueError("Der gesonderte Querverweis auf die Bremer Darlehensakte fehlt.")

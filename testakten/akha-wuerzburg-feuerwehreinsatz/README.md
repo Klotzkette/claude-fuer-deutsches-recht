@@ -71,7 +71,7 @@ Versicherungsscheine, Selbstbehalte, Meldegrenzen und Rückversicherungspriorit�
 
 ## 1.5. Vertiefter Schriftwechsel und bearbeitbare Briefe
 
-18 Arbeitsdateien einschließlich der gesonderten Fassungen in Word und PDF. Das aktualisierte Gesamt-PDF umfasst 35 Seiten. Ein Brief in zwei Formaten und seine MIME-Anlage sind derselbe Beleg; sie dürfen weder als zusätzlicher Schaden noch als unabhängige Bestätigung gezählt werden. Die Akteneingänge und bisher vorhandenen Klageentwürfe bleiben erhalten. Neu hinzugekommene Unterlagen befinden sich unter `kommunikation-und-deckung`. Vorhandene Brief-PDFs erhalten ergänzende Word-Fassungen unter `briefvorlagen`, soweit solche Briefe bereits zur Akte gehörten.
+18 Arbeitsdateien einschließlich der gesonderten Fassungen in Word und PDF. Das Gesamt-PDF umfasst 35 Seiten. Ein Brief, seine PDF-Fassung und die per E-Mail übermittelte Anlage zählen als ein Beleg. Den Schriftwechsel zur Deckung finden Sie unter `kommunikation-und-deckung`.
 
 Alle Personen, Unternehmen, Lindenquell und Versicherungsbedingungen sind erfunden; der Landkreis Würzburg und das Gericht sind reale Einrichtungen, deren hier geschilderte Vorgänge vollständig fiktiv sind. Der Erstversicherer ist Mainbogen Kommunalversicherung VVaG. Die modellhafte Schadenexzedentenschwelle von 250.000 EUR stammt ausschließlich aus dem beigefügten Szenarioauszug und bildet keine tatsächlichen AKHA-Verhältnisse ab. Keine unmittelbare Forderung gegen AKHA oder Rückversicherer. Der Klageentwurf ist noch nicht eingereicht, die Antwortfrist 12.10.2026 noch offen. Word- und PDF-Fassungen der Briefe sind inhaltsgleich. Leistungsdaten und Bestätigungen sind Bestandteil des fiktiven Aktenbestands, keine realen Urkunden.
 

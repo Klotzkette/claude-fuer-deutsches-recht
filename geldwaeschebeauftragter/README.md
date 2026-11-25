@@ -5,7 +5,7 @@
 
 Geldwäschebeauftragte im Unternehmen, in Anwaltskanzlei und Notariat: zehn Fachabläufe und ein Hauptproblem-Skill für Organisation, KYC, Kontrolle, Immobilien, FIU, Vertraulichkeit, Aufsicht und Nachverfolgung.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`geldwaeschebeauftragter-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschebeauftragter/geldwaeschebeauftragter-werkstatt.md) · [`geldwaeschebeauftragter-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschebeauftragter/geldwaeschebeauftragter-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -75,7 +75,7 @@ Version **445.34.0**. Zehn Fachskills und ein Hauptproblem-Skill unterstützen d
 
 Beginnen Sie mit: „Ich bearbeite diesen Vorgang als Geldwäschebeauftragte. Lesen Sie die Akte, bestimmen Sie meine Rolle und erstellen Sie den nächsten notwendigen Vermerk sowie das dazugehörige Schreiben. Heute soll folgende Handlung stattfinden: …“ Bei klarer Einzelaufgabe wählen Sie den passenden Fachskill direkt. Der Hauptproblem-Skill verbindet die Schritte und führt offene Fragen, Zuständigkeiten und Nachweise fort.
 
-Das vorhandene Plugin [Geldwäscheprävention AML/KYC](../geldwaeschepraevention-aml-kyc/README.md) bleibt erhalten. Dieses neue Paket konzentriert sich auf den laufenden Arbeitsvorrat und die Entscheidungen der verantwortlichen Funktion. Es umfasst genau elf Skills und drei eigenständig verwendbare Prompts.
+Das Plugin [Geldwäscheprävention AML/KYC](../geldwaeschepraevention-aml-kyc/README.md) behandelt die Prävention bei Kanzleien, Notariaten und Unternehmen. Das Paket für Geldwäschebeauftragte konzentriert sich auf den laufenden Arbeitsvorrat und die Entscheidungen der verantwortlichen Funktion. Es umfasst genau elf Skills und drei eigenständig verwendbare Prompts.
 
 ## 2. Was der Ablauf unterscheidet
 
@@ -132,7 +132,7 @@ Der [Prüfbericht](../quality/geldwaeschebeauftragter/README.md) nennt durchgef�
 
 ## 7. Komponentenrelease
 
-[Veröffentlichung 445.34.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/geldwaeschebeauftragter-v445.34.0) enthält Plugin, separate Prompts, Lesefassungen und alle drei Akten. Die älteren allgemeinen Sammel-ZIPs enthalten dieses neue Paket noch nicht. Maßgeblich sind die Einzel-Downloads dieser Komponente.
+[Veröffentlichung 445.34.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/geldwaeschebeauftragter-v445.34.0) enthält Plugin, separate Prompts, Lesefassungen und alle drei Akten. Die einzelnen Dateien sind im Komponentenrelease verlinkt.
 
 ## 8. Lesefassungen
 

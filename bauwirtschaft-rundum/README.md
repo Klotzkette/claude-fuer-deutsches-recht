@@ -25,7 +25,7 @@ Ein zweiter Durchgang mit einer ergänzten Unterlage prüft die Fortsetzung: Der
 
 Die Fallseiten bieten jeweils Gesamt-PDF, Einzel-PDF-ZIP und Originalformat-ZIP. Beide ZIP-Varianten enthalten die einzelnen Dateien ohne Unterordner sowie den Herkunftshinweis in einer `README.txt`. Lösungen und interne Prüfkriterien gehören nicht in die Akten.
 
-Die ergänzten Originale führen dieselben Vorgänge fort. Frühere Schreiben behalten ihren damaligen Stand; spätere Rückmeldungen können ihn ergänzen oder infrage stellen. Für einen zweiten Seminardurchgang lassen sich die fortlaufend hinzugefügten Unterlagen zunächst zurückhalten und anschließend zum laufenden Vorgang geben. Maßgebend ist jeweils das Dokumentdatum, nicht allein die Dateinummer.
+Die Akten enthalten Unterlagen aus mehreren Bearbeitungsphasen. Frühere Schreiben behalten ihren damaligen Stand; spätere Rückmeldungen können ihn ergänzen oder infrage stellen. Für einen zweiten Seminardurchgang lassen sich die zeitlich späteren Unterlagen zunächst zurückhalten und anschließend zum laufenden Vorgang geben. Maßgebend ist jeweils das Dokumentdatum, nicht allein die Dateinummer.
 
 Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 

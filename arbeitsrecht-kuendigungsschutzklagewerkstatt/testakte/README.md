@@ -1,6 +1,6 @@
 # 1. Kündigungsschutz Aktenregister
 
-Drei kleine Arbeitsakten, zwei Fassungen des großen Kündigungsschutzmandats Muster / Seewerk und eine eigenständige Uferwerk-Berufungsakte. Die fünf bisherigen Fassungen liefern eine Gesamt-PDF, ein flaches ZIP mit einer PDF je tatsächlichem Dokument und ein flaches ZIP der nativen Originale. Bei Seewerk steht zusätzlich ein ausdrücklich gebündelter Anlagen-Satz mit genau K1 bis K14 bereit.
+Drei kleine Arbeitsakten, zwei Fassungen des großen Kündigungsschutzmandats Muster / Seewerk und eine eigenständige Uferwerk-Berufungsakte. Für die drei kleinen Arbeitsakten und die beiden Seewerk-Fassungen gibt es eine Gesamt-PDF, ein flaches ZIP mit einer PDF je tatsächlichem Dokument und ein flaches ZIP der nativen Originale. Bei Seewerk steht zusätzlich ein ausdrücklich gebündelter Anlagen-Satz mit genau K1 bis K14 bereit.
 
 Die drei kleinen Akten haben den Aktenstand 22.10.2026 und bleiben unverändert. Die beiden Seewerk-Fassungen verwenden den simulierten Bearbeitungstag 23.11.2026. Der tatsächliche Quellenprüfstand ist 22.10.2026. Das [Referentenmaterial](../referentenmaterial/README.md) bleibt vollständig außerhalb der Akten-Downloads.
 

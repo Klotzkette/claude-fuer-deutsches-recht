@@ -9,7 +9,7 @@
 
 Geldwäscheprüfung in Kanzlei, Unternehmen und Notariat: 20 Fachabläufe für Verpflichtetenstatus, KYC, UBO, Immobilienzahlungen, FIU-Meldung, Kontrollen und EU-Umstellung. Geltendes Recht 2026 und Pflichten ab 2027 bleiben getrennt.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -60,7 +60,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`geldwaeschepraevention-aml-kyc-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [5 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -139,13 +139,13 @@ Drei ergänzende Vorlagen:
 
 ## 1.9. Fallunterlagen auswählen
 
-Drei neue Akten bilden unterschiedliche Arbeitsplätze ab:
+Die Übungsakten aus Bonn, Münster und Ulm bilden drei Arbeitsplätze ab.
 
 - Bonn: Ein Prozessmandant erweitert den Auftrag um einen Anteilskauf. Eine fremde Gesellschaft zahlt auf das Anderkonto; anschließend wird eine Rückzahlung an einen anderen Empfänger verlangt.
 - Münster: Ein Immobilienkaufpreis setzt sich aus Bankdarlehen, Eigenmitteln und einer vom Vater übergebenen Bargeldsumme zusammen. Die Korrespondenz im Notariat ist noch nicht abgeschlossen.
 - Ulm: Ein Maschinenhändler erhält mehrere Barzahlungen und zusätzlich eine volle Überweisung eines anderen Unternehmens. Vertrieb und Geschäftsführung erhalten unterschiedliche Rückzahlungswünsche.
 
-Jede neue Akte enthält acht selbständige Aktenstücke: ein bearbeitbares Word-Dokument, vier E-Mails und drei Textbelege. Alle drei Downloadformen sind oben zugeordnet. Die ZIPs enthalten flache Dateilisten und den Nutzungshinweis; die PDF-Sammlung trennt jedes Aktenstück. Die neuen Akten enthalten keine Musterlösung. Zwei ältere Akten ergänzen den Bestand für umfangreichere Sachverhalte.
+Jeder dieser Fälle enthält acht selbständige Aktenstücke: ein bearbeitbares Word-Dokument, vier E-Mails und drei Textbelege. Alle drei Downloadformen sind oben zugeordnet. Die ZIPs enthalten flache Dateilisten und den Nutzungshinweis; die PDF-Sammlung trennt jedes Aktenstück. Nutzen Sie die drei Fälle für eine eigenständige Bearbeitung. Für umfangreichere Sachverhalte stehen zwei weitere Akten bereit.
 
 <!-- decimal-anchor --> <a id="english-overview"></a>
 
@@ -153,7 +153,7 @@ Jede neue Akte enthält acht selbständige Aktenstücke: ein bearbeitbares Word-
 
 Twenty focused anti-money-laundering workflows for German legal practices, notarial offices and businesses. Start with supplied documents and the actual regulated activity. Do not treat every legal mandate or company as subject to identical duties.
 
-The standalone workshop covers a complete matter; the compact prompt prioritises its urgent core. Neither is installed as a skill. The three new cases contain editable correspondence and separate source documents, with combined-PDF, individual-PDF ZIP and native-file ZIP downloads.
+The standalone workshop covers a complete matter; the compact prompt prioritises its urgent core. Neither is installed as a skill. The Bonn, Münster and Ulm cases contain editable correspondence and separate source documents, with combined-PDF, individual-PDF ZIP and native-file ZIP downloads.
 
 German rules applicable in September 2026 are kept separate from the EU regulation generally applicable from July 2027. Reports, filings and releases require an authorised human decision. The plugin does not provide live screening or portal access.
 
@@ -161,7 +161,7 @@ German rules applicable in September 2026 are kept separate from the EU regulati
 
 ## 1.11. Umstieg von früheren Versionen
 
-Die bisherigen 57 Einstiegspunkte sind auf 20 Fachskills zusammengeführt. 16 bestehende Namen bleiben erhalten; vier neue Fachwege ergänzen Kanzlei, Notariat, Kontrollen und EU-Umstellung. Gespeicherte Aufrufe entfallener Skills müssen angepasst werden: [Zuordnung der früheren Namen herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/references/umstieg-20-fachskills.md).
+Für gespeicherte Aufrufe aus der Fassung mit 57 Einstiegspunkten dokumentiert die Zuordnung den passenden der 20 Fachskills. 16 Namen stimmen überein. Eigene Fachwege decken Kanzlei, Notariat, Kontrollen und EU-Umstellung ab. [Zuordnung der früheren Namen herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/references/umstieg-20-fachskills.md).
 
 <!-- BEGIN SKILLS-LOGIC (auto-generated) -->
 

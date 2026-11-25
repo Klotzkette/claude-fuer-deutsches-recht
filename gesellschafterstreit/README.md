@@ -11,7 +11,7 @@
 
 Gesellschafterstreit in GmbH und UG bearbeiten: Stimmverbote, Kapitalerhöhung, Geschäftsführer, Wettbewerb, Darlehen, Einziehung und Rechtsschutz mit belegt begründeten Anträgen und Vergleich.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -62,7 +62,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`gesellschafterstreit-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-werkstatt.md) · [`gesellschafterstreit-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -157,7 +157,7 @@ Drei Gesellschafter einer Berliner Metallbau-GmbH streiten über Finanzierung, g
 
 ## 1.10. Rechtsquellen und tragende Abgrenzungen
 
-Die [Rechtsprechungsanker](references/rechtsprechungsanker.md) enthalten **18 am amtlichen Volltext geprüfte BGH-Entscheidungen**. Die Überarbeitung vom 08./09.10.2026 ergänzt **II ZR 13/25 vom 16.06.2026** zur satzungsabhängigen Beschlussfassung außerhalb einer Versammlung, **II ZR 50/25 vom 21.04.2026** zur materiellen Mitgliedschaft trotz positiver Liste und **II ZR 71/24 vom 10.02.2026** zur Kontrolle von Manager- und Leaver-Regeln. Am 14.11.2026 wurden alle 18 amtlichen Originale erneut heruntergeladen, mit dem Quellenarchiv abgeglichen und die im Werkstatt-Prompt tragenden Passagen nachgelesen. Der [dateibezogene Nachprüfungsbericht](../quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.md) dokumentiert Umfang und Grenzen. Jeder Anker benennt Anwendung und Übertragungsgrenze; die Sammlung beansprucht keine lückenlose Erfassung sämtlicher Entscheidungen.
+Die [Rechtsprechungsanker](references/rechtsprechungsanker.md) enthalten **18 am amtlichen Volltext geprüfte BGH-Entscheidungen**. Darunter sind **II ZR 13/25 vom 16.06.2026** zur satzungsabhängigen Beschlussfassung außerhalb einer Versammlung, **II ZR 50/25 vom 21.04.2026** zur materiellen Mitgliedschaft trotz positiver Liste und **II ZR 71/24 vom 10.02.2026** zur Kontrolle von Manager- und Leaver-Regeln. Die Quellenprüfung vom 14.11.2026 umfasst alle 18 amtlichen Originale, ihren Abgleich mit dem Quellenarchiv und die für die Werkstatt tragenden Passagen. Der [dateibezogene Nachprüfungsbericht](../quality/source-audits/2026-11-14-nachpruefung/gesellschafterstreit.md) dokumentiert Umfang und Grenzen. Jeder Anker benennt Anwendung und Übertragungsgrenze; die Sammlung beansprucht keine lückenlose Erfassung sämtlicher Entscheidungen.
 
 Die [Beschlusslogik](references/beschlusslogik.md) trennt Abstimmung, Mehrheitsnenner und Feststellung. Die [Verfahrenswahl](references/verfahrenswahl.md) führt zum konkreten außergerichtlichen oder gerichtlichen Produkt. [Finanzierung und Wettbewerb](references/finanzierung-und-wettbewerb.md) verbindet Kapitalmaßnahmen, Darlehen, Vertretung und geschütztes Wissen, ohne deren Voraussetzungen gleichzusetzen.
 
@@ -211,4 +211,4 @@ English: Complete list of all 11 skills in this plugin. Both links in each row d
 
 ## 1.13. Lesefassungen und Prüfbericht
 
-[Handbuch der elf Skills](../docs/handbuecher/gesellschafterstreit-skills-handbuch.pdf) und [Werkstatt als PDF](../docs/handbuecher/gesellschafterstreit-werkstatt-lesefassung.pdf) dokumentieren den historischen Stand 445.34.2 vom 09.10.2026. Für die aktuelle Bearbeitung gelten die oben verlinkten MD-/TXT-Prompts und das aktuelle Plugin-ZIP; die historischen PDFs werden nicht als frisch erzeugte Lesefassungen ausgegeben. Der [Prüfbericht](../quality/gesellschafterstreit/README.md) unterscheidet Quellenabgleich, Dateiprüfung und tatsächlich durchgeführte Anwendungsprobe. Ein statischer Test ersetzt keine Prüfung im konkreten Mandat.
+[Handbuch der elf Skills](../docs/handbuecher/gesellschafterstreit-skills-handbuch.pdf) und [Werkstatt als PDF](../docs/handbuecher/gesellschafterstreit-werkstatt-lesefassung.pdf) dokumentieren den historischen Stand 445.34.2 vom 09.10.2026. Für die Bearbeitung mit dem Plugin verwenden Sie die MD-/TXT-Prompts und das Plugin-ZIP aus der Downloadtabelle. Der [Prüfbericht](../quality/gesellschafterstreit/README.md) unterscheidet Quellenabgleich, Dateiprüfung und tatsächlich durchgeführte Anwendungsprobe. Ein statischer Test ersetzt keine Prüfung im konkreten Mandat.

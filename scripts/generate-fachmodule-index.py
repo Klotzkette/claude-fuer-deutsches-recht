@@ -52,7 +52,7 @@ def outputs(plugin):
     # Repo-übergreifende Navigation gehört nicht zum Inhalt des Pluginarchivs.
     lines[4]='[Plugin-Einstieg](README.md)'
     index='\n'.join(lines)
-    block=f'{BEGIN}\n\nDas Plugin bietet **{active} auswählbare Skills**. Die **{count} vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.\n\n{END}'
+    block=f'{BEGIN}\n\nDas Plugin bietet **{active} auswählbare Skills**. Die **{count} vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.\n\n{END}'
     path=directory/'README.md';readme=path.read_text()
     if BEGIN in readme:
         start,end=readme.index(BEGIN),readme.index(END)+len(END);readme=readme[:start]+block+readme[end:]

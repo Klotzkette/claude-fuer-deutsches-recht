@@ -166,18 +166,18 @@ assert before==after, 'Originale 01–30 verändert'
 (QA/'originale_sha256.json').write_text(json.dumps(after,indent=2),encoding='utf-8')
 readme=CASE/'README.md'
 text=readme.read_text(encoding='utf-8')
-text=text.replace('30 native Aktenstücke. Jede Datei bildet ein Dokument ab. Die Arbeitsmappen sind bearbeitbar; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.', '43 native Aktenstücke, darunter fünf bearbeitbare Excel-Arbeitsmappen. Die ursprünglichen 30 Unterlagen und ihre beiden Arbeitsmappen bleiben unverändert. Zehn zusätzliche Belege und drei neue Fortführungen vertiefen denselben Stichtag. Jede Datei bildet ein Dokument ab; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.')
+text=text.replace('30 native Aktenstücke. Jede Datei bildet ein Dokument ab. Die Arbeitsmappen sind bearbeitbar; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.', '43 native Aktenstücke, darunter fünf bearbeitbare Excel-Arbeitsmappen. Die Unterlagen, einschließlich der Arbeitsmappen zu Ablauf, Finanzierung und Freigaben, beziehen sich auf denselben Stichtag. Jede Datei bildet ein Dokument ab; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.')
 names=['31_Hersteller_Schutzbaugruppe.eml','32_Rueckfrage_Lieferkette.docx','33_Anschlusspruefung_Vorbehalte.pdf','34_Ergaenzungsangebot_Spaetschicht.pdf','35_Anfrage_Abendbetrieb.eml','36_Freigabevermerk_Vorbereitung.docx','37_Rechnungseingang_Zahlungslauf.docx','38_Angebot_Druckluftverteilung.pdf','39_Schnittstelle_Druckluft.eml','40_Maschinenbauer_Versuchsfenster.docx','41_Energie_und_Freigaben.xlsx','42_Mobilversorgung_Kosten.xlsx','43_Zahlungen_und_Entscheidungen.xlsx']
 if '| 31 |' not in text:
     text=text.replace('| 30 | `30_Finanzierung.eml` |','| 30 | `30_Finanzierung.eml` |\n'+'\n'.join(f'| {i} | `{n}` |' for i,n in enumerate(names,31)))
 if '<!-- reserved-example-contacts -->' not in text:
-    text=text.replace('> Diese Testakte wurde', '<!-- reserved-example-contacts -->\n\nDie ergänzten Kontaktadressen verwenden reservierte `.example`-Domains und sind nicht für einen Versand bestimmt.\n\n> Diese Testakte wurde',1)
+    text=text.replace('> Diese Testakte wurde', '<!-- reserved-example-contacts -->\n\nAdressen mit der reservierten Domain `.example` dienen der Übung und sind nicht zustellbar.\n\n> Diese Testakte wurde',1)
 if '## 1.6. Vertiefung und Workshop' not in text:
     text+='''
 
 ## 1.6. Vertiefung und Workshop
 
-Die Ergänzung hält den Aktenstichtag 25. September 2026, 16:00 Uhr, ein. Sie führt keine späteren Freigaben, Zahlungen oder ausgeführten Versuche als Tatsachen ein. Der Hersteller erläutert die fehlende Schutzbaugruppe, Einkauf und Elektroplanung präzisieren die Alternativen, und der Maschinenbauer grenzt die mögliche Beschleunigung und seine noch offenen Zusatzkosten ab. Die Anfrage zum Abendbetrieb bleibt unbeantwortet.
+Für die Entscheidungen zählt der Kenntnisstand vom 25. September 2026 um 16:00 Uhr. Freigaben, Zahlungen und ausgeführte Versuche sind nur mit einem Beleg bis zu diesem Zeitpunkt anzusetzen. Der Hersteller erläutert die fehlende Schutzbaugruppe, Einkauf und Elektroplanung präzisieren die Alternativen, und der Maschinenbauer grenzt die mögliche Beschleunigung und seine noch offenen Zusatzkosten ab. Die Anfrage zum Abendbetrieb bleibt unbeantwortet.
 
 | Arbeitsmappe | Weiterführung und Erklärung |
 | --- | --- |

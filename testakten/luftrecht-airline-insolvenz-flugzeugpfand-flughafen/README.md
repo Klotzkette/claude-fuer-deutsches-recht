@@ -30,7 +30,9 @@ Die WestAir Regional GmbH betreibt unter dem AOC DE-1042 zwei Luftfahrzeuge. Der
 
 Die Akte dokumentiert den Stand bis zur vorläufigen insolvenzgerichtlichen Sicherung. Registerauszüge, Vertragsunterlagen, Rechnungsdaten, E-Mail-Verkehr, technische Übergabeangaben und ein Wertgutachten liegen in unterschiedlichen Bearbeitungsständen vor. Ein abschließender Verfahrensausgang ist nicht vorgegeben.
 
-## Aktenstücke (Ausbau)
+<a id="aktenstücke-ausbau"></a>
+
+## Unterlagen zum Insolvenzverfahren
 
 | Datei | Inhalt |
 | --- | --- |

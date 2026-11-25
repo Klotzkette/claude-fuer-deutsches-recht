@@ -89,7 +89,7 @@ Technische Prüfdaten, frühere Metadaten, Claim-Gate-Beispiele und Lösungsmemo
 
 ## Weitere Unterlagen im Mandat
 
-Kontenblatt und Antwort der Sachbearbeitung verbinden die Direktzahlung mit ihrer Weiterleitung. Für den Abgleich sind Buchungsstelle und Gegenkonto maßgeblich. Die Vollakte enthält die bisherige Originalfassung und beide zusätzlichen Belege im Ordner `Nachlieferung`. Die separat angebotenen PDF-Fassungen zeigen den vorherigen Aktenstand.
+Kontenblatt und Antwort der Sachbearbeitung verbinden die Direktzahlung mit ihrer Weiterleitung. Für den Abgleich sind Buchungsstelle und Gegenkonto maßgeblich. Die Vollakte enthält die Aktenunterlagen und die beiden Belege im Ordner `Nachlieferung`. Die separaten PDF-Fassungen zeigen den Fall vor dem Eingang der beiden Belege.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

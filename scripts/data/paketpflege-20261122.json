@@ -1,14 +1,18 @@
 {
   "edition": "paketpflege-20261122",
   "gruppen": {
-    "445.36.9": {"vorgaenger": "qualitaetsrunde-v445.36.9", "native": 308, "portable": 27},
-    "445.36.10": {"vorgaenger": "fachaufnahme-v445.36.10", "native": 2, "portable": 0},
-    "445.36.11": {"vorgaenger": "qualitaetsrunde-v445.36.11", "native": 2, "portable": 0},
-    "1.0.0": {"vorgaenger": "allgemeines-notariat-v1.0.0", "native": 1, "portable": 0}
+    "445.36.9": {"vorgaenger": "qualitaetsrunde-v445.36.9", "native": 308, "portable": 27, "archivnamen_sha256": "8ecaf7243f4a0283ea415eb77c1cd0ba5f44ef2290d7fa551e8af663320b2754"},
+    "445.36.10": {"vorgaenger": "fachaufnahme-v445.36.10", "native": 2, "portable": 0, "archivnamen_sha256": "3a29c7cf73d17d84d2ee7ac710129a22c2cedd7ae4de80a06f3aee3047cd1efc"},
+    "445.36.11": {"vorgaenger": "qualitaetsrunde-v445.36.11", "native": 2, "portable": 0, "archivnamen_sha256": "ac2b461d3195eb8800afc1c99e2e1bd8ec685c329fd2d3c7622c9eed9752b5fc"},
+    "1.0.0": {"vorgaenger": "allgemeines-notariat-v1.0.0", "native": 1, "portable": 0, "archivnamen_sha256": "f942ecfd7027a2912d9751406bc91736cbbbe4f92dc018988ea5c8d82f438b99"}
   },
   "unveraendert": ["aktenanleger", "umwandlungssteuerrecht"],
   "nachfolger": {
     "vergabestelle-behoerden.zip": {"ausgabeversion": "445.36.9", "tag": "qualitaetsrunde-v445.36.13"},
-    "patentrecht.zip": {"ausgabeversion": "445.36.9", "tag": "qualitaetsrunde-v445.36.14"}
+    "patentrecht.zip": {"ausgabeversion": "445.36.9", "tag": "qualitaetsrunde-v445.36.14"},
+    "fachanwalt-insolvenz-sanierungsrecht.zip": {"ausgabeversion": "445.36.9", "tag": "insolvenz-fachbereich-v445.36.10"},
+    "fachanwalt-insolvenz-sanierungsrecht-portable.zip": {"ausgabeversion": "445.36.9", "tag": "insolvenz-fachbereich-v445.36.10"},
+    "insolvenzforderungen-checker.zip": {"ausgabeversion": "445.36.9", "tag": "insolvenz-fachbereich-v445.36.10"},
+    "insolvenzforderungen-checker-portable.zip": {"ausgabeversion": "445.36.9", "tag": "insolvenz-fachbereich-v445.36.10"}
   }
 }

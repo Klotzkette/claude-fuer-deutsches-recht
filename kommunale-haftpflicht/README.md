@@ -10,7 +10,7 @@
 
 Kommunale Schäden belegt bearbeiten: Gebäude, Straßen, Winterdienst, Fahrzeuge, Bäder, Antrags- und Bauentscheidungen, Leitungen und Krankenhaus-Großschäden; Haftung, Schadenhöhe, Deckung und internen Ausgleich trennen.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -61,7 +61,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`kommunale-haftpflicht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md) · [`kommunale-haftpflicht-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [16 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -142,13 +142,13 @@ Mini und Fokus bleiben jeweils unter 7.500 UTF-8-Bytes und Zeichen. Der ausführ
 
 ## 1.9. Sechzehn Testakten
 
-Die sechzehn Akten eignen sich als einzelne Beispiele im Vortrag „Professioneller Einsatz von KI in der Rechtsanwendung: erste Schritte, schnelle Fortschritte, Vorteile und Nachteile, rechtliche Grundlagen“. Jede Akte bietet einen konkreten Arbeitsauftrag sowie einen ausgearbeiteten, bearbeitbaren Word-Klageentwurf mit Anträgen, Sachverhalt, Beweisantritten, rechtlicher Begründung und Anlagen K1 ff. Die drei neuen Fälle betreffen einen fehlenden Kita-Platz, einen Wasserschaden beim Feuerwehreinsatz und einen umgestürzten Baum an einer Kreisstraße.
+Die sechzehn Akten eignen sich als einzelne Beispiele im Vortrag „Professioneller Einsatz von KI in der Rechtsanwendung: erste Schritte, schnelle Fortschritte, Vorteile und Nachteile, rechtliche Grundlagen“. Jede Akte bietet einen konkreten Arbeitsauftrag sowie einen ausgearbeiteten, bearbeitbaren Word-Klageentwurf mit Anträgen, Sachverhalt, Beweisantritten, rechtlicher Begründung und Anlagen K1 ff. Drei der Fälle betreffen einen fehlenden Kita-Platz, einen Wasserschaden beim Feuerwehreinsatz und einen umgestürzten Baum an einer Kreisstraße.
 
-Die bisher vorhandenen 220 Originaldateien bleiben unverändert erhalten. Hinzu kommen 160 Dateien; die sechzehn Akten umfassen damit 380 Arbeitsdateien. Der Unterordner `kommunikation-und-deckung` enthält zusätzliche Belege, ausführliche Briefe in Word und PDF sowie E-Mails mit tatsächlichen Dateianlagen. Unter `briefvorlagen` stehen außerdem 24 bearbeitbare Fassungen bereits vorhandener Brief-PDFs. Word, PDF und E-Mail-Anlage desselben Briefs sind Formatvarianten desselben Belegs, keine unabhängigen Beweise. Die Gesamt-PDFs und beide ZIP-Fassungen enthalten die Erweiterungen.
+Die sechzehn Akten enthalten 380 Arbeitsdateien. 220 gehören zur jeweiligen Ausgangsakte und 160 zum Schriftverkehr, zur Deckungsprüfung und zu den bearbeitbaren Fassungen. Der Unterordner `kommunikation-und-deckung` enthält zusätzliche Belege, ausführliche Briefe in Word und PDF sowie E-Mails mit tatsächlichen Dateianlagen. Unter `briefvorlagen` stehen außerdem 24 bearbeitbare Fassungen bereits vorhandener Brief-PDFs. Word, PDF und E-Mail-Anlage desselben Briefs sind Formatvarianten desselben Belegs, keine unabhängigen Beweise. Der Schriftverkehr ist auch in den Gesamt-PDFs und beiden ZIP-Fassungen enthalten.
 
 Die Korrespondenz zeigt konkrete Zuständigkeitsauskünfte, Nachforderungen, Einwendungen und Antworten zwischen Kommune, Landkreis, Erstversicherer und – bei belegtem Meldeanlass – Rückversicherer. Bei Kleinschäden wird kein künstlicher Rückversicherungsfall erzeugt. Jeder Versicherungsvertrag, Selbstbehalt und jede interne Schwelle sind ausschließlich fiktive Bedingungen des jeweiligen Szenarios. Forderung, Reserve, Zahlung, Deckung und Rückdeckung werden getrennt.
 
-Sämtliche Klagen sind nicht eingereichte Arbeitsentwürfe aus der jeweils bezeichneten Parteisicht. Sie ändern weder den Auftraggeber der ursprünglichen Akte noch bestehende Zahlungen. Die Geburtsschadenakte enthält einen ausdrücklich historischen Entwurf vom 22.09.2026, der nach Vergleich und Zahlung überholt ist. Die Akte „Fiktives Verletzungsrisiko“ enthält nun ebenfalls einen begründeten Klageentwurf; die Ansprüche der Insassen und der Krankenkasse bleiben getrennt.
+Sämtliche Klagen sind nicht eingereichte Arbeitsentwürfe aus der jeweils bezeichneten Parteisicht. Sie ändern weder den Auftraggeber der ursprünglichen Akte noch bestehende Zahlungen. Die Geburtsschadenakte enthält einen ausdrücklich historischen Entwurf vom 22.09.2026, der nach Vergleich und Zahlung überholt ist. Die Akte „Fiktives Verletzungsrisiko“ enthält einen begründeten Klageentwurf; die Ansprüche der Insassen und der Krankenkasse bleiben getrennt.
 
 | Testakte | Fall und möglicher Schwerpunkt |
 | --- | --- |
@@ -198,11 +198,11 @@ Sämtliche Klagen sind nicht eingereichte Arbeitsentwürfe aus der jeweils bezei
 
 Die [Rechtsprechungsanker](references/rechtsprechungsanker.md) enthalten zwölf fachlich ausgewählte BGH-Entscheidungen mit amtlichem Volltext, konkreter Stelle und Übertragungsgrenze. Prüfstand ist der **05.10.2026**. Dazu gehört das Urteil vom **10.02.2026 – Az. VI ZR 155/25** zur Abgrenzung von Gespannaußenhaftung und Eigenschäden der Halter. Dieser Anker wird nur bei einer passenden Gespannfrage eingesetzt; eine aktuelle Jahreszahl ersetzt keine Einschlägigkeit.
 
-Die [Klinik-Ergänzung](references/geburtsschaden-und-interner-ausgleich.md) ergänzt konkrete Anker für Kindeserwerbsschaden, Angehörigenpflege, Elternvertretung und interne Großschadenabrechnung. Sie benennt den Umfang der tatsächlich geprüften Quellen und trennt öffentliche Verbandsangaben von den erfundenen Vertragswerten der Akte.
+Die [Fachhinweise zu Klinikschäden](references/geburtsschaden-und-interner-ausgleich.md) behandeln die Rechtsprechung zu Kindeserwerbsschaden, Angehörigenpflege, Elternvertretung und interne Großschadenabrechnung. Sie benennen den Umfang der tatsächlich geprüften Quellen und trennen öffentliche Verbandsangaben von den erfundenen Vertragswerten der Akte.
 
 Die [ergänzende Fallzuordnung für Bayern](references/alltagsfaelle-bayern.md) verbindet Fahrzeug, Winterdienst, Schwimmbad, Antragsbearbeitung, Baugenehmigung, Kanalbeschädigung, Baumpflege und Schlagloch mit konkreten Rechtsquellen und Übertragungsgrenzen. Schäden an einer kommunalen Anlage werden von Schäden durch ihren Betrieb getrennt.
 
-Die [Vertiefung zu Kita, Feuerwehr und Kreisstraße](references/kita-feuerwehr-kreisstrasse.md) verbindet die neuen Akten mit verifizierten BGH-Ankern und den einschlägigen bayerischen Zuständigkeitsregeln.
+Die [Vertiefung zu Kita, Feuerwehr und Kreisstraße](references/kita-feuerwehr-kreisstrasse.md) verbindet die Fallakten mit verifizierten BGH-Ankern und den einschlägigen bayerischen Zuständigkeitsregeln.
 
 Die [Fallkarte und Belege](references/fallkarte-und-belege.md) ordnen Tatsachen und sensible Daten. Die [Schadenrechnung](references/schadenrechnung-und-mehrpersonenfall.md) trennt Positionen, Anspruchsübergänge und Mehrpersonenfälle. [Deckung und Rückdeckung](references/deckung-und-rueckdeckung.md) führen durch die tatsächlich vorliegenden Bedingungen. Die [Zitierweise](references/zitierweise.md) entspricht unverändert dem zentralen Standard.
 

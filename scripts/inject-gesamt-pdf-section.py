@@ -94,9 +94,9 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
             + einzel_intro
         )
         if source_zip_includes_gesamt_pdf(TESTAKTEN_DIR / slug):
-            trailer = "Die ZIP-Links laden den zuletzt veröffentlichten Release. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein."
+            trailer = "Die ZIP-Links führen zur veröffentlichten Aktenfassung. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Die Fallseite verlinkt die einzelnen Unterlagen."
         else:
-            trailer = "Die ZIP-Links laden den zuletzt veröffentlichten Release. Das Originalformat-ZIP enthält ausschließlich die nativen Aktenstücke und README.txt; das Gesamt-PDF und eine Lösung sind darin nicht enthalten. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein."
+            trailer = "Die ZIP-Links führen zur veröffentlichten Aktenfassung. Das Originalformat-ZIP enthält ausschließlich die nativen Aktenstücke und README.txt; das Gesamt-PDF und eine Lösung sind darin nicht enthalten. Die Fallseite verlinkt die einzelnen Unterlagen."
     else:
         rows = (
             f"| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-{slug}.zip]({zip_url}) |"
@@ -106,7 +106,7 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
             "Dieses Aktenpaket gibt es als Akten-ZIP zum Direkt-Download. Es enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs, aber kein Markdown. Sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene."
             + einzel_intro
         )
-        trailer = "Die ZIP-Links laden den zuletzt veröffentlichten Release. Der Repository-Stand kann zwischen Releases bereits neuer sein."
+        trailer = "Die ZIP-Links führen zur veröffentlichten Aktenfassung."
     english = "English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown."
     if preserves_directories(Path(slug)):
         formats = 'drei' if pdf_rel is not None and has_einzelpdf else 'zwei'
@@ -192,14 +192,14 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
     if has_einzelpdf:
         english += " Choose the individual-PDF ZIP to review each document separately."
     if slug not in selection()["central"]:
-        english += " These are practice documents, not an installable plugin. ZIP links refer to the latest published release."
+        english += " These are practice documents, not an installable plugin. ZIP links point to the published case files."
     if slug in companion_cases():
         trailer = trailer.replace(
-            "Die ZIP-Links laden den zuletzt veröffentlichten Release.",
+            "Die ZIP-Links führen zur veröffentlichten Aktenfassung.",
             "Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease.",
         )
         english = english.replace(
-            "ZIP links refer to the latest published release.",
+            "ZIP links point to the published case files.",
             "ZIP links refer to the case companion release for the stated marketplace version.",
         )
     if slug == 'autohaus-boeblingen':
@@ -226,6 +226,15 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
         english = ('The core file contains 37 records in three stages. Choose the combined PDF to read them '
                    'in order or one of the two core ZIPs to work through the folders. The extended case '
                    'contains 43 records, available as original files or as a print package.')
+    if slug == "betriebsvereinbarung-copilot-maschinenbau-kassel":
+        intro = ("Beginnen Sie mit der `Grundakte`. Ziehen Sie die `Nachreichungen` für den weiteren "
+                 "Verhandlungsverlauf heran. Im Originalformat-ZIP finden Sie außerdem die bearbeitbaren "
+                 "Word- und Excel-Dateien im Ordner `Arbeitsvorlagen`.")
+        trailer = ("Die Druckfassungen enthalten die Grundakte und die Nachreichungen. "
+                   "Für eigene Entwürfe verwenden Sie die Vorlagen aus dem Originalformat-ZIP.")
+        english = ("English: Start with the intake records in `Grundakte` and use `Nachreichungen` "
+                   "for the later negotiations. The print files contain these two sets of records. "
+                   "The original-format ZIP also includes editable Word and Excel templates in `Arbeitsvorlagen`.")
     intake_row = central_row(slug)
     if intake_row:
         rows = intake_row + "\n" + rows

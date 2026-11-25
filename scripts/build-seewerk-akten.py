@@ -488,7 +488,7 @@ Arbeitsunterlagen zum Kündigungsschutzmandat eines Schichtleiters in Radolfzell
 
 ## 1.1. Benutzung
 
-{'Die vierzehn Anlagen des Konzeptpapiers sind inhaltlich übernommen. Typografie und ausgeschriebene Normbezeichnungen sind vereinheitlicht. Mehrteilige Anlagen werden dokumentweise getrennt; die historischen Vertragsauszüge bleiben ausdrücklich Auszüge.' if not variant else 'Die vierzehn Kernanlagen enthalten weiterhin sämtliche Aussagen der Konzeptfassung. Hinzu kommen ausführlichere Schreiben, Abrechnungsunterlagen, Korrespondenz, technische Vorgänge und rekonstruierte Ansichten der erfundenen Lauf-App. Die Ergänzungen sind ein gesonderter Bestand und keine heimlich hinzugefügten Klageanlagen.'}
+{'Die vierzehn Anlagen des Konzeptpapiers sind inhaltlich übernommen. Typografie und ausgeschriebene Normbezeichnungen sind vereinheitlicht. Mehrteilige Anlagen werden dokumentweise getrennt; die historischen Vertragsauszüge bleiben ausdrücklich Auszüge.' if not variant else 'Die vierzehn Kernanlagen bilden das Anlagenverzeichnis der Klage. Daneben stehen Schreiben, Abrechnungen, Korrespondenz, technische Unterlagen und rekonstruierte Ansichten der fiktiven Lauf-App für die Fallbearbeitung zur Verfügung.'}
 
 {len(items)} Originaldateien, {len(writer.pages)} PDF-Seiten, vierzehn logische Kernanlagen. Im Einzel-PDF-ZIP ist jedes eigenständige Dokument eine eigene PDF-Datei. Der zusätzliche Anlagen-Satz bündelt dagegen bewusst genau K1 bis K14; Ergänzungen außerhalb dieser Nummerierung sind dort nicht enthalten. Der Gesamtband enthält alle Dokumente in der unten bezeichneten Reihenfolge.
 

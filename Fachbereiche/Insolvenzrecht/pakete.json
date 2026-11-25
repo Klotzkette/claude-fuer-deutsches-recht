@@ -1,0 +1,114 @@
+{
+  "bereicherungs-und-anfechtungsrecht-pruefer": {
+    "quelle_sha256": "1a9cfb0c72964cdc8a697910489c6c44b688d05f2f2ecc3a5ee7b0dc45caf279",
+    "readme_aus_quellbaum": true,
+    "sha256": "e182683d2ef5c281d8f27aafd1b793b4fef640944ee2aa0b6b36cb00b11d4600",
+    "tag": "paketpflege-20261122-v445.36.9",
+    "version": "445.36.9"
+  },
+  "fachanwalt-insolvenz-sanierungsrecht": {
+    "quelle_sha256": "038e2d622fab58d7edd2a4a52002ca049bc281743c9188d06638c6ebdd4d5c10",
+    "readme_aus_quellbaum": false,
+    "sha256": "038e2d622fab58d7edd2a4a52002ca049bc281743c9188d06638c6ebdd4d5c10",
+    "tag": "insolvenz-fachbereich-v445.36.10",
+    "version": "445.36.10"
+  },
+  "fortbestehensprognose": {
+    "quelle_sha256": "f50a81a86b02ae5470a7fdd5d9d9d468f10f6477a2a7b6854d32573ab8a1319c",
+    "readme_aus_quellbaum": true,
+    "sha256": "d3ab13fd26962388a75a2a34fc5d7e28c4ab34e13ddd754a2ff853d7540412d7",
+    "tag": "paketpflege-20261122-v445.36.9",
+    "version": "445.36.9"
+  },
+  "insolvenzanfechtung": {
+    "quelle_sha256": "72eb2cf183954949f05fda0528e65bdbf37afa6f0f32cacc8a64ea58302e7f6c",
+    "readme_aus_quellbaum": true,
+    "sha256": "86651a0e66c4d2f9a0c5e2c27bdd0b2107b3ed60c597d24ff5ae9d653d679e01",
+    "tag": "paketpflege-20261122-v445.36.9",
+    "version": "445.36.9"
+  },
+  "insolvenzforderungen-checker": {
+    "quelle_sha256": "923a9e0cadf65ac7d6742d95bf86ac185639ff8249eeb663c5b771d2a32194da",
+    "readme_aus_quellbaum": false,
+    "sha256": "923a9e0cadf65ac7d6742d95bf86ac185639ff8249eeb663c5b771d2a32194da",
+    "tag": "insolvenz-fachbereich-v445.36.10",
+    "version": "445.36.10"
+  },
+  "insolvenzplan-starug-planwerkstatt": {
+    "quelle_sha256": "ca7ead8cd84b0e1fb9485cb68d897247de407ace5858caeabce403d67de4ca39",
+    "readme_aus_quellbaum": true,
+    "sha256": "61d82723dc1376e6a0141be632acfa2f05948000bd5864fb38643c6359e75645",
+    "tag": "paketpflege-20261122-v445.36.9",
+    "version": "445.36.9"
+  },
+  "insolvenzsachbearbeitung": {
+    "quelle_sha256": "6e1d539307bac402868cc2c1fd55441cccec66d14184070cba314a3eca6027ff",
+    "readme_aus_quellbaum": true,
+    "sha256": "57ed0a7b656f73c66bc794e18540c8e3938314529fa215fb4689d54c03301de3",
+    "tag": "paketpflege-20261122-v445.36.9",
+    "version": "445.36.9"
+  },
+  "insolvenzverwaltung": {
+    "quelle_sha256": "67eb591d5b5feb0a8a7b6bdb3eea64a4665c920f551d8165ef7e4ad691b531ec",
+    "readme_aus_quellbaum": true,
+    "sha256": "d0366558080741fb2365f40ce7f25b67ec3b7ca16cf0ce93a4e6d6431b361fc1",
+    "tag": "paketpflege-20261122-v445.36.9",
+    "version": "445.36.9"
+  },
+  "insolvenzverwaltung-berichtsersteller": {
+    "quelle_sha256": "750ae9cd3d4d64214bad21c5c21445e51617edf1fef1151635aa99bfa6392378",
+    "readme_aus_quellbaum": true,
+    "sha256": "786fb068235e9d4d5b43046a8a65b1604ded9f35336275d52662cce2220eea17",
+    "tag": "paketpflege-20261122-v445.36.9",
+    "version": "445.36.9"
+  },
+  "krisenfrueherkennung-starug": {
+    "quelle_sha256": "93310eecdb6a981f7eeb5a1963a119605fbda049947a2ed431f624f078126c53",
+    "readme_aus_quellbaum": true,
+    "sha256": "c2cff15356c251d1b07367530458414fef2edea001e707156d07318183609fa1",
+    "tag": "paketpflege-20261122-v445.36.9",
+    "version": "445.36.9"
+  },
+  "liquiditaetsplanung": {
+    "quelle_sha256": "e6c570c38adb3f6ed6a72ea6ad28f8632ee221e9c75500eff0746a0eea245149",
+    "readme_aus_quellbaum": true,
+    "sha256": "50273e6104ecf7b282e3704358d40fe7a60b113522b7be12eec0787fac75e359",
+    "tag": "paketpflege-20261122-v445.36.9",
+    "version": "445.36.9"
+  },
+  "richter-amtsgericht-insolvenz-restrukturierung": {
+    "quelle_sha256": "6e59cf6f49c0fb91c8d54b8073af82bb5146384c26f8b650da746debc6896554",
+    "readme_aus_quellbaum": true,
+    "sha256": "352e56ae352b7d463060bbfe1813b19d88d82945a88e006f9cffda79ac20df42",
+    "tag": "paketpflege-20261122-v445.36.9",
+    "version": "445.36.9"
+  },
+  "us-bankruptcy-code": {
+    "quelle_sha256": "ff4b98b4538fb8ef3cd963c808a49c9c18573fff3980dfd9c0c768a551300dd5",
+    "readme_aus_quellbaum": true,
+    "sha256": "56d2e8b80129ca51b1c9befaa97f5ac331c10d06e400007453ab218d608474f5",
+    "tag": "paketpflege-20261122-v445.36.9",
+    "version": "445.36.9"
+  },
+  "verbraucherinsolvenz-schuldenbereinigung": {
+    "quelle_sha256": "9d34926f184be620808b2dc370c6364da8c577f3935b019d52d053714b83163c",
+    "readme_aus_quellbaum": true,
+    "sha256": "f2cfae36d23adad52c35c31fa00fc39b50ef5fde3a74e8c680778f6b92d08399",
+    "tag": "paketpflege-20261122-v445.36.9",
+    "version": "445.36.9"
+  },
+  "zahlungsunfaehigkeits-und-ueberschuldungspruefer": {
+    "quelle_sha256": "86a3fbac220b6e6373cf0b3012af6f71b41ff00ee312a8b04a46cedfdc244d66",
+    "readme_aus_quellbaum": true,
+    "sha256": "a73d5114e807275db5e6e1fd8554f44d888d31d35b6cc67e6362cf295fc2d493",
+    "tag": "paketpflege-20261122-v445.36.9",
+    "version": "445.36.9"
+  },
+  "zwangsverwaltung-zvg": {
+    "quelle_sha256": "62c89072ff2f8295a706996b584ce48d93f74443aa66920084980b6b9f030d94",
+    "readme_aus_quellbaum": true,
+    "sha256": "7165c4767486f4608d6601f1693179003cae42b28ae81b282fecaa4f14feddfa",
+    "tag": "paketpflege-20261122-v445.36.9",
+    "version": "445.36.9"
+  }
+}

@@ -1,0 +1,78 @@
+name: Fachbereiche Insolvenzrecht und Betriebsvereinbarungen
+
+on:
+  pull_request:
+    paths:
+      - 'Fachbereiche/Insolvenzrecht/**'
+      - 'betriebsvereinbarungen/**'
+      - 'testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/**'
+      - 'fachanwalt-insolvenz-sanierungsrecht/**'
+      - 'insolvenzforderungen-checker/**'
+      - 'scripts/*fachbereich*'
+      - 'scripts/*fachpakete*'
+      - 'scripts/*betriebsvereinbarungen*'
+      - '.github/workflows/fachbereiche-insolvenz-betriebsvereinbarungen.yml'
+  workflow_dispatch:
+    inputs:
+      expected_commit:
+        description: Vollständiger geprüfter Main-Commit
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ inputs.expected_commit || github.sha }}
+          fetch-depth: 0
+          filter: blob:none
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 -m pip install -r requirements.txt
+      - name: Arbeitsakten und Fachabläufe prüfen
+        run: |
+          python3 scripts/validate-plugin-consolidation.py
+          python3 scripts/test-insolvenzforderungen-checker.py
+          python3 scripts/build-insolvenz-arbeitsvorlagen.py --check
+          python3 scripts/insolvenz-fachbereich-pakete.py
+          python3 scripts/build-betriebsvereinbarungen.py --check
+          python3 scripts/test-betriebsvereinbarungen.py
+  veroeffentlichen:
+    if: github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main' && github.repository == 'Klotzkette/claude-fuer-deutsches-recht'
+    needs: pruefen
+    strategy:
+      fail-fast: false
+      matrix:
+        tag: [insolvenz-fachbereich-v445.36.10, betriebsvereinbarungen-v1.0.0]
+    concurrency:
+      group: fachbereich-release-${{ matrix.tag }}
+      cancel-in-progress: false
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ inputs.expected_commit }}
+          fetch-depth: 0
+          filter: blob:none
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 -m pip install -r requirements.txt
+      - name: Ausgabe aus main bauen, hochladen und vollständig zurücklesen
+        env:
+          EXPECTED_COMMIT: ${{ inputs.expected_commit }}
+          TAG: ${{ matrix.tag }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          test "$(git rev-parse HEAD)" = "$EXPECTED_COMMIT"
+          git merge-base --is-ancestor HEAD origin/main
+          python3 scripts/veroeffentliche-fachbereiche.py --tag "$TAG" --expected-commit "$EXPECTED_COMMIT" --publish

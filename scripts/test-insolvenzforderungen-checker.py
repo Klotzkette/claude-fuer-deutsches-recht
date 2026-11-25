@@ -33,9 +33,9 @@ def doc_text(path):
 
 
 class Forderungspruefung(unittest.TestCase):
-    def test_eleven_direct_skills_and_complete_routing(self):
+    def test_zwoelf_skills_und_beide_arbeitswege(self):
         skills = {p.parent.name: p for p in (PLUGIN / "skills").glob("*/SKILL.md")}
-        self.assertEqual(len(skills), 11)
+        self.assertEqual(len(skills), 12)
         main = skills["forderungen-pruefen-und-tabelle-vorbereiten"].read_text()
         for name, path in skills.items():
             if name != "forderungen-pruefen-und-tabelle-vorbereiten":
@@ -46,6 +46,19 @@ class Forderungspruefung(unittest.TestCase):
             self.assertIn("../../references/zitierweise.md", text)
             self.assertIn("Times New Roman 11 pt", text)
             self.assertNotRegex(name, r"werkstatt|schnellstart")
+
+    def test_anmeldung_und_register_im_installierbaren_fachbereich(self):
+        leitfaden = PLUGIN / "references/anmeldung-pruefung-nachlauf.md"
+        skill = PLUGIN / "skills/forderung-zur-insolvenztabelle-anmelden/SKILL.md"
+        self.assertIn("../../references/" + leitfaden.name, skill.read_text())
+        for target in re.findall(r"\]\((arbeitsunterlagen/[^)]+)\)", leitfaden.read_text()):
+            self.assertTrue((leitfaden.parent / target).is_file(), target)
+        with (leitfaden.parent / "arbeitsunterlagen/tabellenimport.csv").open() as stream:
+            header, *entries = csv.reader(stream)
+        self.assertIn("widerspruch_verwalter", header)
+        self.assertIn("widerspruch_schuldner", header)
+        self.assertEqual(entries, [])
+        self.assertTrue((leitfaden.parent / "arbeitsunterlagen/anmeldung-und-ergaenzung.md").is_file())
 
     def test_prompts_profiles_and_review_hashes(self):
         mini = (PLUGIN / f"{SLUG}-schnellstart.md").read_bytes()

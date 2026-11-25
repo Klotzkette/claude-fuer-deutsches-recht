@@ -131,7 +131,9 @@ Arbeitsakte zum Plugin `fachanwalt-arbeitsrecht`.
 - `2025-05-22_betriebsrat_an_gf_widerspruch.eml` — BR-Widerspruch per E-Mail
 - `2025-05-23_branitz_an_koerber_freistellung.eml` — Gesonderte Nachricht zu Freistellung und Rückgabe der Arbeitsmittel
 
-## Neue Beteiligte (Datenkern)
+<a id="neue-beteiligte-datenkern"></a>
+
+## Beteiligte im Personalverfahren
 
 | Person | Rolle |
 |--------|-------|
@@ -166,7 +168,7 @@ Arbeitsakte zum Plugin `fachanwalt-arbeitsrecht`.
 
 ## Weitere Unterlagen im Mandat
 
-Der Nachtrag vom 2. Juni dokumentiert, was Stellenplan, Aufgabenverteilung und lokale Freigabeansicht jeweils zeigen. Die Vollakte enthält die bisherige Originalfassung und beide zusätzlichen Belege im Ordner `Nachlieferung`. Die separat angebotenen PDF-Fassungen zeigen den vorherigen Aktenstand.
+Der Nachtrag vom 2. Juni dokumentiert, was Stellenplan, Aufgabenverteilung und lokale Freigabeansicht jeweils zeigen. Die Vollakte enthält die Aktenunterlagen und die beiden Belege im Ordner `Nachlieferung`. Die separaten PDF-Fassungen zeigen den Fall vor dem Eingang der beiden Belege.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

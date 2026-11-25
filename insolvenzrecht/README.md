@@ -1,58 +1,17 @@
-# Insolvenzrecht-Plugin
+# Insolvenzrecht
 
-<!-- BEGIN direkt-loslegen (autogen) -->
-## Was ist das hier?
+Für allgemeine Insolvenzmandate und die Fachanwaltspraxis gibt es einen gemeinsamen Einstieg. Das Plugin führt von offenen Posten, Kontoständen und Gläubigerunterlagen zum Insolvenzstatus, Antragsentwurf oder Sanierungsvermerk. [Fachanwalt für Insolvenz- und Sanierungsrecht öffnen](../fachanwalt-insolvenz-sanierungsrecht/README.md)
 
-Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag.
-
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
-
-## Welche Datei wofür? / Which file should I use?
-
-| Bestandteil | Deutsch | English | Wo? / Where? |
-| --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`insolvenzrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/insolvenzrecht.zip) |
-| Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/insolvenzrecht.md) |
-| Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-werkstatt.md) |
-| Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-schnellstart.md) |
-| Schwerpunkt-Prompt | Eigenständiger, eng abgegrenzter Mandatsauftrag bis 7500 Zeichen. Der zugehörige Fachskill ist auch im Plugin vorhanden. | Standalone workflow for one demanding practice problem, up to 7500 characters. Its corresponding skill is also part of the plugin. | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-hauptproblem.md" download>MD herunterladen / Download MD</a> |
-| Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index](../testakten/README.md) |
-
-Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navigationslinks zu README- und Übersichtsseiten bleiben dagegen als GitHub-Seiten geöffnet.
-
-Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
-
-Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein.
-
-The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
-
-Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/insolvenzrecht.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
-
-## In 30 Sekunden starten
-
-| Ausgangslage | Schnellster Weg |
+| Aufgabe | Einstieg |
 | --- | --- |
-| Plugin installiert | Passenden Fachskill in der [alphabetisch sortierten Skill-Liste](../skills-index/insolvenzrecht.md) wählen und den untenstehenden Startsatz mit dem Arbeitsordner absenden. |
-| Noch keine Installation | Den Schnellstart unten als Markdown herunterladen und mit den Unterlagen in einer freigegebenen Arbeitsoberfläche bereitstellen. |
-| Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
+| Bestand, Fälligkeit und Titel abstimmen, Zahlungsunfähigkeit oder Antragspflicht prüfen | [Insolvenzstatus und Eröffnungsantrag](../fachanwalt-insolvenz-sanierungsrecht/references/krisenstatus-und-antrag.md) |
+| Masse, Forderung, Anfechtung, Sanierungsplan oder Restschuldbefreiung bearbeiten | [Fachregister Insolvenzpraxis](../fachanwalt-insolvenz-sanierungsrecht/references/fachtexte-insolvenzpraxis/FACHREGISTER.md) |
+| Den Asset Deal ChainCortex/Voracis oder einen anderen Übungsfall selbst ausarbeiten | [Leeren Vertrag, Vollzugsliste und weitere Arbeitsvorlagen öffnen](../fachanwalt-insolvenz-sanierungsrecht/README.md#arbeitsvorlagen) |
+| Einen anderen Insolvenzauftrag einordnen | [Fachbereich Insolvenzrecht](../Fachbereiche/Insolvenzrecht/README.md) |
 
-Startsatz für Insolvenzrecht-Plugin:
+## Fachmaterial und Quellbestand
 
-> Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken.
-
-Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
-
-## Downloads
-
-| Was | Format | Direkt-Download |
-| --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`insolvenzrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/insolvenzrecht.zip) |
-| Kompakter Prompt (Schnellstart) | Markdown | [`insolvenzrecht-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-schnellstart.md) |
-| Großer Prompt (Werkstatt) | Markdown | [`insolvenzrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-werkstatt.md) |
-| Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-hauptproblem.md" download>insolvenzrecht-hauptproblem.md</a> |
-| Zugeordnete Testakten | PDF / ZIP | [31 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
-
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+Die Fachtexte des eigenständigen Quellpakets bleiben unter ihren fachlichen Pfaden erreichbar. Der [Fachmodulkatalog](FACHMODULE.md) führt zu den Quellen. Der [archivierte Paketeinstieg](README-bestand.md) dokumentiert die zugehörigen Downloads, Einzelprompts und Skillverweise.
 
 ## Zugeordnete Testakten
 
@@ -99,126 +58,3 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 | [Akte Reimers: Verbraucherinsolvenz, ehemaliger Geschäftsführer und Schuldenbereinigungsplan](../testakten/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung/README.md) | [Gesamt-PDF](../testakten/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung/gesamt-pdf/verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung_gesamt.pdf) | [`testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung.zip) | [`testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
-<!-- END direkt-loslegen (autogen) -->
-
-[Oberordner Insolvenzrecht – alle eigenständigen Plugins nach Aufgabe](../insolvenzrecht-plugins/README.md)
-## Zahlungsunfähigkeit und Überschuldung für die Anfechtung rekonstruieren
-
-Der [Zahlungsunfähigkeits- und Überschuldungsprüfer](../zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md) führt von zwei Jahren Kontoauszügen und Buchungsunterlagen zum belegbaren Befund nach §§ 17 und 19 InsO. Die drei [Übungsakten mit Fremdantrag und Eröffnungsbeschluss](../zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md#3-testakten-zur-vorbereitung-einer-insolvenzanfechtung) beginnen mit dem Ordner `Grundakte`. Der Werkstatt-Prompt funktioniert direkt im Chat. Der Stichtagsrechner übernimmt den arithmetischen Abgleich strukturierter Eingaben.
-
-
-## 1. Schwerpunkt: Offene Posten und Dreiwochen-Liquiditätsbrücke
-
-Für widersprüchliche Krisendaten überführt der Schwerpunkt Buchhaltung, streitige Titel, Bankmittel und neue Fälligkeiten in eine abgestimmte Rechnung. Die Folgen einzelner Zuordnungsfehler für Insolvenzreife und Organpflichten begründen die wirtschaftliche Relevanz dieser Belegarbeit.
-
-[Schwerpunkt-Skill](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/opos-titelabgleich-dreiwochen-liquiditaetsbruecke/SKILL.md) · <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-hauptproblem.md" download>Eigenständigen Hauptproblem-Prompt als Markdown herunterladen</a>
-Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
-Insolvenz- und sanierungsrechtliche Skills nach deutschem Recht (InsO, StaRUG, COVInsAG-Nachwirkungen). Zielgruppe: Insolvenzverwalter, beratende Rechtsanwälte (Insolvenz-/Sanierungsrecht), Geschäftsführer, Vorstände, Sanierungsberater, Wirtschaftsprüfer (IDW-S-11-/S-6-/S-9-Praxis).
-
-
-## Vorlage Asset-Purchase-Agreement (Insolvenz-Asset-Deal)
-
-Der ausgefüllte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures GmbH steht als ausgefüllte Übungsvorlage zum Direkt-Download bereit:
-
-> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
->
-> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
-
-| Format | Direkt-Download |
-| --- | --- |
-| **Word (DOCX, Times New Roman, 12 pt)** | [asset-purchase-agreement-chaincortex-voracis.docx](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/docx/asset-purchase-agreement-chaincortex-voracis.docx) |
-| **PDF (Times Roman, A4)** | [asset-purchase-agreement-chaincortex-voracis.pdf](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/pdfs/asset-purchase-agreement-chaincortex-voracis.pdf) |
-| Markdown-Volltext (zum Lesen auf GitHub) | [09_asset-purchase-agreement-text.docx](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.docx) |
-| Gesamte Testakte als ZIP | [testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsvorlagen-v1.0.0/testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip) |
-
-Das Template umfasst 11 Paragraphen: Präambel, Vertragsgegenstand mit Datenschutz- und Betriebsübergangsbausteinen, Kaufpreis, Vollzugsvoraussetzungen, Signaturklausel, Haftungsregeln, Compliance-Klausel und Schlussbestimmungen plus Anlagen. Vor Verwendung im Mandat: Anpassung an konkrete Parteien, IP-Liste, Arbeitnehmerübergang, Kundendaten und Kaufpreis erforderlich.
-
-## Enthaltene Skills
-
-| Skill | Zweck |
-|---|---|
-| `zahlungsunfaehigkeit-pruefung-17-inso` | Prüfung der Zahlungsunfähigkeit gem. § 17 InsO anhand BGH-Liquiditätsstatus (10%-/3-Wochen-Schwelle) |
-| `ueberschuldung-pruefung-19-inso` | Zweistufige Überschuldungsprüfung gem. § 19 InsO: Fortbestehensprognose + insolvenzrechtlicher Überschuldungsstatus |
-| `liquiditaetsvorschau-insolvenzrechtlich` | Rollierende 13-/26-/52-Wochen-Liquiditätsvorschau mit Ampel als Beweismittel für § 17 InsO und Fortbestehensprognose § 19 InsO; Excel-Export |
-| `antragspflicht-15a-inso` | Höchstfrist nach § 15a InsO, Haftung bei Insolvenzverschleppung, Schutz Geschäftsführer/Vorstand |
-| `glaeubigerantrag-pruefung` | Prüfung Zulässigkeit/Begründetheit eines Gläubigerantrags (§ 14 InsO), Glaubhaftmachung Forderung + Eröffnungsgrund |
-
-## Abgrenzung zu den Schwester-Plugins
-
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Dieses Plugin `insolvenzrecht` ist **gerichtsfähig-formal** ausgerichtet: Es liefert die rechtlichen Subsumtionsbausteine und Beweismittel, wenn die Krise bereits eingetreten ist — Zeitpunkt der Zahlungsunfähigkeit, Überschuldungsstatus zum Stichtag, Antragspflichtfrist, Haftung Geschäftsleiter.
-
-## Rechtlicher Rahmen (übergreifend)
-
-- **InsO**: §§ 14, 15, 15a, 16, 17, 18, 19, 130, 131, 133, 142
-- **StaRUG**: §§ 29 ff. (Restrukturierungsverfahren), § 102 (Hinweispflicht)
-- **GmbHG**: § 64 a.F. (ersetzt durch § 15b InsO), § 30 (Auszahlungsverbot)
-- AktG: Paragraf 92 Absatz 1 (Einberufung und Anzeige bei Verlust der Hälfte des Grundkapitals), Paragraf 93 (Sorgfaltspflicht); Paragraf 92 Absatz 2 ist weggefallen.
-- **HGB**: § 252 Abs. 1 Nr. 2 (going concern)
-- **StGB**: §§ 283–283d (Bankrott, Verletzung der Buchführungspflicht), § 266a (Vorenthalten Arbeitsentgelt)
-
-## Quellenregel
-
-Punktuell amtlich geprüft am 16.10.2026: [Paragraf 92 AktG](https://www.gesetze-im-internet.de/aktg/__92.html) trennt die Verlustanzeige nach Absatz 1 vom weggefallenen Absatz 2. Die Antragspflicht ist eigenständig nach [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html) zu prüfen; dessen Höchstfristen beseitigen das Gebot eines Antrags ohne schuldhaftes Zögern nicht. Keine neue Vollprüfung der übrigen insolvenz- und steuerrechtlichen Quellen.
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Lizenz
-
-Doppellizenziert unter Apache License, Version 2.0 ODER MIT License, nach Wahl der Nutzerin / des Nutzers (`SPDX-License-Identifier: Apache-2.0 OR MIT`). Siehe `LICENSE`, `LICENSE-APACHE`, `LICENSE-MIT` und `NOTICE` im Repository-Wurzelverzeichnis.
-
-<!-- BEGIN FACHMODULE-NAVIGATION -->
-
-Das Plugin bietet **13 auswählbare Skills**. Die **99 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
-
-<!-- END FACHMODULE-NAVIGATION -->
-
-<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
-
-## Orientierung nach Arbeitslogik
-
-Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Ein Klick auf einen Skill lädt seine Markdown-Datei; die alphabetische Komplettliste bleibt darunter erhalten.
-
-English: Skills are grouped by typical work phase. Clicking a skill downloads its Markdown file; the complete alphabetical list remains below.
-
-| Arbeitsphase | Typische Skills |
-| --- | --- |
-| 1. Auftrag und bewährte Fachwerkzeuge | [`einstieg-routing`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/einstieg-routing/SKILL.md), [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/juristischer-argumentationskern/SKILL.md), [`liquiditaetsvorschau-insolvenzrechtlich`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md), [`opos-titelabgleich-dreiwochen-liquiditaetsbruecke`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/opos-titelabgleich-dreiwochen-liquiditaetsbruecke/SKILL.md), [`workflow-kaltstart-und-routing`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/workflow-kaltstart-und-routing/SKILL.md) |
-| 2. Krisenprüfung, Antrag und Eröffnung | [`krisenpruefung-antrag-eroeffnung-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/krisenpruefung-antrag-eroeffnung-bearbeiten/SKILL.md) |
-| 3. Forderungen, Tabelle und Sicherheiten | [`forderungen-tabelle-sicherheiten-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/forderungen-tabelle-sicherheiten-bearbeiten/SKILL.md) |
-| 4. Masse, Verwertung und Personal | [`masse-verwertung-personal-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/masse-verwertung-personal-bearbeiten/SKILL.md) |
-| 5. Anfechtung und Organhaftung | [`anfechtung-organhaftung-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/anfechtung-organhaftung-bearbeiten/SKILL.md) |
-| 6. Sanierung, Plan und Steuerfolgen | [`sanierung-plan-steuerfolgen-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/sanierung-plan-steuerfolgen-bearbeiten/SKILL.md) |
-| 7. Internationales und Konzerninsolvenz | [`international-konzern-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/international-konzern-bearbeiten/SKILL.md) |
-| 8. Verbraucherinsolvenz und Neustart | [`verbraucher-restschuldbefreiung-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/verbraucher-restschuldbefreiung-bearbeiten/SKILL.md) |
-| 9. Verfahrenssteuerung und Gläubigerkommunikation | [`verfahrenssteuerung-glaeubigerkommunikation-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/verfahrenssteuerung-glaeubigerkommunikation-bearbeiten/SKILL.md) |
-
-<!-- END SKILLS-LOGIC (auto-generated) -->
-
-<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
-
-## Alle Skills im Überblick
-
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
-
-English: Complete list of all 13 skills in this plugin. Both links in each row download the unchanged `SKILL.md` content as a Markdown file with a unique plugin-and-skill filename.
-
-| Skill | Beschreibung | Markdown-Download |
-| --- | --- | --- |
-| [`anfechtung-organhaftung-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/anfechtung-organhaftung-bearbeiten/SKILL.md) | Insolvenzrechtliche Mandatsbearbeitung: Zahlungsströme, Anfechtungstatbestände, Gegenargumente und Organhaftung bis zur Anspruchsdurchsetzung prüfen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/anfechtung-organhaftung-bearbeiten/SKILL.md) |
-| [`einstieg-routing`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/einstieg-routing/SKILL.md) | Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzrecht. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/einstieg-routing/SKILL.md) |
-| [`forderungen-tabelle-sicherheiten-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/forderungen-tabelle-sicherheiten-bearbeiten/SKILL.md) | Insolvenzrechtliche Mandatsbearbeitung: Insolvenzforderungen, Rang, Bestreiten, Absonderung und Tabellenfeststellung aus Forderungsgrund und Belegen bearbeiten. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/forderungen-tabelle-sicherheiten-bearbeiten/SKILL.md) |
-| [`international-konzern-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/international-konzern-bearbeiten/SKILL.md) | Insolvenzrechtliche Mandatsbearbeitung: Grenzüberschreitende Zuständigkeit, Anerkennung, Registervollzug und Konzernkoordination prüfen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/international-konzern-bearbeiten/SKILL.md) |
-| [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/juristischer-argumentationskern/SKILL.md) | Insolvenzrechtlichen Auftrag vom Status zum Antrag oder Anspruch führen. Wertet vorhandene Unterlagen aus, entscheidet die fachlichen Weichen und liefert vollständig begründeten Antrag, Statusvermerk oder Anspruchsentwurf mit bestimmtem... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/juristischer-argumentationskern/SKILL.md) |
-| [`krisenpruefung-antrag-eroeffnung-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/krisenpruefung-antrag-eroeffnung-bearbeiten/SKILL.md) | Insolvenzrechtliche Mandatsbearbeitung: Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Eröffnungsweg anhand belegter Finanz- und Verfahrensdaten prüfen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/krisenpruefung-antrag-eroeffnung-bearbeiten/SKILL.md) |
-| [`liquiditaetsvorschau-insolvenzrechtlich`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md) | Für Liquiditätsvorschau als insolvenzrechtliches Beweismittel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md) |
-| [`masse-verwertung-personal-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/masse-verwertung-personal-bearbeiten/SKILL.md) | Insolvenzrechtliche Mandatsbearbeitung: Vermögen sichern, Verträge und Arbeitnehmerfragen abwickeln und Masseunzulänglichkeit sowie Verwertung beurteilen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/masse-verwertung-personal-bearbeiten/SKILL.md) |
-| [`opos-titelabgleich-dreiwochen-liquiditaetsbruecke`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/opos-titelabgleich-dreiwochen-liquiditaetsbruecke/SKILL.md) | Überführt offene Posten, streitige Vollstreckungstitel und Bankbewegungen in eine abgestimmte Dreiwochen-Liquiditätsbrücke mit neuen Fälligkeiten. Für widersprüchliche Krisendaten und konkrete Statuskorrekturen, nicht für Insolvenzplan o... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/opos-titelabgleich-dreiwochen-liquiditaetsbruecke/SKILL.md) |
-| [`sanierung-plan-steuerfolgen-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/sanierung-plan-steuerfolgen-bearbeiten/SKILL.md) | Insolvenzrechtliche Mandatsbearbeitung: Sanierungsinstrument, Planinhalt, Eigenverwaltung und steuerliche Folgen aus integrierter Planung entwickeln. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/sanierung-plan-steuerfolgen-bearbeiten/SKILL.md) |
-| [`verbraucher-restschuldbefreiung-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/verbraucher-restschuldbefreiung-bearbeiten/SKILL.md) | Insolvenzrechtliche Mandatsbearbeitung: Schuldenbereinigung, Restschuldbefreiung, Obliegenheiten und Auskunfteidaten in der natürlichen Personeninsolvenz bearbeiten. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/verbraucher-restschuldbefreiung-bearbeiten/SKILL.md) |
-| [`verfahrenssteuerung-glaeubigerkommunikation-bearbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/verfahrenssteuerung-glaeubigerkommunikation-bearbeiten/SKILL.md) | Insolvenzrechtliche Mandatsbearbeitung: Verfahrensakte, Gläubigerausschuss, Fristen, Quellen und Kommunikation des Insolvenzmandats führen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/verfahrenssteuerung-glaeubigerkommunikation-bearbeiten/SKILL.md) |
-| [`workflow-kaltstart-und-routing`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/workflow-kaltstart-und-routing/SKILL.md) | Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzrecht. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/workflow-kaltstart-und-routing/SKILL.md) |
-
-<!-- END SKILLS-OVERVIEW (auto-generated) -->
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

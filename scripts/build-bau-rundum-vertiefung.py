@@ -292,7 +292,7 @@ def metadata(folder,c):
 
 Plugin: `bauwirtschaft-fortgeschrittene`. Fallkennung: `{c['slug']}`.
 Genau ein Ablauf aus Insert 2 des bereitgestellten Seminar-Inserts ist dieser Akte zugeordnet.
-{len(c['pieces']) + len(supplements)} eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
+{len(c['pieces']) + len(supplements)} eigenständige Originalunterlagen. Die Fallseite verlinkt Originalformat-ZIP, Einzel-PDF-ZIP und Gesamt-PDF.
 
 ## 1.2. Herkunft
 

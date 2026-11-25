@@ -37,7 +37,7 @@ Bauzeitforderung mit vereinbartem Ablauf, tatsächlichen Vorgängen, zwei überl
 
 Plugin: `bauwirtschaft-fortgeschrittene`. Fallkennung: `bau-rundum-bauzeit-claim-minden`.
 Genau ein Ablauf aus Insert 2 des bereitgestellten Seminar-Inserts ist dieser Akte zugeordnet.
-22 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
+22 eigenständige Originalunterlagen. Die Fallseite verlinkt Originalformat-ZIP, Einzel-PDF-ZIP und Gesamt-PDF.
 
 <!-- decimal-anchor --> <a id="herkunft"></a>
 

@@ -2,7 +2,7 @@
   "name": "lobbyregister-bundestag",
   "displayName": "Lobbyregister Bundestag",
   "version": "445.36.9",
-  "description": "Lobbyregister-Bundestag-Superplugin mit neun aktiven Skills und erhaltenen Fachmodulen für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstoessen und Fristen nach LobbyRG.",
+  "description": "Neun Skills für das Lobbyregister des Bundestages. Sie begleiten die Prüfung von Registrierungspflicht und Ausnahmen, Registereintrag und Finanzdaten, Regelungsvorhaben und Stellungnahmen sowie Fristen, Verhaltenskodex und Meldung von Verstößen nach dem LobbyRG.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",

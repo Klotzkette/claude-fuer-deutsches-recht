@@ -9,7 +9,7 @@
 
 Kompakte Vertragswerkstatt für einzelne Geschäfte zwischen Unternehmen. Zehn Skills erstellen Verträge, Klauseln und Nachträge bis zur abgestimmten Endfassung.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -60,7 +60,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`vertragserstellung-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vertragserstellung/vertragserstellung-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [7 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -110,13 +110,13 @@ Eine eigenständig geschriebene deutsche Vertragswerkstatt für mittelständisch
 
 An independently written German drafting workshop for SME supply, maintenance and manageable project transactions. The main skill drafts the document itself, deepens only the issue that needs attention and incorporates answers into the same version.
 
-Das bestehende [corporate-contract-law](../corporate-contract-law/README.md) bietet zwanzig vertiefte Fachwege für breitere Vertragsarbeit, insbesondere komplexe Rahmen-, Vertriebs- und Auslandsthemen. Diese kompakte Werkstatt ergänzt diesen Bestand, ohne dessen Texte umzubenennen oder seine gesamte fachliche Breite zu beanspruchen.
+Das Plugin [corporate-contract-law](../corporate-contract-law/README.md) bietet zwanzig vertiefte Fachwege für breitere Vertragsarbeit, insbesondere komplexe Rahmen-, Vertriebs- und Auslandsthemen.
 
-The existing corporate-contract-law plugin offers twenty specialist routes for broader work, particularly complex framework, distribution and international matters. This compact workshop complements it without renaming its texts or claiming the same breadth.
+The corporate-contract-law plugin offers twenty specialist routes for broader work, particularly complex framework, distribution and international matters.
 
-Die neuen Akten zu GbR, Softwarelizenz, Catering-UG und Ladenkooperation beginnen mit unaufgeräumter Mandantenkorrespondenz. Ein vorhandener Entwurf ist dabei nicht automatisch die gewünschte oder vereinbarte Fassung. Für GbR und UG die [Gesellschaftsgründung](../gesellschaftsgruender/README.md), für die Rechtekette der Software den [Lizenzvertragsersteller](../lizenzvertragsersteller/README.md) hinzunehmen. Die Vertragswerkstatt ersetzt weder gesellschaftsrechtliche Vertiefung noch notarielle Form.
+Die Akten zu GbR, Softwarelizenz, Catering-UG und Ladenkooperation beginnen mit unaufgeräumter Mandantenkorrespondenz. Ein vorhandener Entwurf ist dabei nicht automatisch die gewünschte oder vereinbarte Fassung. Für GbR und UG die [Gesellschaftsgründung](../gesellschaftsgruender/README.md), für die Rechtekette der Software den [Lizenzvertragsersteller](../lizenzvertragsersteller/README.md) hinzunehmen. Die Vertragswerkstatt ersetzt weder gesellschaftsrechtliche Vertiefung noch notarielle Form.
 
-The new partnership, software licence, catering company and shop-collaboration files start with ordinary client correspondence. An existing draft is not necessarily agreed or suitable. Use the formation or licensing specialist for those aspects; this compact workshop does not replace notarial requirements.
+The partnership, software licence, catering company and shop-collaboration files start with ordinary client correspondence. An existing draft is not necessarily agreed or suitable. Use the formation or licensing specialist for those aspects; this compact workshop does not replace notarial requirements.
 
 | Skill: direkter Markdown-Download / Direct Download | Ergebnis / Result |
 | --- | --- |
@@ -151,9 +151,9 @@ Without materials, clarify the represented side, transaction, performance, price
 
 ## 1.9. Sieben Akten / Seven Practice Files
 
-Aachen und Augsburg sind wiederverwendeter Bestand aus `corporate-contract-law`, keine neu erfundenen Akten. Aachen dient abgegrenzten Bestell-, Preis- und Anlagenfragen, nicht einer vollständigen Neuarchitektur des Lieferrahmens. Augsburg behandelt Projektleistung, Mitwirkung und Nachträge. Die Kasselakte zum Wartungsvertrag einer Druckerei umfasst 26 Quellen. Hinzu kommen die vier neuen Mandate in Leipzig, Bremen, Regensburg und Freiburg mit jeweils zwölf Quellen. Alle Akten liegen zentral unter `testakten/`, nicht im Plugin.
+Die Akten Aachen und Augsburg werden auch im Plugin `corporate-contract-law` verwendet. Aachen dient abgegrenzten Bestell-, Preis- und Anlagenfragen, nicht einer vollständigen Neuarchitektur des Lieferrahmens. Augsburg behandelt Projektleistung, Mitwirkung und Nachträge. Die Kasselakte zum Wartungsvertrag einer Druckerei umfasst 26 Quellen. Für die Mandate in Leipzig, Bremen, Regensburg und Freiburg liegen jeweils zwölf Quellen vor. Alle Akten liegen zentral unter `testakten/`, nicht im Plugin.
 
-Aachen and Augsburg reuse existing corporate-contract-law materials. Aachen supports focused order, price and document questions rather than a full framework redesign. Augsburg addresses project performance, cooperation and amendments. Kassel contains 26 sources; the four new engagements in Leipzig, Bremen, Regensburg and Freiburg each contain twelve. All files belong to the central practice collection, not the plugin.
+The Aachen and Augsburg files are also used in the corporate-contract-law plugin. Aachen supports focused order, price and document questions rather than a full framework redesign. Augsburg addresses project performance, cooperation and amendments. Kassel contains 26 sources; the four engagements in Leipzig, Bremen, Regensburg and Freiburg each contain twelve. All files belong to the central practice collection, not the plugin.
 
 Alle drei Downloadvarianten für sämtliche sieben Akten stehen in der [vollständigen Tabelle oben](#zugeordnete-testakten): Gesamt-PDF zum Lesen, Originalformat-ZIP für bearbeitbare Unterlagen und Einzel-PDF-ZIP für getrennte Dokumente. Die [zentrale Aktenübersicht](../testakten/README.md) bietet die weitere Navigation.
 

@@ -147,5 +147,48 @@ class PreservationTests(unittest.TestCase):
         self.assertTrue(any(name in e and "verändert" in e for e in self.check()))
 
 
+class ConsolidationEditionTests(unittest.TestCase):
+    def test_reviewed_skill_restores_original_and_rejects_edits_and_rollback(self):
+        from consolidation_editions import previous, register, sha
+        root = Path(__file__).resolve().parents[1]
+        name = "insolvenzforderungen-checker/skills/forderungen-pruefen-und-tabelle-vorbereiten/SKILL.md"
+        current = (root / name).read_bytes()
+        original = previous(root, name, current)
+        self.assertEqual(sha(original), register(root)["edition"][name]["before_sha256"])
+        for changed in (current + b" ", original):
+            with self.subTest(rollback=changed == original), self.assertRaises(ValueError):
+                previous(root, name, changed)
+
+    def test_preceding_pdf_cannot_roll_back_to_its_valid_november_15_blob(self):
+        from consolidation_editions import archived, register
+        root = Path(__file__).resolve().parents[1]
+        proof = register(root)
+        name = "testakten/krankenhausrecht-md-intensivabrechnung-halle/gesamt-pdf/krankenhausrecht-md-intensivabrechnung-halle_gesamt.pdf"
+        original = archived(root, proof, proof["preceding"][name]["before_sha256"])
+        expected = V["content_blob"](original)
+        args = (expected, root, name, proof["preceding_commit"])
+        self.assertTrue(V["same_stored_blob"](root / name, *args))
+        with tempfile.TemporaryDirectory() as tmp:
+            replaced = Path(tmp) / "gesamt.pdf"
+            replaced.write_bytes(original)
+            self.assertFalse(V["same_stored_blob"](replaced, *args))
+
+    def test_archived_case_fails_when_the_pinned_register_or_archive_is_replaced(self):
+        from consolidation_editions import PROOF, archived, register
+        root = Path(__file__).resolve().parents[1]
+        proof = register(root)
+        name = "testakten/README.md"
+        key = proof["preceding"][name]["before_sha256"]
+        with tempfile.TemporaryDirectory() as tmp:
+            directory = Path(tmp) / PROOF
+            directory.mkdir(parents=True)
+            (directory / "bestand.json").write_text("{}")
+            with self.assertRaises(ValueError):
+                register(Path(tmp))
+            (directory / "vorfassungen.zip").write_bytes(b"ersetzt")
+            with self.assertRaises(ValueError):
+                archived(Path(tmp), proof, key)
+
+
 if __name__ == "__main__":
     unittest.main()

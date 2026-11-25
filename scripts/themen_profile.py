@@ -57,6 +57,36 @@ PROFILE: tuple[ThemenProfil, ...] = (
         ),
     ),
     ThemenProfil(
+        key="betriebsvereinbarungen",
+        label="Betriebsvereinbarungen",
+        rolle="Betriebsrat oder Arbeitgeber bei der Verhandlung und Umsetzung einer Betriebsvereinbarung unterstützen.",
+        normen=(
+            "BetrVG Paragrafen 50 und 58: Für die konkrete Angelegenheit die Zuständigkeit von Betriebsrat, Gesamtbetriebsrat oder Konzernbetriebsrat bestimmen.",
+            "BetrVG Paragraf 77 Absatz 2 und 3: Abschlussform und Tarifsperre bei jeder betroffenen Regelung prüfen.",
+            "BetrVG Paragraf 87 Absatz 1 Nummer 6: Technische Einrichtungen anhand ihrer tatsächlichen Funktionen und der objektiven Eignung zur Überwachung prüfen.",
+            "BetrVG Paragraf 80 Absatz 3: Sachverständigenbedarf, Aufgabenbereich und Vereinbarung über die Hinzuziehung klären.",
+        ),
+        entscheidungen=(
+            "BAG, Beschluss vom 13.12.2016 – 1 ABR 7/15: Besucherbeiträge auf einer betrieblichen Facebook-Seite konnten eine technische Überwachung ermöglichen. Bei anderen Systemen sind deren konkrete Funktionen und Zugriffe zu ermitteln.",
+        ),
+        stationen=(
+            "Mandat, zuständiges Gremium, betroffene Beschäftigte und tarifliche Vorgaben feststellen.",
+            "Anhand von Einstellungen, Berichten und Berechtigungen klären, welche Funktionen tatsächlich zum Einsatz kommen.",
+            "Geltungsbereich, Zugriffsrechte, Kontrollrechte, Löschung und den Umgang mit Änderungen als Vertragsklauseln formulieren.",
+            "Offene Punkte und Gegenforderungen mit Verhandlungsstand und konkretem Beschlussauftrag vorlegen.",
+        ),
+        pruefraster=(
+            "Welcher Regelungsgegenstand unterliegt welchem Beteiligungsrecht?",
+            "Welche Stelle kann aus einem Bericht auf einzelne Beschäftigte schließen?",
+            "Welche Beschränkung lässt sich vor dem Start praktisch nachprüfen?",
+        ),
+        stop=(
+            "Eine Gesamt- oder Konzernzuständigkeit wird allein mit dem Wunsch nach einer einheitlichen Regelung begründet.",
+            "Ein Herstellerprospekt soll die Prüfung der tatsächlich eingerichteten Berechtigungen und Auswertungen ersetzen.",
+        ),
+        skelette=("Betriebsvereinbarung mit ausformulierten Klauseln, Funktionsanlage und Zuständigkeiten.",),
+    ),
+    ThemenProfil(
         key="arbeits",
         oeffnungssatz="Wenn du das hier öffnest, willst du einen arbeitsrechtlichen Vorgang vom Vertragsschluss bis zur Trennung nach Frist, Form, Beteiligungsrechten und sofortigem Arbeitsprodukt ordnen.",
         label="Arbeitsrecht",
@@ -6199,6 +6229,7 @@ PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "betriebsvereinbarungen": "betriebsvereinbarungen",
     "e-rechnung-werkstatt": "erechnung",
     "eu-sanktionspruefer": "transport_handel",
     "us-sanktionspruefer": "transport_handel",

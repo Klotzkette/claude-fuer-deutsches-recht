@@ -1,0 +1,902 @@
+{
+  "archive_sha256": "c6901522338ada9aba6fbc37e803a6e82c98ec3404b2249a3e62c1f3c74df11e",
+  "baseline_commit": "d8ec1bfd281f0ab56e801fc750d643b40afbb3df",
+  "checkout_attributes": {
+    "path": "vergaberecht-werkstatt/.gitattributes",
+    "sha256": "007194e76b90bdcf7980f80b15addb1b38b782b5f9df89e40c93d9761c8fed5e"
+  },
+  "crlf_checkout": {
+    "vergaberecht-werkstatt/testakten/01-reinigung-grundschule-musterstadt/eml/00_interne_weiterleitung_aktenstand.eml": "284180740b7fb2f00830c6cb00c9140165a7d56ac62393f5a0b30e4894d733de",
+    "vergaberecht-werkstatt/testakten/01-reinigung-grundschule-musterstadt/eml/05_bieterfrage_ruege_antwort.eml": "7e3358345eba6d5bf7e518bf41a4b46517947e8ab2ae4f07d125dd6cb6aaa4ab",
+    "vergaberecht-werkstatt/testakten/01-reinigung-grundschule-musterstadt/eml/07_informationsschreiben_134_gwb.eml": "e90134b8c50e6fc8c8229e64563f23b10761880ca8c4e750c1caa49b4ba99f3e",
+    "vergaberecht-werkstatt/testakten/01-reinigung-grundschule-musterstadt/eml/08_ruege_wertungsdokumentation.eml": "f1d9697baf26253580a99e4ea6cafd247300a029e928174463075fdc2fa7a04f",
+    "vergaberecht-werkstatt/testakten/02-laptopbeschaffung-landesamt-musterland/eml/00_interne_weiterleitung_aktenstand.eml": "3cbb0d443c6fd343f8f215e17d983e67d6e86d5b4aab44ca90f3a7cdb8a406d4",
+    "vergaberecht-werkstatt/testakten/02-laptopbeschaffung-landesamt-musterland/eml/04_bieterfrage_markenbezug.eml": "667905f8ede815b69c5935d098b4e259834ecbeb125ae410c9cc240c0598f5ac",
+    "vergaberecht-werkstatt/testakten/02-laptopbeschaffung-landesamt-musterland/eml/06_informationsschreiben_134_gwb.eml": "1b2276f41bfeb37dfe0dc768406b87ccf36c132e8f47bee22ed5614f2141f17f",
+    "vergaberecht-werkstatt/testakten/02-laptopbeschaffung-landesamt-musterland/eml/07_ruege_servicewertung.eml": "d7607864ebf56a9c7912867cccea8c2fbe4a0e1d0dc45940e4b6ff620ada4e18",
+    "vergaberecht-werkstatt/testakten/02-laptopbeschaffung-landesamt-musterland/eml/12_informationsschreiben_134_norddevice.eml": "c12fc4c6eabec2460170e7c9f22427aefb4c3cd5cd4bc86b98e38f92e4cb0446",
+    "vergaberecht-werkstatt/testakten/03-bauleistung-stadthalle-musterstadt/eml/00_interne_weiterleitung_aktenstand.eml": "a0df1a4d3c046e493a577539c431d13c092dbd7086505f3950fa45c24b62a676",
+    "vergaberecht-werkstatt/testakten/03-bauleistung-stadthalle-musterstadt/eml/03_ruegeschreiben_markenbezug.eml": "05a5b23e678f6f37270e1e6ca2c1d4503c2cb0b4dbc7b5898f0509363d22774a",
+    "vergaberecht-werkstatt/testakten/03-bauleistung-stadthalle-musterstadt/eml/12_aenderungsbekanntmachung_lv_freigabe.eml": "bb0e08b19b59b10810593215b00cd847e5f7b51b8a1d84ea6b463e7beaf9590b",
+    "vergaberecht-werkstatt/testakten/04-it-beratung-ministerium-musterland/eml/00_interne_weiterleitung_aktenstand.eml": "7e4f759e59c78fdb2cc8ee95bed01279981620a382f23ba1622e710709f271c4",
+    "vergaberecht-werkstatt/testakten/04-it-beratung-ministerium-musterland/eml/03_ruegeschreiben_sitzkriterium.eml": "fde230200a0f33f479a7594f71b426b6810dd5ed0ed76b56a8b3f4746d9b22b6",
+    "vergaberecht-werkstatt/testakten/05-insolvenz-auftragnehmerwechsel-132-gwb/eml/00_interne_weiterleitung_aktenstand.eml": "048c68be21ac0f4747ec62cebc635ae788bca59164fe4287fd4ef4e677d8794e",
+    "vergaberecht-werkstatt/testakten/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis/eml/00_interne_weiterleitung_aktenstand.eml": "0b52e01e64be413379fa7fa1b85bcc24e412bd7f8e466cc9ee1747c99ad4b827",
+    "vergaberecht-werkstatt/testakten/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis/eml/03_134_schreiben_auswertung.eml": "c9874b438af890e744112598704ffb47005f0a2d8584e49da76c7c8840632f2d",
+    "vergaberecht-werkstatt/testakten/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis/eml/04_ruegeschreiben_konkurrent.eml": "000e5eb54434b2630f32f0e998f5a91c617d5a17af98d7ebdea6d17d4f0d9c29",
+    "vergaberecht-werkstatt/testakten/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis/eml/05_nichtabhilfe_vergabestelle.eml": "cc8822aada8d137a25144f51f6aecc3b3cc97122db63df27aa97b986843fcf12",
+    "vergaberecht-werkstatt/testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/eml/00_interne_weiterleitung_aktenstand.eml": "5aee897856b3acb60862b3c7978e25c10b7268b2b46a9f75fdc8cdf857f9460b",
+    "vergaberecht-werkstatt/testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/eml/01_ausschlussschreiben_vergabestelle.eml": "6527c2e28f239479cdf0fe7f48fff4126e7d41e135f8c91d42617f1af33dc925",
+    "vergaberecht-werkstatt/testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/eml/02_ruege_uebersendung_baehrens.eml": "80127a9c8f737fa6eba02591594ebb640becbbddeda6f5935dccf0fcbfd12004",
+    "vergaberecht-werkstatt/testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/eml/03_beiladungsbeschluss_vk_uebersendung.eml": "436b779795856491b9e03806bc5abb2cc6e46683c5c8358e4049a5215fd5a92a",
+    "vergaberecht-werkstatt/testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/eml/04_ablehnung_vergleich_cybershield.eml": "aadee6b9828ecb6b4a50f0840447baf40559d3bd6d83c533dace13ab1e996641",
+    "vergaberecht-werkstatt/testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/eml/08_ruege_nichtabhilfeschreiben.eml": "3e51984cf798fdcdd1e918b343847c4bea99710d131fd5a9360df73787856e1f",
+    "vergaberecht-werkstatt/testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/eml/13_aufklaerungsanfragen_vk.eml": "8a83f8c07a2e2a3d707d92004568a1f3703a03c427bacdd48018270a7aac8693",
+    "vergaberecht-werkstatt/testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/eml/16_vergleichsannahme_ablehnung_cybershield.eml": "1ba47cdbc1c29e3e1ff11b7df1470e2aa8623db760ae24c2c163eb92bcd72be4"
+  },
+  "edition": {
+    "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/README.md": {
+      "after_sha256": "544a902d2a03a56ff6516c164315c5326194cad0bbfa3123b715c51da681783e",
+      "before_sha256": "468d269ca9a9c26f478955dac644d8edc3d6a5c79a0d9d73854f174ba296fee5"
+    },
+    "arbeitszeugnis-analyse/README.md": {
+      "after_sha256": "0eedb28abb8362bb8bbfe6573eb4ea16780974ce003e84c965bd72e3b8845d9b",
+      "before_sha256": "855db53b935c7e7f8e1920f3f014fa0ed5ff419bc2b524c1aaffbcebb5fe1afe"
+    },
+    "arbeitszeugnispruefer/README.md": {
+      "after_sha256": "80ec45e4ca8602d050e18b584f7006974f6b7cf6a66bb770cddb8835ce0919bd",
+      "before_sha256": "6caecd55e0325da52a31bf4d4e84488da765cc3fad5619815847a38f8e093d3d"
+    },
+    "bautraegervertrag-pruefer/.claude-plugin/plugin.json": {
+      "after_sha256": "b50211a47ab3536b51313737e58b7ff4354bc730d5f1aae936417b293644bcee",
+      "before_sha256": "10bbda155c27927bb425ee829f753d785306d79d1ec4db5fb7f143497daa9596"
+    },
+    "bautraegervertrag-pruefer/README.md": {
+      "after_sha256": "d36d42ae7999d9ed4e8e210332b8a975e30284b6bfc4f93e6edd0f5834ae1763",
+      "before_sha256": "f803968d56313288e1f465b0b18b895a46375da2293574a26097790ffc4889a9"
+    },
+    "bautraegervertragspruefer/README.md": {
+      "after_sha256": "37816a43db3061311f8aca15ab4c0461fbe40aae7ca0e43d52473e738de4299a",
+      "before_sha256": "444ec421bbbffb4af0df3db613f9bbad28ae07eeb2153734481b14086690ec9c"
+    },
+    "bauunternehmer-einkauf/README.md": {
+      "after_sha256": "1dec0740e52ebde4412f3f0a49394f0910545e59c65624275bb402132589a5c0",
+      "before_sha256": "74cfa46fe1bfe628f03cdab79573f88dd252a983f59fc473ba24dd5c01dd1172"
+    },
+    "diesel-schadensersatz/tools/README.md": {
+      "after_sha256": "e4a00bb29493578b7e383eabc827dc622bbcb5cf7f7ed92da817d3e1913b65f4",
+      "before_sha256": "d191f75dbd78081b7fe7efc906263bbcd6dabd5b096474af1e76aacb1da7be92"
+    },
+    "fachanwalt-insolvenz-sanierungsrecht/.claude-plugin/plugin.json": {
+      "after_sha256": "60309cb2bac8fbf8e10bf5691530ad16306e9e2fe59794f58ab5e6a60f28970c",
+      "before_sha256": "eea92db5ba28c1dd4c34c3ed6a53e43ccab8b39c831f40cf4762ed4627d54135"
+    },
+    "fachanwalt-insolvenz-sanierungsrecht/README.md": {
+      "after_sha256": "66cb2378ee6faabd3d33d22d81287cf42a7f2c4d252553df9f9dec7c76c49bcb",
+      "before_sha256": "4346bad1245b297bc3a96c43247c68c3be078a84f5ba92d209fdca5148055d94"
+    },
+    "fachanwalt-insolvenz-sanierungsrecht/skills/juristischer-argumentationskern/SKILL.md": {
+      "after_sha256": "b228a1d104f7b4797ee8dac16735e1cc4ac0e29180bb2052490af7da30e84377",
+      "before_sha256": "036e8b3c5ecaf5b769eab4a0a6055911dbcabe863ba7b0021a12787b9f0317ef"
+    },
+    "fachanwalt-insolvenz-sanierungsrecht/skills/krisenpruefung-antrag-eroeffnung-bearbeiten/SKILL.md": {
+      "after_sha256": "43b7c70b86096aefd36d9de758a59de17d8abbb6a1b87c73f7f10346b7a92219",
+      "before_sha256": "15f735dda0ebbe1a621899dd2308469bfc314c00540964793fe26142dded36ee"
+    },
+    "gesellschafterstreit/README.md": {
+      "after_sha256": "520247fd24b968c35d0f7e1e4c2235fe230755bd83e866176663bc92004fd30f",
+      "before_sha256": "8837f53f9c3e4060d461cc7aa83f3a156ec21999a4861614a5fcb630be7d9986"
+    },
+    "insolvenzforderungen-checker/.claude-plugin/plugin.json": {
+      "after_sha256": "dbd6c36cfc04891ad748cccd4e6018fea6703f308538c3b90eb4fcb60076359f",
+      "before_sha256": "78321206c471b3331c74384c470c036b1373529e462a1139f58933601adb6308"
+    },
+    "insolvenzforderungen-checker/README.md": {
+      "after_sha256": "f130f41614b5275d2c414bdeebd9bb506f0d5ddc9b2c45d27e59100936a1ba2f",
+      "before_sha256": "221dad7ffae16d6bd12fcce448c625dfe1091a19d3c69e8d36807d1c3ff2e969"
+    },
+    "insolvenzforderungen-checker/insolvenzforderungen-checker-schnellstart.md": {
+      "after_sha256": "8176ceaa4e11f7e7b802dfb0f12c05108735767bef69b366f7a8da99daa00af2",
+      "before_sha256": "5583ac2439646d8ab21705291f04df93e7c390dbb15cb428cc8f56ceaaf5a6ea"
+    },
+    "insolvenzforderungen-checker/insolvenzforderungen-checker-schnellstart.txt": {
+      "after_sha256": "8176ceaa4e11f7e7b802dfb0f12c05108735767bef69b366f7a8da99daa00af2",
+      "before_sha256": "5583ac2439646d8ab21705291f04df93e7c390dbb15cb428cc8f56ceaaf5a6ea"
+    },
+    "insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md": {
+      "after_sha256": "987d1caf78c312c195c3695a00ce2a76ffbd617bc3ec120232e7ec5ea6094db9",
+      "before_sha256": "8e20f0c4a3e7408bb78cd6e21102ebee4dfce7335475d4b343c5b72a6dca2a58"
+    },
+    "insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.txt": {
+      "after_sha256": "987d1caf78c312c195c3695a00ce2a76ffbd617bc3ec120232e7ec5ea6094db9",
+      "before_sha256": "8e20f0c4a3e7408bb78cd6e21102ebee4dfce7335475d4b343c5b72a6dca2a58"
+    },
+    "insolvenzforderungen-checker/skills/forderungen-pruefen-und-tabelle-vorbereiten/SKILL.md": {
+      "after_sha256": "d1c60cb8355536c5e1453f9ab73294d1da58c7a8d6a99b0cd807c7f898734962",
+      "before_sha256": "3e881b63366e0c2eb43115e3f22015d4100bf71b87185916f11cd232769ca31c"
+    },
+    "insolvenzforderungsanmeldungspruefung/README.md": {
+      "after_sha256": "83d39177523aeeaa1efcf291f4a508b11c55f19793add5984b7dde6af753d6e6",
+      "before_sha256": "7f0f27a912cce70a314fa68e2e1bfd0879f0431d6b55841674f38cf3fdfd3f45"
+    },
+    "insolvenzrecht/README.md": {
+      "after_sha256": "8d3d7e5e73eba814ce42b0d49a43df90fa7586539e0eb301424279a44ec1707e",
+      "before_sha256": "f924ff14d43a7b96970043482dede2462bdf33d6fe22e5c01432293a6e3b9dcf"
+    },
+    "scripts/data/skill-cap-registry.json": {
+      "after_sha256": "3b3e22bbb13a5737ea0a3786a20d7468b32a31eafee58ebeaf5e2933334e2fff",
+      "before_sha256": "f7a2de37129bca557a1df3d696a7a541d3258e3313022b8836bfaf3598beebac"
+    },
+    "sozialversicherungspflicht-pruefer/README.md": {
+      "after_sha256": "9b9e50ed5c7f32b9a7a5738fee9ac388ce5bc9806aa3ee333b6dda28f913fa25",
+      "before_sha256": "a22724592e69da96c0dba7364d0231fa806dd2a0edaebde4e8b45d21300ea3c1"
+    },
+    "testakten/README.md": {
+      "after_sha256": "b0dcdceb3592edc416a1e07600f2eb4511fc4818026c6707e4419d1ee6a58830",
+      "before_sha256": "a04ad722b96ddfb751b98ddbd2364f289857e1268f8a070938f0e1d403e8a28a"
+    },
+    "testakten/akha-fiktives-verletzungsrisiko/README.md": {
+      "after_sha256": "b93094012fdd9009aae4639a82ca927fbf74f7ab317893f79d601fe4b6bde133",
+      "before_sha256": "ccf2b44238a154573721db503a007a563a8752ad6182d406655da2f2bb3496a4"
+    },
+    "testakten/akha-wuerzburg-abwasseranlage/README.md": {
+      "after_sha256": "2727dec1d8717b81391bca8814c7323f3c33d6aa1d5f5fb76120838faf621ca1",
+      "before_sha256": "05f0c8837a479ca6d0cb973974ee58461c8b4d73fc56e2052253d4adfbd48da2"
+    },
+    "testakten/akha-wuerzburg-antragsbearbeitung/README.md": {
+      "after_sha256": "179cbd43c7dfa041290e74b4abaadfb841a27d95597ecd6a6782782f2c35411d",
+      "before_sha256": "870a052cac52b2fa274c4630477f496a927bb1761aacc4130665beb2d792188d"
+    },
+    "testakten/akha-wuerzburg-baugenehmigung/README.md": {
+      "after_sha256": "5b5e507ec2fd4ea10d57daea51952d0000f557a414ce5ffc1d1681f449f1301a",
+      "before_sha256": "e7a441c8173acff60341c2c18ba6a4bb307043ba57d39569f0f2e2c4015ec4f8"
+    },
+    "testakten/akha-wuerzburg-baumpflege/README.md": {
+      "after_sha256": "5c0e29ef7515e2d8e9077b2721e1d318574cd06b3c6d0d9277635715de170055",
+      "before_sha256": "0ab37eb480847c0fdabfdfdc8907ee2b0033149c73cd47569af9d87acf410fc4"
+    },
+    "testakten/akha-wuerzburg-betriebsfahrzeug/README.md": {
+      "after_sha256": "d078b29a9e8deb412260e1bbb4f9abbdfd0a1b4e3e7e67f5de9ca746020ce883",
+      "before_sha256": "48b06ccb050f3933596726f45e02feef60ee8013a6e2ca00b6a60f08e8cf383c"
+    },
+    "testakten/akha-wuerzburg-fahrzeugschaden/README.md": {
+      "after_sha256": "f68f293be1975ade851338ed9916c02bf81096b01eaef4908579607c241ea041",
+      "before_sha256": "7ec8de32fcb1da4c313846ed854216e2e546c6644877441490b16076a385934f"
+    },
+    "testakten/akha-wuerzburg-feuerwehreinsatz/README.md": {
+      "after_sha256": "3fdd4436acd5aff9d4c06039cf86c5364dcb17af2a99416d3ebcebb908ea08d7",
+      "before_sha256": "02ed0ee7e2d71a45e1f048a4eabbc5bdffd879a910beb9cc85cc30ecd431ec27"
+    },
+    "testakten/akha-wuerzburg-geburtsschaden/README.md": {
+      "after_sha256": "1e85c12ae71245e423dd5458528ed4f12396367dad8c87571d0ce797378e1a50",
+      "before_sha256": "8b08f8984a92d024abef3ad8851d782d52838f7e8bc216c610bff2a351e3a4ce"
+    },
+    "testakten/akha-wuerzburg-glatteis/README.md": {
+      "after_sha256": "3a7c341fb54a0881ae0a087c148878959b484be1058282d92555f1173cc98c06",
+      "before_sha256": "bb552498951c194625f255855c8fdb0544337b13531d22cce04a2d1605fca50e"
+    },
+    "testakten/akha-wuerzburg-kitaplatz/README.md": {
+      "after_sha256": "12dfa9b32a8b39e6a7bbc309d2fc46aa794fca7ebbd745e38e1e0f9c115c3960",
+      "before_sha256": "87c4a4b5f018de1f055adf3263f9563d1fc5256bec07e88a3d72d87c34d48e06"
+    },
+    "testakten/akha-wuerzburg-kreisstrassenbaum/README.md": {
+      "after_sha256": "48a6457bd59f754f505299477fea439e721417593f684f08b078f3495ea1295c",
+      "before_sha256": "e2a0d11d4ab6037eace3b85ce9ad72c9fe30620c9bab1c4393070d48b9a3add7"
+    },
+    "testakten/akha-wuerzburg-rohrbruch/README.md": {
+      "after_sha256": "585132ec2849e32a0d8763e39de3c38580e724dddec39c26dbdf31a725c61912",
+      "before_sha256": "c7b89d7c613ff4d93f7e833e34c1e838371d745c5bfb80c93f316ff1c5fd498b"
+    },
+    "testakten/akha-wuerzburg-schlagloch/README.md": {
+      "after_sha256": "1cd12a3fd623db328dd9ba769067d8de9deeeff232c2afb959ae0d77aef7f5e0",
+      "before_sha256": "cb3235221a2ad680fe16a5d59382fb2d8a3646ab09cf54547deba243177b9b05"
+    },
+    "testakten/akha-wuerzburg-schwimmbad/README.md": {
+      "after_sha256": "788b0dba29a3b7223f2012f571c0c7a06d1d3b93dff49910704a72180aa62790",
+      "before_sha256": "058454cff095e272bcf373372c101bb48c666da63c401941659de71efe67459f"
+    },
+    "testakten/anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler/README.md": {
+      "after_sha256": "ccb8a59d00693cc3c50ec08cf2f76320ce27330d21615746f57dabd3c21010af",
+      "before_sha256": "d2fd8660cdbaee8f310ba07679fcf960990df80eb57feeda40e56a0208f077b8"
+    },
+    "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/README.md": {
+      "after_sha256": "5a3e18f5f6cb9eea77a03c428ffaab5a173f1b332451c64ba1a0981051af9d9c",
+      "before_sha256": "6c1932a80de57514a4e34a2b7c111f9d6c2a12f5152368d751235489216dc4c8"
+    },
+    "testakten/arbeitsrecht-kuendigungsdrama-koerber-werk/README.md": {
+      "after_sha256": "a5aa65f60c3e71913fd8f0242c634830d411b62a0cbf7e13a063b208ecb66570",
+      "before_sha256": "ccce41209d5137eb55174e4947e3f3e2cff46e2555eaa923c1b66f878848d8e5"
+    },
+    "testakten/arbeitsrecht-muster-seewerk-lebensakte-radolfzell/README.md": {
+      "after_sha256": "df2903dadad98b5aa8d378871ff7a5438a43b31c727a87433910f3063fbb0697",
+      "before_sha256": "1ebf043a545d5e9cf67b005384aa2041f8f890a7f75a1c907a502c96314581ba"
+    },
+    "testakten/bau-rundum-abschlagsrechnung-lemgo/README.md": {
+      "after_sha256": "8d6194484a7107982e3d2ce74d34126319e4a6bf6b18c9ee9f7116b6aa2d996a",
+      "before_sha256": "2d6eba3b68e922352e5990e2a6a3010767bf0902fbd75319011fbbaedb3b7a2e"
+    },
+    "testakten/bau-rundum-angebotspruefung-goslar/README.md": {
+      "after_sha256": "5fca5968e49e72d2c7afeaefb19f791423bd50e758dae3122e2331cc5898d1ae",
+      "before_sha256": "bfc4ab3563e033f82cebce1cf7b569f054a5435633da95417d994e8016ce7ee4"
+    },
+    "testakten/bau-rundum-bauzeit-claim-minden/README.md": {
+      "after_sha256": "6e85717cb403bd6fadce02f8616c618fd72287d6cb535dd7ca5b3840bea620db",
+      "before_sha256": "3ed9f3a547ba4c43cb231efa6377f1e7d02cfee7b722f1f36c9159b64c2c3545"
+    },
+    "testakten/bau-rundum-nachtrag-northeim/README.md": {
+      "after_sha256": "8dadd30780aef6b514c611aeaf3f7326dcb14fe9de82df17fdca74c171e9179b",
+      "before_sha256": "b9e30e3aba580613949534b6426b51b19476bcf657ec6adf838a6c7335a7c404"
+    },
+    "testakten/bau-rundum-vgv-bewerbung-hameln/README.md": {
+      "after_sha256": "e9a804626cb5dee653616b3de0327f8e23208a191428662cfe83f32c3cbc219a",
+      "before_sha256": "93f3edf1a70e57ee701cb59e18a27aeee6b12c9d29e4f01822f1e734e4f497a7"
+    },
+    "testakten/bauwirtschaft-baumanagement-werkhalle-warendorf/README.md": {
+      "after_sha256": "491d3482ab202168e52ef8e08e347a04ef95e46a5abbc99494eef36ea34b1cf8",
+      "before_sha256": "cf0d16fbe78e6f2777211f63c226afb07b4114070361e82a9cb7ed0467aef9e1"
+    },
+    "testakten/bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen/README.md": {
+      "after_sha256": "3c053f61c0b1e2965247b4bc5d3372618e5a76386d95e96dd3d094e80603715a",
+      "before_sha256": "ea8e79eb4e41e678b9159a48cc06550db26f35db68ff2d70434e7b683172364f"
+    },
+    "testakten/bauwirtschaft-hildesheim-lebensakte/README.md": {
+      "after_sha256": "9c5b85e3d745a733b85193de30da3e54496f48da8e85526ac2907147a9efce27",
+      "before_sha256": "4c5bf30bda0f36dd79b453a5fe8b2f07d16405bf5e7fe7dd4a6a691389da2ec8"
+    },
+    "testakten/bauwirtschaft-hoai-buergerhaus-einbeck/README.md": {
+      "after_sha256": "63bbc05d9b1721734690419d88e1453d069f63d581dec2b361e5af502d3e18ee",
+      "before_sha256": "1f84f059f44f7bf2a5ee97cfe134c0ab4000939b536aa8edbd9793c962d498b1"
+    },
+    "testakten/bauwirtschaft-neubau-achtfamilienhaus-hildesheim/README.md": {
+      "after_sha256": "ee62d67d01f12caafe1fa559b401a59374f0325a9bfe02793fa9184f17128c1b",
+      "before_sha256": "08cd0519ab87776df3856c28abc15d92f29b677c6bd2171556347d5c77866487"
+    },
+    "testakten/bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim/README.md": {
+      "after_sha256": "5fdb8ab86f28fdbc7da37e9544df76926cab305815183d02e348bd31e2209a35",
+      "before_sha256": "259b00d9848bbdb97929c908b5b564930a0154cd68be09113c5151f8b393f41b"
+    },
+    "testakten/betriebskosten-2025-mietshaus-schoeneberg/README.md": {
+      "after_sha256": "64f253b120803111b6be3ae4344419f7f9f4ad1375d3e1f7c3bd6ae0d84cabb6",
+      "before_sha256": "5bcd366be7d60d146cf7a1bf0ce1cc29b1a2b39f82f9248a9c89903defd81185"
+    },
+    "testakten/betriebskosten-2025-weg-schoeneberg/README.md": {
+      "after_sha256": "e4bb248c7bbdf1c70720a6f267a53772794383502fb8d9ccde047ba2e68e1f88",
+      "before_sha256": "3b8391faae94309e73b974f95f6d939249be844ca6796623b30b9ec5a49a9e43"
+    },
+    "testakten/fintech-darlehen-vertragsuebernahme-bremen/README.md": {
+      "after_sha256": "0347401510abf500a34ee6e22e06c2992ca47cbca3aff6afe2673b536c63e3c3",
+      "before_sha256": "8c152998cc833db5c7207a01be29983f748fec1acf33d2a73841857323cef55f"
+    },
+    "testakten/gesellschafterstreit-klageerwiderung-berlin/README.md": {
+      "after_sha256": "7ff2fcd29ca93993d884e33243ef6fe10ebe83daddbf5d06fab03f2bd3ebeb74",
+      "before_sha256": "5348c9041e3b4c53aec66fc4016b2c9784b8e50500a4b09ec4e982a39d70bea1"
+    },
+    "testakten/inkasso-zahlungsklage-modefuchs/README.md": {
+      "after_sha256": "4680d35695742251b1237930ae568cf1707eeee24c8df924d469355c6a609799",
+      "before_sha256": "f4e86d5df619e4a57a74b2aec31722487101b549b5b3e23de7bc6c2090b73067"
+    },
+    "testakten/insolvenzforderungen-pistazienbrezeln-muenchen/README.md": {
+      "after_sha256": "bfec8fe790e40d29c33bbe604b84766aeed802c1a645f6059c337dfd94b1c210",
+      "before_sha256": "ec605104b602aab083c32da44b5ca129aca780a79e20ed97f8899d0e2a5a4dfa"
+    },
+    "testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/README.md": {
+      "after_sha256": "7577c3c98d7de39b4a4bbc3fba1621fd6823333ae6a50242ad5a21921dcb4e9f",
+      "before_sha256": "5be5bc17dfe72fcb47601bb2bf1aa824144de0abad537a1c43dea0647a5a686b"
+    },
+    "testakten/insolvenzverwaltung-nordlicht-handels-kiel/README.md": {
+      "after_sha256": "34ae483174d46f8d19303ac11ff3ec24156b713f43f8fedf0703885db3e83051",
+      "before_sha256": "f980b46514e887dd3f41f135ac0d3cd2024887161b24517d1e0dafa50b840b86"
+    },
+    "testakten/kanzlei-titel-ratenzahlung-muenchen/README.md": {
+      "after_sha256": "f753bac75825372012c617931b9fc5ff296a21f5bd8efd420cafa9d280e58dad",
+      "before_sha256": "a203f312e85d69c6e8581d209be0e1c1c7ffed1d619d4465d748a5fc60d42ebf"
+    },
+    "testakten/kommunale-haftpflicht-personenschaden/README.md": {
+      "after_sha256": "556796bd65387782db168201a7298e974fc9a240b1f6171202789bce59a8208d",
+      "before_sha256": "375d8633ef46cb095f3e2511cdd9aa5bc20fe46ea8958710bd415d7deacc73b2"
+    },
+    "testakten/luftrecht-airline-insolvenz-flugzeugpfand-flughafen/README.md": {
+      "after_sha256": "38e342cb7730521fbc601c49aa67ca45ea6e9fa6d192295ef647b2622d6f02dd",
+      "before_sha256": "30aa1604eda76b7c5524567ec232b6593a81e53a4d8bf35394619323a5e08ea0"
+    },
+    "testakten/lumen-studios-insolvenz-strafverfahren/README.md": {
+      "after_sha256": "81b52b93bc23c4a4a8fc4155ffe362cd9fd4232f26952d0bbeef5bf3b8652f0c",
+      "before_sha256": "48a158870cdb96c92df98354004a7e98d1fda7614b733b835cdefa20942e08d6"
+    },
+    "testakten/rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen/README.md": {
+      "after_sha256": "6174ed901eb85750039974c059a6dc9f31c576cd1b8ae41c44dc09d6130ca99b",
+      "before_sha256": "455d78c884fbe37218f4f5d93b4cce65ecbad7fe57b2d5b2123c29681b169cfe"
+    },
+    "testakten/rentenrecht-riester-zulagenrueckforderung-augsburg/README.md": {
+      "after_sha256": "2c29e201526e2b84d4f41251b0be483ce50cf9d1c593f9356b3d688f2e276516",
+      "before_sha256": "1b878560140428b60c40a75d14cb63830423d7bbca63582541bcb3b38e635dd8"
+    },
+    "testakten/rentenrecht-waisenrente-ausbildung-abbruch-dortmund/README.md": {
+      "after_sha256": "f2bb60fd83ffbc1b32a96e74d1fc52abebd26b845d7b6b49889442fa7a026f8f",
+      "before_sha256": "f258f2d46ced9471d684127bfac256d9aa9559d169cc0aef8f4b0a6521b265de"
+    },
+    "testakten/rentenrecht-witwenrente-einkommensanrechnung-luebeck/README.md": {
+      "after_sha256": "f358a3f2bd69939134c48d3e4ed1ad70154f19f50d525ae333e97c3966ded6d6",
+      "before_sha256": "d6ac0f300f58be281f03f738a8d40923a4cc410170cee00e21ab76f8150b58e2"
+    },
+    "testakten/rueckrufregister-kba/README.md": {
+      "after_sha256": "347ac27288999d64bbe228b301c543181680095dcc2617478e75a5ae5225ec3c",
+      "before_sha256": "d56fda0a859783861570d432c142a67af3bbe17a4bec16a93034f75386492832"
+    },
+    "testakten/startup-gruender-schnittflug-berlin/README.md": {
+      "after_sha256": "0c8933c002eeb5fbaa000be22200570333e53e07f0882a06d5169e6e688066a1",
+      "before_sha256": "94f6553e6c234cb022413713064578a05e37e5e4244944d0572e809653773049"
+    },
+    "testakten/strafrecht-revision-beweisantrag-lg-duisburg/README.md": {
+      "after_sha256": "f636ed16261406674ced82363eb48c829851e93c9ea6762713aa2aab42e0cd98",
+      "before_sha256": "a7a4dc5a5a40f9719b2e3f0c02e1d38eb9face73a77eaf6d567011d65d8a8a36"
+    },
+    "testakten/strassennutzung-poller-lieferzufahrt-lindenhof-muenster/README.md": {
+      "after_sha256": "0976ac111bb462efb55a0a451191eb044429d5892cf3ccbedf1f5a12ea6230ae",
+      "before_sha256": "e64d4156510f26f53b4f38f406e4d2a466eba24748d3ebe59106a81c6a72f785"
+    },
+    "testakten/strassenverkehrsrecht-stvo-schulstrasse-lieferzone/README.md": {
+      "after_sha256": "cf337d0a0626bb0b061739972e86117bdb9752bd164e37dcabfaa215ace5dee5",
+      "before_sha256": "7eabdd921e38ebe90e8085cc9549533765105945cc0e11e016f165546f0dae4c"
+    },
+    "testakten/unfallversicherung-arbeitsunfall-lagerleiter-sturz-trier/README.md": {
+      "after_sha256": "67ed5288676bb2b98eed02461e2277480d3873e76c2674dea2e4c41690f27ce2",
+      "before_sha256": "03042f103f8f717e981a756b0e53cec2352aaaccfd2771cd4d3bde52f00d5bf5"
+    },
+    "testakten/urteilsbau-zivilkammer-leipzig-werklohn-radarwarner-relation-mit-beweiswuerdigung-und-urteil/README.md": {
+      "after_sha256": "b5969b9d268a46a6b76a7a1a50dd0f21d79552053726825e2f91bc806af1e1c1",
+      "before_sha256": "d616fda8ae97ffdd2a79332b299926c52ffc11c6ec08dd5ef333c30cf23ac271"
+    },
+    "wirtschaftsanwalt/README.md": {
+      "after_sha256": "d25adaaa558cc73c0ae51fa50e73cb1cbd81b0fb37f7c96ebd4557a23211837e",
+      "before_sha256": "2b6b73f00b1d7bccd182510ce82b1ec46a885694db3aa57eb5a342b553b6c39f"
+    }
+  },
+  "legacy_files": {
+    "insolvenzforderungsanmeldungspruefung/.claude-plugin/plugin.json": "98e307f48305576775b3fd37a6caf1da2416253c",
+    "insolvenzforderungsanmeldungspruefung/FACHMODULE.md": "dbf6f198c460c10ae599532bd0d7400484ac4263",
+    "insolvenzforderungsanmeldungspruefung/README.md": "ccf86f1518b265978309ac6a8a9ab537886bdc2d",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/beleganforderung-maengelschreiben.md": "fc091f2ddfed39dbd4928200a0afeacc810b3ad0",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/bestreitensvermerk.md": "93f877de2e38646ecc9d71fe5688c74dc7a3c037",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/dublettencheck.md": "99bb8160b1d1492db75c20c155ca01311865705c",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/feststellungsklage-nachlauf.md": "270c8bafb2fee08c17bf29d724c55cc22e00c117",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/feststellungsvermerk.md": "d3c192908fc639fa2905eda36c3b1bfaf789549d",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/forderungsanmeldung-vorpruefung.md": "2fab2078fafb5eb1076c7e4583aa8bb015050c2f",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/intake-register.csv": "074b3541a2b902549c06ed2a3c45225114582782",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/pruefentscheidung.md": "76488192e24291c0c56268a021501b5e36000b2c",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/pruefungsterminmappe.md": "fb27e3aa1fa73ada7043574b609d3375f6396d16",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/pruefvermerk-einzelforderung.md": "e7ecb033ec76b5aa20e20bf491145e8fef4849e5",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/quality-gate.md": "c7910947b796ab7bfc927a8c73b289ec86e51e59",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/rang-und-rechte-matrix.md": "760e5bf0745e76ba89f07025ca8b8683c24b9b1f",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/schuldnerwiderspruch-184.md": "49a2008afcd00a0da8bb9446ec9d59b71890188b",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/tabellenauszug-anschreiben.md": "f246540b5e11d52d8a8786906673adf034ada07c",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/tabellenimport.csv": "c85f24c421456dd4f5fe66b9fbab61bff45c706c",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/vbuh-pruefung.md": "aec939d6d9798caad1ae203dd70b7dabcd030a12",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/verteilung-bestrittene-forderungen-189.md": "6371bc6ecc8edb07e75b1a90403bf116c9c645d5",
+    "insolvenzforderungsanmeldungspruefung/assets/templates/zins-und-betragsrechnung.csv": "767999396ed5e7c183cfffcfc5a261bad5b208f2",
+    "insolvenzforderungsanmeldungspruefung/assets/vorschau/index.html": "64ad074ad2fea1d9f676db5897929c3e9f9600af",
+    "insolvenzforderungsanmeldungspruefung/insolvenzforderungsanmeldungspruefung-schnellstart.md": "1a559a011c9a27ee351c218a5e4dcba0928fba05",
+    "insolvenzforderungsanmeldungspruefung/insolvenzforderungsanmeldungspruefung-werkstatt.md": "c3a3667483755e00b1d45b6bb46be298bbcd2c0a",
+    "insolvenzforderungsanmeldungspruefung/references/amtliche-quellen.md": "565a398992bf27b92ae1c6c09a3ded93eed00f48",
+    "insolvenzforderungsanmeldungspruefung/references/arbeitsoberflaeche-und-visualisierung.md": "749a8f3e79e233a2d7046d16dc7d410ca44839a1",
+    "insolvenzforderungsanmeldungspruefung/references/arbeitsregeln.md": "d3ef6c89e64e78999b617a7528e23d93ea1fb0b1",
+    "insolvenzforderungsanmeldungspruefung/skills/aktenanlage-batchregister/FACHINHALT.md": "2c0fdc44cede3d7fce127f6c76ef98500eefdab0",
+    "insolvenzforderungsanmeldungspruefung/skills/anschluss-routing/FACHINHALT.md": "f6ecc88758225680f33613ce6c2ff0fe7efb3ae1",
+    "insolvenzforderungsanmeldungspruefung/skills/beleg-und-urkundencheck/FACHINHALT.md": "6ecb94994f4ffa2a2b65134647bd6ad66f78db33",
+    "insolvenzforderungsanmeldungspruefung/skills/bestreiten-interessen-betrag/FACHINHALT.md": "73c8d0e91ce7351d2217091ae695fc62f8644cc3",
+    "insolvenzforderungsanmeldungspruefung/skills/bestreiten-mehrparteien-konflikt-und-interessen/FACHINHALT.md": "2ea5c9c74f215f2240d5dac5bbd7edadc951bdf2",
+    "insolvenzforderungsanmeldungspruefung/skills/bestreiten-schuldner-delikt-bearbeiten/SKILL.md": "4d5f9f97863c82a6888aad2a04de0b5570ef82ff",
+    "insolvenzforderungsanmeldungspruefung/skills/betrag-behoerden-gericht-und-registerweg/FACHINHALT.md": "87c323fe5749be4ebc25b7a406b7985c2e737b79",
+    "insolvenzforderungsanmeldungspruefung/skills/dokumente-intake/FACHINHALT.md": "c5b7e3542c3cf38afeb53c575fef4498cc5de84e",
+    "insolvenzforderungsanmeldungspruefung/skills/dubletten-serienforderungen/FACHINHALT.md": "9ee30ab93cb216ece0cc7a24832a097daed215f9",
+    "insolvenzforderungsanmeldungspruefung/skills/eingang-form-belege-bearbeiten/SKILL.md": "f2f353bf3f17844624942577e6496721a9d1ce31",
+    "insolvenzforderungsanmeldungspruefung/skills/einstieg-routing/SKILL.md": "5c859fb9f1bddef3e39d789cd4f139e66d73f47e",
+    "insolvenzforderungsanmeldungspruefung/skills/feststellung-forderungsgrund-rang-grund/FACHINHALT.md": "ee7d4856b494355f077cca32f0e613912f8dbb61",
+    "insolvenzforderungsanmeldungspruefung/skills/forderungsanmeldung-mandantenkommunikation-redteam-qualitygate/FACHINHALT.md": "be25635bcc35b30538847a1c2127aacfd023910b",
+    "insolvenzforderungsanmeldungspruefung/skills/forderungsgrund-rang-und-belegpruefung/FACHINHALT.md": "35df2e361a77ece74efce1e241feca45d889089b",
+    "insolvenzforderungsanmeldungspruefung/skills/formalpruefung-174/FACHINHALT.md": "fe3be1f1f71d53a29906019b0c4328e80eaa65b8",
+    "insolvenzforderungsanmeldungspruefung/skills/grund-betrag-rang-sicherheit-bearbeiten/SKILL.md": "880e39a5f3c32274c55f6178eba6f4c867674ebe",
+    "insolvenzforderungsanmeldungspruefung/skills/grund-betrag-zinsen/FACHINHALT.md": "37a2dc594091a1e200474c0d917ecd069c1364b1",
+    "insolvenzforderungsanmeldungspruefung/skills/grund-risikoampel-und-gegenargumente/FACHINHALT.md": "474e4b8af9f4b5fecae286a2bd740e9a5ac74d0e",
+    "insolvenzforderungsanmeldungspruefung/skills/iap-anmeldepruefung-bauleiter-aussonderung/FACHINHALT.md": "1abcfd5d691364521581f8ce3c03a3375ada6ef0",
+    "insolvenzforderungsanmeldungspruefung/skills/iap-aussonderung-absonderung-spezial/FACHINHALT.md": "fa1a07708178da807256f2597f0520bad1fe5423",
+    "insolvenzforderungsanmeldungspruefung/skills/iap-konzernforderungen-anfechtung-spezial/FACHINHALT.md": "a23af8a502ebce14d057d32e0feb8dc68c007528",
+    "insolvenzforderungsanmeldungspruefung/skills/iap-rangordnung-ifap-aktenanlage-beleg/FACHINHALT.md": "670a883f535c67074fa51c5f4821a92ac9dd1b16",
+    "insolvenzforderungsanmeldungspruefung/skills/inso-forderungsanmeldung-start-chronologie-fristen/FACHINHALT.md": "240726577e938b7eb646d09b226fec794ecfa238",
+    "insolvenzforderungsanmeldungspruefung/skills/inso-forderungsanmeldung-start-chronologie-fristen/references/fachmodule.md": "dd0b9cc43806b58a7ca7b8379d72bbc3d5de8033",
+    "insolvenzforderungsanmeldungspruefung/skills/inso-fristen-form-und-zustaendigkeit/FACHINHALT.md": "c5773baeb11b47f57774460bbb638f159f7fb440",
+    "insolvenzforderungsanmeldungspruefung/skills/insolvenzforderungsanmeldungspruefung-erstpruefung/FACHINHALT.md": "34710e1811b70689c203553cc192761bce491010",
+    "insolvenzforderungsanmeldungspruefung/skills/insolvenzforderungsanmeldungspruefung/FACHINHALT.md": "5e5e24a1492aa5bea8cb465c754ce241e3e24247",
+    "insolvenzforderungsanmeldungspruefung/skills/intake-kanalcheck-masseverbindlichkeit/FACHINHALT.md": "5a8e2d9bdedf310ec50ea68b2cf5173bffd7ef44",
+    "insolvenzforderungsanmeldungspruefung/skills/intake-tatbestand-beweis-und-belege/FACHINHALT.md": "514f2d80dec0c817601d68569264bc7d5e957e94",
+    "insolvenzforderungsanmeldungspruefung/skills/juristischer-argumentationskern/SKILL.md": "1246293b1c4cba708d495aa76b59affb08397c00",
+    "insolvenzforderungsanmeldungspruefung/skills/kanalcheck-beweislast-masseverbindlichkeit/FACHINHALT.md": "de79bc309037d8fcba4cc7612864a86a4e7c24cf",
+    "insolvenzforderungsanmeldungspruefung/skills/masseverbindlichkeit-abgrenzen/FACHINHALT.md": "c350ee4d4115f92aa83c9f2a710b0196e86a15ab",
+    "insolvenzforderungsanmeldungspruefung/skills/masseverbindlichkeit-sonderfall-und-edge-case/FACHINHALT.md": "0bc4e2d5fde30243e8cff8ac22d475081e674fe3",
+    "insolvenzforderungsanmeldungspruefung/skills/nachforderung-maengelschreiben/FACHINHALT.md": "9ba651326986f32ad07fe6a7873e56b6dc4f3112",
+    "insolvenzforderungsanmeldungspruefung/skills/nachforderungen-quellenkarte/FACHINHALT.md": "f8baed0baabdfa0af5ee8689d15089418b40f0ff",
+    "insolvenzforderungsanmeldungspruefung/skills/nachtraegliche-anmeldung-pruefungstermin/FACHINHALT.md": "7cf74b6f4482138171805bcc111c357324419bce",
+    "insolvenzforderungsanmeldungspruefung/skills/output-waehlen/FACHINHALT.md": "0f7857e313d57afff02d5544cec49811f651855e",
+    "insolvenzforderungsanmeldungspruefung/skills/pruefakte-quellen-output-bearbeiten/SKILL.md": "a3aacc67425c5c68edbeda6b61236d31894c11d0",
+    "insolvenzforderungsanmeldungspruefung/skills/pruefentscheidung-vbuh/FACHINHALT.md": "3ac5da3d1b15c7bc5a2cc0a83c0c7955f30d10a6",
+    "insolvenzforderungsanmeldungspruefung/skills/pruefentscheidung/FACHINHALT.md": "757450285e9d2c8ffa776fb0a97e4a777fa0dc3a",
+    "insolvenzforderungsanmeldungspruefung/skills/pruefung-tabelle-verteilung-bearbeiten/SKILL.md": "324f705a5fed49fd893ae22ead73e56b9b82d48d",
+    "insolvenzforderungsanmeldungspruefung/skills/pruefungstermin-176/FACHINHALT.md": "39f05f251da4780a39ec1699ca19ee7af5747c31",
+    "insolvenzforderungsanmeldungspruefung/skills/pruefungstermin-compliance-dokumentation-und-akte/FACHINHALT.md": "b90796ea76f96dafd00a3c72253bf808012d6363",
+    "insolvenzforderungsanmeldungspruefung/skills/pruefungstermin-compliance-dokumentation-und-akte/references/vertiefung-spezial-pruefungstermin-compliance-dokumentation-und-akte.md": "34087bf1222d18d09102c28a8ff3f545bb4abc65",
+    "insolvenzforderungsanmeldungspruefung/skills/quality-gate/FACHINHALT.md": "053b12e32397604c519d1616ef674f71a6b4facc",
+    "insolvenzforderungsanmeldungspruefung/skills/quellen-livecheck/FACHINHALT.md": "27272efd915ef8d2270b5a6c2ebb912248c6c9e1",
+    "insolvenzforderungsanmeldungspruefung/skills/rang-nachrang-schuldnerwiderspruch/FACHINHALT.md": "50c60f0ed6981c71c5217b46e7365f014f162661",
+    "insolvenzforderungsanmeldungspruefung/skills/rang-tabellenauszug-tabellenimport/FACHINHALT.md": "4951711b3c490108c671080d8c79aa29d6454647",
+    "insolvenzforderungsanmeldungspruefung/skills/schuldnerwiderspruch-184/FACHINHALT.md": "0809f38b840226269094c93abb1b65cb6cc3f5d4",
+    "insolvenzforderungsanmeldungspruefung/skills/spezial-nachforderungen-livequellen-und-rechtsprechungscheck/FACHINHALT.md": "8744a8bfe2d1633193622dfbbd3ab4b6d9634c9c",
+    "insolvenzforderungsanmeldungspruefung/skills/spezial-verteilung-red-team-und-qualitaetskontrolle/FACHINHALT.md": "b79b0e40250b01004b67f7aacaca53ee91540844",
+    "insolvenzforderungsanmeldungspruefung/skills/streitige-forderung-179-180/FACHINHALT.md": "c2dab6e7e407e1f4ed46f1b2c6888f8aeac37df5",
+    "insolvenzforderungsanmeldungspruefung/skills/tabellenauszug-formular-portal-und-einreichung/FACHINHALT.md": "864b8ae3b5d1d4dadd727d91729a0b832aea97d9",
+    "insolvenzforderungsanmeldungspruefung/skills/tabellenauszug-tabellenimport-verteilung/FACHINHALT.md": "a6a8f39e1a148d94ab1cae29df12b22245f12e49",
+    "insolvenzforderungsanmeldungspruefung/skills/tabellenimport-175/FACHINHALT.md": "fba713ea4a37506196778aeaad2b81554dbdec73",
+    "insolvenzforderungsanmeldungspruefung/skills/tabellenimport-zahlen-schwellen-und-berechnung/FACHINHALT.md": "ed6d879ec736efc6aa9f6b9866931a4197a86d36",
+    "insolvenzforderungsanmeldungspruefung/skills/unterlagen-luecken/FACHINHALT.md": "c46049809ae409110f99dc33cff7e09679969e16",
+    "insolvenzforderungsanmeldungspruefung/skills/vbuh-pruefung/FACHINHALT.md": "2164b120b90d0a055c1e887ec6ebb9292f9beba9",
+    "insolvenzforderungsanmeldungspruefung/skills/vbuh-verhandlung-vergleich-und-eskalation/FACHINHALT.md": "5a859b244767dfdc6ca1a78b5701d641729ac5ff",
+    "insolvenzforderungsanmeldungspruefung/skills/vbuh-verhandlung-vergleich-und-eskalation/references/vertiefung-spezial-vbuh-verhandlung-vergleich-und-eskalation.md": "ae45c9756bc131b733c810f0e9b0555c24bb3a00",
+    "insolvenzforderungsanmeldungspruefung/skills/verteilung-bestrittene-189/FACHINHALT.md": "1213edf44f40057249b28bb636f2fe3ef01241de",
+    "insolvenzforderungsanmeldungspruefung/skills/verteilung-fehlerkatalog/FACHINHALT.md": "11b17e6d1c92ad3d631a52a338f229c631a2bf41",
+    "insolvenzforderungsanmeldungspruefung/skills/workflow-chronologie-und-belegmatrix/FACHINHALT.md": "234b4229b3ddfec27489cd214641e3c5d9210924",
+    "insolvenzforderungsanmeldungspruefung/skills/workflow-fristen-und-risikoampel/FACHINHALT.md": "bc5128eab1b053c77e2e9ca525e0401fb1cc28e2",
+    "insolvenzforderungsanmeldungspruefung/skills/workflow-kaltstart-und-routing/SKILL.md": "d004617a1d615d18cb841b437dde146c117b77c5",
+    "insolvenzforderungsanmeldungspruefung/skills/workflow-redteam-qualitygate/FACHINHALT.md": "343b26e7158f3657d28c601ffe4700baf4a5ef5b",
+    "insolvenzforderungsanmeldungspruefung/skills/workflow-unterlagen-lueckenliste/FACHINHALT.md": "474d6f729c5af407f471e577613b769febdc8b2d",
+    "insolvenzrecht/.claude-plugin/plugin.json": "4cdcc24e5c1ec9a42e68c0cb06dba7a5e35bb086",
+    "insolvenzrecht/FACHMODULE.md": "8d8ebf5961250e1c4a18cf41f6731fe1a797f601",
+    "insolvenzrecht/README.md": "2fbdfe53f6b9118ed499972d552e097d9a18a585",
+    "insolvenzrecht/insolvenzrecht-hauptproblem.md": "45b59f0004d99783c97d319b64c8ed17e9892d6a",
+    "insolvenzrecht/insolvenzrecht-schnellstart.md": "eede71ae9b29e80d51eccb10651e4e25e139de22",
+    "insolvenzrecht/insolvenzrecht-werkstatt.md": "2e6cdc8a15cb160f0950b6cd526a32fb1fcd3bdb",
+    "insolvenzrecht/references/arbeitsoberflaeche-und-visualisierung.md": "749a8f3e79e233a2d7046d16dc7d410ca44839a1",
+    "insolvenzrecht/references/rechtsprechung/BGH_II_ZR_112-21_vom_2022-06-28.pdf": "d3d5add63cf4324d16ab28bf30eec41701292de7",
+    "insolvenzrecht/references/rechtsprechung/BGH_II_ZR_139-23_vom_2025-03-11.pdf": "68819ee95a40291ab95b897140a3f362b10a7d0b",
+    "insolvenzrecht/references/rechtsprechung/BGH_II_ZR_88-16_vom_2017-12-19.pdf": "28e4697909e94aad638e3139a73ebc80c59e8213",
+    "insolvenzrecht/references/rechtsprechung/BGH_IX_ZR_129-22_vom_2024-04-18.pdf": "c3608a324c427113cc7e1df414b25d3ca06f23a1",
+    "insolvenzrecht/references/rechtsprechung/BGH_IX_ZR_229-22_vom_2025-01-23.pdf": "ea6aac61c61e0431fa91991915f2f0a964e44043",
+    "insolvenzrecht/references/rechtsprechung/BGH_IX_ZR_48-21_vom_2022-04-28.pdf": "e6e5d0337297d571e3599f31bd4e60a6c3c6ef78",
+    "insolvenzrecht/references/rechtsprechung/INDEX.md": "0def050b64e6521e74f4fade90026340ccd59cca",
+    "insolvenzrecht/references/schufa-insolvenzdaten.md": "7a91ea896f4d69f8a971a2a8a387156691cd5f7b",
+    "insolvenzrecht/references/zitierweise.md": "73ad3ce9ceea40570fae807a300450ac63e55c9a",
+    "insolvenzrecht/skills/anfechtung-organhaftung-bearbeiten/SKILL.md": "7dae13b0c7d695f5def8270f65f2dd945e9c090f",
+    "insolvenzrecht/skills/anfechtungsrechte-antragspflicht-15a/FACHINHALT.md": "c2bcd0165645424437471243f5a65b5aab1ecefe",
+    "insolvenzrecht/skills/anschluss/FACHINHALT.md": "8bc9f4ec862933d5a2677f8efbe419c5bf96d553",
+    "insolvenzrecht/skills/anschluss/references/fachmodule.md": "8c3e8f2223288aed9c96ec7473c3c182796c9b4e",
+    "insolvenzrecht/skills/antragspflicht-15a-17-19/FACHINHALT.md": "cdc360cb186a2877ec229cf1489ed242781fe103",
+    "insolvenzrecht/skills/antragspflicht-15a-inso/FACHINHALT.md": "e35f947449790ae9eb62ea5437238669f03f379a",
+    "insolvenzrecht/skills/auslaendischer-insolvenzverwalter-register-und-grundbuch/FACHINHALT.md": "9d307c973090ced08204d8f5cd1e9031c7bd8395",
+    "insolvenzrecht/skills/auslaendischer-office-holder-register-und-grundbuch/FACHINHALT.md": "91d905864033c1365315cf921e8d4822c0adb2fc",
+    "insolvenzrecht/skills/belegmatrix-formular-portal-und-einreichung/FACHINHALT.md": "6906a7bdf52e5de72bcbe5153d7b232dc6517d81",
+    "insolvenzrecht/skills/chronologie-internationaler-bezug-und-schnittstellen/FACHINHALT.md": "2e5e1e0bd0608dfc8d1e59ac74ecc4d3e7d56425",
+    "insolvenzrecht/skills/do-versicherung-manager-haftung/FACHINHALT.md": "632140f1d58348b568394c774366ca1339fa2ee8",
+    "insolvenzrecht/skills/dokumente-intake/FACHINHALT.md": "b1924912f7aa7b83a2a8f6e6d36ae78d33172160",
+    "insolvenzrecht/skills/einfuehrung-verhandlung-vergleich-und-eskalation/FACHINHALT.md": "9e99b267d5b2c4d44dd2f3c90ca30f3407d495e2",
+    "insolvenzrecht/skills/einstieg-routing/SKILL.md": "7b6e15d078e48961dccf6aee99f0fc613a234856",
+    "insolvenzrecht/skills/feststellung-sonderfall-glaeubigerantrag-inso/FACHINHALT.md": "a1ce1d58b98fa3b2ae09af0833855d01029ba937",
+    "insolvenzrecht/skills/forderungen-tabelle-sicherheiten-bearbeiten/SKILL.md": "37d4fcb24d5aa4d60c9dd3e59e64adc41eb54d58",
+    "insolvenzrecht/skills/forderungsanmeldung-glaeubiger-174-177-inso/FACHINHALT.md": "2a668df5c8f74ec9a624c265777762c3b46f1c32",
+    "insolvenzrecht/skills/glaeubigerantrag-glaeubigerausschuss/FACHINHALT.md": "71362dea63d130f29960e0d204d785428da7c3fa",
+    "insolvenzrecht/skills/glaeubigerantrag-risikoampel-und-gegenargumente/FACHINHALT.md": "6f55dc03cd2f38e81c55119a4c9dec0820caa92d",
+    "insolvenzrecht/skills/glaeubigerantrag-risikoampel-und-gegenargumente/references/vertiefung-spezial-glaeubigerantrag-risikoampel-und-gegenargumente.md": "91ef683a048e4754d808be7bacacc0797123b252",
+    "insolvenzrecht/skills/glaeubigerausschuss-fristennotiz/FACHINHALT.md": "328ba1064b9adea04dda5856af936c455cbf8d29",
+    "insolvenzrecht/skills/glaeubigerausschuss-mitwirkung/FACHINHALT.md": "319cfb8fc44259b9826b60dd1517a60006385172",
+    "insolvenzrecht/skills/inso-dsgvo-art17-nach-restschuldbefreiung/FACHINHALT.md": "e004b3488c6e1d911c1ae93ffdc4b4f046d12846",
+    "insolvenzrecht/skills/inso-eroeffnungsantrag-checkliste/FACHINHALT.md": "649d60cd5a7d6d7038c53f62f1bae2738a274459",
+    "insolvenzrecht/skills/inso-gerichtliche-aufsichtswege/FACHINHALT.md": "a113261c4fa2068cee9cea9c3275c97d080d4114",
+    "insolvenzrecht/skills/inso-glaeubigerausschuss-praxis/FACHINHALT.md": "2c5a8f945b0f43d16862b1934d19913370563f77",
+    "insolvenzrecht/skills/inso-glaeubigerausschuss-zustimmung-spezial/FACHINHALT.md": "9d33c4611423b0c7aee1492a1ebeda207293c358",
+    "insolvenzrecht/skills/inso-insolvenzbekanntmachungen-auskunfteien/FACHINHALT.md": "727a611bcdd1d545aef4ef48fc0a763672b8b5e7",
+    "insolvenzrecht/skills/inso-lma-facility-massearmut/FACHINHALT.md": "be1a57d75e15e2e1af89c8e03685c934b60bea1a",
+    "insolvenzrecht/skills/inso-massearmut-massekostenmangel-spezial/FACHINHALT.md": "df79e8bdcd2d4dc35a222ea1eff008a8e4bd6381",
+    "insolvenzrecht/skills/inso-negativeintrag-bestreiten-belegpaket/FACHINHALT.md": "a661c1f6ed4bc81b0cceb3dd6fd3a5dc7e309d7a",
+    "insolvenzrecht/skills/inso-neustart-bonitaet-konto-kredit/FACHINHALT.md": "99d0a1b985924edfc680548d5f7c9eb30fcebe94",
+    "insolvenzrecht/skills/inso-npl-kreditkauf-restschuldbefreiung/FACHINHALT.md": "6596defc382266827f82dc0132bd24a743f5f4c9",
+    "insolvenzrecht/skills/inso-pl-einfuehrung-verfahrenstypen/FACHINHALT.md": "a2ef637db80a8247303286fff6e0a14571728d1b",
+    "insolvenzrecht/skills/inso-pl/FACHINHALT.md": "da6c891d5217f93af6e046cade56bd6e6bb5d735",
+    "insolvenzrecht/skills/inso-restschuldbefreiung-und-versagungsgruende/FACHINHALT.md": "3c19242953b0c70c541947462d7f5b4af1f4b1ef",
+    "insolvenzrecht/skills/inso-schriftsatz-brief-und-memo-bausteine/FACHINHALT.md": "d084b1aa59064b7ee81db0e6ce281c3ff6f81f85",
+    "insolvenzrecht/skills/inso-schufa-restschuldbefreiung-loeschung/FACHINHALT.md": "5503099fb9a3c15ccc2cf5313ffac56ca7e5de28",
+    "insolvenzrecht/skills/inso-schuldschein-darlehen-in-der-insolvenz/FACHINHALT.md": "7b81caa5cdcb6b6c451a5cd75c36c951313ea8bb",
+    "insolvenzrecht/skills/inso-tabelle-verbraucherinsolvenz-leitfaden/FACHINHALT.md": "841446ee8e7656eff968e72937eb5e132abc5725",
+    "insolvenzrecht/skills/inso-verbraucherinsolvenz-leitfaden/FACHINHALT.md": "3047d0448bfcccdb83049451d1bf990181b40681",
+    "insolvenzrecht/skills/insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege/FACHINHALT.md": "23a406408ab3121ff9ff10e12c65aecb1bcfd680",
+    "insolvenzrecht/skills/insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan/FACHINHALT.md": "71f10b679d562c064cd61ad8226abd64bec54d69",
+    "insolvenzrecht/skills/insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab/FACHINHALT.md": "7eac40080bd517452c9142667d18dcec936fb5e8",
+    "insolvenzrecht/skills/insolvenzgeld-165-sgb-iii/FACHINHALT.md": "e991f266b80a193978174cc8d27043dc50785d28",
+    "insolvenzrecht/skills/insolvenzgerichtliche-versandmappe-endfertigen/FACHINHALT.md": "e186d671a81083ed2d539e03b9c142b827062b9f",
+    "insolvenzrecht/skills/insolvenzrecht-behoerden-gericht-und-registerweg/FACHINHALT.md": "54e0555d89527e8be4f7c413a94b2d1c07cfe7aa",
+    "insolvenzrecht/skills/insolvenzrechtliche-livecheck-red-team/FACHINHALT.md": "b0183e4778493f1803f9457931829e1804990cdd",
+    "insolvenzrecht/skills/insolvenzreife-antragspflicht-und-haftung/FACHINHALT.md": "59db86e486ae0b323e420bdeb4e94d017ab702d1",
+    "insolvenzrecht/skills/international-konzern-bearbeiten/SKILL.md": "1969f96eb91acb5a3831c4873fbb9bf4f62df886",
+    "insolvenzrecht/skills/internationales-drittstaaten-konzerninsolvenz/FACHINHALT.md": "385f5fba1d7d65cc7251934feeb0d9eb80801e32",
+    "insolvenzrecht/skills/juristischer-argumentationskern/SKILL.md": "11a583e4c2d55de209b842b2e931690b64c8d9e7",
+    "insolvenzrecht/skills/kaltstart-interview/FACHINHALT.md": "23b8dc9d51e8cf13e84aeb0b438e486470946845",
+    "insolvenzrecht/skills/konzerninsolvenz-koordination/FACHINHALT.md": "1ad03a52d3848c266cfc30e32a6647a30b728997",
+    "insolvenzrecht/skills/krisenpruefung-antrag-eroeffnung-bearbeiten/SKILL.md": "1d2fca5db465cc527f69110e3814166afa85c9e2",
+    "insolvenzrecht/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md": "e4457fab6c3dce1546abab2982127210cf1fb659",
+    "insolvenzrecht/skills/liquiditaetsvorschau-insolvenzrechtlich/werkzeuge/.gitkeep": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "insolvenzrecht/skills/livecheck-compliance-dokumentation-und-akte/FACHINHALT.md": "eb0fc107776d25b6d7704af23ca6dd68dc09c6ee",
+    "insolvenzrecht/skills/mandat-red-team-und-qualitaetskontrolle/FACHINHALT.md": "cc1f710d4e61b32489cecfdb1bf3ac885fa99707",
+    "insolvenzrecht/skills/mandat-triage-insolvenzrecht/FACHINHALT.md": "06ec0f7c4b0214f2597c44fedeeb5455ef882fb3",
+    "insolvenzrecht/skills/masse-verwertung-personal-bearbeiten/SKILL.md": "cfbe779f4e8e4ba5c1d80ec6339d698cf7d765d9",
+    "insolvenzrecht/skills/opos-titelabgleich-dreiwochen-liquiditaetsbruecke/SKILL.md": "6ae39e2c6a21af2d17afa13d669b74d369fa5c18",
+    "insolvenzrecht/skills/output-waehlen/FACHINHALT.md": "2fa628c317498b9f62f655f951a2cddddc178a00",
+    "insolvenzrecht/skills/quellen-livecheck/FACHINHALT.md": "3d8caf5169b41e3cd1b699c2f137595c49758133",
+    "insolvenzrecht/skills/rechtsabteilung-auslaendischer-insolvenzverwalter-in-deutschland/FACHINHALT.md": "188a55c354f6fecc4c654e8231f1c92e511244eb",
+    "insolvenzrecht/skills/rechtsabteilung-lieferantenpool-npl/FACHINHALT.md": "8fdc64570b9aba5603b43876820171149ffe2922",
+    "insolvenzrecht/skills/rechtsabteilung-npl-kaeufer-im-schuldnerinsolvenzfall/FACHINHALT.md": "4999f6e3e0bb6e838c2b8f7a7d3f1b1495ee05b3",
+    "insolvenzrecht/skills/rechtsabteilung-schufa-loeschung-nach-restschuldbefreiung/FACHINHALT.md": "b9e4de6bf4105a019b2f0e65c392f260d99406a5",
+    "insolvenzrecht/skills/rechtsabteilung-starug-fruehwarnsystem-fuer-rechtsabteilung/FACHINHALT.md": "2c6e434da86357068188b51fcb17ae05625ed099",
+    "insolvenzrecht/skills/rechtsquellen/FACHINHALT.md": "e552d503c959795a216fd7c0c7a17e14bdb3e8a3",
+    "insolvenzrecht/skills/sanierung-plan-steuerfolgen-bearbeiten/SKILL.md": "081c20c1048f5f6cf03f30c4254136faca4fdf4b",
+    "insolvenzrecht/skills/sanierungsgewinn-3a-estg-im-insolvenzplan/FACHINHALT.md": "ec52540eb645db699d42ca56ed0973ebe98d7e71",
+    "insolvenzrecht/skills/sanierungsgewinn-3a-estg-im-starug-plan/FACHINHALT.md": "6aa695a96237cc19baf354c07facf65f1a009edb",
+    "insolvenzrecht/skills/sanierungsgewinn-7b-debt-equity/FACHINHALT.md": "bce09a6800fc5d0cd93d3f1ab3ca513cd6858050",
+    "insolvenzrecht/skills/sanierungsgewinn-debt-equity-swap-im-plan/FACHINHALT.md": "42cc855f844761236554aed6063af5ff1c9db1c6",
+    "insolvenzrecht/skills/sanierungsgewinn-eigenverwaltung-und-cra/FACHINHALT.md": "4ee1534bc5f0cfb4420ea4877cae4508633a62b6",
+    "insolvenzrecht/skills/sanierungsgewinn-finanzamt-im-insolvenzverfahren/FACHINHALT.md": "4f306a11db22f06441252fbd8e14eea6caf646b6",
+    "insolvenzrecht/skills/sanierungsgewinn-fruehe-vorbereitung-vor-plan/FACHINHALT.md": "ec369d17133634f851c83f51e8adc7dc9498d7d3",
+    "insolvenzrecht/skills/sanierungsgewinn-insolvenzreife/FACHINHALT.md": "2e7ae7182ddcc310e7ad7175b4a7835a68264b6e",
+    "insolvenzrecht/skills/sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege/FACHINHALT.md": "63928cc9d1cb646a4c3134ade02cf1f984e2789b",
+    "insolvenzrecht/skills/sanierungsgewinn-liquidation/FACHINHALT.md": "d9f05306128a152068873b4802149628b60654c5",
+    "insolvenzrecht/skills/sanierungsgewinn-mandantenwarnung-iv-und-cro/FACHINHALT.md": "e4672347231b56b3326c273bbc605e152527fed8",
+    "insolvenzrecht/skills/sanierungsgewinn-massenpriorisierung-261-vs-3a-estg/FACHINHALT.md": "3ad55d13f3ed6546d875368a05263f835dba37ac",
+    "insolvenzrecht/skills/sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan/FACHINHALT.md": "6511e246c15dea6b1efc4a7411bfdf7ed9a33c7b",
+    "insolvenzrecht/skills/sanierungsgewinn-restschuldbefreiung-und-3a-estg/FACHINHALT.md": "5299570cd004e78a867c3e643bfe77c0e95acda3",
+    "insolvenzrecht/skills/sanierungsgewinn-uebertragende/FACHINHALT.md": "472f14a81cc5ea7ff0ddcb7b463b5f6234582a9b",
+    "insolvenzrecht/skills/sanierungsgewinn-vergleich-mit-finanzamt-und-stundung/FACHINHALT.md": "ced27309809bf4f3838df71b2650111b6c0b3d4f",
+    "insolvenzrecht/skills/sanierungsgewinn-verlustvortrag-und-3a-iii-vorab/FACHINHALT.md": "f1bfdec8a6e0d158af631e267e45c0a99b94ce65",
+    "insolvenzrecht/skills/sanierungsgewinn-verzicht-bilanz-im-plan/FACHINHALT.md": "408b4eb56df527086a58ab09b3c7758c1576836a",
+    "insolvenzrecht/skills/spezial-glaeubigerausschuss-fristennotiz-und-naechster-schritt/FACHINHALT.md": "2e8b5ca9cea2125660ef9a86350d9e90218a33f0",
+    "insolvenzrecht/skills/spezial-verfahrenstypen-livequellen-und-rechtsprechungscheck/FACHINHALT.md": "9d2f1632e3e069936872cb781d56a1598bbb2a76",
+    "insolvenzrecht/skills/tabelle-beweislast-und-darlegungslast/FACHINHALT.md": "517df641197b041379616480b5fdfccfbd25e69f",
+    "insolvenzrecht/skills/triage-verbraucherinsolvenz/FACHINHALT.md": "c3ec3ec9465179df6464504585794db7946fc759",
+    "insolvenzrecht/skills/ueberschuldung-fristen-form-und-zustaendigkeit/FACHINHALT.md": "b8cc79270584fa31367110fc0526c38436a1f801",
+    "insolvenzrecht/skills/ueberschuldung-pruefung-19-inso/FACHINHALT.md": "e6af49c61ccedb1a34d412babb714d6b9d689780",
+    "insolvenzrecht/skills/uebertragende-sanierung-auslaendischer-office/FACHINHALT.md": "7cf8c999c94b6e499b1bd431626984ba9fbda170",
+    "insolvenzrecht/skills/unterlagen-luecken/FACHINHALT.md": "4cdf4cb7cf24359c2b1cb4e3cc0477d0f6e06a93",
+    "insolvenzrecht/skills/verbraucher-restschuldbefreiung-bearbeiten/SKILL.md": "e2490984ae73561d45540361bc918c0e45c7afbf",
+    "insolvenzrecht/skills/verbraucherinsolvenz-mehrparteienkonflikt/FACHINHALT.md": "5306d8a5db9b8acbac98000131bea66f3b2f7d7f",
+    "insolvenzrecht/skills/verfahrenssteuerung-glaeubigerkommunikation-bearbeiten/SKILL.md": "31ebd90726f3c4c15da019e9a596cc4726695712",
+    "insolvenzrecht/skills/verfahrenstypen-quellenkarte/FACHINHALT.md": "2ac6273064179a830809018f09d161077e894b23",
+    "insolvenzrecht/skills/vorsatzanfechtung-133-inso/FACHINHALT.md": "05ad933ae882f74b81a87e18dc0a6a543ea89a5e",
+    "insolvenzrecht/skills/workflow-anschluss-skills-router/FACHINHALT.md": "2baf78b227a5e6ec4eb785a4300b5f5f8e7df30a",
+    "insolvenzrecht/skills/workflow-chronologie-und-belegmatrix/FACHINHALT.md": "8b3a6af54d51cfa31790389e789ecef2e9262ad8",
+    "insolvenzrecht/skills/workflow-fristen-und-risikoampel/FACHINHALT.md": "94d9b8203dfd6d2ce5d4ec3c901d6881dffa39cf",
+    "insolvenzrecht/skills/workflow-kaltstart-und-routing/SKILL.md": "7037b87ebcdd30eac148e3f024439e74408cfe24",
+    "insolvenzrecht/skills/workflow-redteam-qualitygate/FACHINHALT.md": "2a3ca6bac5bb5fa3ba8a15985a3003ebd3430b8f",
+    "insolvenzrecht/skills/workflow-unterlagen-lueckenliste/FACHINHALT.md": "63dd8c6cea2bf8e9803b737e9bc0289ca6ed6579",
+    "insolvenzrecht/skills/zahlungsunfaehigkeit-pruefung-17-inso/FACHINHALT.md": "9a0c6dc813501c302462865ee5787b07ac7eae60",
+    "insolvenzrecht/skills/zahlungsunfaehigkeit-tatbestand-beweis-und-belege/FACHINHALT.md": "e6e8678db03562af519be8a1c81397d4c00798ff"
+  },
+  "legacy_readmes": {
+    "insolvenzforderungsanmeldungspruefung/README.md": "quality/plugin-consolidation/2026-11-25/insolvenzforderungsanmeldungspruefung/README.md.txt",
+    "insolvenzrecht/README.md": "insolvenzrecht/README-bestand.md"
+  },
+  "preceding": {
+    "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/uferwerk-berufung/README.md": {
+      "after_sha256": "c59e03dfc0a4a0a0a52980cc74658aa783bc265b3931eff9b7622494beac35b4",
+      "before_sha256": "135199e4d362b54aff4eeebf06213bd5edec9bedca9d5e7a91d0d36b8a217f16"
+    },
+    "arbeitszeugnisgenerator/testakte/arbeitszeugnis-analyse-bluehendes-leben/README.md": {
+      "after_sha256": "3be9236b2925444b89bb9cd97694e35d7bed82735d5099d95ca07c44228365f0",
+      "before_sha256": "64a24b4e776979ef99ae0279f539c7d555dfcb749a165a80d8b8ec1c25805084"
+    },
+    "arbeitszeugnisgenerator/testakte/personalakten-fuer-zeugniserstellung/README.md": {
+      "after_sha256": "2fa50e465aafbe8ba5f156da67559c7852e1b52bf4d1c4d174ab93c0d1b35751",
+      "before_sha256": "b6ec7229accc38efe926683cf432cb8e1730a061266822b1d98b598bd5c7444e"
+    },
+    "arbeitszeugnispruefer/testakte/arbeitszeugnis-analyse-bluehendes-leben/README.md": {
+      "after_sha256": "e1949cb0da696c1b125bfe325ed184b23e7a317e2765a458117355aad5973e0a",
+      "before_sha256": "d04846223ee2ee12016e303db8c8c3bbcf3fbdacd68de4a7510f43e5091402a8"
+    },
+    "bautraegervertragspruefer/testakte/README.md": {
+      "after_sha256": "c16b58265351a3f098573a1d989554c65f479924b2c7ea2a98bff377eefc5bc6",
+      "before_sha256": "172ba2e57ca4fadeaf13c4536c3dfdb50c3e97aa447f05a2e6f38a9e64969c54"
+    },
+    "bautraegervertragspruefer/testakte/bautraegervertrag-marewald/README.md": {
+      "after_sha256": "b15315f4fde1fb85bb51eb08d46de2fa8a40f1bdc410bbc8fbbf3b8269bda030",
+      "before_sha256": "48ca806a22a969bc19fb2eea999edd82ec4069e82f15294c548038ed1ab1b42a"
+    },
+    "bautraegervertragspruefer/testakte/bautraegervertrag/README.md": {
+      "after_sha256": "09d6b7e837db5ff073ddd9f279b05309a9732b5e773f9f668b322a7f4bf46528",
+      "before_sha256": "4fe5e3438a3a93294e283c7d6e116f689ece71c84e719506c225b13b4c9b75ee"
+    },
+    "docs/werkstattprompts/insolvenzanfechtung/insolvenzanfechtung-tatbestandswerkstaetten.pdf": {
+      "after_sha256": "4a7b5376946ed544caac8d2d45276b31ca068efce663067979d85dfad9410e0f",
+      "before_sha256": "5dede18b4fcfd6bca50e43663beb09943a022a79e8ee89d554426ac5b2ec2143"
+    },
+    "docs/werkstattprompts/insolvenzanfechtung/insolvenzanfechtung-tatbestandswerkstaetten.zip": {
+      "after_sha256": "1dcb376e308e595c8d4e239ed7b0c016c69c7881c640947999d4f379ef4a716f",
+      "before_sha256": "5c36c5b81e80040a62a1f2844bbe3d2c8acba4f009e1947e1f153357d6d199b7"
+    },
+    "testakten/QUALITAETSSTANDARD.md": {
+      "after_sha256": "599b1041c08bc97f8a44e594793e0682d8c7dad0892c3698571cd365829a0333",
+      "before_sha256": "a5f8064e3186c26df1f1e2ea1f8b3bd34fd2360e887e978d42d9a61a20a039f4"
+    },
+    "testakten/README.md": {
+      "after_sha256": "a04ad722b96ddfb751b98ddbd2364f289857e1268f8a070938f0e1d403e8a28a",
+      "before_sha256": "7c84639441f6a915a465e1382fb391f6f39adecba9bdb76abdb129f10cd3e965"
+    },
+    "testakten/apothekenrecht-retaxation-kuehlkette-bremen/README.md": {
+      "after_sha256": "82f3d95b6caa59e3e7b3437161f9613658959591f09c00be0533bf2761bba657",
+      "before_sha256": "4fe81ef3b39f6c5c6fcef7ea0c15d9f6433be6552c4296d66a690a5b12b406d7"
+    },
+    "testakten/apothekenrecht-retaxation-kuehlkette-bremen/gesamt-pdf/apothekenrecht-retaxation-kuehlkette-bremen_gesamt.pdf": {
+      "after_sha256": "ed3fdc666ab480a83be5647ee04babf6da3f72646627e2b47dc0d88f3e365dbd",
+      "before_sha256": "483127d0a1346cb9b0de8b06802cd487b2091441985ead9558e52b29a3009f49"
+    },
+    "testakten/arbeitsrecht-kuendigungsdrama-koerber-werk/README.md": {
+      "after_sha256": "ccce41209d5137eb55174e4947e3f3e2cff46e2555eaa923c1b66f878848d8e5",
+      "before_sha256": "78804bd95546af2515bb6cc35abaeb53966d13ae6d392e39769c3a7c8d234caa"
+    },
+    "testakten/arbeitsrecht-muster-seewerk-lebensakte-radolfzell/README.md": {
+      "after_sha256": "1ebf043a545d5e9cf67b005384aa2041f8f890a7f75a1c907a502c96314581ba",
+      "before_sha256": "53085d0d76741c5facf5f4360bddd66012ef58457e9fb722f4c02eb3544730b0"
+    },
+    "testakten/bauunternehmer-einkauf-altstadt-bordsteine/README.md": {
+      "after_sha256": "852f09a5039fd19d10a70d608708ca3fba66b3c629052848b6834e8b5b346bfc",
+      "before_sha256": "48e815adaa85f75c7509b048fc68f5ca75245745028bde5e810cb099ffaf3f36"
+    },
+    "testakten/bauunternehmer-einkauf-brandschutztueren-krimpfort/README.md": {
+      "after_sha256": "a66d567f3b44f6179b853972aba6a3d3eca93313b82c7cbbb0cddf2bcb0a449d",
+      "before_sha256": "427fdee717df9139956af11312035357314a32b33d0cb9b7a3e27db801b4edec"
+    },
+    "testakten/bauunternehmer-einkauf-lueftungszentralen-krimpfort/README.md": {
+      "after_sha256": "5e8371897301dcfa871e5e086044232414eb664a2157611a017f16b10cc350b3",
+      "before_sha256": "b14bca45fe84ed8ccda36b2c0b437ee6549c05d60eefcf6b681f0fd7cf4a8eff"
+    },
+    "testakten/bauwirtschaft-hildesheim-lebensakte/README.md": {
+      "after_sha256": "4c5bf30bda0f36dd79b453a5fe8b2f07d16405bf5e7fe7dd4a6a691389da2ec8",
+      "before_sha256": "454c1d7e6441f13ab742663d3e6c0a4c59a7a0799ea9e6d744ed3a18a4151cb7"
+    },
+    "testakten/bauwirtschaft-neubau-achtfamilienhaus-hildesheim/README.md": {
+      "after_sha256": "08cd0519ab87776df3856c28abc15d92f29b677c6bd2171556347d5c77866487",
+      "before_sha256": "196a07bd2175e42ef7ee8f46658bd4210802e0cbfa18704ed6a3771d7d3b0d9b"
+    },
+    "testakten/berufskrankheit-asbest-schlosser-werft-bremen/README.md": {
+      "after_sha256": "77f8d53090b06439a0e36a2f6871fb9b2faf0ace2173be1c3667d3bb2b8f0b34",
+      "before_sha256": "a39e7eb306ba50e1483d5551a951d384f182d66b7d915724caa273d3f661aa58"
+    },
+    "testakten/compliance-hameln-schokolade-charge-k17/README.md": {
+      "after_sha256": "d1e103d3754d7091f759003a5170a0f60e358452169789b41ea15d646549035a",
+      "before_sha256": "c6740de3d135b5afadcc6c8925eea602df52cdc4c90282288fa3b352c306d6ac"
+    },
+    "testakten/eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig/README.md": {
+      "after_sha256": "ebc1bd6e7dbb51282610802e800d0bf0ad8875dcfb5a4bf35bd6a1be1a54a4d1",
+      "before_sha256": "8af636a5c15585cf3f5ab0083f927ac4d21b79ad0444d981b8c9181a1cdabd3c"
+    },
+    "testakten/eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig/gesamt-pdf/eu-prozessrecht-beihilfe-nichtigkeitsklage-leipzig_gesamt.pdf": {
+      "after_sha256": "5c01069256bfd89cacdcde2358ca5658859c69ad9b7924eaac7ec8b4c0a4164b",
+      "before_sha256": "75860e3bbbdc13220bf453040c5c76db0136bed07c101b1bdad07f1d137c5ec1"
+    },
+    "testakten/fintech-darlehen-vertragsuebernahme-bremen/README.md": {
+      "after_sha256": "8c152998cc833db5c7207a01be29983f748fec1acf33d2a73841857323cef55f",
+      "before_sha256": "2ba61f8585d6bbe01d7351a43768128dd8d31f6be59a1ee6c34f2b51975566fd"
+    },
+    "testakten/forderungsmanagement-baeckerei-behaeltertausch-hamburg/README.md": {
+      "after_sha256": "5ba4b2547e202b5c2a0743badc650fb1c14e78e6dd1ab7b0a3582d40e3a2004c",
+      "before_sha256": "d8da263dbcb79313c54c4fd9b8b827176ed64c74f2779a2757c684f0af4f4d8d"
+    },
+    "testakten/geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover/README.md": {
+      "after_sha256": "a3a0e0908f7575d8c41ef7c6229a9b8fafa289da2f0aea33fd807176bf6a9794",
+      "before_sha256": "3c9e85ab5d09a75f34c37c74f4b6f970a06129bed6f5c677de464599511920da"
+    },
+    "testakten/gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm/README.md": {
+      "after_sha256": "5c37bc4fc283b0777ee555c2721971dd93e03961c83a83cae8eb7527322dd928",
+      "before_sha256": "52ad09661a4eea688cc7d2ac15c115cc82adf25f0e5f605b98a2b37a38c08f47"
+    },
+    "testakten/gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm/gesamt-pdf/gesellschaftsrecht-treuepflicht-kapitalerhoehung-ulm_gesamt.pdf": {
+      "after_sha256": "cc5bb58b975a4dbd61349d7e99b6d3835764b00c741a54f3c1c9e9dc77587baa",
+      "before_sha256": "d1c15645de63d3d4e87f15318ddc563480cbc1a2f8947a0b65879d90741a147d"
+    },
+    "testakten/inkasso-zahlungsklage-modefuchs/README.md": {
+      "after_sha256": "f4e86d5df619e4a57a74b2aec31722487101b549b5b3e23de7bc6c2090b73067",
+      "before_sha256": "0a9a987c0414f6854e1b4597e6d486db5c960b8c0cba9eae7c31017abaad9b03"
+    },
+    "testakten/insolvenz-asset-deal-chaincortex-ai-berlin/README.md": {
+      "after_sha256": "fc35c1fd7c642ea073965ae31fbb1427dc547f9856071c52670cc92154117fa7",
+      "before_sha256": "02ac4446f43a7795b281d21301ae49da06bd3416e5002bba42457883ee0faf78"
+    },
+    "testakten/insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz/README.md": {
+      "after_sha256": "5b5b086011494d3e61eea83dc6ecc5efd11661f0878782d6f394839c75fc1744",
+      "before_sha256": "cd72b20d2b466966fe842e41aab3c85f8479e8881788d80739f5b59f699ae7bb"
+    },
+    "testakten/insolvenzanfechtung-blechliebe-bamberg/README.md": {
+      "after_sha256": "0277e7970114deaa161031e3a9d01af0507c585fd0a97d4f14427cfe1bf873e4",
+      "before_sha256": "f5e164a2bb8ffc3bb49647f469997780fd5ec981b72fe6918c19a83e4283e713"
+    },
+    "testakten/insolvenzanfechtung-faltenwurf-fuerth/README.md": {
+      "after_sha256": "266fe21cd00c60789bf453176b1171f8fa2d9a5a5d98fe187c3a29b0ddb79d96",
+      "before_sha256": "129b838bf7fedf5d468f8d70e00a0e9254b7fdeb43a6768b1347773e903fa2c5"
+    },
+    "testakten/insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg/README.md": {
+      "after_sha256": "d724a630dbb1d1fb430610ea742b9909df8aa3656c9cb7b9ca01b605676fb9cf",
+      "before_sha256": "939797334e4e6dc201dc852d9d26e1b31c17f3291a5cbd13e661c1e6f6b43ed7"
+    },
+    "testakten/insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach/README.md": {
+      "after_sha256": "b94f957684543863b7c4642e260746f43b5a09a1acb700629eacdf55a42b909d",
+      "before_sha256": "0b06ec602285ea26bbfd8106ab19b92b8ccf8d7f445bc6ea7f23bc6e4e50bb1f"
+    },
+    "testakten/insolvenzanfechtung-inkongruente-deckung-warenlager-an-erfuellungs-statt-kassel/README.md": {
+      "after_sha256": "9d649b14961b1e79e98e165023beaad09fc4b507ff6d0e7b3cb0d280043dbab5",
+      "before_sha256": "82078ed57c3f571abcd0eb3d8a670465e71a41efe898bc2439a024430e05e801"
+    },
+    "testakten/insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth/README.md": {
+      "after_sha256": "986be3fd768d0d57c5b5c8aa3dd678ee66dfe36de475bed2be258abf8d0fc73a",
+      "before_sha256": "5d6e194c5c4f01fa5557accf1c69c7e819c4e2a5e25c4cb71bd2c82163e90c7d"
+    },
+    "testakten/insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin/README.md": {
+      "after_sha256": "b9279aceb6b7f93e4db5ede142dc81806f6e6e16e3818cc740b37dec94baec35",
+      "before_sha256": "4fc576cf50794fc5682ac5c8e658a53457ee7c29feb2b8d9121188411e7928db"
+    },
+    "testakten/insolvenzanfechtung-kongruente-deckung-krankenkasse-nach-antrag-luebeck/README.md": {
+      "after_sha256": "4b0151f8a0a93c601dcafd11411710bb78c334ebee64a05d9f95fb6f085ecca2",
+      "before_sha256": "4a22c03f4d526fa2c1890dc21882e0d90dee07f5f4e94687300df800e563ddd4"
+    },
+    "testakten/insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld/README.md": {
+      "after_sha256": "8cdb5b5f89ec076b516a730a53be82dabb174b581138fa922bdb5cacfbda16b9",
+      "before_sha256": "08842f74672d66aa72dc2fd2bb0ee070cedf2e875679d18d54f2f512bbfdf1f8"
+    },
+    "testakten/insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz/README.md": {
+      "after_sha256": "ad594fe2d0d1720b0052c0f68f8aa61a86a54ab0889d02426cf408fce01cedde",
+      "before_sha256": "26f146e9d63f2b3b01414b343ae8667a0bf1244fdc733b2c2d4edea92c7e9204"
+    },
+    "testakten/insolvenzanfechtung-kontokorrent-verrechnungen-geduldete-ueberziehung-dortmund/README.md": {
+      "after_sha256": "6d01949a83e68ec7cf56aba73f2dfe6cf1ba3b5120995b6529f4ecce769f8d48",
+      "before_sha256": "b47e64b3ce254082e79184b023922f9d9ee18afd77601ae3451ee0df688e3bc5"
+    },
+    "testakten/insolvenzanfechtung-schenkung-familie-oldenburg/README.md": {
+      "after_sha256": "a81fbbfd6bbace63d01426b975331d4716b710b3d1bfa1fab19e1086ada3ab52",
+      "before_sha256": "24142c988a3b270eca8dbaf1159c599c238e9eccbc9c7f5c90051767609b5fbc"
+    },
+    "testakten/insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart/README.md": {
+      "after_sha256": "13c10e4867c9929e784836ecb80ca6b8a745ef7f3a5188e3dd216b4cedaf07e4",
+      "before_sha256": "6212ecbafde48263fa63d6d9e05c4d71c8334485fa6060224de460a97577a20e"
+    },
+    "testakten/insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln/README.md": {
+      "after_sha256": "00821b2abd75395a133eb9fe17f5e1ea505bbadbc065ffa4fe30cd5d66764477",
+      "before_sha256": "de66559b8c3fd0f6734bdf2cb67a4107153cd8cca3d1966292818d7ebfa5fd2a"
+    },
+    "testakten/insolvenzanfechtung-veedelwende-zession-koeln/README.md": {
+      "after_sha256": "e12181719c5e4ece2cf580e8cc9d86b6edacbcb6a8e9cbb648bdaa0333ab6b6b",
+      "before_sha256": "a3ae66bc334fefd5036efe67ce6a06f0bfc55821476f0872b150715526aaf109"
+    },
+    "testakten/insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg/README.md": {
+      "after_sha256": "ebbc69cf31e5b4de692e33a22604eaf1cd31d2db490ee1a001b68e2d653c11ff",
+      "before_sha256": "4d7fcccc38d368ccea36b8d56dae49b124abf2ed8eb793799605df50c5d5b4d7"
+    },
+    "testakten/insolvenzforderungen-handwerk-koeln/README.md": {
+      "after_sha256": "cc9f57d862f38b4403993c1f1c652208b79f8c8b7c8e5aa5753dc39cbe9e4f65",
+      "before_sha256": "6f57ad11c1b00cfc43bff337f7e25c6aa55bbe3fe98253fe10d88bd053725fb4"
+    },
+    "testakten/insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena/README.md": {
+      "after_sha256": "6bb88126e1f9dd06d5b6e44fc2de293169e4b74decaa887ab27eccfc70529a80",
+      "before_sha256": "f8b5b436c38512e5fadb369a2adc579148bb324d98e38b47bd87b8c2a931af58"
+    },
+    "testakten/insolvenzrecht-forderungspruefung-mietkaution-berlin/README.md": {
+      "after_sha256": "ae34e917e418dd2215810d212427070d8100ef3a50a342a53f5ccb1a8b351f49",
+      "before_sha256": "86c6ea9c78466d51a350a13aae18a8c09cfa13375e1010a3f5bb9e680b93d4a2"
+    },
+    "testakten/insolvenzreife-hubschrauber-prenzlau/README.md": {
+      "after_sha256": "52b9d6d05576748b477da86ebc26d8711f2e811a66f9463ac356998f3bdc79fb",
+      "before_sha256": "1a8012451b88b24d5e0cf37cd85125b39670d8fa5407d59b5701005b0c4d0d34"
+    },
+    "testakten/insolvenzreife-keramikfabrik-cottbus/README.md": {
+      "after_sha256": "2eef39f85cc890efaeca2d52feb8a872498f8390ae189d78b382c95b418ea8cb",
+      "before_sha256": "edc68490ce9aca5ac1534823c0f50ff7a40f8f762bdf98bfc7b4f2b420a9b721"
+    },
+    "testakten/insolvenzreife-metallbau-berlin-zehlendorf/README.md": {
+      "after_sha256": "470853db5d972e2a00f7ebe20864c3ddad4f248a3367eb545aa2446e5b943bc2",
+      "before_sha256": "c685a8359e9269effa7e9e7719bd77c3ba8e5232371d7f546b52add210184e92"
+    },
+    "testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/README.md": {
+      "after_sha256": "5be5bc17dfe72fcb47601bb2bf1aa824144de0abad537a1c43dea0647a5a686b",
+      "before_sha256": "8a29019af322ab14fb6d80e7bbc41a1f822911889225f8509910096c26526353"
+    },
+    "testakten/insolvenzverwaltung-nordlicht-handels-kiel/README.md": {
+      "after_sha256": "f980b46514e887dd3f41f135ac0d3cd2024887161b24517d1e0dafa50b840b86",
+      "before_sha256": "ab5e401eee20eea822ee2fffd8ea22dcf4856394f9a677207948be5723f39dec"
+    },
+    "testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/README.md": {
+      "after_sha256": "d01ba04eae74f2b0f8c202a71da03bf045e8a2fe208bbe79e41f5cc047d7040d",
+      "before_sha256": "2e210c84b2d2a3546c9f17c332348b1f2b8ed5750c421dabb8ececc57c3f8ea8"
+    },
+    "testakten/krankenhausrecht-md-intensivabrechnung-halle/README.md": {
+      "after_sha256": "f4233b18fb5748663ace5161758fff3b9b1e1a1a4cfed2ebdb0a1e23c93245ef",
+      "before_sha256": "64427fac3792dddedd47d9349d1a81d3ce582cac9b9fb6975a56a9091ad7bc7a"
+    },
+    "testakten/krankenhausrecht-md-intensivabrechnung-halle/gesamt-pdf/krankenhausrecht-md-intensivabrechnung-halle_gesamt.pdf": {
+      "after_sha256": "166c2174bc36ea384eaf63d28d3917eb8bb7c905fa57e1da0c415357b5b4336e",
+      "before_sha256": "3c38db63522b1313f1aa91f94c4c0c1830f8bd70709bebbf13ebfa9731bc4d61"
+    },
+    "testakten/notariat-berlin-mumbai-gesellschafterliste/README.md": {
+      "after_sha256": "f2ef7e283e55b63d95929b05479536acdef77bda7e975c86a83028c18fe0e5b3",
+      "before_sha256": "131ca312e7b28f29292eaf411fabc0dfad4839beb78243d0620a5ff4702e7fc0"
+    },
+    "testakten/notariat-berlin-vae-vertretungsnachweis/README.md": {
+      "after_sha256": "40a1fe150cf4a2ee3bce301a34697d3d1414d3394deb6a870738e926ef6df8c2",
+      "before_sha256": "3063c76cc2b2a10d464fde988226a5f517498718b658162838501da7bdd06ffa"
+    },
+    "testakten/sozialrecht-elektrorollstuhl-koerner-oldenburg/README.md": {
+      "after_sha256": "01624cab66ecd29ae6d94f02b38656fdceead972b759b9fec7503fe3f559c6fa",
+      "before_sha256": "e3556adc78a3fdf9e7679a14d610be874f5d48cef6cf4fcdf475b7f45adc947e"
+    },
+    "testakten/starug-aufhebung-holding-duesseldorf-ix-zb-18-25/README.md": {
+      "after_sha256": "ac02e4d09230dbfb963aca43235bfb0de5ea6a951a71301cf3deea65f9c700b0",
+      "before_sha256": "3a2a02f915b4eba292c109bcd4b1bfe1fed2cae2f9527528547ef1a6269875cf"
+    },
+    "testakten/starug-schutzschirm-grossbach-druckguss-erfurt/README.md": {
+      "after_sha256": "61055eead9f504ea4f49f1d5ba568349c80ea1ddabcfa62ea690b77bb323e505",
+      "before_sha256": "0d26c14f31969acaed7ce62b12fe93ab9e57c8d5299c67855c87f858cc54956b"
+    },
+    "testakten/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain/README.md": {
+      "after_sha256": "18bbc0f40420ef0cc5d3dcb55b404df00462472c8a7d9717d54874a88254b41e",
+      "before_sha256": "ad25b296cd9941dc7714d72c3bf0bddc987454f6b8e032a86b95f215e902d155"
+    },
+    "testakten/statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen/README.md": {
+      "after_sha256": "8c667d17d8320a57098ab8688555e2282770b8f2eb440f2eae0694902a0ae3ec",
+      "before_sha256": "03c72c73e31d776916e821cac2441839cab59dd98e3de3ee47fe15c76bea0dbd"
+    },
+    "testakten/steuerrecht-freiburg-oderkonto-schenkungsteuer/README.md": {
+      "after_sha256": "9fc42e2e1c603935fba773c5ba90683a3e4e24d6fd59a657c0b22fad8219551c",
+      "before_sha256": "563a2bcdec1a3919553a3082374ce6da1547d0cfb1959f9214631dd59075161e"
+    },
+    "testakten/umweltrecht-industrieanlage-genehmigung/README.md": {
+      "after_sha256": "cf35459fcab48ef026a6cd23380a5225c4689a5026d89e4dee7b84cc4ebd8e5f",
+      "before_sha256": "9a73d6018f779c0d9baf0fae887c93f082c6d9d7ef25ca6843419af8319bbeec"
+    },
+    "testakten/umweltschutzverband-windpark-moorbach-umwrg/README.md": {
+      "after_sha256": "aed5334cff309c3e63c6807815f02a150f589965c3adf7cf52b3c0f0d8454db1",
+      "before_sha256": "08c231f2440658d87f80e83b1606749fcb96d3d7bd4f7600591f1c91a280f432"
+    },
+    "testakten/unfallversicherung-arbeitsunfall-lagerleiter-sturz-trier/README.md": {
+      "after_sha256": "03042f103f8f717e981a756b0e53cec2352aaaccfd2771cd4d3bde52f00d5bf5",
+      "before_sha256": "87105fa89396f54d211b04155c6378715497a704369353de52feebc958862f2d"
+    },
+    "testakten/unterhalt-berechnungsakte-vollstaendig-rosenheim/README.md": {
+      "after_sha256": "164af00c5aec4c3bc74f05628d8119e2c2c8918f481da5071b18c4cd20de2c6b",
+      "before_sha256": "807d59adcc14f8c0ac4dbc729552ae2b0a10e63e2916d7b0d544df134643e983"
+    },
+    "testakten/wirtschaftsprueferrecht-unabhaengigkeit-hamburg/README.md": {
+      "after_sha256": "e5b3a072e99821035b1d733e92f2aa31a7a5b5fea73f833a3f9480cd812577fe",
+      "before_sha256": "4f078ddcb5248fed0b5dc66d1db152b059664484aa1a20de4db9dea04efddbd0"
+    },
+    "testakten/wirtschaftsprueferrecht-unabhaengigkeit-hamburg/gesamt-pdf/wirtschaftsprueferrecht-unabhaengigkeit-hamburg_gesamt.pdf": {
+      "after_sha256": "d30063abfcfa9aa76f097295020b9e2d2267898e7297b40c5de0c2f0c9eabf2b",
+      "before_sha256": "d4fd4ef045674582106977f33f0ae3adaf8c426acfbe58dbba9bf4b50310a673"
+    },
+    "vergaberecht-werkstatt/testakten/README.md": {
+      "after_sha256": "b9fe23bcd3f7835f5aba95004e1172c14f5ab73aad385064debeb8e097c16bce",
+      "before_sha256": "28458f6778eb7a72d97042a759f5818e263b9ce6c32350626b216dfd38b076ef"
+    },
+    "vergaberecht-werkstatt/testakten/megaprompts/bieter-unternehmen.md": {
+      "after_sha256": "b583693b16bfcb2e4fc2d9990d9d107bc50fbba751a7522fde57ca3b1c8e490e",
+      "before_sha256": "c7c1e8b94663f46e4e9b69cd646cadbe1799c05c71b03b59ded1cd58cdeb52fc"
+    },
+    "vergaberecht-werkstatt/testakten/megaprompts/konkurrenten-rechtsschutz.md": {
+      "after_sha256": "fece4882ee3a1ffa90116843fa0751a2cd0aac9b2b89047f0fe0573d77232c53",
+      "before_sha256": "9c22baa8ae01f96baa603bd0e9a1eb816d9b01e4ec8d188ed952ca0924996b54"
+    },
+    "vergaberecht-werkstatt/testakten/megaprompts/vergabestelle-behoerden.md": {
+      "after_sha256": "ef26ba4f1d7c27a8130553ed708cb9211a9983fd164aac852cffef17427ea12f",
+      "before_sha256": "a6f46cd32f2570580a6442bf0ec4aed408ce2b606c1cf9f905066cda8d11c041"
+    }
+  },
+  "preceding_commit": "29b4fb0684eb15d0e4cf2f68c5d9653ff43c8637",
+  "retired": {
+    "insolvenzforderungsanmeldungspruefung": {
+      "canonical": "insolvenzforderungen-checker",
+      "entry_skill": "juristischer-argumentationskern"
+    },
+    "insolvenzrecht": {
+      "canonical": "fachanwalt-insolvenz-sanierungsrecht",
+      "entry_skill": "juristischer-argumentationskern"
+    }
+  }
+}

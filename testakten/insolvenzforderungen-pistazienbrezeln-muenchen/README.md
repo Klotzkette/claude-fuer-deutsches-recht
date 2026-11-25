@@ -37,7 +37,7 @@ Elektronische Kontaktadressen verwenden reservierte `.example`-Domains und sind 
 
 32 eigenständige Arbeitsunterlagen: 22 Word-Dokumente, sieben E-Mails, zwei CSV-Dateien und eine Excel-Arbeitsmappe. Jeder Vertrag, jede Anmeldung und jede Rechnung bleibt ein eigenes Dokument. Kontoexport und Mietkonto enthalten Buchungen beziehungsweise Sollstellungen, keine abschließende Forderungsprüfung. Eine Lösungsmatrix ist nicht beigefügt.
 
-Ab Dokument 23 ergänzt ein möglicher Erwerb durch Isarkruste die Forderungsakte. Der nicht unterzeichnete Betriebskaufvertrag enthält ausformulierte Bestimmungen und noch zu vervollständigende Anlagen. Die Excel-Arbeitsmappe hält Inventar, Waren, Kunden, Verträge und Kennzeichen getrennt fest. Korrespondenz mit Vermieter, Webstudio und Kunden bildet den noch offenen Abstimmungsstand ab. Die Akte lässt sich damit sowohl für Forderungsprüfung als auch für die Vorbereitung eines Asset Deals verwenden, ohne einen abgeschlossenen Verkauf oder eine Musterlösung vorzugeben.
+Ab Dokument 23 geht es um den möglichen Betriebskauf durch Isarkruste. Der nicht unterzeichnete Betriebskaufvertrag enthält ausformulierte Bestimmungen und noch zu vervollständigende Anlagen. Die Excel-Arbeitsmappe hält Inventar, Waren, Kunden, Verträge und Kennzeichen getrennt fest. Korrespondenz mit Vermieter, Webstudio und Kunden bildet den noch offenen Abstimmungsstand ab. Die Akte lässt sich damit sowohl für Forderungsprüfung als auch für die Vorbereitung eines Asset Deals verwenden, ohne einen abgeschlossenen Verkauf oder eine Musterlösung vorzugeben.
 
 | Datei | Inhalt |
 | --- | --- |

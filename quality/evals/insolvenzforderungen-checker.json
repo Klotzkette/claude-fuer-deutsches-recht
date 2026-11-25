@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzforderungen-checker",
-  "reviewed_on": "2026-10-22",
+  "reviewed_on": "2026-11-25",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__174.html",
@@ -72,13 +72,19 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZR_127-24.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-22",
       "supports": "BGH I ZR 127/24 Rn. 39 bis 44, 52 bis 53, 64, 74 bis 75: Vor- und Nacheröffnungsansprüche werden nach Entstehungsgrund und Zeitraum getrennt; Rechnungsdatum oder Fälligkeit allein bestimmen die Forderungsart nicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__270f.html",
+      "checked_on": "2026-11-25",
+      "supports": "Paragraf 270f Absatz 2 InsO bestimmt für die angeordnete Eigenverwaltung den Sachwalter als Empfänger der Gläubigeranmeldungen. Die Vorschrift gilt nicht schon wegen eines Antrags auf Eigenverwaltung."
     }
   ],
   "selection": {
     "target_skill": "forderungen-pruefen-und-tabelle-vorbereiten",
     "positive": [
       "Prüfe die eingegangenen Insolvenzforderungen und erstelle Tabellenvorschläge samt Gläubigerbriefen.",
-      "Gleiche zehn Anmeldungen für die Verwaltung mit den Verträgen und Zahlungen ab."
+      "Gleiche zehn Anmeldungen für die Verwaltung mit den Verträgen und Zahlungen ab.",
+      "Wir vertreten den Lieferanten. Erstelle unsere Forderungsanmeldung und beantworte die Nachforderung des Insolvenzverwalters."
     ],
     "negative": [
       "Prüfe allein die Zahlungsunfähigkeit vor einem Insolvenzantrag.",
@@ -874,6 +880,44 @@
           ]
         }
       ]
+    },
+    {
+      "id": "lieferantin-anmeldung-und-nachforderung",
+      "target_skill": "forderung-zur-insolvenztabelle-anmelden",
+      "request": "Wir vertreten die Solarteile Nord GmbH im Verfahren Phoenix Solar Montage GmbH. Prüfe unsere Anmeldung und entwirf für uns die Antwort an die Insolvenzverwaltung auf dem Stand der Nachfrage vom 6. Juli. Halte fest, welche Zahlung tatsächlich belegt ist, welche Unterlagen noch beschafft werden müssen und wie wir den Widerspruch behandeln. Wo der Antrag vom Belegstand abhängt, formuliere eine belastbare Zwischenposition.",
+      "input_files": [
+        "testakten/insolvenzforderungsanmeldungspruefung-phoenix-solar/01_gerichtsbeschluss_anmeldefrist.docx",
+        "testakten/insolvenzforderungsanmeldungspruefung-phoenix-solar/04_anmeldung_lieferant_solarteile.docx",
+        "testakten/insolvenzforderungsanmeldungspruefung-phoenix-solar/16_widerspruch_schuldner.docx",
+        "testakten/insolvenzforderungsanmeldungspruefung-phoenix-solar/24_email_solarteile_nachfrage_widerspruch.eml"
+      ],
+      "deliverables": [
+        "schreiben.md",
+        "aktennotiz.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Adressiert das Schreiben aus Sicht von Solarteile Nord an die bestellte Insolvenzverwaltung zum Aktenzeichen 35 IN 417/26 und knüpft an die existierende Anmeldung G001 und den Prüfungstermin an.",
+          "deliverables": [
+            "schreiben.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Stellt für SN-2026-016 die 4.200 Euro, die Buchung als bezahlt und den fehlenden Banknachweis nebeneinander. Fordert den konkreten Zahlungsbeleg an und erklärt die Folge einer nachgewiesenen Zahlung ohne Doppelanmeldung.",
+          "deliverables": [
+            "schreiben.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet den Schuldnerwiderspruch vom Prüfstand der Verwaltung, verlangt das Protokoll oder den Auszug und klärt Titel, Person und Umfang vor Festlegung eines gerichtlichen Nachlaufs. Ordnet offene Belege und nächste Handlung der Mandantin zu.",
+          "deliverables": [
+            "aktennotiz.md"
+          ]
+        }
+      ]
     }
   ],
   "prompt_editorial_review": {
@@ -941,26 +985,28 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Workflow und Fallbreite am 22.10.2026 erweitert: klare Modusfrage nur bei offenem Auftrag, sieben getrennte Bearbeitungsstände, gezielte Fortsetzung nach Nachreichung und vierzehn konkrete Prüffälle. Vorhandene amtlich verifizierte Norm- und Entscheidungsanker bleiben innerhalb ihrer dokumentierten Grenzen.",
+    "reason": "Am 25.11.2026 redaktionell auf Rollenwahl, geschuldetes Arbeitsprodukt, Empfänger in der Eigenverwaltung und Trennung von Anmeldung und Entscheidungsvorschlag geprüft. Anmeldung, Abgleich und Nachlauf am Sachverhalt Solarteile Nord durchgesehen.",
     "changes": [
       "Dialog- und Statusschleife präzisiert.",
       "Vierzehn unterschiedliche Prüffälle samt Tabellenfolge eingebunden.",
-      "Sammelanmeldung, Teil-Titel, Sicherheiten, Rang, Verspätung und gemischte Anspruchsart deutlicher getrennt."
+      "Sammelanmeldung, Teil-Titel, Sicherheiten, Rang, Verspätung und gemischte Anspruchsart deutlicher getrennt.",
+      "Gläubigerauftrag vom Anspruch und Rechenweg zum adressierten Entwurf und zur belegten Antwort auf einen Widerspruch geführt."
     ],
-    "reviewed_on": "2026-10-22",
-    "sha256": "5583ac2439646d8ab21705291f04df93e7c390dbb15cb428cc8f56ceaaf5a6ea"
+    "reviewed_on": "2026-11-25",
+    "sha256": "8176ceaa4e11f7e7b802dfb0f12c05108735767bef69b366f7a8da99daa00af2"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt am 22.10.2026 um eine durchgehende Bearbeitungsschleife, vierzehn fachlich unterschiedliche Prüffälle, vier ausformulierte Musterbriefe und einen entscheidungsorientierten Sprechgang erweitert. Keine neue unbestätigte Rechtsprechung ergänzt.",
+    "reason": "Am 25.11.2026 redaktionell auf Rollenwahl, geschuldetes Arbeitsprodukt, Empfänger in der Eigenverwaltung und Trennung von Anmeldung und Entscheidungsvorschlag geprüft. Anmeldung, Abgleich und Nachlauf am Sachverhalt Solarteile Nord durchgesehen.",
     "changes": [
       "Sieben Statusstufen und fortlaufende Kennung nach Nachreichungen.",
       "Vierzehn Fälle mit Eingangslage, Prüfung, Ergebnisstatus und Tabellenfolge.",
       "Ausformulierte Schreiben für Beleglücke, Rang, Sicherheit und Verspätung.",
-      "Übergabe spricht entscheidungsreife, formell offene und materiell offene Positionen getrennt an."
+      "Übergabe spricht entscheidungsreife, formell offene und materiell offene Positionen getrennt an.",
+      "Gläubigerauftrag vom Anspruch und Rechenweg zum adressierten Entwurf und zur belegten Antwort auf einen Widerspruch geführt."
     ],
-    "reviewed_on": "2026-10-22",
-    "sha256": "8e20f0c4a3e7408bb78cd6e21102ebee4dfce7335475d4b343c5b72a6dca2a58"
+    "reviewed_on": "2026-11-25",
+    "sha256": "987d1caf78c312c195c3695a00ce2a76ffbd617bc3ec120232e7ec5ea6094db9"
   },
   "prompt_opening_review": {
     "date": "2026-10-16",

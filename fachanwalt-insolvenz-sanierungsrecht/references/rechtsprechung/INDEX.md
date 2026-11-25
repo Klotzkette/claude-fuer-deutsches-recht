@@ -1,0 +1,12 @@
+# BGH-Entscheidungen zu Zahlungsunfähigkeit und Zahlungseinstellung
+
+Die sechs Entscheidungen sind nach der jeweiligen Beweisfrage geordnet. Die Links öffnen den mitgelieferten Volltext. Für andere Rechtsfragen oder Beurteilungszeiträume prüfen Sie die jeweils einschlägige Rechtslage.
+
+| Beweisfrage | Aussage und Anwendungsgrenze | Volltext |
+| --- | --- | --- |
+| Wann wird eine streitige, vorläufig titulierte Forderung angesetzt? | Für die Beurteilung durch den Schuldner ist der Nennwert zu berücksichtigen, wenn die Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat. Titel, Maßnahmen und Einstellung jeweils zum Stichtag belegen. | [BGH, Urteil vom 23.01.2025 – IX ZR 229/22](BGH_IX_ZR_229-22_vom_2025-01-23.pdf) |
+| Genügt bei einer streitigen Forderung ein Abschlag nach Prozessrisiko? | Entscheidend sind die objektiven Umstände. Der Beschluss über die Nichtzulassungsbeschwerde erläutert die Maßgeblichkeit der materiellen Rechtslage. | [BGH, Beschluss vom 11.03.2025 – II ZR 139/23](BGH_II_ZR_139-23_vom_2025-03-11.pdf) |
+| Welche Schulden gehören in die Dreiwochenrechnung? | Auch im Zeitraum fällig werdende und eingeforderte Verbindlichkeiten erfassen. Für Einwendungen der Geschäftsführung beachten, auf wessen Buchhaltung der Status beruht. Die im Haftungsstreit anwendbare frühere Norm gesondert einordnen. | [BGH, Urteil vom 19.12.2017 – II ZR 88/16](BGH_II_ZR_88-16_vom_2017-12-19.pdf) |
+| Wie lässt sich Zahlungsunfähigkeit darlegen? | Neben der Liquiditätsbilanz kommen andere geeignete Beweismittel in Betracht, etwa eine Folge aussagekräftiger tagesgenauer Liquiditätsstatus. | [BGH, Urteil vom 28.06.2022 – II ZR 112/21](BGH_II_ZR_112-21_vom_2022-06-28.pdf) |
+| Wie konkret muss ein außenstehender Anfechtungsgegner einen Status bestreiten? | Die Anforderungen hängen von seinen Erkenntnismöglichkeiten und den Angaben der Verwaltung ab. Ein nicht aufgeschlüsselter, nicht belegter Status verlangt regelmäßig kein Bestreiten einzelner Posten. | [BGH, Urteil vom 18.04.2024 – IX ZR 129/22](BGH_IX_ZR_129-22_vom_2024-04-18.pdf) |
+| Wann lässt sich aus einem Indiz auf Zahlungseinstellung schließen? | Ein einzelnes Indiz kann bei hinreichender Aussagekraft genügen. Anderenfalls sind die festgestellten Indizien in ihrer Gesamtheit zu würdigen. Vorsatz und Kenntnis eines Anfechtungsgegners sind eigene Beweisfragen. | [BGH, Urteil vom 28.04.2022 – IX ZR 48/21](BGH_IX_ZR_48-21_vom_2022-04-28.pdf) |

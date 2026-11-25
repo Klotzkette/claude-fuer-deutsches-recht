@@ -16,6 +16,7 @@ MAX_ARCHIVE_NAME = 220
 # Diese Fassung wurde ausdrücklich als vollständige Projektordner-Akte bestellt.
 # Bestehende Testakten behalten ihre flachen Archive.
 STRUCTURED_TESTAKTEN = frozenset({
+    'betriebsvereinbarung-copilot-maschinenbau-kassel',
     'autohaus-boeblingen',
     'neuralis-medtech-erlangen-gestaltungsakte',
     'bav-strategie-konzern-meissner-rheinwerk-ag',
@@ -41,6 +42,7 @@ STRUCTURED_TESTAKTEN = frozenset({
 # Produkte. Das Originalformat-ZIP enthält nur die Quelldokumente; das
 # Gesamt-PDF wird separat und zusätzlich als Einzel-PDF-ZIP bereitgestellt.
 SOURCE_ZIP_WITHOUT_GESAMT_PDF = frozenset({
+    'betriebsvereinbarung-copilot-maschinenbau-kassel',
     'autohaus-boeblingen',
     'neuralis-medtech-erlangen-gestaltungsakte',
     'bav-strategie-konzern-meissner-rheinwerk-ag',

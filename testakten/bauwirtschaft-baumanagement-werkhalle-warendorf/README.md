@@ -12,13 +12,15 @@ Privater Werkhallenbau aus Sicht der Bauherrin und des Projektcontrollings. Kost
 
 <!-- BEGIN vertiefte-ausgabe-20261006 -->
 
-<!-- decimal-anchor --> <a id="vertiefte-ausgabe-vom-6-oktober-2026"></a>
+<a id="vertiefte-ausgabe-vom-6-oktober-2026"></a>
 
-## 1.2. Vertiefte Ausgabe vom 6. Oktober 2026
+<!-- decimal-anchor --> <a id="unterlagen-und-downloadformate"></a>
 
-**43 Originalunterlagen, darunter 5 bearbeitbare Excel-Arbeitsmappen.** Diese Ausgabe ergänzt 13 Aktenstücke. Die bisherigen Originale bleiben vollständig erhalten. Die neuen Mappen erläutern Eingaben, Quellen und Rechenwege; offene Angaben bleiben als solche erkennbar.
+## 1.2. Unterlagen und Downloadformate
 
-Die folgenden Downloads enthalten den vollständigen erweiterten Bestand. Der Fallstichtag steht in den Übergabeunterlagen; das Ausgabedatum macht daraus keine nachträgliche Kenntnis der Beteiligten.
+**43 Originalunterlagen, darunter 5 bearbeitbare Excel-Arbeitsmappen.** Die Arbeitsmappen erläutern Eingaben, Quellen und Rechenwege. Offene Angaben sind gekennzeichnet.
+
+Die Downloadtabelle führt zu den Originaldateien und Lesefassungen. Für Entscheidungen im Fall gilt der in den Übergabeunterlagen bezeichnete Stichtag.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -60,13 +62,13 @@ English: Start with the `Grundakte` folder in the original-format ZIP. It contai
 
 <!-- reserved-example-contacts -->
 
-Die ergänzten Kontaktadressen verwenden reservierte `.example`-Domains und sind nicht für einen Versand bestimmt.
+Adressen mit der reservierten Domain `.example` dienen der Übung und sind nicht zustellbar.
 
 <!-- decimal-anchor --> <a id="bestand"></a>
 
 ## 1.4. Bestand
 
-43 native Aktenstücke, darunter fünf bearbeitbare Excel-Arbeitsmappen. Die ursprünglichen 30 Unterlagen und ihre beiden Arbeitsmappen bleiben unverändert. Zehn zusätzliche Belege und drei neue Fortführungen vertiefen denselben Stichtag. Jede Datei bildet ein Dokument ab; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.
+43 native Aktenstücke, darunter fünf bearbeitbare Excel-Arbeitsmappen. Die Unterlagen, einschließlich der Arbeitsmappen zu Ablauf, Finanzierung und Freigaben, beziehen sich auf denselben Stichtag. Jede Datei bildet ein Dokument ab; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.
 
 | Nr. | Datei |
 | --- | --- |
@@ -131,7 +133,7 @@ Die steuerlichen Fallannahmen wurden am 25. September 2026 mit den amtlichen Ein
 
 ## 1.7. Vertiefung und Workshop
 
-Die Ergänzung hält den Aktenstichtag 25. September 2026, 16:00 Uhr, ein. Sie führt keine späteren Freigaben, Zahlungen oder ausgeführten Versuche als Tatsachen ein. Der Hersteller erläutert die fehlende Schutzbaugruppe, Einkauf und Elektroplanung präzisieren die Alternativen, und der Maschinenbauer grenzt die mögliche Beschleunigung und seine noch offenen Zusatzkosten ab. Die Anfrage zum Abendbetrieb bleibt unbeantwortet.
+Für die Entscheidungen zählt der Kenntnisstand vom 25. September 2026 um 16:00 Uhr. Freigaben, Zahlungen und ausgeführte Versuche sind nur mit einem Beleg bis zu diesem Zeitpunkt anzusetzen. Der Hersteller erläutert die fehlende Schutzbaugruppe, Einkauf und Elektroplanung präzisieren die Alternativen, und der Maschinenbauer grenzt die mögliche Beschleunigung und seine noch offenen Zusatzkosten ab. Die Anfrage zum Abendbetrieb bleibt unbeantwortet.
 
 | Arbeitsmappe | Weiterführung und Erklärung |
 | --- | --- |
@@ -150,8 +152,10 @@ Die folgenden Arbeitsaufträge verwenden die Akte als laufenden Vorgang. Sie geb
 5. Prüfen Sie das Druckluftangebot 38 gegen Restkostenerhebung 13 und Schnittstellenmeldung 39. Führen Sie den Plan so fort, dass die bisherige Leistungsabgrenzung nachvollziehbar bleibt.
 6. Entwerfen Sie die Vorlage für die Besprechung am 28. September mit konkreten Rückfragen, Zuständigkeiten und belegten Entscheidungsalternativen. Ein errechneter Termin oder Bankbestand allein ersetzt keine Freigabe.
 
-<!-- decimal-anchor --> <a id="prüfung-der-ergänzung"></a>
+<a id="prüfung-der-ergänzung"></a>
 
-## 1.8. Prüfung der Ergänzung
+<!-- decimal-anchor --> <a id="prüfung-der-arbeitsmappen"></a>
+
+## 1.8. Prüfung der Arbeitsmappen
 
 Die Angebotswerte übernehmen die Umsatzsteuerangaben der jeweiligen Belege. Die steuerliche Ausgangsannahme wurde am 6. Oktober 2026 erneut anhand der amtlichen Fassungen von [Paragraf 12 Absatz 1 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html) und [Paragraf 13b Absatz 2 Nummer 4 sowie Absatz 5 UStG](https://www.gesetze-im-internet.de/ustg_1980/__13b.html) überprüft. Der Sachverhalt bleibt eine Bauherrin ohne eigene nachhaltige Bauleistungstätigkeit. Die Ergänzung bewertet weder die zivilrechtliche Verantwortlichkeit für den Lieferverzug noch die Zulässigkeit der angefragten Abendzeiten vorab.

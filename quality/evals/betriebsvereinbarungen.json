@@ -1,0 +1,274 @@
+{
+  "schema_version": 1,
+  "plugin": "betriebsvereinbarungen",
+  "reviewed_on": "2026-11-25",
+  "selection": {
+    "target_skill": "betriebsvereinbarung-verhandeln",
+    "positive": [
+      "Für unseren Betrieb soll eine Vereinbarung zum freiwilligen KI-Pilot entstehen. Bringen Sie Entwurf und Beteiligung des Betriebsrats bis zur Verhandlungsfassung zusammen.",
+      "Wir brauchen die Klauseln zum Einführen eines betrieblichen Schichttauschportals, zur Änderung der Erreichbarkeit und zur gemeinsamen Kontrolle des Vollzugs."
+    ],
+    "negative": [
+      "Verfassen Sie nur die Kündigungsschutzklage eines Arbeitnehmers wegen einer betriebsbedingten Kündigung.",
+      "Bewerten Sie die steuerlichen Folgen eines Gesellschafterdarlehens."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/betrvg/__80.html",
+      "checked_on": "2026-11-25",
+      "supports": "Unterlagen und nähere Vereinbarung zur Hinzuziehung von Sachverständigen einschließlich der KI-Regel."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrvg/__87.html",
+      "checked_on": "2026-11-25",
+      "supports": "Mitbestimmung bei technischer Überwachung und Einigungsstelle."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrvg/__90.html",
+      "checked_on": "2026-11-25",
+      "supports": "Rechtzeitige Unterrichtung und Beratung über die Planung von Arbeitsverfahren einschließlich KI."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrvg/__77.html",
+      "checked_on": "2026-11-25",
+      "supports": "Form, Verbindlichkeit, Kündigung, tariflicher Regelungsraum und Nachwirkung."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-abr-7-15/",
+      "checked_on": "2026-11-25",
+      "supports": "Objektive Eignung zu technischer Überwachung anhand der Besucherbeiträge in einer Facebook-Funktion."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62023CJ0065",
+      "checked_on": "2026-11-25",
+      "supports": "Unionsrechtliche Grenzen der kollektiv vereinbarten Verarbeitung von Beschäftigtendaten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__126a.html",
+      "supports": "Qualifizierte elektronische Signatur bei Abschluss in elektronischer Form.",
+      "checked_on": "2026-11-25"
+    },
+    {
+      "url": "https://learn.microsoft.com/de-de/copilot/plan/copilot-overview",
+      "supports": "Dienstumfang und Lizenzvoraussetzungen von Microsoft 365 Copilot und Copilot Chat werden getrennt geprüft.",
+      "checked_on": "2026-11-25"
+    }
+  ],
+  "cases": [
+    {
+      "id": "pilotabnahme",
+      "target_skill": "betriebsvereinbarung-verhandeln",
+      "request": "Bereiten Sie für Arbeitgeberin und Betriebsrat die konsolidierte Pilotvereinbarung nach der zweiten Verhandlungsrunde vor. Arbeiten Sie konkrete Zugriffs-, Start- und Änderungsbedingungen aus. Trennen Sie die entscheidungsreifen Klauseln von den noch zu belegenden Annahmen. Die unmittelbar verhandlungsfähige Fassung ist das Arbeitsergebnis.",
+      "input_files": [
+        "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/gesamt-pdf/betriebsvereinbarung-copilot-maschinenbau-kassel_gesamt.pdf"
+      ],
+      "deliverables": [
+        "pilotvereinbarung.md",
+        "freigabevermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "K01",
+          "text": "Die Vereinbarung begrenzt die beiden Arbeitsaufgaben und den Kreis von 24 vorgesehenen Lizenzen. Ein reservierter Lizenzplatz ist noch keine Produktivfreigabe.",
+          "deliverables": [
+            "pilotvereinbarung.md"
+          ]
+        },
+        {
+          "id": "K02",
+          "text": "Die Berichtsregel erhält eine belastbare Sperre gegen Rückschlüsse aus dem Servicebüro mit drei vorgesehenen und einem aktiven Testkonto. Einzelzeilen und Verknüpfung mit Schichtlisten sind behandelt.",
+          "deliverables": [
+            "pilotvereinbarung.md"
+          ]
+        },
+        {
+          "id": "K03",
+          "text": "Eine unprivilegierte Stichprobe ersetzt die Sicht des Supportkontos. Das ausstehende Ergebnis vom 1. Oktober führt zu einer bedingten, begrenzten oder verschobenen Freigabe statt einer abgeschlossenen Abnahme.",
+          "deliverables": [
+            "freigabevermerk.md"
+          ]
+        },
+        {
+          "id": "K04",
+          "text": "Das Ergebnis trennt echte Zweckbindung, Freigabeverantwortliche und kontrollierbare Löschung. Teilnahme oder Ausstieg dürfen bei Personalentscheidungen nicht als Leistungsmerkmal verwendet werden.",
+          "deliverables": [
+            "pilotvereinbarung.md"
+          ]
+        },
+        {
+          "id": "K05",
+          "text": "Der Beschluss vom 18. September betrifft nur die nähere Vereinbarung über Sachverstand. Die Vorlage setzt keinen Beschluss zur Unterzeichnung oder zum Produktivstart voraus.",
+          "deliverables": [
+            "freigabevermerk.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "expertise-kosten",
+      "target_skill": "sachverstaendige-beauftragen",
+      "request": "Stellen Sie dem Betriebsrat den konkreten Verhandlungsstand für den externen Sachverständigen dar. Verfassen Sie eine nach Umfang, Kosten und Zutritt verwendbare nähere Vereinbarung und ein kurzes Anschreiben mit einer Lösung für den Unterschied zwischen Angebot und Arbeitgeberantwort.",
+      "input_files": [
+        "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/Grundakte/08_angebot-systempruefung.docx",
+        "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/Nachreichungen/09_betriebsratsbeschluss.docx",
+        "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/Nachreichungen/10_kosten-und-auftrag.eml"
+      ],
+      "decode_mime_mail": true,
+      "deliverables": [
+        "auftrag.md",
+        "anschreiben.md"
+      ],
+      "criteria": [
+        {
+          "id": "K01",
+          "text": "§ 80 Abs. 3 Satz 2 BetrVG wird auf die nötige KI-Beurteilung bezogen. Die Erforderlichkeitsregel löst den Streit über Person, Kosten und nähere Vereinbarung nicht automatisch.",
+          "deliverables": [
+            "auftrag.md"
+          ]
+        },
+        {
+          "id": "K02",
+          "text": "7 Ja-Stimmen und 1 Nein-Stimme stützen den begrenzten Verhandlungsauftrag. Die 3,5 Tage zu 1.280 EUR netto ergeben 4.480 EUR netto bzw. 5.331,20 EUR brutto. Gegenstand, Zugang und Ergebnis sind begrenzt.",
+          "deliverables": [
+            "auftrag.md"
+          ]
+        },
+        {
+          "id": "K03",
+          "text": "Die angebotenen zwei Tage entsprechen 2.560 EUR netto. Eine mehrstufige Lösung macht eine Zusatzbeauftragung und weitere Kosten von einem nachvollziehbaren Anlass und einer weiteren Einigung abhängig.",
+          "deliverables": [
+            "anschreiben.md"
+          ]
+        },
+        {
+          "id": "K04",
+          "text": "Die Stellungnahme unterscheidet ein kontrolliertes Testverfahren von selbständigem Produktionszugang. Reale Prompt-Inhalte werden nicht aus dem Angebot herausgelesen.",
+          "deliverables": [
+            "auftrag.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bericht-kleingruppe",
+      "target_skill": "technik-und-kontrolle-pruefen",
+      "request": "Das Servicebüro sieht im wöchentlichen Lizenzbericht eine Gefahr für Einzelne. Ermitteln Sie anhand von Testexport, BR-Gegenfassung und der Ergänzung der IT die konkreten Beobachtungsmöglichkeiten und liefern Sie ein neues Berichtsformat samt Abnahmeprüfung, das der Projektleitung eine Entscheidung über Lizenzen erlaubt.",
+      "input_files": [
+        "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/Nachreichungen/11_rollentest.xlsx",
+        "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/Nachreichungen/12_musterbericht.csv",
+        "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/Nachreichungen/14_gegenentwurf-br.docx",
+        "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/Nachreichungen/15_berechtigungsticket.eml"
+      ],
+      "decode_mime_mail": true,
+      "deliverables": [
+        "berichtsanlage.md"
+      ],
+      "criteria": [
+        {
+          "id": "K01",
+          "text": "Die Tabelle in KW 38 ist eine betriebliche Zusammenstellung aus synthetischen Testkonten. Sie wird nicht als allgemein verfügbares oder unveränderliches Herstellerformat beschrieben.",
+          "deliverables": [
+            "berichtsanlage.md"
+          ]
+        },
+        {
+          "id": "K02",
+          "text": "Der Testerfolg in S-01 beweist den gleichen Zustand in P-01 nicht. Direkter Zugriff und Weitergabe eines Exports sind getrennt berücksichtigt.",
+          "deliverables": [
+            "berichtsanlage.md"
+          ]
+        },
+        {
+          "id": "K03",
+          "text": "Mindestgruppengröße, Zusatzwissen, Zeitfenster und Differenzbildung werden mit dem drei Personen umfassenden Team geprüft. Die Alternative erlaubt eine eng umrissene aggregierte Lizenzentscheidung.",
+          "deliverables": [
+            "berichtsanlage.md"
+          ]
+        },
+        {
+          "id": "K04",
+          "text": "Ein nachgewiesener produktiver Test mit der vorgesehenen Rollenstufe und ein verantwortlicher Abnahmeweg begrenzen die Freigabe. Das Ticket zum Schulungsordner ist noch nicht geschlossen.",
+          "deliverables": [
+            "berichtsanlage.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-11-25",
+    "method": "desk_review",
+    "files": [
+      "betriebsvereinbarungen/betriebsvereinbarungen-werkstatt.md",
+      "betriebsvereinbarungen/betriebsvereinbarungen-schnellstart.md"
+    ],
+    "opening_change": "Die Einstiege führen zum angeforderten Vereinbarungstext, erklären die objektive Überwachungseignung und verankern technische Fragen in den belegten Rollen und Berichten.",
+    "norms": [
+      "§§ 77, 80, 87 und 90 BetrVG",
+      "Art. 5, 6, 9 und 88 DSGVO, § 26 BDSG"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Beschluss vom 13. Dezember 2016 – 1 ABR 7/15.",
+        "application": "Beim Pilotbericht ist die Eignung zur Erfassung des Verhaltens an konkreten Rollen, Feldern und der möglichen Rückführung auf Beschäftigte zu prüfen.",
+        "limit": "Der Fall betraf Facebook-Besucherbeiträge. Die technische Konfiguration eines Microsoft-365-Mandanten bedarf eigener Nachweise.",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-abr-7-15/"
+      },
+      {
+        "citation": "EuGH, Urteil vom 19. Dezember 2024 – C-65/23, MK gegen K GmbH.",
+        "application": "Die Betriebsparteien müssen die Erforderlichkeit ihrer vorgesehenen Datenverarbeitung begründen und weniger eingriffsintensive Berichtswege prüfen.",
+        "limit": "Herstellerfunktionen und tatsächliche Erforderlichkeit im konkreten Betrieb lassen sich aus dem Urteil nicht feststellen.",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62023CJ0065"
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Quellen- und Fallprüfung; die Konfiguration ist fiktiv. Es wurde kein produktiver Microsoft-Mandant und kein Modelllauf bewertet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-11-25",
+    "method": "desk_review",
+    "opening_modes": [
+      "Einzelne Klausel mit konkreter Regel, Norm und Ersatzformulierung überarbeiten.",
+      "Aus Grundakte und Entwurfsständen eine vollständige Vereinbarung für die beauftragte Seite ausarbeiten.",
+      "Ohne Unterlagen Partei, Regelungsgegenstand und die für den nächsten Abschnitt entscheidende fehlende Angabe erfragen."
+    ],
+    "continuation": "Rollentest, Abstimmung und Sachverständigenangebot in derselben Vertragsfassung sowie in der Freigabeanlage fortführen.",
+    "enrichment": "Eine Klauselübersicht verbindet Vorschlag, technische Datenquelle, Empfänger, Schutzregel und Abnahmenachweis.",
+    "limits": "Freigaben, Betriebsratsbeschlüsse, Beauftragungen und Unterschriften bleiben bei den zuständigen Beteiligten."
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Der Fachweg führt je nach Auftrag vom Regelungsraum zum konkreten Klauseltext und zur späteren Abnahme. Die Nachreichungen verlangen eine Revision derselben Fassung.",
+    "changes": [
+      "Technische Zugriffssicht und Interessen am Lizenzbericht anhand der Akte geprüft.",
+      "Kostenvereinbarung und Beschlusstext als getrennte Ergebnisse beschrieben."
+    ],
+    "sha256": "2876fc843d857c8aa6aeb8c88eefb3a12bc8e3da9f0b902e5408fd7b29a5ae07"
+  },
+  "mini_review": {
+    "verdict": "retained",
+    "reason": "Der Schnellstart fordert einen direkt verwendbaren ersten Text und verbindet die beispielhafte Kontrollfrage mit dem gesetzlichen Beteiligungsweg.",
+    "changes": [
+      "Objektive Eignung und Erforderlichkeitsprüfung anhand nachgewiesener Primärquellen kontrolliert."
+    ],
+    "sha256": "f07ea26ec4a9c855be3d494c00f35d6692693c599097484773f94521cdc39fa6"
+  },
+  "artifact_hashes": {
+    "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/Grundakte/08_angebot-systempruefung.docx": "5d7da252ad399d8f0e04afd1eb5a8808639c00cdc4b8c9d5a7ef8ac9434aa3df",
+    "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/Nachreichungen/09_betriebsratsbeschluss.docx": "c4efbcd788a3e181ed2414e8735e1f385a0ce5859c77799f13fd8693401cdc86",
+    "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/Nachreichungen/10_kosten-und-auftrag.eml": "a41f01c1419cdd9c16820ad24b34c3965f8326f07c85521656569876a429508b",
+    "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/Nachreichungen/11_rollentest.xlsx": "05ef3993b71c5fbf949c7d0d7289bae824df7b56e83bb1eef52f07bbb032d4f4",
+    "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/Nachreichungen/12_musterbericht.csv": "765462869aadf3378d07465ac8c891286d45b01aab8f294b2e82f3fc2919ea66",
+    "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/Nachreichungen/14_gegenentwurf-br.docx": "0e11050917def15993583bcf04afeab6c1750134feb044f105017f21ae2c6ee5",
+    "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/Nachreichungen/15_berechtigungsticket.eml": "756f9617c74bba8e61184a9b00fc40cdb619928f5bb00de49ca59a22e8f4a606",
+    "testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/gesamt-pdf/betriebsvereinbarung-copilot-maschinenbau-kassel_gesamt.pdf": "854937ce92889bc24bcba451e5e86a5292551fc96e2e72f52a33317932a7b21a"
+  },
+  "reviewed_file_hashes": {
+    "betriebsvereinbarungen/skills/betriebsvereinbarung-verhandeln/SKILL.md": "426ce6d0fc4c67db12d898c7a3006c70526cc36dab8eac66965a4ad7203a4ee8",
+    "betriebsvereinbarungen/references/quellen.md": "99695761deb712c67d4cfdcd81d5851249cf037a53f24cd03eb3b92b36c069fe",
+    "betriebsvereinbarungen/references/pilotklauseln.md": "94a8ee262a4a3f99806a272f7ebd42d0b8b03920d94fd8210d04d372d8603e00",
+    "betriebsvereinbarungen/references/arbeitsoberflaeche-und-visualisierung.md": "41b303f904e0c193c592170291ba70c9fa36b6a6096e723a7e1157eded85209c"
+  }
+}

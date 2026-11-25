@@ -67,7 +67,7 @@ Versicherungsscheine, Selbstbehalte, Meldegrenzen und Rückversicherungspriorit�
 
 ## 1.5. Vertiefter Schriftwechsel und bearbeitbare Briefe
 
-20 Arbeitsdateien einschließlich der gesonderten Fassungen in Word und PDF. Das aktualisierte Gesamt-PDF umfasst 39 Seiten. Ein Brief in zwei Formaten und seine MIME-Anlage sind derselbe Beleg; sie dürfen weder als zusätzlicher Schaden noch als unabhängige Bestätigung gezählt werden. Die Akteneingänge und bisher vorhandenen Klageentwürfe bleiben erhalten. Neu hinzugekommene Unterlagen befinden sich unter `kommunikation-und-deckung`. Vorhandene Brief-PDFs erhalten ergänzende Word-Fassungen unter `briefvorlagen`, soweit solche Briefe bereits zur Akte gehörten.
+20 Arbeitsdateien einschließlich der gesonderten Fassungen in Word und PDF. Das Gesamt-PDF umfasst 39 Seiten. Ein Brief, seine PDF-Fassung und die per E-Mail übermittelte Anlage zählen als ein Beleg. Den Schriftwechsel zur Deckung finden Sie unter `kommunikation-und-deckung`.
 
 Synthetischer Landkreis Mainleiten und synthetische Gemeinde Apfelried im für die Übung gesetzten Landgerichtsbezirk Würzburg. Die Kreisstraße ML 17 und sämtliche Anschriften sind erfunden. Der Landkreis wird wegen eigener Organisations- und Kontrollversäumnisse verklagt; ein privatrechtlicher Dienstleistungsvertrag verschiebt die Straßenbaulast nicht. Die Verletzte hat keinen Anspruch gegen AKHA oder den Rückversicherer aus deren interner Abrechnung. Unbezifferter Schmerzensgeldantrag mit 90.000 EUR Orientierung; bezifferter materieller Schaden 22.730 EUR; Feststellung weiterer eigener materieller Schäden, soweit noch nicht vom Zahlungsantrag erfasst. Kein Verfahren eingeleitet. Reserven sind keine anerkannten Forderungen.
 

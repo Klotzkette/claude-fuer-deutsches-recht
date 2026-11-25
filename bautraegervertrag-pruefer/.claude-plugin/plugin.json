@@ -1,7 +1,7 @@
 {
   "name": "bautraegervertrag-pruefer",
   "version": "445.36.11",
-  "description": "Prüft Bauträgerverträge aus Erwerber-, Bauträger-, GdWE- und Verwaltersicht: Bausoll, MaBV-Raten, Sicherheiten, Eigentum, Abnahme, Mängel, Verjährung und Sonderkonstellationen. Zehn Arbeitswege verbinden beide Fachbibliotheken und alle bisherigen Testakten.",
+  "description": "Prüft Bauträgerverträge aus Sicht von Erwerbern, Bauträgern, GdWE und Verwaltung. Zehn Arbeitswege, zwei Fachbibliotheken und Testakten erschließen Bausoll, MaBV-Raten, Sicherheiten, Eigentum, Abnahme, Mängel und Verjährung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",

@@ -2,9 +2,9 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.35.3`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 3189 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Wähle ein Plugin, um unter den 3179 Skills den passenden Arbeitsablauf zu finden. Jede Detailseite enthält die Beschreibungen und direkten Markdown-Downloads dieses Plugins.
 
-English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
+Each plugin has a page with its skill descriptions and individual Markdown downloads. Select a plugin and choose `Download MD` to save a skill.
 
 [Hauptskills](#hauptskills) · [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Download-Index](../ASSET_INDEX.md) · [Werkstatt und Schnellstart](../docs/werkstatt-und-schnellstart-coverage.md) · [Testakten](../testakten/README.md)
 
@@ -66,6 +66,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [betaeubungsmittelrecht](./betaeubungsmittelrecht.md) (9 Skills)
 - [betreuungsrecht](./betreuungsrecht.md) (10 Skills)
 - [betriebskosten-hausverwaltung](./betriebskosten-hausverwaltung.md) (10 Skills)
+- [betriebsvereinbarungen](./betriebsvereinbarungen.md) (10 Skills)
 - [bgb-at-pruefer](./bgb-at-pruefer.md) (9 Skills)
 - [bgb-bt-pruefer](./bgb-bt-pruefer.md) (10 Skills)
 - [bieter-unternehmen](./bieter-unternehmen.md) (8 Skills)
@@ -184,10 +185,8 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [informationsfreiheit-presseauskunft](./informationsfreiheit-presseauskunft.md) (7 Skills)
 - [insiderrecht-compliance](./insiderrecht-compliance.md) (9 Skills)
 - [insolvenzanfechtung](./insolvenzanfechtung.md) (11 Skills)
-- [insolvenzforderungen-checker](./insolvenzforderungen-checker.md) (11 Skills)
-- [insolvenzforderungsanmeldungspruefung](./insolvenzforderungsanmeldungspruefung.md) (8 Skills)
+- [insolvenzforderungen-checker](./insolvenzforderungen-checker.md) (12 Skills)
 - [insolvenzplan-starug-planwerkstatt](./insolvenzplan-starug-planwerkstatt.md) (8 Skills)
-- [insolvenzrecht](./insolvenzrecht.md) (13 Skills)
 - [insolvenzsachbearbeitung](./insolvenzsachbearbeitung.md) (11 Skills)
 - [insolvenzverwaltung](./insolvenzverwaltung.md) (9 Skills)
 - [insolvenzverwaltung-berichtsersteller](./insolvenzverwaltung-berichtsersteller.md) (11 Skills)
@@ -451,6 +450,7 @@ Beginne einen Vorgang mit dem Hauptskill des passenden Plugins. Gib den Auftrag 
 | [betaeubungsmittelrecht](./betaeubungsmittelrecht.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betaeubungsmittelrecht/skills/juristischer-argumentationskern/SKILL.md) |
 | [betreuungsrecht](./betreuungsrecht.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betreuungsrecht/skills/juristischer-argumentationskern/SKILL.md) |
 | [betriebskosten-hausverwaltung](./betriebskosten-hausverwaltung.md) | [`belege-bis-zur-abrechnung` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betriebskosten-hausverwaltung/skills/belege-bis-zur-abrechnung/SKILL.md) |
+| [betriebsvereinbarungen](./betriebsvereinbarungen.md) | [`betriebsvereinbarung-verhandeln` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betriebsvereinbarungen/skills/betriebsvereinbarung-verhandeln/SKILL.md) |
 | [bgb-at-pruefer](./bgb-at-pruefer.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bgb-at-pruefer/skills/juristischer-argumentationskern/SKILL.md) |
 | [bgb-bt-pruefer](./bgb-bt-pruefer.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bgb-bt-pruefer/skills/juristischer-argumentationskern/SKILL.md) |
 | [bieter-unternehmen](./bieter-unternehmen.md) | [`vergabe-os-master-orchestrator` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/skills/vergabe-os-master-orchestrator/SKILL.md) |
@@ -549,9 +549,7 @@ Beginne einen Vorgang mit dem Hauptskill des passenden Plugins. Gib den Auftrag 
 | [insiderrecht-compliance](./insiderrecht-compliance.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insiderrecht-compliance/skills/juristischer-argumentationskern/SKILL.md) |
 | [insolvenzanfechtung](./insolvenzanfechtung.md) | [`anfechtung-steuern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/skills/anfechtung-steuern/SKILL.md) |
 | [insolvenzforderungen-checker](./insolvenzforderungen-checker.md) | [`forderungen-pruefen-und-tabelle-vorbereiten` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/skills/forderungen-pruefen-und-tabelle-vorbereiten/SKILL.md) |
-| [insolvenzforderungsanmeldungspruefung](./insolvenzforderungsanmeldungspruefung.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungsanmeldungspruefung/skills/juristischer-argumentationskern/SKILL.md) |
 | [insolvenzplan-starug-planwerkstatt](./insolvenzplan-starug-planwerkstatt.md) | [`kommandocenter` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzplan-starug-planwerkstatt/skills/kommandocenter/SKILL.md) |
-| [insolvenzrecht](./insolvenzrecht.md) | [`juristischer-argumentationskern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/skills/juristischer-argumentationskern/SKILL.md) |
 | [insolvenzsachbearbeitung](./insolvenzsachbearbeitung.md) | [`insolvenzsachbearbeitung-steuern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzsachbearbeitung/skills/insolvenzsachbearbeitung-steuern/SKILL.md) |
 | [insolvenzverwaltung](./insolvenzverwaltung.md) | [`kommandocenter` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzverwaltung/skills/kommandocenter/SKILL.md) |
 | [insolvenzverwaltung-berichtsersteller](./insolvenzverwaltung-berichtsersteller.md) | [`berichtserstellung-steuern` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzverwaltung-berichtsersteller/skills/berichtserstellung-steuern/SKILL.md) |

@@ -18,9 +18,9 @@ Skill-Name, sichtbare Überschrift und Beschreibung benennen denselben konkreten
 
 Vor dem Schreiben neuer oder überarbeiteter Skills den Hauptworkflow, die Abgrenzung der Spezialaufgaben, die verständlichen Namen und die Gesamtzahl einschließlich Hauptskill prüfen. Generatoren dürfen bei Namenskollisionen keine nummerierten Ersatznamen erfinden und keine vorhandenen Einstiegsskills still entfernen oder reaktivieren. Bestehende Namen nur gezielt ändern und dann sämtliche Verweise nachführen. Eine bestandene Namenssyntax- oder Existenzprüfung belegt weder sprachliche Verständlichkeit noch einen fachlich vollständigen Hauptworkflow; diese Punkte zusätzlich am Inhalt prüfen.
 
-## README-Einstiege
+## READMEs und Aktenbeschreibungen
 
-READMEs beginnen mit Zweck, Zielgruppe und Benutzung des jeweiligen Angebots. Keine vorangestellte Änderungschronik, keine Meldungen wie „Neu“, „Erweitert“ oder Vergleiche mit Vorgängerversionen. Versionsstände und Änderungen gehören ins Changelog oder in Release-Notes; im README genügt ein Verweis nach der Einführung. Fachlich erforderliche Rechtsstandsangaben und konkrete Nutzungshinweise bleiben erhalten.
+READMEs beginnen mit Zweck, Zielgruppe und Benutzung des jeweiligen Angebots. Auf Startseiten, in Plugin-READMEs und in den Erläuterungen zu Testakten beschreiben auch spätere Abschnitte, Tabellen und generierte Texte unmittelbar, was Leser vorfinden und wie sie damit arbeiten. Dokumentiere Änderungen am Repository im Changelog oder in den Release-Notes. Aktenchronologie, Rechtsstand und für einen Download oder die Installation maßgebliche Versionen gehören an die fachlich passende Stelle.
 
 ## Einstiege eigenständiger Prompts
 

@@ -7,6 +7,8 @@ noch einen Live-Modelltest und gilt ausschließlich für benannte Hauptskills.
 """
 from __future__ import annotations
 
+from consolidation_editions import previous as previous_edition, previous_file, register as edition_register, retained_entries
+
 import hashlib
 import json
 import os
@@ -72,6 +74,7 @@ def before_notariat_marketplace_count(root, path, current, *, plugin=None):
     if path.name != "README.md" or b"<!-- BEGIN direkt-loslegen (autogen) -->" not in current:
         return current
     catalog = load(root / ".claude-plugin/marketplace.json")["plugins"]
+    catalog += retained_entries(root, catalog)
     additions = {"allgemeines-notariat", "aktenanleger", "umwandlungssteuerrecht"}
     present = {row["name"] for row in catalog} & additions
     # Nur die zwei tatsächlich dokumentierten Erweiterungsstände sind umkehrbar.
@@ -212,7 +215,7 @@ def metadata_previous_bytes(root, path, *, plugin=None, expected_hash=None):
     if row.get("archive") != ARCHIVE + relative + ".txt":
         raise ValueError("Falscher Metadatenarchivpfad")
     old = inside(root, row["archive"]).read_bytes()
-    current = path.read_bytes()
+    current = previous_file(root, path)
     package_revision = row.get("package_route_revision")
     if path == source / "README.md":
         from release_routing import RELEASE_BASE, scoped_asset_url
@@ -296,8 +299,11 @@ def previous_bytes(root, path, *, plugin=None):
     name = row.get("plugin")
     if plugin is not None and name != plugin:
         raise ValueError(f"{relative}: Hauptskill-Nachweis gehört zu anderem Plugin")
-    sources = {p["name"]: p["source"] for p in load(root / ".claude-plugin/marketplace.json")["plugins"]}
+    catalog = load(root / ".claude-plugin/marketplace.json")["plugins"]
+    sources = {p["name"]: p["source"] for p in catalog + retained_entries(root, catalog)}
     profiles = load(root / "scripts/data/werkstatt-visualisierung-profile.json")["plugins"]
+    for retired, entry in edition_register(root).get("retired", {}).items():
+        profiles[retired] = {"entry_skills": [entry["entry_skill"]]}
     try:
         expected = inside(root, sources[name]) / "skills" / profiles[name]["entry_skills"][0] / "SKILL.md"
     except (KeyError, IndexError, TypeError) as exc:
@@ -308,7 +314,7 @@ def previous_bytes(root, path, *, plugin=None):
     if row.get("archive") != archive_name:
         raise ValueError(f"{relative}: falscher Archivpfad")
     old = inside(root, archive_name).read_bytes()
-    current = path.read_bytes()
+    current = previous_file(root, path)
     last_reviewed = before_fachaufnahme(root, path, current, plugin=name)
     last_reviewed = before_patentanmelder(root, path, last_reviewed, plugin=name)
     followup = row.get("publication_followup")
@@ -491,7 +497,7 @@ def validate_fachkorrekturen(root):
             continue  # Historischer Stand oder Testbestand ohne diese Korrekturrunde.
         for name, row in fachkorrektur_register(root, topic, required=True).items():
             path = inside(root, name)
-            fachkorrektur_vorfassung(root, topic, Path(name), row, path.read_bytes(), None)
+            fachkorrektur_vorfassung(root, topic, Path(name), row, previous_file(root, path), None)
 
 
 def before_fachaufnahme(root, path, current, *, plugin=None):
@@ -560,7 +566,7 @@ def validate_pruefer_release(root):
         for name, row in entries.items():
             if not pruefer_release_path(Path(name)):
                 raise ValueError(f"{name}: unzulässiger Fachtext im Prüferarchiv")
-            current = inside(root, name).read_bytes()
+            current = previous_file(root, inside(root, name))
             pruefer_predecessor(files, name, row, current)
 
 
@@ -636,11 +642,14 @@ def before_package_download_link(root, path, current, expected, *, plugin=None):
 
 def historical_bytes(root, path, expected, *, plugin=None):
     """Ein Hash passt entweder unmittelbar oder zu einer vollständig belegten Vorfassung."""
-    current = Path(path).read_bytes()
-    if digest(current) == expected:
+    root, path = Path(root).resolve(), Path(path).resolve()
+    live = path.read_bytes()
+    current = previous_edition(root, path.relative_to(root).as_posix(), live)
+    if digest(live) == expected:
+        return live
+    if current != live and digest(current) == expected:
         return current
     from case_navigation_revision import CASES, previous_case_readme
-    root, path = Path(root).resolve(), Path(path).resolve()
     patent_previous = before_patentanmelder(root, path, current, plugin=plugin)
     if patent_previous != current and digest(patent_previous) == expected:
         return patent_previous
@@ -693,7 +702,7 @@ def validate_all(root):
     if (root / PATENT_PROOF).is_dir():
         for relative in patent_register(root):
             path = inside(root, relative)
-            before_patentanmelder(root, path, path.read_bytes(), plugin="patentrecht")
+            before_patentanmelder(root, path, previous_file(root, path), plugin="patentrecht")
     return len(rows)
 
 

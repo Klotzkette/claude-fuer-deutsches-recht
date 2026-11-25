@@ -391,6 +391,12 @@ def first_product(directory: Path, plugin_name: str) -> str:
 
 
 def quickstart_section(plugin_name: str, directory: Path) -> str:
+    if plugin_name == "betriebsvereinbarungen":
+        return """## In 30 Sekunden starten
+
+Wählen Sie `betriebsvereinbarung-verhandeln` oder öffnen Sie die Werkstatt aus der Downloadtabelle. In der [Copilot-Akte](../testakten/betriebsvereinbarung-copilot-maschinenbau-kassel/README.md) beginnen Sie mit dem Projektauftrag, der Nachricht des Betriebsrats und den technischen Unterlagen der Grundakte.
+
+> Ich begleite den Betriebsrat. Formuliere unsere Fragen für das erste Gespräch mit der Geschäftsleitung und einen Auftrag für die sachverständige Person. Entwirf anschließend die Pilotvereinbarung. Halte die offenen Punkte zur Einzelpersonenauswertung für die Verhandlung fest."""
     if plugin_name == "fachanwalt-insolvenz-sanierungsrecht":
         return """## In 30 Sekunden starten
 
@@ -431,11 +437,11 @@ Fünf Schritte erstellen die Vergabeunterlagen, fünf weitere begleiten Eingang,
     if plugin_name == "insolvenzforderungen-checker":
         return """## In 30 Sekunden starten
 
-Wählen Sie `forderungen-pruefen-und-tabelle-vorbereiten`. Ohne Installation verwenden Sie den Mini-Prompt oder die ausführliche Werkstatt aus der Downloadtabelle.
+Für eine Gläubigerin oder einen Gläubiger wählen Sie `forderung-zur-insolvenztabelle-anmelden`. In der Insolvenzverwaltung beginnen Sie mit `forderungen-pruefen-und-tabelle-vorbereiten`. Ohne Installation verwenden Sie den Mini-Prompt oder die Werkstatt aus der Downloadtabelle.
 
 > Eröffnungsbeschluss, zehn Forderungsanmeldungen und Belege liegen im Ordner. Gleiche Beträge, Verträge, Zahlungen und Sicherheiten ab. Erstelle begründete Tabellenvorschläge und die dazugehörigen Gläubigerbriefe. Frage nur nach entscheidenden fehlenden Unterlagen.
 
-Das Paket arbeitet für die Insolvenzverwaltung. Es trennt angemeldete Beträge, interne Prüfung und gerichtliche Feststellung. Verspätete und nachrangige Anmeldungen sowie Sicherheiten erhalten eigene Prüfwege. Elektronische Exporte werden vorbereitet, aber nicht automatisch versandt. Dies ist ein Experiment und keine Rechtsberatung."""
+Für die Gläubigerseite entstehen eine individualisierte Anmeldung mit Anlagen und eine Fristennotiz. Für die Verwaltung dokumentieren Sie die Prüfung und den Tabellenvorschlag. Die Feststellung richtet sich nach dem Prüfungstermin oder dem schriftlichen Verfahren. Verspätete und nachrangige Anmeldungen sowie Sicherheiten erhalten eigene Prüfwege. Elektronische Exporte werden vorbereitet, aber nicht automatisch versandt. Dies ist ein Experiment und keine Rechtsberatung."""
     if plugin_name == "eigenbedarfskuendigungschecker":
         return """## In 30 Sekunden starten
 
@@ -705,9 +711,12 @@ Starten Sie die lokale App nach der Anleitung in dieser README. Die Installation
     elif plugin_name == "sektorenvergabe-workflow":
         skill_note = "Elf Skills sind direkt enthalten: fünf zur Unterlagenerstellung, fünf zur Verfahrensführung und ein Hauptskill. Jeder Fachskill enthält Eingaben, Normen, Entscheidungsanker und eine Übergabe für die manuelle Sequenz. Referenzen vertiefen die Quellenprüfung; Werkstatt und Mini sind separate eigenständige Downloads."
         skill_note_en = "Eleven skills are included: five for tender documents, five for procedure management and one coordinating skill. Each task skill provides inputs, legal anchors and a handover for manual sequencing. References add source detail; workshop and mini prompt are separate standalone downloads."
+    elif plugin_name == "betriebsvereinbarungen":
+        skill_note = "Zehn Skills führen von der Zuständigkeitsprüfung über die Verhandlung bis zur Durchführung. Der Hauptskill begleitet den gesamten Auftrag."
+        skill_note_en = "Ten skills cover jurisdiction, negotiation, adoption and implementation of a works agreement. The main skill guides the complete assignment."
     elif plugin_name == "insolvenzforderungen-checker":
-        skill_note = "Alle elf Skills sind unmittelbar enthalten: ein Hauptskill und zehn Fachskills. Werkstatt und Mini-Prompt sind eigenständige Downloads. Der optionale Exporthelfer und seine Referenz gehören zum Plugin-ZIP; einzelne Skill-Downloads benötigen diese Hilfsdateien zusätzlich."
-        skill_note_en = "All eleven skills are included directly: one main workflow and ten specialist skills. Workshop and mini prompt are standalone downloads. The optional export helper and its reference are bundled in the plugin ZIP; individual skill downloads need those files separately."
+        skill_note = "Die zwölf Skills decken die Anmeldung auf Gläubigerseite und die Prüfung durch die Insolvenzverwaltung ab. Das Paket enthält die Arbeitsvorlagen und den optionalen Exporthelfer."
+        skill_note_en = "The twelve skills cover filing a claim for a creditor and reviewing claims for the insolvency administrator. The package includes the working forms and the optional export tool."
     elif plugin_name == "gmbh-gesellschafterversammlung":
         skill_note = "Alle sechs Skills sind unmittelbar enthalten: fünf Fachskills und der Hauptproblem-Skill gesellschafterversammlung-organisieren. Die Werkstatt und der Mini-Prompt sind gesonderte eigenständige Downloads. Referenzen, Ausgabebausteine und Stimmenprüfer gehören zum Plugin-ZIP; beim Einzel-Download eines Skills müssen seine Hilfsdateien zusätzlich verfügbar sein."
         skill_note_en = "All six skills are included directly: five task skills and one main workflow. The workshop and mini prompt are separate standalone downloads. References, drafting blocks and the vote calculator are included in the plugin ZIP; an individual skill download does not include its supporting files."
@@ -750,7 +759,7 @@ Starten Sie die lokale App nach der Anleitung in dieser README. Die Installation
 
 {description}
 
-Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.{marketplace_install_note}
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.{marketplace_install_note}
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -783,13 +792,13 @@ Links labelled “MD herunterladen / Download MD” start a file download. Navig
 | Großer Prompt (Werkstatt) | Markdown | [`{werkstatt_file}`]({werkstatt_url}) |
 {focus_download}| Zugeordnete Testakten | PDF / ZIP | {testakte_cell} |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`]({RELEASE_BASE}/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index]({assets}); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.{testakten_block}
+> Das Sammelpaket [`alle-plugins-megazip.zip`]({RELEASE_BASE}/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index]({assets}). Werkstatt und Schnellstart stehen als Markdown bereit.{testakten_block}
 {END}""")
     if not enabled(plugin_name, "schnellstart"):
         result = "\n".join(line for line in result.split("\n") if not line.startswith(("| Schnellstart / Mini-Prompt |", "| Kompakter Prompt (Schnellstart) |")))
         result = result.replace("einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung", "der eigenständige Werkstatt-Prompt für die vollständige Bearbeitung")
         result = result.replace("Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.", "Verknüpfte Hilfsdateien müssen beim eigenständigen Einsatz zusätzlich bereitstehen.")
-        result = result.replace("Werkstatt und Schnellstart bleiben direkte Markdown-Downloads", "der Werkstatt-Prompt bleibt ein direkter Download")
+        result = result.replace("Werkstatt und Schnellstart stehen als Markdown bereit", "Die Werkstatt steht als Markdown bereit")
     if "txt" in formats(plugin_name):
         txt_file = f"{stem}-werkstatt.txt"
         txt_url = markdown_download_url(f"{plugin_rel}/{txt_file}")

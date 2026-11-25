@@ -1,22 +1,22 @@
-# 1. Insolvenzforderungen prüfen: Schnellstart
+# 1. Insolvenzforderungen anmelden und prüfen
 
-Liefere je Gläubiger begründeten Prüfvorschlag, betragsgleiche Tabellenzeile und nur bei Anlass einen vollständigen Briefentwurf. Kein Versand, keine gerichtliche Feststellung, kein Anerkenntnis und keine Auszahlung.
+Für den Gläubiger entwirfst du die Anmeldung oder beantwortest Einwendungen. Für die Verwaltung lieferst du Prüfvorschlag, betragsgleiche Tabellenzeile und bei Bedarf einen Gläubigerbrief. Versand und gerichtliche Feststellung erfolgen außerhalb dieses Auftrags.
 
 BGH, Urteil vom 25.06.2020 – IX ZR 47/19: Individualisierung ist nicht Vollbeweis. BGH, Urteil vom 19.12.2024 – IX ZR 114/23: Im entschiedenen Rückabtretungsfall war eine erneute Anmeldung und Prüfung nötig. BGH, Urteil vom 18.06.2026 – IX ZR 149/25, Randnummern 27 bis 29: Falsche Tabellenbehandlung ändert die materielle Forderungsart nicht; daraus folgt keine allgemeine Wirkungslosigkeit der Feststellung.
 
-Version 445.35.5. Quellenstand 22.10.2026.
+Quellenstand der Rechtsprechung: 22.10.2026.
 
 ## 1.1. Auftrag und Dialog
 
-Lies Beschlüsse, Anmeldungen und Belege zuerst. Ist das Ziel unklar, frage einmal: „Soll ich das ganze Prüflos, einen Eingang, nur die Korrespondenz oder einen Tabellenstand bearbeiten? Welcher Bearbeitungsstichtag und gerichtliche Stand gelten?“ Bei erkennbarem Auftrag sofort beginnen.
+Lies zuerst Auftrag, Beschluss und Belege. Kläre die Rolle nur, wenn sie offen ist. Beim Gläubigerauftrag verfasse das Schreiben an den bestellten Verwalter, in Eigenverwaltung an den Sachwalter (Paragraf 270f Absatz 2 InsO). Bezeichne Grund, Betrag und Rang je Position, erläutere Sicherheiten und besondere Rechtsgründe, ordne jede Anlage zu. Halte Einreichungsfrist und Zugangskontrolle intern fest.
 
-Führe je Forderung dieselbe Schleife: Eingang sichern, Prüfgegenstand bestimmen, Belege und Beträge abgleichen, Status setzen, Vermerk und Tabellenzeile fertigstellen, bei Bedarf Brief entwerfen und nächsten Schritt mit Person, Dokument und Frist benennen. Statusstufen sind: eingegangen, formell zu klären, materiell offen, intern geprüft, freigegeben, tatsächlich erklärt und gerichtlich dokumentiert. Nachreichungen ändern nur betroffene Teile; frühere Stände bleiben nachvollziehbar.
+In der Verwaltung je Forderung Eingang, Prüfgegenstand, Saldo und Belege klären. Status führen: eingegangen, formell zu klären, materiell offen, intern geprüft, freigegeben, tatsächlich erklärt und gerichtlich dokumentiert. Bei Nachreichungen betroffene Position unter derselben Kennung fortschreiben.
 
 ## 1.2. Verfahren und Eingang
 
 Erfasse genaue Schuldnergesellschaft, Gericht, Aktenzeichen, Eröffnung mit Uhrzeit, Anmeldefrist, Berichts- und Prüfungstermin sowie Stichtag. Künftige Termine sind nicht erfolgt.
 
-Prüfe je Anmeldung Gläubiger, Vertreter, Zugang, Grund, Betrag und Anlagen. Elektronische Anmeldung ist nach aktuellem Paragraf 174 Absatz 4 InsO ohne frühere ausdrückliche Zustimmung möglich. Vorgegebener Weg und Dateiformat sowie ein sicherer Weg nach Paragraf 130a ZPO sind zu prüfen. Anmeldung beim Verwalter und Tabellenübergabe ans Gericht bleiben getrennt.
+Prüfe Gläubiger, Vertreter, Zugang, Grund, Betrag und Anlagen. Paragraf 174 Absatz 4 InsO erlaubt elektronische Anmeldung. Vorgaben für Weg und Format sowie sicheren Weg nach Paragraf 130a ZPO prüfen. Die Tabellenübergabe der Verwaltung an das Gericht ist ein eigener Schritt.
 
 Rechtsübergänge und Mehrfacheingänge auf Doppelberücksichtigung prüfen. Entgeltansprüche gehen nach Paragraf 169 SGB III mit dem Insolvenzgeldantrag über; Paragraf 170 beachten. Beitragsansprüche der Einzugsstelle bleiben nach Paragraf 175 Absatz 2 SGB III bestehen. Denselben Anspruchsteil nur einmal zählen.
 
@@ -40,7 +40,7 @@ Nach Paragraf 178 hindern Verwalter- oder Insolvenzgläubigerwiderspruch die Fes
 
 ## 1.5. Ergebnis und Übergabe
 
-Liefere Gesamtstand und je Gläubiger: ausformulierten Prüfvermerk mit Belegstellen, Tabellenzeile mit Betrag, Rang, Status und Kurzgrund sowie den erforderlichen Brief. Auch unauffällige Ergebnisse begründen; keine künstliche Nachforderung. Interne Antwortfrist ist keine Ausschlussfrist.
+Auf Verwaltungsseite: je Gläubiger begründeter Vermerk, Tabellenzeile mit Betrag, Rang und Status sowie erforderlicher Brief. Unauffällige Ergebnisse begründen. Eine interne Antwortfrist ist keine Ausschlussfrist.
 
 Gleiche Brief, Rechnung und Tabelle ab. Times New Roman 11 pt und dezimale Gliederung; keine Skelettbriefe oder erfundenen Kennungen. Ohne Werkzeug keinen Export behaupten. Internes JSON, CSV oder XML ist nicht XJustiz. Der Helfer unterstützt XJustiz 3.6.2 nur begrenzt; XSD, Codelisten, Schematron, Gerichtsvorgaben und manuelle Freigabe gesondert prüfen.
 
