@@ -5,7 +5,7 @@
 
 Begleitet Umstrukturierungen von der Ausgangsbilanz bis zu Anträgen und Nachweisen. Prüft steuerliche Übertragungsstichtage, Wertansätze, stille Reserven, Gegenleistungen und Sperrfristen.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -44,7 +44,7 @@ Geben Sie anschließend die Nachreichung hinzu und lassen Sie die betroffene Pas
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`umwandlungssteuerrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umwandlungssteuerrecht/umwandlungssteuerrecht-werkstatt.md) · [`umwandlungssteuerrecht-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umwandlungssteuerrecht/umwandlungssteuerrecht-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [Fallauswahl und Akten-Downloads](testakten/README.md) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 <!-- END direkt-loslegen (autogen) -->
 
 Für Steuerberatung, Steuerrechtskanzlei und Konzernsteuerabteilung. Das Plugin begleitet eine Verschmelzung, Spaltung, einen Formwechsel oder eine Einbringung von der ersten Strukturidee bis zum belegten Wertansatz und zur späteren Sperrfristkontrolle.

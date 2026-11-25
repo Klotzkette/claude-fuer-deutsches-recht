@@ -341,7 +341,7 @@ CASES.append(dict(
     title='Ottilie Kümmel: Stadt und Versicherer im Nachgang',
     summary='Die nachträglich aufgefundene Vertragsbestätigung ergänzt den früheren offenen Deckungsstand. Stadt und Versicherer grenzen Haftungsprüfung, einmaligen Selbstbehalt und fehlenden Rückversicherungsbedarf ab.',
     is_new=False,
-    notes='Der Grundbestand und der vorhandene Klageentwurf bleiben unverändert. Neu eingegangene Vertragsinformationen stammen erst vom Nachmittag des 05.10.2026; sie werden nicht rückwirkend in die frühere Recherchelage hineingelesen. Die Gemeinde hat weiterhin weder gezahlt noch die Haftung anerkannt. Kein sachlicher Anlass für eine Beteiligung eines Landkreises.',
+    notes='Die Vertragsauskunft ging erst am Nachmittag des 05.10.2026 ein. Für die Beurteilung des Klageentwurfs zählt der bei seiner Abfassung bekannte Sachverhalt. Die Gemeinde hat weiterhin weder gezahlt noch die Haftung anerkannt. Kein sachlicher Anlass für eine Beteiligung eines Landkreises.',
     core=['01_Archivnachtrag.eml','02_Stadt_Schadenmeldung.docx','03_Versicherer_Deckungsantwort.docx','04_Versicherer_Abstimmung.eml'],
     exhibits=[],
     attachments={
@@ -414,7 +414,7 @@ CASES.append(dict(
     title='Zimt & Zange: Trocknung und Deckungsklärung',
     summary='Der Versorger meldet die begrenzte Teilforderung und erhält erstmals einen konkreten Versicherungsstand; vorläufige Schadenpositionen werden nicht zu einer Rückversicherungsforderung hochgerechnet.',
     is_new=False,
-    notes='Erst am Nachmittag des 05.10.2026 ergänzte Vertragsauskunft. Die leere alte Ablagerubrik bleibt als damaliger Kenntnisstand erhalten. Keine pauschale AKHA-Zuordnung, kein Landkreis als künstlicher Beteiligter. Vorhandene 2.400-EUR-Teilklage und alle Altbelege unverändert.',
+    notes='Die Vertragsauskunft geht am Nachmittag des 05.10.2026 ein. Beim Akteneingang war die Ablagerubrik leer. Eine AKHA-Zuordnung ist nicht belegt. Ein Landkreis ist nicht beteiligt. Die Teilklage lautet auf 2.400 EUR.',
     core=['01_Versorger_Anmeldung.docx','02_Versicherer_Vertragsstand.docx','03_Archiv_Weiterleitung.eml','04_Rueckversicherung_Einordnung.eml'],
     exhibits=[],
     attachments={
@@ -488,7 +488,7 @@ CASES.append(dict(
     title='Kehrmaschine 7: Großschadenbesprechung ohne vorschnelle Bezifferung',
     summary='Stadtbetriebe, Erstversicherer und Rückversicherer besprechen Gebäude, gebrauchte Technik und bloßen Nachbarumsatz; erst die neue Vertragsauskunft ermöglicht eine ausdrücklich bedingte Schichtenrechnung.',
     is_new=False,
-    notes='Keine Änderung der alten 1.840.000-EUR-Anmeldesumme oder des bestehenden Gebäudeklageentwurfs. Vertragsdaten werden erstmals am 05.10.2026 nachmittags mitgeteilt. Die Spanne von 1,2 bis 2,1 Mio. EUR betrifft nur Geräte; sie ist weder Gutachten noch zusätzliche Forderung.',
+    notes='Die Anmeldung lautet auf 1.840.000 EUR. Der Klageentwurf betrifft den Gebäudeschaden. Vertragsdaten werden erstmals am 05.10.2026 nachmittags mitgeteilt. Die Spanne von 1,2 bis 2,1 Mio. EUR betrifft nur Geräte; sie ist weder Gutachten noch zusätzliche Forderung.',
     core=['01_Stadtbetriebe_Sachstand.docx','02_Versicherer_Grossschaden.docx','03_Anmeldung_Rueckversicherer.eml','04_Rueckversicherer_Rueckfrage.eml'],
     exhibits=[],
     attachments={
@@ -561,7 +561,7 @@ CASES.append(dict(
     title='Nora Winter: abgeschlossene Familienzahlung und offener interner Ausgleich',
     summary='Klinik, kommunaler Gesellschafter, Erstversicherer und Rückversicherer gleichen den bereits bezahlten Vergleich ab. Zwei offene Beträge von jeweils 3,2 Mio. EUR liegen auf verschiedenen Ebenen und dürfen nicht addiert werden.',
     is_new=False,
-    notes='Der Teilvergleich vom 23.09.2026 und die am 29.09.2026 ausgeführte Schlusszahlung bleiben unangetastet. Keine neue Klage oder Zahlungsforderung gegen die Familie. Historischer Klageentwurf vor Vergleich bleibt erhalten. Modellwerte exakt wie bestehende Arbeitsmappe: 13,2 Mio. EUR Familienzahlung, 1,5 Mio. EUR Mitgliedsselbstbehalt, 11,7 Mio. EUR Bruttoausgleich, 8,5 Mio. EUR Eingang, 3,2 Mio. EUR offen, 10 Mio. EUR ursprüngliche Priorität, 650.000 EUR separate Drittregressreserve.',
+    notes='Der Klageentwurf datiert vor dem Teilvergleich vom 23.09.2026. Die Schlusszahlung erfolgte am 29.09.2026. Gegen die Familie ist weder eine Klage noch eine Zahlungsforderung dokumentiert. Die Arbeitsmappe weist folgende Modellwerte aus: 13,2 Mio. EUR Familienzahlung, 1,5 Mio. EUR Mitgliedsselbstbehalt, 11,7 Mio. EUR Bruttoausgleich, 8,5 Mio. EUR Eingang, 3,2 Mio. EUR offen, 10 Mio. EUR ursprüngliche Priorität, 650.000 EUR separate Drittregressreserve.',
     core=['01_Klinik_Abschlussbrief.docx','02_Erstversicherer_Schichtenbrief.docx','03_Rueckversicherer_Pruefstand.eml','04_Klinik_Gesellschafterbericht.eml'],
     exhibits=[],
     attachments={

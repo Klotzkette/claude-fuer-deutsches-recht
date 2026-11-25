@@ -5,7 +5,7 @@
 
 Prüft Arbeitszeugnisse aus Arbeitnehmersicht: gezielte Rückfragen, vertiefte Rechtsprechung, belegbare Änderungen, kurzer Mandantenbrief und passendes Arbeitgeberschreiben. Führt den Fall bis zur Kontrolle der Neufassung; auch für Chat und Word ausgearbeitet.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`arbeitszeugnispruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [beide Aktenbestände](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -113,11 +113,11 @@ Bei einem Zeugnisvergleich prüft der Hauptskill den vereinbarten Wortlaut, den 
 
 Die [Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md) enthält das Arbeitsbuch vollständig und kann als einzelne Datei verwendet werden. Das Plugin nutzt dieselbe Fassung als mitgepackte Referenz; die Werkstatt selbst bleibt außerhalb des Pluginpakets. Alle 78 Fachvertiefungen sind über 8 Skills erreichbar, und der [kleine Schnellstart](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md) wird nicht zum Handbuch aufgebläht. Bei Word richtet sich die Bearbeitung nach den tatsächlich verfügbaren Lese- und Änderungsfunktionen. Ohne Dateiexport werden die vollständigen Texte im Chat ausgegeben; eine nicht erzeugte Datei wird nicht behauptet.
 
-Die neuen Prüffälle für Einzeldateinutzung, Word-Zugriffsgrenzen und Bindung sind im [Qualitätsprofil](../quality/evals/arbeitszeugnispruefer.json) festgehalten. Ihre Ergänzung ist noch kein durchgeführter Verhaltenstest; tatsächlich erfolgte Prüfungen und verbleibende Grenzen stehen im [Änderungsbericht](../quality/arbeitszeugnispruefer/handbuch-2026-10-08/plugin-anbindung.md).
+Die Prüffälle für Einzeldateinutzung, Word-Zugriffsgrenzen und Bindung sind im [Qualitätsprofil](../quality/evals/arbeitszeugnispruefer.json) festgehalten. Die tatsächlich ausgeführten Verhaltenstests und ihre Grenzen dokumentiert der [Änderungsbericht](../quality/arbeitszeugnispruefer/handbuch-2026-10-08/plugin-anbindung.md).
 
 ## Aussage, Beleg und Neufassung
 
-Werkstatt und Mini führen Belege jetzt enger auf ihren tatsächlichen Zeitraum, persönlichen Anteil und Bewertungsbereich zurück. Eine gute Teilbewertung erzwingt keine höhere Gesamtnote. Bei einer angegriffenen schlechten Note und einer gewünschten guten Note werden Abwehr der Abwertung und weitere Aufwertung getrennt begründet.
+Werkstatt und Mini ordnen jeden Beleg seinem Zeitraum, dem persönlichen Anteil und dem Bewertungsbereich zu. Eine gute Teilbewertung erzwingt keine höhere Gesamtnote. Bei einer angegriffenen schlechten Note und einer gewünschten guten Note werden Abwehr der Abwertung und weitere Aufwertung getrennt begründet.
 
 Ersatzsätze sind konkrete Vorschläge; eine Bindung an genau diese Wörter wird nur bei entsprechender Grundlage angenommen. Neue Zeugnisse werden vollständig und nach ihrem Bedeutungsgehalt verglichen: Gleichwertige Korrekturen werden akzeptiert, neue nachteilige Änderungen und unbelegte alte Aussagen gesondert geprüft. Analyse, Ersatztexte und Briefe müssen dasselbe Begehren tragen.
 
@@ -153,7 +153,7 @@ Das Plugin ersetzt keine Prüfung des Einzelfalls durch eine hierzu befugte Pers
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **8 auswählbare Skills**. Die **78 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **8 auswählbare Skills**. Die **78 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 
@@ -203,4 +203,4 @@ English: Complete list of all 8 skills in this plugin. Both links in each row do
 
 [Konkrete Zweckprüfung, Rechtsprechungsgrenzen und vollständige Übungsakte](references/ki-normen-und-fallpruefung.md): Arbeitnehmerberatung, Zeugnisentwurf und arbeitgeberseitiges Profiling getrennt behandeln. Eine menschliche Schlussunterschrift widerlegt maßgeblichen automatisierten Entscheidungseinfluss nicht allein.
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Die KI-Fachvertiefung steht als [Komponentenausgabe 445.35.2](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2) zur Verfügung.

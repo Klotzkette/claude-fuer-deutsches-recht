@@ -59,9 +59,9 @@ Die weiteren Belege dienen der anschließenden Bearbeitung und gezielten Rückfr
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-{extent}18 Originale: zehn Word-Dokumente, fünf E-Mails, zwei Textdateien und eine CSV-Datei. Beide ZIPs sind flach, ohne Unterordner. Das Originalpaket enthält kein Markdown. Die drei Quittungen sind getrennte Dokumente, ebenso die Behandlungsberichte der beiden Insassen. E-Mail-Anlagen sind tatsächlich beigefügt und bytegleich mit den einzeln abgelegten Dateien; sie sind keine zusätzlichen Belege oder Schäden. Die ZIPs enthalten den zweisprachigen Hinweis in README.txt; die PDFs selbst enthalten keine Warnseite.
+{extent}18 Originale: zehn Word-Dokumente, fünf E-Mails, zwei Textdateien und eine CSV-Datei. Die ZIP-Dateien enthalten bearbeitbare Originale oder Einzel-PDFs. Die drei Quittungen sind getrennte Dokumente, ebenso die Behandlungsberichte der beiden Insassen. E-Mail-Anlagen sind tatsächlich beigefügt und bytegleich mit den einzeln abgelegten Dateien; sie sind keine zusätzlichen Belege oder Schäden. Die ZIPs enthalten den zweisprachigen Hinweis in README.txt; die PDFs selbst enthalten keine Warnseite.
 
-English: One incident, two occupants, separate medical records and claims. Start with the instruction email. Choose the combined reading PDF, the flat archive of native files, or one PDF per source document. No answer key is included. Each archive contains a bilingual notice in README.txt.
+English: One incident, two occupants, separate medical records and claims. Start with the instruction email. Choose the combined reading PDF, the ZIP of native files, or one PDF per source document. No answer key is included. Each archive contains a bilingual notice in README.txt.
 
 ## 1.3. Unterlagen
 

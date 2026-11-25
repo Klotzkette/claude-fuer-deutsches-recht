@@ -200,7 +200,7 @@
     {
       "name": "bautraegervertrag-pruefer",
       "source": "./bautraegervertrag-pruefer",
-      "description": "Prüft Bauträgerverträge aus Erwerber-, Bauträger-, GdWE- und Verwaltersicht: Bausoll, MaBV-Raten, Sicherheiten, Eigentum, Abnahme, Mängel, Verjährung und Sonderkonstellationen. Zehn Arbeitswege verbinden beide Fachbibliotheken und alle bisherigen Testakten.",
+      "description": "Prüft Bauträgerverträge aus Sicht von Erwerbern, Bauträgern, GdWE und Verwaltung. Zehn Arbeitswege, zwei Fachbibliotheken und Testakten erschließen Bausoll, MaBV-Raten, Sicherheiten, Eigentum, Abnahme, Mängel und Verjährung.",
       "version": "445.36.11",
       "author": {
         "name": "Klotzkette",
@@ -498,6 +498,16 @@
       }
     },
     {
+      "name": "betriebsvereinbarungen",
+      "source": "./betriebsvereinbarungen",
+      "description": "Betriebsvereinbarungen für Arbeitgeber und Betriebsrat entwerfen, verhandeln und durchführen. Mit Tarif- und Zuständigkeitsprüfung, Sachverständigenauftrag, Beschäftigtendatenschutz und einer Arbeitsakte zu Microsoft 365 Copilot.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
       "name": "bgb-at-pruefer",
       "source": "./bgb-at-pruefer",
       "description": "Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, qES, beA, Anfechtung, Stellvertretung, Fristen, Verjährung und Routing für digitale Elemente, Update- und Reparaturrecht.",
@@ -680,7 +690,7 @@
     {
       "name": "diesel-schadensersatz",
       "source": "./diesel-schadensersatz",
-      "description": "Großes Dieselgate-Plugin für deutsches Recht mit acht aktiven Skills und erhaltenen Fachmodulen für Aktenstart, Beweisprüfung, Anspruchstrennung, Klage, Replik, beA-Paket und Vollstreckung. Mit geprüftem Fünfjahreskorpus, Rechtsstands-Cockpit und neun ausführlichen Testakten.",
+      "description": "Schadensersatz in Dieselfällen prüfen und durchsetzen. Acht Skills und die zugehörigen Fachmodule führen von der Beweisprüfung über Klage und Replik bis zum beA-Versand und zur Vollstreckung. Ein Fünfjahreskorpus, eine Rechtsstandsübersicht und neun Testakten unterstützen die Bearbeitung.",
       "version": "445.36.9",
       "author": {
         "name": "Klotzkette",
@@ -910,8 +920,8 @@
     {
       "name": "fachanwalt-insolvenz-sanierungsrecht",
       "source": "./fachanwalt-insolvenz-sanierungsrecht",
-      "description": "Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eröffnung Antragspflicht § 15a Gläubigerantrag § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung §§ 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-anwalt-und-berater.",
-      "version": "445.36.9",
+      "description": "Insolvenz- und Sanierungsmandate führen. Insolvenzgründe und Antragspflichten belegen, Gläubigeranträge vorbereiten, Verfahrenswege und Sanierungsinstrumente prüfen und den passenden Entwurf erstellen.",
+      "version": "445.36.10",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1469,8 +1479,8 @@
     },
     {
       "name": "insolvenzforderungen-checker",
-      "description": "Insolvenzforderungen vom Akteneingang bis zum begründeten Prüfvorschlag bearbeiten. Elf Skills verbinden Gläubigerklärung, Belege, Beträge, Rang, Sicherheiten und Termine mit Tabellenentwurf und Gläubigerbrief; keine automatische Feststellung oder Einreichung.",
-      "version": "445.36.9",
+      "description": "Insolvenzforderungen aus Gläubigersicht anmelden und verfolgen. Für die Insolvenzverwaltung Belege, Rang, Sicherheiten und Widersprüche prüfen, Tabellenvorschläge erstellen und Gläubigeranschreiben entwerfen.",
+      "version": "445.36.10",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1478,29 +1488,9 @@
       "source": "./insolvenzforderungen-checker"
     },
     {
-      "name": "insolvenzforderungsanmeldungspruefung",
-      "source": "./insolvenzforderungsanmeldungspruefung",
-      "description": "Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung.",
-      "version": "445.36.9",
-      "author": {
-        "name": "Klotzkette",
-        "email": "39582916+Klotzkette@users.noreply.github.com"
-      }
-    },
-    {
       "name": "insolvenzplan-starug-planwerkstatt",
       "source": "./insolvenzplan-starug-planwerkstatt",
       "description": "Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug.",
-      "version": "445.36.9",
-      "author": {
-        "name": "Klotzkette",
-        "email": "39582916+Klotzkette@users.noreply.github.com"
-      }
-    },
-    {
-      "name": "insolvenzrecht",
-      "source": "./insolvenzrecht",
-      "description": "Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag.",
       "version": "445.36.9",
       "author": {
         "name": "Klotzkette",
@@ -1910,7 +1900,7 @@
     {
       "name": "lobbyregister-bundestag",
       "source": "./lobbyregister-bundestag",
-      "description": "Lobbyregister-Bundestag-Superplugin mit neun aktiven Skills und erhaltenen Fachmodulen für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstoessen und Fristen nach LobbyRG.",
+      "description": "Neun Skills für das Lobbyregister des Bundestages. Sie begleiten die Prüfung von Registrierungspflicht und Ausnahmen, Registereintrag und Finanzdaten, Regelungsvorhaben und Stellungnahmen sowie Fristen, Verhaltenskodex und Meldung von Verstößen nach dem LobbyRG.",
       "version": "445.36.9",
       "author": {
         "name": "Klotzkette",

@@ -1,0 +1,56 @@
+---
+name: antragspflicht-15a-17-19
+description: "Für Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
+---
+
+# Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: Zuerst den im Skilltitel bezeichneten InsO- oder StaRUG-Tatbestand im aktuellen Gesetzestext prüfen. Eröffnungsantrag nach Paragraf 13 InsO, Gläubigerantrag nach Paragraf 14 InsO und Antragspflicht organschaftlicher Vertreter nach Paragraf 15a InsO strikt trennen; Steuerrecht, IDW-Standards oder Auslandsrecht nur bei einer konkreten Schnittstelle ergänzen.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Insolvenz- und Sanierungsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
+- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Spezialwissen: Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Antragspflicht** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Antragspflicht § 15a InsO — Dokumentenmatrix
+- **Adressat:** Geschäftsleiter haftungsbeschränkter Gesellschaften (§ 15a Abs. 1 Satz 1 InsO); bei führungsloser Gesellschaft jeder Gesellschafter (§ 15a Abs. 3 InsO).
+- **Eröffnungsgrund und Antragspflicht:** Paragraf 17 InsO Zahlungsunfähigkeit und Paragraf 19 InsO Überschuldung lösen bei erfassten Rechtsträgern die unverzügliche Antragspflicht nach Paragraf 15a InsO aus; die Höchstfristen betragen drei beziehungsweise sechs Wochen. Paragraf 18 InsO löst keine Antragspflicht aus. Ob gerichtliche StaRUG-Instrumente genutzt werden können, ist nach Paragrafen 29 bis 31 StaRUG gesondert zu prüfen.
+- **Belege Zahlungsunfähigkeit:** Liquiditätsstatus, OPOS-Listen, Bankauszüge, fällige Verbindlichkeiten (insb. Lohn, Steuern, SV), Mahnung Bank, gekündigte Linien.
+- **Streitige Passiva:** Nicht titulierte, bestrittene Forderungen nicht nach Prozessrisiko quoteln. Maßgeblich ist die objektive Rechtslage: besteht und ist die Forderung fällig, gehört sie in den Liquiditätsstatus; besteht sie objektiv nicht oder ist sie nicht fällig, darf sie nicht künstlich eine Zahlungsunfähigkeit erzeugen. Wer sie als Geschäftsleiter herausnimmt, braucht Gegenbeweis, Aktennotiz und möglichst ein finales Gutachten.
+- **Titel und Vollstreckung:** Bei vorläufig vollstreckbarem Titel und eingeleiteter Vollstreckung ist die Forderung mit dem Nennwert zu berücksichtigen; nicht nur der erwartete kurzfristige Abfluss zählt.
+- **Belege Überschuldung:** Bilanz zu Liquidationswerten, Fortbestehensprognose nach § 19 Abs. 2 Satz 1 InsO (positiv: keine Überschuldung), Sanierungsbausteine (Rangrücktritt § 19 Abs. 2 Satz 2 InsO, Patronatserklärung).
+- **Lückenliste typisch:** Sozialversicherungsrückstände (§ 266a StGB!), Steuerrückstände (§§ 34, 69 AO), letzte Bilanz, BWA aktuell, Liquiditätsplan 13 Wochen, Verträge mit Kovenantenbruch.
+- **Verfahrensweg:** Rechtzeitige Antragstellung und Zahlungsverantwortung nach § 15b InsO getrennt prüfen. Ein Antrag beseitigt weder frühere Verstöße noch automatisch alle Zahlungsbeschränkungen. Eigenverwaltung erfordert gerichtliche Anordnung und ihre eigenen Voraussetzungen (§§ 270 ff. InsO); rechtzeitige Antragstellung bedeutet keinen pauschalen Verlust dieser Option.
+- **Praxis:** Zahlungsunfähigkeit und Überschuldung mit ihren jeweiligen Voraussetzungen zeitnah prüfen. Antragspflicht, objektive Verspätung, Vorsatz nach § 15a Absatz 4 InsO und Fahrlässigkeit nach Absatz 5 getrennt behandeln; fehlende positive Kenntnis schließt Strafbarkeit nicht allgemein aus. Amtlichen Normtext am 01.10.2026 geprüft: https://www.gesetze-im-internet.de/inso/__15a.html.
+
+## Geschäftsleiterstandpunkt bei streitigen Forderungen
+
+Ein Rechtsirrtum schützt nur eng. Nach BGH IX ZR 229/22 vom 23.01.2025 kann ein Irrtum über den Bestand einer Forderung nur dann Gewicht haben, wenn es um eine seit langem umstrittene, ungeklärte Rechtsfrage mit divergierenden Auffassungen geht. Reine Vertragsauslegung, an der die Schuldnerseite selbst mitgewirkt hat, trägt diese Entlastung regelmäßig nicht. Ein finales Gutachten kann den vertretbaren ex-ante-Standpunkt dokumentieren, ersetzt aber nicht die objektive Prüfung von Bestand und Fälligkeit.
+
+Die Irrtumsaussage in Rn. 27 betrifft die subjektiven Voraussetzungen der Vorsatzanfechtung. Sie ist weder ein allgemeiner Entlastungstatbestand noch ein automatischer Verschuldensmaßstab für Antragspflicht oder Geschäftsleiterhaftung. Objektiven Forderungsbestand, tatsächliche Kenntnis und die Voraussetzungen des konkret geprüften Anspruchs getrennt begründen.

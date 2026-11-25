@@ -13,7 +13,7 @@ Prüfen Sie Bauträgerverträge, Raten und Sicherheiten, Bausoll, Abnahme und M�
 | [Skill-Verzeichnis](../skills-index/bautraegervertrag-pruefer.md) | Die auswählbaren Arbeitswege mit Beschreibungen. |
 | [Werkstatt-Prompt als Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md) | Eigenständiger ausführlicher Prompt für mehrstufige Vertrags- und Aktenbearbeitung. |
 | [Mini-Prompt als Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md) | Kompakter Einstieg in eine konkrete Raten-, Klausel- oder Mängelfrage. |
-| [Fachbibliothek](FACHMODULE.md) | Alle 60 vollständigen Vertiefungen aus beiden bisherigen Fachbeständen. |
+| [Fachbibliothek](FACHMODULE.md) | 60 Fachmodule zu Bauträgerverträgen. |
 
 Werkstatt und Mini-Prompt sind eigenständige Arbeitsdateien, keine zusätzlichen Menü-Skills. Testakten werden separat geladen. Für ein Mandat genügt das gemeinsame Plugin `bautraegervertrag-pruefer`.
 
@@ -43,7 +43,7 @@ Birkenpfuhl bietet Gesamt-PDF, Originaldateien-ZIP und Einzel-PDF-ZIP. Die beide
 
 [Lokale Gesamt-PDF beider Vertragsvarianten](../bautraegervertragspruefer/testakte/gesamt-pdf/testakte_gesamt.pdf)
 
-Die Originalunterlagen, ZIPs und Builder der beiden lokalen Vertragsakten bleiben an ihren bisherigen Pfaden. Birkenpfuhl bleibt in der zentralen Testaktensammlung. Die drei Akten werden separat von der Plugin-Installation verwendet.
+Die beiden lokalen Vertragsakten enthalten Originalunterlagen, ZIPs und Skripte zum Erzeugen der Dateien. Birkenpfuhl finden Sie in der zentralen Testaktensammlung. Laden Sie die benötigte Akte separat vom Plugin.
 <!-- END direkt-loslegen (autogen) -->
 
 ### Schriftverkehr zum Vertragsentwurf
@@ -89,7 +89,7 @@ Der Hauptskill übernimmt eine bereits erkennbare Rolle. Er fragt nur nach einer
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **10 auswählbare Skills**. Die **60 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **10 auswählbare Skills**. Die **60 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 
@@ -101,7 +101,7 @@ Die [Rollen- und Quellenregeln](references/rechtsprechung-und-rollen.md) dokumen
 
 ## 5. Vorhandene Einstiege und Fachbestände
 
-Der [bisherige zweite Einstieg](../bautraegervertragspruefer/README.md) führt zum gemeinsamen Plugin. Die bisherigen Vertragsakten und ihre Originaldateien bleiben erreichbar. In der [Fachbibliothek](FACHMODULE.md) stehen beide vollständigen Vertiefungsbestände; ihre Detailanweisungen wurden nicht durch eine bloße Kurzfassung ersetzt.
+Der [Wegweiser zu den Vertragsakten](../bautraegervertragspruefer/README.md) führt zum gemeinsamen Plugin. In der [Fachbibliothek](FACHMODULE.md) stehen beide vollständigen Vertiefungsbestände; ihre Detailanweisungen wurden nicht durch eine bloße Kurzfassung ersetzt.
 
 [Repository-Start](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md)
 

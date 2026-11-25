@@ -36,7 +36,7 @@ English: Start with the `Grundakte` folder in the original-format ZIP. It contai
 
 Die Innovation Systems GmbH entwickelt in Berlin Software, Sensorik und zivile Inspektionsdrohnen. Nach der Insolvenzeröffnung am 1. September 2026 wird über den Erwerb des laufenden Betriebs verhandelt. Im Datenraum liegen 50 Arbeitsverträge, zwei gesonderte Geschäftsführeranstellungen und die bis zum 8. September 2026 eingegangenen Unterlagen. Der Erwerb ist noch nicht vollzogen.
 
-Die neun bereitgestellten Vertragsfassungen, darunter der Vertrag von Dr. Johanna Neumann, sind in erweiterter Form enthalten. Hinzu kommen 41 weitere Arbeitsverträge mit eigenen Aufgabenbeschreibungen und unterschiedlichen Arbeitsbedingungen. Sechs Verträge sind englisch, zwei deutsch-englisch; die übrigen sind deutsch. Die Geschäftsführung gehört nicht zu den 50 Arbeitnehmerdatensätzen.
+Zu den 50 Arbeitsverträgen gehört der Vertrag von Dr. Johanna Neumann. Vergleichen Sie Aufgabenbeschreibungen und Arbeitsbedingungen der Beschäftigten. Sechs Verträge sind englisch, zwei deutsch-englisch; die übrigen sind deutsch. Die Geschäftsführung gehört nicht zu den 50 Arbeitnehmerdatensätzen.
 
 Zugeordnet zu [Arbeitsrecht](../../arbeitsrecht/README.md), [Fachanwalt für Arbeitsrecht](../../fachanwalt-arbeitsrecht/README.md) und [Insolvenzrecht](../../insolvenzrecht/README.md). Die Akte ist Übungsmaterial, kein Vertragsmuster zur ungeprüften Verwendung.
 

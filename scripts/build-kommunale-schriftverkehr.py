@@ -84,8 +84,8 @@ def metadata(case,directory):
         text=re.sub(r'Das Einzel-PDF-ZIP enthält [^.\n]+ Unterlagen mit zusammen [^.\n]+ Seiten\.',f'Das Einzel-PDF-ZIP enthält {count} Unterlagen mit zusammen {individual_pages} Seiten.',text)
     # Historische Umfangsangaben bleiben als klar benannter Grundbestand erhalten.
     text=text.replace('Zwölf native Originalunterlagen.','Grundbestand: zwölf native Originalunterlagen.')
-    text=text.replace('Die Akte enthält keine Musterlösung und keinen fertig ausgearbeiteten Vortrag.','Der Grundbestand bleibt ohne Musterlösung; der gesonderte Klageentwurf ist ein ausdrücklich bestelltes Arbeitsstück. Ein fertiger Vortrag wird nicht mitgeliefert.')
-    text=text.replace('Die Aktenstücke enthalten keine Musterlösung.','Der Grundbestand bleibt ohne Musterlösung. Der zusätzlich bestellte Klageentwurf ist ein gesondertes Arbeitsstück.')
+    text=text.replace('Die Akte enthält keine Musterlösung und keinen fertig ausgearbeiteten Vortrag.','Der Grundbestand enthält keine Musterlösung; der gesonderte Klageentwurf ist ein ausdrücklich bestelltes Arbeitsstück. Ein fertiger Vortrag wird nicht mitgeliefert.')
+    text=text.replace('Die Aktenstücke enthalten keine Musterlösung.','Der Grundbestand enthält keine Musterlösung. Der zusätzlich bestellte Klageentwurf ist ein gesondertes Arbeitsstück.')
     text=text.replace('ein fertiger Vortrag oder eine Musterlösung ist nicht Bestandteil der Akte.','ein fertiger Vortrag ist nicht Bestandteil der Akte. Der zusätzlich bestellte Klagevorentwurf wird zeitlich und fachlich gesondert eingeordnet.')
     rows='\n'.join(f"| [{filename(d)}]({FOLDER}/{filename(d)}) | {d['title']} |" for d in case['documents'])
     notes=case.get('notes','');notes='\n\n'.join(notes) if isinstance(notes,list) else str(notes)
@@ -94,9 +94,9 @@ def metadata(case,directory):
 
 ## Schriftverkehr und Klageentwurf
 
-Zusätzlich zum unveränderten Grundbestand enthält die Akte drei E-Mails, zwei Briefe als PDF und einen ausgearbeiteten Klageentwurf als bearbeitbares Word-Dokument. Insgesamt stehen jetzt **{count} Originalunterlagen** zur Verfügung. Der Unterordner `{FOLDER}` trennt die Ergänzung vom bisherigen Akteneingang. In den flachen ZIPs wird der Unterordnername als Dateipräfix mitgeführt.
+Im Ordner `{FOLDER}` stehen drei E-Mails, zwei Briefe als PDF und ein bearbeitbarer Klageentwurf in Word.
 
-Der Klageentwurf ist ein bewusst zusätzlich bestelltes Arbeitsstück zur Überarbeitung oder Gegenprüfung. Er ersetzt nicht die offene Fallprüfung und ändert weder den ursprünglichen Auftraggeber noch den dort benannten Vertretungsumfang. Ein Entwurf aus Sicht der Gegenseite ist keine Übernahme ihres Mandats. Kein Schreiben und keine Klage wurden tatsächlich versandt oder eingereicht. Die Anlagen K1 ff. bezeichnen die konkreten, bereits vorhandenen Belege; dieselbe Datei wird dadurch kein zweiter Beweis oder weiterer Schaden.
+Der Klageentwurf dient der Überarbeitung und Gegenprüfung. Für die Fallprüfung gelten Auftrag und Vertretungsumfang aus der Mandatsanfrage. Ein Entwurf aus Sicht der Gegenseite ist keine Übernahme ihres Mandats. Kein Schreiben und keine Klage wurden tatsächlich versandt oder eingereicht. Die Anlagen K1 ff. bezeichnen die konkreten, bereits vorhandenen Belege; dieselbe Datei wird dadurch kein zweiter Beweis oder weiterer Schaden.
 
 {notes}
 

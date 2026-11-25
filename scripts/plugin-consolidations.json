@@ -12,7 +12,8 @@
       "case_entries": [
         "bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung",
         "bautraegervertragspruefer/testakte"
-      ]
+      ],
+      "version": "445.36.11"
     },
     {
       "legacy": "arbeitszeugnis-analyse",
@@ -22,7 +23,8 @@
       "case_entries": [
         "arbeitszeugnis-analyse-bluehendes-leben",
         "testakte/gesamt-pdf/testakte_gesamt.pdf"
-      ]
+      ],
+      "version": "445.36.11"
     },
     {
       "legacy": "sozialversicherungsstatus-pruefer",
@@ -42,7 +44,8 @@
         "statusfeststellung-drv-musikschule-gf-freelancer-klingenhain",
         "statusfeststellung-familienangehoerige-baeckerei-luenen",
         "statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen"
-      ]
+      ],
+      "version": "445.36.9"
     },
     {
       "legacy": "projekteinkauf-baubranche",
@@ -60,6 +63,58 @@
         "projekteinkauf-klinker-reklamation",
         "projekteinkauf-kran-nachtrag",
         "projekteinkauf-lueftung-preis-und-lieferant"
+      ],
+      "version": "445.36.9"
+    },
+    {
+      "legacy": "insolvenzrecht",
+      "canonical": "fachanwalt-insolvenz-sanierungsrecht",
+      "version": "445.36.10",
+      "active_skills": 12,
+      "legacy_status": "retained_source_archive",
+      "case_entries": [
+        "arbeitsrecht-asset-deal-50-vertraege-berlin",
+        "edelholz-manufaktur-berlin-liquiditaet",
+        "fortbestehensprognose-paragrafix-gmbh",
+        "geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover",
+        "insolvenz-asset-deal-chaincortex-ai-berlin",
+        "insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz",
+        "insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg",
+        "insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach",
+        "insolvenzanfechtung-inkongruente-deckung-warenlager-an-erfuellungs-statt-kassel",
+        "insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth",
+        "insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin",
+        "insolvenzanfechtung-kongruente-deckung-krankenkasse-nach-antrag-luebeck",
+        "insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld",
+        "insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz",
+        "insolvenzanfechtung-kontokorrent-verrechnungen-geduldete-ueberziehung-dortmund",
+        "insolvenzanfechtung-schenkung-familie-oldenburg",
+        "insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart",
+        "insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg",
+        "insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena",
+        "insolvenzrecht-forderungspruefung-mietkaution-berlin",
+        "insolvenzreife-hubschrauber-prenzlau",
+        "insolvenzreife-keramikfabrik-cottbus",
+        "insolvenzreife-metallbau-berlin-zehlendorf",
+        "lumen-studios-insolvenz-strafverfahren",
+        "private-equity-buyout-schuldschein-npl-heidelberg",
+        "sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026",
+        "sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026",
+        "sanierungsgewinn-starug-plan-windenergie-pellbach-2026",
+        "starug-aufhebung-holding-duesseldorf-ix-zb-18-25",
+        "steuerrecht-bwa-vergleich-nuernberg",
+        "verbraucherinsolvenz-reimers-ehemaliger-gf-schuldenbereinigung"
+      ]
+    },
+    {
+      "legacy": "insolvenzforderungsanmeldungspruefung",
+      "canonical": "insolvenzforderungen-checker",
+      "version": "445.36.10",
+      "active_skills": 12,
+      "legacy_status": "retained_source_archive",
+      "case_entries": [
+        "insolvenzforderungen-handwerk-koeln",
+        "insolvenzforderungsanmeldungspruefung-phoenix-solar"
       ]
     }
   ]

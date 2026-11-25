@@ -5,7 +5,7 @@
 
 Amtsgeschäfte deutscher Notarinnen und Notare von der ersten Anfrage bis zum Vollzug. Zehn Skills für Grundstücke, Nachfolge, Vorsorge, Erbausschlagung, Vereinsregister und GmbH-Anteile.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -44,7 +44,7 @@ Geben Sie anschließend eine Nachreichung aus derselben Akte hinzu und lassen Si
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`allgemeines-notariat-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/allgemeines-notariat-werkstatt.md) · [`allgemeines-notariat-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=allgemeines-notariat/allgemeines-notariat-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [Fallauswahl und Akten-Downloads](testakten/README.md) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 <!-- END direkt-loslegen (autogen) -->
 
 Eine Familie will den Hof übergeben, eine Bank verspricht die Löschung ihrer Grundschuld oder ein Verein schickt zwei Fassungen seines Wahlprotokolls. Das Plugin unterstützt Notarinnen und Notare dabei, aus solchen Unterlagen ein Beteiligtenanschreiben, einen Urkundenentwurf und eine begründete Entscheidung für den nächsten Schritt zu erarbeiten. Ausgangspunkt sind der Wille aller Beteiligten und die Nachweise in der konkreten Akte. [§ 14 BNotO](https://www.gesetze-im-internet.de/bnoto/__14.html) · [§ 17 BeurkG](https://www.gesetze-im-internet.de/beurkg/__17.html)

@@ -356,7 +356,7 @@ CASES.append(dict(
     slug='akha-wuerzburg-fahrzeugschaden', title='Dinkel: Versicherungsweg und Belegabgleich',
     summary='Die am Nachmittag aufgefundenen Fuhrparkunterlagen ermöglichen erstmals eine belegte Schadenmeldung; Fahrerhaftung, Stadt, Kfz-Deckung und Rückdeckung bleiben getrennt.',
     is_new=False, core='Konkrete Halterhaftung, hoheitliche Sicherungsfahrt, Schadenhöhe und erstmalig dokumentierter Deckungsweg.',
-    notes='Die neuen Archiv- und Versicherertatsachen treten erst am 05.10.2026 nach 16:30 Uhr hinzu. Frühere Nachrichten über fehlende Unterlagen und die bisherigen Ansprüche bleiben unverändert. Mainbogen Kommunalversicherung VVaG und die hier wiedergegebenen Bedingungen sind reine Fallfiktion; kein Nachweis tatsächlicher AKHA-Beteiligung. Der bestehende Klageentwurf bleibt bei 2.188,80 EUR und ist nicht eingereicht.',
+    notes='Die Archiv- und Versichererauskünfte gehen am 05.10.2026 nach 16:30 Uhr ein. Prüfen Sie anhand der früheren Nachrichten, welche Unterlagen bei der Geltendmachung der Ansprüche vorlagen. Mainbogen Kommunalversicherung VVaG und die hier wiedergegebenen Bedingungen sind reine Fallfiktion; kein Nachweis tatsächlicher AKHA-Beteiligung. Der bestehende Klageentwurf bleibt bei 2.188,80 EUR und ist nicht eingereicht.',
     exhibits=[],
     attachments={
         '03_Stadt_Belegversand.eml': [FOLDER+'01_Stadt_Schadenanzeige.pdf', '02_Fahrerbericht.docx', '03_Fahrzeug_und_Einsatz.docx', '05_Reparaturrechnung.docx', '06_Taxibelege.docx'],
@@ -417,7 +417,7 @@ CASES.append(dict(
     slug='akha-wuerzburg-schwimmbad', title='Rebhuhn: Betriebshaftpflicht und Betreiberrolle',
     summary='Die GmbH meldet den Leitermangel nach Eingang ihres Vertragsordners; Gesundheitsdaten, Sachprüfung und städtische Beteiligung werden sauber getrennt.',
     is_new=False, core='Privatrechtlicher Badvertrag, konkrete Wartungspflicht, begrenzter Personenschaden und Versicherung der Betreiber-GmbH.',
-    notes='Fortsetzung am 05.10.2026 nach 16:30 Uhr. Fiktive Betriebshaftpflichtbedingungen werden erst jetzt im Briefwechsel dokumentiert. Die Stadt ist Gesellschafterin und nicht automatisch weitere Schuldnerin. Kein Kreis- oder Rückversichererfall bei diesem begrenzten Schaden. Die vorhandene Klage über 892,70 EUR bleibt unverändert und nicht eingereicht.',
+    notes='Fortsetzung am 05.10.2026 nach 16:30 Uhr. Der Briefwechsel dokumentiert die fiktiven Betriebshaftpflichtbedingungen. Die Stadt ist Gesellschafterin und nicht automatisch weitere Schuldnerin. Kein Kreis- oder Rückversichererfall bei diesem begrenzten Schaden. Die vorhandene Klage über 892,70 EUR bleibt unverändert und nicht eingereicht.',
     exhibits=[],
     attachments={
         '03_Betreiberin_Belegversand.eml': [FOLDER+'01_Betreiberin_Schadenanzeige.pdf', '02_Benutzungsordnung_und_Eintritt.docx', '03_Unfallmeldung.docx', '04_Kontrollbuch.docx'],
@@ -477,7 +477,7 @@ CASES.append(dict(
     slug='akha-wuerzburg-baumpflege', title='Sesam: Stadtpflichten und Unternehmerregress',
     summary='Die Stadt meldet den Astkontakt; der Versicherer trennt eigene Absperrpflicht, technische Unternehmerleistung und den noch fehlenden Aufstellnachweis.',
     is_new=False, core='Begrenzte Freigabe, funktionelle Helferstellung, mögliche Dritthaftung und Regress ohne erfundene Gesamtschuld.',
-    notes='Neue Vertragsangaben und Nachrichten vom späten 05.10.2026 ergänzen den zuvor offenen Archivstand. Alle neuen Versicherungsbedingungen sind reine Fallfiktion; keine automatische AKHA-Beteiligung. Der Aufstellnachweis bleibt weiterhin fehlend. Die ursprüngliche Klage über 3.011,40 EUR und die Frist 13.10.2026 bleiben unverändert.',
+    notes='Vertragsangaben und Nachrichten zum Archivstand liegen erst am späten 05.10.2026 vor. Die Versicherungsbedingungen sind für den Fall erfunden. Eine AKHA-Beteiligung ist gesondert zu prüfen. Der Aufstellnachweis fehlt. Der Klageentwurf nennt 3.011,40 EUR, die Frist endet am 13.10.2026.',
     exhibits=[],
     attachments={
         '03_Stadt_Versicherer_Belege.eml': [FOLDER+'01_Stadt_Schadenanzeige.pdf', '02_Arbeitsauftrag.docx', '03_Absperrvermerk.docx', '04_Ereignisbericht.docx'],
@@ -539,7 +539,7 @@ CASES.append(dict(
     slug='akha-wuerzburg-schlagloch', title='Oliveira: Meldungsorganisation und abgegrenzter Altschaden',
     summary='Stadt und Versicherer klären den Bearbeitungsweg der Bürgermeldung, ohne aus dem Folgetagsmaß einen Unfallbefund zu machen oder den alten Reifen erneut zu verlangen.',
     is_new=False, core='Straßenverkehrssicherung, konkrete Reaktionsmöglichkeit, Vorschäden und begrenzte Beweisbasis.',
-    notes='Zusatzschriften erst am späten 05.10.2026; offene Tatsachen werden nicht nachträglich geschlossen. Die modellhaften Vertragsangaben sind reine Fallfiktion und keine tatsächlichen AKHA-Bedingungen. Der bestehende Entwurf bleibt bei 741,50 EUR; ein Kreis- oder Rückversichereranspruch wird nicht künstlich erzeugt.',
+    notes='Die Schreiben vom späten 05.10.2026 lassen einzelne Tatsachen offen. Die modellhaften Vertragsangaben sind reine Fallfiktion und keine tatsächlichen AKHA-Bedingungen. Der bestehende Entwurf bleibt bei 741,50 EUR; ein Kreis- oder Rückversichereranspruch wird nicht künstlich erzeugt.',
     exhibits=[],
     attachments={
         '03_Stadt_Versicherer_Service.eml': [FOLDER+'01_Stadt_Schadenanzeige.pdf', '03_Strasse_und_Kontrollen.docx', '04_Meldung_und_Reparatur.docx', '05_Werkstattbefund.docx'],

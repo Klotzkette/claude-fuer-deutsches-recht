@@ -5,7 +5,7 @@
 
 Wirtschaftsrechtliches Plugin für Franchise-Systeme: vorvertragliche Aufklärung, Handbuch, Gebühren, Gebietsschutz, Kartellrecht, Kündigung, Expansion, Streit und Insolvenz.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`franchiserecht-praxis-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=franchiserecht-praxis/franchiserecht-praxis-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -88,15 +88,17 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 - Gebühren, Warenbezug, Gebietsschutz, Onlinevertrieb
 - Kündigung, Abwicklung, Wettbewerbsverbot, Insolvenz
 
-## Neue Spezialschicht für Rechtsabteilungen
+<a id="neue-spezialschicht-für-rechtsabteilungen"></a>
 
-Die erweiterten `fran-rs-*`-Skills sind für schnelle, belastbare Inhouse-Entscheidungen gebaut. Sie gehen bewusst über die Grundstationen des Franchisevertrags hinaus und prüfen typische Eskalationslagen: Phantom-Umsatzdaten im Disclosure, Ausgleichsanspruch nach Vertragsende, vertikale Preisbindung, Plattformkanäle, CRM-Daten, Ghost Kitchens, Exit/Entbranding, Insolvenz eines Franchisenehmers, System-Due-Diligence und Know-how-Schutz.
+## Fachfragen für Rechtsabteilungen
+
+Die Fachmodule zu Rechtsstreitigkeiten unterstützen die Entscheidung der Rechtsabteilung. Sie gehen bewusst über die Grundstationen des Franchisevertrags hinaus und prüfen typische Eskalationslagen: Phantom-Umsatzdaten im Disclosure, Ausgleichsanspruch nach Vertragsende, vertikale Preisbindung, Plattformkanäle, CRM-Daten, Ghost Kitchens, Exit/Entbranding, Insolvenz eines Franchisenehmers, System-Due-Diligence und Know-how-Schutz.
 
 Der Arbeitsmodus ist jeweils gleich: erst Akte und Beweis sichern, dann Normen und Rechtsprechungsanker trennen, anschließend eine kurze Entscheidungsvorlage mit Risikoampel, Frist, Owner und nächstem Schritt ausgeben. So kann eine Rechtsabteilung schnell entscheiden, ob sie intern löst, verhandelt, abmahnt, einstweiligen Rechtsschutz vorbereitet oder Spezialberatung hinzuzieht.
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **10 auswählbare Skills**. Die **123 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **10 auswählbare Skills**. Die **123 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 

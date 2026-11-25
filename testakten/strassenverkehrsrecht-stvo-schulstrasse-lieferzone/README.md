@@ -29,7 +29,7 @@ English: Start with the `Grundakte` folder in the original-format ZIP. It contai
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Fortgeführte Arbeitsakte zur Schulstraße Buchenweg in Eichenstedt, Niedersachsen. Die Bäckerei Kruse & Sohn KG beantragt eine begrenzte morgendliche Lieferzufahrt. Hinzu kommen Ermittlungen zur Ersatzladefläche am Lindenplatz, Ladezeiten, Pollerzugang und ein späterer Antrag auf eine vorübergehende Rollboxstellfläche. Der behördliche Bearbeitungsstand reicht bis zum 1. September 2026. Die ursprüngliche Bußgeldanhörung bleibt Teil des Bestands, bildet aber nicht den Schwerpunkt der Ergänzung.
+Arbeitsakte zur Schulstraße Buchenweg in Eichenstedt, Niedersachsen. Die Bäckerei Kruse & Sohn KG beantragt eine begrenzte morgendliche Lieferzufahrt. Hinzu kommen Ermittlungen zur Ersatzladefläche am Lindenplatz, Ladezeiten, Pollerzugang und ein späterer Antrag auf eine vorübergehende Rollboxstellfläche. Der behördliche Bearbeitungsstand reicht bis zum 1. September 2026. Die Bußgeldanhörung dokumentiert die Ausgangslage für das anschließende Verwaltungsverfahren.
 
 <!-- decimal-anchor --> <a id="kernunterlagen"></a>
 
@@ -48,9 +48,11 @@ Fortgeführte Arbeitsakte zur Schulstraße Buchenweg in Eichenstedt, Niedersachs
 | `09_email_disposition_intern_2026-08-19.eml` | Interne E-Mail der Disposition an die Geschäftsführung zur Einfahrt am 19. August und zur fehlenden Eingangsbestätigung |
 | `10_zwischennachricht_stadt_ausnahmeantrag_2026-08-25.docx` | Zwischennachricht der Stadt: Unterlagen vollständig, Sammelentscheidung über acht Anträge, keine vorläufige Duldung |
 
-<!-- decimal-anchor --> <a id="ergänzte-unterlagen"></a>
+<a id="ergänzte-unterlagen"></a>
 
-## 1.3. Ergänzte Unterlagen
+<!-- decimal-anchor --> <a id="unterlagen-zu-lieferzufahrt-und-stellfläche"></a>
+
+## 1.3. Unterlagen zu Lieferzufahrt und Stellfläche
 
 | Datei | Inhalt |
 | --- | --- |
@@ -75,9 +77,9 @@ Fortgeführte Arbeitsakte zur Schulstraße Buchenweg in Eichenstedt, Niedersachs
 
 ## 1.4. Quellenbestand
 
-Die zehn Originaldateien `01` bis `10` bleiben bytegleich zum Nutzer-Upload, einschließlich der unveränderten XLSX. Die 16 Ergänzungen liegen als DOCX, PDF, EML, TXT und CSV vor. Nachträge berichtigen Ausgangsangaben offen, ohne ältere Dokumente umzuschreiben. Eine abschließende Antragsentscheidung ist nicht enthalten.
+Die zehn Originaldateien `01` bis `10` einschließlich der XLSX dokumentieren den Akteneingang. Die folgenden 16 Unterlagen liegen als DOCX, PDF, EML, TXT und CSV vor. Nachträge berichtigen Ausgangsangaben offen, ohne ältere Dokumente umzuschreiben. Eine abschließende Antragsentscheidung ist nicht enthalten.
 
-Lieferschein, Kontrolltext und Planabschrift ergänzen zuvor nur erwähnte Unterlagen. Die Skizzen sind ausdrücklich schematisch; sie sind keine Fotos oder Katasterpläne. Rekonstruktionen und Abschriften benennen ihren begrenzten Übertragungsumfang. Weiterhin fehlende Altanlagen sind in den jeweiligen Nachrichten und Ablagevermerken bezeichnet.
+Lieferschein, Kontrolltext und Planabschrift dokumentieren Lieferung, Kontrolle und Verkehrsplanung. Die Skizzen sind ausdrücklich schematisch; sie sind keine Fotos oder Katasterpläne. Rekonstruktionen und Abschriften benennen ihren begrenzten Übertragungsumfang. Weiterhin fehlende Altanlagen sind in den jeweiligen Nachrichten und Ablagevermerken bezeichnet.
 
 <!-- decimal-anchor --> <a id="normnachweise"></a>
 

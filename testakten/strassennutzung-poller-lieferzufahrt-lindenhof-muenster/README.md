@@ -105,7 +105,7 @@ CSV: UTF-8, Semikolon als Trennzeichen, Dezimalkomma. Datumswerte sind ISO-Daten
 
 ## 1.4. Downloads
 
-Die ZIP-Links beziehen sich auf den veröffentlichten Release. Der Repository-Stand kann davon abweichen.
+Die ZIP-Links führen zu den veröffentlichten Aktenpaketen.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

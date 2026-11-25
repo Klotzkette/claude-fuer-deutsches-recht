@@ -29,6 +29,8 @@ REPOSITORY_URL_PREFIXES = {
     "raw.githubusercontent.com": ("main/", "refs/heads/main/"),
 }
 MARKDOWN = MarkdownIt("gfm-like")
+ROOT_READER_DOCS = {"ASSET_INDEX.md", "SKILLS.md", "SCHWERPUNKTE.md", "QUALITY.md", "PROMPTLISTE.md",
+                    "QUICKSTART.md", "INSTALLATION_EINFACH.md"}
 
 
 class ExplicitAnchors(HTMLParser):
@@ -137,6 +139,55 @@ def repository_markdown_files() -> list[Path]:
     return sorted(files)
 
 
+def is_reader_overview(path: Path) -> bool:
+    relative = path.relative_to(REPO)
+    if relative.parent == Path(".") and relative.name in ROOT_READER_DOCS:
+        return True
+    if not relative.name.casefold().startswith("readme"):
+        return False
+    # Prüfberichte und Release-Dokumentation halten bewusst datierte Änderungen fest.
+    return not (relative.parts[:2] in {("docs", "releases"), ("docs", "vorgangshistorie")}
+                or relative.parts[0] == "quality" and len(relative.parts) > 2)
+
+
+RELEASE_ANNOUNCEMENT = re.compile(
+    r"(?:^|(?<=[.!?])\s+)(?:\d+(?:\.\d+)*\.?\s+)?(?:"
+    r"(?:neu (?:in|seit)|new in)\s+(?:dies(?:er|em)\s+(?:Version|Release)|this\s+(?:version|release)|(?:Version |v)?\d+\.\d+)\b|"
+    r"(?:neu|erweitert|aktualisiert): (?=[^.!?]{0,60}\b(?:Plugins?|Skills?|Werkstatt-Prompts?|Testakten?)\b)|"
+    r"(?:was ist neu|what['’]s new)(?:[?!:]|$|\s+(?:in (?:dieser Version|this release|v?\d+\.\d+)))|"
+    r"seit dem letzten Update\s+(?:kann|enthält|bietet|unterstützt|stehen|gibt es)\b|"
+    r"neu (?:aufgenommen|hinzugekommen) (?:ist|sind) (?:ein(?:e|en)? |die |der |das )?"
+    r"(?:[\w-]+ ){0,2}(?:(?:[\w]+-)?Skills?|Prüfpfad|Fachroute)\b|"
+    r"(?:das|dieses)\s+(?:Plugin|Repository|Paket)\s+(?:enthält|bietet|unterstützt)\s+(?:jetzt|nun)\b|"
+    r"(?:the|this)\s+(?:plugin|repository|package)\s+now\s+(?:includes|supports|contains|offers)\b|"
+    r"das aktualisierte Gesamt-PDF umfasst\b)",
+    re.IGNORECASE,
+)
+
+
+def readme_announcements(tokens) -> list[str]:
+    """Erkennt redaktionelle Meldungen in sichtbarer Prosa. Zitate und Code sind Arbeitsmaterial."""
+    findings = []
+    quote_depth = 0
+    for token in tokens:
+        if token.type == "blockquote_open":
+            quote_depth += 1
+        elif token.type == "blockquote_close":
+            quote_depth -= 1
+        elif token.type == "inline" and not quote_depth:
+            children = token.children or []
+            if children and children[0].type == "link_open" and children[-1].type == "link_close":
+                if sum(child.type == "link_open" for child in children) == 1:
+                    continue  # Eigenständiger Verweis, etwa „What's new“ zum Changelog.
+            prose = "".join(
+                " " if child.type in {"softbreak", "hardbreak"} else child.content
+                for child in children if child.type in {"text", "softbreak", "hardbreak"}
+            )
+            for match in RELEASE_ANNOUNCEMENT.finditer(prose):
+                findings.append(match.group().strip())
+    return findings
+
+
 def internal_link(path: Path, destination: str) -> tuple[Path, str] | None:
     url = urlsplit(destination)
     fragment = unquote(url.fragment)
@@ -176,11 +227,15 @@ def validate_markdown_links(errors: list[str], plugin_urls: dict[str, str] | Non
         text = path.read_text(encoding="utf-8", errors="ignore")
         if path.name == "README.md" and not re.search(r"^#\s+\S", text, re.MULTILINE):
             errors.append(f"{repo_relative(path)}: sichtbare Hauptüberschrift fehlt")
+        overview = is_reader_overview(path)
         # Ohne Linksyntax oder unsere kanonischen Domains gibt es kein lokales
-        # Ziel. Große reine Fachtexte müssen dann nicht als GFM geparst werden.
-        if "[" not in text and "<" not in text and "github" not in text.lower():
+        # Ziel. Reine Fachtexte außerhalb der Einstiegsseiten brauchen dann keinen GFM-Parser.
+        if not overview and "[" not in text and "<" not in text and "github" not in text.lower():
             continue
         tokens = markdown_tokens(text)
+        if overview:
+            for notice in readme_announcements(tokens):
+                errors.append(f"{repo_relative(path)}: Inhalt zeitlos beschreiben. Änderungsmeldung: {notice}")
         links = markdown_links(tokens)
         for label, _ in links:
             if not label:
@@ -273,18 +328,8 @@ def user_facing_download_docs() -> list[Path]:
         source = str(plugin["source"]).removeprefix("./")
         files.add(REPO / source / "README.md")
     files.update((REPO / "skills-index").glob("*.md"))
-    files.update(
-        {
-            REPO / "SKILLS.md",
-            REPO / "ASSET_INDEX.md",
-            REPO / "SCHWERPUNKTE.md",
-            REPO / "QUALITY.md",
-            REPO / "PROMPTLISTE.md",
-            REPO / "QUICKSTART.md",
-            REPO / "INSTALLATION_EINFACH.md",
-            REPO / "docs" / "werkstatt-und-schnellstart-coverage.md",
-        }
-    )
+    files.update(REPO / name for name in ROOT_READER_DOCS)
+    files.add(REPO / "docs" / "werkstatt-und-schnellstart-coverage.md")
     return sorted(path for path in files if path.is_file())
 
 

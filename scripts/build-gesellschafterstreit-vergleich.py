@@ -101,9 +101,9 @@ def readme(directory):
     text = parent.read_text(encoding='utf-8')
     start, end = '<!-- BEGIN gesellschafterstreit-vergleich -->', '<!-- END gesellschafterstreit-vergleich -->'
     section = '\n'.join([start, '## 1.6 Ausführliche Klage und Vergleichsverhandlung vom 9 Oktober 2026', '',
-        'Die vollständig ausgefüllte Klage ist ausgebaut. Ein eigenes PDF verbindet sie mit den tatsächlichen Anlagen K1 bis K9. Fünf neue Word-Dokumente mit PDF-Lesefassungen und sechs E-Mails mit echten Anhängen führen vom Streit zur möglichen neuen Gesellschaftervereinbarung: Wünsche der drei Beteiligten, Gegenpositionen, Gesprächsprotokoll und bearbeitbarer Vertragsentwurf.', '',
+        'Die Klageschrift steht zusammen mit den Anlagen K1 bis K9 in einem PDF. Fünf Word-Dokumente mit PDF-Lesefassungen und sechs E-Mails mit echten Anhängen führen vom Streit zur möglichen neuen Gesellschaftervereinbarung: Wünsche der drei Beteiligten, Gegenpositionen, Gesprächsprotokoll und bearbeitbarer Vertragsentwurf.', '',
         f'[Klagepaket, Vergleichskorrespondenz und Vertragsentwurf]({SUBDIR}/README.md)', '',
-        'Die Klageerwiderung bleibt die erste KI-Aufgabe; danach kann der Vereinbarungsentwurf anhand des Schriftverkehrs überarbeitet werden. Die Verhandlung ist offen, der Vergleich nicht geschlossen. Die ausführliche Bearbeitung beider Schritte kann über den ursprünglichen 30-Minuten-Einstieg hinausgehen.', '', end])
+        'Die Klageerwiderung bleibt die erste KI-Aufgabe; danach kann der Vereinbarungsentwurf anhand des Schriftverkehrs überarbeitet werden. Die Verhandlung ist offen, der Vergleich nicht geschlossen. Für einen Einstieg von 30 Minuten eignet sich die Klageerwiderung. Planen Sie für die anschließende Vergleichsverhandlung zusätzliche Zeit ein.', '', end])
     if start in text:
         text = re.sub(re.escape(start) + r'.*?' + re.escape(end), lambda _: section, text, flags=re.S)
     else:

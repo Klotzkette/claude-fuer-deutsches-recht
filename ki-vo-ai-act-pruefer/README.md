@@ -5,7 +5,7 @@
 
 Mechanik-Workflow zur KI-VO (EU 2024/1689): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung, Konformitäts-Evidence-Pack, KI-Kompetenz, Shadow-AI, Berufsrecht, Hochschul- und Behördenpraxis.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -52,7 +52,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-hauptproblem.md" download>ki-vo-ai-act-pruefer-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [29 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -99,18 +99,20 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 <a id="fachstand-445351-vom-9-oktober-2026"></a>
 
-## 1. Fachstand 445.35.2 vom 9. Oktober 2026
+<a id="1-fachstand-445352-vom-9-oktober-2026"></a>
 
-Die amtliche konsolidierte KI-Verordnung einschließlich Änderungsverordnung 2026/1744 und deutscher Berichtigung vom 29. September wurde für die beschriebenen Korrekturen geöffnet. [Rechtsstand und Quellen](references/rechtsstand-2026-10-09.md). Systemrisikomanagement nach Artikel 9, Anbieter-Qualitätsmanagement nach Artikel 17 und Grundrechte-Folgenabschätzung bestimmter Betreiber nach Artikel 27 sind getrennte Prüfungen. ISO-Zertifikat, Risikoregister und Nachtraining unter einem Drittel ersetzen keine konkrete Systemeinstufung oder Konformitätsprüfung.
+## 1. Rechtsgrundlagen und Geltungsbeginn
 
-Der [Hauptproblem-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-hauptproblem.md) führt vom konkreten Auftrag zum fertigen Dokument; [TXT](ki-vo-ai-act-pruefer-hauptproblem.txt). Werkstatt und Mini sind zusätzlich als byteidentische TXT-Fassungen verfügbar. Bestehende Testakten bleiben erhalten. Historische Rechtsprechungsanker werden nicht als neu im Volltext verifiziert ausgegeben; diese Runde enthält keine behaupteten Live-Modelltests oder produktiven Behördenmeldungen.
+Der Quellenstand vom 9. Oktober 2026 umfasst die konsolidierte KI-Verordnung einschließlich der Änderungsverordnung 2026/1744 und der deutschen Berichtigung vom 29. September 2026. [Rechtsstand und Quellen](references/rechtsstand-2026-10-09.md). Systemrisikomanagement nach Artikel 9, Anbieter-Qualitätsmanagement nach Artikel 17 und Grundrechte-Folgenabschätzung bestimmter Betreiber nach Artikel 27 sind getrennte Prüfungen. ISO-Zertifikat, Risikoregister und Nachtraining unter einem Drittel ersetzen keine konkrete Systemeinstufung oder Konformitätsprüfung.
+
+Der [Hauptproblem-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-hauptproblem.md) führt vom konkreten Auftrag zum fertigen Dokument; [TXT](ki-vo-ai-act-pruefer-hauptproblem.txt). Werkstatt und Mini sind zusätzlich als byteidentische TXT-Fassungen verfügbar. Die Nachweise zur Rechtsprechung gelten für den jeweils dokumentierten Quellenstand. Der Prüfbericht umfasst weder Live-Modelltests noch produktive Behördenmeldungen.
 Rechtsstand 10. September 2026: Kompetenzförderung, sensible Bias-Daten, Transparenz, neue Inhaltsverbote, feste Hochrisikotermine und die deutsche Behördenzuständigkeit sind nach dem veröffentlichten Änderungsrecht getrennt eingeordnet. [Rechtsstandkarte lesen](./references/digitaler-omnibus-2026.md) · <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-vo-ai-act-pruefer/references/digitaler-omnibus-2026.md" download>MD herunterladen</a>.
 
-English: The updated workflows distinguish enacted law, future application dates and pending proposals. The reference note identifies official sources and the competent supervisory authority for each route.
+English: The workflows distinguish enacted law, future application dates and pending proposals. The reference note identifies official sources and the competent supervisory authority for each route.
 
-Ergänzung vom 30. September 2026: Die [Artikel-50-Leitlinienkarte](references/artikel-50-leitlinien-2026.md) erschließt den finalen Kommissionstext vom 20. Juli mit Randnummern. Die beiden Transparenzskills sowie Werkstatt und Schnellstart prüfen automatische Nachrichten, technische Markierung und Detektion, realistische erfundene Sprecher, öffentliche Texte und Altinhalte. Sie unterscheiden verbindliche Normen von unverbindlicher Auslegung und enden mit einem verwendbaren Hinweis, Vermerk oder Anbieteranschreiben. <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-vo-ai-act-pruefer/references/artikel-50-leitlinien-2026.md" download>Leitlinienkarte als Markdown herunterladen</a>.
+Die [Artikel-50-Leitlinienkarte](references/artikel-50-leitlinien-2026.md) erschließt den Kommissionstext vom 20. Juli 2026 mit Randnummern (Quellenstand 30. September 2026). Die beiden Transparenzskills sowie Werkstatt und Schnellstart prüfen automatische Nachrichten, technische Markierung und Detektion, realistische erfundene Sprecher, öffentliche Texte und Altinhalte. Sie unterscheiden verbindliche Normen von unverbindlicher Auslegung und enden mit einem verwendbaren Hinweis, Vermerk oder Anbieteranschreiben. <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-vo-ai-act-pruefer/references/artikel-50-leitlinien-2026.md" download>Leitlinienkarte als Markdown herunterladen</a>.
 
-English: The Article 50 routes now apply the final July Commission guidelines to concrete communication and publication decisions. Paragraph references, narrow exceptions and separate content dates prevent blanket exemptions for internal use or older systems. This targeted update is not a new review of every other regulatory topic in the plugin.
+English: The Article 50 workflows apply the Commission guidelines of July 2026 to concrete communication and publication decisions. Paragraph references, narrow exceptions and separate content dates prevent blanket exemptions for internal use or older systems. The documented review covers the Article 50 guidance.
 
 Für die Einstufung eines konkreten Systems nach Artikel 6 und Anhang III, insbesondere bei Bewerbungsauswahl und abweichender Chatbot-Nutzung durch Mitarbeiter, gibt es den [Hochrisiko-Prüfer](../ki-verordnung-hochrisiko-pruefer/README.md). Für Kennzeichnung, Offenlegung und Information nach Artikel 50 gibt es den [Transparenzprüfer](../ki-verordnung-transparenzpruefer/README.md). Beide enthalten eigene Werkstatt- und Schnellstart-Prompts sowie eine gesonderte Fallakte. Dieses übergreifende Paket bleibt für den vollständigen Regulierungsauftrag einschließlich weiterer Pflichten vorgesehen; für eine begrenzte Frage genügt ein passender Einstieg.
 
@@ -143,7 +145,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Überblick
 
-Der KI-VO-Prüfer ist ein interaktives Mechanik-Plugin für die vollständige Prüfung von KI-Systemen nach der Verordnung (EU) 2024/1689. Er führt den Nutzer in einem sequenziellen Entscheidungsbaum durch alle relevanten Fragen und dokumentiert besonders Zweckbestimmung, tatsächliche Nutzung, GPAI-/Chatbot-Abgrenzung und Hochrisiko-Einordnung nach Art. 6 Abs. 2 i.V.m. Anhang III. Zusätzlich enthält er jetzt feinere Praxisrouten für KI-Kompetenz nach Art. 4, Shadow-AI, Hochschul- und Prüfungsfälle, anwaltliche Quellenkontrolle, KI im Prozess, Notariat/Cloud, GPAI-Urheberrecht, Marktaufsicht, Bußgeldverteidigung, polizeiliche KI, öffentliche Beschaffung und KI-Wettbewerbsfragen:
+Der KI-VO-Prüfer ist ein interaktives Mechanik-Plugin für die vollständige Prüfung von KI-Systemen nach der Verordnung (EU) 2024/1689. Er führt den Nutzer in einem sequenziellen Entscheidungsbaum durch alle relevanten Fragen und dokumentiert besonders Zweckbestimmung, tatsächliche Nutzung, GPAI-/Chatbot-Abgrenzung und Hochrisiko-Einordnung nach Art. 6 Abs. 2 i.V.m. Anhang III. Die Praxisrouten behandeln KI-Kompetenz nach Art. 4, Shadow-AI, Hochschul- und Prüfungsfälle, anwaltliche Quellenkontrolle, KI im Prozess, Notariat/Cloud, GPAI-Urheberrecht, Marktaufsicht, Bußgeldverteidigung, polizeiliche KI, öffentliche Beschaffung und KI-Wettbewerbsfragen:
 
 1. Liegt ein KI-System vor? (Art. 3 Nr. 1 KI-VO)
 2. Ist der territoriale Anwendungsbereich eröffnet? (Art. 2 KI-VO)
@@ -268,7 +270,7 @@ Autor: Klotzkette
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **12 auswählbare Skills**. Die **123 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **12 auswählbare Skills**. Die **123 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 
@@ -323,11 +325,13 @@ English: Complete list of all 12 skills in this plugin. Both links in each row d
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Die KI-Fachvertiefung steht als [Komponentenausgabe 445.35.2](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2) zur Verfügung.
 
 <a id="neue-vollständige-übungsakten"></a>
 
-## 2. Neue vollständige Übungsakten
+<a id="2-neue-vollständige-übungsakten"></a>
+
+## 2. Übungsakten
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

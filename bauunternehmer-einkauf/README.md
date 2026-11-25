@@ -102,7 +102,7 @@ Das Workshop-Paket enthält sieben Originalformat-Akten mit ihren PDF-Lesefassun
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **14 auswählbare Skills**. Die **5 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **14 auswählbare Skills**. Die **5 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 

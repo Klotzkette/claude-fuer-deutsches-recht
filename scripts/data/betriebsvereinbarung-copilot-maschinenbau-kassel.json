@@ -1,0 +1,352 @@
+{
+  "zeichen": "AWF · BV 06/26",
+  "titel": "Copilot im Maschinenbau – Pilotvereinbarung bei der Antriebswerk Fuldaaue GmbH, Kassel",
+  "dokumente": [
+    {
+      "phase": "Grundakte",
+      "datei": "01_auftrag-geschaeftsfuehrung.eml",
+      "titel": "Pilotauftrag für die Instandhaltungs- und Angebotsbüros",
+      "datum": "2026-09-07",
+      "von": "Nele Karg, Geschäftsführung",
+      "an": "Anja Kern, Betriebsratsvorsitzende",
+      "text": [
+        "Guten Morgen Frau Kern, unser Angebotsteam sucht bei Ersatzteilanfragen in mehreren Ablagen nach Baugruppen und alten Freigaben. Ich möchte 24 Microsoft-365-Copilot-Lizenzen probeweise einsetzen. Die Geschäftsführung hat ein Budget für Lizenzen und zwei halbe Schulungstage zurückgestellt. Der Standort Kassel ist unser einziger Betrieb. Wir beschäftigen hier 284 Menschen, davon 37 im kaufmännischen und technischen Büro der vorgesehenen Pilotbereiche.",
+        "Der Lenkungskreis möchte am 12. Oktober mit acht Wochen Erprobung beginnen. Es sind weder individuelle Nutzungsquoten noch die Übernahme automatisch formulierter Angebote als Freigaben beschlossen. Für die Entscheidung über die Lizenzen will ich einen aussagekräftigen Bericht. Frau Witte wird die Unterlagen koordinieren. Bitte legen Sie im ersten Gespräch auch dar, welche Fragen Sie vor einer Einigung noch sehen.",
+        "Mit freundlichen Grüßen\nNele Karg"
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "02_pilotauftrag.docx",
+      "titel": "Projektauftrag M365-Assistenz · Entwurf zur Beratung",
+      "datum": "2026-09-08",
+      "von": "Lina Witte, Personal und Organisation",
+      "an": "Lenkungskreis und Betriebsrat",
+      "text": [
+        "1 Ausgangspunkt",
+        "Für die Ersatzteilgeschäftsstelle sind die Suchzeiten in Schichtübergaben und früheren Angeboten hoch. Erprobt werden die Zusammenfassung freigegebener technischer Anleitungen und der erste Entwurf eines geschäftlichen Schreibens. Stücklisten, verbindliche Preise, Qualitätsfreigaben und sicherheitskritische Anweisungen werden fachlich durch die zuständige Person freigegeben.",
+        "2 Teilnahme und Ablauf",
+        "Vorgesehen sind acht Freiwillige aus dem Vertriebsinnendienst, sieben aus der Konstruktion, sechs aus der Arbeitsvorbereitung und drei aus dem Servicebüro. Bisher liegen 21 Interessenbekundungen vor. Es gibt 24 reservierte Lizenzen. Niemand hat eine Teilnahmeerklärung unterschrieben. Die bisherige Arbeitsweise bleibt parallel verfügbar. Betriebsratsbüro, Personal und betriebsärztlicher Dienst sind nicht als Pilotbereiche vorgesehen.",
+        "3 Entscheidung am Ende",
+        "Die Geschäftsführung möchte am 7. Dezember Lizenzbedarf, Qualität und Einarbeitungsaufwand besprechen. Nutzen soll anhand zweier standardisierter Aufgaben mit freiwilliger Rückmeldung beurteilt werden. Die ursprüngliche Präsentation erwähnte zusätzlich eine Übersicht der wöchentlich aktiven Personen pro Team. Zum Umfang dieser Übersicht besteht noch keine Einigung.",
+        "4 Startvoraussetzungen",
+        "Weder Lizenzzuweisung im Produktionsmandanten noch Einladung zu einem Produktivpilot ist freigegeben. IT soll nur mit synthetischen Konten in der isolierten Testumgebung arbeiten. Zuständigkeiten für die Abnahme und Kriterien für die Rücknahme sind offen."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "03_bestand-und-zustaendigkeit.docx",
+      "titel": "Standort und geltende Vereinbarungen · Auszug aus der Personalakte des Projekts",
+      "datum": "2026-09-08",
+      "von": "Lina Witte, Personal und Organisation",
+      "an": "Anja Kern, Betriebsratsvorsitzende",
+      "text": [
+        "Die Antriebswerk Fuldaaue GmbH unterhält einen Betrieb in Kassel. Geschäftsführung und Betriebsrat führen die Verhandlungen für diesen Betrieb. Das Gremium hat neun Mitglieder. Ein Gesamt- oder Konzernbetriebsrat ist nicht eingerichtet. Die Leitung hat der Vorsitzenden die geltende örtliche IT-Rahmenvereinbarung und den Schulungsplan zur Einsicht gegeben.",
+        "1 Auszug IT-Rahmenvereinbarung vom 18. März 2022",
+        "Ziffer 4.2 erlaubt den Zugang der betrieblichen IT zu sicherheitsbezogenen Betriebsdaten zur Störungsbehebung im dokumentierten Einzelfall. Ziffer 4.3 schließt die regelmäßige Auswertung für Personalmaßnahmen aus. Nach Ziffer 7 werden neue Berichtsfunktionen mit Beschäftigtenbezug vor Aktivierung in einer Anlage mit Zweck und Empfänger beschrieben. Eine Anlage zu KI-Assistenten liegt im Register nicht vor.",
+        "2 Sachstandsvermerk",
+        "Die Personalabteilung hat bisher keine einschlägige tarifliche KI-Regelung benannt. Die Unterlagen für eine abschließende Prüfung sind beim Verband angefragt. Eine Erklärung der Vorsitzenden zum späteren Pilotstart enthält der Vermerk nicht."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "04_funktionsstand.xlsx",
+      "titel": "Lizenz-, Funktions- und Rollenstand vor dem Pilot",
+      "datum": "2026-09-09",
+      "von": "Benno Habicht, IT-Betrieb",
+      "an": "Projektteam",
+      "text": [
+        "Stand der Sichtprüfung. S-01 ist der isolierte Schulungsmandant. P-01 bezeichnet den produktiven Mandanten. Die Liste dokumentiert ausschließlich die in der Spalte Nachweis bezeichnete Umgebung."
+      ],
+      "tabelle": [
+        [
+          "Bereich",
+          "Umgebung",
+          "Befund",
+          "Beleg / offene Prüfung"
+        ],
+        [
+          "Bezahlte M365-Copilot-Lizenzen",
+          "P-01",
+          "24 reserviert, 0 zugewiesen",
+          "Einkaufsbestätigung M-351, Lizenzliste 09.09."
+        ],
+        [
+          "Copilot Chat im Arbeitskonto",
+          "P-01",
+          "Zielgruppe, Nutzung ohne Zusatzlizenz und Freigabe von Agents ungeklärt",
+          "Kontorichtlinien, aktivierte Dienste und bereitgestellte Dateien separat prüfen"
+        ],
+        [
+          "Interne Suche",
+          "S-01",
+          "Testidentitäten finden freigegebene Handbücher",
+          "Stichprobe T-11, Produktivrechte offen"
+        ],
+        [
+          "Webinhalte",
+          "S-01",
+          "Laut Export deaktiviert",
+          "Schalter und Zielgruppe P-01 nicht exportiert"
+        ],
+        [
+          "Agents / externe Quellen",
+          "P-01",
+          "Für das Projekt ist keine gesonderte Freigabe beantragt",
+          "Bestehende Freigaben inventarisieren"
+        ],
+        [
+          "Nutzungsbericht",
+          "S-01",
+          "Berichtsrolle erhält Detailtabelle",
+          "Namensanzeige und Export in P-01 offen"
+        ],
+        [
+          "Audit / Inhaltszugriff",
+          "P-01",
+          "Zwei getrennte Rollen in der Verwaltung",
+          "Berechtigtenkreis, Zweck und Dauer belegen"
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "05_stimmen-aus-dem-service.eml",
+      "titel": "Rückmeldungen zur Pilotankündigung",
+      "datum": "2026-09-10",
+      "von": "Mira Pahl, gewählte Vertrauensperson Service",
+      "an": "Anja Kern, Betriebsratsvorsitzende",
+      "text": [
+        "Hallo Anja, wir hätten gern eine Suchhilfe, wenn nachts ein Ersatzteil angefragt wird. Zwei Kolleginnen wollen den Pilot ausprobieren. Unklar ist, ob ein unbearbeiteter Textentwurf später als Fehler im Mitarbeitergespräch auftauchen kann. Jemand erinnerte daran, dass unsere Frühtour oft allein im Servicebüro antritt. Aus einer Teamzahl wäre dann schnell ein Name gemacht.",
+        "Ein Kollege möchte bei der üblichen Recherche bleiben, bis geklärt ist, ob seine Fragen gespeichert werden. Er möchte keine Nachteile bei Einsatzplanung oder Schulung. Andere fragen, ob Führungskräfte eine Liste der „Nichtnutzer“ bekommen. Ich habe zugesagt, die Fragen gebündelt zu stellen. Bitte gebt keine Namen weiter. Eine gemeinsame Einweisung mit Beispielen und einer echten Anlaufstelle käme gut an.",
+        "Viele Grüße\nMira"
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "06_auskunftsersuchen-betriebsrat.docx",
+      "titel": "Unterlagen zur Vorbereitung des Beratungsgesprächs",
+      "datum": "2026-09-11",
+      "von": "Anja Kern, Betriebsratsvorsitzende",
+      "an": "Nele Karg, Geschäftsführung",
+      "text": [
+        "Sehr geehrte Frau Karg, der Betriebsrat will über die Ausgestaltung des Piloten beraten. Für die Beratung am 18. September bitten wir bis 16. September um eine nachvollziehbare Darstellung der geplanten Arbeitsabläufe, Datenquellen und Benutzerrollen sowie lesbare Testansichten für Beschäftigte, Berichtsempfänger und Administratoren.",
+        "Bitte unterscheiden Sie dienstliche Inhalte, Eingaben und Antworten, Aktivitätsdaten, Such- und Auditprotokolle. Wer kann Daten exportieren oder mit Schichtplänen zusammenführen? Welche festgelegten Zwecke und Fristen gelten je Quelle, wer darf welche Ausnahme anordnen und wie lässt sich die Löschung prüfen? Wie kommen Fragen aus dem Betriebsratsbüro und Unterlagen des Betriebsarztes bei falsch vergebenen Rechten aus der Suche heraus?",
+        "Wir bitten außerdem um Auftragsverarbeitungs- und Prüfungskonzept, einen anonymisierten Musterbericht, Informationen zu den angekündigten Zusatzfunktionen und den vorgeschlagenen Ablauf ohne Teilnahme. Die Reservierung von Lizenzen haben wir zur Kenntnis genommen. Über den Start ist noch zu beraten."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "07_stellungnahme-datenschutz.docx",
+      "titel": "Vertraulicher Prüfvermerk für den Lenkungskreis",
+      "datum": "2026-09-14",
+      "von": "Dr. Samira Lehr, Datenschutzbeauftragte",
+      "an": "Geschäftsführung, Betriebsratsvorsitz",
+      "text": [
+        "Ein Organigramm allein beantwortet die Frage nach zugänglichen Daten nicht. Im Mandanten können gewährte Freigaben weiter reichen, als Fachbereiche annehmen. Vor einer Produktivfreigabe sind Zugriffspfade zu sensiblen Ablagen mit vorgesehenen Rollen und Testdokumenten zu prüfen. Bei Protokoll- oder Inhaltseinsicht brauche ich Fallzuständigkeit und Beleg für die wirksame Berechtigungsschranke.",
+        "Für Bericht, Verbesserung der Suche, Lizenzverwaltung und Sicherheitsvorfälle sind Zweck, Nachweis der Erforderlichkeit, Empfänger und Speicherlogik getrennt zu dokumentieren. Ich benötige den Aufbewahrungsplan einschließlich Backups, möglicher rechtlicher Aufbewahrung und der Prüfung eines Drittlandbezugs. Ob und wie eine vollständige DSFA abzuschließen ist, hängt am konkreten Umfang und am Risiko. Meine Vorprüfung ist offen.",
+        "Ich schlage eine gemeinsame Testreihe mit Dummydaten vor. Für die Erhebung zum Lernerfolg genügen standardisierte Aufgaben und freiwillig zusammengefasste Rückmeldungen. Einzelne Fragen, Inhalte und Fehlversuche sollen nicht in Personalakten gelangen. Eine datenschutzrechtliche Freigabe ist mit diesem Vermerk nicht erteilt."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "08_angebot-systempruefung.docx",
+      "titel": "Angebot SP-611 · sachverständige Begleitung",
+      "datum": "2026-09-15",
+      "von": "Dr. Elin Feld, Büro Systemprüfung",
+      "an": "Anja Kern, Betriebsratsvorsitzende",
+      "text": [
+        "Sehr geehrte Frau Kern, ich biete für die Beurteilung des geplanten KI-Einsatzes drei Prüfblöcke an. Ich habe das Beschaffungsprojekt nicht beraten und erhalte keine Vergütung eines Herstellers.",
+        "1 Leistungsumfang",
+        "Ein Arbeitstag für die gemeinsame Aufnahme von Rollen, Datenwegen und Stichproben. Anderthalb Tage für Testfälle im Schulungsmandanten und begleiteten Lesezugriff auf die freigegebenen Konfigurationsnachweise des produktiven Mandanten. Ein Tag für Befundbericht, Klauselabgleich und Vorstellung beim Betriebsrat. Eine dauerhafte Tätigkeit oder anwaltliche Prozessvertretung ist nicht enthalten.",
+        "2 Honorar und Datenzugang",
+        "3,5 Tage zu je 1.280 EUR netto ergeben 4.480 EUR netto. Hinzu kommen 19 % Umsatzsteuer, brutto 5.331,20 EUR. Die Arbeit erfolgt remote ohne Reisekosten. Keine Einsicht in echte Prompts oder personenbezogene Verlaufsexporte. Befundbericht und bereinigte Testbelege gehen an den Betriebsrat, eine technische Ergebnisfassung kann mit den Betriebsparteien abgestimmt werden.",
+        "Das Angebot ist bis 30. September verbindlich. Bitte teilen Sie mir den vereinbarten Auftrag, die Zugangsfreigabe und den Kostenträger mit. Ich nehme die Arbeit nach Beauftragung auf."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "09_betriebsratsbeschluss.docx",
+      "titel": "Sitzungsniederschrift · Auszug zu Tagesordnungspunkt 4",
+      "datum": "2026-09-18",
+      "von": "Anja Kern, Betriebsratsvorsitzende",
+      "an": "Beschlussbuch des Betriebsrats",
+      "text": [
+        "Die Vorsitzende hat am 14. September zur Beratung über „KI-Pilot und Beiziehung einer Sachverständigen nach Angebot SP-611“ geladen. Acht von neun stimmberechtigten Mitgliedern waren anwesend, darunter ein ordnungsgemäß geladenes Ersatzmitglied für ein verhindertes Mitglied. Das weitere verhinderte Mitglied war trotz Einladung eines Ersatzmitglieds nicht vertreten. Die Anwesenheitsliste liegt gesondert vor.",
+        "Das Gremium beschließt mit sieben Ja-Stimmen und einer Nein-Stimme, die Vorsitzende mit der näheren Vereinbarung über die Beiziehung von Dr. Elin Feld zu beauftragen. Ziel sind die Beurteilung der KI-Funktionen, die Prüfung der Testfälle und eine Stellungnahme zu den Schutzklauseln. Der Beschluss bezieht sich auf Angebot SP-611 bis maximal 4.480 EUR netto, ausschließlich nach Einigung mit der Arbeitgeberin.",
+        "Zwei Mitglieder haben um eine separate Rückmeldung gebeten, wie eine kleine Auswertungsgruppe geschützt und ein Wechsel aus dem Pilot ermöglicht wird. Über den Abschluss der Betriebsvereinbarung oder einen Produktionsstart wurde nicht abgestimmt."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "10_kosten-und-auftrag.eml",
+      "titel": "SP-611 · Gegenvorschlag zum Sachverständigenumfang",
+      "datum": "2026-09-21",
+      "von": "Nele Karg, Geschäftsführung",
+      "an": "Anja Kern, Betriebsratsvorsitzende",
+      "text": [
+        "Sehr geehrte Frau Kern, wir halten externe Unterstützung bei der Prüfung der KI-Funktionen für nachvollziehbar. Ich kann zunächst zwei Remote-Tage zu je 1.280 EUR netto für eine gemeinsame Vorführung und eine schriftliche Fragenliste anbieten. Eine Kostenübernahme für 3,5 Tage oder Zugang für einen selbständigen Produktionstest erkläre ich damit nicht.",
+        "Bitte benennen Sie einen technisch begrenzten zweiten Untersuchungsschritt, falls die Vorführung die Sicht von Personalverantwortlichen nicht nachweist. Der Leiter IT bietet einen beaufsichtigten Abgleich von Rollen und Exporten mit zwei synthetischen Konten an. Wir können den Beginn der produktiven Pilotphase nach hinten verschieben, sofern die offene Frage datiert dokumentiert ist.",
+        "Mit freundlichen Grüßen\nNele Karg"
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "11_rollentest.xlsx",
+      "titel": "Testprotokoll T-17 · Zugriff und Berichtsausgabe",
+      "datum": "2026-09-23",
+      "von": "Benno Habicht, IT-Betrieb",
+      "an": "Sachverständigengespräch und Datenschutz",
+      "text": [
+        "S-01 und ein freigegebener Rollenexport aus P-01. Die Tests verwenden synthetische Konten und beschreiben die vorgefundene Konfiguration."
+      ],
+      "tabelle": [
+        [
+          "Nr.",
+          "Umgebung / Rolle",
+          "Aktion",
+          "Ergebnis / Grenze"
+        ],
+        [
+          "T-17.1",
+          "S-01 / Testperson Service",
+          "Suche nach Datei nur für Personal",
+          "Kein Treffer im vorbereiteten Testbestand"
+        ],
+        [
+          "T-17.2",
+          "P-01 / beaufsichtigte IT",
+          "Freigaben des Schulungsordners prüfen",
+          "Gruppe Alle-Büro liest veraltetes freigegebenes Übungsdokument; Altfreigabe bereinigen"
+        ],
+        [
+          "T-17.3",
+          "S-01 / Berichtsempfang",
+          "Detailtabelle exportieren",
+          "Testkennung, Aktivitätstag und Dienst sichtbar; für P-01 kein identischer Export vorgelegt"
+        ],
+        [
+          "T-17.4",
+          "P-01 / Projektleitung",
+          "Nachweis tatsächlicher Rollen",
+          "Kein direkter Berichtszugriff laut vorgelegter Rolle. Weitergabe eines Exports ist organisatorisch möglich"
+        ],
+        [
+          "T-17.5",
+          "S-01 / IT-Sicherheit",
+          "Übungsprotokoll einsehen",
+          "Ereignisdaten sichtbar; kein Nachweis des Inhaltszugriffs oder der Produktivfrist"
+        ]
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "12_musterbericht.csv",
+      "titel": "Lizenzbesprechung · Beispieldaten aus Testkonten",
+      "datum": "2026-09-24",
+      "von": "Lina Witte, Personal und Organisation",
+      "an": "Anja Kern, Betriebsratsvorsitzende",
+      "text": [
+        "Der Musterexport benutzt ausschließlich synthetische Testkennungen. Die Zeilen zeigen den Vorschlag für eine wöchentliche Tabelle an die Projektleitung. Es handelt sich um eine interne Zusammenstellung und nicht um zugesicherte Standardfelder des Produktes."
+      ],
+      "tabelle": [
+        [
+          "Kalenderwoche",
+          "Funktionsbereich",
+          "Eingeplante Testkonten",
+          "Aktive Testkonten",
+          "Kommentar"
+        ],
+        [
+          "KW 38",
+          "Vertriebsinnendienst",
+          8,
+          5,
+          "Zwei Schichten zusammen"
+        ],
+        [
+          "KW 38",
+          "Konstruktion",
+          7,
+          4,
+          "Stammteam"
+        ],
+        [
+          "KW 38",
+          "Arbeitsvorbereitung",
+          6,
+          4,
+          "Stammteam"
+        ],
+        [
+          "KW 38",
+          "Servicebüro",
+          3,
+          1,
+          "Ein aktives Konto in der Frühbesetzung"
+        ]
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "13_streitfassung-gl.docx",
+      "titel": "Pilotvereinbarung · Vorschlag der Geschäftsführung zur Verhandlung",
+      "datum": "2026-09-25",
+      "von": "Nele Karg, Geschäftsführung",
+      "an": "Anja Kern, Betriebsratsvorsitzende",
+      "text": [
+        "1 Erprobungsbereich",
+        "Die Arbeitgeberin möchte die Zusammenfassung von Handbüchern und das Entwerfen von Geschäftskorrespondenz an einem Standort testen. Die Testphase soll acht Wochen ab dokumentierter Freigabe dauern. Ein Arbeitsweg ohne KI bleibt zugänglich. Die Projektleitung bittet um eine Festlegung, wie Beschäftigte eine Teilnahme beenden.",
+        "2 Berichtswesen – Textwunsch der Geschäftsführung",
+        "Die Projektleitung erhält wöchentlich eine Übersicht aktiver Konten je Pilotteam und kann bei auffälligen Veränderungen Erläuterungen aus den Bereichen einholen. Für die Fortführung sollen die tatsächliche Verwendung und drei aufgabenbezogene Qualitätskriterien bewertet werden. Die Geschäftsführung schlägt eine Überprüfung des Berichtsformats nach dem ersten Monat vor.",
+        "3 Technische Änderungen – Textwunsch der IT",
+        "Bei Funktionsänderungen soll es genügen, wenn die IT den Betriebsrat in der nächsten ordentlichen Sitzung informiert. Nicht erfasst sind Fälle, in denen sich die verwendeten Datenquellen oder die Sichtbarkeit personenbezogener Berichte verändern. Für die Abgrenzung beider Kategorien fehlt ein Freigabetext.",
+        "4 Offene Punkte",
+        "Zugriff im Störungsfall, Dauer und Nachweis der Löschung, Folgen des Ausstiegs, genauer Umfang der externen Beratung und Umgang mit dem beanstandeten Kleinteam stehen zur nächsten Sitzung an. Die Fassung ist von keiner Seite unterzeichnet."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "14_gegenentwurf-br.docx",
+      "titel": "Änderungswünsche des Betriebsrats für die zweite Lesung",
+      "datum": "2026-09-28",
+      "von": "Anja Kern, Betriebsratsvorsitzende",
+      "an": "Nele Karg, Geschäftsführung",
+      "text": [
+        "1 Bericht ohne Rückschluss auf Beschäftigte",
+        "Die BR-Arbeitsgruppe will zunächst nur eine Gesamtzahl für alle Teilnehmenden erhalten und die Ausgabe auf vertraglich vorgesehene Zeitpunkte begrenzen. Teamgrößen von drei und sich überlappende Vergleichszeiträume können eine Person erkennen lassen. Die Freigabe soll auch Exporte, Weitergabe, Kombination mit Schichtlisten und Einzelgespräche über vermeintliche Nichtnutzung erfassen.",
+        "2 Gleichwertiger Zugang zur Arbeit",
+        "Wer die bisherige Arbeitsweise wählt oder aussteigt, behält Zugang zu denselben Arbeitsaufgaben, Schulungen und Entwicklungsgesprächen. Die Ausstiegsanfrage soll vertraulich bei einer festgelegten Stelle eingehen. Für den Umgang mit bis dahin entstandenen Daten wird eine schriftliche Rückmeldung verlangt.",
+        "3 Änderung und Kontrolle",
+        "Bei Einführung neuer Datenquellen, Einsichtsrollen oder Exportfelder fordert die Arbeitsgruppe eine erneute Prüfung vor Aktivierung. Für eine rein redaktionelle Änderung der Oberfläche soll ein dokumentierter Hinweis genügen. Die IT soll eine eng beschriebene Unterbrechung zum Schutz vor Datenabfluss auslösen können. Regelmäßige Sicherheitsarbeiten dürfen den Schutztext nicht leerlaufen lassen.",
+        "Die Arbeitsgruppe schlägt ein gemeinsames Abnahmeprotokoll unter Beteiligung der Datenschutzbeauftragten vor. Weder Laufzeitbeginn noch Freigabe des Piloten sind schon vereinbart."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "15_berechtigungsticket.eml",
+      "titel": "Ticket 4621 · Freigabe bereinigt, Nachprüfung ausstehend",
+      "datum": "2026-09-29",
+      "von": "Benno Habicht, IT-Betrieb",
+      "an": "Projektteam und Betriebsratsvorsitz",
+      "text": [
+        "Guten Nachmittag, die Gruppe Alle-Büro wurde heute um 10:20 Uhr aus der Lesefreigabe des Schulungsordners entfernt. Die Suche über einen privilegierten Supportzugang findet die synthetische Referenzdatei weiterhin. Dieser Zugang bildet die Sicht einer Pilotperson nicht ab. Der Test mit einem unprivilegierten Konto ist im Änderungsfenster am 1. Oktober möglich.",
+        "Ich bitte um die schriftliche Festlegung, wer das Testkonto auswählt, wie lange das Ergebnis aufbewahrt wird und ob die betreffende Quelle bis zur erfolgreichen Nachprüfung aus dem Pilot ausgeschlossen bleibt. Das gleiche Prüfprotokoll soll die Tagesübersicht der Berichtsempfänger und eine Stichprobe möglicher Wiedererkennung aufnehmen. Eine Produktivlizenz habe ich keinem Beschäftigten zugewiesen.",
+        "Viele Grüße\nBenno"
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "16_entscheidungsanfrage.eml",
+      "titel": "Entscheidungsvorlage für die Verhandlung am 30. September",
+      "datum": "2026-09-29",
+      "von": "Anja Kern, Betriebsratsvorsitzende",
+      "an": "Arbeitsgruppe Pilotvereinbarung",
+      "text": [
+        "Bitte legen Sie bis morgen eine konsolidierte Pilotvereinbarung vor. Ich brauche getrennt davon die vorgeschlagene nähere Vereinbarung für die Sachverständige und die Unterlagenanforderung für das verbleibende Risiko bei der Namens- und Kleingruppenauswertung. Für das vervollständigte Rollenprotokoll möchte ich einen benannten Verantwortlichen und eine klare Frist, ab der eine erfolglose Nachprüfung den Termin verschiebt.",
+        "Die Leitung hält am gewünschten Start im Oktober fest. Ob ein gestufter Pilot für zwei Funktionen verantwortbar ist, hängt von den konkret vereinbarten Schutzmaßnahmen und ihrer Abnahme ab. Wenn wir uns zur Auswertung nicht einigen, möchte ich wissen, welchen Teil man freiwillig vereinbaren kann, wo ein Einigungsstellenverfahren in Betracht kommt und wie wir bis dahin Beschäftigtenfragen beantworten. Es soll bis zum nächsten Gremienbeschluss nichts unterschrieben werden.",
+        "Freundliche Grüße\nAnja Kern"
+      ]
+    }
+  ]
+}

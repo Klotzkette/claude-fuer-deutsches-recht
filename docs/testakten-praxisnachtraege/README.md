@@ -19,12 +19,12 @@ Die Fallseiten führen zur vollständigen Originalakte mit Nachtrag. Für kurze 
 
 ## Ausgaben nachvollziehen
 
-Die Fassungen der ursprünglichen ZIPs sind in den [Quelldaten](../../scripts/data/testakten-praxisnachtraege-2026-11.json) je Fall mit Release-Adresse und SHA-256 festgehalten. Jeder bisher enthaltene Dateipfad und sein Inhalt bleiben in der erweiterten ZIP erhalten. Die vier hinzugekommenen Aktenstücke stehen in den beiden Nachtragsordnern. Die Einzel-PDFs und das vierseitige PDF bilden nur diese vier Aktenstücke ab.
+Die [Quelldaten](../../scripts/data/testakten-praxisnachtraege-2026-11.json) nennen URL und SHA-256 des Ausgangsarchivs je Fall. Das vollständige ZIP enthält dessen Dateien unter den Originalpfaden sowie vier Aktenstücke in zwei Nachtragsordnern. Die Einzel-PDFs und das vierseitige PDF umfassen diese vier Aktenstücke.
 
-Für den Wiederaufbau die zwölf ZIPs aus `baseline.url` unter ihrem bisherigen Dateinamen in einem gemeinsamen Quellordner ablegen. Mit ReportLab und pypdf aus der Repository-Umgebung anschließend im Repository-Hauptverzeichnis ausführen.
+Für den Wiederaufbau die zwölf ZIPs aus `baseline.url` unter dem jeweiligen Originaldateinamen in einem gemeinsamen Quellordner ablegen. Mit ReportLab und pypdf aus der Repository-Umgebung anschließend im Repository-Hauptverzeichnis ausführen.
 
 ```sh
 python3 scripts/build-testakten-praxisnachtraege.py --baselines <Quellordner> --dist <Ausgabeordner>
 ```
 
-Der Aufbau prüft die SHA-256 jeder Ausgangsdatei, vergleicht nach dem Verpacken jeden bisherigen ZIP-Eintrag byteweise und prüft die vier Seiten des Nachtrags auf Textinhalt. Mit `--annex` lässt sich auch für die kompakten Downloads ein eigener Ausgabeordner festlegen.
+Der Aufbau prüft die SHA-256 jeder Ausgangsdatei, vergleicht nach dem Verpacken jeden Eintrag des Ausgangsarchivs byteweise und prüft die vier Seiten des Nachtrags auf Textinhalt. Mit `--annex` lässt sich auch für die kompakten Downloads ein eigener Ausgabeordner festlegen.

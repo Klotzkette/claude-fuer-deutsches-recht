@@ -10,24 +10,26 @@
 
 Autor: Klotzkette. Fallkennung: `bauwirtschaft-hoai-buergerhaus-einbeck`.
 
-Eine zusammenhängende Bauakte mit 55 nativen Originaldateien und sieben Excel-Arbeitsmappen: Bedarf ab November 2020, Architektenauftrag 2021, Genehmigung 2022, Vergabe und Baubeginn 2023, Abnahme und Übergabe 2024 sowie Objektbetreuung im Herbst 2026. Der ursprüngliche Stand vom 21.09.2026 wird durch elf zusätzliche Unterlagen ausdrücklich bis zum 06.10.2026 fortgeschrieben. Die 44 historischen Originale bleiben unverändert. Die Gesamtlesefassung erschließt sämtliche Unterlagen mit Dateiabschnitten.
+Eine zusammenhängende Bauakte mit 55 nativen Originaldateien und sieben Excel-Arbeitsmappen: Bedarf ab November 2020, Architektenauftrag 2021, Genehmigung 2022, Vergabe und Baubeginn 2023, Abnahme und Übergabe 2024 sowie Objektbetreuung im Herbst 2026. 44 Unterlagen dokumentieren den Projektstand am 21.09.2026. Elf Unterlagen verfolgen die Objektbetreuung bis zum 06.10.2026. Die Gesamtlesefassung erschließt sämtliche Unterlagen mit Dateiabschnitten.
 
 Die Akte gehört zu den anhand ihrer Plugin-Manifeste geprüften Slugs [bauwirtschaft](../../bauwirtschaft/README.md), [fachanwalt-bau-architektenrecht](../../fachanwalt-bau-architektenrecht/README.md) und [hoai-leistungsphasen-praxis](../../hoai-leistungsphasen-praxis/README.md).
 
 Personen, Firmen, Grundstücksangaben, Bauvorlagen und Verwaltungsvorgänge sind erfunden. Einbeck und die amtlichen Quellen sind real. Der Bescheid ist kein tatsächlich erteilter Verwaltungsakt; die Zeichnungen sind keine zur Bauausführung verwendbaren Unterlagen eines realen Gebäudes. Die drei Bildbelege sind eigens für diese Akte hergestellt. Die Originaldateien enthalten weder eine Lösungsmatrix noch Ausbildungsaufträge oder Herkunftshinweise.
 
 <!-- reserved-example-contacts -->
-Die neu ergänzten E-Mails verwenden reservierte `.example`-Adressen. Die historischen Dateien behalten ihre ursprünglichen Kontaktangaben; die Ergänzungen veranlassen keinen tatsächlichen Versand.
+Die E-Mails zur Objektbetreuung verwenden reservierte `.example`-Adressen. Sämtliche Kontaktangaben dienen ausschließlich der Bearbeitung des fiktiven Falls.
 
 <!-- BEGIN vertiefte-ausgabe-20261006 -->
 
-<!-- decimal-anchor --> <a id="vertiefte-ausgabe-vom-6-oktober-2026"></a>
+<a id="vertiefte-ausgabe-vom-6-oktober-2026"></a>
 
-## 1.2. Vertiefte Ausgabe vom 6. Oktober 2026
+<!-- decimal-anchor --> <a id="unterlagen-und-downloadformate"></a>
 
-**55 Originalunterlagen, darunter 7 bearbeitbare Excel-Arbeitsmappen.** Diese Ausgabe ergänzt 11 Aktenstücke. Die bisherigen Originale bleiben vollständig erhalten. Die neuen Mappen erläutern Eingaben, Quellen und Rechenwege; offene Angaben bleiben als solche erkennbar.
+## 1.2. Unterlagen und Downloadformate
 
-Die folgenden Downloads enthalten den vollständigen erweiterten Bestand. Der Fallstichtag steht in den Übergabeunterlagen; das Ausgabedatum macht daraus keine nachträgliche Kenntnis der Beteiligten.
+**55 Originalunterlagen, darunter 7 bearbeitbare Excel-Arbeitsmappen.** Die Arbeitsmappen erläutern Eingaben, Quellen und Rechenwege. Offene Angaben sind gekennzeichnet.
+
+Die Downloadtabelle führt zu den Originaldateien und Lesefassungen. Für Entscheidungen im Fall gilt der in den Übergabeunterlagen bezeichnete Stichtag.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -98,7 +100,7 @@ Die E-Mails 06, 18, 34 und 41 enthalten echte MIME-Anlagen. Diese stimmen bytege
 
 Die vier Arbeitsmappen 09, 19, 24 und 37 wurden mit Artifact Tool erstellt. Mengen, Preise, Steuern, Summen, Terminenden, Abstände und Rechnungsdifferenzen sind Formeln; gespeicherte Endwerte ersetzen keine Berechnung. Die Quellen stehen neben den Eingaben. Kostenfeststellung 37 trennt den geprüften Betrag, die streitige Gerätebereitschaft und die noch offene Objektbetreuung. Gebühren werden im Abschluss ohne Umsatzsteuer geführt; die frühe Kostenberechnung weist ihren vorsichtigen pauschalen Steueransatz ausdrücklich aus.
 
-Die drei zusätzlichen Arbeitsmappen 48, 53 und 54 enthalten sieben Tabellenblätter mit 144 Formeln. Gelbe Felder zeigen veränderbare Eingaben; Quellen, Rechenwege und Grenzen stehen unmittelbar in der Arbeitsmappe. Datei 48 führt die historische Rechnungsprüfung 37 weiter, ohne sie rückwirkend zu überschreiben. Sie trennt den bisherigen Zahlungsvorschlag von einem heute erst noch zu belegenden Zahlungssaldo. Datei 53 schließt einen Vorgang erst nach Prüfung, Nachweis und Erledigungsbestätigung. Datei 54 führt den rechnerischen Leistungsanteil unabhängig von noch offenen Belegfragen. Die Dateien sind eigenständige Arbeitsmappen und keine CSV-Zwillinge.
+Die drei Arbeitsmappen 48, 53 und 54 enthalten sieben Tabellenblätter mit 144 Formeln. Gelbe Felder zeigen veränderbare Eingaben; Quellen, Rechenwege und Grenzen stehen unmittelbar in der Arbeitsmappe. Datei 48 führt die historische Rechnungsprüfung 37 weiter, ohne sie rückwirkend zu überschreiben. Sie trennt den bisherigen Zahlungsvorschlag von einem heute erst noch zu belegenden Zahlungssaldo. Datei 53 schließt einen Vorgang erst nach Prüfung, Nachweis und Erledigungsbestätigung. Datei 54 führt den rechnerischen Leistungsanteil unabhängig von noch offenen Belegfragen. Die Dateien sind eigenständige Arbeitsmappen und keine CSV-Zwillinge.
 
 Für den Workshop lassen sich etwa der zusätzliche Rampenstreifen, die getrennten Grabenmengen und ein geänderter Prüfanteil bei N01.5 bis zum Bruttobetrag verfolgen. Ein eingetragener Untersuchungsschritt ohne Nachweis hält den Mängelvorgang offen. Ein geänderter Anteil der Objektbetreuung verändert die Honorarzuordnung, während die Belegfrage erhalten bleibt. Die Unterlagen enthalten die Aussagen der Beteiligten und offene Prüfaufträge, keine vorweggenommene Haftungs- oder Vergütungslösung.
 
@@ -110,7 +112,7 @@ Bildbelege sind das Planstandportal 22, die Bauleiterkommunikation 32 und die Sa
 
 Amtliche Quellen wurden am 25.09.2026 aktuell abgerufen. Die Urkunden zitieren keine Rechtsprechung oder unzugängliche technische Normtexte. Technische Maße sind konkrete Projektvorgaben, keine behaupteten wörtlichen Wiedergaben einer technischen Norm.
 
-Für die Ergänzung wurden HOAI Anlage 10 und Paragraf 34 am 06.10.2026 erneut amtlich abgerufen. Die neue Leistungsdarstellung erläutert den bestehenden individuellen Vertrag und fügt keine zwingende Honorarberechnung oder neue Rechtsprechungsbehauptung hinzu. Beobachtungswerte und Preisansätze der Ergänzungen stammen aus den ausdrücklich bezeichneten fiktiven Projektunterlagen.
+Quellen für die Einordnung der Objektbetreuung sind Anlage 10 und Paragraf 34 HOAI in der amtlichen Fassung, abgerufen am 06.10.2026. Für die Leistungs- und Honorarzuordnung im Fall ist der individuelle Vertrag maßgeblich. Beobachtungswerte und Preisansätze stammen aus den bezeichneten fiktiven Projektunterlagen.
 
 - [HOAI Anlage 10](https://www.gesetze-im-internet.de/hoai_2013/anlage_10.html): Leistungsbild Gebäude einschließlich fachlicher Mängelbewertung und Begehung in der Objektbetreuung.
 - [HOAI Paragraf 34](https://www.gesetze-im-internet.de/hoai_2013/__34.html): Leistungsphasen und prozentuale Zuordnung. Das vereinbarte Honorar bleibt eine individuelle Pauschale.
@@ -131,4 +133,4 @@ Die fallbezogenen Builder heißen `scripts/build-bauwirtschaft-einbeck-akte.py`,
 
 Der Fall enthält keine Behauptung eines Live-Modelltests. Nicht geprüfte reale Bauausführbarkeit oder reale Genehmigungsfähigkeit wird nicht zugesichert. Die Bilder und Genehmigungsunterlagen beziehen sich ausschließlich auf den beschriebenen erfundenen Vorgang.
 
-Die Ergänzung wird mit `scripts/vertiefung_einbeck_20261006.py` und `scripts/vertiefung_einbeck_20261006.mjs` gebaut. `scripts/test_vertiefung_einbeck_20261006.py` prüft die drei neuen Mappen durch native Neuberechnung, 30 Zelländerungstests und einen Bytevergleich der 44 historischen Originale. `scripts/package_vertiefung_einbeck_20261006.py` nutzt die zentralen Paketfunktionen ausschließlich für diesen Fall. `AKTEN_NODE_MODULES`, `SOFFICE`, `EINBECK_VERTIEFUNG_QA` und `EINBECK_VERTIEFUNG_DIST` steuern Abhängigkeiten und lokale Ausgabe. Die historischen Falltests prüfen weiterhin die ursprünglichen Sollwerte; Paketprüfungen schließen die Ergänzungen ein. Die veröffentlichen ZIP-Adressen bleiben bis zur nächsten Veröffentlichung unverändert.
+Die Unterlagen zur Objektbetreuung werden mit `scripts/vertiefung_einbeck_20261006.py` und `scripts/vertiefung_einbeck_20261006.mjs` gebaut. `scripts/test_vertiefung_einbeck_20261006.py` prüft die drei Arbeitsmappen durch native Neuberechnung, 30 Zelländerungstests und einen Bytevergleich der 44 historischen Originale. `scripts/package_vertiefung_einbeck_20261006.py` nutzt die zentralen Paketfunktionen ausschließlich für diesen Fall. `AKTEN_NODE_MODULES`, `SOFFICE`, `EINBECK_VERTIEFUNG_QA` und `EINBECK_VERTIEFUNG_DIST` steuern Abhängigkeiten und lokale Ausgabe. Die historischen Falltests prüfen weiterhin die ursprünglichen Sollwerte; Paketprüfungen schließen die Ergänzungen ein. Die veröffentlichen ZIP-Adressen bleiben bis zur nächsten Veröffentlichung unverändert.

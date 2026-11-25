@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Prüft die vier Plugin-Zusammenführungen und den unveränderten Aktenbestand."""
+"""Prüft die Plugin-Zusammenführungen und ihre generationsübergreifenden Erhaltungsnachweise."""
 from __future__ import annotations
 
 import argparse
@@ -9,6 +9,7 @@ from pathlib import Path
 import subprocess
 
 from akteneingang.verweise import central_row
+from consolidation_editions import archived, previous, register as edition_register, sha
 from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -63,7 +64,7 @@ def content_blob(content: bytes) -> str:
 
 
 def same_stored_blob(path: Path, expected: str, root: Path, name: str, baseline: str | None) -> bool:
-    """Vergleicht historische Bytes mit der deklarativ erzeugten Fallnavigation als einziger Ergänzung.
+    """Vergleicht historische Bytes über einzeln nachgewiesene Fassungen oder die Fallnavigation.
 
     Ein CRLF-Checkout einer ausdrücklich als Text markierten E-Mail hat andere
     Bytes als ihr gespeicherter LF-Blob. Maßgeblich sind ausschließlich die
@@ -72,13 +73,31 @@ def same_stored_blob(path: Path, expected: str, root: Path, name: str, baseline:
     """
     if git_blob(path) == expected:
         return True
+    proof = edition_register(root)
     content = None
+    if name in proof.get("edition", {}) or name in proof.get("preceding", {}):
+        try:
+            content = previous(root, name, path.read_bytes())
+            content = previous(root, name, content, stage="preceding")
+        except ValueError:
+            return False
+        if content_blob(content) == expected:
+            return True
     if Path(name).name == "README.md" and name.startswith("testakten/"):
-        content = before_intake_links(name, path.read_bytes())
+        content = before_intake_links(name, path.read_bytes() if content is None else content)
         if content_blob(content) == expected:
             return True
     if not baseline:
         return False
+    # Der historische Git-Baum kann im flachen Checkout fehlen. Für die
+    # belegten E-Mails sind die damalige Attributdatei und die vollständige
+    # CRLF-Ausgabe pro Pfad gebunden; gemischte Zeilenenden schlagen fehl.
+    if baseline == proof.get("preceding_commit") and name in proof.get("crlf_checkout", {}):
+        attrs = archived(root, proof, proof["checkout_attributes"]["sha256"])
+        content = path.read_bytes()
+        return (b"*.eml text eol=crlf" in attrs.splitlines()
+                and sha(content) == proof["crlf_checkout"][name]
+                and content_blob(content.replace(b"\r\n", b"\n")) == expected)
     result = subprocess.run(
         ["git", "-C", str(root), "check-attr", f"--source={baseline}", "-z", "text", "eol", "--", name],
         capture_output=True, check=False,
@@ -140,7 +159,7 @@ def check(root: Path, registry: dict, inventory: dict) -> list[str]:
             manifest = source / path
             if manifest.is_file():
                 data = json.loads(manifest.read_text())
-                if (data.get("name"), data.get("version")) != (new, registry["version"]):
+                if (data.get("name"), data.get("version")) != (new, row.get("version", registry["version"])):
                     errors.append(f"{new}/{path}: gemeinsame Identität/Version stimmt nicht")
 
     protected = inventory.get("protected_files", [])
@@ -158,8 +177,7 @@ def check(root: Path, registry: dict, inventory: dict) -> list[str]:
         elif not same_stored_blob(path, row["git_blob"], root, name, baseline):
             errors.append(f"Geschützte Akten-/Originaldatei verändert: {name}")
 
-    # Alte Dateien und Quellenstände bleiben erhalten. Nur der Einstieg wird
-    # ersetzt; seine vollständige frühere Fassung liegt unmittelbar daneben.
+    # Die erste Konsolidierungsrunde bewahrt die ursprünglichen Einstiegstexte unter README-bestand.md.
     for row in inventory.get("plugin_source_files", []):
         name = row["path"]
         if name.split("/", 1)[0] not in old_names:
@@ -168,6 +186,23 @@ def check(root: Path, registry: dict, inventory: dict) -> list[str]:
         path = inside(root, check_name)
         if not path.is_file() or not same_stored_blob(path, row["git_blob"], root, name, baseline):
             errors.append(f"Ursprünglicher Quellbestand nicht bytegleich erhalten: {name}")
+    proof = edition_register(root)
+    if not proof and set(old_names) & {"insolvenzrecht", "insolvenzforderungsanmeldungspruefung"}:
+        errors.append("Erhaltungsregister für Insolvenz-Zusammenführungen fehlt")
+    for name in proof.get("edition", {}):
+        path = inside(root, name)
+        try:
+            previous(root, name, path.read_bytes())
+        except (ValueError, OSError) as exc:
+            errors.append(str(exc))
+    for name, expected in proof.get("legacy_files", {}).items():
+        archived_name = proof["legacy_readmes"].get(name, name)
+        path = inside(root, archived_name)
+        if not path.is_file() or git_blob(path) != expected:
+            errors.append(f"Quellbestand der Insolvenz-Zusammenführung verändert oder verloren: {name}")
+    for name, row in proof.get("retired", {}).items():
+        if (name, row["canonical"]) not in zip(old_names, new_names):
+            errors.append(f"{name}: registrierte Zusammenführung fehlt")
     return errors
 
 
@@ -185,7 +220,9 @@ def main() -> int:
         print("\n".join(errors[:40]))
         print(f"{len(errors)} Fehler in Zusammenführung/Erhaltung")
         return 1
-    print(f"Plugin-Zusammenführung OK ({len(registry['consolidations'])} Paare; {len(inventory['protected_files'])} Originaldateien unverändert)")
+    stock = len(edition_register(args.root).get("legacy_files", {}))
+    print(f"Plugin-Zusammenführung OK ({len(registry['consolidations'])} Paare, "
+          f"{len(inventory['protected_files'])} Akten-/Originaldateien und {stock} Insolvenz-Quelldateien belegt)")
     return 0
 
 

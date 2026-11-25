@@ -128,8 +128,8 @@ def main():
    readme=readme[:start]+readme[end:].replace('## 4 Herkunft','## 3 Herkunft',1)
    heading,rest=readme.split('\n',1)
    block=mod.section_block(c['slug'],f"gesamt-pdf/{c['slug']}_gesamt.pdf",has_einzelpdf=True)
-   block=block.replace('Die ZIP-Links laden den zuletzt veröffentlichten Release.','Die ZIP-Links laden den in der Release-Konfiguration festgelegten Aktenrelease.')
-   block=block.replace('ZIP links refer to the latest published release.','ZIP links refer to the release selected in the repository asset configuration.')
+   block=block.replace('Die ZIP-Links führen zur veröffentlichten Aktenfassung.','Die ZIP-Links laden den in der Release-Konfiguration festgelegten Aktenrelease.')
+   block=block.replace('ZIP links point to the published case files.','ZIP links refer to the release selected in the repository asset configuration.')
    readme_path.write_text(heading+'\n\n'+block+'\n'+rest.lstrip())
   rubric={'name':c['title'],'plugin':'ki-native-kanzlei','stand':'2026-10-07','checks':[{'id':'arbeitsbestand','check_type':'working_file_count','description':'Zehn native Originale sind vorhanden.','min':10}]+[{'id':f'original-{i:02}','check_type':'file_exists','description':f'Das Aktenstück {i:02} ist vorhanden.','path':name} for i,name in enumerate(NAMES,1)]+[{'id':'fachlicher-entwurf','check_type':'human_review','description':'Der fachliche Entwurf bearbeitet den konkreten Sachverhalt, enthält benannte Blanks und bleibt vor Freigabe ein Entwurf.'},{'id':'honorar-und-zeit','check_type':'human_review','description':'Honorargrundlage, bestätigte Zeiten und ungeklärte Einträge werden unterschieden; ein unbestätigtes Angebot wird nicht als Rechnung versandt.'},{'id':'quellen-und-anlagen','check_type':'human_review','description':'Behauptungen, Belege und fehlende Originale bleiben unterscheidbar; Anlagen werden passend zum fertigen Entwurf ausgewählt.'}]}
   # JSON ist gültiges YAML; der Rubric-Loader verwendet YAML safe_load.

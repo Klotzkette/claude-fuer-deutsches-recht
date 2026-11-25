@@ -7,7 +7,7 @@
 
 Insolvenzanfechtung aus Verwalter- und Empfängersicht: Zahlungsketten, Deckung, Vorsatz, Drittleistungen, Gesellschafterfinanzierung, Bargeschäft und Rückgewähr belegt prüfen. Zehn Fachskills und ein Hauptskill führen zum ausformulierten Schreiben, Schriftsatz oder Vergleich.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,7 +54,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown / identisches TXT | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/insolvenzanfechtung-hauptproblem.md" download>insolvenzanfechtung-hauptproblem.md</a> · [`insolvenzanfechtung-hauptproblem.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/insolvenzanfechtung-hauptproblem.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [5 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Große Einzelwerkstätten zu §§ 130–139 InsO
 
@@ -135,7 +135,7 @@ Die Prüfung trennt Rechtshandlung, zeitliche Zuordnung, objektive Benachteiligu
 
 Die Referenz berücksichtigt amtlich gelesene Entscheidungen bis 2026. Insbesondere wird das EuGH-Verfahren C-43/25 nicht als noch offene Vorlage dargestellt. Entscheidungen enthalten jeweils „Trägt“ und „Trägt nicht“. Nicht zugängliche Quellen oder ungeklärte Tatsachen bleiben ausdrücklich offen. Das Plugin erfindet keine Randnummern und leitet aus einem Präzedenzfall keine allgemeine Bindung anderer Gerichte ab.
 
-Für § 135 Abs. 1 Nr. 2 InsO unterscheidet der Workflow jetzt ausdrücklich den einfachen Rückzahlungsfall vom Forderungserwerb. Bei direkter Befriedigung innerhalb des Jahres werden Krise und Empfängerkenntnis nicht als zusätzliche Voraussetzungen behandelt; § 129 Abs. 1 InsO bleibt zu prüfen. Bei Abtretung werden Wirksamkeit und Jahresgrenze nach BGH IX ZR 32/12 sowie konkrete besondere Zurechnungstatsachen nach BGH IX ZR 173/23 offengelegt. Eine ältere echte Zession wird nicht aus dem ursprünglichen Gesellschafterbezug allein erfasst.
+Für § 135 Abs. 1 Nr. 2 InsO unterscheidet der Workflow den einfachen Rückzahlungsfall vom Forderungserwerb. Bei direkter Befriedigung innerhalb des Jahres werden Krise und Empfängerkenntnis nicht als zusätzliche Voraussetzungen behandelt; § 129 Abs. 1 InsO bleibt zu prüfen. Bei Abtretung werden Wirksamkeit und Jahresgrenze nach BGH IX ZR 32/12 sowie konkrete besondere Zurechnungstatsachen nach BGH IX ZR 173/23 offengelegt. Eine ältere echte Zession wird nicht aus dem ursprünglichen Gesellschafterbezug allein erfasst.
 
 [Arbeitsweise](references/arbeitsweise.md) · [Zitierweise](references/zitierweise.md) · [Übergaben und Belegstruktur](references/belege-und-uebergaben.md)
 

@@ -28,6 +28,7 @@ import re
 import sys
 from pathlib import Path
 
+from consolidation_editions import register as consolidation_edition
 from prompt_profiles import enabled, formats, standalone_kinds
 from urllib.parse import quote
 
@@ -108,9 +109,9 @@ def header(total_skills: int, total_plugins: int, version: str) -> str:
     alle_md = f"{GH_RELEASE}/alle-skills-markdown.zip"
     return f"""# Skill-Gesamtübersicht
 
-Automatisch generierte Gesamtübersicht aller **{total_skills} Skills** in **{total_plugins} Plugins**.
+Gesamtübersicht aller **{total_skills} Skills** in **{total_plugins} Plugins**. Wähle in der Tabelle ein Plugin, um seine Skills zu lesen oder herunterzuladen.
 
-Stand: `{version}`.
+Stand: `{version}` (Basisversion des Marketplaces).
 
 [Repository-Start](README.md) · [Download-Index](ASSET_INDEX.md) · [Werkstatt und Schnellstart](docs/werkstatt-und-schnellstart-coverage.md) · [Testakten](testakten/README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Detailseiten](skills-index/)
 
@@ -118,11 +119,11 @@ Stand: `{version}`.
 
 | Paket | Inhalt | Download |
 | --- | --- | --- |
-| **Alle Skills als Markdown** | Skilltexte, Markdown-Referenzen und Plugin-READMEs des letzten Gesamtreleases; Werkstatt und Schnellstart bleiben Einzeldateien | [`alle-skills-markdown.zip`]({alle_md}) |
-| **Alle Plugins (installierbar)** | Plugin-ZIPs des letzten Gesamtreleases für kompatible Plugin-Oberflächen | [`alle-plugins-megazip.zip`]({megazip}) |
+| **Alle Skills als Markdown** | Skilltexte, Markdown-Referenzen und Plugin-READMEs des Sammelreleases | [`alle-skills-markdown.zip`]({alle_md}) |
+| **Alle Plugins (installierbar)** | Installierbare Einzel-ZIPs des Sammelreleases | [`alle-plugins-megazip.zip`]({megazip}) |
 | **Komplettpaket (alles)** | Plugins + Skill-Markdowns + Testakten + Übersichten | [`alles-komplettpaket.zip`]({komplett}) |
 
-Die Sammelpakete enthalten den Stand des letzten Gesamtreleases. Für ein später einzeln veröffentlichtes Plugin verwende das ZIP in der [Plugin-Tabelle](#alle-plugins).
+Für ein bestimmtes Plugin führt die [Plugin-Tabelle](#alle-plugins) zum zugehörigen Einzel-ZIP. Werkstatt und Schnellstart kannst du dort als einzelne Promptdateien herunterladen.
 
 ## Einzelnen Skill oder eigenständigen Prompt verwenden
 
@@ -273,9 +274,9 @@ def write_detail_index(plugins: list[tuple[str, list[str]]], version: str) -> st
         "",
         f"Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `{version}`.",
         "",
-        f"Die Aufteilung verhindert, dass eine einzige Seite alle {sum(len(skills) for _, skills in plugins)} Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.",
+        f"Wähle ein Plugin, um unter den {sum(len(skills) for _, skills in plugins)} Skills den passenden Arbeitsablauf zu finden. Jede Detailseite enthält die Beschreibungen und direkten Markdown-Downloads dieses Plugins.",
         "",
-        "English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.",
+        "Each plugin has a page with its skill descriptions and individual Markdown downloads. Select a plugin and choose `Download MD` to save a skill.",
         "",
         "[Hauptskills](#hauptskills) · [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Download-Index](../ASSET_INDEX.md) · [Werkstatt und Schnellstart](../docs/werkstatt-und-schnellstart-coverage.md) · [Testakten](../testakten/README.md)",
         "",
@@ -338,16 +339,19 @@ def main() -> int:
     for name, skills in plugins:
         page = plugin_detail_page(name, skills, component_versions[name])
         (SKILLS_INDEX_DIR / f"{name}.md").write_text(page.rstrip() + "\n", encoding="utf-8")
-    # Historische Direktlinks bleiben als ausdrückliche Wegweiser erhalten.
+    # Historische Direktlinks führen zur Fachroute und zum belegten Originaltext.
+    archived_readmes = consolidation_edition(REPO_ROOT).get("legacy_readmes", {})
     for item in consolidations:
         legacy, canonical = item["legacy"], item["canonical"]
         if canonical not in {name for name, _ in plugins}:
             raise ValueError(f"Gemeinsames Plugin fehlt: {canonical}")
+        archive = archived_readmes.get(f"{legacy}/README.md", f"{legacy}/README-bestand.md")
+        archive_link = f"\n[Archivierter Quellbestand](../{archive}).\n" if (REPO_ROOT / archive).is_file() else ""
         (SKILLS_INDEX_DIR / f"{legacy}.md").write_text(
             f"# Fachwege: {canonical}\n\n"
             f"Die gemeinsamen Skills stehen im [Skill-Verzeichnis {canonical}](./{canonical}.md). "
-            f"[Anleitung und sämtliche bisherigen Testakten](../{canonical}/README.md).\n\n"
-            f"Der [frühere Quellbestand](../{legacy}/README-bestand.md) bleibt nachvollziehbar.\n", encoding="utf-8")
+            f"[Anleitung und Testakten](../{canonical}/README.md).\n"
+            + archive_link, encoding="utf-8")
     # Index der Detailseiten
     idx = write_detail_index(plugins, version)
     (SKILLS_INDEX_DIR / "README.md").write_text(idx.rstrip() + "\n", encoding="utf-8")

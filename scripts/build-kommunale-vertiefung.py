@@ -124,9 +124,10 @@ Versicherungsscheine, Selbstbehalte, Meldegrenzen und Rückversicherungspriorit�
         rows.append(f"| {link} | {item['title']} |")
     templates = sorted((directory/'briefvorlagen').glob('*.docx'))
     for p in templates:
-        rows.append(f'| [{p.name}](briefvorlagen/{p.name}) | Bearbeitbare Fassung des bereits vorhandenen Briefs |')
+        rows.append(f'| [{p.name}](briefvorlagen/{p.name}) | Bearbeitbare Word-Fassung des Briefs |')
     pdf = directory/'gesamt-pdf'/f"{case['slug']}_gesamt.pdf"
-    page_text = f"Das aktualisierte Gesamt-PDF umfasst {len(PdfReader(pdf).pages)} Seiten." if pdf.exists() else ''
+    page_text = f"Das Gesamt-PDF umfasst {len(PdfReader(pdf).pages)} Seiten." if pdf.exists() else ''
+    briefhinweis = " Bearbeitbare Word-Fassungen der Briefe stehen unter `briefvorlagen`." if templates else ""
     count = len(document_arcname_pairs(directory))
     notes = case.get('notes', '')
     if isinstance(notes, list): notes = '\n\n'.join(notes)
@@ -134,7 +135,7 @@ Versicherungsscheine, Selbstbehalte, Meldegrenzen und Rückversicherungspriorit�
 
 ## Vertiefter Schriftwechsel und bearbeitbare Briefe
 
-{count} Arbeitsdateien einschließlich der gesonderten Fassungen in Word und PDF. {page_text} Ein Brief in zwei Formaten und seine MIME-Anlage sind derselbe Beleg; sie dürfen weder als zusätzlicher Schaden noch als unabhängige Bestätigung gezählt werden. Die Akteneingänge und bisher vorhandenen Klageentwürfe bleiben erhalten. Neu hinzugekommene Unterlagen befinden sich unter `{FOLDER}`. Vorhandene Brief-PDFs erhalten ergänzende Word-Fassungen unter `briefvorlagen`, soweit solche Briefe bereits zur Akte gehörten.
+{count} Arbeitsdateien einschließlich der gesonderten Fassungen in Word und PDF. {page_text} Ein Brief, seine PDF-Fassung und die per E-Mail übermittelte Anlage zählen als ein Beleg. Den Schriftwechsel zur Deckung finden Sie unter `{FOLDER}`.{briefhinweis}
 
 {notes}
 
@@ -151,11 +152,10 @@ Die Korrespondenz zeigt Anforderung, Antwort, abweichende Standpunkte und den je
     match = re.search(r'(?:<!-- decimal-anchor --> <a id="downloads"></a>\n\n)?^## [^\n]*Downloads\s*$', text, re.M)
     text = text[:match.start()]+section+'\n'+text[match.start():] if match else text+'\n'+section
     if not case['is_new']:
-        text = re.sub(r'Insgesamt stehen jetzt \*\*(\d+) Originalunterlagen\*\* zur Verfügung\.', r'Nach dieser ersten Ergänzung umfasste der Bestand **\1 Originalunterlagen**. Den aktuellen Umfang nennt der zusätzliche Vertiefungsabschnitt.', text)
-        text = text.replace('18 Originale: zehn Word-Dokumente', 'Der unveränderte Grundbestand umfasst 18 Originale: zehn Word-Dokumente')
+        text = re.sub(r'^18 Originale: zehn Word-Dokumente', 'Der Akteneingang umfasst 18 Originale: zehn Word-Dokumente', text, flags=re.M)
         text = re.sub(r'(?<=Seiten\. )(\d+ native Originalunterlagen)', r'Grundbestand: \1', text)
         text = text.replace('Achtzehn native Originalunterlagen:', 'Grundbestand: achtzehn native Originalunterlagen:')
-        text = text.replace('Die Arbeitsdateien enthalten keine Musterlösung, keine Bewertungsmatrix und keine abgeschriebene Seminarfolie.', 'Der ursprüngliche Akteneingang enthält keine Musterlösung, Bewertungsmatrix oder abgeschriebene Seminarfolie. Der später ergänzte Klageentwurf ist ein ausdrücklich bestelltes Arbeitsstück zur Gegenprüfung.')
+        text = text.replace('Die Arbeitsdateien enthalten keine Musterlösung, keine Bewertungsmatrix und keine abgeschriebene Seminarfolie.', 'Der ursprüngliche Akteneingang enthält keine Musterlösung, Bewertungsmatrix oder abgeschriebene Seminarfolie. Der gesondert bestellte Klageentwurf dient der Gegenprüfung.')
         text = text.replace('No answer key is included.', 'The original case intake contains no answer key; a separately requested draft statement of claim is included for review.')
         text = re.sub(r'Das(?: aktualisierte)? Gesamt-PDF (?:umfasst|enthält) \d+ Seiten\.', page_text, text) if page_text else text
         if pdf.exists():

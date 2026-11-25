@@ -18,13 +18,13 @@ Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bere
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Insolvenzstatus belegen
 
-Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Eröffnungsweg anhand belegter Finanz- und Verfahrensdaten prüfen.
+Rekonstruiere fällige Posten, Vollstreckungsstand, freie Mittel und zeitlich belastbare Zuflüsse nach dem [Arbeitsweg für Insolvenzstatus und Antrag](../../references/krisenstatus-und-antrag.md). Lege offen, welcher Posten den Befund an welchem Tag verändert. Halte die Zahlungseinstellung als eigenständigen Beweisweg und die Beurteilung aus damaliger Sicht fest.
 
-### 3.2. Arbeitsschritt
+### 3.2. Antrag und Vertretung
 
-Die unten zugeordneten Vertiefungen zum konkreten Sachverhalt vollständig lesen; zusammenhängende Themen gemeinsam bearbeiten.
+Bestimme Antragsteller, Schuldner, Rechtsform und maßgeblichen Zeitpunkt. Prüfe bei einem Eigenantrag Vertretung, Antragsberechtigung, Gläubigerverzeichnis und Organpflicht, beim Gläubigerantrag rechtliches Interesse, Forderung und Eröffnungsgrund. Beziffere offene Beträge, benenne Anlagen und Gegenbelege und liefere das bestellte Schreiben, den Antrag oder den begründeten Krisenvermerk.
 
 ### 3.3. Arbeitsschritt
 

@@ -1,6 +1,8 @@
 """Verifizierte reine Paketlink-Korrektur ohne Änderung historischer Prüfbelege."""
 from __future__ import annotations
 
+from consolidation_editions import previous_file, retained_entries
+
 import hashlib
 import json
 import os
@@ -56,11 +58,12 @@ def previous_bytes(root, path, *, plugin=None):
     if row is None:return None
     if plugin is not None and row['plugin']!=plugin:raise ValueError('Paketlink-Plugin verwechselt')
     entries=load(root/'.claude-plugin/marketplace.json')['plugins']
+    entries += retained_entries(root, entries)
     source=next((safe(root,p['source']) for p in entries if p['name']==row['plugin']),None)
     if source is None or not path.is_relative_to(source) or path.relative_to(source).parts[0] not in {'skills','references'} or path.suffix!='.md':
         raise ValueError('Keine zulässige Paketlink-Quelldatei')
     if row['archive']!=ARCHIVE+relative+'.txt':raise ValueError('Falsches Paketlink-Archiv')
-    old=safe(root,row['archive']).read_bytes(); current=path.read_bytes()
+    old=safe(root,row['archive']).read_bytes(); current=previous_file(root,path)
     followup=row.get('main_revision_followup')
     if followup is not None:
         # Drei Hauptskills wurden nach der reinen Linkreparatur nochmals

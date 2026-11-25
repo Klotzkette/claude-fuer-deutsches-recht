@@ -35,9 +35,9 @@ English: Start with the `Grundakte` folder in the original-format ZIP. It contai
 
 ## 1.2. Ein Achtfamilienhaus durch alle neun Leistungsphasen
 
-Diese erweiterte Fassung des [Achtfamilienhauses Hildesheim](../bauwirtschaft-neubau-achtfamilienhaus-hildesheim/README.md) enthält dessen 198 Originaldateien unverändert und ergänzt eine gegliederte Projektablage, tägliche Bauaufzeichnungen, ausführliche Leistungsverzeichnisse, Lieferungen, Begehungen, Mängelverfolgung, Rechnungseingänge und bearbeitbare Wordvorlagen. Autor: Klotzkette. Projektkennung: **SW-HI-26-08**.
+Die Projektablage verbindet die 198 Originaldateien zum [Achtfamilienhaus Hildesheim](../bauwirtschaft-neubau-achtfamilienhaus-hildesheim/README.md) mit täglichen Bauaufzeichnungen, Leistungsverzeichnissen, Liefernachweisen, Begehungen, Mängelverfolgung, Rechnungseingängen und bearbeitbaren Wordvorlagen. Autor: Klotzkette. Projektkennung: **SW-HI-26-08**.
 
-Die Fassung enthält **410 Originaldateien**: 184 DOCX, 101 PDF, 84 EML, 28 XML, sieben CSV, drei XLSX, zwei PNG und eine TXT-Datei. Das Gesamt-PDF umfasst **1.217 Seiten** einschließlich des Dokumentenregisters. Gegenüber v445.8.0 kommen 44 Unterlagen hinzu; sämtliche bisherigen 366 Originale bleiben unverändert.
+Die Fassung enthält **410 Originaldateien**: 184 DOCX, 101 PDF, 84 EML, 28 XML, sieben CSV, drei XLSX, zwei PNG und eine TXT-Datei. Das Gesamt-PDF umfasst **1.217 Seiten** einschließlich des Dokumentenregisters.
 
 Das Hauptprojekt bleibt der **Neubau von acht Wohnungen zur Vermietung**: 1.300 m² Grundstück, 600 m² Wohnfläche, drei Geschosse ohne Keller, Aufzug, acht Pkw-Stellplätze, Fahrrad- und Spielflächen, Wärmepumpen und Photovoltaik. Erwerb und Projektbeginn liegen 2026, Planung und Genehmigung 2027, Bau und Übergaben 2027–2028, Erstvermietung am 1. Oktober 2028 und spätere Objektbetreuung bis 2033. Sämtliche neun HOAI-Leistungsphasen für Gebäude sind bearbeitbar.
 
@@ -72,11 +72,11 @@ Die jeweilige Leistungsphase ist an Aufgabe und Beauftragung zu bestimmen. Vermi
 
 ## 1.4. Bautagebuch, Leistungsverzeichnisse und Bauunterlagen
 
-Das **Bautagebuch umfasst jeden der 304 Kalendertage vom 1. Dezember 2027 bis zum 29. September 2028**, einschließlich Wochenenden, Feiertagen und Stillstand. Zehn bearbeitbare Monatsbände enthalten jeweils eine Seite je Tag mit Witterung, Personal, Arbeiten, Mengen, Geräten, Lieferungen, Kontrollen und offenen Punkten. Es handelt sich um ein Bautagebuch; ein Fotobuch gehört nicht zu dieser Erweiterung.
+Das **Bautagebuch umfasst jeden der 304 Kalendertage vom 1. Dezember 2027 bis zum 29. September 2028**, einschließlich Wochenenden, Feiertagen und Stillstand. Zehn bearbeitbare Monatsbände enthalten jeweils eine Seite je Tag mit Witterung, Personal, Arbeiten, Mengen, Geräten, Lieferungen, Kontrollen und offenen Punkten.
 
 Die sieben detaillierten Leistungsverzeichnisse zerlegen die 26 ursprünglichen Pauschalgruppen in **134 Unterpositionen**. Ihre Summe bleibt **2.080.000,00 EUR netto**. Die detaillierte Kalkulation ändert die abgeschlossenen Pauschalverträge nicht stillschweigend in Einheitspreisverträge. Hinzu kommen 28 Liefer- und Prüfnachweise, 16 Begehungen sowie jeweils zwölf Mängelaufnahmen und Nachkontrollen.
 
-Ein historischer Tagebucheintrag aus dem Ausgangsbestand nennt Arbeiten am Pfingstmontag, dem 5. Juni 2028. Die Erweiterung erhält diesen Ausgangsbeleg und stellt ihm eine datierte Berichtigung der verantwortlichen Person gegenüber. Der Tagesbericht und der tatsächliche Ausführungstag werden anhand dieser Dokumentenkette abgeglichen. Ein gesonderter, am 29. September 2028 datierter Personalabgleich erläutert für alle 23 ursprünglichen Kurzvermerke die konkrete Gewerksbesetzung und unterscheidet produktive Kolonnen von Besprechungsteilnehmern.
+Ein historischer Tagebucheintrag aus dem Ausgangsbestand nennt Arbeiten am Pfingstmontag, dem 5. Juni 2028. Dem Eintrag liegt eine datierte Berichtigung der verantwortlichen Person bei. Der Tagesbericht und der tatsächliche Ausführungstag werden anhand dieser Dokumentenkette abgeglichen. Ein gesonderter, am 29. September 2028 datierter Personalabgleich erläutert für alle 23 ursprünglichen Kurzvermerke die konkrete Gewerksbesetzung und unterscheidet produktive Kolonnen von Besprechungsteilnehmern.
 
 Das tägliche Bautagebuch steht zusätzlich als eigene zusammenhängende Lesefassung bereit. Diese Ausgabe enthält dieselben Tagesseiten wie die Monatsbände und zählt nicht als weiterer Originalbeleg.
 
@@ -90,7 +90,7 @@ Das tägliche Bautagebuch steht zusätzlich als eigene zusammenhängende Lesefas
 
 ## 1.5. Belege, Buchhaltung und Wordvorlagen
 
-Die 38 Kostenbelege, 28 strukturierten Rechnungen und drei berechnenden Excel-Arbeitsmappen aus dem Ausgangsprojekt bleiben erhalten. **28 zusätzliche Rechnungseingangs-E-Mails enthalten die tatsächlich zugehörigen PDF- und XML-Dateien als Anlagen.** Sie belegen den Eingang derselben Forderung und erzeugen keine neuen Kosten. Auch Liefer- und Prüfnachweise sind keine zusätzlichen Rechnungen.
+Für die Buchhaltung stehen 38 Kostenbelege, 28 strukturierte Rechnungen und drei Excel-Arbeitsmappen mit Formeln zur Verfügung. **28 Rechnungseingangs-E-Mails enthalten die zugehörigen PDF- und XML-Dateien als Anlagen.** Sie belegen den Eingang derselben Forderung und erzeugen keine neuen Kosten. Auch Liefer- und Prüfnachweise sind keine zusätzlichen Rechnungen.
 
 Rechnung, Abschlag, Nachtrag, Zahlung, Doppelzahlung, Korrektur und Erstattung lassen sich mit den Kontobelegen abgleichen. Die Wordvorlagen enthalten ausformulierte Schreiben und Protokolle mit bearbeitbaren Feldern. Sie liegen ausdrücklich im Vorlagenordner; ungefüllte Felder in einer Vorlage stellen keine abgeschlossenen Vorgänge in der Projektakte dar.
 
@@ -100,7 +100,7 @@ Die Arbeitsmappen unterscheiden Kosten und Liquidität. Sie ersetzen keine volls
 
 ## 1.6. Elf Vorgänge aus dem Projektalltag
 
-**35 zusätzliche E-Mails und neun bearbeitbare Wordvermerke** erzählen zusammenhängende Vorgänge vom ersten Anliegen über Rückfragen und Absprachen bis zur späteren Rückmeldung. Erna Wagner sucht Rechnungen über ihre Belegnummern, die Gewerke verhandeln über nutzbare Lieferwege, ein Nachbar präzisiert seinen Besuchstermin, und die Mietparteien fragen nach Klingelschild, Möbeltransport und Stromanmeldung. Die Personen sprechen unterschiedlich; Missverständnisse werden im Verlauf berichtigt.
+**35 E-Mails und neun bearbeitbare Wordvermerke** erzählen zusammenhängende Vorgänge vom ersten Anliegen über Rückfragen und Absprachen bis zur späteren Rückmeldung. Erna Wagner sucht Rechnungen über ihre Belegnummern, die Gewerke verhandeln über nutzbare Lieferwege, ein Nachbar präzisiert seinen Besuchstermin, und die Mietparteien fragen nach Klingelschild, Möbeltransport und Stromanmeldung. Die Personen sprechen unterschiedlich; Missverständnisse werden im Verlauf berichtigt.
 
 | Unterlagenkennung | Zeitraum | Vorgang und Ablage |
 | --- | --- | --- |

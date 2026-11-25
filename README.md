@@ -45,11 +45,11 @@ Für ChatGPT findest du den passenden Einstieg unter [Workspace, Desktop-App und
 <!-- BEGIN HAUPTVERZEICHNIS (auto-generated) -->
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
-| **Plugins** | 315 | Installierbare Fachpakete | [Katalog](#was-ist-drin) · [Downloads](./ASSET_INDEX.md) |
-| **Skills** | 3189 | Arbeitsabläufe für einzelne Aufgaben | [Alle Skills](./SKILLS.md) · [Einzeldownloads je Plugin](./skills-index/) |
-| **Werkstatt-Prompts** | 313 | Ausführliche Anweisungen für mehrstufige Vorgänge | [Werkstatt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
-| **Schnellstart-/Mini-Prompts** | 312 | Kurze Anweisungen für den Einstieg im Chat | [Mini-Prompt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 633 zentral / 671 gesamt | Übungsfälle mit Arbeitsaufträgen und Unterlagen | [Zentrale Sammlung](./testakten/README.md#verfügbare-akten) · [Akten einzelner Plugins](#testakten) |
+| **Plugins** | 314 | Installierbare Fachpakete | [Katalog](#was-ist-drin) · [Downloads](./ASSET_INDEX.md) |
+| **Skills** | 3179 | Arbeitsabläufe für einzelne Aufgaben | [Alle Skills](./SKILLS.md) · [Einzeldownloads je Plugin](./skills-index/) |
+| **Werkstatt-Prompts** | 312 | Ausführliche Anweisungen für mehrstufige Vorgänge | [Werkstatt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
+| **Schnellstart-/Mini-Prompts** | 311 | Kurze Anweisungen für den Einstieg im Chat | [Mini-Prompt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
+| **Testakten** | 634 zentral / 672 gesamt | Übungsfälle mit Arbeitsaufträgen und Unterlagen | [Zentrale Sammlung](./testakten/README.md#verfügbare-akten) · [Akten einzelner Plugins](#testakten) |
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
 
 Die Prompt-Register zählen die Hauptdateien je Plugin. Zusätzliche Werkstätten gibt es unter anderem für die [neun HOAI-Leistungsphasen](./docs/bauwirtschaft-hoai-phasen.md) und die [Insolvenzanfechtung](./insolvenzanfechtung/werkstattprompts/README.md). Die [Hauptskills](./skills-index/README.md#hauptskills) führen durch einen ganzen Vorgang. Der [Werkstatt-Leitfaden](./docs/werkstatt-visualisierung.md) zeigt, wie sich Belege und Varianten bis zum Entwurf verfolgen lassen.
@@ -66,10 +66,10 @@ Werkstätten für [Betreuungsunterlagen](https://klotzkette.github.io/claude-fue
 | Arbeitsbereich | Fachliche Einstiege |
 | --- | --- |
 | Verträge und Unternehmen | [Vertragserstellung](./vertragserstellung/README.md), [AGB-Werkstatt](./agb-werkstatt/README.md), [Corporate und M&A](./corporate-kanzlei/README.md), [Due Diligence](./due-diligence/README.md) |
-| Arbeitsrecht und Altersversorgung | [Fachprofil Arbeitsrecht](./fachanwalt-arbeitsrecht/README.md), [Kündigungsschutzklage](./arbeitsrecht-kuendigungsschutzklagewerkstatt/README.md), [Betriebliche Altersversorgung im Konzern](./bav-strategie-konzern/README.md) |
+| Arbeitsrecht und Altersversorgung | [Fachprofil Arbeitsrecht](./fachanwalt-arbeitsrecht/README.md), [Betriebsvereinbarungen](./betriebsvereinbarungen/README.md), [Kündigungsschutzklage](./arbeitsrecht-kuendigungsschutzklagewerkstatt/README.md), [Betriebliche Altersversorgung im Konzern](./bav-strategie-konzern/README.md) |
 | Verfahren und Schriftsätze | [Forderungsmanagement](./forderungsmanagement-klagewerkstatt/README.md), [Schriftsatz-Versand](./schriftsatz-versandwerkstatt/README.md), [15 Gerichts- und Staatsanwaltschafts-Plugins](./gerichtsplugins/README.md) |
 | Immobilien, Bau und Vergabe | [Immobilienrecht](./immobilienrechtspraxis/README.md), [Bauunternehmer-Einkauf](./bauunternehmer-einkauf/README.md), [HOAI-Leistungsphasen](./docs/bauwirtschaft-hoai-phasen.md), [Bauvergabe](./bauvergabe/README.md) |
-| Krise und Insolvenz | [16 eigenständige Insolvenz-Plugins](./insolvenzrecht-plugins/README.md), darunter [Forderungsanmelder](./insolvenzforderungsanmeldungspruefung/README.md), [Zahlungsunfähigkeits- und Überschuldungsprüfer](./zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md) und [Insolvenzplan- und StaRUG-Planwerkstatt](./insolvenzplan-starug-planwerkstatt/README.md) |
+| Krise und Insolvenz | [Fachbereich Insolvenzrecht mit 16 installierbaren Paketen](./Fachbereiche/Insolvenzrecht/README.md), darunter [Forderungen anmelden und prüfen](./insolvenzforderungen-checker/README.md), [Zahlungsunfähigkeits- und Überschuldungsprüfer](./zahlungsunfaehigkeits-und-ueberschuldungspruefer/README.md) und [Insolvenzplan- und StaRUG-Planwerkstatt](./insolvenzplan-starug-planwerkstatt/README.md) |
 | Steuerrecht, Regulierung und Compliance | [Facheinstieg Steuerrecht](./fachanwalt-steuerrecht/README.md) mit dem [gemeinsamen Paket für Steueranwälte und Steuerberater](./steuerrecht-anwalt-und-berater/README.md), [Compliance im Großkonzern](./compliance-abteilung-grosskonzern/README.md), [KI-Governance](./ki-governance/README.md), [Geldwäscheprävention](./geldwaeschepraevention-aml-kyc/README.md) |
 | Methode, Sprache und Ausbildung | [Methodenlehre](./methodenlehre-buergerliches-recht/README.md), [Zitierweise](./zitierweise-deutsches-recht/README.md), [Einfache und Leichte Sprache](./einfache-leichte-sprache-jura/README.md), [Jurastudium](./jurastudium/README.md) |
 
@@ -117,9 +117,9 @@ Verfügbarkeit, Dateizugriff, Quellenzugänge und der Export von DOCX, PDF oder 
 
 | Kennzahl | Wert |
 | --- | --- |
-| **Plugins** | 315 |
-| **Skills (SKILL.md)** | 3189 im Quellbestand |
-| **Testakten** | 633 zentral / 671 gesamt |
+| **Plugins** | 314 |
+| **Skills (SKILL.md)** | 3179 im Quellbestand |
+| **Testakten** | 634 zentral / 672 gesamt |
 | **Fachanwaltsprofile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v445.35.3` als Basisversion des [Marketplace-Manifests](./.claude-plugin/marketplace.json). Die [Fachübersicht](./references/rechtsgebiete-uebersicht.md) nennt die jeweilige Version jedes Plugins. |
 
@@ -128,7 +128,7 @@ Verfügbarkeit, Dateizugriff, Quellenzugänge und der Export von DOCX, PDF oder 
 
 ### Sammel-Downloads
 
-Die Sammelarchive gehören zum veröffentlichten Bestand vom 9. Oktober 2026 mit 297 Plugins. Für ein bestimmtes Plugin, seinen Paketstand oder eine einzelne Akte führt der [Download-Index](./ASSET_INDEX.md) zum zugeordneten Download. [Release-Zuordnung und Prüfsummen](./docs/release-routing.md)
+Das Sammelrelease `v445.35.3` vom 9. Oktober 2026 umfasst 297 Plugins. Im [Download-Index](./ASSET_INDEX.md) findest du das Paket für ein bestimmtes Plugin oder eine einzelne Akte. [Release-Zuordnung und Prüfsummen](./docs/release-routing.md)
 
 | Paket | Inhalt |
 | --- | --- |
@@ -192,7 +192,7 @@ Mit einer Testakte kannst du prüfen, ob ein Arbeitsablauf zu deinen Aufgaben un
 
 Eigene Beiträge stehen nach Wahl unter **Apache License, Version 2.0** oder **MIT License** (`Apache-2.0 OR MIT`). [Lizenzhinweis](./LICENSE) · [Apache-2.0-Lizenz](./LICENSE-APACHE) · [MIT-Lizenz](./LICENSE-MIT) · [Notice](./NOTICE)
 
-Anthropics Vorlage `claude-for-legal` steht seit dem Initialcommit unter der Apache License, Version 2.0. Für übernommenes Material gelten die Herkunfts- und Lizenzvermerke in den Dateien. [Lizenz der ursprünglichen Vorlage](https://github.com/anthropics/claude-for-legal/blob/d541734b08e67aae330a362b256d1eb6808a08f5/LICENSE)
+Für Anthropics Vorlage `claude-for-legal` gilt die Apache License, Version 2.0. Für übernommenes Material gelten die Herkunfts- und Lizenzvermerke in den Dateien. [Lizenz der ursprünglichen Vorlage](https://github.com/anthropics/claude-for-legal/blob/d541734b08e67aae330a362b256d1eb6808a08f5/LICENSE)
 
 [Changelog](./CHANGELOG.md) · [Veröffentlichungen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases)
 
@@ -250,7 +250,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | --- | --- |
 | [`bank-rechtsabteilung`](./bank-rechtsabteilung) | Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsicht, Kredit, Avale, Bürgschaft, Garantien, Trade Finance, ZAG/PSD2, PSD3/PSR-Vorschau, eWpG, MiCAR, Tokenisierung, BaFin, Vorstand, HV und Kanzleisteuerung. |
 | [`barrierefreiheit-web-checker`](./barrierefreiheit-web-checker) | Web-Barrierefreiheits-Checker für BFSG, BFSGV, BITV 2.0, EN 301 549 und WCAG: Scope, Audit, Tastatur, Screenreader, Formulare, PDFs, Erklärung, Roadmap und Abnahme. |
-| [`bautraegervertrag-pruefer`](./bautraegervertrag-pruefer) | Prüft Bauträgerverträge aus Erwerber-, Bauträger-, GdWE- und Verwaltersicht: Bausoll, MaBV-Raten, Sicherheiten, Eigentum, Abnahme, Mängel, Verjährung und Sonderkonstellationen. Zehn Arbeitswege verbinden beide Fachbibliotheken und alle bisherigen Testakten. |
+| [`bautraegervertrag-pruefer`](./bautraegervertrag-pruefer) | Prüft Bauträgerverträge aus Sicht von Erwerbern, Bauträgern, GdWE und Verwaltung. Zehn Arbeitswege, zwei Fachbibliotheken und Testakten erschließen Bausoll, MaBV-Raten, Sicherheiten, Eigentum, Abnahme, Mängel und Verjährung. |
 | [`bauunternehmer-einkauf`](./bauunternehmer-einkauf) | Arbeitswerkstatt für Projekt- und Zentraleinkauf im Bau: 14 Skills von KI-Einstieg, Aktenauswertung, Leistungsverzeichnis und Preisrecherche über GAEB, Angebotsvergleich und Verhandlung bis Vertrag, Lieferung und Nachtrag. Mit zehn erhaltenen Einkaufsakten. |
 | [`bauvergabe-bieter`](./bauvergabe/bauvergabe-bieter) | Bauvergabe Bieter für öffentliche Bauaufträge mit zehn Fachskills und einem Hauptskill vom konkreten Auftrag zum vollständigen Arbeitsergebnis. |
 | [`bauvergabe-nachtragsmanagement`](./bauvergabe/bauvergabe-nachtragsmanagement) | Zehn Fachskills und ein Hauptskill für Auftragnehmer nach dem Zuschlag: Nachtragsgrund, Preise, Bauzeit, Abrechnung, Sicherung und getrennte Prüfung öffentlicher Auftragsänderungen. |
@@ -280,6 +280,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`betaeubungsmittelrecht`](./betaeubungsmittelrecht) | Betäubungsmittelrecht-Plugin für BtMG, BtMVV, KCanG/MedCanG-Schnittstellen, Strafverfahren, Therapie, ärztliche Praxis, Apotheken und Compliance. |
 | [`betreuungsrecht`](./betreuungsrecht) | Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Berufs- und Vereinsbetreuer: Kaltstart, Scan-Akte, Kalender, Gerichtskommunikation, Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Wunschermittlung, Kontoanalyse und Schutzplan nach BtOG und BGB. |
 | [`betriebskosten-hausverwaltung`](./betriebskosten-hausverwaltung) | Betriebskosten für Mietshaus und vermietete Eigentumswohnung: zehn Skills von Belegen, Kostenabgrenzung und Heizkosten bis zur nachrechenbaren Abrechnung oder zum Antwortbrief. |
+| [`betriebsvereinbarungen`](./betriebsvereinbarungen) | Betriebsvereinbarungen für Arbeitgeber und Betriebsrat entwerfen, verhandeln und durchführen. Mit Tarif- und Zuständigkeitsprüfung, Sachverständigenauftrag, Beschäftigtendatenschutz und einer Arbeitsakte zu Microsoft 365 Copilot. |
 | [`bgb-at-pruefer`](./bgb-at-pruefer) | Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, qES, beA, Anfechtung, Stellvertretung, Fristen, Verjährung und Routing für digitale Elemente, Update- und Reparaturrecht. |
 | [`bgb-bt-pruefer`](./bgb-bt-pruefer) | Großer BGB-BT-Prüfer für Schuldrecht Besonderer Teil: Kauf einschließlich Verbrauchsgüterkauf, Waren mit digitalen Elementen, Updatepflichten und Right-to-Repair-Schnittstellen, außerdem Miete, Werk, Bürgschaft, GoA, Bereicherung, Delikt und Rückabwicklung. |
 | [`bieter-unternehmen`](./vergaberecht-werkstatt/bieter-unternehmen) | Bieter legen Vergabeunterlagen, Unternehmensdaten oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen, Nachweise, Qualitätsvorsprung, Angebotsfreeze, Upload, Rüge, VK und OLG. |
@@ -316,7 +317,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`designrecht-geschmacksmusterrecht`](./designrecht-geschmacksmusterrecht) | Eigenständiges Plugin für deutsches und europäisches Designrecht: DesignG, EU-Design, DPMA, EUIPO, WIPO-Hague, Neuheit, Eigenart, Anmeldung, Nichtigkeit, Verletzung, Eilrechtsschutz, Zoll, Plattformen und Designverträge. |
 | [`deutsche-rechtsgeschichte`](./deutsche-rechtsgeschichte) | Mega-Plugin zur deutschen Rechtsgeschichte: Epochen, Quellenkritik, Rezeption, Reichsrecht, BGB, Weimar, NS-Unrecht, DDR/BRD und rechtsgeschichtliche Argumentation. |
 | [`dfg-foerderantrag`](./dfg-foerderantrag) | DFG-Förderantragssteller für Sachbeihilfe, adaptive Anfänger-/Profi-Führung, kleine schnelle Anträge, große Koselleck-Strategien, elan-Formalia, Finanzplan, Reviewer-Red-Team, Forschungsdaten, KI-/Ethik-Check und Wiedereinreichung. |
-| [`diesel-schadensersatz`](./diesel-schadensersatz) | Großes Dieselgate-Plugin für deutsches Recht mit acht aktiven Skills und erhaltenen Fachmodulen für Aktenstart, Beweisprüfung, Anspruchstrennung, Klage, Replik, beA-Paket und Vollstreckung. Mit geprüftem Fünfjahreskorpus, Rechtsstands-Cockpit und neun ausführlichen Testakten. |
+| [`diesel-schadensersatz`](./diesel-schadensersatz) | Schadensersatz in Dieselfällen prüfen und durchsetzen. Acht Skills und die zugehörigen Fachmodule führen von der Beweisprüfung über Klage und Replik bis zum beA-Versand und zur Vollstreckung. Ein Fünfjahreskorpus, eine Rechtsstandsübersicht und neun Testakten unterstützen die Bearbeitung. |
 | [`dsa-dma-digitalregulierung`](./dsa-dma-digitalregulierung) | Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA AI Act NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und Paragraf 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Art. 34 Forschungsdatenzugang Art. 40 Account-Sperre Art. 20-23 Zustellung Art. 13 DSA Klagewege. |
 | [`due-diligence`](./due-diligence) | Due Diligence für Käufer, Investoren und Verkäufer: Unternehmen, Beteiligungen, Personal, Bilanz, Verträge und Kreditportfolios belegt prüfen und Befunde in Kaufpreis, Vertragsregelungen und Vollzugsbedingungen übersetzen. |
 
@@ -357,7 +358,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`fachanwalt-familienrecht`](./fachanwalt-familienrecht) | Plugin Fachanwalt für Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag eingetragene Lebenspartnerschaft. Ergänzend zum Plugin kanzlei-allgemein. |
 | [`fachanwalt-gewerblicher-rechtsschutz`](./fachanwalt-gewerblicher-rechtsschutz) | Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO Paragraf 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. UWG-Abmahnung Paragrafen 8 ff. UWG. Designverletzung. Einstweilige Verfügung Verletzungsklage Lizenzanaloger Schadensersatz. |
 | [`fachanwalt-handels-gesellschaftsrecht`](./fachanwalt-handels-gesellschaftsrecht) | Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO Paragraf 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung Paragrafen 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Handelsvertreterausgleich Paragraf 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein. |
-| [`fachanwalt-insolvenz-sanierungsrecht`](./fachanwalt-insolvenz-sanierungsrecht) | Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO Paragraf 14. InsO Eröffnung Antragspflicht Paragraf 15a Gläubigerantrag Paragraf 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung Paragrafen 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-anwalt-und-berater. |
+| [`fachanwalt-insolvenz-sanierungsrecht`](./fachanwalt-insolvenz-sanierungsrecht) | Insolvenz- und Sanierungsmandate führen. Insolvenzgründe und Antragspflichten belegen, Gläubigeranträge vorbereiten, Verfahrenswege und Sanierungsinstrumente prüfen und den passenden Entwurf erstellen. |
 | [`fachanwalt-internationales-wirtschaftsrecht`](./fachanwalt-internationales-wirtschaftsrecht) | Plugin Fachanwalt für Internationales Wirtschaftsrecht. CISG Brüssel Ia Rom I Rom II Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Außenhandel LkSG. Schnittstelle Plugin kanzlei-allgemein. |
 | [`fachanwalt-it-recht`](./fachanwalt-it-recht) | Plugin Fachanwalt für Informationstechnologierecht. SaaS Software-Lizenz DSGVO BDSG TTDSG TKG NIS2 DDG DSA DMA EU-KI-VO Open-Source. Schnittstellen Plugin datenschutzrecht ki-governance kanzlei-allgemein. |
 | [`fachanwalt-medizinrecht`](./fachanwalt-medizinrecht) | Plugin Fachanwalt für Medizinrecht. Arzthaftung Paragrafen 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Ärzte SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen Plugin fachanwalt-sozialrecht und kanzlei-allgemein. |
@@ -440,10 +441,8 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`informationsfreiheit-presseauskunft`](./informationsfreiheit-presseauskunft) | IFG-, Transparenz-, UIG-, VIG- und Presseauskunfts-Plugin für Bund, Länder und Behörden: Antrag, Kosten, Fristen, Widerspruch, Klage und Tracking. |
 | [`insiderrecht-compliance`](./insiderrecht-compliance) | Insiderrecht- und Marktmissbrauchs-Compliance nach MAR, WpHG und BaFin-Praxis: Insiderinformationen, Ad-hoc, Insiderlisten, Handelsverbote, Aufschub, Directors Dealings, Aufklärung und Verteidigung. |
 | [`insolvenzanfechtung`](./insolvenzanfechtung) | Insolvenzanfechtung aus Verwalter- und Empfängersicht: Zahlungsketten, Deckung, Vorsatz, Drittleistungen, Gesellschafterfinanzierung, Bargeschäft und Rückgewähr belegt prüfen. Zehn Fachskills und ein Hauptskill führen zum ausformulierten Schreiben, Schriftsatz oder Vergleich. |
-| [`insolvenzforderungen-checker`](./insolvenzforderungen-checker) | Insolvenzforderungen vom Akteneingang bis zum begründeten Prüfvorschlag bearbeiten. Elf Skills verbinden Gläubigerklärung, Belege, Beträge, Rang, Sicherheiten und Termine mit Tabellenentwurf und Gläubigerbrief; keine automatische Feststellung oder Einreichung. |
-| [`insolvenzforderungsanmeldungspruefung`](./insolvenzforderungsanmeldungspruefung) | Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, Paragraf 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung. |
+| [`insolvenzforderungen-checker`](./insolvenzforderungen-checker) | Insolvenzforderungen aus Gläubigersicht anmelden und verfolgen. Für die Insolvenzverwaltung Belege, Rang, Sicherheiten und Widersprüche prüfen, Tabellenvorschläge erstellen und Gläubigeranschreiben entwerfen. |
 | [`insolvenzplan-starug-planwerkstatt`](./insolvenzplan-starug-planwerkstatt) | Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug. |
-| [`insolvenzrecht`](./insolvenzrecht) | Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag. |
 | [`insolvenzsachbearbeitung`](./insolvenzsachbearbeitung) | Insolvenzsachbearbeitung vom Beschluss bis zur Verteilung vorbereiten. Zehn Fachskills und ein Hauptskill verbinden Forderungen, Korrespondenz, Eigentum, Sicherheiten, Massebelege, Betrieb und Verbraucherinsolvenz mit belegten, ausformulierten Arbeitsprodukten. |
 | [`insolvenzverwaltung`](./insolvenzverwaltung) | Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, Paragraf 15b InsO, Masse, Forderungsprüfung, Insolvenzplan, StaRUG-Planwerkstatt, Gutachten, Berichte und Schlussrechnung. |
 | [`insolvenzverwaltung-berichtsersteller`](./insolvenzverwaltung-berichtsersteller) | Zwischenberichte, Schlussberichte, Schlussrechnung und Verteilung in Insolvenzverfahren belegt erstellen. Zehn Fachskills und ein Hauptskill führen Akte, Stichtage, Masse, Forderungen, Kosten, Prozesse und Freigaben zu gerichtstauglichen Produkten zusammen. |
@@ -511,7 +510,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`legistik-werkstatt`](./legistik-werkstatt) | Legistik-Werkstatt für Ministerien, Bundestag, Fraktionen/Opposition, Länder, Landtage und Normgeber. Baut Referenten- und Kabinettsentwürfe, Vorlagen aus der Mitte, Änderungs-/Entschließungsanträge, Rechtsverordnungen und Satzungen mit Begründung, Synopse, XML und Prüfpfaden. |
 | [`liquiditaetsplanung`](./liquiditaetsplanung) | Liquiditätsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Lücken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation. |
 | [`lizenzvertragsersteller`](./lizenzvertragsersteller) | IP-Lizenzverträge für Urheberrecht, Patente, Marken, Designs, Gebrauchsmuster, Geschäftsgeheimnisse und Know-how gestalten. Rechte, Vergütung, Quellcode-Escrow, Insolvenz und internationale Schnittstellen abstimmen; deutsche und englische Fassungen erstellen. |
-| [`lobbyregister-bundestag`](./lobbyregister-bundestag) | Lobbyregister-Bundestag-Superplugin mit neun aktiven Skills und erhaltenen Fachmodulen für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstößen und Fristen nach LobbyRG. |
+| [`lobbyregister-bundestag`](./lobbyregister-bundestag) | Neun Skills für das Lobbyregister des Bundestages. Sie begleiten die Prüfung von Registrierungspflicht und Ausnahmen, Registereintrag und Finanzdaten, Regelungsvorhaben und Stellungnahmen sowie Fristen, Verhaltenskodex und Meldung von Verstößen nach dem LobbyRG. |
 | [`luftrecht-flughafenrecht`](./luftrecht-flughafenrecht) | Luftrecht-Plugin für LuftVG, LuftSiG, LBA, Flughäfen, Airlines, Slots, Flugzeugpfandrechte, Beschlagnahme, Insolvenz, Drohnen und Aviation-Compliance. |
 
 </details>

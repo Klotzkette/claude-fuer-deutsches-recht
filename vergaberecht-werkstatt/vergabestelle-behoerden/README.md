@@ -153,7 +153,7 @@ Die regulären Plugin-, Arbeits- und Schnellstartdownloads stehen bereits im Sch
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **8 auswählbare Skills**. Die **122 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **8 auswählbare Skills**. Die **122 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 
@@ -251,4 +251,4 @@ Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plug
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Lassen Sie Bieter Systemzweck, Version und konkrete Nachweise beschreiben. Ein Zertifikatsname oder allgemeines Risikokonzept ersetzt keinen überprüfbaren Leistungs- und Testgegenstand.
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Die KI-Fachvertiefung steht als [Komponentenausgabe 445.35.2](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2) zur Verfügung.

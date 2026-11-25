@@ -11,7 +11,7 @@
 
 Corporate Contract Law - Wirtschaftsverträge: zwanzig Skills für deutsche B2B-Vertragsgestaltung vom Geschäftsauftrag über den vollständigen Vertrag und die Verhandlung bis zum unterschriftsreifen Entwurf.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -62,7 +62,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`corporate-contract-law-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=corporate-contract-law/corporate-contract-law-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [7 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -93,7 +93,7 @@ Für die vollständige Ausarbeitung eines B2B-Vertrags steht zusätzlich der eig
 
 ## 1.6. Umfang und Arbeitsweg / Scope and Workflow
 
-Version `445.36.1`. Dateibezogene Nachprüfung: 14.11.2026; alle zwanzig Skills vollständig gelesen. Fünf zuvor gesperrte BGH-Originale wurden für die dokumentierten Aussagen geprüft. Verbleibende EU-Quellenlücken sind ausdrücklich ausgewiesen; dies ist keine pauschale rechtliche Freigabe.
+Version `445.36.1`. Dateibezogene Nachprüfung: 14.11.2026; alle zwanzig Skills vollständig gelesen. Die Quellenprüfung umfasst für die dokumentierten Aussagen fünf amtliche BGH-Originale. Verbleibende EU-Quellenlücken sind ausdrücklich ausgewiesen; dies ist keine pauschale rechtliche Freigabe.
 
 Zwanzig Skills führen vom konkreten Geschäftsauftrag über den vollständigen Vertrag und die Verhandlung bis zum unterschriftsreifen Entwurf. Ein klarer Auftrag startet direkt. Ohne erkennbares Ziel folgt eine gezielte Auswahl zwischen Erstentwurf, Gegenentwurf und Unterschriftenfassung, kein ungefragter Bestandsbericht.
 
@@ -172,7 +172,7 @@ The three practice matters are stored outside the plugin and are not installed w
 
 ## 1.9. Quellen und Prüfgrenzen / Sources and Limits
 
-[Fachquellen](references/fachquellen.md) dokumentieren Aussage, Reichweite und Quellenstatus. Die [Zitierweise](references/zitierweise.md) ist die bytegleiche Kopie der zentralen Repository-Referenz. Die Nachprüfung vom 14.11.2026 ergänzt fünf gelesene BGH-Originale, aktuelle deutsche Einzelnormen, relevante CISG-Artikel und ausgewählte DSGVO-Artikel aus der BfDI-Ausgabe März 2026. Bei Ingmar bleibt der historisch bestätigte Leitsatzstatus; Super Bock und mehrere EU-Verordnungen bleiben begrenzte Rechercheaufträge. Suchauszüge oder bloße HTML-Startseiten werden nicht als gelesene Entscheidungsgründe oder Normtexte ausgegeben.
+[Fachquellen](references/fachquellen.md) dokumentieren Aussage, Reichweite und Quellenstatus. Die [Zitierweise](references/zitierweise.md) ist die bytegleiche Kopie der zentralen Repository-Referenz. Die Quellenprüfung vom 14.11.2026 dokumentiert fünf amtliche BGH-Originale, aktuelle deutsche Einzelnormen, relevante CISG-Artikel und ausgewählte DSGVO-Artikel aus der BfDI-Ausgabe März 2026. Bei Ingmar bleibt der historisch bestätigte Leitsatzstatus; Super Bock und mehrere EU-Verordnungen bleiben begrenzte Rechercheaufträge. Suchauszüge oder bloße HTML-Startseiten werden nicht als gelesene Entscheidungsgründe oder Normtexte ausgegeben.
 
 [Legal sources](references/fachquellen.md) record propositions, scope and access status. The local [citation rules](references/zitierweise.md) are an exact copy of the central repository reference. Indexed official excerpts and metadata are not represented as verified judgment texts when direct access was blocked.
 

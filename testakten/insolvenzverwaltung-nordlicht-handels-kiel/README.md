@@ -49,7 +49,7 @@ Die Akte enthält datierte Zwischenstände. Sie dürfen nicht wie gleichzeitig g
 5. Vollzugsprotokoll und Schlussmitteilung vom 24. April 2024 für die am 22. April freigegebenen und danach kontrollierten Auszahlungen sowie
 6. der Aufhebungsbeschluss vom 30. April 2024 für das Verfahrensende.
 
-Ältere Arbeitsprognosen von ungefähr 14 % oder 20,18 % beruhten auf anderen Kosten-, Masse- und Forderungsständen. Sie sind ausdrücklich überholt. Eine frühere monolithische, 294-seitige Berichtssammlung mit widersprechender Abschlussfolge ist deshalb nicht mehr Bestandteil des aktuellen Quellen-, Gesamt-PDF- oder Releasepakets. Ihre verfahrensgeschichtlich relevanten Inhalte werden durch die datierten Einzelstücke und die aktualisierte `Verfahrensuebersicht.docx` abgebildet. Der einzige Abschlusswert der führenden Fassung ist eine Rechenquote von 23,6273198363 % beziehungsweise eine auf sechs Dezimalstellen ausgewiesene Quote von 23,627320 %.
+Ältere Arbeitsprognosen von ungefähr 14 % oder 20,18 % beruhten auf anderen Kosten-, Masse- und Forderungsständen. Sie sind ausdrücklich überholt. Die datierten Einzelberichte und die `Verfahrensuebersicht.docx` dokumentieren den Ablauf bis zum Abschluss. Der einzige Abschlusswert der führenden Fassung ist eine Rechenquote von 23,6273198363 % beziehungsweise eine auf sechs Dezimalstellen ausgewiesene Quote von 23,627320 %.
 
 ## Verfahrenseckdaten
 
@@ -119,7 +119,7 @@ Die Akte enthält datierte Zwischenstände. Sie dürfen nicht wie gleichzeitig g
 
 ## Verfahrensinhalt (14 Berichte)
 
-Die Akte enthält datierte Berichte, Forderungstabellen, Anfechtungskorrespondenz, Kontodaten, Gläubigerkorrespondenz und ein ausgebautes Abschlussmodul. Der 14. Zwischenbericht führt vom letzten offenen Steuer- und Kontenthema zur Abschlussreife. Schlussbericht, Schlussrechnung, Schlussverzeichnis, gerichtliche Zustimmung, Zahlungsfreigabe, Vollzugsprotokoll, Schlussmitteilung, Aufhebungsbeschluss und ein später Nachtragsprüffall sind als getrennte Arbeitsprodukte vorhanden. Die aktualisierte Verfahrensübersicht ordnet für jedes Produkt Stichtag, Status und Reichweite ein.
+Die Akte enthält datierte Berichte, Forderungstabellen, Anfechtungskorrespondenz, Kontodaten, Gläubigerkorrespondenz und die Unterlagen zum Verfahrensabschluss. Der 14. Zwischenbericht führt vom letzten offenen Steuer- und Kontenthema zur Abschlussreife. Schlussbericht, Schlussrechnung, Schlussverzeichnis, gerichtliche Zustimmung, Zahlungsfreigabe, Vollzugsprotokoll, Schlussmitteilung, Aufhebungsbeschluss und ein später Nachtragsprüffall sind als getrennte Arbeitsprodukte vorhanden. Die Verfahrensübersicht ordnet für jedes Produkt Stichtag, Status und Reichweite ein.
 
 ## Abschlussworkflow
 
@@ -196,7 +196,7 @@ Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blanko
 
 ## Weitere Unterlagen im Mandat
 
-Ein Bankjournal trennt die Freigabe des Zahlungslaufs, die Belastung des Massekontos und die spätere Rückläuferabfrage. Die Vollakte enthält die bisherige Originalfassung und beide zusätzlichen Belege im Ordner `Nachlieferung`. Die separat angebotenen PDF-Fassungen zeigen den vorherigen Aktenstand.
+Ein Bankjournal trennt die Freigabe des Zahlungslaufs, die Belastung des Massekontos und die spätere Rückläuferabfrage. Die Vollakte enthält die Aktenunterlagen und die beiden Belege im Ordner `Nachlieferung`. Die separaten PDF-Fassungen zeigen den Fall vor dem Eingang der beiden Belege.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

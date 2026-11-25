@@ -11,7 +11,7 @@
 
 29 Arbeitsabläufe für Bauherren, Projektentwicklung, Bauleitung und kaufmännische Teams: neun eigene HOAI-Phasen für Gebäude und Innenräume sowie Projektsteuerung, Vergabe, Bauausführung und Buchhaltung.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -64,7 +64,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/bauwirtschaft-hauptproblem.md" download>bauwirtschaft-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [15 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -97,7 +97,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Die vier Workshop-Akten Bad Salzuflen, Einbeck, Northeim und Warendorf sind in der [vertieften Ausgabe vom 6. Oktober 2026](../docs/bauwirtschaft-workshop.md#12-akten-auswählen) verfügbar: 218 Originalunterlagen und 27 Excel-Mappen, mit ausführlicheren Belegen, Erläuterungen und bearbeitbaren Rechenwegen. Die gesonderten vollständigen Downloads stehen oben auf den jeweiligen Aktenseiten und bleiben erhalten. Der Akten-Begleitrelease zur neuen Pluginversion enthält ebenfalls den erweiterten Repository-Bestand.
+Die vier Workshop-Akten Bad Salzuflen, Einbeck, Northeim und Warendorf enthalten in der [Workshop-Sammlung](../docs/bauwirtschaft-workshop.md#12-akten-auswählen) insgesamt 218 Originalunterlagen und 27 Excel-Mappen mit Belegen, Erläuterungen und bearbeitbaren Rechenwegen. Die jeweiligen Aktenseiten verlinken die vollständigen Einzeldownloads.
 
 Version 445.36.0. Autor / Author: Klotzkette.
 
@@ -123,7 +123,7 @@ Der [Achtfamilienhaus-Fall Hildesheim](../testakten/bauwirtschaft-neubau-achtfam
 
 Die [erweiterte Hildesheimer Lebensakte](../testakten/bauwirtschaft-hildesheim-lebensakte/README.md) führt denselben Vermietungsfall in vollständigen Projektordnern mit 304 täglichen Bauaufzeichnungen, 134 LV-Unterpositionen, Lieferungen, Begehungen, Mängelverfolgung und Wordvorlagen weiter. Acht Bauträgervertragsentwürfe bilden nur eine noch unbeschlossene Verkaufsoption. Die 100-stationige [Werkstatt als Word](materialien/bauwirtschaft-werkstatt-100-seiten.docx) und [Werkstatt als PDF](materialien/bauwirtschaft-werkstatt-100-seiten.pdf) umfasst 100 Seiten mit auftragsabhängigen Wegen, gezielten Rückfragen und geprüften Rechtsprechungsankern. Die Word- und PDF-Handbuchfassungen liegen im Plugin unter `materialien`; der eigenständige Markdown-Prompt bleibt ein separater Download.
 
-Die Lebensakte enthält jetzt 410 Originale. Elf zusätzliche Alltagsvorgänge führen durch Lieferabsprachen, Nachbarrückfragen, Klingelschilder, Umzugstermine und Rechnungszuordnungen. 35 E-Mails und neun Wordvermerke bilden konkrete Rückfragen und ihre Fortsetzung ab; ein Workshop kann die Nachrichten nacheinander freigeben und den jeweiligen Kenntnisstand bearbeiten.
+Die Lebensakte enthält 410 Originale. Elf Alltagsvorgänge führen durch Lieferabsprachen, Nachbarrückfragen, Klingelschilder, Umzugstermine und Rechnungszuordnungen. 35 E-Mails und neun Wordvermerke bilden konkrete Rückfragen und ihre Fortsetzung ab; ein Workshop kann die Nachrichten nacheinander freigeben und den jeweiligen Kenntnisstand bearbeiten.
 
 Zusätzlich zu den folgenden fünf Gesamtfällen gibt es [neun eigenständige Phasenpakete](../docs/bauwirtschaft-hoai-phasen.md): Zu jeder Leistungsphase gehören ein Fachmodul, eine Werkstatt und eine eigene Akte. Die Aktenseiten nennen ausdrücklich die jeweilige Phase. Bei einem engen Einzelauftrag weiterhin den passenden Fachskill verwenden, statt alle Phasen zu durchlaufen.
 
@@ -147,7 +147,7 @@ Die Downloadtabelle oben erschließt jede Akte in allen drei Fassungen. Keine Ak
 
 ## 1.8. Rechtsstand und Zuständigkeit / Sources and Authority
 
-Quellenbezogener Abruf- und Redaktionsstand der Erweiterung: 28.09.2026. Die [aktuellen Entscheidungsanker](references/entscheidungsanker-2026.md) und [Bauträgeranker](references/entscheidungsanker-bautraeger-2026.md) ergänzen die jeweils datierten Fachquellen. Die [Fachquellen](references/fachquellen.md) dokumentieren gelesene Normtexte, begrenzte Leitsatznachweise und Abruflücken. Die gemeinsame [Zitierweise](references/zitierweise.md) gilt für rechtliche Begründungen.
+Stand der Quellenprüfung: 28.09.2026. Die [aktuellen Entscheidungsanker](references/entscheidungsanker-2026.md) und [Bauträgeranker](references/entscheidungsanker-bautraeger-2026.md) ergänzen die jeweils datierten Fachquellen. Die [Fachquellen](references/fachquellen.md) dokumentieren gelesene Normtexte, begrenzte Leitsatznachweise und Abruflücken. Die gemeinsame [Zitierweise](references/zitierweise.md) gilt für rechtliche Begründungen.
 
 Für Gebäude ordnet HOAI Anlage 10 neun Leistungsphasen zu. Phase 8 umfasst unter anderem Bautagebuch, Aufmaß, Rechnungsprüfung und Kostenfeststellung; Phase 9 betrifft Objektbetreuung. Das begründet keine automatische Beauftragung und ersetzt keine gesonderten Bauherren- oder Bauleiterpflichten. VOB/B gilt nur bei wirksamer Einbeziehung. Vergabe-, Landes- und Honorarrecht sind zeit- und fallbezogen zu prüfen.
 
@@ -165,7 +165,7 @@ The quality profile defines one result case per skill and records hash-bound edi
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **10 auswählbare Skills**. Die **29 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **10 auswählbare Skills**. Die **29 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 

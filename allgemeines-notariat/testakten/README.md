@@ -4,7 +4,7 @@ Für die erste Runde öffnen Sie die Originalunterlagen und geben nur den Ordner
 
 ## Kursmappe
 
-Die Kursmappe enthält die Originalunterlagen aller zwanzig Fälle aus dem Release `allgemeines-notariat-v1.0.0`. Im Ordner `Amtsgeschaefte` liegt jeder neue Fall einzeln. Der Ordner `Weitere_Notariatsakten` enthält die vollständigen Arbeitsakten aus der Sammlung. Für die Neuralis-Akte mit den ergänzten Geschäftsunterlagen und Kapitalvarianten verwenden Sie die [aktuelle Fallausgabe](../../testakten/neuralis-medtech-erlangen-gestaltungsakte/README.md). Für Ausdrucke führen die Tabellen zu den Lesefassungen.
+Die Kursmappe enthält die Originalunterlagen aller zwanzig Fälle aus dem Release `allgemeines-notariat-v1.0.0`. Im Ordner `Amtsgeschaefte` hat jedes der sieben Amtsgeschäfte einen eigenen Fallordner. Der Ordner `Weitere_Notariatsakten` enthält die vollständigen Arbeitsakten aus der Sammlung. Für die Neuralis-Akte mit Geschäftsunterlagen und Kapitalvarianten verwenden Sie die [Fallausgabe zu Neuralis](../../testakten/neuralis-medtech-erlangen-gestaltungsakte/README.md). Für Ausdrucke führen die Tabellen zu den Lesefassungen.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

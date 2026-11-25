@@ -1,8 +1,8 @@
 # Vorlagensammlung Recht
 
-Separate experimentelle Kopie, Stand v4.92.0 vom 9. Oktober 2026. Die Vorlagen sind keine Plugins und werden nicht über einen Marketplace installiert. Diese Fassung korrigiert konkrete Rechts- und Quellenfehler insbesondere im Arbeits-, Bank-, Miet-, Insolvenz- und IT-Vertragsrecht. Der [Prüfbericht mit Quellen und Umfang](references/rechtsstandsabgleich-2026-10-09.md) trennt die gezielte fachliche Überarbeitung von den technischen Prüfungen über den vollständigen Bestand. Nicht alle 1094 Vorlagen wurden in dieser Runde einzeln und abschließend rechtlich geprüft. Herkunft und unveränderter ursprünglicher Importstand stehen in [IMPORT.json](IMPORT.json).
+Diese experimentelle Sammlung bietet Vertrags-, Formular- und Schreibvorlagen zum deutschen Recht. Jede Hauptvorlage steht als bearbeitbare OpenDocument-Datei (`.odt`) und als Markdown-Quelle (`.md`) zur Verfügung. Laden Sie die gewünschte Datei direkt herunter. Für die Bearbeitung ist keine Marketplace-Installation erforderlich.
 
-Eine offene Sammlung von Vertrags-, Formular- und Schreibvorlagen zum deutschen Recht — jede Hauptvorlage liegt parallel als OpenDocument (`.odt`) und als Markdown (`.md`) vor. Die ODT-Datei ist die sofort bearbeitbare Arbeitsfassung, die Markdown-Datei ist die robuste, prüfbare Quellenfassung für Versionierung, Qualitätssicherung und weitere Bearbeitung.
+Der [Prüfbericht mit Quellen und Umfang](references/rechtsstandsabgleich-2026-10-09.md) unterscheidet die technischen Prüfungen aller 1094 Vorlagen von den juristischen Einzelprüfungen insbesondere im Arbeits-, Bank-, Miet-, Insolvenz- und IT-Vertragsrecht. Für die Verwendung im Mandat ist eine eigene Rechtsprüfung erforderlich. [Herkunft und Importstand](IMPORT.json)
 
 ## Vorlage finden und herunterladen
 
@@ -33,7 +33,7 @@ Jeder Rechtsgebietsordner führt zu einer Tabelle seiner Vorlagen. Der Link eine
 - **Markdown zuverlässig herunterladen:** Den Link „Markdown (ZIP) herunterladen“ verwenden. GitHub zeigt rohe Markdown-Dateien häufig nur im Browser an; die ZIP-Fassung erzwingt den Download und enthält genau die gleichnamige `.md`-Datei.
 - **Vor dem Download ansehen:** Die Links „Vorschau im Repository“ öffnen ODT und Markdown am kanonischen Speicherort.
 - **Gesamte Sammlung herunterladen:** [`main` als ZIP-Archiv herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/raw/main/docs/experimentell/vorlagensammlung-recht/dist/vorlagensammlung-recht-gesamt.zip). Das Archiv enthält alle versionskontrollierten Vorlagen, ODT-Dateien, Markdown-ZIPs, READMEs und Prüfskripte des aktuellen Hauptstands.
-- **Veröffentlichten Stand verwenden:** [Komplettpakete und Prüfsummen öffnen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/docs/experimentell/vorlagensammlung-recht/dist). Diese Kopie ist öffentlich zugänglich; das Quellrepository bleibt unverändert.
+- **Veröffentlichten Stand verwenden:** [Komplettpakete und Prüfsummen öffnen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/docs/experimentell/vorlagensammlung-recht/dist). Die Pakete enthalten die Vorlagen zum Herunterladen.
 
 ### Welche Fassung passt?
 
@@ -98,7 +98,7 @@ beschreibt, wie veraltete Normbezüge, Formanforderungen, Übergangsregeln und
 Rechtsprechungsanker gezielt geprüft werden, ohne gute Vorlagen durch
 mechanische Ersetzungen zu verschlechtern.
 
-Der aus dem Quellbestand übernommene [Rechtsprechungsaudit vom August 2026](references/rechtsprechungsaudit-2026.md) beschreibt den damaligen Bestand von 954 Hauptvorlagen und 113 Sondervorlagen. Er ist ein historischer Bericht und keine Bestätigung des heutigen Gesamtbestands. Der [Abgleich vom 9. Oktober 2026](references/rechtsstandsabgleich-2026-10-09.md) dokumentiert neu gefundene Fehler, konkrete Korrekturen und die Grenzen der erneuten Prüfung.
+Das [Rechtsprechungsaudit vom August 2026](references/rechtsprechungsaudit-2026.md) umfasst 954 Hauptvorlagen und 113 Sondervorlagen. Der [Rechtsstandsabgleich vom 9. Oktober 2026](references/rechtsstandsabgleich-2026-10-09.md) nennt die untersuchten Normen, Fundstellen und Grenzen der fachlichen Prüfung.
 
 ## Rechtsgebiete und Dokumenttypen
 

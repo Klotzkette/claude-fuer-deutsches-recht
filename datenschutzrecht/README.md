@@ -5,7 +5,7 @@
 
 DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`datenschutzrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=datenschutzrecht/datenschutzrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [19 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -89,7 +89,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 Rechtsstand 10. September 2026: Geltende Datenschutzpflichten und noch laufende Omnibus-Vorschläge sind getrennt. Die 72-Stunden-Meldung und die bisherigen Verzeichnisregeln bleiben maßgeblich; die neue sensible Bias-Datenregel wird eigenständig geprüft. [Rechtsstandkarte lesen](./references/digitaler-omnibus-2026.md) · <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=datenschutzrecht/references/digitaler-omnibus-2026.md" download>MD herunterladen</a>.
 
-English: The updated workflows distinguish enacted law, future application dates and pending proposals. The reference note identifies official sources and the competent supervisory authority for each route.
+English: The workflows distinguish enacted law, future application dates and pending proposals. The reference note identifies official sources and the competent supervisory authority for each route.
 Wenn du das hier öffnest, willst du einen Datenschutzverstoss bewerten und die richtige Reaktion gegenüber Aufsicht und Betroffenen aufsetzen.
 Datenschutzrechtliche Arbeitsabläufe für Kanzleien und Datenschutzbeauftragte: AVV-Prüfung, Betroffenenauskunft, Datenschutz-Folgenabschätzung, Drittlandstransfer-Prüfung, US-Transfer mit DPF/SCC/TIA, Behördenpaket, regulatorische Lückenanalyse und Richtlinien-Monitoring. Vollständig ausgerichtet auf DSGVO, BDSG, TDDDG und KUG. Entwickelt für deutsche und EU-ansässige Verantwortliche und Auftragsverarbeiter.
 
@@ -124,7 +124,7 @@ Die Konfiguration wird gespeichert unter `~/.claude/plugins/config/claude-fuer-d
 | `/datenschutzrecht:avv-gemeinsame-verantwortung-bearbeiten Thema: avv-pruefung [Datei]` | AVV-Prüfung nach Art. 28 DSGVO (Richtung automatisch erkannt) |
 | `/datenschutzrecht:betroffenenrechte-auskunft-loeschung-bearbeiten Thema: dsgvo-auskunft-antwort` | Betroffenenanfrage (Art. 15–22 DSGVO) vollständig bearbeiten |
 | `/datenschutzrecht:dsfa-vvt-technische-organisation-bearbeiten Thema: dsfa-erstellung [Vorhaben]` | DSFA nach Art. 35 DSGVO erstellen |
-| `/datenschutzrecht:drittlandtransfer-scc-tia-bearbeiten Thema: drittlandstransfer-pruefung [Empfaenger/Land]` | Drittlandstransfer nach Art. 44 ff. DSGVO prüfen (neu in v3.3.0) |
+| `/datenschutzrecht:drittlandtransfer-scc-tia-bearbeiten Thema: drittlandstransfer-pruefung [Empfaenger/Land]` | Drittlandstransfer nach Art. 44 ff. DSGVO prüfen |
 | `/datenschutzrecht:drittlandtransfer-scc-tia-bearbeiten Thema: us-transfer-tia-dokumentation [US-Dienst]` | US-Transfer mit DPF-Listing, Schrems-Historie, SCC/BCR-Ausweichpfad, TIA und ergänzenden Maßnahmen dokumentieren |
 | `/datenschutzrecht:drittlandtransfer-scc-tia-bearbeiten Thema: standardvertragsklauseln-scc-paket [DPA/SaaS-Vertrag]` | SCC-Modul 1–4 wählen, Annex I–III und Subprozessoren prüfbar vorbereiten |
 | `/datenschutzrecht:drittlandtransfer-scc-tia-bearbeiten Thema: drittlandtransfer-behoerdenpaket-output [Akte]` | Druckreifes Paket für deutsche Datenschutzaufsicht: Deckvermerk, Nachweise, Antwortschreiben, Maßnahmenplan |
@@ -179,7 +179,9 @@ Ergebnis: ZULÄSSIG / DSFA EMPFOHLEN / DSFA ERFORDERLICH / STOP – mit Bedingun
 
 Ergebnis: Richtung automatisch erkannt, Klausel-für-Klausel-Vergleich mit Ihrem Vorgehensleitfaden, Änderungsvorschläge, Konsistenzprüfung gegen Datenschutzerklärung.
 
-### 4. Drittlandstransfer prüfen (neu in v3.3.0)
+<a id="4-drittlandstransfer-prüfen-neu-in-v330"></a>
+
+### 4. Drittlandstransfer prüfen
 
 ```
 /datenschutzrecht:drittlandtransfer-scc-tia-bearbeiten Thema: drittlandstransfer-pruefung "US-Cloud-Dienst, Hosting Virginia"
@@ -262,22 +264,13 @@ datenschutzrecht/
 - Aufsichtsbehörde: Die Zuständigkeit wird anhand der Organisation und des konkreten Verarbeitungskontexts geprüft. Eine pauschale Zuordnung allein nach dem Bundesland reicht nicht; eine ungeprüfte Behördenadresse wird nicht als gesichert ausgegeben.
 - **Zitierweise:** Verbindlich nach `../references/zitierweise.md` (BGH-Stil). Alle normativen Verweise folgen dem dortigen Schema.
 
-## Changelog
+<a id="changelog"></a>
 
-### v21.0.0 Nachlauf (05/2026)
-- **Neue Skills:** `us-transfer-tia-dokumentation`, `standardvertragsklauseln-scc-paket`, `drittlandtransfer-behoerdenpaket-output`
-- US-Transfer-Workflow trennt aktuelle DPF-Basis, SCC/TIA-Ausweichpfad und historische Safe-Harbor-/Privacy-Shield-Prüfung.
-- Neue Testakte `datenschutz-us-transfer-cloudsuite-rheinmain` mit Behördenanfrage, DPF-Vermerk, SCC-Anlagen, TIA, TOMs, Subprozessoren und Antwortentwurf.
-
-### v3.3.0 (05/2026)
-- **avv-pruefung:** EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher/Auftragsverarbeiter ergänzt
-- **mandantendaten-ki:** Querverweis auf geplantes Plugin `ki-richtlinie-kanzleien` (ab v3.3.0)
-- Alle damals 18 Skills: Abschnitt "Quellen / Updates" ergänzt; Cross-References zwischen verwandten Skills ausgebaut
-- `plugin.json` Version auf 3.3.0, description aktualisiert (TDDDG → TDDDG, Drittlandstransfer ergänzt)
+[Versionshinweise zum Datenschutzrecht](CHANGELOG.md)
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **14 auswählbare Skills**. Die **285 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **14 auswählbare Skills**. Die **285 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 
@@ -340,4 +333,4 @@ English: Complete list of all 14 skills in this plugin. Both links in each row d
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Bestimmen Sie Identifizierungsmittel je Datenempfänger und den Zweck jeder Verarbeitung. Eine Berufung auf diskriminierungsfreie Entwicklung begründet noch keine allgemeine Befugnis zur Nutzung sensibler Daten.
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Die KI-Fachvertiefung steht als [Komponentenausgabe 445.35.2](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2) zur Verfügung.

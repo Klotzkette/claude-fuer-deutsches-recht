@@ -12,13 +12,15 @@ Rechnungs-, Leistungs- und Zahlungsabgleich eines regionalen Bauunternehmens mit
 
 <!-- BEGIN vertiefte-ausgabe-20261006 -->
 
-<!-- decimal-anchor --> <a id="vertiefte-ausgabe-vom-6-oktober-2026"></a>
+<a id="vertiefte-ausgabe-vom-6-oktober-2026"></a>
 
-## 1.2. Vertiefte Ausgabe vom 6. Oktober 2026
+<!-- decimal-anchor --> <a id="unterlagen-und-downloadformate"></a>
 
-**75 Originalunterlagen, darunter 7 bearbeitbare Excel-Arbeitsmappen.** Diese Ausgabe ergänzt 18 Aktenstücke. Die bisherigen Originale bleiben vollständig erhalten. Die neuen Mappen erläutern Eingaben, Quellen und Rechenwege; offene Angaben bleiben als solche erkennbar.
+## 1.2. Unterlagen und Downloadformate
 
-Die folgenden Downloads enthalten den vollständigen erweiterten Bestand. Der Fallstichtag steht in den Übergabeunterlagen; das Ausgabedatum macht daraus keine nachträgliche Kenntnis der Beteiligten.
+**75 Originalunterlagen, darunter 7 bearbeitbare Excel-Arbeitsmappen.** Die Arbeitsmappen erläutern Eingaben, Quellen und Rechenwege. Offene Angaben sind gekennzeichnet.
+
+Die Downloadtabelle führt zu den Originaldateien und Lesefassungen. Für Entscheidungen im Fall gilt der in den Übergabeunterlagen bezeichnete Stichtag.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -158,7 +160,7 @@ Die steuerlichen Fallannahmen wurden am 25. September 2026 mit den amtlichen Ein
 
 ## 1.7. Ergänzende Excel-Arbeit
 
-Die ursprünglichen Dateien 24, 25 und 55 bleiben als historische Arbeitsstände unverändert. Die neuen Dateien führen deren Belegwege ausführlicher fort:
+Die Dateien 24, 25 und 55 zeigen den Stand vor dem Belegabgleich. Verfolgen Sie die Buchungen in den folgenden Arbeitsmappen.
 
 | Mappe | Was sie erklärt |
 | --- | --- |

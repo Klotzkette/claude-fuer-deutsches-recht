@@ -453,7 +453,8 @@ class RevisionTests(unittest.TestCase):
         put(self.root, "scripts/scoped-release-assets.json", {"schema_version": 1, "assets": {name + ".zip": tag}})
         for directory, expected in rev.DIESEL_INDEX_SHA256.items():
             relative = Path(name, directory, "README.md")
-            source = (repository / relative).read_bytes()
+            from consolidation_editions import previous_file
+            source = previous_file(repository, repository / relative)
             path = put(self.root, relative, source.replace(plugin_asset_url(name, root=repository).encode(), route))
             with self.subTest(directory=directory):
                 original = rev.historical_bytes(self.root, path, expected, plugin=name)

@@ -5,7 +5,7 @@
 
 Strafvollzug in der JVA aus Sicht von Gefangenen, Angehörigen, Anwälten, Anstalt und Gericht bearbeiten. Landesrecht, Grundrechte, Alltag, Lockerungen und gerichtlichen Rechtsschutz prüfen und konkrete Anträge, Bescheide oder Entscheidungsentwürfe erstellen.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`strafvollzug-jva-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-werkstatt.md) · [`strafvollzug-jva-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [6 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -174,7 +174,7 @@ Akute Gesundheitsprobleme benötigen reale medizinische Hilfe. Das Plugin erstel
 
 [Version 1.1.0 mit 30 Download-Dateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/strafvollzug-jva-v1.1.0) · [Prüfsummen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.1.0/checksums-sha256.txt)
 
-Das Komponentenrelease ergänzt den aktuellen Repositorybestand. Das unveränderliche ältere Gesamtarchiv v445.35.3 wird nicht nachträglich überschrieben.
+Die Dateien für Strafvollzug und JVA sind über das Komponentenrelease erhältlich. Das allgemeine Sammelarchiv v445.35.3 enthält dieses Paket nicht.
 
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->

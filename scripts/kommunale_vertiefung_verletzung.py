@@ -8,7 +8,7 @@ CASES = [dict(
     summary='Zwei Insassen, getrennte medizinische Angaben und eine streitige Eigenforderung nach einem Rangierunfall.',
     is_new=False,
     core=[],
-    notes='Der neue Klageentwurf betrifft allein Ottokar Wolkenbein gegen die Stadt Lindenquell und 636,20 EUR als vorläufige Wertvorstellung. Die Forderungen Pimpinellas und der Krankenkasse werden nicht eingeklagt. Die 79 EUR für die Wellnessmassage bleiben außerhalb des Zahlungsantrags. Die Klägervertretung Rhabarber ist von der bereits beauftragten Versicherervertretung Knister getrennt. Die vorhandenen Quellen werden nicht um eine gesicherte Verletzungsdiagnose oder ein ärztlich angeordnetes Taxi ergänzt. Für diesen kleinen Vorgang wird keine erfundene Einzelkorrespondenz mit einem Rückversicherer angelegt.',
+    notes='Der Klageentwurf betrifft allein Ottokar Wolkenbein gegen die Stadt Lindenquell und 636,20 EUR als vorläufige Wertvorstellung. Die Forderungen Pimpinellas und der Krankenkasse werden nicht eingeklagt. Die 79 EUR für die Wellnessmassage bleiben außerhalb des Zahlungsantrags. Die Klägervertretung Rhabarber ist von der bereits beauftragten Versicherervertretung Knister getrennt. Eine gesicherte Verletzungsdiagnose und eine ärztliche Anordnung der Taxifahrt sind nicht belegt. Es liegt keine Korrespondenz mit einem Rückversicherer vor.',
     attachments={
         '01_Wolkenbein_an_Anwaeltin.eml':['08_Hausarzt.docx','12a_Apotheke.docx','12b_Massage.docx','12c_Taxi.docx'],
         '02_Bestand_an_Schadenstelle.eml':['14_Vertragsbestaetigung.eml'],

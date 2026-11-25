@@ -65,7 +65,7 @@ English: The property company owns the whole building and handles the accounts i
 
 Die Grundsteuerunterlagen betreffen das gesamte Mietwohngrundstück. Die Belegsammlung enthält neben Unterlagen aus 2025 auch Vorjahresnachweise und später eingegangene Rechnungen; Rechnungsdatum, Leistungszeitraum und Zahlung sind jeweils gesonderte Angaben.
 
-Die ergänzten Eingänge stehen in `Belegnachtrag_2025_2026.csv`, die zugehörigen Überweisungen der Verwaltung in `Zahlungsdetails_Nachtraege.csv`. Restaurantunterlagen und Nachbarhaus bleiben an ihrer jeweiligen Empfänger- und Objektangabe erkennbar. Die schon versandte Abrechnung und die ursprüngliche Excel-Arbeitsmappe werden nicht nachträglich überschrieben. Die Akte enthält weiterhin keine ausgefüllte rechtliche Bewertungsmatrix.
+Die Eingänge stehen in `Belegnachtrag_2025_2026.csv`, die zugehörigen Überweisungen der Verwaltung in `Zahlungsdetails_Nachtraege.csv`. Restaurantunterlagen und Nachbarhaus bleiben an ihrer jeweiligen Empfänger- und Objektangabe erkennbar. Die schon versandte Abrechnung und die ursprüngliche Excel-Arbeitsmappe werden nicht nachträglich überschrieben. Die Akte enthält weiterhin keine ausgefüllte rechtliche Bewertungsmatrix.
 
 Kontaktangaben gehören zum dargestellten Vorgang und sind keine Empfehlung oder Aufforderung, Personen anzuschreiben oder Zahlungen auszuführen.
 

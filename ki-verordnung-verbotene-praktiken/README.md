@@ -5,7 +5,7 @@
 
 Verbotene KI-Praktiken nach Artikel 5 prüfen: konkrete Funktionen, Schutzbedürftigkeit, soziale Bewertung, biometrische Verfahren und neue Inhaltsverbote mit belegter Subsumtion und Maßnahmen.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`ki-verordnung-verbotene-praktiken-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-werkstatt.md) · [`ki-verordnung-verbotene-praktiken-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [4 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -76,7 +76,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 Version 445.35.2. Das Plugin prüft die konkrete Praxis nach Artikel 5: welches System, welche Funktion, welcher Akteur, welche Handlung und welcher Zeitpunkt. Es führt bis zum begründeten Vermerk, ausformulierten Anbieterbrief und konkreten Maßnahmenplan. Ein negatives Verbotsprüfungsergebnis ist keine allgemeine Zulassung.
 
-**Aktualisierung vom 09.10.2026:** Die neuen Verbote in Buchstaben ba und bb sowie Absätze 1a und 1b sind berücksichtigt und werden erst ab ihrem Geltungsbeginn am **02.12.2026** angewendet. Die bisherigen Verbote gelten weiter seit dem 02.02.2025. Risikomanagement, Qualitätsmanagement, Grundrechte-Folgenabschätzung, menschliche Aufsicht und Registrierung werden nicht als austauschbare Schlagworte behandelt. Ein ISO-Zertifikat oder Artikel 6 Absatz 3 legalisiert keine verbotene Praxis.
+**Rechtsstand 09.10.2026.** Für die Verbote in Buchstaben ba und bb sowie Absätze 1a und 1b ist der Geltungsbeginn **02.12.2026** maßgeblich. Die übrigen hier behandelten Verbote gelten seit dem 02.02.2025. Risikomanagement, Qualitätsmanagement, Grundrechte-Folgenabschätzung, menschliche Aufsicht und Registrierung werden nicht als austauschbare Schlagworte behandelt. Ein ISO-Zertifikat oder Artikel 6 Absatz 3 legalisiert keine verbotene Praxis.
 
 ## 2. Einstieg und Nutzung
 
@@ -132,11 +132,13 @@ Die tragenden Artikel wurden am amtlichen Volltext gelesen. Dieses Paket behaupt
 
 [ki-verordnung-verbotene-praktiken: werkstatt als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-werkstatt.txt) · [ki-verordnung-verbotene-praktiken: schnellstart als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-schnellstart.txt) · [ki-verordnung-verbotene-praktiken: hauptproblem als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-hauptproblem.txt)
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Die KI-Fachvertiefung steht als [Komponentenausgabe 445.35.2](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2) zur Verfügung.
 
 <a id="neue-vollständige-übungsakten"></a>
 
-## 11. Neue vollständige Übungsakten
+<a id="11-neue-vollständige-übungsakten"></a>
+
+## 11. Übungsakten
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

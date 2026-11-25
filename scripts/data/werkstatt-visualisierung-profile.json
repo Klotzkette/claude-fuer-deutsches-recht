@@ -1312,16 +1312,6 @@
       "mode": "prompt",
       "rationale": "Fachlicher Hauptablauf „Forderungen prüfen und Tabelle vorbereiten“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
     },
-    "insolvenzforderungsanmeldungspruefung": {
-      "entry_skills": [
-        "juristischer-argumentationskern",
-        "einstieg-routing",
-        "workflow-kaltstart-und-routing"
-      ],
-      "theme": "insolvenz",
-      "mode": "prompt",
-      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Insolvenzforderungsanmeldungsprüfung“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
-    },
     "insolvenzplan-starug-planwerkstatt": {
       "entry_skills": [
         "kommandocenter",
@@ -1330,16 +1320,6 @@
       "theme": "sanierung",
       "mode": "prompt",
       "rationale": "Fachlicher Hauptablauf „Kommandocenter für Planverfahren“ mit gesonderter Auftragsaufnahme beziehungsweise Argumentationskern."
-    },
-    "insolvenzrecht": {
-      "entry_skills": [
-        "juristischer-argumentationskern",
-        "einstieg-routing",
-        "workflow-kaltstart-und-routing"
-      ],
-      "theme": "insolvenz",
-      "mode": "prompt",
-      "rationale": "Pluginweiter Hauptablauf „Juristischer Argumentationskern - Insolvenzrecht“ zusammen mit vorhandenen Einstiegs- und Kaltstartwegen."
     },
     "insolvenzsachbearbeitung": {
       "entry_skills": [
@@ -2830,6 +2810,14 @@
       "theme": "steuer",
       "mode": "prompt",
       "rationale": "Übertragungsweg, Werte, Fristen, Nachweise und Alternativrechnungen in derselben Entscheidungsunterlage fortführen."
+    },
+    "betriebsvereinbarungen": {
+      "entry_skills": [
+        "betriebsvereinbarung-verhandeln"
+      ],
+      "theme": "arbeits",
+      "mode": "prompt",
+      "rationale": "Regelungsvorschlag zwischen Arbeitgeber und Betriebsrat verhandeln, Sachverstand und Datenzugriff klären und die Einigung mit überprüfbaren Anlagen ausarbeiten."
     }
   }
 }

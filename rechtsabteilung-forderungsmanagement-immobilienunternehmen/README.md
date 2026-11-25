@@ -5,7 +5,7 @@
 
 Rechtsabteilung Forderungsmanagement Immobilienunternehmen: 50 Arbeitswege für Mietkonto, Kündigung, Mieterhöhung, Klage, Verteidigung, Kosten und Vollstreckung. Ordnerstart für Fachangestellte mit Quellen-, Rollen- und Freigabeprüfung.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,10 +54,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 <!-- END direkt-loslegen (autogen) -->
 
-Für Fachangestellte und Fachkräfte der internen Immobilien-Rechtsabteilung: vom SAP-/DMS-Ordner bis zum begründeten Entwurf, zur Kostenakte und zur Vollstreckung. **50 Fachskills**, beide autarken Prompts und der gesamte Quellstand aus Version 5.27.1 sind erhalten. Der Name ist unternehmensneutral; Vermieterin, Vertretung und Befugnisse werden für jeden Fall aus den Unterlagen ermittelt.
+Für Fachangestellte und Fachkräfte der internen Immobilien-Rechtsabteilung: vom SAP-/DMS-Ordner bis zum begründeten Entwurf, zur Kostenakte und zur Vollstreckung. Neun aktive Skills erschließen 50 Fachmodule. Werkstatt und Schnellstart sind einzeln nutzbar. Das Projektarchiv enthält den Quellstand v5.27.1. Der Name ist unternehmensneutral; Vermieterin, Vertretung und Befugnisse werden für jeden Fall aus den Unterlagen ermittelt.
 
 ## In einer Minute beginnen
 
@@ -71,7 +71,7 @@ Keine Skillnummer nötig. Bereits beantwortete Fragen werden übernommen. Bei ei
 
 | Gewünschtes Ergebnis | Richtiger Einstieg |
 |---|---|
-| Juristischen Fall bearbeiten | [Plugin mit 50 Fachmodule in 9 Skills](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) |
+| Juristischen Fall bearbeiten | [Fachplugin mit 50 Fachmodulen in neun Skills](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) |
 | Vollworkflow ohne Plugin nutzen | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md) |
 | Kompakte Einzelprompt-Variante | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-schnellstart.md) |
 | Fertige Schriftsätze nur technisch vorbereiten | [Getrennte beA-Werkstatt](../schriftsatzwerkstatt-bea/README.md) |
@@ -349,7 +349,7 @@ Apache-2.0 oder MIT (siehe [LICENSE-APACHE](./LICENSE-APACHE) und [LICENSE-MIT](
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **9 auswählbare Skills**. Die **50 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **9 auswählbare Skills**. Die **50 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 

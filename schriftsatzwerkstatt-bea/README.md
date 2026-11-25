@@ -149,7 +149,7 @@ Ein grüner Skriptlauf ersetzt weder die visuelle Seitenkontrolle noch die reale
 - [Arbeitsregeln und Abgrenzung](./AGENTS.md)
 - [Root-README](../README.md)
 
-Die neun Skills und Prüfhilfen sind vollständig übernommen. Die bereits vorhandenen Werkstätten `bea-versand` und `schriftsatz-versandwerkstatt` bleiben unverändert. Für ein Versandpaket nur einen dieser Wege wählen; doppelte Anlagenstempel oder konkurrierende Freigaben vermeiden.
+Die Werkstatt enthält neun Skills mit Prüfhilfen. Auch `bea-versand` und `schriftsatz-versandwerkstatt` bieten Wege zur Versandvorbereitung. Wählen Sie für jedes Versandpaket eine Werkstatt, damit Anlagenstempel und Freigaben eindeutig bleiben.
 
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->

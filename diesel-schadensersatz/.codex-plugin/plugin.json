@@ -1,7 +1,7 @@
 {
   "name": "diesel-schadensersatz",
   "version": "445.36.9",
-  "description": "Großes Dieselgate-Plugin für deutsches Recht mit acht aktiven Skills und erhaltenen Fachmodulen für Aktenstart, Beweisprüfung, Anspruchstrennung, Klage, Replik, beA-Paket und Vollstreckung. Mit geprüftem Fünfjahreskorpus, Rechtsstands-Cockpit und neun ausführlichen Testakten.",
+  "description": "Schadensersatz in Dieselfällen prüfen und durchsetzen. Acht Skills und die zugehörigen Fachmodule führen von der Beweisprüfung über Klage und Replik bis zum beA-Versand und zur Vollstreckung. Ein Fünfjahreskorpus, eine Rechtsstandsübersicht und neun Testakten unterstützen die Bearbeitung.",
   "author": {
     "name": "Klotzkette",
     "url": "https://github.com/Klotzkette"

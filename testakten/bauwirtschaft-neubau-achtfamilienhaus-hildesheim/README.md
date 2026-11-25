@@ -93,4 +93,4 @@ Für einen Buchhaltungslauf:
 
 Die [neun Phasenmodule und Werkstatt-Prompts](../../docs/bauwirtschaft-hoai-phasen.md) sind separat erreichbar. Die Testakte wird nicht mit dem Plugin installiert.
 
-Die [erweiterte Fassung mit Projektordnern](../bauwirtschaft-hildesheim-lebensakte/README.md) enthält alle 198 Originaldateien unverändert und ergänzt ein tägliches Bautagebuch, detaillierte Leistungsverzeichnisse, Begehungen, Mängelverfolgung, Rechnungseingänge und Wordvorlagen. Der mögliche Bauträgerverkauf bleibt dort eine eigene, unbeschlossene Alternative.
+Die [Projektakte mit Bautagebuch und Leistungsverzeichnissen](../bauwirtschaft-hildesheim-lebensakte/README.md) enthält die 198 Originaldateien, ein tägliches Bautagebuch, detaillierte Leistungsverzeichnisse, Begehungen, Mängelverfolgung, Rechnungseingänge und Wordvorlagen. Der mögliche Bauträgerverkauf bleibt dort eine eigene, unbeschlossene Alternative.

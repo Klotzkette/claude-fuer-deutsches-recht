@@ -5,7 +5,7 @@
 
 Prüft Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Felder, vier Ausnahmen und Profiling. Zehn Fachskills und ein Hauptproblem-Skill führen zu Einstufung, Nachforderung und Entscheidung; mit Fällen zu Recruiting, Justiz und Medizinprodukt.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`ki-verordnung-hochrisiko-pruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-hochrisiko-pruefer/ki-verordnung-hochrisiko-pruefer-werkstatt.md) · [`ki-verordnung-hochrisiko-pruefer-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-hochrisiko-pruefer/ki-verordnung-hochrisiko-pruefer-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [4 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -126,7 +126,7 @@ Risikomanagement nach Artikel 9, Qualitätsmanagement nach Artikel 17, Grundrech
 
 ## 6 Testakten
 
-Die bestehende Akte Kassel bleibt vollständig erhalten. Die zwei Ergänzungen enthalten jeweils zwölf native Arbeitsdateien: vier E-Mails, drei Word-Dokumente, drei PDF-Belege, eine Excel-Arbeitsmappe mit zwei Blättern und einen Chattext. Je zwei E-Mails haben echte Anhänge; diese Anhänge sind mit den separat vorhandenen Dateien identisch. Die Tabellen enthalten Formeln und Quellenhinweise. Die Prüfentwürfe sind ausformulierte Arbeitsstände mit offenen Tatsachen, keine Lösungsschlüssel.
+Die Kasseler Akte behandelt die Bewerbungsauswahl. Die Akten zur Justizassistenz in Jena und zum Medizinprodukt in Saalfeld enthalten jeweils zwölf native Arbeitsdateien: vier E-Mails, drei Word-Dokumente, drei PDF-Belege, eine Excel-Arbeitsmappe mit zwei Blättern und einen Chattext. Je zwei E-Mails haben echte Anhänge; diese Anhänge sind mit den separat vorhandenen Dateien identisch. Die Tabellen enthalten Formeln und Quellenhinweise. Die Prüfentwürfe sind ausformulierte Arbeitsstände mit offenen Tatsachen, keine Lösungsschlüssel.
 
 Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 
@@ -148,13 +148,15 @@ Das [Prüfprofil](../quality/evals/ki-verordnung-hochrisiko-pruefer.json) enthä
 
 [Skills-Handbuch](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-hochrisiko-pruefer-skills-handbuch.pdf) · [Werkstatt-Lesefassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-hochrisiko-pruefer-werkstatt-lesefassung.pdf) · [Prüfbericht](../quality/ki-verordnung-2026-10-09/README.md)
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Die KI-Fachvertiefung steht als [Komponentenausgabe 445.35.2](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2) zur Verfügung.
 
 <a id="neue-vollständige-übungsakten"></a>
 
 <a id="10-neue-vollständige-übungsakten"></a>
 
-## 9. Neue vollständige Übungsakten
+<a id="9-neue-vollständige-übungsakten"></a>
+
+## 9. Übungsakten
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

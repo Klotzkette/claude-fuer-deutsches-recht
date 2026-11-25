@@ -80,10 +80,10 @@ AKHA bezeichnet das fachliche Bearbeitungsumfeld. Aus dem Ordnernamen folgen wed
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF | PDF | [Gesamte Akte](gesamt-pdf/{slug}_gesamt.pdf) |
-| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v{version}/testakte-{slug}.zip) |
+| Akten-ZIP | ZIP | [Originalunterlagen der Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v{version}/testakte-{slug}.zip) |
 | Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v{version}/testakte-{slug}-einzelpdfs.zip) |
 
-Die Archive enthalten alle Arbeitsunterlagen unmittelbar auf der ZIP-Wurzelebene. Die zweisprachige README.txt gehört in beide Archive; redaktionelle Bewertungsdateien und Musterlösungen werden nicht exportiert. Die PDFs enthalten keine Hinweisseite.
+Die Akten-ZIPs enthalten die Arbeitsunterlagen. Die zweisprachige README.txt gehört in beide Archive; redaktionelle Bewertungsdateien und Musterlösungen werden nicht exportiert. Die PDFs enthalten keine Hinweisseite.
 ''', encoding='utf-8')
     checks = [dict(id='arbeitsbestand', check_type='working_file_count', description='Alle nativen Originalunterlagen sind vorhanden.', min=len(names))]
     for ext in ('docx', 'eml', 'txt'):

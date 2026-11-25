@@ -352,7 +352,7 @@ CASES.append(dict(
     title='Glatteis – nachgefundene Deckung und Streit um den Sturzpunkt',
     summary='Vier zusätzliche Korrespondenzen zwischen Rechtsstelle, Bauhof und Kommunalversicherer klären 1.748,75 EUR Forderung, Selbstbehalt, Beweissicherung und fehlenden Rückdeckungsbedarf.',
     is_new=False,
-    notes='Die vier neuen Korrespondenzen spielen am Nachmittag des 05.10.2026 nach Erstellung des bestehenden Klageentwurfs. Erst jetzt aufgefundene Versicherungsdaten widersprechen nicht dem früheren Hinweis, dass keine Deckungsunterlagen vorliegen. Alle neu ergänzten Vertragsangaben sind ausschließlich fiktive Szenarioannahmen und keine tatsächlichen AKHA-Regeln. Das städtische Prüfmandat und sämtliche bisherigen Originale bleiben erhalten.',
+    notes='Die vier Schreiben vom Nachmittag des 05.10.2026 folgen auf den Klageentwurf. Bei seiner Erstellung lagen die darin mitgeteilten Deckungsunterlagen noch nicht vor. Die Vertragsangaben gelten für diesen fiktiven Fall. Maßgeblich für die Bearbeitung ist das städtische Prüfmandat.',
     core=['schriftverkehr-und-klage/16_Klageentwurf.docx',f'{FOLDER}/01_Stadt_an_Kommunalversicherer.docx'],
     exhibits=[],
     attachments={
@@ -427,7 +427,7 @@ CASES.append(dict(
     title='Kaffee Nouri – kleiner Geldbetrag, sauber getrennte Verantwortlichkeit',
     summary='Der Versicherungsabgleich trennt 119 EUR zusätzliche Stornokosten, ursprüngliche Wagenmiete, amtliche Auskunft, Selbstbehalt und Kosten einer möglichen Amtshaftungsklage.',
     is_new=False,
-    notes='Zusatzkorrespondenz am Nachmittag des 05.10.2026 nach dem bestehenden Anspruchs- und Klageentwurf. Versicherungsdaten werden erst jetzt zugeordnet; ihre Zahlen sind fiktive Szenarioannahmen, keine AKHA-Bedingungen. Die Forderung bleibt auf 119 EUR begrenzt. Keine rückwirkende Änderung der ursprünglichen Stornobedingungen oder neue Vertretung der Anspruchstellerseite.',
+    notes='Der Schriftwechsel vom Nachmittag des 05.10.2026 folgt auf Anspruchs- und Klageentwurf und ordnet die Versicherungsdaten zu. Die Beträge sind für diesen Fall angenommen. Die Forderung bleibt auf 119 EUR begrenzt. Keine rückwirkende Änderung der ursprünglichen Stornobedingungen oder neue Vertretung der Anspruchstellerseite.',
     core=['schriftverkehr-und-klage/16_Klageentwurf.docx',f'{FOLDER}/01_Stadt_Meldung_Nouri.docx'],
     exhibits=[],
     attachments={
@@ -500,7 +500,7 @@ CASES.append(dict(
     title='Baugenehmigung Adebayo – Gewinnrechnung statt doppelter Mietansätze',
     summary='Die spätere Versicherungsakte stellt die neue Forderung von 860 EUR, die früheren Mietansätze, Genehmigungsverlauf und verwaltungsgerichtlichen Rechtsschutz gegenüber.',
     is_new=False,
-    notes='Nachgefundene Versicherungsunterlagen und ergänzende Korrespondenz am Nachmittag des 05.10.2026. Alle Deckungsangaben sind fiktive Szenarioannahmen. Die kreisfreie Stadt bleibt zuständige Bauaufsichtsbehörde; ein Landkreis wird nicht als angeblich zuständige Genehmigungsstelle eingeschoben. Die alte Forderungsfassung bleibt sichtbar, die neue Forderung beträgt unverändert 860 EUR.',
+    notes='Nachgefundene Versicherungsunterlagen und ergänzende Korrespondenz am Nachmittag des 05.10.2026. Alle Deckungsangaben sind fiktive Szenarioannahmen. Die kreisfreie Stadt bleibt zuständige Bauaufsichtsbehörde; ein Landkreis wird nicht als angeblich zuständige Genehmigungsstelle eingeschoben. Vergleichen Sie die ursprüngliche Forderungsberechnung mit dem Klageentwurf über 860 EUR.',
     core=['schriftverkehr-und-klage/16_Klageentwurf.docx',f'{FOLDER}/01_Stadt_Meldung_Adebayo.docx'],
     exhibits=[],
     attachments={
@@ -573,7 +573,7 @@ CASES.append(dict(
     title='Abwasseranlage – Eigentumsschaden der Stadt und Haftpflicht des Tiefbauers',
     summary='Stadt, Tiefbauunternehmen und dessen Betriebshaftpflichtversicherer korrespondieren über 4.236,40 EUR Fremdkosten, die unbewiesene 30-Prozent-Kürzung und den Entlastungsnachweis nach § 831 BGB.',
     is_new=False,
-    notes='Neue Korrespondenz am Nachmittag des 05.10.2026 nach dem bestehenden Klageentwurf. Die Deckung des Tiefbauers wird erstmals durch dessen Versicherer benannt. Die Stadt bleibt geschädigte Eigentümerin, nicht haftpflichtige Versicherungsnehmerin dieses Vorgangs. Vertragszahlen sind ausschließlich erfundene Szenarioannahmen. Kein Eigenschadenersatz aus städtischer Haftpflicht oder AKHA; kein ungeprüfter Direktanspruch gegen den Betriebshaftpflichtversicherer.',
+    notes='Die Korrespondenz vom Nachmittag des 05.10.2026 setzt nach dem Klageentwurf ein. Die Deckung des Tiefbauers wird erstmals durch dessen Versicherer benannt. Die Stadt bleibt geschädigte Eigentümerin, nicht haftpflichtige Versicherungsnehmerin dieses Vorgangs. Vertragszahlen sind ausschließlich erfundene Szenarioannahmen. Kein Eigenschadenersatz aus städtischer Haftpflicht oder AKHA; kein ungeprüfter Direktanspruch gegen den Betriebshaftpflichtversicherer.',
     core=['schriftverkehr-und-klage/16_Klageentwurf.docx',f'{FOLDER}/01_Stadt_an_Tiefbauer.docx'],
     exhibits=[],
     attachments={

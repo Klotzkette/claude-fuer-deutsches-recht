@@ -1,0 +1,9 @@
+# Erhaltungsnachweis für Insolvenzplugins und Akten
+
+Die beiden abgelösten Plugins behalten ihre ursprünglichen Quellverzeichnisse. Ihre eindeutigen Zielplugins und die ursprünglichen Hauptskills sind unter `retired` belegt. Für jede der 220 Dateien aus den beiden Quellverzeichnissen enthält `legacy_files` den Git-Blob des Ausgangscommits `d8ec1bfd281f0ab56e801fc750d643b40afbb3df`. Bei den beiden README-Wegweisern nennt `legacy_readmes` den Speicherort der vollständigen Originalfassung. [Register öffnen](bestand.json)
+
+Auch die in früheren Prüfrunden erfassten Quellen, Akten und Verzeichnisse bleiben überprüfbar. Unter `edition` bindet jeder Datensatz den Pfad, die SHA-256-Prüfsumme des redigierten Inhalts und die SHA-256-Prüfsumme seiner vollständigen Vorfassung aus dem Ausgangscommit. Die Vorfassungen lassen sich im ZIP unter ihrer jeweiligen Prüfsumme öffnen und als gewöhnliche Dateien vergleichen. [Vorfassungen herunterladen](vorfassungen.zip)
+
+Für Dokumente, deren Fassung schon zwischen dem 15. November und dem Ausgangscommit abwich, führt `preceding` die Kette bis `29b4fb0684eb15d0e4cf2f68c5d9653ff43c8637` fort. Die Inhaltsprüfungen vergleichen den rekonstruierten Stand mit dem ursprünglichen Erhaltungsregister. Für E-Mails der Vergaberechtswerkstatt erfasst `crlf_checkout` auch die vom damaligen Git-Attribut vorgegebenen CRLF-Bytes. So lässt sich der gespeicherte LF-Inhalt selbst in einem flachen Git-Checkout verifizieren. [Ursprüngliches Erhaltungsregister](../2026-11-15/erhaltungsbestand.json)
+
+Die Prüfung läuft im Stammverzeichnis mit `python3 scripts/validate-plugin-consolidation.py`. Sie prüft die aktive Zuordnung im Marketplace, die Akteneinstiege, die eigenen Paketmanifeste sowie die Dateinachweise. Das Python-Modul bindet die Prüfsumme des Registers. Das Register bindet seinerseits die Prüfsumme des Archivs. [Prüfcode](../../../scripts/consolidation_editions.py)

@@ -259,7 +259,7 @@
     "berufsgerichtliche-verfahren-freie-berufe.zip": "paketpflege-20261122-v445.36.9",
     "datenschutz-sanktionsverfahren-verteidigung.zip": "paketpflege-20261122-v445.36.9",
     "ecommerce-recht.zip": "paketpflege-20261122-v445.36.9",
-    "fachanwalt-insolvenz-sanierungsrecht.zip": "paketpflege-20261122-v445.36.9",
+    "fachanwalt-insolvenz-sanierungsrecht.zip": "insolvenz-fachbereich-v445.36.10",
     "fachanwalt-medizinrecht.zip": "paketpflege-20261122-v445.36.9",
     "fachanwalt-strafrecht.zip": "paketpflege-20261122-v445.36.9",
     "fachanwalt-vergaberecht.zip": "paketpflege-20261122-v445.36.9",
@@ -388,7 +388,7 @@
     "ki-halluzinationsreduzierer-portable.zip": "paketpflege-20261122-v445.36.9",
     "insolvenzanfechtung.zip": "paketpflege-20261122-v445.36.9",
     "insolvenzanfechtung-portable.zip": "paketpflege-20261122-v445.36.9",
-    "fachanwalt-insolvenz-sanierungsrecht-portable.zip": "paketpflege-20261122-v445.36.9",
+    "fachanwalt-insolvenz-sanierungsrecht-portable.zip": "insolvenz-fachbereich-v445.36.10",
     "testakte-fintech-darlehen-vertragsuebernahme-bremen.zip": "insolvenz-arbeitsvorlagen-v1.0.0",
     "testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip": "insolvenz-arbeitsakten-v1.0.0",
     "testakte-insolvenzanfechtung-blechliebe-bamberg.zip": "insolvenz-arbeitsvorlagen-v1.0.0",
@@ -421,8 +421,8 @@
     "us-sanktionspruefer.zip": "paketpflege-20261122-v445.36.9",
     "insolvenzsachbearbeitung.zip": "paketpflege-20261122-v445.36.9",
     "insolvenzsachbearbeitung-portable.zip": "paketpflege-20261122-v445.36.9",
-    "insolvenzforderungen-checker.zip": "paketpflege-20261122-v445.36.9",
-    "insolvenzforderungen-checker-portable.zip": "paketpflege-20261122-v445.36.9",
+    "insolvenzforderungen-checker.zip": "insolvenz-fachbereich-v445.36.10",
+    "insolvenzforderungen-checker-portable.zip": "insolvenz-fachbereich-v445.36.10",
     "testakte-insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen.zip": "grundakten-sammlung-v1.0.0",
     "testakte-insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen-einzelpdfs.zip": "insolvenzsachbearbeitung-v1.1.0",
     "testakte-insolvenzsachbearbeitung-werkzeugkiste-augsburg.zip": "grundakten-sammlung-v1.0.0",
@@ -1662,6 +1662,9 @@
     "lebensakte-insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena.zip": "insolvenz-arbeitsvorlagen-v1.0.0",
     "lebensakte-insolvenzrecht-forderungspruefung-mietkaution-berlin.zip": "insolvenz-arbeitsvorlagen-v1.0.0",
     "lebensakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip": "insolvenz-arbeitsvorlagen-v1.0.0",
-    "lebensakte-starug-schutzschirm-grossbach-druckguss-erfurt.zip": "insolvenz-arbeitsvorlagen-v1.0.0"
+    "lebensakte-starug-schutzschirm-grossbach-druckguss-erfurt.zip": "insolvenz-arbeitsvorlagen-v1.0.0",
+    "betriebsvereinbarungen.zip": "betriebsvereinbarungen-v1.0.0",
+    "testakte-betriebsvereinbarung-copilot-maschinenbau-kassel.zip": "betriebsvereinbarungen-v1.0.0",
+    "testakte-betriebsvereinbarung-copilot-maschinenbau-kassel-einzelpdfs.zip": "betriebsvereinbarungen-v1.0.0"
   }
 }

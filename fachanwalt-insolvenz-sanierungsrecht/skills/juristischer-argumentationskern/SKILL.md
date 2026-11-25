@@ -19,6 +19,8 @@ description: "Insolvenz- und Sanierungsmandat stichtagsbezogen bearbeiten. Werte
 
 ## 2. Bedingte Fachwege und materielle Prüfung
 
+Für eine Krisenentscheidung oder einen Eröffnungsantrag wende den [Arbeitsweg für Insolvenzstatus und Antrag](../../references/krisenstatus-und-antrag.md) an. Erstelle aus Konten, Titeln und offenen Posten einen Anfangsstatus und bei Bedarf die Dreiwochenrechnung. Prüfe Zahlungseinstellung auch anhand äußerer Indizien. Halte Eintritt, Erkennbarkeit und Antragseingang auseinander. Kläre Rechtsträger, vertretungs- oder antragsberechtigte Person und den für diese Rolle erforderlichen Nachweis. Bei einem Gläubigerantrag begründe Forderung, rechtliches Interesse und Eröffnungsgrund getrennt.
+
 Nur die durch den Sachverhalt ausgelösten Zweige bearbeiten. Eine fachliche Übergabe umfasst konkrete Frage, relevante Belege, Frist und erwartete Textfolge; ihr Ergebnis wird hier zusammengeführt.
 
 | Prüfpunkt | Konkrete Arbeitsfrage |

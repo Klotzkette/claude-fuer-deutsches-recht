@@ -5,7 +5,7 @@
 
 Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Berufs- und Vereinsbetreuer: Kaltstart, Scan-Akte, Kalender, Gerichtskommunikation, Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Wunschermittlung, Kontoanalyse und Schutzplan nach BtOG und BGB.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`betreuungsrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betreuungsrecht/betreuungsrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [4 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -85,7 +85,7 @@ Der Ablauf sichert zuerst Auftrag, Zeitraum und Originalbelege. Danach folgen Bu
 | [Unterlagen-Werkstatt als Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md) | Großer eigenständiger Prompt mit Arbeitsablauf, Excel-Schema, Quellenprüfung und ausformulierten Briefbeispielen; ohne Plugin verwendbar. |
 | [Identische Textfassung](betreuungsrecht-unterlagen-werkstatt.txt) | Derselbe Prompt zum Kopieren oder Hochladen. |
 | [Excel-Vorlage](templates/unterlagen-abrechnung.xlsx) | Eingabe, Fundstellen, Kontenabstimmung, Auswertung und offene Fragen. Die Vorlage enthält keine Lösung der Testakte. |
-| [Neue Akte Adelheid Pfister](../testakten/betreuung-adelheid-pfister-dreijahresabrechnung/README.md) | Drei Jahre vor Übernahme, zwei Konten, Rechnungen, E-Mails, Vertragsunterlagen und unterschiedliche Auskünfte aus dem Umfeld. |
+| [Dreijahresakte Adelheid Pfister](../testakten/betreuung-adelheid-pfister-dreijahresabrechnung/README.md) | Drei Jahre vor Übernahme, zwei Konten, Rechnungen, E-Mails, Vertragsunterlagen und unterschiedliche Auskünfte aus dem Umfeld. |
 
 In Fassung 445.33.3 heißt die betreute Person Adelheid Pfister; die Familiennamen, Unterlagen und Downloads sind entsprechend angepasst. Sachverhalt und Rechnungsdaten bleiben gleich.
 
@@ -159,7 +159,7 @@ Beim Einsatz von KI-Tools sind insbesondere zu beachten:
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **10 auswählbare Skills**. Die **118 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **10 auswählbare Skills**. Die **118 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 

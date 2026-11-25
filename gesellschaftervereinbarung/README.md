@@ -5,7 +5,7 @@
 
 Gesellschaftervereinbarungen für GmbHs entwerfen, verhandeln und aendern. Zehn Fachskills und ein Hauptskill verbinden Kapital, Mitspracherechte, Anteilsverkauf, Gruenderbindung und notariellen Vollzug.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`gesellschaftervereinbarung-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -109,7 +109,7 @@ Die drei Einzelprompts funktionieren unabhängig vom Plugin. Mini- und Hauptprob
 
 Eine Berliner Robotikgesellschaft mit zwei Gründern verhandelt zehn Millionen Euro in zwei Tranchen mit bestehenden und neuen Investoren. Die 46 Originaldateien reichen von der Vorgründungsabrede über die UG, Rechteüberlassung und den Übergang zur GmbH bis zu früheren Finanzierungsrunden, Brückendarlehen und einer Liquiditätsenge. Ein privates Freundesdarlehen mit umstrittener Beteiligungsabrede ergänzt den aktuellen Verhandlungsstoff. Die Parteien sind nicht in allen Punkten einig; es gibt keine Musterlösung. [Dateiverzeichnis und Fallbeschreibung](../testakten/gesellschaftervereinbarung-drohnenfriseur-berlin/README.md).
 
-Die Word-Ausfüllfassung umfasst 32 Kapitel mit ausgearbeiteten Vertragsanlagen, zahlreichen bezeichneten Leerstellen und ausschließlich dezimaler Gliederung in Times New Roman 11. Das erweiterte Term Sheet liefert die Verhandlungsgrundlage. Die Excel-Datei enthält sieben Blätter: Kapital, Tranchen, Budget, Historie, Darlehen, Wandlung und Kontojournal. Historischer Bestand, geplante Runde und eine unverbindliche Wandlungsvariante bleiben getrennt.
+Die Word-Ausfüllfassung umfasst 32 Kapitel mit ausgearbeiteten Vertragsanlagen, zahlreichen bezeichneten Leerstellen und ausschließlich dezimaler Gliederung in Times New Roman 11. Das Term Sheet liefert die Verhandlungsgrundlage. Die Excel-Datei enthält sieben Blätter: Kapital, Tranchen, Budget, Historie, Darlehen, Wandlung und Kontojournal. Historischer Bestand, geplante Runde und eine unverbindliche Wandlungsvariante bleiben getrennt.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

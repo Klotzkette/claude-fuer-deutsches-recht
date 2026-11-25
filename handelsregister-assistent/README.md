@@ -11,7 +11,7 @@
 
 Handelsregister recherchieren und Registervorgänge vollziehen: Auszüge, Gesellschafterlisten, Auslandsvertretung, Organwechsel, Anmeldung, Zwischenverfügung und Datenschutz. Zehn Fachworkflows und ein Hauptproblem-Skill führen zu konkreten Dokumenten und nachgewiesenem Vollzugsstand.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -62,7 +62,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`handelsregister-assistent-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-werkstatt.md) · [`handelsregister-assistent-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -146,7 +146,7 @@ This test case file was generated with AI and is an experiment. Use at your own 
 
 ## 1.10. Aktuelle Anker mit begrenzter Aussage
 
-Stand 01.10.2026: BGH II ZR 50/25 zur materiellen Gesellschafterstellung trotz Liste; II ZB 13/24 zur konkret untersuchten österreichischen Onlinebeglaubigung; II ZB 2/25 zum Austausch überschießender öffentlicher Registerdaten. II ZB 15/22 ergänzt die Abgrenzung zwischen Zwischenverfügung und endgültiger Ablehnung. Die [Quellenprüfung](../quality/source-audits/registerwerkstaetten-2026-10-01/handelsregister.md) dokumentiert gelesene Passagen und Grenzen.
+Stand 01.10.2026: BGH II ZR 50/25 zur materiellen Gesellschafterstellung trotz Liste; II ZB 13/24 zur konkret untersuchten österreichischen Onlinebeglaubigung; II ZB 2/25 zum Austausch überschießender öffentlicher Registerdaten. II ZB 15/22 betrifft die Abgrenzung zwischen Zwischenverfügung und endgültiger Ablehnung. Die [Quellenprüfung](../quality/source-audits/registerwerkstaetten-2026-10-01/handelsregister.md) dokumentiert gelesene Passagen und Grenzen.
 
 Sri Lanka hat ein Unternehmensregister. Der Pflichtfall beruht auf einem unzureichenden konkreten Vertretungsdossier, nicht auf einem erfundenen registerlosen Staat. HCCH-Status und Hinweise der deutschen Botschaft Colombo wurden geprüft; eine mögliche Amts- oder Rechtshilfe wird nicht als garantierte Prüfung von Gesellschaftsurkunden ausgegeben.
 

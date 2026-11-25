@@ -147,5 +147,34 @@ class PreservationTests(unittest.TestCase):
         self.assertTrue(any(name in e and "verändert" in e for e in self.check()))
 
 
+class ConsolidationEditionTests(unittest.TestCase):
+    def test_reviewed_skill_restores_original_and_rejects_edits_and_rollback(self):
+        from consolidation_editions import previous, register, sha
+        root = Path(__file__).resolve().parents[1]
+        name = "insolvenzforderungen-checker/skills/forderungen-pruefen-und-tabelle-vorbereiten/SKILL.md"
+        current = (root / name).read_bytes()
+        original = previous(root, name, current)
+        self.assertEqual(sha(original), register(root)["edition"][name]["before_sha256"])
+        for changed in (current + b" ", original):
+            with self.subTest(rollback=changed == original), self.assertRaises(ValueError):
+                previous(root, name, changed)
+
+    def test_archived_case_fails_when_the_pinned_register_or_archive_is_replaced(self):
+        from consolidation_editions import PROOF, archived, register
+        root = Path(__file__).resolve().parents[1]
+        proof = register(root)
+        name = "testakten/README.md"
+        key = proof["preceding"][name]["before_sha256"]
+        with tempfile.TemporaryDirectory() as tmp:
+            directory = Path(tmp) / PROOF
+            directory.mkdir(parents=True)
+            (directory / "bestand.json").write_text("{}")
+            with self.assertRaises(ValueError):
+                register(Path(tmp))
+            (directory / "vorfassungen.zip").write_bytes(b"ersetzt")
+            with self.assertRaises(ValueError):
+                archived(Path(tmp), proof, key)
+
+
 if __name__ == "__main__":
     unittest.main()

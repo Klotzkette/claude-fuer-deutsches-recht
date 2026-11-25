@@ -148,7 +148,7 @@ Die regulären Plugin-, Arbeits- und Schnellstartdownloads stehen bereits im Sch
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **8 auswählbare Skills**. Die **113 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **8 auswählbare Skills**. Die **113 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 

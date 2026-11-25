@@ -5,7 +5,7 @@
 
 Artikel 50 KI-Verordnung praktisch prüfen: Rollen, Kanzleientwürfe, öffentliche Texte, redaktionelle Kontrolle, KI-Chat und Telefon, Deepfakes, technische Markierung und Biometrie. Mit verwendbaren Hinweisen, Anbieteranfragen und Freigabevermerken.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`ki-verordnung-transparenzpruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -72,16 +72,18 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 <a id="1-fachstand-445352-vom-9-oktober-2026"></a>
 
-## Fachstand 445.35.2 vom 9. Oktober 2026
+<a id="fachstand-445352-vom-9-oktober-2026"></a>
 
-Die amtliche konsolidierte KI-Verordnung einschließlich Änderungsverordnung 2026/1744 und deutscher Berichtigung vom 29. September wurde für die beschriebenen Korrekturen geöffnet. [Rechtsstand und Quellen](references/rechtsstand-2026-10-09.md). Systemrisikomanagement nach Artikel 9, Anbieter-Qualitätsmanagement nach Artikel 17 und Grundrechte-Folgenabschätzung bestimmter Betreiber nach Artikel 27 sind getrennte Prüfungen. ISO-Zertifikat, Risikoregister und Nachtraining unter einem Drittel ersetzen keine konkrete Systemeinstufung oder Konformitätsprüfung.
+## Rechtsgrundlagen und Geltungsbeginn
 
-Der [Hauptproblem-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-hauptproblem.md) führt vom konkreten Auftrag zum fertigen Dokument; [TXT](ki-verordnung-transparenzpruefer-hauptproblem.txt). Werkstatt und Mini sind zusätzlich als byteidentische TXT-Fassungen verfügbar. Bestehende Testakten bleiben erhalten. Historische Rechtsprechungsanker werden nicht als neu im Volltext verifiziert ausgegeben; diese Runde enthält keine behaupteten Live-Modelltests oder produktiven Behördenmeldungen.
+Der Quellenstand vom 9. Oktober 2026 umfasst die konsolidierte KI-Verordnung einschließlich der Änderungsverordnung 2026/1744 und der deutschen Berichtigung vom 29. September 2026. [Rechtsstand und Quellen](references/rechtsstand-2026-10-09.md). Systemrisikomanagement nach Artikel 9, Anbieter-Qualitätsmanagement nach Artikel 17 und Grundrechte-Folgenabschätzung bestimmter Betreiber nach Artikel 27 sind getrennte Prüfungen. ISO-Zertifikat, Risikoregister und Nachtraining unter einem Drittel ersetzen keine konkrete Systemeinstufung oder Konformitätsprüfung.
+
+Der [Hauptproblem-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-hauptproblem.md) führt vom konkreten Auftrag zum fertigen Dokument; [TXT](ki-verordnung-transparenzpruefer-hauptproblem.txt). Werkstatt und Mini sind zusätzlich als byteidentische TXT-Fassungen verfügbar. Die Nachweise zur Rechtsprechung gelten für den jeweils dokumentierten Quellenstand. Der Prüfbericht umfasst weder Live-Modelltests noch produktive Behördenmeldungen.
 ## 1. Einstieg
 
 Dieses Plugin bearbeitet Artikel 50 für konkrete Kommunikation: Kanzleientwurf, öffentlicher Beitrag, KI-Empfang und künstlich veränderte Medien. Es beginnt im Projektordner und endet mit dem beauftragten Hinweis, Anbieteranschreiben oder begründeten Freigabevermerk. Es ist kein allgemeiner Hochrisiko-, Datenschutz- oder Berufsrechtsprüfer.
 
-[Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-werkstatt.md) für einen vollständigen Arbeitsdurchgang; [Schnellstart](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-schnellstart.md) für den kompakten eigenständigen Einstieg. [Rechtsstand und amtliche Quellen](references/rechtsstand-artikel-50.md) sowie [Zitierweise](references/zitierweise.md) gehören zum Paket. Die Grundprüfung vom 28. September 2026 wurde am 30. September um einen vertieften Abgleich der finalen Artikel-50-Leitlinien ergänzt.
+[Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-werkstatt.md) für einen vollständigen Arbeitsdurchgang; [Schnellstart](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-schnellstart.md) für den kompakten eigenständigen Einstieg. [Rechtsstand und amtliche Quellen](references/rechtsstand-artikel-50.md) sowie [Zitierweise](references/zitierweise.md) gehören zum Paket. Der dokumentierte Quellenstand ist der 28. September 2026. Für die finalen Artikel-50-Leitlinien gilt der Quellenstand vom 30. September 2026.
 
 Die Leitlinien vom 20. Juli 2026 sind in allen acht Fachskills und beiden eigenständigen Prompts verarbeitet: automatischer E-Mail-Dialog oder menschlich versandter Entwurf, technische Markierung und Detektionsweg, realistische erfundene Sprecher, interne Vorführung, öffentliche Texte hinter Bezahlschranken und erneute redaktionelle Endprüfung. Der Ablauf liefert den passenden Hinweis oder ein konkretes Anbieteranschreiben. Enge Ausnahmen, Altinhalte und Übergangsfristen werden getrennt geprüft; unverbindliche Kommissionsauslegung wird nicht als Gesetz oder Gerichtsurteil ausgegeben.
 
@@ -151,11 +153,13 @@ English: Complete list of all 8 skills in this plugin. Both links in each row do
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Die KI-Fachvertiefung steht als [Komponentenausgabe 445.35.2](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2) zur Verfügung.
 
 <a id="neue-vollständige-übungsakten"></a>
 
-## 5. Neue vollständige Übungsakten
+<a id="5-neue-vollständige-übungsakten"></a>
+
+## 5. Übungsakten
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

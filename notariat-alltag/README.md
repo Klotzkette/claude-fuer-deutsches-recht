@@ -5,7 +5,7 @@
 
 Notariatswerkstatt für Mitarbeiter: Kundenordner, Bauträgerkauf, Grundschuld, Beglaubigung, GmbH-Gründung, Kapitalerhöhung, Geschäftsführerwechsel und Anteilsgeschäfte bis zur Vorlage an den Notar.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`notariat-alltag-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=notariat-alltag/notariat-alltag-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [10 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -80,7 +80,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 Hier kommt der Kundenordner hinein: E-Mails, Ausweisangaben, Registerauszüge, Bankaufträge, Vertragswünsche und vorhandene Entwürfe. Daraus bereiten Notariatsmitarbeiter das nächste konkrete Dokument vor, etwa einen Bauträgerkaufvertrag, eine Grundschuldbestellung oder eine Handelsregisteranmeldung. Die rechtliche Durchsicht und die Amtshandlungen bleiben beim Notar.
 
-Das Plugin heißt weiterhin `notariat-alltag`. Die bisher 131 teils überlappenden Skills sind zu 20 Arbeitswegen zusammengeführt. Einstieg ist der Hauptworkflow `kaltstart-triage`: Er nimmt den konkreten Vorgang auf, nutzt nur den benötigten Fachskill und führt nach Rückfragen bis zur Urkundenmappe weiter. Bei einem klaren Einzelauftrag kann der Fachskill unmittelbar verwendet werden. Alte Lesezeichen auf entfallene Spezialskills bitte durch einen der folgenden Arbeitswege ersetzen.
+Die 20 Arbeitswege decken die Vorbereitung und den Vollzug notarieller Vorgänge ab. Der Hauptworkflow `kaltstart-triage` nimmt den konkreten Vorgang auf, nutzt nur den benötigten Fachskill und führt nach Rückfragen bis zur Urkundenmappe weiter. Bei einem klaren Einzelauftrag kann der Fachskill unmittelbar verwendet werden.
 
 ## 2. Zwanzig aufeinander abgestimmte Arbeitswege
 
@@ -119,9 +119,9 @@ Die [Formwege für Mitarbeiter als Markdown-Download](https://klotzkette.github.
 
 ### 3.1. Vertiefung und geprüfte Rechtsprechung
 
-Die überarbeitete Werkstatt führt beantwortete Rückfragen bis zum vollständigen Entwurf fort: etwa den Bankverzicht auf persönliche Mithaftung, den gesonderten Vollzugsauftrag nach einer unbedingten Auflassung und den gewünschten Umfang einer Gesundheitsvollmacht. Gründungsvollmacht, erforderliche Geschäftsführer, Gesellschafterliste, Umwandlungsfolge, Genehmigungsfrist und Kostenübergang werden jeweils konkret geprüft.
+Die Werkstatt führt beantwortete Rückfragen bis zum vollständigen Entwurf fort: etwa den Bankverzicht auf persönliche Mithaftung, den gesonderten Vollzugsauftrag nach einer unbedingten Auflassung und den gewünschten Umfang einer Gesundheitsvollmacht. Gründungsvollmacht, erforderliche Geschäftsführer, Gesellschafterliste, Umwandlungsfolge, Genehmigungsfrist und Kostenübergang werden jeweils konkret geprüft.
 
-Das [Rechtsprechungsregister](references/rechtsprechung-geprueft.md) nennt vier anhand amtlicher Entscheidungsgründe geprüfte BGH-Entscheidungen mit Fundstelle, Aussage und Anwendungsgrenze. Es trennt historische Normfassungen vom heutigen Recht. Der [Prüfbericht für Werkstätten und Minis](../docs/notariat-promptqualitaet-2026-09-25.md) erläutert Umfang und Grenzen der Überarbeitung.
+Das [Rechtsprechungsregister](references/rechtsprechung-geprueft.md) nennt vier anhand amtlicher Entscheidungsgründe geprüfte BGH-Entscheidungen mit Fundstelle, Aussage und Anwendungsgrenze. Es trennt historische Normfassungen vom heutigen Recht. Der [Prüfbericht für Werkstätten und Minis](../docs/notariat-promptqualitaet-2026-09-25.md) erläutert Umfang und Grenzen der Prüfung.
 
 ## 4. Sieben Vorgänge mit passendem Arbeitsweg
 

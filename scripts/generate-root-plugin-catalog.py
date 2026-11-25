@@ -158,24 +158,15 @@ def replace_catalog(text: str, catalog: str) -> str:
     return pattern.sub(catalog + "\n", text, count=1)
 
 
-def update_testakten_version(text: str, version: str, central_count: int | None = None) -> str:
+def update_testakten_count(text: str, central_count: int) -> str:
     updated, count = re.subn(
-        r"^Stand v\d+\.\d+\.\d+(?=:)",
-        lambda _: "Stand v" + version,
+        r"^(?:Hier finden Sie |Stand v\d+\.\d+\.\d+: )\d+(?= zentrale Testakten\b)",
+        f"Hier finden Sie {central_count}",
         text,
         flags=re.MULTILINE,
     )
     if count != 1:
-        raise RuntimeError("Eindeutiger Versionsstand in testakten/README.md fehlt")
-    if central_count is not None:
-        updated, count = re.subn(
-            r"^(Stand v\d+\.\d+\.\d+: )\d+(?= zentrale Testakten)",
-            lambda match: match[1] + str(central_count),
-            updated,
-            flags=re.MULTILINE,
-        )
-        if count != 1:
-            raise RuntimeError("Eindeutige Aktenzahl in testakten/README.md fehlt")
+        raise RuntimeError("Eindeutige Aktenzahl in testakten/README.md fehlt")
     return updated
 
 
@@ -209,7 +200,7 @@ def main() -> int:
     for plugin in plugins:
         validate_plugin_version(plugin, version, root=REPO)
     updated = re.sub(r"(\| \*\*Plugin-Version / Arbeitsstand\*\* \| `)v\d+\.\d+\.\d+", lambda m: m[1] + "v" + version, updated)
-    testakten = update_testakten_version(TESTAKTEN_README.read_text(encoding="utf-8"), version, counts["central_testakten"])
+    testakten = update_testakten_count(TESTAKTEN_README.read_text(encoding="utf-8"), counts["central_testakten"])
     updated = rewrite_case_asset_urls(updated, version=marketplace["version"])
     testakten = rewrite_case_asset_urls(testakten, version=marketplace["version"])
     README.write_text(updated, encoding="utf-8")

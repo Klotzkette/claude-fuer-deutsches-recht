@@ -1,5 +1,5 @@
 # KI-native Kanzlei
 
-Das Plugin heißt jetzt **KI-native Kanzlei** (AI-native und SI-native bleiben ein augenzwinkernder Scherz).
+Der Pluginname lautet **KI-native Kanzlei**. „AI-native“ und „SI-native“ sind augenzwinkernde Bezeichnungen für dasselbe Angebot.
 
-[Zur aktuellen Fassung mit 18 ausführlichen Skills, Fristenberechnung, Anwaltsberufsrecht, Prompts und allen 24 Testakten](../ki-native-kanzlei/README.md). Bereits veröffentlichte Testakten und ihre Downloads bleiben erhalten.
+[KI-native Kanzlei mit Fristenberechnung, Anwaltsberufsrecht, Prompts und 24 Testakten](../ki-native-kanzlei/README.md). Dort finden Sie auch die Downloads zu den einzelnen Akten.

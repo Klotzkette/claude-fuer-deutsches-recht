@@ -47,11 +47,11 @@ Für eine kurze Vorführung von etwa zehn bis fünfzehn Minuten im allgemeinen V
 
 Grundbestand: zwölf native Originalunterlagen. Word-Dokumente bleiben bearbeitbar; E-Mails enthalten die bezeichneten Anlagen tatsächlich als MIME-Dateien. Eine eingebettete Anlage und ihre gleichnamige Originaldatei sind derselbe Beleg und werden nicht doppelt als Schaden oder Beweis gezählt. Tabellen enthalten angemeldete Beträge und Rechenwege; sie ersetzen keine Prüfung des Anspruchs.
 
-Das aktualisierte Gesamt-PDF umfasst 44 Seiten. Die vollständigen Exportbestände einschließlich Ergänzung werden unten ausgewiesen.
+Das Gesamt-PDF umfasst 44 Seiten. Die Inhaltsverzeichnisse ordnen die Dateien dem Akteneingang und dem späteren Schriftwechsel zu.
 
 <!-- reserved-example-contacts -->
 
-Alle Personen, Institutionen, Unternehmen, Straßenanschriften und Vorgänge sind fiktiv. Die Ortsangabe Würzburg in den beiden dort angesiedelten Akten bezeichnet allein den realen Schauplatz. Keine tatsächliche Stadtverwaltung, kein realer Versorger und kein echter kommunaler Betrieb wird als Verursacher bezeichnet. Kontaktadressen mit `.example` sind nicht zustellbar. Der Grundbestand bleibt ohne Musterlösung. Der zusätzlich bestellte Klageentwurf ist ein gesondertes Arbeitsstück.
+Alle Personen, Institutionen, Unternehmen, Straßenanschriften und Vorgänge sind fiktiv. Die Ortsangabe Würzburg in den beiden dort angesiedelten Akten bezeichnet allein den realen Schauplatz. Keine tatsächliche Stadtverwaltung, kein realer Versorger und kein echter kommunaler Betrieb wird als Verursacher bezeichnet. Kontaktadressen mit `.example` sind nicht zustellbar. Der Grundbestand enthält keine Musterlösung. Der zusätzlich bestellte Klageentwurf ist ein gesondertes Arbeitsstück.
 
 Die Bezeichnung AKHA in den zwei Würzburger Akten ordnet die Übung einem Bearbeitungsumfeld zu. Die fiktiven Ablagevermerke sind keine Aussage über eine tatsächliche Mitgliedschaft, Zuständigkeit oder Deckung. Es werden keine echten AKHA-Bedingungen und keine Rückdeckungsverträge nachgebildet. Haftung, Deckung beziehungsweise Schadenausgleich und Rückdeckung sind anhand der jeweils fehlenden Vertragsunterlagen getrennt zu bearbeiten. Die Kostenübersichten verwenden keine erfundenen Deckungsquoten oder Rückdeckungsgrenzen.
 
@@ -76,9 +76,9 @@ Die Bezeichnung AKHA in den zwei Würzburger Akten ordnet die Übung einem Bearb
 
 ## Schriftverkehr und Klageentwurf
 
-Zusätzlich zum unveränderten Grundbestand enthält die Akte drei E-Mails, zwei Briefe als PDF und einen ausgearbeiteten Klageentwurf als bearbeitbares Word-Dokument. Nach dieser ersten Ergänzung umfasste der Bestand **18 Originalunterlagen**. Den aktuellen Umfang nennt der zusätzliche Vertiefungsabschnitt. Der Unterordner `schriftverkehr-und-klage` trennt die Ergänzung vom bisherigen Akteneingang. In den flachen ZIPs wird der Unterordnername als Dateipräfix mitgeführt.
+Im Ordner `schriftverkehr-und-klage` stehen drei E-Mails, zwei Briefe als PDF und ein bearbeitbarer Klageentwurf in Word.
 
-Der Klageentwurf ist ein bewusst zusätzlich bestelltes Arbeitsstück zur Überarbeitung oder Gegenprüfung. Er ersetzt nicht die offene Fallprüfung und ändert weder den ursprünglichen Auftraggeber noch den dort benannten Vertretungsumfang. Ein Entwurf aus Sicht der Gegenseite ist keine Übernahme ihres Mandats. Kein Schreiben und keine Klage wurden tatsächlich versandt oder eingereicht. Die Anlagen K1 ff. bezeichnen die konkreten, bereits vorhandenen Belege; dieselbe Datei wird dadurch kein zweiter Beweis oder weiterer Schaden.
+Der Klageentwurf dient der Überarbeitung und Gegenprüfung. Für die Fallprüfung gelten Auftrag und Vertretungsumfang aus der Mandatsanfrage. Ein Entwurf aus Sicht der Gegenseite ist keine Übernahme ihres Mandats. Kein Schreiben und keine Klage wurden tatsächlich versandt oder eingereicht. Die Anlagen K1 ff. bezeichnen die konkreten, bereits vorhandenen Belege; dieselbe Datei wird dadurch kein zweiter Beweis oder weiterer Schaden.
 
 Neuer Schriftverkehr aus Sicht der Anspruchstellerin. Die Stadt wird von Clara Klee vertreten; Klägervertreterin ist ausschließlich Leona Ehlers. Klageentwurf vom 05.10.2026, nicht eingereicht. Die neue Stadtbestätigung konkretisiert die öffentlich-rechtliche Benutzung des Bürgerhauses. Vorläufiger Streitwert 2.842,50 EUR; Schmerzensgeld unbeziffert mit 2.500 EUR Orientierung, materielle Positionen 342,50 EUR. Das Word-Dokument enthält ein vollständiges Anlagenverzeichnis.
 
@@ -103,9 +103,9 @@ Die Briefe sind PDF-Originale dieser synthetischen Akte, keine Scans wirklicher 
 
 ## Vertiefter Schriftwechsel und bearbeitbare Briefe
 
-26 Arbeitsdateien einschließlich der gesonderten Fassungen in Word und PDF. Das aktualisierte Gesamt-PDF umfasst 44 Seiten. Ein Brief in zwei Formaten und seine MIME-Anlage sind derselbe Beleg; sie dürfen weder als zusätzlicher Schaden noch als unabhängige Bestätigung gezählt werden. Die Akteneingänge und bisher vorhandenen Klageentwürfe bleiben erhalten. Neu hinzugekommene Unterlagen befinden sich unter `kommunikation-und-deckung`. Vorhandene Brief-PDFs erhalten ergänzende Word-Fassungen unter `briefvorlagen`, soweit solche Briefe bereits zur Akte gehörten.
+26 Arbeitsdateien einschließlich der gesonderten Fassungen in Word und PDF. Das Gesamt-PDF umfasst 44 Seiten. Ein Brief, seine PDF-Fassung und die per E-Mail übermittelte Anlage zählen als ein Beleg. Den Schriftwechsel zur Deckung finden Sie unter `kommunikation-und-deckung`. Bearbeitbare Word-Fassungen der Briefe stehen unter `briefvorlagen`.
 
-Der Grundbestand und der vorhandene Klageentwurf bleiben unverändert. Neu eingegangene Vertragsinformationen stammen erst vom Nachmittag des 05.10.2026; sie werden nicht rückwirkend in die frühere Recherchelage hineingelesen. Die Gemeinde hat weiterhin weder gezahlt noch die Haftung anerkannt. Kein sachlicher Anlass für eine Beteiligung eines Landkreises.
+Die Vertragsauskunft ging erst am Nachmittag des 05.10.2026 ein. Für die Beurteilung des Klageentwurfs zählt der bei seiner Abfassung bekannte Sachverhalt. Die Gemeinde hat weiterhin weder gezahlt noch die Haftung anerkannt. Kein sachlicher Anlass für eine Beteiligung eines Landkreises.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -117,8 +117,8 @@ Der Grundbestand und der vorhandene Klageentwurf bleiben unverändert. Neu einge
 | [02_Stadt_Schadenmeldung.docx](kommunikation-und-deckung/02_Stadt_Schadenmeldung.docx) · [PDF](kommunikation-und-deckung/02_Stadt_Schadenmeldung.pdf) | Kümmel – ergänzende Schadenmeldung mit tatsächlichem Kontrollstand |
 | [03_Versicherer_Deckungsantwort.docx](kommunikation-und-deckung/03_Versicherer_Deckungsantwort.docx) · [PDF](kommunikation-und-deckung/03_Versicherer_Deckungsantwort.pdf) | Bürgerhaus Hainbogen – Vorgangsbestätigung nach Archivabgleich |
 | [04_Versicherer_Abstimmung.eml](kommunikation-und-deckung/04_Versicherer_Abstimmung.eml) | Kümmel: nächste Schritte zur kleinen Regulierung |
-| [04_Anspruchsschreiben_Kuemmel.docx](briefvorlagen/04_Anspruchsschreiben_Kuemmel.docx) | Bearbeitbare Fassung des bereits vorhandenen Briefs |
-| [05_Antwort_Stadt.docx](briefvorlagen/05_Antwort_Stadt.docx) | Bearbeitbare Fassung des bereits vorhandenen Briefs |
+| [04_Anspruchsschreiben_Kuemmel.docx](briefvorlagen/04_Anspruchsschreiben_Kuemmel.docx) | Bearbeitbare Word-Fassung des Briefs |
+| [05_Antwort_Stadt.docx](briefvorlagen/05_Antwort_Stadt.docx) | Bearbeitbare Word-Fassung des Briefs |
 
 Die Korrespondenz zeigt Anforderung, Antwort, abweichende Standpunkte und den jeweiligen Entscheidungsstand. Eine Reserve ist keine Zahlung; eine Deckungsprüfung ist kein Haftungsanerkenntnis. Eine Rückversichereranfrage setzt einen konkreten Meldeanlass voraus. Bei kleinen Vorgängen bleibt es deshalb bei der Bearbeitung zwischen Versicherungsnehmer und Erstversicherer. Kein Schreiben wurde wirklich versandt und keine Klage eingereicht.
 
@@ -133,7 +133,7 @@ Die Korrespondenz zeigt Anforderung, Antwort, abweichende Standpunkte und den je
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF | PDF | [Gesamte Akte](gesamt-pdf/kommunale-haftpflicht-personenschaden_gesamt.pdf) |
-| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-kommunale-haftpflicht-personenschaden.zip) |
+| Akten-ZIP | ZIP | [Originalunterlagen der Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-kommunale-haftpflicht-personenschaden.zip) |
 | Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-kommunale-haftpflicht-personenschaden-einzelpdfs.zip) |
 
-Die Archive enthalten die Arbeitsdateien unmittelbar auf der ZIP-Wurzelebene und einen Nutzungshinweis. README und redaktionelle Bewertungsdatei gehören nicht zum Arbeitsdump. Die Verknüpfungen beziehen sich auf den Akten-Begleitrelease zu Version 445.31.1.
+Die ZIP-Dateien enthalten die Arbeitsunterlagen und die zweisprachige README.txt. Die Bewertungsdatei dient der gesonderten Auswertung.

@@ -44,7 +44,7 @@ Passendes Plugin: [Kommunale Haftpflicht](../../kommunale-haftpflicht/README.md)
 
 ## 1.3. Kleiner Einstieg
 
-Beginnen Sie für eine kurze Vorführung mit diesen Kernunterlagen. Die weiteren Dateien erlauben anschließend einen vollständigen Belegabgleich. Der Grundbestand bleibt ohne Musterlösung; der gesonderte Klageentwurf ist ein ausdrücklich bestelltes Arbeitsstück. Ein fertiger Vortrag wird nicht mitgeliefert.
+Beginnen Sie für eine kurze Vorführung mit diesen Kernunterlagen. Die weiteren Dateien erlauben anschließend einen vollständigen Belegabgleich. Der Grundbestand enthält keine Musterlösung; der gesonderte Klageentwurf ist ein ausdrücklich bestelltes Arbeitsstück. Ein fertiger Vortrag wird nicht mitgeliefert.
 
 - [01_Pruefauftrag.eml](01_Pruefauftrag.eml)
 - [02_Sturzbericht.docx](02_Sturzbericht.docx)
@@ -57,7 +57,7 @@ Beginnen Sie für eine kurze Vorführung mit diesen Kernunterlagen. Die weiteren
 
 ## 1.4. Umfang und Herkunft
 
-Das aktualisierte Gesamt-PDF umfasst 42 Seiten. Grundbestand: 9 native Originalunterlagen in bearbeitbaren Word-Dateien, echten E-Mail-Dateien und gegebenenfalls einem Text-Export. Genannte E-Mail-Anlagen sind tatsächlich als identische MIME-Dateien beigefügt; die beigefügte und die gesondert gespeicherte Fassung bilden denselben Beleg.
+Das Gesamt-PDF umfasst 42 Seiten. Grundbestand: 9 native Originalunterlagen in bearbeitbaren Word-Dateien, echten E-Mail-Dateien und gegebenenfalls einem Text-Export. Genannte E-Mail-Anlagen sind tatsächlich als identische MIME-Dateien beigefügt; die beigefügte und die gesondert gespeicherte Fassung bilden denselben Beleg.
 
 <!-- reserved-example-contacts -->
 
@@ -87,9 +87,9 @@ AKHA bezeichnet das fachliche Bearbeitungsumfeld. Aus dem Ordnernamen folgen wed
 
 ## 1.6. Schriftverkehr und Klageentwurf
 
-Zusätzlich zum unveränderten Grundbestand enthält die Akte drei E-Mails, zwei Briefe als PDF und einen ausgearbeiteten Klageentwurf als bearbeitbares Word-Dokument. Nach dieser ersten Ergänzung umfasste der Bestand **15 Originalunterlagen**. Den aktuellen Umfang nennt der zusätzliche Vertiefungsabschnitt. Der Unterordner `schriftverkehr-und-klage` trennt die Ergänzung vom bisherigen Akteneingang. In den flachen ZIPs wird der Unterordnername als Dateipräfix mitgeführt.
+Im Ordner `schriftverkehr-und-klage` stehen drei E-Mails, zwei Briefe als PDF und ein bearbeitbarer Klageentwurf in Word.
 
-Der Klageentwurf ist ein bewusst zusätzlich bestelltes Arbeitsstück zur Überarbeitung oder Gegenprüfung. Er ersetzt nicht die offene Fallprüfung und ändert weder den ursprünglichen Auftraggeber noch den dort benannten Vertretungsumfang. Ein Entwurf aus Sicht der Gegenseite ist keine Übernahme ihres Mandats. Kein Schreiben und keine Klage wurden tatsächlich versandt oder eingereicht. Die Anlagen K1 ff. bezeichnen die konkreten, bereits vorhandenen Belege; dieselbe Datei wird dadurch kein zweiter Beweis oder weiterer Schaden.
+Der Klageentwurf dient der Überarbeitung und Gegenprüfung. Für die Fallprüfung gelten Auftrag und Vertretungsumfang aus der Mandatsanfrage. Ein Entwurf aus Sicht der Gegenseite ist keine Übernahme ihres Mandats. Kein Schreiben und keine Klage wurden tatsächlich versandt oder eingereicht. Die Anlagen K1 ff. bezeichnen die konkreten, bereits vorhandenen Belege; dieselbe Datei wird dadurch kein zweiter Beweis oder weiterer Schaden.
 
 Gegnerischer, nicht eingereichter Entwurf vom 05.10.2026; das städtische Prüfmandat bleibt unverändert. Das Anlagenverzeichnis ist im Word-Dokument enthalten. Streitwertvorschlag 1.748,75 EUR. Sturzpunkt und Reaktionszeit bleiben beweisbedürftig.
 
@@ -116,9 +116,9 @@ Die Briefe sind PDF-Originale dieser synthetischen Akte, keine Scans wirklicher 
 
 ## 1.7. Vertiefter Schriftwechsel und bearbeitbare Briefe
 
-23 Arbeitsdateien einschließlich der gesonderten Fassungen in Word und PDF. Das aktualisierte Gesamt-PDF umfasst 42 Seiten. Ein Brief in zwei Formaten und seine MIME-Anlage sind derselbe Beleg; sie dürfen weder als zusätzlicher Schaden noch als unabhängige Bestätigung gezählt werden. Die Akteneingänge und bisher vorhandenen Klageentwürfe bleiben erhalten. Neu hinzugekommene Unterlagen befinden sich unter `kommunikation-und-deckung`. Vorhandene Brief-PDFs erhalten ergänzende Word-Fassungen unter `briefvorlagen`, soweit solche Briefe bereits zur Akte gehörten.
+23 Arbeitsdateien einschließlich der gesonderten Fassungen in Word und PDF. Das Gesamt-PDF umfasst 42 Seiten. Ein Brief, seine PDF-Fassung und die per E-Mail übermittelte Anlage zählen als ein Beleg. Den Schriftwechsel zur Deckung finden Sie unter `kommunikation-und-deckung`. Bearbeitbare Word-Fassungen der Briefe stehen unter `briefvorlagen`.
 
-Die vier neuen Korrespondenzen spielen am Nachmittag des 05.10.2026 nach Erstellung des bestehenden Klageentwurfs. Erst jetzt aufgefundene Versicherungsdaten widersprechen nicht dem früheren Hinweis, dass keine Deckungsunterlagen vorliegen. Alle neu ergänzten Vertragsangaben sind ausschließlich fiktive Szenarioannahmen und keine tatsächlichen AKHA-Regeln. Das städtische Prüfmandat und sämtliche bisherigen Originale bleiben erhalten.
+Die vier Schreiben vom Nachmittag des 05.10.2026 folgen auf den Klageentwurf. Bei seiner Erstellung lagen die darin mitgeteilten Deckungsunterlagen noch nicht vor. Die Vertragsangaben gelten für diesen fiktiven Fall. Maßgeblich für die Bearbeitung ist das städtische Prüfmandat.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -130,8 +130,8 @@ Die vier neuen Korrespondenzen spielen am Nachmittag des 05.10.2026 nach Erstell
 | [02_Versicherer_Deckungsantwort.docx](kommunikation-und-deckung/02_Versicherer_Deckungsantwort.docx) · [PDF](kommunikation-und-deckung/02_Versicherer_Deckungsantwort.pdf) | Zeisig – vorläufige Deckung und Abwehrführung |
 | [03_Bauhof_Beweissicherung.eml](kommunikation-und-deckung/03_Bauhof_Beweissicherung.eml) | W-12: Originalprotokoll und spätere Ergänzung bleiben getrennt |
 | [04_Versicherer_an_Rechtsstelle.eml](kommunikation-und-deckung/04_Versicherer_an_Rechtsstelle.eml) | MB-W-26113: Antwortfrist und mögliche Gesprächslinie |
-| [14_Anspruchsschreiben.docx](briefvorlagen/14_Anspruchsschreiben.docx) | Bearbeitbare Fassung des bereits vorhandenen Briefs |
-| [15_Antwort_Stadt.docx](briefvorlagen/15_Antwort_Stadt.docx) | Bearbeitbare Fassung des bereits vorhandenen Briefs |
+| [14_Anspruchsschreiben.docx](briefvorlagen/14_Anspruchsschreiben.docx) | Bearbeitbare Word-Fassung des Briefs |
+| [15_Antwort_Stadt.docx](briefvorlagen/15_Antwort_Stadt.docx) | Bearbeitbare Word-Fassung des Briefs |
 
 Die Korrespondenz zeigt Anforderung, Antwort, abweichende Standpunkte und den jeweiligen Entscheidungsstand. Eine Reserve ist keine Zahlung; eine Deckungsprüfung ist kein Haftungsanerkenntnis. Eine Rückversichereranfrage setzt einen konkreten Meldeanlass voraus. Bei kleinen Vorgängen bleibt es deshalb bei der Bearbeitung zwischen Versicherungsnehmer und Erstversicherer. Kein Schreiben wurde wirklich versandt und keine Klage eingereicht.
 
@@ -148,7 +148,7 @@ Die Korrespondenz zeigt Anforderung, Antwort, abweichende Standpunkte und den je
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF | PDF | [Gesamte Akte](gesamt-pdf/akha-wuerzburg-glatteis_gesamt.pdf) |
-| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-akha-wuerzburg-glatteis.zip) |
+| Akten-ZIP | ZIP | [Originalunterlagen der Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-akha-wuerzburg-glatteis.zip) |
 | Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-akha-wuerzburg-glatteis-einzelpdfs.zip) |
 
-Die Archive enthalten alle Arbeitsunterlagen unmittelbar auf der ZIP-Wurzelebene. Die zweisprachige README.txt gehört in beide Archive; redaktionelle Bewertungsdateien und Musterlösungen werden nicht exportiert. Die PDFs enthalten keine Hinweisseite.
+Die Akten-ZIPs enthalten die Arbeitsunterlagen. Die zweisprachige README.txt gehört in beide Archive; redaktionelle Bewertungsdateien und Musterlösungen werden nicht exportiert. Die PDFs enthalten keine Hinweisseite.

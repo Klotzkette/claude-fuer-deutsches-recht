@@ -5,7 +5,7 @@
 
 Methodenlehre und Rechtsanwendung im deutschen bürgerlichen Recht aus Anwaltsperspektive: Anspruchsaufbau, Auslegung, Abwägung, Präzedenzarbeit, Rechtsfortbildung, Methodenwahl, EU-Methodik und methodenehrliche Begründungskontrolle.
 
-Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Zur Installation laden Sie das Einzel-ZIP herunter. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`methodenlehre-buergerliches-recht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=methodenlehre-buergerliches-recht/methodenlehre-buergerliches-recht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [4 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält die Plugins der ausgewiesenen Ausgabe. Die Einzelpakete finden Sie im [Download-Index](../ASSET_INDEX.md). Werkstatt und Schnellstart stehen als Markdown bereit.
 
 ## Zugeordnete Testakten
 
@@ -75,7 +75,7 @@ Deutsche juristische Methodenlehre und Falllösung aus anwaltlicher Perspektive.
 
 Für konkrete Prüfungen im BGB Allgemeiner Teil kann `bgb-at-pruefer` hinzugeladen werden; dieses Plugin bleibt die methodische Grundierung, der BGB-AT-Prüfer übernimmt dann Vertragsschluss, Zugang, Anfechtung, Stellvertretung, Geschäftsfähigkeit, Form, Fristen und Verjährung.
 
-Neu stärker ausgebaut ist die rechtsstaatliche Qualitätskontrolle juristischer Methodik: Eine Auslegung soll nicht nur das gewünschte Einzelfallergebnis tragen, sondern für Adressaten erkennbar, vorhersehbar, befolgbar, widerspruchsfrei und begründbar bleiben. Das Plugin prüft deshalb jetzt schärfer Rückwirkung, überraschende Rechtsfortbildung, Verfahrensfairness, rechtliches Gehör, Begründungspflichten und den Grenzbereich zwischen formaler Legalität und Einzelfallgerechtigkeit.
+Eine Auslegung muss für die Adressaten erkennbar, vorhersehbar, befolgbar, widerspruchsfrei und begründbar sein. Zur rechtsstaatlichen Qualitätskontrolle prüft das Plugin Rückwirkung, überraschende Rechtsfortbildung, Verfahrensfairness, rechtliches Gehör, Begründungspflichten und den Grenzbereich zwischen formaler Legalität und Einzelfallgerechtigkeit.
 
 ## Was dieses Plugin konkret macht
 
@@ -96,7 +96,7 @@ Das Plugin soll die Begründung an der konkreten Norm und Entscheidung kontrolli
 
 ## Perspektiv-Skills: freiheitlich, konservativ, postfaktisch-resistent
 
-Neu hinzugekommen sind kontrollierte Perspektiv-Skills, die bewusst **keine Ideologie über das Recht legen**. Sie dienen als methodische Prüfbrillen:
+Die Perspektiv-Skills prüfen die Begründung aus unterschiedlichen Blickwinkeln. Maßstab bleibt das geltende Recht.
 
 - **freiheitlich/libertär:** Privatautonomie, Eigentum, Vertragstreue und Eingriffsgrenzen stark machen, aber nur innerhalb von BGB, Grundgesetz, zwingendem Schutzrecht und AGB-Kontrolle.
 - **konservativ/institutionell:** Gesetzesbindung, Rechtssicherheit, demokratische Verantwortung und richterliche Zurückhaltung sauber ausarbeiten.
@@ -106,7 +106,7 @@ Der Zweck ist nicht, ein gewünschtes Ergebnis zu produzieren, sondern eine zivi
 
 ## Quellen und Bindungsgrenzen
 
-Die lokale [Methodik-Referenz](references/methodik-buergerliches-recht.md) wurde am 16.10.2026 an die präzisierte Stammfassung angeglichen: Keine allgemeine Präzedenzbindung bedeutet nicht fehlende Rechtskraft oder fehlende besondere Bindung. [Paragraf 31 BVerfGG](https://www.gesetze-im-internet.de/bverfgg/__31.html) wurde dabei im amtlichen Text gelesen. Der erneute Abruf von Paragraf 322 ZPO war technisch nicht auswertbar; seine Einordnung stammt aus der übernommenen Stammfassung, nicht aus einer hier behaupteten neuen Volltextprüfung. Andere methodische Aussagen und Entscheidungsanker sind damit nicht vollständig neu verifiziert.
+Die [Methodik-Referenz](references/methodik-buergerliches-recht.md) unterscheidet die allgemeine Präzedenzbindung von der Rechtskraft einer Entscheidung und besonderen gesetzlichen Bindungen. Der dokumentierte Quellenabgleich vom 16.10.2026 umfasst den amtlichen Wortlaut von [§ 31 BVerfGG](https://www.gesetze-im-internet.de/bverfgg/__31.html). Die Einordnung des § 322 ZPO beruht auf der Stammfassung der Referenz, weil der amtliche Volltext beim Abgleich nicht verfügbar war. Für die übrigen Entscheidungsanker gelten die jeweils angegebenen Prüfstände.
 
 ## Installation in der Plugin-Umgebung
 
@@ -118,7 +118,7 @@ Die lokale [Methodik-Referenz](references/methodik-buergerliches-recht.md) wurde
 
 ## Enthaltene Skills
 
-Das Plugin umfasst inzwischen eine große, automatisch gelistete Skill-Sammlung. Die manuelle Auswahl unten zeigt die wichtigsten Einstiege; die vollständige Liste steht am Ende der README.
+Die folgende Auswahl führt zu den fachlichen Einstiegen. Am Ende der Seite steht die vollständige Skillliste.
 
 ### Praxis-Einstieg und Anwendung
 
@@ -177,13 +177,13 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 
 
-## Neue methodische Vertiefung
+## Methodenehrlichkeit und richterliche Rechtsfortbildung
 
-Ergänzt sind Spezialskills zur Methodenehrlichkeit: Gesetzesbindung, Richterrecht, historische Normzweckanalyse, objektiv-teleologische Tarnargumente, überpositive Leerformeln, Systemwechsel und die verfassungsrechtliche Grenze richterlicher Rechtsfortbildung. Die Skills arbeiten bewusst praktisch: Sie erzeugen Grenzprotokolle, Materialienmatrizen, Demokratiechecks und Schriftsatzbausteine.
+Die Spezialskills zur Methodenehrlichkeit behandeln Gesetzesbindung, Richterrecht, historische Normzweckanalyse, objektiv-teleologische Tarnargumente, überpositive Leerformeln, Systemwechsel und die verfassungsrechtliche Grenze richterlicher Rechtsfortbildung. Die Skills arbeiten bewusst praktisch: Sie erzeugen Grenzprotokolle, Materialienmatrizen, Demokratiechecks und Schriftsatzbausteine.
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **11 auswählbare Skills**. Die **141 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **11 auswählbare Skills**. Die **141 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 
@@ -239,4 +239,4 @@ English: Complete list of all 11 skills in this plugin. Both links in each row d
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Unterscheiden Sie Tatbestandswortlaut, systematische Argumente und nur vergleichbare Schutzgedanken anderer Urteile. Ein DSGVO-Urteil darf nicht ohne eigene Subsumtion zum Hochrisiko-Ergebnis führen.
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Die KI-Fachvertiefung steht als [Komponentenausgabe 445.35.2](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2) zur Verfügung.
