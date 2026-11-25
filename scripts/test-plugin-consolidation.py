@@ -159,6 +159,20 @@ class ConsolidationEditionTests(unittest.TestCase):
             with self.subTest(rollback=changed == original), self.assertRaises(ValueError):
                 previous(root, name, changed)
 
+    def test_preceding_pdf_cannot_roll_back_to_its_valid_november_15_blob(self):
+        from consolidation_editions import archived, register
+        root = Path(__file__).resolve().parents[1]
+        proof = register(root)
+        name = "testakten/krankenhausrecht-md-intensivabrechnung-halle/gesamt-pdf/krankenhausrecht-md-intensivabrechnung-halle_gesamt.pdf"
+        original = archived(root, proof, proof["preceding"][name]["before_sha256"])
+        expected = V["content_blob"](original)
+        args = (expected, root, name, proof["preceding_commit"])
+        self.assertTrue(V["same_stored_blob"](root / name, *args))
+        with tempfile.TemporaryDirectory() as tmp:
+            replaced = Path(tmp) / "gesamt.pdf"
+            replaced.write_bytes(original)
+            self.assertFalse(V["same_stored_blob"](replaced, *args))
+
     def test_archived_case_fails_when_the_pinned_register_or_archive_is_replaced(self):
         from consolidation_editions import PROOF, archived, register
         root = Path(__file__).resolve().parents[1]

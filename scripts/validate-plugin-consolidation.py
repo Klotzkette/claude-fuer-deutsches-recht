@@ -63,7 +63,7 @@ def content_blob(content: bytes) -> str:
     return hashlib.sha1(f"blob {len(content)}\0".encode() + content).hexdigest()
 
 
-def same_stored_blob(path: Path, expected: str, root: Path, name: str, baseline: str | None) -> bool:
+def same_stored_blob(path: Path, expected: str, root: Path, name: str, baseline: str | None, *, proof: dict | None = None) -> bool:
     """Vergleicht historische Bytes über einzeln nachgewiesene Fassungen oder die Fallnavigation.
 
     Ein CRLF-Checkout einer ausdrücklich als Text markierten E-Mail hat andere
@@ -71,9 +71,7 @@ def same_stored_blob(path: Path, expected: str, root: Path, name: str, baseline:
     Attribute des Ausgangscommits, nicht nachträglich gelockerte Arbeitsattribute.
     Weder automatische Binärerkennung noch beliebige Clean-Filter werden benutzt.
     """
-    if git_blob(path) == expected:
-        return True
-    proof = edition_register(root)
+    proof = edition_register(root) if proof is None else proof
     content = None
     if name in proof.get("edition", {}) or name in proof.get("preceding", {}):
         try:
@@ -83,6 +81,8 @@ def same_stored_blob(path: Path, expected: str, root: Path, name: str, baseline:
             return False
         if content_blob(content) == expected:
             return True
+    elif git_blob(path) == expected:
+        return True
     if Path(name).name == "README.md" and name.startswith("testakten/"):
         content = before_intake_links(name, path.read_bytes() if content is None else content)
         if content_blob(content) == expected:
@@ -162,6 +162,7 @@ def check(root: Path, registry: dict, inventory: dict) -> list[str]:
                 if (data.get("name"), data.get("version")) != (new, row.get("version", registry["version"])):
                     errors.append(f"{new}/{path}: gemeinsame Identität/Version stimmt nicht")
 
+    proof = edition_register(root)
     protected = inventory.get("protected_files", [])
     if not protected:
         errors.append("Leerer Akten-Erhaltungsnachweis")
@@ -174,7 +175,7 @@ def check(root: Path, registry: dict, inventory: dict) -> list[str]:
         path = inside(root, name)
         if not path.is_file():
             errors.append(f"Geschützte Akten-/Originaldatei fehlt: {name}")
-        elif not same_stored_blob(path, row["git_blob"], root, name, baseline):
+        elif not same_stored_blob(path, row["git_blob"], root, name, baseline, proof=proof):
             errors.append(f"Geschützte Akten-/Originaldatei verändert: {name}")
 
     # Die erste Konsolidierungsrunde bewahrt die ursprünglichen Einstiegstexte unter README-bestand.md.
@@ -184,9 +185,8 @@ def check(root: Path, registry: dict, inventory: dict) -> list[str]:
             continue
         check_name = name.removesuffix("README.md") + "README-bestand.md" if name in {n + "/README.md" for n in old_names} else name
         path = inside(root, check_name)
-        if not path.is_file() or not same_stored_blob(path, row["git_blob"], root, name, baseline):
+        if not path.is_file() or not same_stored_blob(path, row["git_blob"], root, name, baseline, proof=proof):
             errors.append(f"Ursprünglicher Quellbestand nicht bytegleich erhalten: {name}")
-    proof = edition_register(root)
     if not proof and set(old_names) & {"insolvenzrecht", "insolvenzforderungsanmeldungspruefung"}:
         errors.append("Erhaltungsregister für Insolvenz-Zusammenführungen fehlt")
     for name in proof.get("edition", {}):

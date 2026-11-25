@@ -7,7 +7,7 @@ noch einen Live-Modelltest und gilt ausschließlich für benannte Hauptskills.
 """
 from __future__ import annotations
 
-from consolidation_editions import previous_file, register as edition_register, retained_entries
+from consolidation_editions import previous as previous_edition, previous_file, register as edition_register, retained_entries
 
 import hashlib
 import json
@@ -643,8 +643,11 @@ def before_package_download_link(root, path, current, expected, *, plugin=None):
 def historical_bytes(root, path, expected, *, plugin=None):
     """Ein Hash passt entweder unmittelbar oder zu einer vollständig belegten Vorfassung."""
     root, path = Path(root).resolve(), Path(path).resolve()
-    current = previous_file(root, path)
-    if digest(current) == expected:
+    live = path.read_bytes()
+    current = previous_edition(root, path.relative_to(root).as_posix(), live)
+    if digest(live) == expected:
+        return live
+    if current != live and digest(current) == expected:
         return current
     from case_navigation_revision import CASES, previous_case_readme
     patent_previous = before_patentanmelder(root, path, current, plugin=plugin)

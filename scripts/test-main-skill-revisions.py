@@ -433,6 +433,15 @@ class RevisionTests(unittest.TestCase):
         report['files'][0]['original_sha256']='0'*64
         self.assertTrue(module.verify_source_map(self.root,report))
 
+    def test_consolidated_skill_supports_both_its_live_and_previous_hashes(self):
+        from consolidation_editions import previous_file
+        root = Path(__file__).resolve().parents[1]
+        relative = "insolvenzforderungen-checker/skills/forderungen-pruefen-und-tabelle-vorbereiten/SKILL.md"
+        path = root / relative
+        for content in (path.read_bytes(), previous_file(root, path)):
+            with self.subTest(expected=rev.digest(content)):
+                self.assertEqual(rev.historical_bytes(root, path, rev.digest(content)), content)
+
     def test_preview_links_reconstruct_the_original_source_map_files(self):
         repository = Path(__file__).resolve().parents[1]
         report = rev.load(repository / "quality/skill-consolidation/2026-11-14/source-map.json")

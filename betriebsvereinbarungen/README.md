@@ -63,7 +63,7 @@ Geschäftsleitung und Betriebsrat haben denselben Pilot vor Augen und brauchen e
 
 ## Einstieg
 
-Mit installiertem Plugin verwenden Sie den [Hauptskill für die Verhandlung](skills/betriebsvereinbarung-verhandeln/SKILL.md). Ohne Installation können Sie den [Schnellstart](betriebsvereinbarungen-schnellstart.md) oder die [ausführliche Werkstatt](betriebsvereinbarungen-werkstatt.md) zusammen mit Ihren Unterlagen öffnen. [Installierbares Plugin herunterladen](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/betriebsvereinbarungen.zip)
+Mit installiertem Plugin verwenden Sie den [Hauptskill für die Verhandlung](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betriebsvereinbarungen/skills/betriebsvereinbarung-verhandeln/SKILL.md). Ohne Installation können Sie den [Schnellstart](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betriebsvereinbarungen/betriebsvereinbarungen-schnellstart.md) oder die [ausführliche Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betriebsvereinbarungen/betriebsvereinbarungen-werkstatt.md) zusammen mit Ihren Unterlagen öffnen. [Installierbares Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/betriebsvereinbarungen-v1.0.0/betriebsvereinbarungen.zip)
 
 > Prüfe den Vorschlag der Geschäftsleitung aus Sicht des Betriebsrats. Zeige mir an einer konkreten Berichtsspalte, welchen Rückschluss die Teamleitung ziehen könnte. Formuliere anschließend die Schutzklausel, die offene technische Prüfung und den Beschluss, den wir für die nächste Verhandlung brauchen.
 

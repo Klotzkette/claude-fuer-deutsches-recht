@@ -487,8 +487,16 @@ def verify_source_map(repo: Path, report: dict, *, strict_links: bool = False, i
     registry_routes = {}
     if revised_routes:
         registry_path = repo / "scripts/data/skill-cap-registry.json"
-        from consolidation_editions import previous_file
-        if not registry_path.is_file() or sha(previous_file(repo, registry_path)) != report.get("registry_sha256"):
+        registry_hashes = set()
+        if registry_path.is_file():
+            from consolidation_editions import previous
+            live = registry_path.read_bytes()
+            try:
+                prior = previous(repo, "scripts/data/skill-cap-registry.json", live)
+                registry_hashes = {sha(live), sha(prior)}
+            except ValueError as exc:
+                errors.append(str(exc))
+        if report.get("registry_sha256") not in registry_hashes:
             errors.append("Registry für die fortgeschriebenen Arbeitswege fehlt oder stimmt nicht mit dem Nachweis überein")
         else:
             registry_routes = {
