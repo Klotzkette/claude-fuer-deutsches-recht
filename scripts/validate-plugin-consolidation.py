@@ -185,7 +185,7 @@ def check(root: Path, registry: dict, inventory: dict) -> list[str]:
             continue
         check_name = name.removesuffix("README.md") + "README-bestand.md" if name in {n + "/README.md" for n in old_names} else name
         path = inside(root, check_name)
-        if not path.is_file() or not same_stored_blob(path, row["git_blob"], root, name, baseline, proof=proof):
+        if not path.is_file() or not same_stored_blob(path, row["git_blob"], root, check_name, baseline, proof=proof):
             errors.append(f"Ursprünglicher Quellbestand nicht bytegleich erhalten: {name}")
     if not proof and set(old_names) & {"insolvenzrecht", "insolvenzforderungsanmeldungspruefung"}:
         errors.append("Erhaltungsregister für Insolvenz-Zusammenführungen fehlt")
