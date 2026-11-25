@@ -44,6 +44,14 @@ Für die Installation in Claude Cowork lade das gewünschte ZIP herunter und imp
 
 Für einen Vertragsentwurf zum Unternehmenskauf öffne die [ChainCortex-Akte mit leerem Asset-Deal-Vertrag und Vollzugsliste](../../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/README.md). Für die Prüfung einer angemeldeten Forderung eignet sich die [Berliner Mietkautionsakte](../../testakten/insolvenzrecht-forderungspruefung-mietkaution-berlin/README.md). Liegt eine Grundakte vor, beginne mit den Eingangsunterlagen. Weitere Verfahrensunterlagen kannst du im Verlauf hinzunehmen.
 
+Diese Fälle verbinden Insolvenzrecht mit anderen Rechtsgebieten.
+
+- Prüfe, welche der drei Marken die Sicherungsabrede erfasst und was die Insolvenzverwalterin auf die Erwerberin übertragen kann. [Rheinpuls Audio – Markenrechte in Mannheim](../../testakten/markenrechte-sicherungsuebertragung-insolvenz-mannheim/README.md)
+- Kläre, wer über den Programmcode verfügen darf und wem die Zahlungen der Lizenzkunden zustehen. [Kurpfalz Taxware – Software als Kreditsicherheit](../../testakten/kurpfalz-taxware-software-ip-insolvenz/README.md)
+- Ordne Filmherstellerrechte, Nutzungsrechte, Lizenzforderungen und die Datenträger mit dem Filmmaterial den jeweiligen Sicherheiten zu. [Die letzte Rieslingspur – Filmrechte in Schwetzingen](../../testakten/filmrechte-sicherungsuebertragung-insolvenz-schwetzingen/README.md)
+- Rekonstruiere den Eintritt der Insolvenzreife und prüfe die strafrechtlichen Vorwürfe zur Antragstellung und Buchführung. [LUMEN Studios – Insolvenzstrafverfahren](../../testakten/lumen-studios-insolvenz-strafverfahren/README.md)
+- Prüfe die Steuerbefreiung des Sanierungsertrags und die Bedeutung des Feststellungsantrags nach der Planbestätigung. [Grossbach Druckguss – Steuerfragen im Erfurter Insolvenzplan](../../testakten/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026/README.md)
+
 [Grundakten nach Fachgebiet](../../docs/grundakten-lebenswelt/Fachakten.md#insolvenzrecht) · [Werkstatt- und Mini-Prompts](../../docs/werkstatt-und-schnellstart-coverage.md) · [Verzeichnis der Fachskills](../../SKILLS.md)
 
 ## Herkunft und Prüfung

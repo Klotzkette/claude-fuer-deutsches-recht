@@ -106,6 +106,14 @@ PROMPT_BRANDS: tuple[str, ...] = (
 # Nur Leerraum wird normalisiert, damit ein Zeilenumbruch keine neue Prüfung
 # erzwingt. Rechtsfehler und generische Rollenwerbung bleiben immer gesperrt.
 REVIEWED_BRAND_PARAGRAPHS: dict[str, dict[str, str]] = {
+    "betriebsvereinbarungen/betriebsvereinbarungen-werkstatt.md": {
+        "37c05215a8f58e40ee2ddd901d891ab5e3955a5a91bd8b5dcb9771bc75c0aaef": "Die konkreten Produkte, Lizenzen und Zugriffe sind Gegenstand der Verhandlung.",
+        "d596d8f56785c4dc379ec6dd2bac841398311ff1f901e7d592fc65736914b6b0": "Datenschutz- und Berichtsprüfung anhand der konkreten Dienstfunktionen und Berechtigungen der Systemverwaltung.",
+        "7d884cb01c8c9b092ef6a850eaea979ff1349aa412995b50ce2beae621ab7300": "Arbeitsauftrag zur Reidentifizierung im tatsächlich bereitgestellten Übungsfall.",
+    },
+    "betriebsvereinbarungen/betriebsvereinbarungen-schnellstart.md": {
+        "625955aeabead6cfd160c990889437afe70bdfa2efb58e45fd380ae4ecc672f6": "Überschrift des Startauftrags zur konkreten Übungsakte.",
+    },
     "jugendmedienschutz-und-medienangebote/jugendmedienschutz-und-medienangebote-werkstatt.md": {
         "982b7d970744bd80e5ae422ecc63ba035b2bae762ff1b64ddf18af6b20e2a1ae": "Tatsächlich verfügbare Dokument- und Appletfunktionen prüfen; der Produktname begründet keine Fähigkeit, eine gleichwertige Textausgabe bleibt möglich.",
     },

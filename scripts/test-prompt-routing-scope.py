@@ -30,6 +30,17 @@ def main() -> int:
     audit_spec = importlib.util.spec_from_file_location("routing_source_audit", SCRIPT.with_name("audit-prompt-profile-routing.py"))
     audit = importlib.util.module_from_spec(audit_spec)
     audit_spec.loader.exec_module(audit)
+
+    betriebsrat = profile_for("betriebsvereinbarungen")
+    require(betriebsrat.key == "betriebsvereinbarungen", "Betriebsvereinbarungen verlieren ihr Verhandlungsprofil")
+    require(any("Geltungsbereich" in step for step in betriebsrat.stationen), "Entwurf der Regelungen fehlt")
+    for kind in ("schnellstart", "werkstatt"):
+        relative = f"betriebsvereinbarungen/betriebsvereinbarungen-{kind}.md"
+        content = (SCRIPT.parents[1] / relative).read_text(encoding="utf-8")
+        require("Copilot" in content and not audit.prompt_anchor_problems(content, relative),
+                f"Fachlicher Produktbezug wird verworfen: {relative}")
+        require(audit.prompt_anchor_problems(content + "\n\nCopilot ist immer erforderlich.", relative),
+                f"Ungeprüfte Markenaussagen durchbrechen die Absatzbindung: {relative}")
     with TemporaryDirectory() as temporary:
         root = Path(temporary)
         old = root / "probe" / "skills" / "fachthema" / "SKILL.md"

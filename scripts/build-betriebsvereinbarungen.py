@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Baut Copilot-Verhandlungsakte, ausfüllbare Arbeitsvorlagen und Plugin-Paket."""
 import argparse
+import csv
 import io
 import json
 from importlib import import_module
@@ -39,6 +40,19 @@ def render_forms():
     return forms
 
 
+def report_csv(doc):
+    """Schreibt je Datenzeile einen Satz mit einzeiligem Herkunftsvermerk."""
+    table = doc["tabelle"]
+    output = io.StringIO(newline="")
+    writer = csv.writer(output, delimiter=";", lineterminator="\r\n")
+    writer.writerow([*table[0], "Exportvermerk"])
+    provenance = " · ".join(" ".join(text.splitlines()) for text in DOCUMENTS.body(doc))
+    for index, row in enumerate(table[1:]):
+        cells = [" ".join(value.splitlines()) if isinstance(value, str) else value for value in row]
+        writer.writerow([*cells, provenance if index == 0 else ""])
+    return output.getvalue().encode("utf-8-sig")
+
+
 def render_case():
     case = read_data(CASE)
     native, printed = {}, {}
@@ -50,7 +64,7 @@ def render_case():
         pdf_member = str(Path(member).with_suffix(".pdf"))
         if phase not in PHASES or "/" in name or member in native or pdf_member in printed:
             raise ValueError("Ungültiger Aktenpfad: " + member)
-        native[member] = DOCUMENTS.native(doc, case, name, None)
+        native[member] = report_csv(doc) if name.endswith(".csv") else DOCUMENTS.native(doc, case, name, None)
         if phase == "Grundakte":
             check_intake_member(name, native[member])
         printed[pdf_member] = DOCUMENTS.reading(doc, case, name, None)

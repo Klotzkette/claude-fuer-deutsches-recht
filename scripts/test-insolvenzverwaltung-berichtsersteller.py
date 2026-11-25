@@ -236,9 +236,11 @@ class BerichtserstellerTest(unittest.TestCase):
         nordlicht = ROOT / "testakten" / CASES[1]
         for name in ("27_zwischenbericht_nr_14_31-12-2023.docx", "28_schlussrechnung_kontenabstimmung_15-03-2024.xlsx", "29_freigabevermerk_abschluss_18-03-2024.docx", "31_vollzugsprotokoll_schlussverteilung_24-04-2024.docx", "33_nachtragsverteilung_steuerzins_20-10-2024.docx"):
             self.assertTrue((nordlicht / name).is_file(), name)
-        self.assertFalse((nordlicht / "Insolvenzakte_Nordlicht_Handels_GmbH.pdf").exists())
+        obsolete_pdf = "Insolvenzakte_Nordlicht_Handels_GmbH.pdf"
+        self.assertFalse((nordlicht / obsolete_pdf).exists())
         nordlicht_readme = (nordlicht / "README.md").read_text()
-        for marker in ("Führende Fassung", "23,627320 %", "nicht mehr Bestandteil"):
+        self.assertNotIn(obsolete_pdf, nordlicht_readme)
+        for marker in ("Führende Fassung", "23,627320 %", "datierte", "Einzelberichte", "Verfahrensuebersicht.docx"):
             self.assertIn(marker, nordlicht_readme)
         self.assertEqual(len(document_arcname_pairs(nordlicht)), 53)
         self.assertEqual(yaml.safe_load((nordlicht / "rubric.yaml").read_text())["plugin"], NAME)

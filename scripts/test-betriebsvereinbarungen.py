@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Abnahme der tatsächlich ausgelieferten Copilot-Verhandlungsakte und Arbeitsvorlagen."""
+import csv
 import io
 import json
 import unittest
@@ -35,6 +36,18 @@ class BetriebsvereinbarungenTest(unittest.TestCase):
                 mail = BytesParser(policy=policy.default).parsebytes(archive.read(name))
                 self.assertIsNotNone(mail["Date"])
                 self.assertTrue(mail.get_body(preferencelist=("plain",)).get_content().strip())
+
+    def test_csv_hat_einen_datensatz_pro_zeile(self):
+        name = "12_musterbericht.csv"
+        source = next(doc for doc in build.read_data(build.CASE)["dokumente"] if doc["datei"] == name)
+        lines = (case / "Nachreichungen" / name).read_text(encoding="utf-8-sig").splitlines()
+        self.assertEqual(len(lines), len(source["tabelle"]))
+        for index, (line, expected) in enumerate(zip(lines, source["tabelle"], strict=True)):
+            row, = csv.reader([line], delimiter=";", strict=True)
+            self.assertEqual(row[:-1], list(map(str, expected)))
+            if index == 1:
+                self.assertIn(source["titel"], row[-1])
+                self.assertIn(source["text"][0], row[-1])
 
     def test_lesefassungen_enthalten_dieselben_aktenstuecke_in_reihenfolge(self):
         expected = [name for _, name in document_arcname_pairs(case)]

@@ -15,6 +15,21 @@ import quality_lab as lab
 import werkstatt_visualisierung as visual
 
 
+class ArchivierteQualitaetsprofile(unittest.TestCase):
+    def test_beide_abgeloesten_insolvenzprofile_bleiben_unveraendert_lesbar(self):
+        # Prüfsummen der letzten aktiven Profilfassungen vor der Zusammenführung.
+        expected = {
+            "insolvenzrecht": "fa638aacdbe7a884cf89174c778bc82d6e2a179b7b65a535331bc7ef5086a1a5",
+            "insolvenzforderungsanmeldungspruefung": "e4c852f275dd3020dccf739f3d7ea677057f4166a94c2a8abb96d9b27aa4a269",
+        }
+        folder = lab.ROOT / "quality/plugin-consolidation/2026-11-25/legacy-evals"
+        for plugin, digest in expected.items():
+            with self.subTest(plugin=plugin):
+                data = (folder / f"{plugin}.json").read_bytes()
+                self.assertEqual(lab.digest(data), digest)
+                self.assertEqual(json.loads(data)["plugin"], plugin)
+
+
 class QualityLabTests(unittest.TestCase):
     def test_invalid_workshop_review_cannot_bypass_validation(self):
         for review in ([], "reviewed", {}, {"verdict": "retained", "reason": "Geprüft", "sha256": "0" * 64}):
