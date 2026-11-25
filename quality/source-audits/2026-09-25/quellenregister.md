@@ -2528,7 +2528,7 @@ Dieser Bericht ergänzt den [Umfang und die Grenzen der Prüfung](README.md). Di
 
 ## 1.113. insolvenzforderungsanmeldungspruefung
 
-[Plugin-README](../../../insolvenzforderungsanmeldungspruefung/README.md) · [Qualitätsprofil](../../evals/insolvenzforderungsanmeldungspruefung.json)
+[Plugin-README](../../../insolvenzforderungsanmeldungspruefung/README.md) · [Qualitätsprofil](../../plugin-consolidation/2026-11-25/legacy-evals/insolvenzforderungsanmeldungspruefung.json)
 
 ### 1.113.1. BGH, Urteil vom 25.06.2020, IX ZR 47/19, Rn. 10–27
 
@@ -2560,7 +2560,7 @@ Dieser Bericht ergänzt den [Umfang und die Grenzen der Prüfung](README.md). Di
 
 ## 1.115. insolvenzrecht
 
-[Plugin-README](../../../insolvenzrecht/README.md) · [Qualitätsprofil](../../evals/insolvenzrecht.json)
+[Plugin-README](../../../insolvenzrecht/README.md) · [Qualitätsprofil](../../plugin-consolidation/2026-11-25/legacy-evals/insolvenzrecht.json)
 
 ### 1.115.1. BGH, Urteil vom 23.01.2025, IX ZR 229/22, Rn. 34–45
 
