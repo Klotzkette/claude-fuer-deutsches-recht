@@ -60,7 +60,9 @@ jobs:
           python3 -m pip install -r requirements.txt
       - name: Vergabestellen-Akten und installierbares Paket prüfen
         if: contains(fromJSON('["qualitaetsrunde-v445.36.12","qualitaetsrunde-v445.36.13","qualitaetsrunde-v445.36.15"]'), inputs.tag)
-        run: python3 scripts/test-interstate-testakten.py
+        run: |
+          python3 scripts/build-interstate-testakten.py --check
+          python3 scripts/test-interstate-testakten.py
       - name: Patentanmelder-Ausgabe mit drei vollständigen Offline-Akten prüfen
         if: inputs.tag == 'qualitaetsrunde-v445.36.14'
         run: |
