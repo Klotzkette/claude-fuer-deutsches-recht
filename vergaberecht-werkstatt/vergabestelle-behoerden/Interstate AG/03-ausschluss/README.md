@@ -50,7 +50,7 @@ Beginnen Sie mit diesen Unterlagen.
 
 ## Eingaben prüfen
 
-Was beantragt der Absender, was lässt sich anhand der Akte belegen und was bleibt offen? Nutzen Sie die Nachreichungen in der zweiten Bearbeitungsrunde. Den [Prüfbogen für Einwendungen](../Einwendungen-Pruefbogen.xlsx?raw=true) können Sie für jeden Vorgang ausfüllen.
+Was beantragt der Absender, was lässt sich anhand der Akte belegen und was bleibt offen? Nutzen Sie die Nachreichungen in der zweiten Bearbeitungsrunde. Den [Prüfbogen für Einwendungen](../Einwendungen-Pruefbogen.xlsx) können Sie für jeden Vorgang ausfüllen.
 
 | Eingabe | Unterlage zur Gegenprüfung |
 | --- | --- |

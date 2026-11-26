@@ -465,7 +465,7 @@ def make_case(case, slug):
     readme.extend(["", "## Eingaben prüfen", "",
                    "Was beantragt der Absender, was lässt sich anhand der Akte belegen und was bleibt offen? "
                    "Nutzen Sie die Nachreichungen in der zweiten Bearbeitungsrunde. "
-                   f"Den [Prüfbogen für Einwendungen](../{PRUEFBOGEN}?raw=true) können Sie für jeden Vorgang ausfüllen.",
+                   f"Den [Prüfbogen für Einwendungen](../{PRUEFBOGEN}) können Sie für jeden Vorgang ausfüllen.",
                    "", "| Eingabe | Unterlage zur Gegenprüfung |", "| --- | --- |"])
     for filing, evidence in filing_pairs(case, slug):
         readme.append(f"| {filing_link(filing)} | {filing_link(evidence)} |")

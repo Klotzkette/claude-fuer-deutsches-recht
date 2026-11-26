@@ -140,7 +140,7 @@ class InterstateAktenTests(unittest.TestCase):
         pairs = case["einwendungspruefung"]
         self.assertTrue(pairs)
         review = readme.split("## Eingaben prüfen\n", 1)[1].split("\n## ", 1)[0]
-        self.assertIn(f"(../{FORM}?raw=true)", review)
+        self.assertIn(f"(../{FORM})", review)
         documents = {row["datei"]: row for row in rows}
         for pair in pairs:
             self.assertNotEqual(pair["eingabe"], pair["gegenpruefung"])
