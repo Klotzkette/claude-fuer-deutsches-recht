@@ -3,7 +3,7 @@
   "zeichen": "DI-W/26-031",
   "einstieg": "Auf dem Angebotsblatt steht „96 Stunden eingehalten“. Das beigelegte Datenblatt verspricht für die Grundausführung 72 Stunden. Nach einem Unwetter muss das Messnetz Kiebitzrinne vier Tage ohne Zugang zu den Stationen auskommen. Der günstigste Bieter liegt 15.600 Euro vor dem nächsten. Am 9. September liegt der Vorgang erstmals beim Rechtsdienst.",
   "auftrag": "Prüfen Sie für die Vergabeleitung den ungezeichneten Ausschlussvermerk des Messnetzbetriebs vom 9. September. Gleichen Sie das ausgegebene Bieter-LV mit dem eingereichten Preisblatt W-668 und Formblatt T ab. Belegen die Preise eine bestimmte Akkubestückung? Arbeiten Sie nötige Korrekturen in denselben Vermerk ein und geben Sie zum Stichtag eine begründete Empfehlung ab. Behandeln Sie den Umsatznachweis, die technische Aufklärung und die Rangfolge getrennt. Legen Sie die nächste Bieterkorrespondenz, den möglichen Entscheidungstermin und den für eine andere Beurteilung entscheidenden Beleg bei.",
-  "nachreichung": "Öffnen Sie danach die drei Eingänge vom 10. und 11. September. Führen Sie denselben Vermerk fort. Ordnen Sie die belegte frühere Produktkonfiguration, die nachträglich angebotene Zusatzbatterie und die inzwischen eingegangene Beanstandung jeweils dem zutreffenden Verfahrensschritt zu. Arbeiten Sie die Konsequenzen für alle Bieter und die weitere Kommunikation aus.",
+  "nachreichung": "Öffnen Sie danach die drei Eingänge vom 10. und 11. September. Führen Sie denselben Vermerk fort. Ordnen Sie die belegte frühere Produktkonfiguration, die nachträglich angebotene Zusatzbatterie und die inzwischen eingegangene Beanstandung jeweils dem zutreffenden Verfahrensschritt zu. Arbeiten Sie die Konsequenzen für alle Bieter und die weitere Kommunikation aus. Prüfen Sie anschließend die versandte Vorabinformation und die beiden Beanstandungen der Flutzeichen. Legen Sie eine Fristennotiz mit Versand, Eingang, möglichem Fristbeginn und frühestem zulässigem Zuschlag vor. Halten Sie die Antwort auf den Einwand und die vorerst zu treffende Entscheidung über die Zuschlagsfreigabe getrennt fest.",
   "quellen": [
     [
       "GWB § 97 · Wettbewerb, Transparenz und Gleichbehandlung",
@@ -36,7 +36,12 @@
     [
       "EuGH, 11.05.2017, C-131/16, Archus und Gama · Aufklärung und Austausch eines ursprünglich eingereichten Musters im damaligen Sektorenrecht",
       "https://op.europa.eu/de/publication-detail/-/publication/962a0cba-3624-11e7-a08e-01aa75ed71a1/language-de"
-    ]
+    ],
+    ["§ 169 GWB – Wirkungen der Nachprüfung", "https://www.gesetze-im-internet.de/gwb/__169.html"]
+  ],
+  "einwendungspruefung": [
+    {"eingabe": "11_bieterstellungnahme.eml", "gegenpruefung": "10_schluesselkarte.docx"},
+    {"eingabe": "13_ruege_zuschlagstermin.eml", "gegenpruefung": "14_versandjournal_w668.txt"}
   ],
   "dokumente": [
     {
@@ -389,6 +394,50 @@
       "absender": "f.reuter@flutzeichen.example",
       "empfaenger": "vergabe@interstate-west.example",
       "uhrzeit": "10:42"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "12_vorabinformation_entscheidung.eml",
+      "titel": "Vorabinformation für Flutzeichen · Lieferverfahren Pegelstationen",
+      "datum": "2026-09-15",
+      "von": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "an": "Fatma Reuter · Flutzeichen Messtechnik GmbH, Vertrieb",
+      "text": [
+        "Die Vergabestelle beabsichtigt, den Zuschlag der Uferpuls Instrumente KG zu erteilen. Ihr Angebot vom 7. September wurde für die Zuschlagserteilung nicht berücksichtigt. Der eingetragene Bestellschlüssel P16/07 bezeichnet nach der vorgelegten Schlüsselkarte einen bestückten Einschub. Für die geforderte Laufzeit brauchen die Stationen nach Ihrem Produktblatt zwei bestückte Einschübe. Eine der Abgabe vorausgehende Sonderstückliste für W-668 liegt uns nicht vor. Die nachgereichte Umsatzangabe E3 wurde bei der Entscheidung berücksichtigt und ist kein Ausschlussgrund.",
+        "Als frühesten Zuschlagstermin hat unser System den 25. September 2026 eingetragen. Ein Auftrag ist noch nicht erteilt. Dies ist die elektronische Information der Vergabestelle an Ihr Unternehmen. Die bereits eingegangene Nachricht vom 11. September befindet sich in der Akte.",
+        "Mara Ilg"
+      ],
+      "absender": "vergabe@interstate-west.example",
+      "empfaenger": "f.reuter@flutzeichen.example",
+      "uhrzeit": "16:20"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "13_ruege_zuschlagstermin.eml",
+      "titel": "Rüge zur Vorabinformation und zum vorgemerkten Zuschlagstermin",
+      "datum": "2026-09-16",
+      "von": "Fatma Reuter · Flutzeichen Messtechnik GmbH, Vertrieb",
+      "an": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "text": [
+        "Unsere Vertriebsleitung hat die Vorabinformation heute Morgen im Bieterpostfach geöffnet. Wir beanstanden den dort genannten 25. September als zu früh. Bitte teilen Sie uns nach Prüfung den berichtigten frühesten Zuschlagstermin mit und lassen Sie bis dahin den Auftrag offen.",
+        "Unsere Beanstandung vom 11. September halten wir aufrecht. Damals boten wir P16/07-D nur hilfsweise an. In der Sache bitten wir um erneute Prüfung, ob das vor Fristende verbindlich mit „ja“ ausgefüllte Formblatt T zusammen mit dem Preisblatt eine vollständige Zusage enthält. Ein eigens ausgewiesener Preis für den zweiten Einschub war im Bieter-LV nicht vorgesehen. Haben Sie die Erklärung vom 11. bereits als Rüge behandelt? Wir behalten uns einen Antrag bei der Vergabekammer vor.",
+        "Fatma Reuter"
+      ],
+      "absender": "f.reuter@flutzeichen.example",
+      "empfaenger": "vergabe@interstate-west.example",
+      "uhrzeit": "08:44"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "14_versandjournal_w668.txt",
+      "titel": "Vergabeplattform · Versand- und Eingangsquittungen W-668",
+      "datum": "2026-09-16",
+      "von": "Lennart Birke · Submissionsdienst West",
+      "an": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "text": [
+        "Alle Zeiten MESZ. 11.09., 10:42:11: Nachricht von Flutzeichen zur technischen Konfiguration im Verfahrenspostfach eingegangen. 15.09., 16:20:06: individuelle Vorabinformation an Flutzeichen elektronisch abgesandt und im Firmenpostfach bereitgestellt. 16:20:09: Benachrichtigung an die registrierte Adresse übergeben. Das Postfach war durchgehend verfügbar. 16.09., 08:17:20: erste Öffnung mit Firmenkonto Flutzeichen.",
+        "16.09., 08:44:18: zweite Nachricht von Flutzeichen eingegangen. 08:47:02: der Sachbearbeitung zugeordnet. Stand 09:10 Uhr zeigt der Fristenkalender den vorgemerkten Zuschlag am 25.09. um 09:00 Uhr. Bis dahin erfasst das Journal ausschließlich Vorabinformationen und keine Bestellung. Eine gesonderte Abhilfeentscheidung oder Übermittlung eines Nachprüfungsantrags durch eine Vergabekammer ist zum Abrufzeitpunkt nicht verzeichnet."
+      ]
     }
   ]
 }

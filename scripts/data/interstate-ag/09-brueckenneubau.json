@@ -1,0 +1,682 @@
+{
+  "titel": "Neubau der Riedangerbrücke – Zuschlagsentscheidung für die Straßenanschlüsse",
+  "zeichen": "DI-W/BR-26-119",
+  "einstieg": "Die Deutsche Interstate AG, Niederlassung West, will eine Brücke mit zwei Straßenanschlüssen bauen. Rohbau, Anschlüsse und Schutzeinrichtungen sind getrennt ausgeschrieben. Ein Straßenbaubetrieb wollte nur den kompakten Ostanschluss anbieten. Die Bieterin auf Rang zwei des Anschlussloses hält dagegen die Wertung der Bauzeit für fehlerhaft. Am 9. November liegt ihr als Widerspruch bezeichnetes Schreiben bei der Vergabestelle. Keines der Lose ist vergeben. Vorhaben, Unternehmen, Personen und Verfahrensaktenzeichen sind fiktiv.",
+  "auftrag": "Bereiten Sie für die Leitung den Vermerk zur Zuschlagsreife von Los B und zwei getrennte Antwortentwürfe vor. Rekonstruieren Sie für jeden Absender, was er verlangt, was er wann wissen konnte und was bis zum jeweiligen Aktenstand belegt ist. Prüfen Sie die regionale Teilbarkeit der Anschlüsse anhand des LV, der Bauabschnitte und ihrer Übergaben. Rechnen Sie die bekannt gemachte Wertung für beide Angebote nach. Halten Sie fest, welche Originalunterlagen zur Prüfung der Zeitangebote fehlen. Bestimmen Sie Zuständigkeit, maßgebliche Fristen und die Folgen für jedes betroffene Los.",
+  "nachreichung": "Bearbeiten Sie zunächst die Auszüge aus den Angebotscontainern und das Ereignisjournal vom 10. November. Tragen Sie beide Zeitangaben mit ihren Quellen in die Wertung ein und erläutern Sie, was aufgeklärt oder korrigiert werden könnte. Führen Sie die Fristenakte nach dem Schreiben vom 12. November weiter. Ordnen Sie am 16. November nacheinander die Nachricht der Bieterin und die Unterrichtung der Kammer ein. Vermerken Sie für die Zuschlagsstelle den jeweils dokumentierten Stand und entwerfen Sie eine Stellungnahme mit Aktenverzeichnis und Vorschlag zum Umgang mit geschützten Geschäftsdaten. Eine Kammerentscheidung steht aus.",
+  "quellen": [
+    [
+      "§ 97a GWB – Vergabe nach Losen",
+      "https://www.gesetze-im-internet.de/gwb/__97a.html"
+    ],
+    [
+      "§ 99 GWB – öffentliche Auftraggeber",
+      "https://www.gesetze-im-internet.de/gwb/__99.html"
+    ],
+    [
+      "§ 127 GWB – Zuschlag",
+      "https://www.gesetze-im-internet.de/gwb/__127.html"
+    ],
+    [
+      "§ 134 GWB – Information und Wartepflicht",
+      "https://www.gesetze-im-internet.de/gwb/__134.html"
+    ],
+    [
+      "§ 159 GWB – Abgrenzung der Zuständigkeit der Vergabekammern",
+      "https://www.gesetze-im-internet.de/gwb/__159.html"
+    ],
+    [
+      "§ 160 GWB – Antrag, Antragsbefugnis und Rüge",
+      "https://www.gesetze-im-internet.de/gwb/__160.html"
+    ],
+    [
+      "§ 165 GWB – Akteneinsicht",
+      "https://www.gesetze-im-internet.de/gwb/__165.html"
+    ],
+    [
+      "§ 169 GWB – Aussetzung des Vergabeverfahrens",
+      "https://www.gesetze-im-internet.de/gwb/__169.html"
+    ],
+    [
+      "§ 187 GWB – Übergangsbestimmungen",
+      "https://www.gesetze-im-internet.de/gwb/__187.html"
+    ],
+    [
+      "§ 2 VgV – Vergabe von Bauaufträgen",
+      "https://www.gesetze-im-internet.de/vgv_2016/__2.html"
+    ],
+    [
+      "§ 3 VgV – Schätzung des Auftragswerts",
+      "https://www.gesetze-im-internet.de/vgv_2016/__3.html"
+    ],
+    [
+      "Delegierte Verordnung (EU) 2025/2152 – Bauaufträge 2026 und 2027",
+      "https://op.europa.eu/o/opportal-service/download-handler?identifier=ed53995b-afac-11f0-b37f-01aa75ed71a1&format=pdf&language=de&productionSystem=cellar&part="
+    ],
+    [
+      "VOB/A, Abschnitt 2 (2026) – Verfahrensunterlagen, Angebotsprüfung und Wertung",
+      "https://bundesanzeiger.de/pub/publication/73xO0rpP1jfX5HRt0Ja/content/73xO0rpP1jfX5HRt0Ja/BAnz%20AT%2024.08.2026%20B6.pdf?inline="
+    ]
+  ],
+  "dokumente": [
+    {
+      "phase": "Grundakte",
+      "datei": "01_losplanung.docx",
+      "titel": "Projektfreigabe und Losvermerk Riedanger",
+      "datum": "2026-09-17",
+      "von": "Gesa Roll · Projektleitung Riedanger, Deutsche Interstate AG",
+      "an": "Kian Loh · Leitung Einkauf, Deutsche Interstate AG, NL West",
+      "text": [
+        "Der Bund hält sämtliche Aktien der Deutschen Interstate AG, finanziert ihre Aufgaben und bestimmt den Aufsichtsrat. Die AG baut und unterhält Bundesfernstraßen im Allgemeininteresse ohne eigenes gewerbliches Absatzrisiko. Sie vergibt und bezahlt die Bauaufträge für den Neubau selbst. Das Vorhaben wird aus dem regulären Bundeshaushalt finanziert. Ein Mittelabruf aus einem Sondervermögen ist nicht vorgesehen.",
+        "Die Kostenberechnung für die Brücke und ihre Anschlüsse ergibt 9.560.000 Euro netto. Auf Los A Brückenrohbau entfallen 6.920.000 Euro, auf Los B Straßenanschlüsse 1.850.000 Euro und auf Los C Fahrzeugrückhaltesysteme und Geländer 790.000 Euro. Es gibt keine Bauoptionen. Für die Planung besteht bereits ein eigener Vertrag. Beim Schwellenwertvergleich für Bauleistungen hat der Einkauf für 2026 einen Wert von 5.404.000 Euro netto eingetragen.",
+        "Die Anschlüsse West und Ost lassen sich getrennt einrichten. In Ost ist die Straße kürzer und schließt direkt an einen vorhandenen Zubringer an. Der Terminplan sieht zwischen West und Ost zwei Wochen Überlappung vor. Die Projektleitung will beide Abschnitte aus einer Hand, weil sie nur eine Bauüberwachung für die Material- und Terminabstimmung bestellt hat. Wie viel zusätzliche Koordination zwei Bauunternehmen erfordern würden, ist noch nicht beziffert.",
+        "Los A stellt die Anschlussflächen getrennt zum vereinbarten Termin frei. Los B gibt beide Anschlussbereiche mit gemeinsamer Schlussmeldung an Los C weiter. Ob zwei abschnittsweise Abnahmen hierfür ausreichen, soll die Projektleitung mit der Bauüberwachung besprechen. Eine Markterkundung zur Leistungsfähigkeit kleinerer Straßenbaubetriebe liegt der Vorlage nicht bei. Die Leitung hat die Ausschreibung in drei Losen freigegeben."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "02_bekanntmachung_und_wertung.docx",
+      "titel": "Bekanntmachung und Wertungsbedingungen für Los B",
+      "datum": "2026-09-21",
+      "von": "Martha Jost · Vergabestelle, Deutsche Interstate AG, NL West",
+      "an": "Interessierte Unternehmen",
+      "text": [
+        "Auszug aus der EU-Bekanntmachung DI-W/BR-26-119 vom 21. September und den zeitgleich elektronisch bereitgestellten Vergabeunterlagen. Das offene Verfahren beginnt mit Absendung der Bekanntmachung an diesem Tag. Angebote sind elektronisch bis Dienstag, 27. Oktober 2026, 10.00 Uhr Ortszeit einzureichen. Bindefrist für alle Lose bis einschließlich 18. Dezember 2026. Zuständige Nachprüfungsstelle ist in der Bekanntmachung als Vergabekammer des Bundes benannt.",
+        "Die Vergabestelle nimmt Angebote für ein, zwei oder alle drei Lose entgegen und erteilt je Los einen eigenen Zuschlag. Für Los B müssen beide Anschlussbereiche bepreist werden. Nebenangebote sind ausgeschlossen. Ob ein Unternehmen Los A oder C erhält, beeinflusst die Rangfolge für Los B nicht.",
+        "Der Nettopreis zählt bis zu 85 Punkte. Der niedrigste wertbare Nettopreis erhält 85, jeder andere 85 mal niedrigster wertbarer Nettopreis geteilt durch seinen eigenen Preis. Das Zeitangebot zählt bis zu 15 Punkte. Für jeden verbindlich angebotenen Kalendertag unter der vorgesehenen Ausführungsfrist von 42 Kalendertagen gibt es 1,5 Punkte. Bewertbar sind null bis zehn Tage. Punkte werden ohne Zwischenrundung addiert. Die Darstellung erfolgt auf zwei Nachkommastellen.",
+        "Maßgeblich ist die verbindliche Tageszahl im Formblatt B-Z. Die Frist läuft von der gemeinsamen schriftlichen Freigabe beider Anschlussflächen bis zur abnahmebereiten Übergabe beider Bereiche an Los C. Im ergänzenden Ablaufkonzept soll der Bieter seine Organisation erläutern. Die vertragliche Tageszahl ist im Formblatt einzutragen."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "03_lv_strassenanschluesse.xlsx",
+      "titel": "Bieter-LV Los B · Leistungen West und Ost",
+      "datum": "2026-09-21",
+      "von": "Gesa Roll · Projektleitung Riedanger, Deutsche Interstate AG",
+      "an": "Bieter für Los B",
+      "text": [
+        "Unbepreistes Angebotsblatt. Tragen Sie Netto-Einheitspreise für alle Positionen ein. An den Abschnittskennzeichen lassen sich die Positionen den beiden Baufeldern zuordnen. West und Ost bilden nach den Vergabeunterlagen zusammen das Zuschlagslos B.",
+        "Jeder Abschnitt enthält eine eigene Verkehrsführung und eine eigene Übergabedokumentation. Der Rohbau stellt die Anschlussflächen bereit. Die Montage der Geländer und der Rückhaltesysteme vergütet der Auftraggeber in Los C. Die gemeinsame Übergabemeldung an Los C ist mit den beiden Dokumentationspositionen abgegolten."
+      ],
+      "tabelle": [
+        [
+          "Pos.",
+          "Abschnitt",
+          "Leistung",
+          "Menge",
+          "Einheit",
+          "EP netto EUR",
+          "GP netto EUR"
+        ],
+        [
+          "B01",
+          "West",
+          "Verkehrsführung einrichten und räumen",
+          1,
+          "pauschal",
+          null,
+          null
+        ],
+        [
+          "B02",
+          "West",
+          "Tragschicht im Anschlussbereich herstellen",
+          4700,
+          "m²",
+          null,
+          null
+        ],
+        [
+          "B03",
+          "West",
+          "Asphaltoberbau liefern und einbauen",
+          4700,
+          "m²",
+          null,
+          null
+        ],
+        [
+          "B04",
+          "West",
+          "Seitenräume profilieren und begrünen",
+          2400,
+          "m²",
+          null,
+          null
+        ],
+        [
+          "B05",
+          "West",
+          "Bestandsaufnahme und Übergabe dokumentieren",
+          1,
+          "pauschal",
+          null,
+          null
+        ],
+        [
+          "B06",
+          "Ost",
+          "Verkehrsführung einrichten und räumen",
+          1,
+          "pauschal",
+          null,
+          null
+        ],
+        [
+          "B07",
+          "Ost",
+          "Tragschicht im Anschlussbereich herstellen",
+          2900,
+          "m²",
+          null,
+          null
+        ],
+        [
+          "B08",
+          "Ost",
+          "Asphaltoberbau liefern und einbauen",
+          2900,
+          "m²",
+          null,
+          null
+        ],
+        [
+          "B09",
+          "Ost",
+          "Seitenräume profilieren und begrünen",
+          1150,
+          "m²",
+          null,
+          null
+        ],
+        [
+          "B10",
+          "Ost",
+          "Bestandsaufnahme und Übergabe dokumentieren",
+          1,
+          "pauschal",
+          null,
+          null
+        ]
+      ],
+      "lv": {
+        "menge": "Menge",
+        "einheitspreis": "EP netto EUR",
+        "gesamtpreis": "GP netto EUR"
+      }
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "03a_lv_brueckenbau.xlsx",
+      "titel": "Bieter-LV Los A · Riedangerbrücke",
+      "datum": "2026-09-21",
+      "von": "Gesa Roll · Projektleitung Riedanger, Deutsche Interstate AG",
+      "an": "Interessierte Bauunternehmen",
+      "text": [
+        "Mit Los A beauftragt die Vergabestelle den Brückenbau bis zur Herstellung anschlussfähiger Übergabeflächen. Die Ausführungsplanung und die Bauüberwachung stellt die Auftraggeberin. Bieter tragen ihre Nettopreise für das Bauwerk ein. Für die Ablaufplanung der Anschlüsse sind die getrennte Übergabe West/Ost und eine gemeinsame schriftliche Freigabe an Los B vorgesehen.",
+        "Das Preisblatt bildet die Hauptleistungsgruppen des Übungsprojekts ab. Die vertraglichen Mengeneinheiten unterscheiden Arbeiten am Bauwerk von den Straßenbelägen in Los B. Die Sicherungselemente am fertigen Bauwerk werden in Los C beschafft."
+      ],
+      "tabelle": [
+        [
+          "Pos.",
+          "Leistung",
+          "Menge",
+          "Einheit",
+          "EP netto EUR",
+          "GP netto EUR"
+        ],
+        [
+          "A01",
+          "Baustelleneinrichtung für Brückenbau betreiben",
+          1,
+          "pauschal",
+          null,
+          null
+        ],
+        [
+          "A02",
+          "Erdarbeiten im Baufeld Brückenbau ausführen",
+          4200,
+          "m³",
+          null,
+          null
+        ],
+        [
+          "A03",
+          "Gründungs- und Unterbauarbeiten komplett",
+          1,
+          "pauschal",
+          null,
+          null
+        ],
+        [
+          "A04",
+          "Überbau einschließlich Fahrbahnplatte herstellen",
+          1,
+          "pauschal",
+          null,
+          null
+        ],
+        [
+          "A05",
+          "Brückenflächen abdichten und Schutzlage herstellen",
+          940,
+          "m²",
+          null,
+          null
+        ],
+        [
+          "A06",
+          "Brückenbelag einbauen",
+          940,
+          "m²",
+          null,
+          null
+        ],
+        [
+          "A07",
+          "Übergabeflächen West und Ost vermessen und dokumentieren",
+          2,
+          "Stück",
+          null,
+          null
+        ]
+      ],
+      "lv": {
+        "menge": "Menge",
+        "einheitspreis": "EP netto EUR",
+        "gesamtpreis": "GP netto EUR"
+      }
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "03b_lv_schutzeinrichtungen.xlsx",
+      "titel": "Bieter-LV Los C · Geländer und Fahrzeugrückhaltesysteme",
+      "datum": "2026-09-21",
+      "von": "Gesa Roll · Projektleitung Riedanger, Deutsche Interstate AG",
+      "an": "Interessierte Bauunternehmen",
+      "text": [
+        "Zum Umfang gehören Lieferung und Montage der Schutzeinrichtungen an der Brücke und an beiden Straßenanschlüssen. Brückenbelag und Straßenoberbau werden über die Lose A und B vergütet. Abrechnung der Längen nach bestätigtem Aufmaß. Die Bestandsunterlagen dienen der Übernahme in den Betrieb.",
+        "Der Montagezeitraum beginnt mit der Freigabe der betroffenen Arbeitsflächen durch die Projektleitung. In der Basisterminplanung steht für die Straßenanschlüsse die gemeinsame Fertigmeldung beider Abschnitte. Ein aufgeteiltes Zeitfenster ist mit dem Montageunternehmen nicht vereinbart."
+      ],
+      "tabelle": [
+        [
+          "Pos.",
+          "Leistung",
+          "Menge",
+          "Einheit",
+          "EP netto EUR",
+          "GP netto EUR"
+        ],
+        [
+          "C01",
+          "Montageflächen einrichten und räumen",
+          1,
+          "pauschal",
+          null,
+          null
+        ],
+        [
+          "C02",
+          "Brückengeländer liefern und montieren",
+          168,
+          "m",
+          null,
+          null
+        ],
+        [
+          "C03",
+          "Rückhaltesystem am Bauwerk liefern und montieren",
+          168,
+          "m",
+          null,
+          null
+        ],
+        [
+          "C04",
+          "Rückhaltesysteme an den Straßenanschlüssen montieren",
+          310,
+          "m",
+          null,
+          null
+        ],
+        [
+          "C05",
+          "Übergänge zu anschließenden Systemen herstellen",
+          4,
+          "Stück",
+          null,
+          null
+        ],
+        [
+          "C06",
+          "Bestands- und Übergabeunterlagen zusammenstellen",
+          1,
+          "pauschal",
+          null,
+          null
+        ]
+      ],
+      "lv": {
+        "menge": "Menge",
+        "einheitspreis": "EP netto EUR",
+        "gesamtpreis": "GP netto EUR"
+      }
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "04_bieterkommunikation_nordsaum.docx",
+      "titel": "Bieterkommunikation Nr. 6 · Preisblatt für den Ostanschluss",
+      "datum": "2026-10-13",
+      "von": "Leon Heller · Plattformregistratur, Deutsche Interstate AG",
+      "an": "Vergabeakte DI-W/BR-26-119 · Deutsche Interstate AG",
+      "text": [
+        "Export aus der Bieterkommunikation. Nachricht N-14 der Nordsaum Wegebau GmbH vom 9. Oktober, 11.16 Uhr. »Wir haben die Mengen für Ost kalkuliert. Für West reicht unsere einzige Asphaltkolonne im überlappenden Zeitraum nicht aus. Können wir die Positionen B06 bis B10 allein einreichen? Im Portal finden wir nur einen Abgabeknopf für beide Seiten. Bitte teilen Sie uns mit, ob ein gesonderter Angebotsweg vorgesehen ist.«",
+        "Antwort Nr. 6 der Vergabestelle, veröffentlicht am 13. Oktober, 15.20 Uhr. »Bitte benutzen Sie für Los B das vollständige Preisblatt. Für Ost und West ist eine gemeinsame Beauftragung vorgesehen. Der Portalzugang bleibt wie veröffentlicht. Die Bewerbungsbedingungen sind insoweit unverändert.« Das Zustellereignis für N-14 ist mit 15.23 Uhr, der Abruf durch Nordsaum mit 16.02 Uhr protokolliert."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "05_einspruch_nordsaum.docx",
+      "titel": "Einspruch gegen die gemeinsame Vergabe der Anschlüsse",
+      "datum": "2026-10-27",
+      "von": "Jana Weigel · Nordsaum Wegebau GmbH",
+      "an": "Martha Jost · Vergabestelle, Deutsche Interstate AG, NL West",
+      "text": [
+        "Wir beanstanden die Verpflichtung, West und Ost gemeinsam anzubieten. Jedes Baufeld hat eine eigene Baustelleneinrichtung und eine eigene Übergabe. In Ost können wir die ausgeschriebene Menge mit unserer eigenen Kolonne abwickeln. Zwei zusammengerechnete Referenzen zu Anschlussarbeiten haben wir für die Eignungsprüfung bereitgelegt. Für die gleichzeitige Ausführung in West haben wir weder Personal noch ein Nachunternehmen gebunden.",
+        "Wir verlangen ein eigenes Teillos Ost und eine neue Angebotsfrist. Ein Angebot für das gesamte Los B geben wir nicht ab. Unsere Kalkulatorin hat das Schreiben nach dem Zeitstempel ihrer Arbeitsplatzansicht um 09.57 Uhr an die Plattform gegeben. Wir bitten um Bestätigung der rechtzeitigen Einreichung. Elektronisch übermittelt als Dokument N-27. Jana Weigel, Geschäftsführerin."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "06_angebotsoeffnung.xlsx",
+      "titel": "Niederschrift der Öffnung · Auszug Los B",
+      "datum": "2026-10-27",
+      "von": "Leon Heller · Plattformregistratur, Deutsche Interstate AG",
+      "an": "Vergabeakte DI-W/BR-26-119 · Deutsche Interstate AG",
+      "text": [
+        "Für Los B waren bei Schließung des elektronischen Angebotsraums am 27. Oktober um 10.00 Uhr zwei Hauptangebote eingegangen. Angaben in diesem Auszug sind vertraulich. Für Nordsaum ist kein Angebotscontainer hinterlegt.",
+        "Die Preise erfassen jeweils beide Straßenanschlüsse und enthalten alle Positionen B01 bis B10. Die Preisprüfung hat keine rechnerische Abweichung ergeben. Auszüge zum Unterlageninhalt fordert die Vergabestelle bei der Registratur an."
+      ],
+      "tabelle": [
+        [
+          "Container",
+          "Unternehmen",
+          "Eingang (MEZ)",
+          "Nettosumme EUR",
+          "Dateien zum Zeitangebot"
+        ],
+        [
+          "W-B-281",
+          "Talbogen Straßenbau GmbH",
+          "27.10.2026 08:43:17",
+          1760000,
+          "B-Z und Ablaufkonzept"
+        ],
+        [
+          "W-B-289",
+          "Furchenweg Bau GmbH",
+          "27.10.2026 09:39:48",
+          1800000,
+          "B-Z und Ablaufkonzept"
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "07_antwort_nordsaum.eml",
+      "titel": "Antwort an Nordsaum auf den Einspruch",
+      "datum": "2026-10-28",
+      "von": "Martha Jost · Vergabestelle, Deutsche Interstate AG, NL West",
+      "an": "Jana Weigel · Nordsaum Wegebau GmbH",
+      "text": [
+        "Sehr geehrte Frau Weigel, die Projektleitung will einen gemeinsamen Ansprechpartner für die Anschlüsse. Wir halten für dieses Verfahren an einem Zuschlag für Los B fest. Ihrem Verlangen nach einer getrennten Vergabe und neuer Angebotsfrist helfen wir nicht ab. Ihr Schreiben führen wir unter N-27.",
+        "Das Postfach Ihres Unternehmens wurde auf dem Vergabeportal über diese elektronische Nachricht informiert. Wir nehmen die Zeitangabe Ihres Arbeitsplatzes zur Akte. Die serverseitigen Ereignisse haben wir beim Plattformbetrieb angefordert. Martha Jost, Vergabestelle West."
+      ],
+      "uhrzeit": "14:46",
+      "absender": "vergabe.west@interstate.example",
+      "empfaenger": "vergabe@nordsaum.example"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "08_wertung_los_b.xlsx",
+      "titel": "Wertungsbogen B · Freigabefassung für die Vorinformation",
+      "datum": "2026-11-05",
+      "von": "Gesa Roll · Projektleitung Riedanger, Deutsche Interstate AG",
+      "an": "Martha Jost · Vergabestelle, Deutsche Interstate AG, NL West",
+      "text": [
+        "Berechnungsstand W-3 vom 5. November. Die Projektleitung bestätigt beide Unternehmen als geeignet. Die Angebotsprüfung erfasst für beide Angebote den Preis für sämtliche Anschlussarbeiten. Die angegebenen Punktzahlen sind die auf zwei Nachkommastellen dargestellten Arbeitswerte der Projektgruppe.",
+        "Die Bearbeiterin hat in der Spalte Herkunft die von ihr herangezogene Stelle eingetragen. In der Projektgruppe lagen Ausdrucke der Ablaufkonzepte. Die Registratur führt die verbindlichen Formblätter im verschlossenen elektronischen Container. Im Vermerk ist keine Aufklärung mit einem Bieter verzeichnet."
+      ],
+      "tabelle": [
+        [
+          "Bieter",
+          "Nettopreis EUR",
+          "Preispunkte",
+          "Tage",
+          "Herkunft der Tageszahl",
+          "Gesamtpunkte",
+          "Rang"
+        ],
+        [
+          "Talbogen",
+          1760000,
+          85,
+          6,
+          "Konzept Seite 1",
+          94,
+          2
+        ],
+        [
+          "Furchenweg",
+          1800000,
+          83.11,
+          10,
+          "Konzept Seite 2",
+          98.11,
+          1
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "09_vorinformation_talbogen.eml",
+      "titel": "Vorinformation an Talbogen für Los B",
+      "datum": "2026-11-06",
+      "von": "Martha Jost · Vergabestelle, Deutsche Interstate AG, NL West",
+      "an": "Alois Held · Talbogen Straßenbau GmbH",
+      "text": [
+        "Sehr geehrter Herr Held, wir beabsichtigen, den Auftrag für Los B an die Furchenweg Bau GmbH zu vergeben. Ihr Angebot erreicht 85 Preispunkte und neun Punkte für sechs Tage Verkürzung. Der für den Zuschlag vorgesehene Bieter erreicht mit der berücksichtigten Verkürzung um zehn Tage insgesamt die höhere Punktzahl. Die Entscheidung betrifft nur die beiden Straßenanschlüsse.",
+        "Der Vertragsschluss für Los B ist frühestens am 17. November 2026 vorgesehen. Diese Mitteilung wird am 6. November elektronisch übermittelt. Die elektronische Absendung im Versandjournal V-134-B ist um 14.12 Uhr verzeichnet. Martha Jost, für die Vergabestelle."
+      ],
+      "uhrzeit": "14:12",
+      "absender": "vergabe.west@interstate.example",
+      "empfaenger": "a.held@talbogen.example"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "10_widerspruch_talbogen.eml",
+      "titel": "Widerspruch gegen die Wertung der Bauzeit",
+      "datum": "2026-11-09",
+      "von": "Alois Held · Talbogen Straßenbau GmbH",
+      "an": "Martha Jost · Vergabestelle, Deutsche Interstate AG, NL West",
+      "text": [
+        "Sehr geehrte Frau Jost, gegen den angekündigten Zuschlag legen wir Widerspruch ein und bitten um Abhilfe vor Vertragsschluss. Ihre Information haben wir am 6. November um 14.18 Uhr gelesen. Aus ihr geht die Wertung von zehn Tagen hervor. Unsere sechs Tage haben wir verbindlich in das Formblatt B-Z eingetragen. Vor Angebotsabgabe hatten Sie dieses Formblatt für verbindlich erklärt.",
+        "Ihr Projektbüro sagte am Freitag am Telefon, bei der Erfassung seien die Ablaufkonzepte aufgeschlagen gewesen. Bitte überprüfen Sie am Original, ob im Formblatt des ausgewählten Unternehmens ebenfalls zehn Tage zugesagt sind. Falls dort eine andere Zahl steht, verlangen wir eine neue Wertung nach den veröffentlichten Vorgaben und einen entsprechend korrigierten Bescheid. Wir haben das fremde Angebot nicht gesehen. Ein rein rechnerischer Preisabstand würde unsere Bedenken nicht beantworten. Alois Held, Angebotsleiter."
+      ],
+      "uhrzeit": "09:08",
+      "absender": "a.held@talbogen.example",
+      "empfaenger": "vergabe.west@interstate.example"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "11_originalvergleich_zeitangebote.docx",
+      "titel": "Ausfertigung der bei Öffnung vorliegenden Zeiterklärungen",
+      "datum": "2026-11-10",
+      "von": "Leon Heller · Plattformregistratur, Deutsche Interstate AG",
+      "an": "Martha Jost · Vergabestelle, Deutsche Interstate AG, NL West",
+      "text": [
+        "Die Registratur hat am 10. November auf den bei Öffnung versiegelten Bestand zugegriffen. Die nachstehenden Transkriptionen geben alle Eintragungen in Zeile 6 des jeweiligen Formblatts B-Z und die einschlägige Passage des Ablaufkonzepts wieder. Beide Unternehmen hatten jeweils ein endgültiges und wirksam abgegebenes Hauptangebot eingereicht. Eine Austauschdatei oder spätere Erklärung ist nicht im Register.",
+        "Container W-B-281, Talbogen. Formblatt B-Z, Zeile 6: »Verbindliche Verkürzung gegenüber 42 Kalendertagen: 6 Kalendertage.« Ablaufkonzept, Seite 1: »Bei Eingang der gemeinsamen Freigabe rechnen wir mit 36 Kalendertagen für die Übergabe beider Abschnitte. Dies ist in unserer Personalplanung abgedeckt.«",
+        "Container W-B-289, Furchenweg. Formblatt B-Z, Zeile 6: »Verbindliche Verkürzung gegenüber 42 Kalendertagen: 4 Kalendertage.« Ablaufkonzept, Seite 2: »Bei zusätzlicher Verfügbarkeit einer zweiten Kolonne streben wir eine Verkürzung um zehn Kalendertage an. Ob sie frei wird, hängt von der Freigabe auf einer anderen Baustelle ab. Für die vertraglich zugesicherte Frist gilt unser Formblatt.«",
+        "Die Angaben zu Kolonnen, zum anderen Projekt sowie zu den beiden Angeboten sind intern aufgenommen. Der Auszug ging nur an Vergabestelle und Innenrevision. Über den Umfang einer Weitergabe an Verfahrensbeteiligte wurde nicht entschieden."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "12_ereignisse_kommunikation.xlsx",
+      "titel": "Ereignisjournal mit Eingängen, Abrufen und Zustellungen",
+      "datum": "2026-11-10",
+      "von": "Leon Heller · Plattformregistratur, Deutsche Interstate AG",
+      "an": "Martha Jost · Vergabestelle, Deutsche Interstate AG, NL West",
+      "text": [
+        "Konsolidierter Auszug für Nutzerpostfach und Vergabestelle. Angezeigt ist die jeweilige Ortszeit in Deutschland. Der Arbeitsplatz eines Bieters liefert erst ab bestätigter Übermittlung ein Empfangsereignis beim Auftraggeber. Der Betreiber verzeichnet am 27. Oktober zwischen 09.45 und 10.15 Uhr keine gemeldete flächendeckende Störung. Für den Arbeitsplatz der Firma liegen ihm keine Protokolle vor.",
+        "Die elektronische Angebotsfrist lief nach der Vergabeakte am 27. Oktober um 10.00 Uhr ab. Kommunikationsraum und Angebotsraum werden getrennt geführt. Das Dokument N-27 hat der Betreiber im Kommunikationsraum nach Fristablauf weiter entgegengenommen."
+      ],
+      "tabelle": [
+        [
+          "Datum",
+          "Ortszeit",
+          "Vorgang",
+          "Quelle",
+          "Empfänger"
+        ],
+        [
+          "09.10.2026",
+          "11:16:21",
+          "N-14 Frage eingegangen",
+          "Server Empfang",
+          "Vergabestelle"
+        ],
+        [
+          "13.10.2026",
+          "16:02:05",
+          "Antwort Nr. 6 geöffnet",
+          "Server Abruf",
+          "Nordsaum"
+        ],
+        [
+          "27.10.2026",
+          "09:57:08",
+          "N-27 im lokalen Ausgang angezeigt",
+          "Bildschirmfoto Nordsaum",
+          "lokaler Arbeitsplatz"
+        ],
+        [
+          "27.10.2026",
+          "10:02:13",
+          "N-27 angekommen, Quittung erstellt",
+          "Server Empfang",
+          "Vergabestelle"
+        ],
+        [
+          "28.10.2026",
+          "14:46:43",
+          "Antwort auf N-27 versandt",
+          "Server Versand",
+          "Nordsaum"
+        ],
+        [
+          "28.10.2026",
+          "14:49:19",
+          "Antwort auf N-27 geöffnet",
+          "Server Abruf",
+          "Nordsaum"
+        ],
+        [
+          "06.11.2026",
+          "14:12:28",
+          "Vorinformation V-134-B abgesandt",
+          "Server Versand",
+          "Talbogen"
+        ],
+        [
+          "06.11.2026",
+          "14:18:03",
+          "Vorinformation geöffnet",
+          "Server Abruf",
+          "Talbogen"
+        ],
+        [
+          "09.11.2026",
+          "09:09:11",
+          "Widerspruch T-09 eingegangen",
+          "Server Empfang",
+          "Vergabestelle"
+        ]
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "13_antwort_auf_widerspruch.eml",
+      "titel": "Entscheidung der Vergabestelle über T-09",
+      "datum": "2026-11-12",
+      "von": "Kian Loh · Leitung Einkauf, Deutsche Interstate AG, NL West",
+      "an": "Alois Held · Talbogen Straßenbau GmbH",
+      "text": [
+        "Sehr geehrter Herr Held, wir haben Ihr Begehren geprüft. Wir halten am vorgesehenen Zuschlag an die Furchenweg Bau GmbH fest. Nach Auffassung der Projektleitung durften die in den Ablaufkonzepten beschriebenen Beschleunigungen für die Bewertung herangezogen werden. Ihrem Verlangen nach einer erneuten Wertung helfen wir nicht ab.",
+        "Der Einkauf hat den 17. November als frühesten Zuschlagstermin vorgemerkt. Wir behandeln das Originalangebot Ihrer Mitbewerberin als vertraulich. Bitte bestätigen Sie den Erhalt dieses Schreibens unter Bezug auf unseren Nachrichtenvorgang T-12. Kian Loh, Leitung Einkauf."
+      ],
+      "uhrzeit": "10:06",
+      "absender": "einkauf@interstate.example",
+      "empfaenger": "a.held@talbogen.example"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "14_kopie_nachpruefungsantrag.eml",
+      "titel": "Kopie des Nachprüfungsantrags und Eingangsbestätigung",
+      "datum": "2026-11-16",
+      "von": "Alois Held · Talbogen Straßenbau GmbH",
+      "an": "Martha Jost · Vergabestelle, Deutsche Interstate AG, NL West",
+      "text": [
+        "Frau Jost, ich übersende Ihnen vorab eine Abschrift des heute bei der Vergabekammer des Bundes eingereichten Nachprüfungsantrags. Wir beantragen eine Prüfung der Zeitwertung und bis zur Entscheidung einen Stopp des Zuschlags für Los B. Stand und Rang der Lose A und C greifen wir nicht an. Die Formblätter und die Wertungsmatrix gehören nach unserer Auffassung zu den Unterlagen, die der Prüfung zugrunde gelegt werden müssen.",
+        "Wortlaut der Bestätigung, die unsere Verfahrensbevollmächtigte heute aus dem Empfangssystem der Kammer abgerufen hat: »16.11.2026, 08.41 Uhr. Schriftsatz vom 16.11.2026 nebst zwei Anlagen eingegangen. Sachgebiet Vergabenachprüfung.« Die Kopie geht von unserem Bieterpostfach an Sie. Bitte teilen Sie uns mit, ob die Zuschlagsstelle bereits eine Nachricht der Kammer erhalten hat. Alois Held."
+      ],
+      "uhrzeit": "08:54",
+      "absender": "a.held@talbogen.example",
+      "empfaenger": "vergabe.west@interstate.example"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "15_unterrichtung_kammer.eml",
+      "titel": "Unterrichtung der Vergabestelle durch die Vergabekammer",
+      "datum": "2026-11-16",
+      "von": "Geschäftsstelle · Vergabekammer des Bundes, Übungsfall",
+      "an": "Martha Jost · Vergabestelle, Deutsche Interstate AG, NL West",
+      "text": [
+        "Die Geschäftsstelle übermittelt auf Verfügung der Vorsitzenden Dr. Ragna Vollmer deren folgende Unterrichtung: In der Nachprüfungssache Talbogen Straßenbau GmbH gegen Deutsche Interstate AG, Aktenzeichen VK-R-119/26 (Übungsaktenzeichen), unterrichte ich Sie hiermit über den Nachprüfungsantrag vom heutigen Tag betreffend das Los B des Vergabeverfahrens DI-W/BR-26-119. Betroffen sind die gemeinsame Wertung der Straßenanschlüsse und das hierfür angekündigte Zuschlagsverfahren.",
+        "Übermitteln Sie die vollständige Vergabeakte zu Los B und benennen Sie die Teile, für die Sie oder ein Bieter schutzwürdige Gründe gegen eine Akteneinsicht geltend machen. Die Kammer bittet um Aktenübersendung bis Donnerstag, 19. November, 12.00 Uhr, und um eine erste Stellungnahme zur Zuschlagssituation. Eine Entscheidung in der Sache oder eine Gestattung des Zuschlags ist nicht ergangen. Dr. Ragna Vollmer, Vorsitzende der Vergabekammer (fiktive Besetzung)."
+      ],
+      "uhrzeit": "12:24",
+      "absender": "geschaeftsstelle@fallkammer.example",
+      "empfaenger": "vergabe.west@interstate.example"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "16_zuschlagsbuch.txt",
+      "titel": "Posteingang der Kammernachricht und offener Zuschlagslauf",
+      "datum": "2026-11-16",
+      "von": "Leon Heller · Plattformregistratur, Deutsche Interstate AG",
+      "an": "Kian Loh · Leitung Einkauf, Deutsche Interstate AG, NL West",
+      "text": [
+        "Aus dem Nachrichtenvorgang T-12. Das Schreiben der Einkaufsleitung vom 12. November wurde um 10.06 Uhr elektronisch versandt. Eingangsbestätigung aus dem Postfach Talbogen um 10.18 Uhr desselben Tages: »Ihre Entscheidung liegt uns vor. Wir prüfen die nächsten Schritte.«",
+        "Auszug Vorgang B-119, Ortszeit MEZ. 08.55 Uhr: Nachricht der Talbogen Straßenbau GmbH mit Antragskopie im Einkaufspostfach eingegangen. 12.26 Uhr: Kammernachricht im zentralen Behördenpostfach zugestellt. 12.31 Uhr: Eingang mit dem Dokument VK-R-119/26 verknüpft, Projektleitung und Einkauf benachrichtigt.",
+        "Stand 13.00 Uhr. Vorbereiteter Zuschlagslauf für Los B am 17. November, 09.00 Uhr, wartet auf manuelle Freigabe. Kein Zuschlag wurde ausgelöst. Für Los A und Los C laufen eigenständige Prüfungen ohne freigegebene Zuschlagsentscheidung. Die Leitung erwartet eine konkrete Handlungsanweisung für das Freigabefeld und die Rückmeldung an die Kammer. Ein Nachprüfungsantrag von Nordsaum ist in unserem Register nicht verzeichnet."
+      ]
+    }
+  ],
+  "einwendungspruefung": [
+    {
+      "eingabe": "05_einspruch_nordsaum.docx",
+      "gegenpruefung": "12_ereignisse_kommunikation.xlsx"
+    },
+    {
+      "eingabe": "10_widerspruch_talbogen.eml",
+      "gegenpruefung": "11_originalvergleich_zeitangebote.docx"
+    },
+    {
+      "eingabe": "14_kopie_nachpruefungsantrag.eml",
+      "gegenpruefung": "16_zuschlagsbuch.txt"
+    }
+  ]
+}

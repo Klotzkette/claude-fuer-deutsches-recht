@@ -6,7 +6,7 @@
 
 Die Vergaberecht-Werkstatt bündelt drei rollenfeste Arbeitsumgebungen für das deutsche und europäische Vergaberecht: für Vergabestellen, Bieter beziehungsweise Bewerber und Konkurrenten. Jedes Plugin verbindet fachlich konkrete Skills, autarke Prompts, Vorlagen, Rechtsprechungsanker und realistische Testakten vom Akteneingang bis zu Vergabekammer und OLG.
 
-Für eine Arbeitssitzung aus Auftraggebersicht stehen sieben Akten der [Deutschen Interstate AG, Niederlassung West](vergabestelle-behoerden/Interstate%20AG/README.md) bereit. Die Fälle reichen von der Vorbereitung der Vergabe bis zum Nachtrag während der Bauausführung.
+In elf Akten der [Deutschen Interstate AG, Niederlassung West](vergabestelle-behoerden/Interstate%20AG/README.md) übernehmen Sie die Vergabestelle. Bei der Leitplanung, dem Brückenneubau, der Fahrbahnmarkierung und der Beschaffung einer IT-Plattform für die Bauprüfung prüfen Sie Einwendungen anhand der Vergabeunterlagen und Eingangsbelege. Andere Akten führen bis zum Bauzeitstreit und zur Nachtragsforderung.
 
 ## In 20 Sekunden starten
 

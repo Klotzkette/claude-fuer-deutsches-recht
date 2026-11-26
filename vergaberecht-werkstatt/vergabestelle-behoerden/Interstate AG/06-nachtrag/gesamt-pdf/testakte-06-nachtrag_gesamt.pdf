@@ -10,8 +10,8 @@ endobj
 2 0 obj
 <<
 /Type /Pages
-/Count 13
-/Kids [ 4 0 R 11 0 R 18 0 R 27 0 R 35 0 R 43 0 R 51 0 R 60 0 R 68 0 R 76 0 R 84 0 R 95 0 R 104 0 R ]
+/Count 16
+/Kids [ 4 0 R 11 0 R 18 0 R 27 0 R 35 0 R 43 0 R 51 0 R 60 0 R 68 0 R 76 0 R 84 0 R 95 0 R 104 0 R 113 0 R 121 0 R 129 0 R ]
 >>
 endobj
 3 0 obj
@@ -116,7 +116,7 @@ endobj
 13 0 obj
 <<
 /First 15 0 R
-/Count 14
+/Count 17
 /Last 92 0 R
 >>
 endobj
@@ -843,9 +843,9 @@ endobj
 /Title (Nachreichungen)
 /Prev 15 0 R
 /Parent 13 0 R
-/Count 3
+/Count 6
 /First 94 0 R
-/Last 112 0 R
+/Last 136 0 R
 >>
 endobj
 93 0 obj
@@ -1028,129 +1028,375 @@ endobj
 /Prev 103 0 R
 /Parent 92 0 R
 /Count 0
+/Next 120 0 R
+>>
+endobj
+113 0 obj
+<<
+/Contents 114 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 115 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+114 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1304
+>>
+stream
+Gat%!D,91]&H9tYR#ecn(9cWTS>tjF+ZT[\Y/Giiji]\f-em9h\m@ah?f.9ZE=ra@<K?(Jh3hoIkF"%0%hJ+-(F?jVL!p>5mR*EF%p92&2-cqICrhBO3!;-5]O9e&9Aju>U`iDSnN<*_UBF2F_BJN+;7q6V^oUfV7/QHCNnuI>7,`Y"8`Jbd(1M)$K394;5SCpg@W;VTTCNJsb<0OGUa6Gp02EWa^%gZ'&q#<'Db,A'[3>*.(3:N=DS%n(-<0O/%SYgdDNu:tcC+.snb]Sd&Jis"*uDdti-UC^3U54N0T;/1_4njaN!D^7_WlJ+,(C<tNWn8ij?fJ6I,L#"T+`Z+Z`IK7$aG9pk'fFGVof_F+:O`EXe^O:Af_Au>j,AD/`_"`@&YE1Ac6<'@bp7u*m?k=3/$Sa6Tr6F,E2h_#6]_0)DUEEpLT&pIAL?rN*=)`/0>Is"+;d@Me,Ghe5i$l$7k(OH41b?j<[g$[;ta)V6NLkl9ZtYaPfG9(4L<.%!&dr+hss>#a>:Go!+;DK&>C@.NP$n\5p"fe.K!#;5?hHR:tMEa]dt7(/($\g"//jN(*>iTM&TFgIS[Ho%`\^2trP;/>\&kX,_bOT2F1O2%h[S9E4e;j.AJQrokYA@c'\1G:j4_p*c)b^Aoi#r*Z1bZ`*On!1\6R*]Y$2%+a6sE=C19^fk8H4/W@KGf8O;HBMioMBNifWN3=h)HUlB`6S?/ORiMl]nDL8;5_V\6dcN9457Hu1Uom>8c@;QPLe(a7W7<BR-^?SD//(eD@8ngcfj8?h9:L2ec^R)0;[?27aOl=m@!N4=_4UpO:'L5cV>biHR1gHP?5_\&jJnq"IW4+:q*A3G*7S!!jPj3][YJ@h(M'(:Si%:d>Z-H52-@F&'@&YW7Nl"('VQP-/8b77UA9h^'C?5kR+qukZ:bYV^LhqCT/^-V-h@`^5D(#,5lBu=<jei#5=A`WO+L1\q;/V%>Ri_:f#//B&_VYG.BLDrb<ph,[B[\X$on`s/^sIMRSRgNljI5A9`tE0'a<*&X$gBpg2Ln.P0B8/G((&-6j<N>MU8LY^03YV;d2-"r)7$EK():`K'o)YYM3iEcS31*5t$PUW>O:C_q<)OJs/sB(i,Iq&SXN(Z#dV`?rV*Epht`mj,g;U';=S!Lr''C$Il>a[Y:P82JOD"S"7OCBbS')U.]RWU$\%'5"9n#cY@5D/X1Teq@-Im6gTKCK/)"=Gg#05-]8aE?mOh(dpAb(:R`:c]nSf_g%.nl"Q7dm-D+9?]E^!I1ZSe+0qO8,'\S=m<o[TV1bWD!'`#WIK~>
+endstream
+endobj
+115 0 obj
+<<
+/F1 116 0 R
+/F2 117 0 R
+/F3 118 0 R
+>>
+endobj
+116 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+117 0 obj
+<<
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+118 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+119 0 obj
+<<
+/D [ 113 0 R /Fit ]
+/S /GoTo
+>>
+endobj
+120 0 obj
+<<
+/A 119 0 R
+/Title (Abschlag 4 \267 vorl\344ufiger Pr\374fansatz f\374r die Besprechung)
+/Prev 112 0 R
+/Parent 92 0 R
+/Count 0
+/Next 128 0 R
+>>
+endobj
+121 0 obj
+<<
+/Contents 122 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 123 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+122 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1507
+>>
+stream
+GatU1;,>q;&:WeDb[Yr(`bRYZ;OpR:K;>I5M1\X#'/+,`ESRYIFE\a#q=Q\QG"gg$;KYS;o$6UG2rB!=((enapttrei,f"?1BA\O`=bQO,d@%PkDOs8'3Uc7&7gtYSjj8bi+d_6+dp+k%"lZ43e83h8JX_I3.3hdE8>fYj*a!PYpG4'*"IRF15Y3G81:o;_3>0fO9ss7#&+U#:.:5rB:a9L(,_&r/rjh1_t<0A/:Ih^Dm9#u`J&;r"K;sso5!MZ?Y$!^I"P<bZ1jun63L.&V6@o\:T:STs&;SQ5jUL\58\b]aMsDR_0o%45f?e^VWnCE`mHUT4UY`_O:Qb%Ma2Mf,/L(6DQ<huI5('e$;)jH6U?3"QajbfZU>U0l0.'RnC(:tgU;dI.*^Zq\+_C!91\bar^EIB:r@^[cgX=j,=<(u"6",l"0\3GgBs^ZNJ>cEQ*=XYB&-lu<4L.`$b$jSe4WaEbj52e+fo7eXRG-odCLO3#cFt.=LhJ!n=.H];LrW2X?SfWG6@b5edi*LqsXM+f/Gb<0U&@`i"OZPBY)u3fK(,N69AZ)8V_7?s$>qRBUk3]h;uC?lZOD:_:j\B:^o]s758GF"Zgm+eKKUppJD,R.fqT>=o@f*.,Ka<h7L."P=?-=r1p&Td#8V5oSlF?nUC\+MI>4R-jCjk#p8mk1@WpH$)q$-;%9!a.I0)$,U5?4YB5dTW>q<8LbtKZ_o!aQo:%7DFTH;fp!n]+CegF()*6P0ora_qh1S"^%G!On=V?brS5fi;UKp;>PIH>\=r86c+@F!V`.)Z\HSis\XiOOPNKpr:DhFoV9>pZt6_ZU:(:Krp\k<N7%Oqp]#a-llR2;PmZ#)'/lF)S_JYJI[-F\,V.^'Q'6B\cBUS]\aA`2kM.*F$0Zkf[>g1HMj2-Y0_ga/$%?ELdr*#ml5IRSNeLZf:iPhJ8Y<4W1f&-2+"$uAD%6dUu+BsNLNf=RbZO-Tr@[D+#SE?^u+Sc9q$MjgTR%B7u=CQ?DU7n$PE[SSc^g^MLB(NEo)m[TW`Xjk>$GutR4rQ#Y)8o]Un[*X#BYLpCJ3GJr-[D\Zt]UdQ.g7B/6OE+a$Hk!%1;C](1?5#t\3OVR/Ua9W8)V_Af465,3Z^iEpNIr7S?BMiL4W7/FQcSI_j5@?=d+HK@[,eZ4@g^HdDeeT3jgb/WHBmsL7G?"5*mmpV4POqrCWu[djR&Nt'Tep$+IQqW/&HYU=f=.CG>6J\4rdH`U@NARMS-m?q&AW=[W9=qEAM9^H:+_b"$39k9?ul1U[q'%FD70qd<al1!+#k_<5#EHA/bI&U5G^IQ$:\Cb:?49Jl\[SR>M"88u;6CQ$^cS2q3OSP#e?SJn6n*F^qr=Zn7MLCF,EEUcr27#7Pk)4Y79:c=u&&@R)n3COam4f[;b:q?BMEE'X"CrCCm$#/J*#n`'&L,+S-]4VMj>P\n]L?#a-2L:h<:.0rOGE\aeJGKB4N^/MhDDuQ488@+p-rV0ClpYXd[;Sp8behI,b~>
+endstream
+endobj
+123 0 obj
+<<
+/F1 124 0 R
+/F2 125 0 R
+/F3 126 0 R
+>>
+endobj
+124 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+125 0 obj
+<<
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+126 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+127 0 obj
+<<
+/D [ 121 0 R /Fit ]
+/S /GoTo
+>>
+endobj
+128 0 obj
+<<
+/A 127 0 R
+/Title (Widerspruch gegen den angek\374ndigten Pr\374fabzug \267 Abschlag 4)
+/Prev 120 0 R
+/Parent 92 0 R
+/Count 0
+/Next 136 0 R
+>>
+endobj
+129 0 obj
+<<
+/Contents 130 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 131 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+130 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1105
+>>
+stream
+Gatm89lo&I&A@C2lr!.00EHY"-BG8cUGe=U9K\O/"VR.D'a_DNBP78/])X9\EoNZOPW2#1]DM<8\)7hE_u4r6"'cX]\`U[2'G^+n78Wml\&Erq4ADOa=IKD%/q@O&q>EWGPX-&f/BdSmHAJ>\M)8!,?0gEd4;Gl6qt/unR)iPo?t#?->%80+jpC6t0`fB9NgqC/$sMa+@UD,;Wt[]JDa(hG^C69LRs"K6'RrF=l`5OqLfl@Ij?0NZmoBq\AZ1)"7:emN:PssJc9re<2tGFK32bo9o@KP?(AQ#1^DHLp#gtCI;=&V_?p%+O9FT.(`$19;_uu]4&s:@c\JDtD21do%QII`RLa7]/<n1*uYf.AMeF43\eZq(R[W\>:6'ZD%-+ur.7qg(aZKZ&SFE4>($/e&43<su^eUp%Q`Y7JPje5'&[*+k]dG#k_o'8TX*sX*#o+7crdu@(,b<^#'mMb10hkRFtPD?_IYa2jP@>"M'2<Y-[E3Ns++FI!$[B\.(XPR="T).[n_C/<^p%trWQug$iD^)JCOWmP15TS6*,fRVBoUuleqLlZ[1d\HK8;%C8*hKUn&nmkAOaLLSI0H7Mlb&D'8G`Hd_0q4G<J=]b:XfbDAJrU=&fp%7@Z!@lmA+&;qg?b34%m=H<3BS^9olkcd.Ztn?u.-5bsW\,0>5P"_GE^H*d!6H=p.9,XEN[T>t`68f(q-t/THS]0!j7EZQ4$H$V%Apb'!AZ&bL!oZ!N$fXnP5qft/j7JfUpO(U,&BW9E,]#\7F7)YuMX->8Bmap64G3PPn'%iVFRM+<`DVm!"NY)uoE>P;Fp`ejJ_jLl_T1fniSjN&J?m(hu]'lf9FJh@0n<,3\>Lm<TUo[8bS>g_(X%\F\2puk9s1*mgKm0j)`\C0$\=Q:/36:'ptTUCSmjR?hqU7PRpK#'sVV0,C$9ilm7'&qJ-f4&T*n+\*i\3f,(3`FEE.Q8G&,dtDUhfFW9;KslcUkYu/d(+1Pnhg&r_@ZaB/"@6rBfX^hV?Z41Lao*qpdT-s%+QL]`ETL0`b!t9UJ9iEU-[7MB^`d"RqVp4D3CGOD\UeG;6(2<*"D.M)+m4oDqs!?HL2&Aqu[')!_<~>
+endstream
+endobj
+131 0 obj
+<<
+/F1 132 0 R
+/F2 133 0 R
+/F3 134 0 R
+>>
+endobj
+132 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+133 0 obj
+<<
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+134 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+135 0 obj
+<<
+/D [ 129 0 R /Fit ]
+/S /GoTo
+>>
+endobj
+136 0 obj
+<<
+/A 135 0 R
+/Title (KF3 \267 Eingang bei der Vertragsleitung und Stand des Zahlungslaufs)
+/Prev 128 0 R
+/Parent 92 0 R
+/Count 0
 >>
 endobj
 xref
-0 113
+0 137
 0000000000 65535 f 
 0000000015 00000 n 
 0000000167 00000 n 
-0000000312 00000 n 
-0000000378 00000 n 
-0000000577 00000 n 
-0000003548 00000 n 
-0000003610 00000 n 
-0000003717 00000 n 
-0000003825 00000 n 
-0000003934 00000 n 
-0000004047 00000 n 
-0000004248 00000 n 
-0000005727 00000 n 
-0000005786 00000 n 
-0000005835 00000 n 
-0000005950 00000 n 
-0000005999 00000 n 
-0000006144 00000 n 
-0000006346 00000 n 
-0000008408 00000 n 
-0000008474 00000 n 
-0000008582 00000 n 
-0000008691 00000 n 
-0000008801 00000 n 
-0000008914 00000 n 
-0000008964 00000 n 
-0000009116 00000 n 
-0000009318 00000 n 
-0000010610 00000 n 
-0000010665 00000 n 
-0000010773 00000 n 
-0000010882 00000 n 
-0000010992 00000 n 
-0000011042 00000 n 
-0000011198 00000 n 
-0000011400 00000 n 
-0000012723 00000 n 
-0000012778 00000 n 
-0000012886 00000 n 
-0000012995 00000 n 
-0000013105 00000 n 
-0000013155 00000 n 
-0000013318 00000 n 
-0000013520 00000 n 
-0000014893 00000 n 
-0000014948 00000 n 
-0000015056 00000 n 
-0000015165 00000 n 
-0000015275 00000 n 
-0000015325 00000 n 
-0000015473 00000 n 
-0000015675 00000 n 
-0000017832 00000 n 
-0000017898 00000 n 
-0000018006 00000 n 
-0000018115 00000 n 
-0000018225 00000 n 
-0000018338 00000 n 
-0000018388 00000 n 
-0000018546 00000 n 
-0000018748 00000 n 
-0000020053 00000 n 
-0000020108 00000 n 
-0000020216 00000 n 
-0000020325 00000 n 
-0000020435 00000 n 
-0000020485 00000 n 
-0000020644 00000 n 
-0000020846 00000 n 
-0000022241 00000 n 
-0000022296 00000 n 
-0000022404 00000 n 
-0000022513 00000 n 
-0000022623 00000 n 
-0000022673 00000 n 
-0000022811 00000 n 
-0000023013 00000 n 
-0000024601 00000 n 
-0000024656 00000 n 
-0000024764 00000 n 
-0000024873 00000 n 
-0000024983 00000 n 
-0000025033 00000 n 
-0000025174 00000 n 
-0000025376 00000 n 
-0000027123 00000 n 
-0000027189 00000 n 
-0000027297 00000 n 
-0000027406 00000 n 
-0000027516 00000 n 
-0000027629 00000 n 
-0000027679 00000 n 
-0000027800 00000 n 
-0000027850 00000 n 
-0000028001 00000 n 
-0000028203 00000 n 
-0000030080 00000 n 
-0000030148 00000 n 
-0000030256 00000 n 
-0000030365 00000 n 
-0000030476 00000 n 
-0000030590 00000 n 
-0000030641 00000 n 
-0000030811 00000 n 
-0000031016 00000 n 
-0000034029 00000 n 
-0000034100 00000 n 
-0000034209 00000 n 
-0000034319 00000 n 
-0000034430 00000 n 
-0000034544 00000 n 
-0000034596 00000 n 
+0000000336 00000 n 
+0000000402 00000 n 
+0000000601 00000 n 
+0000003572 00000 n 
+0000003634 00000 n 
+0000003741 00000 n 
+0000003849 00000 n 
+0000003958 00000 n 
+0000004071 00000 n 
+0000004272 00000 n 
+0000005751 00000 n 
+0000005810 00000 n 
+0000005859 00000 n 
+0000005974 00000 n 
+0000006023 00000 n 
+0000006168 00000 n 
+0000006370 00000 n 
+0000008432 00000 n 
+0000008498 00000 n 
+0000008606 00000 n 
+0000008715 00000 n 
+0000008825 00000 n 
+0000008938 00000 n 
+0000008988 00000 n 
+0000009140 00000 n 
+0000009342 00000 n 
+0000010634 00000 n 
+0000010689 00000 n 
+0000010797 00000 n 
+0000010906 00000 n 
+0000011016 00000 n 
+0000011066 00000 n 
+0000011222 00000 n 
+0000011424 00000 n 
+0000012747 00000 n 
+0000012802 00000 n 
+0000012910 00000 n 
+0000013019 00000 n 
+0000013129 00000 n 
+0000013179 00000 n 
+0000013342 00000 n 
+0000013544 00000 n 
+0000014917 00000 n 
+0000014972 00000 n 
+0000015080 00000 n 
+0000015189 00000 n 
+0000015299 00000 n 
+0000015349 00000 n 
+0000015497 00000 n 
+0000015699 00000 n 
+0000017856 00000 n 
+0000017922 00000 n 
+0000018030 00000 n 
+0000018139 00000 n 
+0000018249 00000 n 
+0000018362 00000 n 
+0000018412 00000 n 
+0000018570 00000 n 
+0000018772 00000 n 
+0000020077 00000 n 
+0000020132 00000 n 
+0000020240 00000 n 
+0000020349 00000 n 
+0000020459 00000 n 
+0000020509 00000 n 
+0000020668 00000 n 
+0000020870 00000 n 
+0000022265 00000 n 
+0000022320 00000 n 
+0000022428 00000 n 
+0000022537 00000 n 
+0000022647 00000 n 
+0000022697 00000 n 
+0000022835 00000 n 
+0000023037 00000 n 
+0000024625 00000 n 
+0000024680 00000 n 
+0000024788 00000 n 
+0000024897 00000 n 
+0000025007 00000 n 
+0000025057 00000 n 
+0000025198 00000 n 
+0000025400 00000 n 
+0000027147 00000 n 
+0000027213 00000 n 
+0000027321 00000 n 
+0000027430 00000 n 
+0000027540 00000 n 
+0000027653 00000 n 
+0000027703 00000 n 
+0000027824 00000 n 
+0000027874 00000 n 
+0000028025 00000 n 
+0000028227 00000 n 
+0000030104 00000 n 
+0000030172 00000 n 
+0000030280 00000 n 
+0000030389 00000 n 
+0000030500 00000 n 
+0000030614 00000 n 
+0000030665 00000 n 
+0000030835 00000 n 
+0000031040 00000 n 
+0000034053 00000 n 
+0000034124 00000 n 
+0000034233 00000 n 
+0000034343 00000 n 
+0000034454 00000 n 
+0000034568 00000 n 
+0000034620 00000 n 
+0000034794 00000 n 
+0000034999 00000 n 
+0000036397 00000 n 
+0000036456 00000 n 
+0000036565 00000 n 
+0000036675 00000 n 
+0000036786 00000 n 
+0000036838 00000 n 
+0000037001 00000 n 
+0000037206 00000 n 
+0000038807 00000 n 
+0000038866 00000 n 
+0000038975 00000 n 
+0000039085 00000 n 
+0000039196 00000 n 
+0000039248 00000 n 
+0000039411 00000 n 
+0000039616 00000 n 
+0000040815 00000 n 
+0000040874 00000 n 
+0000040983 00000 n 
+0000041093 00000 n 
+0000041204 00000 n 
+0000041256 00000 n 
 trailer
 <<
-/Size 113
+/Size 137
 /Root 3 0 R
 /Info 1 0 R
 >>
 startxref
-34756
+41406
 %%EOF

@@ -3,7 +3,7 @@
   "zeichen": "DI-W/05-BW17",
   "einstieg": "Für das Widerlager der Schieferbachbrücke fehlte eine freigegebene Bewehrungszeichnung. Die Steinbogen Ingenieurbau GmbH verlangt 13.787,00 Euro. Ihr Terminplan sieht einen Kran und drei Fachkräfte am Widerlager vor. Im Bautagebuch tauchen dieselben Ressourcen an anderer Stelle auf. Die Niederlassung West begleitet als Auftraggeberin einen laufenden Zivilprozess.",
   "auftrag": "Bereiten Sie für die Prozessvertretung der Deutschen Interstate AG die Klageerwiderung und eine Entscheidungsvorlage für die Projektleitung vor. Stellen Sie den vorgesehenen Ablauf dem belegbaren Ablauf jeder Schicht gegenüber. Arbeiten Sie heraus, welche Mitwirkung geschuldet war, wann die Auftragnehmerin leistungsbereit war und welche Positionen durch welche Ursache entstanden sein können. Beziffern Sie die vertretbaren Betragsvarianten, ordnen Sie den Beweisangeboten konkrete Tatsachen zu und halten Sie die gerichtliche Frist fest.",
-  "nachreichung": "Am 19. und 20. November gehen die Maschinenaufzeichnung und die Antwort des Kranvermieters ein. Gleichen Sie beides mit der früheren Erklärung der Bauleitung und der Kalkulation ab. Überarbeiten Sie die bestrittenen Zeitfenster, den Umfang einer noch sinnvollen Beweiserhebung und den Verhandlungsspielraum.",
+  "nachreichung": "Am 19. und 20. November gehen die Maschinenaufzeichnung und die Antwort des Kranvermieters ein. Gleichen Sie beides mit der früheren Erklärung der Bauleitung und der Kalkulation ab. Überarbeiten Sie die bestrittenen Zeitfenster, den Umfang einer noch sinnvollen Beweiserhebung und den Verhandlungsspielraum. Lesen Sie den ergänzenden Schriftsatz der Klägerin und die Erklärung des Monteurs zusammen mit dem gerichtlichen Übermittlungsvermerk. Entwerfen Sie den Gegenvortrag zum Personaleinsatz, zur Gerätebereitschaft und zur Höhe der Forderung. Ordnen Sie jede bestrittene Einzelheit einem Beweisangebot zu und halten Sie die Frist zur Klageerwiderung fest.",
   "quellen": [
     [
       "§ 642 BGB – Mitwirkung des Bestellers",
@@ -36,7 +36,12 @@
     [
       "§ 287 ZPO – Schadensermittlung",
       "https://www.gesetze-im-internet.de/zpo/__287.html"
-    ]
+    ],
+    ["§ 296 ZPO – Zurückweisung verspäteten Vorbringens", "https://www.gesetze-im-internet.de/zpo/__296.html"]
+  ],
+  "einwendungspruefung": [
+    {"eingabe": "11_schriftsatz_klaegerin_kran.docx", "gegenpruefung": "13_monteur_zur_sperre.eml"},
+    {"eingabe": "11_schriftsatz_klaegerin_kran.docx", "gegenpruefung": "12_gericht_weiterleitung.txt"}
   ],
   "dokumente": [
     {
@@ -364,6 +369,47 @@
       "absender": "p.voss@hublast-west.example",
       "empfaenger": "m.jost@steinbogen.example",
       "uhrzeit": "09:17"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "11_schriftsatz_klaegerin_kran.docx",
+      "titel": "4 O 217/26 · Ergänzung zum Geräte- und Personalansatz",
+      "datum": "2026-11-23",
+      "von": "Rechtsanwältin Svea Benthin · Kanzlei Benthin für Steinbogen Ingenieurbau GmbH",
+      "an": "Landgericht Essen · Zivilkammer für Bau- und Architektensachen",
+      "text": [
+        "Namens der Klägerin nehme ich zu der zwischen den Bauleitungen erörterten Mietabrechnung HW-991 Stellung. Wir halten den Zahlungsantrag über 13.787,00 EUR nebst den beantragten Zinsen aufrecht. Dass der Vermieter für den 8. September einen uneingeschränkten Vorhaltetag abrechnet, zeigt aus unserer Sicht die Bindung des Geräts an die Baustelle. Die Beklagte kann aus der Sperre der Hydraulik nicht ohne Weiteres die fehlende Einsatzbereitschaft der drei Beschäftigten herleiten.",
+        "Die am 9. September aufgezeichneten Lastspiele fielen nach Mitteilung unseres Poliers beim Umlagern von Material an. Der Polier kann aus der Erinnerung nicht angeben, welche Kolonne die Last angeschlagen hat. Wir wenden uns gegen eine pauschale Anrechnung sämtlicher Zeiten auf eine vergütete Ersatzarbeit. Als Zeugin zum Einsatz der Kolonne benennen wir weiterhin Jana Wilms. Für die technische Dauer der Wartung benennen wir den Monteur Oskar Venn, zu laden über Hublast West GmbH.",
+        "Die 4.518,00 EUR aus der Wochenabrechnung führen wir als Beleg der tatsächlichen Mietbelastung an. Wir stellen keinen weiteren Zahlungsantrag über diesen Betrag. Rechtsanwältin Svea Benthin"
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "12_gericht_weiterleitung.txt",
+      "titel": "4 O 217/26 · Übermittlungsvermerk zur Ergänzung vom 23. November",
+      "datum": "2026-11-24",
+      "von": "Landgericht Essen · Zivilkammer für Bau- und Architektensachen",
+      "an": "Rechtsanwalt Kerem Ünal · Beklagtenvertretung",
+      "text": [
+        "Der Schriftsatz der Prozessbevollmächtigten der Klägerin ist am 23. November um 17:36 Uhr im elektronischen Gerichtsfach eingegangen. Die Geschäftsstelle hat das Dokument am 24. November um 08:13 Uhr an das besondere elektronische Anwaltspostfach des Beklagtenvertreters übermittelt. Die Kanzlei bestätigte den technischen Eingang um 08:14 Uhr. Keine weitere Anlage übermittelt.",
+        "Nach dem Verfügungsblatt besteht die Frist zur Klageerwiderung bis 2. Dezember 2026 fort. Mit der Weiterleitung war keine Änderung der gesetzten Frist verbunden. Die Verteidigungsanzeige ist bereits zum Verfahren genommen."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "13_monteur_zur_sperre.eml",
+      "titel": "Wartungsauftrag HW-K17 · was ich am 8. September gesehen habe",
+      "datum": "2026-11-24",
+      "von": "Oskar Venn · Hublast West GmbH, Kundendienst",
+      "an": "Anke Röder · Projektleitung Schieferbachbrücke",
+      "text": [
+        "Frau Röder, ich war am 8. September ab 08:10 Uhr am Gerät. Den neuen Schlauch konnte ich erst nach Druckentlastung montieren. Unser Schlüssel blieb bis zum Probelauf bei mir. Um 11:50 Uhr habe ich den Kran wieder freigegeben. Wie schnell ein zweiter Kran erreichbar gewesen wäre, weiß unsere Disposition.",
+        "Am Lagerplatz traf ich zwei Beschäftigte und sprach mit der Polierin. Ich kann nicht angeben, was die Leute während der restlichen Schicht getan haben und ob sie ohne Kran am Widerlager hätten arbeiten können. Am 9. September war ich nicht vor Ort. Für die Einträge aus der Geräteaufzeichnung kann ich nur die Sperrzeit am Dienstag aus eigener Beobachtung bestätigen.",
+        "Oskar Venn"
+      ],
+      "absender": "o.venn@hublast-west.example",
+      "empfaenger": "a.roeder@interstate.example",
+      "uhrzeit": "11:32"
     }
   ]
 }

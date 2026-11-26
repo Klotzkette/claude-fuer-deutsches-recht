@@ -3,7 +3,7 @@
   "zeichen": "DI-W/26-044",
   "einstieg": "Die Niederlassung West will für ihr Werkhofgrundstück im Stadtgebiet Borken bis Jahresende die Kompensation nachweisen. Ein Flächenpool bietet die Zuordnung bereits durchgeführter Maßnahmen an. Ein zweiter Betrieb möchte eine Wiese erst anlegen und über Jahrzehnte pflegen. Beide schreiben auf die erste Seite „180.000 Ökopunkte“. Im Einkauf wartet eine vorbereitete Bestellung über 342.000 Euro.",
   "auftrag": "Entwerfen Sie für die Niederlassungsleitung eine Beschaffungsvorlage auf dem Stand vom 8. Oktober 2026. Beschreiben Sie für jede Variante konkret, wofür die AG zahlt, wer Eigentum, Nutzung, Pflege und Ausfallrisiko trägt und welchen Nachweis die Zulassungsbehörde benötigt. Vergleichen Sie Gegenstand, Gesamtwert einschließlich Optionen, mögliche Vergabewege und Terminfolgen. Prüfen Sie das Argument des Grundstückserwerbs ebenso wie die behauptete Alleinstellung des ersten Pools. Formulieren Sie die offenen Anfragen und die nächste ausführbare Entscheidung.",
-  "nachreichung": "Arbeiten Sie die drei späteren Eingänge ein. Berechnen Sie die tatsächlich gesicherte bzw. bestrittene Deckung, kontrollieren Sie Kompensationsraum, Maßnahmentyp und Doppelbelegung anhand der einzelnen Belege. Setzen Sie dem geänderten Vertragsangebot eine eigenständige Vertrags- und Vergabestrategie entgegen und entwerfen Sie die zeitkritischen Nachrichten an Anbieter und Behörde.",
+  "nachreichung": "Arbeiten Sie die drei späteren Eingänge ein. Berechnen Sie die tatsächlich gesicherte bzw. bestrittene Deckung, kontrollieren Sie Kompensationsraum, Maßnahmentyp und Doppelbelegung anhand der einzelnen Belege. Setzen Sie dem geänderten Vertragsangebot eine eigenständige Vertrags- und Vergabestrategie entgegen und entwerfen Sie die zeitkritischen Nachrichten an Anbieter und Behörde. Prüfen Sie, was Wiesenkante mit ihrem Schreiben erreichen will, welche Stelle über die Nebenbestimmung entscheiden kann und welche Beschaffungsentscheidung der Einkauf vor der Bindefrist der Punkteanbieter treffen darf. Antworten Sie getrennt zur Teilnahme am Wettbewerb und zum gewünschten Aufschub des Kompensationsnachweises.",
   "quellen": [
     [
       "GWB § 103 · öffentlicher Auftrag und Arten der Leistungen",
@@ -48,7 +48,12 @@
     [
       "BFH · Grundstückserwerb und Ökokonto, grunderwerbsteuerliche Entscheidung; Reichweite der Grundstücksbindung im dortigen Sachverhalt",
       "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520306/"
-    ]
+    ],
+    ["§ 160 GWB – Antrag und Rüge im Nachprüfungsverfahren", "https://www.gesetze-im-internet.de/gwb/__160.html"]
+  ],
+  "einwendungspruefung": [
+    {"eingabe": "11_einwendung_wiesenkante.eml", "gegenpruefung": "08_behoerdenauskunft.eml"},
+    {"eingabe": "11_einwendung_wiesenkante.eml", "gegenpruefung": "12_eingang_und_adressat.txt"}
   ],
   "dokumente": [
     {
@@ -220,6 +225,34 @@
       "absender": "flaechen@berkelgruen.example",
       "empfaenger": "einkauf@interstate-west.example",
       "uhrzeit": "09:35"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "11_einwendung_wiesenkante.eml",
+      "titel": "Einwendung gegen den Punktekauf und Bitte um Aufschub",
+      "datum": "2026-10-15",
+      "von": "Ina Nellen · Wiesenkante Landschaftspflege eG",
+      "an": "Bilal Hartung · Einkauf West",
+      "text": [
+        "Sehr geehrter Herr Hartung, gestern wurde uns auf Rückfrage gesagt, für den Werkhof würden jetzt Angebote über vorhandene Punkte verglichen. In dem uns erläuterten Leistungsbild standen auch Neuanlage und Pflege. Wir wollen diese Leistungen anbieten und beanstanden, wenn der Auftrag schon vor einer zugänglichen Ausschreibung unter den beiden Kontoinhabern verteilt wird. Vergleichen Sie bitte unseren Pflegeumfang nicht durch bloße Division des Gesamtbetrags durch die prognostizierte Punktezahl.",
+        "Wir bitten außerdem um Aufschub der Nachweisfrist bis zum ersten Aufwuchs. Das Schreiben geht an Sie als künftige Vertragspartnerin. Wir verfügen über keine Vollmacht, für die Deutsche Interstate AG gegenüber der Bauaufsicht eine Erklärung abzugeben. Für eine Bestellung von Bestandspunkten haben wir selbst keine Kontoeinheiten. Welche Leistung wird die AG tatsächlich nachfragen und an wen müssen wir uns wegen des Termins wenden?",
+        "Ina Nellen"
+      ],
+      "absender": "i.nellen@wiesenkante.example",
+      "empfaenger": "einkauf@interstate-west.example",
+      "uhrzeit": "08:42"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "12_eingang_und_adressat.txt",
+      "titel": "Werkhof · Verteilerprotokoll zur Nachricht von Wiesenkante",
+      "datum": "2026-10-15",
+      "von": "Bilal Hartung · Einkauf West",
+      "an": "Gesa Meis · Werkhofprojekt West und Elsa Venn · Landschaftsplanung",
+      "text": [
+        "08:43 Uhr Eingang beim Einkauf. 08:55 Uhr an die Landschaftsplanung weitergeleitet. Der externe Verteiler war leer. 09:22 Uhr telefonischer Abgleich von Frau Meis mit der Poststelle der Stadt Borken: Zu diesem Vorgang liegt dort nach Auskunft der Poststelle bislang kein Antrag der Bauherrin auf Änderung des Nachweistermins vor. Die Stadt hat zu den Erfolgsaussichten keine Auskunft erteilt.",
+        "Die Bestellmaske für Vennsaum und Berkelgrün enthält Entwürfe ohne freigegebene Bestellnummer. Am Vorabend wurde die Kombination aus 145.000 und 35.000 Einheiten intern angefragt. Die Akte enthält weiterhin keine behördliche Bestätigung der projektbezogenen Zuordnung beider Teilmengen. Vennsaum verlangt eine Rückmeldung bis zum 16. Oktober, 12 Uhr. Der Einkauf hat lediglich die Eingänge bestätigt."
+      ]
     }
   ]
 }

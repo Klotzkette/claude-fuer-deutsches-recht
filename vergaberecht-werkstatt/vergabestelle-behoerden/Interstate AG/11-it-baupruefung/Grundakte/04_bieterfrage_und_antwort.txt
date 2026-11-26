@@ -1,0 +1,6 @@
+Öffentliche Frage 6 zu verknüpften Dateien
+08.09.2026 · Tabea Rothen · IT-Einkauf West an Teilnehmerbereich · beide Fachlose
+
+Frage vom 7. September, 11:04 Uhr. Darf der Bildverweis als zweite Tabelle mit gemeinsamer Vorgangsnummer übergeben werden, wenn der Empfänger beide Tabellen anhand dieses Feldes automatisiert zusammenführt? Wir bitten um kurze Klarstellung.
+
+Antwort Nr. 6 am 8. September um 14:12 Uhr gleichzeitig an alle registrierten Unternehmen versandt und öffentlich im Teilnehmerbereich eingestellt. „Ja. Eine separate Zuordnungsdatei ist zulässig. Entscheidend ist die Verbindung über die unveränderte Vorgangsnummer. Die drei Testvorgänge und die Punkte nach Anlage E3 bleiben maßgeblich.“

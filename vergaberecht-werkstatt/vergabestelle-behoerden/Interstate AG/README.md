@@ -1,16 +1,26 @@
 # Interstate AG · Vergabestelle der Niederlassung West
 
-Die Deutsche Interstate AG ist in diesen sieben fiktiven Akten eine öffentlich beherrschte Fernstraßengesellschaft. Sie arbeiten für ihre Niederlassung West. Ein Fachbereich bittet um Freigabe, ein Bieter widerspricht oder das Projektteam braucht eine Entscheidung für die laufende Baustelle. Jeder Fall hat ein eigenes Projekt, eigene Beteiligte und einen eigenen Bearbeitungsstand.
+Sie arbeiten für die Vergabestelle der Deutschen Interstate AG, einer fiktiven öffentlich beherrschten Fernstraßengesellschaft. In elf Fällen braucht die Niederlassung West Ihre Entscheidung. Darf ein Unternehmen sich auf ein einzelnes Los bewerben? Hat eine im Angebot genannte Verkürzung der Bauzeit die Rangfolge verändert? Was lässt sich aus einem Portalprotokoll über den Zugang eines Schreibens ableiten? Wählen Sie einen Fall und beginnen Sie mit seiner Grundakte.
 
 | Fall | Was auf dem Schreibtisch liegt | Was die Vergabestelle braucht |
 | --- | --- | --- |
-| [1. Alleinstellung bei einer Archivmigration](01-alleinstellung/README.md) | Der Fachbereich will den bisherigen Anbieter beauftragen. Altvertrag, Datenrechte und die Rückmeldungen zum Export ergeben unterschiedliche Bilder. | Einen geprüften Begründungsvermerk und konkrete Fragen zu den verbliebenen Alternativen. |
-| [2. Teil- und Fachlose am Betriebshof Weidenstück](02-fachlose/README.md) | Für Nord und Süd sind Betonarbeiten, Oberflächenschutz und Malerarbeiten vorgesehen. Die Bauleitung möchte alles gemeinsam vergeben. | Einen begründeten Loszuschnitt. Anhand der Leistungsverzeichnisse prüfen Sie, welche Arbeiten regional und fachlich getrennt vergeben werden können und wer die Übergaben übernimmt. |
-| [3. Angebotsausschluss bei mobilen Pegelstationen](03-ausschluss/README.md) | Leistungsverzeichnis, ausgefülltes Preisblatt und Produktangaben zeigen, was der günstigste Bieter bei Angebotsabgabe zugesagt hat. | Einen überprüften Ausschlussvermerk mit getrennten Feststellungen zu beiden Vorgängen. |
-| [4. Ökopunkte für einen Werkhof](04-oekopunkte/README.md) | Die Niederlassung braucht anrechenbare Kompensation. Ein Anbieter bietet vorhandene Punkte an, ein anderer eine erst herzustellende Maßnahme. | Eine Ersteinschätzung zum Beschaffungsgegenstand und zu den Belegen für die naturschutzrechtliche Anrechnung. |
-| [5. Bauzeitstreit an der Schieferbachbrücke](05-baustreit/README.md) | Der Auftragnehmer und das Projektteam schildern die Folgen einer verspäteten Planfreigabe unterschiedlich. | Eine belegte Chronologie, eine rechtliche Ersteinschätzung und eine Empfehlung für die Erwiderung. |
-| [6. Nachtrag am Knoten Feldrain](06-nachtrag/README.md) | Das bepreiste Auftrags-LV, das Nachtrags-LV und die Aufmaße liegen vor. Der Auftragnehmer verlangt zusätzliches Geld für die Schutzrohrummantelung. | Eine dem Grunde und der Höhe nach nachvollziehbare Prüfung des Nachtrags. |
-| [7. Vertragsmuster für Kontrollleistungen](07-vertragsmuster/README.md) | Einkauf und Projektteam wollen einen Rahmenvertrag und den ersten Abruf verwenden. Ihre Fassungen greifen an entscheidenden Stellen unterschiedlich ineinander. | Eine Freigabeempfehlung mit konkreten Ersatzklauseln für die betroffenen Vertragsstellen. |
+| [1. Alleinstellung bei einer Archivmigration](01-alleinstellung/README.md) | Der Fachbereich will nur den bisherigen Anbieter einladen. Ein zweites Unternehmen widerspricht und verlangt Zugang zu einem Datenmuster. | Anhand von Altvertrag, Datenrechten und Posteingang prüfen, ob die Alternativen hinreichend untersucht sind. |
+| [2. Teil- und Fachlose am Betriebshof Weidenstück](02-fachlose/README.md) | Die Bauleitung möchte drei Gewerke für Nord und Süd zusammen vergeben. Ein Beschichtungsbetrieb erhebt vor Bekanntmachung „Einspruch“. | Anhand der Leistungsverzeichnisse über Teil- und Fachlose entscheiden. Klären, wer die Baustelleneinrichtung für Oberflächenschutz im Süden stellt. |
+| [3. Angebotsausschluss bei mobilen Pegelstationen](03-ausschluss/README.md) | Der günstigste Bieter beanstandet seine Nichtberücksichtigung und den frühesten Zuschlagstermin aus der Vorabinformation. Preisblatt, Produktangaben und Eigenerklärung liegen vor. | Die technische Zusage und die nachgereichte Eigenerklärung gesondert würdigen. Versand der Vorabinformation und mögliche Wartefrist belegen. |
+| [4. Ökopunkte für einen Werkhof](04-oekopunkte/README.md) | Ein Anbieter hat anrechenbare Punkte, der andere bietet eine erst herzustellende Maßnahme. Er beanstandet den reinen Punktekauf und verlangt mehr Zeit. | Den Beschaffungsgegenstand bestimmen. Klären, wer über die behördliche Frist entscheiden kann und welche Anrechnungsbelege fehlen. |
+| [5. Bauzeitstreit an der Schieferbachbrücke](05-baustreit/README.md) | Im Prozess um fünf Wartetage widerspricht die Auftragnehmerin der Darstellung zur Kranwartung. Gerichtseingang und Belege zum Geräteeinsatz müssen zugeordnet werden. | Schicht für Schicht Planfreigabe, Einsatzbereitschaft und mögliche Kosten rekonstruieren. Die Erwiderung für die Prozessvertretung vorbereiten. |
+| [6. Nachtrag am Knoten Feldrain](06-nachtrag/README.md) | Die Auftragnehmerin widerspricht der Kürzung ihres Abschlags für die Schutzrohrummantelung. Sie beruft sich auf Sicherungsarbeiten und gemeinsam eingesetztes Gerät. | Auftrags-LV, Nachtrags-LV und Aufmaße abgleichen, den strittigen Betrag beziffern und über die mögliche Teilfreigabe entscheiden. |
+| [7. Vertragsmuster für Kontrollleistungen](07-vertragsmuster/README.md) | Der Lieferant beruft sich für Pilotabruf und Änderungsauftrag auf eine Systemquittung und eine Reservierung. Einkauf und Projektteam legen die Vorgänge unterschiedlich aus. | Den Umfang einer möglichen Bindung prüfen und für Rahmenvertrag und Abruf passende Ersatzklauseln entwerfen. |
+| [8. Leitplanung im Korridor Riedtal](08-leitplanung/README.md) | Ein Planungsbüro möchte sich auf ein Gebietslos bewerben. Es greift die Referenzvorgabe und die Bündelung der Umweltuntersuchung mit der Verkehrsplanung an. | Für jeden Einwand festhalten, was die Vergabestelle beantwortet hat, was streitig bleibt und wie sich die Mitteilung der Vergabekammer auswirkt. |
+| [9. Neubau der Riedangerbrücke](09-brueckenneubau/README.md) | Im Angebot für Los B stehen vier verbindliche und zehn angestrebte Tage Bauzeitverkürzung. Eine unterlegene Bieterin widerspricht der Wertung. | Punkte und Rangfolge aus den Angebotsunterlagen herleiten. Anhand des Portaleingangs und der Kammerpost entscheiden, welche Schritte bis zum Zuschlag noch zulässig sind. |
+| [10. Fahrbahnmarkierung im Programm Wiesenbogen](10-fahrbahnmarkierung/README.md) | Ein Markierungsbetrieb interessiert sich für eines der beiden Teillose. Die Unterlagen verlangen zwei gleichzeitig verfügbare Kolonnen. | Die erste Frage zu den Sperrfenstern und die spätere Beanstandung getrennt auswerten. Prüfen, welche Vorgabe das betroffene Los tatsächlich braucht. |
+| [11. IT-Leistungen für die Bauprüfung](11-it-baupruefung/README.md) | Die Plattform „Prüfbuch West“ soll Prüfprotokolle von der Baustelle übernehmen. Ein Bieter hält die Punkte für den Datenexport für falsch. | Die zugesagte Exportfunktion mit den veröffentlichten Kriterien und der Wertung abgleichen. Die Vorabinformation und den Zugang der Einwendung zeitlich einordnen. |
+
+## Ein Schreiben bearbeiten
+
+Was verlangt der Absender konkret? Ein Schreiben mit der Überschrift „Widerspruch“ oder „Einspruch“ kann eine Korrektur der Vergabeunterlagen, eine andere Wertung oder die Zahlung eines Werklohns verlangen. Halten Sie die angegriffene Entscheidung oder Vertragsposition und das verlangte Ergebnis fest. Ordnen Sie dann anhand des Verfahrensstands ein, ob Sie etwa eine Bieterfrage, eine vergaberechtliche Rüge, eine Mitteilung der Vergabekammer oder eine vertragliche Einwendung bearbeiten.
+
+Im [leeren Prüfbogen für Einwendungen (Excel)](Einwendungen-Pruefbogen.xlsx) erhält jedes Schreiben eine Kennung. Tragen Sie auf dem Blatt **Eingang** Absender, Empfänger, Zeitpunkt und Beleg ein. Auf **Prüfung** stellen Sie jeden Streitpunkt der passenden Stelle aus dem Leistungsverzeichnis, dem Angebot oder dem Vertrag gegenüber. Auf **Entscheidung** halten Sie fest, welches Ereignis eine Frist auslösen könnte, welcher Nachweis noch fehlt und wer als Nächstes handeln muss.
 
 ## Mit Leistungsverzeichnissen arbeiten
 
@@ -20,15 +30,15 @@ Die Deutsche Interstate AG ist in diesen sieben fiktiven Akten eine öffentlich 
 
 Für eine eigene Kalkulation speichern Sie eine Kopie der Excel-Datei und tragen die Netto-Einheitspreise ein. Am Betriebshof können Sie auch nur ein Gewerk in einem Abschnitt bepreisen. Sobald die Positionen dieses Loses vollständig sind, weist die Datei seinen Nettobetrag aus. Die Summe für das gesamte Blatt erscheint, sobald alle Positionen bepreist sind.
 
-## Alle sieben Akten herunterladen
+## Alle Akten herunterladen
 
-Das Sammelpaket enthält pro Projekt die Originalunterlagen nach Aktenstand, die zusammenhängende Lesefassung und die Einzel-PDFs. Öffnen Sie nach dem Entpacken den gewünschten Fall. Wer nur ein Projekt bearbeiten möchte, kann oben die jeweilige Fallseite wählen.
+Das Sammelpaket enthält den leeren Prüfbogen und für jedes der elf Projekte die Originalunterlagen nach Aktenstand, die zusammenhängende Lesefassung und die Einzel-PDFs. Öffnen Sie nach dem Entpacken den gewünschten Fall. Wer nur ein Projekt bearbeiten möchte, kann oben die jeweilige Fallseite wählen.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-[Sieben Testakten als ZIP herunterladen](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/interstate-ag-nl-west-testakten.zip)
+[Elf Testakten mit Prüfbogen als ZIP herunterladen](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/interstate-ag-nl-west-testakten.zip)
 
 ## Mit einer Akte arbeiten
 
@@ -38,7 +48,7 @@ Das Sammelpaket enthält pro Projekt die Originalunterlagen nach Aktenstand, die
 
 **Einstieg für das Plugin**
 
-> Sie beraten die Vergabestelle der Deutschen Interstate AG, Niederlassung West. Bearbeiten Sie den Auftrag aus der Grundakte. Belegen Sie entscheidende Tatsachen mit Aktenstück und Datum, geben Sie den Stand des Verfahrens an und formulieren Sie die Entscheidung, die das Projektteam jetzt braucht. Zeigen Sie offene Tatsachenfragen und deren Folgen. Wenn ich später weitere Unterlagen übergebe, führen Sie Ihre erste Fassung fort.
+> Sie beraten die Vergabestelle der Deutschen Interstate AG, Niederlassung West. Bearbeiten Sie den Auftrag aus der Grundakte. Belegen Sie entscheidende Tatsachen mit Aktenstück und Datum, geben Sie den Stand des Verfahrens an und formulieren Sie die Entscheidung, die das Projektteam jetzt braucht. Arbeiten Sie für jedes streitige Schreiben das Begehren, den Eingangsbeleg und eine mögliche Frist heraus. Begründen Sie den nächsten Schritt und kennzeichnen Sie offene Tatsachenfragen. Wenn ich später weitere Unterlagen übergebe, führen Sie Ihre erste Fassung fort.
 
 Die Fälle und die darin verwendeten Korrespondenzen sind erfunden. Amtliche Rechtsquellen für die eigenständige Prüfung stehen auf der jeweiligen Fallseite.
 

@@ -3,7 +3,7 @@
   "zeichen": "DI-W/K17-2026-07",
   "einstieg": "Die Einkaufsrunde der Niederlassung West soll ein wiederverwendbares Vertragsset für Kontrollleistungen freigeben. Für das erste Projekt K17 hat der Einkauf den Rahmen ausgefüllt, die Projektleitung den Abruf. Die Daten des Lieferanten sind bereits eingetragen. Vor den Oktoberterminen will die Bauherrin wissen, wer ihr die Belege überlassen darf.",
   "auftrag": "Prüfen Sie Rahmenvertrag und Abrufblatt getrennt und in ihrem Zusammenwirken mit den beiden Bedingungswerken. Erstellen Sie bis 16. September, 12 Uhr, eine Entscheidungsvorlage für Einkauf und Projektleitung. Benennen Sie je Konflikt die betroffenen Ziffern, den Verwender, die tatsächliche Verhandlungslage, das betriebliche Risiko und eine priorisierte Entscheidung. Arbeiten Sie Ersatzklauseln und eine verhandelbare Rückfallposition aus. Trennen Sie die Freigabe des Pilotabrufs von der späteren Verwendung des Musters.",
-  "nachreichung": "Ab 17. September gehen die Gesprächserinnerung der Anbieterin, ein konkretes Änderungsblatt und die Antwort der kaufmännischen Leitung ein. Führen Sie die bestehende Prüfung bis zur Entscheidung über den unveränderten Abruf und die zusätzlich angefragten Leistungen fort. Erläutern Sie die Wertgrenzen und formulieren Sie die interne sowie externe Rückmeldung.",
+  "nachreichung": "Ab 17. September gehen die Gesprächserinnerung der Anbieterin, ein konkretes Änderungsblatt und die Antwort der kaufmännischen Leitung ein. Führen Sie die bestehende Prüfung bis zur Entscheidung über den unveränderten Abruf und die zusätzlich angefragten Leistungen fort. Erläutern Sie die Wertgrenzen und formulieren Sie die interne sowie externe Rückmeldung. Würdigen Sie die Nachricht der Anbieterin und das getrennte Postfachprotokoll. Prüfen Sie, welche Erklärung von welcher Person zugegangen ist, auf welche Fassung sie sich bezieht und ob für die zusätzlichen Nächte, die CSV oder eine Bereithaltung bereits eine Bindung besteht. Entwerfen Sie vor Ablauf der Personalreservierung eine nach außen eindeutige Antwort.",
   "quellen": [
     [
       "§ 150 BGB · Verspätete und abändernde Annahme",
@@ -73,6 +73,10 @@
       "BGH, Urteil vom 15. Februar 2024 – VII ZR 42/22 · Vertragsstrafenbemessung im Einheitspreisvertrag (amtlicher Volltext, XML im ZIP)",
       "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304022024.zip"
     ]
+  ],
+  "einwendungspruefung": [
+    {"eingabe": "11_widerspruch_abruftrennung.eml", "gegenpruefung": "06_freigabewerte_k17.xlsx"},
+    {"eingabe": "11_widerspruch_abruftrennung.eml", "gegenpruefung": "12_postfach_und_telefonnotiz.txt"}
   ],
   "dokumente": [
     {
@@ -339,6 +343,34 @@
       "absender": "luis.aden@deutsche-interstate.example",
       "empfaenger": "jakob.elsen@deutsche-interstate.example",
       "uhrzeit": "10:24"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "11_widerspruch_abruftrennung.eml",
+      "titel": "K17 · Widerspruch gegen die Trennung von Abruf und Änderungsblatt",
+      "datum": "2026-09-22",
+      "von": "Anne Holst · Rheinspur Kontrolltechnik GmbH, Geschäftsführung",
+      "an": "Nora Feld · Deutsche Interstate AG, Warengruppeneinkauf West",
+      "text": [
+        "Frau Feld, Ihre Projektassistenz nannte gestern im Telefonat die acht Pilotschichten „gesetzt“. In unserem Postfach steht das Änderungsblatt inzwischen als eingegangen. Wir haben zwei Personen für die zusätzlichen Nächte blockiert. Wir widersprechen einer Disposition nur der Pilotschichten zu den geänderten Terminen, wenn die Kosten der zusätzlichen Reservierung bei uns bleiben sollen.",
+        "Nach unserer Mitschrift sollten wir für die zwei zusätzlichen Nächte und den CSV-Export zusammen 3.780,00 EUR netto bestätigen. Wir können das zum genannten Betrag leisten, verlangen aber weiter die im Preisbrief vorgesehenen Zahlungsbedingungen. Eine kostenfreie Bereithaltung bieten wir bis heute, 15 Uhr. Für eine etwaige Verlängerung darüber hinaus bieten wir 160,00 EUR netto bis Mittwochmittag an. Bitte bestätigen Sie die Buchung oder geben Sie das Personal frei. Unsere Disposition hat keine von Frau Feld und Herrn Aden gezeichnete Bestellung erhalten.",
+        "Anne Holst"
+      ],
+      "absender": "anne.holst@rheinspur-kontrolltechnik.example",
+      "empfaenger": "nora.feld@deutsche-interstate.example",
+      "uhrzeit": "10:16"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "12_postfach_und_telefonnotiz.txt",
+      "titel": "K17 · Verlauf des Projektpostfachs und der Personaldisposition",
+      "datum": "2026-09-22",
+      "von": "Eda Köhler · Projektleitung K17",
+      "an": "Dr. Jakob Elsen · Rechtsabteilung West",
+      "text": [
+        "18.09., 14:32 Uhr: Änderungsblatt 01 als Anfrage zur Bestätigung an Rheinspur versandt. 21.09., 09:41 Uhr: im Projektpostfach Eingang der Dispositionsrückmeldung von Rheinspur. Der Bearbeiter wählte „eingegangen“. Der Rücklauf an die Anbieterin bestätigte den Erhalt und wies als Vorgang K17-01 aus. Im Ausgangsjournal ist kein signierter Abruf und keine Bestellnummer erfasst.",
+        "Unsere Projektassistenz erinnert den Satz am Telefon als „Die acht stehen im Einsatzplan, die zusätzlichen Nächte halten Sie bitte bis morgen frei.“ Sie war am Preisgespräch nicht beteiligt. 22.09., 10:17 Uhr: Eingang der neuen Nachricht von Rheinspur beim Warengruppeneinkauf, um 10:24 Uhr an die Rechtsabteilung weitergeleitet. Im Budgetblatt stehen weiterhin 16.000 EUR. Die Kostenstellenrunde tagt am 23. September."
+      ]
     }
   ]
 }
