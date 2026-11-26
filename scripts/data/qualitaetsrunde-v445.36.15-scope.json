@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "tag": "qualitaetsrunde-v445.36.15",
+  "version": "445.36.15",
+  "title": "Einwendungen in elf Vergabe- und Vertragsakten der Deutschen Interstate AG",
+  "plugins": [
+    {
+      "name": "vergabestelle-behoerden",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "preserved_prompts": {
+        "vergabestelle-behoerden-schnellstart.md": "d968fcf9a60093480cb32be239eee4cb954cee16216a8206b53101753360394d",
+        "vergabestelle-behoerden-werkstatt.md": "dba7494ecc173cb809ac0c2fa2d75bc18caa02e45a6db95a20df228cb97bb1eb"
+      },
+      "previous_release": {
+        "tag": "qualitaetsrunde-v445.36.13",
+        "version": "445.36.13",
+        "manifests": {
+          ".claude-plugin/plugin.json": "d941c9cbd0aa8de054669f2a1ec09a6caf6bcd14b5e91873ecf20e6527502cbf"
+        }
+      }
+    }
+  ]
+}

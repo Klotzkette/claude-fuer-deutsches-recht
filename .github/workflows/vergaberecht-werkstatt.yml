@@ -52,6 +52,7 @@ jobs:
           node scripts/validate-marketplace-import.mjs
           python scripts/validate-yaml-frontmatter.py
           python scripts/test-vergaberecht-import.py
+          python scripts/build-interstate-testakten.py --check
           python scripts/test-interstate-testakten.py
       - name: Fachpakete und Regressionen
         working-directory: vergaberecht-werkstatt

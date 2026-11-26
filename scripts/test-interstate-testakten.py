@@ -16,6 +16,7 @@ import sys
 import tempfile
 import unicodedata
 import unittest
+from urllib.parse import quote
 from zipfile import ZipFile
 from zoneinfo import ZoneInfo
 
@@ -29,7 +30,9 @@ ROOT = Path(__file__).resolve().parents[1]
 INPUT = ROOT / "scripts/data/interstate-ag"
 COLLECTION = ROOT / "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG"
 CASES = ("01-alleinstellung", "02-fachlose", "03-ausschluss", "04-oekopunkte",
-         "05-baustreit", "06-nachtrag", "07-vertragsmuster")
+         "05-baustreit", "06-nachtrag", "07-vertragsmuster", "08-leitplanung",
+         "09-brueckenneubau", "10-fahrbahnmarkierung", "11-it-baupruefung")
+FORM = "Einwendungen-Pruefbogen.xlsx"
 
 
 def condensed(value):
@@ -72,7 +75,7 @@ class InterstateAktenTests(unittest.TestCase):
 
     def test_sammelpaket(self):
         bundle = ROOT / "docs/downloads/interstate-ag-nl-west-testakten.zip"
-        expected = {}
+        expected = {FORM: COLLECTION / FORM}
         for slug in CASES:
             folder = COLLECTION / slug
             for phase in ("Grundakte", "Nachreichungen", "gesamt-pdf", "downloads"):
@@ -88,6 +91,23 @@ class InterstateAktenTests(unittest.TestCase):
             self.assertEqual(set(archive.namelist()), set(expected) | {"README.txt"})
             for member, source in expected.items():
                 self.assertEqual(archive.read(member), source.read_bytes(), member)
+
+    def test_pruefbogen_ist_leer_und_beschreibbar(self):
+        book = load_workbook(COLLECTION / FORM)
+        self.assertEqual(book.sheetnames, ["Eingang", "Prüfung", "Entscheidung"])
+        for sheet in book:
+            self.assertEqual(sheet["A3"].value, "Kennung")
+            self.assertGreater(sheet.max_column, 3)
+            for row in sheet.iter_rows(min_row=4):
+                self.assertTrue(all(cell.value is None for cell in row))
+            sheet["A4"] = "E-01"
+        result = io.BytesIO()
+        book.save(result)
+        result.seek(0)
+        checked = load_workbook(result)
+        self.assertEqual([sheet["A4"].value for sheet in checked], ["E-01"] * 3)
+        checked.close()
+        book.close()
 
     def test_falllieferungen(self):
         for slug in CASES:
@@ -117,6 +137,17 @@ class InterstateAktenTests(unittest.TestCase):
         pdfs_path = root / "downloads" / (label + "-einzelpdfs.zip")
         readme = (root / "README.md").read_text()
         self.assertIn(NOTICE_MARKDOWN, readme)
+        pairs = case["einwendungspruefung"]
+        self.assertTrue(pairs)
+        review = readme.split("## Eingaben prüfen\n", 1)[1].split("\n## ", 1)[0]
+        self.assertIn(f"(../{FORM})", review)
+        documents = {row["datei"]: row for row in rows}
+        for pair in pairs:
+            self.assertNotEqual(pair["eingabe"], pair["gegenpruefung"])
+            for member in (pair["eingabe"], pair["gegenpruefung"]):
+                local_path = f'{documents[member]["phase"]}/{member}'
+                self.assertIn(local_path, originals)
+                self.assertIn(f"({quote(local_path)})", review)
         for export in (combined_path, originals_path, pdfs_path):
             self.assertIn(export.relative_to(root).as_posix(), readme)
 
@@ -206,7 +237,7 @@ class InterstateLeistungsverzeichnisTests(unittest.TestCase):
                 summary = next(rows)
                 priced = [item[2] for item in items.values() if item[1] is not None]
                 if len(priced) == len(items):
-                    self.assertEqual(summary[total], sum(priced))
+                    self.assertEqual(Decimal(str(summary[total])), sum(Decimal(str(p)) for p in priced))
                 else:
                     self.assertIn(summary[total], (None, ""))
                 if "losspalte" in doc["lv"]:
@@ -218,12 +249,21 @@ class InterstateLeistungsverzeichnisTests(unittest.TestCase):
                     self.assertEqual(set(summaries), set(by_lot))
                     for lot, amounts in by_lot.items():
                         if all(value is not None for value in amounts):
-                            self.assertEqual(summaries[lot], sum(amounts))
+                            self.assertEqual(Decimal(str(summaries[lot])), sum(Decimal(str(p)) for p in amounts))
                         else:
                             self.assertIn(summaries[lot], (None, ""))
                 return items
             finally:
                 book.close()
+
+    def test_leistungsverzeichnisse_der_vier_fachvergaben(self):
+        for slug in CASES[7:]:
+            with self.subTest(fall=slug):
+                case = json.loads((INPUT / (slug + ".json")).read_text())
+                workbooks = [doc for doc in case["dokumente"] if "lv" in doc]
+                self.assertTrue(workbooks, f"{slug}: kalkulierbares Leistungsverzeichnis fehlt")
+                for doc in workbooks:
+                    self.assertTrue(self.positions(slug, doc["datei"]))
 
     def test_teillose_fachlose_und_marktpreise(self):
         slug = "02-fachlose"
@@ -262,7 +302,7 @@ class InterstateLeistungsverzeichnisTests(unittest.TestCase):
 
 class InterstatePluginTests(unittest.TestCase):
     def test_installierbares_desktop_paket(self):
-        scope = ROOT / "scripts/data/qualitaetsrunde-v445.36.13-scope.json"
+        scope = ROOT / "scripts/data/qualitaetsrunde-v445.36.15-scope.json"
         edition = json.loads(scope.read_text())
         tag = edition["tag"]
         with tempfile.TemporaryDirectory() as output:
@@ -277,6 +317,7 @@ class InterstatePluginTests(unittest.TestCase):
                 self.assertIn("(Interstate%20AG/README.md)", package.read("README.md").decode())
                 self.assertEqual(package.read("README.txt"), NOTICE_BYTES)
                 index = package.read("Interstate AG/README.md").decode()
+                self.assertEqual(package.read(f"Interstate AG/{FORM}"), (COLLECTION / FORM).read_bytes())
                 for slug in CASES:
                     with self.subTest(akte=slug):
                         self.assertIn(f"({slug}/README.md)", index)

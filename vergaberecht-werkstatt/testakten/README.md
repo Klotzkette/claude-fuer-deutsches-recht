@@ -4,7 +4,7 @@
 
 Sieben fiktive, realitätsnah aufgebaute Vergabeakten mit insgesamt 115 nummerierten Aktenstücken. Jede Akte enthält Ausgangsunterlagen, Verfahrensdaten, Wertungs- oder Eignungsfragen und die passenden Vergabe-, Angebots- oder Rechtsschutzdokumente bis zur Umsetzung einer VK- oder OLG-Entscheidung.
 
-Eine weitere Sammlung für die Auftraggeberseite führt die [Deutsche Interstate AG, Niederlassung West](../vergabestelle-behoerden/Interstate%20AG/README.md). Ihre sieben Fälle enthalten jeweils eine Grundakte und spätere Nachreichungen.
+Eine weitere Sammlung für die Auftraggeberseite führt die [Deutsche Interstate AG, Niederlassung West](../vergabestelle-behoerden/Interstate%20AG/README.md). Ihre elf Fälle enthalten jeweils eine Grundakte, Nachreichungen und Schreiben, deren Anliegen Sie aus Sicht der Vergabestelle prüfen. Dazu gehören ein Streit um gewertete Bauzeitvorteile beim Brückenneubau und eine Beanstandung der Kolonnenvorgabe für Fahrbahnmarkierungen.
 
 Alle Personen, Unternehmen, Anschriften, Aktenzeichen und Verfahrensabläufe sind frei erfunden. Reale Orts- oder Behördenbezeichnungen dienen ausschließlich einem plausiblen Aktenbild; eine Ähnlichkeit mit einem tatsächlichen Vergabeverfahren ist nicht beabsichtigt.
 

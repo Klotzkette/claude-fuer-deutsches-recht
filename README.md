@@ -49,7 +49,7 @@ Für ChatGPT findest du den passenden Einstieg unter [Workspace, Desktop-App und
 | **Skills** | 3179 | Arbeitsabläufe für einzelne Aufgaben | [Alle Skills](./SKILLS.md) · [Einzeldownloads je Plugin](./skills-index/) |
 | **Werkstatt-Prompts** | 312 | Ausführliche Anweisungen für mehrstufige Vorgänge | [Werkstatt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | **Schnellstart-/Mini-Prompts** | 311 | Kurze Anweisungen für den Einstieg im Chat | [Mini-Prompt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 634 zentral / 672 gesamt | Übungsfälle mit Arbeitsaufträgen und Unterlagen | [Zentrale Sammlung](./testakten/README.md#verfügbare-akten) · [Akten einzelner Plugins](#testakten) |
+| **Testakten** | 634 zentral / 676 gesamt | Übungsfälle mit Arbeitsaufträgen und Unterlagen | [Zentrale Sammlung](./testakten/README.md#verfügbare-akten) · [Akten einzelner Plugins](#testakten) |
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
 
 Die Prompt-Register zählen die Hauptdateien je Plugin. Zusätzliche Werkstätten gibt es unter anderem für die [neun HOAI-Leistungsphasen](./docs/bauwirtschaft-hoai-phasen.md) und die [Insolvenzanfechtung](./insolvenzanfechtung/werkstattprompts/README.md). Die [Hauptskills](./skills-index/README.md#hauptskills) führen durch einen ganzen Vorgang. Der [Werkstatt-Leitfaden](./docs/werkstatt-visualisierung.md) zeigt, wie sich Belege und Varianten bis zum Entwurf verfolgen lassen.
@@ -92,7 +92,7 @@ Die [zentrale Sammlung](./testakten/README.md) lässt sich [nach Rechtsgebiet](.
 - [29 Workshopakten mit Beweisfragen und nachgereichten Unterlagen](./docs/releases/testakten-praxis-v1.0.0.md)
 - Eigene Aktensammlungen führen außerdem das [Allgemeine Notariat](./allgemeines-notariat/testakten/README.md), der [Aktenanleger](./aktenanleger/testakten/README.md) und das [Umwandlungssteuerrecht](./umwandlungssteuerrecht/testakten/README.md).
 - Pluginlokale Bestände der [Kündigungsschutzklagewerkstatt](./arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/), des [Arbeitszeugnisgenerators](./arbeitszeugnisgenerator/testakte/), des [Arbeitszeugnisprüfers](./arbeitszeugnispruefer/testakte/), des [UN-Kaufrechts](./un-kaufrecht-cisg/testakte/) und der [Untersuchungshaft](./untersuchungshaft/testakte/)
-- [Deutsche Interstate AG: sieben Fälle aus der Vergabestelle der Niederlassung West](./vergaberecht-werkstatt/vergabestelle-behoerden/Interstate%20AG/README.md)
+- [Deutsche Interstate AG · elf Fälle aus der Vergabestelle der Niederlassung West](./vergaberecht-werkstatt/vergabestelle-behoerden/Interstate%20AG/README.md)
 - [Sieben Akten der Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [Übungsakten der Gerichts-Plugins über die Rollenübersicht](./gerichtsplugins/README.md) · [Weitere Beispielsammlungen](#weitere-unterlagen-zum-testen)
 
 </details>
@@ -119,7 +119,7 @@ Verfügbarkeit, Dateizugriff, Quellenzugänge und der Export von DOCX, PDF oder 
 | --- | --- |
 | **Plugins** | 314 |
 | **Skills (SKILL.md)** | 3179 im Quellbestand |
-| **Testakten** | 634 zentral / 672 gesamt |
+| **Testakten** | 634 zentral / 676 gesamt |
 | **Fachanwaltsprofile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v445.35.3` als Basisversion des [Marketplace-Manifests](./.claude-plugin/marketplace.json). Die [Fachübersicht](./references/rechtsgebiete-uebersicht.md) nennt die jeweilige Version jedes Plugins. |
 

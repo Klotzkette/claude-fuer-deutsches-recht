@@ -36,13 +36,25 @@ Beginnen Sie mit diesen Unterlagen.
 
 ## Nachreichungen
 
-Der gemeinsam unterschriebene Feldbuchauszug, die Leistungsnachweise und das fortgeschriebene Nachtrags-LV vom 23. November verändern die Mengenbasis. Stellen Sie bisher ausgeführte Leistungen und die Prognose bis zum Bauende gesondert dar. Überarbeiten Sie das Verhandlungsergebnis und formulieren Sie eine umsetzbare Anweisung für die nächste Schicht.
+Der gemeinsam unterschriebene Feldbuchauszug, die Leistungsnachweise und das fortgeschriebene Nachtrags-LV vom 23. November verändern die Mengenbasis. Stellen Sie bisher ausgeführte Leistungen und die Prognose bis zum Bauende gesondert dar. Überarbeiten Sie das Verhandlungsergebnis und formulieren Sie eine umsetzbare Anweisung für die nächste Schicht. Prüfen Sie die Einwendungen gegen den Prüfabzug getrennt nach Leistung, Menge, Preis und Abschlagsgrundlage. Stellen Sie dem verlangten Zahlungstermin den dokumentierten Eingang und dem Geräteansatz die bereits im Meterpreis enthaltenen Arbeiten gegenüber. Formulieren Sie eine Antwort, die auch die Entscheidung zur nächsten Sperrnacht offenlegt.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
 | 19.11.2026 | [Gemeinsames Aufmaß FB-12 · Stand nach der vierten Nachtschicht](Nachreichungen/09_feldbuch.xlsx) | XLSX |
 | 23.11.2026 | [Sperrprotokolle und Baggerstunden · Belegabgleich zu N7.2 bis N7.4](Nachreichungen/10_schichtabgleich.xlsx) | XLSX |
 | 23.11.2026 | [Nachtragsleistungsverzeichnis N7 · Mengenfortschreibung der Auftragnehmerin](Nachreichungen/11_nachtrags_lv_n7.xlsx) | XLSX |
+| 23.11.2026 | [Abschlag 4 · vorläufiger Prüfansatz für die Besprechung](Nachreichungen/12_pruefmitteilung_n7.eml) | EML |
+| 24.11.2026 | [Widerspruch gegen den angekündigten Prüfabzug · Abschlag 4](Nachreichungen/13_widerspruch_pruefabzug.eml) | EML |
+| 24.11.2026 | [KF3 · Eingang bei der Vertragsleitung und Stand des Zahlungslaufs](Nachreichungen/14_eingang_und_zahlungslauf.txt) | TXT |
+
+## Eingaben prüfen
+
+Was beantragt der Absender, was lässt sich anhand der Akte belegen und was bleibt offen? Nutzen Sie die Nachreichungen in der zweiten Bearbeitungsrunde. Den [Prüfbogen für Einwendungen](../Einwendungen-Pruefbogen.xlsx) können Sie für jeden Vorgang ausfüllen.
+
+| Eingabe | Unterlage zur Gegenprüfung |
+| --- | --- |
+| [Widerspruch gegen den angekündigten Prüfabzug · Abschlag 4](Nachreichungen/13_widerspruch_pruefabzug.eml) (Nachreichungen) | [Sperrprotokolle und Baggerstunden · Belegabgleich zu N7.2 bis N7.4](Nachreichungen/10_schichtabgleich.xlsx) (Nachreichungen) |
+| [Widerspruch gegen den angekündigten Prüfabzug · Abschlag 4](Nachreichungen/13_widerspruch_pruefabzug.eml) (Nachreichungen) | [KF3 · Eingang bei der Vertragsleitung und Stand des Zahlungslaufs](Nachreichungen/14_eingang_und_zahlungslauf.txt) (Nachreichungen) |
 
 ## Quellen
 

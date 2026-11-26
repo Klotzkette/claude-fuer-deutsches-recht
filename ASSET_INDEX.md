@@ -42,7 +42,7 @@ Der [Prüfer zur KI-Verordnung](./ki-vo-ai-act-pruefer/README.md) führt durch d
 
 ## Akten-Begleitrelease
 
-Die [Deutsche Interstate AG](vergaberecht-werkstatt/vergabestelle-behoerden/Interstate%20AG/README.md) stellt sieben Fälle der Niederlassung West jeweils mit Originalunterlagen, Einzel-PDFs und Gesamt-PDF bereit.
+Die [Deutsche Interstate AG](vergaberecht-werkstatt/vergabestelle-behoerden/Interstate%20AG/README.md) stellt elf Vergabe- und Vertragsakten mit Originalunterlagen, Einzel-PDFs und Gesamt-PDF bereit. Der gemeinsame Excel-Prüfbogen dient der Bearbeitung von Einwendungen.
 
 Die Akten-ZIPs liegen grundsätzlich in den versionsgleichen Begleitreleases [`akten-v445.35.3`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/akten-v445.35.3), [`akten-2-v445.35.3`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/akten-2-v445.35.3). Je Teil werden höchstens 499 Akten mit beiden ZIP-Varianten und einer eigenen Prüfsummenliste veröffentlicht. Das Hauptrelease enthält die Akten-Sammelpakete und `alles-komplettpaket.zip`. Für jede Akte führt die Tabelle zum Originalformat-ZIP und zu den Einzel-PDFs im jeweils zugeordneten Release.
 

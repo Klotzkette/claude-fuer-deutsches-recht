@@ -3,7 +3,7 @@
   "zeichen": "DI-W/06-KF3",
   "einstieg": "Am Knoten Feldrain liegt die geplante Kabelschutzrohrtrasse näher an einer alten Stützwand, als die Bestandszeichnung erkennen ließ. Tiefbau Wiesenfeld baut abschnittsweise geteilte Stahlrohrmäntel ein und verlangt dafür 21.188,00 Euro netto. Die nächste Sperrnacht steht bevor. Projektleitung, Bauüberwachung und Vertragsleitung haben der Firma unterschiedliche Mitteilungen geschickt.",
   "auftrag": "Prüfen Sie für die Niederlassung West jede Position des Nachtrags 7 und entwerfen Sie die Antwort an die Auftragnehmerin vor der nächsten Sperrnacht. Unterscheiden Sie den geschuldeten Vertragsumfang, die verlangte Änderung, das Zustandekommen einer Vereinbarung und die Voraussetzungen einer einseitigen Anordnung. Ermitteln Sie aus den Belegen Preise und Mengen, weisen Sie mögliche Überschneidungen mit dem Hauptauftrag aus und benennen Sie die Nachweise für eine belastbare Teilfreigabe. Halten Sie fest, wer weitere Arbeiten mit welcher Wirkung veranlassen kann.",
-  "nachreichung": "Der gemeinsam unterschriebene Feldbuchauszug, die Leistungsnachweise und das fortgeschriebene Nachtrags-LV vom 23. November verändern die Mengenbasis. Stellen Sie bisher ausgeführte Leistungen und die Prognose bis zum Bauende gesondert dar. Überarbeiten Sie das Verhandlungsergebnis und formulieren Sie eine umsetzbare Anweisung für die nächste Schicht.",
+  "nachreichung": "Der gemeinsam unterschriebene Feldbuchauszug, die Leistungsnachweise und das fortgeschriebene Nachtrags-LV vom 23. November verändern die Mengenbasis. Stellen Sie bisher ausgeführte Leistungen und die Prognose bis zum Bauende gesondert dar. Überarbeiten Sie das Verhandlungsergebnis und formulieren Sie eine umsetzbare Anweisung für die nächste Schicht. Prüfen Sie die Einwendungen gegen den Prüfabzug getrennt nach Leistung, Menge, Preis und Abschlagsgrundlage. Stellen Sie dem verlangten Zahlungstermin den dokumentierten Eingang und dem Geräteansatz die bereits im Meterpreis enthaltenen Arbeiten gegenüber. Formulieren Sie eine Antwort, die auch die Entscheidung zur nächsten Sperrnacht offenlegt.",
   "quellen": [
     [
       "§ 650a BGB – Bauvertrag",
@@ -33,6 +33,10 @@
       "§ 126b BGB – Textform",
       "https://www.gesetze-im-internet.de/bgb/__126b.html"
     ]
+  ],
+  "einwendungspruefung": [
+    {"eingabe": "13_widerspruch_pruefabzug.eml", "gegenpruefung": "10_schichtabgleich.xlsx"},
+    {"eingabe": "13_widerspruch_pruefabzug.eml", "gegenpruefung": "14_eingang_und_zahlungslauf.txt"}
   ],
   "dokumente": [
     {
@@ -507,6 +511,51 @@
           88,
           null
         ]
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "12_pruefmitteilung_n7.eml",
+      "titel": "Abschlag 4 · vorläufiger Prüfansatz für die Besprechung",
+      "datum": "2026-11-23",
+      "von": "Farid Kemper · Deutsche Interstate AG, kaufmännische Vertragsleitung West",
+      "an": "Lisa Türk · Tiefbau Wiesenfeld GmbH, kaufmännische Bauleitung",
+      "text": [
+        "Frau Türk, wir haben die am 19. November aufgenommenen 124 m Mantel und 44 m Verbreiterung für die Rechenprüfung übernommen. Für die zusätzliche Sicherung können wir derzeit nur die zweite mobile Tafel am 13. November verfolgen. Weder bei den übrigen Nächten noch bei den 16 Gerätestunden kann die Abrechnung alle im Nachtrags-LV angesetzten Kosten von Leistungen des Hauptauftrags trennen. Vor einer vorläufigen Freigabe brauchen wir Ihre Zuordnung.",
+        "Die vier Grundsicherungen aus Position 01.40 bleiben im Prüflauf der Hauptrechnung. Die Abrechnungsstelle hat den Nachtragsanteil von 16.950,40 EUR bis zur Besprechung auf „Rückfrage“ gesetzt. Das ist der Status des angeforderten Abschlags. Eine Schlusszahlung oder eine Freigabe für die nächste Schicht habe ich damit nicht erklärt. Bitte antworten Sie unmittelbar an die Vertragsleitung.",
+        "Farid Kemper"
+      ],
+      "absender": "f.kemper@interstate.example",
+      "empfaenger": "l.tuerk@wiesenfeld.example",
+      "uhrzeit": "16:18"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "13_widerspruch_pruefabzug.eml",
+      "titel": "Widerspruch gegen den angekündigten Prüfabzug · Abschlag 4",
+      "datum": "2026-11-24",
+      "von": "Lisa Türk · Tiefbau Wiesenfeld GmbH, kaufmännische Bauleitung",
+      "an": "Farid Kemper · Deutsche Interstate AG, kaufmännische Vertragsleitung West",
+      "text": [
+        "Wir widersprechen dem vollständigen Einbehalt der 16.950,40 EUR und halten am Abschlagsbegehren vom 16. November fest. Die montierten 124 m und die 44 m Verbreiterung sind gemeinsam vermessen. Die Grundsicherung steht in 01.40. Für die zusätzlich eingesetzte mobile Tafel nennen wir RS-77. Dass im Fahrerzettel am 13. November nur eine Schicht steht, beantwortet noch nicht die Frage nach den Sicherungsleistungen.",
+        "Im gesonderten Geräteansatz müssen wir die Arbeiten am Wandkopf und die Herstellung des breiteren Grabens auseinanderhalten. Nach den vier Fahrerzetteln entfallen vier Stunden auf das Freilegen des Wandkopfs. Die sechs Stunden Regelgraben lassen sich der Grundposition zuordnen. Umstritten bleiben insbesondere die sechs Stunden Verbreiterung neben dem angebotenen Meterpreis. Bitte geben Sie an, welchen Betrag Sie jetzt zahlen und wie Sie unsere Berufung auf die 80-Prozent-Regel behandeln.",
+        "Unsere bis 12:00 Uhr laufende Reservierung von Personal für morgen verlängern wir bis 14:00 Uhr. Eine verbindliche Erklärung zur Weiterarbeit erwarten wir von der Vertragsleitung. Dieser Zeitaufschub enthält keine Einigung über den angebotenen Preis.",
+        "Lisa Türk"
+      ],
+      "absender": "l.tuerk@wiesenfeld.example",
+      "empfaenger": "f.kemper@interstate.example",
+      "uhrzeit": "09:27"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "14_eingang_und_zahlungslauf.txt",
+      "titel": "KF3 · Eingang bei der Vertragsleitung und Stand des Zahlungslaufs",
+      "datum": "2026-11-24",
+      "von": "Mona Kühl · Bauabrechnung West",
+      "an": "Farid Kemper · Deutsche Interstate AG, kaufmännische Vertragsleitung West",
+      "text": [
+        "23. November 16:18 Uhr: Prüfansatz an Wiesenfeld versandt. 24. November 09:28 Uhr: Eingang der Antwort der Auftragnehmerin im Postfach Kemper. Um 09:35 Uhr wurde sie nachträglich mit der vierten Abschlagsrechnung verknüpft. Zuständigkeitskürzel FK, Kostenstelle KF3. In der Bauabrechnung ist für 11:30 Uhr ein Prüftermin vorgemerkt.",
+        "Der Status „Rückfrage“ sperrt die automatische Auszahlung des Nachtragsanteils. Der freigegebene Teil der Hauptrechnung wird separat verarbeitet. Es liegt kein Eintrag über einen Verzicht, eine Schlusszahlungsmitteilung oder einen Verrechnungsvorschlag vor. Bauüberwachung und Sicherer haben lediglich das Verkehrsfenster reserviert. Der Eingangsstempel ist keine Anordnung von Mehrleistungen."
       ]
     }
   ]

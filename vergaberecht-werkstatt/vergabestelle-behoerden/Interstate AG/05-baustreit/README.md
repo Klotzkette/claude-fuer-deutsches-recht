@@ -35,12 +35,24 @@ Beginnen Sie mit diesen Unterlagen.
 
 ## Nachreichungen
 
-Am 19. und 20. November gehen die Maschinenaufzeichnung und die Antwort des Kranvermieters ein. Gleichen Sie beides mit der früheren Erklärung der Bauleitung und der Kalkulation ab. Überarbeiten Sie die bestrittenen Zeitfenster, den Umfang einer noch sinnvollen Beweiserhebung und den Verhandlungsspielraum.
+Am 19. und 20. November gehen die Maschinenaufzeichnung und die Antwort des Kranvermieters ein. Gleichen Sie beides mit der früheren Erklärung der Bauleitung und der Kalkulation ab. Überarbeiten Sie die bestrittenen Zeitfenster, den Umfang einer noch sinnvollen Beweiserhebung und den Verhandlungsspielraum. Lesen Sie den ergänzenden Schriftsatz der Klägerin und die Erklärung des Monteurs zusammen mit dem gerichtlichen Übermittlungsvermerk. Entwerfen Sie den Gegenvortrag zum Personaleinsatz, zur Gerätebereitschaft und zur Höhe der Forderung. Ordnen Sie jede bestrittene Einzelheit einem Beweisangebot zu und halten Sie die Frist zur Klageerwiderung fest.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
 | 19.11.2026 | [K17 · Auszug aus dem Gerätejournal nach Zeitabgleich](Nachreichungen/09_kranexport.csv) | CSV |
 | 20.11.2026 | [AW: Rechnung HW-991 und Wartungsfenster des Mietkrans](Nachreichungen/10_mietabrechnung.eml) | EML |
+| 23.11.2026 | [4 O 217/26 · Ergänzung zum Geräte- und Personalansatz](Nachreichungen/11_schriftsatz_klaegerin_kran.docx) | DOCX |
+| 24.11.2026 | [4 O 217/26 · Übermittlungsvermerk zur Ergänzung vom 23. November](Nachreichungen/12_gericht_weiterleitung.txt) | TXT |
+| 24.11.2026 | [Wartungsauftrag HW-K17 · was ich am 8. September gesehen habe](Nachreichungen/13_monteur_zur_sperre.eml) | EML |
+
+## Eingaben prüfen
+
+Was beantragt der Absender, was lässt sich anhand der Akte belegen und was bleibt offen? Nutzen Sie die Nachreichungen in der zweiten Bearbeitungsrunde. Den [Prüfbogen für Einwendungen](../Einwendungen-Pruefbogen.xlsx) können Sie für jeden Vorgang ausfüllen.
+
+| Eingabe | Unterlage zur Gegenprüfung |
+| --- | --- |
+| [4 O 217/26 · Ergänzung zum Geräte- und Personalansatz](Nachreichungen/11_schriftsatz_klaegerin_kran.docx) (Nachreichungen) | [Wartungsauftrag HW-K17 · was ich am 8. September gesehen habe](Nachreichungen/13_monteur_zur_sperre.eml) (Nachreichungen) |
+| [4 O 217/26 · Ergänzung zum Geräte- und Personalansatz](Nachreichungen/11_schriftsatz_klaegerin_kran.docx) (Nachreichungen) | [4 O 217/26 · Übermittlungsvermerk zur Ergänzung vom 23. November](Nachreichungen/12_gericht_weiterleitung.txt) (Nachreichungen) |
 
 ## Quellen
 
@@ -52,5 +64,6 @@ Am 19. und 20. November gehen die Maschinenaufzeichnung und die Antwort des Kran
 - [§ 138 ZPO – Erklärungspflicht über Tatsachen](https://www.gesetze-im-internet.de/zpo/__138.html)
 - [§ 286 ZPO – Freie Beweiswürdigung](https://www.gesetze-im-internet.de/zpo/__286.html)
 - [§ 287 ZPO – Schadensermittlung](https://www.gesetze-im-internet.de/zpo/__287.html)
+- [§ 296 ZPO – Zurückweisung verspäteten Vorbringens](https://www.gesetze-im-internet.de/zpo/__296.html)
 
 [Alle Interstate-Akten](../README.md)

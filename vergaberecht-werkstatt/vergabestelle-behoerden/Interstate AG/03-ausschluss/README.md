@@ -37,13 +37,25 @@ Beginnen Sie mit diesen Unterlagen.
 
 ## Nachreichungen
 
-Öffnen Sie danach die drei Eingänge vom 10. und 11. September. Führen Sie denselben Vermerk fort. Ordnen Sie die belegte frühere Produktkonfiguration, die nachträglich angebotene Zusatzbatterie und die inzwischen eingegangene Beanstandung jeweils dem zutreffenden Verfahrensschritt zu. Arbeiten Sie die Konsequenzen für alle Bieter und die weitere Kommunikation aus.
+Öffnen Sie danach die drei Eingänge vom 10. und 11. September. Führen Sie denselben Vermerk fort. Ordnen Sie die belegte frühere Produktkonfiguration, die nachträglich angebotene Zusatzbatterie und die inzwischen eingegangene Beanstandung jeweils dem zutreffenden Verfahrensschritt zu. Arbeiten Sie die Konsequenzen für alle Bieter und die weitere Kommunikation aus. Prüfen Sie anschließend die versandte Vorabinformation und die beiden Beanstandungen der Flutzeichen. Gleichen Sie das Öffnungsprotokoll mit den Versandnachweisen ab. Welche individuelle Vorabinformation ist für Flutzeichen und welche für die ebenfalls unterlegene Sondenkontor West GmbH belegt? Halten Sie in der Fristennotiz für jede Bieterin Versand, Zugang, offene Nachweise und den frühesten rechtlich vertretbaren Zuschlagstermin fest. Prüfen Sie, ob und wie der angekündigte Termin zu berichtigen ist und welche Folgen die Berichtigung für die Wartefrist hätte. Halten Sie die Antwort auf den Einwand und die vorerst zu treffende Entscheidung über die Zuschlagsfreigabe getrennt fest.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
 | 10.09.2026 | [Antwort im Nachrichtenfach E3 · 10. September, 08:34 Uhr](Nachreichungen/09_umsatzantwort.eml) | EML |
 | 11.09.2026 | [Vertriebstechnik · Schlüsselkarte Blatt 4 und Fertigungsauszug](Nachreichungen/10_schluesselkarte.docx) | DOCX |
 | 11.09.2026 | [Stellungnahme W-668 · 11. September, 10:42 Uhr](Nachreichungen/11_bieterstellungnahme.eml) | EML |
+| 15.09.2026 | [Vorabinformation für Flutzeichen · Lieferverfahren Pegelstationen](Nachreichungen/12_vorabinformation_entscheidung.eml) | EML |
+| 16.09.2026 | [Rüge zur Vorabinformation und zum vorgemerkten Zuschlagstermin](Nachreichungen/13_ruege_zuschlagstermin.eml) | EML |
+| 16.09.2026 | [Vergabeplattform · Versand- und Eingangsquittungen W-668](Nachreichungen/14_versandjournal_w668.txt) | TXT |
+
+## Eingaben prüfen
+
+Was beantragt der Absender, was lässt sich anhand der Akte belegen und was bleibt offen? Nutzen Sie die Nachreichungen in der zweiten Bearbeitungsrunde. Den [Prüfbogen für Einwendungen](../Einwendungen-Pruefbogen.xlsx) können Sie für jeden Vorgang ausfüllen.
+
+| Eingabe | Unterlage zur Gegenprüfung |
+| --- | --- |
+| [Stellungnahme W-668 · 11. September, 10:42 Uhr](Nachreichungen/11_bieterstellungnahme.eml) (Nachreichungen) | [Vertriebstechnik · Schlüsselkarte Blatt 4 und Fertigungsauszug](Nachreichungen/10_schluesselkarte.docx) (Nachreichungen) |
+| [Rüge zur Vorabinformation und zum vorgemerkten Zuschlagstermin](Nachreichungen/13_ruege_zuschlagstermin.eml) (Nachreichungen) | [Vergabeplattform · Versand- und Eingangsquittungen W-668](Nachreichungen/14_versandjournal_w668.txt) (Nachreichungen) |
 
 ## Quellen
 
@@ -55,5 +67,6 @@ Beginnen Sie mit diesen Unterlagen.
 - [GWB § 134 · Vorabinformation und Wartefrist](https://www.gesetze-im-internet.de/gwb/__134.html)
 - [GWB § 160 Abs. 3 · Rüge und Nachprüfungsantrag](https://www.gesetze-im-internet.de/gwb/__160.html)
 - [EuGH, 11.05.2017, C-131/16, Archus und Gama · Aufklärung und Austausch eines ursprünglich eingereichten Musters im damaligen Sektorenrecht](https://op.europa.eu/de/publication-detail/-/publication/962a0cba-3624-11e7-a08e-01aa75ed71a1/language-de)
+- [§ 169 GWB – Wirkungen der Nachprüfung](https://www.gesetze-im-internet.de/gwb/__169.html)
 
 [Alle Interstate-Akten](../README.md)

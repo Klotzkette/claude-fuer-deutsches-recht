@@ -1,0 +1,518 @@
+{
+  "titel": "Korridor Riedtal – Leitplanung für West und Ost",
+  "zeichen": "DI-W/PLAN-26-184",
+  "einstieg": "Die Deutsche Interstate AG lässt auf 14,2 Kilometern Fernstraße die künftige Verkehrsführung untersuchen. Im Westen liegen ein Rastplatz und eine Betriebszufahrt, im Osten muss die Anschlussplanung daran anknüpfen. Die Vergabestelle verlangt eine Referenz aus ihrem eigenen Haus. Ein Büro mit vergleichbarer Erfahrung bei einem Landesbetrieb möchte sich für West bewerben. Sie erhalten die Ausschreibungsunterlagen und die erste Bewerberfrage. Projekt, Unternehmen, Vorgang und beteiligte Personen sind fiktiv.",
+  "auftrag": "Bearbeiten Sie den Stand vom 13. Oktober für die Vergabestelle. Vergleichen Sie Bekanntmachung, Honorar-LV, Auskunft und Referenzblatt. Welche Leistungen kann das Büro für West nachweisen? Welche Alternativen gibt es zur Verbindung von Umweltuntersuchung und Verkehrsanlagenplanung? Prüfen Sie auch beide regionalen Teillose, den geschätzten Wert einschließlich Optionen und den gewählten Teilnahmewettbewerb. Formulieren Sie die Entscheidungsvorlage zu möglicher Berichtigung, Information aller Bewerber und Bewerbungstermin. Ordnen Sie dem konkreten Wortlaut nach ein, was mit der ersten Nachricht bereits verlangt wird.",
+  "nachreichung": "Arbeiten Sie die Unterlagen ab dem 14. Oktober in zeitlicher Reihenfolge durch. Führen Sie Referenzvorgabe und Losbildung als getrennte Streitpunkte. Halten Sie für jede Nachricht Absender, Adressat, Begehren, Zugang und Fristfolge fest. Gleichen Sie den „Einspruch“ im AG-Portal mit dem tatsächlichen Kammereingang ab. Legen Sie anhand der Mitteilung vom 5. November fest, welche Verfahrensschritte in welchem Los in Betracht kommen. Nutzen Sie den Arbeitsbogen für die Stellungnahme der Vergabestelle und die Entscheidung zum Projekttermin.",
+  "quellen": [
+    [
+      "§ 97a GWB – Teil- und Fachlose",
+      "https://www.gesetze-im-internet.de/gwb/__97a.html"
+    ],
+    [
+      "§ 99 GWB – öffentliche Auftraggeber",
+      "https://www.gesetze-im-internet.de/gwb/__99.html"
+    ],
+    [
+      "§ 3 VgV – geschätzter Auftragswert, Optionen und Lose",
+      "https://www.gesetze-im-internet.de/vgv_2016/__3.html"
+    ],
+    [
+      "Delegierte Verordnung (EU) 2025/2152 – Schwellenwerte 2026/2027",
+      "https://op.europa.eu/de/publication-detail/-/publication/ed53995b-afac-11f0-b37f-01aa75ed71a1/language-de"
+    ],
+    [
+      "§ 17 VgV – Verhandlungsverfahren",
+      "https://www.gesetze-im-internet.de/vgv_2016/__17.html"
+    ],
+    [
+      "§ 74 VgV – Wahl der Verfahrensart für Planungsleistungen",
+      "https://www.gesetze-im-internet.de/vgv_2016/__74.html"
+    ],
+    [
+      "§ 75 VgV – Eignung und vergleichbare Planungsreferenzen",
+      "https://www.gesetze-im-internet.de/vgv_2016/__75.html"
+    ],
+    [
+      "§ 159 GWB – Zuständigkeit der Vergabekammer",
+      "https://www.gesetze-im-internet.de/gwb/__159.html"
+    ],
+    [
+      "§ 160 GWB – Antragsbefugnis, Rüge und Fristen",
+      "https://www.gesetze-im-internet.de/gwb/__160.html"
+    ],
+    [
+      "§ 161 GWB – Form, Inhalt und Einreichung des Antrags",
+      "https://www.gesetze-im-internet.de/gwb/__161.html"
+    ],
+    [
+      "§ 169 GWB – Mitteilung des Antrags und Zuschlagsverbot",
+      "https://www.gesetze-im-internet.de/gwb/__169.html"
+    ]
+  ],
+  "einwendungspruefung": [
+    {
+      "eingabe": "06_bewerberfrage_auftraggeber.eml",
+      "gegenpruefung": "07_auskunft_04.txt"
+    },
+    {
+      "eingabe": "09_widerspruch_teilnahmebedingungen.eml",
+      "gegenpruefung": "08_referenzblatt_wiesenbogen.docx"
+    },
+    {
+      "eingabe": "10_antwort_auf_widerspruch.eml",
+      "gegenpruefung": "11_umweltuebergaben.docx"
+    },
+    {
+      "eingabe": "12_einspruch_vorlage.eml",
+      "gegenpruefung": "13_portaljournal.xlsx"
+    },
+    {
+      "eingabe": "14_antrag_kammer.docx",
+      "gegenpruefung": "15_mitteilung_der_kammer.docx"
+    }
+  ],
+  "dokumente": [
+    {
+      "phase": "Grundakte",
+      "datei": "01_projektauftrag_riedtal.docx",
+      "titel": "Projektauftrag Korridor Riedtal",
+      "datum": "2026-09-17",
+      "von": "Helen Külz · Leitung der Niederlassung West",
+      "an": "Mara Brecht · Projektleitung Planung West",
+      "text": [
+        "1 Projekt und Entscheidung",
+        "Zwischen den Anschlussstellen Mühlenried und Riedtal-Ost ist über die künftige Verkehrsführung zu entscheiden. West reicht von km 12,4 bis km 19,2, Ost von km 19,2 bis km 26,6. Am gemeinsamen Übergabepunkt liegen ein Rastplatz und die Zufahrt einer Straßenmeisterei. Ein durchgehendes Verkehrsmodell muss für beide Abschnitte denselben Prognosehorizont 2040 verwenden.",
+        "Mit Leitplanung bezeichnen wir hier die frühe Variantenuntersuchung für die Verkehrsanlagen. Die Büros sollen Bestand und Konflikte aufnehmen, Linienvarianten im Lageplan darstellen und eine vergleichbare Entscheidungsunterlage erarbeiten. Die Niederlassung trifft die Variantenentscheidung selbst. Entwurfs- und Genehmigungsplanung, Bauausführung sowie kommunale Bauleitplanung gehören zu anderen Aufgaben. Es gibt keine förmliche Linienbestimmung durch die Büros.",
+        "2 Zuständigkeit und Mittel",
+        "Die Deutsche Interstate AG erfüllt die im Allgemeininteresse liegende Fernstraßenaufgabe ohne gewerblichen Erwerbszweck. Der Bund hält sämtliche Anteile, finanziert den Betrieb überwiegend und bestellt die Mehrheit des Aufsichtsrats. Es gibt keine abweichende Vereinbarung über eine Vergabekammer. Der Auftrag läuft über reguläre Haushaltsmittel für Planung. Der Vorstand erwartet die Entscheidungsvorlage bis März 2028."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "02_schaetzung_lose_optionen.xlsx",
+      "titel": "Kostenansatz der Fachbereiche nach Abschnitten",
+      "datum": "2026-09-23",
+      "von": "Jonas Well · Kostenplanung West",
+      "an": "Hanno Döring · Vergabestelle West",
+      "text": [
+        "Honorarschätzung für die Vorbereitung der Bekanntmachung. Beträge netto in Euro. Die Option umfasst eine zusätzliche Überarbeitung der Vorzugsvariante je Abschnitt, falls die Niederlassung sie abruft. Es gibt keine stillschweigenden Folgeaufträge.",
+        "West und Ost sind Teil desselben Planungsprojekts. Für Grundpositionen sind 444.000 EUR und für alle Optionen zusammen 54.000 EUR angesetzt. Der Gesamtschätzwert beider Teillose einschließlich beider Optionen beträgt 498.000 EUR netto."
+      ],
+      "tabelle": [
+        [
+          "Bestandteil",
+          "West netto EUR",
+          "Ost netto EUR",
+          "Ansatz"
+        ],
+        [
+          "Verkehrsanlagen und Varianten",
+          128000,
+          142000,
+          "Bestandsmodell, Varianten, Vergleich"
+        ],
+        [
+          "Umweltuntersuchung",
+          64000,
+          72000,
+          "Kartierung, Konfliktlagen und Übergabe"
+        ],
+        [
+          "Fachkoordination",
+          18000,
+          20000,
+          "Datenübergaben und Bilanz zum Anschluss"
+        ],
+        [
+          "Honoraroption",
+          24000,
+          30000,
+          "Weitere Variantenschleife auf Abruf"
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "03_leistungsbild_schnittstellen.docx",
+      "titel": "Leistungsbild und Schnittstellen am Rastplatz",
+      "datum": "2026-09-24",
+      "von": "Mara Brecht · Projektleitung Planung West",
+      "an": "Hanno Döring · Vergabestelle West",
+      "text": [
+        "1 Varianten und Abgabe",
+        "West untersucht drei Varianten der Anbindung am Rastplatz. Ost untersucht zwei Varianten und die Lage der Zufahrt. Jede Variante umfasst eine Achse, die Verkehrsbilanz und ein Konfliktblatt für Flächen, Wasser und Biotope. Die Vorzugsvarianten beider Abschnitte sollen gemeinsam befahrbar sein. Der veröffentlichte Datenkatalog gibt Koordinatensystem, Objektkennungen und Tabellenfelder vor.",
+        "2 Arbeitsrhythmus",
+        "Zum ersten Übergabetermin erhält die Umweltplanung die Linien und den Datenstand. Zum zweiten geht ein kartierter Konfliktlayer zurück an die Verkehrsplanung. Für jede neue Linienfassung protokolliert das verantwortliche Büro, ob sich die Eingriffsflächen verschieben. Jede Auftragnehmerin schuldet für ihr Teillos die Übergabe am gemeinsamen Knoten. Die Niederlassung prüft die Zusammenführung und bestimmt, wann beide Stände eingefroren werden.",
+        "3 Interne Notiz vor der Veröffentlichung",
+        "Das Projektteam erwartet Rückläufe, wenn eine geschützte Fläche berührt wird. Ein Ansprechpartner je Abschnitt erscheint ihm einfacher. Die Umweltstelle hat bei einem Nachbarprojekt die Konfliktlayer selbständig übergeben und möchte die Schnittstelle hier erproben. Für zusätzliche Schleifen zwischen getrennt beauftragten Fachbüros enthält die Akte bisher keine Stunden- oder Kostenaufstellung."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "04_lv_honorar_abschnitte.xlsx",
+      "titel": "Honorar-Leistungsverzeichnis für West und Ost",
+      "datum": "2026-09-25",
+      "von": "Mara Brecht · Projektleitung Planung West",
+      "an": "Bewerber und Bieter im Verfahren Riedtal",
+      "text": [
+        "Preisblatt für die spätere Angebotsphase. Im Teilnahmewettbewerb wird es zur Information bereitgestellt. Je gewünschtem Teillos sind bei Angebotsabgabe sämtliche Positionen zu bepreisen. Die Optionsposition wird nur nach gesondertem Abruf vergütet. Ein Blatt je Bewerber oder späterer Bietergemeinschaft.",
+        "West und Ost enthalten eigene Positionen der Verkehrs- und Umweltplanung. Die LV-Summen umfassen bei vollständiger Bepreisung auch die jeweilige Option. Übergabe und Fachkoordination sind je Abschnitt nur in der dafür bezeichneten Position zu kalkulieren."
+      ],
+      "tabelle": [
+        [
+          "Pos.",
+          "Teillos",
+          "Planungsleistung",
+          "Menge",
+          "Einheit",
+          "EP netto EUR",
+          "GP netto EUR"
+        ],
+        [
+          "1.1",
+          "West",
+          "Bestands- und Verkehrsmodell West",
+          1,
+          "Paket",
+          null,
+          null
+        ],
+        [
+          "1.2",
+          "West",
+          "Linienvarianten mit Verkehrsbilanz",
+          3,
+          "Variante",
+          null,
+          null
+        ],
+        [
+          "1.3",
+          "West",
+          "Umweltgrundlagen und Konfliktlayer",
+          1,
+          "Paket",
+          null,
+          null
+        ],
+        [
+          "1.4",
+          "West",
+          "Protokollierte Datenübergaben am Knoten",
+          2,
+          "Termin",
+          null,
+          null
+        ],
+        [
+          "1.5",
+          "West",
+          "Überarbeitung der Vorzugsvariante auf Abruf",
+          1,
+          "Option",
+          null,
+          null
+        ],
+        [
+          "2.1",
+          "Ost",
+          "Bestands- und Verkehrsmodell Ost",
+          1,
+          "Paket",
+          null,
+          null
+        ],
+        [
+          "2.2",
+          "Ost",
+          "Linienvarianten mit Verkehrsbilanz",
+          2,
+          "Variante",
+          null,
+          null
+        ],
+        [
+          "2.3",
+          "Ost",
+          "Umweltgrundlagen und Konfliktlayer",
+          1,
+          "Paket",
+          null,
+          null
+        ],
+        [
+          "2.4",
+          "Ost",
+          "Protokollierte Datenübergaben am Knoten",
+          2,
+          "Termin",
+          null,
+          null
+        ],
+        [
+          "2.5",
+          "Ost",
+          "Überarbeitung der Vorzugsvariante auf Abruf",
+          1,
+          "Option",
+          null,
+          null
+        ]
+      ],
+      "lv": {
+        "menge": "Menge",
+        "einheitspreis": "EP netto EUR",
+        "gesamtpreis": "GP netto EUR",
+        "losspalte": "Teillos"
+      }
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "05_bekanntmachung_teilnahme.docx",
+      "titel": "Bekanntmachung und Teilnahmebedingungen – Aktenauszug",
+      "datum": "2026-10-05",
+      "von": "Hanno Döring · Vergabestelle West",
+      "an": "Interessierte Planungsbüros",
+      "text": [
+        "Absendung an den europäischen Veröffentlichungsdienst am 1. Oktober 2026, Veröffentlichung am 5. Oktober 2026. Verhandlungsverfahren mit Teilnahmewettbewerb. Die genaue Führung am Rastplatz und die Art der Konfliktauflösung sind vor den Lösungsvorschlägen noch offen. Registrierung, Rückfragen und Teilnahmeanträge erfolgen über das Projektpostfach im Vergabeportal. Frist für Teilnahmeanträge ist Mittwoch, 4. November 2026, 12:00 Uhr Ortszeit.",
+        "Abschnitte West und Ost werden als zwei einzeln zuschlagsfähige Teillose vergeben. Anträge für ein oder beide Lose sind zulässig. Je Los umfasst der Auftrag die Verkehrsanlagenplanung, die Umweltuntersuchung und die Koordination. Bewerbergemeinschaften und der Einsatz von Nachunternehmen sind zugelassen. Ein gesonderter Zuschlag allein für die Umweltuntersuchung ist in den Bedingungen nicht vorgesehen.",
+        "Bedingung 4.2 verlangt für jedes beantragte Los mindestens eine in den letzten drei Jahren abgeschlossene Variantenuntersuchung einer Straßenverkehrsanlage von mindestens fünf Kilometern mit Konfliktvergleich. Als Auftraggeberin der Referenz muss die Deutsche Interstate AG genannt sein. Dieselbe Referenz kann für beide Lose dienen. Bitte Umfang, eigenen Leistungsanteil, Leistungszeit und eine Stelle für Rückfragen angeben.",
+        "Je Los sollen mindestens drei geeignete Bewerber zu Erstangeboten eingeladen werden, sofern entsprechend viele geeignete Anträge vorliegen. Die vollständige Bekanntmachung bezeichnet die Vergabekammern des Bundes und weist auf die Fristen für Rüge und Nachprüfung hin. Diese Fallunterlage gibt die für das Mandat maßgeblichen Passagen wieder."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "06_bewerberfrage_auftraggeber.eml",
+      "titel": "Bewerberfrage 04 zur Referenzstelle",
+      "datum": "2026-10-07",
+      "von": "Lea Heyn · Trassenschrift Ingenieure GmbH",
+      "an": "Hanno Döring · Vergabestelle West",
+      "text": [
+        "Guten Morgen Herr Döring, wir möchten uns für West bewerben. In unserem Referenzblatt steht als Auftraggeber ein Landesbetrieb. Akzeptiert das Portal dessen Kontaktdaten oder ist das Feld auf Ihre Gesellschaft beschränkt? Wir müssen unserer Verwaltung sagen, ob sie den Referenzgeber für einen Rückruf freihalten soll. Viele Grüße, Lea Heyn."
+      ],
+      "uhrzeit": "10:07",
+      "absender": "lea.heyn@trassenschrift.example",
+      "empfaenger": "einkauf.west@interstate.example"
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "07_auskunft_04.txt",
+      "titel": "Auskunft 04 der Vergabestelle an alle Registrierten",
+      "datum": "2026-10-09",
+      "von": "Hanno Döring · Vergabestelle West",
+      "an": "Registrierte Projektpostfächer",
+      "text": [
+        "Portalveröffentlichung um 08:45 Uhr. Das Referenzformular nimmt beliebige Adressen an. Inhaltlich gilt Bedingung 4.2 wie veröffentlicht. Auftraggeberin des Referenzprojekts muss die Deutsche Interstate AG sein. Das Projektteam verweist auf seine internen Modell- und Übergabevorgaben. Die Teilnahmefrist bleibt der 4. November, 12:00 Uhr."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "08_referenzblatt_wiesenbogen.docx",
+      "titel": "Referenzblatt Wiesenbogen für die Bewerbung West",
+      "datum": "2026-10-13",
+      "von": "Lea Heyn · Trassenschrift Ingenieure GmbH",
+      "an": "Projektakte der Trassenschrift Ingenieure GmbH",
+      "text": [
+        "Auftraggeber war der fiktive Landesbetrieb Straßenraum Nord. Vom 3. März bis 28. November 2025 haben wir für 8,4 Kilometer einer vierstreifigen Landesstraße als planführendes Büro drei Achsvarianten, Verkehrsmodell und den tabellarischen Variantenvergleich erarbeitet. Der Landesbetrieb nahm die Schlussfassung am 12. Dezember 2025 ab. Das Honorar unseres Büros betrug 164.000 EUR netto.",
+        "Die Biotopkartierung kam dort von einem unmittelbar vom Landesbetrieb beauftragten Umweltbüro. Trassenschrift lieferte die Achsdaten und führte den zurückgespielten Konfliktlayer mit der Verkehrsbilanz zusammen. Freigegebene Daten wurden in einem protokollierten Übergabetermin zusammengeführt. Das hiesige Datenmodell der Interstate AG haben wir in diesem Mandat nicht verwendet.",
+        "Ansprechstelle für Leistungsumfang und Abnahme ist die Projektbetreuung des Landesbetriebs, referenz@strassenraum-nord.example. Auf das Projektblatt greifen Geschäftsleitung und Bewerbungsteam zu. Ob die Vergabestelle einen Rückruf tätigt, ist offen."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "09_widerspruch_teilnahmebedingungen.eml",
+      "titel": "Widerspruch gegen Referenzvorgabe und Leistungsbündel West",
+      "datum": "2026-10-14",
+      "von": "Lea Heyn · Trassenschrift Ingenieure GmbH",
+      "an": "Hanno Döring · Vergabestelle West",
+      "text": [
+        "Sehr geehrter Herr Döring, über das Portal haben wir die Antwort 04 am 9. Oktober gelesen. Sie nehmen uns mit Bedingung 4.2 die Chance auf eine Einladung für West, obwohl unser Projekt Wiesenbogen die geforderten Leistungen abdeckt. Wir beanstanden die Beschränkung auf Ihr Haus und bitten Sie, auch fachlich vergleichbare Referenzen anderer Auftraggeber zuzulassen. Die Daten zum Landesbetrieb stellen wir im Referenzblatt zur Verfügung.",
+        "Wir bitten zweitens, die Umweltuntersuchung für West als eigenes Fachlos auszuschreiben. Die Mengen im Blatt stehen gesondert, beide Fachbüros könnten ihre Daten über die beschriebenen Übergaben austauschen. Wir könnten dann die Verkehrsplanung allein anbieten. Als Nachunternehmerin für das Gesamtpaket kann das uns bekannte Umweltbüro Moorfenster derzeit noch keinen verbindlichen Termin nennen.",
+        "Bitte teilen Sie uns zu beiden Punkten mit, ob Sie die Unterlagen anpassen. Wir beantragen bei einer Änderung ausreichend Zeit für die Bewerbung. Mit freundlichen Grüßen, Lea Heyn, geschäftsführende Ingenieurin."
+      ],
+      "uhrzeit": "11:26",
+      "absender": "lea.heyn@trassenschrift.example",
+      "empfaenger": "einkauf.west@interstate.example"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "10_antwort_auf_widerspruch.eml",
+      "titel": "Nachricht West zur Referenzvorgabe und zur Losprüfung",
+      "datum": "2026-10-19",
+      "von": "Hanno Döring · Vergabestelle West",
+      "an": "Lea Heyn · Trassenschrift Ingenieure GmbH",
+      "text": [
+        "Sehr geehrte Frau Heyn, nach Rücksprache mit der Fachleitung halten wir an Bedingung 4.2 fest. Ihrem Begehren, Referenzen anderer Auftraggeber zuzulassen, helfen wir nicht ab. Das Team braucht für diesen Korridor Büros, die unsere internen Modellkonventionen kennen. Für das Verfahren bleibt es bei der veröffentlichten Vorgabe.",
+        "Zur Trennung der Umweltuntersuchung hat die Umweltstelle den Übergabeaufwand noch nicht beziffert. Wir prüfen diesen Teil Ihres Schreibens weiter und werden uns dazu gesondert äußern. Eine Fristverlängerung ist bislang nicht veröffentlicht. Hanno Döring."
+      ],
+      "uhrzeit": "14:16",
+      "absender": "einkauf.west@interstate.example",
+      "empfaenger": "lea.heyn@trassenschrift.example"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "11_umweltuebergaben.docx",
+      "titel": "Vermerk der Umweltstelle zu zwei Datenübergaben",
+      "datum": "2026-10-23",
+      "von": "Dina Malke · Umweltstelle West",
+      "an": "Mara Brecht · Projektleitung Planung West",
+      "text": [
+        "Die vier Datensätze je Abschnitt sind definiert. Zwei Übergaben genügen, wenn die Verkehrsplanung nach dem ersten Rücklauf die Achse im vorgegebenen Korridor halten kann. Verlässt die neue Achse den untersuchten Streifen, muss das Umweltbüro die Konfliktfläche neu abgrenzen. Im Nachbarprojekt war dieser dritte Durchgang in einem von drei Abschnitten erforderlich.",
+        "Im Feld können dieselben Kartierer beide Abschnitte an einem Termin bedienen. Für West steht die Zwischenablage technisch bereit. Wer einen zusätzlichen Durchgang fachlich freigibt und aus welchem Budget er bezahlt würde, ist im Projektauftrag offen. Vor einer belastbaren Kostenangabe brauche ich von der Projektleitung die Breite des zulässigen Verschiebekorridors am Rastplatz."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "12_einspruch_vorlage.eml",
+      "titel": "Einspruch zur Vorlage bei der Vergabekammer",
+      "datum": "2026-10-28",
+      "von": "Lea Heyn · Trassenschrift Ingenieure GmbH",
+      "an": "Hanno Döring · Vergabestelle West",
+      "text": [
+        "Hiermit erheben wir Einspruch gegen Ihre Entscheidung vom 19. Oktober und halten auch den Einwand zum Fachlos aufrecht. Bitte legen Sie unseren Einspruch mit dem Vorgang der in der Bekanntmachung genannten Vergabekammer vor. Im Portal sehen wir nur das Projektpostfach der Niederlassung West. Den Versand dorthin haben wir gewählt. Über eine gesonderte Eingabe bei der Kammer entscheiden wir nach Rücksprache mit unserem Bevollmächtigten.",
+        "Unsere Bewerbung West bereiten wir mit dem Wiesenbogen-Nachweis und einem Verfügbarkeitsnachweis von Moorfenster vor. Wir bitten bis zum Fristende um eine Rückmeldung zur Losfrage. Lea Heyn."
+      ],
+      "uhrzeit": "11:17",
+      "absender": "lea.heyn@trassenschrift.example",
+      "empfaenger": "einkauf.west@interstate.example"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "13_portaljournal.xlsx",
+      "titel": "Portaljournal für Auskunft, Einwendungen und Bewerbung",
+      "datum": "2026-11-04",
+      "von": "Lennard Maas · Portalbetrieb der AG",
+      "an": "Hanno Döring · Vergabestelle West",
+      "text": [
+        "Auszug für das Verfahren Riedtal aus dem Journal der Vergabeplattform. Alle Zeitpunkte in Ortszeit der Niederlassung. „Bereitgestellt“ bezeichnet das adressierte Postfach, „geöffnet“ den dokumentierten Nutzerzugriff. Für die Vergabekammer führt die AG hier kein Postfach.",
+        "Die Eingangsquittung für die Bewerbung West nennt Referenzblatt Wiesenbogen und Verpflichtungserklärung Moorfenster vom 30. Oktober. Im Journal ist zu Vorgang 031 keine Weiterleitung an eine Kammer und zu Vorgang 021 keine zweite abschließende Antwort vermerkt."
+      ],
+      "tabelle": [
+        [
+          "Vorgang",
+          "Datum/Zeit",
+          "Nutzer oder Postfach",
+          "Ereignis"
+        ],
+        [
+          "004",
+          "07.10.2026 10:07",
+          "Vergabestelle West",
+          "Bewerberfrage 04 eingegangen"
+        ],
+        [
+          "012",
+          "09.10.2026 08:45",
+          "Registrierte Postfächer",
+          "Auskunft 04 veröffentlicht"
+        ],
+        [
+          "012",
+          "09.10.2026 09:13",
+          "Trassenschrift",
+          "Auskunft 04 geöffnet"
+        ],
+        [
+          "021",
+          "14.10.2026 11:26",
+          "Vergabestelle West",
+          "Widerspruch mit zwei Beanstandungen eingegangen"
+        ],
+        [
+          "023",
+          "19.10.2026 14:16",
+          "Trassenschrift",
+          "Antwort bereitgestellt"
+        ],
+        [
+          "023",
+          "19.10.2026 14:22",
+          "Trassenschrift",
+          "Antwort geöffnet"
+        ],
+        [
+          "031",
+          "28.10.2026 11:17",
+          "Vergabestelle West",
+          "Einspruch eingegangen"
+        ],
+        [
+          "044",
+          "03.11.2026 16:40",
+          "Trassenschrift",
+          "Teilnahmeantrag West quittiert"
+        ],
+        [
+          "045",
+          "04.11.2026 12:00",
+          "Vergabestelle West",
+          "Teilnahmefrist geschlossen"
+        ]
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "14_antrag_kammer.docx",
+      "titel": "Nachprüfungsantrag der Trassenschrift Ingenieure GmbH",
+      "datum": "2026-11-04",
+      "von": "Kiljan Henn · Bevollmächtigter der Trassenschrift Ingenieure GmbH",
+      "an": "Vergabekammern des Bundes",
+      "text": [
+        "Für die Antragstellerin beantrage ich, der Auftraggeberin aufzugeben, bei Fortführung des Verfahrens die Referenzanforderung 4.2 und den Loszuschnitt für West unter Beachtung der Rechtsauffassung der Kammer erneut festzulegen. Hilfsweise beantrage ich andere geeignete Maßnahmen zur Wiederherstellung eines diskriminierungsfreien Teilnahmewettbewerbs. Der Antrag betrifft ausschließlich West.",
+        "Die Antragstellerin hat am 3. November eine Bewerbung für West abgegeben, einschließlich ihrer Referenz Wiesenbogen. Sie befürchtet deren Zurückweisung wegen der Person ihres Referenzgebers. Für die Bewerbung hat sie eine Verpflichtungserklärung von Moorfenster als Nachunternehmerin für den Umweltteil beschafft. Sie macht geltend, dass sie bei einem gesonderten Verkehrsplanungslos den Aufwand und die Haftung für den Umweltteil nicht übernehmen müsste.",
+        "Auf die Nachricht vom 14. Oktober hat die Auftraggeberin zum Referenzkriterium am 19. Oktober geantwortet. Zum Fachlos steht eine Antwort aus. Am 28. Oktober haben wir über das Auftraggeberportal die Vorlage bei der Kammer verlangt. Als Anlagen benennen wir Bekanntmachung, Referenzblatt, Korrespondenz und Quittung zum Teilnahmeantrag. Gezeichnet: Kiljan Henn, Verfahrensbevollmächtigter."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "15_mitteilung_der_kammer.docx",
+      "titel": "Mitteilung des Antrags an die Auftraggeberin",
+      "datum": "2026-11-05",
+      "von": "Dr. Judith Rehfeld · Vorsitzende der Vergabekammer des Bundes (fiktiver Vorgang)",
+      "an": "Hanno Döring · Vergabestelle West",
+      "text": [
+        "Unsere Geschäftsstelle hat den von Kiljan Henn am 4. November 2026 elektronisch übersandten Antrag um 10:08 Uhr registriert. Im Eingangsbuch der Kammer ist für Trassenschrift in diesem Vergabeverfahren kein früherer Eingang verzeichnet. Wir übermitteln anliegend die Antragsschrift und informieren Sie hiermit über den Nachprüfungsantrag zum Teillos West.",
+        "Bitte legen Sie die vollständige elektronische Verfahrensakte einschließlich Zeitnachweisen vor und nehmen Sie getrennt zur Referenzbedingung und zur Fachlosbildung Stellung. Die Kammer hat weder über die Zulässigkeit noch über die beantragten Maßnahmen entschieden. Eingangsbestätigung der Niederlassung: 5. November 2026, 09:12 Uhr. Kein Zuschlag, bisher keine Einladung zu Verhandlungen."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "16_verfahrensauftrag_antwortbogen.docx",
+      "titel": "Arbeitsbogen für die Stellungnahme und den Projekttermin",
+      "datum": "2026-11-05",
+      "von": "Hanno Döring · Vergabestelle West",
+      "an": "Rechtsstelle der Niederlassung West",
+      "text": [
+        "Bitte legen Sie für die Besprechung am 6. November um 10 Uhr einen Verfahrensvermerk und den Entwurf an die Kammer vor. Die Projektleitung möchte wissen, ob West und Ost weiter bearbeitet werden können und welche Arbeitsschritte wann freigegeben werden dürfen. Die Eingangsbuchungen der Bewerbungen liegen vor. Die Auswahlentscheidung steht noch aus.",
+        "Besetzen Sie die vier Spalten für jeden Streitpunkt anhand der Unterlagen. Halten Sie im Antwortentwurf die tatsächlichen Abläufe, das jeweilige Begehren, die noch benötigten Nachweise und den eigenen Antrag der Auftraggeberin auseinander."
+      ],
+      "tabelle": [
+        [
+          "Gegenstand",
+          "Beleg und Zeitpunkt",
+          "Würdigung und offene Tatsache",
+          "Vorgeschlagene Maßnahme"
+        ],
+        [
+          "Referenz West",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Umweltfachlos West",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Verfahrensschritte West und Ost",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}

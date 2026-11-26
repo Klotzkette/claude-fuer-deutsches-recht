@@ -3,14 +3,19 @@
   "zeichen": "DI-W/BAU-26-073",
   "einstieg": "Im Betriebshof Weidenstück der Deutschen Interstate AG, Niederlassung West, sollen beschädigte Betonflächen instand gesetzt, beanspruchte Flächen beschichtet und Sozialräume gestrichen werden. Die Bauabteilung möchte sämtliche Arbeiten mit einem Vertrag vergeben. Der Mengenplan weist Nord und Süd getrennt aus. Dürfen kleinere Firmen nur für die Beschichtung im südlichen Gebäudeteil anbieten? Die Vergabestelle erhält die ungezeichnete Bauvorlage am 9. November 2026. Es gibt weder eine Bekanntmachung noch einen Zuschlag. Betriebshof, Gesellschaft, Unternehmen und Vorgang sind erfunden.",
   "auftrag": "Sie beraten die Vergabestelle für die Sitzung am 12. November 2026. Prüfen Sie den Gesamtauftrag, die Aufteilung nach Gewerken, die örtlichen Teillose Nord und Süd und die Kombination beider Zuschnitte. Ordnen Sie die Positionen und die gemeinsame Baustelleneinrichtung eindeutig zu. Vergleichen Sie Zugang für Fachunternehmen, Übergaben, Zeit, Finanzierung und Gesamtauftragswert. Kontrollieren Sie, ob ein Bieter die Preisblätter einzeln ausfüllen und der Einkauf mehrere Zuschläge widerspruchsfrei erteilen könnte. Legen Sie einen entscheidungsfähigen Vergabevermerk mit Alternativen und offenen Freigaben vor. Formulieren Sie die Rückmeldung an die Bauabteilung und eine Antwort auf die Marktrückmeldungen.",
-  "nachreichung": "Führen Sie den Vermerk am 13., 18. und 19. November mit den jeweils verfügbaren Unterlagen fort. Grenzen Sie Baupreise, zusätzliche Koordination und Miete voneinander ab. Bezeichnen Sie, welche Übergabefrist neu belegt ist, auf welchen Loszuschnitt sie sich bezieht und für welche Alternative weiterhin eine belastbare Zusage fehlt. Die Leitung benötigt für die Sitzung am 20. November eine Entscheidungsvorlage und gegebenenfalls überarbeitete Los- und Angebotsbedingungen vor einer Bekanntmachung.",
+  "nachreichung": "Führen Sie den Vermerk am 13., 18. und 19. November mit den jeweils verfügbaren Unterlagen fort. Grenzen Sie Baupreise, zusätzliche Koordination und Miete voneinander ab. Bezeichnen Sie, welche Übergabefrist neu belegt ist, auf welchen Loszuschnitt sie sich bezieht und für welche Alternative weiterhin eine belastbare Zusage fehlt. Die Leitung benötigt für die Sitzung am 20. November eine Entscheidungsvorlage und gegebenenfalls überarbeitete Los- und Angebotsbedingungen vor einer Bekanntmachung. Ordnen Sie den als „Einspruch“ bezeichneten Brief neben der früheren Interessenbekundung ein. Prüfen Sie für die Leitung, welche Information dem Unternehmen vorlag, welches konkrete Los es ausführen möchte und welche Änderungen an Vorhaltezeit und Übergaberegel vor einer Veröffentlichung nötig wären. Formulieren Sie eine Antwort, die alle Interessierten über denselben Informationsweg erreicht.",
   "quellen": [
     ["§ 97a GWB – Losgrundsatz, wirtschaftliche, technische und zeitliche Gründe", "https://www.gesetze-im-internet.de/gwb/__97a.html"],
     ["§ 99 GWB – öffentliche Auftraggeber", "https://www.gesetze-im-internet.de/gwb/__99.html"],
     ["§ 2 VgV – Vergabe von Bauaufträgen", "https://www.gesetze-im-internet.de/vgv_2016/__2.html"],
     ["§ 3 VgV – Schätzung des Auftragswerts", "https://www.gesetze-im-internet.de/vgv_2016/__3.html"],
     ["Art. 1 Delegierte Verordnung (EU) 2025/2152 – Schwellenwerte 2026 und 2027", "https://op.europa.eu/de/publication-detail/-/publication/ed53995b-afac-11f0-b37f-01aa75ed71a1/language-de"],
-    ["VOB/A 2026, Abschnitt 2, §§ 5a EU (Losgrundsatz), 5b EU (Loslimitierung), 7b EU (Leistungsverzeichnis) und 20 EU (Dokumentation) – BAnz AT 24.08.2026 B6", "https://bundesanzeiger.de/pub/publication/73xO0rpP1jfX5HRt0Ja/content/73xO0rpP1jfX5HRt0Ja/BAnz%20AT%2024.08.2026%20B6.pdf?inline="]
+    ["VOB/A 2026, Abschnitt 2, §§ 5a EU (Losgrundsatz), 5b EU (Loslimitierung), 7b EU (Leistungsverzeichnis) und 20 EU (Dokumentation) – BAnz AT 24.08.2026 B6", "https://bundesanzeiger.de/pub/publication/73xO0rpP1jfX5HRt0Ja/content/73xO0rpP1jfX5HRt0Ja/BAnz%20AT%2024.08.2026%20B6.pdf?inline="],
+    ["§ 160 GWB – Antrag und Rüge im Nachprüfungsverfahren", "https://www.gesetze-im-internet.de/gwb/__160.html"]
+  ],
+  "einwendungspruefung": [
+    {"eingabe": "10_einspruch_teillos_sued.eml", "gegenpruefung": "06a_entwurf_losbedingungen.docx"},
+    {"eingabe": "10_einspruch_teillos_sued.eml", "gegenpruefung": "11_posteingang_und_marktgespraech.docx"}
   ],
   "dokumente": [
     {
@@ -211,6 +216,34 @@
         ["S.M.02", "Deckenflächen in den Sozialräumen vorbereiten und zweimal deckend weiß streichen; Nassabriebklasse 2, Raumhöhen bis 3,80 m. Abrechnung nach bearbeiteter Deckenfläche.", 1200, "m²", 53, null, "S.M"]
       ],
       "lv": {"menge": "Menge", "einheitspreis": "EP netto EUR", "gesamtpreis": "GP netto EUR", "losspalte": "Los"}
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "10_einspruch_teillos_sued.eml",
+      "titel": "Einspruch gegen die Zusammenfassung · Beschichtungsarbeiten Süd",
+      "datum": "2026-11-19",
+      "von": "Petra Nolte · Saumkante Beschichtung OHG",
+      "an": "Judith Velten · Vergabestelle West",
+      "text": [
+        "Sehr geehrte Frau Velten, im heutigen Marktgespräch wurde „Beschichtung Nord und Süd zusammen“ als Arbeitsvariante erläutert. Auf meine Frage nach einem Einzelangebot für Süd erhielt ich keine Zusage. Falls diese Zusammenfassung Grundlage der Ausschreibung werden soll, beanstanden wir sie. Wir wollen für Süd im eigenen Namen anbieten. Die 2.400 m² und 600 m Anschlüsse passen zu unserer Mannschaft, 6.000 m² über beide Gebäude passen nicht.",
+        "Auch für Süd allein ist offen, ob wir die gemeinsame Einrichtung noch nutzen können, wenn die Betonarbeiten später übergeben werden. Bitte nehmen Sie einen eigenen Südpreis und einen verbindlichen Übergabemechanismus in die veröffentlichten Unterlagen auf. Wir verlangen keine Vorabmitteilung der fremden Richtpreise. Können Sie uns den öffentlichen Zugang nennen, über den wir die endgültigen Bedingungen erhalten?",
+        "Petra Nolte, Disposition"
+      ],
+      "absender": "p.nolte@saumkante.example",
+      "empfaenger": "j.velten@interstate.example",
+      "uhrzeit": "16:13"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "11_posteingang_und_marktgespraech.docx",
+      "titel": "Weidenstück · Eingang vor der Leitungssitzung und Gesprächsnotiz",
+      "datum": "2026-11-20",
+      "von": "Judith Velten · Vergabestelle West",
+      "an": "Ina Merz · Kaufmännische Leitung West",
+      "text": [
+        "Am 19. November haben wir um 15:00 Uhr drei Interessenten telefonisch nacheinander über die erwogenen Zuschnitte befragt. In meinen Stichworten steht beim Gespräch mit Frau Nolte „drei Gewerke oder regional weiter teilen; Übergabetermin offen“. Die Formulierung über einen gemeinsamen Beschichtungsauftrag findet sich in ihrer Nachricht von 16:13 Uhr. Eine Aufzeichnung des Gesprächs gibt es nicht.",
+        "Der Mailserver verzeichnet die Annahme um 16:14 Uhr, die zentrale Akte die Übernahme am 20. November um 08:02 Uhr. Eine Eingangsbestätigung an Saumkante ging um 08:06 Uhr hinaus. Stand 08:15 Uhr sind weder Bekanntmachung noch Angebotsbedingungen veröffentlicht. Der Entwurf der Anlage B sieht auch den Einzelzuschlag S.O vor. Keine der befragten Firmen hat diesen internen Entwurf oder eine Preisangabe eines anderen Unternehmens erhalten."
+      ]
     }
   ]
 }

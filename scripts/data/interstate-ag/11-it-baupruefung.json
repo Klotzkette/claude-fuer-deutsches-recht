@@ -1,0 +1,380 @@
+{
+  "titel": "Prüfbuch West – welcher Export zählt in der Bauprüfung?",
+  "zeichen": "DI-W/IT-26-116",
+  "einstieg": "Die Bauprüfer der Deutschen Interstate AG wollen Befunde und Fotos auf der Baustelle mobil aufnehmen und als zusammengehörigen Vorgang übergeben. Zwei Anbieter zeigen an aufeinanderfolgenden Prüftagen unterschiedliche Exportwege. Die Bewertungstabelle führt einen Datensatz als fehlgeschlagen. Die Vergabestelle hat die Vorabinformation für das Anwendungs-Los elektronisch versandt. Welche Unterlage belegt, ob sie für beide Lösungen die angekündigte Wertungsregel angewendet hat?",
+  "auftrag": "Sie beraten die Vergabestelle mit Stand 9. November nach Versand der Vorabinformation. Rekonstruieren Sie für Los 1 anhand der veröffentlichten Regeln und Preisblätter den vorläufigen Rang und die für einen Rangwechsel nötige Korrektur. Prüfen Sie, ob die vorliegende Dokumentation die unterschiedliche Exportbewertung trägt. Legen Sie der Einkaufsleitung einen vorläufigen Vermerk mit Beleganforderung und Terminplan vor.",
+  "nachreichung": "Öffnen Sie zunächst den „Einspruch“ vom 10. November mit dem Nachrichtenjournal. Prüfen Sie anhand der ausgetauschten Erklärungen und Protokolle, wann der Bieter die beanstandete Wertung erkennen konnte. Arbeiten Sie anschließend die Sachverhaltsaufklärung und den Antwortentwurf unter Gleichbehandlung beider Anbieter aus. Stellen Sie nach Eingang der Unterlagen vom 12. bis 16. November getrennt fest, was die Nichtabhilfe, die Bieterkopie und die Unterrichtung durch die Kammer für beide Lose und den Terminplan bedeuten. Ein Zuschlag und eine Entscheidung der Kammer liegen nicht vor.",
+  "quellen": [
+    [
+      "§ 127 GWB – Zuschlag und Zuschlagskriterien",
+      "https://www.gesetze-im-internet.de/gwb/__127.html"
+    ],
+    [
+      "§ 134 GWB – Informations- und Wartepflicht",
+      "https://www.gesetze-im-internet.de/gwb/__134.html"
+    ],
+    [
+      "§ 160 GWB – Rüge, Antragsbefugnis und Nachprüfungsantrag",
+      "https://www.gesetze-im-internet.de/gwb/__160.html"
+    ],
+    [
+      "§ 169 GWB – Aussetzung des Vergabeverfahrens",
+      "https://www.gesetze-im-internet.de/gwb/__169.html"
+    ],
+    [
+      "§ 8 VgV – Dokumentation",
+      "https://www.gesetze-im-internet.de/vgv_2016/__8.html"
+    ],
+    [
+      "§ 31 VgV – Leistungsbeschreibung",
+      "https://www.gesetze-im-internet.de/vgv_2016/__31.html"
+    ],
+    [
+      "§ 58 VgV – Zuschlag und Zuschlagskriterien",
+      "https://www.gesetze-im-internet.de/vgv_2016/__58.html"
+    ],
+    [
+      "Delegierte Verordnung (EU) 2025/2152 – Schwellenwerte für die Jahre 2026 und 2027",
+      "https://op.europa.eu/de/publication-detail/-/publication/ed53995b-afac-11f0-b37f-01aa75ed71a1/language-de"
+    ]
+  ],
+  "dokumente": [
+    {
+      "phase": "Grundakte",
+      "datei": "01_verfahrensauftrag_pruefbuch.docx",
+      "titel": "Beschaffungsauftrag für digitale Bauprüfprotokolle",
+      "datum": "2026-08-24",
+      "von": "Jule Esch · Fachteam Bauprüfungen",
+      "an": "Tabea Rothen · IT-Einkauf West",
+      "text": [
+        "Nach jeder Ortsbegehung überträgt die Prüferin heute Fotos und handschriftliche Notizen in das Bestandsarchiv. Künftig sollen 25 Personen im Büro und 15 im Außendienst denselben Vorgang bearbeiten können. Der Bund finanziert den nichtgewerblichen öffentlichen Fernstraßenauftrag der Deutschen Interstate AG und bestellt die Mehrheit ihres Aufsichtsrats. Die AG schreibt in eigenem Namen aus.",
+        "Offenes EU-Verfahren für eine gehostete Standardanwendung mit Einrichtung, Betrieb und Schulung. Vertragsdauer 24 Monate ab Abnahme. Die Schätzung für diesen Dienstleistungsauftrag beträgt 408.000 EUR für Los 1 und 42.000 EUR für Los 2, insgesamt 450.000 EUR ohne Umsatzsteuer, ohne Verlängerungsoption. Die Prüfteams nutzen vorhandene Endgeräte. Beschaffungsgegenstand ist die Anwendung einschließlich Dienstleistung, nicht die Bauüberwachung selbst.",
+        "Los 1 umfasst Bereitstellung, Betrieb und Export der Anwendung. Los 2 ist die eigenständige fachliche Prüfung von fünfzehn Testpaketen und der Vollständigkeit der Übergabe. Zu prüfen sind nur fiktive Baustellenbefunde. Die Bekanntmachung für beide Lose wurde am 25. August 2026 versandt. Angebote sind bis zum 30. September um 12:00 Uhr einzureichen. Die Lose werden eigenständig gewertet und bezuschlagt."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "02_lv_pruefbuch.xlsx",
+      "titel": "Preisblatt für Anwendung und unabhängige Abnahmeprüfung",
+      "datum": "2026-08-25",
+      "von": "Tabea Rothen · IT-Einkauf West",
+      "an": "Alle interessierten Unternehmen",
+      "text": [
+        "Gesamtpreise aus Menge mal Netto-Einheitspreis. Ein Kontomonat bezeichnet ein namentliches Nutzerkonto für einen Monat. 40 Konten über 24 Monate entsprechen 960 Kontomonaten. Los 2 verwendet eine von der AG bereitgestellte Kopie der Testpakete. Je angebotenem Fachlos alle Positionen bepreisen."
+      ],
+      "tabelle": [
+        [
+          "Pos.",
+          "Los",
+          "Leistung",
+          "Einheit",
+          "Menge",
+          "EP netto EUR",
+          "GP netto EUR"
+        ],
+        [
+          "1.01",
+          "Anwendung",
+          "Einrichtung mit vereinbarter Datenübergabe",
+          "pauschal",
+          1,
+          null,
+          null
+        ],
+        [
+          "1.02",
+          "Anwendung",
+          "Nutzungsrecht Büro und Außendienst",
+          "Kontomonat",
+          960,
+          null,
+          null
+        ],
+        [
+          "1.03",
+          "Anwendung",
+          "Betrieb und Anwenderunterstützung",
+          "Monat",
+          24,
+          null,
+          null
+        ],
+        [
+          "1.04",
+          "Anwendung",
+          "Einweisung der Prüfteams vor Ort",
+          "Tag",
+          6,
+          null,
+          null
+        ],
+        [
+          "2.01",
+          "Abnahmeprüfung",
+          "Testpaket unabhängig prüfen und Ergebnis belegen",
+          "Paket",
+          15,
+          null,
+          null
+        ],
+        [
+          "2.02",
+          "Abnahmeprüfung",
+          "Abschlussbericht und Nachprüfung eines Übergabestands",
+          "pauschal",
+          1,
+          null,
+          null
+        ]
+      ],
+      "lv": {
+        "menge": "Menge",
+        "einheitspreis": "EP netto EUR",
+        "gesamtpreis": "GP netto EUR",
+        "losspalte": "Los"
+      }
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "03_veroeffentlichte_wertungsregeln.docx",
+      "titel": "Wertungsregel E3 und Testauftrag",
+      "datum": "2026-08-25",
+      "von": "Tabea Rothen · IT-Einkauf West",
+      "an": "Alle interessierten Unternehmen",
+      "text": [
+        "Los 1 hat höchstens 100 Punkte. Für den Preis werden 40 mal niedrigster wertbarer Lospreis geteilt durch den Lospreis des jeweiligen Angebots angesetzt. Weitere 40 Punkte entfallen auf Offline-Erfassung und Übergabe an die Prüferin. Für das Kriterium E3 sind höchstens 20 Punkte vorgesehen. Los 2 hat eine eigene Preiswertung.",
+        "Im Testtermin werden drei vorbereitete synthetische Vorgänge A, B und C exportiert. Maßgeblich ist, ob Vorgangsnummer, Prüfbefund und Bildverweis für jeden Vorgang nach dem Export ohne manuelle Nacherfassung zugeordnet bleiben. Drei vollständige Vorgänge ergeben 20 Punkte, zwei vollständige Vorgänge 10 Punkte, ein oder kein vollständiger Vorgang 0 Punkte. Datenformat und Anzahl der ausgegebenen Dateien sind freigestellt. Zum Termin wird die mit dem Angebot dokumentierte Programmfassung gezeigt.",
+        "Die Prüfleitung hält je Fall fest, welche Ausgabedateien vorlagen und wie die Zuordnung geprüft wurde. Mindestanforderung bleibt die Ausgabe der Befundtexte. Für den Bildverweis kommt die Punktewertung zur Anwendung. Alle Bewerber erhalten dasselbe vorbereitete Testmaterial."
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "04_bieterfrage_und_antwort.txt",
+      "titel": "Öffentliche Frage 6 zu verknüpften Dateien",
+      "datum": "2026-09-08",
+      "von": "Tabea Rothen · IT-Einkauf West",
+      "an": "Teilnehmerbereich · beide Fachlose",
+      "text": [
+        "Frage vom 7. September, 11:04 Uhr. Darf der Bildverweis als zweite Tabelle mit gemeinsamer Vorgangsnummer übergeben werden, wenn der Empfänger beide Tabellen anhand dieses Feldes automatisiert zusammenführt? Wir bitten um kurze Klarstellung.",
+        "Antwort Nr. 6 am 8. September um 14:12 Uhr gleichzeitig an alle registrierten Unternehmen versandt und öffentlich im Teilnehmerbereich eingestellt. „Ja. Eine separate Zuordnungsdatei ist zulässig. Entscheidend ist die Verbindung über die unveränderte Vorgangsnummer. Die drei Testvorgänge und die Punkte nach Anlage E3 bleiben maßgeblich.“"
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "05_eingereichte_preise.xlsx",
+      "titel": "Geöffnete Preisblätter für das Fachlos Anwendung",
+      "datum": "2026-09-30",
+      "von": "Öffnungsteam West",
+      "an": "Tabea Rothen · IT-Einkauf West",
+      "text": [
+        "Transkription der vier positionsbezogenen Netto-Einheitspreise aus den unverändert aufbewahrten Preisblättern. Eröffnung nach Ablauf der Angebotsfrist. Jedes Unternehmen hat ausschließlich Los 1 angeboten. Für Los 2 liegt ein gesondertes Angebot von Sollmaß Prüfdienste GmbH vor."
+      ],
+      "tabelle": [
+        [
+          "Position",
+          "Menge",
+          "Einheit",
+          "Planquell · EP EUR",
+          "Pultfeld · EP EUR"
+        ],
+        [
+          "1.01",
+          1,
+          "pauschal",
+          161000,
+          177400
+        ],
+        [
+          "1.02",
+          960,
+          "Kontomonat",
+          150,
+          155
+        ],
+        [
+          "1.03",
+          24,
+          "Monat",
+          2600,
+          2600
+        ],
+        [
+          "1.04",
+          6,
+          "Tag",
+          2100,
+          1900
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "06_wertungsbogen.xlsx",
+      "titel": "Wertungsliste Los 1 zur Zuschlagsfreigabe",
+      "datum": "2026-11-06",
+      "von": "Jule Esch · Fachteam Bauprüfungen",
+      "an": "Tabea Rothen · IT-Einkauf West",
+      "text": [
+        "Beide Anbieter haben die Mindestanforderungen erfüllt. Demos am 20. und 21. Oktober. Auf Basis der in der Liste erfassten Ergebnisse schlägt das Fachteam Pultfeld für den Zuschlag vor. Zu Planquell ist im Freitext nur „C ohne Bild im Hauptblatt“ hinterlegt. Die Ergebnisse der übrigen Qualitätskriterien wurden von beiden Prüfenden abgezeichnet."
+      ],
+      "tabelle": [
+        [
+          "Anbieter",
+          "Lospreis netto EUR",
+          "Preis / 40",
+          "Offline und Übergabe / 40",
+          "E3 / 20",
+          "Summe / 100"
+        ],
+        [
+          "Planquell Systeme",
+          380000,
+          40,
+          32,
+          10,
+          82
+        ],
+        [
+          "Pultfeld Digital",
+          400000,
+          38,
+          31,
+          20,
+          89
+        ]
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "07_vorabinformation.eml",
+      "titel": "Vorabinformation zum Zuschlagsvorschlag im Los Anwendung",
+      "datum": "2026-11-09",
+      "von": "Tabea Rothen · IT-Einkauf West",
+      "an": "Selma Linde · Planquell Systeme GmbH",
+      "text": [
+        "Sehr geehrte Frau Linde, im Los 1 soll der Auftrag an Pultfeld Digital GmbH vergeben werden. Ihr wertbares Angebot erreicht 82 Punkte, das vorgesehene Angebot 89. Bei Ihrem Export C sah das Prüfteam im Hauptblatt keinen Bildverweis. Damit wurden zwei vollständige Vorgänge gewertet. Das Angebot von Pultfeld zeigte für drei Vorgänge die Zuordnung. Der Preisvorteil Ihres Angebots gleicht den Punkteabstand nicht aus.",
+        "Nach dem derzeitigen Terminplan kann der Vertrag frühestens am 20. November geschlossen werden. Diese Nachricht betrifft Los 1. Mit freundlichen Grüßen, Tabea Rothen."
+      ],
+      "uhrzeit": "17:45",
+      "absender": "pruefbuch@interstate-west.example",
+      "empfaenger": "vergabe@planquell.example"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "08_einspruch_wertung.eml",
+      "titel": "Einspruch gegen zehn Punkte im Kriterium E3",
+      "datum": "2026-11-10",
+      "von": "Selma Linde · Planquell Systeme GmbH",
+      "an": "Tabea Rothen · IT-Einkauf West",
+      "text": [
+        "Wir bitten um Korrektur der Bewertung und um Aussetzung der Zuschlagserteilung in Los 1. Aus Ihrer Nachricht erfahren wir erstmals, dass der Bildverweis zu Vorgang C als fehlend gewertet wurde. Schon am 20. Oktober haben wir neben dem Hauptblatt die automatisch ausgegebene Datei Bilderliste gezeigt. Beide Tabellen enthielten die unveränderte Vorgangsnummer.",
+        "Nach Ihrer Antwort 6 sollte dies genügen. Die Lösung von Pultfeld kennen wir nicht. Bitte prüfen Sie das Testverzeichnis und die Mitschrift beider Prüfenden. Wir meinen, Anspruch auf sämtliche Punkte für E3 zu haben. Wir bewerben uns weiterhin um Los 1. Unsere Rüge bezieht sich allein auf dessen Wertung."
+      ],
+      "uhrzeit": "08:36",
+      "absender": "vergabe@planquell.example",
+      "empfaenger": "pruefbuch@interstate-west.example"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "09_versand_und_zugang.txt",
+      "titel": "Nachrichtenjournal für Los 1",
+      "datum": "2026-11-10",
+      "von": "Zentrale Poststelle West",
+      "an": "Tabea Rothen · IT-Einkauf West",
+      "text": [
+        "Elektronische Vorabinformation 7 am 9. November um 17:45 Uhr an die von Planquell benannte Adresse versandt. Der Mailserver meldet Annahme um 17:46 Uhr. Die Bieterin bestätigt am 10. November um 08:05 Uhr die Kenntnisnahme.",
+        "Einspruch von Planquell an das Funktionspostfach am 10. November um 08:36 Uhr angenommen, um 08:41 Uhr dem Vergabevorgang zugeordnet. Keine Nichtabhilfe und keine Nachricht der Vergabekammer bis zum Stand des Auszugs am 10. November, 16:00 Uhr. Für Los 2 enthält dieses Journal keine Zuschlagsfreigabe."
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "10_testprotokoll_mit_verzeichnis.docx",
+      "titel": "Testaufzeichnungen zu Vorgang C und Dateiliste beider Anbieter",
+      "datum": "2026-11-11",
+      "von": "Rike Mert · zweite Prüferin",
+      "an": "Tabea Rothen · IT-Einkauf West",
+      "text": [
+        "Beigefügt sind meine termingleichen Aufzeichnungen, übergeben am 11. November. Planquell, Termin 20. Oktober, Protokollstand 10:22 Uhr. A und B mit Bildzuordnung im Hauptblatt gezeigt. Bei C steht auf meinem Papier „Bild in Liste? Kennung gesehen, Abgleich offen“. Der Erstprüfer hielt um 10:24 Uhr „kein Verweis im Hauptblatt“ fest. Eine gemeinsame Schlussbewertung zur Bilderliste ist nicht abgezeichnet.",
+        "Im abgelegten Exportverzeichnis der vorgeführten Angebotsfassung liegen die folgenden Zeilen. Der Text „C-017“ kommt im Hauptblatt und in der zweiten Tabelle vor. Von der Sitzung ist keine Bildschirmaufzeichnung vorhanden. Ob die Verknüpfung im damaligen Test ohne manuelle Nacherfassung funktionierte, wurde für Planquell nicht protokolliert. Der Bieter bietet an, denselben Export mit einer neueren Programmfassung nochmals zu zeigen.",
+        "Pultfeld, Termin 21. Oktober. In der gespeicherten Ausgabetabelle der vorgeführten Fassung sind Vorgang und Bildverweis bei A, B und C jeweils in einer Zeile enthalten. Beide Prüfenden haben die drei Zuordnungen dokumentiert."
+      ],
+      "tabelle": [
+        [
+          "Ablage für Planquell",
+          "Vorgangsnummer",
+          "Inhalt im Export"
+        ],
+        [
+          "Hauptblatt, Zeile 3",
+          "C-017",
+          "Befundfuge, Bildspalte leer"
+        ],
+        [
+          "Bilderliste, Zeile 7",
+          "C-017",
+          "Referenz FOTO-17"
+        ]
+      ]
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "11_freigabeantwort.eml",
+      "titel": "Entscheidung des Einkaufs zum Einspruch",
+      "datum": "2026-11-12",
+      "von": "Tabea Rothen · IT-Einkauf West",
+      "an": "Selma Linde · Planquell Systeme GmbH",
+      "text": [
+        "Wir haben Ihre Einwendung geprüft. Der Erstprüfer hat im Hauptblatt für C keinen Bildverweis gefunden. Der Einkauf hilft Ihrer Beanstandung deshalb nicht ab und beabsichtigt, an der mitgeteilten Wertung festzuhalten. Der in der Vorabinformation bezeichnete Termin bleibt vorgemerkt.",
+        "Die Datei der zweiten Prüferin liegt in der Vergabeakte. Wir sehen keinen Anlass zur Veränderung der Rangfolge. Diese Entscheidung ist für den Einkauf freigegeben."
+      ],
+      "uhrzeit": "15:02",
+      "absender": "pruefbuch@interstate-west.example",
+      "empfaenger": "vergabe@planquell.example"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "12_kopie_nachpruefungsantrag.eml",
+      "titel": "Kopie unseres Nachprüfungsantrags zu Los 1",
+      "datum": "2026-11-13",
+      "von": "Selma Linde · Planquell Systeme GmbH",
+      "an": "Tabea Rothen · IT-Einkauf West",
+      "text": [
+        "Zur Kenntnis übersenden wir den Inhalt unseres heute um 14:17 Uhr bei der Vergabekammer des Bundes eingereichten Antrags. Unser Antrag richtet sich auf Überprüfung und Wiederholung der Wertung von Los 1 anhand der bekanntgemachten Exportkriterien. Die Vergabestelle soll vor Abschluss der Prüfung den Auftrag nicht erteilen.",
+        "Wir haben Los 1 angeboten, erreichen nach eigener Rechnung bei vollständiger E3-Wertung den ersten Platz und sehen unsere Zuschlagschance beeinträchtigt. Wir beziehen uns auf unsere Beanstandung vom 10. November und Ihre per E-Mail am 12. November, 15:02 Uhr, bei uns eingegangene Antwort. Im Feld für Lose haben wir nur „1 – Anwendung“ angegeben. Von der Kammer haben wir bislang eine automatische Empfangsbestätigung erhalten."
+      ],
+      "uhrzeit": "14:31",
+      "absender": "vergabe@planquell.example",
+      "empfaenger": "pruefbuch@interstate-west.example"
+    },
+    {
+      "phase": "Nachreichungen",
+      "datei": "13_unterrichtung_kammer.docx",
+      "titel": "Elektronische Unterrichtung durch den Vorsitzenden",
+      "datum": "2026-11-16",
+      "von": "Vorsitzender · Vergabekammer des Bundes (fiktiver Vorgang)",
+      "an": "Tabea Rothen · IT-Einkauf West",
+      "text": [
+        "Geschäftszeichen VK-Test/PW-116. Der Vorsitzende informiert die Deutsche Interstate AG über den am 13. November, 14:17 Uhr eingegangenen Nachprüfungsantrag der Planquell Systeme GmbH. Gegenstand des Antrags ist die Wertung in Los 1 des Verfahrens DI-W/IT-26-116. Um Stellungnahme und Vorlage der vollständigen elektronischen Vergabeakte bis 19. November, 12:00 Uhr, wird gebeten.",
+        "Elektronischer Zustellvermerk der Poststelle der Vergabestelle: Nachricht am 16. November um 09:04 Uhr eingegangen, um 09:06 Uhr der Einkaufsleitung zugewiesen. Die Kammer hat weder über die Begründetheit des Antrags noch über eine Gestattung des vorzeitigen Zuschlags entschieden."
+      ]
+    }
+  ],
+  "einwendungspruefung": [
+    {
+      "eingabe": "04_bieterfrage_und_antwort.txt",
+      "gegenpruefung": "03_veroeffentlichte_wertungsregeln.docx"
+    },
+    {
+      "eingabe": "08_einspruch_wertung.eml",
+      "gegenpruefung": "10_testprotokoll_mit_verzeichnis.docx"
+    },
+    {
+      "eingabe": "08_einspruch_wertung.eml",
+      "gegenpruefung": "09_versand_und_zugang.txt"
+    },
+    {
+      "eingabe": "12_kopie_nachpruefungsantrag.eml",
+      "gegenpruefung": "13_unterrichtung_kammer.docx"
+    }
+  ]
+}

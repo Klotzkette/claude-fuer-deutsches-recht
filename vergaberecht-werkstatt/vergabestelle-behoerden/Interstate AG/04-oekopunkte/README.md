@@ -34,13 +34,24 @@ Beginnen Sie mit diesen Unterlagen.
 
 ## Nachreichungen
 
-Arbeiten Sie die drei späteren Eingänge ein. Berechnen Sie die tatsächlich gesicherte bzw. bestrittene Deckung, kontrollieren Sie Kompensationsraum, Maßnahmentyp und Doppelbelegung anhand der einzelnen Belege. Setzen Sie dem geänderten Vertragsangebot eine eigenständige Vertrags- und Vergabestrategie entgegen und entwerfen Sie die zeitkritischen Nachrichten an Anbieter und Behörde.
+Arbeiten Sie die drei späteren Eingänge ein. Berechnen Sie die tatsächlich gesicherte bzw. bestrittene Deckung, kontrollieren Sie Kompensationsraum, Maßnahmentyp und Doppelbelegung anhand der einzelnen Belege. Setzen Sie dem geänderten Vertragsangebot eine eigenständige Vertrags- und Vergabestrategie entgegen und entwerfen Sie die zeitkritischen Nachrichten an Anbieter und Behörde. Prüfen Sie, was Wiesenkante mit ihrem Schreiben erreichen will, welche Stelle über die Nebenbestimmung entscheiden kann und welche Beschaffungsentscheidung der Einkauf vor der Bindefrist der Punkteanbieter treffen darf. Antworten Sie getrennt zur Teilnahme am Wettbewerb und zum gewünschten Aufschub des Kompensationsnachweises.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
 | 12.10.2026 | [Maßnahmenblatt Werkhof · Rückmeldung zur Voranfrage am 12. Oktober](Nachreichungen/08_behoerdenauskunft.eml) | EML |
 | 13.10.2026 | [V-92 · Vorvertrag mit Radwegeverband und korrigiertes Kontingent](Nachreichungen/09_vormerkung.eml) | EML |
 | 14.10.2026 | [Antwort auf Markterkundung · 35.000 Einheiten aus Gescher](Nachreichungen/10_restmenge.eml) | EML |
+| 15.10.2026 | [Einwendung gegen den Punktekauf und Bitte um Aufschub](Nachreichungen/11_einwendung_wiesenkante.eml) | EML |
+| 15.10.2026 | [Werkhof · Verteilerprotokoll zur Nachricht von Wiesenkante](Nachreichungen/12_eingang_und_adressat.txt) | TXT |
+
+## Eingaben prüfen
+
+Was beantragt der Absender, was lässt sich anhand der Akte belegen und was bleibt offen? Nutzen Sie die Nachreichungen in der zweiten Bearbeitungsrunde. Den [Prüfbogen für Einwendungen](../Einwendungen-Pruefbogen.xlsx) können Sie für jeden Vorgang ausfüllen.
+
+| Eingabe | Unterlage zur Gegenprüfung |
+| --- | --- |
+| [Einwendung gegen den Punktekauf und Bitte um Aufschub](Nachreichungen/11_einwendung_wiesenkante.eml) (Nachreichungen) | [Maßnahmenblatt Werkhof · Rückmeldung zur Voranfrage am 12. Oktober](Nachreichungen/08_behoerdenauskunft.eml) (Nachreichungen) |
+| [Einwendung gegen den Punktekauf und Bitte um Aufschub](Nachreichungen/11_einwendung_wiesenkante.eml) (Nachreichungen) | [Werkhof · Verteilerprotokoll zur Nachricht von Wiesenkante](Nachreichungen/12_eingang_und_adressat.txt) (Nachreichungen) |
 
 ## Quellen
 
@@ -55,5 +66,6 @@ Arbeiten Sie die drei späteren Eingänge ein. Berechnen Sie die tatsächlich ge
 - [LANUK NRW · Zuordnung der Städte und Gemeinden zu den Kompensationsräumen](https://www.lanuk.nrw.de/fileadmin/lanuv/natur/pdf/20170925_Kompensation_staedte_u_gemeinde.pdf)
 - [Kreis Borken · örtliches Verfahren und Ökokonto](https://www.kreis-borken.de/de/kreisregion/klima-mobilitaet/umwelt/natur-landschaft/eingriffe-in-natur-landschaft.php)
 - [BFH · Grundstückserwerb und Ökokonto, grunderwerbsteuerliche Entscheidung; Reichweite der Grundstücksbindung im dortigen Sachverhalt](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520306/)
+- [§ 160 GWB – Antrag und Rüge im Nachprüfungsverfahren](https://www.gesetze-im-internet.de/gwb/__160.html)
 
 [Alle Interstate-Akten](../README.md)

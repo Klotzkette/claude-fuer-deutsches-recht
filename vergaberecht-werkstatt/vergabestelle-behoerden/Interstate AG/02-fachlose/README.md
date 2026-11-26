@@ -38,13 +38,24 @@ Beginnen Sie mit diesen Unterlagen.
 
 ## Nachreichungen
 
-Führen Sie den Vermerk am 13., 18. und 19. November mit den jeweils verfügbaren Unterlagen fort. Grenzen Sie Baupreise, zusätzliche Koordination und Miete voneinander ab. Bezeichnen Sie, welche Übergabefrist neu belegt ist, auf welchen Loszuschnitt sie sich bezieht und für welche Alternative weiterhin eine belastbare Zusage fehlt. Die Leitung benötigt für die Sitzung am 20. November eine Entscheidungsvorlage und gegebenenfalls überarbeitete Los- und Angebotsbedingungen vor einer Bekanntmachung.
+Führen Sie den Vermerk am 13., 18. und 19. November mit den jeweils verfügbaren Unterlagen fort. Grenzen Sie Baupreise, zusätzliche Koordination und Miete voneinander ab. Bezeichnen Sie, welche Übergabefrist neu belegt ist, auf welchen Loszuschnitt sie sich bezieht und für welche Alternative weiterhin eine belastbare Zusage fehlt. Die Leitung benötigt für die Sitzung am 20. November eine Entscheidungsvorlage und gegebenenfalls überarbeitete Los- und Angebotsbedingungen vor einer Bekanntmachung. Ordnen Sie den als „Einspruch“ bezeichneten Brief neben der früheren Interessenbekundung ein. Prüfen Sie für die Leitung, welche Information dem Unternehmen vorlag, welches konkrete Los es ausführen möchte und welche Änderungen an Vorhaltezeit und Übergaberegel vor einer Veröffentlichung nötig wären. Formulieren Sie eine Antwort, die alle Interessierten über denselben Informationsweg erreicht.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
 | 13.11.2026 | [Ausweichhalle – Option für die erste Septemberhälfte](Nachreichungen/07_angebot_mietverlaengerung.eml) | EML |
 | 18.11.2026 | [Überarbeiteter Übergabeplan und befristete Personalzusage](Nachreichungen/08_planer_stellungnahme.docx) | DOCX |
 | 19.11.2026 | [Richtpreisauskunft der Küppenbau-Gruppe – gleiche Positionen in Nord und Süd](Nachreichungen/09_richtpreis_gewerke.xlsx) | XLSX |
+| 19.11.2026 | [Einspruch gegen die Zusammenfassung · Beschichtungsarbeiten Süd](Nachreichungen/10_einspruch_teillos_sued.eml) | EML |
+| 20.11.2026 | [Weidenstück · Eingang vor der Leitungssitzung und Gesprächsnotiz](Nachreichungen/11_posteingang_und_marktgespraech.docx) | DOCX |
+
+## Eingaben prüfen
+
+Was beantragt der Absender, was lässt sich anhand der Akte belegen und was bleibt offen? Nutzen Sie die Nachreichungen in der zweiten Bearbeitungsrunde. Den [Prüfbogen für Einwendungen](../Einwendungen-Pruefbogen.xlsx) können Sie für jeden Vorgang ausfüllen.
+
+| Eingabe | Unterlage zur Gegenprüfung |
+| --- | --- |
+| [Einspruch gegen die Zusammenfassung · Beschichtungsarbeiten Süd](Nachreichungen/10_einspruch_teillos_sued.eml) (Nachreichungen) | [Anlage B – Entwurf der Angebotsbedingungen bei sechs Losen](Grundakte/06a_entwurf_losbedingungen.docx) (Grundakte) |
+| [Einspruch gegen die Zusammenfassung · Beschichtungsarbeiten Süd](Nachreichungen/10_einspruch_teillos_sued.eml) (Nachreichungen) | [Weidenstück · Eingang vor der Leitungssitzung und Gesprächsnotiz](Nachreichungen/11_posteingang_und_marktgespraech.docx) (Nachreichungen) |
 
 ## Quellen
 
@@ -54,5 +65,6 @@ Führen Sie den Vermerk am 13., 18. und 19. November mit den jeweils verfügbare
 - [§ 3 VgV – Schätzung des Auftragswerts](https://www.gesetze-im-internet.de/vgv_2016/__3.html)
 - [Art. 1 Delegierte Verordnung (EU) 2025/2152 – Schwellenwerte 2026 und 2027](https://op.europa.eu/de/publication-detail/-/publication/ed53995b-afac-11f0-b37f-01aa75ed71a1/language-de)
 - [VOB/A 2026, Abschnitt 2, §§ 5a EU (Losgrundsatz), 5b EU (Loslimitierung), 7b EU (Leistungsverzeichnis) und 20 EU (Dokumentation) – BAnz AT 24.08.2026 B6](https://bundesanzeiger.de/pub/publication/73xO0rpP1jfX5HRt0Ja/content/73xO0rpP1jfX5HRt0Ja/BAnz%20AT%2024.08.2026%20B6.pdf?inline=)
+- [§ 160 GWB – Antrag und Rüge im Nachprüfungsverfahren](https://www.gesetze-im-internet.de/gwb/__160.html)
 
 [Alle Interstate-Akten](../README.md)

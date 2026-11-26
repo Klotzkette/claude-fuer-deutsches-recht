@@ -33,12 +33,14 @@ from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer, Table, Tabl
 from akteneingang.ausgabe import archive
 from akteneingang.dokumente import add_member, office_bytes, sha, simple
 from akteneingang.quellen import safe_member
+from interstate_einwendungsbogen import pruefbogen
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME, NOTICE_MARKDOWN
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "scripts/data/interstate-ag"
 OUTPUT = ROOT / "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG"
 COLLECTION_ZIP = ROOT / "docs/downloads/interstate-ag-nl-west-testakten.zip"
+PRUEFBOGEN = "Einwendungen-Pruefbogen.xlsx"
 PHASES = ("Grundakte", "Nachreichungen")
 ACCENT = "234C5A"
 MUTED = "4C6370"
@@ -199,6 +201,9 @@ def cached_workbook(book, cache):
                             else:
                                 cell.getElementsByTagName("v")[0].appendChild(xml.createTextNode(str(value)))
                     data = xml.toxml(encoding="utf-8")
+                    # Python 3.12 encoded quotes in XML text nodes. Keep the same bytes in
+                    # formula text on 3.13+, where minidom escapes them only in attributes.
+                    data = re.sub(rb">([^<]*\"[^<]*)<", lambda match: match[0].replace(b'"', b"&quot;"), data)
             add_member(target, name, data)
     return out.getvalue()
 
@@ -390,6 +395,26 @@ def reading(doc, case, name, lv):
     return out.getvalue()
 
 
+def filing_pairs(case, slug):
+    pairs = case.get("einwendungspruefung")
+    if not isinstance(pairs, list) or not pairs:
+        raise ValueError(f"{slug}: Einwendung und Gegenbeleg für die Prüfung fehlen")
+    documents = {doc["datei"]: doc for doc in case["dokumente"]}
+    if len(documents) != len(case["dokumente"]):
+        raise ValueError(f"{slug}: Dateinamen für die Einwendungsprüfung nicht eindeutig")
+    for pair in pairs:
+        filing, evidence = pair["eingabe"], pair["gegenpruefung"]
+        if filing == evidence or filing not in documents or evidence not in documents:
+            raise ValueError(f"{slug}: Eingabe und Gegenprüfung müssen zwei vorhandene Aktenstücke bezeichnen: {pair}")
+        yield documents[filing], documents[evidence]
+
+
+def filing_link(doc):
+    title = doc["titel"].replace("|", "\\|")
+    path = quote(f'{doc["phase"]}/{doc["datei"]}')
+    return f'[{title}]({path}) ({doc["phase"]})'
+
+
 def make_case(case, slug):
     documents = case["dokumente"]
     if {doc["phase"] for doc in documents} != set(PHASES):
@@ -437,6 +462,13 @@ def make_case(case, slug):
             label = doc["titel"].replace("|", "\\|")
             readme.append(f"| {german_date(doc)} | [{label}]({quote(rel)}) | {Path(name).suffix[1:].upper()} |")
 
+    readme.extend(["", "## Eingaben prüfen", "",
+                   "Was beantragt der Absender, was lässt sich anhand der Akte belegen und was bleibt offen? "
+                   "Nutzen Sie die Nachreichungen in der zweiten Bearbeitungsrunde. "
+                   f"Den [Prüfbogen für Einwendungen](../{PRUEFBOGEN}) können Sie für jeden Vorgang ausfüllen.",
+                   "", "| Eingabe | Unterlage zur Gegenprüfung |", "| --- | --- |"])
+    for filing, evidence in filing_pairs(case, slug):
+        readme.append(f"| {filing_link(filing)} | {filing_link(evidence)} |")
     readme.extend(["", "## Quellen", ""])
     readme.extend(f"- [{label}]({target})" for label, target in case["quellen"])
     readme.extend(["", "[Alle Interstate-Akten](../README.md)", ""])
@@ -454,12 +486,17 @@ def main():
     cli.add_argument("--check", action="store_true", help="Dateinamen und Inhalt gegen die JSON-Quellen prüfen")
     args = cli.parse_args()
     sources = sorted(DATA.glob("*.json"))
-    if [p.name[:3] for p in sources] != [f"{i:02d}-" for i in range(1, 8)]:
-        cli.error("Die sieben JSON-Akten 01 bis 07 werden benötigt.")
-    collection = {NOTICE_FILENAME: NOTICE_BYTES}
+    if not sources or any(not path.stem.startswith(f"{i:02d}-") for i, path in enumerate(sources, 1)):
+        cli.error("JSON-Akten ab 01 ohne Lücken und mit eindeutiger Nummer anlegen.")
+    unlisted = {p.name for p in OUTPUT.iterdir() if p.is_dir()} - {p.stem for p in sources}
+    if unlisted:
+        cli.error(f"Aktenordner ohne zugehörige JSON-Quelle: {sorted(unlisted)}")
+    form = pruefbogen()
+    collection = {NOTICE_FILENAME: NOTICE_BYTES, PRUEFBOGEN: form}
     guide = ["", "Deutsche Interstate AG · Niederlassung West", "",
-             "Wählen Sie einen der sieben Fallordner. Bearbeiten Sie zuerst die Grundakte. "
+             "Wählen Sie einen Fallordner. Bearbeiten Sie zuerst die Grundakte. "
              "Öffnen Sie die Nachreichungen nach der ersten Bearbeitungsrunde. "
+             f"Für Ihre Prüfung der Eingaben verwenden Sie {PRUEFBOGEN} auf der obersten Ebene. "
              "Die Gesamt-PDF führt über Lesezeichen zu beiden Phasen. "
              "Das ZIP unter downloads enthält die Druckfassungen der einzelnen Unterlagen."]
     for source in sources:
@@ -468,7 +505,11 @@ def main():
         assets = make_case(case, source.stem)
         guide.extend(["", f'{source.stem} · {case["titel"]}', case["zeichen"], "",
                       case["einstieg"], "", case["auftrag"], "", case["nachreichung"],
-                      "", "Quellen:"])
+                      "", "Eingaben und Unterlagen zur Gegenprüfung"])
+        for filing, evidence in filing_pairs(case, source.stem):
+            guide.extend([f'  Eingabe: {filing["phase"]}/{filing["datei"]}',
+                          f'  Gegenprüfung: {evidence["phase"]}/{evidence["datei"]}'])
+        guide.extend(["", "Quellen:"])
         guide.extend(f"{label} · {target}" for label, target in case["quellen"])
         extra = {p.relative_to(folder).as_posix() for p in folder.rglob("*") if p.is_file()} - assets.keys()
         if extra:
@@ -479,6 +520,7 @@ def main():
             deliver(folder / rel, data, args.check)
         print(f"{source.stem}: {len(assets) - 4} Aktenstücke")
     collection[NOTICE_FILENAME] += ("\n".join(guide) + "\n").encode("utf-8")
+    deliver(OUTPUT / PRUEFBOGEN, form, args.check)
     deliver(COLLECTION_ZIP, archive(collection), args.check)
     print(COLLECTION_ZIP.relative_to(ROOT))
 

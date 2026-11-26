@@ -2,7 +2,7 @@
 
 Für öffentliche Auftraggeber: Vergabeunterlagen und Angebote prüfen, Rügen bearbeiten und den beauftragten Vergabevermerk, die Bieterantwort oder Zuschlagsentscheidung ausarbeiten. Vorhandene Unterlagen bestimmen Rechtsregime und nächsten Fachschritt; nur entscheidende Lücken werden nachgefragt.
 
-[Interstate AG · sieben Testakten aus der Niederlassung West](Interstate%20AG/README.md). Prüfen Sie am Betriebshof Weidenstück Teillose und Fachlose anhand der Leistungsverzeichnisse. Weitere Fälle führen vom Angebotsausschluss und dem Erwerb von Ökopunkten bis zur Prüfung eines Nachtrags anhand des Auftrags-LV.
+Die [elf Testakten der Interstate AG, Niederlassung West](Interstate%20AG/README.md) führen vom Vergabevermerk bis zur Auseinandersetzung auf der Baustelle. Prüfen Sie anhand von Leistungsverzeichnissen, Angeboten und Eingangsbelegen, was ein Unternehmen konkret beanstandet und wie die Vergabestelle reagieren sollte. Für eine Sitzung können Sie unter anderem Leitplanung, Brückenneubau, Fahrbahnmarkierung oder IT für die Bauprüfung wählen.
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 [Öffentliche Startseite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/README.md) | [Gesamtkatalog](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/SKILLS.md) | [Öffentlicher Skill-Index](../../skills-index/vergabestelle-behoerden.md) | [Download-Index](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ASSET_INDEX.md) | [Alle Testakten](../../testakten/README.md) | [Plugin-Dateien](.)

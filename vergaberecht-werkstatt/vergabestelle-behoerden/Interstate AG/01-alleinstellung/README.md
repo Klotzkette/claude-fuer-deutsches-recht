@@ -33,12 +33,23 @@ Beginnen Sie mit diesen Unterlagen.
 
 ## Nachreichungen
 
-Führen Sie den Vermerk zunächst nach der beobachteten Probe vom 11. November und nochmals nach dem Schreiben der bisherigen Anbieterin vom 16. November fort. Halten Sie bei jedem Stand fest, welche Feststellungen Sie beibehalten oder ändern. Die Leitung berät am 18. November erneut. Sie benötigt einen konkreten Auftrag an Einkauf und Archiv mit Verantwortlichen und Terminen.
+Führen Sie den Vermerk zunächst nach der beobachteten Probe vom 11. November und nochmals nach dem Schreiben der bisherigen Anbieterin vom 16. November fort. Halten Sie bei jedem Stand fest, welche Feststellungen Sie beibehalten oder ändern. Die Leitung berät am 18. November erneut. Sie benötigt einen konkreten Auftrag an Einkauf und Archiv mit Verantwortlichen und Terminen. Die Nachricht von Lichtfaden trägt die Überschrift „Widerspruch“. Prüfen Sie anhand ihres Wortlauts und des Eingangsjournals, was die Firma konkret verlangt, wann die AG davon erfahren konnte und welche Abhilfe oder Aufklärung vor einer Einladung in Betracht kommt. Entwerfen Sie für die Leitung eine Antwort mit einem nachprüfbaren nächsten Schritt.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
 | 11.11.2026 | [Beobachtete Musterübernahme in der Dokumentation](Nachreichungen/07_protokoll_musteruebernahme.docx) | DOCX |
 | 16.11.2026 | [Bestandsauskunft und befristeter Lesezugang nach Vertragsende](Nachreichungen/08_ueberbrueckung_angebot.eml) | EML |
+| 17.11.2026 | [Widerspruch gegen die Beschränkung auf Albumstrom · DI-W/BES-26-041](Nachreichungen/09_widerspruch_lichtfaden.eml) | EML |
+| 18.11.2026 | [Eingangsjournal A-411 · Stand 08:25 Uhr](Nachreichungen/10_eingang_und_einladungsstand.txt) | TXT |
+
+## Eingaben prüfen
+
+Was beantragt der Absender, was lässt sich anhand der Akte belegen und was bleibt offen? Nutzen Sie die Nachreichungen in der zweiten Bearbeitungsrunde. Den [Prüfbogen für Einwendungen](../Einwendungen-Pruefbogen.xlsx) können Sie für jeden Vorgang ausfüllen.
+
+| Eingabe | Unterlage zur Gegenprüfung |
+| --- | --- |
+| [Widerspruch gegen die Beschränkung auf Albumstrom · DI-W/BES-26-041](Nachreichungen/09_widerspruch_lichtfaden.eml) (Nachreichungen) | [Beobachtete Musterübernahme in der Dokumentation](Nachreichungen/07_protokoll_musteruebernahme.docx) (Nachreichungen) |
+| [Widerspruch gegen die Beschränkung auf Albumstrom · DI-W/BES-26-041](Nachreichungen/09_widerspruch_lichtfaden.eml) (Nachreichungen) | [Eingangsjournal A-411 · Stand 08:25 Uhr](Nachreichungen/10_eingang_und_einladungsstand.txt) (Nachreichungen) |
 
 ## Quellen
 
@@ -49,5 +60,6 @@ Führen Sie den Vermerk zunächst nach der beobachteten Probe vom 11. November u
 - [§ 28 VgV – Markterkundung](https://www.gesetze-im-internet.de/vgv_2016/__28.html)
 - [§ 31 VgV – Leistungsbeschreibung](https://www.gesetze-im-internet.de/vgv_2016/__31.html)
 - [§ 8 VgV – Dokumentation und Vergabevermerk](https://www.gesetze-im-internet.de/vgv_2016/__8.html)
+- [§ 160 GWB – Antrag und Rüge im Nachprüfungsverfahren](https://www.gesetze-im-internet.de/gwb/__160.html)
 
 [Alle Interstate-Akten](../README.md)

@@ -72,7 +72,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Sieben weitere [Akten der Deutschen Interstate AG](../vergaberecht-werkstatt/vergabestelle-behoerden/Interstate%20AG/README.md) behandeln die Vermerk- und Vertragsprüfung aus Sicht der Vergabestelle.
+In den [elf Akten der Deutschen Interstate AG](../vergaberecht-werkstatt/vergabestelle-behoerden/Interstate%20AG/README.md) prüfen Sie aus Sicht der Vergabestelle auch die Schreiben der Gegenseite. Beim Brückenneubau vergleichen Sie etwa die beanstandete Wertung der Bauzeit mit den Angaben im Angebot.
 
 ## 1. Schwerpunkt: Punktespiegel und Rangfolgenkontrolle
 

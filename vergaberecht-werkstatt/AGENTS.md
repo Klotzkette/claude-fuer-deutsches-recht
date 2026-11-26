@@ -44,6 +44,10 @@ Description-Felder dürfen keine Abruf-/Auslese-Wörter aus der verbotenen Wortf
 - Standalone-Prompts einzeln als Markdown, nicht im Plugin- oder Skills-ZIP; weitere Regeln und Umbenennungen stehen in `PUBLIC-INTEGRATION.md`.
 - Vor jeder Testakten-PDF-/ZIP-Downloadgruppe steht der unveraenderte deutsche und englische Warnhinweis aus `testakten/README.txt`. Beide Akten-ZIP-Varianten und Sammelpakete mit Testakten enthalten diese Datei auf ZIP-Wurzelebene. Keine Warnhinweise in PDFs einbauen.
 
+## Fallakten der Deutschen Interstate AG
+
+Jede Akte enthält eine konkrete Eingabe eines Beteiligten und ein zweites Aktenstück, an dem sich die Behauptung prüfen lässt. Absender, Empfänger, Begehren und Verfahrensstand müssen aus den Unterlagen hervorgehen. Spielt eine Frist eine Rolle, enthält die Akte Versand- und Eingangsbelege oder bezeichnet die offene Nachweisfrage. Vor dem Zuschlag eignen sich etwa eine Bieterfrage und eine Rüge, während der Vertragsausführung ein Einwand gegen ein Aufmaß oder ein Zahlungsvorbehalt. Der Auftrag überlässt Einordnung und Antwort der bearbeitenden Person.
+
 ## Autorenkontakt
 
 - Name: `Klotzkette`

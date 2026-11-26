@@ -28,7 +28,7 @@ jobs:
     env:
       TAG: ${{ inputs.tag }}
       EXPECTED_COMMIT: ${{ inputs.expected_commit }}
-      SCOPE: ${{ inputs.tag == 'qualitaetsrunde-v445.36.12' && 'scripts/data/interstate-ag-release-scope.json' || inputs.tag == 'qualitaetsrunde-v445.36.13' && 'scripts/data/qualitaetsrunde-v445.36.13-scope.json' || inputs.tag == 'qualitaetsrunde-v445.36.14' && 'scripts/data/qualitaetsrunde-v445.36.14-scope.json' || 'scripts/data/skill-quality-release-scope.json' }}
+      SCOPE: ${{ inputs.tag == 'qualitaetsrunde-v445.36.12' && 'scripts/data/interstate-ag-release-scope.json' || inputs.tag == 'qualitaetsrunde-v445.36.13' && 'scripts/data/qualitaetsrunde-v445.36.13-scope.json' || contains(fromJSON('["qualitaetsrunde-v445.36.14","qualitaetsrunde-v445.36.15"]'), inputs.tag) && format('scripts/data/{0}-scope.json', inputs.tag) || 'scripts/data/skill-quality-release-scope.json' }}
     steps:
       - name: Nur geprüften Main-Workflow zulassen
         if: github.ref != 'refs/heads/main'
@@ -59,8 +59,10 @@ jobs:
           test -s "docs/releases/$TAG.md"
           python3 -m pip install -r requirements.txt
       - name: Vergabestellen-Akten und installierbares Paket prüfen
-        if: inputs.tag == 'qualitaetsrunde-v445.36.12' || inputs.tag == 'qualitaetsrunde-v445.36.13'
-        run: python3 scripts/test-interstate-testakten.py
+        if: contains(fromJSON('["qualitaetsrunde-v445.36.12","qualitaetsrunde-v445.36.13","qualitaetsrunde-v445.36.15"]'), inputs.tag)
+        run: |
+          python3 scripts/build-interstate-testakten.py --check
+          python3 scripts/test-interstate-testakten.py
       - name: Patentanmelder-Ausgabe mit drei vollständigen Offline-Akten prüfen
         if: inputs.tag == 'qualitaetsrunde-v445.36.14'
         run: |

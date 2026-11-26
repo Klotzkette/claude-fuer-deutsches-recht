@@ -34,13 +34,24 @@ Beginnen Sie mit diesen Unterlagen.
 
 ## Nachreichungen
 
-Ab 17. September gehen die Gesprächserinnerung der Anbieterin, ein konkretes Änderungsblatt und die Antwort der kaufmännischen Leitung ein. Führen Sie die bestehende Prüfung bis zur Entscheidung über den unveränderten Abruf und die zusätzlich angefragten Leistungen fort. Erläutern Sie die Wertgrenzen und formulieren Sie die interne sowie externe Rückmeldung.
+Ab 17. September gehen die Gesprächserinnerung der Anbieterin, ein konkretes Änderungsblatt und die Antwort der kaufmännischen Leitung ein. Führen Sie die bestehende Prüfung bis zur Entscheidung über den unveränderten Abruf und die zusätzlich angefragten Leistungen fort. Erläutern Sie die Wertgrenzen und formulieren Sie die interne sowie externe Rückmeldung. Würdigen Sie die Nachricht der Anbieterin und das getrennte Postfachprotokoll. Prüfen Sie, welche Erklärung von welcher Person zugegangen ist, auf welche Fassung sie sich bezieht und ob für die zusätzlichen Nächte, die CSV oder eine Bereithaltung bereits eine Bindung besteht. Entwerfen Sie vor Ablauf der Personalreservierung eine nach außen eindeutige Antwort.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
 | 17.09.2026 | [Nachtrag zum Gespräch vom 10. September · Kosten und Weitergabe](Nachreichungen/08_protokoll_preisgespraech.eml) | EML |
 | 18.09.2026 | [K17-01 · Änderungsblatt 01 zur Preis- und Terminbestätigung](Nachreichungen/09_aenderungsanfrage_k17.docx) | DOCX |
 | 21.09.2026 | [K17 · Änderungsblatt 01 vor Disposition](Nachreichungen/10_leitung_zu_budget_und_zeichnung.eml) | EML |
+| 22.09.2026 | [K17 · Widerspruch gegen die Trennung von Abruf und Änderungsblatt](Nachreichungen/11_widerspruch_abruftrennung.eml) | EML |
+| 22.09.2026 | [K17 · Verlauf des Projektpostfachs und der Personaldisposition](Nachreichungen/12_postfach_und_telefonnotiz.txt) | TXT |
+
+## Eingaben prüfen
+
+Was beantragt der Absender, was lässt sich anhand der Akte belegen und was bleibt offen? Nutzen Sie die Nachreichungen in der zweiten Bearbeitungsrunde. Den [Prüfbogen für Einwendungen](../Einwendungen-Pruefbogen.xlsx) können Sie für jeden Vorgang ausfüllen.
+
+| Eingabe | Unterlage zur Gegenprüfung |
+| --- | --- |
+| [K17 · Widerspruch gegen die Trennung von Abruf und Änderungsblatt](Nachreichungen/11_widerspruch_abruftrennung.eml) (Nachreichungen) | [K17-01 · Bestellwert, Kontierung und Zeichnungsgrenzen](Grundakte/06_freigabewerte_k17.xlsx) (Grundakte) |
+| [K17 · Widerspruch gegen die Trennung von Abruf und Änderungsblatt](Nachreichungen/11_widerspruch_abruftrennung.eml) (Nachreichungen) | [K17 · Verlauf des Projektpostfachs und der Personaldisposition](Nachreichungen/12_postfach_und_telefonnotiz.txt) (Nachreichungen) |
 
 ## Quellen
 
