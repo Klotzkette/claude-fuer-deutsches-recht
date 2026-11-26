@@ -24,6 +24,9 @@ from pathlib import Path
 from public_release import BLOB_BASE as GH_BLOB, RAW_BASE as GH_RAW, COMPONENT_RELEASE_BASE as GH_RELEASE
 from public_release import COMPONENT_RELEASE_TAG, with_working_downloads, plugin_download
 from testakte_notices import with_case_warnings
+
+# Der Katalog verwendet die Textaufbereitung und deren Aktenfilter aus dem Hauptrepository.
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "scripts"))
 from skill_overview_text import description
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
