@@ -2,12 +2,13 @@
 
 from functools import lru_cache
 from hashlib import sha256
+import gzip
 import json
 import lzma
 from pathlib import Path
 
 NACHWEIS = Path("quality/plugin-consolidation/2026-11-27")
-REGISTER_SHA256 = "f3b1da69d4f7a69de2a2d989100b8c54f5e6624e584bd1f641e6f30899d6bc85"
+REGISTER_SHA256 = "c7dcc400b00a14849883f65b26515f5b3dafd40568d65049fb0671145ef9b910"
 
 
 @lru_cache(maxsize=4)
@@ -17,7 +18,7 @@ def _lesen(pfad, groesse, mtime, ctime, erwartet):
         raise ValueError(f"Akten-Erhaltungsnachweis beschädigt: {pfad.name}")
     if pfad.suffix == ".xz":
         return lzma.decompress(data)
-    return json.loads(data)
+    return json.loads(gzip.decompress(data))
 
 
 def geprueft(pfad, digest):
@@ -29,7 +30,7 @@ def register(root):
     ort = root / NACHWEIS
     if not ort.exists():
         return {}
-    return geprueft(ort / "bestand.json", REGISTER_SHA256)
+    return geprueft(ort / "bestand.json.gz", REGISTER_SHA256)
 
 
 def vorher(root, name, data):

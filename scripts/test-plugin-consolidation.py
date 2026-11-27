@@ -148,6 +148,21 @@ class PreservationTests(unittest.TestCase):
 
 
 class ConsolidationEditionTests(unittest.TestCase):
+    def test_historisches_register_ist_bytegleich_und_reproduzierbar_gepackt(self):
+        import gzip
+        from hashlib import sha256
+
+        from akten_erhaltungsfassungen import NACHWEIS, register
+
+        root = Path(__file__).resolve().parents[1]
+        paket = (root / NACHWEIS / "bestand.json.gz").read_bytes()
+        self.assertEqual(paket[3:8], bytes(5))  # Keine optionalen Namen oder Zeitstempel.
+        inhalt = gzip.decompress(paket)
+        self.assertEqual(sha256(inhalt).hexdigest(),
+                         "f3b1da69d4f7a69de2a2d989100b8c54f5e6624e584bd1f641e6f30899d6bc85")
+        self.assertEqual(register(root), json.loads(inhalt))
+        self.assertFalse((root / NACHWEIS / "bestand.json").exists())
+
     def test_aktennavigation_und_historische_urkunde_sind_pfadscharf(self):
         from akten_erhaltungsfassungen import vorher
         root = Path(__file__).resolve().parents[1]

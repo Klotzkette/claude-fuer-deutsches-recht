@@ -25,7 +25,7 @@ spec.loader.exec_module(public_validation)
 
 
 class PublicIntegrationTests(unittest.TestCase):
-    def test_mini_readme_keeps_import_edition_despite_marketplace_version_change(self):
+    def test_mini_readme_follows_working_files_despite_marketplace_version_change(self):
         original_read = Path.read_text
         marketplace_path = ROOT / ".claude-plugin/marketplace.json"
 
@@ -49,9 +49,11 @@ class PublicIntegrationTests(unittest.TestCase):
             self.assertEqual(release.RELEASE_TAG, "vergaberecht-werkstatt-v9.8.7")
             self.assertTrue(release.RELEASE_BASE.endswith("/vergaberecht-werkstatt-v9.8.7"))
             self.assertEqual(release.COMPONENT_RELEASE_TAG, json.loads((ROOT / "source-import.json").read_text())["release"])
-            self.assertEqual(generator.RELEASE_BASE, release.COMPONENT_RELEASE_BASE)
-            self.assertEqual(generator.render_readme(generator.marketplace()["plugins"]),
-                             (ROOT / "unified-mini-prompts/README.md").read_text())
+            rendered = generator.render_readme(generator.marketplace()["plugins"])
+            self.assertEqual(rendered, (ROOT / "unified-mini-prompts/README.md").read_text())
+            for role in release.PROMPT_SUFFIXES:
+                self.assertIn(f"({release.mini_download(role)})", rendered)
+                self.assertNotIn(f"{release.COMPONENT_RELEASE_BASE}/{role}-unified-mini-prompt.md", rendered)
 
     def test_shared_navigation_is_explicit_and_requires_existing_file(self):
         with tempfile.TemporaryDirectory() as directory:
