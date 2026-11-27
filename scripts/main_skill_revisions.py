@@ -360,7 +360,8 @@ def previous_bytes(root, path, *, plugin=None):
         refpath = inside(root, ref)
         if not refpath.is_relative_to(source / "references") or refpath.suffix != ".md":
             raise ValueError(f"{relative}: Quellenkarte liegt außerhalb des Plugins")
-        if digest(refpath.read_bytes()) != expected_hash:
+        reference = previous_edition(root, ref, refpath.read_bytes(), plugin=name)
+        if digest(reference) != expected_hash:
             raise ValueError(f"{relative}: lokale Arbeits- und Quellenkarte verändert")
     return old
 
@@ -647,6 +648,16 @@ def historical_bytes(root, path, expected, *, plugin=None):
     current = previous_edition(root, path.relative_to(root).as_posix(), live, plugin=plugin)
     if digest(live) == expected:
         return live
+    relative = path.relative_to(root)
+    if (len(relative.parts) == 4 and relative.parts[0] == "gerichtsplugins"
+            and relative.parts[2:] == ("testakte", "README.md")
+            and (not plugin or plugin == relative.parts[1])):
+        from aktenarbeit_einstiege import mit_verweisen, ohne_verweise
+        text = live.decode("utf-8")
+        original = ohne_verweise(text)
+        if (digest(original.encode("utf-8")) == expected
+                and mit_verweisen(original, relative, ["gericht-" + relative.parts[1]]) == text):
+            return original.encode("utf-8")
     if current != live and digest(current) == expected:
         return current
     from case_navigation_revision import CASES, previous_case_readme
@@ -686,7 +697,9 @@ def historical_bytes(root, path, expected, *, plugin=None):
 
 
 def validate_all(root):
+    from werkstatt_edition import validate_all as validate_workshops
     root = Path(root).resolve()
+    validate_workshops(root)
     rows = index(root)
     for relative, row in rows.items():
         previous_bytes(root, inside(root, relative), plugin=row.get("plugin"))

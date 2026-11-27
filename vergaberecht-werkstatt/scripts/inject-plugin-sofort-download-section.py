@@ -20,6 +20,7 @@ import re
 import sys
 from pathlib import Path
 
+from public_release import mini_download
 from public_release import COMPONENT_RELEASE_BASE as RELEASE_BASE, DOWNLOAD_BASE, RAW_BASE, with_working_downloads, plugin_download
 from testakte_notices import with_case_warnings
 
@@ -255,17 +256,17 @@ def build_section(plugin_name: str, akten_slugs: list[str]) -> str:
         lines.append(
             f"| Autarker Vollworkflow | "
             f"[Arbeitsprompt](../vergaberecht-arbeitsprompt-{suffix}.md) | "
-            f"[`vergaberecht-arbeitsprompt-{suffix}.md`]({RELEASE_BASE}/vergaberecht-arbeitsprompt-{suffix}.md) |"
+            f"[`vergaberecht-arbeitsprompt-{suffix}.md`]({DOWNLOAD_BASE}/vergaberecht-arbeitsprompt-{suffix}.md) |"
         )
         lines.append(
             f"| Autarker Kurzprompt mit vertiefter Fallprüfung | "
             f"[Kurzprompt](../vergaberecht-kurzprompt-{suffix}.md) | "
-            f"[`vergaberecht-kurzprompt-{suffix}.md`]({RELEASE_BASE}/vergaberecht-kurzprompt-{suffix}.md) |"
+            f"[`vergaberecht-kurzprompt-{suffix}.md`]({DOWNLOAD_BASE}/vergaberecht-kurzprompt-{suffix}.md) |"
         )
     lines.append(
         f"| Autarker Mini-Schnellstart bis 7.500 Zeichen | "
         f"[Unified Mini Prompt](../unified-mini-prompts/{plugin_name}.md) | "
-        f"[`{plugin_name}-unified-mini-prompt.md`]({RELEASE_BASE}/{plugin_name}-unified-mini-prompt.md) |"
+        f"[`{plugin_name}-unified-mini-prompt.md`]({mini_download(plugin_name)}) |"
     )
     lines.append("")
     lines.append("</details>")

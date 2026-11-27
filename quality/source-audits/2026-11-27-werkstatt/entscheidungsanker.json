@@ -1,0 +1,176 @@
+{
+  "stand": "2026-11-27",
+  "entscheidungen": [
+    {
+      "plugins": [
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt",
+        "fachanwalt-arbeitsrecht",
+        "richter-arbeitsgericht"
+      ],
+      "fundstelle": "BAG, Urteil vom 10.09.2026 – 2 AZR 192/25",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-192-25/",
+      "quellenart": "Amtlicher Volltext",
+      "passage": "Rn. 12–15, 24–26",
+      "anwendung": "Bei einer Kündigung während der Vorbereitung einer Betriebsratswahl dokumentiere Vorbereitungshandlung, öffentlich beglaubigte Absichtserklärung, Kenntnis des Arbeitgebers und Zugang der Kündigung. Kläre, wann der Beschäftigte den besonderen Schutz oder seine Voraussetzungen gegenüber dem Arbeitgeber geltend gemacht hat.",
+      "grenze": "Die regelmäßig dreiwöchige Frist bei Unkenntnis des Arbeitgebers betrifft die Verwirkung. Prüfe die Klagefrist gesondert und berücksichtige die Übermittlungszeit sowie atypische Umstände."
+    },
+    {
+      "plugins": [
+        "betriebsvereinbarungen",
+        "arbeitsrecht"
+      ],
+      "fundstelle": "BAG, Urteil vom 05.08.2026 – 7 AZR 123/25",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-123-25/",
+      "quellenart": "Amtlicher Volltext",
+      "passage": "Rn. 33–39, Tenor",
+      "anwendung": "Bei Vergütungsregeln für freigestellte Betriebsratsmitglieder sichere Vergleichspersonen, Entgeltverlauf und Mitteilung über die Anpassung. Für eine begehrte Erhöhung trägt das Mitglied grundsätzlich die Darlegungs- und Beweislast. Nimmt der Arbeitgeber eine bereits gewährte, erkennbar als Anpassung nach § 37 Abs. 4 BetrVG mitgeteilte Erhöhung zurück, muss er deren objektive Fehlerhaftigkeit belegen.",
+      "grenze": "Der Senat hat die Sache zur Widerklage zurückverwiesen. Die endgültige Entgeltstufe blieb offen."
+    },
+    {
+      "plugins": [
+        "solo-selbststaendige-praxis",
+        "sozialversicherungspflicht-pruefer",
+        "fachanwalt-arbeitsrecht"
+      ],
+      "fundstelle": "BAG, Urteil vom 14.07.2026 – 9 AZR 306/24",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-306-24/",
+      "quellenart": "Amtlicher Volltext",
+      "passage": "Leitsatz und Tenor",
+      "anwendung": "Bei einer Kette einzelner Einsätze, etwa eines Cutters, erfasse pro Einsatz die tatsächlichen Weisungen sowie Anlass und Dauer jeder Unterbrechung. Beurteile anschließend, ob die Art der Fortsetzung für ein durchgehendes Arbeitsverhältnis nach § 611a BGB spricht.",
+      "grenze": "Der Fall wurde zur weiteren Tatsachenfeststellung zurückverwiesen. Eine sozialversicherungsrechtliche Entscheidung nach § 7 SGB IV erfordert eine eigene Prüfung."
+    },
+    {
+      "plugins": [
+        "roemisch-katholisches-kirchenrecht",
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt"
+      ],
+      "fundstelle": "BAG, Urteil vom 05.11.2026 – 2 AZR 196/22",
+      "url": "https://www.bundesarbeitsgericht.de/presse/kuendigung-wegen-kirchenaustritts/",
+      "quellenart": "Amtliche Pressemitteilung",
+      "passage": "Nr. 38/26, Entscheidung und Hinweis zum Parallelverfahren",
+      "anwendung": "Prüfe bei einer Kündigung wegen Kirchenaustritts die konkrete Tätigkeit und die Religionszugehörigkeit der Personen mit vergleichbaren Aufgaben. In der Schwangerschaftsberatung arbeiteten auch Nichtkatholiken. Für die fristlose Kündigung war zudem die Frist des § 626 Abs. 2 BGB versäumt.",
+      "grenze": "Die Beurteilung betrifft den nicht öffentlich gemachten Austritt in dieser Beratungsstelle. Der parallel verhandelte Fall eines Chorleiters (2 AZR 34/25) endete durch Vergleich."
+    },
+    {
+      "plugins": [
+        "beamtenrecht",
+        "antidiskriminierung-agg",
+        "kommunalrecht-laender"
+      ],
+      "fundstelle": "BVerwG, Urteil vom 19.11.2026 – 2 C 6.26",
+      "url": "https://www.bverwg.de/pm/2026/86",
+      "quellenart": "Amtliche Pressemitteilung",
+      "passage": "Nr. 86/2026, Begründung zur Beweislast",
+      "anwendung": "Bei der Einstufung einer Bürgermeisterin vergleiche die Beschlüsse für männliche Amtsinhaber. Ein allein ihr auferlegter, gesetzlich nicht vorgesehener Bewährungsvorbehalt war ein Diskriminierungsindiz. Prüfe, welche zeitnah dokumentierten Gründe die Kommune zur Widerlegung vorbringen kann.",
+      "grenze": "Die Kommune widerlegte die Vermutung im Streitfall nicht. Die zugesprochenen Beträge hängen von der konkreten Besoldungsdifferenz und Beeinträchtigung ab."
+    },
+    {
+      "plugins": [
+        "umweltrecht",
+        "energierecht",
+        "fachanwalt-verwaltungsrecht"
+      ],
+      "fundstelle": "BVerwG, Urteil vom 26.11.2026 – 7 C 6.25",
+      "url": "https://www.bverwg.de/pm/2026/91",
+      "quellenart": "Amtliche Pressemitteilung",
+      "passage": "Nr. 91/2026, Entscheidung zur Revision der Beigeladenen",
+      "anwendung": "Bei konkurrierenden Windenergievorhaben ordne jeden Punkt des Vorbescheids dem verbindlich entschiedenen Umfang oder der vorläufigen Gesamtbeurteilung zu. Das Gericht bejahte das Wahlrecht zwischen § 9 Abs. 1 und Abs. 1a BImSchG. Eine nur vorläufige Beurteilung verschaffte hier keinen Vorrang hinsichtlich der Turbulenzbelastung.",
+      "grenze": "Die Klägerin nahm ihre eigene Revision zurück. Entschieden wurde über die Revision der Beigeladenen und die Reichweite ihres Vorbescheids."
+    },
+    {
+      "plugins": [
+        "europaeisches-prozessrecht",
+        "europarecht-kompass"
+      ],
+      "fundstelle": "EuGH, Urteil vom 17.11.2026 – C-698/23 P",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260165de.pdf",
+      "quellenart": "Amtliche Pressemitteilung",
+      "passage": "Nr. 165/26, S. 1–2",
+      "anwendung": "Bei einer Nichtigkeitsklage des Europäischen Datenschutzbeauftragten untersuche, welche konkrete Befugnis oder Pflicht die angegriffene Norm verändert. Die Übergangsregeln für Europol veränderten seine Rechtsposition nicht unmittelbar. Der Gerichtshof bestätigte die Unzulässigkeit.",
+      "grenze": "Der Gerichtshof entschied über die Klagebefugnis des EDSB. Die Rechtmäßigkeit einzelner Datenverarbeitungen bei Europol war nicht Gegenstand dieses Tenors."
+    },
+    {
+      "plugins": [
+        "richter-finanzgericht",
+        "fachanwalt-erbrecht"
+      ],
+      "fundstelle": "BFH, Urteil vom 16.09.2026 – II R 19/23",
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610218/",
+      "quellenart": "Amtlicher Volltext",
+      "passage": "Leitsätze 1 und 2, Tenor",
+      "anwendung": "Prüfe vor einer Anfechtungsklage den Verfügungssatz. Die bloße Festsetzung der Schenkungsteuer auf null enthielt keine gesonderte Bindung für spätere Erwerbe innerhalb der Zehnjahresfrist des § 14 ErbStG. Die Klage scheiterte an der fehlenden Beschwer.",
+      "grenze": "Prüfe eigenständige Feststellungsbescheide und den Regelungsgehalt des konkret angefochtenen Verwaltungsakts getrennt."
+    },
+    {
+      "plugins": [
+        "bav-strategie-konzern",
+        "steuerrecht-anwalt-und-berater"
+      ],
+      "fundstelle": "BFH, Urteil vom 29.09.2026 – VIII R 19/24",
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610219/",
+      "quellenart": "Amtlicher Volltext",
+      "passage": "Leitsatz und Entscheidungsgründe zu § 3 Nr. 66 EStG",
+      "anwendung": "Bei Auslagerung einer Pensionszusage für einen beherrschenden Gesellschafter-Geschäftsführer kläre Zahlungsweg, Empfänger, bestehende Verpflichtung und Antrag nach § 4e Abs. 3 EStG. Erfasse die Steuerbefreiung der Übertragungsleistung auf Ebene des Berechtigten auch bei streitiger Einkunftsart.",
+      "grenze": "Die Entscheidung betrifft die Übertragung auf einen Pensionsfonds. Zahlung an den Berechtigten und spätere Versorgungsleistungen sind eigene Vorgänge."
+    },
+    {
+      "plugins": [
+        "umwandlungssteuerrecht"
+      ],
+      "fundstelle": "BFH, Beschluss vom 29.09.2026 – X B 15/25 (AdV)",
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610221/",
+      "quellenart": "Amtlicher Volltext",
+      "passage": "Leitsätze 2 und 3, Tenor",
+      "anwendung": "Bei einer Verschmelzung mit gegenläufigen Zertifikaten bilde Gewinn, Verlust und mögliche Doppelberücksichtigung je Steuerpflichtigem ab. Für das konkrete Modell verneinte der BFH ernstliche verfassungsrechtliche Zweifel an der rückwirkenden Anwendung des Verlustverrechnungsverbots.",
+      "grenze": "Der Beschluss betrifft einstweiligen Rechtsschutz, das untersuchte Modell und die Fassung des UmwStG 2006. Der Prüfungsmaßstab der Hauptsache ist gesondert zu benennen."
+    },
+    {
+      "plugins": [
+        "jveg-kostenpruefer"
+      ],
+      "fundstelle": "BFH, Beschluss vom 03.11.2026 – X B 52/26",
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650190/",
+      "quellenart": "Amtlicher Volltext",
+      "passage": "Nichtzulassungsbeschwerde, nicht zur amtlichen Sammlung bestimmt, Leitsatz und Tenor",
+      "anwendung": "Verlangt eine wiederholt befragte Sachverständigenorganisation Vergütung für eine Auskunft in der Außenprüfung bei Dritten, sichere schon beim Finanzgericht Häufigkeit, konkreten Aufwand und die nach Zeugenentschädigung verbleibende Unterdeckung.",
+      "grenze": "Der BFH wies die Nichtzulassungsbeschwerde zurück. Die abstrakte Einordnung als Zeuge oder Sachverständiger war auf dieser Tatsachengrundlage nicht klärungsfähig."
+    },
+    {
+      "plugins": [
+        "steuerrecht-anwalt-und-berater"
+      ],
+      "fundstelle": "BFH, Urteil vom 19.08.2026 – X R 8/25",
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610200/",
+      "quellenart": "Amtlicher Volltext",
+      "passage": "Leitsätze 1 und 2",
+      "anwendung": "Erstelle für § 171 Abs. 5 Satz 1 AO eine Zeitleiste je Ermittlungsgegenstand. Halte fest, ab wann für den Steuerpflichtigen erkennbar war, dass die Fahndung gerade zu diesem Sachverhaltskomplex in seinen Steuerangelegenheiten ermittelt.",
+      "grenze": "Die Ablaufhemmung erfasst die auf den untersuchten Sachverhalt entfallenden Steuern. Der BFH gibt die im Urteil I R 25/01 vertretene Gegenauffassung ausdrücklich auf."
+    },
+    {
+      "plugins": [
+        "richter-finanzgericht"
+      ],
+      "fundstelle": "BFH, Vorlagebeschluss vom 16.07.2026 – V R 4/24",
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610220/",
+      "quellenart": "Amtlicher Volltext",
+      "passage": "Leitsätze, Vorlagefragen 1 und 2",
+      "anwendung": "Bei Standgebühren eines Automarkts prüfe die Unterschiede zwischen Flächenvermietung, Zugang zu einem Verkaufsmarkt und Vermietung von Fahrzeugstellplätzen. Dokumentiere die tatsächlichen Nutzungsrechte und welche Leistungen der Veranstalter bündelt.",
+      "grenze": "Der BFH hat zwei Auslegungsfragen zu Art. 135 MwStSystRL vorgelegt. Eine Antwort des EuGH muss gesondert recherchiert werden."
+    },
+    {
+      "plugins": [
+        "vergabestelle-behoerden",
+        "bieter-unternehmen",
+        "bauvergabe-verfahren",
+        "sektorenvergabe-workflow",
+        "konkurrenten-rechtsschutz"
+      ],
+      "fundstelle": "EuGH, Urteil vom 12.11.2026 – C-268/25, ETS u. a.",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=316916&doclang=DE",
+      "quellenart": "Amtlicher Volltext",
+      "passage": "Rn. 79 und Tenor, ECLI:EU:C:2026:977",
+      "anwendung": "Prüfe beim Steuer- oder Beitragsrückstand eines Mitglieds einer Bietergemeinschaft die bestandskräftige Feststellung, Teilnahmefrist, Zahlung oder verbindliche Zahlungsvereinbarung sowie den Zeitpunkt der Kenntnis der Gruppe. Erfährt die Gruppe erst nach der Frist vom Ausschlussgrund, muss der Auftraggeber im Einzelfall prüfen können, ob das betroffene Mitglied ausscheiden oder ersetzt werden darf.",
+      "grenze": "Eine Zahlung nach Fristablauf heilt den zwingenden Ausschlussgrund des einzelnen Mitglieds grundsätzlich nicht. Die Ausnahmen des Art. 57 Abs. 3 RL 2014/24/EU und den möglichen Fortbestand der Gruppe getrennt prüfen."
+    }
+  ]
+}

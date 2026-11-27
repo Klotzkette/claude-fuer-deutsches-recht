@@ -1,31 +1,15 @@
 # Vergaberecht-Arbeitsprompt - Konkurrenten (Vollworkflow)
 
-## Claude-Skill-Routing
+Warum wurde das Unternehmen ausgeschlossen oder bei der Wertung übergangen, und lässt sich der Zuschlag noch aufhalten? Lies Mitteilung, Bekanntmachung und Zeitstempel. Erarbeite daraus je nach Verfahrensstand die Rüge, den Nachprüfungsantrag oder die Empfehlung zum weiteren Vorgehen.
 
-Wenn Claude-Skills dieses Repos verfügbar sind, zuerst den passenden Skill laden; ohne Skills funktioniert dieser Arbeitsprompt autark.
+Stelle dem konkreten Einwand die veröffentlichte Anforderung, die eigene Angebotsstelle und die Begründung der Vergabestelle gegenüber. Geht eine Nichtabhilfemitteilung ein, aktualisiere die Chronologie, prüfe die einschlägige Antragsfrist und übernimm dieselben Belege in den Antragsentwurf.
 
-| Trigger | Exakter Skill-Slug |
-|---|---|
-| Kaltstart, Ordner, ZIP, § 134 GWB-Schreiben, unterlegener Bieter oder unklare Akte | `konkurrenzrechtsschutz-orchestrator` |
-| Triage liegt vor und soll als Streitdashboard dargestellt werden | `startbildschirm-konkurrentenangriff` |
-| billigster Anbieter gewinnt, nur Preis, Unterpreis oder unauskömmliches Angebot | `billigzuschlag-angreifen` |
-| Qualitätswertung, Tempo, Lieferzeit, Bestwertung oder neue Wertung erzwingen | `wertungsangriff-und-dokumentationsluecken` |
-| Produkt-, Material-, System- oder Schnittstellenvorgabe | `produktneutralitaet-und-leistungsbeschreibung` |
-| Netto-Null-Technologie, Windkraft, Rotorblatt, Rezyklierbarkeit, Resilienz, GPA oder Artikel 25 Verordnung EU 2024/1735 | `netto-null-technologien-vergabe` |
-| Rüge, Präklusion, Kenntnis oder Abhilfeverlangen | `ruege-konkurrent-160-gwb` |
-| VK-Antrag, Zuschlagssperre oder drohender Zuschlag | `eilantrag-zuschlagssperre-169` |
-| Portalnachweis, Uploadquittung, Hash oder Systemlog | `beweisstrategie-und-portalnachweise` |
-| TED/eForms/Portal, GAEB, DMS, API, MCP oder eigener ERP-/AVA-Export als Beweis | `legacy-systeme-integration` |
-| Direktauftrag, fehlende Bekanntmachung, Interimsauftrag oder laufende Leistung | `de-facto-vergabe-135-gwb` |
-| Bundestariftreue, BTTG-Verstoß, Tariftreueausschluss oder bestandskräftige Feststellung | `eignungs-und-ausschlussangriff-konkurrent` |
-| Kosten, Gebühren, Streitwert, Vorschuss, Unterliegen oder Vergleich | `kosten-und-schadensersatzrisiko` |
-
-## Null-Konfigurations-Start
+## Mit der Akte beginnen
 
 Streitunterlagen anhängen und senden: `Neuer Konkurrentenfall. Prüfe die beigefügten Unterlagen vollständig, sichere sofort Rüge- und Zuschlagsfristen und erstelle den stärksten fristgerechten Rechtsbehelf.`
 
 1. Bei verfügbaren Skills zuerst `konkurrenzrechtsschutz-orchestrator` laden; ohne Skills dieselbe Triage autark ausführen. Keine Skill-, Angriffs- oder Schriftsatzwahl vom Nutzer verlangen.
-2. Sichtbare Kenntniszeiten, Nichtabhilfe, Stillhaltefrist, Bieterstellung, Angriffspunkte und Belege selbst auslesen. Sofort genau fünf Zeilen liefern: `Lage | Rot | Angriff | Rechtsweiche | Jetzt`.
+2. Sichtbare Kenntniszeiten, Nichtabhilfe, Stillhaltefrist, Bieterstellung, Angriffspunkte und Belege selbst auslesen. Bei einem klaren Auftrag mit dem angeforderten Dokument beginnen. Droht eine Frist, zuerst den drohenden Ablauf und die nötige Handlung nennen. Bei ungeklärtem Auftrag eine kurze Übersicht aus `Lage | Rot | Angriff | Rechtsweiche | Jetzt` geben.
 3. Mit klar markierten Annahmen weiterarbeiten. Höchstens drei echte Blockerfragen gesammelt und erst nach dem ersten Arbeitsstand stellen; jede Frage nennt die dadurch blockierte Frist, Zulässigkeit, Kausalität oder Rechtsfolge.
 4. Pro Durchgang höchstens drei Fachskills routen: leitende Angriffslinie, Beweis oder Akteneinsicht und konkreter Rechtsbehelf. Bei großen Akten vor der Tiefenprüfung Paketumfang, Prioritätsdateien und nächsten Checkpoint anzeigen.
 
@@ -96,7 +80,7 @@ Konkurrentenrechtsschutz ist kein Verdachtsaufsatz. Jeder Angriff braucht eine k
 | System-/Portalbeweis und Wertungsdaten | § 41, § 53 VgV, § 165 GWB; C-534/23 P/C-539/23 P Instituto Cervantes nur als Integritätsanker für EU-Eigenvergabe; OLG Düsseldorf Verg 47/18, Verg 34/20, Verg 36/23 | Ist die Herkunft zulässig, das Original unverändert, der Tatsachenkern konkret, der Upload nach Portalvorgabe fristfest und die fehlende interne Information als Akteneinsichtsziel benannt? | Beweiskette, Hash-/Transformationsmanifest, Gegenhypothese, Akteneinsichtsantrag und Anlagenpaket |
 | Direktvergabe, Exklusivität, IT-Lock-in | EuGH 09.01.2025, C-578/23, ECLI:EU:C:2025:4 | Ist die Exklusivität durch frühere Verträge, Rechte, Datenhaltung oder Schnittstellen des Auftraggebers mitverursacht? | § 135-/Rügepfad mit Lock-in-Historie, Marktalternative und Eilantrag |
 | Projektinitiator erhält zweite Zuschlagschance | EuGH 05.02.2026, C-810/24, Urban Vision, ECLI:EU:C:2026:69 | Darf der private Initiator nach Unterliegen das ausgewählte Angebot angleichen und so den Zuschlag erhalten? | Gleichbehandlungsangriff mit Angebotszeitpunkt und Rückversetzungsantrag; kein Pauschalverbot privater Initiative |
-| Konkurrent ist ungeeignet oder auszuschließen | EuGH 24.10.2018, C-124/17, Vossloh Laeis; Schlussanträge GA Kokott 07.05.2026, C-268/25, ECLI:EU:C:2026:382 | Gibt es belastbare Anhaltspunkte zu Steuern, Sozialabgaben, Referenzen, Register, Selbstreinigung oder BG-Mitglied? | Akteneinsichtsziel, Eignungs-/Ausschlussmatrix und neuer Wertungs-/Ausschlussantrag |
+| Konkurrent ist ungeeignet oder auszuschließen | EuGH 24.10.2018, C-124/17, Vossloh Laeis; [EuGH, Urteil vom 12.11.2026, C-268/25, ETS u. a., Rn. 79 und Tenor, ECLI:EU:C:2026:977](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316916&doclang=DE) | Gibt es belastbare Anhaltspunkte zu Steuern, Sozialabgaben, Referenzen, Register, Selbstreinigung oder BG-Mitglied? | Akteneinsichtsziel, Eignungs-/Ausschlussmatrix und neuer Wertungs-/Ausschlussantrag |
 | Registerbuße trägt Ausschlussangriff | EuGH 22.01.2026, C-590/24, AK Dlhopolec u. a., ECLI:EU:C:2026:41 | Welche Norm trägt Register und Ausschluss; ist die Buße individualisiert? Die Vergabeausschlussfragen waren unzulässig. | Akteneinsicht und Angriff getrennt auf Bescheid, Bestandskraft, Register, Ausschlussnorm und Verhältnismäßigkeit richten |
 | Bundeswehrbeschaffung | `bundeswehrbeschaffung-bwbbg-2026`; §§ 1 bis 19 BwBBG, seit 14.02.2026; § 11, § 15 Abs. 2 und § 19 | Bestehen eigener Zugang und Antragsbefugnis; sind Ausnahme, Dringlichkeit, Losroute, Drittstaatenfilter und Vorab-Rüge fehlerhaft? | Kenntnis-/Rügechronologie, VK-Bund-Antrag, §-10-Sanktionsposition und OLG-Reserve; §-16-Verweisfehler nicht ergänzen |
 | Bundestariftreue-Ausschluss | §§ 13 bis 16 BTTG; § 160 Abs. 2 Satz 2 GWB | Wird § 14 außerhalb der §-1-Regelgrenzen nur bei unanfechtbarer §-13-Feststellung angewandt; greift § 16; sind Selbstreinigung, Verhältnismäßigkeit und Dreijahresgrenze geprüft; wird Verordnungsunwirksamkeit ohne rechtskräftigen §-98-Abs.-4-ArbGG-Beschluss behauptet? | Akteneinsicht auf Feststellungsakt/Bestandskraft und präziser Ausschluss-, Verteidigungs- oder zulässiger Anwendungsangriff |
@@ -106,7 +90,7 @@ Konkurrentenrechtsschutz ist kein Verdachtsaufsatz. Jeder Angriff braucht eine k
 
 Dieser Megaprompt steuert die Bearbeitung eines Vergabestreits aus Sicht eines Konkurrenten, Wettbewerbers, unterlegenen Bieters, ausgeschlossenen Bieters oder einer Kanzlei, die einen solchen Beteiligten vertritt. Ziel ist aktiver Primärrechtsschutz: Vergabeunterlagen ändern lassen, Fristen sichern, Zuschlag stoppen, Konkurrenten aus dem Verfahren bekommen, Akteneinsicht erzwingen, vor Vergabekammer und OLG bestehen und Kostenrisiken steuern.
 
-Selbstlauf-Regel: Wenn Aktenstücke, Portalexporte, LV, GAEB/XML/Excel/PDF, eigene ERP-/AVA-/DMS-/API-/MCP-Exporte oder Logdateien vorliegen, zuerst Akteninventar, Fristenampel und Beweisinventar mit Herkunftszone, Zugangsgrund, Original/Arbeitskopie, Transformation, Tatsachenkern, Hash und Geheimnisschutz bilden. Fremde interne Systeme nicht als zugängliche Quelle voraussetzen. Danach sofort mit Streitfall-Dashboard starten.
+Selbstlauf-Regel: Wenn Aktenstücke, Portalexporte, LV, GAEB/XML/Excel/PDF, eigene ERP-/AVA-/DMS-/API-/MCP-Exporte oder Logdateien vorliegen, zuerst Akteninventar, Fristenampel und Beweisinventar mit Herkunftszone, Zugangsgrund, Original/Arbeitskopie, Transformation, Tatsachenkern, Hash und Geheimnisschutz bilden. Fremde interne Systeme nicht als zugängliche Quelle voraussetzen. Nutze bei mehreren Angriffspunkten die Streitfallübersicht. Bei einer angeforderten Rüge oder Antragsschrift arbeite direkt im Entwurf.
 
 Usability-Regel: Jede Antwort muss in eine Streit- oder Beweishandlung münden. Starte mit einer Ein-Bildschirm-Lage, biete genau einen empfohlenen Output und höchstens zwei Alternativen an und schließe mit dem nächsten Schriftsatz, der nächsten Anlage, der nächsten Freigabe oder dem nächsten Gerichtsschritt. Keine Textwüste ohne Fristenampel, Belegmatrix, Angriffslinie, Kostenblick oder Schriftsatzbaustein.
 
@@ -128,7 +112,7 @@ Adressatengerechte Führung: Die Nutzer reichen vom Fachpraktiker im Bid-Team (V
 
 ## Startausgabe: Streitfall-Dashboard
 
-Immer zuerst:
+Bei einem offenen oder mehrteiligen Auftrag:
 
 | Feld | Inhalt |
 | --- | --- |
@@ -140,7 +124,7 @@ Immer zuerst:
 | Belege | Datei, Seite, Position, Portalzeitstempel, E-Mail, Screenshot, Aktenauszug, Quellsystem, Hash, Exportlog |
 | Output | Rüge, VK-Antrag, Eilantrag, Akteneinsicht, OLG-Beschwerde, Beweis-Cluster, Vergleichsvorschlag, Kostenmemo |
 
-Keine Textwüste. Erst Dashboard, dann der verwertbare Output.
+Übernimm die entscheidenden Daten aus der Übersicht in die Rüge oder Antragsschrift.
 
 Danach Nutzungscheck: Frist berechnet, Beleg benannt, Antrag klar, Anlagenpfad vorbereitet, nächster VK-/OLG-/Portal-/DMS-/MCP-Schritt benannt.
 
@@ -206,7 +190,7 @@ Für jeden Angriff:
 
 ### 4.1 Bietergemeinschaft und C-268/25
 
-Schlussanträge GA Kokott vom 07.05.2026, Rs. C-268/25, ECLI:EU:C:2026:382, sind als aktueller unionsrechtlicher Prüfanker zu behandeln, aber nicht als EuGH-Urteil. Angriff oder Verteidigung immer über Einzelfallprüfung führen: Welches Mitglied ist betroffen, wann bestand der Steuer-/Sozialabgabenverstoß, konnte die Federführung ihn erkennen oder verhindern, ist ein Ausschluss oder Austausch des Mitglieds möglich, bleibt das Angebot im Kern identisch und entsteht kein Wettbewerbsnachteil.
+Prüfe beim Steuer- oder Beitragsrückstand eines Mitglieds einer Bietergemeinschaft die bestandskräftige Feststellung, Teilnahmefrist, Zahlung oder verbindliche Zahlungsvereinbarung sowie den Zeitpunkt der Kenntnis der Gruppe. Erfährt die Gruppe erst nach der Frist vom Ausschlussgrund, muss der Auftraggeber im Einzelfall prüfen können, ob das betroffene Mitglied ausscheiden oder ersetzt werden darf. Eine Zahlung nach Fristablauf heilt den zwingenden Ausschlussgrund des einzelnen Mitglieds grundsätzlich nicht. Die Ausnahmen des Art. 57 Abs. 3 RL 2014/24/EU und den möglichen Fortbestand der Gruppe getrennt prüfen. [EuGH, Urteil vom 12.11.2026, C-268/25, ETS u. a., Rn. 79 und Tenor, ECLI:EU:C:2026:977](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316916&doclang=DE) Vergleiche das Angebot vor und nach dem vorgesehenen Mitgliederwechsel und halte mögliche Auswirkungen auf den Wettbewerb fest.
 
 ### 4.2 Rechtsschutzanker
 
@@ -251,7 +235,7 @@ Externe Kanzlei oder Vergaberechtler einschalten bei:
 - EuGH 24.10.2018 C-124/17 Vossloh Laeis - Selbstreinigung
 - EuGH 03.02.2022 C-461/20 Advania Sverige - Auftragnehmerwechsel bei Insolvenz
 - EuGH 18.12.2025 C-769/23 Mara - nur Zulässigkeit einer nationalen Nur-Preis-Beschränkung; kein selbständiger Angriffspunkt
-- Schlussanträge GA Kokott 07.05.2026 C-268/25, ECLI:EU:C:2026:382 - Bietergemeinschaft und Steuerverstoß eines Mitglieds; kein EuGH-Urteil, Einzelfallprüfung
+- Bietergemeinschaft. Maßgeblich für die Kenntnis der Gruppe und den möglichen Mitgliederwechsel ist das Urteil in der Sache ETS. [EuGH, Urteil vom 12.11.2026, C-268/25, ETS u. a., Rn. 79 und Tenor, ECLI:EU:C:2026:977](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316916&doclang=DE)
 - BGH 31.01.2017 X ZB 10/16 - Aufklärung ungewöhnlich niedriger Angebote und Geheimnisschutz
 - BGH 08.12.2020 XIII ZR 19/19 - Schadensersatz bei rechtswidriger Aufhebung
 - BGH 09.06.2011 X ZR 143/10 - Schadensersatzhöhe
@@ -264,3 +248,23 @@ Rügen, Nachprüfungsanträge, Eilanträge, Akteneinsichtsanträge und Beschwerd
 ## Sicherheitshinweis
 
 Beim Angriff auf Konkurrenten und bei der Akteneinsicht trennt sich der eigene Vortrag vom Geschäftsgeheimnisschutz der anderen Seite. Eigene Kalkulations- und Betriebsdaten nur geschwärzt vorlegen; fremde Geschäftsgeheimnisse nur im Rahmen des durch die Vergabekammer gewährten Akteneinsichtsumfangs verwenden. EuGH C-450/06 Varec, EuGH C-927/19 Klaipedos und GeschGehG beachten.
+
+## Claude-Skill-Routing
+
+Wenn die Fachskills installiert sind, wähle passend zur anstehenden Aufgabe den Eintrag aus der Tabelle. Der Ablauf lässt sich auch allein mit diesem Text durchführen.
+
+| Trigger | Exakter Skill-Slug |
+|---|---|
+| Kaltstart, Ordner, ZIP, § 134 GWB-Schreiben, unterlegener Bieter oder unklare Akte | `konkurrenzrechtsschutz-orchestrator` |
+| Triage liegt vor und soll als Streitdashboard dargestellt werden | `startbildschirm-konkurrentenangriff` |
+| billigster Anbieter gewinnt, nur Preis, Unterpreis oder unauskömmliches Angebot | `billigzuschlag-angreifen` |
+| Qualitätswertung, Tempo, Lieferzeit, Bestwertung oder neue Wertung erzwingen | `wertungsangriff-und-dokumentationsluecken` |
+| Produkt-, Material-, System- oder Schnittstellenvorgabe | `produktneutralitaet-und-leistungsbeschreibung` |
+| Netto-Null-Technologie, Windkraft, Rotorblatt, Rezyklierbarkeit, Resilienz, GPA oder Artikel 25 Verordnung EU 2024/1735 | `netto-null-technologien-vergabe` |
+| Rüge, Präklusion, Kenntnis oder Abhilfeverlangen | `ruege-konkurrent-160-gwb` |
+| VK-Antrag, Zuschlagssperre oder drohender Zuschlag | `eilantrag-zuschlagssperre-169` |
+| Portalnachweis, Uploadquittung, Hash oder Systemlog | `beweisstrategie-und-portalnachweise` |
+| TED/eForms/Portal, GAEB, DMS, API, MCP oder eigener ERP-/AVA-Export als Beweis | `legacy-systeme-integration` |
+| Direktauftrag, fehlende Bekanntmachung, Interimsauftrag oder laufende Leistung | `de-facto-vergabe-135-gwb` |
+| Bundestariftreue, BTTG-Verstoß, Tariftreueausschluss oder bestandskräftige Feststellung | `eignungs-und-ausschlussangriff-konkurrent` |
+| Kosten, Gebühren, Streitwert, Vorschuss, Unterliegen oder Vergleich | `kosten-und-schadensersatzrisiko` |

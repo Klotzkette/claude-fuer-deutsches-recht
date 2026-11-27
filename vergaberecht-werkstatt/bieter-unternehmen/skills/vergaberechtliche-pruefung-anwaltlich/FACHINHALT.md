@@ -75,10 +75,7 @@ gewünschter Berichtigung.
 4. Bietergemeinschaft, Eignungsleihe und Nachunternehmen mit Verpflichtung, Leistungsanteil, Verfügbarkeit und Eigenausführung abbilden.
 5. Ausschluss nach §§ 123 und 124 GWB, Wettbewerbsregister und Selbstreinigung nach § 125 GWB getrennt bearbeiten.
 
-C-268/25 nur als Schlussanträge der Generalanwältin Kokott vom 07.05.2026,
-ECLI:EU:C:2026:382, behandeln. Kein EuGH-Urteil behaupten. Für den konkreten
-Bietergemeinschaftsfall Zurechnung, Kenntnis, Einfluss, Austausch und wesentliche
-Angebotsänderung getrennt prüfen.
+EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bei bestandskräftig festgestellten Steuer- oder Beitragsrückständen eines Mitglieds ermittle den Fristablauf, die Zahlung oder Zahlungsvereinbarung sowie den Zeitpunkt, zu dem die Gruppe vom Ausschlussgrund erfuhr. Eine nachträgliche Zahlung heilt den Ausschlussgrund des Mitglieds grundsätzlich nicht. Bei erst nach Fristablauf erlangter Kenntnis muss der Auftraggeber das Ausscheiden oder Ersetzen des Mitglieds im Einzelfall prüfen können.
 
 ## 5. Gate Angebot, Form und Nachforderung
 

@@ -2,7 +2,7 @@
 
 Diese Karte steuert konkrete Entscheidungen im Hauptworkflow. Quellenstand je Anker beachten; ein früherer Abruf wird nicht als heutige Volltextprüfung dargestellt. Nur den im Fall einschlägigen Anker in das Endprodukt übernehmen.
 
-## 1. [EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.](https://curia.europa.eu/jcms/jcms/p1_3865069/fr/)
+## 1. [EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.](https://curia.europa.eu/site/upload/docs/application/pdf/2022-11/cp220186de.pdf)
 
 **Arbeitsentscheidung:** Im Schwaerzungsfall wird die streiterhebliche Wertungsbegruendung gezielt verlangt, bei geschuetzten Einzelheiten mit nichtvertraulichem wesentlichem Inhalt als Alternative.
 

@@ -36,6 +36,7 @@ from akteneingang.dokumente import add_member, office_bytes, sha, simple
 from akteneingang.quellen import safe_member
 from interstate_briefpapier import AG, AMT, KANZLEI, letterhead
 from interstate_einwendungsbogen import pruefbogen
+from aktenarbeit_einstiege import mit_verweisen
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME, NOTICE_MARKDOWN
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -669,7 +670,7 @@ def make_case(case, slug):
     embed_attachments(documents, originals)
     return {**originals, native_zip: archive({NOTICE_FILENAME: NOTICE_BYTES, **originals}),
             single_zip: archive({NOTICE_FILENAME: NOTICE_BYTES, **singles}), combined_pdf: out.getvalue(),
-            "README.md": "\n".join(readme).encode()}
+            "README.md": mit_verweisen("\n".join(readme), (OUTPUT / slug / "README.md").relative_to(ROOT), ["interstate-" + slug]).encode()}
 
 
 def main():

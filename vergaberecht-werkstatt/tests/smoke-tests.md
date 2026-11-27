@@ -256,11 +256,11 @@ Der Mini-Prompt-Validator sichert die rechtsprechungsfesten Einstiegskerne je Ma
 ## 15. C-268/25 Bietergemeinschaft
 
 ```bash
-rg -n "C-268/25|Schlussanträge GA Kokott|ECLI:EU:C:2026:382" vergaberecht-arbeitsprompt-*.md vergaberecht-kurzprompt-*.md unified-mini-prompts/*.md testakten/megaprompts/*.md references/leitentscheidungen-anker.md README.md CODEX.md
-! rg -n "EuGH, Urteil.*C-268/25|C-268/25.*EuGH, Urteil|EuGH Urteil.*C-268/25|C-268/25.*EuGH Urteil" vergaberecht-arbeitsprompt-*.md vergaberecht-kurzprompt-*.md unified-mini-prompts/*.md testakten/megaprompts/*.md references/leitentscheidungen-anker.md README.md CODEX.md
+rg -n "C-268/25|ECLI:EU:C:2026:977" vergaberecht-arbeitsprompt-*.md vergaberecht-kurzprompt-*.md unified-mini-prompts/*.md testakten/megaprompts/*.md references/leitentscheidungen-anker.md README.md CODEX.md
+! rg -n "C-268/25.{0,65}nur (als )?Schlussanträge" vergaberecht-arbeitsprompt-*.md vergaberecht-kurzprompt-*.md unified-mini-prompts/*.md testakten/megaprompts/*.md references/leitentscheidungen-anker.md README.md CODEX.md
 ```
 
-C-268/25 darf nur als Schlussanträge der Generalanwältin behandelt werden, nicht als EuGH-Urteil. Sichtbar sein müssen Einzelfallprüfung, Zurechnung, Sorgfalt/Kenntnis/Einfluss, Austauschbarkeit und nicht wesentliche Angebotsänderung.
+EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bei bestandskräftig festgestellten Steuer- oder Beitragsrückständen eines Mitglieds ermittle den Fristablauf, die Zahlung oder Zahlungsvereinbarung sowie den Zeitpunkt, zu dem die Gruppe vom Ausschlussgrund erfuhr. Eine nachträgliche Zahlung heilt den Ausschlussgrund des Mitglieds grundsätzlich nicht. Bei erst nach Fristablauf erlangter Kenntnis muss der Auftraggeber das Ausscheiden oder Ersetzen des Mitglieds im Einzelfall prüfen können.
 
 ## 16. Git-Status
 

@@ -30,6 +30,7 @@ from prompt_profiles import PROMPT_SUFFIXES
 from release_asset_common import expected_asset_metadata, read_checksums, sha256_file, write_checksums
 from release_routing import PAKETPFLEGE_TAG, RELEASE_BASE, check_asset_limit, scoped_asset_url, validate_plugin_version
 from release_rate_limits import require_download_budget
+from werkstatt_edition import preserved_in_release
 from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -174,8 +175,10 @@ def validate_scope(scope: dict, root: Path) -> dict[str, dict]:
         if set(prompts) | set(retained) != actual_prompts:
             raise ValueError(f"{name}: bestehender Promptbestand ist nicht vollständig deklariert: {sorted(actual_prompts ^ (set(prompts) | set(retained)))}")
         for filename, expected in retained.items():
+            source = directory / filename
             if (not isinstance(expected, str) or not re.fullmatch(r"[0-9a-f]{64}", expected)
-                    or sha256_file(directory / filename) != expected):
+                    or (sha256_file(source) != expected
+                        and not preserved_in_release(root, scope, source, expected, name))):
                 raise ValueError(f"{name}: erhaltener Prompt wurde verändert und muss neu veröffentlicht werden: {filename}")
         validate_plugin_version(entries[name], market["version"], root=root)
     if scope.get("required_main_workflow_reviews") is not None:

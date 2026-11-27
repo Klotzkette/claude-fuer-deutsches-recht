@@ -156,6 +156,8 @@ Anwendungsbeispiel: Im Bielefelder Fall geht es um Referenznachforderung und Eig
 
 ## 1.9. Eignung und Ausschlussgründe
 
+Prüfen Sie beim Steuer- oder Beitragsrückstand eines Mitglieds einer Bietergemeinschaft die bestandskräftige Feststellung, Teilnahmefrist, Zahlung oder verbindliche Zahlungsvereinbarung sowie den Zeitpunkt der Kenntnis der Gruppe. Erfährt die Gruppe erst nach der Frist vom Ausschlussgrund, muss der Auftraggeber im Einzelfall prüfen können, ob das betroffene Mitglied ausscheiden oder ersetzt werden darf. Eine Zahlung nach Fristablauf heilt den zwingenden Ausschlussgrund des einzelnen Mitglieds grundsätzlich nicht. Die Ausnahmen des Art. 57 Abs. 3 RL 2014/24/EU und den möglichen Fortbestand der Gruppe getrennt prüfen. [EuGH, Urteil vom 12.11.2026, C-268/25, ETS u. a., Rn. 79 und Tenor, ECLI:EU:C:2026:977](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316916&doclang=DE)
+
 Prüfen Sie die tatsächliche Eignung und gesetzliche Ausschlussgründe am richtigen Punkt des Verfahrens. Trennen Sie veröffentlichte Anforderungen, fehlende Belege und belastbare Ausschlusstatsachen.
 
 Benötigte Unterlagen: Bekannt gemachte Kriterien, vorläufiges Prüfungsergebnis, Eigenerklärungen, Präqualifikation, angeforderte Nachweise, Eignungsleihe, Registerauskünfte und Anhörung beziehungsweise Selbstreinigung.

@@ -1,9 +1,15 @@
 #!/usr/bin/env python3
 """Prüft die publizierten Patent-Einstiege und die tatsächlichen Akten je Wissensstand."""
+from email import policy
+from email.parser import BytesParser
 import json
 from pathlib import Path
 import tempfile
 import unittest
+from xml.etree import ElementTree as ET
+from zipfile import ZipFile
+
+from openpyxl import load_workbook
 
 import yaml
 
@@ -59,6 +65,34 @@ class PatentanmelderWorkflow(unittest.TestCase):
             prompt = (self.directory / name).read_text()
             for term in ("Anspruch", "Offenbarung", "Beschreibung", "Zusammenfassung", "Erfinder"):
                 self.assertIn(term, prompt)
+
+    def test_native_belege_enthalten_auftragswortlaut_messwerte_und_richtigen_absender(self):
+        word = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
+        for slug in CASES:
+            source = lab.load(DATA / f"{slug}.json")
+            for doc in source["dokumente"]:
+                path = self.directory / "Patentanmelder" / slug / doc["phase"] / doc["datei"]
+                with self.subTest(akte=slug, datei=path.name):
+                    if path.suffix == ".docx":
+                        with ZipFile(path) as archive:
+                            head = ET.fromstring(archive.read("word/header1.xml"))
+                            absender = [e.text for e in head.iter(word + "t") if e.text]
+                            self.assertTrue(absender)
+                            self.assertIn(absender[0], doc["von"])
+                            body = ET.fromstring(archive.read("word/document.xml"))
+                            text = " ".join(e.text or "" for e in body.iter(word + "t"))
+                            self.assertTrue(all(p in text for p in doc["text"]))
+                    if path.suffix == ".xlsx":
+                        book = load_workbook(path, read_only=True)
+                        rows = [tuple(v for v in row if v is not None) for row in book.active.values]
+                        book.close()
+                        for row in doc["tabelle"]:
+                            self.assertIn(tuple(row), rows)
+                    if path.suffix == ".eml":
+                        msg = BytesParser(policy=policy.default).parsebytes(path.read_bytes())
+                        plain = msg.get_body(("plain",)).get_content()
+                        self.assertTrue(all(p in plain for p in doc["text"]))
+                        self.assertIsNotNone(msg.get_body(("html",)))
 
     def test_fruehere_pruefungen_und_aktuelle_fassungen(self):
         archive = PROOF / "bestand/quality/evals/patentrecht.json.txt"

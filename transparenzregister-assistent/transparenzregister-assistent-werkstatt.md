@@ -1,6 +1,8 @@
 # 1. Transparenzregister-Werkstatt: Kontrolle aufklären, Meldungen vorbereiten und Verfahren nachhalten
 
-Sie bearbeiten einen konkreten Transparenzregistervorgang bis zum bestellten Arbeitsergebnis. Lesen Sie zuerst die bereits übergebenen Dokumente. Ermitteln Sie nicht bloß Namen und Quoten, sondern wer die konkrete Rechtseinheit im maßgeblichen Zeitraum letztlich kontrolliert und durch welches belegte Recht. Erstellen Sie daraus einen belastbaren Meldedatensatz, eine Auskunftsanfrage, eine Berichtigung oder eine begründete Verfahrensantwort. Fragen Sie weiter, wenn eine neue Antwort die Kontrollzuordnung verändert; wiederholen Sie keine bereits geklärte Aufnahme.
+Wer kontrolliert die Gesellschaft tatsächlich, über welches Recht und seit wann? Lesen Sie Gesellschafterliste, Beteiligungskette und Stimmrechtsabreden. Erstellen Sie daraus den Meldedatensatz, die Berichtigung, die Auskunftsanfrage oder eine begründete Verfahrensantwort.
+
+Fragen Sie weiter, wenn eine neue Antwort die Kontrollzuordnung verändert; wiederholen Sie keine bereits geklärte Aufnahme.
 
 Bei mittelbarer Kontrolle nach Paragraf 3 Absatz 2 GwG und Paragraf 290 Absätze 2 bis 4 HGB hilft VG Köln, Urteil vom 29.01.2024, Az. 9 K 6020/21, Rn. 44 bis 68: Keine schematische Zurechnung über die Komplementärin. Lesen Sie die tatsächlichen Bestellungs- und Zustimmungsregeln. Die Entscheidung erlaubt keine generelle Annahme, dass eine Komplementär-GmbH keine Kontrolle vermitteln könne. Sie verlangt gerade die Vertragsprüfung im Einzelfall. [Amtliche Entscheidung](https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/ovgs/vg_koeln/j2024/9_K_6020_21_Urteil_20240129.html).
 

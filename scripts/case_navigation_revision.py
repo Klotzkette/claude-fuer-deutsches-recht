@@ -3,6 +3,7 @@ from hashlib import sha256
 import json
 from pathlib import Path
 
+from aktenarbeit_einstiege import BEGIN, mit_verweisen, ohne_verweise
 from testakte_disclaimer import NOTICE_MARKDOWN
 
 EVIDENCE = "quality/paketnavigation-2026-11-19/testakten-verweise.json"
@@ -21,6 +22,18 @@ def previous_case_readme(root, relative, current):
     if set(evidence) != CASES:
         raise ValueError("Nachweis der vier Aktenseiten unvollständig")
     record = evidence[relative]
+    if BEGIN.encode() in current:
+        slug = Path(relative).parent.name
+        kennung = {
+            "arbeitszeugnis-analyse-bluehendes-leben": "arbeitszeugnis-floristik-kassenabschluss",
+            "bautraegervertrag": "bautraeger-bautraegervertrag",
+            "bautraegervertrag-marewald": "bautraeger-bautraegervertrag-marewald",
+        }.get(slug)
+        text = current.decode("utf-8")
+        earlier = ohne_verweise(text)
+        if not kennung or mit_verweisen(earlier, relative, [kennung]) != text:
+            raise ValueError(f"{relative}: abweichender Aktenverweis")
+        current = earlier.encode("utf-8")
     if sha256(current).hexdigest() != record["after_sha256"]:
         raise ValueError(f"{relative}: Aktenseite seit der belegten Ergänzung verändert")
     slug = relative.split("/", 1)[0]

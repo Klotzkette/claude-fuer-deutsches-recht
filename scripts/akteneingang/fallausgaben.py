@@ -5,6 +5,7 @@ from datetime import date
 from pathlib import Path
 
 from pypdf import PdfReader, PdfWriter
+from aktenarbeit_einstiege import mit_verweisen
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME, NOTICE_MARKDOWN
 from .ausgabe import archive
 from .korrespondenz import poststuecke
@@ -114,7 +115,9 @@ def case_files(spec, layout, write, previous, *, source, prefix, overview):
         f"[{overview}](../README.md)",
         "",
     ]
-    files = {**assets, "README.md": "\n".join(rows).encode()}
+    seite = Path(layout.parent.name) / layout.name / slug / "README.md"
+    einstieg = mit_verweisen("\n".join(rows), seite, [n.removeprefix("testakte-")])
+    files = {**assets, "README.md": einstieg.encode()}
     for rel, data in files.items():
         path = folder / rel
         if write:

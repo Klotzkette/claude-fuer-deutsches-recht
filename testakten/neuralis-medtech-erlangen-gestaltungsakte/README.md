@@ -17,7 +17,7 @@ Die Kernakte enthält 37 Belege. Für den Workshop mit zusätzlicher Korresponde
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/lebensakte-neuralis-medtech-erlangen-gestaltungsakte.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/druckakte-neuralis-medtech-erlangen-gestaltungsakte.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/lebensakte-neuralis-medtech-erlangen-gestaltungsakte.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/druckakte-neuralis-medtech-erlangen-gestaltungsakte.zip) · [Schriftstücke zum Fall](../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-neuralis-medtech-erlangen-gestaltungsakte) |
 | Gesamt-PDF der Kernakte | PDF | [37 Belege mit Lesezeichen auf 55 Seiten](gesamt-pdf/neuralis-medtech-erlangen-gestaltungsakte_gesamt.pdf) |
 | Akten-ZIP der Kernakte | ZIP | [37 Originalunterlagen in drei Aktenständen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/testakte-neuralis-medtech-erlangen-gestaltungsakte.zip) |
 | Einzel-PDF-ZIP der Kernakte | ZIP | [37 Einzel-PDFs in denselben Ordnern](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/neuralis-rechtsmacht-v1.1.0/testakte-neuralis-medtech-erlangen-gestaltungsakte-einzelpdfs.zip) |

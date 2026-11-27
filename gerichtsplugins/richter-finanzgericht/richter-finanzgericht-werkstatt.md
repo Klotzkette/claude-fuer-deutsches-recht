@@ -1,6 +1,8 @@
 # 1. Finanzgerichtliche Akte bis zum bestellten Entwurf bearbeiten
 
-Gleiche Bescheidkette, Antrag und Berechnung ab und liefere die beauftragte gerichtliche Verfügung oder Entscheidung. Im Eilverfahren nach Paragraf 69 FGO muss die Begründung gerade den beantragten Aussetzungsbetrag tragen. BFH, Beschluss vom 06.06.2025, Az. II B 43/24 (AdV), Gründe II.1, ist der vorhandene Anker für ernstliche Zweifel: Gewichtige Gegenargumente müssen bei summarischer Prüfung nicht überwiegen. Der Schenkungsteuerfall ersetzt keine Prüfung des materiellen Rechts anderer Steuerarten. Gegenläufige Fehler und bereits vollzogene Beträge bleiben nach den folgenden Fachzweigen zu berücksichtigen; Quellenstand nicht als neu verifiziert ausgeben.
+Welcher Steuerbescheid gilt, und in welcher Höhe ist er noch streitig? Gleiche Antrag, Änderungsbescheide und Rechnung ab. Verfasse daraus die beantragte Verfügung oder den gerichtlichen Entscheidungsentwurf.
+
+Im Eilverfahren nach Paragraf 69 FGO muss die Begründung gerade den beantragten Aussetzungsbetrag tragen. BFH, Beschluss vom 06.06.2025, Az. II B 43/24 (AdV), Gründe II.1, ist der vorhandene Anker für ernstliche Zweifel: Gewichtige Gegenargumente müssen bei summarischer Prüfung nicht überwiegen. Der Schenkungsteuerfall ersetzt keine Prüfung des materiellen Rechts anderer Steuerarten. Gegenläufige Fehler und bereits vollzogene Beträge bleiben nach den folgenden Fachzweigen zu berücksichtigen; Quellenstand nicht als neu verifiziert ausgeben.
 
 Ohne Eingabe biete Bescheidketten-/Hauptsacheprüfung, AdV-Beschluss oder Aufklärungsverfügung an. Dateien ohne Auftrag zunächst still lesen und nur zwei oder drei passende Wege erfragen; kein ungefragtes Steueraktenreferat. Bei klarem Auftrag unmittelbar ausarbeiten. Neue Bescheide und Zahlungsbelege ändern den laufenden Streitgegenstands- und Betragsabgleich. Keine lokalen Rechenblätter oder Gerichtssysteme voraussetzen.
 
@@ -22,6 +24,8 @@ Lies Ausgangs- und Änderungsbescheide, Einspruchsentscheidung, Klage oder Eilan
 Drohen Vollstreckung oder erheblicher Liquiditätsabfluss, behandle den vorläufigen Rechtsschutz vorrangig. Die offene Vollziehungsfrage sperrt nicht die weitere Sachaufklärung.
 
 ## 2. Zulässigkeit, Beteiligte und Zugang zur Akte
+
+Prüfe vor einer Anfechtungsklage den Verfügungssatz. Die bloße Festsetzung der Schenkungsteuer auf null enthielt keine gesonderte Bindung für spätere Erwerbe innerhalb der Zehnjahresfrist des § 14 ErbStG. Die Klage scheiterte an der fehlenden Beschwer. Prüfe eigenständige Feststellungsbescheide und den Regelungsgehalt des konkret angefochtenen Verwaltungsakts getrennt. [BFH, Urteil vom 16.09.2026 – II R 19/23, Leitsätze 1 und 2, Tenor · Amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610218/)
 
 Prüfe Finanzrechtsweg, Klageart und Klagebefugnis anhand von FGO Paragraf 33 und Paragraf 40 sowie Vorverfahren und Klagefrist nach Paragraf 44 und Paragraf 47. Bei versäumter Frist ist eine mögliche Wiedereinsetzung nach Paragraf 56 gesondert zu bearbeiten. Beteiligte, Prozessvertretung und hinreichend bestimmter Antrag sind anhand von Paragraf 57, Paragraf 62 und Paragraf 65 zu prüfen.
 
@@ -54,6 +58,8 @@ Ordne angebotene Beweise dem materiellen Tatbestand zu. Bereite bei Bedarf Zeuge
 Entscheide nicht nach Feststellungslast, bevor notwendige erreichbare Akten und Beweise angemessen ausgeschöpft sind. Zeige bei verbleibender Unaufklärbarkeit die maßgebliche Lastverteilung und ihre konkrete Folge. Ein Aufklärungsauftrag endet mit der verlangten Verfügung; ein Urteilsauftrag wird nach Eingang der Ergebnisse fortgesetzt.
 
 ## 5. Steuerrecht und Berechnung prüfen
+
+Bei Standgebühren eines Automarkts prüfe die Unterschiede zwischen Flächenvermietung, Zugang zu einem Verkaufsmarkt und Vermietung von Fahrzeugstellplätzen. Dokumentiere die tatsächlichen Nutzungsrechte und welche Leistungen der Veranstalter bündelt. Der BFH hat zwei Auslegungsfragen zu Art. 135 MwStSystRL vorgelegt. Eine Antwort des EuGH muss gesondert recherchiert werden. [BFH, Vorlagebeschluss vom 16.07.2026 – V R 4/24, Leitsätze, Vorlagefragen 1 und 2 · Amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610220/)
 
 ### 5.1. Bescheid und Änderbarkeit
 

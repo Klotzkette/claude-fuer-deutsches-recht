@@ -25,7 +25,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-sanktionen-eu-zwirnmark-beteiligung.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-sanktionen-eu-zwirnmark-beteiligung.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-sanktionen-eu-zwirnmark-beteiligung.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-sanktionen-eu-zwirnmark-beteiligung.zip) · [Schriftstücke zum Fall](../../docs/downloads/aktenarbeit/faelle-q-s.md#fall-sanktionen-eu-zwirnmark-beteiligung) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/sanktionen-eu-zwirnmark-beteiligung_gesamt.pdf`](gesamt-pdf/sanktionen-eu-zwirnmark-beteiligung_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sanktionen-eu-zwirnmark-beteiligung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-sanktionen-eu-zwirnmark-beteiligung.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sanktionen-eu-zwirnmark-beteiligung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/testakte-sanktionen-eu-zwirnmark-beteiligung-einzelpdfs.zip) |

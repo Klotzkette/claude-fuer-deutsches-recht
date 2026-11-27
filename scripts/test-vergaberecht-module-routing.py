@@ -9,6 +9,7 @@ import io
 import json
 from pathlib import Path
 from vergabestelle_revision import previous as before_vergabestelle
+from werkstatt_edition import previous as before_workshop
 import runpy
 import sys
 import tempfile
@@ -33,6 +34,10 @@ def load(name):
 V = load('validate-prompt-routing-autarky')
 M = load('generate-megaprompt')
 U = load('generate-unified-mini-prompts')
+
+
+def workshop_predecessor(name):
+    return before_workshop(ROOT, name, (ROOT / name).read_bytes())
 
 
 def prompt_before_ci_followup(path, expected_sha256, followup=None):
@@ -62,13 +67,13 @@ def prompt_before_ci_followup(path, expected_sha256, followup=None):
     snapshot = 'quality/hauptskills-2026-11-18/vergabefortfuehrung-ci-vorfassungen/' + path + '.gz'
     generator = 'vergaberecht-werkstatt/scripts/generate-megaprompt.py'
     if (row.get('before_snapshot') != snapshot or row.get('before_sha256') != expected_sha256
-            or row.get('generator') != generator or row.get('generator_sha256') != sha((ROOT / generator).read_bytes())):
+            or row.get('generator') != generator or row.get('generator_sha256') != sha(workshop_predecessor(generator))):
         raise ValueError('Folgestufe passt nicht zu Vorfassung und Generator')
     archive = (ROOT / snapshot).read_bytes()
     if sha(archive) != row.get('before_snapshot_sha256'):
         raise ValueError('Zwischenarchiv verändert')
     before = gzip.decompress(archive)
-    current = before_vergabestelle(ROOT, path, (ROOT / path).read_bytes())
+    current = before_vergabestelle(ROOT, path, workshop_predecessor(path))
     if sha(before) != expected_sha256 or sha(current) != row.get('after_sha256') or before == current:
         raise ValueError('Vergabeprompt-Folgestufe nicht bytegenau gebunden')
     return before
@@ -180,7 +185,7 @@ class ModuleRoutingTests(unittest.TestCase):
         audit = json.loads((ROOT / PREVIOUS_AUDIT).read_text())
         previous = verified_previous_prompt_bytes()
         for record in audit['files']:
-            audited = previous[record['path']] if record['path'] in previous else (ROOT / record['path']).read_bytes()
+            audited = previous[record['path']] if record['path'] in previous else workshop_predecessor(record['path'])
             self.assertEqual(engine['sha'](audited), record['sha256'])
             self.assertEqual(engine['sha'](engine['restore_original'](audited, record['edits'])), record['original_sha256'])
 

@@ -88,17 +88,15 @@ def main() -> int:
     lines = [
         "# Werkstatt- und Schnellstart-Coverage",
         "",
-        "Vollständige, alphabetisch sortierte Übersicht der ausführlichen Werkstatt-Prompts und kompakten Schnellstart-Prompts. Beide Formate werden ausschließlich als einzelne Markdown-Dateien angeboten, nicht als ZIP und nicht als installierbarer Skill. Jeder Dateilink startet den Download, statt die Markdown-Quelle im Browser anzuzeigen.",
+        "Wählen Sie eine Werkstatt für die Bearbeitung einer Akte in mehreren Schritten oder einen Schnellstart für einen einzelnen Auftrag. Laden Sie die Markdown-Datei herunter und geben Sie sie zusammen mit den passenden Unterlagen in einen Chat. Wo eine TXT-Fassung angeboten wird, enthält sie denselben Text.",
         "",
-        "English: Workshop prompts are the detailed standalone workflow; quick-start prompts are the compact standalone entry point. Every file link downloads the unchanged Markdown file. Neither format is an installable skill or part of the plugin ZIP.",
+        "Choose a workshop for a case with several stages, or a quick start for a focused assignment. Download the prompt and give it to your chat with the relevant documents. Where available, the TXT version contains the same text.",
         "",
-        "Nicht jedes Paket bietet beide Formen: [beA-Versand](../bea-versand/README.md) hat bewusst nur einen Skill und eine eigenständige Werkstatt, keinen separaten Mini-Prompt. Angebotenes TXT enthält denselben Text wie die MD-Fassung. Die Vollständigkeitsprüfung berücksichtigt diese vorgesehenen Formate.",
-        "",
-        "English: Available formats vary by package. beA-Versand has a workshop but no separate mini prompt; TXT alternatives contain the same text as their MD version. Completeness is measured against the intended formats.",
+        "Die Tabellen folgen dem Angebot der einzelnen Plugins. Bei [beA-Versand](../bea-versand/README.md) führt die Werkstatt beispielsweise durch den gesamten Versand.",
         "",
         "[Repository-Start](../README.md) · [Download-Index](../ASSET_INDEX.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Testakten](../testakten/README.md)",
         "",
-        "[Werkstatt-Prompts](#werkstatt-prompts) · [HOAI-Phasen-Werkstätten](#hoai-phasen-werkstätten) · [Schnellstart-Prompts](#schnellstart-prompts)",
+        "[Werkstatt-Prompts](#werkstatt-prompts) · [HOAI-Phasen-Werkstätten](#hoai-phasen-werkstätten) · [Weitere Fachwerkstätten](#weitere-fachwerkstätten) · [Schnellstart-Prompts](#schnellstart-prompts)",
         "",
     ]
     for plugin in plugins:
@@ -124,6 +122,36 @@ def main() -> int:
             raise FileNotFoundError(path)
         lines.append(f"| {phase}: {title} | {purpose} | {direct_download(path, Path(path).name)} |")
     lines.append("")
+    lines.extend([
+        "## Weitere Fachwerkstätten", "",
+        "| Auftrag | Arbeitsprodukt | Werkstatt |",
+        "| --- | --- | --- |",
+    ])
+    for subject, product, source in (
+        ("Ein Vergabeverfahren als öffentlicher Auftraggeber steuern", "Prüfvermerk, Entscheidung oder Antwort auf eine Rüge",
+         "vergaberecht-werkstatt/vergaberecht-arbeitsprompt-vergabestelle.md"),
+        ("Als Bewerber oder Bieter an einer Ausschreibung teilnehmen", "Teilnahmeantrag, Angebotsprüfung oder Bieterfrage",
+         "vergaberecht-werkstatt/vergaberecht-arbeitsprompt-bieter.md"),
+        ("Eine Vergabeentscheidung aus Sicht eines Konkurrenten prüfen", "Fristenprüfung, Rüge oder Entwurf eines Nachprüfungsantrags",
+         "vergaberecht-werkstatt/vergaberecht-arbeitsprompt-konkurrenten.md"),
+        ("Unterlagen für eine rechtliche Betreuung sichten", "Beleggestützte Aktenübersicht und offene Nachforderungen",
+         "betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md"),
+        ("Eine Rechtshandlung auf Insolvenzanfechtung prüfen", "Anspruchsvermerk, Antwortschreiben oder Schriftsatz aus der beauftragten Perspektive",
+         "fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.md"),
+        ("Eine Verbraucherinsolvenzakte bearbeiten", "Einkommens- oder Eigentumsvermerk, Gläubigerbrief, Bericht oder Antragsentwurf",
+         "insolvenzsachbearbeitung/prompts/verbraucherinsolvenz/verbraucherinsolvenz-werkstatt.md"),
+        ("Eine Umsatzsteuervoranmeldung vorbereiten", "Belegabgleich und periodengerechter Entwurf mit offenen Buchungsfragen",
+         "steuerrecht-anwalt-und-berater/ustva/werkstatt.md"),
+    ):
+        if not (REPO / source).is_file():
+            raise FileNotFoundError(source)
+        lines.append(f"| {subject} | {product} | {direct_download(source, 'Markdown')} |")
+    lines.extend([
+        "| Einen einzelnen Tatbestand, ein Näheverhältnis oder eine Frist nach §§ 130–139 InsO prüfen "
+        "| Normbezogener Vermerk oder Schriftsatz mit Beweisfragen und Gegenargumenten "
+        "| [Zu den zehn Einzelwerkstätten](../insolvenzanfechtung/werkstattprompts/README.md) |",
+        "",
+    ])
     lines.extend(prompt_table(plugins, "schnellstart"))
     (DOCS / "werkstatt-und-schnellstart-coverage.md").write_text("\n".join(lines), encoding="utf-8")
     print(f"Coverage geschrieben: {ok}/{len(plugins)} Plugins")

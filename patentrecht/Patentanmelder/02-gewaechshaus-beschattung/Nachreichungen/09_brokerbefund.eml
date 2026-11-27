@@ -6,9 +6,13 @@ Date: Thu, 19 Nov 2026 14:21:00 +0100
 Message-ID: <f8cdabb3332dba62126ac8e9@fallpost.example>
 Subject: Job 417 =?utf-8?q?=C2=B7?= Bedeutung des Prozentwerts und der
  Quittung
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-19cb20738bc883e1845e258d"
+
+--interstate-alt-19cb20738bc883e1845e258d
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Fernfeld speichert pro Zone den =C3=BCbernommenen Vorgabewert, seine Sequenzn=
 ummer und einen Empfangszeitpunkt. Im Tarif der Sonnenbogen eG werden weder M=
@@ -22,3 +26,24 @@ Sitzung. Das belegt die fehlende Sitzung bei unserem Dienst. Aussagen zu ande=
 ren Verbindungen k=C3=B6nnen wir nicht treffen. Der Betreiber kann die lokale=
 n Anschlusswerte und die Seriennummer des eingebauten Reglers gesondert freig=
 eben.
+
+--interstate-alt-19cb20738bc883e1845e258d
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #2C=
+6155;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Fernfeld speiche=
+rt pro Zone den =C3=BCbernommenen Vorgabewert, seine Sequenznummer und einen =
+Empfangszeitpunkt. Im Tarif der Sonnenbogen eG werden weder Motorausgang noch=
+ gemessener Strom noch Endschaltersignal hochgeladen. Die 60 und 40 im Export=
+ sind Zielwerte. Wir k=C3=B6nnen nicht bescheinigen, wo der Schirm bei Eingan=
+g der Quittung stand. Ein neuer Regler erh=C3=A4lt auf Anmeldung die letzte V=
+orgabe erneut, aber keine rekonstruierte Position.</p><p>F=C3=BCr den Trennve=
+rsuch am 18. November enth=C3=A4lt unser Protokoll keine Sitzung. Das belegt =
+die fehlende Sitzung bei unserem Dienst. Aussagen zu anderen Verbindungen k=
+=C3=B6nnen wir nicht treffen. Der Betreiber kann die lokalen Anschlusswerte u=
+nd die Seriennummer des eingebauten Reglers gesondert freigeben.</p></div></b=
+ody></html>
+
+--interstate-alt-19cb20738bc883e1845e258d--

@@ -42,6 +42,8 @@ Dienstunfähigkeit, begrenzte Dienstfähigkeit und anderweitige Verwendung getre
 
 ## 4. Besoldung, Versorgung, Beihilfe und Disziplinarverfahren
 
+Bei der Einstufung einer Bürgermeisterin vergleiche die Beschlüsse für männliche Amtsinhaber. Ein allein ihr auferlegter, gesetzlich nicht vorgesehener Bewährungsvorbehalt war ein Diskriminierungsindiz. Prüfe, welche zeitnah dokumentierten Gründe die Kommune zur Widerlegung vorbringen kann. Die Kommune widerlegte die Vermutung im Streitfall nicht. Die zugesprochenen Beträge hängen von der konkreten Besoldungsdifferenz und Beeinträchtigung ab. [BVerwG, Urteil vom 19.11.2026 – 2 C 6.26, Nr. 86/2026, Begründung zur Beweislast · Amtliche Pressemitteilung](https://www.bverwg.de/pm/2026/86)
+
 ### 4.1. Geldbeträge nachvollziehbar herleiten
 
 Ordne Bescheidfassung, Zeitraum, Amt, Stufe, Zuschläge, Dienstzeiten, Ruhegehaltssatz, Abschläge und Anrechnung den jeweiligen Belegen zu. Bei fehlenden Dienstzeiten oder Anrechnungsbeträgen frage nach dem konkreten Berechnungsblatt. Nach Lieferung die betroffene Rechnung ändern und den bestellten Antrag oder die begründete Auskunft fertigstellen. Eine nachgereichte Tabelle nicht ungeprüft übernehmen.

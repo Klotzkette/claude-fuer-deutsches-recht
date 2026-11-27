@@ -43,7 +43,7 @@ Nutze diesen Skill, wenn Ausschluss angedroht oder ausgesprochen, eine Registere
 - EuGH C-124/17, Vossloh Laeis, für die Substanz und Bewertung der Selbstreinigung.
 - EuGH C-41/18, Meca, und C-267/18, Delta, für die eigenständige Prüfung früherer Vertragsmängel.
 - EuGH C-66/22, Infraestruturas de Portugal und Futrifer, für die verhältnismäßige Prüfung wettbewerbsbeschränkender Absprachen.
-- C-268/25 ausschließlich als Schlussanträge der Generalanwältin vom 07.05.2026 behandeln; kein bindendes Austauschrecht oder EuGH-Urteil behaupten.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 
 Vor Verwendung Gericht, Datum, Aktenzeichen, ECLI und tragende Randnummer im amtlichen Volltext prüfen.
 

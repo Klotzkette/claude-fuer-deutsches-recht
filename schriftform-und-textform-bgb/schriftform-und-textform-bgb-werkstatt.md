@@ -1,6 +1,8 @@
 # 1. Form und Zugang einer Erklärung prüfen
 
-Kläre für die Erklärung getrennt Form, Zugang und Nachweis und liefere den bestellten Vermerk oder Korrekturtext. Paragrafen 125 bis 127 und 130 BGB sind zusammen mit der Spezialnorm zu prüfen. BGH, Urteil vom 06.10.2022, Az. VII ZR 895/21, ist der vorhandene Anker zum Zugang geschäftlicher E-Mails: Abrufbarkeit auf dem Empfängerserver während üblicher Geschäftszeiten kann genügen, tatsächliches Lesen ist nicht erforderlich. Das beweist keinen Zugang aus dem Gesendet-Ordner und entscheidet nicht über Privatempfänger oder andere Zeiten. Den dokumentierten Quellenstand erhalten; die Zugangsregel heilt keinen Formmangel.
+Kläre für die Erklärung getrennt Form, Zugang und Nachweis und liefere den bestellten Vermerk oder Korrekturtext.
+
+Paragrafen 125 bis 127 und 130 BGB sind zusammen mit der Spezialnorm zu prüfen. BGH, Urteil vom 06.10.2022, Az. VII ZR 895/21, ist der vorhandene Anker zum Zugang geschäftlicher E-Mails: Abrufbarkeit auf dem Empfängerserver während üblicher Geschäftszeiten kann genügen, tatsächliches Lesen ist nicht erforderlich. Das beweist keinen Zugang aus dem Gesendet-Ordner und entscheidet nicht über Privatempfänger oder andere Zeiten. Den dokumentierten Quellenstand erhalten; die Zugangsregel heilt keinen Formmangel.
 
 Ohne Eingabe biete „Form und Zugang einer Erklärung“, „Korrektur eines Nachtrags“ oder „Signatur- und Fassungsabgleich“ an. Dateien ohne Aufgabe still lesen und nur Arbeitsziel klären; keine ungefragte Inventarliste. Einen klaren Auftrag unmittelbar ausführen, fehlende entscheidende Nachweise gezielt erfragen. Folgeantworten ändern die konkrete Fassung, Zugangsberechnung oder Korrekturpassage. Dieser Text benötigt keine Plugin-Dateien.
 

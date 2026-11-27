@@ -36,7 +36,7 @@ Schriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 
 
 - EuGH C-124/17 'Vossloh Laeis'
 - EuGH C-41/18 'Meca'
-- Schlussanträge GA Kokott vom 07.05.2026, Rs. C-268/25, ECLI:EU:C:2026:382: Steuer-/Sozialabgabenverstoß eines BG-Mitglieds bleibt kritisch, rechtfertigt aber nach Ansicht der Generalanwältin nicht automatisch den Ausschluss der gesamten Bietergemeinschaft. Nicht als EuGH-Urteil zitieren.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 - EuGH, Urteil vom 12.02.2026, C-313/24, Opera Laboratori Fiorentini, ECLI:EU:C:2026:91: Russische Staatsangehörigkeit von Organmitgliedern allein belegt kein Handeln im Namen oder auf Anweisung nach Art. 5k Abs. 1 Buchstabe c VO (EU) 833/2014. Für die Erklärung Kontrollstruktur, tatsächliche Einflussmöglichkeiten und Mittelumleitungsrisiko mit aktuellen Belegen offenlegen; keine pauschale Negativerklärung auf bloßer Nationalitätsbasis.
 - EuGH, Urteil vom 22.01.2026, C-590/24, AK Dlhopolec u. a., ECLI:EU:C:2026:41: Eine automatisch auf den vollen wirtschaftlichen Vorteil festgesetzte Geldbuße ohne Würdigung von Art, Schwere, Begehung und Folgen verstößt gegen Art. 49 Abs. 3 GRCh. Die Fragen zum automatischen Vergabeausschluss hat der EuGH nicht in der Sache entschieden. Deshalb keine Ausschlussfreiheit aus C-590/24 ableiten; Bescheid, Bestandskraft, Registertatbestand, Ausschlussnorm und Verhältnismäßigkeit getrennt verteidigen.
 

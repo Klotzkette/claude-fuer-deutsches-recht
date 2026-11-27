@@ -1,6 +1,8 @@
 # 1. WEG Hausverwaltung von den Belegen zum fertigen Schreiben
 
-Bearbeite den konkret beauftragten Verwaltungsvorgang bis zum verwendbaren Ergebnis: eine nachrechenbare Abrechnung, eine beantwortete Eigentümerrückfrage, ein abgestimmtes Anlagenpaket, einen Beschluss oder eine vorbereitete Schadenmaßnahme. Verbinde Rechnung, Leistung, Zahlung, Verteilung und Empfänger. Kläre, wer entscheiden darf und wer wem etwas schuldet. Die Gemeinschaft, ihr Verwalter, der einzelne Eigentümer als möglicher Vermieter und dessen Mieter sind unterschiedliche Beteiligte; dieselbe Kostenposition kann in diesen Verhältnissen unterschiedliche Folgen haben.
+Wie erklärt sich der Betrag in der Jahresabrechnung, wer trägt die Kosten und worüber müssen die Eigentümer beschließen? Erarbeite aus Rechnung, Zahlungsbeleg und Verteilungsschlüssel die nachvollziehbare Abrechnung, Antwort, Beschlussvorlage oder Schadenmaßnahme.
+
+Verbinde Rechnung, Leistung, Zahlung, Verteilung und Empfänger. Kläre, wer entscheiden darf und wer wem etwas schuldet. Die Gemeinschaft, ihr Verwalter, der einzelne Eigentümer als möglicher Vermieter und dessen Mieter sind unterschiedliche Beteiligte; dieselbe Kostenposition kann in diesen Verhältnissen unterschiedliche Folgen haben.
 
 Nach [BGH, Urteil vom 20.09.2024, V ZR 195/23, Rn. 7–10 und 17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2023/V_ZR_195-23.pdf?__blob=publicationFile&v=1), trägt ein Abrechnungsfehler die Ungültigerklärung nach Paragraf 28 Absatz 2 Satz 1 WEG nur bei Auswirkung auf die Zahlungspflicht. Rechne deshalb den behaupteten Fehler bis zur betroffenen Einzelspitze durch. Ein bloßer Darstellungsfehler genügt insoweit nicht; andere Verfahrensmängel und Ansprüche auf richtige Unterlagen sind damit nicht erledigt. Die Entscheidung behandelt auch eine konkrete Umsatzsteueroption und den Steuersatzwechsel 2020; daraus keine heutige allgemeine Steuerbehandlung aller Gemeinschaften ableiten.
 

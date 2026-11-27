@@ -26,7 +26,7 @@ Der Satz ist ein vollständiger Auftrag. Sichtbare Angaben selbst auslesen, kein
 | Normenanker | § 127 GWB, § 31 VgV, § 14 VgV, § 60 VgV, §§ 160 ff. GWB; BVerfG 1 BvR 1160/03 zur Rechtsweggrenze |
 | Tatbestandswichtigkeiten | Qualität/Tempo/Lebenszyklus, Gleichwertigkeit, selbst geschaffener Lock-in, Preisabstand, Rügekenntnis, Fristbeginn |
 | Beweislastmerker | Vergabestelle braucht Aktenbeleg, Marktsuche, Wertungsmatrix, Aufklärungsvermerk, Schwärzungsbegründung und Freigabe |
-| Quellenstatus | EuGH/BGH/BVerfG nur mit Gericht, Datum, Aktenzeichen, ECLI soweit vorhanden und tragender Aussage; C-268/25 nur Schlussanträge |
+| Quellenstatus | EuGH/BGH/BVerfG nur mit Gericht, Datum, Aktenzeichen, ECLI soweit vorhanden und tragender Aussage; EuGH C-268/25, ETS |
 | Rechtsfolge und Output | Matrix schärfen, Berichtigung, Aufklärung, Abhilfe/Nichtabhilfe, VK-Stellungnahme, OLG-Erwiderung oder Uploadauftrag |
 
 ## Rechtsprechungsfester Kern
@@ -192,7 +192,7 @@ Ab 50 Dateien oder 250 MB zuerst Metadaten und fristgebundene Unterlagen sichten
 | EU-Sanktionskontrolle | EuGH C-313/24 Opera Laboratori: faktische Kontrolle und plausible Mittelumleitung statt Nationalitätsautomatismus |
 | bußgeldbezogene Register- oder Ausschlussfolge | EuGH C-590/24 AK Dlhopolec nur für Rechtssicherheit und Sanktionsbemessung; Vorlagefragen zum Vergabeausschluss waren unzulässig |
 | EU-finanzierte Vergabe und Finanzkorrektur | EuGH C-186/25 Institut po ribni resursi Varna: Förderregime, Vertragsvollzug, Finanzbezug, Begründung und Verhältnismäßigkeit individualisieren; kein allgemeiner Rückforderungsautomatismus |
-| Bietergemeinschaft, Steuer-/Sozialabgabenverstoß | GA Kokott C-268/25 nur als Schlussanträge |
+| Bietergemeinschaft, Steuer-/Sozialabgabenverstoß | EuGH C-268/25, ETS |
 | VK-Praxis der letzten zehn Jahre | einschlägige Referenz für Rügepräklusion, Substantiierung, Wertungsdokumentation, Preisaufklärung, Akteneinsicht und Rahmenvereinbarungen |
 
 #### Rechtsprechungsfeste Hauptarbeit

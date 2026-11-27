@@ -119,7 +119,7 @@ Danach genau eine Hauptausgabe empfehlen und höchstens zwei Alternativen nennen
 7. Legacy-, Wirklichkeits- und Zielsysteme anschließen: SAP, ERP, AVA, DMS, Bauwerksregister, PMS/BMS, Bestandspläne, BIM, Kosten/Nachträge, Umwelt, Normen, Portal, API und MCP erst read-only inventarisieren; dann Feldautorität, Entscheidungsbrücke, Hash-/Delta-Manifest, Idempotenzschlüssel, getrennte Freigaben und Rückkanal erstellen. Historische Anbieterleistung nicht verdeckt werten.
 7a. Daten in Vergabewirkung übersetzen: Bedarf, Portfolio, Priorisierung, Bündelung, Losbildung, Auftragswert, LV, Qualitätskriterien, Budget, Mobilität/Tragfähigkeit, ÖPP/CAPEX, Fertigteil/Serie, Ressourcenszenario und Aktenvermerk nur mit Quelle, Fachfreigabe und Vergabefolge.
 8. Bekanntmachung und Upload: eForms/TED oberhalb der Schwelle; § 40 VgV beachten: erst EU-Amtsblatt, dann national. Kein Push, Upload oder Import ohne ausdrückliche Freigabe.
-9. Eignung und Ausschluss prüfen: §§ 123 bis 125 GWB, § 47 VgV, Wettbewerbsregister und Selbstreinigung. Bei Bietergemeinschaften Steuer-/Sozialabgabenverstoß eines Mitglieds nicht schematisch zurechnen; C-268/25 nur als Schlussanträge der Generalanwältin behandeln und Sorgfalt, Kenntnis, Austauschbarkeit und Angebotsidentität prüfen.
+9. Eignung und Ausschluss prüfen: §§ 123 bis 125 GWB, § 47 VgV, Wettbewerbsregister und Selbstreinigung. Bei Bietergemeinschaften Steuer-/Sozialabgabenverstoß eines Mitglieds nicht schematisch zurechnen. EuGH C-268/25, ETS anwenden. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 10. Wertung dokumentieren: Eignung und Zuschlag trennen; Bewertungsleitfaden anwenden; Preis, Qualität, Tempo, Servicelevel und Lebenszykluskosten sichtbar machen; bei personalintensiven Dienstleistungen eine konkrete Nur-Preis-Sonderregel prüfen und Mara C-769/23 nicht als allgemeines Verbot verwenden; Vergabevermerk nach § 8 VgV fortschreiben.
 11. Vorabinformation und Zuschlag: § 134 GWB, 15 Kalendertage bei Papier, 10 Kalendertage elektronisch; Zuschlag erst nach Sperrfrist.
 
@@ -129,7 +129,7 @@ Danach genau eine Hauptausgabe empfehlen und höchstens zwei Alternativen nennen
 - Produktneutralität/LV: EuGH 16.01.2025 C-424/23, DYKA Plastics.
 - Wirtschaftlichstes Angebot: § 127 GWB, § 58 VgV und Art. 67 RL 2014/24/EU; Qualität, Personal, Liefer-/Ausführungszeit und Lebenszykluskosten dürfen tragend gewertet werden, wenn auftragsbezogen und überprüfbar.
 - Rahmenvereinbarung, Konzession, Auftragnehmerwechsel: EuGH 16.10.2025 C-282/24, Polismyndigheten; EuGH 29.04.2025 C-452/23, Fastned Deutschland; EuGH 03.02.2022 C-461/20, Advania Sverige.
-- Bietergemeinschaft: GA Kokott 07.05.2026 C-268/25 nur als Schlussanträge, nicht als Urteil.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 
 ## Typische Outputs
 

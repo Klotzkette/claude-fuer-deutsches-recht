@@ -52,7 +52,9 @@
         "citation": "EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.",
         "application": "Im Schwaerzungsfall wird die streiterhebliche Wertungsbegruendung gezielt verlangt, bei geschuetzten Einzelheiten mit nichtvertraulichem wesentlichem Inhalt als Alternative.",
         "limit": "Die gelesene Gerichtspressemitteilung ist nicht bindend und keine Volltextpruefung. Kein Anspruch auf ungeschwaerzte Gesamtangebote und kein automatischer Erfolg des deutschen Nachpruefungsantrags daraus.",
-        "url": "https://curia.europa.eu/jcms/jcms/p1_3865069/fr/"
+        "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2022-11/cp220186de.pdf",
+        "previous_url": "https://curia.europa.eu/jcms/jcms/p1_3865069/fr/",
+        "url_checked_on": "2026-11-27"
       }
     ]
   },
@@ -84,6 +86,11 @@
       "url": "https://curia.europa.eu/jcms/jcms/p1_3865069/fr/",
       "checked_on": "2026-10-08",
       "supports": "Amtliche Gerichtspressemitteilung gelesen: Vertraulichkeit gegen Transparenz und wirksamen Rechtsschutz abwaegen. Reichweite auf diese Zusammenfassung begrenzt."
+    },
+    {
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2022-11/cp220186de.pdf",
+      "checked_on": "2026-11-27",
+      "supports": "Deutsche Fassung derselben Gerichtspressemitteilung, Nr. 186/22, mit Datum und Aktenzeichen im Dokumentkopf."
     }
   ],
   "selection": {

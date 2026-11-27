@@ -1,6 +1,8 @@
 # 1. Bauträgervertrag, Zahlungen und Mängel bearbeiten
 
-Identifiziere zuerst die konkrete Urkunde und den geschuldeten Erwerb. Notiere Parteien, Einheit, UVZ-/UR-Nummer oder Entwurfsdatum und die zuletzt vereinbarte Fassung. Belege aus den Vertragsklauseln, wer was baut und wer welches Recht verschafft. Verfasse auf dieser Grundlage das beauftragte Gutachten, Schreiben, die Urkundenänderung oder den Beschlussentwurf. Erwerber, Bauträger, Gemeinschaft der Wohnungseigentümer (GdWE) und Verwalter haben unterschiedliche Ziele und Befugnisse. Bekannte Rolle übernehmen; nur bei entscheidender Unklarheit gezielt fragen. Keine widerstreitenden Seiten gleichzeitig vertreten. Mandanteninformation, Prüfvermerk und Änderungsschreiben als Paket nur erstellen, wenn dies beauftragt ist.
+Welche Wohnung soll der Erwerber erhalten, was muss der Bauträger noch leisten und ist die nächste Rate schon fällig? Prüfe die maßgebliche Urkunde und liefere das bestellte Gutachten, Schreiben, die Urkundenänderung oder den Beschlussentwurf.
+
+Notiere Parteien, Einheit, UVZ-/UR-Nummer oder Entwurfsdatum und die zuletzt vereinbarte Fassung. Belege aus den Vertragsklauseln, wer die Bauleistung schuldet und wer das Eigentum verschafft. Erwerber, Bauträger, Gemeinschaft der Wohnungseigentümer (GdWE) und Verwalter haben unterschiedliche Ziele und Befugnisse. Bekannte Rolle übernehmen; nur bei entscheidender Unklarheit gezielt fragen. Keine widerstreitenden Seiten gleichzeitig vertreten. Mandanteninformation, Prüfvermerk und Änderungsschreiben als Paket nur erstellen, wenn dies beauftragt ist.
 
 Paragrafen 650u und 650v BGB, Paragraf 3 MaBV und Paragraf 1 AbschlagsV sind für die Ratenprüfung zusammenzulesen. BGH, Urteil vom 22.12.2000, VII ZR 310/99, zeigt die Ausfallfolge eines verfrühten Zahlungsplans: Die MaBV-Stufen werden nicht automatisch zum Ersatzplan. Der unten belegte Fall betrifft einen Vertrag von 1994; heutige Fälligkeit und konkrete Rückforderung gesondert prüfen. Keine automatische Gesamtrückzahlung und keine neue Quellenverifikation behaupten.
 
@@ -36,6 +38,8 @@ Für jeden Vertrag und gegebenenfalls jedes Bauteil die Folgen der Einordnung au
 Erwerber: Leistung und Vorleistungssicherung prüfen, konkrete Änderungs-, Zurückbehaltungs- oder Anspruchsposition begründen. Bauträger: Vertragsstand, tatsächliche Leistung, Anspruchshöhe und Gegenrechte vollständig würdigen und eine tragfähige Antwort formulieren; fehlende Nachweise nicht durch pauschale Fälligkeitsbehauptungen ersetzen. GdWE: Anspruchsinhaberschaft, gemeinschaftliche Ausübung, Beschluss und Vertretung gesondert feststellen. Verwalter: Umfang der Vorbereitung und Umsetzung aus Auftrag, Gesetz und tatsächlichen Beschlüssen bestimmen; kein fremdes Erwerberrecht allein aus der Organstellung ausüben.
 
 Bei einem Antwortschreiben des Bauträgers keine Erwerberforderung als eigenes Ziel fortführen. Eine unwirksame Klausel oder ein ungünstiger Bautenstandsbeleg kann auch die Bauträgerposition begrenzen; den Mandanten darüber verständlich informieren. Bei Auftrag des Notariats neutrale Urkundengestaltung von einseitiger anwaltlicher Verhandlungsführung unterscheiden. Die folgenden Erwerberbeispiele erläutern typische Schutzfragen und sind kein automatischer Wechsel der vertretenen Seite.
+
+Legt der Bauträger die Bezugsurkunde erst nach der Ratenanforderung vor, vergleiche die dort zugesagte Ausstattung mit der bisherigen Vertragsfassung und dem belegten Bautenstand. Nenne die betroffene Rate, den rechnerisch offenen Betrag und die Stelle im Schreiben, die sich durch den neuen Beleg ändert.
 
 ## 1.2. Entwurf, Bezugsurkunden und Beurkundung
 

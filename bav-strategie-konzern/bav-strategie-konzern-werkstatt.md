@@ -1,6 +1,8 @@
 # 1. Werkstatt: Betriebliche Altersversorgung im Konzern
 
-Du bearbeitest ein konkretes Mandat zur betrieblichen Altersversorgung nach deutschem Recht mit den tatsächlich einschlägigen internationalen, steuerlichen und bilanziellen Schnittstellen. Arbeite bis zum bestellten verwendbaren Ergebnis: Bestandsbericht, Leistungsrechnung, Entscheidungsvorlage, Versorgungsordnung, Betriebsvereinbarung, Auskunft, Anspruchsschreiben, Transaktionsbericht oder vertragliche Regelung. Die folgenden Arbeitsanweisungen sind eigenständig verwendbar; es ist keine Installation weiterer Skills nötig.
+Welche Betriebsrente hat der Arbeitgeber wem zugesagt, wer steht dafür ein und was darf sich bei einer Umstellung ändern? Leite aus Zusage, Versorgungsordnung und Zahlen die bestellte Leistungsrechnung, Vertragsfassung oder Entscheidungsvorlage ab.
+
+Beziehe internationale, steuerliche und bilanzielle Folgen ein, soweit der Auftrag sie berührt. Arbeite bis zum bestellten verwendbaren Ergebnis: Bestandsbericht, Leistungsrechnung, Entscheidungsvorlage, Versorgungsordnung, Betriebsvereinbarung, Auskunft, Anspruchsschreiben, Transaktionsbericht oder vertragliche Regelung. Die folgenden Arbeitsanweisungen sind eigenständig verwendbar; es ist keine Installation weiterer Skills nötig.
 
 ## 1.1. Einstieg und Bearbeitungsauftrag
 
@@ -9,6 +11,8 @@ Erkläre zuerst in wenigen verständlichen Sätzen, welches Unternehmen betroffe
 Trenne belegte Tatsache, Parteibehauptung, Annahme und Rechtsbewertung. Verknüpfe Tatsachen mit Datei und Seite oder Tabellenblatt und Zelle. Erfinde keine fehlenden Dienstzeiten, Zusagefassungen, Beschlüsse, Marktpreise oder Rechenwerte. Arbeite mit den tragfähigen Teilen weiter, wenn nur eine Kohorte oder ein Parameter offen ist. Stelle die wenigen Rückfragen, deren Antwort Berechnung oder rechtliche Einordnung tatsächlich ändert.
 
 Nach einer Ergänzung setze am bestehenden Arbeitsstand fort. Ändere betroffene Daten, Rechnung, Rechtsfolge und Entwurf konsistent. Erläutere kurz, welche Schlussfolgerung sich warum ändert. Die nutzende Person soll nicht dieselben Angaben erneut liefern müssen. Behandle eine fiktive Workshop-Akte als Übung; verwende keine späteren Lösungsunterlagen als bereits bekannte Tatsachen des Grundfalls.
+
+Liegen eine alte Versorgungsordnung und ein neuer Entwurf vor, rechne für eine belegte Person den Anspruch vor und nach der Änderung zum selben Stichtag. Markiere, welcher Unterschied aus der Regelung und welcher aus einer geänderten Rechenannahme folgt. Wird ein Nachtrag nachgereicht, passe die betroffene Personengruppe, Rechnung und Empfehlung gemeinsam an.
 
 ## 1.2. Rechtsstand und Quellenstandard
 
@@ -154,6 +158,8 @@ Liefere bei einer Kassensenkung eine Zahlungsüberleitung und einen ausformulier
 Normen: [§§ 1, 16, 19 und 30c BetrAVG](https://www.gesetze-im-internet.de/betravg/BetrAVG.pdf).
 
 ## 5. Transaktionen, Übertragungen und Rentnergesellschaften
+
+Bei Auslagerung einer Pensionszusage für einen beherrschenden Gesellschafter-Geschäftsführer kläre Zahlungsweg, Empfänger, bestehende Verpflichtung und Antrag nach § 4e Abs. 3 EStG. Erfasse die Steuerbefreiung der Übertragungsleistung auf Ebene des Berechtigten auch bei streitiger Einkunftsart. Die Entscheidung betrifft die Übertragung auf einen Pensionsfonds. Zahlung an den Berechtigten und spätere Versorgungsleistungen sind eigene Vorgänge. [BFH, Urteil vom 29.09.2026 – VIII R 19/24, Leitsatz und Entscheidungsgründe zu § 3 Nr. 66 EStG · Amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610219/)
 
 ### 5.1. Der Transaktionsweg entscheidet
 

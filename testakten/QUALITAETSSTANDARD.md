@@ -95,3 +95,10 @@ python3 scripts/validate-testakten-einzelpdf-zips.py dist/testakten <aktenordner
 ```
 
 In der lokalen Desktop-Umgebung kann dafür der gebündelte Python verwendet werden, wenn die normale Python-Umgebung keine PDF-Bibliotheken enthält.
+
+
+## Bestand und Quellen nachvollziehen
+
+Der Katalog zählt jede eigenständig bearbeitbare Fallablage einmal. Erfasst sind das zentrale Register, Fachplugin-Akten, Gerichtsakten, Workshop- und Projektfälle. Mehrere Downloads derselben Akte bleiben ein Eintrag. Getrennte Rollenakten können denselben Sachverhalt verwenden. Die zehn Personalakten zur Zeugniserstellung und die neun Immobilienfälle lassen sich einzeln auswählen.
+
+Mit `python scripts/aktenbestand.py --json bestand.json` lässt sich der lokal verfügbare Quellenbestand je Fall auswerten. Die Prüfung öffnet Word-Dateien und zugeordnete ZIPs, liest E-Mail-Kopfzeilen und prüft Anfang und Ende der PDF-Dateien. Sie zählt bytegleiche Kopien innerhalb eines Falls einmal je Dateiformat. Bei Word erfasst sie unter anderem Farbwerte in Kopfzeilen und in den ersten vier Dokumentblöcken. Für Schriftbild, Lesbarkeit und richtige Absenderzuordnung ist eine Sichtprüfung erforderlich. Die Dateifassungen des Arbeitsvermerks und der Korrespondenz haben ein eigenes [Verzeichnis mit Aktenbezug](../docs/downloads/aktenarbeit/README.md).

@@ -15,7 +15,7 @@ from pathlib import Path
 from release_routing import rewrite_case_asset_urls, validate_plugin_version, validate_version
 
 from readme_display import catalog_description
-from testakte_zip_common import working_dump_flat_pairs
+from aktenbestand import zaehlung
 
 
 REPO = Path(__file__).resolve().parent.parent
@@ -26,7 +26,6 @@ DIRECTORY_BEGIN = "<!-- BEGIN HAUPTVERZEICHNIS (auto-generated) -->"
 DIRECTORY_END = "<!-- END HAUPTVERZEICHNIS (auto-generated) -->"
 BEGIN = "<!-- BEGIN PLUGIN-KATALOG (auto-generated) -->"
 END = "<!-- END PLUGIN-KATALOG (auto-generated) -->"
-SKIP_TESTAKTEN = {"formatvorlagen-paradebeispiele", "megaprompts"}
 
 
 def source_rel(plugin: dict) -> str:
@@ -43,41 +42,19 @@ def inventory_counts(plugins: list[dict]) -> dict[str, int]:
     skills = 0
     werkstatt = 0
     schnellstart = 0
-    pluginlocal_testakten = 0
     for plugin in plugins:
         directory = REPO / source_rel(plugin)
         skills += sum(1 for _ in (directory / "skills").glob("*/SKILL.md"))
         name = plugin["name"]
         werkstatt += int((directory / f"{name}-werkstatt.md").is_file())
         schnellstart += int((directory / f"{name}-schnellstart.md").is_file())
-        testakte = directory / "testakte"
-        if testakte.is_dir() and working_dump_flat_pairs(
-            testakte,
-            include_gesamt_pdf=False,
-        ):
-            pluginlocal_testakten += 1
 
-    central_testakten = sum(
-        1
-        for child in (REPO / "testakten").iterdir()
-        if child.is_dir() and child.name not in SKIP_TESTAKTEN
-    )
-    # Eigenständig benannte Fallsammlungen in den Fachplugins.
-    suites = {REPO / "patentrecht/Patentanmelder", REPO / "vergaberecht-werkstatt/testakten",
-              REPO / "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG"}
-    suites.update(REPO / source_rel(plugin) / "testakten" for plugin in plugins)
-    separate_testakten = sum(
-        1 for suite in suites for readme in suite.glob("*/README.md")
-        if readme.parent.name not in SKIP_TESTAKTEN and (readme.parent / "gesamt-pdf").is_dir()
-    )
     return {
         "plugins": len(plugins),
         "skills": skills,
         "werkstatt": werkstatt,
         "schnellstart": schnellstart,
-        "central_testakten": central_testakten,
-        "testakten": central_testakten + pluginlocal_testakten + separate_testakten,
-        "separate_testakten": separate_testakten,
+        **zaehlung(REPO),
     }
 
 
@@ -92,7 +69,7 @@ def build_directory(plugins: list[dict]) -> str:
             f"| **Skills** | {counts['skills']} | Arbeitsabläufe für einzelne Aufgaben | [Alle Skills](./SKILLS.md) · [Einzeldownloads je Plugin](./skills-index/) |",
             f"| **Werkstatt-Prompts** | {counts['werkstatt']} | Ausführliche Anweisungen für mehrstufige Vorgänge | [Werkstatt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |",
             f"| **Schnellstart-/Mini-Prompts** | {counts['schnellstart']} | Kurze Anweisungen für den Einstieg im Chat | [Mini-Prompt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |",
-            f"| **Testakten** | {counts['central_testakten']} zentral / {counts['testakten']} gesamt | Übungsfälle mit Arbeitsaufträgen und Unterlagen | [Zentrale Sammlung](./testakten/README.md#verfügbare-akten) · [Akten einzelner Plugins](#testakten) |",
+            f"| **Testakten** | {counts['central_testakten']} zentral / {counts['testakten']} gesamt | Einzeln bearbeitbare Akten im zentralen Register, in Fachplugins, Projekten und Workshops | [Zentrale Sammlung](./testakten/README.md#verfügbare-akten) · [Akten einzelner Plugins](#testakten) |",
             DIRECTORY_END,
         ]
     )

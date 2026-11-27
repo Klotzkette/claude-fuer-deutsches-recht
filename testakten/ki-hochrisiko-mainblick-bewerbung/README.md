@@ -13,7 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-ki-hochrisiko-mainblick-bewerbung.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-ki-hochrisiko-mainblick-bewerbung.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-ki-hochrisiko-mainblick-bewerbung.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-ki-hochrisiko-mainblick-bewerbung.zip) · [Schriftstücke zum Fall](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-ki-hochrisiko-mainblick-bewerbung) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/ki-hochrisiko-mainblick-bewerbung_gesamt.pdf`](gesamt-pdf/ki-hochrisiko-mainblick-bewerbung_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-hochrisiko-mainblick-bewerbung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-ki-hochrisiko-mainblick-bewerbung.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-hochrisiko-mainblick-bewerbung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-hochrisiko-mainblick-bewerbung-einzelpdfs.zip) |

@@ -68,6 +68,8 @@ Verjährung nach Paragraf 2 Absatz 3 und Erstattungsansprüche wegen Überzahlun
 
 ## 1.4 Vergütung und Zeitansatz
 
+Verlangt eine wiederholt befragte Sachverständigenorganisation Vergütung für eine Auskunft in der Außenprüfung bei Dritten, sichere schon beim Finanzgericht Häufigkeit, konkreten Aufwand und die nach Zeugenentschädigung verbleibende Unterdeckung. Der BFH wies die Nichtzulassungsbeschwerde zurück. Die abstrakte Einordnung als Zeuge oder Sachverständiger war auf dieser Tatsachengrundlage nicht klärungsfähig. [BFH, Beschluss vom 03.11.2026 – X B 52/26, Nichtzulassungsbeschwerde, nicht zur amtlichen Sammlung bestimmt, Leitsatz und Tenor · Amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650190/)
+
 ### 1.4.1 Sachverständige
 
 Ordne die Leistung nach Paragraf 9 und Anlage 1 anhand der Heranziehung und Beweisfragen einem Sachgebiet zu. Medizinische Gruppen M1 bis M3 sind nicht die allgemeine Einteilung aller Sachverständigenleistungen. Prüfe mehrere Sachgebiete, nicht aufgeführte Sachgebiete und Sondertatbestände nach der einschlägigen Regel.

@@ -61,7 +61,9 @@
         "citation": "EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.",
         "application": "Die Behoerde begruendet Geheimhaltungsbedarf je Aktenteil und erhaelt den streiterheblichen wesentlichen Informationsgehalt fuer den Rechtsschutz.",
         "limit": "Nur amtliche Pressezusammenfassung, nicht bindend und kein gepruefter Urteilsvolltext. Die Kammerentscheidung ueber konkrete Akteneinsicht wird nicht vorweggenommen.",
-        "url": "https://curia.europa.eu/jcms/jcms/p1_3865069/fr/"
+        "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2022-11/cp220186de.pdf",
+        "previous_url": "https://curia.europa.eu/jcms/jcms/p1_3865069/fr/",
+        "url_checked_on": "2026-11-27"
       }
     ]
   },
@@ -103,6 +105,11 @@
       "url": "https://curia.europa.eu/jcms/jcms/p1_3865069/fr/",
       "checked_on": "2026-10-08",
       "supports": "Gerichtspressemitteilung zu Antea gelesen; begrenzter Abwaegungsanker fuer die geplante Schwaerzungsmatrix."
+    },
+    {
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2022-11/cp220186de.pdf",
+      "checked_on": "2026-11-27",
+      "supports": "Deutsche Fassung derselben Gerichtspressemitteilung, Nr. 186/22, mit Datum und Aktenzeichen im Dokumentkopf."
     }
   ],
   "selection": {

@@ -36,7 +36,7 @@ Schriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 
 
 - Produkt-, Material- oder Formatvorgabe: EuGH, Urteil vom 16.01.2025, C-424/23, DYKA Plastics.
 - Verdeckte Direktvergabe oder technische Exklusivität: EuGH, Urteil vom 09.01.2025, C-578/23, Generální finanční ředitelství.
-- Bietergemeinschaft mit Steuer-/Sozialabgabenproblem: Schlussanträge GA Kokott vom 07.05.2026, C-268/25, nur als Schlussanträge.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 - Preisautomatismus: zuerst Abweichung von bekannt gemachten Kriterien oder konkrete Sonderregel benennen; EuGH C-769/23, Mara, schafft allein kein unionsweites Nur-Preis-Verbot. Niedrigpreisaufklärung nach § 60 VgV getrennt prüfen.
 - Rahmenvereinbarung, Konzession oder Auftragnehmerwechsel: EuGH C-282/24, Polismyndigheten; EuGH C-452/23, Fastned Deutschland; EuGH C-461/20, Advania Sverige.
 - Gegenangriff gegen eigenen Ausschluss: EuGH C-100/12, Fastweb, EuGH C-689/13, PFE, und EuGH C-497/20, Randstad Italia, als Rechtsschutzanker prüfen.

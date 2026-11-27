@@ -26,10 +26,17 @@ jobs:
           node-version: '22'
       - name: Downloadseite mit erreichbaren und fehlenden Dateien testen
         run: node --test scripts/test-download-page.mjs
-      - name: Markdown-Prüfwerkzeuge installieren
-        run: python -m pip install PyYAML 'markdown-it-py>=3,<5' 'linkify-it-py>=2,<3'
+      - name: Werkzeuge für Markdown, Word und PDF installieren
+        run: python -m pip install PyYAML 'markdown-it-py>=3,<5' 'linkify-it-py>=2,<3' 'python-docx>=1.2,<2' 'pypdf>=6,<7' 'reportlab>=4,<5'
       - name: Skillbeschreibungen in Plugin-READMEs und Detailseiten abgleichen
         run: python scripts/test-skill-overview-text.py
+      - name: Schriftstücke, Prüfsummen und Aktenverweise abgleichen
+        run: |
+          python scripts/test-testakten-schriftstueck-satz.py
+          python scripts/test-aktenarbeit-quellen.py
+          python scripts/test-aktenbestand.py
+          python scripts/aktenarbeit_katalog.py --check
+          python scripts/aktenarbeit_einstiege.py --check
       - name: Ziele und Sprungmarken im Repository prüfen
         run: |
           python scripts/validate-readme-navigation.py

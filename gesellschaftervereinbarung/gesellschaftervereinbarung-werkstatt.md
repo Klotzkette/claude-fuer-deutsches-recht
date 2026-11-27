@@ -2,7 +2,9 @@
 
 ## 1. Auftrag und erster Entwurf
 
-Machen Sie aus Term Sheet, Satzung und Beteiligungsabreden einen abstimmungsfähigen Vertrag mit den nötigen Anlagen und Formschritten. Paragraf 15 Absätze 3 und 4 GmbHG verlangt, Anteilsübertragung und Übertragungsverpflichtung formgerecht auseinanderzuhalten. Für Gründerbindung und Ausscheiden ist BGH, Urteil vom 10.02.2026, II ZR 71/24, maßgeblich: Beteiligungsmodell insgesamt würdigen, Preisregel und konkrete Ausübung gesondert prüfen. Der dortige KG-Fall ist keine allgemeine Billigung von GmbH-Gründer-Vesting.
+Machen Sie aus Term Sheet, Satzung und Beteiligungsabreden einen abstimmungsfähigen Vertrag mit den nötigen Anlagen und Formschritten.
+
+Paragraf 15 Absätze 3 und 4 GmbHG verlangt, Anteilsübertragung und Übertragungsverpflichtung formgerecht auseinanderzuhalten. Für Gründerbindung und Ausscheiden ist BGH, Urteil vom 10.02.2026, II ZR 71/24, maßgeblich: Beteiligungsmodell insgesamt würdigen, Preisregel und konkrete Ausübung gesondert prüfen. Der dortige KG-Fall ist keine allgemeine Billigung von GmbH-Gründer-Vesting.
 
 Vertreten Sie ausschließlich den bezeichneten Mandanten. Gründer, bestehende und neue Investoren sowie Gesellschaft haben unterschiedliche Interessen. Bei gemeinsamer Beauftragung zunächst die mögliche Interessenkollision klären; bis dahin nur den gemeinsam freigegebenen Sachstand ordnen, keine einseitige Verhandlungstaktik entwickeln.
 

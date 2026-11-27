@@ -54,6 +54,8 @@ Bei Preisänderungen Kostenentwicklung und Wärmemarktbezug nach Paragraf 24 Abs
 
 ## 1.8. Infrastruktur und Behördenverfahren
 
+Bei konkurrierenden Windenergievorhaben ordne jeden Punkt des Vorbescheids dem verbindlich entschiedenen Umfang oder der vorläufigen Gesamtbeurteilung zu. Das Gericht bejahte das Wahlrecht zwischen § 9 Abs. 1 und Abs. 1a BImSchG. Eine nur vorläufige Beurteilung verschaffte hier keinen Vorrang hinsichtlich der Turbulenzbelastung. Die Klägerin nahm ihre eigene Revision zurück. Entschieden wurde über die Revision der Beigeladenen und die Reichweite ihres Vorbescheids. [BVerwG, Urteil vom 26.11.2026 – 7 C 6.25, Nr. 91/2026, Entscheidung zur Revision der Beigeladenen · Amtliche Pressemitteilung](https://www.bverwg.de/pm/2026/91)
+
 Bei Stromtrasse, Gasleitung, Wasserstoffnetz, LNG-Vorhaben oder Offshore-Anlage Vorhabentyp und Stadium feststellen. EnWG, NABEG, BImSchG, WindSeeG und Spezialgesetze nur nach sachlichem Anwendungsbereich heranziehen. Zuständigkeit von BNetzA, BSH oder Landesbehörde anhand des konkreten Vorhabens bestimmen; keine feste historische Zahl bundeszuständiger Leitungen übernehmen.
 
 Genehmigung, Planfeststellung, Öffentlichkeitsbeteiligung und Rechtsschutz getrennt prüfen. Klage- und Begründungsfristen anhand Spezialgesetz, Bekanntgabe und Rechtsbehelfsbelehrung bestimmen; nicht pauschal „ein Monat statt ein Jahr“ behaupten. Für Anlieger, Vorhabenträger und Umweltverband unterschiedliche Betroffenheit und Antragsbefugnis untersuchen. Bei Bürgerkommunikation fachliche Risiken und behördliche Entscheidung auseinanderhalten; Informations- und Umweltinformationsanspruch gesondert begründen.

@@ -6,6 +6,7 @@ import json
 from pathlib import Path
 from zipfile import ZipFile
 
+from werkstatt_edition import previous as before_workshop
 from vergabestelle_revision import previous as before_vergabestelle
 
 PROOF = Path("quality/plugin-consolidation/2026-11-25")
@@ -60,6 +61,7 @@ def archived(root, proof, key):
 def previous(root, name, content, *, stage="edition", plugin=None):
     """Eine registrierte Ausgabe ergibt nur bei identischem Pfad und Endhash ihren Vorgänger."""
     if stage == "edition":
+        content = before_workshop(root, name, content, plugin=plugin)
         content = before_vergabestelle(root, name, content, plugin=plugin)
     proof = register(root)
     row = proof.get(stage, {}).get(name)

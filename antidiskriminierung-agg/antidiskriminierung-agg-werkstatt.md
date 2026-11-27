@@ -72,6 +72,8 @@ Ergebnis auf Bewerberseite: verständliche Empfehlung und gegebenenfalls Anspruc
 
 ## 1.6. Entgelt und Bedingungen vergleichbar machen
 
+Bei der Einstufung einer Bürgermeisterin vergleiche die Beschlüsse für männliche Amtsinhaber. Ein allein ihr auferlegter, gesetzlich nicht vorgesehener Bewährungsvorbehalt war ein Diskriminierungsindiz. Prüfe, welche zeitnah dokumentierten Gründe die Kommune zur Widerlegung vorbringen kann. Die Kommune widerlegte die Vermutung im Streitfall nicht. Die zugesprochenen Beträge hängen von der konkreten Besoldungsdifferenz und Beeinträchtigung ab. [BVerwG, Urteil vom 19.11.2026 – 2 C 6.26, Nr. 86/2026, Begründung zur Beweislast · Amtliche Pressemitteilung](https://www.bverwg.de/pm/2026/86)
+
 Vergleiche gleiche oder gleichwertige Arbeit nicht nur anhand eines Titels. Prüfe Qualifikation, Verantwortung, tatsächliche Aufgaben, Belastung und Arbeitsbedingungen. Für geschlechtsbezogene Entgeltgleichheit Artikel 157 AEUV und das geltende Entgelttransparenzrecht heranziehen; aktuelle unionsrechtliche Vorgaben und nationale Umsetzung auseinanderhalten. Keine noch nicht geltende Neuregelung als bestehende Auskunftspflicht ausgeben.
 
 Erstelle eine prüfbare Tabelle mit Zeitraum, Quelle, vereinbarter Arbeitszeit, Grundgehalt, Zulagen, variabler Vergütung und Sonderzahlungen. Monatsbeträge nicht ohne belegte Stundenbasis in Stundenlohn umrechnen. Für einen konkreten Zeitraum verwendete Umrechnungsregel offenlegen. Unterschiedliche Bezugsgrößen nicht in einer Prozentzahl verschleiern.

@@ -15,6 +15,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsvorlagen-v1.0.0/lebensakte-insolvenzrecht-forderungspruefung-mietkaution-berlin.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-insolvenzrecht-forderungspruefung-mietkaution-berlin.zip) · [Schriftstücke zum Fall](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-insolvenzrecht-forderungspruefung-mietkaution-berlin) |
 | **Arbeitsvorlage zum Ausfüllen** | DOCX | [Prüfblatt für Mietforderungen, Kaution und Aufrechnung](Arbeitsvorlagen/pruefblatt-mietkaution.docx?raw=true) |
 | **Zusätzlicher Blankovertrag für einen Asset Deal zum Ausfüllen** | DOCX | [Unternehmenskaufvertrag über einzelne Vermögenswerte aus der Insolvenzmasse](Arbeitsvorlagen/asset-purchase-agreement-blanko.docx?raw=true) |
 | **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsvorlagen-v1.0.0/lebensakte-insolvenzrecht-forderungspruefung-mietkaution-berlin.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-insolvenzrecht-forderungspruefung-mietkaution-berlin.zip) |

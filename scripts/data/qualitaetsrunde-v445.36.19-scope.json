@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "tag": "qualitaetsrunde-v445.36.19",
+  "version": "445.36.19",
+  "title": "Drei Rollen im Vergabeverfahren",
+  "plugins": [
+    {
+      "name": "bieter-unternehmen",
+      "variants": [
+        "native"
+      ],
+      "prompts": [
+        "bieter-unternehmen-schnellstart.md",
+        "bieter-unternehmen-werkstatt.md"
+      ],
+      "previous_release": {
+        "tag": "paketpflege-20261122-v445.36.9",
+        "version": "445.36.9",
+        "manifests": {
+          ".claude-plugin/plugin.json": "bd7460968d381b62c21e26fea8645fde8a49f3aefd7f7a6d19f34c168de5be2e"
+        }
+      }
+    },
+    {
+      "name": "konkurrenten-rechtsschutz",
+      "variants": [
+        "native"
+      ],
+      "prompts": [
+        "konkurrenten-rechtsschutz-schnellstart.md",
+        "konkurrenten-rechtsschutz-werkstatt.md"
+      ],
+      "previous_release": {
+        "tag": "paketpflege-20261122-v445.36.9",
+        "version": "445.36.9",
+        "manifests": {
+          ".claude-plugin/plugin.json": "50382e2dad1a96b9aa7dee788efbb51f6bbc0e7ae98f3fe38a78db728cbb240a"
+        }
+      }
+    },
+    {
+      "name": "vergabestelle-behoerden",
+      "variants": [
+        "native"
+      ],
+      "prompts": [
+        "vergabestelle-behoerden-schnellstart.md",
+        "vergabestelle-behoerden-werkstatt.md"
+      ],
+      "previous_release": {
+        "tag": "qualitaetsrunde-v445.36.18",
+        "version": "445.36.18",
+        "manifests": {
+          ".claude-plugin/plugin.json": "82d3630c62d9dba5e3c60888a295e3c04dc086d1994cee3febb3267a671cdfbb"
+        }
+      }
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 # 1 Verfassungsbeschwerde gerichtlich bearbeiten
 
-Erarbeite das beauftragte Annahmevotum, den Kammervermerk oder Entscheidungsentwurf aus rechtzeitigem Beschwerdevortrag und angegriffenen Hoheitsakten. Paragrafen 23 Absatz 1 Satz 2 und 92 BVerfGG betreffen die Begründung, Paragraf 93a BVerfGG die Annahme. Der vorhandene Anker BVerfG, Kammerbeschluss vom 23.09.2025, Az. 2 BvR 625/25, Rn. 18 bis 23, verlangt die Auseinandersetzung mit den tragenden Gründen statt pauschaler Anlagenverweise oder eines anderen Sachverhalts. Der Darlegungsmaßstab aus dem ANOM-Verfahren ist keine allgemeine Billigung fremder Datenerhebung. Fundstelle und dokumentierte Prüftiefe erhalten; keine fehlende Rüge aus Gerichtsrolle erfinden.
+Welche Entscheidung greift die Verfassungsbeschwerde an, und welche Grundrechtsverletzung begründet sie innerhalb der Frist? Erarbeite aus dem fristgerechten Vortrag das Annahmevotum, den Kammervermerk oder den Entscheidungsentwurf.
+
+Paragrafen 23 Absatz 1 Satz 2 und 92 BVerfGG betreffen die Begründung, Paragraf 93a BVerfGG die Annahme. Der vorhandene Anker BVerfG, Kammerbeschluss vom 23.09.2025, Az. 2 BvR 625/25, Rn. 18 bis 23, verlangt die Auseinandersetzung mit den tragenden Gründen statt pauschaler Anlagenverweise oder eines anderen Sachverhalts. Der Darlegungsmaßstab aus dem ANOM-Verfahren ist keine allgemeine Billigung fremder Datenerhebung. Fundstelle und dokumentierte Prüftiefe erhalten; keine fehlende Rüge aus Gerichtsrolle erfinden.
 
 Ohne Eingabe biete Substantiierungs-/Annahmevotum, grundrechtlichen Prüfvermerk oder Eilentscheidungsentwurf an. Dateien ohne Auftrag still lesen und nur zwei oder drei passende Ziele erfragen; kein ungefragtes Fachprozessreferat. Bei klarem Auftrag sofort arbeiten. Ein neuer Eingangsnachweis oder eine Beschwerdeergänzung wird dem bisherigen Vorgang zeitlich zugeordnet. Kein internes Gerichtssystem und keine lokalen Referenzdateien sind vorausgesetzt.
 

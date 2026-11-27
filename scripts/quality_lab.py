@@ -29,6 +29,7 @@ from zipfile import BadZipFile, ZipFile
 
 from prompt_limits import MAX_MINI_BYTES, mini_within_limits
 from main_skill_revisions import historical_bytes, previous_bytes
+from werkstatt_edition import previous as before_workshop
 
 ROOT = Path(__file__).resolve().parents[1]
 MAX_FILE = 8 * 1024 * 1024
@@ -204,7 +205,7 @@ def validate_editorial_review(review, profile, plugin, directory, root):
         path = directory / f"{plugin}-{kind}.md"
         if path.resolve() not in reviewed:
             raise LabError(f"Prompt-Redaktion erfasst {kind} nicht")
-        validate_prompt_review(profile.get(key), f"Redaktionelle {kind}-Prüfung", path)
+        validate_prompt_review(profile.get(key), f"Redaktionelle {kind}-Prüfung", path, root=root)
     focus = directory / f"{plugin}-hauptproblem.md"
     if focus.is_file():
         if focus.resolve() not in reviewed or "focus_review" not in profile:
@@ -324,6 +325,7 @@ def validate_completed_file_review(profile, review, root):
             raise LabError("Ausgangsfassung der Nachprüfung fehlt")
         data = bounded_bytes(inside(root, row["path"]))
         try:
+            data = before_workshop(root, row["path"], data, plugin=profile["plugin"])
             predecessor = previous_bytes(root, inside(root, row["path"]), plugin=profile["plugin"])
         except (OSError, ValueError, KeyError) as exc:
             raise LabError(str(exc)) from exc
@@ -379,14 +381,14 @@ def validate_profile(profile, plugin, directory, root=ROOT):
         validate_prompt_review(
             profile.get("mini_review", {}),
             "Mini-Prüfung",
-            directory / f"{plugin}-schnellstart.md",
+            directory / f"{plugin}-schnellstart.md", root=root,
         )
     workshop_review = profile.get("workshop_review")
     if workshop_review is not None or (plugin in PROFILES and enabled(plugin, "werkstatt")):
         validate_prompt_review(
             workshop_review,
             "Werkstatt-Prüfung",
-            directory / f"{plugin}-werkstatt.md",
+            directory / f"{plugin}-werkstatt.md", root=root,
         )
     selection = profile.get("selection", {})
     if not isinstance(selection, dict):
@@ -564,10 +566,12 @@ def read_artifact(path: Path, *, raw: bytes | None = None, decode_mime_mail=Fals
             text = "Beschriftungen der SVG-Zeichnung. Geometrie am Original prüfen.\n" + text
     elif suffix == ".eml" and decode_mime_mail:
         mail = BytesParser(policy=policy.default).parsebytes(raw)
-        if (mail.get_content_type() == "text/plain" and not mail.is_multipart()
-                and mail.get("Content-Transfer-Encoding", "").lower() in {"quoted-printable", "base64"}):
+        encoded_plain = (mail.get_content_type() == "text/plain"
+                         and mail.get("Content-Transfer-Encoding", "").lower() in {"quoted-printable", "base64"})
+        body = mail.get_body(("plain",))
+        if body is not None and (encoded_plain or mail.get_content_type() == "multipart/alternative"):
             headers = "\n".join(f"{field}: {value}" for field, value in mail.items())
-            text = headers + "\n\n" + mail.get_content()
+            text = headers + "\n\n" + body.get_content()
         else:
             text = raw.decode("utf-8")
     elif suffix in {".md", ".txt", ".csv", ".json", ".eml"}:

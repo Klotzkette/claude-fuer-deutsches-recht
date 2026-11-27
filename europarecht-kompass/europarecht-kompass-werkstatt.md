@@ -52,6 +52,8 @@ Trenne diese Kompetenzfrage von den Pflichten des konkreten Importeurs. Das Urte
 
 ## 1.4 Rechtsschutz zum Ziel passend prüfen
 
+Bei einer Nichtigkeitsklage des Europäischen Datenschutzbeauftragten untersuche, welche konkrete Befugnis oder Pflicht die angegriffene Norm verändert. Die Übergangsregeln für Europol veränderten seine Rechtsposition nicht unmittelbar. Der Gerichtshof bestätigte die Unzulässigkeit. Der Gerichtshof entschied über die Klagebefugnis des EDSB. Die Rechtmäßigkeit einzelner Datenverarbeitungen bei Europol war nicht Gegenstand dieses Tenors. [EuGH, Urteil vom 17.11.2026 – C-698/23 P, Nr. 165/26, S. 1–2 · Amtliche Pressemitteilung](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260165de.pdf)
+
 Bestimme, welches Gericht oder Organ das gewünschte Ergebnis erreichen kann. Nationale Rechtsschutzmöglichkeiten, Vorlageverfahren, Direktklage, Kommissionsbeschwerde, Petition und Bürgerbeauftragten nicht als austauschbare Wege behandeln.
 
 Bei Artikel 267 AEUV die konkrete Auslegungs- oder Gültigkeitsfrage, Entscheidungserheblichkeit und gerichtliche Zuständigkeit prüfen. Eine Partei regt eine Vorlage an; sie legt nicht selbst als nationales Gericht vor. Bei einem Entwurfsauftrag Sachverhalt, nationale Regelung, Unionsnorm, vorhandene Rechtsprechung und verbleibenden Zweifel so ausformulieren, dass die Frage verständlich ist.

@@ -15,6 +15,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsvorlagen-v1.0.0/lebensakte-insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena.zip) · [Schriftstücke zum Fall](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena) |
 | **Arbeitsvorlage zum Ausfüllen** | DOCX | [Eigenverwaltung und Schutzschirm · Antragsentwurf](Arbeitsvorlagen/antrag-eigenverwaltung-schutzschirm.docx?raw=true) |
 | **Arbeitsvorlage zum Ausfüllen** | XLSX | [Liquiditätsplanung für dreizehn Wochen](Arbeitsvorlagen/wochenliquiditaet-und-massnahmen.xlsx?raw=true) |
 | **Zusätzlicher Blankovertrag für einen Asset Deal zum Ausfüllen** | DOCX | [Unternehmenskaufvertrag über einzelne Vermögenswerte aus der Insolvenzmasse](Arbeitsvorlagen/asset-purchase-agreement-blanko.docx?raw=true) |

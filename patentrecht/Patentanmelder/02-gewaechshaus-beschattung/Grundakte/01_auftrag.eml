@@ -6,9 +6,13 @@ Date: Mon, 02 Nov 2026 10:11:00 +0100
 Message-ID: <9485ca43d5bcd3c2389d7b1c@fallpost.example>
 Subject: Zwei Schirme am gemeinsamen Antriebskreis =?utf-8?q?=C2=B7?= Produkt
  GH2
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-fcfd061d392ae52fdb5e8dd1"
+
+--interstate-alt-fcfd061d392ae52fdb5e8dd1
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Unser Kunde kauft den lokalen Regler als Ersatzger=C3=A4t. Die Motoren und di=
 e Endschalter im Gew=C3=A4chshaus bleiben Eigentum des Betriebs. Prognosen ve=
@@ -22,3 +26,24 @@ d schlie=C3=9Ft eine gemeinsame Anfahrt aus=E2=80=9C. Ermitteln Sie bitte, we=
 lcher Schritt im Regler stattfindet, was Fernfeld tats=C3=A4chlich sieht und =
 was die App nach einem Reglerwechsel anzeigen kann. Der Kundentermin am 27. N=
 ovember soll erst nach der Anmeldeentscheidung stattfinden.
+
+--interstate-alt-fcfd061d392ae52fdb5e8dd1
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #2C=
+6155;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Unser Kunde kauf=
+t den lokalen Regler als Ersatzger=C3=A4t. Die Motoren und die Endschalter im=
+ Gew=C3=A4chshaus bleiben Eigentum des Betriebs. Prognosen vermietet Fernfeld=
+ separat. Ein Besch=C3=A4ftigter des G=C3=A4rtners kann die Beschattung auch =
+im Browser anfordern. Ich m=C3=B6chte die Anmeldefrage f=C3=BCr das lieferbar=
+e Ger=C3=A4t und f=C3=BCr die installierte Anlage vor der n=C3=A4chsten Aussc=
+hreibung kl=C3=A4ren.</p><p>Die Brosch=C3=BCre sagt derzeit =E2=80=9Edie Clou=
+d kennt jeden Schirmstand und schlie=C3=9Ft eine gemeinsame Anfahrt aus=E2=80=
+=9C. Ermitteln Sie bitte, welcher Schritt im Regler stattfindet, was Fernfeld=
+ tats=C3=A4chlich sieht und was die App nach einem Reglerwechsel anzeigen kan=
+n. Der Kundentermin am 27. November soll erst nach der Anmeldeentscheidung st=
+attfinden.</p></div></body></html>
+
+--interstate-alt-fcfd061d392ae52fdb5e8dd1--

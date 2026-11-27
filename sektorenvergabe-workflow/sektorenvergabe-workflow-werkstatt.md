@@ -2,7 +2,9 @@
 
 ## 1.1. Auftrag und Arbeitsbeginn
 
-Bearbeite für einen Sektorenauftraggeber die Beschaffung einer Dienstleistung vom beschriebenen Bedarf bis zur Zuschlagsvorbereitung und, wenn erforderlich, zur Stellungnahme vor der Vergabekammer. Leitfall ist die Reinigung von U-Bahn-Fahrzeugen, Stationen und Betriebsflächen. Erstelle die tatsächlich benötigten Dokumente: Leistungsbeschreibung, Leistungsverzeichnis, Teilnahmebedingungen, Wertungsmatrix, Vertrag, Bekanntmachung, Bieterantwort, Vergabevermerk und Rechtsschutzstellungnahme. Bei einer anderen Dienstleistung bestimme deren Leistungslogik; übertrage nicht mechanisch Reinigungstakte auf Ingenieur- oder IT-Leistungen.
+Welche Leistungen braucht etwa ein Verkehrsbetrieb für die Reinigung von Fahrzeugen und Stationen, und wie lassen sich die Angebote dafür vergleichen? Bestimme das passende Verfahren und erarbeite die Vergabeunterlagen oder die im laufenden Verfahren benötigte Stellungnahme.
+
+Erstelle die tatsächlich benötigten Dokumente: Leistungsbeschreibung, Leistungsverzeichnis, Teilnahmebedingungen, Wertungsmatrix, Vertrag, Bekanntmachung, Bieterantwort, Vergabevermerk und Rechtsschutzstellungnahme. Bei einer anderen Dienstleistung bestimme deren Leistungslogik; übertrage nicht mechanisch Reinigungstakte auf Ingenieur- oder IT-Leistungen.
 
 Ob der Sektorenweg passt, bestimmen Paragrafen 100 und 102 GWB am Auftraggeber und an der Tätigkeit. EuGH, Urteil vom 28.10.2020, Az. C-521/18, Pegaso, ist der vorhandene Anker zum funktionalen Zusammenhang unterstützender Leistungen. Begründe den tatsächlichen Bezug der Reinigung zum U-Bahn-Betrieb; der Postfall erfasst nicht pauschal sämtliche Konzernimmobilien. Dokumentiert sind amtlicher Tenor und indexierte Passagen, keine vollständige Urteilslektüre.
 
@@ -105,6 +107,8 @@ Paragraf 16 SektVO verlangt Berücksichtigung von Komplexität und Besichtigunge
 Nur nach ausdrücklicher Freigabe und verfügbarer Schnittstelle darf übermittelt werden. Ohne sie liefere ein übergabefähiges Paket an die Vergabestelle. Sichere tatsächliche Übermittlungsbestätigung und TED-/Portalveröffentlichungsbeleg; beide sind unterschiedliche Ereignisse. Prüfe die Reihenfolge nationaler Veröffentlichungen nach Paragraf 40 SektVO. Exportiertes XML ist ohne zutreffende technische Spezifikation und Validator kein garantiert importfähiges eForms-Dokument.
 
 ## 1.8. Sechster Schritt: Eingang, Eignung und Nachforderung
+
+Bestimme zuerst, ob und auf welcher Grundlage die Ausschlussregeln der Richtlinie 2014/24/EU im betreffenden Sektorenverfahren greifen (Art. 80 RL 2014/25/EU). Prüfe beim Steuer- oder Beitragsrückstand eines Mitglieds einer Bietergemeinschaft die bestandskräftige Feststellung, Teilnahmefrist, Zahlung oder verbindliche Zahlungsvereinbarung sowie den Zeitpunkt der Kenntnis der Gruppe. Erfährt die Gruppe erst nach der Frist vom Ausschlussgrund, muss der Auftraggeber im Einzelfall prüfen können, ob das betroffene Mitglied ausscheiden oder ersetzt werden darf. Eine Zahlung nach Fristablauf heilt den zwingenden Ausschlussgrund des einzelnen Mitglieds grundsätzlich nicht. Die Ausnahmen des Art. 57 Abs. 3 RL 2014/24/EU und den möglichen Fortbestand der Gruppe getrennt prüfen. [EuGH, Urteil vom 12.11.2026, C-268/25, ETS u. a., Rn. 79 und Tenor, ECLI:EU:C:2026:977](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316916&doclang=DE)
 
 Erfasse Angebote und Teilnahmeanträge anhand der Plattformprotokolle, nicht anhand eines Dateidatums. Prüfe Frist, Los, Vollständigkeit des Eingangs und berechtigten Öffnungszeitpunkt. Ein Angebotsinhalt wird nicht vorzeitig geöffnet. Bei technischer Störung sichere Nachweise und prüfe den tatsächlich zulässigen Übermittlungsweg; eine gewöhnliche E-Mail ist nicht automatisch eine wirksame Ersatzeinreichung.
 

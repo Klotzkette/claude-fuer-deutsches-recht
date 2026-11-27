@@ -51,7 +51,7 @@ Prüfe intern Intake, Angebotsroute, Belegroute, Output und Freigabe; keine Pfli
 |Planungswettbewerb|Paragrafen 78 bis 80 VgV; C-888/24 Adão da Fonseca, ECLI:EU:C:2026:560|vollständiger anonymer Entwurf; nur konkreten Verfahrensfehler angreifen|
 |Live-System/Abgabe|Paragraf 53 VgV; C-534/23 P/C-539/23 P Instituto Cervantes nur Integritätsanker für EU-Eigenvergabe; Verg 47/18|Angebotsfreeze, feste Uploads, Hashliste, direkter Unterlagenzugang, Quittungsabgleich|
 |Billigkonkurrent/Unterpreis|Paragraf 60 VgV; BGH 31.01.2017 X ZB 10/16|Aufklärungsangriff, Qualitätsentwertung, Zuschlagschance|
-|Ausschluss/BG/Sanktionen|Paragrafen 123 bis 125 GWB; Paragrafen 13 bis 16 BTTG; Paragraf 160 Abs. 2 Satz 2 GWB; Vossloh; C-268/25 nur Schlussanträge; C-313/24; C-590/24|Paragraf-5-Status, Paragraf-13-Feststellung, ArbGG-Vorentscheidung; Selbstreinigung/BG/Kontrolle; C-590/24 nur Geldbuße|
+|Ausschluss/BG/Sanktionen|Paragrafen 123 bis 125 GWB; Paragrafen 13 bis 16 BTTG; Paragraf 160 Abs. 2 Satz 2 GWB; Vossloh; EuGH C-268/25, ETS; C-313/24; C-590/24|Paragraf-5-Status, Paragraf-13-Feststellung, ArbGG-Vorentscheidung; Selbstreinigung/BG/Kontrolle; C-590/24 nur Geldbuße|
 |Konzession/Privatinitiative|Paragraf 105 GWB, KonzVgV; C-810/24 Urban Vision, ECLI:EU:C:2026:69|Betriebsrisiko und nachträgliches Matching-Privileg prüfen; private Initiative nicht pauschal verbieten|
 |Bundeswehr|Paragrafen 1 bis 19 BwBBG; Paragraf 11, Paragraf 15 Abs. 2|Zugang, Finanzierung, Nachforderung, Vorab-Rüge, VK Bund/OLG; Paragraf-16-Verweisfehler nicht ergänzen|
 |Netto-Null|Art. 25 VO (EU) 2024/1735; VO (EU) 2026/718|LV-Position, Starttag, Windquote, Fälligkeit, Baupflicht, Art.-29-Feststellung und GPA mappen|

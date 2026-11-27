@@ -20,6 +20,7 @@ from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer
 
 from akteneingang.ausgabe import archive
 from akteneingang.quellen import safe_member
+from aktenarbeit_einstiege import mit_verweisen
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME, NOTICE_MARKDOWN
 
 # Reuse the native Word/Excel/mail and searchable reading formats already shipped with Interstate.
@@ -206,7 +207,7 @@ def case_files(case, slug):
     solution = brief(case, case["titel"], expectations, "Erwartungshorizont")
     files = {**originals, original_zip: archive({NOTICE_FILENAME: NOTICE_BYTES, **originals}),
              single_zip: archive({NOTICE_FILENAME: NOTICE_BYTES, **singles}), combined: out.getvalue(),
-             answer: solution, "README.md": "\n".join(guide).encode()}
+             answer: solution, "README.md": mit_verweisen("\n".join(guide), (FOLDER / slug / "README.md").relative_to(ROOT), ["patentanmelder-" + slug]).encode()}
     return files
 
 

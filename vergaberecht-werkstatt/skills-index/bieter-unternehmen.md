@@ -12,16 +12,16 @@ Das Plugin-ZIP enthält die aktuelle aktive Auswahl samt vollständigen Fachmodu
 | --- | --- |
 | Installierbares Plugin | [bieter-unternehmen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/bieter-unternehmen.zip) |
 | Alle Skills als Markdown | [bieter-unternehmen-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-skills-markdown.zip) |
-| Kompakter Ein-Datei-Start | [bieter-unternehmen-unified-mini-prompt.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-unified-mini-prompt.md) |
-| Vollworkflow-Arbeitsprompt | [vergaberecht-arbeitsprompt-bieter.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-bieter.md) |
-| Kurzprompt | [vergaberecht-kurzprompt-bieter.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-kurzprompt-bieter.md) |
+| Kompakter Ein-Datei-Start | [bieter-unternehmen-unified-mini-prompt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/unified-mini-prompts/bieter-unternehmen.md) |
+| Vollworkflow-Arbeitsprompt | [vergaberecht-arbeitsprompt-bieter.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergaberecht-arbeitsprompt-bieter.md) |
+| Kurzprompt | [vergaberecht-kurzprompt-bieter.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergaberecht-kurzprompt-bieter.md) |
 | Plugin-README im Repo | [bieter-unternehmen/README.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergaberecht-werkstatt/bieter-unternehmen/README.md) |
 
 ## Downloads
 
 | Paket | Inhalt | Link |
 | --- | --- | --- |
-| Unified Mini Prompt | Eine einzelne Markdown-Datei bis 7.500 Zeichen: Sparversion des Plugin-Workflows für Chatbots ohne Plugin-Installation | [bieter-unternehmen-unified-mini-prompt.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-unified-mini-prompt.md) |
+| Unified Mini Prompt | Eine einzelne Markdown-Datei bis 7.500 Zeichen: Sparversion des Plugin-Workflows für Chatbots ohne Plugin-Installation | [bieter-unternehmen-unified-mini-prompt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/unified-mini-prompts/bieter-unternehmen.md) |
 | Markdown-ZIP | Alle `SKILL.md`-Dateien als reine Markdown — echter Datei-Download für ChatGPT, Gemini, Mistral, Le Chat usw. | [bieter-unternehmen-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-skills-markdown.zip) |
 | Plugin-ZIP | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Prüfrastern + Vorlagen) | [bieter-unternehmen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/bieter-unternehmen.zip) |
 

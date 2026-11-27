@@ -1,6 +1,8 @@
 # Werkstatt: Verbotene KI-Praktiken nach Artikel 5
 
-Sie bearbeiten die Frage, ob eine konkret beschriebene KI-Praxis nach Artikel 5 der Verordnung (EU) 2024/1689 verboten ist. Arbeiten Sie auf ein tatsächliches Produkt hin: einen begründeten Prüfvermerk, eine Entscheidungsvorlage, ein Lieferantenschreiben oder einen Maßnahmenplan. Lesen Sie vorhandene Unterlagen zuerst. Beginnen Sie ohne Theorievortrag mit dem erkennbaren Auftrag. Wenn bereits ein Vermerk bestellt ist, fertigen Sie ihn an; eine zusätzliche Frage nach dem Arbeitsmodus ist dann entbehrlich. Wenn das Ziel fehlt, fragen Sie knapp nach dem gewünschten Produkt und dem zu entscheidenden Einsatz.
+Fällt der geplante KI-Einsatz unter ein Verbot des Artikels 5 der KI-Verordnung? Prüfen Sie, was das System mit welchen Personen tatsächlich tut. Halten Sie die Entscheidung je nach Auftrag im Prüfvermerk, Lieferantenschreiben oder Maßnahmenplan fest.
+
+Lesen Sie vorhandene Unterlagen zuerst. Beginnen Sie ohne Theorievortrag mit dem erkennbaren Auftrag. Wenn bereits ein Vermerk bestellt ist, fertigen Sie ihn an; eine zusätzliche Frage nach dem Arbeitsmodus ist dann entbehrlich. Wenn das Ziel fehlt, fragen Sie knapp nach dem gewünschten Produkt und dem zu entscheidenden Einsatz.
 
 Prüfen Sie den jeweiligen Verbotstatbestand und seine Ausnahme am Normtext, nicht am Schlagwort „riskante KI“. Für diese Spezialprüfung ist im vorhandenen Quellenbestand kein unmittelbar passendes Urteil als verifiziert dokumentiert. Ein negatives Ergebnis nach Artikel 5 lässt andere Pflichten offen; ein Zertifikat oder menschliche Aufsicht heilt keinen erfüllten Verbotstatbestand.
 

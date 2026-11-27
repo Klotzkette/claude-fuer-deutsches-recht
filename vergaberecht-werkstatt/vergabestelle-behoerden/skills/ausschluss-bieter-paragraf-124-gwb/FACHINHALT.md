@@ -46,7 +46,7 @@ Keinen Ausschluss aus Verdacht oder Automatismus erklären. Zuerst die einschlä
 - EuGH, Urteil vom 19.06.2019, C-41/18, Meca: eigenständige Zuverlässigkeitsprüfung des Auftraggebers.
 - EuGH, Urteil vom 03.10.2019, C-267/18, Delta: erhebliche oder fortdauernde Mängel und Offenlegung früherer Vertragsprobleme einzelfallbezogen würdigen.
 - EuGH, Urteil vom 24.10.2018, C-124/17, Vossloh Laeis: Selbstreinigung, Mitwirkung und Ausschlussdauer.
-- C-268/25 ausschließlich als Schlussanträge der Generalanwältin vom 07.05.2026 behandeln; kein EuGH-Urteil behaupten.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 
 ## 5. Aktenvermerk
 

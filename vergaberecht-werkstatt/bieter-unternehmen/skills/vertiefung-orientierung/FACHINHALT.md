@@ -97,7 +97,7 @@ Der Nachprüfungsantrag ergänzt Zuständigkeit, Zulässigkeit, Anträge, Sachve
 
 - Aktuelle Einzelnorm, Inkrafttreten und Übergangsrecht aus amtlicher Quelle.
 - Entscheidung mit Gericht, Entscheidungsart, Datum, Aktenzeichen, ECLI soweit vorhanden und tragender Aussage.
-- Schlussanträge C-268/25 nicht als EuGH-Urteil bezeichnen.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 - Vergabekammerentscheidung als regionalen Praxisanker kennzeichnen.
 - Für jeden Angriff stärkstes Auftraggeberargument und eigene Replik formulieren.
 

@@ -25,6 +25,8 @@ Ein möglicher Einstieg: „Ich vertrete die antragstellende Person. Lesen Sie d
 
 ### 1.1 Mit den Eingangsunterlagen beginnen
 
+Wenn Sie ein Schreiben im Kurs bearbeiten möchten, wählen Sie den Fall im [Verzeichnis der Schriftstücke](../docs/downloads/aktenarbeit/README.md). Dort finden Sie die bearbeitbare Fassung, die zugehörige Lesefassung und den Weg zur Fallakte.
+
 Die [Fachauswahl mit fortgeführter Eingangspost](../docs/grundakten-lebenswelt/Fachakten.md) führt direkt zu den fünf Rechtsgebieten und ihren Arbeits-ZIPs.
 
 Der [Fallkatalog mit Eingangspost](../docs/grundakten-lebenswelt/README.md) führt zu den Originalformat-ZIPs der dort erfassten Testakten sowie zu weiteren Plugin- und Projektakten. Im Ordner `Grundakte/00_Posteingang` liegen die fallbezogenen Nachrichten und Rückfragen zum Einstieg. Die alphabetischen Sammelpakete umfassen 512 Fälle. Der Ordner `Grundakte` bündelt je Fall die Ausgangsunterlagen für die erste Bearbeitung. Für die zusätzliche Eingangspost verwenden Sie die im Fallkatalog verlinkten Arbeits-ZIPs. Entpacken Sie die Akte und laden Sie für diesen Arbeitsschritt nur den Ordner `Grundakte`. Ein separates Sammelpaket enthält 13 Originalformat-ZIPs mit Grundakte. Die Fallseiten verlinken die Einzel-ZIPs und die Lesefassung. Das gesonderte Paket mit 60 Fällen aus Steuerrecht, Forderungsmanagement, Pflege und Sozialversicherungsstatus steht ebenfalls hier zum Download bereit.

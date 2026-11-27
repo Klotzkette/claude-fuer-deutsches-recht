@@ -38,7 +38,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-si-kanzlei-verwaltungsrecht.zip) · [Druckpaket 37](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-37.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-si-kanzlei-verwaltungsrecht.zip) · [Druckpaket 37](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-37.zip) · [Schriftstücke zum Fall](../../docs/downloads/aktenarbeit/faelle-q-s.md#fall-si-kanzlei-verwaltungsrecht) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/si-kanzlei-verwaltungsrecht_gesamt.pdf`](gesamt-pdf/si-kanzlei-verwaltungsrecht_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-si-kanzlei-verwaltungsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-si-kanzlei-verwaltungsrecht.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-si-kanzlei-verwaltungsrecht-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/si-native-kanzlei-v445.33.3/testakte-si-kanzlei-verwaltungsrecht-einzelpdfs.zip) |

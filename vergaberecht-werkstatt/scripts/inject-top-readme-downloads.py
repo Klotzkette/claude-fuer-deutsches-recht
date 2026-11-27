@@ -27,8 +27,9 @@ import re
 import sys
 from pathlib import Path
 
+from public_release import mini_download
 from public_release import (COMPONENT_RELEASE_BASE as RELEASE_BASE, COMPONENT_RELEASE_TAG as RELEASE_TAG,
-                            RAW_BASE, REPOSITORY, plugin_download)
+                            RAW_BASE, REPOSITORY, plugin_download, markdown_download)
 from testakte_notices import with_case_warnings
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -196,7 +197,7 @@ def build_section() -> str:
             f"| [README]({name}/README.md) "
             f"| [`{name}.zip`]({plugin_download(name)}) "
             f"| [`{name}-skills-markdown.zip`]({RELEASE_BASE}/{name}-skills-markdown.zip) "
-            f"| [`{name}-unified-mini-prompt.md`]({RELEASE_BASE}/{name}-unified-mini-prompt.md) |"
+            f"| [`{name}-unified-mini-prompt.md`]({mini_download(name)}) |"
         )
     lines.append(
         f"| Alle Plugins zusammen "
@@ -229,15 +230,16 @@ def build_section() -> str:
     lines.append("| Prompt | Inhalt | Direkt-Download |")
     lines.append("| --- | --- | --- |")
     for fname, label, beschreibung in ROOT_PROMPTS:
+        url = markdown_download(fname)
         lines.append(
-            f"| {label} | {beschreibung} | [`{fname}`]({RELEASE_BASE}/{fname}) |"
+            f"| {label} | {beschreibung} | [`{fname}`]({url}) |"
         )
     for p in plugins:
         name = p["name"]
         lines.append(
             f"| Unified Mini Prompt — {name} "
             f"| Verdichteter Workflow bis 7.500 Zeichen "
-            f"| [`{name}-unified-mini-prompt.md`]({RELEASE_BASE}/{name}-unified-mini-prompt.md) |"
+            f"| [`{name}-unified-mini-prompt.md`]({mini_download(name)}) |"
         )
     lines.append("")
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Aktiviert genau eine geprüfte Plugin-Ausgabe nach dem Abgleich ihrer öffentlichen Dateien."""
+"""Aktiviert die geprüften Plugins einer Ausgabe nach dem Abgleich ihrer öffentlichen Dateien."""
 import argparse
 import hashlib
 import importlib.util
@@ -22,33 +22,34 @@ SOURCES = {
 }
 
 
-def metadata_changes(root, scope, report):
-    plugin, = scope["plugins"]
+VERGABE_TAG = "qualitaetsrunde-v445.36.19"
+SOURCE_GROUPS = {tag: (source,) for tag, source in SOURCES.items()}
+SOURCE_GROUPS[VERGABE_TAG] = tuple(Path("vergaberecht-werkstatt") / name for name in (
+    "bieter-unternehmen", "konkurrenten-rechtsschutz", "vergabestelle-behoerden",
+))
+
+
+def plugin_changes(root, scope, report, plugin, source_path, updates, successors):
     name, version = plugin["name"], scope["version"]
-    source_path = SOURCES[scope["tag"]]
     predecessor = plugin["previous_release"]
-    if name != source_path.name or not BUILDER.SLUG.fullmatch(name) or not set(predecessor["manifests"]) <= set(BUILDER.MANIFESTS):
+    if name != source_path.name or not BUILDER.SLUG.fullmatch(name) or set(predecessor["manifests"]) - set(BUILDER.MANIFESTS):
         raise ValueError("Unzulässiger Plugin- oder Manifestname im Freigabeplan")
     asset = name + ".zip"
-    proof = report["plugins"][name]["archives"][asset]
-    digest = hashlib.sha256(json.dumps(scope, ensure_ascii=False, sort_keys=True).encode()).hexdigest()
-    if (report["scope_sha256"] != digest or report["version"] != version
-            or report["plugins"][name]["source"] != "./" + source_path.as_posix()):
-        raise ValueError("Öffentliche Ausgabe und registrierter Plugin-Scope weichen ab")
-    if set(report["prompts"]) != set(plugin["prompts"]):
-        raise ValueError("Öffentlicher Promptbestand weicht vom Freigabeplan ab")
+    evidence = report["plugins"][name]
+    if evidence["source"] != "./" + source_path.as_posix() or set(evidence["archives"]) != {asset}:
+        raise ValueError(f"{name}: Pluginquelle oder Archivbestand weicht vom Freigabeplan ab")
+    proof = evidence["archives"][asset]
     for filename in plugin["prompts"]:
         if (not re.fullmatch(re.escape(name) + r"-(?:werkstatt|schnellstart|hauptproblem)\.(?:md|txt)", filename)
                 or hashlib.sha256((root / source_path / filename).read_bytes()).hexdigest() != report["prompts"][filename]):
             raise ValueError(f"{filename}: lokaler Prompt weicht vom veröffentlichten Stand ab")
-    updates = {}
     market_filename = Path(".claude-plugin/marketplace.json")
     markets = {market_filename: "./" + source_path.as_posix()}
     if source_path.parent != Path("."):
         markets[source_path.parent / market_filename] = "./" + name
     for relative, source in markets.items():
         path = root / relative
-        market = json.loads(path.read_bytes())
+        market = json.loads(updates[path] if path in updates else path.read_bytes())
         entry, = (p for p in market["plugins"] if p["name"] == name)
         if entry["source"] != source or entry["version"] not in (predecessor["version"], version):
             raise ValueError(f"{relative}: Unerwarteter Quell- oder Versionsstand")
@@ -63,10 +64,6 @@ def metadata_changes(root, scope, report):
                 or hashlib.sha256(target).hexdigest() != proof[member]):
             raise ValueError(f"{member}: Manifest des veröffentlichten Pakets weicht ab")
         updates[path] = target
-    path = root / f"scripts/data/{EDITION}.json"
-    text = path.read_text(encoding="utf-8")
-    data = json.loads(text)
-    successors = data["nachfolger"]
     if asset in successors:
         previous = successors[asset]["tag"]
         if previous not in (predecessor["tag"], scope["tag"]):
@@ -76,6 +73,24 @@ def metadata_changes(root, scope, report):
         if predecessor["tag"] != f"{EDITION}-v{predecessor['version']}":
             raise ValueError(f"{EDITION}: Vorgängereintrag für {asset} fehlt")
         successors[asset] = {"ausgabeversion": predecessor["version"], "tag": scope["tag"]}
+
+
+def metadata_changes(root, scope, report):
+    expected = {source.name: source for source in SOURCE_GROUPS[scope["tag"]]}
+    names = [plugin["name"] for plugin in scope["plugins"]]
+    digest = hashlib.sha256(json.dumps(scope, ensure_ascii=False, sort_keys=True).encode()).hexdigest()
+    if (report["scope_sha256"] != digest or report["version"] != scope["version"]
+            or len(names) != len(expected) or set(names) != set(expected) or set(report["plugins"]) != set(expected)):
+        raise ValueError("Öffentliche Ausgabe und registrierter Plugin-Scope weichen ab")
+    if set(report["prompts"]) != {name for plugin in scope["plugins"] for name in plugin["prompts"]}:
+        raise ValueError("Öffentlicher Promptbestand weicht vom Freigabeplan ab")
+    path = root / f"scripts/data/{EDITION}.json"
+    text = path.read_text(encoding="utf-8")
+    data = json.loads(text)
+    successors = data["nachfolger"]
+    updates = {}
+    for plugin in scope["plugins"]:
+        plugin_changes(root, scope, report, plugin, expected[plugin["name"]], updates, successors)
     # Preserve historical group rows and their hand-formatted representation.
     start = text.index('  "nachfolger": {')
     lines = ["    " + json.dumps(key) + ": " + json.dumps(row, ensure_ascii=False)
@@ -89,7 +104,7 @@ def metadata_changes(root, scope, report):
 
 def main(default_tag=None):
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--tag", choices=sorted(SOURCES), default=default_tag, required=default_tag is None)
+    parser.add_argument("--tag", choices=sorted(SOURCE_GROUPS), default=default_tag, required=default_tag is None)
     parser.add_argument("--expected-commit", required=True, help="Vollständiger veröffentlichter Quellcommit")
     args = parser.parse_args()
     if not re.fullmatch(r"[a-f0-9]{40}", args.expected_commit):
@@ -100,12 +115,12 @@ def main(default_tag=None):
     recorded = subprocess.check_output(["git", "show", f"{args.expected_commit}:{scope_path}"], cwd=ROOT)
     if scope != json.loads(recorded) or scope["tag"] != args.tag:
         raise ValueError("Lokaler Ausgabeplan weicht vom freigegebenen Quellcommit ab")
-    plugin, = scope["plugins"]
-    routes = {plugin["name"] + ".zip": (plugin["previous_release"]["tag"], scope["tag"])}
+    routes = {plugin["name"] + ".zip": (plugin["previous_release"]["tag"], scope["tag"])
+              for plugin in scope["plugins"]}
     publisher = BUILDER.load_module("publish-skill-quality-release.py")
     verifier = BUILDER.load_module("paketpflege.py")
     # Prompt snapshots are public release assets. Pages also serves their editable Markdown source.
-    public_assets = {**routes, **{name: (None, scope["tag"]) for name in plugin["prompts"]}}
+    public_assets = {**routes, **{name: (None, scope["tag"]) for plugin in scope["plugins"] for name in plugin["prompts"]}}
     reports = verifier.verify_public(publisher, public_assets, [scope["tag"]], args.expected_commit)
     updates = metadata_changes(ROOT, scope, reports[scope["tag"]])
     activate_routes(ROOT, routes)
@@ -113,7 +128,7 @@ def main(default_tag=None):
         if path.read_bytes() != contents:
             path.write_bytes(contents)
     generators = ["scripts/generate-root-plugin-catalog.py", "scripts/generate-skills-md.py"]
-    if SOURCES[scope["tag"]].parent != Path("."):
+    if any(path.parent != Path(".") for path in SOURCE_GROUPS[scope["tag"]]):
         generators.append("vergaberecht-werkstatt/scripts/generate-skills-md.py")
     for generator in generators:
         subprocess.run([sys.executable, str(ROOT / generator)], cwd=ROOT, check=True)

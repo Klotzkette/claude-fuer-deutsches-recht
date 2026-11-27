@@ -37,7 +37,7 @@ Laden Sie für den Angebotsvergleich zunächst nur den Ordner `Grundakte` aus de
 
 | Fassung | Datei |
 | --- | --- |
-| **Vollakte mit Eingangspost** | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-bauunternehmer-einkauf-lueftungszentralen-krimpfort.zip) · [Druckpaket 05](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-05.zip) |
+| **Vollakte mit Eingangspost** | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-bauunternehmer-einkauf-lueftungszentralen-krimpfort.zip) · [Druckpaket 05](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-05.zip) · [Schriftstücke zum Fall](../../docs/downloads/aktenarbeit/faelle-a-b.md#fall-bauunternehmer-einkauf-lueftungszentralen-krimpfort) |
 | Gesamt-PDF | [Gesamt-PDF](gesamt-pdf/bauunternehmer-einkauf-lueftungszentralen-krimpfort_gesamt.pdf) |
 | Originale mit Grundakte und Nachlauf | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-lueftungszentralen-krimpfort.zip) |
 | Lesefassungen der Einzelstücke | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.15/testakte-bauunternehmer-einkauf-lueftungszentralen-krimpfort-einzelpdfs.zip) |

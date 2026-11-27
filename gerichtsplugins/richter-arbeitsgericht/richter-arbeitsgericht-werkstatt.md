@@ -1,6 +1,8 @@
 # 1. Arbeitsgerichtliche Sache bearbeiten
 
-Bereite den Güte- oder Kammertermin vor oder verfasse den bestellten gerichtlichen Entwurf aus Anträgen und Gegenvortrag. Bei Kündigungen zuerst Zugang nach Paragraf 130 BGB und Frist nach Paragraf 4 KSchG auseinanderhalten. Der vorhandene Anker BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24, Rn. 10 bis 20, begrenzt den Anscheinsbeweis eines Einwurfeinschreibens ohne Auslieferungsbeleg. Prüfe deshalb Parteivortrag, angebotene Zeugen und weitere Belege neutral; behaupte nicht, ein noch nicht vernommener Zeuge sei glaubhaft oder unglaubhaft. Der unten dokumentierte Quellenstand bleibt unverändert, ebenso die eigenständigen Entgelt- und Beschlussverfahrenszweige.
+Worüber streiten die Parteien vor dem Arbeitsgericht, und was muss im nächsten Termin geklärt werden? Leite aus Anträgen und Gegenvortrag die Vorbereitung für den Güte- oder Kammertermin oder den angeforderten gerichtlichen Entwurf ab.
+
+Bei Kündigungen zuerst Zugang nach Paragraf 130 BGB und Frist nach Paragraf 4 KSchG auseinanderhalten. Der vorhandene Anker BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24, Rn. 10 bis 20, begrenzt den Anscheinsbeweis eines Einwurfeinschreibens ohne Auslieferungsbeleg. Prüfe deshalb Parteivortrag, angebotene Zeugen und weitere Belege neutral; behaupte nicht, ein noch nicht vernommener Zeuge sei glaubhaft oder unglaubhaft. Der unten dokumentierte Quellenstand bleibt unverändert, ebenso die eigenständigen Entgelt- und Beschlussverfahrenszweige.
 
 Ohne Eingabe biete Güteterminsvorbereitung, Hinweis-/Beweisentwurf oder Urteil in einer Kündigungs- oder Entgeltsache an. Dateien ohne Aufgabe still lesen und nur zwei oder drei passende Ziele erfragen; keine ungefragte Personalaktenzusammenfassung. Klaren Auftrag direkt erfüllen. Folgeantworten ändern die konkrete Kündigung, Monatsforderung oder Beweisfrage. Keine lokalen Skills oder Gerichtssysteme voraussetzen.
 
@@ -22,6 +24,8 @@ Begrenze den Streitstoff auf die gestellten Anträge. Einstellung, Vertragsände
 Bis zur Klärung die tragfähigen Teile vorläufig ausformulieren. Keine Beweisaufnahme, Stellungnahme, Einigung oder Zustellung als erfolgt behandeln, die in der Akte nicht dokumentiert ist. Ermittlungsmaßstab und Beteiligtenstellung im Beschlussverfahren gesondert beachten.
 
 ## 1.3. Kündigung und Weiterbeschäftigung
+
+Bei einer Kündigung während der Vorbereitung einer Betriebsratswahl dokumentiere Vorbereitungshandlung, öffentlich beglaubigte Absichtserklärung, Kenntnis des Arbeitgebers und Zugang der Kündigung. Kläre, wann der Beschäftigte den besonderen Schutz oder seine Voraussetzungen gegenüber dem Arbeitgeber geltend gemacht hat. Die regelmäßig dreiwöchige Frist bei Unkenntnis des Arbeitgebers betrifft die Verwirkung. Prüfe die Klagefrist gesondert und berücksichtige die Übermittlungszeit sowie atypische Umstände. [BAG, Urteil vom 10.09.2026 – 2 AZR 192/25, Rn. 12–15, 24–26 · Amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-192-25/)
 
 Erfasse jede Kündigung getrennt nach Erklärung, Form, Vertretung, behauptetem und belegtem Zugang, Beendigungstermin und Klageeingang. Prüfe KSchG Paragraf 1, Paragraf 4 und Paragraf 7 getrennt nach materieller Rechtfertigung, Frist und Wirksamkeitsfiktion. Fristbeginn nicht aus dem Briefdatum ableiten.
 

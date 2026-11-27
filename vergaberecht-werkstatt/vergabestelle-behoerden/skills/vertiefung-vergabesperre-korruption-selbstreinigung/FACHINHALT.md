@@ -40,7 +40,7 @@ Nutze diesen Skill bei Konzernstrukturen, mehreren Leitungspersonen, Bietergemei
 ## Bietergemeinschaft und Konzern
 
 - Tatbestand, Zurechnung und Selbstreinigung für jedes Mitglied getrennt prüfen.
-- C-268/25 nur als Schlussanträge der Generalanwältin verwenden. Kein bindendes Austauschrecht behaupten.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 - Austausch oder Ausschluss eines Mitglieds nur nach Prüfung von Sorgfalt, Kenntnis, Einfluss, Eignung, Angebotsidentität und Wettbewerbswirkung erwägen.
 - Bei Konzernunternehmen rechtliche Person, tatsächliche Kontrolle, Leistungsträger und betroffene Kapazität nicht gleichsetzen.
 

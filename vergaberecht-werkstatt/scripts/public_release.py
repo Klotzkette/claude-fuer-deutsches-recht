@@ -54,7 +54,7 @@ from quality_lab import validate_prompt_review
 
 def reviewed_prompt(path: Path, review: dict) -> str:
     """Erhält die redigierte Fassung nur bei gültigem dateigebundenem Prüfnachweis."""
-    validate_prompt_review(review, "Rollenprompt-Prüfung", path)
+    validate_prompt_review(review, "Rollenprompt-Prüfung", path, root=ROOT.parent if path.is_relative_to(ROOT) else None)
     return path.read_text(encoding="utf-8")
 
 
@@ -101,6 +101,10 @@ def check_plugin_version(plugin: dict) -> None:
 
 def markdown_download(relative: str) -> str:
     return DOWNLOAD_BASE + "/" + quote(relative, safe="/")
+
+
+def mini_download(role: str) -> str:
+    return markdown_download(f"unified-mini-prompts/{role}.md")
 
 
 def with_working_downloads(text: str, document: Path) -> str:

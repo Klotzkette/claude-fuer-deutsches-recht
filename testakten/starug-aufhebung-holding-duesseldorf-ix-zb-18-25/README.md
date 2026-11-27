@@ -15,6 +15,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsvorlagen-v1.0.0/lebensakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip) · [Schriftstücke zum Fall](../../docs/downloads/aktenarbeit/faelle-q-s.md#fall-starug-aufhebung-holding-duesseldorf-ix-zb-18-25) |
 | **Arbeitsvorlage zum Ausfüllen** | DOCX | [Sofortige Beschwerde gegen die Aufhebung einer Restrukturierungssache](Arbeitsvorlagen/beschwerde-aufhebung-restrukturierung.docx?raw=true) |
 | **Zusätzlicher Blankovertrag für einen Asset Deal zum Ausfüllen** | DOCX | [Unternehmenskaufvertrag über einzelne Vermögenswerte aus der Insolvenzmasse](Arbeitsvorlagen/asset-purchase-agreement-blanko.docx?raw=true) |
 | **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsvorlagen-v1.0.0/lebensakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-starug-aufhebung-holding-duesseldorf-ix-zb-18-25.zip) |

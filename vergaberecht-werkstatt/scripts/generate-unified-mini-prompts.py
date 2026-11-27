@@ -20,7 +20,7 @@ import json
 import re
 from pathlib import Path
 
-from public_release import COMPONENT_RELEASE_BASE as RELEASE_BASE, compact_mini
+from public_release import compact_mini, mini_download
 
 from skill_routing_priorities import MINI_MODULE_SUMMARIES, PLUGIN_PRIORITY_MODULES, PLUGIN_TRIGGER_ROUTES, original_skill_sources, skill_call
 
@@ -426,7 +426,7 @@ ROLE_CASELAW_LINES = {
         "| Planungswettbewerb | §§ 78 bis 80 VgV; C-888/24 Adão da Fonseca, ECLI:EU:C:2026:560 | vollständiger anonymer Entwurf; nur konkreten Verfahrensfehler angreifen |",
         "| Live-System/Abgabe | § 53 VgV; C-534/23 P/C-539/23 P Instituto Cervantes nur Integritätsanker für EU-Eigenvergabe; Verg 47/18 | Angebotsfreeze, feste Uploads, Hashliste, direkter Unterlagenzugang, Quittungsabgleich |",
         "| Billigkonkurrent/Unterpreis | § 60 VgV; BGH 31.01.2017 X ZB 10/16 | Aufklärungsangriff, Qualitätsentwertung, Zuschlagschance |",
-        "| Ausschluss/BG/Sanktionen | §§ 123 bis 125 GWB; §§ 13 bis 16 BTTG; § 160 Abs. 2 Satz 2 GWB; Vossloh; C-268/25 nur Schlussanträge; C-313/24; C-590/24 | §-5-Status, §-13-Feststellung, ArbGG-Vorentscheidung; Selbstreinigung/BG/Kontrolle; C-590/24 nur Geldbuße |",
+        "| Ausschluss/BG/Sanktionen | §§ 123 bis 125 GWB; §§ 13 bis 16 BTTG; § 160 Abs. 2 Satz 2 GWB; Vossloh; EuGH C-268/25, ETS; C-313/24; C-590/24 | §-5-Status, §-13-Feststellung, ArbGG-Vorentscheidung; Selbstreinigung/BG/Kontrolle; C-590/24 nur Geldbuße |",
         "| Konzession/Privatinitiative | § 105 GWB, KonzVgV; C-810/24 Urban Vision, ECLI:EU:C:2026:69 | Betriebsrisiko und nachträgliches Matching-Privileg prüfen; private Initiative nicht pauschal verbieten |",
         "| Bundeswehr | §§ 1 bis 19 BwBBG; § 11, § 15 Abs. 2 | Zugang, Finanzierung, Nachforderung, Vorab-Rüge, VK Bund/OLG; §-16-Verweisfehler nicht ergänzen |",
         "| Netto-Null | Art. 25 VO (EU) 2024/1735; VO (EU) 2026/718 | LV-Position, Starttag, Windquote, Fälligkeit, Baupflicht, Art.-29-Feststellung und GPA mappen |",
@@ -442,7 +442,7 @@ ROLE_CASELAW_LINES = {
         "| Planungswettbewerb | §§ 78 bis 80 VgV; C-888/24 Adão da Fonseca, ECLI:EU:C:2026:560 | Anonymitätsbruch, Kriterienabweichung oder ungleicher Klarstellungsdialog; kein allgemeines Anhörungsrecht |",
         "| System-/Portalbeweis | § 41, § 53 VgV, § 165 GWB; C-534/23 P/C-539/23 P Instituto Cervantes nur Integritätsanker für EU-Eigenvergabe; Verg 47/18, Verg 34/20, Verg 36/23 | Herkunftszone, Tatsachenkern, Hash/Transformation, Gegenhypothese, Akteneinsichtsziel |",
         "| Direktauftrag/ÖPNV/Änderung | §§ 132, 135, 160 GWB; C-578/23; C-820/24; C-856/24; C-810/24 | Lock-in/Laufzeit/Betriebsrisiko; C-810/24 gegen zweite Zuschlagschance, nicht private Initiative allgemein |",
-        "| Ausschluss/BG/BTTG | §§ 123 bis 125 GWB; §§ 13 bis 16 BTTG; § 160 Abs. 2 Satz 2 GWB; C-268/25 nur Schlussanträge; C-313/24; C-590/24 | §-13-Feststellung, ArbGG-Vorentscheidung; Selbstreinigung/BG/Kontrolle; C-590/24 nur Geldbuße, Ausschlussfragen unzulässig |",
+        "| Ausschluss/BG/BTTG | §§ 123 bis 125 GWB; §§ 13 bis 16 BTTG; § 160 Abs. 2 Satz 2 GWB; EuGH C-268/25, ETS; C-313/24; C-590/24 | §-13-Feststellung, ArbGG-Vorentscheidung; Selbstreinigung/BG/Kontrolle; C-590/24 nur Geldbuße, Ausschlussfragen unzulässig |",
         "| Bundeswehr | §§ 1 bis 19 BwBBG; § 11, § 15 Abs. 2 | Zugang/Antragsbefugnis, Vorab-Rüge, Ausnahme, VK Bund, §-10-Sanktion, OLG; §-16-Verweisfehler nicht ergänzen |",
         "| Netto-Null | Art. 25 VO (EU) 2024/1735; VO (EU) 2026/718 | Windquote, Analogie, Baupflicht, Art.-29-Feststellung, GPA, Ausnahme und Rückversetzung |",
         "| Akteneinsicht/Schwärzung | § 165 GWB; Antea, Klaipedos, Varec | entscheidungserhebliche Information, Geheimnisschutz, Begründungsersatz |",
@@ -583,7 +583,7 @@ def render_readme(plugins: list[dict]) -> str:
         name = plugin["name"]
         lines.append(
             f"| {role_label(name)} | `{ROLE_STARTERS[name]}` | [`{name}.md`](./{name}.md) | "
-            f"[`{name}-unified-mini-prompt.md`]({RELEASE_BASE}/{name}-unified-mini-prompt.md) |"
+            f"[`{name}-unified-mini-prompt.md`]({mini_download(name)}) |"
         )
     lines.append("")
     return "\n".join(lines)

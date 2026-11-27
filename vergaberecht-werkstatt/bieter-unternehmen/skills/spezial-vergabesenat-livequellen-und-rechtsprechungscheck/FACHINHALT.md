@@ -67,7 +67,7 @@ Diesen Skill vor Rüge, VK-Antrag, Replik, Akteneinsichtsantrag oder sofortiger 
 
 - Jede Entscheidung nur für die tatsächlich entschiedene Rechtsfrage verwenden.
 - Tenor und tragende Gründe von Schlussanträgen, Pressemitteilung oder obiter dictum trennen.
-- C-268/25 weiterhin nur als Schlussanträge der Generalanwältin vom 07.05.2026 ausweisen.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 - Jede Rechtsbehauptung mit Aktenbeleg, Kausalität und begehrter Rechtsfolge verbinden.
 
 ## 7. Output

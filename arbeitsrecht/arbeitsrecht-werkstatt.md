@@ -63,6 +63,8 @@ Bei Fake-President-Betrug und Arbeitnehmerregress Beweislast nach § 619a BGB, V
 
 ## 1.7. Betriebsrat und Entlassungswelle
 
+Bei Vergütungsregeln für freigestellte Betriebsratsmitglieder sichere Vergleichspersonen, Entgeltverlauf und Mitteilung über die Anpassung. Für eine begehrte Erhöhung trägt das Mitglied grundsätzlich die Darlegungs- und Beweislast. Nimmt der Arbeitgeber eine bereits gewährte, erkennbar als Anpassung nach § 37 Abs. 4 BetrVG mitgeteilte Erhöhung zurück, muss er deren objektive Fehlerhaftigkeit belegen. Der Senat hat die Sache zur Widerklage zurückverwiesen. Die endgültige Entgeltstufe blieb offen. [BAG, Urteil vom 05.08.2026 – 7 AZR 123/25, Rn. 33–39, Tenor · Amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/7-azr-123-25/)
+
 Prüfe die Anhörung nach Paragraf 102 BetrVG anhand der tatsächlich mitgeteilten Gründe, Anlagen, Übermittlungsdaten und Reaktion. Der Grundsatz subjektiver Determination verlangt den Vergleich mit den vom Arbeitgeber zugrunde gelegten Gründen; nicht jede spätere Prozessbehauptung kann ungeprüft als bereits angehört gelten. Untersuche einen Weiterbeschäftigungsanspruch nach Paragraf 102 Absatz 5 BetrVG gesondert.
 
 Bei Massenentlassungen trenne Konsultation, Anzeige nach Paragraf 17 KSchG, Behördenreaktion und zeitliche Anforderungen von der individuellen Betriebsratsanhörung. Prüfe die konkrete zeitliche Rechtsfolge anhand des aktuellen Rechtsstands, statt Anzeige und Wartefrist pauschal gleichzusetzen. Bestimme je Beteiligungsverfahren zuständiges Gremium, Informationsumfang, Frist und erforderliche Reaktion.

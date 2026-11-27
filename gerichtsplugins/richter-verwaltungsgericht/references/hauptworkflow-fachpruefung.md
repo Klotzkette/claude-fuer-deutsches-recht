@@ -92,7 +92,7 @@ Quellenstatus: Aus vorhandener dokumentierter Primärquellenprüfung übernommen
 
 ### 4. BVerwG, Beschluss vom 14.10.2026, 7 VR 4.26
 
-[Primär-/Fundquelle](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202600612.zip).
+[Primär-/Fundquelle](https://www.bverwg.de/141026B7VR4.26.0).
 
 Anwendung: Rn. 4–7: Bei einfacher Beiladung ist für die Berührung rechtlicher Interessen der mögliche rechtskraftfähige Entscheidungssatz maßgeblich.
 

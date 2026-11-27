@@ -9,6 +9,7 @@ from unittest.mock import patch
 import main_skill_revisions as rev
 import quality_lab as lab
 import vergabestelle_revision as vergabe
+import werkstatt_edition as workshop
 from release_routing import RELEASE_BASE, plugin_asset_url
 
 
@@ -19,6 +20,51 @@ def put(root, path, data):
     return target
 
 
+class WerkstattRevisionTests(unittest.TestCase):
+    def test_registered_prompts_require_current_content_and_owner(self):
+        root = Path(__file__).resolve().parents[1]
+        rows = workshop.proof(root)["files"]
+        self.assertTrue(rows)
+        self.assertEqual(workshop.validate_all(root), len(rows))
+        name, row = next((name, row) for name, row in rows.items() if workshop.is_workshop(name))
+        current = (root / name).read_bytes()
+        prior = workshop.previous(root, name, current, plugin=row["plugin"])
+        self.assertNotEqual(prior, current)
+        self.assertEqual(workshop.digest(prior), row["before_sha256"])
+        for changed in (prior, current + b"Fehler"):
+            with self.assertRaises(ValueError):
+                workshop.previous(root, name, changed)
+        with self.assertRaises(ValueError):
+            workshop.previous(root, name, current, plugin="anderes-plugin")
+
+    def test_activated_links_restore_the_same_historical_bytes(self):
+        root = Path(__file__).resolve().parents[1]
+        found = False
+        for name, row in workshop.proof(root)["files"].items():
+            if "activated_sha256" not in row:
+                continue
+            found = True
+            content = (root / name).read_bytes()
+            activated = workshop.edition_links(name, content, activating=True)
+            self.assertEqual(workshop.digest(activated), row["activated_sha256"], name)
+            self.assertEqual(workshop.previous(root, name, content), workshop.previous(root, name, activated))
+            with self.assertRaises(ValueError):
+                workshop.previous(root, name, activated + b"Fremdtext")
+        self.assertTrue(found)
+
+    def test_preserved_download_belongs_to_exact_earlier_release(self):
+        root = Path(__file__).resolve().parents[1]
+        scope = json.loads((root / "scripts/data/qualitaetsrunde-v445.36.18-scope.json").read_bytes())
+        name = "vergabestelle-behoerden"
+        row = next(row for row in scope["plugins"] if row["name"] == name)
+        filename = name + "-werkstatt.md"
+        path = root / "vergaberecht-werkstatt" / name / filename
+        original = row["preserved_prompts"][filename]
+        self.assertTrue(workshop.preserved_in_release(root, scope, path, original, name))
+        self.assertFalse(workshop.preserved_in_release(root, dict(scope, title="Anderer Umfang"), path, original, name))
+        self.assertFalse(workshop.preserved_in_release(root, scope, path, "0" * 64, name))
+
+
 class VergabestellenRevisionTests(unittest.TestCase):
     def test_genauer_veroeffentlichter_vorstand_und_rueckrollschutz(self):
         root = Path(__file__).resolve().parents[1]
@@ -27,7 +73,7 @@ class VergabestellenRevisionTests(unittest.TestCase):
         self.assertEqual(set(record), vergabepfade)
         for name in sorted(vergabepfade):
             with self.subTest(name=name):
-                current = (root / name).read_bytes()
+                current = workshop.previous(root, name, (root / name).read_bytes())
                 prior = vergabe.previous(root, name, current)
                 self.assertEqual(rev.digest(prior), record[name]["vorher"])
                 self.assertEqual(rev.digest(current), record[name]["nachher"])

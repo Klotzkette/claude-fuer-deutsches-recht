@@ -85,7 +85,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 | Unterlage, LV, GAEB/XML/Excel/PDF oder Portalpflichtfeld blockiert Gleichwertigkeit | § 31 VgV; EuGH C-424/23 DYKA Plastics | Bieterfrage oder Rüge mit Fundstelle, Alternativlösung und Berichtigungsantrag |
 | Billigkonkurrent gewinnt | § 60 VgV; BGH X ZB 10/16 | Aufklärungsangriff mit Preisabstand, Leistungsrisiko und Zuschlagschance |
 | Ausschluss, Nachforderung oder Selbstreinigung | §§ 123 bis 125 GWB, § 56 VgV; Vossloh Laeis, Manova | Nachweismatrix, Antwortentwurf und Selbstreinigungsdossier |
-| Bietergemeinschaft mit Problemmitglied | Schlussanträge GA Kokott C-268/25, nicht Urteil | BG-Krisenpfad: Mitglied, Kenntnis, Zurechnung, Austausch ohne wesentliche Änderung |
+| Bietergemeinschaft mit Problemmitglied | EuGH C-268/25, ETS | BG-Krisenpfad: Mitglied, Kenntnis, Zurechnung, Austausch ohne wesentliche Änderung |
 
 ## Direkt-Routing Bieterfrage vor Rüge
 

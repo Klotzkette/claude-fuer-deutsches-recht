@@ -12,16 +12,16 @@ Das Plugin-ZIP enthält die aktuelle aktive Auswahl samt vollständigen Fachmodu
 | --- | --- |
 | Installierbares Plugin | [konkurrenten-rechtsschutz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/konkurrenten-rechtsschutz.zip) |
 | Alle Skills als Markdown | [konkurrenten-rechtsschutz-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-skills-markdown.zip) |
-| Kompakter Ein-Datei-Start | [konkurrenten-rechtsschutz-unified-mini-prompt.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-unified-mini-prompt.md) |
-| Vollworkflow-Arbeitsprompt | [vergaberecht-arbeitsprompt-konkurrenten.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-konkurrenten.md) |
-| Kurzprompt | [vergaberecht-kurzprompt-konkurrenten.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-kurzprompt-konkurrenten.md) |
+| Kompakter Ein-Datei-Start | [konkurrenten-rechtsschutz-unified-mini-prompt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/unified-mini-prompts/konkurrenten-rechtsschutz.md) |
+| Vollworkflow-Arbeitsprompt | [vergaberecht-arbeitsprompt-konkurrenten.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergaberecht-arbeitsprompt-konkurrenten.md) |
+| Kurzprompt | [vergaberecht-kurzprompt-konkurrenten.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergaberecht-kurzprompt-konkurrenten.md) |
 | Plugin-README im Repo | [konkurrenten-rechtsschutz/README.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/README.md) |
 
 ## Downloads
 
 | Paket | Inhalt | Link |
 | --- | --- | --- |
-| Unified Mini Prompt | Eine einzelne Markdown-Datei bis 7.500 Zeichen: Sparversion des Plugin-Workflows für Chatbots ohne Plugin-Installation | [konkurrenten-rechtsschutz-unified-mini-prompt.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-unified-mini-prompt.md) |
+| Unified Mini Prompt | Eine einzelne Markdown-Datei bis 7.500 Zeichen: Sparversion des Plugin-Workflows für Chatbots ohne Plugin-Installation | [konkurrenten-rechtsschutz-unified-mini-prompt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/unified-mini-prompts/konkurrenten-rechtsschutz.md) |
 | Markdown-ZIP | Alle `SKILL.md`-Dateien als reine Markdown — echter Datei-Download für ChatGPT, Gemini, Mistral, Le Chat usw. | [konkurrenten-rechtsschutz-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-skills-markdown.zip) |
 | Plugin-ZIP | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Prüfrastern + Vorlagen) | [konkurrenten-rechtsschutz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/konkurrenten-rechtsschutz.zip) |
 

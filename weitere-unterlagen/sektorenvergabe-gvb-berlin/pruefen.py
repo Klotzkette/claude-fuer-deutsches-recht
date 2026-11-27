@@ -137,10 +137,11 @@ def check():
     require(not list(HERE.rglob("SKILL.md")), "Zusatzsammlung darf kein installierbarer Skill sein")
     require(not list(HERE.rglob("plugin.json")), "Zusatzsammlung darf kein Plugin sein")
     readme = (HERE / "README.md").read_text()
-    require(readme.index(NOTICE_DE) < readme.index("downloads/"), "Hinweis steht nicht vor Downloads")
+    erster_download = re.search(r"\]\([^)]*/downloads/[^)]*\.(?:pdf|zip)\)", readme, re.I)
+    require(erster_download and readme.index(NOTICE_DE) < erster_download.start(), "Hinweis steht nicht vor Downloads")
     for target in re.findall(r"\]\(([^)]+)\)", readme):
         if not target.startswith("https://"):
-            require((HERE / target.split("?", 1)[0]).exists(), f"Toter Link: {target}")
+            require((HERE / target.split("#", 1)[0].split("?", 1)[0]).exists(), f"Toter Link: {target}")
     print(f"OK: 48 Originale, 48 Einzel-PDFs, {cursor} Gesamtseiten; flache ZIPs; Preise; Quellenzuordnung.")
     print(f"OK: zehn Workflows, {min(lengths)} bis {max(lengths)} Zeichen; keine Plugin-Registrierung.")
 

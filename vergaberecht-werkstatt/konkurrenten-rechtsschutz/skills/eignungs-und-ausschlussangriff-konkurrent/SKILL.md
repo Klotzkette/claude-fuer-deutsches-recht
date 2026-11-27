@@ -34,7 +34,7 @@ Schriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 
 
 Öffentliche Quellen nur als Anknüpfungstatsachen verwenden. Entscheidend sind Vergabeakte, Eignungsnachweise und Akteneinsicht. Keine pauschale Behauptung, sondern konkrete Mindestanforderung gegen bekannte Konkurrenteninformation stellen.
 
-Schlussanträge GA Kokott vom 07.05.2026, Rs. C-268/25, ECLI:EU:C:2026:382, nur als Schlussanträge einsetzen: kein Ausschlussautomatismus der gesamten Bietergemeinschaft, aber Angriff möglich, wenn die Vergabestelle Sorgfaltspflicht, Zurechnung oder materielle Angebotsänderung nicht tragfähig geprüft hat.
+EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bei bestandskräftig festgestellten Steuer- oder Beitragsrückständen eines Mitglieds ermittle den Fristablauf, die Zahlung oder Zahlungsvereinbarung sowie den Zeitpunkt, zu dem die Gruppe vom Ausschlussgrund erfuhr. Eine nachträgliche Zahlung heilt den Ausschlussgrund des Mitglieds grundsätzlich nicht. Bei erst nach Fristablauf erlangter Kenntnis muss der Auftraggeber das Ausscheiden oder Ersetzen des Mitglieds im Einzelfall prüfen können.
 
 EuGH, Urteil vom 12.02.2026, C-313/24, Opera Laboratori Fiorentini, ECLI:EU:C:2026:91, sperrt einen bloßen Nationalitätsautomatismus. Ein Sanktionsangriff braucht greifbare Tatsachen dafür, dass der Zuschlagsprätendent im Namen oder auf Anweisung einer erfassten Organisation handelt, faktisch kontrolliert wird oder eine plausible Mittelumleitung droht. Antrag auf Akteneinsicht deshalb auf Beteiligungs-, Kontroll- und Zahlungsflussunterlagen zuschneiden.
 

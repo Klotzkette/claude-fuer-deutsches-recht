@@ -98,6 +98,8 @@ Liefern Sie eine Vorher-Nachher-Tabelle nach Anteilnummer und Stimmen, ein Blatt
 
 ## 6. Verschmelzungsfolgen zuordnen
 
+Bei einer Verschmelzung mit gegenläufigen Zertifikaten bilden Sie Gewinn, Verlust und mögliche Doppelberücksichtigung je Steuerpflichtigem ab. Für das konkrete Modell verneinte der BFH ernstliche verfassungsrechtliche Zweifel an der rückwirkenden Anwendung des Verlustverrechnungsverbots. Der Beschluss betrifft einstweiligen Rechtsschutz, das untersuchte Modell und die Fassung des UmwStG 2006. Der Prüfungsmaßstab der Hauptsache ist gesondert zu benennen. [BFH, Beschluss vom 29.09.2026 – X B 15/25 (AdV), Leitsätze 2 und 3, Tenor · Amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610221/)
+
 Lesen Sie den Verschmelzungsvertrag und identifiziere die übernehmende Rechtsform. Erstellen Sie drei Ergebnisblätter für übertragende Gesellschaft, Übernehmer und Gesellschafter. Weisen Sie Steuerart, Wertansatz, Zeitpunkt und Verfahrensdokument aus. Bei einer Schwesterverschmelzung gehören beide Beteiligungsstränge in die Skizze.
 
 ### 6.1 Körperschaft auf Körperschaft

@@ -15,6 +15,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsvorlagen-v1.0.0/lebensakte-geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover.zip) · [Schriftstücke zum Fall](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover) |
 | **Arbeitsvorlage zum Ausfüllen** | DOCX | [Schreiben zur Erstattung von Zahlungen nach Insolvenzreife](Arbeitsvorlagen/zahlungsersatz-geltend-machen.docx?raw=true) |
 | **Arbeitsvorlage zum Ausfüllen** | XLSX | [Zahlungsprüfung und Masseabgleich](Arbeitsvorlagen/organhaftung-zahlungsmatrix.xlsx?raw=true) |
 | **Zusätzlicher Blankovertrag für einen Asset Deal zum Ausfüllen** | DOCX | [Unternehmenskaufvertrag über einzelne Vermögenswerte aus der Insolvenzmasse](Arbeitsvorlagen/asset-purchase-agreement-blanko.docx?raw=true) |
