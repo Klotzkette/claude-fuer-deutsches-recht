@@ -4,7 +4,7 @@
 
 [Repo-Start](../README.md) | [Dateikatalog](../README.md#dateikatalog) | [Vergabestelle](../vergabestelle-behoerden/README.md) | [Bieter](../bieter-unternehmen/README.md) | [Konkurrent](../konkurrenten-rechtsschutz/README.md) | [Alle Skills](../SKILLS.md) | [Plugin-Index](./README.md) | [Testakten](../testakten/README.md) | [Rechtsprechung](../references/leitentscheidungen-anker.md)
 
-8 aktive Skills · Pluginstand `v445.36.17` · Rolle: Vergabestelle
+8 aktive Skills · Pluginstand `v445.36.18` · Rolle: Vergabestelle
 
 Das Plugin-ZIP enthält die aktuelle aktive Auswahl samt vollständigen Fachmodulen. Die separaten Markdown- und Sammelarchive bleiben im veröffentlichten Stand `v445.33.1` mit der damaligen Skillaufteilung erhalten.
 
@@ -12,7 +12,7 @@ Das Plugin-ZIP enthält die aktuelle aktive Auswahl samt vollständigen Fachmodu
 
 | Bedarf | Link |
 | --- | --- |
-| Installierbares Plugin | [vergabestelle-behoerden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.17/vergabestelle-behoerden.zip) |
+| Installierbares Plugin | [vergabestelle-behoerden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.18/vergabestelle-behoerden.zip) |
 | Alle Skills als Markdown | [vergabestelle-behoerden-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergabestelle-behoerden-skills-markdown.zip) |
 | Kompakter Ein-Datei-Start | [vergabestelle-behoerden-unified-mini-prompt.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergabestelle-behoerden-unified-mini-prompt.md) |
 | Vollworkflow-Arbeitsprompt | [vergaberecht-arbeitsprompt-vergabestelle.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-vergabestelle.md) |
@@ -25,7 +25,7 @@ Das Plugin-ZIP enthält die aktuelle aktive Auswahl samt vollständigen Fachmodu
 | --- | --- | --- |
 | Unified Mini Prompt | Eine einzelne Markdown-Datei bis 7.500 Zeichen: Sparversion des Plugin-Workflows für Chatbots ohne Plugin-Installation | [vergabestelle-behoerden-unified-mini-prompt.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergabestelle-behoerden-unified-mini-prompt.md) |
 | Markdown-ZIP | Alle `SKILL.md`-Dateien als reine Markdown — echter Datei-Download für ChatGPT, Gemini, Mistral, Le Chat usw. | [vergabestelle-behoerden-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergabestelle-behoerden-skills-markdown.zip) |
-| Plugin-ZIP | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Prüfrastern + Vorlagen) | [vergabestelle-behoerden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.17/vergabestelle-behoerden.zip) |
+| Plugin-ZIP | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Prüfrastern + Vorlagen) | [vergabestelle-behoerden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.18/vergabestelle-behoerden.zip) |
 
 ## So benutzt man einen Skill
 
