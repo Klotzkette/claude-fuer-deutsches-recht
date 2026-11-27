@@ -46,3 +46,19 @@ test('Ungültige Form, fehlende Texte und ausbrechende Pfade werden abgelehnt', 
     assert.throws(() => auditLinkContexts(source, JSON.stringify(data), root));
   }
 });
+
+test('Links in einem Arbeitsweg beziehen sich auf den erzeugten Skill, andere Felder auf die Registry', () => {
+  const file = '/repo/scripts/data/skill-cap-registry.json';
+  const route = { slug: 'ruege-bearbeiten', examples: ['[Akte](../../Interstate%20AG/README.md)'] };
+  const plugin = { source: './werkstatt/vergabestelle', routes: [route] };
+  const data = { schema_version: 1, note: '[Index](index.md)', plugins: [plugin] };
+  const contexts = auditLinkContexts(file, JSON.stringify(data), root);
+  assert.deepEqual(contexts[1], { file: '/repo/werkstatt/vergabestelle/skills/ruege-bearbeiten/SKILL.md', text: JSON.stringify(route) });
+  assert.ok(contexts[0].text.includes('[Index](index.md)'));
+  assert.ok(!contexts[0].text.includes('Interstate'));
+  plugin.source = '../aussen';
+  assert.throws(() => auditLinkContexts(file, JSON.stringify(data), root));
+  plugin.source = './werkstatt/vergabestelle';
+  route.slug = '../aussen';
+  assert.throws(() => auditLinkContexts(file, JSON.stringify(data), root));
+});
