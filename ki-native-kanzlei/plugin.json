@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ki-native-kanzlei",
-  "version": "445.36.9",
+  "version": "445.36.20",
   "description": "Kanzleibetrieb mit acht Arbeitswegen und 30 Fachmodulen: Posteingang, Fristen, Rechtsarbeit, Dokumente, Beweise, Vergleich, Kosten und Vollstreckung. Kontrollierter Computerlauf mit konkreten Freigaben und lebensnahen Übungsakten.",
   "author": {
     "name": "Klotzkette",

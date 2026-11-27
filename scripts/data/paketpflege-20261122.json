@@ -8,11 +8,16 @@
   },
   "unveraendert": ["aktenanleger", "umwandlungssteuerrecht"],
   "nachfolger": {
-    "vergabestelle-behoerden.zip": {"ausgabeversion": "445.36.9", "tag": "qualitaetsrunde-v445.36.18"},
+    "vergabestelle-behoerden.zip": {"ausgabeversion": "445.36.9", "tag": "qualitaetsrunde-v445.36.19"},
     "patentrecht.zip": {"ausgabeversion": "445.36.9", "tag": "qualitaetsrunde-v445.36.14"},
     "fachanwalt-insolvenz-sanierungsrecht.zip": {"ausgabeversion": "445.36.9", "tag": "insolvenz-fachbereich-v445.36.10"},
     "fachanwalt-insolvenz-sanierungsrecht-portable.zip": {"ausgabeversion": "445.36.9", "tag": "insolvenz-fachbereich-v445.36.10"},
     "insolvenzforderungen-checker.zip": {"ausgabeversion": "445.36.9", "tag": "insolvenz-fachbereich-v445.36.10"},
-    "insolvenzforderungen-checker-portable.zip": {"ausgabeversion": "445.36.9", "tag": "insolvenz-fachbereich-v445.36.10"}
+    "insolvenzforderungen-checker-portable.zip": {"ausgabeversion": "445.36.9", "tag": "insolvenz-fachbereich-v445.36.10"},
+    "bieter-unternehmen.zip": {"ausgabeversion": "445.36.9", "tag": "qualitaetsrunde-v445.36.19"},
+    "konkurrenten-rechtsschutz.zip": {"ausgabeversion": "445.36.9", "tag": "qualitaetsrunde-v445.36.19"},
+    "ki-native-kanzlei.zip": {"ausgabeversion": "445.36.9", "tag": "qualitaetsrunde-v445.36.20"},
+    "ki-native-kanzlei-portable.zip": {"ausgabeversion": "445.36.9", "tag": "qualitaetsrunde-v445.36.20"},
+    "richter-verwaltungsgericht.zip": {"ausgabeversion": "445.36.9", "tag": "qualitaetsrunde-v445.36.20"}
   }
 }
