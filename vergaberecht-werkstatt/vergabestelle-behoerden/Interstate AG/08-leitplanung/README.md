@@ -24,6 +24,7 @@ Beginnen Sie mit diesen Unterlagen.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
+| 13.10.2026 | [Riedtal-West – welche Erfahrung brauchen wir für die Planung am Rastplatz?](Grundakte/00_rueckfrage_referenz.eml) | EML |
 | 17.09.2026 | [Projektauftrag Korridor Riedtal](Grundakte/01_projektauftrag_riedtal.docx) | DOCX |
 | 23.09.2026 | [Kostenansatz der Fachbereiche nach Abschnitten](Grundakte/02_schaetzung_lose_optionen.xlsx) | XLSX |
 | 24.09.2026 | [Leistungsbild und Schnittstellen am Rastplatz](Grundakte/03_leistungsbild_schnittstellen.docx) | DOCX |

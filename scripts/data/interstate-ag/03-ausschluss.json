@@ -46,6 +46,24 @@
   "dokumente": [
     {
       "phase": "Grundakte",
+      "datei": "00_pruefbitte_wertung_w668.eml",
+      "titel": "24 Pegelstationen Kiebitzrinne – bitte um Mitprüfung des Ausschlusses von Flutzeichen",
+      "datum": "2026-09-09",
+      "uhrzeit": "14:42",
+      "von": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
+      "an": "Rechtsdienst · Deutsche Interstate AG, Niederlassung West",
+      "absender": "vergabe@interstate-west.example",
+      "empfaenger": "rechtsdienst@interstate-west.example",
+      "text": [
+        "Guten Tag zusammen, Herr Korte hat mir heute um 14:20 Uhr seinen Ausschlussvermerk für das Angebot W-668 vorgelegt. Für die 24 Pegelstationen ist Flutzeichen mit 418.800 Euro netto die günstigste Bieterin. Unser Messnetzbetrieb bezweifelt, dass ihre Station vier Tage bei −5 °C misst und sendet. Fällt das Angebot aus der Wertung, liegt Uferpuls mit 434.400 Euro vorn.",
+        "Im Formblatt T bestätigt Flutzeichen die Laufzeit für P16/07. Das Serienblatt nennt 72 Stunden mit einem Einschub und 102 mit zweien. Seine Schlüsseltabelle endet aber bei /06. Auf meine Frage von heute Morgen zur angebotenen Ausführung kann Flutzeichen noch bis Freitag, 11. September, 12:00 Uhr antworten. Für die fehlende Umsatzerklärung E3 läuft eine eigene Nachforderung.",
+        "Bitte geben Sie mir den Vermerk mit Ihren Anmerkungen für die Vergabeleitung zurück. Reichen die bisherigen Unterlagen für den vorgeschlagenen Ausschluss? Worauf kommt es bei der ausstehenden Antwort an, und wie behandeln wir E3? Der Entscheidungstermin ist für den 15. September vorgesehen.",
+        "Viele Grüße",
+        "Mara Ilg"
+      ]
+    },
+    {
+      "phase": "Grundakte",
       "datei": "01_beschaffungsfreigabe.docx",
       "titel": "Beschaffungsfreigabe für das Messnetz Kiebitzrinne",
       "datum": "2026-07-28",

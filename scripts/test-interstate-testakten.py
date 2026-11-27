@@ -29,9 +29,20 @@ from testakte_disclaimer import NOTICE_BYTES, NOTICE_DE, NOTICE_EN, NOTICE_MARKD
 ROOT = Path(__file__).resolve().parents[1]
 INPUT = ROOT / "scripts/data/interstate-ag"
 COLLECTION = ROOT / "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG"
-CASES = ("01-alleinstellung", "02-fachlose", "03-ausschluss", "04-oekopunkte",
-         "05-baustreit", "06-nachtrag", "07-vertragsmuster", "08-leitplanung",
-         "09-brueckenneubau", "10-fahrbahnmarkierung", "11-it-baupruefung")
+OPENING_DOCUMENTS = {
+    "01-alleinstellung": "01_bedarf_und_freigabe.docx",
+    "02-fachlose": "01_bauauftrag_weidenstueck.docx",
+    "03-ausschluss": "00_pruefbitte_wertung_w668.eml",
+    "04-oekopunkte": "00_mitzeichnung_punktekauf.eml",
+    "05-baustreit": "00_klageerwiderung_beweisangebote.eml",
+    "06-nachtrag": "00_abschlag_4_zahlungslauf.eml",
+    "07-vertragsmuster": "01_pruefbitte_einkauf.eml",
+    "08-leitplanung": "00_rueckfrage_referenz.eml",
+    "09-brueckenneubau": "00_freigabe_los_b.eml",
+    "10-fahrbahnmarkierung": "00_disposition_kolonnen.eml",
+    "11-it-baupruefung": "00_wertungsunterlagen_export.eml",
+}
+CASES = tuple(OPENING_DOCUMENTS)
 FORM = "Einwendungen-Pruefbogen.xlsx"
 
 
@@ -84,6 +95,9 @@ class InterstateAktenTests(unittest.TestCase):
                         expected[path.relative_to(COLLECTION).as_posix()] = path
         with ZipFile(bundle) as archive:
             self.assertEqual(archive.namelist()[0], "README.txt")
+            for slug, filename in OPENING_DOCUMENTS.items():
+                entries = [name for name in archive.namelist() if name.startswith(f"{slug}/Grundakte/")]
+                self.assertEqual(entries[0], f"{slug}/Grundakte/{filename}")
             notice = archive.read("README.txt").decode("utf-8")
             self.assertIn(NOTICE_DE, notice.split(NOTICE_EN)[0])
             self.assertIn(NOTICE_EN, notice)
@@ -126,10 +140,13 @@ class InterstateAktenTests(unittest.TestCase):
         self.assertLess(max(date.fromisoformat(d["datum"]) for d in initial),
                         min(date.fromisoformat(d["datum"]) for d in later))
         self.assertEqual(len({r["datei"] for r in rows}), len(rows))
-        originals = {f"{row['phase']}/{row['datei']}" for row in rows}
+        opening = initial[0]
+        self.assertEqual(opening["datei"], OPENING_DOCUMENTS[slug])
+        self.assertEqual(min(p.name for p in (root / "Grundakte").iterdir()), opening["datei"])
+        originals = [f"{row['phase']}/{row['datei']}" for row in rows]
         on_disk = {p.relative_to(root).as_posix() for phase in ("Grundakte", "Nachreichungen")
                    for p in (root / phase).rglob("*") if p.is_file()}
-        self.assertEqual(on_disk, originals)
+        self.assertEqual(on_disk, set(originals))
 
         label = "testakte-" + slug
         combined_path = root / "gesamt-pdf" / (label + "_gesamt.pdf")
@@ -137,6 +154,9 @@ class InterstateAktenTests(unittest.TestCase):
         pdfs_path = root / "downloads" / (label + "-einzelpdfs.zip")
         readme = (root / "README.md").read_text()
         self.assertIn(NOTICE_MARKDOWN, readme)
+        grundakte = readme.split("## Grundakte\n", 1)[1].split("\n## ", 1)[0]
+        first_link = next(line for line in grundakte.splitlines() if "](Grundakte/" in line)
+        self.assertIn(f"({quote(originals[0])})", first_link)
         pairs = case["einwendungspruefung"]
         self.assertTrue(pairs)
         review = readme.split("## Eingaben prüfen\n", 1)[1].split("\n## ", 1)[0]
@@ -159,16 +179,18 @@ class InterstateAktenTests(unittest.TestCase):
                     named_pages[target.title] = combined.get_destination_page_number(target)
         self.assertEqual([o.title for o in combined.outline if not isinstance(o, list)], ["Grundakte", "Nachreichungen"])
         self.assertEqual(list(named_pages), [r["titel"] for r in rows])
+        self.assertEqual(combined.get_destination_page_number(combined.outline[0]), 0)
+        self.assertEqual(named_pages[opening["titel"]], 0)
         all_pages = [condensed(p.extract_text()) for p in combined.pages]
         self.assertTrue(all(all_pages))
+        for value in (opening["titel"], opening["von"], opening["an"], *opening["text"][:2]):
+            self.assertIn(condensed(value), all_pages[0])
         self.assertFalse(any(condensed(notice) in page for notice in (NOTICE_DE, NOTICE_EN) for page in all_pages))
 
-        expected_pdfs = {f"{row['phase']}__{Path(row['datei']).stem}.pdf" for row in rows}
+        expected_pdfs = [f"{row['phase']}__{Path(row['datei']).stem}.pdf" for row in rows]
         with ZipFile(originals_path) as files, ZipFile(pdfs_path) as singles:
             for archive, names in ((files, originals), (singles, expected_pdfs)):
-                self.assertEqual(archive.namelist()[0], "README.txt")
-                self.assertEqual(set(archive.namelist()), names | {"README.txt"})
-                self.assertEqual(len(archive.namelist()), len(names) + 1)
+                self.assertEqual(archive.namelist(), ["README.txt", *names])
                 self.assertEqual(notice_text_errors(archive.read("README.txt")), [])
             for row in rows:
                 original = f"{row['phase']}/{row['datei']}"
@@ -191,6 +213,7 @@ class InterstateAktenTests(unittest.TestCase):
                                 self.assertIn(condensed(cell), pdf)
                     if path.suffix == ".eml":
                         mail = BytesParser(policy=policy.default).parsebytes(path.read_bytes())
+                        self.assertEqual(str(mail["Subject"]), row["titel"])
                         self.assertEqual(parseaddr(str(mail["From"]))[1], row["absender"])
                         self.assertEqual(parseaddr(str(mail["To"]))[1], row["empfaenger"])
                         sent = parsedate_to_datetime(str(mail["Date"])).astimezone(ZoneInfo("Europe/Berlin"))
@@ -302,7 +325,7 @@ class InterstateLeistungsverzeichnisTests(unittest.TestCase):
 
 class InterstatePluginTests(unittest.TestCase):
     def test_installierbares_desktop_paket(self):
-        scope = ROOT / "scripts/data/qualitaetsrunde-v445.36.15-scope.json"
+        scope = ROOT / "scripts/data/qualitaetsrunde-v445.36.16-scope.json"
         edition = json.loads(scope.read_text())
         tag = edition["tag"]
         with tempfile.TemporaryDirectory() as output:
@@ -322,7 +345,8 @@ class InterstatePluginTests(unittest.TestCase):
                     with self.subTest(akte=slug):
                         self.assertIn(f"({slug}/README.md)", index)
                         label = f"testakte-{slug}"
-                        for path in (f"downloads/{label}.zip", f"downloads/{label}-einzelpdfs.zip",
+                        for path in (f"Grundakte/{OPENING_DOCUMENTS[slug]}",
+                                     f"downloads/{label}.zip", f"downloads/{label}-einzelpdfs.zip",
                                      f"gesamt-pdf/{label}_gesamt.pdf"):
                             self.assertEqual(package.read(f"Interstate AG/{slug}/{path}"),
                                              (COLLECTION / slug / path).read_bytes())

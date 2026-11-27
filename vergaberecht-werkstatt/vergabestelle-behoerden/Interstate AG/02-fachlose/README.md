@@ -24,7 +24,7 @@ Beginnen Sie mit diesen Unterlagen.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
-| 19.10.2026 | [Projektauftrag für Werkhalle und Sozialtrakt](Grundakte/01_bauauftrag_weidenstueck.docx) | DOCX |
+| 19.10.2026 | [Betriebshof Weidenstück – Projektauftrag zur Aufteilung der Bauleistungen](Grundakte/01_bauauftrag_weidenstueck.docx) | DOCX |
 | 23.10.2026 | [Kostenberechnung nach Gewerken – Preisstand Oktober 2026](Grundakte/02_kostenschaetzung.xlsx) | XLSX |
 | 26.10.2026 | [Preisblatt Nord – Werkhalle, Materialräume und Sozialräume](Grundakte/02a_lv_nord.xlsx) | XLSX |
 | 26.10.2026 | [Preisblatt Süd – Werkhalle, Materialräume und Sozialräume](Grundakte/02b_lv_sued.xlsx) | XLSX |

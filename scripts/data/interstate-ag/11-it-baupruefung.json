@@ -41,6 +41,22 @@
   "dokumente": [
     {
       "phase": "Grundakte",
+      "datei": "00_wertungsunterlagen_export.eml",
+      "titel": "Mobiles Bauprüfbuch – bitte den Export zu Testvorgang C belegen",
+      "datum": "2026-11-09",
+      "uhrzeit": "18:05",
+      "von": "Tabea Rothen · IT-Einkauf West",
+      "an": "Jule Esch · Fachteam Bauprüfungen",
+      "absender": "pruefbuch@interstate-west.example",
+      "empfaenger": "baupruefung@interstate-west.example",
+      "text": [
+        "Frau Esch, für die Anwendung, mit der unsere Prüfer auf der Baustelle Schäden samt Foto erfassen, ist die Vorabinformation an Planquell heute rausgegangen. Pultfeld liegt mit 89 zu 82 Punkten vorn. Im Wertungsbogen steht bei Planquell „C ohne Bild im Hauptblatt“. Unsere Auskunft an die Unternehmen lässt auch eine zweite Datei zu, wenn das Foto über die Vorgangsnummer mit dem Befund verbunden bleibt.",
+        "Welche Dateien hat das Team bei den beiden Vorführungen tatsächlich geöffnet, und wie hat es die Bildzuordnung bei C geprüft? Bitte geben Sie mir die damaligen Aufzeichnungen beider Prüfenden, damit ich die Punkte vor Vertragsschluss nachvollziehen kann. Es geht um die Auswahl der Anwendung in Los 1. Die fünfzehn Testpakete für die spätere unabhängige Abnahme gehören zu Los 2.",
+        "Danke und viele Grüße\nTabea Rothen"
+      ]
+    },
+    {
+      "phase": "Grundakte",
       "datei": "01_verfahrensauftrag_pruefbuch.docx",
       "titel": "Beschaffungsauftrag für digitale Bauprüfprotokolle",
       "datum": "2026-08-24",
@@ -49,7 +65,7 @@
       "text": [
         "Nach jeder Ortsbegehung überträgt die Prüferin heute Fotos und handschriftliche Notizen in das Bestandsarchiv. Künftig sollen 25 Personen im Büro und 15 im Außendienst denselben Vorgang bearbeiten können. Der Bund finanziert den nichtgewerblichen öffentlichen Fernstraßenauftrag der Deutschen Interstate AG und bestellt die Mehrheit ihres Aufsichtsrats. Die AG schreibt in eigenem Namen aus.",
         "Offenes EU-Verfahren für eine gehostete Standardanwendung mit Einrichtung, Betrieb und Schulung. Vertragsdauer 24 Monate ab Abnahme. Die Schätzung für diesen Dienstleistungsauftrag beträgt 408.000 EUR für Los 1 und 42.000 EUR für Los 2, insgesamt 450.000 EUR ohne Umsatzsteuer, ohne Verlängerungsoption. Die Prüfteams nutzen vorhandene Endgeräte. Beschaffungsgegenstand ist die Anwendung einschließlich Dienstleistung, nicht die Bauüberwachung selbst.",
-        "Los 1 umfasst Bereitstellung, Betrieb und Export der Anwendung. Los 2 ist die eigenständige fachliche Prüfung von fünfzehn Testpaketen und der Vollständigkeit der Übergabe. Zu prüfen sind nur fiktive Baustellenbefunde. Die Bekanntmachung für beide Lose wurde am 25. August 2026 versandt. Angebote sind bis zum 30. September um 12:00 Uhr einzureichen. Die Lose werden eigenständig gewertet und bezuschlagt."
+        "Los 1 umfasst Bereitstellung, Betrieb und Export der Anwendung. Los 2 ist die eigenständige fachliche Prüfung von fünfzehn Testpaketen und der Vollständigkeit der Übergabe. Zu prüfen sind nur fiktive Baustellenbefunde. Die Bekanntmachung für beide Lose soll am 25. August 2026 versandt werden. Angebote sind bis zum 30. September um 12:00 Uhr einzureichen. Die Lose werden eigenständig gewertet und bezuschlagt."
       ]
     },
     {
@@ -142,7 +158,7 @@
       "von": "Tabea Rothen · IT-Einkauf West",
       "an": "Alle interessierten Unternehmen",
       "text": [
-        "Los 1 hat höchstens 100 Punkte. Für den Preis werden 40 mal niedrigster wertbarer Lospreis geteilt durch den Lospreis des jeweiligen Angebots angesetzt. Weitere 40 Punkte entfallen auf Offline-Erfassung und Übergabe an die Prüferin. Für das Kriterium E3 sind höchstens 20 Punkte vorgesehen. Los 2 hat eine eigene Preiswertung.",
+        "Anlage zu den Vergabeunterlagen. Die EU-Bekanntmachung für beide Lose wurde am 25. August 2026 versandt. Los 1 hat höchstens 100 Punkte. Für den Preis werden 40 mal niedrigster wertbarer Lospreis geteilt durch den Lospreis des jeweiligen Angebots angesetzt. Weitere 40 Punkte entfallen auf Offline-Erfassung und Übergabe an die Prüferin. Für das Kriterium E3 sind höchstens 20 Punkte vorgesehen. Los 2 hat eine eigene Preiswertung.",
         "Im Testtermin werden drei vorbereitete synthetische Vorgänge A, B und C exportiert. Maßgeblich ist, ob Vorgangsnummer, Prüfbefund und Bildverweis für jeden Vorgang nach dem Export ohne manuelle Nacherfassung zugeordnet bleiben. Drei vollständige Vorgänge ergeben 20 Punkte, zwei vollständige Vorgänge 10 Punkte, ein oder kein vollständiger Vorgang 0 Punkte. Datenformat und Anzahl der ausgegebenen Dateien sind freigestellt. Zum Termin wird die mit dem Angebot dokumentierte Programmfassung gezeigt.",
         "Die Prüfleitung hält je Fall fest, welche Ausgabedateien vorlagen und wie die Zuordnung geprüft wurde. Mindestanforderung bleibt die Ausgabe der Befundtexte. Für den Bildverweis kommt die Punktewertung zur Anwendung. Alle Bewerber erhalten dasselbe vorbereitete Testmaterial."
       ]

@@ -82,17 +82,18 @@
     {
       "phase": "Grundakte",
       "datei": "01_pruefbitte_einkauf.eml",
-      "titel": "K17 · Vor der Freigabe der Kontrollverträge",
+      "titel": "Westtor K17 · Freigabe von Rahmenvertrag und erstem Abruf für die Verhandlung mit Rheinspur",
       "datum": "2026-09-14",
       "von": "Nora Feld · Deutsche Interstate AG, Warengruppeneinkauf West",
       "an": "Dr. Jakob Elsen · Deutsche Interstate AG, Rechtsabteilung West",
       "text": [
-        "Guten Morgen Herr Elsen,",
-        "unsere Einkaufsrunde tagt am Mittwoch, 16. September, um 14 Uhr. Bitte geben Sie mir bis 12 Uhr eine Entscheidungsvorlage für die beiden Word-Fassungen: Was können wir in die Verhandlung geben, welche Textstellen brauchen vor Versand einen anderen Wortlaut, und was darf erst die Leitung entscheiden? Bitte nennen Sie zu jeder Änderung die Ziffer und schreiben Sie die Ersatzfassung so, dass ich sie in Word übernehmen kann.",
-        "Die Niederlassung kauft im Namen der Deutschen Interstate AG ein. Deren öffentliche Träger haben die AG für nichtgewerbliche Aufgaben der Straßenverwaltung im Allgemeininteresse gegründet, finanzieren ihren Betrieb überwiegend und bestellen die Mehrheit des Aufsichtsrats. Der Einkauf führt die AG deshalb als öffentliche Auftraggeberin. Die Westtor Objekt GmbH erhält die Berichte für ihre Objektakte. Die Rechnungen von Rheinspur zahlt unsere AG.",
-        "Wir möchten den Rahmen und den Abruf künftig bei mindestens sechs Projekten der Niederlassung verwenden. Die Einkaufstexte stammen von uns. Beim ersten Abruf haben wir die Daten des Loses K17 und Rheinspurs Preise bereits eingesetzt. Preis und Termine sollen verhandelbar bleiben. Die Dienstleistungsbedingungen der Firma kamen mit ihrem Preisbrief. Beide Word-Dateien lagen der Firma zur Kommentierung vor. Niemand hat unterschrieben, wir haben keine Bestellung ausgelöst und die Firma hat nach meinem Kenntnisstand keine Schicht besetzt.",
-        "Für die Sitzung zählt zuerst, wer im Betrieb welche Änderung auslösen kann und welcher Betrag dadurch gebunden wird. Gleich danach kommen der belastbare Termin für die Schlussdokumentation und unser Zugriff auf die Berichte gegenüber dem Bauherrn. Wir brauchen eine Entscheidung sowohl für K17 als auch für die spätere Serienverwendung. Bitte nennen Sie auch eine Rückfallposition, wenn die Firma bei Haftung oder Zahlungsplan nicht mitgeht. Vermerke aus den Preisgesprächen hat Frau Köhler bei den Teilnehmenden angefragt.",
-        "Nora Feld"
+        "Guten Morgen, Herr Elsen,",
+        "am Westtor wollen wir Rheinspur für sechs Tag- und zwei Nachtschichten zur Kontrolle der Baubelege einsetzen. Im ersten Abruf stehen dafür einschließlich Abschlussdossier 13.000 Euro netto. Können wir Rahmenvertrag und Abrufblatt so in die Verhandlung geben? Bitte geben Sie uns bis Mittwoch, 16. September, 12 Uhr Bescheid. Um 14 Uhr legt die Einkaufsrunde unsere Position fest.",
+        "An einer Stelle komme ich beim Ausfüllen nicht weiter. Die Bauherrin Westtor Objekt GmbH erwartet die Belege zu 24 Bauteilen für ihre Objektakte. Rheinspurs Bedingungen erlauben uns die Weitergabe nur mit schriftlicher Zustimmung. Bis wann und mit welchen Nutzungsrechten muss das Dossier vorliegen, damit wir es ihr beim Übergabetermin am 27. Oktober zeigen und überlassen können?",
+        "Bitte schicken Sie uns die nötigen Ersatzklauseln mit Ziffer für die beiden Word-Dateien. Ins Abrufblatt gehört eine Zeichnungsregel, mit der die Projektleitung abends einen Einsatz verschieben kann und der Einkauf erkennt, wann zusätzliche Schichten Geld binden. Für Haftung und Zahlungsplan brauche ich auch eine Rückfallposition, falls Rheinspur unseren Vorschlag ablehnt.",
+        "Rahmenvertrag und Abrufblatt sollen bei mindestens sechs Projekten zum Einsatz kommen. Beide Texte stammen von uns und lagen Rheinspur zur Kommentierung vor. Für K17 haben wir die Projektdaten und die Preise aus dem Preisbrief eingesetzt. Preis und Termine bleiben Gegenstand der Verhandlung. Frau Köhler fragt gerade bei den Teilnehmenden nach den Vermerken zum Preisgespräch. Bitte kennzeichnen Sie, was wir für K17 vereinbaren können und was vor einer Serienfreigabe noch zur Leitung muss.",
+        "Vertragspartnerin und Rechnungsempfängerin ist die Deutsche Interstate AG. Unsere öffentlichen Träger haben sie für nichtgewerbliche Aufgaben der Straßenverwaltung im Allgemeininteresse gegründet, finanzieren ihren Betrieb überwiegend und bestellen die Mehrheit des Aufsichtsrats. Wir führen sie im Einkauf als öffentliche Auftraggeberin. Die Unterschriften und die Bestellung für K17 stehen aus. Nach meinem Kenntnisstand hat Rheinspur noch keine Schicht besetzt.",
+        "Viele Grüße\nNora Feld"
       ],
       "absender": "nora.feld@deutsche-interstate.example",
       "empfaenger": "jakob.elsen@deutsche-interstate.example",

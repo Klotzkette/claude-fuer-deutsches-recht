@@ -16,6 +16,7 @@ SOURCES = {
     "qualitaetsrunde-v445.36.13": Path("vergaberecht-werkstatt/vergabestelle-behoerden"),
     "qualitaetsrunde-v445.36.14": Path("patentrecht"),
     "qualitaetsrunde-v445.36.15": Path("vergaberecht-werkstatt/vergabestelle-behoerden"),
+    "qualitaetsrunde-v445.36.16": Path("vergaberecht-werkstatt/vergabestelle-behoerden"),
 }
 
 

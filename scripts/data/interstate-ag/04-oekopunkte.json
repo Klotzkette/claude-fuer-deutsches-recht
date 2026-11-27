@@ -58,6 +58,24 @@
   "dokumente": [
     {
       "phase": "Grundakte",
+      "datei": "00_mitzeichnung_punktekauf.eml",
+      "titel": "Werkhof am Eschbach · Kann die Bestellung über 342.000 Euro in die Leitungssitzung?",
+      "datum": "2026-10-08",
+      "von": "Bilal Hartung · Deutsche Interstate AG, Niederlassung West, Einkauf",
+      "an": "Lena Fabri · Deutsche Interstate AG, Niederlassung West, Justiziariat",
+      "text": [
+        "Guten Tag, Frau Fabri,",
+        "für den Werkhof in Borken fehlen uns 180.000 Ökopunkte. Ich soll der Niederlassungsleitung am 14. Oktober die Bestellung bei Vennsaum zur Unterschrift vorlegen. Vennsaum verlangt 342.000 Euro netto für die Zuordnung von bereits angelegtem Grünland. Kann ich diesen Einkauf ohne Ausschreibung zur Freigabe geben? Ich habe die Bestellung vorerst als Entwurf gespeichert.",
+        "Mir ist unklar, was ich Wiesenkante sagen soll. Die Genossenschaft möchte für uns eine Wiese anlegen und zwanzig Jahre pflegen. Genau diese Arbeiten stehen noch in Position 2 unserer Bedarfsmeldung. Wenn wir sie beschaffen wollen, brauche ich von der Landschaftsplanung einen Auftrag mit klarer Laufzeit. Wenn wir nur die Zuordnung kaufen, muss ich klären, welche anderen Flächen für die Genehmigung infrage kommen.",
+        "Bitte geben Sie mir vor der Sitzung eine Rückmeldung, welche Fassung ich der Leitung vorlegen kann und was ich vorher beim Kreis oder bei den Anbietern einholen soll. Vennsaum hält den Preis bis 16. Oktober, 12 Uhr. Bis 18. Dezember will die Projektleitung der Bauaufsicht die vollständige Sicherung nachweisen.",
+        "Viele Grüße\nBilal Hartung"
+      ],
+      "absender": "einkauf@interstate-west.example",
+      "empfaenger": "justiziariat@interstate-west.example",
+      "uhrzeit": "16:10"
+    },
+    {
+      "phase": "Grundakte",
       "datei": "01_werkhof_auflage.docx",
       "titel": "Werkhof am Eschbach · Ausfertigung der Nebenbestimmung 6.3",
       "datum": "2026-09-15",

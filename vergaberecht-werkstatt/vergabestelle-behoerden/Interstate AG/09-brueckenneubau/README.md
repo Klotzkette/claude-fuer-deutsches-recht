@@ -24,6 +24,7 @@ Beginnen Sie mit diesen Unterlagen.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
+| 09.11.2026 | [Brücke Riedanger – Freigabe für beide Straßenanschlüsse](Grundakte/00_freigabe_los_b.eml) | EML |
 | 17.09.2026 | [Projektfreigabe und Losvermerk Riedanger](Grundakte/01_losplanung.docx) | DOCX |
 | 21.09.2026 | [Bekanntmachung und Wertungsbedingungen für Los B](Grundakte/02_bekanntmachung_und_wertung.docx) | DOCX |
 | 21.09.2026 | [Bieter-LV Los B · Leistungen West und Ost](Grundakte/03_lv_strassenanschluesse.xlsx) | XLSX |

@@ -41,6 +41,24 @@
   "dokumente": [
     {
       "phase": "Grundakte",
+      "datei": "00_abschlag_4_zahlungslauf.eml",
+      "titel": "Knoten Feldrain · 16.950,40 Euro für den Stahlmantel im vierten Abschlag",
+      "datum": "2026-11-16",
+      "von": "Farid Kemper · Deutsche Interstate AG, Niederlassung West, kaufmännische Vertragsleitung",
+      "an": "Ronja Evers · Deutsche Interstate AG, Niederlassung West, Projektleitung Knoten Feldrain",
+      "text": [
+        "Guten Tag, Frau Evers,",
+        "Frau Türk verlangt heute 16.950,40 Euro netto für den zusätzlichen Stahlmantel an der alten Stützwand. Das sind 80 Prozent des Nachtragsangebots über 21.188,00 Euro. Wiesenfeld baut nach Ihrer Planrevision bereits ein. Eine gemeinsame Kostenfreigabe von Ihnen und mir finde ich im Projektpostfach nicht. Welchen Betrag können wir aus dem vierten Abschlag zur Zahlung anweisen?",
+        "Bitte lassen Sie Herrn Abel vor dem Verfüllen festhalten, auf welcher Länge der Mantel tatsächlich sitzt, wo der Graben breiter wurde und in welchen Schichten eine zusätzliche Fahrspur gesichert werden musste. Regelgraben und Nachtsperrung werden bereits im Hauptauftrag abgerechnet. Ich brauche die Nachweise getrennt, damit dieselbe Schicht im Zahlungslauf nicht zweimal auftaucht.",
+        "Frau Türk erwartet bis 24. November unsere Antwort auch für den zweiten Abschnitt. Für die Sperrnacht am 25. November ab 20 Uhr hält sie die Kolonne nur bis zum Vortag mittags frei. Können wir uns vor Ablauf dieser Reservierung zur Zeichnung zusammensetzen? Bitte sagen Sie der Firma bis dahin zu Preis und Fortführung nur das zu, was wir miteinander abgestimmt haben.",
+        "Viele Grüße\nFarid Kemper"
+      ],
+      "absender": "f.kemper@interstate.example",
+      "empfaenger": "r.evers@interstate.example",
+      "uhrzeit": "15:35"
+    },
+    {
+      "phase": "Grundakte",
       "datei": "00_auftrags_lv_kf3.xlsx",
       "titel": "Auftragsleistungsverzeichnis KF3 · bepreister Bieterrücklauf",
       "datum": "2026-07-31",

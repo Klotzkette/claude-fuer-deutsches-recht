@@ -61,16 +61,32 @@
   "dokumente": [
     {
       "phase": "Grundakte",
+      "datei": "00_freigabe_los_b.eml",
+      "titel": "Brücke Riedanger – Freigabe für beide Straßenanschlüsse",
+      "datum": "2026-11-09",
+      "uhrzeit": "10:35",
+      "von": "Kian Loh · Leitung Einkauf, Deutsche Interstate AG, NL West",
+      "an": "Martha Jost · Vergabestelle, Deutsche Interstate AG, NL West",
+      "absender": "einkauf@interstate.example",
+      "empfaenger": "vergabe.west@interstate.example",
+      "text": [
+        "Frau Jost, bevor ich den Auftrag für die Straßenanschlüsse der neuen Brücke Riedanger freigebe, brauche ich die verbindlichen Zeitangebote. Wir haben Furchenweg für den Zuschlag vorgesehen. Talbogen bietet günstiger an und fragt heute, ob die zehn Tage Bauzeitverkürzung des Wettbewerbers auch im verbindlichen Formblatt B-Z stehen. Im Wertungsbogen ist als Quelle das Ablaufkonzept angegeben. Bitte lassen Sie sich die beiden eingereichten Formblätter für den Vergleich vorlegen.",
+        "Getrennt davon liegt der Einspruch von Nordsaum vor. Der Betrieb will nur die kurze Ostzufahrt asphaltieren. Unsere Antwort vom 28. Oktober betrifft die gemeinsame Vergabe mit dem Westanschluss. Bitte bringen Sie den getrennten Bauablauf und die vorgesehene Übergabe beider Seiten an die Geländermontage zum Freigabegespräch mit. Als frühester Vertragsschluss für Los B ist der 17. November vorgemerkt.",
+        "Viele Grüße\nKian Loh"
+      ]
+    },
+    {
+      "phase": "Grundakte",
       "datei": "01_losplanung.docx",
       "titel": "Projektfreigabe und Losvermerk Riedanger",
       "datum": "2026-09-17",
       "von": "Gesa Roll · Projektleitung Riedanger, Deutsche Interstate AG",
       "an": "Kian Loh · Leitung Einkauf, Deutsche Interstate AG, NL West",
       "text": [
-        "Der Bund hält sämtliche Aktien der Deutschen Interstate AG, finanziert ihre Aufgaben und bestimmt den Aufsichtsrat. Die AG baut und unterhält Bundesfernstraßen im Allgemeininteresse ohne eigenes gewerbliches Absatzrisiko. Sie vergibt und bezahlt die Bauaufträge für den Neubau selbst. Das Vorhaben wird aus dem regulären Bundeshaushalt finanziert. Ein Mittelabruf aus einem Sondervermögen ist nicht vorgesehen.",
         "Die Kostenberechnung für die Brücke und ihre Anschlüsse ergibt 9.560.000 Euro netto. Auf Los A Brückenrohbau entfallen 6.920.000 Euro, auf Los B Straßenanschlüsse 1.850.000 Euro und auf Los C Fahrzeugrückhaltesysteme und Geländer 790.000 Euro. Es gibt keine Bauoptionen. Für die Planung besteht bereits ein eigener Vertrag. Beim Schwellenwertvergleich für Bauleistungen hat der Einkauf für 2026 einen Wert von 5.404.000 Euro netto eingetragen.",
         "Die Anschlüsse West und Ost lassen sich getrennt einrichten. In Ost ist die Straße kürzer und schließt direkt an einen vorhandenen Zubringer an. Der Terminplan sieht zwischen West und Ost zwei Wochen Überlappung vor. Die Projektleitung will beide Abschnitte aus einer Hand, weil sie nur eine Bauüberwachung für die Material- und Terminabstimmung bestellt hat. Wie viel zusätzliche Koordination zwei Bauunternehmen erfordern würden, ist noch nicht beziffert.",
-        "Los A stellt die Anschlussflächen getrennt zum vereinbarten Termin frei. Los B gibt beide Anschlussbereiche mit gemeinsamer Schlussmeldung an Los C weiter. Ob zwei abschnittsweise Abnahmen hierfür ausreichen, soll die Projektleitung mit der Bauüberwachung besprechen. Eine Markterkundung zur Leistungsfähigkeit kleinerer Straßenbaubetriebe liegt der Vorlage nicht bei. Die Leitung hat die Ausschreibung in drei Losen freigegeben."
+        "Los A stellt die Anschlussflächen getrennt zum vereinbarten Termin frei. Los B gibt beide Anschlussbereiche mit gemeinsamer Schlussmeldung an Los C weiter. Ob zwei abschnittsweise Abnahmen hierfür ausreichen, soll die Projektleitung mit der Bauüberwachung besprechen. Eine Markterkundung zur Leistungsfähigkeit kleinerer Straßenbaubetriebe liegt der Vorlage nicht bei. Die Leitung hat die Ausschreibung in drei Losen freigegeben.",
+        "Der Bund hält sämtliche Aktien der Deutschen Interstate AG, finanziert ihre Aufgaben und bestimmt den Aufsichtsrat. Die AG baut und unterhält Bundesfernstraßen im Allgemeininteresse ohne eigenes gewerbliches Absatzrisiko. Sie vergibt und bezahlt die Bauaufträge für den Neubau selbst. Das Vorhaben wird aus dem regulären Bundeshaushalt finanziert. Ein Mittelabruf aus einem Sondervermögen ist nicht vorgesehen."
       ]
     },
     {

@@ -75,6 +75,22 @@
   "dokumente": [
     {
       "phase": "Grundakte",
+      "datei": "00_rueckfrage_referenz.eml",
+      "titel": "Riedtal-West – welche Erfahrung brauchen wir für die Planung am Rastplatz?",
+      "datum": "2026-10-13",
+      "uhrzeit": "10:20",
+      "von": "Hanno Döring · Vergabestelle West",
+      "an": "Mara Brecht · Projektleitung Planung West",
+      "absender": "einkauf.west@interstate.example",
+      "empfaenger": "planung.west@interstate.example",
+      "text": [
+        "Guten Morgen Frau Brecht, für die Untersuchung der Straßenführung am Rastplatz Riedtal interessiert sich das Planungsbüro Trassenschrift für den Westabschnitt. Frau Heyn hat eine Referenz eines Landesbetriebs. Unsere Antwort 04 bestätigt, dass nach Ziffer 4.2 nur Projekte im Auftrag der Deutschen Interstate AG zählen. Welche Arbeit am Rastplatz setzt voraus, dass das Büro schon einmal für uns geplant hat?",
+        "Bitte schicken Sie mir dazu die Modell- und Übergabevorgaben. Ich brauche auch Ihre Einschätzung, an welchen Stellen ein gesondert beauftragtes Umweltbüro die Kartierungen an die Verkehrsplanung übergeben könnte. Davon hängt ab, ob wir die Teilnahmebedingungen für West und Ost vor dem 4. November berichtigen und den Büros mehr Zeit geben müssen.",
+        "Vielen Dank und viele Grüße\nHanno Döring"
+      ]
+    },
+    {
+      "phase": "Grundakte",
       "datei": "01_projektauftrag_riedtal.docx",
       "titel": "Projektauftrag Korridor Riedtal",
       "datum": "2026-09-17",
