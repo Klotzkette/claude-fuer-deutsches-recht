@@ -2,16 +2,23 @@
 """Build the editable pleading and check its text against the retained PDF."""
 
 import difflib
+import io
 import re
 from pathlib import Path
 
+import pypdfium2
 from docx import Document
 from docx.enum.table import WD_CELL_VERTICAL_ALIGNMENT, WD_TABLE_ALIGNMENT
-from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_TAB_ALIGNMENT
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Cm, Pt, RGBColor
+from PIL import ImageOps
 from pypdf import PdfReader
+from reportlab.pdfgen.canvas import Canvas
+
+from akteneingang.dokumente import office_bytes
+from modefuchs_briefpapier import draw_brand
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -19,6 +26,8 @@ CASE = ROOT / "testakten/inkasso-zahlungsklage-modefuchs"
 SOURCE = CASE / "originale/23_Klageschrift_InkassoZentrale_25-07-2025.pdf"
 OUTPUT = CASE / "30_Klage_Arbeitsfassung_20250725.docx"
 FONT = "Times New Roman"
+INK = RGBColor.from_string("17394D")
+MUTED = RGBColor.from_string("435965")
 
 LETTERHEAD = (
     "InkassoZentrale GmbH",
@@ -124,6 +133,9 @@ def configure_styles(doc):
         style.paragraph_format.keep_together = True
         style.paragraph_format.space_before = Pt(11)
         style.paragraph_format.space_after = Pt(11)
+    for name, size in (("Title", 20), ("Heading 1", 14), ("Heading 2", 11.5)):
+        doc.styles[name].font.size = Pt(size)
+        doc.styles[name].font.color.rgb = INK
     language = OxmlElement("w:lang")
     language.set(qn("w:val"), "de-DE")
     doc.styles["Normal"].element.get_or_add_rPr().append(language)
@@ -146,10 +158,88 @@ def heading(doc, text, level, *, new_page=False):
     return p
 
 
-def add_field(paragraph, instruction):
+def logo_png():
+    pdf = io.BytesIO()
+    canvas = Canvas(pdf, pagesize=(248, 48), invariant=1)
+    draw_brand(canvas, "inkasso", 4, 3)
+    canvas.save()
+    with pypdfium2.PdfDocument(pdf.getvalue()) as source:
+        page = source[0]
+        image = page.render(scale=4).to_pil().convert("RGB")
+    bounds = ImageOps.invert(image.convert("L")).getbbox()
+    if not bounds:
+        raise ValueError("Inkasso-Wortbildmarke ist leer")
+    output = io.BytesIO()
+    image.crop(bounds).save(output, format="PNG")
+    output.seek(0)
+    return output
+
+
+def stationery_text(p, text="", *, size=8, bold=False):
+    p.paragraph_format.space_before = Pt(0)
+    p.paragraph_format.space_after = Pt(0)
+    p.paragraph_format.line_spacing = 1.1
+    run = p.add_run(text)
+    run.font.name = "Arial"
+    run.font.size = Pt(size)
+    run.font.color.rgb = MUTED
+    run.bold = bold
+    return run
+
+
+def page_number_field(p, instruction):
     field = OxmlElement("w:fldSimple")
     field.set(qn("w:instr"), instruction)
-    paragraph._p.append(field)
+    run = stationery_text(p)
+    field.append(run._r)
+    p._p.append(field)
+
+
+def rule(p, side):
+    edges = OxmlElement("w:pBdr")
+    edge = OxmlElement(f"w:{side}")
+    for key, value in (("val", "single"), ("sz", "5"), ("color", "A4BBBF"), ("space", "5")):
+        edge.set(qn(f"w:{key}"), value)
+    edges.append(edge)
+    p._p.get_or_add_pPr().append(edges)
+
+
+def add_letterhead(section):
+    section.different_first_page_header_footer = True
+    first = section.first_page_header.paragraphs[0]
+    first.style = "Normal"
+    first.paragraph_format.space_after = Pt(0)
+    shape = first.add_run().add_picture(logo_png(), width=Cm(6.3))
+    shape._inline.docPr.set("descr", LETTERHEAD[0])
+    rule(first, "bottom")
+    address = section.first_page_header.add_paragraph()
+    stationery_text(address, LETTERHEAD[1])
+    address.paragraph_format.space_before = Pt(6)
+
+    width = section.page_width - section.left_margin - section.right_margin
+    follow = section.header.paragraphs[0]
+    follow.style = "Normal"
+    follow.paragraph_format.tab_stops.add_tab_stop(width, WD_TAB_ALIGNMENT.RIGHT)
+    stationery_text(follow, LETTERHEAD[0], size=9, bold=True)
+    stationery_text(follow, "\tIZ-MF-2025-1749")
+    rule(follow, "bottom")
+
+    legal = section.first_page_footer
+    line = legal.paragraphs[0]
+    line.style = "Normal"
+    rule(line, "top")
+    line.paragraph_format.tab_stops.add_tab_stop(width, WD_TAB_ALIGNMENT.RIGHT)
+    stationery_text(line, LETTERHEAD[2], size=7.5)
+    stationery_text(line, "\t")
+    for text in LETTERHEAD[3:]:
+        stationery_text(legal.add_paragraph(), text, size=7.5)
+    for p in (line, section.footer.paragraphs[0]):
+        if p is not line:
+            p.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+        stationery_text(p, "Seite ")
+        page_number_field(p, "PAGE")
+        stationery_text(p, " von ")
+        page_number_field(p, "NUMPAGES")
 
 
 def add_attachments(doc):
@@ -194,7 +284,26 @@ def normalized(text):
 
 def verify_content(doc):
     # Only heading/list numbering and spelled-out legal symbols may differ.
-    text = "\n".join(page.extract_text() for page in PdfReader(SOURCE).pages)
+    pages = PdfReader(SOURCE).pages
+    body = []
+    printed = []
+    for number, page in enumerate(pages, 1):
+        lines = [line.strip() for line in page.extract_text().splitlines()]
+        printed.extend(lines)
+        if number > 1 and lines[0] == LETTERHEAD[0]:
+            lines.pop(0)
+        footer = {*LETTERHEAD[1:], f"Seite {number} von {len(pages)}"}
+        body.extend(line for line in lines if line not in footer)
+    body_start = "Unser Zeichen: IZ-MF-2025-1749"
+    if any(line not in printed for line in LETTERHEAD) or body_start not in body:
+        raise ValueError("Briefkopf oder Aktenzeichen in der PDF-Klage unvollständig")
+    text = "\n".join(body[body.index(body_start):])
+    section = doc.sections[0]
+    names = section.first_page_header._element.xpath(".//wp:docPr/@descr")
+    address = section.first_page_header.paragraphs[1].text
+    details = [p.text.split("\t")[0] for p in section.first_page_footer.paragraphs]
+    if [*names, address, *details] != list(LETTERHEAD):
+        raise ValueError("Geschäftsangaben im Word-Briefpapier unvollständig")
     for old, new in (("I. Anträge", "1 Anträge"), ("II. Sachverhalt", "2 Sachverhalt"), ("III. Anlagenverzeichnis", "3 Anlagenverzeichnis")):
         text = text.replace(old, new)
     for number, (title, _) in enumerate(SECTIONS, 1):
@@ -221,9 +330,10 @@ def build():
     configure_styles(doc)
     section = doc.sections[0]
     section.page_width, section.page_height = Cm(21), Cm(29.7)
-    section.top_margin, section.bottom_margin = Cm(2), Cm(2)
+    section.top_margin, section.bottom_margin = Cm(3.25), Cm(2.5)
     section.left_margin, section.right_margin = Cm(2.4), Cm(2.4)
-    section.footer_distance = Cm(0.9)
+    section.header_distance, section.footer_distance = Cm(1.05), Cm(0.85)
+    add_letterhead(section)
     props = doc.core_properties
     props.title = "Klage InkassoZentrale GmbH gegen Gottlieb von Altenhausen"
     props.subject = "Kaufpreisforderung nebst Nebenforderungen"
@@ -231,12 +341,9 @@ def build():
     props.last_modified_by = ""
     props.comments = ""
 
-    for index, line in enumerate(LETTERHEAD):
-        p = paragraph(doc, line, after=0, keep=True)
-        p.paragraph_format.line_spacing = 1
-        p.runs[0].bold = index == 0
-    paragraph(doc, "Unser Zeichen: IZ-MF-2025-1749", before=11, after=0, keep=True)
-    paragraph(doc, "Berlin, den 25.07.2025", after=11, keep=True)
+    p = paragraph(doc, "Unser Zeichen: IZ-MF-2025-1749", after=1, keep=True, align=WD_ALIGN_PARAGRAPH.RIGHT)
+    p.runs[0].font.color.rgb = MUTED
+    paragraph(doc, "Berlin, den 25.07.2025", after=10, keep=True, align=WD_ALIGN_PARAGRAPH.RIGHT)
     paragraph(doc, "An das\nAmtsgericht Nürnberg\nFlaschenhofstraße 35\n90402 Nürnberg", after=0, keep=True)
     title = doc.add_paragraph("Klage", style="Title")
     title.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -273,15 +380,8 @@ def build():
     heading(doc, "3 Anlagenverzeichnis", 1, new_page=True)
     add_attachments(doc)
     paragraph(doc, "InkassoZentrale GmbH", before=18)
-    footer = section.footer.paragraphs[0]
-    footer.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-    footer.add_run("Seite ")
-    add_field(footer, "PAGE")
-    footer.add_run(" von ")
-    add_field(footer, "NUMPAGES")
-
     verify_content(doc)
-    doc.save(OUTPUT)
+    OUTPUT.write_bytes(office_bytes(doc))
     verify_content(Document(OUTPUT))
     print(OUTPUT)
     print("Inhalt vollständig gegen das Original geprüft.")

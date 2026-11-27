@@ -109,7 +109,7 @@
   "cases": [
     {
       "id": "modefuchs-inhalt-statt-dateiname",
-      "request": "Prüfe anhand der 47 Arbeitsdateien der vereinheitlichten ModeFuchs-Akte die Anlagenzuordnung des Hauptdokuments 30_Klage_Arbeitsfassung_20250725.docx. Die 28 erhaltenen Original-PDFs sind Quellen, keine neu zu formulierenden Dokumente. Erstelle ergebnis.md als internen Zuordnungs- und Produktionsbericht für die beA-Vorbereitung. Lies jeden Beleg und die echten Mailanhänge. Benenne, welche Dateien zusammengehören, welche nicht beigelegt werden, welche Hauptdokumentangaben fehlen und welche Prüfungen vor der Übergabe der PDF-Kopien noch erforderlich sind. Finalisiere den Klageinhalt nicht.",
+      "request": "Prüfe anhand der 47 Arbeitsdateien der vereinheitlichten ModeFuchs-Akte die Anlagenzuordnung des Hauptdokuments 30_Klage_Arbeitsfassung_20250725.docx. Die 28 gestalteten PDFs im Ordner originale sind deine Arbeitsbelege. Verwende ihren Wortlaut für die Anlagenzuordnung. Die unveränderten Quellbelege liegen im technischen Archiv außerhalb der Versandakte. Erstelle ergebnis.md als internen Zuordnungs- und Produktionsbericht für die beA-Vorbereitung. Lies jeden Beleg und die echten Mailanhänge. Benenne, welche Dateien zusammengehören, welche nicht beigelegt werden, welche Hauptdokumentangaben fehlen und welche Prüfungen vor der Übergabe der PDF-Kopien noch erforderlich sind. Finalisiere den Klageinhalt nicht.",
       "target_skill": "bea-anlagen-versand",
       "input_files": [
         "testakten/inkasso-zahlungsklage-modefuchs/10_email_zahlungseingang_modefuchs_inkasso.eml",
@@ -166,28 +166,28 @@
       "criteria": [
         {
           "id": "C01",
-          "text": "Maßgeblich ist das Anlagenverzeichnis K1 bis K12 der 30_Klage_Arbeitsfassung_20250725.docx: K1 Abtretung vom 08.06.2025 (Original 09, Scan Dokument1.pdf), K2 Bestellbestätigung vom 03.04.2025 (Original 01, auch in mail_Bestellung_1749.eml). Dokumentinhalt entscheidet; Original und Scan/MIME-Kopie werden nicht doppelt beigelegt.",
+          "text": "Maßgeblich ist das Anlagenverzeichnis K1 bis K12 der 30_Klage_Arbeitsfassung_20250725.docx: K1 Abtretung vom 08.06.2025 (Beleg 09, Scan Dokument1.pdf), K2 Bestellbestätigung vom 03.04.2025 (Beleg 01, auch in mail_Bestellung_1749.eml). Dokumentinhalt entscheidet; Original und Scan/MIME-Kopie werden nicht doppelt beigelegt.",
           "deliverables": [
             "ergebnis.md"
           ]
         },
         {
           "id": "C02",
-          "text": "K3 ist die Versandbestätigung (Original 02), K4 die Zustellbestätigung (Original 03), K5 die Rechnung (Original 04). Rechnung_April.eml enthält echte PDF-Anhänge zu K3 und K5; sie werden gelesen und den vorhandenen Belegen zugeordnet. Die gesamte E-Mail wird nicht automatisch zur Anlage K3 erklärt.",
+          "text": "K3 ist die Versandbestätigung (Beleg 02), K4 die Zustellbestätigung (Beleg 03), K5 die Rechnung (Beleg 04). Rechnung_April.eml enthält echte PDF-Anhänge zu K3 und K5; sie werden gelesen und den vorhandenen Belegen zugeordnet. Die gesamte E-Mail wird nicht automatisch zur Anlage K3 erklärt.",
           "deliverables": [
             "ergebnis.md"
           ]
         },
         {
           "id": "C03",
-          "text": "K6 ist die Erinnerung vom 20.04.2025 (Original 05), K7 die E-Mail-Mahnung vom 04.05.2025 (Original 06), K8 die Postmahnung vom 05.05.2025 (Original 07, Scan_20250610_113247.pdf), K9 die Postmahnung vom 22.05.2025 (Original 08, Scan007.pdf). K10/K11 sind die Inkassoschreiben vom 10.06./25.06.2025 (Originale 10/11), K12 die Gebührenrechnung (Original 12). Der Scan-Dateiname legt kein abweichendes Dokumentdatum fest.",
+          "text": "K6 ist die Erinnerung vom 20.04.2025 (Beleg 05), K7 die E-Mail-Mahnung vom 04.05.2025 (Beleg 06), K8 die Postmahnung vom 05.05.2025 (Beleg 07, Scan_20250610_113247.pdf), K9 die Postmahnung vom 22.05.2025 (Beleg 08, Scan007.pdf). K10/K11 sind die Inkassoschreiben vom 10.06./25.06.2025 (Belege 10/11), K12 die Gebührenrechnung (Beleg 12). Der Scan-Dateiname legt kein abweichendes Dokumentdatum fest.",
           "deliverables": [
             "ergebnis.md"
           ]
         },
         {
           "id": "C04",
-          "text": "Das Hauptdokument ist auf den 25.07.2025 datiert; offene Datumsfelder oder Bearbeitungsvermerke aus der früheren Variante werden nicht unterstellt. Tatsächliche offene Angaben und Widersprüche zu Zahlungsunterlagen werden vor Freigabe benannt, nicht stillschweigend berichtigt oder materiellrechtlich finalisiert. Nur erste Anlagenseiten stempeln, die 28 Original-PDFs bytegleich sichern und visuelle Prüfung vorsehen.",
+          "text": "Das Hauptdokument ist auf den 25.07.2025 datiert; offene Datumsfelder oder Bearbeitungsvermerke aus der früheren Variante werden nicht unterstellt. Tatsächliche offene Angaben und Widersprüche zu Zahlungsunterlagen werden vor Freigabe benannt, nicht stillschweigend berichtigt oder materiellrechtlich finalisiert. Nur erste Anlagenseiten stempeln, die 28 übergebenen PDF-Nutzfassungen bytegleich sichern und visuelle Prüfung vorsehen.",
           "deliverables": [
             "ergebnis.md"
           ]

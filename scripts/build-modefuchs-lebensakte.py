@@ -3,6 +3,8 @@
 
 from email import policy
 from email.message import EmailMessage
+from html import escape
+from io import BytesIO
 from pathlib import Path
 import json
 import mimetypes
@@ -11,6 +13,10 @@ import tempfile
 
 from pypdf import PdfReader
 from reportlab.pdfgen.canvas import Canvas
+
+from modefuchs_belege import build_originals
+
+from modefuchs_briefpapier import draw_signet
 
 ROOT = Path(__file__).resolve().parents[1]
 CASE = ROOT / 'testakten/inkasso-zahlungsklage-modefuchs'
@@ -28,6 +34,40 @@ def message_body(row, records):
     return body
 
 
+def shop_signet_png():
+    stream = BytesIO()
+    sheet = Canvas(stream, pagesize=(44, 42), invariant=1)
+    draw_signet(sheet, sender='modefuchs', x=0, y=0, scale=1)
+    sheet.showPage()
+    sheet.save()
+    return subprocess.run(
+        ['pdftocairo', '-singlefile', '-png', '-transp', '-r', '288', '-', '-'],
+        input=stream.getvalue(), capture_output=True, check=True, timeout=30,
+    ).stdout
+
+
+def add_shop_mail_html(message, row, body, signet):
+    # Der Shopmailer verschickt dieselbe Nachricht als Klartext und als Geschäfts-E-Mail.
+    paragraphs = ''.join('<p>' + escape(part).replace('\n', '<br>') + '</p>'
+                         for part in body.strip().split('\n\n'))
+    mark_id = 'signet.' + row['id'].strip('<>')
+    html = f'''<!doctype html>
+<html lang="de"><body style="margin:0;padding:24px;color:#292621;background:white">
+<div style="max-width:620px;font:16px/1.55 Arial,sans-serif">
+<div style="padding:0 0 14px;border-bottom:1px solid #9c7057">
+<img src="cid:{mark_id}" width="44" height="42" alt="" style="vertical-align:middle">
+<span style="vertical-align:middle;font:30px Georgia,serif">ModeFuchs</span></div>
+<h1 style="font:22px/1.25 Georgia,serif">{escape(row['subject'])}</h1>
+{paragraphs}</div></body></html>'''
+    message.add_alternative(html, subtype='html', charset='utf-8', cte='quoted-printable')
+    boundary = '=_modefuchs_' + Path(row['file']).stem
+    message.set_boundary(boundary + '_alt')
+    related = message.get_payload()[-1]
+    related.add_related(signet, maintype='image', subtype='png',
+                        cid=f'<{mark_id}>', disposition='inline')
+    related.set_boundary(boundary + '_bild')
+
+
 def build_scans():
     originals = {
         'Scan_20250610_113247.pdf': '07_Erste_Mahnung_Post_05-05-2025.pdf',
@@ -38,7 +78,7 @@ def build_scans():
         source = CASE / 'originale' / original
         with tempfile.TemporaryDirectory(prefix='modefuchs-scan-') as temporary:
             prefix = Path(temporary) / 'blatt'
-            subprocess.run(['pdftoppm', '-r', '140', '-png', str(source), str(prefix)],
+            subprocess.run(['pdftocairo', '-r', '160', '-png', str(source), str(prefix)],
                            check=True, capture_output=True, timeout=90)
             images = sorted(Path(temporary).glob('blatt-*.png'))
             pages = PdfReader(source).pages
@@ -56,8 +96,10 @@ def build_scans():
 
 
 def build():
+    build_originals()
     build_scans()
     records = json.loads(SOURCE.read_text(encoding='utf-8'))
+    signet = shop_signet_png()
     for row in records:
         message = EmailMessage(policy=policy.SMTP)
         for header, key in (('From', 'from'), ('To', 'to'), ('Date', 'date'),
@@ -69,7 +111,10 @@ def build():
             message['In-Reply-To'] = row['reply_to']
             message['References'] = row['reply_to']
         message['X-Mailer'] = row.get('mailer', 'Desktop Mail 7.4')
-        message.set_content(message_body(row, records), charset='utf-8', cte='quoted-printable')
+        body = message_body(row, records)
+        message.set_content(body, charset='utf-8', cte='quoted-printable')
+        if row.get('mailer') == 'ShopMailer 7.4':
+            add_shop_mail_html(message, row, body, signet)
         attachments = row.get('attachments', [])
         attachment_names = row.get('attachment_names', {})
         if attachments:

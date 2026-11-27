@@ -108,7 +108,8 @@ jobs:
           python3 scripts/test-testakte-pdf-build.py
           python3 scripts/test-testakte-projektordner.py
           python3 scripts/test-fintech-bremen.py
-          python3 scripts/test-modefuchs-lebensakte.py
+          python3 scripts/test-modefuchs-lebensakte.py --assets docs/downloads/modefuchs
+          python3 scripts/build-modefuchs-downloads.py --check
           python3 scripts/test-gesellschafter-vorfuehrakten.py
           python3 scripts/test-kommunale-haftpflicht.py
           python3 scripts/test-geburtsschaden-akte.py

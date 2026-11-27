@@ -11,7 +11,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
+Öffnen Sie im Originalformat-ZIP zuerst `Grundakte`. Dort liegen die Rechnung über 698 Euro, die Mahnungen, die Abtretung und die Zahlungsbelege. Vergleichen Sie die Empfänger und Verwendungszwecke mit den E-Mails zur Weiterleitung. Die Schriftsätze und das bearbeitbare Forderungskonto finden Sie außerhalb der Grundakte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -19,14 +19,14 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-inkasso-zahlungsklage-modefuchs.zip) · [Druckpaket 21](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-21.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/modefuchs/lebensakte-inkasso-zahlungsklage-modefuchs.zip) · [Druckfassungen dieses Falls](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/modefuchs/druckakte-inkasso-zahlungsklage-modefuchs.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf`](gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-inkasso-zahlungsklage-modefuchs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-inkasso-zahlungsklage-modefuchs.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-inkasso-zahlungsklage-modefuchs.zip](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/modefuchs/testakte-inkasso-zahlungsklage-modefuchs.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/modefuchs/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
 
 Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
 
-English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
+English: Start with `Grundakte` in the original-format ZIP. Match the invoice for 698 euros to the reminders, assignment, payment records and forwarding emails. The pleadings and editable account are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -40,7 +40,9 @@ Dieselbe Akte ist zusätzlich dem Plugin `bea-versand` mit dem Skill `bea-anlage
 
 ModeFuchs GmbH verkauft Ware für 698,00 EUR an Gottlieb von Altenhausen. Die Unterlagen umfassen Bestellung, Lieferung, Rechnung, elektronische und postalische Mahnungen, Abtretung an die InkassoZentrale GmbH sowie das anschließende Verfahren. Kontoauszüge, Zahlungsbestätigungen, Buchungsunterlagen und Korrespondenz ergänzen den Verfahrensbestand. Weitere Themen sind Nebenforderungen, ein Anschriftenwechsel und der Zugang von Rechnungen und Mahnungen.
 
-Diese Akte verbindet die ausführliche PDF-Akte mit nativen E-Mails, Anhängen, Bildern und bearbeitbaren Unterlagen. Es gibt einen gemeinsamen Fallbestand, keinen gesonderten Cowork-Nebenfall. Die 28 ursprünglichen PDF-Dateien bleiben unverändert, einschließlich der darin enthaltenen Parteibehauptungen. Die Klagearbeitsfassung ist ein zu bearbeitender Parteischriftsatz, keine Musterlösung oder Versandfreigabe.
+ModeFuchs, die InkassoZentrale, die Kanzlei Brezelmann & Collegen und die Musterbank treten mit eigenem Briefpapier auf. An den Geschäftszeichen lassen sich die Bestellung, die Inkassoakte und das Anwaltsmandat auch dann zuordnen, wenn ein Schreiben als Scan oder E-Mail-Anhang eingeht. Die bearbeitbare Klageschrift gibt den Vortrag der Klägerin wieder. Prüfen Sie ihn gegen die Belege, insbesondere gegen den Kontoauszug und die spätere Zahlungsbestätigung.
+
+Im [Ordner mit den Schriftstücken](originale/) finden Sie die Rechnung von ModeFuchs unter Nr. 04, die erste Zahlungsaufforderung der InkassoZentrale unter Nr. 10 und das Antwortschreiben der Kanzlei Brezelmann unter Nr. 20.
 
 <!-- decimal-anchor --> <a id="unterlagenbestand"></a>
 
@@ -48,7 +50,7 @@ Diese Akte verbindet die ausführliche PDF-Akte mit nativen E-Mails, Anhängen, 
 
 | Datei oder Bestand | Inhalt |
 | --- | --- |
-| `originale/` | 28 unveränderte Original-PDFs vom Aktenverzeichnis bis zur Zahlungsbestätigung, einschließlich Mahn- und Verfahrensunterlagen. |
+| `originale/` | 28 Aktenstücke als PDF, darunter Rechnung, Mahnungen, Verfahrensunterlagen und Zahlungsbestätigung. |
 | `Scan_20250610_113247.pdf` | Bildbasierte Scanableitung aus `originale/07_Erste_Mahnung_Post_05-05-2025.pdf`. |
 | `Scan007.pdf` | Bildbasierte Scanableitung aus `originale/08_Zweite_Mahnung_Post_22-05-2025.pdf`. |
 | `Dokument1.pdf` | Bildbasierte Scanableitung aus `originale/09_Abtretungserklaerung_08-06-2025.pdf`. |
@@ -59,7 +61,7 @@ Diese Akte verbindet die ausführliche PDF-Akte mit nativen E-Mails, Anhängen, 
 | `30_Klage_Arbeitsfassung_20250725.docx` | Bearbeitbare Klagearbeitsfassung mit Anlagen K1 bis K12, entsprechend `originale/23_Klageschrift_InkassoZentrale_25-07-2025.pdf`. |
 | `31_Forderungskonto_Arbeitsstand_20250705.xlsx` | Native Excel-Arbeitsmappe mit Vorbestand und Gutschrift; keine Zinsneuberechnung. |
 
-Die drei Scan-PDFs bilden die genannten Hauptoriginale ab; sie übernehmen nicht die abweichenden Scans des früheren Nebenfalls. Die ursprünglichen PDF-Unterlagen und die bildbasierten Fassungen bleiben als unterschiedliche Darstellungen derselben Belege nachvollziehbar.
+Die drei Scans bilden dieselben Schriftstücke ab wie die jeweils genannten PDFs. Wer die Gestaltung mit der zugrunde liegenden fiktiven Schulungsakte vergleichen möchte, findet deren 28 unveränderte [Quellbelege im Repository](../../scripts/fixtures/modefuchs/quellbelege/).
 
 <!-- decimal-anchor --> <a id="nachrichten-und-anhänge"></a>
 
@@ -87,12 +89,14 @@ Die EML enthalten die Anhänge als eingebettete Dateien. Dieselben Belege liegen
 
 Technische Prüfdaten, frühere Metadaten, Claim-Gate-Beispiele und Lösungsmemos liegen getrennt unter `quality/fixtures/modefuchs`. Sie gehören nicht zu den Akten-Downloads. Die fachliche Bewertung erfolgt anhand der Unterlagen; die Aufbereitung als PDF oder ZIP ersetzt weder eine rechtliche Freigabe noch eine elektronische Einreichung.
 
-## Weitere Unterlagen im Mandat
+<!-- decimal-anchor --> <a id="weitere-unterlagen-im-mandat"></a>
 
-Kontenblatt und Antwort der Sachbearbeitung verbinden die Direktzahlung mit ihrer Weiterleitung. Für den Abgleich sind Buchungsstelle und Gegenkonto maßgeblich. Die Vollakte enthält die Aktenunterlagen und die beiden Belege im Ordner `Nachlieferung`. Die separaten PDF-Fassungen zeigen den Fall vor dem Eingang der beiden Belege.
+## 1.6. Weitere Unterlagen im Mandat
+
+Kontenblatt und Antwort der Sachbearbeitung verbinden die Direktzahlung mit ihrer Weiterleitung. Für den Abgleich sind Buchungsstelle und Gegenkonto maßgeblich. Im ZIP mit Nachlieferung liegen die beiden Belege im Ordner `Nachlieferung`. Das Arbeits-ZIP mit Eingangspost und die zugehörigen Druckfassungen enthalten sie ebenfalls. Das separate Gesamt-PDF und das Einzel-PDF-ZIP zeigen den Aktenstand vor der Nachlieferung.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-[Vollständige Originalakte mit Nachlieferung herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/inkasso-zahlungsklage-modefuchs-mit-nachtrag.zip)
+[Vollständige Originalakte mit Nachlieferung herunterladen](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/modefuchs/inkasso-zahlungsklage-modefuchs-mit-nachtrag.zip)
