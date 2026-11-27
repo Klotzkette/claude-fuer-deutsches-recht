@@ -10,6 +10,7 @@ from public_release import DOWNLOAD_BASE, PROMPT_SUFFIXES, PUBLIC_MARKETPLACE, R
 from testakte_notices import README_NOTICE, with_case_warnings
 sys.path.append(str(ROOT.parent / "scripts"))
 from skill_sources import original_skill_sources, registry
+from aktenarbeit_katalog import VERZEICHNIS, kapitel
 
 
 # Gemeinsame Testakten liegen im uebergeordneten Repository. Nur deklarierte
@@ -41,6 +42,25 @@ def expected_active_skills(role: str) -> set[str] | None:
 
 def public_target_error(target: str, *, parent_root: Path) -> str | None:
     if "/main/vergaberecht-werkstatt" in target:
+        return None
+    case_prefix = f"https://github.com/{REPOSITORY}/blob/main/{VERZEICHNIS.as_posix()}/"
+    if target.startswith(case_prefix):
+        chapter, _, anchor = target[len(case_prefix):].partition("#")
+        match = re.fullmatch(r"fall-([a-z0-9]+(?:-[a-z0-9]+)*)", anchor)
+        if not match or chapter != kapitel(match[1]):
+            return f"Unbekanntes Fallkapitel oder falscher Anker: {target}"
+        catalog = (parent_root / VERZEICHNIS).resolve()
+        if not catalog.is_relative_to(parent_root.resolve()):
+            return f"Fallkatalog liegt außerhalb des Repositorys: {target}"
+        index, page = catalog / "bestand.json", catalog / chapter
+        if not all(p.resolve().is_relative_to(catalog) and p.is_file() for p in (index, page)):
+            return f"Deklarierter Fallkatalog fehlt: {target}"
+        records = json.loads(index.read_text(encoding="utf-8"))["faelle"]
+        if not any(row["id"] == match[1] and row["fallpfad"].startswith("vergaberecht-werkstatt/")
+                   for row in records):
+            return f"Kein Vergabefall im zentralen Katalog: {target}"
+        if f'<a id="{anchor}"></a>' not in page.read_text(encoding="utf-8"):
+            return f"Fallanker fehlt im zugeordneten Kapitel: {target}"
         return None
     relative = {**SHARED_CASE_READMES, **SHARED_NAVIGATION}.get(target)
     if relative is None:

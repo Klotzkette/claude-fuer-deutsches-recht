@@ -123,6 +123,28 @@ class PublicIntegrationTests(unittest.TestCase):
                 with self.subTest(target=target):
                     self.assertIsNotNone(public_validation.public_target_error(target, parent_root=parent))
 
+    def test_aktenbrief_verlangt_registrierten_vergabefall_und_echten_kapitelanker(self):
+        case = "interstate-01"
+        anchor = f"fall-{case}"
+        chapter = public_validation.kapitel(case)
+        with tempfile.TemporaryDirectory() as directory:
+            parent = Path(directory)
+            catalog = parent / public_validation.VERZEICHNIS
+            catalog.mkdir(parents=True)
+            target = f"https://github.com/{REPOSITORY}/blob/main/{public_validation.VERZEICHNIS}/{chapter}#{anchor}"
+            index = catalog / "bestand.json"
+            page = catalog / chapter
+            row = {"id": case, "fallpfad": "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/01"}
+            index.write_text(json.dumps({"faelle": [row]}))
+            page.write_text(f'<a id="{anchor}"></a>')
+            self.assertIsNone(public_validation.public_target_error(target, parent_root=parent))
+            self.assertIsNotNone(public_validation.public_target_error(target.replace(chapter, "faelle-t-z.md"), parent_root=parent))
+            page.write_text("# Akten")
+            self.assertIsNotNone(public_validation.public_target_error(target, parent_root=parent))
+            page.write_text(f'<a id="{anchor}"></a>')
+            index.write_text(json.dumps({"faelle": [{**row, "fallpfad": "patentrecht/beispiel"}]}))
+            self.assertIsNotNone(public_validation.public_target_error(target, parent_root=parent))
+
     def test_working_downloads_leave_navigation_and_code_unchanged(self):
         destination = "skills/example/SKILL.md"
         link = f"[Skill]({destination})"
