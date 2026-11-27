@@ -253,6 +253,20 @@ class ExportContractTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'PDF.*(enthält nicht|Seitenumfang)'):
             self.validate()
 
+    def test_pages_swapped_despite_valid_count_and_refreshed_hash(self) -> None:
+        original = PdfReader(io.BytesIO(self.members[self.pdf_member]))
+        writer = PdfWriter()
+        for index in [1, 0, *range(2, len(original.pages))]:
+            writer.add_page(original.pages[index])
+        output = io.BytesIO()
+        writer.write(output)
+        modified = output.getvalue()
+        self.members[self.pdf_member] = modified
+        self.row['pdf_sha256'] = digest(modified)
+        self.write_candidate()
+        with self.assertRaisesRegex(ValueError, 'Seitenfolge'):
+            self.validate()
+
     def test_false_word_count_in_evidence_and_zip(self) -> None:
         self.row['words'] += 123
         self.write_candidate()
