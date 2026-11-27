@@ -1,38 +1,45 @@
 ---
 name: arbeitsprodukt-bearbeiten
-description: "Erstellt für die Vergabestelle Wertungsmatrix und Wertungsvermerk aus den festgelegten Preis- und Qualitätskriterien. Dokumentiert Ergebnisse, Belegstellen und offene Aufklärung vor der Zuschlagsentscheidung."
+description: "Wertet Angebote für die Vergabestelle je Los nach den bekannt gemachten Preis- und Qualitätskriterien aus. Erstellt die nachrechenbare Wertungsmatrix und begründet den Zuschlagsvorschlag oder die noch offene Wertungsentscheidung."
 ---
 
-# Arbeitsprodukt
+# Wertungsmatrix und Wertungsvermerk erstellen
 
 ## 1. Zweck und Anwendungsfall
 
-Arbeitsprodukt: Rügeschreiben, Nachpruefungsantrag, Auftraggebervermerk oder Wertungsmemo erstellen.
-
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+Die Vergabestelle muss erklären können, warum ein Angebot für ein bestimmtes Los vor dem anderen liegt. Rechne die Angebote anhand der veröffentlichten Wertungsregeln durch und formuliere den Vermerk für die zeichnungsberechtigte Stelle. Wer ihn liest, soll die entscheidende Angebotsaussage, die dazugehörige Punktestufe und die Auswirkung auf den Rang in der Akte wiederfinden.
 
 ## 2. Eingaben
 
-- Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.
-- Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen.
+- Arbeite mit der maßgeblichen Fassung von Bekanntmachung, Vergabeunterlagen, Kriterien, Gewichtung, Preisformel und Antworten an alle Unternehmen. Halte fest, für welches Los und welchen Stichtag sie gelten.
+- Ziehe die zum Fristablauf eingegangenen Preisblätter und Konzepte, die Ergebnisse der formalen Prüfung und Eignungsprüfung, dokumentierte Aufklärungen, Prüfprotokolle sowie vorhandene Einzelwertungen heran. Bei einer Überprüfung nach der Vorabinformation gehören deren Wortlaut und Versandnachweis zur Akte.
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Wertbare Angebote und Maßstab festhalten
 
-Arbeitsprodukt: Rügeschreiben, Nachpruefungsantrag, Auftraggebervermerk oder Wertungsmemo erstellen.
+Nenne Auftragsgegenstand, Los, maßgebliches Vergaberegime und Stand des Verfahrens. Weise jedes vorliegende Angebot entweder der Wertung oder einer gesondert begründeten Vorentscheidung zu. Eine offene Ausschlussfrage, ungeklärte Mindestanforderung oder notwendige Preisaufklärung wird mit Beleg und Auswirkung ausgewiesen. Ordne die Zuschlagswertung im einschlägigen Regime ein, bei einer Dienstleistung im VgV-Verfahren insbesondere anhand von § 127 GWB und § 58 VgV.
 
-### 3.2. Arbeitsschritt
+### 3.2. Preise und Punkte je Los nachrechnen
 
-Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
+Übertrage Wertungspreis, Mengenansätze, zulässige Nachlässe und Optionen aus den maßgeblichen Feldern. Rechne mit der für das Los festgelegten Formel und der vorgeschriebenen Rundung. Lege den Rechenweg so offen, dass die Kämmerei oder die Vergabeprüfung ihn aus den angebotenen Zahlen wiederholen kann. Gleiche Abweichungen zwischen Portalexport, Preisblatt und Wertungsbogen anhand der Unterlagen auf. Ein fehlender Wert bleibt bis zur Klärung offen.
 
-### 3.3. Arbeitsschritt
+Beispiel aus der Testakte Prüfbuch West, Los 1. Die Preisformel lautet 40 × niedrigster wertbarer Lospreis / eigener Lospreis. Die Qualitätswerte stammen aus dem ersten Wertungsbogen.
 
-Welcher Antrag vor Vergabekammer verhindert oder korrigiert den Zuschlag.
+| Angebot | Lospreis netto | Preispunkte | Offline-Erfassung und Übergabe | Bildzuordnung E3 | Summe im Erstvermerk |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Planquell | 380.000 € | 40 | 32 | 10 | 82 |
+| Pultfeld | 400.000 € | 38 | 31 | 20 | 89 |
 
-### 3.4. Arbeitsschritt
+Bei Pultfeld ergeben sich 40 × 380.000 / 400.000 = 38 Preispunkte. Bei Planquell hängt der Rang an der Bewertung der Bildzuordnung.
 
-Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten.
+### 3.3. Qualität aus den Angebotsbelegen begründen
+
+Ordne jeder streitigen Punktzahl die genaue Angebotsstelle oder Beobachtung im vorgesehenen Test zu. Benenne, welches veröffentlichte Merkmal erfüllt ist und was zur nächsten Punktestufe fehlt. Wende denselben Maßstab auf alle Angebote an. Dokumentiere abweichende Einschätzungen der Prüfenden und den begründeten gemeinsamen Befund. Erfinde keine fehlenden Unterkriterien, Punktestufen oder nachträglichen Angebotsverbesserungen. Falls Aufklärung nötig ist, bestimme Gegenstand, rechtlich zulässigen Umfang und die Wirkung auf die Freigabe.
+
+### 3.4. Über Rang und Freigabe entscheiden
+
+Stelle den Abstand zwischen den entscheidenden Angeboten dar. Formuliere die Beschlussempfehlung mit Betrag, Rang, tragendem Unterschied und maßgeblichem Aktenstand. Hängt der Rang von einem offenen Nachweis ab, berechne beide Varianten und benenne, wer ihn vor welcher Entscheidung prüft. Änderungen nach einer Vorabinformation erhalten eine eigene datierte Fassung. Bei geändertem Zuschlagsvorschlag prüfe die erneute Information der betroffenen Unternehmen und die anwendbare Wartefrist.
 
 ### 3.5. Fachvertiefungen gezielt laden
 
@@ -54,12 +61,12 @@ Schriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 
 
 <!-- END output-format-block (autogen) -->
 
-- Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „Arbeitsprodukt“, mit konkreten Belegstellen und erkennbaren offenen Punkten.
-- Nur soweit hilfreich: eine Vergleichstabelle, Zeitleiste oder grafische Übersicht zusätzlich zum vollständigen Text.
+- Eine ausgefüllte Matrix mit einem nachrechenbaren Ergebnis je Angebot und Los sowie ein ausformulierter Wertungsvermerk mit Verfahrensstand, Belegstellen, Einzelbegründung der streitigen Wertungen und Entscheidungsvorschlag. Dokumentiere Prüfende, Datum und tatsächlich erteilte Freigaben.
+- Eine offene Wertungsfrage endet mit einer konkreten Beweisanforderung und ihrer Wirkung auf den beabsichtigten Zuschlag. Sobald der Beleg vorliegt, führe Matrix und Vermerk mit demselben Datenstand fort.
 
 Liefere das beauftragte Dokument vollständig in ausformuliertem Text mit Dezimalgliederung. Für juristische Schriftsätze und Gutachten ist die Zieltypografie Times New Roman 11 pt; Tabellen und Grafiken ergänzen die Begründung. Wähle zur Aufgabe passende Vergleiche, Zeitleisten oder andere Visualisierungen. Nutze eine interaktive Ansicht nur, wenn die Laufzeit sie tatsächlich bereitstellt; stelle sonst eine unmittelbar lesbare Tabelle oder Grafik bereit. Kennzeichne fehlende Daten und offene Prüfungen an der betroffenen Stelle und schließe mit dem konkreten nächsten Arbeitsschritt.
 
 ## 6. Beispiele
 
-- Ein Auftrag zu „Wertung Leistung und Preis“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
-- Ein Auftrag zu „Wertungsvermerk erstellen“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
+- Musterabsatz für die Vergabeakte Prüfbuch West nach Eingang des Testprotokolls vom 11. November. „Die Erstwertung begründet den Abzug bei Planquell mit dem fehlenden Bildverweis im Hauptblatt. Antwort Nr. 6 lässt eine zweite Tabelle mit identischer Vorgangsnummer zu. Im gesicherten Export steht C-017 sowohl in Zeile 3 des Hauptblatts als auch in Zeile 7 der Bilderliste. Ob sich der Bildverweis in der seinerzeit vorgeführten Fassung ohne manuelle Nacherfassung zuordnen ließ, ist im Protokoll offen. Die Prüfleitung gleicht die damaligen Dateien mit dem Testauftrag ab und dokumentiert ihren Befund vor einer Zuschlagsfreigabe.“
+- Musterabsatz zur Rangfolge. „Bleibt es bei zwei vollständigen Testvorgängen, erreicht Planquell 82 und Pultfeld 89 Punkte. Sind alle drei Zuordnungen belegt, erhält Planquell 20 Punkte für E3 und insgesamt 92 Punkte. Damit wechselt der erste Rang. Die übrigen Qualitätswerte bleiben nach den abgezeichneten Bögen von diesem Prüfschritt unberührt.“

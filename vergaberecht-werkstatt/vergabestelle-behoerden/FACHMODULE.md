@@ -1,18 +1,34 @@
-# Fachmodule und Arbeitswege
+<a id="fachmodule-und-arbeitswege"></a>
 
-122 vollständige Fachmodule sind über 8 auswählbare Skills erreichbar. Die Arbeitswege verbinden verwandte Aufgaben; die Fachtexte, Werkzeuge und Vorlagen werden nach Bedarf geladen.
+# Fachmodule für die Vergabestelle
 
-[Plugin-Einstieg](README.md)
+Die 8 Arbeitswege erschließen den Hauptskill und 121 Fachvertiefungen. Wählen Sie einen Arbeitsweg, wenn Sie eine Entscheidung oder einen Entwurf brauchen. Für eine einzelne Fachfrage können Sie direkt zum passenden Prüfschritt oder Rechtsgebiet springen.
 
-Ein Fachmodul ist eine Vertiefung innerhalb eines Skills. Einzeln heruntergeladene Markdown-Dateien enthalten verknüpfte Hilfsdateien nicht; das Plugin-ZIP enthält den vollständigen Zusammenhang.
+[Aufträge und Beispiele im Plugin-Einstieg](README.md#skills)
 
-## 1. Direkte Einstiege und Fachwerkzeuge
+1. [Beschaffungsvorgang übernehmen und entscheiden](#1-direkte-einstiege-und-fachwerkzeuge)
+2. [Auftragswert schätzen und Vergabeverfahren wählen](#2-vergabeart-und-schwelle)
+3. [Vergabeunterlagen erstellen und zur Freigabe prüfen](#3-vergabeunterlagen)
+4. [Bieterrüge prüfen und beantworten](#4-rüge)
+5. [Nachprüfungsverfahren vor der Vergabekammer bearbeiten](#5-nachpruefung)
+6. [Wertungsmatrix und Wertungsvermerk erstellen](#6-arbeitsprodukt)
+7. [Vergabeakte auswerten und Beleglücken klären](#7-unterlagen-und-quellen-auswerten)
+8. [Vergabevorlagen gegenlesen und zur Entscheidung vorlegen](#8-arbeitsprodukt-ausarbeiten-und-kontrollieren)
 
-- [Vergabestellen-Cockpit: sichert Verfahren, Fristen, Unterlagen, Wertung, Rechtsschutz und Veröffentlichung.](skills/vergabe-os-master-orchestrator/SKILL.md)
+<a id="1-direkte-einstiege-und-fachwerkzeuge"></a>
 
-## 2. Vergabeart und Schwelle
+## 1. Beschaffungsvorgang übernehmen und entscheiden
 
-Vergabeart und Schwelle: Auftraggeber, Auftragsgegenstand, Schaetzung, Verfahrensart und Fristen klaeren.
+Entscheidungsvorlage mit Empfehlung, offenen Freigaben und nächstem Termin.
+
+[Arbeitsweg öffnen](skills/vergabe-os-master-orchestrator/SKILL.md)
+
+
+<a id="2-vergabeart-und-schwelle"></a>
+
+## 2. Auftragswert schätzen und Vergabeverfahren wählen
+
+Auftragswertschätzung, Vergleich der Loszuschnitte und begründete Verfahrenswahl.
 
 [Arbeitsweg öffnen](skills/vergabeart-und-schwelle-bearbeiten/SKILL.md)
 
@@ -27,12 +43,12 @@ Vergabeart und Schwelle: Auftraggeber, Auftragsgegenstand, Schaetzung, Verfahren
 - [Rechnerische Prüfung](skills/15-rechnerische-pruefung/FACHINHALT.md)
 - [Formelle Prüfung](skills/16-formelle-pruefung/FACHINHALT.md)
 - [Vorabinformation § 134 GWB](skills/19-vorabinformation-paragraf-134/FACHINHALT.md)
-- [Aufhebung rechtssicher](skills/21-aufhebung-rechtssicher/FACHINHALT.md)
+- [Aufhebung der Ausschreibung begründen](skills/21-aufhebung-rechtssicher/FACHINHALT.md)
 - [Selbstreinigung § 125 GWB](skills/27-selbstreinigung-paragraf-125/FACHINHALT.md)
-- [Datenschutz Bieterdaten](skills/30-datenschutz-bieterdaten/FACHINHALT.md)
+- [Personenbezogene Bieterdaten schützen](skills/30-datenschutz-bieterdaten/FACHINHALT.md)
 - [Angebotsöffnung, Formfehler und Preisblatt prüfen](skills/angebotsoeffnung-formfehler-preisblatt/FACHINHALT.md)
 - [Auftragswert und Losbildung berechnen](skills/auftragswert-losbildung-rechner/FACHINHALT.md)
-- [Ausschluss Bieter § 124 GWB](skills/ausschluss-bieter-paragraf-124-gwb/FACHINHALT.md)
+- [Fakultativen Ausschluss nach § 124 GWB prüfen](skills/ausschluss-bieter-paragraf-124-gwb/FACHINHALT.md)
 - [Bestangebot durchsetzen](skills/bestangebot-durchsetzen/FACHINHALT.md)
 - [Bundeswehrbeschaffung nach dem BwBBG 2026 steuern](skills/bundeswehrbeschaffung-bwbbg-2026/FACHINHALT.md)
 - [De-facto-Vergabe und Unwirksamkeit nach § 135 GWB](skills/de-facto-vergabe-135-gwb-fristen/FACHINHALT.md)
@@ -40,24 +56,24 @@ Vergabeart und Schwelle: Auftraggeber, Auftragsgegenstand, Schaetzung, Verfahren
 - [Erstprüfung, Rollenklärung und Mandatsziel](skills/erstpruefung-und-mandatsziel/FACHINHALT.md)
 - [EU-Schwelle, Auftragswert und Vergaberegime festlegen](skills/eu-schwelle-vergabeordnung-richtlinie-2014-24/FACHINHALT.md)
 - [Fördermittelvergabe und Rückforderungsrisiko prüfen](skills/foerdermittelvergabe-rueckforderung/FACHINHALT.md)
-- [Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich prüfen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben](skills/inhouse-interkommunal/FACHINHALT.md)
+- [Auftrag an eine eigene Gesellschaft oder eine andere Kommune prüfen](skills/inhouse-interkommunal/FACHINHALT.md)
 - [Insolvenz und Auftragnehmerwechsel nach § 132 GWB](skills/insolvenz-und-132-gwb-auftragnehmerwechsel/FACHINHALT.md)
 - [IT-Sicherheitsvergabe auf Auftraggeberseite](skills/it-sicherheits-vergabe-bsi-it-sig-2/FACHINHALT.md)
 - [KI-, Cloud- und Datenbeschaffung strukturieren](skills/ki-beschaffung-ai-act-daten-cloud/FACHINHALT.md)
 - [Konzessionsvergabe: Abgrenzung und Verfahren freigeben](skills/konzessionsvergabe-konzvgv/FACHINHALT.md)
-- [Neue Vergabeakte der Vergabestelle automatisch triagieren](skills/mandat-triage-vergaberecht/FACHINHALT.md)
+- [Bei Akteneingang Fristen und anstehende Entscheidungen erkennen](skills/mandat-triage-vergaberecht/FACHINHALT.md)
 - [Markterkundung und Vorbefassung rechtssicher steuern](skills/markterkundung-und-vorbefassung/FACHINHALT.md)
 - [Nachhaltigkeit, Tariftreue und Lieferkette gestalten](skills/nachhaltigkeit-tariftreue-lksg-cbam/FACHINHALT.md)
-- [Öffentlich Privat Partnerschaft](skills/oeffentlich-privat-partnerschaft/FACHINHALT.md)
+- [Öffentlich-private Partnerschaft prüfen](skills/oeffentlich-privat-partnerschaft/FACHINHALT.md)
 - [Rahmenvereinbarung, Abruf und Mini-Wettbewerb steuern](skills/rahmenvereinbarung-abrufe-mini-wettbewerb/FACHINHALT.md)
 - [Rahmenvereinbarung: Internationaler Bezug und Schnittstellen](skills/rahmenvereinbarung-international-schnittstellen/FACHINHALT.md)
 - [Resilienz-, Sicherheits- und KRITIS-Beschaffung](skills/resilienz-sicherheit-kritische-infrastruktur/FACHINHALT.md)
 - [EU-Schwellenwerte und Bund-Länder-Wertgrenzen 2026/2027 sicher prüfen](skills/schwellenwerte-2026-2027-livecheck/FACHINHALT.md)
 - [Sektorenvergabe: Regime und Verfahren freigeben](skills/sektorenvergabe-sektvo/FACHINHALT.md)
 - [Ungewöhnlich niedriges Angebot nach § 60 VgV prüfen](skills/ungewoehnlich-niedriges-angebot/FACHINHALT.md)
-- [Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg](skills/uvgo-fristen-form-und-zustaendigkeit/FACHINHALT.md)
+- [Unterschwellenvergabe nach UVgO auf Fristen, Form und Zuständigkeit prüfen](skills/uvgo-fristen-form-und-zustaendigkeit/FACHINHALT.md)
 - [Verfahrenswahl-Kompass der Vergabestelle](skills/verfahrenswahl-kompass/FACHINHALT.md)
-- [Verg: Mehrparteienkonflikt und Interessenmatrix](skills/verg-mehrparteien-konflikt-und-interessen/FACHINHALT.md)
+- [Interessen und Zuständigkeiten mehrerer Beteiligter klären](skills/verg-mehrparteien-konflikt-und-interessen/FACHINHALT.md)
 - [Rahmenvereinbarung oder Konzession richtig strukturieren](skills/verg-rahmenvereinbarung-konzession-spezial/FACHINHALT.md)
 - [Ausschluss und Selbstreinigung aus Auftraggebersicht entscheiden](skills/vergabesperre-korruption-selbstreinigung/FACHINHALT.md)
 - [Inhouse und interkommunale Zusammenarbeit](skills/vertiefung-inhouse-interkommunal/FACHINHALT.md)
@@ -67,12 +83,14 @@ Vergabeart und Schwelle: Auftraggeber, Auftragsgegenstand, Schaetzung, Verfahren
 - [Verhandlungsverfahren und wettbewerblicher Dialog](skills/vertiefung-verhandlungsverfahren-dialog/FACHINHALT.md)
 - [Vertiefte Prüfung einer Bauvergabe nach VOB/A](skills/vertiefung-vob-a-bauvergabe/FACHINHALT.md)
 - [Bauvergabe nach VOB/A aus Auftraggebersicht steuern](skills/vob-a-bauvergabe/FACHINHALT.md)
-- [Wirklichkeitsdaten Beschaffung Steuern](skills/wirklichkeitsdaten-beschaffung-steuern/FACHINHALT.md)
+- [Betriebs- und Planungsdaten für die Beschaffung prüfen](skills/wirklichkeitsdaten-beschaffung-steuern/FACHINHALT.md)
 - [Fristen- und Risikoampel](skills/workflow-fristen-und-risikoampel/FACHINHALT.md)
 
-## 3. Vergabeunterlagen
+<a id="3-vergabeunterlagen"></a>
 
-Vergabeunterlagen: Eignung, Zuschlagskriterien, Leistungsbeschreibung, Vertragsbedingungen und Nebenangebote pruefen.
+## 3. Vergabeunterlagen erstellen und zur Freigabe prüfen
+
+Freigabefassung der betroffenen Position mit Leistungsanforderungen und Nachweisen für die Gleichwertigkeit.
 
 [Arbeitsweg öffnen](skills/vergabeunterlagen-bearbeiten/SKILL.md)
 
@@ -83,12 +101,12 @@ Vergabeunterlagen: Eignung, Zuschlagskriterien, Leistungsbeschreibung, Vertragsb
 - [Eignungsprüfung](skills/11-eignungspruefung/FACHINHALT.md)
 - [Vergabevermerk § 8 VgV](skills/25-vergabevermerk-paragraf-8-vgv/FACHINHALT.md)
 - [Vergabesperre](skills/28-vergabesperre/FACHINHALT.md)
-- [Vergabe freiberuflicher Leistungen (Architekten, Ingenieure, Rechtsanwaelte, Wirtschaftsprüfer): Auftraggeber will HOAI- und vergaberechtskonform vergeben](skills/freiberufliche-leistungen-hoai/FACHINHALT.md)
+- [Planungsaufträge und andere freiberufliche Leistungen vergeben](skills/freiberufliche-leistungen-hoai/FACHINHALT.md)
 - [Leistungsbeschreibung neutral und funktional freigeben](skills/leistungsbeschreibung-neutralitaet-funktional/FACHINHALT.md)
 - [Nebenangebote nach § 35 VgV und ihre Wertung](skills/nebenabrede-paragraf-58-vgv/FACHINHALT.md)
 - [Vergabe: Behörden-, Gerichts- oder Registerweg](skills/vergabe-behoerden-gericht-und-registerweg/FACHINHALT.md)
-- [Vergaberecht Anti Korruption § 123 GWB](skills/vergaberecht-anti-korruption-paragraf-123-gwb/FACHINHALT.md)
-- [Vergaberueg § 160 GWB](skills/vergaberueg-paragraf-160-gwb/FACHINHALT.md)
+- [Korruptionsvorwürfe und zwingende Ausschlussgründe nach § 123 GWB prüfen](skills/vergaberecht-anti-korruption-paragraf-123-gwb/FACHINHALT.md)
+- [Rüge und Rügefrist nach § 160 GWB prüfen](skills/vergaberueg-paragraf-160-gwb/FACHINHALT.md)
 - [Vergabeunterlagen und LV-Datenformate bereitstellen](skills/vergabeunterlagen-lv-datenformate-bereitstellen/FACHINHALT.md)
 - [Freiberufliche Leistungen und Planungsleistungen](skills/vertiefung-freiberufliche-leistungen-hoai/FACHINHALT.md)
 - [Ausschlussentscheidung und Selbstreinigung vertieft prüfen](skills/vertiefung-vergabesperre-korruption-selbstreinigung/FACHINHALT.md)
@@ -97,20 +115,24 @@ Vergabeunterlagen: Eignung, Zuschlagskriterien, Leistungsbeschreibung, Vertragsb
 - [Zuschlagskriterien § 127 GWB](skills/zuschlagskriterien-paragraf-127-gwb/FACHINHALT.md)
 - [Preis-Qualitäts-Matrix der Vergabestelle](skills/zuschlagskriterien-wertungsschema/FACHINHALT.md)
 
-## 4. Rüge
+<a id="4-rüge"></a>
 
-Rüge: erkennbaren Fehler, Kenntnisdatum, Frist und konkrete Abhilfe sauber formulieren.
+## 4. Bieterrüge prüfen und beantworten
+
+Antwortentwurf und Entscheidung über Abhilfe, Berichtigung der Unterlagen und Angebotsfrist.
 
 [Arbeitsweg öffnen](skills/ruege-bearbeiten/SKILL.md)
 
 - [Fristberechnung Vorabinformation](skills/29-ev-vorabinformation-frist/FACHINHALT.md)
-- [Bekanntmachung, Berichtigung und Upload-Routing](skills/bekanntmachung-berichtigung-und-upload-routing/FACHINHALT.md)
+- [Bekanntmachung berichtigen und den Versand im Portal nachweisen](skills/bekanntmachung-berichtigung-und-upload-routing/FACHINHALT.md)
 - [Konzession: Formular, Portal und Einreichungslogik](skills/konzession-formular-portal-und-einreichung/FACHINHALT.md)
 - [Vorabinformation und Stillhaltefrist nach § 134 GWB](skills/vorinformation-134-gwb-stillhaltefrist/FACHINHALT.md)
 
-## 5. Nachpruefung
+<a id="5-nachpruefung"></a>
 
-Nachpruefung: Antragsbefugnis, Rügepraeklusion, Zuschlagsverbot und Sachantrag vor Vergabekammer aufbauen.
+## 5. Nachprüfungsverfahren vor der Vergabekammer bearbeiten
+
+Stellungnahme zu den Angriffspunkten mit Aktenfundstellen, Vorlageverzeichnis und Fristen.
 
 [Arbeitsweg öffnen](skills/nachpruefung-bearbeiten/SKILL.md)
 
@@ -130,9 +152,11 @@ Nachpruefung: Antragsbefugnis, Rügepraeklusion, Zuschlagsverbot und Sachantrag 
 - [Vertiefung: IT-Sicherheitsvergabe verteidigungsfest gestalten](skills/vertiefung-it-sicherheits-vergabe-bsi-it-sig-2/FACHINHALT.md)
 - [Vergabestelle: vertiefte Regime- und Freigabeprüfung](skills/vertiefung-orientierung/FACHINHALT.md)
 
-## 6. Arbeitsprodukt
+<a id="6-arbeitsprodukt"></a>
 
-Arbeitsprodukt: Rügeschreiben, Nachpruefungsantrag, Auftraggebervermerk oder Wertungsmemo erstellen.
+## 6. Wertungsmatrix und Wertungsvermerk erstellen
+
+Nachgerechnete Wertungsmatrix und begründeter Zuschlagsvorschlag.
 
 [Arbeitsweg öffnen](skills/arbeitsprodukt-bearbeiten/SKILL.md)
 
@@ -140,42 +164,46 @@ Arbeitsprodukt: Rügeschreiben, Nachpruefungsantrag, Auftraggebervermerk oder We
 - [Wertungsvermerk erstellen](skills/18-wertungsvermerk-erstellen/FACHINHALT.md)
 - [Preis-Qualitäts-Matrix rechtssicher bauen](skills/wertungspreisqualitaet-matrix/FACHINHALT.md)
 
-## 7. Unterlagen und Quellen auswerten
+<a id="7-unterlagen-und-quellen-auswerten"></a>
 
-Unterlagen und Quellen auswerten: Akte, Belege, Chronologie, Recherche und entscheidende Lücken für den konkreten Fachauftrag nachvollziehbar erschließen.
+## 7. Vergabeakte auswerten und Beleglücken klären
+
+Belegübersicht mit Fundstellen, widersprüchlichen Angaben und gezielter Anforderung fehlender Unterlagen.
 
 [Arbeitsweg öffnen](skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md)
 
 - [Architektenrecht: Compliance-Dokumentation und Aktenvermerk](skills/architektenrecht-compliance-dokumentation-und-akte/FACHINHALT.md)
 - [Aufklärung und Nachforderung nach § 56 VgV steuern](skills/aufklaerung-nachforderung-56-vgv/FACHINHALT.md)
 - [Bieterfragen und Unterlagenänderungen steuern](skills/bieterfragen-antworten-management/FACHINHALT.md)
-- [Dokumentenintake](skills/dokumente-intake/FACHINHALT.md)
-- [Einstieg und Routing](skills/einstieg-routing/FACHINHALT.md)
+- [Eingegangene Vergabeunterlagen erfassen und zuordnen](skills/dokumente-intake/FACHINHALT.md)
+- [Bearbeitungsstand und nächsten Auftrag klären](skills/einstieg-routing/FACHINHALT.md)
 - [Systemquellen in eine vergabefeste Entscheidung überführen](skills/legacy-systeme-integration/FACHINHALT.md)
 - [Losbildung und Gesamtvergabe für die Vergabestelle entscheiden](skills/losbildung-mittelstandsfoerderung/FACHINHALT.md)
-- [Rechtsquellen-Livecheck](skills/quellen-livecheck/FACHINHALT.md)
-- [Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung](skills/sektvo-dokumentenmatrix-und-lueckenliste/FACHINHALT.md)
+- [Geltung und Fundstelle der Rechtsgrundlagen prüfen](skills/quellen-livecheck/FACHINHALT.md)
+- [Fehlende Unterlagen in der Sektorenvergabe bestimmen](skills/sektvo-dokumentenmatrix-und-lueckenliste/FACHINHALT.md)
 - [Vergabesenat: Livequellen- und Rechtsprechungscheck](skills/spezial-vergabesenat-livequellen-und-rechtsprechungscheck/FACHINHALT.md)
 - [Vergabeakte: Unterlagen- und Beleglücken schließen](skills/unterlagen-luecken/FACHINHALT.md)
 - [Unterschwellenrechtsschutz aus Sicht der Vergabestelle](skills/unterschwellen-rechtsschutz-zivilgericht/FACHINHALT.md)
 - [Unterschwellenvergabe nach UVgO aus Sicht der Vergabestelle durchführen](skills/uvgo-unterschwellenvergabe/FACHINHALT.md)
 - [Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage](skills/vergaberecht-tatbestand-beweis-und-belege/FACHINHALT.md)
-- [Vergabesenat Quellenkarte](skills/vergabesenat-quellenkarte/FACHINHALT.md)
+- [Entscheidungen des Vergabesenats mit Fundstellen zusammenstellen](skills/vergabesenat-quellenkarte/FACHINHALT.md)
 - [UVgO und Unterschwellenvergabe](skills/vertiefung-uvgo-unterschwellenvergabe/FACHINHALT.md)
 - [Wettbewerbsregister, Ausschluss und Selbstreinigung entscheiden](skills/wettbewerbsregister-abfrage-selbstreinigung/FACHINHALT.md)
 - [Chronologie und Belegmatrix](skills/workflow-chronologie-und-belegmatrix/FACHINHALT.md)
-- [Kaltstart und Routing](skills/workflow-kaltstart-und-routing/FACHINHALT.md)
+- [Einzelunterlage sichten und die konkrete Vergabefrage bestimmen](skills/workflow-kaltstart-und-routing/FACHINHALT.md)
 - [Unterlagen- und Lückenliste](skills/workflow-unterlagen-lueckenliste/FACHINHALT.md)
 
-## 8. Arbeitsprodukt ausarbeiten und kontrollieren
+<a id="8-arbeitsprodukt-ausarbeiten-und-kontrollieren"></a>
 
-Arbeitsprodukt ausarbeiten und kontrollieren: Den verlangten Text oder die Berechnung fertigstellen, Gegenposition, Quellenstatus und offene Punkte prüfen und die nächste Handlung erklären.
+## 8. Vergabevorlagen gegenlesen und zur Entscheidung vorlegen
+
+Gegengelesene Entscheidungsvorlage mit konkreten Korrekturen und offenen Freigabepunkten.
 
 [Arbeitsweg öffnen](skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md)
 
-- [Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien](skills/konzvgv-risikoampel-und-gegenargumente/FACHINHALT.md)
-- [Orientierung Fehlerkatalog](skills/orientierung-fehlerkatalog/FACHINHALT.md)
+- [Risiken und Gegenargumente einer Konzessionsvergabe prüfen](skills/konzvgv-risikoampel-und-gegenargumente/FACHINHALT.md)
+- [Typische Fehler im Verfahrensentwurf erkennen](skills/orientierung-fehlerkatalog/FACHINHALT.md)
 - [Vergabestelle: Rechtsregime und nächste Freigabe bestimmen](skills/orientierung-mandat-anwaltliche-vertiefung/FACHINHALT.md)
-- [Output wählen](skills/output-waehlen/FACHINHALT.md)
+- [Benötigten Vermerk, Antwortbrief oder Schriftsatz bestimmen](skills/output-waehlen/FACHINHALT.md)
 - [Schnittstelle: Zahlen, Schwellenwerte und Berechnung](skills/schnittstelle-zahlen-schwellen-und-berechnung/FACHINHALT.md)
-- [Orientierung: Red-Team und Qualitätskontrolle](skills/spezial-orientierung-red-team-und-qualitaetskontrolle/FACHINHALT.md)
+- [Entwurf aus Sicht eines Einwenders gegenprüfen](skills/spezial-orientierung-red-team-und-qualitaetskontrolle/FACHINHALT.md)

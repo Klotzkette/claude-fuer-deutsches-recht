@@ -160,6 +160,18 @@ def validate_root(expected: set[str], errors: list[str]) -> None:
         errors.append("README.md: veralteter Plugin-Ladebefehl vorhanden")
 
 
+def procurement_menu(readme: str, errors: list[str]) -> str:
+    begin = readme.find("<!-- BEGIN FACHMODULE-NAVIGATION -->")
+    end = readme.find("<!-- END FACHMODULE-NAVIGATION -->")
+    install = readme.find("<!-- BEGIN plugin-sofort-download-section (autogen) -->")
+    if not 0 <= begin < end < install:
+        errors.append("vergabestelle-behoerden/README.md: Auftragsauswahl vor dem Installationsblock fehlt")
+        return ""
+    menu = readme[begin:end]
+    require(menu, "(FACHMODULE.md)", "Auftragsauswahl der Vergabestelle", errors)
+    return menu
+
+
 def validate_plugins(plugins: list[str], errors: list[str]) -> None:
     for plugin in plugins:
         readme_path = REPO / plugin / "README.md"
@@ -188,12 +200,14 @@ def validate_plugins(plugins: list[str], errors: list[str]) -> None:
             "Autarker Kurzprompt mit vertiefter Fallprüfung",
             "Autarker Mini-Schnellstart bis 7.500 Zeichen",
             "## Direkt starten",
-            "Kein zusätzlicher Prompt",
-            "höchstens drei echte",
             "<details>",
             "</details>",
             "Skills mit Beschreibung und Rohdatei anzeigen",
         )
+        if plugin == "vergabestelle-behoerden":
+            menu = procurement_menu(readme, errors)
+        else:
+            required += ("Kein zusätzlicher Prompt", "höchstens drei echte")
         for needle in required:
             require(readme, needle, f"{plugin}/README.md", errors)
         if "Autarker Schnellstart bis 7.500 Zeichen" in readme:
@@ -212,6 +226,12 @@ def validate_plugins(plugins: list[str], errors: list[str]) -> None:
             rel = f"skills/{skill_dir.name}/SKILL.md"
             require(readme, f"({markdown_download(f'{plugin}/{rel}')})", f"{plugin}/README.md", errors)
             full_rel = f"{plugin}/{rel}"
+            if plugin == "vergabestelle-behoerden":
+                heading = re.search(r"^# (.+)$", skill.read_text(encoding="utf-8"), re.MULTILINE)
+                if heading is None:
+                    errors.append(f"{full_rel}: Arbeitsname fehlt")
+                else:
+                    require(menu, f"[{heading[1]}]({markdown_download(full_rel)})", "Auftragsauswahl der Vergabestelle", errors)
             require(
                 detail,
                 markdown_download(full_rel),

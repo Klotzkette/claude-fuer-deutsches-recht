@@ -222,6 +222,11 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         "| Skill | Beschreibung | Markdown-Datei |",
         "| --- | --- | --- |",
     ]
+    if name == "vergabestelle-behoerden":
+        start = lines.index("## Downloads")
+        lines[start:start] = [
+            f"[Die acht Aufträge der Vergabestelle]({plugin_readme}#skills) · [Fachfragen nachschlagen](../{_source_rel}/FACHMODULE.md)", "",
+        ]
     if not standalone_kinds(name):
         start = lines.index("## So benutzt man einen Skill")
         end = lines.index("## Skills in diesem Plugin")
@@ -260,8 +265,12 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         desc = description(skill_md, limit=280)
         rel_md = f"{_source_rel}/skills/{s}/SKILL.md"
         download_url = markdown_download_url(rel_md)
+        label = f"`{s}`"
+        if name == "vergabestelle-behoerden":
+            title = re.search(r"^# (.+)$", skill_md.read_text(encoding="utf-8"), re.M)[1]
+            label = f"{title} (`{s}`)"
         lines.append(
-            f"| [`{s}`]({download_url}) | {desc} | [MD herunterladen / Download MD]({download_url}) |"
+            f"| [{label}]({download_url}) | {desc} | [MD herunterladen / Download MD]({download_url}) |"
         )
     lines.append("")
     return "\n".join(lines)

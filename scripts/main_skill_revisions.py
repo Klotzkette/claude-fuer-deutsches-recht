@@ -644,7 +644,7 @@ def historical_bytes(root, path, expected, *, plugin=None):
     """Ein Hash passt entweder unmittelbar oder zu einer vollständig belegten Vorfassung."""
     root, path = Path(root).resolve(), Path(path).resolve()
     live = path.read_bytes()
-    current = previous_edition(root, path.relative_to(root).as_posix(), live)
+    current = previous_edition(root, path.relative_to(root).as_posix(), live, plugin=plugin)
     if digest(live) == expected:
         return live
     if current != live and digest(current) == expected:

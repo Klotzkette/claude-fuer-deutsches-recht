@@ -19,6 +19,20 @@ SPEC.loader.exec_module(navigation)
 
 
 class NavigationParserTests(unittest.TestCase):
+    def test_procurement_tasks_precede_downloads_and_open_the_specialist_library(self) -> None:
+        text = (ROOT / "vergabestelle-behoerden/README.md").read_text(encoding="utf-8")
+        errors = []
+        menu = navigation.procurement_menu(text, errors)
+        self.assertEqual(errors, [])
+        for skill in (ROOT / "vergabestelle-behoerden/skills").glob("*/SKILL.md"):
+            with self.subTest(skill=skill.parent.name):
+                self.assertIn(navigation.markdown_download(skill.relative_to(ROOT).as_posix()), menu)
+        for broken in (text.replace("(FACHMODULE.md)", "(anderer-ordner.md)"),
+                       "<!-- BEGIN plugin-sofort-download-section (autogen) -->\n" + text):
+            errors = []
+            navigation.procurement_menu(broken, errors)
+            self.assertTrue(errors)
+
     def test_only_navigable_markdown_links_are_returned(self) -> None:
         text = """
 [Direkt](./01_akte.md "Aktenstück")

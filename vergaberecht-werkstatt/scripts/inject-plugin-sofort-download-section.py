@@ -20,7 +20,7 @@ import re
 import sys
 from pathlib import Path
 
-from public_release import DOWNLOAD_BASE, RAW_BASE, RELEASE_BASE, with_working_downloads, plugin_download
+from public_release import COMPONENT_RELEASE_BASE as RELEASE_BASE, DOWNLOAD_BASE, RAW_BASE, with_working_downloads, plugin_download
 from testakte_notices import with_case_warnings
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -61,9 +61,9 @@ PLUGIN_QUICKSTART = {
     "vergabestelle-behoerden": {
         "role": "Vergabestelle",
         "starter": (
-            "Neuer Vergabestellenfall. Prüfe die beigefügten Unterlagen vollständig, "
-            "sichere Fristen und Rechtsregime und erstelle den nächsten "
-            "entscheidungsreifen Behördenoutput."
+            "Neuer Vergabestellenfall. Prüfe den beigefügten Vermerk der Fachabteilung "
+            "anhand der Vergabeunterlagen. Erstelle für die nächste Sitzung eine "
+            "Entscheidungsvorlage mit Belegen, offenen Punkten und Fristen."
         ),
         "result": "Akte",
     },
@@ -200,21 +200,16 @@ def build_section(plugin_name: str, akten_slugs: list[str]) -> str:
     lines.append("")
     lines.append("**2. Fallunterlagen anhängen**")
     lines.append("")
-    lines.append("**3. Genau diesen Satz senden**")
+    lines.append("**3. Auftrag erteilen, zum Beispiel**" if plugin_name == "vergabestelle-behoerden"
+                 else "**3. Genau diesen Satz senden**")
     lines.append("")
     lines.append(f"> {quickstart['starter']}")
     lines.append("")
     if plugin_name == "vergabestelle-behoerden":
         lines.append(
-            "Kein zusätzlicher Prompt und keine manuelle Skillwahl sind nötig. "
-            "Das Plugin bearbeitet den Auftrag eigenständig. Bei einem offenen "
-            "Ordnerauftrag kann es mit `Lage | Rot | Akte | Rechtsweiche | Jetzt` "
-            "orientieren. Ist ein bestimmtes Dokument bestellt, beginnt es nach "
-            "der Unterlagensichtung unmittelbar damit. Pro Rückfragerunde werden "
-            "höchstens drei echte, entscheidende Lücken gebündelt erfragt; "
-            "bereits sichtbare Angaben werden nicht erneut erfragt. Antworten "
-            "werden im selben Entwurf verarbeitet. Weitere Rückfragen folgen "
-            "nur bei neuen entscheidenden Lücken, bis das bestellte Dokument vorliegt."
+            "Für das installierte Plugin ist kein zusätzlicher Prompt nötig. Sie können auch direkt "
+            "eine Bieterantwort, einen Wertungsvermerk oder einen Schriftsatz beauftragen. Wenn für die "
+            "Entscheidung ein Beleg fehlt, fragt das Plugin gezielt danach und führt den Entwurf mit Ihrer Antwort fort."
         )
     else:
         lines.append(
@@ -309,7 +304,11 @@ def inject_section(readme: Path, plugin_name: str, akten_slugs: list[str]) -> st
     text = readme.read_text(encoding="utf-8")
     new_block = build_section(plugin_name, akten_slugs)
 
-    def insert_after_h1(current_text: str) -> str:
+    def insert_quickstart(current_text: str) -> str:
+        menu_end = "<!-- END FACHMODULE-NAVIGATION -->"
+        if plugin_name == "vergabestelle-behoerden" and menu_end in current_text:
+            before, _, after = current_text.partition(menu_end)
+            return before + menu_end + "\n\n" + new_block + "\n\n" + after.lstrip("\n")
         h1 = H1_RE.search(current_text)
         if not h1:
             return current_text
@@ -321,22 +320,21 @@ def inject_section(readme: Path, plugin_name: str, akten_slugs: list[str]) -> st
         return current_text[:insert_pos] + "\n" + new_block + "\n\n" + current_text[insert_pos:]
 
     if MARKER_BEGIN in text and MARKER_END in text:
-        # Replace existing and keep the block directly after the H1.
+        # Replace the download menu at the role-specific entry point.
         pattern = re.compile(
             r"\n*" + re.escape(MARKER_BEGIN) + r".*?" + re.escape(MARKER_END) + r"\n*",
             re.DOTALL,
         )
         without_old_block = pattern.sub("\n", text, count=1)
-        new_text = insert_after_h1(without_old_block)
+        new_text = insert_quickstart(without_old_block)
         if new_text == text:
             return "UNCHANGED"
         readme.write_text(new_text, encoding="utf-8")
         return "UPDATED"
 
-    # Insert directly after H1 line (before any other content)
     if not H1_RE.search(text):
         return "SKIPPED"
-    new_text = insert_after_h1(text)
+    new_text = insert_quickstart(text)
     readme.write_text(new_text, encoding="utf-8")
     return "INSERTED"
 

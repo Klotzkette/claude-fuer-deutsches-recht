@@ -1,38 +1,36 @@
 ---
 name: vergabeunterlagen-bearbeiten
-description: "Erstellt für Vergabestellen neutrale Leistungsbeschreibungen, Eignungs- und Zuschlagskriterien sowie Vergabeunterlagen. Sichert Wertungslogik, vorgegebene Datenformate und dokumentierte Vertragsänderungen."
+description: "Prüft für die Vergabestelle Leistungsbeschreibung, Preisblatt und Wertungsregeln je Los. Liefert abgestimmte Textfassungen und begleitet Berichtigungen bis zur Bereitstellung."
 ---
 
-# Vergabeunterlagen
+# Vergabeunterlagen erstellen und zur Freigabe prüfen
 
 ## 1. Zweck und Anwendungsfall
 
-Vergabeunterlagen: Eignung, Zuschlagskriterien, Leistungsbeschreibung, Vertragsbedingungen und Nebenangebote pruefen.
-
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+Die Vergabestelle muss aus Fachentwürfen ein Unterlagenpaket erstellen, mit dem Unternehmen kalkulieren und die Vergabestelle später nachvollziehbar werten kann. Bearbeite die konkreten Fassungen und gib für jeden entscheidungserheblichen Widerspruch einen einsetzbaren Ersatztext oder eine gezielte Rückfrage an die zuständige Fachstelle aus.
 
 ## 2. Eingaben
 
-- Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.
-- Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen.
+- Ziehe je Los Bekanntmachung oder Entwurf, Leistungsbeschreibung und Leistungsverzeichnis (LV), Preisblatt, Formblätter, Vertragsbedingungen und vorgesehene Zuschlagswertung heran. Erfasse Version, Fundstelle und bereits veröffentlichte Antworten.
+- Halte das Verfahrensstadium fest. Für den Entwurf zählen die Freigabetermine. Nach Bereitstellung sind Veröffentlichungsstand, betroffene Lose, bereits erteilte Auskünfte sowie Angebots- oder Teilnahmefrist entscheidend.
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Die kalkulierbare Leistung je Los festlegen
 
-Vergabeunterlagen: Eignung, Zuschlagskriterien, Leistungsbeschreibung, Vertragsbedingungen und Nebenangebote pruefen.
+Verfolge jede wesentliche Anforderung von der Bedarfsbegründung bis zum LV und zur Vertragspflicht. Kläre Mengen und Einheiten, Leistungsgrenzen, beigestellte Leistungen, Schnittstellen, Optionen und Abnahme. Benenne, welche Formulierung mehrere plausible Kalkulationen zulässt, und formuliere sie neu. Wenn eine Herstellerangabe im Entwurf steht, prüfe den sachlichen Bedarf und formuliere nach Möglichkeit eine messbare Funktion. Bei einem ausnahmsweise erforderlichen Produktbezug prüfe die gesetzlichen Voraussetzungen und wie Gleichwertigkeit nachgewiesen werden kann. [§ 31 VgV](https://www.gesetze-im-internet.de/vgv_2016/__31.html)
 
-### 3.2. Arbeitsschritt
+### 3.2. Mindestanforderungen, Eignung und Wertung auseinanderhalten
 
-Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
+Unterscheide an der konkreten Zeile, was das Unternehmen können muss, welche Eigenschaft die angebotene Leistung zwingend erfüllen muss und wofür sie im Zuschlagsvergleich Punkte erhält. Ordne jeder Anforderung den verlangten Nachweis, den Zeitpunkt und die passende Fundstelle zu. Prüfe zulässige Nebenangebote, ihre Mindestanforderungen und ihre Wertbarkeit, wenn die Vergabestelle sie vorsieht. Gleiche Kriterien, Gewichtung und Bewertungsmethode zwischen Bekanntmachung und Anlagen ab. [§ 122 GWB](https://www.gesetze-im-internet.de/gwb/__122.html) · [§ 127 GWB](https://www.gesetze-im-internet.de/gwb/__127.html)
 
-### 3.3. Arbeitsschritt
+### 3.3. Preisblatt und Wertung probeweise ausfüllen
 
-Welcher Fehler ist wann erkennbar geworden.
+Setze in einer Arbeitskopie einfache Testpreise und Mengen ein. Prüfe Zwischensummen, optionale Positionen, Rundung, Übertragungen und je Los den Wertungspreis. Spiele auch einen Grenzfall bei Qualitätskriterien durch. Können zwei Prüfende mit denselben Angaben zu unterschiedlichen Punkten kommen, präzisiere den Maßstab vor Veröffentlichung. Beim angebotenen Dateiformat prüfe den Weg von der bereitgestellten Datei bis zum lesbaren Rücklauf mit befüllten Feldern und eindeutiger Versionskennung.
 
-### 3.4. Arbeitsschritt
+### 3.4. Eine Freigabe oder Berichtigung vorbereiten
 
-Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten.
+Vor Veröffentlichung lege abgestimmte Ersatzzeilen für alle betroffenen Dateien zur Freigabe vor. Wird ein Widerspruch im laufenden Verfahren bekannt, sichere die ausgegebene Fassung. Ermittle, wer die Änderung in Kalkulation oder Teilnahmeantrag berücksichtigen muss. Bereite die einheitliche Nachricht, die bereitgestellten Ersatzdateien, gegebenenfalls eine Berichtigung der Bekanntmachung und die Entscheidung zur Frist vor. Ist die Frist bereits abgelaufen, dokumentiere die veröffentlichten Regeln und lege der Leitung die Reichweite des Fehlers und die zulässigen Verfahrensoptionen vor. [§ 20 VgV für Fristen im Anwendungsbereich der VgV](https://www.gesetze-im-internet.de/vgv_2016/__20.html)
 
 ### 3.5. Fachvertiefungen gezielt laden
 
@@ -71,12 +69,12 @@ Schriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 
 
 <!-- END output-format-block (autogen) -->
 
-- Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „Vergabeunterlagen“, mit konkreten Belegstellen und erkennbaren offenen Punkten.
-- Nur soweit hilfreich: eine Vergleichstabelle, Zeitleiste oder grafische Übersicht zusätzlich zum vollständigen Text.
+- Abgestimmte Entwurfs- oder Berichtigungsfassung der beauftragten Unterlagen. Gib für jede betroffene LV-Position oder Formblattzeile den genauen Wortlaut, die korrespondierende Stelle im Preisblatt oder Vertrag und die fachlich zuständige Stelle an.
+- Freigabevermerk mit Los, Dateiname und Fassung, Ergebnis der Probewertung, ausstehenden Entscheidungen und vorgesehenem Bereitstellungszeitpunkt. Bei veröffentlichten Unterlagen ergänze die Nachricht an die Teilnehmenden, die begründete Fristenentscheidung und die zu archivierenden Versand- oder Plattformbelege.
 
 Liefere das beauftragte Dokument vollständig in ausformuliertem Text mit Dezimalgliederung. Für juristische Schriftsätze und Gutachten ist die Zieltypografie Times New Roman 11 pt; Tabellen und Grafiken ergänzen die Begründung. Wähle zur Aufgabe passende Vergleiche, Zeitleisten oder andere Visualisierungen. Nutze eine interaktive Ansicht nur, wenn die Laufzeit sie tatsächlich bereitstellt; stelle sonst eine unmittelbar lesbare Tabelle oder Grafik bereit. Kennzeichne fehlende Daten und offene Prüfungen an der betroffenen Stelle und schließe mit dem konkreten nächsten Arbeitsschritt.
 
 ## 6. Beispiele
 
-- Ein Auftrag zu „Eignungs- und Zuschlagskriterien“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
-- Ein Auftrag zu „Vergabeunterlagen erstellen“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
+- Pegelstationen Kiebitzrinne, DI-W/26-031. In Fassung 2 vom 11. August fordert LV-Position 2.4 bei −5 °C mindestens 96 Stunden Betrieb mit einem festgelegten Mess- und Sendeintervall. Verfolge die Anforderung über Formblatt T, Zeile 7, bis zum Preisfeld für die montierte Energieversorgung. Zeige, wo die angebotene Ausführung bezeichnet wird und welche Unterlage verlangt ist. Halte die eigenständige Umsatzerklärung E3 aus dieser Leistungsprüfung heraus. [Grundakte Pegelstationen](../../Interstate%20AG/03-ausschluss/README.md)
+- Digitales Prüfbuch, DI-W/IT-26-116. Für Los 1 werden drei Exportvorgänge geprüft. Nach den veröffentlichten Wertungsregeln vom 25. August ergeben zwei vollständig zuordenbare Vorgänge 10 von 20 Punkten im Kriterium E3. Trage diesen Testfall in die Arbeitskopie des Wertungsblatts ein und gleiche ihn mit der Bekanntmachung ab. Die Zahl der ausgegebenen Dateien ist nach den Unterlagen freigestellt. [Grundakte IT für die Bauprüfung](../../Interstate%20AG/11-it-baupruefung/README.md)

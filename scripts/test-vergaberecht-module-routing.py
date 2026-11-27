@@ -8,6 +8,7 @@ import importlib.util
 import io
 import json
 from pathlib import Path
+from vergabestelle_revision import previous as before_vergabestelle
 import runpy
 import sys
 import tempfile
@@ -67,7 +68,7 @@ def prompt_before_ci_followup(path, expected_sha256, followup=None):
     if sha(archive) != row.get('before_snapshot_sha256'):
         raise ValueError('Zwischenarchiv verändert')
     before = gzip.decompress(archive)
-    current = (ROOT / path).read_bytes()
+    current = before_vergabestelle(ROOT, path, (ROOT / path).read_bytes())
     if sha(before) != expected_sha256 or sha(current) != row.get('after_sha256') or before == current:
         raise ValueError('Vergabeprompt-Folgestufe nicht bytegenau gebunden')
     return before
@@ -110,6 +111,21 @@ def verified_previous_prompt_bytes(revision=None):
 
 
 class ModuleRoutingTests(unittest.TestCase):
+    def test_jeder_vergabestellenskill_hat_einen_fall_mit_arbeitsunterlagen(self):
+        role = 'vergabestelle-behoerden'
+        collection = NESTED / role / 'Interstate AG'
+        profile = json.loads((ROOT / 'quality/evals' / f'{role}.json').read_text())
+        cases = [case for case in profile['cases'] if case['id'].startswith('interstate-')]
+        self.assertEqual({case['target_skill'] for case in cases}, set(V.skill_names(role)))
+        for case in cases:
+            with self.subTest(fall=case['id']):
+                files = [ROOT / name for name in case['input_files']]
+                self.assertGreaterEqual(len(files), 2)
+                for path in files:
+                    self.assertTrue(path.is_file(), path)
+                    self.assertEqual(path.parent.parent.parent, collection)
+                    self.assertIn(path.parent.name, {'Grundakte', 'Nachreichungen'})
+
     def test_full_module_inventory_is_separate_from_small_active_menu(self):
         for role, modules, priorities in [('vergabestelle-behoerden', 122, 51), ('bieter-unternehmen', 113, 49), ('konkurrenten-rechtsschutz', 20, 20)]:
             with self.subTest(role=role):
