@@ -4,6 +4,10 @@
 
 Ein Hersteller liefert Austauschregler, ein externer Dienst Zielwerte und eine Gärtnerei die vorhandenen Antriebe. Abnahmeprotokoll und Bildschirmfoto beschreiben unterschiedliche Ebenen. Für die Anmeldung ist zu klären, wer einen Fahrbefehl geben kann und wo die zweite Anfahrt tatsächlich freigegeben wird.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-patentanmelder-02-gewaechshaus-beschattung)
+<!-- END Aktenarbeit -->
+
 ## Erste Bearbeitung
 
 Übernehmen Sie das Mandat von Blattwinkel. Befragen Sie Produktleitung, Entwicklung, Betreiberin und Ferndienst getrennt zu Signal, Handlung und Nachweis. Prüfen Sie G0 anhand von F12 und D1/D2. Entwerfen Sie aus den tragfähigen Angaben eine vollständige deutsche Patentanmeldung einschließlich Figurenbeschreibung, Ansprüchen und Zusammenfassung. Arbeiten Sie den verkauften Regler, die Mehrzonenanlage und den tatsächlichen Ablauf auseinander. Benennen Sie dem Mandanten die Beweise, die für eine spätere Verletzungsprüfung im Client, beim Dienst und vor Ort zugänglich wären.

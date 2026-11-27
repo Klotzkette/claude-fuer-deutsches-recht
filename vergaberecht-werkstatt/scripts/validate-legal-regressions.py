@@ -200,8 +200,8 @@ REQUIRED_CURRENT_LAW = {
         "Kein allgemeiner deutscher Rückforderungs- oder §-132-Automatismus",
         "§ 97a Abs. 4 GWB",
         "C-268/25",
-        "ECLI:EU:C:2026:382",
-        "Noch kein EuGH-Urteil",
+        "ECLI:EU:C:2026:977",
+        "Rn. 79",
         "## Bundestariftreuegesetz seit 1. Mai 2026",
         "§ 14 BTTG ist ausdrücklich von den Regelgrenzen des § 1 Abs. 1 und 3 BTTG ausgenommen",
         "§ 160 Abs. 2 Satz 2 GWB",
@@ -875,10 +875,10 @@ RULES: tuple[tuple[str, re.Pattern[str]], ...] = (
         ),
     ),
     (
-        "C-268/25 faelschlich als EuGH-Urteil statt als Schlussantraege bezeichnet",
+        "ETS (C-268/25) faelschlich als noch unentschieden bezeichnet",
         re.compile(
-            r"EuGH(?:,)?\s+Urteil[^\n]{0,120}C-268/25|"
-            r"C-268/25[^\n]{0,120}EuGH(?:,)?\s+Urteil",
+            r"C-268/25`?\s+(?:immer\s+|weiterhin\s+)?(?:nur|ausschließlich)\s+(?:als\s+)?Schlussanträge|"
+            r"C-268/25[^\n]{0,100}noch kein EuGH-Urteil",
             re.I,
         ),
     ),
@@ -1041,7 +1041,7 @@ RULE_PREFILTERS: dict[str, tuple[str, ...]] = {
     "Schleswig-Holstein mit dem vor dem 16. Mai 2026 geltenden Wertgrenzenstand beschrieben": ("schleswig-holstein",),
     "Thüringer Liefer- und Dienstleistungsgrenze statisch mit dem alten EU-Wert 221000 Euro angegeben": ("221000", "221.000"),
     "geltender Bundes-Direktauftrag nur als kuenftiger Reformanker behandelt": ("direktauftrag",),
-    "C-268/25 faelschlich als EuGH-Urteil statt als Schlussantraege bezeichnet": ("c-268/25",),
+    "ETS (C-268/25) faelschlich als noch unentschieden bezeichnet": ("c-268/25",),
     "geltendes Bundestariftreuegesetz faelschlich als kuenftiges Gesetz behandelt": ("bundestariftreuegesetz",),
     "Bundestariftreuegesetz faelschlich auf reine Lieferauftraege erstreckt": ("bttg", "bundestariftreuegesetz"),
     "§ 14 BTTG ohne unanfechtbare Feststellung als Ausschlussautomatismus behandelt": ("bttg", "bundestariftreuegesetz"),

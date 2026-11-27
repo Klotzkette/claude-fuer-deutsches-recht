@@ -98,7 +98,7 @@ Schriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 
 | EU-Sanktionskontrolle | EuGH C-313/24 Opera Laboratori: faktische Kontrolle und plausible Mittelumleitung statt Nationalitätsautomatismus |
 | bußgeldbezogene Register- oder Ausschlussfolge | EuGH C-590/24 AK Dlhopolec nur für Rechtssicherheit und Sanktionsbemessung; Vorlagefragen zum Vergabeausschluss waren unzulässig |
 | EU-finanzierte Vergabe und Finanzkorrektur | EuGH C-186/25 Institut po ribni resursi Varna: Förderregime, Vertragsvollzug, Finanzbezug, Begründung und Verhältnismäßigkeit individualisieren; kein allgemeiner Rückforderungsautomatismus |
-| Bietergemeinschaft, Steuer-/Sozialabgabenverstoß | GA Kokott C-268/25 nur als Schlussanträge |
+| Bietergemeinschaft, Steuer-/Sozialabgabenverstoß | EuGH C-268/25, ETS |
 | VK-Praxis der letzten zehn Jahre | `references/praxisrechtsprechung-vk-2016-2026.md` für Rügepräklusion, Substantiierung, Wertungsdokumentation, Preisaufklärung, Akteneinsicht und Rahmenvereinbarungen |
 
 ## Rechtsprechungsfeste Hauptarbeit
@@ -131,7 +131,7 @@ Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quel
 
 - [BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtlicher Leitsatz a.](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1&Gericht=bgh&anz=272&nr=77591&pos=9): Der Preisabstand im kuenstlichen Fall begruendet zusammen mit der Schaetzung einen konkreten Aufklaerungsbedarf, nicht einen automatischen Ausschluss. **Grenze:** Nur amtliche Leitsaetze im Suchindex gelesen; direkter BGH-Volltextabruf scheiterte mit HTTP 403. Keine feste gesetzliche Prozentschwelle oder vollstaendige Uebertragung auf heutige Sonderregime behauptet.
 
-- [EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.](https://curia.europa.eu/jcms/jcms/p1_3865069/fr/): Die Behoerde begruendet Geheimhaltungsbedarf je Aktenteil und erhaelt den streiterheblichen wesentlichen Informationsgehalt fuer den Rechtsschutz. **Grenze:** Nur amtliche Pressezusammenfassung, nicht bindend und kein gepruefter Urteilsvolltext. Die Kammerentscheidung ueber konkrete Akteneinsicht wird nicht vorweggenommen.
+- [EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.](https://curia.europa.eu/site/upload/docs/application/pdf/2022-11/cp220186de.pdf): Die Behoerde begruendet Geheimhaltungsbedarf je Aktenteil und erhaelt den streiterheblichen wesentlichen Informationsgehalt fuer den Rechtsschutz. **Grenze:** Nur amtliche Pressezusammenfassung, nicht bindend und kein gepruefter Urteilsvolltext. Die Kammerentscheidung ueber konkrete Akteneinsicht wird nicht vorweggenommen.
 
 - [EuGH, Urteil vom 29.03.2012 – C-599/10](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A62010CJ0599%3AEN%3AHTML): Amtlicher Text, Rn.40–44 zur Angebotsklarstellung. **Grenze:** Frühere Richtlinie und nichtoffenes Dienstleistungsverfahren; heutige VOB/A eigenständig.
 

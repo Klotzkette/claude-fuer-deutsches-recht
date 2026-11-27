@@ -148,6 +148,38 @@ class PreservationTests(unittest.TestCase):
 
 
 class ConsolidationEditionTests(unittest.TestCase):
+    def test_historisches_register_ist_bytegleich_und_reproduzierbar_gepackt(self):
+        import gzip
+        from hashlib import sha256
+
+        from akten_erhaltungsfassungen import NACHWEIS, register
+
+        root = Path(__file__).resolve().parents[1]
+        paket = (root / NACHWEIS / "bestand.json.gz").read_bytes()
+        self.assertEqual(paket[3:8], bytes(5))  # Keine optionalen Namen oder Zeitstempel.
+        inhalt = gzip.decompress(paket)
+        self.assertEqual(sha256(inhalt).hexdigest(),
+                         "f3b1da69d4f7a69de2a2d989100b8c54f5e6624e584bd1f641e6f30899d6bc85")
+        self.assertEqual(register(root), json.loads(inhalt))
+        self.assertFalse((root / NACHWEIS / "bestand.json").exists())
+
+    def test_aktennavigation_und_historische_urkunde_sind_pfadscharf(self):
+        from akten_erhaltungsfassungen import vorher
+        root = Path(__file__).resolve().parents[1]
+        cases = {
+            "testakten/akha-fiktives-verletzungsrisiko/README.md": "cc13060277418101a535c5a8204ef79cde17887c",
+            "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/"
+            "testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip": "92a0d788d64ccbb8b429dfad0a50fa69ecccce34",
+        }
+        for name, blob in cases.items():
+            with self.subTest(name=name):
+                current = (root / name).read_bytes()
+                original = vorher(root, name, current)
+                self.assertEqual(V["content_blob"](original), blob)
+                for altered in (current + b"fremder Zusatz", current[:-1], original):
+                    with self.assertRaises(ValueError):
+                        vorher(root, name, altered)
+
     def test_reviewed_skill_restores_original_and_rejects_edits_and_rollback(self):
         from consolidation_editions import previous, register, sha
         root = Path(__file__).resolve().parents[1]

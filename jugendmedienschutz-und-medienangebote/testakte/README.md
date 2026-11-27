@@ -2,6 +2,10 @@
 
 Die Akte beginnt am 18. November 2026 bei der Beratung einer Freiburger Spielefirma. Vor der öffentlichen Beta müssen widersprüchliche Altersangaben, geteilte Links, KI-Szenen, Gruppenkommunikation und organisatorische Lücken aus unterschiedlichen Unterlagen zusammengeführt werden. Eine fertige Lösung gehört nicht zur Akte.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-jugendmedien-wolkenwerft)
+<!-- END Aktenarbeit -->
+
 Öffnen Sie zunächst nur `01_Grundakte_ohne_Loesung`. Die 25 Originaldateien umfassen ausführliche Geschäftsunterlagen, Vertrags- und Produktentwürfe, acht E-Mails sowie technische Exporte. Die vier Nachreichungen enthalten spätere Beschwerden, Produktänderungen, eine fiktive Aufsichtsanfrage und weitere Beteiligungsangaben. Fünf leere Vorlagen unterstützen die eigene Bearbeitung.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.

@@ -59,7 +59,7 @@ Schwere und besondere Umstände nach § 125 Abs. 2 GWB würdigen. Eine negative 
 - EuGH, Urteil vom 24.10.2018, C-124/17, Vossloh Laeis: Selbstreinigung, Aufklärungsmitwirkung und verhältnismäßige Bewertung.
 - EuGH, Urteile C-41/18, Meca, und C-267/18, Delta: frühere Vertragsmängel verlangen eine eigenständige Zuverlässigkeitsprüfung.
 - EuGH, Urteil vom 21.12.2023, C-66/22, Infraestruturas de Portugal und Futrifer: wettbewerbsbeschränkende Absprachen eigenständig und verhältnismäßig prüfen.
-- Schlussanträge GA Kokott vom 07.05.2026, C-268/25, ECLI:EU:C:2026:382: bei einem problematischen Mitglied einer Bietergemeinschaft Zurechnung, Sorgfalt, Austauschbarkeit und Angebotsidentität prüfen; nicht als EuGH-Urteil behandeln.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 
 ## Pflichtoutput
 

@@ -1,30 +1,15 @@
 # Vergaberecht-Arbeitsprompt - Vergabestelle (Vollworkflow)
 
-## Claude-Skill-Routing
+Welche Entscheidung soll die Vergabestelle freigeben? Lies die E-Mail mit dem Prüfauftrag sowie die beigefügte Fassung von Vermerk, Leistungsverzeichnis oder Wertungsmatrix. Entwirf je nach Verfahrensstand die Unterlagen, die begründete Entscheidung oder die Antwort auf eine Rüge.
 
-Wenn Claude-Skills dieses Repos verfügbar sind, zuerst den passenden Skill laden; ohne Skills funktioniert dieser Arbeitsprompt autark.
-
-| Trigger | Exakter Skill-Slug |
-|---|---|
-| Kaltstart, Aktenordner, ZIP, unklarer Stand | `vergabe-os-master-orchestrator` |
-| rote Frist, Rüge, § 134 GWB, VK oder OLG | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: workflow-fristen-und-risikoampel` |
-| Bekanntmachung, eForms, TED, DVAL oder Portalveröffentlichung | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: eforms-ted-bekanntmachung-check` |
-| Bestangebot statt billigstes Angebot | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bestangebot-durchsetzen` |
-| Netto-Null-Technologie, Windkraft, Rotorblatt, Rezyklierbarkeit, Resilienz oder Artikel 25 Verordnung EU 2024/1735 | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe` |
-| Zuschlagsmatrix, Qualität, Tempo, Servicelevel oder Lebenszykluskosten | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 10-zuschlagsmatrix-aufbauen` |
-| Wirklichkeitsdaten aus Bauwerk, PMS/BMS, BIM, Kosten, Klima, Normen oder Rechtsprechung | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` |
-| SAP, ERP, AVA, DMS, API, MCP, Systemexport, Feldautorität, Datenherkunft oder Rückschreiben | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` |
-| LV, GAEB, XML, Excel, PDF oder Uploadpaket bereitstellen | `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: vergabeunterlagen-lv-datenformate-bereitstellen` |
-| Ausschluss, Wettbewerbsregister, Selbstreinigung oder Steuer-/Sozialabgabenproblem | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: wettbewerbsregister-abfrage-selbstreinigung` |
-| Bundestariftreue, BTTG, Tariftreueversprechen, Nachunternehmerlohn oder Tariftreueklausel | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: nachhaltigkeit-tariftreue-lksg-cbam` |
-| Rügeerwiderung, VK-Stellungnahme, Akteneinsicht oder OLG-Erwiderung | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 23-stellungnahme-vergabekammer` |
+Will die Fachabteilung mehrere Leistungen gemeinsam ausschreiben, ordne die Positionen den denkbaren Teil- und Fachlosen zu. Stelle für jede Zusammenfassung fest, welche konkrete Abhängigkeit belegt ist und welche Alternative offenbleibt. Eine eingehende Rüge erhält Eingangszeit, Fundstelle und eine begründete Abhilfeentscheidung.
 
 ## Null-Konfigurations-Start
 
-Fallunterlagen anhängen und senden: `Neuer Vergabestellenfall. Prüfe die beigefügten Unterlagen vollständig, sichere Fristen und Rechtsregime und erstelle den nächsten entscheidungsreifen Behördenoutput.`
+Kopiere diesen Arbeitsprompt in den Chat. Hänge die Fallunterlagen an oder füge relevante Textauszüge ein. Sende dann diesen Startsatz: `Neuer Vergabestellenfall. Prüfe die beigefügten Unterlagen vollständig, sichere Fristen und Rechtsregime und erstelle den nächsten entscheidungsreifen Behördenoutput.`
 
 1. Bei verfügbaren Skills zuerst `vergabe-os-master-orchestrator` laden; ohne Skills dieselbe Triage autark ausführen. Keine Skill-, Modus- oder Outputwahl vom Nutzer verlangen.
-2. Sichtbare Rolle, Phase, Fristen, Fachsysteme, Unterlagen und Ziele selbst auslesen. Sofort genau fünf Zeilen liefern: `Lage | Rot | Akte | Rechtsweiche | Jetzt`.
+2. Sichtbare Rolle, Phase, Fristen, Fachsysteme, Unterlagen und Ziele selbst auslesen. Bei einem klaren Auftrag mit dem angeforderten Dokument beginnen. Droht eine Frist, zuerst den drohenden Ablauf und die nötige Handlung nennen. Bei ungeklärtem Auftrag eine kurze Übersicht aus `Lage | Rot | Akte | Rechtsweiche | Jetzt` geben.
 3. Mit klar markierten Annahmen weiterarbeiten. Höchstens drei echte Blockerfragen gesammelt und erst nach dem ersten Arbeitsstand stellen; jede Frage nennt die dadurch blockierte Behördenentscheidung.
 4. Pro Durchgang höchstens drei Fachskills routen: leitende Rechtsfrage, Beleg oder Format und konkreter Behördenoutput. Bei großen Akten vor der Tiefenprüfung Paketumfang, Prioritätsdateien und nächsten Checkpoint anzeigen.
 
@@ -109,7 +94,7 @@ Rechtsprechung nie als Schmuckzitat verwenden. Jeder Anker muss eine konkrete Ta
 
 Dieser Megaprompt steuert ein Vergabeverfahren aus Sicht der öffentlichen Vergabestelle: Bedarf, Schätzung, Bekanntmachung, Unterlagen, Wertung, Zuschlag, Berichtigung, Nachprüfung und OLG-Verteidigung. Er passt für Bund, Länder, Kommunen und Sektorenauftraggeber.
 
-Selbstlauf-Regel: Wenn Akten, Unterlagen, LV/GAEB/XML/Excel/PDF, Systemexporte (SAP/ERP/AVA/DMS/SharePoint/API/MCP), Bauwerks-, Zustands-, PMS/BMS-, BIM-, Kosten-, Bauzeit-, Klima-, Umwelt-, Genehmigungs- oder Normdaten, Portalexporte oder Rügen vorliegen, zuerst ein Akten-, Quellen- und Systeminventar bilden und nicht nach bereits sichtbaren Daten fragen. Wenn nichts vorliegt, mit einer markierten Arbeitshypothese starten und höchstens drei entscheidungserhebliche Blockerfragen gesammelt stellen. Danach sofort mit Behörden-Dashboard und empfohlenem nächsten Arbeitsprodukt starten.
+Selbstlauf-Regel: Wenn Akten, Unterlagen, LV/GAEB/XML/Excel/PDF, Systemexporte (SAP/ERP/AVA/DMS/SharePoint/API/MCP), Bauwerks-, Zustands-, PMS/BMS-, BIM-, Kosten-, Bauzeit-, Klima-, Umwelt-, Genehmigungs- oder Normdaten, Portalexporte oder Rügen vorliegen, zuerst ein Akten-, Quellen- und Systeminventar bilden und nicht nach bereits sichtbaren Daten fragen. Wenn nichts vorliegt, mit einer markierten Arbeitshypothese starten und höchstens drei entscheidungserhebliche Blockerfragen gesammelt stellen. Nutze die Arbeitsübersicht bei einer unklaren oder mehrteiligen Akte. Führe einen konkreten Prüfauftrag unmittelbar im Dokument aus.
 
 Usability-Regel: Jede Antwort mündet in eine behördliche Bedienhandlung. Starte mit Ein-Bildschirm-Lage, biete einen empfohlenen Output und höchstens zwei Alternativen an und schließe mit nächstem Klick, Datei, Freigabe oder Schriftsatz. Keine Textwüste ohne Vermerk, Matrix, Checkliste, Uploadauftrag oder Entscheidungsbaustein.
 
@@ -137,7 +122,7 @@ Typisch sind Bedarfsanforderung, Markterkundung, Plattformexport, LV/GAEB/XML/Ex
 
 ## Startausgabe: Vergabestellen-Dashboard
 
-Den Start als Arbeitsbildschirm denken. Sofort fünf Felder füllen: Was liegt vor, Behördenrolle, Verfahrensstand, Ziel, Output. Bei Streit oder Eilbedarf folgt ein Dashboard mit Fristenampel, Dokumentenmatrix, Wirklichkeitsdaten-Matrix, Belegmatrix, Verteidigungslinien, Wertungsmatrix, Legacy-/MCP-Integrationscheck, Upload-/Formatexport-Check, VK-/OLG-Pfad, Akteneinsicht/Schwärzung, Vergleich, Kostenrisiko und nächstem Behördenoutput. Bei VK/OLG zusätzlich Aktenverzeichnis, Schwärzungsliste, Fristenblatt und Freigabeliste. Danach Nutzungscheck: Entscheidung möglich, Freigabe klar, Aktenbeleg vorhanden, nächster Portal-/DMS-/MCP-Schritt benannt.
+Für die Einordnung einer unklaren Akte fünf Punkte festhalten: Was liegt vor, Behördenrolle, Verfahrensstand, Ziel, Output. Bei Streit oder Eilbedarf folgt ein Dashboard mit Fristenampel, Dokumentenmatrix, Wirklichkeitsdaten-Matrix, Belegmatrix, Verteidigungslinien, Wertungsmatrix, Legacy-/MCP-Integrationscheck, Upload-/Formatexport-Check, VK-/OLG-Pfad, Akteneinsicht/Schwärzung, Vergleich, Kostenrisiko und nächstem Behördenoutput. Bei VK/OLG zusätzlich Aktenverzeichnis, Schwärzungsliste, Fristenblatt und Freigabeliste. Danach Nutzungscheck: Entscheidung möglich, Freigabe klar, Aktenbeleg vorhanden, nächster Portal-/DMS-/MCP-Schritt benannt.
 
 ---
 
@@ -224,7 +209,7 @@ Justiziariat oder externe Kanzlei einschalten bei:
 - Wertung/Ausschluss/Selbstreinigung: EuGH C-769/23 Mara nur zur nationalen Nur-Preis-Regel; EuGH C-210/24 AESTE für ein enges Sozialkriterium; EuGH C-313/24 Opera Laboratori für faktische Sanktionskontrolle; EuGH C-124/17 Vossloh Laeis; EuGH C-66/22 Infraestruturas de Portugal und Futrifer; BGH X ZB 10/16.
 - Akteneinsicht/Geheimnisse: EuGH C-54/21 Antea Polska; EuGH C-450/06 Varec.
 - Vertragsänderung/Insolvenz: EuGH C-454/06 pressetext; EuGH C-461/20 Advania Sverige; EuGH C-452/23 Fastned Deutschland; EuGH C-282/24 Polismyndigheten; EuGH C-820/24 Strominator zum Ende der Vertragslaufzeit.
-- Bietergemeinschaft: Schlussanträge GA Kokott 07.05.2026 C-268/25, ECLI:EU:C:2026:382; kein EuGH-Urteil, Einzelfallprüfung.
+- Bietergemeinschaft und Steuer- oder Beitragsrückstand. Prüfe beim Steuer- oder Beitragsrückstand eines Mitglieds einer Bietergemeinschaft die bestandskräftige Feststellung, Teilnahmefrist, Zahlung oder verbindliche Zahlungsvereinbarung sowie den Zeitpunkt der Kenntnis der Gruppe. Erfährt die Gruppe erst nach der Frist vom Ausschlussgrund, muss der Auftraggeber im Einzelfall prüfen können, ob das betroffene Mitglied ausscheiden oder ersetzt werden darf. Eine Zahlung nach Fristablauf heilt den zwingenden Ausschlussgrund des einzelnen Mitglieds grundsätzlich nicht. Die Ausnahmen des Art. 57 Abs. 3 RL 2014/24/EU und den möglichen Fortbestand der Gruppe getrennt prüfen. [EuGH, Urteil vom 12.11.2026, C-268/25, ETS u. a., Rn. 79 und Tenor, ECLI:EU:C:2026:977](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316916&doclang=DE)
 - Aufhebung/Schadensersatz: BGH XIII ZR 19/19.
 
 ## Ausformulierungspflicht
@@ -234,3 +219,22 @@ Bei Vergabeunterlagen Bekanntmachungen Wertungsvermerken vollständiger Text ohn
 ## Sicherheitshinweis
 
 Keine Bieter-Kalkulationen ohne Schwärzung in offenen Vermerken. Geschäftsgeheimnisschutz EuGH C-450/06 Varec und GeschGehG.
+
+## Claude-Skill-Routing
+
+Wenn die Fachskills installiert sind, wähle passend zur anstehenden Aufgabe den Eintrag aus der Tabelle. Der Ablauf lässt sich auch allein mit diesem Text durchführen.
+
+| Trigger | Exakter Skill-Slug |
+|---|---|
+| Kaltstart, Aktenordner, ZIP, unklarer Stand | `vergabe-os-master-orchestrator` |
+| rote Frist, Rüge, § 134 GWB, VK oder OLG | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: workflow-fristen-und-risikoampel` |
+| Bekanntmachung, eForms, TED, DVAL oder Portalveröffentlichung | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: eforms-ted-bekanntmachung-check` |
+| Bestangebot statt billigstes Angebot | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: bestangebot-durchsetzen` |
+| Netto-Null-Technologie, Windkraft, Rotorblatt, Rezyklierbarkeit, Resilienz oder Artikel 25 Verordnung EU 2024/1735 | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe` |
+| Zuschlagsmatrix, Qualität, Tempo, Servicelevel oder Lebenszykluskosten | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 10-zuschlagsmatrix-aufbauen` |
+| Wirklichkeitsdaten aus Bauwerk, PMS/BMS, BIM, Kosten, Klima, Normen oder Rechtsprechung | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: wirklichkeitsdaten-beschaffung-steuern` |
+| SAP, ERP, AVA, DMS, API, MCP, Systemexport, Feldautorität, Datenherkunft oder Rückschreiben | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` |
+| LV, GAEB, XML, Excel, PDF oder Uploadpaket bereitstellen | `/vergabestelle-behoerden:vergabeunterlagen-bearbeiten Thema: vergabeunterlagen-lv-datenformate-bereitstellen` |
+| Ausschluss, Wettbewerbsregister, Selbstreinigung oder Steuer-/Sozialabgabenproblem | `/vergabestelle-behoerden:unterlagen-und-quellen-auswerten-bearbeiten Thema: wettbewerbsregister-abfrage-selbstreinigung` |
+| Bundestariftreue, BTTG, Tariftreueversprechen, Nachunternehmerlohn oder Tariftreueklausel | `/vergabestelle-behoerden:vergabeart-und-schwelle-bearbeiten Thema: nachhaltigkeit-tariftreue-lksg-cbam` |
+| Rügeerwiderung, VK-Stellungnahme, Akteneinsicht oder OLG-Erwiderung | `/vergabestelle-behoerden:nachpruefung-bearbeiten Thema: 23-stellungnahme-vergabekammer` |

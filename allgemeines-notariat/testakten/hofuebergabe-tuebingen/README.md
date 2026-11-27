@@ -2,6 +2,10 @@
 
 Am Schönbuchrand betreut Jette Reber die Obstwiesen ihres Vaters. Er will ihr Hofstelle und eigene Wiesen übergeben und mit seiner Frau im Erdgeschoss bleiben. Was auf dem Küchentisch als „unten alles für uns“ bezeichnet wurde, sieht auf dem alten Grundriss anders aus.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-notariat-hofuebergabe-tuebingen)
+<!-- END Aktenarbeit -->
+
 Bereiten Sie das Beratungsgespräch und einen belegten Überlassungsentwurf vor. Arbeiten Sie heraus, wem welche Flächen gehören, wer wo wohnen oder mitbenutzen möchte und wessen Zustimmung oder Mitwirkung noch einzuholen ist.
 
 Öffnen Sie zuerst die Grundakte im Originalformat-ZIP. Die Nachreichungen und bearbeitbaren Vorlagen haben jeweils einen eigenen Ordner.

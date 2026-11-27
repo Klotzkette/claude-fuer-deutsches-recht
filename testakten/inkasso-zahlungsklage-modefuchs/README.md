@@ -19,7 +19,7 @@
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/modefuchs/lebensakte-inkasso-zahlungsklage-modefuchs.zip) · [Druckfassungen dieses Falls](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/modefuchs/druckakte-inkasso-zahlungsklage-modefuchs.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/modefuchs/lebensakte-inkasso-zahlungsklage-modefuchs.zip) · [Druckfassungen dieses Falls](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/modefuchs/druckakte-inkasso-zahlungsklage-modefuchs.zip) · [Schriftstücke zum Fall](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-inkasso-zahlungsklage-modefuchs) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf`](gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-inkasso-zahlungsklage-modefuchs.zip](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/modefuchs/testakte-inkasso-zahlungsklage-modefuchs.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/modefuchs/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |

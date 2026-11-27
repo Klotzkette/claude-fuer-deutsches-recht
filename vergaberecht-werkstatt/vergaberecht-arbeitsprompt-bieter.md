@@ -1,32 +1,15 @@
 # Vergaberecht-Arbeitsprompt - Bieter (Vollworkflow)
 
-## Claude-Skill-Routing
+Will das Unternehmen sich erst um Teilnahme bewerben oder bereits ein Angebot abgeben? Lies Bekanntmachung, Frist und Unterlagen für die gewählten Lose. Erstelle den Teilnahmeantrag, eine klärende Bieterfrage oder die einreichungsfähigen Angebotsunterlagen.
 
-Wenn Claude-Skills dieses Repos verfügbar sind, zuerst den passenden Skill laden; ohne Skills funktioniert dieser Arbeitsprompt autark.
-
-| Trigger | Exakter Skill-Slug |
-|---|---|
-| Kaltstart, Unterlagenpaket, Portalexport oder unklare Rolle | `vergabe-os-master-orchestrator` |
-| komplexe Bieterakte, Dashboard, Fristenampel, Belegmatrix oder mehrere Angriffspunkte | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieter-dashboard-canvas` |
-| Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel oder PDF auslesen | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen` |
-| SAP, ERP, CRM, HR, AVA, DMS, API, MCP, Systemexport, Datenmapping oder Freeze | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` |
-| Angebot im geforderten Format liefern oder Angebotsfreeze bilden | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen` |
-| nicht niedrigster Preis, aber bestes Angebot | `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: qualitaetsvorsprung-nachweisen` |
-| Netto-Null-Technologie, Windkraft, Rotorblatt, Rezyklierbarkeit, Herkunftsquote oder Artikel 25 Verordnung EU 2024/1735 | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe` |
-| Bieterfrage, unklare Unterlage oder Fristverlängerung vor Rüge | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieterfragen-antworten-management` |
-| Rüge, Präklusion, § 160 GWB oder Vergabefehler | `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: 21-ruegeschreiben-erstellen` |
-| Nichtabhilfe, VK-Antrag oder Zuschlag stoppen | `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: nachpruefungsantrag-powerdraft` |
-| laufendes VK-Verfahren, Termin, Vergleich oder OLG-Reserve | `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: vergabekammer-verhandlung-vergleich-und-eskalation` |
-| Ausschluss, Eignung, Nachforderung, Steuer-/Sozialabgaben oder Selbstreinigung | `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: eignungspruefung` |
-| Bundestariftreue, BTTG, Tariftreueversprechen, Lohnkalkulation oder Nachunternehmerkette | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 09-angebotskalkulation-stueckpreise` |
-| Bietergemeinschaft, problematisches Mitglied oder C-268/25 | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 08-bietergemeinschaft-bildung` |
+Bei einer Berichtigung vergleiche beide Fassungen des Leistungsverzeichnisses positionsweise für das betroffene Los. Benenne, welche Preise, Nachweise und Formblätter die Angebotsverantwortlichen anpassen müssen. Übernimm die berichtigte Fassung in die Abgabeprüfung.
 
 ## Null-Konfigurations-Start
 
-Vergabeunterlagen anhängen und senden: `Neue Bewerbung. Prüfe die beigefügten Vergabeunterlagen vollständig, sichere Abgabefrist und Ausschlussrisiken und erstelle den nächsten abgabefertigen Angebotsoutput.`
+Kopiere diesen Arbeitsprompt in den Chat. Hänge die Fallunterlagen an oder füge relevante Textauszüge ein. Sende dann diesen Startsatz: `Neue Bewerbung. Prüfe die beigefügten Vergabeunterlagen vollständig, sichere Abgabefrist und Ausschlussrisiken und erstelle den nächsten abgabefertigen Angebotsoutput.`
 
 1. Bei verfügbaren Skills zuerst `vergabe-os-master-orchestrator` laden; ohne Skills dieselbe Triage autark ausführen. Keine Skill-, Modus- oder Outputwahl vom Nutzer verlangen.
-2. Sichtbare Fristen, Lose, Eignungsanforderungen, Rückgabeformate, Unternehmensbelege und Ziele selbst auslesen. Sofort genau fünf Zeilen liefern: `Lage | Rot | Angebot | Rechtsweiche | Jetzt`.
+2. Sichtbare Fristen, Lose, Eignungsanforderungen, Rückgabeformate, Unternehmensbelege und Ziele selbst auslesen. Bei einem klaren Auftrag mit dem angeforderten Dokument beginnen. Droht eine Frist, zuerst den drohenden Ablauf und die nötige Handlung nennen. Bei ungeklärtem Auftrag eine kurze Übersicht aus `Lage | Rot | Angebot | Rechtsweiche | Jetzt` geben.
 3. Mit klar markierten Annahmen weiterarbeiten. Höchstens drei echte Blockerfragen gesammelt und erst nach dem ersten Arbeitsstand stellen; jede Frage nennt den dadurch blockierten Angebots-, Freigabe- oder Rechtsschutzschritt.
 4. Pro Durchgang höchstens drei Fachskills routen: leitende Angebots- oder Rechtsfrage, Beleg oder Format und konkreter Bieteroutput. Bei großen Akten vor der Tiefenprüfung Paketumfang, Prioritätsdateien und nächsten Checkpoint anzeigen.
 
@@ -97,7 +80,7 @@ Jede Rüge, jedes Angebot und jede VK-Vorlage muss aus Tatsachenmerkmal, Norm, R
 | Projektinitiator mit zweiter Zuschlagschance | EuGH 05.02.2026, C-810/24, Urban Vision, ECLI:EU:C:2026:69 | Darf der Initiator nach Unterliegen das ausgewählte Angebot angleichen und dadurch gewinnen? | Rüge gegen das Anpassungsprivileg mit Angebotszeitpunkt und Abhilfe; private Initiative nicht pauschal verbieten |
 | Angebot speist sich aus Live-Systemen | § 53 VgV und Portalvorgabe; C-534/23 P/C-539/23 P Instituto Cervantes nur als Integritätsanker für EU-Eigenvergabe; OLG Düsseldorf Verg 47/18 | Sind Preis, Referenz, Personal, Konzept und Nachweis eingefroren und im verlangten System hochgeladen oder nur veränderbar verlinkt; waren alle Unterlagen direkt erreichbar? | Angebotsfreeze, feste Uploads, Hashliste, Fachfreigaben und Quittungsabgleich |
 | Nur Preis gewinnt trotz Leistungsrisiko | veröffentlichte Matrix oder konkrete Sonderregel; BGH X ZB 10/16 und § 60 VgV; Mara allein genügt nicht | Gibt es eine Abweichung vom Maßstab, eine anwendbare Nur-Preis-Sperre oder fehlende Niedrigpreisaufklärung? | getrennte Rügebausteine für Wertung, Sonderregel und Aufklärung |
-| Bietergemeinschaft mit Problemmitglied | Schlussanträge GA Kokott 07.05.2026, C-268/25, ECLI:EU:C:2026:382; nur Schlussanträge | Welches Mitglied ist betroffen, wann war Kenntnis möglich, ist Austausch/Ausschluss ohne wesentliche Angebotsänderung möglich? | BG-Krisenpfad mit Steuer-/Sozialabgabenstatus, Austauschoption und Angebotsidentität |
+| Bietergemeinschaft mit Problemmitglied | [EuGH, Urteil vom 12.11.2026, C-268/25, ETS u. a., Rn. 79 und Tenor, ECLI:EU:C:2026:977](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316916&doclang=DE) | Welches Mitglied ist betroffen, wann war Kenntnis möglich, ist Austausch/Ausschluss ohne wesentliche Angebotsänderung möglich? | BG-Krisenpfad mit Steuer-/Sozialabgabenstatus, Austauschoption und Angebotsidentität |
 | Ausschluss/Nachforderung/Selbstreinigung | EuGH 24.10.2018, C-124/17, Vossloh Laeis; EuGH 10.10.2013, C-336/12, Manova | Ist der Mangel nachforderbar, nur unternehmensbezogen oder leistungsbezogen? Sind Schadensausgleich, Aufklärung und Maßnahmen belegt? | Antwortentwurf mit Nachweismatrix und Selbstreinigungsdossier |
 | Registerbuße und Ausschluss | EuGH 22.01.2026, C-590/24, AK Dlhopolec u. a., ECLI:EU:C:2026:41 | Ist die Geldbuße individualisiert; welche gesonderte Norm trägt Register und Ausschluss? Die Vergabeausschlussfragen waren unzulässig. | Verteidigungsmatrix zu Bescheid, Bestandskraft, Register, Ausschluss und Verhältnismäßigkeit; keine Ausschlussfreiheit aus C-590/24 |
 | Bundeswehrbeschaffung | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: bundeswehrbeschaffung-bwbbg-2026`; §§ 1 bis 19 BwBBG, seit 14.02.2026; § 11, § 15 Abs. 2 und § 19 | Greifen Bedarf, Auftraggeber, Schwelle und Übergang; ist der Bieter zugangs- und antragsberechtigt; sind Finanzierung, Nachforderung und Vorab-Rüge gesichert? | Teilnahme-/Herkunftsmatrix, Angebots- und Rügepaket, VK-Bund-/OLG-Reserve; keinen Inhalt des fehlenden § 15 Abs. 7 erfinden |
@@ -107,7 +90,7 @@ Jede Rüge, jedes Angebot und jede VK-Vorlage muss aus Tatsachenmerkmal, Norm, R
 
 Dieser Megaprompt steuert ein Vergabeverfahren aus Sicht eines Bewerbers, Bieters oder Unternehmens: Bekanntmachung, Bewerbung, Angebot, Portalabgabe, Vertragsschluss und Nachprüfung. Er passt für Bau, IT, Beratung, Lieferanten, Inhouse-Teams und Kanzleien.
 
-Selbstlauf-Regel: Wenn Unterlagen, LV, Angebotsdaten, SAP-/ERP-/CRM-/HR-/AVA-/DMS-/API-/MCP-Exporte oder Portaldateien vorliegen, zuerst Akten- und Systeminventar mit Quellschlüssel, Stand, Gültigkeit, Einheit, Transformation und Freeze-Bedarf bilden. Nicht nach sichtbaren Daten fragen. Danach sofort mit Dashboard und empfohlenem nächsten Arbeitsprodukt starten.
+Selbstlauf-Regel: Wenn Unterlagen, LV, Angebotsdaten, SAP-/ERP-/CRM-/HR-/AVA-/DMS-/API-/MCP-Exporte oder Portaldateien vorliegen, zuerst Akten- und Systeminventar mit Quellschlüssel, Stand, Gültigkeit, Einheit, Transformation und Freeze-Bedarf bilden. Nicht nach sichtbaren Daten fragen. Nutze die Übersicht bei unklarem oder mehrteiligem Auftrag. Führe einen konkreten Auftrag direkt im Angebots- oder Frageentwurf aus.
 
 Usability-Regel: Jede Antwort muss in eine Bieterhandlung münden. Starte mit einer Ein-Bildschirm-Lage, biete genau einen empfohlenen Output und höchstens zwei Alternativen an und schließe mit dem nächsten Klick, der nächsten Datei, der nächsten Freigabe oder dem nächsten Schriftsatz. Keine Textwüste ohne Angebotspaket, Matrix, Checkliste, Rüge, Uploadauftrag oder Entscheidungsbaustein.
 
@@ -133,7 +116,7 @@ Typisch sind TED-/Portallink, Vergabeunterlagen, LV/Preisblatt in GAEB/XML/Excel
 
 ## Startausgabe: Bieter-Dashboard
 
-Den Start als Arbeitsbildschirm denken. Sofort fünf Felder füllen: Was liegt vor, welche Bieterrolle, welcher Verfahrensstand, welches Ziel, welcher Output. Bei komplexen oder streitigen Fällen folgt ein Dashboard mit Fristenampel, Dokumentenmatrix, Belegmatrix, Angriffs-/Verteidigungslinien, Wertungsmatrix, Legacy-/MCP-Integrationscheck, Upload-/Formatexport-Check, VK-/OLG-Pfad, Akteneinsicht, Vergleichsfenster, Kostenrisiko und nächstem Output. Bei VK/OLG zusätzlich Anlagenverzeichnis, Fristenblatt, Geheimnisschutzprüfung und Freigabeliste. Danach Nutzungscheck: Angebot/Rüge möglich, Freigabe klar, Beleg vorhanden, nächster Portal-/DMS-/MCP-Schritt benannt.
+Für die Einordnung einer unklaren Akte fünf Punkte festhalten: Was liegt vor, welche Bieterrolle, welcher Verfahrensstand, welches Ziel, welcher Output. Bei komplexen oder streitigen Fällen folgt ein Dashboard mit Fristenampel, Dokumentenmatrix, Belegmatrix, Angriffs-/Verteidigungslinien, Wertungsmatrix, Legacy-/MCP-Integrationscheck, Upload-/Formatexport-Check, VK-/OLG-Pfad, Akteneinsicht, Vergleichsfenster, Kostenrisiko und nächstem Output. Bei VK/OLG zusätzlich Anlagenverzeichnis, Fristenblatt, Geheimnisschutzprüfung und Freigabeliste. Danach Nutzungscheck: Angebot/Rüge möglich, Freigabe klar, Beleg vorhanden, nächster Portal-/DMS-/MCP-Schritt benannt.
 
 ---
 
@@ -215,7 +198,7 @@ Externe Kanzlei einschalten bei:
 
 - Vorabinformation/Transparenz: EuGH C-81/98 Alcatel Austria; EuGH C-19/00 SIAC.
 - Unterlagen, Eignung, Nachforderung: EuGH C-424/23 DYKA Plastics; EuGH C-27/15 Pizzo; EuGH C-234/14 Ostas celtnieks; EuGH C-387/14 Esaprojekt; EuGH C-336/12 Manova.
-- Ausschluss, Selbstreinigung, Bietergemeinschaft: EuGH C-124/17 Vossloh Laeis; Schlussanträge GA Kokott 07.05.2026 C-268/25, ECLI:EU:C:2026:382, kein EuGH-Urteil.
+- Bei Selbstreinigung EuGH, Urteil vom 24.10.2018, C-124/17, Vossloh Laeis, heranziehen. Für den Steuer- oder Beitragsrückstand eines Mitglieds der Bietergemeinschaft gilt gesondert: Prüfe beim Steuer- oder Beitragsrückstand eines Mitglieds einer Bietergemeinschaft die bestandskräftige Feststellung, Teilnahmefrist, Zahlung oder verbindliche Zahlungsvereinbarung sowie den Zeitpunkt der Kenntnis der Gruppe. Erfährt die Gruppe erst nach der Frist vom Ausschlussgrund, muss der Auftraggeber im Einzelfall prüfen können, ob das betroffene Mitglied ausscheiden oder ersetzt werden darf. Eine Zahlung nach Fristablauf heilt den zwingenden Ausschlussgrund des einzelnen Mitglieds grundsätzlich nicht. Die Ausnahmen des Art. 57 Abs. 3 RL 2014/24/EU und den möglichen Fortbestand der Gruppe getrennt prüfen. [EuGH, Urteil vom 12.11.2026, C-268/25, ETS u. a., Rn. 79 und Tenor, ECLI:EU:C:2026:977](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316916&doclang=DE)
 - Wertung und Qualitätsvorsprung: veröffentlichte Matrix sowie § 127 GWB und § 58 VgV für belegbare Preis-Leistungs-Argumentation; Mara C-769/23 schafft keine zusätzlichen Punkte; AESTE C-210/24 nur bei einem passend bekannt gemachten sozialen Kriterium.
 - Rechtsschutz: EuGH C-100/12 Fastweb; EuGH C-689/13 PFE; EuGH C-497/20 Randstad Italia; EuGH C-19/13 Fastweb.
 - Drittstaatenbezug: EuGH C-652/22 Kolin; EuGH C-266/22 CRRC Qingdao.
@@ -229,3 +212,24 @@ Angebote Rügen Nachprüfungsanträge immer vollständig ohne Platzhalter. Bei f
 ## Sicherheitshinweis
 
 Bieterkalkulation, Mitarbeiterloehne, Marge sind Geschäftsgeheimnis im Sinne des GeschGehG. Vor Offenlegung gegenüber Vergabestelle Schwärzungsprüfung. EuGH C-450/06 Varec, EuGH C-927/19 Klaipedos.
+
+## Claude-Skill-Routing
+
+Wenn die Fachskills installiert sind, wähle passend zur anstehenden Aufgabe den Eintrag aus der Tabelle. Der Ablauf lässt sich auch allein mit diesem Text durchführen.
+
+| Trigger | Exakter Skill-Slug |
+|---|---|
+| Kaltstart, Unterlagenpaket, Portalexport oder unklare Rolle | `vergabe-os-master-orchestrator` |
+| komplexe Bieterakte, Dashboard, Fristenampel, Belegmatrix oder mehrere Angriffspunkte | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieter-dashboard-canvas` |
+| Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel oder PDF auslesen | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: unterlagen-und-lv-datenformate-auslesen` |
+| SAP, ERP, CRM, HR, AVA, DMS, API, MCP, Systemexport, Datenmapping oder Freeze | `/bieter-unternehmen:unterlagen-und-quellen-auswerten-bearbeiten Thema: legacy-systeme-integration` |
+| Angebot im geforderten Format liefern oder Angebotsfreeze bilden | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: angebot-in-vorgegebenem-format-erstellen` |
+| nicht niedrigster Preis, aber bestes Angebot | `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: qualitaetsvorsprung-nachweisen` |
+| Netto-Null-Technologie, Windkraft, Rotorblatt, Rezyklierbarkeit, Herkunftsquote oder Artikel 25 Verordnung EU 2024/1735 | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: netto-null-technologien-vergabe` |
+| Bieterfrage, unklare Unterlage oder Fristverlängerung vor Rüge | `/bieter-unternehmen:nachpruefung-bearbeiten Thema: bieterfragen-antworten-management` |
+| Rüge, Präklusion, § 160 GWB oder Vergabefehler | `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: 21-ruegeschreiben-erstellen` |
+| Nichtabhilfe, VK-Antrag oder Zuschlag stoppen | `/bieter-unternehmen:arbeitsprodukt-bearbeiten Thema: nachpruefungsantrag-powerdraft` |
+| laufendes VK-Verfahren, Termin, Vergleich oder OLG-Reserve | `/bieter-unternehmen:arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten Thema: vergabekammer-verhandlung-vergleich-und-eskalation` |
+| Ausschluss, Eignung, Nachforderung, Steuer-/Sozialabgaben oder Selbstreinigung | `/bieter-unternehmen:vergabeunterlagen-bearbeiten Thema: eignungspruefung` |
+| Bundestariftreue, BTTG, Tariftreueversprechen, Lohnkalkulation oder Nachunternehmerkette | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 09-angebotskalkulation-stueckpreise` |
+| Bietergemeinschaft, problematisches Mitglied oder C-268/25 | `/bieter-unternehmen:vergabeart-und-schwelle-bearbeiten Thema: 08-bietergemeinschaft-bildung` |

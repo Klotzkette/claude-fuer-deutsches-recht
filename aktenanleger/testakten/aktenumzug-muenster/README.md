@@ -2,6 +2,10 @@
 
 Die Kanzlei Westentor verlegt ihr Papierarchiv in ein anderes Stockwerk. Ein Transporteur fordert eine Liste mit Mandantennamen. Gleichzeitig erscheint eine nicht angemeldete Firma zur Abholung. Der Eingang betrifft die eigene Büroorganisation.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-a-b.md#fall-aktenumzug-muenster)
+<!-- END Aktenarbeit -->
+
 Legen Sie eine interne Verwaltungsakte für den Archivumzug an. Trennen Sie die Entscheidungsunterlagen von geschützten Handakten. Bereiten Sie die interne Übergabe und die Antwort an den Dienstleister vor.
 
 Öffnen Sie zuerst die Grundakte im Originalformat-ZIP. Die Nachreichungen und bearbeitbaren Vorlagen haben jeweils einen eigenen Ordner.

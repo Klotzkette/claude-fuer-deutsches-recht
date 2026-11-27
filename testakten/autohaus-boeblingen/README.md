@@ -13,7 +13,7 @@
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-autohaus-boeblingen.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-autohaus-boeblingen.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-autohaus-boeblingen.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-autohaus-boeblingen.zip) · [Schriftstücke zum Fall](../../docs/downloads/aktenarbeit/faelle-a-b.md#fall-autohaus-boeblingen) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/autohaus-boeblingen_gesamt.pdf`](gesamt-pdf/autohaus-boeblingen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-autohaus-boeblingen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/werkstatt-partnerakten-v1.0.0/testakte-autohaus-boeblingen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-autohaus-boeblingen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/werkstatt-partnerakten-v1.0.0/testakte-autohaus-boeblingen-einzelpdfs.zip) |

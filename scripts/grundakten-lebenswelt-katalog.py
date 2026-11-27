@@ -3,6 +3,7 @@
 
 import argparse
 
+from aktenarbeit_katalog import verweise as schriftstuecke
 from akteneingang.quellen import ROOT, catalogs
 from akteneingang.vertiefung import fachredaktion
 from akteneingang.verweise import central_row, links, routes
@@ -12,6 +13,8 @@ from testakte_disclaimer import NOTICE_MARKDOWN
 HEADER = """# Arbeitsakten mit Eingangspost
 
 Wählen Sie den Fall über die Seitensuche. Entpacken Sie das **Arbeits-ZIP**. Öffnen Sie für die erste Bearbeitung den Ordner `Grundakte`. Unter `00_Posteingang` finden Sie die fallbezogenen Nachrichten, Belege und offenen Rückfragen. Die `README.txt` im ZIP nennt die Absender, Betreffzeilen und weitere Eingangsunterlagen. Für die nächste Runde können Sie den übrigen Aktenbestand hinzunehmen.
+
+Die [Schriftstücke zu den Testakten](../downloads/aktenarbeit/README.md) können Sie einzeln öffnen. Über den Fallnamen in der Tabelle gelangen Sie zu den zugehörigen Fassungen.
 
 Für die notarielle Praxis gibt es außerdem [sieben Amtsgeschäfte und dreizehn Bestandsakten](../../allgemeines-notariat/testakten/README.md). [Fünf Akten zur Aktenanlage](../../aktenanleger/testakten/README.md) und [drei zur steuerlichen Umwandlung](../../umwandlungssteuerrecht/testakten/README.md) enthalten jeweils eine Grundakte und spätere Nachreichungen.
 
@@ -125,7 +128,10 @@ def main():
             native, printpack = links(key)
             if records[key].get("nur_original"):
                 printpack = "Originalformate"
-            lines.append(f"| {title(key, slug)} | {slug} | {native} | {printpack} |")
+            name = title(key, slug)
+            if key in schriftstuecke():
+                name = f"[{name}](../downloads/aktenarbeit/{schriftstuecke()[key]})"
+            lines.append(f"| {name} | {slug} | {native} | {printpack} |")
             if central:
                 file = ROOT / key / "README.md"
                 text = file.read_text()
@@ -133,14 +139,11 @@ def main():
                 start = text.index("| --- |", begin)
                 end = text.index("\n", start)
                 row = central_row(slug, 3 if text[start:end].count("|") == 4 else 2)
-                previous = central_row(
-                    slug, 3 if text[start:end].count("|") == 4 else 2, historisch=True
-                )
                 if row not in text:
-                    if previous != row and text[end:].startswith(
-                        "\n" + previous + "\n"
-                    ):
-                        updated = text[:end] + text[end:].replace(previous, row, 1)
+                    rest = text[end + 1:]
+                    first, _, after = rest.partition("\n")
+                    if first.startswith("| **Vollakte mit Eingangspost** |"):
+                        updated = text[:end + 1] + row + "\n" + after
                     else:
                         updated = text[:end] + "\n" + row + text[end:]
                     apply(file, updated, args.check)

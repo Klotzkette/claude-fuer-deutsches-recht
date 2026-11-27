@@ -18,6 +18,7 @@ from zipfile import ZIP_STORED, ZipFile
 from package_readme import render_readme
 from release_routing import RELEASE_BASE
 from testakte_zip_common import safe_archive_name
+from werkstatt_edition import previous as before_workshops
 
 ROOT = Path(__file__).resolve().parents[1]
 DIRECTORY = ROOT / "Fachbereiche/Insolvenzrecht"
@@ -48,7 +49,13 @@ def inventory():
 
 
 def readmes(directory, names):
-    return {name: render_readme(ROOT, directory, names, None, name=name, release_tag=RELEASE_TAG)
+    # Die Dokumentations-ZIPs gehören zur fest veröffentlichten Ausgabe 445.36.10.
+    def release_source(readme):
+        return before_workshops(ROOT, readme.relative_to(ROOT).as_posix(),
+                                readme.read_bytes(), plugin=directory.name)
+
+    return {name: render_readme(ROOT, directory, names, None, name=name,
+                                release_tag=RELEASE_TAG, read_source=release_source)
             for name in names if PurePosixPath(name).name == "README.md"}
 
 

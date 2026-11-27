@@ -161,7 +161,7 @@ Zuschlagssperre nicht nur behaupten: Zeitpunkt des § 134 GWB-Schreibens, Eingan
 | Änderung nach möglichem Vertragsende | EuGH C-820/24 Strominator: vollständige Leistung, endgültige Abnahme und Schlussrechnung belegen |
 | Sanktionsangriff | EuGH C-313/24 Opera Laboratori: konkrete Kontroll- oder Mittelumleitungsindizien statt Nationalitätsvortrag |
 | bußgeldbezogene Register-/Ausschlussfolge | EuGH C-590/24 AK Dlhopolec nur zur Sanktionsbemessung; Vergabeausschlussfragen waren unzulässig |
-| Bietergemeinschaft und Steuer-/Sozialabgabenproblem | GA Kokott C-268/25, nur Schlussanträge |
+| Bietergemeinschaft und Steuer-/Sozialabgabenproblem | EuGH C-268/25, ETS |
 | VK-Praxis der letzten zehn Jahre | `references/praxisrechtsprechung-vk-2016-2026.md` für Rügepräklusion, Substantiierung, Wertungsdokumentation, Preisaufklärung, Akteneinsicht und Rahmenvereinbarungen |
 
 ## Rechtsprechungsfeste Hauptarbeit
@@ -178,7 +178,7 @@ Jeder Konkurrentenangriff braucht Frist, Aktenbeleg, Norm, Rechtsprechungsanker,
 | System-/Portalbeweis | § 41, § 53 VgV, § 165 GWB; Instituto Cervantes nur Integritätsanker für EU-Eigenvergabe; OLG Düsseldorf Verg 47/18, Verg 34/20 und Verg 36/23 | Ist die Herkunft zulässig, das Original unverändert, der Tatsachenkern konkret und die fehlende interne Information als Akteneinsichtsziel benannt? | Beweiskette, Hash-/Transformationsmanifest, Gegenhypothese, Akteneinsichtsantrag und Anlagenpaket |
 | Direktauftrag/Exklusivität | §§ 135, 160 GWB; EuGH C-578/23 | Ist Alleinstellung durch frühere Verträge, Datenhaltung, Rechte oder Schnittstellen des Auftraggebers selbst geschaffen? | § 135-/Eilantragspfad mit Lock-in-Historie, Marktalternative und Frist |
 | Änderung nach Vertragsende | §§ 132, 135, 160 GWB; C-820/24 Strominator | Sind vollständige Leistung, endgültige Abnahme und Schlussrechnung belegt, sodass eine offene Zahlung die Laufzeit nicht verlängert? | Laufzeit-Beweismatrix und Unwirksamkeits-/Neuvergabeantrag |
-| Eignung/Ausschluss/Sanktion | §§ 123 bis 125 GWB; Vossloh; C-268/25 nur Schlussanträge; C-313/24 Opera Laboratori | Gibt es belastbare Hinweise zu Register, Selbstreinigung, BG-Mitglied, faktischer Kontrolle oder Mittelumleitung? | Akteneinsichtsziel, Beweismatrix und passende Ausschluss-/Neuwertungsfolge |
+| Eignung/Ausschluss/Sanktion | §§ 123 bis 125 GWB; Vossloh; EuGH C-268/25, ETS; C-313/24 Opera Laboratori | Gibt es belastbare Hinweise zu Register, Selbstreinigung, BG-Mitglied, faktischer Kontrolle oder Mittelumleitung? | Akteneinsichtsziel, Beweismatrix und passende Ausschluss-/Neuwertungsfolge |
 | Akteneinsicht/Schwärzung | § 165 GWB; EuGH C-54/21 Antea Polska, C-927/19 Klaipedos, C-450/06 Varec | Welche Information ist für Antragsbefugnis, Kausalität oder Zuschlagschance entscheidungserheblich? | Akteneinsichtsantrag mit Schwärzungsangriff und Begründungsersatz |
 
 ## Outputstandard
@@ -213,7 +213,7 @@ Fehlt eine Stufe, keine ausformulierte Behauptung erzeugen. Stattdessen die offe
 
 Die folgenden Anker sind fallbezogen anzuwenden; den jeweils dokumentierten Quellenstatus in der [Entscheidungskarte](../../references/hauptworkflow-entscheidungen.md) beachten. Frühere Prüfung bedeutet keine neue Volltextverifikation.
 
-- [EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.](https://curia.europa.eu/jcms/jcms/p1_3865069/fr/): Im Schwaerzungsfall wird die streiterhebliche Wertungsbegruendung gezielt verlangt, bei geschuetzten Einzelheiten mit nichtvertraulichem wesentlichem Inhalt als Alternative. **Grenze:** Die gelesene Gerichtspressemitteilung ist nicht bindend und keine Volltextpruefung. Kein Anspruch auf ungeschwaerzte Gesamtangebote und kein automatischer Erfolg des deutschen Nachpruefungsantrags daraus.
+- [EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.](https://curia.europa.eu/site/upload/docs/application/pdf/2022-11/cp220186de.pdf): Im Schwaerzungsfall wird die streiterhebliche Wertungsbegruendung gezielt verlangt, bei geschuetzten Einzelheiten mit nichtvertraulichem wesentlichem Inhalt als Alternative. **Grenze:** Die gelesene Gerichtspressemitteilung ist nicht bindend und keine Volltextpruefung. Kein Anspruch auf ungeschwaerzte Gesamtangebote und kein automatischer Erfolg des deutschen Nachpruefungsantrags daraus.
 
 - [EuGH, Urteil vom 12.02.2004 – C-230/02](https://eur-lex.europa.eu/legal-content/DE/SUM/?uri=CELEX%3A62002CJ0230): Amtliche Entscheidungsdaten, Zusammenfassung und dortige Randnummernverweise 28–29,37–40 geprüft. **Grenze:** Deutscher Volltextabruf wechselhaft; keine vollständige deutsche Urteilslektüre behauptet; die heutige Prüfung nach § 160 GWB bleibt erforderlich.
 

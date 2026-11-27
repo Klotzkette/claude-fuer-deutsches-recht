@@ -6,9 +6,13 @@ Date: Thu, 12 Nov 2026 08:35:00 +0100
 Message-ID: <de97216cc7029a343c7a1a5d@fallpost.example>
 Subject: =?utf-8?q?Pr=C3=BCfung_EP-Entwurf_E1_vor_Einreichung_mit_Priorit?=
  =?utf-8?q?=C3=A4t?= P0
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-a8ac9f867fef6ee8b2397455"
+
+--interstate-alt-a8ac9f867fef6ee8b2397455
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Wir wollen aus P0 europ=C3=A4isch nachanmelden. Dieselbe Gesellschaft ist Anm=
 elderin geblieben. Der Entwurf E1 vom 12. November enth=C3=A4lt eine neue Nor=
@@ -24,3 +28,25 @@ en vorgelegten Stand schon auf elektronischem Weg einreicht. Bis zur schriftl=
 ichen R=C3=BCckmeldung ist nichts freigegeben. Wir ben=C3=B6tigen eine voll a=
 usformulierte, =C3=BCberpr=C3=BCfte Fassung und eine Liste der erforderlichen=
  Entscheidungen.
+
+--interstate-alt-a8ac9f867fef6ee8b2397455
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #2C=
+6155;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Wir wollen aus P=
+0 europ=C3=A4isch nachanmelden. Dieselbe Gesellschaft ist Anmelderin gebliebe=
+n. Der Entwurf E1 vom 12. November enth=C3=A4lt eine neue Normalisierung und =
+einen Anspruch aus der Vertriebspr=C3=A4sentation. Bitte zeichnen Sie die Unt=
+erschiede zum urspr=C3=BCnglichen Text entlang der Anspr=C3=BCche ab. F=C3=BC=
+r die Anlage am 4. Dezember ist eine =C3=B6ffentliche Vorf=C3=BChrung vorgese=
+hen.</p><p>Der Poolbetreiber stellt die Kisten, wir liefern Pr=C3=BCfstand, S=
+oftware und Sortierausgang. Die vorhandene mechanische Weiche geh=C3=B6rt dem=
+ Betreiber. Unsere Gesch=C3=A4ftsf=C3=BChrung wird am 20. November entscheide=
+n, ob sie den vorgelegten Stand schon auf elektronischem Weg einreicht. Bis z=
+ur schriftlichen R=C3=BCckmeldung ist nichts freigegeben. Wir ben=C3=B6tigen =
+eine voll ausformulierte, =C3=BCberpr=C3=BCfte Fassung und eine Liste der erf=
+orderlichen Entscheidungen.</p></div></body></html>
+
+--interstate-alt-a8ac9f867fef6ee8b2397455--

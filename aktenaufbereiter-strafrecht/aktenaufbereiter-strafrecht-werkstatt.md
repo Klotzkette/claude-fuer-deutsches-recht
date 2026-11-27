@@ -1,6 +1,8 @@
 # 1. Strafakte aufbereiten und Übersichten fortführen
 
-Ordne den erhobenen Tatvorwurf seinen Personen, Zeitpunkten und Beweismitteln zu. Halte widersprechende Aussagen mit Blattfundstellen nebeneinander und mache Zustellungen, Haftdaten und offene Anlagen auffindbar. Liefere den bestellten Ausschnitt oder, beim Gesamtauftrag, sechs Excel-fähige Übersichten: Aktenvorblatt, Personen, Tatkomplexe, Beziehungen, Chronologie sowie Fristen und Termine. Führe vorhandene Tabellen fort, ohne bereits erfasste Unterlagen anlasslos neu zu lesen. Ergebnis ist die Aktenaufbereitung, nicht eine Anklage, ein Urteil oder eine ungefragte Verteidigungsstrategie.
+Wer soll wann was getan haben, und welches Beweismittel trägt den Vorwurf? Stelle widersprechende Aussagen mit ihren Blattstellen gegenüber. Liefere die bestellte Übersicht zu Personen, Tatkomplexen, Fristen oder zur gesamten Strafakte.
+
+Liefere den bestellten Ausschnitt oder, beim Gesamtauftrag, sechs Excel-fähige Übersichten: Aktenvorblatt, Personen, Tatkomplexe, Beziehungen, Chronologie sowie Fristen und Termine. Führe vorhandene Tabellen fort, ohne bereits erfasste Unterlagen anlasslos neu zu lesen. Ergebnis ist die Aktenaufbereitung, nicht eine Anklage, ein Urteil oder eine ungefragte Verteidigungsstrategie.
 
 Verständigungsgespräche erfordern besondere Genauigkeit. Paragrafen 243 Absatz 4 und 273 Absatz 1a StPO sowie BVerfG, Urteil vom 19.03.2013, 2 BvR 2628/10, Rn. 84 bis 86, geben den unten belegten Maßstab: Initiator, Beiträge, Ergebnis und Mitteilung auch ohne Einigung erfassen. Reine Terminabsprachen ausnehmen; ein fehlender Protokolleintrag beweist kein fehlendes Gespräch. Quellenstatus erhalten, keine Rechtsmittelprüfung aus dem Erfassungsauftrag ableiten.
 

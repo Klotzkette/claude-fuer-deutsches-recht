@@ -6,9 +6,13 @@ Date: Fri, 20 Nov 2026 11:02:00 +0100
 Message-ID: <718a2ffc02fdeb442e92f43a@fallpost.example>
 Subject: E1 eingereicht =?utf-8?q?=C2=B7_unver=C3=A4nderte_Fassung_mit_Prior?=
  =?utf-8?q?it=C3=A4tsangabe?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-353b9057a1887449f5b0c7c1"
+
+--interstate-alt-353b9057a1887449f5b0c7c1
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Die Gesch=C3=A4ftsf=C3=BChrung hat heute um 10.16 Uhr die europ=C3=A4ische An=
 meldung mit Priorit=C3=A4tsangabe P0 abgesandt. Das elektronische Eingangspro=
@@ -23,3 +27,25 @@ zt angek=C3=BCndigte Laborzeichnung nicht beim Eingang. Bitte unterscheiden S=
 ie Ihre Vorschl=C3=A4ge f=C3=BCr eine =C3=84nderung dieser Anmeldung von eine=
 r eigenst=C3=A4ndig einreichbaren Fassung f=C3=BCr die zus=C3=A4tzliche Ausge=
 staltung. Die Vorf=C3=BChrung vom 4. Dezember steht weiter im Kalender.
+
+--interstate-alt-353b9057a1887449f5b0c7c1
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #2C=
+6155;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Die Gesch=C3=A4f=
+tsf=C3=BChrung hat heute um 10.16 Uhr die europ=C3=A4ische Anmeldung mit Prio=
+rit=C3=A4tsangabe P0 abgesandt. Das elektronische Eingangsprotokoll f=C3=BCr =
+E1 nennt die Kistenkreis Pr=C3=BCftechnik GmbH und den 20. November 2026. Die=
+ses interne Fallk=C3=BCrzel steht ausschlie=C3=9Flich f=C3=BCr die in der =C3=
+=9Cbung fingierte Einreichung.</p><p>Entgegen meiner fr=C3=BCheren Erwartung =
+gingen genau der Anspruchssatz und die Beschreibung vom 12. November unver=C3=
+=A4ndert ein. Eine weitere technische Anlage oder Zeichnung wurde nicht =C3=
+=BCbermittelt. Insbesondere lag die jetzt angek=C3=BCndigte Laborzeichnung ni=
+cht beim Eingang. Bitte unterscheiden Sie Ihre Vorschl=C3=A4ge f=C3=BCr eine =
+=C3=84nderung dieser Anmeldung von einer eigenst=C3=A4ndig einreichbaren Fass=
+ung f=C3=BCr die zus=C3=A4tzliche Ausgestaltung. Die Vorf=C3=BChrung vom 4. D=
+ezember steht weiter im Kalender.</p></div></body></html>
+
+--interstate-alt-353b9057a1887449f5b0c7c1--

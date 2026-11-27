@@ -2,6 +2,10 @@
 
 Aus Richtersicht. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Firmen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen ist Zufall.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-arbeitsgericht)
+<!-- END Aktenarbeit -->
+
 ## Kurzbeschreibung
 
 Arbeitsrechtliche Kündigungsschutzklage gegen eine ordentliche betriebsbedingte Kündigung. Klägerin Hildegard Sauer (49 Jahre, vierzehn Jahre Betriebszugehörigkeit, Sachbearbeiterin Buchhaltung, alleinerziehend mit einem Kind) wendet sich gegen die Kündigung der Edelholz Berlin GmbH zum 31.07.2026. Die Beklagte begründet die Kündigung mit der Auslagerung der Buchhaltung an einen externen Dienstleister. Streitig sind der Wegfall des Beschäftigungsbedarfs, die Sozialauswahl zugunsten der juengeren Kollegin Lena Markwart sowie die ordnungsgemäße Anhörung des Betriebsrats. Streitwert dreieinhalb Bruttomonatsvergütungen, sachliche Zuständigkeit der Gerichte für Arbeitssachen nach Paragraf 2 Absatz 1 Nummer 3 Buchstabe b ArbGG. Verfahrensstand bei Aktenübernahme: Klage zugestellt, Klageerwiderung liegt vor, Gütetermin steht an.

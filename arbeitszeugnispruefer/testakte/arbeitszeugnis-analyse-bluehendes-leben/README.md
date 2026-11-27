@@ -2,6 +2,10 @@
 
 Diese Aktenmappe begleitet das Plugin [`arbeitszeugnispruefer`](../../README.md) mit zehn Arbeitszeugnissen aus verschiedenen Branchen und Berufen. Die Unterlagen sind formal freundlich, im üblichen Wohlwollens-Stil verfasst und enthalten bewusst unterschiedliche Noten- und Signalebenen.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-a-b.md#fall-arbeitszeugnis-floristik-kassenabschluss)
+<!-- END Aktenarbeit -->
+
 ## Vollakte mit Originalbelegen und Nachreichungen
 
 Für Hartmut Greifenklau lässt sich das Zeugnis mit der Einsatzdokumentation zur Gruppenanreise und der späteren Rückmeldung der Hoteldirektorin vergleichen. Im getrennten Floristikvorgang fragt Wiebke Hagedorn nach einer Kassendifferenz. Die spätere Nachricht über einen Wechselgeldumschlag gibt Anlass, die erste Einschätzung zu überprüfen. Die späteren Nachreichungen stehen in einem eigenen Ordner.

@@ -2,6 +2,10 @@
 
 Aus Richtersicht. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen ist Zufall.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-familiengericht)
+<!-- END Aktenarbeit -->
+
 ## Kurzbeschreibung
 
 Familiensache Kindesunterhalt. Das minderjährige Kind Jonas Sauer, vertreten durch seine Mutter Hildegard Sauer, verlangt von seinem Vater Konrad Welp laufenden Kindesunterhalt in Höhe von einhundertzehn Prozent des Mindestunterhalts der zweiten Altersstufe als dynamischen Titel nach Paragraf 1612a BGB. Streitig ist die Leistungsfähigkeit des selbstständig tätigen Antragsgegners (Paragraf 1603 BGB); die Antragstellerseite hält das angegebene Einkommen für zu niedrig und beruft sich auf eine Verletzung der gesteigerten Erwerbsobliegenheit. Verfahrenswert nach Paragraf 51 FamGKG (Jahresbetrag des laufenden Unterhalts). Familiengericht beim Amtsgericht, Anwaltszwang besteht in der Unterhaltssache nicht (Paragraf 114 FamFG). Verfahrensstand bei Aktenübernahme: Antrag zugestellt, Antragserwiderung liegt vor, Termin steht aus.

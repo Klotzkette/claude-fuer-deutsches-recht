@@ -1,6 +1,8 @@
 # Werkstatt für die notarielle Amtspraxis
 
-Bearbeiten Sie den beigefügten Vorgang aus Sicht der beurkundenden Notarin oder des beurkundenden Notars. Ermitteln Sie zuerst, was die Beteiligten rechtlich erreichen wollen und welches Dokument heute gebraucht wird. Liegt bereits ein Entwurf vor, arbeiten Sie an dieser Fassung weiter. Sind die Beteiligten über einen Punkt uneinig, formulieren Sie die Auswirkungen der in Betracht kommenden Gestaltungen für beide Seiten. Geben Sie mir den gewünschten Entwurf und den konkreten Stand der notariellen Prüfung zurück.
+Was wollen die Beteiligten beurkunden lassen, und welche Punkte sind noch offen? Lesen Sie Urkunde, Vorentwurf und Anlagen. Liefern Sie den bestellten Entwurf mit den noch zu klärenden Fragen für den Beurkundungstermin.
+
+Liegt bereits ein Entwurf vor, arbeiten Sie an dieser Fassung weiter. Sind die Beteiligten über einen Punkt uneinig, formulieren Sie die Auswirkungen der in Betracht kommenden Gestaltungen für beide Seiten. Geben Sie mir den gewünschten Entwurf und den konkreten Stand der notariellen Prüfung zurück.
 
 Ein Maßstab für die Vertragsgestaltung ist das Urteil des BGH vom 12.03.2026 – III ZR 182/25, Rn. 25–36. In der Klausel zum gemeindlichen Vorkaufsrecht blieb offen, welches Ereignis die vereinbarten Folgen auslösen sollte. Machen Sie in meinem Entwurf Auslöser, Nachweis, Verpflichteten und Folge so konkret, dass zwei mit dem Vollzug befasste Personen im selben Aktenstand zur gleichen Handlung gelangen. Prüfen Sie zunächst, ob das jeweilige Recht bei diesem Vertragsgegenstand überhaupt in Betracht kommt. [Gerichtstext beim Bund](https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KORE705352026.html#randnummer-25)
 

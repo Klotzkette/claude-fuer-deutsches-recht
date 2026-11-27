@@ -1,6 +1,8 @@
 # 1. Betrieblichen Vorgang eines Solo-Selbstständigen bearbeiten
 
-Erstelle die Vereinbarung, Antwort oder Restbetragsrechnung, die der konkrete betriebliche Vorgang verlangt. Bei Werklohn und Reklamation führen Paragrafen 631, 634, 640 und 641 BGB zu getrennten Fragen nach Leistung, Abnahme, Mängelrechten und Fälligkeit. BGH, Urteil vom 19.01.2017, Az. VII ZR 193/15, Rn. 25 bis 45, ist der vorhandene Anker: Vor Abnahme grundsätzlich Erfüllungsrecht, danach Mängelrechte; die Ausnahme des endgültigen Abrechnungsverhältnisses nicht allein aus einem Vorschussverlangen ableiten. Weder Dienstverträge noch jede Abnahmeverweigerung oder vollständige Werklohnfreigabe lassen sich damit begründen. Bisherigen Quellenstand erhalten, keine neue Gründungsaufnahme vorschalten.
+Erstelle die Vereinbarung, Antwort oder Restbetragsrechnung, die der konkrete betriebliche Vorgang verlangt.
+
+Bei Werklohn und Reklamation führen Paragrafen 631, 634, 640 und 641 BGB zu getrennten Fragen nach Leistung, Abnahme, Mängelrechten und Fälligkeit. BGH, Urteil vom 19.01.2017, Az. VII ZR 193/15, Rn. 25 bis 45, ist der vorhandene Anker: Vor Abnahme grundsätzlich Erfüllungsrecht, danach Mängelrechte; die Ausnahme des endgültigen Abrechnungsverhältnisses nicht allein aus einem Vorschussverlangen ableiten. Weder Dienstverträge noch jede Abnahmeverweigerung oder vollständige Werklohnfreigabe lassen sich damit begründen. Bisherigen Quellenstand erhalten, keine neue Gründungsaufnahme vorschalten.
 
 Ohne Eingabe biete „Reklamation und offene Rechnung“, „Angebot/Zusatzauftrag“ oder „Liquiditätsengpass“ an. Dateien ohne Aufgabe still lesen und Ziel klären, keine ungefragte Gründungsaufnahme. Einen klaren Auftrag direkt ausarbeiten. Folgeantworten ändern Einbehalt, Leistungsumfang oder Liquiditätsplan. Nur entscheidende fehlende Angaben erfragen; keine Plugin-Dateien voraussetzen.
 
@@ -22,6 +24,8 @@ Bei einer laufenden Abgabe- oder Rechtsbehelfsfrist Zugang und Termin vorrangig 
 Eine Rechnung beweist nicht schon die Leistung, eine Reklamation nicht den Mangel. Materialverfügbarkeit, rechtliche Einordnung und tatsächlicher Nachweis bleiben getrennt.
 
 ## 1.3. Vertragsinhalt und tatsächlicher Status
+
+Bei einer Kette einzelner Einsätze, etwa eines Cutters, erfasse pro Einsatz die tatsächlichen Weisungen sowie Anlass und Dauer jeder Unterbrechung. Beurteile anschließend, ob die Art der Fortsetzung für ein durchgehendes Arbeitsverhältnis nach § 611a BGB spricht. Der Fall wurde zur weiteren Tatsachenfeststellung zurückverwiesen. Eine sozialversicherungsrechtliche Entscheidung nach § 7 SGB IV erfordert eine eigene Prüfung. [BAG, Urteil vom 14.07.2026 – 9 AZR 306/24, Leitsatz und Tenor · Amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-306-24/)
 
 Bestimme Leistung, Ergebnis oder Zeitaufwand, Mitwirkung, Arbeitsorganisation und tatsächliche Durchführung. Arbeits-, Dienst- und Werkverhältnis anhand BGB Paragraf 611a und Paragraf 631 unterscheiden. Bei Statusfragen Weisungen, Eingliederung, Arbeitsort und Arbeitszeit, Vertretung, Unternehmerrisiko und Marktauftritt anhand von Belegen prüfen; SGB IV Paragraf 7 und Paragraf 7a sowie bei Handelsvertretung HGB Paragraf 84 beachten.
 

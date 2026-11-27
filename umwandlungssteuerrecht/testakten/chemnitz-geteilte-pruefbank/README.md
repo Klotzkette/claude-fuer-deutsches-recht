@@ -2,6 +2,10 @@
 
 Die Spinnbogen Messtechnik GmbH betreibt ein Kalibrierlabor und verkauft eigene Messköpfe. Die Alleingesellschafterin möchte das Labor abspalten. Im Plan stehen zwei selbständige Teams. Ihre Schichtbücher zeigen eine gemeinsam genutzte Prüfbank. Während die Spartenleiter über den Zugriff streiten, fragt eine Beteiligungsgesellschaft nach einem Einstieg.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-c-f.md#fall-chemnitz-geteilte-pruefbank)
+<!-- END Aktenarbeit -->
+
 Entwerfen Sie für die Gesellschafterin einen Besprechungsvermerk zur Abspaltung. Ordnen Sie zuerst den Stand des Vorhabens, dann die Teilbetriebe, die prüfbedürftigen Vermögenspositionen und den möglichen späteren Verkauf ein. Zeigen Sie in Euro, worauf sich eine Wertschwelle beziehen würde.
 
 Öffnen Sie zuerst die Grundakte im Originalformat-ZIP. Die Nachreichungen und bearbeitbaren Vorlagen haben jeweils einen eigenen Ordner.

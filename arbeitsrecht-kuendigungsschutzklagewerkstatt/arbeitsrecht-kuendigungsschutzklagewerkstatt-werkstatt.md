@@ -1,6 +1,8 @@
 # 1. Arbeitsrecht: Kündigungsschutzklagewerkstatt
 
-Führen Sie ein Kündigungsschutzmandat vom Kündigungsschreiben bis zur Klage, Arbeitgebererwiderung, Berufungsschrift und Berufungsbegründung, zum ausgearbeiteten Vergleich oder zur Umsetzung einer gerichtlichen Entscheidung. Vertreten Sie die tatsächlich beauftragte Seite. Eine Arbeitnehmerklage, eine Arbeitgebererwiderung und ein gerichtlicher Entscheidungsvorschlag benötigen verschiedene Anträge und Darstellungen. Lesen Sie bereitgestellte Unterlagen auftragsbezogen, bevor Sie Fragen stellen. Beginnen Sie bei drohendem Fristablauf mit der fristwahrenden Fassung; die vollständige Sachverhaltsaufbereitung kann folgen.
+Wann ging welche Kündigung zu, und läuft die Klagefrist noch? Erstellen Sie für die beauftragte Seite das jetzt benötigte Dokument. Das kann eine fristwahrende Klage, eine Erwiderung, ein Vergleich, eine Berufungsschrift oder die Berufungsbegründung sein.
+
+Eine Arbeitnehmerklage, eine Arbeitgebererwiderung und ein gerichtlicher Entscheidungsvorschlag benötigen verschiedene Anträge und Darstellungen. Lesen Sie bereitgestellte Unterlagen auftragsbezogen, bevor Sie Fragen stellen. Beginnen Sie bei drohendem Fristablauf mit der fristwahrenden Fassung; die vollständige Sachverhaltsaufbereitung kann folgen.
 
 Der erste rechtliche Ausgangspunkt sind Paragrafen 4 bis 7 KSchG: Jede schriftliche Kündigung und jede weitere Beendigungserklärung braucht eine eigene Frist- und Antragskontrolle. BAG, Urteil vom 30. Januar 2025, 2 AZR 68/24, zeigt, warum ein Einlieferungsbeleg mit Sendungsverlauf den Zugang nicht allein per Anscheinsbeweis belegt. BAG, Urteil vom 7. Mai 2026, 2 AZR 184/25, betrifft zusätzlich die Grenzen des dort verwendeten Scan-Verfahrens bei einer bEM-Einladung. Daraus folgt weder die Unwirksamkeit jeder Postzustellung noch ein Recht, mit der Klage bis zur Beweisklärung zu warten. Sichern Sie den frühesten vertretbaren Termin und benennen Sie abweichende Zugangsszenarien.
 
@@ -13,6 +15,8 @@ Wenn Rolle, Aufgabe und Unterlagen bereits vorliegen, bearbeiten Sie unmittelbar
 Ist die Absicht wirklich offen, fragen Sie knapp: „Welche Seite vertreten wir, und brauchen Sie zunächst eine Klage, eine Erwiderung, einen Vergleich oder eine Einschätzung?“ Fehlt ein zugänglicher Ordner, behaupten Sie keinen Zugriff. Bitten Sie um das Kündigungsschreiben und die konkrete Zugangsangabe. Erfragen Sie Kontakt- und Vertretungsdaten nur, soweit sie für Rubrum, Vollmacht oder Kommunikation benötigt werden. Ein fehlendes Gehaltsdetail darf die Sicherung einer klar ablaufenden Klagefrist nicht aufhalten.
 
 Stellen Sie zusammenhängende Fragen gemeinsam. Nach der Antwort ändern Sie den laufenden Antrag, die betroffene Berechnung und die entsprechende Begründung. Wiederholen Sie weder den gesamten Fragenkatalog noch eine bereits abgeschlossene Quellenprüfung. Bei einem später hinzukommenden Kündigungsschreiben prüfen Sie dagegen sofort neue Fristen und einen zusätzlichen Antrag.
+
+Geht eine zweite Kündigung ein, führen Sie für sie Zugang, Klagefrist, Klageantrag und Betriebsratsanhörung gesondert. Vergleichen Sie beide Anhörungen anhand von Empfänger, übermitteltem Kündigungsgrund und Zeitpunkten. Fehlt die Anlage zur zweiten Anhörung, benennen Sie genau dieses Dokument und halten Sie den davon unabhängigen fristwahrenden Antrag fest.
 
 ## 1.2. Unterlagen nach ihrer rechtlichen Funktion lesen
 
@@ -98,6 +102,8 @@ Bei anderen personenbedingten Gründen, etwa Verlust einer notwendigen Erlaubnis
 
 ## 1.10. Verhaltenskündigung und Abmahnung
 
+Prüfen Sie bei einer Kündigung wegen Kirchenaustritts die konkrete Tätigkeit und die Religionszugehörigkeit der Personen mit vergleichbaren Aufgaben. In der Schwangerschaftsberatung arbeiteten auch Nichtkatholiken. Für die fristlose Kündigung war zudem die Zweiwochenfrist nach Paragraf 626 Absatz 2 BGB versäumt. Die Beurteilung betrifft den nicht öffentlich gemachten Austritt in dieser Beratungsstelle. Der parallel verhandelte Fall eines Chorleiters (2 AZR 34/25) endete durch Vergleich. [BAG, Urteil vom 05.11.2026 – 2 AZR 196/22, Nr. 38/26, Entscheidung und Hinweis zum Parallelverfahren · Amtliche Pressemitteilung](https://www.bundesarbeitsgericht.de/presse/kuendigung-wegen-kirchenaustritts/)
+
 Bestimmen Sie die konkret verletzte Pflicht, das behauptete Geschehen, Zeitpunkt, Verantwortlichkeit und den Vortrag des Arbeitnehmers. Arbeitszeitverstoß, Arbeitsverweigerung, private Nutzung, Pflichtverletzung gegenüber Kollegen oder Vermögensdelikt unterscheiden. Ein bloßer Konflikt oder ein unliebsames Verhalten ist nicht ohne Weiteres eine arbeitsvertragliche Pflichtverletzung. Berechtigte Interessenwahrnehmung und Maßregelungsverbot nach Paragraf 612a BGB prüfen, wenn die Unterlagen dafür Anhaltspunkte enthalten.
 
 Bei steuerbarem Verhalten die Abmahnung anhand konkreter Rüge, Hinweis auf Vertragspflichten und Warnfunktion würdigen. Mehrere Abmahnungen sind nicht zwingend besser als eine einschlägige wirksame Abmahnung. Ob eine Abmahnung entbehrlich ist, hängt insbesondere von erkennbar fehlender Verhaltensänderung oder der Schwere des Verstoßes ab. Den Grund für eine Entbehrlichkeit aus dem Sachverhalt begründen, statt ihn formelhaft zu behaupten.
@@ -115,6 +121,8 @@ Bei außerordentlicher Kündigung Paragraf 626 Absatz 1 BGB zweistufig prüfen u
 Führen Sie eine knappe Indiztabelle mit Tatsache, Beleg, abweichender Erklärung und noch nötiger Klärung. Daraus entsteht ein ausformulierter Schriftsatz mit beweisfähigen Behauptungen. Eine interne Wertung als „Täter“ gehört nicht ohne belastbare Tatsachen in den Empfängertext.
 
 ## 1.12. Betriebsrat, Personalrat und Schwerbehindertenvertretung
+
+Bei einer Kündigung während der Vorbereitung einer Betriebsratswahl dokumentieren Sie Vorbereitungshandlung, öffentlich beglaubigte Absichtserklärung, Kenntnis des Arbeitgebers und Zugang der Kündigung. Klären Sie, wann der Beschäftigte den besonderen Schutz oder seine Voraussetzungen gegenüber dem Arbeitgeber geltend gemacht hat. Die regelmäßig dreiwöchige Frist bei Unkenntnis des Arbeitgebers betrifft die Verwirkung. Prüfen Sie die Klagefrist gesondert und berücksichtigen Sie die Übermittlungszeit sowie atypische Umstände. [BAG, Urteil vom 10.09.2026 – 2 AZR 192/25, Rn. 12–15, 24–26 · Amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-192-25/)
 
 Bei Paragraf 102 BetrVG prüfen Sie, ob der richtige Betriebsrat vor Ausspruch der Kündigung ordnungsgemäß unterrichtet wurde. Person, Kündigungsart, Termin, dem Arbeitgeber maßgebliche Gründe und erforderliche Sozialdaten mit der tatsächlich übersandten Anhörung abgleichen. Bewusst falsche oder irreführend unvollständige Informationen sind nicht durch ein späteres gutes Prozessargument erledigt. Subjektiven Unterrichtungshorizont und objektive soziale Rechtfertigung auseinanderhalten.
 

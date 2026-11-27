@@ -81,7 +81,7 @@ Für praxisnahe Entscheidungen der letzten zehn Jahre, insbesondere Erkennbarkei
 | Soziales Zuschlagskriterium bei Betreuungsleistungen | EuGH, Urteil vom 05.03.2026, C-210/24, AESTE, ECLI:EU:C:2026:145 | Bei sozialen Dienstleistungen ohne Unterbringung kann eine angebotene Erhöhung der Lohnsumme über Branchentarif als auftragsbezogenes Zuschlagskriterium zulässig sein; konkretes Modell, Bekanntgabe, Überprüfbarkeit und einschlägiges nationales Recht bleiben zu prüfen |
 | Rechtsschutz bei wechselseitig angegriffenen Angeboten | EuGH, Urteil vom 04.07.2013, C-100/12, Fastweb; EuGH, Urteil vom 05.04.2016, C-689/13, PFE; EuGH, Urteil vom 21.12.2021, C-497/20, Randstad Italia | Konkurrentenangriff, Antragsbefugnis, effektiver Rechtsschutz, Gegenangriff des Zuschlagsprätendenten |
 | Unwirksamkeitsausnahme bei Direktvergabe-Transparenz | EuGH, Urteil vom 11.09.2014, C-19/13, Fastweb, ECLI:EU:C:2014:2194 | § 135 GWB, freiwillige Transparenzbekanntmachung, keine pauschale De-facto-Abkürzung |
-| Bietergemeinschaft, Steuerverstoß eines Mitglieds und Ausschlussautomatismus | Schlussanträge GA Kokott vom 07.05.2026, Rs. C-268/25, ECLI:EU:C:2026:382 | Noch kein EuGH-Urteil; Zurechnung, Sorgfalt, Kenntnis, Austauschbarkeit und wesentliche Angebotsänderung einzelfallbezogen prüfen |
+| Bietergemeinschaft, Steuerverstoß eines Mitglieds und Ausschlussautomatismus | EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79 | Bei bestandskräftig festgestellten Steuer- oder Beitragsrückständen eines Mitglieds ermittle den Fristablauf, die Zahlung oder Zahlungsvereinbarung sowie den Zeitpunkt, zu dem die Gruppe vom Ausschlussgrund erfuhr. Eine nachträgliche Zahlung heilt den Ausschlussgrund des Mitglieds grundsätzlich nicht. Bei erst nach Fristablauf erlangter Kenntnis muss der Auftraggeber das Ausscheiden oder Ersetzen des Mitglieds im Einzelfall prüfen können. |
 
 ## Rollenrouting nach aktuellem Anker
 
@@ -110,7 +110,7 @@ Für praxisnahe Entscheidungen der letzten zehn Jahre, insbesondere Erkennbarkei
 - EuGH, C-186/25, Institut po ribni resursi Varna: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62025CJ0186
 - EuGH, C-234/03, Contse: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62003CJ0234
 - EuGH, C-470/13, Generali-Providencia: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62013CJ0470
-- Schlussanträge in C-268/25: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62025CC0268
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. [Urteil, Rn. 79 und Tenor](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316916&doclang=DE)
 - OLG Düsseldorf, Verg 2/24: https://nrwe.justiz.nrw.de/olgs/duesseldorf/j2024/Verg_2_24_Beschluss_20240710.html
 - OLG Düsseldorf, Verg 47/18: https://nrwe.justiz.nrw.de/olgs/duesseldorf/j2019/Verg_47_18_Beschluss_20190513.html
 - OLG Düsseldorf, Verg 34/20: https://nrwe.justiz.nrw.de/olgs/duesseldorf/j2021/Verg_34_20_Beschluss_20210324.html

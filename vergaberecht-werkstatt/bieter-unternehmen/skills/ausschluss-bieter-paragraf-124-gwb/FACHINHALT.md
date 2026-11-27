@@ -45,7 +45,7 @@ Den angekündigten oder drohenden Ausschluss auf einen konkreten Tatbestand des 
 - EuGH, Urteil vom 19.06.2019, C-41/18, Meca: Der Auftraggeber muss die Zuverlässigkeit eigenständig beurteilen können; ein Rechtsbehelf gegen frühere Vertragsmaßnahmen darf die Prüfung nicht schematisch blockieren.
 - EuGH, Urteil vom 03.10.2019, C-267/18, Delta: Frühere Vertragsmängel und ihre Offenlegung einzelfallbezogen bewerten.
 - EuGH, Urteil vom 24.10.2018, C-124/17, Vossloh Laeis: Selbstreinigung, Mitwirkung und Ausschlussdauer.
-- Bei Bietergemeinschaften C-268/25 nur als Schlussanträge der Generalanwältin vom 07.05.2026 behandeln, nicht als EuGH-Urteil.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 
 ## 5. Darlegungs- und Beweismerker
 

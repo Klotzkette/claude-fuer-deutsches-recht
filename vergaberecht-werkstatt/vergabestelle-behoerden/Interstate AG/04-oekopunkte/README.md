@@ -4,6 +4,10 @@
 
 Die Niederlassung West will für ihr Werkhofgrundstück im Stadtgebiet Borken bis Jahresende die Kompensation nachweisen. Ein Flächenpool bietet die Zuordnung bereits durchgeführter Maßnahmen an. Ein zweiter Betrieb möchte eine Wiese erst anlegen und über Jahrzehnte pflegen. Beide schreiben auf die erste Seite „180.000 Ökopunkte“. Im Einkauf wartet eine vorbereitete Bestellung über 342.000 Euro.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-04-oekopunkte)
+<!-- END Aktenarbeit -->
+
 ## Arbeitsauftrag
 
 Entwerfen Sie für die Niederlassungsleitung eine Beschaffungsvorlage auf dem Stand vom 8. Oktober 2026. Beschreiben Sie für jede Variante konkret, wofür die AG zahlt, wer Eigentum, Nutzung, Pflege und Ausfallrisiko trägt und welchen Nachweis die Zulassungsbehörde benötigt. Vergleichen Sie Gegenstand, Gesamtwert einschließlich Optionen, mögliche Vergabewege und Terminfolgen. Prüfen Sie das Argument des Grundstückserwerbs ebenso wie die behauptete Alleinstellung des ersten Pools. Formulieren Sie die offenen Anfragen und die nächste ausführbare Entscheidung.

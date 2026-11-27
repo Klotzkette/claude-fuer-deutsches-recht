@@ -6,9 +6,13 @@ Date: Wed, 18 Nov 2026 08:26:00 +0100
 Message-ID: <23437f63c7398a30cd88c687@fallpost.example>
 Subject: F12 mit gezogenem Netzstecker wiederholt =?utf-8?q?=C2=B7?= Freigabe
  in L4
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-c76e57d0b77cbfdf31aba327"
+
+--interstate-alt-c76e57d0b77cbfdf31aba327
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Der Wiederholungsversuch lief auf Software L4.3 mit abgezogenem Ethernetkabel=
 . Zwei =C3=B6rtlich ausgel=C3=B6ste Fahranfragen standen gleichzeitig an. Ers=
@@ -27,3 +31,29 @@ ort den =C3=B6rtlichen Z=C3=A4hler und erlaubt dann Sollfahrten. Die Anfahrre=
 ihenfolge und Stromfreigabe gelten auch bei diesen Referenzfahrten. Ohne funk=
 tionierenden Endschalter bleibt die Lage unbekannt. Den lokalen Schaltplan un=
 d die Klemmenbelegung k=C3=B6nnen wir einem Sachverst=C3=A4ndigen zeigen.
+
+--interstate-alt-c76e57d0b77cbfdf31aba327
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #2C=
+6155;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Der Wiederholung=
+sversuch lief auf Software L4.3 mit abgezogenem Ethernetkabel. Zwei =C3=B6rtl=
+ich ausgel=C3=B6ste Fahranfragen standen gleichzeitig an. Erst nach Abfall de=
+s ersten Motorausgangs UND ununterbrochenem Unterschreiten des Stromgrenzwert=
+s von 0,35 A f=C3=BCr 300 ms schaltet der Regler den wartenden zweiten Ausgan=
+g. In unserem Versuch mit tr=C3=A4gem Motor lag der Strom nach dem Abschalten=
+ noch 720 ms =C3=BCber der Schwelle. Der zweite Ausgang folgte nach weiteren =
+310 ms. Ein fester 500-ms-Timer h=C3=A4tte in diesem Versuch zu fr=C3=BCh fre=
+igegeben.</p><p>Die Zahlen sind Parameter unseres Musters. Die Vergleichszeit=
+ l=C3=A4uft bei erneutem =C3=9Cberschreiten von vorn. Ersatzregler L4.3 setzt=
+ beide Positionsst=C3=A4nde auf unbekannt. Er f=C3=A4hrt jede Zone einzeln au=
+f Anforderung des Bedieners bis zum verdrahteten Endschalter =E2=80=9Eoffen=
+=E2=80=9C, setzt dort den =C3=B6rtlichen Z=C3=A4hler und erlaubt dann Sollfah=
+rten. Die Anfahrreihenfolge und Stromfreigabe gelten auch bei diesen Referenz=
+fahrten. Ohne funktionierenden Endschalter bleibt die Lage unbekannt. Den lok=
+alen Schaltplan und die Klemmenbelegung k=C3=B6nnen wir einem Sachverst=C3=A4=
+ndigen zeigen.</p></div></body></html>
+
+--interstate-alt-c76e57d0b77cbfdf31aba327--

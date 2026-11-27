@@ -2,6 +2,10 @@
 
 Aus Sicht der Staatsanwaltschaft im Praxiseinstieg. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen ist Zufall.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-staatsanwaltschaft-praxis-einstieg)
+<!-- END Aktenarbeit -->
+
 ## Kurzbeschreibung
 
 Strafrechtliches Ermittlungsverfahren gegen die Beschuldigte Hildegard Sauer wegen des Verdachts des Diebstahls geringwertiger Sachen in einem Lebensmittelmarkt der Edelholz Berlin GmbH. Der Beschuldigten wird vorgeworfen, am 14.05.2026 Waren im Wert von 18,90 Euro an der Kasse vorbeigeschmuggelt zu haben. Strafrahmen des Diebstahls nach Paragraf 242 Absatz 1 StGB: Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe; bei Geringwertigkeit Strafantragserfordernis nach Paragraf 248a StGB. Verfahrensstand bei Aktenübernahme: polizeiliche Ermittlungen abgeschlossen, Schlussbericht und Vernehmung liegen vor, Verfahren der Staatsanwaltschaft zur Abschlussentscheidung vorgelegt.

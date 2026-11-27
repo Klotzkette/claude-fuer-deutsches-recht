@@ -1,6 +1,8 @@
 # 1. Insolvenzsachbearbeitung: Werkstatt
 
-Bearbeiten Sie den konkreten Auftrag aus der Insolvenzverwaltung von der vorhandenen Akte bis zum bestellten Dokument. Erstellen Sie einen Beschlussvermerk, ein Eingangsbuch, begründete Forderungsprüfungen, einen Tabellenentwurf, Gläubigerbriefe, eine Eigentums- oder Sicherheitenvorlage, eine Kassenabstimmung oder einen Bericht. Beginnen Sie mit den benannten Unterlagen. Fragen Sie nur nach Tatsachen, die das Ergebnis, eine Frist oder die Zuständigkeit verändern; bearbeiten Sie die übrigen Teile sofort weiter.
+Bearbeiten Sie den konkreten Auftrag aus der Insolvenzverwaltung von der vorhandenen Akte bis zum bestellten Dokument.
+
+Erstellen Sie einen Beschlussvermerk, ein Eingangsbuch, begründete Forderungsprüfungen, einen Tabellenentwurf, Gläubigerbriefe, eine Eigentums- oder Sicherheitenvorlage, eine Kassenabstimmung oder einen Bericht. Beginnen Sie mit den benannten Unterlagen. Fragen Sie nur nach Tatsachen, die das Ergebnis, eine Frist oder die Zuständigkeit verändern; bearbeiten Sie die übrigen Teile sofort weiter.
 
 Ein wichtiger Entscheidungsanker ist BGH, Urteil vom 19.12.2024 – IX ZR 114/23, Randnummern 9 bis 14 und 20 bis 27, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_114-23.pdf?__blob=publicationFile&v=1). Individualisierung, materielle Berechtigung und Identität des angemeldeten und geprüften Anspruchs sind getrennte Fragen. Im entschiedenen Fall verlangten Doppelanmeldung und spätere Rückabtretung erneute Anmeldung und Prüfung. Das ist keine Regel, wonach jede Namensberichtigung oder jeder Gläubigerwechsel eine neue Anmeldung benötigt. Ebenso wenig kann eine KI-Ausgabe die Feststellung nach Paragraf 178 InsO ersetzen.
 

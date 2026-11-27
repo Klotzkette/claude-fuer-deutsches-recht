@@ -2,6 +2,10 @@
 
 Aus Sicht der Vorprüfung. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen ist Zufall.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-bverfg-verfassungsbeschwerden)
+<!-- END Aktenarbeit -->
+
 ## Kurzbeschreibung
 
 Verfassungsbeschwerde einer Privatperson gegen ein fachgerichtliches Berufungsurteil im Zivilrechtsstreit. Beschwerdefuehrerin Hildegard Sauer rügt eine Verletzung ihres Anspruchs auf rechtliches Gehör aus Artikel 103 Absatz 1 GG, weil das Landgericht Musterstadt einen entscheidungserheblichen, rechtzeitig angebotenen Zeugenbeweis übergangen und einen zentralen Schriftsatz nicht zur Kenntnis genommen habe. Die fachgerichtliche Anhörungsrüge nach Paragraf 321a ZPO wurde zurückgewiesen. Die Verfassungsbeschwerde wendet sich gegen das Berufungsurteil und gegen den Beschluss über die Anhörungsrüge. Kein Streitwert im verfassungsgerichtlichen Sinne; das fachgerichtliche Verfahren hatte einen Streitwert von 6.800 Euro. Verfahrensstand bei Aktenübernahme: Verfassungsbeschwerde fristgerecht eingegangen, Vorprüfung in der Kammer eingeleitet, Votum des wissenschaftlichen Mitarbeiters ausstehend.

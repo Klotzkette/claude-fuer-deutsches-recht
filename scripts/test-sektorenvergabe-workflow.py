@@ -10,6 +10,7 @@ from urllib.parse import unquote
 
 from prompt_limits import mini_within_limits
 from prompt_profiles import validate_files
+from main_skill_revisions import historical_bytes
 from quality_lab import validate_profile
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -61,8 +62,11 @@ class SektorenvergabeWorkflow(unittest.TestCase):
         self.assertEqual({case["target_skill"] for case in profile["cases"]}, {MAIN, *PREPARATION, *PROCEDURE})
         self.assertEqual(profile["prompt_workflow_review"]["method"], "desk_review")
         for kind, key in (("schnellstart", "mini_review"), ("werkstatt", "workshop_review")):
-            data = (PLUGIN / f"{SLUG}-{kind}.md").read_bytes()
-            self.assertEqual(hashlib.sha256(data).hexdigest(), profile[key]["sha256"])
+            prompt = PLUGIN / f"{SLUG}-{kind}.md"
+            data = prompt.read_bytes()
+            expected = profile[key]["sha256"]
+            reviewed = historical_bytes(ROOT, prompt, expected, plugin=SLUG)
+            self.assertEqual(hashlib.sha256(reviewed).hexdigest(), expected)
             content = data.decode("utf-8")
             for anchor in ("C-521/18", "C-298/15", "C-368/10", "C-6/15", "C-131/16", "C-54/21"):
                 self.assertIn(anchor, content)

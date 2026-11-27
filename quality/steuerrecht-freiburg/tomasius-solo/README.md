@@ -2,6 +2,10 @@
 
 Die Akte gehört zum Plugin [Steuerrecht für Anwalt und Berater](../../../steuerrecht-anwalt-und-berater/README.md). Hubertus Tomasius lebt in Freiburg und verbindet Programmierung, dreizehn Datenschutzmandate, Musikunterricht und Autorenarbeit. Felix Boscherharb ist sein Steuerberater, Sascha Strauß ein Ansprechpartner im Datenschutzmandat.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-q-s.md#fall-steuerrecht-freiburg-tomasius-solo)
+<!-- END Aktenarbeit -->
+
 Öffnen Sie für die eigene Auswertung nur den Ordner `Grundakte` im Originalformat-ZIP. Die Ordnerangaben in der Beschreibung bezeichnen die Sachgruppen. Die späteren Unterlagen zur Umsatzsteuer und die ausgefüllten Arbeitsbögen stehen außerhalb der Grundakte.
 
 ## 1 Arbeitsauftrag

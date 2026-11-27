@@ -164,7 +164,7 @@ Nutze für umfangreiche Fälle `assets/templates/ordnerfall-startprotokoll.md`, 
 | Auftragnehmerwechsel nach Insolvenz | EuGH C-461/20 Advania Sverige und § 132 Abs. 2 Satz 1 Nr. 4 Buchstabe b GWB |
 | EU-Sanktionsscreen | EuGH C-313/24 Opera Laboratori: faktische Kontrolle und Mittelumleitung statt Nationalitätsautomatismus |
 | bußgeldbezogene Register- oder Ausschlussfolge | EuGH C-590/24 AK Dlhopolec nur zur verhältnismäßigen Geldbuße; Vergabeausschlussfragen waren unzulässig und tragen keine Ausschlussfreiheit |
-| Bietergemeinschaft, Steuer-/Sozialabgabenverstoß | GA Kokott C-268/25 nur als Schlussanträge |
+| Bietergemeinschaft, Steuer-/Sozialabgabenverstoß | EuGH C-268/25, ETS |
 | VK-Praxis der letzten zehn Jahre | `references/praxisrechtsprechung-vk-2016-2026.md` für Rügepräklusion, Substantiierung, Wertungsdokumentation, Preisaufklärung, Akteneinsicht und Rahmenvereinbarungen |
 
 ## Rechtsprechungsfeste Hauptarbeit
@@ -181,7 +181,7 @@ Diese Weichen müssen Angebots-, Rüge- oder VK-Output erzeugen, nicht nur Funds
 | Angebotsbestand aus Live-Systemen | § 53 VgV und Portalvorgabe; C-534/23 P/C-539/23 P Instituto Cervantes nur Integritätsanker für EU-Eigenvergabe | Sind Preis, Referenz, Personal, Konzept und Nachweis eingefroren und im verlangten System hochgeladen oder nur veränderbar verlinkt? | Freeze-Manifest, feste Uploads, Hashliste, fachliche Freigaben und Quittungsabgleich |
 | Billigkonkurrent gewinnt | § 60 VgV; BGH 31.01.2017 X ZB 10/16 | Ist Preisabstand, Kalkulationsbruch, Leistungsrisiko oder fehlende Aufklärung des Zuschlagsprätendenten erkennbar? | Rüge-/VK-Baustein mit Aufklärungsangriff, Geheimnisschutz und Zuschlagschance |
 | Ausschluss, Nachforderung, Selbstreinigung | §§ 123 bis 125 GWB, § 56 VgV; EuGH C-124/17 Vossloh Laeis, C-336/12 Manova | Ist der Mangel nachforderbar, unternehmensbezogen, leistungsbezogen oder durch Selbstreinigung heilbar? | Antwortentwurf mit Nachweismatrix, Selbstreinigungsdossier und Freigabe |
-| Bietergemeinschaft | §§ 123 bis 125 GWB; Schlussanträge GA Kokott 07.05.2026 C-268/25 | Betrifft der Verstoß ein Mitglied, war Kenntnis möglich, ist Austausch/Ausschluss ohne wesentliche Angebotsänderung möglich? | BG-Krisenpfad mit Mitgliedsstatus, Steuer-/Sozialabgabenbeleg, Austauschoption und Angebotsidentität |
+| Bietergemeinschaft | §§ 123 bis 125 GWB; EuGH C-268/25, ETS | Betrifft der Verstoß ein Mitglied, wann erlangte die Gruppe Kenntnis, ist Austausch/Ausschluss ohne wesentliche Angebotsänderung möglich? | BG-Krisenpfad mit Mitgliedsstatus, Steuer-/Sozialabgabenbeleg, Austauschoption und Angebotsidentität |
 | Vertragsänderung/Sanktion | § 132 GWB und aktuelle VO (EU) 833/2014; C-820/24 Strominator, C-313/24 Opera Laboratori | Läuft der Auftrag noch; bestehen faktische Kontrolle oder Mittelumleitung statt bloßer Organ-Nationalität? | Laufzeit- und Änderungsmatrix oder Kontroll-/Zahlungsflussdossier |
 | VK/OLG-Rechtsschutz | §§ 160, 169, 171 GWB; EuGH C-100/12 Fastweb, C-689/13 PFE, C-497/20 Randstad Italia | Bestehen Interesse, bieterschützender Fehler, Schaden, Rügefrist und plausible Zuschlagschance? | VK-Antragsgerüst mit Zulässigkeitsdreieck, Anträgen, Akteneinsicht und Kostenblick |
 

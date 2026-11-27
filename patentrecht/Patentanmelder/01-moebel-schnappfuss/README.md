@@ -4,6 +4,10 @@
 
 Ein Zubehörhersteller will seinen nachrüstbaren Fuß vor einem Händlertermin schützen. Der Vertrieb verspricht eine selbsttätige Sperre unter Last. Die Werkstattzeichnungen und die ersten Messergebnisse erlauben mehrere Deutungen.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-patentanmelder-01-moebel-schnappfuss)
+<!-- END Aktenarbeit -->
+
 ## Erste Bearbeitung
 
 Vertreten Sie den Zubehörhersteller. Erheben Sie die Erfindung im Gespräch mit Konstruktion, Montage und Vertrieb und protokollieren Sie zu jedem strittigen Merkmal Frage, belegte Antwort und Folge für V0. Prüfen Sie die drei vorgelegten Ansprüche an Figur 1, P-141 und den fiktiven Unterlagen D1/D2. Erstellen Sie eine einreichungsnahe deutsche Anmeldeschrift mit aufeinander abgestimmten Patentansprüchen, Beschreibung, Figurenbeschreibung, Bezugszeichenliste und Zusammenfassung. Stellen Sie daneben dar, welche Handlungen des Zubehörlieferanten und des Monteurs sich anhand welcher Belege nachweisen ließen.

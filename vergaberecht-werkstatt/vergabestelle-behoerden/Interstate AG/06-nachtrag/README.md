@@ -4,6 +4,10 @@
 
 Am Knoten Feldrain liegt die geplante Kabelschutzrohrtrasse näher an einer alten Stützwand, als die Bestandszeichnung erkennen ließ. Tiefbau Wiesenfeld baut abschnittsweise geteilte Stahlrohrmäntel ein und verlangt dafür 21.188,00 Euro netto. Die nächste Sperrnacht steht bevor. Projektleitung, Bauüberwachung und Vertragsleitung haben der Firma unterschiedliche Mitteilungen geschickt.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-06-nachtrag)
+<!-- END Aktenarbeit -->
+
 ## Arbeitsauftrag
 
 Prüfen Sie für die Niederlassung West jede Position des Nachtrags 7 und entwerfen Sie die Antwort an die Auftragnehmerin vor der nächsten Sperrnacht. Unterscheiden Sie den geschuldeten Vertragsumfang, die verlangte Änderung, das Zustandekommen einer Vereinbarung und die Voraussetzungen einer einseitigen Anordnung. Ermitteln Sie aus den Belegen Preise und Mengen, weisen Sie mögliche Überschneidungen mit dem Hauptauftrag aus und benennen Sie die Nachweise für eine belastbare Teilfreigabe. Halten Sie fest, wer weitere Arbeiten mit welcher Wirkung veranlassen kann.

@@ -1,6 +1,6 @@
 ---
 name: 08-bietergemeinschaft-bildung
-description: 'Bietergemeinschaft aus Bietersicht bilden: Mitglieder, Federführer, Haftung, ESPD, Steuer-/Sozialabgabencheck, Ausschlussrisiko, Austausch eines Mitglieds und C-268/25 nur als Schlussanträge.'
+description: 'Bietergemeinschaft aus Bietersicht bilden: Mitglieder, Federführer, Haftung, ESPD, Steuer-/Sozialabgabencheck, Ausschlussrisiko, Austausch eines Mitglieds nach EuGH C-268/25, ETS.'
 ---
 
 # Bietergemeinschaft bilden
@@ -32,7 +32,7 @@ Schriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 
 ## Anker-Rechtsprechung
 
 - BGH-/OLG-Rechtsprechung zu Bietergemeinschaften nur nach Live-Verifikation mit Gericht, Datum, Aktenzeichen und tragender Aussage zitieren.
-- Schlussanträge GA Kokott vom 07.05.2026, Rs. C-268/25, ECLI:EU:C:2026:382: Bei Steuerverstoß eines Mitglieds darf der Ausschluss der ganzen Bietergemeinschaft nicht schematisch erfolgen; Austausch oder Ausschluss des Mitglieds kann möglich sein, wenn keine wesentliche Angebotsänderung entsteht und keine zurechenbare Sorgfaltspflichtverletzung vorliegt. Nicht als EuGH-Urteil zitieren.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 - EuGH, Urteil vom 24.05.2016, C-396/14, MT Højgaard und Züblin: Änderungen einer Bietergemeinschaft nur nach Einzelfallprüfung von Angebotsidentität, Eignung und Gleichbehandlung beurteilen; nicht als pauschale Austauschfreigabe verwenden.
 
 ## Output

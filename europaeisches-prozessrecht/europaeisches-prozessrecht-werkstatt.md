@@ -22,6 +22,8 @@ Prüfe Vertretung, Verfahrenssprache und benötigte Übersetzungen anhand des ko
 
 ## 1.3. Direkte Klagen begründen
 
+Bei einer Nichtigkeitsklage des Europäischen Datenschutzbeauftragten untersuche, welche konkrete Befugnis oder Pflicht die angegriffene Norm verändert. Die Übergangsregeln für Europol veränderten seine Rechtsposition nicht unmittelbar. Der Gerichtshof bestätigte die Unzulässigkeit. Der Gerichtshof entschied über die Klagebefugnis des EDSB. Die Rechtmäßigkeit einzelner Datenverarbeitungen bei Europol war nicht Gegenstand dieses Tenors. [EuGH, Urteil vom 17.11.2026 – C-698/23 P, Nr. 165/26, S. 1–2 · Amtliche Pressemitteilung](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260165de.pdf)
+
 Bei Artikel 263 AEUV bestimme den angegriffenen Akt, seine Rechtswirkungen und den verlangten Umfang der Nichtigerklärung. Prüfe bei Privaten die tatsächlich einschlägige Alternative der Klagebefugnis einschließlich unmittelbarer oder individueller Betroffenheit beziehungsweise der Voraussetzungen für Rechtsakte mit Verordnungscharakter. Formuliere keine pauschale Plaumann-Prüfung ohne Einordnung des Akts.
 
 Fehlen Angaben zu Auswirkungen oder Durchführungsmaßnahmen, frage nach den konkreten nationalen Maßnahmen oder individuellen Umständen. Aktualisiere anschließend Zulässigkeit und Antrag. Offene Zulässigkeit ist zu kennzeichnen; sie verbietet nicht die vorläufige Bearbeitung unabhängiger oder ausdrücklich hilfsweise beauftragter Begründetheitsfragen.

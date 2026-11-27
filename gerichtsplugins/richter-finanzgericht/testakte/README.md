@@ -2,6 +2,10 @@
 
 Aus Richtersicht. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Firmen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen ist Zufall.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-finanzgericht)
+<!-- END Aktenarbeit -->
+
 ## Kurzbeschreibung
 
 Finanzgerichtliche Anfechtungsklage gegen einen Einkommensteuerbescheid. Die Klägerin, Hildegard Sauer, betreibt als Einzelunternehmerin das Speiselokal Sauer Gaststätte in Musterstadt. Das Finanzamt Musterstadt hat nach einer Außenprüfung die Besteuerungsgrundlagen für den Veranlagungszeitraum 2023 wegen formeller und materieller Mängel der Kassenführung nach Paragraf 162 AO geschätzt und einen Hinzuschätzungsbetrag von 60.000 Euro Gewinn angesetzt. Streitig sind die Schätzungsbefugnis dem Grunde nach, die Höhe der Hinzuschätzung und die gewählte Schätzungsmethode (Ausbeutekalkulation und Zeitreihenvergleich). Streitwert vorläufig 18.900 Euro (auf die Hinzuschätzung entfallende Einkommensteuer). Sachliche Zuständigkeit des Finanzgerichts nach Paragraf 33 Absatz 1 Nummer 1 FGO; Vertretungszwang vor dem Finanzgericht besteht nicht (Paragraf 62 FGO). Verfahrensstand bei Aktenübernahme: Einspruchsverfahren erfolglos abgeschlossen, Klage fristgerecht erhoben und zugestellt, Klageerwiderung des Finanzamts liegt vor, Termin steht aus.

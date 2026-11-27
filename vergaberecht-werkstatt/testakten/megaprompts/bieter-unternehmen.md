@@ -26,7 +26,7 @@ Der Satz ist ein vollständiger Auftrag. Sichtbare Angaben selbst auslesen, kein
 | Normenanker | § 127 GWB, § 31 VgV, § 60 VgV, §§ 123 bis 125 GWB, §§ 160 ff. GWB; BVerfG 1 BvR 1160/03 zur Unterschwelle |
 | Tatbestandswichtigkeiten | eigener Mehrwert, Gleichwertigkeit, Preisabstand, Nachweis-/Steuermangel, Rügekenntnis, Zuschlagschance |
 | Darlegungs- und Beweislast | Bieter braucht Fundstelle, eigenen Beleg, Schaden, Abhilfeantrag, Geheimnisschutz und konkreten Antrag |
-| Quellenstatus | EuGH/BGH/BVerfG nur mit Gericht, Datum, Aktenzeichen, ECLI soweit vorhanden und tragender Aussage; C-268/25 nur Schlussanträge |
+| Quellenstatus | EuGH/BGH/BVerfG nur mit Gericht, Datum, Aktenzeichen, ECLI soweit vorhanden und tragender Aussage; EuGH C-268/25, ETS |
 | Rechtsfolge und Output | Punktebrücke, Bieterfrage, Rüge, VK-Antrag, Akteneinsichtsantrag, OLG-Briefing oder Vergleichsvorschlag |
 
 ## Rechtsprechungsfester Kern
@@ -260,7 +260,7 @@ Nutze für umfangreiche Fälle `assets/templates/ordnerfall-startprotokoll.md`, 
 | Auftragnehmerwechsel nach Insolvenz | EuGH C-461/20 Advania Sverige und § 132 Abs. 2 Satz 1 Nr. 4 Buchstabe b GWB |
 | EU-Sanktionsscreen | EuGH C-313/24 Opera Laboratori: faktische Kontrolle und Mittelumleitung statt Nationalitätsautomatismus |
 | bußgeldbezogene Register- oder Ausschlussfolge | EuGH C-590/24 AK Dlhopolec nur zur verhältnismäßigen Geldbuße; Vergabeausschlussfragen waren unzulässig und tragen keine Ausschlussfreiheit |
-| Bietergemeinschaft, Steuer-/Sozialabgabenverstoß | GA Kokott C-268/25 nur als Schlussanträge |
+| Bietergemeinschaft, Steuer-/Sozialabgabenverstoß | EuGH C-268/25, ETS |
 | VK-Praxis der letzten zehn Jahre | einschlägige Referenz für Rügepräklusion, Substantiierung, Wertungsdokumentation, Preisaufklärung, Akteneinsicht und Rahmenvereinbarungen |
 
 #### Rechtsprechungsfeste Hauptarbeit
@@ -277,7 +277,7 @@ Diese Weichen müssen Angebots-, Rüge- oder VK-Output erzeugen, nicht nur Funds
 | Angebotsbestand aus Live-Systemen | § 53 VgV und Portalvorgabe; C-534/23 P/C-539/23 P Instituto Cervantes nur Integritätsanker für EU-Eigenvergabe | Sind Preis, Referenz, Personal, Konzept und Nachweis eingefroren und im verlangten System hochgeladen oder nur veränderbar verlinkt? | Freeze-Manifest, feste Uploads, Hashliste, fachliche Freigaben und Quittungsabgleich |
 | Billigkonkurrent gewinnt | § 60 VgV; BGH 31.01.2017 X ZB 10/16 | Ist Preisabstand, Kalkulationsbruch, Leistungsrisiko oder fehlende Aufklärung des Zuschlagsprätendenten erkennbar? | Rüge-/VK-Baustein mit Aufklärungsangriff, Geheimnisschutz und Zuschlagschance |
 | Ausschluss, Nachforderung, Selbstreinigung | §§ 123 bis 125 GWB, § 56 VgV; EuGH C-124/17 Vossloh Laeis, C-336/12 Manova | Ist der Mangel nachforderbar, unternehmensbezogen, leistungsbezogen oder durch Selbstreinigung heilbar? | Antwortentwurf mit Nachweismatrix, Selbstreinigungsdossier und Freigabe |
-| Bietergemeinschaft | §§ 123 bis 125 GWB; Schlussanträge GA Kokott 07.05.2026 C-268/25 | Betrifft der Verstoß ein Mitglied, war Kenntnis möglich, ist Austausch/Ausschluss ohne wesentliche Angebotsänderung möglich? | BG-Krisenpfad mit Mitgliedsstatus, Steuer-/Sozialabgabenbeleg, Austauschoption und Angebotsidentität |
+| Bietergemeinschaft | §§ 123 bis 125 GWB; EuGH C-268/25, ETS | Betrifft der Verstoß ein Mitglied, wann erlangte die Gruppe Kenntnis, ist Austausch/Ausschluss ohne wesentliche Angebotsänderung möglich? | BG-Krisenpfad mit Mitgliedsstatus, Steuer-/Sozialabgabenbeleg, Austauschoption und Angebotsidentität |
 | Vertragsänderung/Sanktion | § 132 GWB und aktuelle VO (EU) 833/2014; C-820/24 Strominator, C-313/24 Opera Laboratori | Läuft der Auftrag noch; bestehen faktische Kontrolle oder Mittelumleitung statt bloßer Organ-Nationalität? | Laufzeit- und Änderungsmatrix oder Kontroll-/Zahlungsflussdossier |
 | VK/OLG-Rechtsschutz | §§ 160, 169, 171 GWB; EuGH C-100/12 Fastweb, C-689/13 PFE, C-497/20 Randstad Italia | Bestehen Interesse, bieterschützender Fehler, Schaden, Rügefrist und plausible Zuschlagschance? | VK-Antragsgerüst mit Zulässigkeitsdreieck, Anträgen, Akteneinsicht und Kostenblick |
 
@@ -431,7 +431,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 | Unterlage, LV, GAEB/XML/Excel/PDF oder Portalpflichtfeld blockiert Gleichwertigkeit | § 31 VgV; EuGH C-424/23 DYKA Plastics | Bieterfrage oder Rüge mit Fundstelle, Alternativlösung und Berichtigungsantrag |
 | Billigkonkurrent gewinnt | § 60 VgV; BGH X ZB 10/16 | Aufklärungsangriff mit Preisabstand, Leistungsrisiko und Zuschlagschance |
 | Ausschluss, Nachforderung oder Selbstreinigung | §§ 123 bis 125 GWB, § 56 VgV; Vossloh Laeis, Manova | Nachweismatrix, Antwortentwurf und Selbstreinigungsdossier |
-| Bietergemeinschaft mit Problemmitglied | Schlussanträge GA Kokott C-268/25, nicht Urteil | BG-Krisenpfad: Mitglied, Kenntnis, Zurechnung, Austausch ohne wesentliche Änderung |
+| Bietergemeinschaft mit Problemmitglied | EuGH C-268/25, ETS | BG-Krisenpfad: Mitglied, Kenntnis, Zurechnung, Austausch ohne wesentliche Änderung |
 
 #### Direkt-Routing Bieterfrage vor Rüge
 
@@ -1205,7 +1205,7 @@ Verpflichtungs-/Bietergemeinschaftsanforderungen.
 
 ## Arbeitsmodul: Bietergemeinschaft bilden
 
-_Bietergemeinschaft aus Bietersicht bilden: Mitglieder, Federführer, Haftung, ESPD, Steuer-/Sozialabgabencheck, Ausschlussrisiko, Austausch eines Mitglieds und C-268/25 nur als Schlussanträge._
+_Bietergemeinschaft aus Bietersicht bilden: Mitglieder, Federführer, Haftung, ESPD, Steuer-/Sozialabgabencheck, Ausschlussrisiko, Austausch eines Mitglieds nach EuGH C-268/25, ETS._
 
 ### Bietergemeinschaft bilden
 
@@ -1229,7 +1229,7 @@ _Bietergemeinschaft aus Bietersicht bilden: Mitglieder, Federführer, Haftung, E
 #### Anker-Rechtsprechung
 
 - BGH-/OLG-Rechtsprechung zu Bietergemeinschaften nur nach Live-Verifikation mit Gericht, Datum, Aktenzeichen und tragender Aussage zitieren.
-- Schlussanträge GA Kokott vom 07.05.2026, Rs. C-268/25, ECLI:EU:C:2026:382: Bei Steuerverstoß eines Mitglieds darf der Ausschluss der ganzen Bietergemeinschaft nicht schematisch erfolgen; Austausch oder Ausschluss des Mitglieds kann möglich sein, wenn keine wesentliche Angebotsänderung entsteht und keine zurechenbare Sorgfaltspflichtverletzung vorliegt. Nicht als EuGH-Urteil zitieren.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 - EuGH, Urteil vom 24.05.2016, C-396/14, MT Højgaard und Züblin: Änderungen einer Bietergemeinschaft nur nach Einzelfallprüfung von Angebotsidentität, Eignung und Gleichbehandlung beurteilen; nicht als pauschale Austauschfreigabe verwenden.
 
 #### Output
@@ -1265,7 +1265,7 @@ _Bietergemeinschaftserklärung abgabereif machen: Mitglieder, Federführer, Voll
 
 - EuGH, Urteil vom 24.05.2016, C-396/14, MT Højgaard und Züblin: Änderungen der Zusammensetzung anhand Angebotsidentität, Eignung und Gleichbehandlung einzelfallbezogen prüfen.
 - BGH-/OLG-Rechtsprechung zu Bietergemeinschaften nur nach Live-Verifikation mit Gericht, Datum, Aktenzeichen und tragender Aussage zitieren.
-- Schlussanträge GA Kokott vom 07.05.2026, Rs. C-268/25, ECLI:EU:C:2026:382: Austausch oder Ausschluss eines problematischen BG-Mitglieds kann unionsrechtlich geboten sein, wenn keine zurechenbare Sorgfaltspflichtverletzung und keine wesentliche Angebotsänderung vorliegt. Nicht als EuGH-Urteil zitieren.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 
 #### Output
 

@@ -2,6 +2,10 @@
 
 Ein Hallenbetreiber und eine Schreinerei möchten eine ausgehandelte Ratenzahlung beurkunden lassen. Der Brief kommt an den Notar im Anwaltsnotariat. In der anwaltlichen Altablage gibt es einen Vorgang zum selben Umbau unter dem Namen eines Einzelunternehmens.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-a-b.md#fall-anerkenntnis-schleusenhof)
+<!-- END Aktenarbeit -->
+
 Bereiten Sie die Aufnahme auf der richtigen Amts- oder Mandatsseite vor. Schildern Sie der Urkundsperson, welche früheren Tätigkeiten feststehen und welche Aufklärung noch nötig ist. Verfassen Sie eine zulässige Antwort für die Anfragenden.
 
 Öffnen Sie zuerst die Grundakte im Originalformat-ZIP. Die Nachreichungen und bearbeitbaren Vorlagen haben jeweils einen eigenen Ordner.

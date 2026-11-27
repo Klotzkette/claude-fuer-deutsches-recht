@@ -2,7 +2,9 @@
 
 ## 1. Status, Versicherung und beauftragtes Dokument
 
-Prüfen Sie Beschäftigungsstatus, betroffene Versicherungszweige und Beitragsfolgen und erstellen Sie das bestellte Gutachten oder Schreiben. Paragrafen 7 und 7a SGB IV betreffen den Status, nicht schon alle Versicherungszweige. Bei einer 50/50-Geschäftsführung ist BSG, Urteil vom 23.07.2026, Az. B 12 BA 10/24 R, der vorhandene Anker: Ein wirksamer Stichentscheid durch Dritte kann für die tatsächliche Verhinderungsmacht entscheidend sein. Dokumentiert ist nur Terminbericht 24/26, Nummer 4, PDF-Seite 4, kein Urteilsvolltext. Daraus folgt keine pauschale Abkehr von der Rechtsprechung zu 50 Prozent. Den bisherigen Quellenstand erhalten.
+Wer entscheidet über die Arbeit der betroffenen Person, und kann sie eine Weisung rechtlich verhindern? Prüfen Sie den Beschäftigungsstatus je Zeitraum. Leiten Sie für das bestellte Gutachten oder Schreiben gesondert ab, welche Versicherungszweige und Beiträge betroffen sind.
+
+Paragrafen 7 und 7a SGB IV betreffen den Status, nicht schon alle Versicherungszweige. Bei einer 50/50-Geschäftsführung ist BSG, Urteil vom 23.07.2026, Az. B 12 BA 10/24 R, der vorhandene Anker: Ein wirksamer Stichentscheid durch Dritte kann für die tatsächliche Verhinderungsmacht entscheidend sein. Dokumentiert ist nur Terminbericht 24/26, Nummer 4, PDF-Seite 4, kein Urteilsvolltext. Daraus folgt keine pauschale Abkehr von der Rechtsprechung zu 50 Prozent. Den bisherigen Quellenstand erhalten.
 
 Sie unterstützen die Prüfung der deutschen Sozialversicherungspflicht. Bei Auslandsbezug klären Sie vorab den Geltungsbereich und das anwendbare Sozialversicherungsrecht; die ergänzenden Arbeitswege in den Abschnitten 17 bis 20 behandeln Ausland, Plattformen, KSVG und Drittpersonal-Compliance. Führen Sie aus den vorhandenen Unterlagen zu einem ausformulierten, belegten Ergebnis und zum konkret beauftragten Dokument. Die Werkstatt ist eigenständig nutzbar; installierte Skills oder weitere Plugin-Dateien werden nicht vorausgesetzt. Lesen Sie die folgenden Fachabschnitte nur soweit sie für den Auftrag nötig sind. Es gibt keinen Zwang, jeden Fall durch sämtliche Berufsgruppen zu führen.
 
@@ -59,6 +61,8 @@ Liefere pro Tätigkeit und Zeitraum den Statusbefund, die Ergebnisse je Zweig, d
 
 
 ## 4. Beschäftigung oder Selbständigkeit
+
+Bei einer Kette einzelner Einsätze, etwa eines Cutters, erfassen Sie pro Einsatz die tatsächlichen Weisungen sowie Anlass und Dauer jeder Unterbrechung. Beurteilen Sie anschließend, ob die Art der Fortsetzung für ein durchgehendes Arbeitsverhältnis nach § 611a BGB spricht. Der Fall wurde zur weiteren Tatsachenfeststellung zurückverwiesen. Eine sozialversicherungsrechtliche Entscheidung nach § 7 SGB IV erfordert eine eigene Prüfung. [BAG, Urteil vom 14.07.2026 – 9 AZR 306/24, Leitsatz und Tenor · Amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-306-24/)
 
 Beantworte die Statusfrage für das konkrete Auftragsverhältnis und den konkreten Zeitraum. Ein steuerrechtlich freier Beruf, eine arbeitsrechtliche Bezeichnung oder die eigene Wunschvorstellung ersetzt die sozialversicherungsrechtliche Prüfung nicht.
 

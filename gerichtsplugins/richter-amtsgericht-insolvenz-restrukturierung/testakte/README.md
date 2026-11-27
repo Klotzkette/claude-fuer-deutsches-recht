@@ -2,6 +2,10 @@
 
 Aus Richtersicht. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Firmen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen ist Zufall.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-amtsgericht-insolvenz-restrukturierung)
+<!-- END Aktenarbeit -->
+
 ## Kurzbeschreibung
 
 Insolvenzeröffnungsverfahren über das Vermögen einer GmbH auf Antrag eines Gläubigers (Fremdantrag nach Paragraf 14 InsO). Die antragstellende Gläubigerin, die Saegewerk Sauer GmbH, stützt den Antrag auf eine fällige, titulierte Werklohnforderung von 184.500 Euro und behauptet Zahlungsunfähigkeit der Schuldnerin (Paragraf 17 InsO). Die Schuldnerin, die Edelholz Berlin GmbH, tritt dem Antrag entgegen, bestreitet den Eröffnungsgrund und behauptet, es liege lediglich eine vorübergehende Zahlungsstockung vor; die Gläubigerforderung sei zudem durch Aufrechnung erloschen. Der Eröffnungsgrund ist damit streitig. Es handelt sich nicht um einen bezifferten Streitwert im Sinne des Zivilprozesses; massgeblich ist der Wert der Insolvenzmasse und die Höhe der glaubhaft gemachten Forderung. Verfahrensstand bei Aktenübernahme: Gläubigerantrag eingegangen und der Schuldnerin zugestellt, Stellungnahme der Schuldnerin liegt vor, vorläufiger Insolvenzverwalter mit Gutachtenauftrag ist zu bestellen, über Sicherungsmassnahmen nach Paragraf 21 InsO und über die Eröffnung ist zu entscheiden.

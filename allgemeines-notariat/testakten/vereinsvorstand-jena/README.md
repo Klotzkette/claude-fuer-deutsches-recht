@@ -2,6 +2,10 @@
 
 Im Verein Lichtspiel an der Saale e. V. soll die Kinotechnikerin Yara Born den Vorsitz übernehmen. Der Förderverein braucht bald einen unterschriebenen Projektvertrag. Das Register sieht gemeinsame Vertretung vor. Auf der Webseite steht Einzelvertretung. Und schon bei den abgegebenen Stimmen passen Protokoll und Zählliste nicht zusammen.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-notariat-vereinsvorstand-jena)
+<!-- END Aktenarbeit -->
+
 Bereiten Sie die notarielle Besprechung und die gegebenenfalls mögliche Registeranmeldung vor. Ordnen Sie Satzungsstände, Wahl und Annahme jedem Amt zu. Formulieren Sie die Rückfrage an den Verein so, dass er die fehlenden Originale gezielt suchen und über das Förderprojekt rechtzeitig disponieren kann.
 
 Öffnen Sie zuerst die Grundakte im Originalformat-ZIP. Die Nachreichungen und bearbeitbaren Vorlagen haben jeweils einen eigenen Ordner.

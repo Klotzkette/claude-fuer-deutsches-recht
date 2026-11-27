@@ -2,6 +2,10 @@
 
 Aus Richtersicht. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Firmen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen ist Zufall.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-amtsgericht-handelsregister)
+<!-- END Aktenarbeit -->
+
 ## Kurzbeschreibung
 
 Registersache in Handelsregistersachen. Die Edelholz Berlin GmbH (Sitz Musterstadt, eingetragen im Handelsregister B des Amtsgerichts Musterstadt unter HRB 50321) meldet die Abberufung ihres bisherigen Geschäftsführers und die Bestellung eines neuen Geschäftsführers zur Eintragung an. Die Anmeldung weist zwei Eintragungshindernisse auf: Erstens ist die nach Paragraf 39 Absatz 3 GmbHG erforderliche Versicherung des neu bestellten Geschäftsführers über das Fehlen von Bestellungshindernissen widersprüchlich, weil die beigefuegte Unterlagensammlung auf eine rechtskräftige Verurteilung wegen Insolvenzverschleppung hindeutet (Inhabilität nach Paragraf 6 Absatz 2 Satz 2 Nummer 3 GmbHG). Zweitens ist die notarielle Beglaubigung der Anmeldung nach Paragraf 12 Absatz 1 HGB nur für einen der Anmeldenden vollzogen.

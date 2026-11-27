@@ -43,7 +43,7 @@ Schriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 
 
 ## 4. Bietergemeinschaften
 
-Tatbestand und Zurechnung für jedes Mitglied getrennt prüfen. Die Schlussanträge der Generalanwältin Kokott vom 07.05.2026 in C-268/25 sind ein Prüfanker für Einzelfall, Kenntnis, Einfluss und möglichen Austausch, aber noch kein EuGH-Urteil. Keine automatische Übertragung auf die gesamte Bietergemeinschaft behaupten.
+Tatbestand und Zurechnung für jedes Mitglied getrennt prüfen. EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bei bestandskräftig festgestellten Steuer- oder Beitragsrückständen eines Mitglieds ermittle den Fristablauf, die Zahlung oder Zahlungsvereinbarung sowie den Zeitpunkt, zu dem die Gruppe vom Ausschlussgrund erfuhr. Eine nachträgliche Zahlung heilt den Ausschlussgrund des Mitglieds grundsätzlich nicht. Bei erst nach Fristablauf erlangter Kenntnis muss der Auftraggeber das Ausscheiden oder Ersetzen des Mitglieds im Einzelfall prüfen können.
 
 ## 5. Beweis- und Dokumentationsstandard
 

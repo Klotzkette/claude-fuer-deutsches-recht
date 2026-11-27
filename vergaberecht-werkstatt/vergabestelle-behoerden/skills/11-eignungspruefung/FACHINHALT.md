@@ -35,7 +35,7 @@ Schriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 
 
 - EuGH C-234/14 'Ostas celtnieks' zur Eignungsleihe
 - EuGH C-387/14 'Esaprojekt' zur Heilung
-- Schlussanträge GA Kokott vom 07.05.2026, Rs. C-268/25, ECLI:EU:C:2026:382: Bei Bietergemeinschaften keinen Ausschlussautomatismus wegen eines Steuerverstoßes eines Mitglieds annehmen; Sorgfalt, Kenntnis, Einfluss und nicht wesentliche Angebotsänderung einzelfallbezogen prüfen. Nicht als EuGH-Urteil zitieren.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 - Mindestumsatz nach § 45 Abs.2 VgV und sonstige wirtschaftliche Nachweise nach § 45 Abs.1 VgV prüfen; höhere Anforderungen brauchen Auftragsbezug, Verhältnismäßigkeit und eine dokumentierte Begründung.
 
 ## Output

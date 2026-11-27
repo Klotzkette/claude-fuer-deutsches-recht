@@ -4,6 +4,10 @@
 
 Die Einkaufsrunde der Niederlassung West soll ein wiederverwendbares Vertragsset für Kontrollleistungen freigeben. Für das erste Projekt K17 hat der Einkauf den Rahmen ausgefüllt, die Projektleitung den Abruf. Die Daten des Lieferanten sind bereits eingetragen. Vor den Oktoberterminen will die Bauherrin wissen, wer ihr die Belege überlassen darf.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-07-vertragsmuster)
+<!-- END Aktenarbeit -->
+
 ## Arbeitsauftrag
 
 Prüfen Sie Rahmenvertrag und Abrufblatt getrennt und in ihrem Zusammenwirken mit den beiden Bedingungswerken. Erstellen Sie bis 16. September, 12 Uhr, eine Entscheidungsvorlage für Einkauf und Projektleitung. Benennen Sie je Konflikt die betroffenen Ziffern, den Verwender, die tatsächliche Verhandlungslage, das betriebliche Risiko und eine priorisierte Entscheidung. Arbeiten Sie Ersatzklauseln und eine verhandelbare Rückfallposition aus. Trennen Sie die Freigabe des Pilotabrufs von der späteren Verwendung des Musters.

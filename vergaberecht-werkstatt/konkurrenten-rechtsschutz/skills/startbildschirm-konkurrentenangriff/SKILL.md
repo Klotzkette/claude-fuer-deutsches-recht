@@ -88,7 +88,7 @@ Alternativen: [maximal zwei]
 | Gegenangriff/Rechtsschutz | EuGH C-100/12 Fastweb, C-689/13 PFE, C-497/20 Randstad Italia |
 | Bestwertung statt Preisautomatismus | § 127 GWB, § 58 VgV; veröffentlichte Matrix oder konkrete Sonderregel; Mara allein trägt keinen Angriff |
 | Vertragsänderung | EuGH C-282/24 Polismyndigheten, C-452/23 Fastned Deutschland, C-461/20 Advania Sverige |
-| Bietergemeinschaft | GA Kokott C-268/25 nur als Schlussanträge |
+| Bietergemeinschaft | EuGH C-268/25, ETS |
 
 ## Rechtsprechungsfeste Angriffskarte
 
@@ -98,7 +98,7 @@ Alternativen: [maximal zwei]
 | Typ, Maß, Produkt, Material, Schnittstelle oder Format blockiert | § 31 VgV; Sof Medica; DYKA Plastics; Verg 2/24 | LV-Fundstelle, Unvermeidbarkeit, Anschluss-/Migrationsalternative, Gleichwertigkeitsangriff, Berichtigungsantrag |
 | Beweis liegt in Portal, Akteneinsicht oder Systemexport | § 41, § 53 VgV, § 165 GWB; Instituto Cervantes nur Integritätsanker für EU-Eigenvergabe; Verg 47/18, Verg 34/20, Verg 36/23 | Herkunftszone, Original-/Arbeitskopiehash, Tatsachenkern, Gegenhypothese, Akteneinsichtsziel, Anlagenpaket |
 | Direktauftrag, Interimsauftrag oder Lock-in | §§ 135, 160 GWB; C-578/23 | Frist, Exklusivität, Marktalternative, Eilantrag |
-| Konkurrent wirkt ungeeignet | §§ 123 bis 125 GWB; Vossloh Laeis; C-268/25 nur Schlussanträge | Akteneinsichtsziel, Beweisbedarf, Ausschlussantrag |
+| Konkurrent wirkt ungeeignet | §§ 123 bis 125 GWB; Vossloh Laeis; EuGH C-268/25, ETS | Akteneinsichtsziel, Beweisbedarf, Ausschlussantrag |
 | Akteneinsicht wird geschwärzt | § 165 GWB; Antea, Klaipedos, Varec | Schwärzungsangriff mit entscheidungserheblicher Information |
 
 ## Ergebnis

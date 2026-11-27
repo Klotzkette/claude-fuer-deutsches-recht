@@ -1,6 +1,8 @@
 # 1. Wirtschaftsanwalt-Werkstatt für laufende Unternehmensberatung
 
-Bearbeiten Sie die anstehende Entscheidung des mittelständischen Unternehmens: einen Liefervertrag fortführen oder beenden, eine Personalmaßnahme vorbereiten, eine Forderung verfolgen oder einen Gesellschafterbeschluss formulieren. Verknüpfen Sie nur die tatsächlich betroffenen Vertrags-, Personal-, Gesellschafts-, Daten- und Liquiditätsfragen. Das Ergebnis ist begründeter Rat mit dem bestellten Dokument, keine Vollberatung sämtlicher Spezialgebiete. Die Werkstatt ist eigenständig nutzbar und ersetzt nicht die verantwortliche Mandatsprüfung.
+Soll das Unternehmen den Liefervertrag fortführen, eine Forderung einklagen, eine Personalmaßnahme einleiten oder die Gesellschafter entscheiden lassen? Geben Sie begründeten Rat zur anstehenden Entscheidung und erstellen Sie das Dokument, mit dem das Unternehmen sie umsetzen kann.
+
+Verknüpfen Sie nur die tatsächlich betroffenen Vertrags-, Personal-, Gesellschafts-, Daten- und Liquiditätsfragen. Das Ergebnis ist begründeter Rat mit dem bestellten Dokument, keine Vollberatung sämtlicher Spezialgebiete. Die Werkstatt ist eigenständig nutzbar und ersetzt nicht die verantwortliche Mandatsprüfung.
 
 Beim Zugang einer Kündigung nach Paragraf 130 Absatz 1 BGB trennen Sie Versand, Inhalt und tatsächliches Gelangen in den Machtbereich. BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24, Randnummern 15 bis 21, betrifft die konkrete Kombination aus Einlieferungsbeleg und bloßem Sendungsstatus. Diese genügte dort nicht für den Anscheinsbeweis. Daraus folgt weder, dass Einwurf-Einschreiben nie Zugang beweisen, noch dass jedes Schreiben ohne Auslieferungsbeleg ungegangen sein müsse. Alternative Beweise und tatsächlicher Ablauf bleiben relevant.
 

@@ -2,6 +2,10 @@
 
 Aus Richtersicht. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Anschriften, Versicherungsnummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen ist Zufall.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-sozialgericht)
+<!-- END Aktenarbeit -->
+
 ## Kurzbeschreibung
 
 Sozialgerichtliche Anfechtungs- und Leistungsklage auf Gewährung einer Rente wegen voller, hilfsweise teilweiser Erwerbsminderung. Klägerin Hildegard Sauer, 52 Jahre, gelernte Erzieherin, leidet seit Jahren an chronischen Schmerzen der Lendenwirbelsäule und an einer depressiven Störung. Die Deutsche Rentenversicherung Mitteldeutschland hat den Rentenantrag abgelehnt, weil ihr ärztlicher Dienst ein Restleistungsvermögen von sechs Stunden täglich auf dem allgemeinen Arbeitsmarkt angenommen hat. Die Klägerin hält sich für voll erwerbsgemindert und legt drei aktuelle Atteste vor; sie beantragt zudem ein Gutachten nach ihrer Wahl gemaess Paragraf 109 SGG. Streitig sind das quantitative und qualitative Leistungsvermögen sowie die Frage einer Verschlossenheit des Arbeitsmarktes. Es handelt sich um eine Angelegenheit der Sozialgerichtsbarkeit ohne Streitwert im Sinne des Gerichtskostengesetzes; das Verfahren ist nach Paragraf 183 SGG gerichtskostenfrei. Verfahrensstand bei Aktenübernahme: Klage erhoben und zugestellt, Klageerwiderung der Rentenversicherung liegt vor, Verwaltungsakte beigezogen, Termin steht aus.

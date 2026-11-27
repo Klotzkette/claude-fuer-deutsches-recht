@@ -2,6 +2,10 @@
 
 Die verwitwete Buchbinderin Almut Krogmann lebt mit ihrem Partner Ben Cordes in ihrer Wohnung in Lübeck. Sie möchte ihn dort absichern und auch seine Tochter berücksichtigen. Von einem gemeinschaftlichen Testament mit ihrem verstorbenen Mann ist zunächst nur ein alter Durchschlag greifbar.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-notariat-testament-luebeck)
+<!-- END Aktenarbeit -->
+
 Führen Sie ein persönliches erbrechtliches Beratungsgespräch mit Almut Krogmann und bereiten Sie einen öffentlichen Testamentsentwurf nur so weit vor, wie ihre frühere Verfügung, ihr eigener Wille und ihre Vermögensverhältnisse es tragen.
 
 Öffnen Sie zuerst die Grundakte im Originalformat-ZIP. Die Nachreichungen und bearbeitbaren Vorlagen haben jeweils einen eigenen Ordner.

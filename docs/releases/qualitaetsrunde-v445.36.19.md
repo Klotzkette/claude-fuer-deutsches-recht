@@ -1,0 +1,7 @@
+# Drei Rollen im Vergabeverfahren
+
+Die drei installierbaren Plugins führen von unterschiedlichen Arbeitsaufträgen zur Entscheidung. Die Vergabestelle kann einen Vermerk zur Losbildung, eine Wertung oder eine Rügeerwiderung erstellen. Ein Bewerber oder Bieter kann etwa einen Teilnahmeantrag vorbereiten oder bei einer Berichtigung die betroffenen Positionen im Leistungsverzeichnis prüfen. Das Plugin für den Konkurrentenrechtsschutz ordnet Einwand, Zugang und laufende Fristen einem konkreten Rechtsbehelf zu.
+
+Für jede Rolle gibt es das native Plugin als ZIP sowie die Werkstatt und den Schnellstart als einzelne Markdown-Dateien. Der Volltext des EuGH-Urteils in der Sache ETS erläutert, unter welchen Umständen eine Bietergemeinschaft trotz eines Steuer- oder Beitragsrückstands eines Mitglieds für einen Verbleib im Verfahren in Betracht kommt. [EuGH, Urteil vom 12.11.2026, C-268/25, Rn. 79 und Tenor](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316916&doclang=DE)
+
+[Vergabestelle](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/qualitaetsrunde-v445.36.19/vergaberecht-werkstatt/vergabestelle-behoerden) · [Bewerber und Bieter](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/qualitaetsrunde-v445.36.19/vergaberecht-werkstatt/bieter-unternehmen) · [Konkurrentenrechtsschutz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/qualitaetsrunde-v445.36.19/vergaberecht-werkstatt/konkurrenten-rechtsschutz)

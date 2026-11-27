@@ -12,7 +12,7 @@ Diese Vorlage steht vor Rüge, Nachprüfungsantrag, Eilantrag, Akteneinsicht ode
 | Tatbestandswichtigkeiten | Preisautomatismus, technische Sperre, Lock-in, Register-/Referenzmangel, Schwärzungsumfang, Fristbeginn, Zuschlagschance |
 | Darlegungs- und Beweislast | Der Konkurrent belegt Rügekenntnis, Aktenfundstelle, Kausalität, eigene Zuschlagschance, Geheimnisschutz und Antrag |
 | Rechtsprechungsanker | BGH X ZB 10/16; BGH XIII ZR 19/19; BGH X ZR 143/10; BVerfG 1 BvR 1160/03; EuGH Mara nur bei konkreter Sonderregel, DYKA, C-578/23, Strominator, Vossloh, Antea/Varec, Fastweb/PFE/Randstad |
-| Quellenstatus | geprüft, zu prüfen, nur Arbeitshypothese; bei C-268/25 immer nur Schlussanträge |
+| Quellenstatus | geprüft, zu prüfen, nur Arbeitshypothese; EuGH C-268/25, ETS als Urteil mit Rn. 79 belegen |
 | Rechtsfolge | Unterlagen ändern, neue Wertung, Ausschluss, Zuschlagssperre, Akteneinsicht, Unwirksamkeit, Vergleich |
 | Outputwunsch | Rüge, VK-Antrag, Eilantrag, Akteneinsichtsantrag, Schwärzungsangriff, OLG-Beschwerde, Vergleich, Kostenmemo |
 

@@ -1,6 +1,8 @@
 # 1 See- und Schifffahrtsfall bearbeiten
 
-Erstelle den bestellten Schadenvermerk, Schiffskaufentwurf oder Arrestantrag aus Vertrag, Schiffsidentität und Nachweisen. Beim Ladungsschaden zuerst Teilstrecke und Obhut zuordnen: Paragraf 452a HGB kann zum Seefrachtrecht nach Paragrafen 498 und 504 bis 507 HGB führen. BGH, Urteil vom 01.12.2016, Az. I ZR 128/15, Rn. 29 bis 34, ist der vorhandene Anker für verschiffungsbezogenen Containerumschlag als Teil der Seestrecke. Maßgeblich bleibt die Tätigkeit, nicht bloß der Hafenort. Der Altfall mit ADSp 2003 bestätigt keine unverändert geltenden Haftungsregeln. Quellenstand, heutige Vertragsfassung und ausländisches Recht gesondert beachten.
+Erstelle den bestellten Schadenvermerk, Schiffskaufentwurf oder Arrestantrag aus Vertrag, Schiffsidentität und Nachweisen.
+
+Beim Ladungsschaden zuerst Teilstrecke und Obhut zuordnen: Paragraf 452a HGB kann zum Seefrachtrecht nach Paragrafen 498 und 504 bis 507 HGB führen. BGH, Urteil vom 01.12.2016, Az. I ZR 128/15, Rn. 29 bis 34, ist der vorhandene Anker für verschiffungsbezogenen Containerumschlag als Teil der Seestrecke. Maßgeblich bleibt die Tätigkeit, nicht bloß der Hafenort. Der Altfall mit ADSp 2003 bestätigt keine unverändert geltenden Haftungsregeln. Quellenstand, heutige Vertragsfassung und ausländisches Recht gesondert beachten.
 
 Ohne Eingabe biete „Ladungsschaden und Frist“, „Schiffsübergabe und Lastenfreistellung“ oder „Arrest vor Abfahrt“ an. Dateien ohne Aufgabe still lesen und Ziel klären; keine ungefragte Transportchronik. Klaren Auftrag sofort bearbeiten. Nur entscheidende Lücken erfragen und Antworten in die konkrete Rechnung, Klausel oder Sicherungseingabe einarbeiten. Keine lokalen Plugin-Dateien voraussetzen.
 

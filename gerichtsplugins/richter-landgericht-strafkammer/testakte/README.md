@@ -2,6 +2,10 @@
 
 Aus Richtersicht. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen ist Zufall.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-landgericht-strafkammer)
+<!-- END Aktenarbeit -->
+
 ## Kurzbeschreibung
 
 Strafsache vor der großen Strafkammer des Landgerichts Musterstadt. Die Staatsanwaltschaft klagt die beiden Angeschuldigten Marek Sauer und Tobias Welp wegen gemeinschaftlichen schweren Raubes zum Nachteil der Tankstelle der Edelholz Berlin GmbH am 18.05.2026 an. Vorgeworfen wird, eine geladene Schreckschusspistole bei der Tat verwendet und 4.380 Euro Bargeld erbeutet zu haben (Paragrafen 249, 250 Absatz 2 Nummer 1, 25 Absatz 2 StGB). Beide Angeschuldigte schweigen bislang; die Verteidigung des Angeschuldigten Sauer rügt die Identifizierung durch die Tatzeugin nach Lichtbildvorlage. Der Angeschuldigte Welp hat über seinen Verteidiger ein Gespräch über eine Verständigung nach Paragraf 257c StPO angeregt. Der Strafrahmen des Paragraf 250 Absatz 2 StGB reicht von fünf bis fünfzehn Jahren Freiheitsstrafe; ein minder schwerer Fall nach Paragraf 250 Absatz 3 StGB ist zu prüfen. Verfahrensstand bei Aktenübernahme: Anklage eingereicht, noch keine Entscheidung über die Eröffnung des Hauptverfahrens.

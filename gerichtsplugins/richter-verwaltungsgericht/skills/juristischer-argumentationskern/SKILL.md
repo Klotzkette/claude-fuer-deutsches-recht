@@ -47,7 +47,7 @@ Die folgenden Anker nur bei passender Streitfrage einsetzen; Prüfstand und ausf
 
 4.3. [BVerwG, Beschluss vom 27.05.2026 – 2 VR 5.26, Randnummern 12–21](https://www.bverwg.de/de/270526B2VR5.26.0): Sachlicher Umsetzungsgrund ersetzt keine Abwägung für die Vorverlegung; zeitlich begrenzten Unterlassungstenor prüfen. Grenze: BND-Sonderfall, Verwaltungsaktqualität offen; kein Wunschdienstpostenanspruch und keine allgemeine Monatsfrist.
 
-4.4. [BVerwG, Beschluss vom 14.10.2026, 7 VR 4.26](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202600612.zip): Rn. 4–7: Bei einfacher Beiladung ist für die Berührung rechtlicher Interessen der mögliche rechtskraftfähige Entscheidungssatz maßgeblich. Grenze: Bloße Vorfragen in den Gründen reichen allein nicht. Die notwendige Beiladung nach § 65 Abs. 2 VwGO gesondert prüfen.
+4.4. [BVerwG, Beschluss vom 14.10.2026, 7 VR 4.26](https://www.bverwg.de/141026B7VR4.26.0): Rn. 4–7: Bei einfacher Beiladung ist für die Berührung rechtlicher Interessen der mögliche rechtskraftfähige Entscheidungssatz maßgeblich. Grenze: Bloße Vorfragen in den Gründen reichen allein nicht. Die notwendige Beiladung nach § 65 Abs. 2 VwGO gesondert prüfen.
 
 ## 5. Lücken schließen und denselben Entwurf fortschreiben
 

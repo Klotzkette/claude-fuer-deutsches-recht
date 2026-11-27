@@ -24,6 +24,8 @@ Bei widersprüchlichen Gutachten benenne den konkreten Befund und die benötigte
 
 ## 1.3 Immissionsschutz und Anlagenbetrieb
 
+Bei konkurrierenden Windenergievorhaben ordne jeden Punkt des Vorbescheids dem verbindlich entschiedenen Umfang oder der vorläufigen Gesamtbeurteilung zu. Das Gericht bejahte das Wahlrecht zwischen § 9 Abs. 1 und Abs. 1a BImSchG. Eine nur vorläufige Beurteilung verschaffte hier keinen Vorrang hinsichtlich der Turbulenzbelastung. Die Klägerin nahm ihre eigene Revision zurück. Entschieden wurde über die Revision der Beigeladenen und die Reichweite ihres Vorbescheids. [BVerwG, Urteil vom 26.11.2026 – 7 C 6.25, Nr. 91/2026, Entscheidung zur Revision der Beigeladenen · Amtliche Pressemitteilung](https://www.bverwg.de/pm/2026/91)
+
 Bestimme genehmigte Tätigkeit, Kapazität, Betriebszustände und konkrete Betreiberpflicht. Förmliches Verfahren nach Paragraf 10 und vereinfachtes Verfahren nach Paragraf 19 BImSchG unterscheiden. Bei Nachbarn die konkret drittschützende Anforderung, insbesondere Paragraf 5 Absatz 1 Nummer 1 BImSchG, und die tatsächliche Betroffenheit prüfen.
 
 Ordne jeden beanstandeten Messwert dem Immissionsort, Tages- oder Nachtzeitraum, Normal- oder Störbetrieb und einschlägigen Grenz- oder Richtwert zu. Ein Emissionswert am Kamin ist kein Lärm- oder Schadstoffnachweis am Nachbargrundstück. Bei Änderungen den genehmigten und beantragten Gesamtbetrieb vergleichen, nicht allein das neu hinzugekommene Aggregat.

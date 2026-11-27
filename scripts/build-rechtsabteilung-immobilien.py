@@ -13,6 +13,7 @@ import tempfile
 import zipfile
 from pathlib import Path, PurePosixPath
 
+from aktenarbeit_einstiege import mit_verweisen
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_MARKDOWN
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -212,7 +213,9 @@ def build_cases() -> list[dict]:
             "",
         ]
     )
-    (PROJECT / "TESTAKTEN.md").write_text("\n".join(lines), encoding="utf-8")
+    seite = PROJECT / "TESTAKTEN.md"
+    kennungen = sorted("immobilien-" + r["slug"] for r in records if r["slug"] != "mietspiegel-berlin")
+    seite.write_text(mit_verweisen("\n".join(lines), seite.relative_to(ROOT), kennungen), encoding="utf-8")
     return records
 
 
@@ -266,9 +269,7 @@ def build_packages(dist: Path) -> None:
                     and "__pycache__" not in path.parts
                     and path.name != ".DS_Store"
                 ):
-                    write_member(
-                        archive, path.relative_to(ROOT).as_posix(), path.read_bytes()
-                    )
+                    write_member(archive, path.relative_to(ROOT).as_posix(), path.read_bytes())
     for kind in ("werkstatt", "schnellstart"):
         name = f"{PLUGIN}-{kind}.md"
         shutil.copyfile(ROOT / PLUGIN / name, dist / name)

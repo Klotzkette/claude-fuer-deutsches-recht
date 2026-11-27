@@ -47,7 +47,7 @@ Auftragsbezogen prüfen:
 |Planungswettbewerb|Paragrafen 78 bis 80 VgV; C-888/24 Adão da Fonseca, ECLI:EU:C:2026:560|Anonymitätsbruch, Kriterienabweichung oder ungleicher Klarstellungsdialog; kein allgemeines Anhörungsrecht|
 |System-/Portalbeweis|Paragraf 41, Paragraf 53 VgV, Paragraf 165 GWB; C-534/23 P/C-539/23 P Instituto Cervantes nur Integritätsanker für EU-Eigenvergabe; Verg 47/18, Verg 34/20, Verg 36/23|Herkunftszone, Tatsachenkern, Hash/Transformation, Gegenhypothese, Akteneinsichtsziel|
 |Direktauftrag/ÖPNV/Änderung|Paragrafen 132, 135, 160 GWB; C-578/23; C-820/24; C-856/24; C-810/24|Lock-in/Laufzeit/Betriebsrisiko; C-810/24 gegen zweite Zuschlagschance, nicht private Initiative allgemein|
-|Ausschluss/BG/BTTG|Paragrafen 123 bis 125 GWB; Paragrafen 13 bis 16 BTTG; Paragraf 160 Abs. 2 Satz 2 GWB; C-268/25 nur Schlussanträge; C-313/24; C-590/24|Paragraf -13-Feststellung, ArbGG-Vorentscheidung; Selbstreinigung/BG/Kontrolle; C-590/24 nur Geldbuße, Ausschlussfragen unzulässig|
+|Ausschluss/BG/BTTG|Paragrafen 123 bis 125 GWB; Paragrafen 13 bis 16 BTTG; Paragraf 160 Abs. 2 Satz 2 GWB; EuGH C-268/25, ETS; C-313/24; C-590/24|Paragraf -13-Feststellung, ArbGG-Vorentscheidung; Selbstreinigung/BG/Kontrolle; C-590/24 nur Geldbuße, Ausschlussfragen unzulässig|
 |Bundeswehr|Paragrafen 1 bis 19 BwBBG; Paragraf 11, Paragraf 15 Abs. 2|Zugang/Antragsbefugnis, Vorab-Rüge, Ausnahme, VK Bund, Paragraf -10-Sanktion, OLG; Paragraf -16-Verweisfehler nicht ergänzen|
 |Netto-Null|Art. 25 VO (EU) 2024/1735; VO (EU) 2026/718|Windquote, Analogie, Baupflicht, Art.-29-Feststellung, GPA, Ausnahme und Rückversetzung|
 |Akteneinsicht/Schwärzung|Paragraf 165 GWB; Antea, Klaipedos, Varec|entscheidungserhebliche Information, Geheimnisschutz, Begründungsersatz|

@@ -58,6 +58,8 @@ Formuliere das bestellte Widerspruchsschreiben, die Klage, den Eilantrag, die Be
 
 ## 4. Verfahrensgrundlage und Rechtsfolge
 
+Bei konkurrierenden Windenergievorhaben ordne jeden Punkt des Vorbescheids dem verbindlich entschiedenen Umfang oder der vorläufigen Gesamtbeurteilung zu. Das Gericht bejahte das Wahlrecht zwischen § 9 Abs. 1 und Abs. 1a BImSchG. Eine nur vorläufige Beurteilung verschaffte hier keinen Vorrang hinsichtlich der Turbulenzbelastung. Die Klägerin nahm ihre eigene Revision zurück. Entschieden wurde über die Revision der Beigeladenen und die Reichweite ihres Vorbescheids. [BVerwG, Urteil vom 26.11.2026 – 7 C 6.25, Nr. 91/2026, Entscheidung zur Revision der Beigeladenen · Amtliche Pressemitteilung](https://www.bverwg.de/pm/2026/91)
+
 Bei einem Verwaltungsakt nach Paragraf 35 Satz 1 VwVfG Anhörung, Begründung und Ermessensausübung nach Paragrafen 28, 39 und 40 VwVfG oder den maßgeblichen Landesvorschriften prüfen. Verfahrensfehler, Heilung und materielle Rechtswidrigkeit nicht gleichsetzen. Antrag und begehrte Gerichtsentscheidung an Paragrafen 42 und 113 Absatz 1 oder 5 VwGO ausrichten.
 
 Vorverfahren nach Paragraf 68 VwGO einschließlich fach- und landesrechtlicher Ausnahmen prüfen. Die Widerspruchsbehörde nach Paragraf 73 Absatz 1 Satz 2 VwGO bestimmen: Nummer 1 nennt grundsätzlich die nächsthöhere Behörde, Nummer 3 in Selbstverwaltungsangelegenheiten die Selbstverwaltungskörperschaft; interne Organzuständigkeit folgt daraus noch nicht.

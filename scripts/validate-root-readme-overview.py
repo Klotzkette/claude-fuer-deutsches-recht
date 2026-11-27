@@ -11,13 +11,12 @@ from prompt_profiles import enabled
 from readme_display import catalog_description
 from werkstatt_visualisierung import load_profiles as load_workflow_profiles
 
-from testakte_zip_common import working_dump_flat_pairs
+from aktenbestand import zaehlung
 
 
 REPO = Path(__file__).resolve().parent.parent
 PLUGIN_META_DIR = ".cla" + "ude-plugin"
 MARKETPLACE = REPO / PLUGIN_META_DIR / "marketplace.json"
-SKIP_TESTAKTEN = {"formatvorlagen-paradebeispiele", "megaprompts"}
 CATALOG_BEGIN = "<!-- BEGIN PLUGIN-KATALOG (auto-generated) -->"
 CATALOG_END = "<!-- END PLUGIN-KATALOG (auto-generated) -->"
 DIRECTORY_BEGIN = "<!-- BEGIN HAUPTVERZEICHNIS (auto-generated) -->"
@@ -37,7 +36,6 @@ def plugin_source(plugin: dict) -> Path:
 def count_values(marketplace: dict) -> dict[str, int | str]:
     plugins = marketplace["plugins"]
     skill_files = []
-    pluginlocal_testakten = []
     werkstatt = 0
     schnellstart = 0
     for plugin in plugins:
@@ -46,34 +44,13 @@ def count_values(marketplace: dict) -> dict[str, int | str]:
         name = plugin["name"]
         werkstatt += int((directory / f"{name}-werkstatt.md").is_file())
         schnellstart += int((directory / f"{name}-schnellstart.md").is_file())
-        testakte = directory / "testakte"
-        if testakte.is_dir() and working_dump_flat_pairs(testakte, include_gesamt_pdf=False):
-            pluginlocal_testakten.append(testakte)
-
-    central_testakten = []
-    root = REPO / "testakten"
-    if root.is_dir():
-        central_testakten = [
-            child
-            for child in root.iterdir()
-            if child.is_dir() and child.name not in SKIP_TESTAKTEN
-        ]
-
-    suites = {REPO / "patentrecht/Patentanmelder", REPO / "vergaberecht-werkstatt/testakten",
-              REPO / "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG"}
-    suites.update(plugin_source(plugin) / "testakten" for plugin in plugins)
-    separate_testakten = [
-        readme.parent for suite in suites for readme in suite.glob("*/README.md")
-        if readme.parent.name not in SKIP_TESTAKTEN and (readme.parent / "gesamt-pdf").is_dir()
-    ]
 
     return {
         "plugins": len(plugins),
         "skills": len(skill_files),
         "werkstatt": werkstatt,
         "schnellstart": schnellstart,
-        "central_testakten": len(central_testakten),
-        "testakten": len(central_testakten) + len(pluginlocal_testakten) + len(separate_testakten),
+        **zaehlung(REPO),
         "version": f"v{marketplace['version']}",
     }
 

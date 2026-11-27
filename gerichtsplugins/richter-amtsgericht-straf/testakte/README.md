@@ -2,6 +2,10 @@
 
 Aus Richtersicht. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen ist Zufall.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-amtsgericht-straf)
+<!-- END Aktenarbeit -->
+
 ## Kurzbeschreibung
 
 Strafsache vor dem Strafrichter am Amtsgericht. Die Staatsanwaltschaft klagt den Angeschuldigten Bruno Achterberg an, am 12.04.2026 ein hochwertiges Pedelec im Wert von 3.200 Euro aus einer Tiefgarage in Musterstadt entwendet zu haben (Diebstahl nach Paragraf 242 StGB, gegebenenfalls besonders schwerer Fall nach Paragraf 243 StGB). Die Beweislage ist streitig: Der Garagenwart Gerold Pohl will eine Person mit Kapuze gesehen haben, der Anwohner Heribert Sand hat den Vorgang mit einer privaten Überwachungskamera aufgenommen, an einem Bremshebel wurde eine DNA-Spur gesichert. Der Angeschuldigte bestreitet die Tat; die Verteidigung rügt die Verwertbarkeit der privaten Videoaufnahme. Strafrahmen des Paragraf 242 StGB: Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Verfahrensstand bei Aktenübernahme: Anklage erhoben, über die Eröffnung des Hauptverfahrens ist noch nicht entschieden.

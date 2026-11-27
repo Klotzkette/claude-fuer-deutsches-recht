@@ -2,6 +2,10 @@
 
 Lale Behr brachte 2022 einen Teil ihrer privaten Anteile an einer Softwarefirma in ihre Holding ein. Die Holding möchte jetzt nur einen Teil davon verkaufen. Der Käufer spricht von einem „24-Prozent-Einstieg“. In der Kanzlei sind ein Einlieferungsbeleg für eine alte Mail und ein Kaufvertragsentwurf eingegangen.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-konstanz-stimmenpaket)
+<!-- END Aktenarbeit -->
+
 Ordnen Sie Anteilstausch, Stimmrechte und Eigentumszeitpunkt ein. Erarbeiten Sie für die Verhandlung eine Betragsrechnung mit Jahresstufen, Beitragsnachweisen und belastbaren Annahmen. Welche Einbringung und wessen Steuererklärung muss bei einem Verkauf nochmals auf den Tisch?
 
 Öffnen Sie zuerst die Grundakte im Originalformat-ZIP. Die Nachreichungen und bearbeitbaren Vorlagen haben jeweils einen eigenen Ordner.

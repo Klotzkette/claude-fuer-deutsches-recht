@@ -2,6 +2,10 @@
 
 Aus staatsanwaltschaftlicher Sicht. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Firmen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen ist Zufall.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-staatsanwaltschaft-amtsanwaltschaft)
+<!-- END Aktenarbeit -->
+
 ## Kurzbeschreibung
 
 Strafrechtliches Ermittlungsverfahren der Staatsanwaltschaft Musterstadt gegen die Beschuldigte Hildegard Sauer wegen des Verdachts des gewerbsmäßigen Betrugs. Die Beschuldigte soll über den Online-Möbelshop der Edelholz Berlin GmbH hochwertige Massivholzmöbel gegen Vorkasse angeboten, die Kaufpreise vereinnahmt und die Ware nicht geliefert haben. Aktenkundig sind bislang vier geschädigte Besteller mit einem Gesamtschaden von rund 9.400 Euro; weitere Anzeigen sind angekündigt. Die Beschuldigte räumt den Zahlungseingang ein, beruft sich aber auf Lieferschwierigkeiten eines Zulieferers und auf fehlenden Vorsatz.

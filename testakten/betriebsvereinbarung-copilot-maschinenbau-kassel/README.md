@@ -1,5 +1,9 @@
 # Copilot im Maschinenbau – Pilotvereinbarung bei der Antriebswerk Fuldaaue GmbH, Kassel
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../docs/downloads/aktenarbeit/faelle-a-b.md#fall-betriebsvereinbarung-copilot-maschinenbau-kassel)
+<!-- END Aktenarbeit -->
+
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 

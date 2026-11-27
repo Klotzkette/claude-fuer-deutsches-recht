@@ -1,6 +1,8 @@
 # 1. Steuererklärung, Einspruch und Finanzgerichtsklage
 
-Bereite aus den vorhandenen Belegen die beauftragte Steuererklärung oder Anmeldung mit prüfbarer Wertüberleitung vor. Wenn ein Bescheid vorliegt, rekonstruiere, welche Einkünfte, Umsätze, Abzüge oder Haftungstatbestände das Finanzamt welchem Jahr zugeordnet hat und an welcher Stelle Erklärung, Bescheid oder Prüfungsrechnung voneinander abweichen. Prüfe die materielle Steuerfolge und den zulässigen Änderungsweg getrennt. Verfasse die beauftragte Berechnung, Stellungnahme, Einspruchsbegründung oder Klage; fehlende Belege gezielt klären und anschließend in die Endfassung einarbeiten.
+Bereite aus den vorhandenen Belegen die beauftragte Steuererklärung oder Anmeldung mit prüfbarer Wertüberleitung vor.
+
+Wenn ein Bescheid vorliegt, rekonstruiere, welche Einkünfte, Umsätze, Abzüge oder Haftungstatbestände das Finanzamt welchem Jahr zugeordnet hat und an welcher Stelle Erklärung, Bescheid oder Prüfungsrechnung voneinander abweichen. Prüfe die materielle Steuerfolge und den zulässigen Änderungsweg getrennt. Verfasse die beauftragte Berechnung, Stellungnahme, Einspruchsbegründung oder Klage; fehlende Belege gezielt klären und anschließend in die Endfassung einarbeiten.
 
 Für die Gegenkalkulation bei einer Schätzung nach Paragraf 162 AO ist BFH, Urteil vom 15.04.2026, Az. X R 14/24, Rn. 28 bis 33, einschlägig: Ein möglicher innerer Betriebsvergleich muss erkennbar erwogen werden. Benenne die übergangenen Betriebsdaten und rechne die Alternative nachvollziehbar durch. Der Methodenfehler lässt die gesondert zu prüfende Schätzungsbefugnis unberührt und begründet keinen Anspruch auf Nullzuschätzung. [Amtliche Entscheidung](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/).
 
@@ -15,6 +17,8 @@ Lies zuerst die vorhandenen Bescheide, Erklärungen, Rechenanlagen, Prüfungsber
 Wenn das Ziel offen ist, leite aus der Akte den naheliegenden Prüfbedarf ab und frage nur nach einer tatsächlich entscheidenden Wahl. Bei einem konkreten Dokumentenauftrag beginne dessen Bearbeitung unmittelbar. Fordere etwa eine Inventur zur Absatzermittlung oder einen Zugangsnachweis zur Fristberechnung an, nicht pauschal eine vollständige neue Akte.
 
 ## 2. Verfahren und dringenden Handlungsbedarf klären
+
+Erstelle für § 171 Abs. 5 Satz 1 AO eine Zeitleiste je Ermittlungsgegenstand. Halte fest, ab wann für den Steuerpflichtigen erkennbar war, dass die Fahndung gerade zu diesem Sachverhaltskomplex in seinen Steuerangelegenheiten ermittelt. Die Ablaufhemmung erfasst die auf den untersuchten Sachverhalt entfallenden Steuern. Der BFH gibt die im Urteil I R 25/01 vertretene Gegenauffassung ausdrücklich auf. [BFH, Urteil vom 19.08.2026 – X R 8/25, Leitsätze 1 und 2 · Amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610200/)
 
 ### 2.1. Bescheid, Bekanntgabe und Änderung
 
@@ -59,6 +63,8 @@ Bei möglichem Steuerstrafvorwurf kläre vor Tatsachenerklärungen Mandatsumfang
 Unklare Identität oder Vollmacht kann eine externe Handlung hindern, ohne jede interne Berechnung zu sperren. Keine Erklärung einreichen, Buchungsdaten verändern oder Schreiben versenden, solange die dafür erforderliche ausdrückliche Freigabe fehlt.
 
 ## 3. Die einschlägige Steuerfrage bearbeiten
+
+Bei Auslagerung einer Pensionszusage für einen beherrschenden Gesellschafter-Geschäftsführer kläre Zahlungsweg, Empfänger, bestehende Verpflichtung und Antrag nach § 4e Abs. 3 EStG. Erfasse die Steuerbefreiung der Übertragungsleistung auf Ebene des Berechtigten auch bei streitiger Einkunftsart. Die Entscheidung betrifft die Übertragung auf einen Pensionsfonds. Zahlung an den Berechtigten und spätere Versorgungsleistungen sind eigene Vorgänge. [BFH, Urteil vom 29.09.2026 – VIII R 19/24, Leitsatz und Entscheidungsgründe zu § 3 Nr. 66 EStG · Amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610219/)
 
 Wähle die zum Sachverhalt passenden Abschnitte. Sie sind keine Pflichtliste für jeden Auftrag und bestimmen nicht die Gliederung des Empfängertextes. Prüfe den materiellen Tatbestand in der maßgeblichen Jahresfassung, die Beleglage und die stärkste Gegenposition.
 

@@ -2,11 +2,12 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { promptEnabled, promptKinds, promptFormats, promptProfileErrors } from './prompt-profiles.mjs';
-import { createHash } from 'node:crypto';
+import { workshopReviews, reviewedWorkshop } from './werkstatt-edition.mjs';
 
 // Dateischutz für eigenständige Downloads; Skill- und Modellbudgets bleiben getrennt.
 import { promptLimits, miniWithinLimits } from './prompt-limits.mjs';
 const root = process.cwd();
+const workshopRecords = workshopReviews(root);
 const errors = [];
 const warnings = [];
 
@@ -289,14 +290,13 @@ for (const entry of plugins) {
     const profile = fs.existsSync(reviewPath) ? readJson(reviewPath) : null;
     const review = profile?.workshop_review;
     if (review != null) {
-      const hash = createHash('sha256').update(fs.readFileSync(werkstatt)).digest('hex');
       if (typeof review !== 'object' || Array.isArray(review)
           || !['revised', 'retained'].includes(review.verdict)
           || typeof review.reason !== 'string' || !review.reason.trim()
           || !Array.isArray(review.changes ?? [])
           || (review.changes ?? []).some(item => typeof item !== 'string' || !item.trim())
           || new Set(review.changes ?? []).size !== (review.changes ?? []).length
-          || review.sha256 !== hash) {
+          || !reviewedWorkshop(workshopRecords, rel(werkstatt), entry.name, fs.readFileSync(werkstatt), review.sha256)) {
         errors.push(`${rel(werkstatt)}: Werkstatt-Prüfung ungültig oder seit Prüfung verändert`);
       }
     }

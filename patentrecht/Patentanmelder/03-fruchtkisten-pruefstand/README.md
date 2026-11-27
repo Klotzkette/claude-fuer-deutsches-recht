@@ -4,6 +4,10 @@
 
 Ein Prüfstand soll schadhafte Kisten trotz driftender Beleuchtung aussortieren. Die Patentkoordination legt eine deutsche Prioritätsanmeldung, einen fehlerhaften europäischen Anspruchsentwurf und ein Laborjournal vor. Eine zweite Unterlage wurde zwischen dem Prioritätstag und der geplanten europäischen Einreichung öffentlich.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-patentanmelder-03-fruchtkisten-pruefstand)
+<!-- END Aktenarbeit -->
+
 ## Erste Bearbeitung
 
 Prüfen Sie E1 Wort für Wort, einschließlich Rückbezügen, Gegenstand, zeitlicher Aussage, Prioritätsstütze und technischer Ausführbarkeit. Führen Sie ein Streitgespräch mit Erfinderin, Versuchsfeld und Patentkoordination über das angezeigte Graufeld. Geben Sie jeder Merkmalskombination eine konkrete Fundstelle und einen möglichen wirksamen Zeitrang. Prüfen Sie D1 und D2 getrennt nach Datum und Inhalt. Erstellen Sie vor der Freigabe eine vollständige europäische Anmeldeschrift mit Ansprüchen, Beschreibung, Figurenangaben und Zusammenfassung. Nennen Sie ausstehende Freigaben, ohne eine Einreichung zu behaupten.

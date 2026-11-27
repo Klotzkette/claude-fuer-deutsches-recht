@@ -317,6 +317,7 @@ def validate_docx_pdf_fonts(path: Path) -> list[str]:
 
 def build(output: Path, font_dir: Path, xlsx_source: Path | None = None, docx_renderer: Path | None = None, qa_dir: Path | None = None) -> dict:
     from pypdf import PdfReader, PdfWriter
+    from aktenarbeit_einstiege import mit_verweisen
     from testakte_disclaimer import NOTICE_BYTES, NOTICE_MARKDOWN
 
     payload = json.loads(FIXTURE.read_text())
@@ -395,7 +396,7 @@ def build(output: Path, font_dir: Path, xlsx_source: Path | None = None, docx_re
         writer.write(stream)
     inventory = {"case": payload["case"]["title"], "source": "scripts/data/jugendmedien-wolkenwerft.json", "source_sha256": hashlib.sha256(FIXTURE.read_bytes()).hexdigest(), "original_count": len(originals), "grundakte_count": 25, "nachreichungen_count": 4, "vorlagen_count": 5, "pdf_documents": len(pdfs), "pages": page, "originals": [{"file": p.relative_to(output).as_posix(), "sha256": hashlib.sha256(p.read_bytes()).hexdigest(), "bytes": p.stat().st_size} for p in originals], "pdfs": pdf_inventory, "downloads": [{"file": p.relative_to(output).as_posix(), "sha256": hashlib.sha256(p.read_bytes()).hexdigest(), "bytes": p.stat().st_size} for p in (archive,total)]}
     (output / "bestand.json").write_text(json.dumps(inventory, ensure_ascii=False, indent=2)+"\n")
-    (output / "README.md").write_text(f"""# Wolkenwerft und das Browsergame Inselatlas
+    einstieg = f"""# Wolkenwerft und das Browsergame Inselatlas
 
 Die Akte beginnt am 18. November 2026 bei der Beratung einer Freiburger Spielefirma. Vor der öffentlichen Beta müssen widersprüchliche Altersangaben, geteilte Links, KI-Szenen, Gruppenkommunikation und organisatorische Lücken aus unterschiedlichen Unterlagen zusammengeführt werden. Eine fertige Lösung gehört nicht zur Akte.
 
@@ -413,7 +414,9 @@ Das ZIP enthält keine Gesamt-PDF und keine rechtliche Musterlösung. Die Lesefa
 Alle Personen, Unternehmen, Ereignisse und Kommunikationsadressen sind fiktiv. Das Aufsichtsschreiben ist ausdrücklich ein Übungsdokument und keine echte Behördenpost. Technische Kennungen sind keine Zugangsdaten zu realen Diensten. Eine Anfrage bei einer Selbstkontrolle ist im Fall noch keine Mitgliedschaft; 1,8 Millionen Seitenaufrufe sind noch keine ermittelte Zahl aktiver Empfänger.
 
 [Zum Plugin](../README.md) · [Dateibestand und Prüfsummen](bestand.json)
-""", encoding="utf-8")
+"""
+    seite = DEFAULT_OUTPUT.relative_to(ROOT) / "README.md"
+    (output / "README.md").write_text(mit_verweisen(einstieg, seite, ["jugendmedien-wolkenwerft"]), encoding="utf-8")
     return inventory
 
 

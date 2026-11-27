@@ -6,6 +6,7 @@ import os
 from pathlib import Path, PurePosixPath
 import re
 import subprocess
+from typing import Callable
 from urllib.parse import quote, unquote, urlsplit, urlunsplit
 from zipfile import ZIP_DEFLATED, ZipFile, ZipInfo
 
@@ -21,7 +22,9 @@ TOKENS = re.compile(
 )
 
 
-def render_readme(root: Path, directory: Path, members, commit: str | None, *, name: str = "README.md", release_tag: str | None = None) -> bytes | None:
+def render_readme(root: Path, directory: Path, members, commit: str | None, *,
+                  name: str = "README.md", release_tag: str | None = None,
+                  read_source: Callable[[Path], bytes] = Path.read_bytes) -> bytes | None:
     """Link shipped files locally. Omitted targets use a commit or an explicitly versioned release tag."""
     if release_tag is not None and (commit is not None or not re.fullmatch(r"[a-z][a-z0-9-]*-v[0-9]+\.[0-9]+\.[0-9]+", release_tag)):
         raise ValueError("Die Paketfassung benötigt einen eindeutigen, versionierten Release-Tag.")
@@ -68,7 +71,7 @@ def render_readme(root: Path, directory: Path, members, commit: str | None, *, n
         new = urlunsplit(("", "", new_path, parts.query, parts.fragment))
         return match["start"] + (f"<{new}>" if angle else new)
 
-    return TOKENS.sub(replace, readme.read_bytes().decode("utf-8")).encode("utf-8")
+    return TOKENS.sub(replace, read_source(readme).decode("utf-8")).encode("utf-8")
 
 
 def add_to_archive(archive_path: Path, root: Path, directory: Path, commit: str):

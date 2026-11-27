@@ -10,7 +10,7 @@ Diese Karte steuert konkrete Entscheidungen im Hauptworkflow. Quellenstand je An
 
 **Quellenstatus:** Vorheriger Prüfstand 2026-10-08; keine erneute Volltextprüfung am 18.11.2026. Im früheren Review dokumentierter Quellenstand; am 18.11.2026 für diese Workflowzuordnung gelesen, nicht erneut im Volltext verifiziert.
 
-## 2. [EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.](https://curia.europa.eu/jcms/jcms/p1_3865069/fr/)
+## 2. [EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.](https://curia.europa.eu/site/upload/docs/application/pdf/2022-11/cp220186de.pdf)
 
 **Arbeitsentscheidung:** Die Behoerde begruendet Geheimhaltungsbedarf je Aktenteil und erhaelt den streiterheblichen wesentlichen Informationsgehalt fuer den Rechtsschutz.
 

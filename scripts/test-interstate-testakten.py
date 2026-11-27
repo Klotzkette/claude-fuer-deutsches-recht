@@ -366,9 +366,10 @@ class InterstateLeistungsverzeichnisTests(unittest.TestCase):
 
 class InterstatePluginTests(unittest.TestCase):
     def test_installierbares_desktop_paket(self):
-        scope = ROOT / "scripts/data/qualitaetsrunde-v445.36.18-scope.json"
+        scope = ROOT / "scripts/data/qualitaetsrunde-v445.36.19-scope.json"
         edition = json.loads(scope.read_text())
         tag = edition["tag"]
+        role, = (item for item in edition["plugins"] if item["name"] == "vergabestelle-behoerden")
         with tempfile.TemporaryDirectory() as output:
             subprocess.run([sys.executable, str(ROOT / "scripts/build-skill-quality-release.py"),
                             "--scope", str(scope), "--dist", output], cwd=ROOT, check=True)
@@ -385,7 +386,7 @@ class InterstatePluginTests(unittest.TestCase):
                     self.assertEqual(package.read(member), path.read_bytes(), member)
                 readme = package.read("README.md").decode()
                 self.assertIn(f"/releases/download/{tag}/{name}", readme)
-                self.assertNotIn(f"/releases/download/{edition['plugins'][0]['previous_release']['tag']}/{name}", readme)
+                self.assertNotIn(f"/releases/download/{role['previous_release']['tag']}/{name}", readme)
                 self.assertEqual(json.loads(package.read(".claude-plugin/plugin.json"))["version"], edition["version"])
                 self.assertIn("(Interstate%20AG/README.md)", package.read("README.md").decode())
                 self.assertEqual(package.read("README.txt"), NOTICE_BYTES)

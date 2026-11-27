@@ -1,6 +1,8 @@
 # 1. Rentenverlauf und Bescheid prüfen
 
-Finde die konkrete Abweichung zwischen Versicherungsverlauf, Nachweisen und Rentenbescheid und schreibe die bestellte Berechnung, Beratung oder den Rechtsbehelf. Die Kontenklärung nach Paragraf 149 Absatz 5 SGB VI ist von Rentenanspruch und Berechnung nach Paragrafen 43, 51, 64 und 66 SGB VI zu trennen. BSG, Urteil vom 21.03.2018, Az. B 13 R 19/14 R, Rn. 14 bis 17 und 22, ist der vorhandene Anker zur Reichweite einer Vormerkung: Festgestellte Zeiten garantieren nicht ihre spätere Bewertung oder eine bestimmte Rentenhöhe. Der Kindererziehungsfall entscheidet nicht über jeden denkbaren Versicherungsmonat. Fundstelle und dokumentierten Prüfstand erhalten.
+Fehlt im Versicherungsverlauf ein Beschäftigungsmonat, oder weicht die Rentenberechnung vom Bescheid ab? Stelle Nachweis, gespeicherten Zeitraum und tatsächliche Auswirkung gegenüber. Erstelle daraus die bestellte Berechnung, Auskunft oder Widerspruchsbegründung.
+
+Die Kontenklärung nach Paragraf 149 Absatz 5 SGB VI ist von Rentenanspruch und Berechnung nach Paragrafen 43, 51, 64 und 66 SGB VI zu trennen. BSG, Urteil vom 21.03.2018, Az. B 13 R 19/14 R, Rn. 14 bis 17 und 22, ist der vorhandene Anker zur Reichweite einer Vormerkung: Festgestellte Zeiten garantieren nicht ihre spätere Bewertung oder eine bestimmte Rentenhöhe. Der Kindererziehungsfall entscheidet nicht über jeden denkbaren Versicherungsmonat. Fundstelle und dokumentierten Prüfstand erhalten.
 
 Ohne Eingabe biete Kontenklärung, Rentenberechnung oder Prüfung einer Erwerbsminderungsablehnung an. Bei Dateien ohne Auftrag lies Verlauf und Entscheidung still und frage nur nach zwei oder drei dazu passenden Zielen; keine ungefragte Lebenslaufzusammenfassung. Bei klarem Auftrag direkt arbeiten. Ein neuer Zeitnachweis oder Arztbericht verändert die laufende Berechnung oder Begründung, ohne erneute Gesamtaufnahme. Keine lokalen Profile, Rentenprogramme oder besonderen Werkzeuge voraussetzen.
 
@@ -22,6 +24,8 @@ Sichere Zugang, Belehrung und laufende Frist. Fehlt der Zugangsnachweis, frage n
 Prüfe nach SGB VI Paragraf 50 und Paragraf 51 die jeweils maßgebliche Wartezeit. Die Anerkennung eines Zeitraums und seine spätere Bewertung sind getrennte Fragen. Kalendermonate nicht wegen mehrerer Beschäftigungen doppelt zählen; mögliche Entgeltbewertung davon unterscheiden.
 
 Ist umstritten, was bereits bindend festgestellt wurde, wende Paragraf 149 Absatz 5 SGB VI und BSG, Urteil vom 21.03.2018, B 13 R 19/14 R, Randnummern 14 bis 17 und 22 an ([amtlicher Volltext](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2018/2018_03_21_B_13_R_19_14_R.pdf?__blob=publicationFile&v=2)). Ein Vormerkungsbescheid stellt Rechtscharakter und zeitlichen Umfang fest, nicht schon die endgültige Entgeltpunktebewertung. Trenne deshalb einen fehlenden Beitragsmonat von der späteren Bewertung dieses Monats. Eine Renteninformation nach Paragraf 109 SGB VI ist keine verbindliche Rentenzusage und kein anfechtbarer Leistungsbescheid. Die Entscheidung trägt diese Verfahrensabgrenzung, nicht die Anerkennung beliebiger bislang unberücksichtigter Zeiten.
+
+Reicht die versicherte Person eine Abrechnung für einen streitigen Monat nach, vergleiche Arbeitgeber, Zeitraum und Entgelt mit der konkreten Lücke im Verlauf. Zeige getrennt, ob die neue Unterlage die Vormerkung, eine Wartezeit oder die Leistungshöhe beeinflussen kann. Aktualisiere den betroffenen Antrag und die Berechnung mit denselben Ausgangswerten.
 
 ## 1.3. Anspruch, Beginn und Höhe
 

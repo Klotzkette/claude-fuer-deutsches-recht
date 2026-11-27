@@ -50,6 +50,35 @@ class CodexManifestAbgleich(unittest.TestCase):
         return subprocess.run([self.node, str(VALIDATOR)], cwd=self.root,
                               capture_output=True, text=True, timeout=15)
 
+    def test_werkstatt_mit_vorpruefung_bindet_auch_den_heutigen_text(self):
+        import hashlib
+        from werkstatt_edition import PROOF, previous
+        slug = 'aktenaufbereiter-strafrecht'
+        for file in self.root.rglob('*'):
+            if file.is_file():
+                file.write_text(file.read_text().replace(SLUG, slug))
+        plugin = self.plugin.rename(self.root / slug)
+        for kind in ('schnellstart', 'werkstatt'):
+            (plugin / f'{SLUG}-{kind}.md').rename(plugin / f'{slug}-{kind}.md')
+        relative = f'{slug}/{slug}-werkstatt.md'
+        content = (ROOT / relative).read_bytes()
+        target = self.root / relative
+        target.write_bytes(content)
+        archived = self.root / PROOF
+        archived.parent.mkdir(parents=True)
+        shutil.copyfile(ROOT / PROOF, archived)
+        profile = json.loads((ROOT / 'quality/evals' / f'{slug}.json').read_text())
+        self.schreiben(self.root / 'quality/evals' / f'{slug}.json', json.dumps(profile))
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        prior = previous(ROOT, relative, content, plugin=slug)
+        self.assertEqual(hashlib.sha256(prior).hexdigest(), profile['workshop_review']['sha256'])
+        for invalid in (prior, content + b'Zusatz'):
+            target.write_bytes(invalid)
+            result = self.pruefen()
+            self.assertEqual(result.returncode, 1)
+            self.assertIn('Werkstatt-Prüfung ungültig', result.stderr)
+
     def test_installationsbeispiele_nutzen_das_registrierte_plugin_und_den_marketplace(self):
         readme = self.plugin / 'README.md'
         original = readme.read_text()

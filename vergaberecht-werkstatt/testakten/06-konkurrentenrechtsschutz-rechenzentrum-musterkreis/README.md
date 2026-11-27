@@ -1,5 +1,9 @@
 # Testakte 06 - Konkurrentenrechtsschutz Rechenzentrum Musterkreis
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-t-z.md#fall-vergabewerkstatt-06-konkurrentenrechtsschutz-rechenzentrum-musterkreis)
+<!-- END Aktenarbeit -->
+
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.

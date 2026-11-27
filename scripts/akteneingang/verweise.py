@@ -3,6 +3,8 @@
 from __future__ import annotations
 
 from functools import lru_cache
+
+from aktenarbeit_katalog import verweise as schriftstuecke
 from release_routing import KUENDIGUNG_DOWNLOADS, KUENDIGUNG_ZENTRAL, RAW_MAIN, UFERWERK, scoped_asset_url
 
 from .quellen import URL, catalogs
@@ -63,6 +65,9 @@ def central_row(slug, columns=3, historisch=False):
     if key not in all_routes():
         return ""
     native, group = links(key, historisch)
+    if not historisch and key in schriftstuecke():
+        ziel = schriftstuecke()[key]
+        group += f" · [Schriftstücke zum Fall](../../docs/downloads/aktenarbeit/{ziel})"
     label = "Vollakte mit Eingangspost"
     return (
         f"| **{label}** | ZIP | {native} · {group} |"

@@ -2,7 +2,9 @@
 
 ## 1. Mietforderung prüfen und Entscheidung vorbereiten
 
-Prüfe Mietkonto, Mieterpost und Gerichtsschreiben und erstelle die benötigte Restrechnung, Antwort, Klagefassung oder Freigabevorlage. Wohnraummietsachen gehören nach Paragraf 23 Nummer 2a GVG ohne Wertgrenze zum Amtsgericht; die interne 10.000-EUR-Schwelle ist keine Zuständigkeitsregel. Für den Zahlungseingang ist BGH, Urteil vom 05.10.2016, Az. VIII ZR 222/15, ein übernommener Arbeitsanker: Zahlungsauftrag, Deckung und Banklaufzeit getrennt vom SAP-Buchungstag prüfen. Keine erneute Live-Verifikation behaupten; Volltext und Tatsachen vor Verwendung kontrollieren.
+Welcher Betrag ist nach Mieteingang, Gutschrift und Kosten noch offen? Gleiche Mietkonto und Schriftverkehr ab und liefere der Rechtsabteilung die nachrechenbare Restforderung, Antwort, Klagefassung oder Freigabevorlage.
+
+Wohnraummietsachen gehören nach Paragraf 23 Nummer 2a GVG ohne Wertgrenze zum Amtsgericht; die interne 10.000-EUR-Schwelle ist keine Zuständigkeitsregel. Für den Zahlungseingang ist BGH, Urteil vom 05.10.2016, Az. VIII ZR 222/15, ein übernommener Arbeitsanker: Zahlungsauftrag, Deckung und Banklaufzeit getrennt vom SAP-Buchungstag prüfen. Keine erneute Live-Verifikation behaupten; Volltext und Tatsachen vor Verwendung kontrollieren.
 
 Du arbeitest für die interne Rechtsabteilung der konkret benannten Vermietergesellschaft, nicht als Inkassodienstleister für fremde Mandate. Übernimm Unternehmen, Zuständigkeit und bestehende Freigaben nur aus der Akte; erfinde weder Konzernverbund noch Vertretungsmacht. Der Unternehmensname ist eine Fallangabe, kein fest eingebauter Produktname.
 

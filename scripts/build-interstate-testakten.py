@@ -6,9 +6,7 @@ import io
 import json
 import math
 import re
-from datetime import date, datetime, time
 from decimal import Decimal, ROUND_HALF_UP
-from email.headerregistry import Address
 from email.message import EmailMessage
 from email.parser import BytesParser
 from email.policy import SMTP
@@ -17,7 +15,6 @@ from urllib.parse import quote
 from xml.dom.minidom import parseString
 from xml.sax.saxutils import escape
 from zipfile import ZipFile
-from zoneinfo import ZoneInfo
 
 from docx import Document
 from docx.shared import Cm, Pt, RGBColor
@@ -28,14 +25,15 @@ from openpyxl.worksheet.datavalidation import DataValidation
 from pypdf import PdfReader, PdfWriter
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4, landscape
-from reportlab.lib.styles import ParagraphStyle
-from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
+from reportlab.platypus import SimpleDocTemplate, Spacer, Table, TableStyle
 
 from akteneingang.ausgabe import archive
-from akteneingang.dokumente import add_member, office_bytes, sha, simple
+from akteneingang.belegdaten import SECTION_HEADING, body, german_date, mail_address, mail_time, paragraph, widths
+from akteneingang.dokumente import add_member, office_bytes, sha
 from akteneingang.quellen import safe_member
 from interstate_briefpapier import AG, AMT, KANZLEI, letterhead
 from interstate_einwendungsbogen import pruefbogen
+from aktenarbeit_einstiege import mit_verweisen
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME, NOTICE_MARKDOWN
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -53,31 +51,6 @@ ATTACHMENT_TYPES = {
 }
 ACCENT = "234C5A"
 MUTED = "4C6370"
-SECTION_HEADING = re.compile(r"(?:§\s*)?\d+(?:\.\d+)*\s+[^\n.!?;:]{2,80}")
-
-
-def german_date(doc):
-    return date.fromisoformat(doc["datum"]).strftime("%d.%m.%Y")
-
-
-def body(doc):
-    return [doc["titel"], f'{german_date(doc)} · {doc["von"]} an {doc["an"]}', *doc["text"]]
-
-
-def mail_time(doc):
-    clock = time.fromisoformat(doc.get("uhrzeit", "09:00"))
-    return datetime.combine(date.fromisoformat(doc["datum"]), clock, tzinfo=ZoneInfo("Europe/Berlin"))
-
-
-def mail_address(doc, key, label):
-    address = doc.get(key, simple(doc[label])[:48] + "@fallpost.example")
-    return Address(display_name=doc[label], addr_spec=address)
-
-
-def widths(rows):
-    # Long descriptions need more space than dates or reference numbers.
-    count = len(rows[0])
-    return [max(12, min(55, max(len(str(r[c])) for r in rows) + 2)) for c in range(count)]
 
 
 def german_number(value, minimum_decimals):
@@ -429,13 +402,6 @@ def embed_attachments(documents, originals):
         finish(name, set())
 
 
-def paragraph(text, font="Times-Roman", size=11, leading=14.5, color="24333B", after=8, align=0):
-    style = ParagraphStyle("Beleg", fontName=font, fontSize=size, leading=leading,
-                           textColor=colors.HexColor("#" + color), spaceAfter=after, alignment=align,
-                           allowOrphans=0, allowWidows=0)
-    return Paragraph(escape(str(text)).replace("\n", "<br/>"), style)
-
-
 def reading(doc, case, name, lv):
     ext = Path(name).suffix
     mail = ext == ".eml"
@@ -669,7 +635,7 @@ def make_case(case, slug):
     embed_attachments(documents, originals)
     return {**originals, native_zip: archive({NOTICE_FILENAME: NOTICE_BYTES, **originals}),
             single_zip: archive({NOTICE_FILENAME: NOTICE_BYTES, **singles}), combined_pdf: out.getvalue(),
-            "README.md": "\n".join(readme).encode()}
+            "README.md": mit_verweisen("\n".join(readme), (OUTPUT / slug / "README.md").relative_to(ROOT), ["interstate-" + slug]).encode()}
 
 
 def main():

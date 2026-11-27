@@ -2,6 +2,10 @@
 
 Lina Mohr hat nach dem Tod ihrer Mutter für sich selbst ausgeschlagen. Für ihre elfjährige Tochter Mara bittet sie um einen Termin. Der Vater hat gemeinsames Sorgerecht und kennt bislang nur ein Handyfoto. Auf einer zweiten beschriebenen Seite steht Maras Name.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-notariat-erbausschlagung-kassel)
+<!-- END Aktenarbeit -->
+
 Bereiten Sie die Erstberatung beider Eltern vor. Legen Sie für jede Person fest, ab welchem belegten Ereignis eine Frist in Betracht kommt. Welche Unterlagen, Erklärungen und gegebenenfalls gerichtlichen Schritte braucht die Familie, und welche Handlung duldet keinen Aufschub?
 
 Öffnen Sie zuerst die Grundakte im Originalformat-ZIP. Die Nachreichungen und bearbeitbaren Vorlagen haben jeweils einen eigenen Ordner.

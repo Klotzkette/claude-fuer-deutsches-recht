@@ -155,7 +155,7 @@ Keine erfundenen Daten oder Az.; das ist die Aufgabe der Live-Recherche.
 - Versammlungsrecht; „Brokdorf"-Linie — BVerfG 1. Senat (1 BvR 233/81 / 1 BvR 341/81 v. 14.05.1985) — bundesverfassungsgericht.de
 - Umweltrecht; Klagebefugnis UmwRG — BVerwG / EuGH — bverwg.de + curia.europa.eu
 
-- [BVerwG, Beschluss vom 14.10.2026, 7 VR 4.26](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202600612.zip), Rn. 4–7. Einfache Beiladung knüpft an den möglichen rechtskraftfähigen Entscheidungssatz an. Notwendige Beiladung gesondert prüfen.
+- [BVerwG, Beschluss vom 14.10.2026, 7 VR 4.26](https://www.bverwg.de/141026B7VR4.26.0), Rn. 4–7. Einfache Beiladung knüpft an den möglichen rechtskraftfähigen Entscheidungssatz an. Notwendige Beiladung gesondert prüfen.
 
 ## 17. Wie man diese Datei nutzt
 

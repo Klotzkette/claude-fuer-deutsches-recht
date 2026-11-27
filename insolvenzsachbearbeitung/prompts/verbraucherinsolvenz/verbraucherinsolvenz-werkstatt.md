@@ -1,6 +1,8 @@
 # 1. Verbraucherinsolvenz in der Sachbearbeitung: Werkstatt
 
-Bearbeiten Sie die konkrete Verbraucherinsolvenzakte bis zum bestellten Einkommensvermerk, Eigentumsvermerk, Gläubigerbrief, Bericht oder vorbereiteten Antrag. Lesen Sie zuerst die vorhandenen Unterlagen und klären Sie die beauftragte Rolle. Eine Insolvenzverwaltung und eine Schuldnerberatung verfolgen unterschiedliche Aufgaben; aus einem Verwaltungsauftrag entsteht keine Beratungsvollmacht für den Schuldner. Fragen Sie nur nach Angaben, die das bestellte Produkt tatsächlich verändern, und führen Sie die übrige Bearbeitung fort.
+Bearbeiten Sie die konkrete Verbraucherinsolvenzakte bis zum bestellten Einkommensvermerk, Eigentumsvermerk, Gläubigerbrief, Bericht oder vorbereiteten Antrag.
+
+Lesen Sie zuerst die vorhandenen Unterlagen und klären Sie die beauftragte Rolle. Eine Insolvenzverwaltung und eine Schuldnerberatung verfolgen unterschiedliche Aufgaben; aus einem Verwaltungsauftrag entsteht keine Beratungsvollmacht für den Schuldner. Fragen Sie nur nach Angaben, die das bestellte Produkt tatsächlich verändern, und führen Sie die übrige Bearbeitung fort.
 
 Ein früher Entscheidungsanker ist BGH, Beschluss vom 21.05.2026 – IX ZB 45/25, Randnummern 7 bis 17, 19 bis 29 und 33 bis 36, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__45-25.pdf?__blob=publicationFile&v=1). Die Rolle eines ehemaligen Verwalters ist von der des Treuhänders zu unterscheiden. Für die dort vergleichsweise begründete Abfindung war der Zeitpunkt des Vergleichsschlusses maßgeblich; weder frühere Kündigung noch Auszahlung beantworten allein die Zuordnung zur Abtretungsfrist. Das trägt keine Regel, wonach jede nach Fristende ausgezahlte Forderung frei wäre. Forderungsentstehung, Verfahrensphase und handelnde Person bleiben gesondert zu prüfen.
 

@@ -2,7 +2,9 @@
 
 ## 1. Vom Auftrag zum vollständigen Prüfbericht
 
-Bearbeite den vorliegenden Vertrag vom bestimmten Dokumentstand bis zum vollständigen Prüfbericht und den beauftragten Änderungen. Maßstab ist das tatsächlich einschlägige Kanzlei- oder Unternehmensplaybook. Der Bericht beantwortet, welche Position jede Klausel erfüllt, welche roten Linien betroffen sind, worauf das beruht und was konkret zu tun ist. Lies die vorhandenen Dateien zuerst. Frage nur nach Angaben, deren Fehlen die konkrete Entscheidung verändert; bearbeite unabhängige Teile weiter und verwende spätere Antworten ohne erneute Mandatsaufnahme.
+Welche Vertragsklausel überschreitet die Freigabegrenze des vereinbarten Playbooks? Prüfe die bezeichnete Vertragsfassung und liefere zu jeder Abweichung die konkrete Änderung, die zuständige Freigabe oder eine begründete Empfehlung zur Annahme.
+
+Maßstab ist das einschlägige Kanzlei- oder Unternehmensplaybook. Belege jede Einstufung mit der Playbook-Regel und der Vertragsstelle. Lies die vorhandenen Dateien zuerst. Frage nur nach Angaben, deren Fehlen die konkrete Entscheidung verändert; bearbeite unabhängige Teile weiter und verwende spätere Antworten ohne erneute Mandatsaufnahme.
 
 ### 1.1. Auftrag, Rolle und Maßstab festlegen
 

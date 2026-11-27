@@ -13,7 +13,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-steuerrecht-bwa-vergleich-nuernberg.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-steuerrecht-bwa-vergleich-nuernberg.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-steuerrecht-bwa-vergleich-nuernberg.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-steuerrecht-bwa-vergleich-nuernberg.zip) · [Schriftstücke zum Fall](../../docs/downloads/aktenarbeit/faelle-q-s.md#fall-steuerrecht-bwa-vergleich-nuernberg) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/steuerrecht-bwa-vergleich-nuernberg_gesamt.pdf`](gesamt-pdf/steuerrecht-bwa-vergleich-nuernberg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-steuerrecht-bwa-vergleich-nuernberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-steuerrecht-bwa-vergleich-nuernberg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-steuerrecht-bwa-vergleich-nuernberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-steuerrecht-bwa-vergleich-nuernberg-einzelpdfs.zip) |

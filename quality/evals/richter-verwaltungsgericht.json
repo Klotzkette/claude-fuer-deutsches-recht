@@ -154,10 +154,12 @@
       },
       {
         "citation": "BVerwG, Beschluss vom 14.10.2026, 7 VR 4.26",
-        "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202600612.zip",
+        "url": "https://www.bverwg.de/141026B7VR4.26.0",
         "application": "Rn. 4–7: Bei einfacher Beiladung ist für die Berührung rechtlicher Interessen der mögliche rechtskraftfähige Entscheidungssatz maßgeblich.",
         "limit": "Bloße Vorfragen in den Gründen reichen allein nicht. Die notwendige Beiladung nach § 65 Abs. 2 VwGO gesondert prüfen.",
-        "checked_on": "2026-11-10"
+        "checked_on": "2026-11-10",
+        "previous_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202600612.zip",
+        "url_checked_on": "2026-11-27"
       }
     ],
     "remaining_limits": [

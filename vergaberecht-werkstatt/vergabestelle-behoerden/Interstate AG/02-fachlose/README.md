@@ -4,6 +4,10 @@
 
 Im Betriebshof Weidenstück der Deutschen Interstate AG, Niederlassung West, sollen beschädigte Betonflächen instand gesetzt, beanspruchte Flächen beschichtet und Sozialräume gestrichen werden. Die Bauabteilung möchte sämtliche Arbeiten mit einem Vertrag vergeben. Der Mengenplan weist Nord und Süd getrennt aus. Dürfen kleinere Firmen nur für die Beschichtung im südlichen Gebäudeteil anbieten? Die Vergabestelle erhält die ungezeichnete Bauvorlage am 9. November 2026. Es gibt weder eine Bekanntmachung noch einen Zuschlag. Betriebshof, Gesellschaft, Unternehmen und Vorgang sind erfunden.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-02-fachlose)
+<!-- END Aktenarbeit -->
+
 ## Arbeitsauftrag
 
 Sie beraten die Vergabestelle für die Sitzung am 12. November 2026. Prüfen Sie den Gesamtauftrag, die Aufteilung nach Gewerken, die örtlichen Teillose Nord und Süd und die Kombination beider Zuschnitte. Ordnen Sie die Positionen und die gemeinsame Baustelleneinrichtung eindeutig zu. Vergleichen Sie Zugang für Fachunternehmen, Übergaben, Zeit, Finanzierung und Gesamtauftragswert. Kontrollieren Sie, ob ein Bieter die Preisblätter einzeln ausfüllen und der Einkauf mehrere Zuschläge widerspruchsfrei erteilen könnte. Legen Sie einen entscheidungsfähigen Vergabevermerk mit Alternativen und offenen Freigaben vor. Formulieren Sie die Rückmeldung an die Bauabteilung und eine Antwort auf die Marktrückmeldungen.

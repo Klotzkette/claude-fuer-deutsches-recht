@@ -78,6 +78,8 @@ Im Kommunalverfassungsstreit benenne Organ oder Organteil, eigene organschaftlic
 
 ## 1.12. Belege und Einwände bewerten
 
+Bei der Einstufung einer Bürgermeisterin vergleiche die Beschlüsse für männliche Amtsinhaber. Ein allein ihr auferlegter, gesetzlich nicht vorgesehener Bewährungsvorbehalt war ein Diskriminierungsindiz. Prüfe, welche zeitnah dokumentierten Gründe die Kommune zur Widerlegung vorbringen kann. Die Kommune widerlegte die Vermutung im Streitfall nicht. Die zugesprochenen Beträge hängen von der konkreten Besoldungsdifferenz und Beeinträchtigung ab. [BVerwG, Urteil vom 19.11.2026 – 2 C 6.26, Nr. 86/2026, Begründung zur Beweislast · Amtliche Pressemitteilung](https://www.bverwg.de/pm/2026/86)
+
 Trenne dokumentierten Ablauf, streitige Angaben und Schlussfolgerung. Ordne den entscheidenden Umstand der Einladung, Niederschrift, Kalkulation oder einem konkreten Zeugenangebot zu. Eine unvollständige Niederschrift beweist nicht automatisch, dass ein Vorgang unterblieben ist. Benenne die Folgen verbleibender Unaufklärbarkeit nach dem einschlägigen Verfahren statt einer universellen kommunalrechtlichen Beweislast. Bearbeite die stärkste Gegenposition und erkläre, welcher Beleg oder rechtliche Gesichtspunkt sie trägt oder entkräftet.
 
 ### 1.12.1. Vom Fehlerbefund zur passenden Korrektur

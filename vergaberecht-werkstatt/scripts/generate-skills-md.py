@@ -21,8 +21,9 @@ import re
 import sys
 from pathlib import Path
 
+from public_release import mini_download
 from public_release import BLOB_BASE as GH_BLOB, RAW_BASE as GH_RAW, COMPONENT_RELEASE_BASE as GH_RELEASE
-from public_release import COMPONENT_RELEASE_TAG, with_working_downloads, plugin_download
+from public_release import COMPONENT_RELEASE_TAG, with_working_downloads, plugin_download, markdown_download
 from testakte_notices import with_case_warnings
 
 # Der Katalog verwendet die Textaufbereitung und deren Aktenfilter aus dem Hauptrepository.
@@ -162,7 +163,7 @@ def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
         profile = PLUGIN_PROFILES.get(name, {})
         zip_url = plugin_download(name)
         md_url = f"{GH_RELEASE}/{name}-skills-markdown.zip"
-        mini_url = f"{GH_RELEASE}/{name}-unified-mini-prompt.md"
+        mini_url = mini_download(name)
         detail = f"skills-index/{name}.md"
         readme = f"{name}/README.md"
         lines.append(
@@ -176,7 +177,7 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
     skills_dir = REPO_ROOT / name / "skills"
     plugin_zip = plugin_download(name)
     md_zip = f"{GH_RELEASE}/{name}-skills-markdown.zip"
-    mini_prompt = f"{GH_RELEASE}/{name}-unified-mini-prompt.md"
+    mini_prompt = mini_download(name)
     plugin_readme = f"{GH_BLOB}/{name}/README.md"
     profile = PLUGIN_PROFILES.get(name, {})
     root_prompt = profile.get("prompt")
@@ -210,9 +211,9 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
             "[Die acht Aufträge der Vergabestelle](../vergabestelle-behoerden/README.md#skills) · [Fachfragen nachschlagen](../vergabestelle-behoerden/FACHMODULE.md)", "",
         ]
     if root_prompt:
-        lines.append(f"| Vollworkflow-Arbeitsprompt | [{root_prompt}]({GH_RELEASE}/{root_prompt}) |")
+        lines.append(f"| Vollworkflow-Arbeitsprompt | [{root_prompt}]({markdown_download(root_prompt)}) |")
     if short_prompt:
-        lines.append(f"| Kurzprompt | [{short_prompt}]({GH_RELEASE}/{short_prompt}) |")
+        lines.append(f"| Kurzprompt | [{short_prompt}]({markdown_download(short_prompt)}) |")
     lines.extend([
         f"| Plugin-README im Repo | [{name}/README.md]({plugin_readme}) |",
         "",
@@ -281,7 +282,7 @@ def write_detail_index(plugins: list[tuple[str, list[str]]], version: str) -> st
             f"| {name} | {profile.get('rolle', 'Plugin')} | {len(skills)} | "
             f"[Detailseite](./{name}.md) | [README](../{name}/README.md) | "
             f"[Markdown-ZIP]({GH_RELEASE}/{name}-skills-markdown.zip) | "
-            f"[Mini-Prompt]({GH_RELEASE}/{name}-unified-mini-prompt.md) |"
+            f"[Mini-Prompt]({mini_download(name)}) |"
         )
     lines.append("")
     return "\n".join(lines)

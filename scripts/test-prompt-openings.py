@@ -8,6 +8,7 @@ import re
 import unittest
 
 from prompt_profiles import enabled
+from werkstatt_lesbarkeit import erster_absatz as opening_paragraph, weitere_werkstaetten
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -28,23 +29,17 @@ def published_prompts():
             path = ROOT / plugin["source"] / f"{slug}-{kind}.md"
             if enabled(slug, kind) and (kind == "schnellstart" or path.is_file()):
                 paths.add(path)
-    return sorted(paths)
+    return sorted(paths.union(weitere_werkstaetten()))
 
-
-def opening_paragraph(text):
-    """Ignore headings and comments, not tables or lists masquerading as prose."""
-    text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
-    for paragraph in re.split(r"\n\s*\n", text):
-        paragraph = paragraph.strip()
-        if paragraph and not paragraph.startswith("#"):
-            return paragraph
-    return ""
 
 
 class OpeningRegressionTests(unittest.TestCase):
     def test_inventory_includes_special_workshops(self):
         names = {path.name for path in published_prompts()}
         self.assertIn("betreuungsrecht-unterlagen-werkstatt.md", names)
+        self.assertIn("patentanmelder-anspruchswerkstatt.md", names)
+        for rolle in ("bieter", "konkurrenten", "vergabestelle"):
+            self.assertIn(f"vergaberecht-arbeitsprompt-{rolle}.md", names)
         self.assertIn("playbook-pruefer-hauptproblem.md", names)
         self.assertIn("130-kongruente-deckung.md", names)
         self.assertIn("139-fristen-und-antragsauswahl.md", names)

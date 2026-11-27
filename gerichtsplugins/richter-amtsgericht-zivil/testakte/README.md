@@ -2,6 +2,10 @@
 
 Aus Richtersicht. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen ist Zufall.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-amtsgericht-zivil)
+<!-- END Aktenarbeit -->
+
 ## Kurzbeschreibung
 
 Zivilrechtliche Schadensersatzklage nach einem Verkehrsunfall im Kreisverkehr. Klägerin Hildegard Sauer verlangt vom Beklagten Konrad Welp 3.500 Euro für Reparaturkosten und Auslagenpauschale. Streitig sind Unfallhergang und Verschuldensanteil; die Klägerin stützt sich auf die polizeiliche Unfallaufnahme, der Beklagte behauptet überhoehte Geschwindigkeit der Klägerin. Streitwert 3.500 Euro, sachliche Zuständigkeit des Amtsgerichts nach Paragraf 23 Nummer 1 GVG (bis 10.000 Euro). Verfahrensstand bei Aktenübernahme: Klage zugestellt, Klageerwiderung liegt vor, Termin steht aus.

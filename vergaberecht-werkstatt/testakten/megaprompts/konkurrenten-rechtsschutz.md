@@ -26,7 +26,7 @@ Der Satz ist ein vollständiger Auftrag. Sichtbare Angaben selbst auslesen, kein
 | Normenanker | § 127 GWB, § 31 VgV, § 60 VgV, §§ 123 bis 125, 135, 160, 165, 169 GWB; BVerfG 1 BvR 1160/03 |
 | Tatbestandswichtigkeiten | Preisautomatismus, technische Sperre, Lock-in, Register-/Referenzmangel, entscheidende Aktenstelle, Fristbeginn |
 | Darlegungs- und Beweislast | Konkurrent braucht Aktenfundstelle, Kausalität, Zuschlagschance, Frist, Geheimnisschutz und konkreten Antrag |
-| Quellenstatus | EuGH/BGH/BVerfG nur mit Gericht, Datum, Aktenzeichen, ECLI soweit vorhanden und tragender Aussage; C-268/25 nur Schlussanträge |
+| Quellenstatus | EuGH/BGH/BVerfG nur mit Gericht, Datum, Aktenzeichen, ECLI soweit vorhanden und tragender Aussage; EuGH C-268/25, ETS |
 | Rechtsfolge und Output | Rüge, VK-Antrag, Eilantrag, Akteneinsicht, neue Wertung, Ausschlussantrag, Kostenmemo |
 
 ## Rechtsprechungsfester Kern
@@ -254,7 +254,7 @@ Zuschlagssperre nicht nur behaupten: Zeitpunkt des § 134 GWB-Schreibens, Eingan
 | Änderung nach möglichem Vertragsende | EuGH C-820/24 Strominator: vollständige Leistung, endgültige Abnahme und Schlussrechnung belegen |
 | Sanktionsangriff | EuGH C-313/24 Opera Laboratori: konkrete Kontroll- oder Mittelumleitungsindizien statt Nationalitätsvortrag |
 | bußgeldbezogene Register-/Ausschlussfolge | EuGH C-590/24 AK Dlhopolec nur zur Sanktionsbemessung; Vergabeausschlussfragen waren unzulässig |
-| Bietergemeinschaft und Steuer-/Sozialabgabenproblem | GA Kokott C-268/25, nur Schlussanträge |
+| Bietergemeinschaft und Steuer-/Sozialabgabenproblem | EuGH C-268/25, ETS |
 | VK-Praxis der letzten zehn Jahre | einschlägige Referenz für Rügepräklusion, Substantiierung, Wertungsdokumentation, Preisaufklärung, Akteneinsicht und Rahmenvereinbarungen |
 
 #### Rechtsprechungsfeste Hauptarbeit
@@ -271,7 +271,7 @@ Jeder Konkurrentenangriff braucht Frist, Aktenbeleg, Norm, Rechtsprechungsanker,
 | System-/Portalbeweis | § 41, § 53 VgV, § 165 GWB; Instituto Cervantes nur Integritätsanker für EU-Eigenvergabe; OLG Düsseldorf Verg 47/18, Verg 34/20 und Verg 36/23 | Ist die Herkunft zulässig, das Original unverändert, der Tatsachenkern konkret und die fehlende interne Information als Akteneinsichtsziel benannt? | Beweiskette, Hash-/Transformationsmanifest, Gegenhypothese, Akteneinsichtsantrag und Anlagenpaket |
 | Direktauftrag/Exklusivität | §§ 135, 160 GWB; EuGH C-578/23 | Ist Alleinstellung durch frühere Verträge, Datenhaltung, Rechte oder Schnittstellen des Auftraggebers selbst geschaffen? | § 135-/Eilantragspfad mit Lock-in-Historie, Marktalternative und Frist |
 | Änderung nach Vertragsende | §§ 132, 135, 160 GWB; C-820/24 Strominator | Sind vollständige Leistung, endgültige Abnahme und Schlussrechnung belegt, sodass eine offene Zahlung die Laufzeit nicht verlängert? | Laufzeit-Beweismatrix und Unwirksamkeits-/Neuvergabeantrag |
-| Eignung/Ausschluss/Sanktion | §§ 123 bis 125 GWB; Vossloh; C-268/25 nur Schlussanträge; C-313/24 Opera Laboratori | Gibt es belastbare Hinweise zu Register, Selbstreinigung, BG-Mitglied, faktischer Kontrolle oder Mittelumleitung? | Akteneinsichtsziel, Beweismatrix und passende Ausschluss-/Neuwertungsfolge |
+| Eignung/Ausschluss/Sanktion | §§ 123 bis 125 GWB; Vossloh; EuGH C-268/25, ETS; C-313/24 Opera Laboratori | Gibt es belastbare Hinweise zu Register, Selbstreinigung, BG-Mitglied, faktischer Kontrolle oder Mittelumleitung? | Akteneinsichtsziel, Beweismatrix und passende Ausschluss-/Neuwertungsfolge |
 | Akteneinsicht/Schwärzung | § 165 GWB; EuGH C-54/21 Antea Polska, C-927/19 Klaipedos, C-450/06 Varec | Welche Information ist für Antragsbefugnis, Kausalität oder Zuschlagschance entscheidungserheblich? | Akteneinsichtsantrag mit Schwärzungsangriff und Begründungsersatz |
 
 #### Outputstandard
@@ -396,7 +396,7 @@ Alternativen: [maximal zwei]
 | Gegenangriff/Rechtsschutz | EuGH C-100/12 Fastweb, C-689/13 PFE, C-497/20 Randstad Italia |
 | Bestwertung statt Preisautomatismus | § 127 GWB, § 58 VgV; veröffentlichte Matrix oder konkrete Sonderregel; Mara allein trägt keinen Angriff |
 | Vertragsänderung | EuGH C-282/24 Polismyndigheten, C-452/23 Fastned Deutschland, C-461/20 Advania Sverige |
-| Bietergemeinschaft | GA Kokott C-268/25 nur als Schlussanträge |
+| Bietergemeinschaft | EuGH C-268/25, ETS |
 
 #### Rechtsprechungsfeste Angriffskarte
 
@@ -406,7 +406,7 @@ Alternativen: [maximal zwei]
 | Typ, Maß, Produkt, Material, Schnittstelle oder Format blockiert | § 31 VgV; Sof Medica; DYKA Plastics; Verg 2/24 | LV-Fundstelle, Unvermeidbarkeit, Anschluss-/Migrationsalternative, Gleichwertigkeitsangriff, Berichtigungsantrag |
 | Beweis liegt in Portal, Akteneinsicht oder Systemexport | § 41, § 53 VgV, § 165 GWB; Instituto Cervantes nur Integritätsanker für EU-Eigenvergabe; Verg 47/18, Verg 34/20, Verg 36/23 | Herkunftszone, Original-/Arbeitskopiehash, Tatsachenkern, Gegenhypothese, Akteneinsichtsziel, Anlagenpaket |
 | Direktauftrag, Interimsauftrag oder Lock-in | §§ 135, 160 GWB; C-578/23 | Frist, Exklusivität, Marktalternative, Eilantrag |
-| Konkurrent wirkt ungeeignet | §§ 123 bis 125 GWB; Vossloh Laeis; C-268/25 nur Schlussanträge | Akteneinsichtsziel, Beweisbedarf, Ausschlussantrag |
+| Konkurrent wirkt ungeeignet | §§ 123 bis 125 GWB; Vossloh Laeis; EuGH C-268/25, ETS | Akteneinsichtsziel, Beweisbedarf, Ausschlussantrag |
 | Akteneinsicht wird geschwärzt | § 165 GWB; Antea, Klaipedos, Varec | Schwärzungsangriff mit entscheidungserheblicher Information |
 
 #### Ergebnis
@@ -521,7 +521,7 @@ _Rüge eines Konkurrenten nach § 160 GWB vorbereiten: Kenntnis, Erkennbarkeit, 
 
 - Produkt-, Material- oder Formatvorgabe: EuGH, Urteil vom 16.01.2025, C-424/23, DYKA Plastics.
 - Verdeckte Direktvergabe oder technische Exklusivität: EuGH, Urteil vom 09.01.2025, C-578/23, Generální finanční ředitelství.
-- Bietergemeinschaft mit Steuer-/Sozialabgabenproblem: Schlussanträge GA Kokott vom 07.05.2026, C-268/25, nur als Schlussanträge.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 - Preisautomatismus: zuerst Abweichung von bekannt gemachten Kriterien oder konkrete Sonderregel benennen; EuGH C-769/23, Mara, schafft allein kein unionsweites Nur-Preis-Verbot. Niedrigpreisaufklärung nach § 60 VgV getrennt prüfen.
 - Rahmenvereinbarung, Konzession oder Auftragnehmerwechsel: EuGH C-282/24, Polismyndigheten; EuGH C-452/23, Fastned Deutschland; EuGH C-461/20, Advania Sverige.
 - Gegenangriff gegen eigenen Ausschluss: EuGH C-100/12, Fastweb, EuGH C-689/13, PFE, und EuGH C-497/20, Randstad Italia, als Rechtsschutzanker prüfen.
@@ -951,7 +951,7 @@ _Eignung, Referenzen, Ausschlussgründe, Selbstreinigung und Nachweise des Zusch
 
 Öffentliche Quellen nur als Anknüpfungstatsachen verwenden. Entscheidend sind Vergabeakte, Eignungsnachweise und Akteneinsicht. Keine pauschale Behauptung, sondern konkrete Mindestanforderung gegen bekannte Konkurrenteninformation stellen.
 
-Schlussanträge GA Kokott vom 07.05.2026, Rs. C-268/25, ECLI:EU:C:2026:382, nur als Schlussanträge einsetzen: kein Ausschlussautomatismus der gesamten Bietergemeinschaft, aber Angriff möglich, wenn die Vergabestelle Sorgfaltspflicht, Zurechnung oder materielle Angebotsänderung nicht tragfähig geprüft hat.
+EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bei bestandskräftig festgestellten Steuer- oder Beitragsrückständen eines Mitglieds ermittle den Fristablauf, die Zahlung oder Zahlungsvereinbarung sowie den Zeitpunkt, zu dem die Gruppe vom Ausschlussgrund erfuhr. Eine nachträgliche Zahlung heilt den Ausschlussgrund des Mitglieds grundsätzlich nicht. Bei erst nach Fristablauf erlangter Kenntnis muss der Auftraggeber das Ausscheiden oder Ersetzen des Mitglieds im Einzelfall prüfen können.
 
 EuGH, Urteil vom 12.02.2026, C-313/24, Opera Laboratori Fiorentini, ECLI:EU:C:2026:91, sperrt einen bloßen Nationalitätsautomatismus. Ein Sanktionsangriff braucht greifbare Tatsachen dafür, dass der Zuschlagsprätendent im Namen oder auf Anweisung einer erfassten Organisation handelt, faktisch kontrolliert wird oder eine plausible Mittelumleitung droht. Antrag auf Akteneinsicht deshalb auf Beteiligungs-, Kontroll- und Zahlungsflussunterlagen zuschneiden.
 

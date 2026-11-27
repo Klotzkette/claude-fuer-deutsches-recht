@@ -2,6 +2,10 @@
 
 Bei Brenztal Hubtechnik reparieren zwölf Menschen industrielle Greifer. In der Werkhalle ist eine Kranbahn einbetoniert. Inhaberin Ida Benning will den Betrieb als Sacheinlage in ihre GmbH geben. Die Halle heißt im Familienkreis seit Jahren „unser Privatbau“. Auf dem Schreibtisch liegen zwei unterschiedliche Übergabelisten.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-heidenheim-kranhalle)
+<!-- END Aktenarbeit -->
+
 Erstellen Sie für Ida Benning eine nachvollziehbare Entscheidungsvorlage für die Besprechung vor der Beurkundung. Trennen Sie die Fassungen mit und ohne Hallenübertragung, ordnen Sie die Bankauflagen ein und entwerfen Sie die noch benötigten Anfragen und den passenden Antrag als Arbeitsfassung.
 
 Öffnen Sie zuerst die Grundakte im Originalformat-ZIP. Die Nachreichungen und bearbeitbaren Vorlagen haben jeweils einen eigenen Ordner.

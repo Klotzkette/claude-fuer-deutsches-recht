@@ -4,6 +4,10 @@
 
 Für das Widerlager der Schieferbachbrücke fehlte eine freigegebene Bewehrungszeichnung. Die Steinbogen Ingenieurbau GmbH verlangt 13.787,00 Euro. Ihr Terminplan sieht einen Kran und drei Fachkräfte am Widerlager vor. Im Bautagebuch tauchen dieselben Ressourcen an anderer Stelle auf. Die Niederlassung West begleitet als Auftraggeberin einen laufenden Zivilprozess.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-05-baustreit)
+<!-- END Aktenarbeit -->
+
 ## Arbeitsauftrag
 
 Bereiten Sie für die Prozessvertretung der Deutschen Interstate AG die Klageerwiderung und eine Entscheidungsvorlage für die Projektleitung vor. Stellen Sie den vorgesehenen Ablauf dem belegbaren Ablauf jeder Schicht gegenüber. Arbeiten Sie heraus, welche Mitwirkung geschuldet war, wann die Auftragnehmerin leistungsbereit war und welche Positionen durch welche Ursache entstanden sein können. Beziffern Sie die vertretbaren Betragsvarianten, ordnen Sie den Beweisangeboten konkrete Tatsachen zu und halten Sie die gerichtliche Frist fest.

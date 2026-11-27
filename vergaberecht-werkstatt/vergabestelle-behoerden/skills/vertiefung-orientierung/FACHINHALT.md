@@ -91,7 +91,7 @@ Prüfe § 132 Abs. 1 bis 3 GWB mit ursprünglichem Vertrag, Nachträgen, kumulie
 
 - Gesetze und Verordnungen aus amtlicher aktueller Einzelnorm; Übergang und Inkrafttreten festhalten.
 - Rechtsprechung mit Gericht, Entscheidungsart, Datum, Aktenzeichen, ECLI soweit vorhanden und tragender Aussage.
-- Schlussanträge als Schlussanträge kennzeichnen; C-268/25 nicht als EuGH-Urteil ausgeben.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 - Vergabekammerentscheidungen als Praxisanker, nicht als bundesweit bindende Rechtssätze behandeln.
 - Gegenprobe aus Sicht eines fachkundigen Bieters: Transparenz, Gleichbehandlung, Auftragsbezug, Verhältnismäßigkeit, Dokumentation und Kausalität.
 

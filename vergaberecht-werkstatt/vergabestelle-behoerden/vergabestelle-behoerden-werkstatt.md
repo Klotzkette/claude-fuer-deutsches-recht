@@ -2,11 +2,15 @@
 
 ## 1. Vergabeunterlagen erstellen und das Verfahren führen
 
-Erarbeite für den öffentlichen Auftraggeber das konkret benötigte Leistungsverzeichnis, die Zuschlagsmatrix, den Wertungsvermerk oder die Rügeerwiderung. Verbinde Bedarf und Budget mit dem richtigen Vergaberegime und den veröffentlichten Kriterien. Die Entscheidung muss aus den Belegen nachvollziehbar sein und dem wirtschaftlichsten Angebot nach Paragraf 127 GWB dienen.
+Die Fachabteilung bittet um Freigabe. Tragen Akte, Leistungsverzeichnis und veröffentlichte Kriterien die beabsichtigte Entscheidung? Erstelle für die Vergabestelle das benötigte Leistungsverzeichnis, die Zuschlagsmatrix, den Wertungsvermerk oder die Rügeerwiderung.
+
+Verbinde Bedarf und Budget mit dem richtigen Vergaberegime und den veröffentlichten Kriterien. Die Entscheidung muss aus den Belegen nachvollziehbar sein und dem wirtschaftlichsten Angebot nach Paragraf 127 GWB dienen.
 
 Bei auffällig niedrigem Preis verlangt BGH, Beschluss vom 31.01.2017, X ZB 10/16, amtlicher Leitsatz, eine nähere Prüfung der Preisbildung. Wende Paragraf 60 VgV an: Auffälligkeit belegen, Kalkulation aufklären und erst danach die Wertungsfolge begründen. Ein Preisabstand ist kein automatischer Ausschlussgrund; das Urteil legt keine starre Prozentgrenze fest. Den Anker nur für Preisaufklärung verwenden, nicht als Rechtfertigung beliebiger Kriterienänderungen.
 
 Lies vorhandene Bekanntmachung, Vergabeunterlagen und Korrespondenz zunächst intern. Fehlt ein Auftrag, kläre, ob Unterlagen erstellt, Angebote bewertet oder eine Rüge beantwortet werden sollen. Frage nur nach Tatsachen, die den nächsten Verfahrensschritt verändern. Antworten fließen in denselben Entwurf ein; unabhängige Arbeiten laufen weiter.
+
+Lies zuerst die E-Mail mit dem Prüfauftrag. Welchen Entwurf möchte die Fachabteilung bis wann freigeben lassen? Steht eine Gesamtvergabe im Raum, ordne die LV-Positionen möglichen Teil- und Fachlosen zu. Prüfe die angeführten technischen oder wirtschaftlichen Gründe an Mengen, Schnittstellen und Terminplan. Kommt eine Bieterrüge hinzu, stelle für jeden Einwand Rügetext, veröffentlichten Stand, Eingangszeit und Abhilfeoption gegenüber. Gib der Vergabestelle die entscheidungsfähige Fassung des Vermerks oder der Antwort zurück.
 
 ## 2. Den nächsten Verfahrensschritt bestimmen
 
@@ -211,7 +215,7 @@ Justiziariat oder externe Kanzlei einschalten bei:
 - Wertung/Ausschluss/Selbstreinigung: EuGH C-769/23 Mara nur zur nationalen Nur-Preis-Regel; EuGH C-210/24 AESTE für ein enges Sozialkriterium; EuGH C-313/24 Opera Laboratori für faktische Sanktionskontrolle; EuGH C-124/17 Vossloh Laeis; EuGH C-66/22 Infraestruturas de Portugal und Futrifer; BGH X ZB 10/16.
 - Akteneinsicht/Geheimnisse: EuGH C-54/21 Antea Polska; EuGH C-450/06 Varec.
 - Vertragsänderung/Insolvenz: EuGH C-454/06 pressetext; EuGH C-461/20 Advania Sverige; EuGH C-452/23 Fastned Deutschland; EuGH C-282/24 Polismyndigheten; EuGH C-820/24 Strominator zum Ende der Vertragslaufzeit.
-- Bietergemeinschaft: Schlussanträge GA Kokott 07.05.2026 C-268/25, ECLI:EU:C:2026:382; kein EuGH-Urteil, Einzelfallprüfung.
+- Bietergemeinschaft und Steuer- oder Beitragsrückstand. Prüfe beim Steuer- oder Beitragsrückstand eines Mitglieds einer Bietergemeinschaft die bestandskräftige Feststellung, Teilnahmefrist, Zahlung oder verbindliche Zahlungsvereinbarung sowie den Zeitpunkt der Kenntnis der Gruppe. Erfährt die Gruppe erst nach der Frist vom Ausschlussgrund, muss der Auftraggeber im Einzelfall prüfen können, ob das betroffene Mitglied ausscheiden oder ersetzt werden darf. Eine Zahlung nach Fristablauf heilt den zwingenden Ausschlussgrund des einzelnen Mitglieds grundsätzlich nicht. Die Ausnahmen des Art. 57 Abs. 3 RL 2014/24/EU und den möglichen Fortbestand der Gruppe getrennt prüfen. [EuGH, Urteil vom 12.11.2026, C-268/25, ETS u. a., Rn. 79 und Tenor, ECLI:EU:C:2026:977](https://juris.curia.europa.eu/juris/document/document.jsf?docid=316916&doclang=DE)
 - Aufhebung/Schadensersatz: BGH XIII ZR 19/19.
 
 ## 16. Ausformulierungspflicht

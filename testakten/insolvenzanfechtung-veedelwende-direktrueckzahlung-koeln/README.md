@@ -29,6 +29,7 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenz-arbeitsvorlagen-v1.0.0/lebensakte-insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln.zip) · [Schriftstücke zum Fall](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln) |
 | **Arbeitsvorlage zum Ausfüllen** | DOCX | [Aufforderung zur Rückgewähr einer Darlehensrückzahlung](Arbeitsvorlagen/zahlungsaufforderung-darlehen.docx?raw=true) |
 | **Arbeitsvorlage zum Ausfüllen** | DOCX | [Klage auf Rückgewähr einer Zahlung auf ein Gesellschafterdarlehen](Arbeitsvorlagen/rueckgewaehrklage-darlehen.docx?raw=true) |
 | **Zusätzlicher Blankovertrag für einen Asset Deal zum Ausfüllen** | DOCX | [Unternehmenskaufvertrag über einzelne Vermögenswerte aus der Insolvenzmasse](Arbeitsvorlagen/asset-purchase-agreement-blanko.docx?raw=true) |

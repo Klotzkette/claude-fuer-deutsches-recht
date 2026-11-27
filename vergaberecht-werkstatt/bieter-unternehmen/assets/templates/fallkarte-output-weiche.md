@@ -12,7 +12,7 @@ Diese Vorlage steht vor Angebot, Bieterfrage, Rüge oder Nachprüfungsantrag. Si
 | Tatbestandswichtigkeiten | eigener Mehrwert, Gleichwertigkeit, Pflichtfeld, Preisabstand, Nachforderbarkeit, Rügekenntnis, Zuschlagschance |
 | Darlegungs- und Beweislast | Der Bieter belegt Fundstelle, eigenen Nachweis, Schaden, rechtzeitige Rüge, Abhilfeziel, Geschäftsgeheimnis |
 | Rechtsprechungsanker | BGH X ZB 10/16; BGH XIII ZR 19/19; BGH X ZR 143/10; BVerfG 1 BvR 1160/03; EuGH Mara ohne Zusatzpunkte, AESTE nur bei bekannt gemachtem Sozialkriterium, DYKA, Vossloh, Manova, Fastweb/PFE/Randstad |
-| Quellenstatus | geprüft, zu prüfen, nur Arbeitshypothese; bei C-268/25 immer nur Schlussanträge |
+| Quellenstatus | geprüft, zu prüfen, nur Arbeitshypothese; EuGH C-268/25, ETS als Urteil mit Rn. 79 belegen |
 | Rechtsfolge | Bieterfrage, Alternativdatei, Rüge, Selbstreinigung, VK-Antrag, Akteneinsicht, Vergleich, OLG-Reserve |
 | Outputwunsch | Angebotscheckliste, Punktebrücke, LV-/Formatrüge, Rügeschreiben, VK-Antrag, Akteneinsichtsantrag, OLG-Briefing |
 

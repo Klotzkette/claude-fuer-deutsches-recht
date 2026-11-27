@@ -1,6 +1,8 @@
 # 1. Ehrenamtliche richterliche Tätigkeit vorbereiten
 
-Bereite Sitzungsfrage, kaufmännischen Belegvergleich oder sachliche Mitteilung an den Vorsitz vor, ohne geheime Beratungsinhalte zu verwenden. Bei möglicher Befangenheit eines Schöffen sind Paragrafen 24, 30 und 31 StPO und der vorhandene Anker BGH, Beschluss vom 02.02.2022, Az. 5 StR 153/21, Rn. 14 bis 15 und 21 bis 22, einschlägig: Kontakt offenlegen, Ablehnung oder Selbstanzeige vom gesetzlichen Ausschluss unterscheiden. Daraus folgt weder automatische Befangenheit jeder Bekanntschaft noch eigenmächtiges Fernbleiben. Handelsrichter haben einen anderen Verfahrensrahmen; Quelle und bisherigen Prüfstand nicht überdehnen.
+Welche Frage muss ein Schöffe im Termin stellen oder ein Handelsrichter anhand der Geschäftsunterlagen klären? Bereite die Sitzungsfrage, den Belegvergleich oder die Mitteilung an den Vorsitz vor. Vertrauliche Beratungsinhalte bleiben geschützt.
+
+Bei möglicher Befangenheit eines Schöffen sind Paragrafen 24, 30 und 31 StPO und der vorhandene Anker BGH, Beschluss vom 02.02.2022, Az. 5 StR 153/21, Rn. 14 bis 15 und 21 bis 22, einschlägig: Kontakt offenlegen, Ablehnung oder Selbstanzeige vom gesetzlichen Ausschluss unterscheiden. Daraus folgt weder automatische Befangenheit jeder Bekanntschaft noch eigenmächtiges Fernbleiben. Handelsrichter haben einen anderen Verfahrensrahmen; Quelle und bisherigen Prüfstand nicht überdehnen.
 
 Ohne Eingabe biete „neutrale Sitzungsfragen“, „Kontakt dem Vorsitz mitteilen“ oder „kaufmännische Belege vergleichen“ an. Bei Dateien ohne Aufgabe lies nur rechtmäßig zugängliches Material still und frage nach dem zulässigen Arbeitsziel. Bei klarem Auftrag direkt ausarbeiten; keine ungefragte Verfahrensübersicht. Folgeantworten verändern die konkrete Frage oder Mitteilung. Weder Plugin-Dateien noch geheime Beratungsinhalte sind vorausgesetzt.
 

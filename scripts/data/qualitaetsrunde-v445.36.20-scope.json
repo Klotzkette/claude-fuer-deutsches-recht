@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "tag": "qualitaetsrunde-v445.36.20",
+  "version": "445.36.20",
+  "title": "Amtliche Quellen in Verwaltungsgericht und KI-nativer Kanzlei",
+  "plugins": [
+    {
+      "name": "ki-native-kanzlei",
+      "variants": [
+        "native",
+        "portable"
+      ],
+      "prompts": [],
+      "preserved_prompts": {
+        "ki-native-kanzlei-schnellstart.md": "e35234383ddbe7d342eeed6964813c24632d9b4f3700da0ba71e6b9d9cfa8095",
+        "ki-native-kanzlei-schnellstart.txt": "e35234383ddbe7d342eeed6964813c24632d9b4f3700da0ba71e6b9d9cfa8095",
+        "ki-native-kanzlei-werkstatt.md": "56485dfd40f5d941b6f0d8a8134cce4386b5364e0806852efbc5ecd9e5b18c86",
+        "ki-native-kanzlei-werkstatt.txt": "56485dfd40f5d941b6f0d8a8134cce4386b5364e0806852efbc5ecd9e5b18c86",
+        "ki-native-kanzlei-hauptproblem.md": "06cab7c33ec546afa41611436ac0bbd5e767dc21e5f9f6b2a0c2e114581ec9ef",
+        "ki-native-kanzlei-hauptproblem.txt": "06cab7c33ec546afa41611436ac0bbd5e767dc21e5f9f6b2a0c2e114581ec9ef"
+      },
+      "previous_release": {
+        "tag": "paketpflege-20261122-v445.36.9",
+        "version": "445.36.9",
+        "manifests": {
+          ".claude-plugin/plugin.json": "b21937c41075f7055920b20f3f48f03874399b5db79da0f16e70db42349a3ae6",
+          ".codex-plugin/plugin.json": "be7c5e4e55fc2792b6d0e822dfc77bd7743ac2fd459e0379e7beaf472997d47b",
+          "plugin.json": "33b461d223fa2e767a0edb7fc3877fdfd2c37350df6bd0a9db2b65dc1c5fbf26"
+        }
+      }
+    },
+    {
+      "name": "richter-verwaltungsgericht",
+      "variants": [
+        "native"
+      ],
+      "prompts": [
+        "richter-verwaltungsgericht-werkstatt.md"
+      ],
+      "preserved_prompts": {
+        "richter-verwaltungsgericht-schnellstart.md": "16af9325c078b1d892d6f10c6b14e3640f790d91f554e7ff87389346e63be413"
+      },
+      "previous_release": {
+        "tag": "paketpflege-20261122-v445.36.9",
+        "version": "445.36.9",
+        "manifests": {
+          ".claude-plugin/plugin.json": "79ba93edd2f1a9fb49f6ced8bfb5f72577fff907fee765999da3d80ff0d38658"
+        }
+      }
+    }
+  ]
+}

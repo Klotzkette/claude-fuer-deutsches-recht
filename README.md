@@ -49,10 +49,12 @@ Für ChatGPT findest du den passenden Einstieg unter [Workspace, Desktop-App und
 | **Skills** | 3179 | Arbeitsabläufe für einzelne Aufgaben | [Alle Skills](./SKILLS.md) · [Einzeldownloads je Plugin](./skills-index/) |
 | **Werkstatt-Prompts** | 312 | Ausführliche Anweisungen für mehrstufige Vorgänge | [Werkstatt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | **Schnellstart-/Mini-Prompts** | 311 | Kurze Anweisungen für den Einstieg im Chat | [Mini-Prompt auswählen](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 634 zentral / 676 gesamt | Übungsfälle mit Arbeitsaufträgen und Unterlagen | [Zentrale Sammlung](./testakten/README.md#verfügbare-akten) · [Akten einzelner Plugins](#testakten) |
+| **Testakten** | 634 zentral / 711 gesamt | Einzeln bearbeitbare Akten im zentralen Register, in Fachplugins, Projekten und Workshops | [Zentrale Sammlung](./testakten/README.md#verfügbare-akten) · [Akten einzelner Plugins](#testakten) |
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
 
 Die Prompt-Register zählen die Hauptdateien je Plugin. Zusätzliche Werkstätten gibt es unter anderem für die [neun HOAI-Leistungsphasen](./docs/bauwirtschaft-hoai-phasen.md) und die [Insolvenzanfechtung](./insolvenzanfechtung/werkstattprompts/README.md). Die [Hauptskills](./skills-index/README.md#hauptskills) führen durch einen ganzen Vorgang. Der [Werkstatt-Leitfaden](./docs/werkstatt-visualisierung.md) zeigt, wie sich Belege und Varianten bis zum Entwurf verfolgen lassen.
+
+Wie die Texte in den Fall einsteigen, welche Entscheidungen sie abfragen und wo Quellen offenbleiben, zeigt die [Prüfung der Werkstattprompts](./quality/source-audits/2026-11-27-werkstatt/lesbarkeit.md).
 
 <details>
 <summary>Weitere Werkstatt-Dateien</summary>
@@ -76,6 +78,8 @@ Werkstätten für [Betreuungsunterlagen](https://klotzkette.github.io/claude-fue
 [Alle Fachanwaltsprofile](./_FACHANWALTSCHAFTS-PLUGINS/README.md) · [Plugin-Gruppen](./plugin-gruppen/README.md) · [Rechtsgebiete, Paketversionen und Skillzahlen](./references/rechtsgebiete-uebersicht.md) · [Klotzkettes kuratierte juristische Promptliste](./PROMPTLISTE.md)
 
 ## Testakten
+
+Wähle im [Verzeichnis der Schriftstücke](./docs/downloads/aktenarbeit/README.md) eine Akte. Dort findest du etwa E-Mails, Briefe oder Gesprächsprotokolle und jeweils einen Arbeitsvermerk. Öffne die Word-Fassung zum Bearbeiten oder das PDF zum Lesen und Drucken. Der Aktenname führt zu den Ausgangsunterlagen.
 
 Die [zentrale Sammlung](./testakten/README.md) lässt sich [nach Rechtsgebiet](./testakten/README.md#2-testakten-nach-thema-finden) durchsuchen. Jede Fallseite beschreibt den Sachverhalt, den Arbeitsauftrag und die verfügbaren Fassungen. Wähle pro Fall eine Fassung, damit Belege bei der Auswertung nur einmal gezählt werden.
 
@@ -119,7 +123,7 @@ Verfügbarkeit, Dateizugriff, Quellenzugänge und der Export von DOCX, PDF oder 
 | --- | --- |
 | **Plugins** | 314 |
 | **Skills (SKILL.md)** | 3179 im Quellbestand |
-| **Testakten** | 634 zentral / 676 gesamt |
+| **Testakten** | 634 zentral / 711 gesamt |
 | **Fachanwaltsprofile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v445.35.3` als Basisversion des [Marketplace-Manifests](./.claude-plugin/marketplace.json). Die [Fachübersicht](./references/rechtsgebiete-uebersicht.md) nennt die jeweilige Version jedes Plugins. |
 
@@ -182,7 +186,7 @@ Für Studium und Referendariat eignen sich die Beispielakten, Relationen und Urt
 
 ## Qualität und Mitwirkung
 
-Das [Qualitätslabor](./QUALITY.md) dokumentiert Bestandsprüfungen, Quellenabgleiche und Modelltests mit ihrer jeweiligen Reichweite. [Rechtsprechungsprüfung der Werkstatt-Prompts](./quality/source-audits/2026-10-31-werkstatt/README.md) · [Vergleichsmethodik und Herkunft](./quality/upstream-legal/2026-11-16/README.md)
+Das [Qualitätslabor](./QUALITY.md) dokumentiert Bestandsprüfungen, Quellenabgleiche und Modelltests mit ihrer jeweiligen Reichweite. [Quellenabgleich der Werkstattprompts](./quality/source-audits/2026-11-27-werkstatt/README.md) · [Vergleichsmethodik und Herkunft](./quality/upstream-legal/2026-11-16/README.md)
 
 <a id="bitte-mit-testen-und-feedback-geben"></a>
 

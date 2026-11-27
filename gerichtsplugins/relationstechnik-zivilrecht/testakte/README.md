@@ -2,6 +2,10 @@
 
 Aus Richtersicht, Relationstechnik. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Firmen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen oder Unternehmen ist Zufall.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-relationstechnik-zivilrecht)
+<!-- END Aktenarbeit -->
+
 ## Kurzbeschreibung
 
 Werkvertragliche Zahlungsklage. Die Klägerin, ein Tischlereibetrieb (Edelholz Berlin GmbH), verlangt von der Bestellerin (Hildegard Sauer) restlichen Werklohn von 28.400 Euro für die Planung, Lieferung und den Einbau einer Massivholztreppe in einem Einfamilienhaus. Die Bestellerin hält das Werk für mangelhaft (knarrende Trittstufen, ungleiche Spaltmasse, abweichende Holzart) und verweigert die Restzahlung; hilfsweise rechnet sie mit den Kosten der Mangelbeseitigung auf. Streitig sind Abnahme, Mangelhaftigkeit, Vertretenmüssen und die Höhe des Aufrechnungspostens. Streitwert 28.400 Euro, sachliche Zuständigkeit des Landgerichts nach Paragraf 71 Absatz 1 in Verbindung mit Paragraf 23 Nummer 1 GVG (über 10.000 Euro), Anwaltszwang nach Paragraf 78 Absatz 1 ZPO. Verfahrensstand bei Aktenübernahme: Klage zugestellt, Klageerwiderung mit Hilfsaufrechnung liegt vor, Termin steht aus.

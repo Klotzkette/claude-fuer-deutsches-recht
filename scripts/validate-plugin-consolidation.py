@@ -8,6 +8,7 @@ import json
 from pathlib import Path
 import subprocess
 
+from akten_erhaltungsfassungen import register as aktenregister, vorher as vor_aktenausgabe
 from akteneingang.verweise import central_row
 from consolidation_editions import archived, previous, register as edition_register, sha
 from skill_limits import MAX_ACTIVE_SKILLS_PER_PLUGIN
@@ -35,7 +36,7 @@ def git_blob(path: Path) -> str:
     return result.hexdigest()
 
 
-def before_intake_links(name: str, content: bytes) -> bytes:
+def before_intake_links(name: str, content: bytes, *, belegte_zeile=None) -> bytes:
     """Entnimmt nur die zu diesem Fall gehörige Zusatzzeile am vorgesehenen Tabellenplatz."""
     parts = Path(name).parts
     if len(parts) != 3 or parts[0] != "testakten" or parts[2] != "README.md":
@@ -53,7 +54,9 @@ def before_intake_links(name: str, content: bytes) -> bytes:
             continue
         row = central_row(parts[1], divider.count(b"|") - 1)
         eol = line[len(divider):]
-        if row and lines[index + 1] == row.encode() + eol:
+        if (row and lines[index + 1] == row.encode() + eol) or (
+                belegte_zeile and lines[index + 1].endswith(eol)
+                and sha(lines[index + 1].removesuffix(eol)) == belegte_zeile):
             return before + begin + b"".join(lines[:index + 1] + lines[index + 2:]) + end + after
         break
     return content
@@ -73,9 +76,10 @@ def same_stored_blob(path: Path, expected: str, root: Path, name: str, baseline:
     """
     proof = edition_register(root) if proof is None else proof
     content = None
-    if name in proof.get("edition", {}) or name in proof.get("preceding", {}):
+    aktenfassung = aktenregister(root).get("dateien", {}).get(name)
+    if name in proof.get("edition", {}) or name in proof.get("preceding", {}) or aktenfassung:
         try:
-            content = previous(root, name, path.read_bytes())
+            content = previous(root, name, vor_aktenausgabe(root, name, path.read_bytes()))
             content = previous(root, name, content, stage="preceding")
         except ValueError:
             return False
@@ -84,7 +88,8 @@ def same_stored_blob(path: Path, expected: str, root: Path, name: str, baseline:
     elif git_blob(path) == expected:
         return True
     if Path(name).name == "README.md" and name.startswith("testakten/"):
-        content = before_intake_links(name, path.read_bytes() if content is None else content)
+        content = before_intake_links(name, path.read_bytes() if content is None else content,
+                                      belegte_zeile=(aktenfassung or {}).get("eingangstabelle_sha256"))
         if content_blob(content) == expected:
             return True
     if not baseline:
@@ -192,7 +197,7 @@ def check(root: Path, registry: dict, inventory: dict) -> list[str]:
     for name in proof.get("edition", {}):
         path = inside(root, name)
         try:
-            previous(root, name, path.read_bytes())
+            previous(root, name, vor_aktenausgabe(root, name, path.read_bytes()))
         except (ValueError, OSError) as exc:
             errors.append(str(exc))
     for name, expected in proof.get("legacy_files", {}).items():

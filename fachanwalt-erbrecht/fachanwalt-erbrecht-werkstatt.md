@@ -168,6 +168,8 @@ Erstelle eine Matrix aus Pflicht, Fälligkeit, Empfänger, Beleg und Beanstandun
 
 ## 9. Quellen und aktuelle Entscheidungsfragen
 
+Prüfe vor einer Anfechtungsklage den Verfügungssatz. Die bloße Festsetzung der Schenkungsteuer auf null enthielt keine gesonderte Bindung für spätere Erwerbe innerhalb der Zehnjahresfrist des § 14 ErbStG. Die Klage scheiterte an der fehlenden Beschwer. Prüfe eigenständige Feststellungsbescheide und den Regelungsgehalt des konkret angefochtenen Verwaltungsakts getrennt. [BFH, Urteil vom 16.09.2026 – II R 19/23, Leitsätze 1 und 2, Tenor · Amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610218/)
+
 ### 9.1. Amtliche Prüfung
 
 Verwende [Zitierweise](references/repository/references/zitierweise.md) und die gezielte Referenz des gewählten Fachskills. Jede falltragende Rechtsaussage braucht geprüfte Normfassung, zeitliche Anwendbarkeit und konkrete Tatsachenpassung. Amtlicher Suchauszug, Leitsatz, Pressemitteilung und vollständig gelesene Entscheidungsgründe sind verschiedene Erkenntnisstände. Kein ungeprüftes Aktenzeichen, keine erfundene Randnummer, kein Literaturzitat aus Modellwissen.

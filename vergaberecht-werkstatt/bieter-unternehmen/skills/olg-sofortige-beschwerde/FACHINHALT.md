@@ -45,7 +45,7 @@ Vor Textbeginn festlegen, welche abweichende Entscheidung das OLG treffen soll: 
 
 ## 6. Rechtsprechungsanker
 
-Je Thema aus `references/leitentscheidungen-anker.md` und `references/praxisrechtsprechung-vk-2016-2026.md` starten. Gericht, Datum, Aktenzeichen/ECLI, Randnummer, Tenor und Sachverhaltsnähe live bestätigen. C-268/25 nur als Schlussanträge der Generalanwältin behandeln.
+Je Thema aus `references/leitentscheidungen-anker.md` und `references/praxisrechtsprechung-vk-2016-2026.md` starten. Gericht, Datum, Aktenzeichen/ECLI, Randnummer, Tenor und Sachverhaltsnähe live bestätigen. Für den Steuerverstoß eines Mitglieds EuGH C-268/25, ETS heranziehen.
 
 ## 7. Output
 

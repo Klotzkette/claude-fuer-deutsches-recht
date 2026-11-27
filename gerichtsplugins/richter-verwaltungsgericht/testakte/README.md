@@ -2,6 +2,10 @@
 
 Aus Richtersicht. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Firmen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen ist Zufall.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-verwaltungsgericht)
+<!-- END Aktenarbeit -->
+
 ## Kurzbeschreibung
 
 Verwaltungsrechtliche Anfechtungsklage gegen eine auf Paragraf 35 Absatz 1 GewO gestützte Gewerbeuntersagung. Klägerin ist die Edelholz Berlin GmbH, die ein Handelsgewerbe mit Massivholzmöbeln betreibt; Beklagter ist das Bezirksamt Musterstadt als Gewerbeordnungsbehörde. Die Behörde stützt die Untersagung auf gewerbebezogene Unzuverlässigkeit wegen Steuerrückstaenden von rund 48.000 Euro, Beitragsrückstaenden bei der Einzugsstelle und einer fehlenden Gewinnermittlung; sie hat die sofortige Vollziehung nach Paragraf 80 Absatz 2 Satz 1 Nummer 4 VwGO angeordnet. Die Klägerin hält sich für zuverlässig, verweist auf eine laufende Ratenzahlungsvereinbarung und begehrt zugleich die Wiederherstellung der aufschiebenden Wirkung. Streitwert vorläufig 20.000 Euro nach dem Streitwertkatalog für die Verwaltungsgerichtsbarkeit; sachliche Zuständigkeit des Verwaltungsgerichts nach Paragraf 45 VwGO. Verfahrensstand bei Aktenübernahme: Klage und Eilantrag erhoben und zugestellt, Behördenstellungnahme nebst Verwaltungsvorgang liegt vor, Entscheidung im Eilverfahren steht aus, Termin in der Hauptsache noch nicht bestimmt.

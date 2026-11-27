@@ -2,6 +2,10 @@
 
 Ein Sohn möchte für seine Mutter eine weitere Ausfertigung einer Vollmacht aus dem Jahr 2019. Die Post landet im Nurnotariat der heutigen Verwahrerin. Die Mutter wohnt seit einem Umzug unter neuer Anschrift. Der Sohn verwendet ihre alte Mailadresse.
 
+<!-- BEGIN Aktenarbeit -->
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-t-z.md#fall-vollmachtsausfertigung-regensburg)
+<!-- END Aktenarbeit -->
+
 Erfassen Sie den Eingang zur bestehenden Verwahrung. Bereiten Sie die persönliche Entscheidung über Antrag, Berechtigung, Form und Empfänger vor. Bearbeiten Sie später die Erklärung der Mutter im selben Vorgang.
 
 Öffnen Sie zuerst die Grundakte im Originalformat-ZIP. Die Nachreichungen und bearbeitbaren Vorlagen haben jeweils einen eigenen Ordner.

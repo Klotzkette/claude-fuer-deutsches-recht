@@ -7,9 +7,13 @@ Date: Fri, 06 Nov 2026 09:12:00 +0100
 Message-ID: <70a2d7263e34bf0ed31505fd@fallpost.example>
 Subject: Der =?utf-8?q?Fu=C3=9F_f=C3=BCr_Regalserie_R40_=C2=B7_vor_dem_Ersat?=
  =?utf-8?q?zteilgespr=C3=A4ch?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-56fa219e9fdf96ac7fa5e1b4"
+
+--interstate-alt-56fa219e9fdf96ac7fa5e1b4
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Wir verkaufen den Fu=C3=9F k=C3=BCnftig im Zweierbeutel ohne St=C3=BCtze. Ma=
 =C3=9Fwerk baut ihn an gebrauchten Regalen ein. Ein Wettbewerber k=C3=B6nnte =
@@ -24,3 +28,25 @@ tz am Vorf=C3=BChrst=C3=BCck zu =C3=BCberpr=C3=BCfen. Der H=C3=A4ndlertermin =
 ist am 26. November. Bislang gab es nur Gespr=C3=A4che mit namentlich erfasst=
 en Monteuren unter Vertraulichkeitsvereinbarung. Vor der Freigabe bitte ich u=
 m Abgleich mit dem Vorf=C3=BChrkalender.
+
+--interstate-alt-56fa219e9fdf96ac7fa5e1b4
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #2C=
+6155;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Wir verkaufen de=
+n Fu=C3=9F k=C3=BCnftig im Zweierbeutel ohne St=C3=BCtze. Ma=C3=9Fwerk baut i=
+hn an gebrauchten Regalen ein. Ein Wettbewerber k=C3=B6nnte genau diesen Beut=
+el anbieten und den letzten Handgriff dem Monteur =C3=BCberlassen. Ein Anspru=
+ch, den nur der fertig eingerichtete Laden erf=C3=BCllt, hilft mir bei dieser=
+ Vertriebsform wenig. Die Gesch=C3=A4ftsf=C3=BChrung m=C3=B6chte bis 25. Nove=
+mber eine unterschriftsreife deutsche Erstanmeldung sehen.</p><p>Im Vertrieb =
+sagen wir bisher =E2=80=9Eder Fu=C3=9F sperrt sich unter dem Regalgewicht sel=
+bst=E2=80=9C. Ich habe Entwicklung und Montage gebeten, diesen Satz am Vorf=
+=C3=BChrst=C3=BCck zu =C3=BCberpr=C3=BCfen. Der H=C3=A4ndlertermin ist am 26.=
+ November. Bislang gab es nur Gespr=C3=A4che mit namentlich erfassten Monteur=
+en unter Vertraulichkeitsvereinbarung. Vor der Freigabe bitte ich um Abgleich=
+ mit dem Vorf=C3=BChrkalender.</p></div></body></html>
+
+--interstate-alt-56fa219e9fdf96ac7fa5e1b4--

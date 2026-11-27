@@ -49,7 +49,7 @@ Baue ein Dossier, das der Vergabestelle die Prüfung nach §§ 123 bis 126 GWB e
 
 - EuGH C-124/17, Vossloh Laeis: Selbstreinigung muss substanziiert und kooperativ nachgewiesen werden; Reichweite immer anhand der tragenden Randnummern prüfen.
 - EuGH C-41/18, Meca, und C-267/18, Delta: frühere Vertragsmängel erlauben eine eigenständige Zuverlässigkeitsprüfung, aber keinen ungeprüften Automatismus.
-- Schlussanträge GA Kokott vom 07.05.2026, C-268/25, ECLI:EU:C:2026:382: bei Problemmitgliedern einer Bietergemeinschaft Einzelfall und Austauschbarkeit prüfen; nicht als EuGH-Urteil zitieren.
+- EuGH, Urteil vom 12.11.2026, C-268/25, ETS, ECLI:EU:C:2026:977, Rn. 79. Bestandskraft, Teilnahmefrist, Zahlung und tatsächliche Kenntnis der Gruppe belegen. Bei erst nach Fristablauf erlangter Kenntnis Ausscheiden oder Ersatz des Mitglieds im Einzelfall prüfen.
 
 ## Pflichtoutput
 

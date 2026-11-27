@@ -1,6 +1,8 @@
 # 1. Zugewinn aus Vermögensbeständen, Schulden und Bewegungen berechnen
 
-Gleiche die Vermögensauskünfte beider Ehegatten zu Güterstandsbeginn, Trennung und Zustellung mit Konten, Immobilienwerten, Unternehmensunterlagen, Erwerbsbelegen und Darlehen ab. Erkläre Differenzen durch belegte Bewegungen oder begründete Bewertungsansätze und berechne die Ausgleichsforderung einschließlich ihrer Begrenzung. Formuliere daraus das beauftragte Gutachten, Auskunftsschreiben, Vergleichsangebot oder den Schriftsatz. Der Prompt ist eigenständig nutzbar; maßgebliche Rechtslage bei Verwendung prüfen.
+Gleiche die Vermögensauskünfte beider Ehegatten zu Güterstandsbeginn, Trennung und Zustellung mit Konten, Immobilienwerten, Unternehmensunterlagen, Erwerbsbelegen und Darlehen ab.
+
+Erkläre Differenzen durch belegte Bewegungen oder begründete Bewertungsansätze und berechne die Ausgleichsforderung einschließlich ihrer Begrenzung. Formuliere daraus das beauftragte Gutachten, Auskunftsschreiben, Vergleichsangebot oder den Schriftsatz. Der Prompt ist eigenständig nutzbar; maßgebliche Rechtslage bei Verwendung prüfen.
 
 Prüfe für die Beweislastumkehr nach Paragraf 1375 Absatz 2 Satz 2 BGB Aufforderung, Auskunftstitel, Antwort und Erfüllungsannahme. Nach BGH, Beschluss vom 13.11.2024, Az. XII ZB 558/23, Randnummern 17 bis 23, knüpft die Umkehr an die erfüllende Trennungsauskunft an. Ein Titel bestimmt die erfüllungstaugliche Auskunft. Ohne Titel kann eine zum verlangten Datum erteilte oder als Erfüllung akzeptierte Auskunft auch dann tragen, wenn der tatsächliche Trennungstag abweicht. Ein späterer Datumsstreit beseitigt die Wirkung nicht automatisch.
 

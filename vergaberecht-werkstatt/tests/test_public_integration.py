@@ -25,7 +25,7 @@ spec.loader.exec_module(public_validation)
 
 
 class PublicIntegrationTests(unittest.TestCase):
-    def test_mini_readme_keeps_import_edition_despite_marketplace_version_change(self):
+    def test_mini_readme_follows_working_files_despite_marketplace_version_change(self):
         original_read = Path.read_text
         marketplace_path = ROOT / ".claude-plugin/marketplace.json"
 
@@ -49,9 +49,11 @@ class PublicIntegrationTests(unittest.TestCase):
             self.assertEqual(release.RELEASE_TAG, "vergaberecht-werkstatt-v9.8.7")
             self.assertTrue(release.RELEASE_BASE.endswith("/vergaberecht-werkstatt-v9.8.7"))
             self.assertEqual(release.COMPONENT_RELEASE_TAG, json.loads((ROOT / "source-import.json").read_text())["release"])
-            self.assertEqual(generator.RELEASE_BASE, release.COMPONENT_RELEASE_BASE)
-            self.assertEqual(generator.render_readme(generator.marketplace()["plugins"]),
-                             (ROOT / "unified-mini-prompts/README.md").read_text())
+            rendered = generator.render_readme(generator.marketplace()["plugins"])
+            self.assertEqual(rendered, (ROOT / "unified-mini-prompts/README.md").read_text())
+            for role in release.PROMPT_SUFFIXES:
+                self.assertIn(f"({release.mini_download(role)})", rendered)
+                self.assertNotIn(f"{release.COMPONENT_RELEASE_BASE}/{role}-unified-mini-prompt.md", rendered)
 
     def test_shared_navigation_is_explicit_and_requires_existing_file(self):
         with tempfile.TemporaryDirectory() as directory:
@@ -122,6 +124,28 @@ class PublicIntegrationTests(unittest.TestCase):
             for target in targets:
                 with self.subTest(target=target):
                     self.assertIsNotNone(public_validation.public_target_error(target, parent_root=parent))
+
+    def test_aktenbrief_verlangt_registrierten_vergabefall_und_echten_kapitelanker(self):
+        case = "interstate-01"
+        anchor = f"fall-{case}"
+        chapter = public_validation.kapitel(case)
+        with tempfile.TemporaryDirectory() as directory:
+            parent = Path(directory)
+            catalog = parent / public_validation.VERZEICHNIS
+            catalog.mkdir(parents=True)
+            target = f"https://github.com/{REPOSITORY}/blob/main/{public_validation.VERZEICHNIS}/{chapter}#{anchor}"
+            index = catalog / "bestand.json"
+            page = catalog / chapter
+            row = {"id": case, "fallpfad": "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/01"}
+            index.write_text(json.dumps({"faelle": [row]}))
+            page.write_text(f'<a id="{anchor}"></a>')
+            self.assertIsNone(public_validation.public_target_error(target, parent_root=parent))
+            self.assertIsNotNone(public_validation.public_target_error(target.replace(chapter, "faelle-t-z.md"), parent_root=parent))
+            page.write_text("# Akten")
+            self.assertIsNotNone(public_validation.public_target_error(target, parent_root=parent))
+            page.write_text(f'<a id="{anchor}"></a>')
+            index.write_text(json.dumps({"faelle": [{**row, "fallpfad": "patentrecht/beispiel"}]}))
+            self.assertIsNotNone(public_validation.public_target_error(target, parent_root=parent))
 
     def test_working_downloads_leave_navigation_and_code_unchanged(self):
         destination = "skills/example/SKILL.md"
