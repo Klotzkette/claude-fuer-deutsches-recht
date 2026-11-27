@@ -72,7 +72,8 @@ jobs:
         with:
           node-version: '22'
       - name: Abhängigkeiten
-        run: python3 -m pip install -r requirements.txt
+        # Das historische PDF-Inventar prüft auch Hashes des ausgelesenen Texts.
+        run: python3 -m pip install -r requirements.txt pypdf==6.21.4
       - name: Struktur und fachliche Quellenbindung
         run: |
           node scripts/validate-marketplace-import.mjs
