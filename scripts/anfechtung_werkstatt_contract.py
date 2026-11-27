@@ -59,15 +59,27 @@ def visible_source(text: str) -> str:
     return normalized(' '.join(lines))
 
 
+def page_body(page, section: int, number: int) -> str:
+    # Kopfzeile, Quellenstand und Seitenzahl sind drei getrennt gesetzte Textfelder.
+    # Die Fußzeile kann pypdf bei der Zeilenerkennung zu einer Zeile verbinden.
+    fragments = []
+
+    def collect(text, cm, tm, font, size):
+        if text.strip():
+            fragments.append(text.strip())
+
+    page.extract_text(visitor_text=collect)
+    expected = [f'INSOLVENZANFECHTUNG | WERKSTATT {section}', PDF_FOOTER, str(number)]
+    if fragments[:3] != expected or len(fragments) < 4:
+        raise ValueError(f'{section}: Kopf-/Fußzeile oder Seitenfolge fehlerhaft')
+    return ' '.join(fragments[3:])
+
+
 def _page_texts(pages, section: int) -> tuple[str, int]:
     """Prüft Einzel- und Sammelfassung mit denselben echten Seitenmerkmalen."""
     parts = []
     for n, page in enumerate(pages, 1):
-        lines = (page.extract_text() or '').splitlines()
-        if (len(lines) < 4 or lines[0] != f'INSOLVENZANFECHTUNG | WERKSTATT {section}'
-                or lines[1] != PDF_FOOTER or lines[2] != str(n)):
-            raise ValueError(f'{section}: Kopf-/Fußzeile oder Seitenfolge fehlerhaft')
-        parts.append(' '.join(lines[3:]))
+        parts.append(page_body(page, section, n))
         fonts = page['/Resources'].get('/Font', {}).get_object()
         used = {str(font.get_object().get('/BaseFont', '')) for font in fonts.values()}
         if not any('TimesNewRoman' in name for name in used):

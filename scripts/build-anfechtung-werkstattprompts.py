@@ -17,7 +17,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import SimpleDocTemplate,Paragraph,Spacer,LongTable,TableStyle
 from pypdf import PdfReader,PdfWriter
 import zipfile
-from anfechtung_werkstatt_contract import VERSION, MODULES, validate_exports
+from anfechtung_werkstatt_contract import VERSION, MODULES, page_body, validate_exports
 ROOT=Path(__file__).resolve().parents[1]
 LINK_BASE='https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/'
 
@@ -111,11 +111,8 @@ def render(source,target):
     doc=SimpleDocTemplate(str(target),pagesize=A4,leftMargin=78,rightMargin=78,topMargin=60,bottomMargin=60,title=title,author='Klotzkette',subject='Insolvenzanfechtung – eigenständiger Werkstattprompt',invariant=1)
     doc.build(elements,onFirstPage=page,onLaterPages=page)
     reader=PdfReader(target)
-    body_pages=[]
-    for number,page_obj in enumerate(reader.pages,1):
-        ls=(page_obj.extract_text() or '').splitlines()
-        assert ls[0]=='INSOLVENZANFECHTUNG | WERKSTATT '+slug and ls[2]==str(number),(slug,number,'header/footer extraction')
-        body_pages.append(' '.join(ls[3:]))
+    body_pages = [page_body(page_obj, int(slug), number)
+                  for number, page_obj in enumerate(reader.pages, 1)]
     normalize=lambda x: ''.join(re.findall(r'[\w§]+',unicodedata.normalize('NFKC',x).casefold()))
     extracted=normalize(' '.join(body_pages));cursor=0
     for segment in expected:
