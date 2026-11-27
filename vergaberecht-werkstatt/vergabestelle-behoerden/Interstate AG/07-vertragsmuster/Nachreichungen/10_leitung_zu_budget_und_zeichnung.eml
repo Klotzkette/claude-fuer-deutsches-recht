@@ -5,9 +5,13 @@ To: =?utf-8?q?Dr=2E_Jakob_Elsen_=C2=B7_Deutsche_Interstate_AG=2C?=
 Date: Mon, 21 Sep 2026 10:24:00 +0200
 Message-ID: <fa62c78722aa5c92a25ef300@fallpost.example>
 Subject: K17 =?utf-8?q?=C2=B7_=C3=84nderungsblatt?= 01 vor Disposition
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-2fff0628d471baafe236baff"
+
+--interstate-alt-2fff0628d471baafe236baff
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Guten Tag Herr Elsen,
 
@@ -34,3 +38,31 @@ zul=C3=A4ssigem Umfang einer Dispositionsanfrage. Die operative Entscheidung,=
 , trifft Frau K=C3=B6hler morgen Vormittag.
 
 Luis Aden
+
+--interstate-alt-2fff0628d471baafe236baff
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #17=
+4A61;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Guten Tag Herr E=
+lsen,</p><p>die 16.000 EUR auf K17 bleiben vorl=C3=A4ufig der freigegebene Ko=
+stenrahmen. Einen =C3=9Cbertrag von 780 EUR kann unsere Kostenstellenrunde am=
+ 23. September beraten, nicht vorher. Die gemeinsame Zeichnung durch Frau Fel=
+d und mich ist technisch m=C3=B6glich. Ein Budget=C3=BCbertrag ist damit noch=
+ nicht entschieden. Ich habe weder die beiden zus=C3=A4tzlichen N=C3=A4chte n=
+och die CSV bestellt.</p><p>Frau Holst hat auf die Dispositionsanfrage nur mi=
+tgeteilt, dass sie die zwei Fachkr=C3=A4fte bis Dienstag 15 Uhr freihalten k=
+=C3=B6nne. Unser Kollege hat im Projektpostfach =E2=80=9Eeingegangen=E2=80=9C=
+ gew=C3=A4hlt. Die Bestellnummer kann das System erst nach einer Kostenfreiga=
+be erzeugen. Der Warengruppeneinkauf m=C3=B6chte heute von mir wissen, ob er =
+die urspr=C3=BCnglichen acht Schichten als eigenst=C3=A4ndigen Abruf freigebe=
+n und =C3=BCber die =C3=84nderung sp=C3=A4ter entscheiden darf.</p><p>Bitte f=
+=C3=BChren Sie Ihre Pr=C3=BCfung f=C3=BCr diesen Stand fort. Ich brauche je e=
+inen versandfertigen Text f=C3=BCr die R=C3=BCckmeldung an Rheinspur und f=C3=
+=BCr den internen Freigabeumlauf, mitsamt Betr=C3=A4gen, Terminen und zul=C3=
+=A4ssigem Umfang einer Dispositionsanfrage. Die operative Entscheidung, ob di=
+e urspr=C3=BCnglichen Termine f=C3=BCr das Projekt allein sinnvoll sind, trif=
+ft Frau K=C3=B6hler morgen Vormittag.</p><p>Luis Aden</p></div></body></html>
+
+--interstate-alt-2fff0628d471baafe236baff--

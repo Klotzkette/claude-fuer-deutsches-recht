@@ -198,7 +198,7 @@ def page_number_field(p, instruction):
 def rule(p, side):
     edges = OxmlElement("w:pBdr")
     edge = OxmlElement(f"w:{side}")
-    for key, value in (("val", "single"), ("sz", "5"), ("color", "A4BBBF"), ("space", "5")):
+    for key, value in (("val", "single"), ("sz", "5"), ("color", "397F80"), ("space", "5")):
         edge.set(qn(f"w:{key}"), value)
     edges.append(edge)
     p._p.get_or_add_pPr().append(edges)
@@ -209,7 +209,7 @@ def add_letterhead(section):
     first = section.first_page_header.paragraphs[0]
     first.style = "Normal"
     first.paragraph_format.space_after = Pt(0)
-    shape = first.add_run().add_picture(logo_png(), width=Cm(6.3))
+    shape = first.add_run().add_picture(logo_png(), width=Cm(6.8))
     shape._inline.docPr.set("descr", LETTERHEAD[0])
     rule(first, "bottom")
     address = section.first_page_header.add_paragraph()
@@ -270,8 +270,15 @@ def add_attachments(doc):
                 margin.set(qn("w:type"), "dxa")
                 margins.append(margin)
             cell._tc.get_or_add_tcPr().append(margins)
+            if text.startswith("Anlage K "):
+                shade = OxmlElement("w:shd")
+                shade.set(qn("w:fill"), "E4EEF0")
+                cell._tc.get_or_add_tcPr().append(shade)
             p = cell.paragraphs[0]
-            p.add_run(text)
+            run = p.add_run(text)
+            if text.startswith("Anlage K "):
+                run.bold = True
+                run.font.color.rgb = INK
             p.paragraph_format.space_after = Pt(0)
             p.paragraph_format.keep_together = True
             p.paragraph_format.keep_with_next = number < len(ATTACHMENTS)

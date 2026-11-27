@@ -4,7 +4,9 @@ Die Arbeitsakte begleitet Lisa Muster vom Eintritt in den Uferwerk Verlag im Jah
 
 Der Verlag beschäftigt in einem Betrieb 140 Arbeitnehmer und baut seine fünfzehn Designstellen im Zuge eines KI-Projekts ab. Die Unterlagen umfassen Anbahnung, Arbeitsvertrag und Nachträge, Familie und Elternzeiten, Vertriebsrotation, Qualifikation, Stellenbesetzung, Betriebsrat und Arbeitsagentur, Kündigung, vollständigen erstinstanzlichen Schriftwechsel, Verfügungen, Verhandlungsprotokolle mit Zeugenvernehmung, Urteil und Zustellung. Die Nachurteilskorrespondenz dokumentiert zusätzliche Angaben, die Herkunft von Belegen und den Zeitpunkt ihrer Verfügbarkeit.
 
-Das Paket enthält 93 Aktenstücke und ein Aktenverzeichnis: 94 PDFs mit insgesamt 185 Seiten. Die Abschnitte V, P und N bezeichnen Vorgeschichte, Prozess und Nachurteil. Das PDF-Aktenverzeichnis nennt alle Dokumente mit Datum und Seitenzahl. Die Akte enthält unterschiedliche Darstellungen der Beteiligten; sie werden nicht durch einen kommentierenden Erzähler aufgelöst. Die Berufung ist innerhalb der Fallgeschichte bereits eingelegt, die Begründung bleibt Bearbeitungsaufgabe. Der Aktenstichtag ist der 30. Oktober 2026; der Quellenprüfstand der begleitenden Prompts ist der 1. November 2026.
+Das Paket enthält 93 Aktenstücke und ein Aktenverzeichnis: 94 PDFs mit insgesamt 187 Seiten. Die Abschnitte V, P und N bezeichnen Vorgeschichte, Prozess und Nachurteil. Das PDF-Aktenverzeichnis nennt alle Dokumente mit Datum und Seitenzahl. Die Akte enthält unterschiedliche Darstellungen der Beteiligten; sie werden nicht durch einen kommentierenden Erzähler aufgelöst. Die Berufung ist innerhalb der Fallgeschichte bereits eingelegt, die Begründung bleibt Bearbeitungsaufgabe. Der Aktenstichtag ist der 30. Oktober 2026; der Quellenprüfstand der begleitenden Prompts ist der 1. November 2026.
+
+Für die Frage nach der Betriebsratsanhörung lesen Sie zuerst das Kündigungsschreiben und den Botenvermerk (V37 und V38). Nehmen Sie dann den Übergabebogen zur Anhörung (V35) und den Eingang des Widerspruchs (V36) hinzu. Welche Unterlagen waren beim Betriebsrat, als er sich äußerte? Was sah Lisa Muster erst im Prozess? Vergleichen Sie dazu die Klage P01, die Erwiderung P10 mit Anlage B8 und die Replik P13. Der Vorgang zur Entlassungsanzeige bei der Agentur für Arbeit liegt gesondert in V33 und V34.
 
 <!-- reserved-example-contacts -->
 
@@ -20,12 +22,12 @@ Alle Personen, Parteien und Vorgänge sind erfunden. Reservierte .example-Domain
 
 Am Nachmittag des 30. Oktober, nach Einlegung der Berufung, findet Lisa Muster einen Papierausdruck zu einer Nachlieferung aus ihrer Vertriebsrotation. N22 dokumentiert, wann und wo die Mandantin gesucht hat. N23 enthält Frau Seidels damalige Rückmeldung zur Bestellung von achtzig Exemplaren. N24 hält die Rückfragen der Anwältin an Frau Muster fest. Arbeiten Sie heraus, welche eigenen Tätigkeiten sich damit belegen lassen, was für die Stelle im Jahr 2026 offenbleibt und welche Fragen die späte Vorlage aufwirft.
 
-Die Vollakte enthält 97 einzelne PDFs mit 188 Seiten und eine README.txt. Im PDF-Verzeichnis stehen die 94 PDFs des Grundbestands. Die drei zusätzlichen Dokumente sind in der README.txt verzeichnet. Die Berufungsbegründung bleibt der Arbeitsauftrag.
+Die Vollakte enthält 97 einzelne PDFs mit 190 Seiten und eine README.txt. Im PDF-Verzeichnis stehen die 94 PDFs des Grundbestands. Die drei zusätzlichen Dokumente sind in der README.txt verzeichnet. Die Berufungsbegründung bleibt der Arbeitsauftrag.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-[Uferwerk mit Nachtrag Lesekai herunterladen · vollständige PDF-Akte (ZIP)](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitsrecht-muster-uferwerk-berufung-mit-nachtrag.zip)
+[Uferwerk mit Nachtrag Lesekai herunterladen · vollständige PDF-Akte (ZIP)](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/kuendigungsschutz/arbeitsrecht-muster-uferwerk-berufung-mit-nachtrag.zip)
 
 [Werkstatt und Mini-Prompt](../../README.md) · [Aktenregister](../README.md)

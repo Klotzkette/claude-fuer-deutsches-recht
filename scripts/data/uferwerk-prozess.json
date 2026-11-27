@@ -12,9 +12,9 @@
       "subject": "Lisa Muster gegen Uferwerk Verlag GmbH",
       "sections": [
         {
-          "heading": "1. Parteien und Anträge",
+          "heading": "1. Anträge",
           "paragraphs": [
-            "Namens und in Vollmacht der Klägerin Lisa Muster, geboren am 19. Juli 1982, Rheinsteig 8, 78462 Konstanz, erheben wir gegen die Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz, vertreten durch die Geschäftsführerin Dr. Mara Ufer, Klage. Die Klägerin wird durch die unterzeichnende Rechtsanwältin vertreten. Für die Beklagte ist noch kein Prozessbevollmächtigter bestellt.",
+            "Namens und in Vollmacht der Klägerin erheben wir Klage und beantragen:",
             "1. Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die ordentliche Kündigung der Beklagten vom 30. März 2026, der Klägerin zugegangen am 31. März 2026, nicht zum 30. September 2026 aufgelöst wird.",
             "2. Die Beklagte wird verurteilt, die Klägerin über den 30. September 2026 hinaus bis zum rechtskräftigen Abschluss des Kündigungsrechtsstreits zu unveränderten arbeitsvertraglichen Bedingungen als Grafikdesignerin bei einer regelmäßigen Wochenarbeitszeit von 40 Stunden und einer monatlichen Bruttovergütung von 5.400,00 EUR weiterzubeschäftigen."
           ]
@@ -52,7 +52,8 @@
         {
           "heading": "5. Beteiligung des Betriebsrats und Anzeige",
           "paragraphs": [
-            "Der Betriebsrat widersprach der Kündigung am 27. März 2026 unter Hinweis auf Weiterbeschäftigungsmöglichkeiten und die Vertriebserfahrung der Klägerin. Die Klägerin bestreitet vorsorglich die ordnungsgemäße Unterrichtung, soweit der Betriebsrat unzutreffend über ihre Einsetzbarkeit informiert wurde. Sie verlangt die vollständige Anhörung nebst Anlagen.",
+            "Die Klägerin hat zusammen mit dem Kündigungsschreiben eine Abschrift des Widerspruchs vom 27. März erhalten (K6 bis K8). Aus ihr kennt sie die Einwendungen des Betriebsrats zum Vertriebseinsatz. Welche Unterlagen seinerseits die Arbeitgeberin dem Betriebsrat vorgelegt hat, kann die Klägerin nicht aus eigener Wahrnehmung sagen. Sie bestreitet, dass die dem Betriebsrat gegebene Darstellung den tatsächlich bekannten Umfang ihres Einsatzes im Vertrieb erkennen ließ. Die Beklagte möge das Einzelanhörungsschreiben mit dem zugehörigen Anlagen- und Übergabenachweis vorlegen. Die Klägerin wird sich nach Einsicht zu den einzelnen Mitteilungen erklären.",
+            "Beweis: Abschrift des Widerspruchs, K6. Zum Inhalt der übergebenen Unterlagen und etwaigen ergänzenden mündlichen Angaben: Zeugnis des Betriebsratsvorsitzenden Cem Aydin, zu laden über die Betriebsanschrift der Beklagten. Die Klägerin beruft sich für ihre tatsächlich ausgeübte Vertriebstätigkeit gesondert auf die Rotationsunterlagen K2.",
             "Nach den Mitteilungen der Beklagten erhielten alle 15 Designbeschäftigten ihre Kündigungen am 31. März 2026. Bei 140 regelmäßig Beschäftigten ist damit die Anzeigeschwelle des § 17 Abs. 1 KSchG berührt. Eine bloße Eingangsbestätigung der Agentur für Arbeit beantwortet weder die Frage nach dem vollständigen Inhalt der Anzeige noch nach der Beifügung der Betriebsratsstellungnahme und dem Stand der Konsultation. Die Klägerin bestreitet die ordnungsgemäße Durchführung mit Nichtwissen und beantragt die Vorlage der tatsächlich übermittelten Fassungen einschließlich Anlagenmanifesten.",
             "Die drei Vorgänge Betriebsratskonsultation, individuelle Anhörung und Anzeige bei der Agentur für Arbeit werden ausdrücklich getrennt angegriffen. Der Widerspruch gegen die einzelne Kündigung ist keine Zustimmung zur allgemeinen Entlassungsplanung. Ebenso wenig ersetzt eine allgemeine Konsultationsunterrichtung die Mitteilung der für die Kündigung der Klägerin maßgeblichen persönlichen und arbeitsplatzbezogenen Umstände. Da der Klägerin die vollständigen von der Personalabteilung übermittelten Unterlagen noch nicht vorliegen, ist ihr Bestreiten auf die hier bezeichneten konkreten Unklarheiten und auf die weitere Erläuterung nach Vorlage der Unterlagen gerichtet.",
             "Bei 140 regelmäßig beschäftigten Arbeitnehmerinnen und Arbeitnehmern entsprechen 15 Entlassungen mehr als zehn Prozent der Belegschaft. Nach der bisherigen Mitteilung sollen sämtliche Kündigungen am 31. März zugegangen sein. Es bedarf daher keines Rückgriffs auf einen längeren, erst zu konstruierenden Entlassungszeitraum. Die Beklagte möge für die schriftliche Anzeige die Erstfassung, die beigefügten Anlagen, den Eingang und etwaige Nachreichungen mitteilen. Ein Ausdruck, der nur eine erfolgreiche technische Übermittlung anzeigt, beweist nicht zugleich, dass jeder gesetzlich erforderliche Inhalt darin vorhanden war."
@@ -79,7 +80,19 @@
         "V38",
         "V23"
       ],
-      "signature": "gez. Dr. Johanna Falkenhorst, Rechtsanwältin"
+      "signature": "gez. Dr. Johanna Falkenhorst, Rechtsanwältin",
+      "caption_parties": [
+        [
+          "Klägerin",
+          "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+          "Prozessbevollmächtigte: Rechtsanwältin Dr. Johanna Falkenhorst, Seestraße 18, 78464 Konstanz"
+        ],
+        [
+          "Beklagte",
+          "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+          "Vertreten durch die Geschäftsführerin Dr. Mara Ufer"
+        ]
+      ]
     },
     {
       "id": "P02",
@@ -528,7 +541,8 @@
             "Die individualrechtliche Anhörung zur Kündigung der Klägerin erfolgte am 24. März 2026. Der Betriebsrat widersprach am 27. März 2026. Die Beklagte durfte danach kündigen. Der Betriebsrat war über Personaldaten, Kündigungstermin, Wegfall der Abteilung und die Sicht der Beklagten zur fehlenden Einsatzmöglichkeit im Vertrieb unterrichtet. Sein Widerspruch stützt sich nach Ansicht der Beklagten auf allgemeine Erwägungen; er bezeichnet keinen bei Kündigung noch freien, für die Klägerin geeigneten Arbeitsplatz.",
             "Die Beklagte legt die Unterlagen so vor, dass zwischen der Konsultationsmitteilung V29, den Stellungnahmen V32, der Portalübermittlung V33, der Ergänzung V34 und der Einzelanhörung V35 unterschieden werden kann. Die Erklärung zur Einzelkündigung erging erst nach der individualrechtlichen Anhörung und der abschließenden Reaktion des Betriebsrats. Sie wird nicht allein durch die allgemeine Mitteilung vom 4. März als abgeschlossen behandelt. Die Beklagte war gehalten, die dem Betriebsrat bekannten persönlichen Daten, die Rotation und die eigene Bewertung der Einsatzmöglichkeiten offenzulegen; aus V35 ergibt sich, dass diese Themen in der Einzelanhörung angesprochen waren.",
             "Nach BAG, Urteil vom 1. April 2026 – 6 AZR 152/22, Rn. 20 bis 26, 30 muss die erforderliche Konsultation vor der Anzeige abgeschlossen sein. Die Beklagte zieht daraus keinen allgemeinen Heilungsrechtssatz für einen beliebig frühen Upload. Sie vertritt im konkreten Fall aber die Auffassung, dass die Gespräche nach mehr als zwei Wochen inhaltlich ausgeschöpft waren und die am selben Tag ausgefertigte Stellungnahme diesen Stand dokumentierte. Die spätere Ausfertigung und Übersendung seien aus ihrer Sicht nicht ohne Weiteres mit einem bis dahin noch offenen zusätzlichen Beratungsschritt gleichzusetzen. Die Beklagte bittet, die gesamte Korrespondenz und nicht nur das Feld „beigefügt“ zu würdigen.",
-            "Die Beklagte ist sich bewusst, dass eine Empfangsbestätigung der Arbeitsverwaltung keine gerichtliche Feststellung der Kündigungswirksamkeit darstellt. Sie beruft sich auf sie als Beleg, dass ein Anzeigevorgang mit Arbeitgeber, Betrieb und Zahl der Betroffenen vor den Kündigungen einging. Soweit die Klägerin den damaligen Beratungsstand anders beurteilt, liegt ein eigenständiger rechtlicher und tatsächlicher Streit vor. Eine allgemeine Bindungswirkung an eine unterbliebene Beanstandung wird nicht beansprucht."
+            "Die Beklagte ist sich bewusst, dass eine Empfangsbestätigung der Arbeitsverwaltung keine gerichtliche Feststellung der Kündigungswirksamkeit darstellt. Sie beruft sich auf sie als Beleg, dass ein Anzeigevorgang mit Arbeitgeber, Betrieb und Zahl der Betroffenen vor den Kündigungen einging. Soweit die Klägerin den damaligen Beratungsstand anders beurteilt, liegt ein eigenständiger rechtlicher und tatsächlicher Streit vor. Eine allgemeine Bindungswirkung an eine unterbliebene Beanstandung wird nicht beansprucht.",
+            "Mit B8 legen wir die individuelle Anhörung einschließlich der Durchschrift des Übergabebogens vor. Der Vorsitzende erhielt die Mappe am 24. März um 11:05 Uhr. Einen eigenen CRM-Berechtigungsauszug enthielt sie nicht. Zur Frage, welche Arbeiten die Klägerin aus unserer Sicht selbst erledigt hatte, lagen dem Betriebsrat die Rotationsvereinbarung und der Abschlussvermerk vor. Ob davon auch heutige Spezialfälle erfasst sind, ist zwischen den Parteien streitig. Die abschließende Stellungnahme ging am 27. März um 13:40 Uhr im Personalbüro ein. Für die persönliche Entgegennahme und Weitergabe benennen wir Jule Brandt, ladungsfähig über die Betriebsanschrift. Eine Abschrift erhielt die Klägerin mit dem Kündigungsoriginal."
           ]
         },
         {
@@ -618,7 +632,7 @@
               [
                 "B8",
                 "Anhörung zur Kündigung der Klägerin vom 24.03.2026",
-                "Individualrechtliche Unterrichtung (V35)."
+                "Einzelanhörung und Durchschrift des Übergabebogens, Empfang am 24.03. um 11:05 Uhr (V35)."
               ],
               [
                 "B9",
@@ -759,7 +773,8 @@
           "paragraphs": [
             "Der Betriebsrat hat nicht lediglich allgemein die Kündigung missbilligt. Er verwies auf die aktive Vertriebstätigkeit der Klägerin, die ausgeschriebene Stelle und eine sechs Wochen umfassende Einarbeitung. Damit hat er einen nachvollziehbaren Weiterbeschäftigungsweg bezeichnet. Die Klägerin verlangt dessen tatsächliche Prüfung und hält den Weiterbeschäftigungsantrag auch aus § 102 Abs. 5 BetrVG aufrecht. Eine Bezifferung von Annahmeverzugslohn ist mit diesem Schriftsatz nicht verbunden.",
             "Die Betriebsratsreaktion vom 27. März ist nicht mit der allgemeinen abschließenden Stellungnahme vom 23. März zu vermengen. Für die einzelne Kündigung benennt V36 die aktive Vertriebstätigkeit, den vertraglichen Einsatzrahmen, die ausgeschriebene Stelle und eine mehrwöchige Einweisung des externen Bewerbers. Dass der Betriebsrat keine vollständige eigene Rangfolge aller Vertriebsmitarbeiter aufstellt, nimmt diesen tatsächlichen Bezügen nicht ihren Inhalt. Die Klägerin beruft sich auf die gesetzlichen Widerspruchsgründe des § 102 Abs. 3 BetrVG nach dem erkennbaren Sachverhalt des Schreibens, nicht auf die bloße Verwendung des Wortes „Widerspruch“.",
-            "Der besondere Weiterbeschäftigungsanspruch kann deshalb nicht mit der Prognose abgelehnt werden, die Kündigungsschutzklage werde später vielleicht erfolglos bleiben. BAG, Urteil vom 27. Mai 2020 – 5 AZR 247/19, Rn. 39–43. Die Klägerin hat das Verlangen mit ihrer Klage erklärt. Die Beklagte hat keinen Antrag auf gerichtliche Entbindung gestellt. Zu prüfen bleibt zunächst die Entstehung des gesetzlichen Anspruchs; die allgemeine Interessenabwägung ersetzt diese Prüfung nicht."
+            "Der besondere Weiterbeschäftigungsanspruch kann deshalb nicht mit der Prognose abgelehnt werden, die Kündigungsschutzklage werde später vielleicht erfolglos bleiben. BAG, Urteil vom 27. Mai 2020 – 5 AZR 247/19, Rn. 39–43. Die Klägerin hat das Verlangen mit ihrer Klage erklärt. Die Beklagte hat keinen Antrag auf gerichtliche Entbindung gestellt. Zu prüfen bleibt zunächst die Entstehung des gesetzlichen Anspruchs; die allgemeine Interessenabwägung ersetzt diese Prüfung nicht.",
+            "B8 belegt die Übergabe der dort verzeichneten Unterlagen. Die Klägerin bestreitet diesen Empfang nach Einsicht nicht mehr. Streitig bleibt, ob der Arbeitgeber die selbständige Bearbeitung von Aufträgen gegenüber dem Betriebsrat verkürzt dargestellt hat. Die bloße Existenz einer zusätzlichen technischen Aufzeichnung beweist das für sich genommen nicht. Maßgeblich ist, was Personalabteilung und Fachvorgesetzte über die damaligen Befugnisse wussten und welche Angaben sie dem Vorsitzenden dazu mündlich machten. Zu den tatsächlichen Abläufen wird auf den angebotenen Zeugenbeweis zum Vertriebseinsatz Bezug genommen."
           ]
         }
       ],

@@ -1,51 +1,58 @@
-# vergaberecht-werkstatt
+<a id="vergaberecht-werkstatt"></a>
+
+# Vergaberecht-Werkstatt
 
 <!-- BEGIN top-readme-intro (manual) -->
 
 [Start](#vergaberecht-werkstatt) | [Dateikatalog](#dateikatalog) | [Downloads](#sofort-downloads) | [Vergabestelle](vergabestelle-behoerden/README.md) | [Bieter](bieter-unternehmen/README.md) | [Konkurrent](konkurrenten-rechtsschutz/README.md) | [Skills](SKILLS.md) | [Testakten](testakten/README.md) | [Rechtsprechung](references/leitentscheidungen-anker.md) | [Qualität](#validatoren) | [Mitwirken](CONTRIBUTING.md)
 
-Die Vergaberecht-Werkstatt bündelt drei rollenfeste Arbeitsumgebungen für das deutsche und europäische Vergaberecht: für Vergabestellen, Bieter beziehungsweise Bewerber und Konkurrenten. Jedes Plugin verbindet fachlich konkrete Skills, autarke Prompts, Vorlagen, Rechtsprechungsanker und realistische Testakten vom Akteneingang bis zu Vergabekammer und OLG.
+Die Vergabestelle muss beschaffen und ihre Entscheidung begründen. Ein Unternehmen will am Wettbewerb teilnehmen, ein Angebot abgeben oder sich gegen seinen Ausschluss wehren. Wählen Sie die Seite, deren Unterlagen und Entscheidung Sie bearbeiten.
 
-In elf Akten der [Deutschen Interstate AG, Niederlassung West](vergabestelle-behoerden/Interstate%20AG/README.md) übernehmen Sie die Vergabestelle. Bei der Leitplanung, dem Brückenneubau, der Fahrbahnmarkierung und der Beschaffung einer IT-Plattform für die Bauprüfung prüfen Sie Einwendungen anhand der Vergabeunterlagen und Eingangsbelege. Andere Akten führen bis zum Bauzeitstreit und zur Nachtragsforderung.
+<a id="in-20-sekunden-starten"></a>
 
-## In 20 Sekunden starten
+## Rollenkarte
 
-Claude Desktop oder Cowork: Rollen-ZIP herunterladen und unter `Customize`, `Plugins`, `+` als eigenes Plugin hochladen. Claude Code: einmal `/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht`, danach den Rollenbefehl aus der Tabelle und `/reload-plugins` ausführen. [Offizielle Installationshinweise](https://support.claude.com/en/articles/13837440-use-plugins-in-claude).
+| Ihre Aufgabe | Was als Nächstes gebraucht wird | Passender Einstieg |
+| --- | --- | --- |
+| **Vergabestelle des öffentlichen Auftraggebers** | Die Fachabteilung will Lose zusammen vergeben. Prüfen Sie Bedarfsmeldung, Leistungsverzeichnis und Gründe für die Bündelung. Legen Sie der Leitung einen begründeten Entscheidungsvorschlag vor. | [Vergabestelle](vergabestelle-behoerden/README.md) · [Sanierung des Betriebshofs Weidenstück](vergabestelle-behoerden/Interstate%20AG/02-fachlose/README.md) |
+| **Bewerber im Teilnahmewettbewerb** | Sie wollen zur Angebotsabgabe eingeladen werden. Prüfen Sie Auswahlkriterien, Referenzen und Nachweise für den Teilnahmeantrag. Bei einer Bewerbergemeinschaft ist zu klären, welches Mitglied welchen Nachweis erbringt. | [Unternehmens-Plugin](bieter-unternehmen/README.md) · [IT-Beratung für das Ministerium](testakten/04-it-beratung-ministerium-musterland/README.md) |
+| **Bieter mit einem Angebot** | Sie kalkulieren einen Preis und legen fest, welche Leistung Sie anbieten. Gleichen Sie Preisblatt, Leistungsverzeichnis und Nachweise ab und klären Sie eine unklare Produktvorgabe vor Ablauf der Angebotsfrist. | [Unternehmens-Plugin](bieter-unternehmen/README.md) · [Sanierung der Stadthalle](testakten/03-bauleistung-stadthalle-musterstadt/README.md) |
+| **Unternehmen, das eine Entscheidung angreifen will** | Nach der Vorabinformation sollen Sie den Auftrag nicht erhalten. Vergleichen Sie die Begründung mit Ihrem eigenen Angebot, ermitteln Sie die laufenden Fristen und entwerfen Sie gegebenenfalls eine Rüge. | [Konkurrentenrechtsschutz](konkurrenten-rechtsschutz/README.md) · [Betrieb eines Rechenzentrums](testakten/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis/README.md) |
 
-| Rolle | Desktop/Cowork | Claude Code | Danach Unterlagen anhängen und senden |
-| --- | --- | --- | --- |
-| Vergabestelle | [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.17/vergabestelle-behoerden.zip) | `/plugin install vergabestelle-behoerden@klotzkette-german-legal-skills` | `Neuer Vergabestellenfall. Prüfe die beigefügten Unterlagen vollständig, sichere Fristen und Rechtsregime und erstelle den nächsten entscheidungsreifen Behördenoutput.` |
-| Bieter | [`bieter-unternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/bieter-unternehmen.zip) | `/plugin install bieter-unternehmen@klotzkette-german-legal-skills` | `Neue Bewerbung. Prüfe die beigefügten Vergabeunterlagen vollständig, sichere Abgabefrist und Ausschlussrisiken und erstelle den nächsten abgabefertigen Angebotsoutput.` |
-| Konkurrent | [`konkurrenten-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/konkurrenten-rechtsschutz.zip) | `/plugin install konkurrenten-rechtsschutz@klotzkette-german-legal-skills` | `Neuer Konkurrentenfall. Prüfe die beigefügten Unterlagen vollständig, sichere sofort Rüge- und Zuschlagsfristen und erstelle den stärksten fristgerechten Rechtsbehelf.` |
+Bewerber und Bieter arbeiten mit demselben Plugin. Im offenen Verfahren gibt ein Unternehmen unmittelbar sein Angebot ab. In einem Verfahren mit Teilnahmewettbewerb bewirbt es sich zunächst um die Einladung. Für einen Rollenwechsel beginnen Sie einen eigenen Chat mit den Unterlagen, die dieser Seite zum jeweiligen Zeitpunkt zugänglich waren.
 
-Das Plugin genügt: kein zusätzlicher Prompt, keine Skillnamen und keine Vorabwahl des Outputs. Es liest sichtbare Daten selbst, antwortet zuerst in fünf Zeilen und fragt erst danach höchstens drei echte Blocker gesammelt ab. Für Chats ohne Plugin ist der rollenpassende Arbeitsprompt die Vollfassung; der Unified Mini Prompt ist nur für knappen Kontext gedacht.
+## Eine Übungsakte bearbeiten
 
-> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
->
-> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+Die elf Akten der **Deutschen Interstate AG, Niederlassung West**, beginnen jeweils mit einer internen E-Mail der Vergabestelle oder einer beteiligten Fachstelle. Öffnen Sie die Startmail mit ihren Anhängen und anschließend die weiteren Belege in `Grundakte`. Die Fallseite führt zum Originalformat-ZIP und zur PDF-Lesefassung. Fügen Sie `Nachreichungen` erst hinzu, wenn Ihr erster Entwurf steht. Prüfen Sie dann, welche Feststellung sich mit dem neuen Beleg ändert. [Alle elf Interstate-Akten](vergabestelle-behoerden/Interstate%20AG/README.md)
 
-Wer alles lokal benötigt, nimmt direkt das [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/alles-komplettpaket.zip). Alle weiteren Einzel- und Sammeldownloads stehen im Abschnitt [Sofort-Downloads](#sofort-downloads).
+**Beispiel Brücke Riedanger.** Ein Betrieb will nur die Ostzufahrt asphaltieren. Ein anderer hält die gewertete Bauzeitverkürzung für unbelegt. Ein möglicher Auftrag lautet „Legen Sie mir für Los B zwei getrennte Antwortentwürfe vor. Belegen Sie den Loszuschnitt mit dem Leistungsverzeichnis und die Bauzeitwertung mit den eingereichten Formblättern. Was brauchen wir vor dem Zuschlag noch?“ [Freigabemail](vergabestelle-behoerden/Interstate%20AG/09-brueckenneubau/Grundakte/00_freigabe_los_b.eml) · [Fallakte Brücke Riedanger](vergabestelle-behoerden/Interstate%20AG/09-brueckenneubau/README.md)
 
-## Rechtsstand-Lotse Sommer 2026
+Für jede der sieben weiteren Verfahrensakten steht ein eigener Prüfauftrag der Vergabestelle als E-Mail mit Anhängen bereit. Die Fälle bieten auch Material für die Unternehmensseite. Für einen Teilnahmeantrag eignet sich die IT-Beratung, für ein Angebot die Stadthalle und für die Prüfung einer Zuschlagsentscheidung das Rechenzentrum. [Sieben Startmails einzeln herunterladen](testakten/README.md#startmails) · [Arbeitsaufträge nach Rolle](testakten/README.md#eine-akte-für-die-eigene-rolle-wählen)
+
+## Mit Claude, ChatGPT oder einem anderen System arbeiten
+
+Kann Ihr Chat eine `.eml`-Datei nicht lesen, öffnen Sie sie im Mailprogramm. Geben Sie Absender, Empfänger, Datum, Betreff und Nachrichtentext zusammen mit den separat gespeicherten Anhängen in den Chat. Bei den Interstate-Akten finden Sie die E-Mail auch als einzelne PDF im Einzel-PDF-ZIP.
+
+- **Claude im Browser oder in der Desktop-App.** Öffnen Sie `Customize` → `Plugins`. Ist der Upload eigener Plugins für Ihr Konto freigeschaltet, wählen Sie dort das ZIP Ihrer Rolle. Öffnen Sie danach einen Chat und geben Sie ihm die Dateien für den ersten Bearbeitungsstand. [Rollen-ZIPs](#plugins-installation) · [Claude-Hilfe zu Plugins](https://support.claude.com/en/articles/13837440-use-plugins-in-claude)
+- **Claude Cowork.** Öffnen Sie zuerst den Bereich `Cowork` und installieren Sie das Rollen-ZIP unter `Customize` → `Plugins`. Entpacken Sie das **Akten-ZIP** separat und stellen Sie Cowork zunächst nur die Grundakte bereit. [Claude-Hilfe zu Cowork und Plugins](https://support.claude.com/en/articles/13837440-use-plugins-in-claude)
+- **Claude Code.** Fügen Sie in der Sitzung den Marketplace mit `/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht` hinzu. Für die Vergabestelle folgt `/plugin install vergabestelle-behoerden@klotzkette-german-legal-skills`, für das Unternehmen `/plugin install bieter-unternehmen@klotzkette-german-legal-skills` oder für den Rechtsschutz `/plugin install konkurrenten-rechtsschutz@klotzkette-german-legal-skills`. Laden Sie mit `/reload-plugins` neu. Geben Sie beim Auftrag den Pfad zur entpackten Grundakte an. [Claude-Code-Dokumentation](https://code.claude.com/docs/en/plugins/install)
+- **ChatGPT.** Beginnen Sie einen eigenen Chat für den Fall. Fügen Sie den Rollenprompt als Text ein oder hängen Sie die Markdown-Datei an. Laden Sie die betreffenden Aktenstücke hoch und nennen Sie das benötigte Ergebnis. Für mehrere Bearbeitungsrunden können Sie ein Projekt anlegen, den Rollenprompt als Projektquelle hinterlegen und Nachreichungen später ergänzen. [Prompt für die Vergabestelle](vergaberecht-arbeitsprompt-vergabestelle.md) · [Prompt für Bewerber und Bieter](vergaberecht-arbeitsprompt-bieter.md) · [Prompt für den Rechtsschutz](vergaberecht-arbeitsprompt-konkurrenten.md) · [OpenAI-Hilfe zu Projekten](https://help.openai.com/en/articles/10169521-projects-in-chatgpt)
+- **Andere Chat-Systeme oder Claude ohne Plugin-Funktion.** Kopieren Sie den Rollenprompt in den Chat. Falls das System Dateianhänge unterstützt, geben Sie die Grundakte dazu. Andernfalls fügen Sie die für den Auftrag benötigten Passagen mit Dokumentname und Datum als Text ein. [Kurze und ausführliche Rollenprompts](#arbeits--und-kurzprompts-je-marktseite-einzelne-markdown-dateien)
+
+<a id="rechtsstand-lotse-sommer-2026"></a>
+
+## Stichtage für die Rechtsprüfung
 
 | Zeitlicher Bezug | Bedeutung für die Prüfung | Direkter Arbeitsweg |
 | --- | --- | --- |
 | seit 30.06.2026 | VO (EU) 2026/718 konkretisiert Art. 25 VO (EU) 2024/1735 für erfasste Windvergaben; Rotorblätter müssen mindestens 70 Prozent nach Gewicht rezyklierbar sein | [gemeinsame Prüfkarte](references/netto-null-technologien-vergabe-2026.md) · [Vergabestelle](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/skills/netto-null-technologien-vergabe/FACHINHALT.md) · [Bieter](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/skills/netto-null-technologien-vergabe/FACHINHALT.md) · [Konkurrent](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/skills/netto-null-technologien-vergabe/SKILL.md) |
 | seit 01.07.2026 | GWB-/VgV-Reform nur für Neuverfahren; § 187 Abs. 2 GWB hält Altverfahren einschließlich Rechtsschutz im alten Recht | [Geltungs- und Entscheidungsanker](references/leitentscheidungen-anker.md#zeitliche-geltungsweiche-zum-1-juli-2026) |
 | Urteil vom 09.07.2026 | EuGH C-856/24 verlangt für die ÖPNV-Direktvergabe an einen internen Betreiber auf der Sonderroute der VO (EG) 1370/2007 übertragenes Betriebsrisiko | [Leitentscheidungen](references/leitentscheidungen-anker.md#eu--und-unionsrechtsanker) |
-| Entwurf vom 30.06.2026 | Die geplante UVgO-Neufassung ist noch nicht geltendes Recht; Einführungsakt und Bestandsrecht von Bund oder Land bleiben maßgeblich | [Status- und Quellenhinweis](references/leitentscheidungen-anker.md#uvgo-reformentwurf-vom-30-juni-2026) |
-
-## Rollenkarte
-
-| Marktrolle | Arbeitsumgebung ansehen | Plugin herunterladen | Ohne Plugin starten | Testakten |
-| --- | --- | --- | --- | --- |
-| Vergabestelle | [`vergabestelle-behoerden`](vergabestelle-behoerden/README.md) | [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.17/vergabestelle-behoerden.zip) | [Arbeitsprompt](vergaberecht-arbeitsprompt-vergabestelle.md) · [Kurzprompt](vergaberecht-kurzprompt-vergabestelle.md) · [Mini bis 7.500 Zeichen](unified-mini-prompts/vergabestelle-behoerden.md) | [Reinigung](testakten/01-reinigung-grundschule-musterstadt/README.md) · [Laptops](testakten/02-laptopbeschaffung-landesamt-musterland/README.md) · [§ 132 GWB](testakten/05-insolvenz-auftragnehmerwechsel-132-gwb/README.md) |
-| Bieter | [`bieter-unternehmen`](bieter-unternehmen/README.md) | [`bieter-unternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/bieter-unternehmen.zip) | [Arbeitsprompt](vergaberecht-arbeitsprompt-bieter.md) · [Kurzprompt](vergaberecht-kurzprompt-bieter.md) · [Mini bis 7.500 Zeichen](unified-mini-prompts/bieter-unternehmen.md) | [Bauleistung](testakten/03-bauleistung-stadthalle-musterstadt/README.md) · [IT-Beratung](testakten/04-it-beratung-ministerium-musterland/README.md) · [IT-SIG-2](testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/README.md) |
-| Konkurrent | [`konkurrenten-rechtsschutz`](konkurrenten-rechtsschutz/README.md) | [`konkurrenten-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/konkurrenten-rechtsschutz.zip) | [Arbeitsprompt](vergaberecht-arbeitsprompt-konkurrenten.md) · [Kurzprompt](vergaberecht-kurzprompt-konkurrenten.md) · [Mini bis 7.500 Zeichen](unified-mini-prompts/konkurrenten-rechtsschutz.md) | [Rechenzentrum](testakten/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis/README.md) · [IT-SIG-2](testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/README.md) |
+| Entwurf vom 30.06.2026 | Für eine Anwendung der UVgO zählen die beim Auftraggeber eingeführte Fassung und das Recht am Verfahrensstichtag. Der Entwurf allein begründet keine Geltung. | [Status- und Quellenhinweis](references/leitentscheidungen-anker.md#uvgo-reformentwurf-vom-30-juni-2026) |
 
 ## Dateikatalog
 
-Die öffentliche Einbettung, unveränderten Quellen und Build-Befehle sind in [PUBLIC-INTEGRATION.md](PUBLIC-INTEGRATION.md) dokumentiert. Installierbar sind nur die Rollen-Plugin-ZIPs. Quellcode- und Komplettarchive dienen der Dokumentation und Entwicklung, nicht der Plugin-Installation.
+Für die Installation in Claude wählen Sie das ZIP zur jeweiligen Rolle. Das Quellarchiv und das Komplettpaket bündeln Dateien für die lokale Nutzung und Entwicklung. Herkunft, Marketplace-Anbindung und Build-Befehle beschreibt die [technische Dokumentation](PUBLIC-INTEGRATION.md).
 
 ### Optionaler externer Entwicklungshelfer
 
@@ -101,9 +108,9 @@ Die Links in der Spalte `Herunterladen` sind stabile Release-Downloads und gehö
 | Lage | Einstieg | Link |
 | --- | --- | --- |
 | Ich suche eine bestimmte Repo-Datei | Vollständigen Dateikatalog oder GitHub-Dateibaum öffnen | [Dateikatalog](#dateikatalog) |
-| Ich arbeite in Claude Desktop oder Cowork | Rollenpassendes Plugin-ZIP in `Customize`, `Plugins`, `+` hochladen | [Plugin-ZIPs](#plugins-installation) |
+| Ich arbeite im Claude-Chat oder in Cowork | Wenn eigene Plugins verfügbar sind, das Rollen-ZIP unter `Customize` → `Plugins` hochladen | [Plugin-ZIPs](#plugins-installation) |
 | Ich arbeite in Claude Code | Repo als Marketplace hinzufügen und genau ein Rollenplugin installieren | [Installationsbefehle](#plugins-installation) |
-| Ich arbeite ohne Plugin in einem normalen Chatbot | Arbeitsprompt als empfohlene Vollfassung anhängen | [Arbeitsprompts](#arbeits--und-kurzprompts-je-marktseite-einzelne-markdown-dateien) |
+| Ich arbeite in ChatGPT oder einem anderen Chat | Rollenprompt als Text einfügen oder Datei anhängen und die Unterlagen für den Arbeitsstand mitgeben | [Arbeitsprompts](#arbeits--und-kurzprompts-je-marktseite-einzelne-markdown-dateien) |
 | Mein Chat hat wenig Kontextplatz | Rollenpassenden Unified Mini Prompt anhängen | [Mini-Prompts](unified-mini-prompts/README.md) |
 | Ich will nur einzelne Spezialfähigkeiten nutzen | Skills-Markdown-ZIP nehmen oder einzelne `SKILL.md` aus dem Index öffnen | [SKILLS.md](SKILLS.md) |
 | Ich will realistische Unterlagen testen | Testakte als ZIP laden oder Gesamt-PDF lesen | [Testakten](testakten/README.md) |
@@ -111,9 +118,9 @@ Die Links in der Spalte `Herunterladen` sind stabile Release-Downloads und gehö
 
 <a id="plugins-installation"></a>
 
-### Plugins für Claude Code, Desktop und Cowork
+### Rollen-Plugins für Claude, Cowork und Claude Code
 
-In Claude Code zuerst einmal `/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht` ausführen, danach `/plugin install [plugin-name]@klotzkette-german-legal-skills` und `/reload-plugins`. In Claude Desktop oder Cowork das Plugin-ZIP über `Customize`, `Plugins`, `+` hochladen. Danach weder einen Arbeitsprompt zusätzlich laden noch einen Skill auswählen: Fallunterlagen anhängen und den Startsatz oben senden. [Offizielle Installationshinweise](https://support.claude.com/en/articles/13837440-use-plugins-in-claude).
+In Claude Code zuerst einmal `/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht` ausführen, danach `/plugin install [plugin-name]@klotzkette-german-legal-skills` und `/reload-plugins`. In Claude im Browser, in der Desktop-App oder in Cowork das Rollen-ZIP unter `Customize` → `Plugins` als eigenes Plugin hochladen, sofern Ihr Konto dies erlaubt. Danach Aktenunterlagen bereitstellen und die benötigte Entscheidung oder das Schreiben benennen. [Offizielle Installationshinweise](https://support.claude.com/en/articles/13837440-use-plugins-in-claude).
 
 | Plugin | Rolle | Zweck | Ansehen | Plugin-ZIP | Skills-ZIP | Mini-Prompt |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -124,7 +131,7 @@ In Claude Code zuerst einmal `/plugin marketplace add Klotzkette/claude-fuer-deu
 
 ### Arbeits- und Kurzprompts je Marktseite (einzelne Markdown-Dateien)
 
-Jeder Prompt ist eine einzelne `.md`-Datei zum direkten Datei-Download. In jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, Perplexity, Claude) als Anhang nutzbar oder per Copy & Paste.
+Jeder Prompt ist eine einzelne `.md`-Datei zum direkten Datei-Download. Öffnen Sie die Datei und kopieren Sie den Text in einen eigenen Chat. Bei unterstütztem Dateiupload können Sie den Prompt zusammen mit der Grundakte anhängen.
 Der Kurzprompt ist ein ausführlicher Fachworkflow ohne starres Zeichenlimit. Nur der Unified Mini Prompt ist auf höchstens 7.500 Zeichen begrenzt.
 Diese Prompts sind eigenständige Alternativen für Chats ohne Plugin; bei installiertem Plugin werden sie nicht zusätzlich benötigt.
 
@@ -140,7 +147,7 @@ Diese Prompts sind eigenständige Alternativen für Chats ohne Plugin; bei insta
 | Unified Mini Prompt — bieter-unternehmen | Verdichteter Workflow bis 7.500 Zeichen | [`bieter-unternehmen-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-unified-mini-prompt.md) |
 | Unified Mini Prompt — konkurrenten-rechtsschutz | Verdichteter Workflow bis 7.500 Zeichen | [`konkurrenten-rechtsschutz-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-unified-mini-prompt.md) |
 
-### Testakten (anonymisierte Demonstrations-Vergabeakten)
+### Testakten (fiktive Vergabeverfahren)
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -192,45 +199,21 @@ Unterhalb der EU-Schwellenwerte besteht kein bundesweit einheitliches Nachprüfu
 
 Schwellenwerte werden alle zwei Jahre angepasst. Für 2026/2027 gilt die Delegierte Verordnung (EU) 2025/2152 für klassische Vergaben, 2025/2150 für Sektoren, 2025/2151 für Konzessionen und 2025/2487 für Verteidigungs- und Sicherheitsvergaben. Zuordnung, Geltungszeitraum und Wert live über EUR-Lex und § 106 GWB verifizieren.
 
-## Plugin 1: vergabestelle-behoerden
+<a id="plugin-1-vergabestelle-behoerden"></a>
+<a id="plugin-2-bieter-unternehmen"></a>
+<a id="plugin-3-konkurrenten-rechtsschutz"></a>
 
-122 Skills: 30 Kernskills plus verwertete Vertiefungen aus dem Legal-Repo in 8 Phasen:
+## Was die Rollenplugins bearbeiten
 
-- Phase A — Bedarf und Schätzung (3 Skills): Bedarfsermittlung, Auftragswertschätzung, Schwellenwertprüfung
-- Phase B — Verfahrenswahl (3 Skills): Verfahrensart, Bekanntmachung, Eignung- und Zuschlagskriterien
-- Phase C — Unterlagen (7 Skills): Vergabeunterlagen, Leistungsbeschreibung, ESPD, Zuschlagsmatrix, Bestangebot-Durchsetzung, LV-/Datenformate, Legacy-Systeme-Integration
-- Phase D — Verfahrensdurchführung (4 Skills): Eignungsprüfung, Ausschluss, Angebotsöffnung, Aufklärung niedriger Preise
-- Phase E — Wertung (4 Skills): Rechnerische und formelle Prüfung, Wertung, Wertungsvermerk
-- Phase F — Zuschlag (3 Skills): Vorabinformation § 134 GWB, Zuschlag, Aufhebung
-- Phase G — Nachprüfung (3 Skills): Rügeerwiderung, Stellungnahme VK, Beschwerdeerwiderung OLG
-- Phase H — Dokumentation Querschnitt (8 Skills): Vergabevermerk § 8 VgV, Akteneinsicht, Selbstreinigung, Vergabesperre, Fristberechnung, Datenschutz, Bekanntmachungs-/Uploadrouting, Insolvenz- und Auftragnehmerwechsel nach § 132 GWB
-
-## Plugin 2: bieter-unternehmen
-
-113 Skills: 30 Kernskills plus verwertete Vertiefungen aus dem Legal-Repo in 8 Phasen:
-
-- Phase A — Markterfassung Go-No-Go (5 Skills): Bekanntmachung lesen, Vergabeunterlagen prüfen, Unterlagen-/LV-Datenformate, Legacy-Systeme-Integration, Go-No-Go
-- Phase B — Eignung (5 Skills): Eignungsanforderungen, ESPD, Präqualifikation, Eignungsleihe, Bietergemeinschaft
-- Phase C — Angebotsaufbau (7 Skills): Kalkulation, LV bepreisen, Nebenangebote, Referenzen, Konzepte, Qualitätsvorsprung, EU-Erklärungen
-- Phase D — Abgabe (4 Skills): Angebot im vorgegebenen Format, Formgerechte Abgabe mit elektronischer Signatur, Fristprüfung, Bietergemeinschaftserklärung
-- Phase E — Aufklärung (2 Skills): Aufklärung niedriger Preise § 60, Inhaltsaufklärung § 15
-- Phase F — Rüge (3 Skills): Rügefrist 10 Kalendertage, Rügeschreiben, Nicht-Abhilfe-Folgeschritt
-- Phase G — Nachprüfung (3 Skills): Nachprüfungsantrag, Eilantrag Zuschlagssperre, sofortige Beschwerde
-- Phase H — Vertrag und Querschnitt (6 Skills): Zuschlagsannahme, Vertragsanpassung § 132 GWB, Insolvenz- und Auftragnehmerwechsel, Selbstreinigung, Schadensersatz, Datenschutz
-
-## Plugin 3: konkurrenten-rechtsschutz
-
-20 Skills als fokussierte Streit-Workbench für unterlegene Bieter, Wettbewerber und Zuschlagsgegner:
-
-- Start und Routing: Startbildschirm, Rollenklärung, Fristenampel, Zielauswahl und Output-Menü.
-- Unterlagen und Formate: Bekanntmachung, Vergabeunterlagen, LV, GAEB/XML/Excel/PDF, Legacy-IT, SAP/ERP/AVA/DMS, MCP, Portalprotokolle und Belegmatrix prüfen.
-- Rüge und Nachprüfung: Rüge nach § 160 GWB, Nichtabhilfe, Nachprüfungsantrag, Zuschlagssperre, De-facto-Vergabe und Akteneinsicht.
-- Angriffslinien: Billigzuschlag, Wertung, Dokumentation, Eignung des Zuschlagsprätendenten, Ausschlussgründe, Produktneutralität und Leistungsbeschreibung.
-- Eskalation und Risiko: OLG-Beschwerde, Vergleichsfenster, Abstellungsstrategie, Kosten- und Schadensersatzrisiko.
+| Plugin | Typische Arbeitsergebnisse | Verzeichnis |
+| --- | --- | --- |
+| Vergabestelle | Auftragswert- und Losvermerk, Vergabeunterlagen, Wertungsmatrix, Entscheidung über Abhilfe und Stellungnahme an die Vergabekammer | [8 Arbeitswege mit Hauptskill und 121 Vertiefungen](vergabestelle-behoerden/FACHMODULE.md) |
+| Bewerber und Bieter | Eignungs- und Referenzmatrix, Teilnahmeantrag, Nachweisliste, Angebotsprüfung und Bieterfrage | [8 Arbeitswege mit Hauptskill und 112 Vertiefungen](bieter-unternehmen/FACHMODULE.md) |
+| Konkurrentenrechtsschutz | Fristenübersicht, begründete Rüge, Nachprüfungsantrag, Akteneinsicht und Beschwerdeschriftsatz | [20 Skills für die Rechtsschutzprüfung](skills-index/konkurrenten-rechtsschutz.md) |
 
 ## Testakten
 
-Testakten mit vollständigen Vergabeunterlagen, Bieterunterlagen und Streitakten. Anonymisierte Beispiele aus realistischen Branchen (Reinigungsdienstleistung, IT-Beschaffung, Bauleistungen, Beratungsleistung, Rechenzentrumsbetrieb) sowie eine umfangreiche IT-SIG-2-Nachprüfungsakte für die Marktrollen.
+Die sieben fiktiven Verfahrensakten umfassen die Beschaffung von Reinigungsdiensten und Laptops, Bau- und IT-Leistungen, einen Auftragnehmerwechsel und zwei Nachprüfungsverfahren. Die Fallseiten führen jeweils zu den einzelnen Unterlagen und den vollständigen Lesefassungen.
 
 Für Übungen mit der ersten Post der Vergabestelle, des Bieters oder des Konkurrenten wählen Sie im [Katalog der Arbeitsakten mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen) einen der folgenden Fallordner. Öffnen Sie im Arbeits-ZIP zuerst `Grundakte/00_Posteingang`.
 

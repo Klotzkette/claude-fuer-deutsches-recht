@@ -27,6 +27,10 @@ Die ZIP-URL ist an den Komponentenstand gebunden. Außer README.txt mit dem Warn
 
 <!-- END gesamt-pdf-section (autogen) -->
 
+## Auftrag der Vergabestelle
+
+Öffnen Sie die E-Mail im Mailprogramm. Der Prüfauftrag und die angehängten Originalunterlagen bilden einen eigenständigen Einstieg in diesen Fall. [E-Mail mit Originalanhängen herunterladen](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/05-insolvenz-auftragnehmerwechsel-132-gwb/eml/00_pruefauftrag_vergabestelle.eml)
+
 ## Fallbild
 
 Die Stadt Hafenburg hat nach EU-weitem offenen Verfahren den Auftrag `HB-IT-SERVICE-2026` für Betrieb, Wartung und Vor-Ort-Support der kommunalen Fachverfahren an die NordSys Services GmbH vergeben. Nach sechs Monaten stellt NordSys einen Insolvenzantrag. Der Betrieb soll über einen Insolvenzplan und parallel als Asset Deal auf die NordSys Betriebserwerber GmbH übergehen.

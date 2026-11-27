@@ -42,7 +42,7 @@
     {
       "phase": "Grundakte",
       "datei": "00_wertungsunterlagen_export.eml",
-      "titel": "Mobiles Bauprüfbuch – bitte den Export zu Testvorgang C belegen",
+      "titel": "Mobiles Bauprüfbuch – welcher Beleg trägt die Punktedifferenz bei Vorgang C?",
       "datum": "2026-11-09",
       "uhrzeit": "18:05",
       "von": "Tabea Rothen · IT-Einkauf West",
@@ -50,9 +50,18 @@
       "absender": "pruefbuch@interstate-west.example",
       "empfaenger": "baupruefung@interstate-west.example",
       "text": [
-        "Frau Esch, für die Anwendung, mit der unsere Prüfer auf der Baustelle Schäden samt Foto erfassen, ist die Vorabinformation an Planquell heute rausgegangen. Pultfeld liegt mit 89 zu 82 Punkten vorn. Im Wertungsbogen steht bei Planquell „C ohne Bild im Hauptblatt“. Unsere Auskunft an die Unternehmen lässt auch eine zweite Datei zu, wenn das Foto über die Vorgangsnummer mit dem Befund verbunden bleibt.",
-        "Welche Dateien hat das Team bei den beiden Vorführungen tatsächlich geöffnet, und wie hat es die Bildzuordnung bei C geprüft? Bitte geben Sie mir die damaligen Aufzeichnungen beider Prüfenden, damit ich die Punkte vor Vertragsschluss nachvollziehen kann. Es geht um die Auswahl der Anwendung in Los 1. Die fünfzehn Testpakete für die spätere unabhängige Abnahme gehören zu Los 2.",
-        "Danke und viele Grüße\nTabea Rothen"
+        "Guten Abend, Frau Esch,",
+        "ich habe Planquell heute um 17.45 Uhr informiert, dass Los 1 für das mobile Bauprüfbuch an Pultfeld gehen soll. Pultfeld liegt bei 89 Punkten, Planquell bei 82. Bei Planquell steht als Grund für den Abzug „C ohne Bild im Hauptblatt“. Unsere Prüfer müssen später beim Export erkennen können, welches Foto zu welchem Baustellenbefund gehört. In Antwort Nr. 6 haben wir ausdrücklich auch eine gesonderte Zuordnungsdatei zugelassen.",
+        "Anbei Anlage E3, die veröffentlichte Antwort und Ihr Wertungsbogen. Was haben die beiden Prüfenden bei C am 20. und 21. Oktober jeweils geöffnet? Bitte lassen Sie sie die damaligen Aufzeichnungen und Dateiverzeichnisse zu den Vorführungen heraussuchen. Ich brauche die tatsächlich gezeigte Vorgangsnummer und den dazugehörigen Bildverweis, soweit protokolliert. Eine Wiederholung mit einer heutigen Programmfassung würde mir nicht zeigen, was damals vorgeführt wurde.",
+        "Bitte geben Sie mir bis morgen Mittag einen kurzen Wertungsvermerk für die Einkaufsleitung. Er soll erkennen lassen, welche Punkte sich belegen lassen, was für die Rangfolge daran hängt und ob wir an der Vorabinformation festhalten können. Für Los 1 ist der Vertragsschluss frühestens am 20. November vorgesehen. Die fünfzehn Testpakete für die unabhängige spätere Abnahme in Los 2 werden gesondert vergeben.",
+        "Vielen Dank\nTabea Rothen"
+      ],
+      "anlagen": [
+        "03_veroeffentlichte_wertungsregeln.docx",
+        "04_bieterfrage_und_antwort.txt",
+        "05_eingereichte_preise.xlsx",
+        "06_wertungsbogen.xlsx",
+        "07_vorabinformation.eml"
       ]
     },
     {

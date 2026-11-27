@@ -1,0 +1,99 @@
+{
+  "akten": {
+    "arbeitsrecht-kuendigung-betriebsbedingt-leipzig": {
+      "eingangspost": 4,
+      "originale": 18,
+      "einzelpdfs": 18,
+      "seiten": 19,
+      "quellen": {
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-kuendigung-betriebsbedingt-leipzig-einzelpdfs.zip": "e972cc952386c1503d72efcfd568737feeb50dc83e00fca9317c795a5a55127a",
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-kuendigung-betriebsbedingt-leipzig.zip": "e8cfdb38fc5e19eaab4f8fc2fb5a78e0d82a1dcebaf69f4128c84a4c02629684",
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-kuendigung-betriebsbedingt-leipzig-prozessunterlagen.zip": "697648ed99cd09b012c4551280b508c346f6cffd55835694832637027b4e1c70"
+      },
+      "redaktion_sha256": "dd5a809853a0569ef921c45ac4d8e71d4601c89c136fbe53e534f78da7426ed3"
+    },
+    "arbeitsrecht-kuendigung-schwangerschaft-augsburg": {
+      "eingangspost": 4,
+      "originale": 20,
+      "einzelpdfs": 20,
+      "seiten": 21,
+      "quellen": {
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg-einzelpdfs.zip": "1897de408b197fc02b1a32f22b197c110914bdd846ff3a8476c259378ac7656f",
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg.zip": "8cfdd40ed4f1263b9e000ff19df10e4ca74f9f189aa2767a4aa5e92ea0713a57",
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg-prozessunterlagen.zip": "5b0f86d3ec48241802c5d26ab3f7368b4dd0906131e4f6a78c56f8f192c96f14"
+      },
+      "redaktion_sha256": "ebf508f51a849665b3bd1f27a7475b96331bb426766e585f41096168e6962ebf"
+    },
+    "arbeitsrecht-muster-seewerk-konzept-radolfzell": {
+      "eingangspost": 4,
+      "originale": 31,
+      "einzelpdfs": 31,
+      "seiten": 31,
+      "quellen": {
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell-einzelpdfs.zip": "80e802c10d76c8cc0f212c74d84f962a2b839ae5e72055c8d5356fc7a011c165",
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell.zip": "3fcd88cf24defecfc050a11f6c01d9f20e8a814622d70b174cc4d49071b493a7",
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell-prozessunterlagen.zip": "05ac671d4a0a5f5fcaa3296cacabe65c2f164a0df19daa41b00019aea8146a59"
+      },
+      "redaktion_sha256": "6f9a5603e9c05aba2c4c734f8cf6171219ca3c878a24bb9d928e5a0dacfea4c7"
+    },
+    "arbeitsrecht-muster-seewerk-lebensakte-radolfzell": {
+      "eingangspost": 4,
+      "originale": 56,
+      "einzelpdfs": 56,
+      "seiten": 58,
+      "quellen": {
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell-einzelpdfs.zip": "e501a4317491475ed1648c82c7116e0d660eb712ee84d4655ae2e4d9855ccead",
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip": "296da1c126a1aecdb066b5f0d729400a346ee53fb00c63ef4a423fac0dff4150",
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell-prozessunterlagen.zip": "6d6b795686fd80d55ef3f42b4642b850f511b964953019a97d3688fe766eb581",
+        "docs/workshops/arbeitsrecht-praxisnachtraege/quellen/seewerk.json": "44dca754c5ce9de1f36c71a8335d60091f47abce838176ff4294a169bfc9c7da",
+        "docs/workshops/arbeitsrecht-praxisnachtraege/quellen/E18_Anlagenjournal_16_Oktober_2026.csv": "a4216f4e29821dac10d62385093f0bca3ac44053c4d4fcc54f3bff32abe3fc15"
+      },
+      "redaktion_sha256": "e4c550036aed6b43901e87d3f24ab8e23b16312a32d2628210d3977eda16cfcb"
+    },
+    "arbeitsrecht-verdachtskuendigung-bonn": {
+      "eingangspost": 4,
+      "originale": 20,
+      "einzelpdfs": 20,
+      "seiten": 21,
+      "quellen": {
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-verdachtskuendigung-bonn-einzelpdfs.zip": "ada887cd32f22f860c43e2823d36c5a157bcf917bcaaad1fc78758d5657a2142",
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-verdachtskuendigung-bonn.zip": "e0281374c13e818b5f18e3431ddad013478075777f51e5b4554c9194a63a7867",
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-verdachtskuendigung-bonn-prozessunterlagen.zip": "955f7e008b18e0202ac5a94af8e44e4b1decfa772194110aa1f7b564e5a22228"
+      },
+      "redaktion_sha256": "ba2d6d7f2bc63e61bed8fad5f9c7a1485c7a7b9e4b3e45710f91fe9338a3fe11"
+    },
+    "arbeitsrecht-muster-uferwerk-berufung": {
+      "eingangspost": 5,
+      "originale": 102,
+      "einzelpdfs": 102,
+      "seiten": 195,
+      "quellen": {
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip": "787f7f883e59a46d6a85463658d6d9e23b35e875da1c7814ad5179d635dc59ce",
+        "docs/workshops/arbeitsrecht-praxisnachtraege/quellen/uferwerk.json": "aa31bce4e6b9df6a362f56717ab3cb3e7462401cc1b4ea24b1a3638c3a3d15be",
+        "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/pruefung/uferwerk-bestand.json": "42a92c8059b6a41a82948203629b2a069bf4ba13d17a2471cd8b7f11ed70929b"
+      },
+      "redaktion_sha256": "1df57c266c0b40d2429fbd14b88d3620ac5096629de0a72f11c50e1e94970e1e"
+    }
+  },
+  "downloads": {
+    "arbeitsrecht-muster-seewerk-lebensakte-radolfzell-mit-nachtrag.zip": "cee5ee9aa8f98d1edef3b041b43411d0be07667abad0799013b088202e5db20d",
+    "arbeitsrecht-muster-uferwerk-berufung-mit-nachtrag.zip": "edc02792c6d4de157fe71c6a5ae3b4e9b6d252ed4e381ca71132c6ba6bd70e02",
+    "druckakte-arbeitsrecht-kuendigung-betriebsbedingt-leipzig.zip": "871f7e21232eb12c298d87eb1a72942d1d41332d2215bbafc068f3c380bd4a74",
+    "druckakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg.zip": "f623eb6e918debef29d99e0bd1b4759fde0562c885891b826f0432f9f0561ca6",
+    "druckakte-arbeitsrecht-muster-seewerk-konzept-radolfzell.zip": "f3528283563d5add642b8f1595c4ef2e3460ddc14c7ce4e5e3b83ab3365c516a",
+    "druckakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip": "66136f09b2dccf0be3c18ec555aa47e3751c3d484af4562cd3476f09ba67df17",
+    "druckakte-arbeitsrecht-muster-uferwerk-berufung.zip": "530cf4e44c1350a72425a9bfb50ba3bb817f7b78f50d2881b1273cc3afb17ff2",
+    "druckakte-arbeitsrecht-verdachtskuendigung-bonn.zip": "ab7501940037d860175e597b1fd679ca2d19898225c8d2f6ca0826affdb89078",
+    "lebensakte-arbeitsrecht-kuendigung-betriebsbedingt-leipzig.zip": "b036ac2d8018295231a1f7449047d34190ff30d50f5604b8a35ad455459a0f46",
+    "lebensakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg.zip": "172059a6faf065b6a18682b69f6709e67af2d2d0142b38837f2b945b9bdf298e",
+    "lebensakte-arbeitsrecht-muster-seewerk-konzept-radolfzell.zip": "c5c2018d97070c8944fc2874cc5220a8a04133b194b661324ec059b2d3560ba6",
+    "lebensakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip": "7bb8557fcf1fa6e2479c271b2fdc17f6605be656be69e0b01a72a2ea03bdcb49",
+    "lebensakte-arbeitsrecht-muster-uferwerk-berufung.zip": "86dc8c700fac47590a1ec244984bac64379350a0996751defc54fe6a78c4859a",
+    "lebensakte-arbeitsrecht-verdachtskuendigung-bonn.zip": "88123e751c5aa3816e37bd26021d3bf348abd3b9d2a97a58aaca83507f5b957e",
+    "testakte-arbeitsrecht-kuendigung-betriebsbedingt-leipzig.zip": "422d8ff74bd39b55a4de684fcf5bdf27e6b5988ca4438ace17fb1d2b4f530baf",
+    "testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg.zip": "0866b78d01f7aaa14e4d549d87b9ff13487a5ee247c4dc154f62e783bcc97179",
+    "testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell.zip": "3204c44153145b8f9848b62bf99b1eea320d6084a5541be3de791a57fc448b83",
+    "testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip": "ca848e55d4f6deee6d6902f97f7e21f72386c56cfdb5078970e21f8dccbb9f84",
+    "testakte-arbeitsrecht-verdachtskuendigung-bonn.zip": "cf78633d8646e60ac089072d457ed9433f7ef0377544fc562443f2f19e808b34"
+  }
+}

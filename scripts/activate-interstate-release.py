@@ -4,4 +4,4 @@ from activate_quality_release import main
 
 
 if __name__ == "__main__":
-    main(default_tag="qualitaetsrunde-v445.36.17")
+    main(default_tag="qualitaetsrunde-v445.36.18")

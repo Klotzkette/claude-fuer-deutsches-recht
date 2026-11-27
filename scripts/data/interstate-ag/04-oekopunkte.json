@@ -49,30 +49,46 @@
       "BFH · Grundstückserwerb und Ökokonto, grunderwerbsteuerliche Entscheidung; Reichweite der Grundstücksbindung im dortigen Sachverhalt",
       "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520306/"
     ],
-    ["§ 160 GWB – Antrag und Rüge im Nachprüfungsverfahren", "https://www.gesetze-im-internet.de/gwb/__160.html"]
+    [
+      "§ 160 GWB – Antrag und Rüge im Nachprüfungsverfahren",
+      "https://www.gesetze-im-internet.de/gwb/__160.html"
+    ]
   ],
   "einwendungspruefung": [
-    {"eingabe": "11_einwendung_wiesenkante.eml", "gegenpruefung": "08_behoerdenauskunft.eml"},
-    {"eingabe": "11_einwendung_wiesenkante.eml", "gegenpruefung": "12_eingang_und_adressat.txt"}
+    {
+      "eingabe": "11_einwendung_wiesenkante.eml",
+      "gegenpruefung": "08_behoerdenauskunft.eml"
+    },
+    {
+      "eingabe": "11_einwendung_wiesenkante.eml",
+      "gegenpruefung": "12_eingang_und_adressat.txt"
+    }
   ],
   "dokumente": [
     {
       "phase": "Grundakte",
       "datei": "00_mitzeichnung_punktekauf.eml",
-      "titel": "Werkhof am Eschbach · Kann die Bestellung über 342.000 Euro in die Leitungssitzung?",
+      "titel": "Werkhof Borken – welche Leistung soll die Leitung für 180.000 Ökopunkte bestellen?",
       "datum": "2026-10-08",
       "von": "Bilal Hartung · Deutsche Interstate AG, Niederlassung West, Einkauf",
       "an": "Lena Fabri · Deutsche Interstate AG, Niederlassung West, Justiziariat",
       "text": [
         "Guten Tag, Frau Fabri,",
-        "für den Werkhof in Borken fehlen uns 180.000 Ökopunkte. Ich soll der Niederlassungsleitung am 14. Oktober die Bestellung bei Vennsaum zur Unterschrift vorlegen. Vennsaum verlangt 342.000 Euro netto für die Zuordnung von bereits angelegtem Grünland. Kann ich diesen Einkauf ohne Ausschreibung zur Freigabe geben? Ich habe die Bestellung vorerst als Entwurf gespeichert.",
-        "Mir ist unklar, was ich Wiesenkante sagen soll. Die Genossenschaft möchte für uns eine Wiese anlegen und zwanzig Jahre pflegen. Genau diese Arbeiten stehen noch in Position 2 unserer Bedarfsmeldung. Wenn wir sie beschaffen wollen, brauche ich von der Landschaftsplanung einen Auftrag mit klarer Laufzeit. Wenn wir nur die Zuordnung kaufen, muss ich klären, welche anderen Flächen für die Genehmigung infrage kommen.",
-        "Bitte geben Sie mir vor der Sitzung eine Rückmeldung, welche Fassung ich der Leitung vorlegen kann und was ich vorher beim Kreis oder bei den Anbietern einholen soll. Vennsaum hält den Preis bis 16. Oktober, 12 Uhr. Bis 18. Dezember will die Projektleitung der Bauaufsicht die vollständige Sicherung nachweisen.",
+        "in meiner Bestellmaske stehen 342.000 Euro netto für 180.000 Ökopunkte von Vennsaum. Die Niederlassungsleitung will am 14. Oktober entscheiden. Bevor ich ihr die Bestellung vorlege, brauche ich Ihre Mitzeichnung: Bezahlen wir die Zuordnung einer bestehenden Maßnahme zum Werkhof oder beschaffen wir eigene Landschaftspflege? Für dieselben Punkte steht bei uns noch eine ganz andere Leistungsbeschreibung im Entwurf.",
+        "Ich schicke Ihnen die Auflage der Stadt, beide Angebote, unser Leistungsblatt und meinen Beschaffungsvermerk. Bei Vennsaum bleibt das Grünland im Pool. Wiesenkante will auf einer gepachteten Fläche säen und für uns zwanzig Jahre pflegen. Im Bestellentwurf wird das wie ein Grundstücksgeschäft behandelt. Was bekommt die AG an Fläche, Nutzungsrecht oder Pflegeleistung, und deckt das überhaupt die Auflage der Stadt ab? Die Leitung braucht je Angebot den Gesamtbetrag mit etwaigen Optionen, den Beschaffungsweg und den Beleg, den wir für den Werkhof vorlegen könnten.",
+        "Bitte geben Sie mir vor der Sitzung den Beschlussvorschlag mit Ihrer Begründung zurück. Formulieren Sie auch die noch nötige Anfrage an den Kreis und die Antworten, die ich den beiden Anbietern schicken kann. Ich möchte die Preisbindung von Vennsaum am 16. Oktober um 12 Uhr von unserem Nachweistermin am 18. Dezember gegenüber der Bauaufsicht unterscheiden können.",
         "Viele Grüße\nBilal Hartung"
       ],
       "absender": "einkauf@interstate-west.example",
       "empfaenger": "justiziariat@interstate-west.example",
-      "uhrzeit": "16:10"
+      "uhrzeit": "16:10",
+      "anlagen": [
+        "01_werkhof_auflage.docx",
+        "03_angebot_bestand.docx",
+        "04_entwurf_leistungsblatt.docx",
+        "05_angebot_entwicklung.docx",
+        "07_vermerk_beschaffung.docx"
+      ]
     },
     {
       "phase": "Grundakte",

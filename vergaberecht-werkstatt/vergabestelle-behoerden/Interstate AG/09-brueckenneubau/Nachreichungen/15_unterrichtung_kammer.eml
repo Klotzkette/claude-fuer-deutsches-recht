@@ -5,9 +5,13 @@ To: Martha Jost =?utf-8?q?=C2=B7_Vergabestelle=2C_Deutsche_Interstate_AG=2C?=
 Date: Mon, 16 Nov 2026 12:24:00 +0100
 Message-ID: <0284fd360b9db8818b4f1e04@fallpost.example>
 Subject: Unterrichtung der Vergabestelle durch die Vergabekammer
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-39e16c78d51ac7c2a588f68e"
+
+--interstate-alt-39e16c78d51ac7c2a588f68e
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Die Gesch=C3=A4ftsstelle =C3=BCbermittelt auf Verf=C3=BCgung der Vorsitzenden=
  Dr. Ragna Vollmer deren folgende Unterrichtung: In der Nachpr=C3=BCfungssach=
@@ -24,3 +28,27 @@ rsendung bis Donnerstag, 19. November, 12.00 Uhr, und um eine erste Stellungn=
 ahme zur Zuschlagssituation. Eine Entscheidung in der Sache oder eine Gestatt=
 ung des Zuschlags ist nicht ergangen. Dr. Ragna Vollmer, Vorsitzende der Verg=
 abekammer (fiktive Besetzung).
+
+--interstate-alt-39e16c78d51ac7c2a588f68e
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #38=
+4C64;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Die Gesch=C3=A4f=
+tsstelle =C3=BCbermittelt auf Verf=C3=BCgung der Vorsitzenden Dr. Ragna Vollm=
+er deren folgende Unterrichtung: In der Nachpr=C3=BCfungssache Talbogen Stra=
+=C3=9Fenbau GmbH gegen Deutsche Interstate AG, Aktenzeichen VK-R-119/26 (=C3=
+=9Cbungsaktenzeichen), unterrichte ich Sie hiermit =C3=BCber den Nachpr=C3=BC=
+fungsantrag vom heutigen Tag betreffend das Los B des Vergabeverfahrens DI-W/=
+BR-26-119. Betroffen sind die gemeinsame Wertung der Stra=C3=9Fenanschl=C3=BC=
+sse und das hierf=C3=BCr angek=C3=BCndigte Zuschlagsverfahren.</p><p>=C3=9Cbe=
+rmitteln Sie die vollst=C3=A4ndige Vergabeakte zu Los B und benennen Sie die =
+Teile, f=C3=BCr die Sie oder ein Bieter schutzw=C3=BCrdige Gr=C3=BCnde gegen =
+eine Akteneinsicht geltend machen. Die Kammer bittet um Akten=C3=BCbersendung=
+ bis Donnerstag, 19. November, 12.00 Uhr, und um eine erste Stellungnahme zur=
+ Zuschlagssituation. Eine Entscheidung in der Sache oder eine Gestattung des =
+Zuschlags ist nicht ergangen. Dr. Ragna Vollmer, Vorsitzende der Vergabekamme=
+r (fiktive Besetzung).</p></div></body></html>
+
+--interstate-alt-39e16c78d51ac7c2a588f68e--

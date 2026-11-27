@@ -274,7 +274,11 @@ def validate_testakten(testakten: list[str], errors: list[str]) -> None:
         "testakten/README.md",
         errors,
     )
+    overview_targets = markdown_link_targets(overview)
     for index, slug in enumerate(testakten):
+        mail_rel = f"testakten/{slug}/eml/00_pruefauftrag_vergabestelle.eml"
+        if not (REPO / mail_rel).is_file() or f"{RAW_BASE}/{mail_rel}" not in overview_targets:
+            errors.append(f"testakten/README.md: separate Startmail fehlt oder ist nicht verlinkt: {slug}")
         pdf_rel = f"testakten/{slug}/gesamt-pdf/{slug}_gesamt.pdf"
         require(overview, f"./{slug}/README.md", "testakten/README.md", errors)
         require(overview, f"{RAW_BASE}/{pdf_rel}", "testakten/README.md", errors)

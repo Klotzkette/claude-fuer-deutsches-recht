@@ -15,6 +15,9 @@ on:
       - 'quality/seewerk-quellenauszuege.json'
       - 'scripts/validate-testakten-dokumentqualitaet.py'
       - 'scripts/*kuendigungsschutz*'
+      - 'scripts/build-arbeitsrecht-praxisnachtraege.py'
+      - 'docs/downloads/kuendigungsschutz/**'
+      - 'docs/workshops/arbeitsrecht-praxisnachtraege/**'
       - 'scripts/*classic-components-checkout.py'
       - 'scripts/build-skill-quality-release.py'
       - 'scripts/data/kuendigungsschutz-akten.json'
@@ -59,6 +62,7 @@ jobs:
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
           python3 scripts/test-kuendigungsschutzklagewerkstatt.py
           python3 scripts/test-seewerk-akten.py
+          python3 scripts/build-kuendigungsschutz-downloads.py --check
       - name: Aktuellen Checkout ohne Veröffentlichungsanspruch prüfen
         if: github.event_name == 'pull_request'
         run: |

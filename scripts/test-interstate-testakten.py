@@ -21,6 +21,7 @@ from zipfile import ZipFile
 from zoneinfo import ZoneInfo
 
 from docx import Document
+from lxml import html
 from openpyxl import load_workbook
 from pypdf import PdfReader
 
@@ -30,8 +31,8 @@ ROOT = Path(__file__).resolve().parents[1]
 INPUT = ROOT / "scripts/data/interstate-ag"
 COLLECTION = ROOT / "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG"
 OPENING_DOCUMENTS = {
-    "01-alleinstellung": "01_bedarf_und_freigabe.docx",
-    "02-fachlose": "01_bauauftrag_weidenstueck.docx",
+    "01-alleinstellung": "00_pruefauftrag_archivdienst.eml",
+    "02-fachlose": "00_pruefauftrag_loszuschnitt.eml",
     "03-ausschluss": "00_pruefbitte_wertung_w668.eml",
     "04-oekopunkte": "00_mitzeichnung_punktekauf.eml",
     "05-baustreit": "00_klageerwiderung_beweisangebote.eml",
@@ -142,6 +143,8 @@ class InterstateAktenTests(unittest.TestCase):
         self.assertEqual(len({r["datei"] for r in rows}), len(rows))
         opening = initial[0]
         self.assertEqual(opening["datei"], OPENING_DOCUMENTS[slug])
+        self.assertEqual(Path(opening["datei"]).suffix, ".eml")
+        self.assertTrue(opening["anlagen"], 'Die Prüfbitte muss tatsächliche Arbeitsunterlagen mitführen')
         self.assertEqual(min(p.name for p in (root / "Grundakte").iterdir()), opening["datei"])
         originals = [f"{row['phase']}/{row['datei']}" for row in rows]
         on_disk = {p.relative_to(root).as_posix() for phase in ("Grundakte", "Nachreichungen")
@@ -218,6 +221,44 @@ class InterstateAktenTests(unittest.TestCase):
                         self.assertEqual(parseaddr(str(mail["To"]))[1], row["empfaenger"])
                         sent = parsedate_to_datetime(str(mail["Date"])).astimezone(ZoneInfo("Europe/Berlin"))
                         self.assertEqual(sent.isoformat(timespec="minutes")[:16], f'{row["datum"]}T{row["uhrzeit"]}')
+                        rich = mail.get_body(preferencelist=("html",))
+                        self.assertIsNotNone(rich)
+                        markup = html.document_fromstring(rich.get_content())
+                        self.assertEqual(condensed(markup.body.text_content()), native)
+                        self.assertFalse(list(markup.iterlinks()), "Externe Ressource in der Offline-Mail")
+                        members = list(mail.iter_attachments())
+                        names = row.get("anlagen", [])
+                        self.assertEqual([part.get_filename() for part in members], names)
+                        for part, name in zip(members, names):
+                            self.assertEqual(part.get_payload(decode=True), (path.parent / name).read_bytes(), name)
+                            self.assertIn(condensed(name), pdf)
+
+    def test_briefkoepfe_folgen_dem_absender(self):
+        examples = {
+            "01-alleinstellung": ("03_auskunft_altanbieter.eml", "Albumstrom Archivdienst GmbH"),
+            "02-fachlose": ("02a_lv_nord.xlsx", "Büro Kreidebogen"),
+            "04-oekopunkte": ("01_werkhof_auflage.docx", "Stadt Borken"),
+            "05-baustreit": ("07_verfuegung.docx", "Landgericht Essen"),
+            "06-nachtrag": ("08_abschlagsbegehren.docx", "Tiefbau Wiesenfeld GmbH"),
+            "08-leitplanung": ("01_projektauftrag_riedtal.docx", "Deutsche Interstate AG"),
+        }
+        for slug, (name, organisation) in examples.items():
+            with self.subTest(fall=slug, dokument=name):
+                path = COLLECTION / slug / "downloads" / f"testakte-{slug}-einzelpdfs.zip"
+                with ZipFile(path) as bundle:
+                    document = PdfReader(io.BytesIO(bundle.read(f"Grundakte__{Path(name).stem}.pdf")))
+                    self.assertTrue(document.pages[0].extract_text().startswith(organisation))
+                source = COLLECTION / slug / "Grundakte" / name
+                if source.suffix == ".docx":
+                    header = Document(source).sections[0].header.paragraphs[0]
+                    self.assertEqual(header.text.splitlines()[0], organisation)
+                if source.suffix == ".xlsx":
+                    book = load_workbook(source)
+                    try:
+                        self.assertEqual(book.active["A1"].value.split(" · ")[0], organisation)
+                        self.assertTrue(book.active.print_title_rows)
+                    finally:
+                        book.close()
 
 
 class InterstateLeistungsverzeichnisTests(unittest.TestCase):
@@ -325,7 +366,7 @@ class InterstateLeistungsverzeichnisTests(unittest.TestCase):
 
 class InterstatePluginTests(unittest.TestCase):
     def test_installierbares_desktop_paket(self):
-        scope = ROOT / "scripts/data/qualitaetsrunde-v445.36.17-scope.json"
+        scope = ROOT / "scripts/data/qualitaetsrunde-v445.36.18-scope.json"
         edition = json.loads(scope.read_text())
         tag = edition["tag"]
         with tempfile.TemporaryDirectory() as output:

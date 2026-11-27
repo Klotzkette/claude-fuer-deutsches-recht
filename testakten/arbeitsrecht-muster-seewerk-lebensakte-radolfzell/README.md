@@ -8,7 +8,7 @@ Die vierzehn Kernanlagen bilden das Anlagenverzeichnis der Klage. Daneben stehen
 
 44 Originaldateien, 45 PDF-Seiten, vierzehn logische Kernanlagen. Im Einzel-PDF-ZIP ist jedes eigenständige Dokument eine eigene PDF-Datei. Der zusätzliche Anlagen-Satz bündelt dagegen bewusst genau K1 bis K14; Ergänzungen außerhalb dieser Nummerierung sind dort nicht enthalten. Der Gesamtband enthält alle Dokumente in der unten bezeichneten Reihenfolge.
 
-Die persönlichen Zusatzangaben aus dem Mandantengespräch und die rechtliche Gegenprüfung stehen nur im getrennten Referentenmaterial des Plugins. Sie werden keinem dieser Downloads beigelegt. Es sind keine Musterklage, Bewertung, Lösungsmatrix oder späteren Gerichtsentscheidungen enthalten. Eine Anlagenzuordnung ist kein vorweggenommener Klageentwurf.
+Die persönlichen Zusatzangaben aus dem Mandantengespräch und die rechtliche Gegenprüfung stehen nur im getrennten Referentenmaterial des Plugins. Sie werden keinem dieser Downloads beigelegt. Der Parteivortrag zur Kündigung folgt in der gesonderten Prozesslieferung.
 
 <!-- reserved-example-contacts -->
 
@@ -19,7 +19,7 @@ Alle Personen, Unternehmen, Anschriften und Vorgangsnummern sind erfunden. Konta
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
+Öffnen Sie für das erste Mandantengespräch das Arbeits-ZIP mit Eingangspost. Unter `Grundakte/00_Posteingang` stehen die ersten Nachrichten und Belege. Die Prozessunterlagen in der Vollakte dienen der späteren Bearbeitung. Das kleinere Akten-ZIP enthält den ursprünglichen Unterlagenbestand mit einem eigenen Ordner für die Grundakte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -27,18 +27,29 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/kuendigungsschutz/lebensakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip) · [Druckfassungen dieses Falls](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/kuendigungsschutz/druckakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/arbeitsrecht-muster-seewerk-lebensakte-radolfzell_gesamt.pdf`](gesamt-pdf/arbeitsrecht-muster-seewerk-lebensakte-radolfzell_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/kuendigungsschutz/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell-einzelpdfs.zip](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell-einzelpdfs.zip) |
+| Anlagen K1 bis K14 | ZIP | [Vierzehn geordnete Anlagen-PDFs](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell-anlagen-k1-k14.zip) |
 
-Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
+Das Druckpaket umfasst die vollständige Fallakte als Gesamt-PDF und als einzelne Lesefassungen.
 
-English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
+English: Start with the correspondence under `Grundakte/00_Posteingang` in the complete working file. The smaller source ZIP contains the original records. The print bundle includes the complete case.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
 Die Einzel-PDF- und Anlagen-ZIPs haben ein flaches Verzeichnis. README.txt steht zuerst und enthält den zweisprachigen Hinweis. PDFs enthalten weder Warnhinweis noch Lösungsseiten. Native Dateien sind zusätzlich einzeln unten zugänglich; der Gehaltsstand von 2025 ist nicht in die unterschriebene Änderungsvereinbarung von 2019 hineindatiert.
+
+### Prozessunterlagen
+
+Die Prozesslieferung enthält die Kopien aus der Betriebsratsakte sowie den wechselseitigen Parteivortrag vor dem Arbeitsgericht Villingen-Schwenningen, Kammern Radolfzell.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Prozessunterlagen mit Betriebsratsanhörung, Antwort, Klage und Erwiderung (vier DOCX und Lesefassung als ZIP)](../../arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell-prozessunterlagen.zip)
 
 ## Am Mittag kommt das Maschinenjournal
 
@@ -48,7 +59,7 @@ Daniel Muster hat seiner Anwältin um 10:15 Uhr geschrieben, dass auf seine Ausk
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-[Seewerk mit Maschinenjournal herunterladen · 44 ursprüngliche und 3 zusätzliche Unterlagen (ZIP)](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitsrecht-muster-seewerk-lebensakte-radolfzell-mit-nachtrag.zip)
+[Seewerk mit Maschinenjournal herunterladen · 44 ursprüngliche und 3 zusätzliche Unterlagen (ZIP)](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/kuendigungsschutz/arbeitsrecht-muster-seewerk-lebensakte-radolfzell-mit-nachtrag.zip)
 
 ## 1.3. Dokumentenverzeichnis
 

@@ -35,27 +35,40 @@
     ]
   ],
   "einwendungspruefung": [
-    {"eingabe": "13_widerspruch_pruefabzug.eml", "gegenpruefung": "10_schichtabgleich.xlsx"},
-    {"eingabe": "13_widerspruch_pruefabzug.eml", "gegenpruefung": "14_eingang_und_zahlungslauf.txt"}
+    {
+      "eingabe": "13_widerspruch_pruefabzug.eml",
+      "gegenpruefung": "10_schichtabgleich.xlsx"
+    },
+    {
+      "eingabe": "13_widerspruch_pruefabzug.eml",
+      "gegenpruefung": "14_eingang_und_zahlungslauf.txt"
+    }
   ],
   "dokumente": [
     {
       "phase": "Grundakte",
       "datei": "00_abschlag_4_zahlungslauf.eml",
-      "titel": "Knoten Feldrain · 16.950,40 Euro für den Stahlmantel im vierten Abschlag",
+      "titel": "Knoten Feldrain – welche Positionen aus Nachtrag 7 können in den vierten Abschlag?",
       "datum": "2026-11-16",
       "von": "Farid Kemper · Deutsche Interstate AG, Niederlassung West, kaufmännische Vertragsleitung",
       "an": "Ronja Evers · Deutsche Interstate AG, Niederlassung West, Projektleitung Knoten Feldrain",
       "text": [
         "Guten Tag, Frau Evers,",
-        "Frau Türk verlangt heute 16.950,40 Euro netto für den zusätzlichen Stahlmantel an der alten Stützwand. Das sind 80 Prozent des Nachtragsangebots über 21.188,00 Euro. Wiesenfeld baut nach Ihrer Planrevision bereits ein. Eine gemeinsame Kostenfreigabe von Ihnen und mir finde ich im Projektpostfach nicht. Welchen Betrag können wir aus dem vierten Abschlag zur Zahlung anweisen?",
-        "Bitte lassen Sie Herrn Abel vor dem Verfüllen festhalten, auf welcher Länge der Mantel tatsächlich sitzt, wo der Graben breiter wurde und in welchen Schichten eine zusätzliche Fahrspur gesichert werden musste. Regelgraben und Nachtsperrung werden bereits im Hauptauftrag abgerechnet. Ich brauche die Nachweise getrennt, damit dieselbe Schicht im Zahlungslauf nicht zweimal auftaucht.",
-        "Frau Türk erwartet bis 24. November unsere Antwort auch für den zweiten Abschnitt. Für die Sperrnacht am 25. November ab 20 Uhr hält sie die Kolonne nur bis zum Vortag mittags frei. Können wir uns vor Ablauf dieser Reservierung zur Zeichnung zusammensetzen? Bitte sagen Sie der Firma bis dahin zu Preis und Fortführung nur das zu, was wir miteinander abgestimmt haben.",
+        "Frau Türk möchte 16.950,40 Euro netto für den Stahlmantel an der alten Stützwand im nächsten Zahlungslauf sehen. Ihr Ansatz sind 80 Prozent des Nachtragsangebots über 21.188,00 Euro. Wiesenfeld baut nach Ihrer Planrevision bereits ein. In unserem Projektpostfach finde ich Ihre technische Freigabe, aber keine gemeinsame Kostenfreigabe von Ihnen und mir. Was davon können wir heute als ausgeführte und geschuldete Leistung bestätigen?",
+        "Ich sende Ihnen Haupt-LV, Zuständigkeitsmitteilung, Nachtragskalkulation und Abschlagsbegehren mit. Bitte gehen Sie mit Herrn Abel die betroffenen Stationen vor dem Verfüllen durch. Wir brauchen für jede Preisposition den Einbauort, die messbare Menge und gegebenenfalls die Schicht. Regelgraben und Nachtsperrung stehen bereits im Hauptauftrag. Wo etwas darüber hinausgeht, muss ich das in der Zahlungsanweisung nachvollziehen können.",
+        "Bitte legen Sie mir vor dem 24. November, 12 Uhr, einen bezifferten Vorschlag zum vierten Abschlag und den Antwortentwurf an Wiesenfeld vor. Die Firma hält die Kolonne für die Sperrnacht am 25. November ab 20 Uhr nur bis zum Vortag mittags bereit. Lassen Sie uns im Antworttext trennen, was für den ersten Abschnitt zur Zahlung ansteht und wer den zweiten Abschnitt mit welchem Umfang verbindlich beauftragen dürfte.",
         "Viele Grüße\nFarid Kemper"
       ],
       "absender": "f.kemper@interstate.example",
       "empfaenger": "r.evers@interstate.example",
-      "uhrzeit": "15:35"
+      "uhrzeit": "15:35",
+      "anlagen": [
+        "00_auftrags_lv_kf3.xlsx",
+        "02_zustaendigkeit.eml",
+        "04_planfreigabe.eml",
+        "05_nachtragsangebot.xlsx",
+        "08_abschlagsbegehren.docx"
+      ]
     },
     {
       "phase": "Grundakte",

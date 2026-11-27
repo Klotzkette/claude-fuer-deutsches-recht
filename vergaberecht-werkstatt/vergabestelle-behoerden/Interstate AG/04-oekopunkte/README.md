@@ -24,7 +24,7 @@ Beginnen Sie mit diesen Unterlagen.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
-| 08.10.2026 | [Werkhof am Eschbach · Kann die Bestellung über 342.000 Euro in die Leitungssitzung?](Grundakte/00_mitzeichnung_punktekauf.eml) | EML |
+| 08.10.2026 | [Werkhof Borken – welche Leistung soll die Leitung für 180.000 Ökopunkte bestellen?](Grundakte/00_mitzeichnung_punktekauf.eml) | EML |
 | 15.09.2026 | [Werkhof am Eschbach · Ausfertigung der Nebenbestimmung 6.3](Grundakte/01_werkhof_auflage.docx) | DOCX |
 | 28.09.2026 | [Ökokonto BK-VS-114 · beglaubigter Bestandsauszug für die Inhaberin](Grundakte/02_kontoauszug.docx) | DOCX |
 | 01.10.2026 | [Bindendes Angebot V-92 · Inanspruchnahme von Maßnahmen aus BK-VS-114](Grundakte/03_angebot_bestand.docx) | DOCX |

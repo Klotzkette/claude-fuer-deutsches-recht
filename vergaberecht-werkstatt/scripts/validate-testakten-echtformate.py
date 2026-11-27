@@ -511,6 +511,10 @@ def validate_testakte(testakte_dir: Path) -> None:
 
 
 def main() -> None:
+    from vergabestelle_pruefauftraege import read_cases, validate_request
+
+    for slug, request in read_cases().items():
+        validate_request(TESTAKTEN / slug, request)
     dirs = sorted(d for d in TESTAKTEN.iterdir() if d.is_dir() and d.name not in SKIP_DIRS)
     if not dirs:
         fail("no testakten directories found")

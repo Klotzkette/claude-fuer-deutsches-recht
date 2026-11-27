@@ -27,6 +27,10 @@ Die ZIP-URL ist an den Komponentenstand gebunden. Außer README.txt mit dem Warn
 
 <!-- END gesamt-pdf-section (autogen) -->
 
+## Auftrag der Vergabestelle
+
+Öffnen Sie die E-Mail im Mailprogramm. Der Prüfauftrag und die angehängten Originalunterlagen bilden einen eigenständigen Einstieg in diesen Fall. [E-Mail mit Originalanhängen herunterladen](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/04-it-beratung-ministerium-musterland/eml/00_pruefauftrag_vergabestelle.eml)
+
 IT-Beratungsunternehmen Beratung Mustertal GmbH erhält eine EU-weite Bekanntmachung des Ministeriums des Innern Musterland zur Beauftragung einer Cybersicherheits-Beratung im Verhandlungsverfahren mit Teilnahmewettbewerb. Der Bieter muss sich erst zum Teilnahmewettbewerb bewerben und darf nur nach Auswahl und Aufforderung an der Angebotsphase teilnehmen. Komplexität liegt in Eignungsleihe (eigene Mitarbeiterstärke unzureichend), Bildung einer Bietergemeinschaft mit einem Tochterunternehmen und einer Bieterrüge gegen eine nicht bekannt gemachte Zuschlagsanforderung.
 
 ## Stammdaten

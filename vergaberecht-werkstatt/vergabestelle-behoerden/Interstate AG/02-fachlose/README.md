@@ -24,6 +24,7 @@ Beginnen Sie mit diesen Unterlagen.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
+| 10.11.2026 | [Betriebshof Weidenstück – welche Leistungen können die Firmen einzeln anbieten?](Grundakte/00_pruefauftrag_loszuschnitt.eml) | EML |
 | 19.10.2026 | [Betriebshof Weidenstück – Projektauftrag zur Aufteilung der Bauleistungen](Grundakte/01_bauauftrag_weidenstueck.docx) | DOCX |
 | 23.10.2026 | [Kostenberechnung nach Gewerken – Preisstand Oktober 2026](Grundakte/02_kostenschaetzung.xlsx) | XLSX |
 | 26.10.2026 | [Preisblatt Nord – Werkhalle, Materialräume und Sozialräume](Grundakte/02a_lv_nord.xlsx) | XLSX |

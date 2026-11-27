@@ -233,6 +233,12 @@ class ModefuchsCase(unittest.TestCase):
             for path, name in expected:
                 if path.suffix.lower() == '.pdf':
                     self.assertEqual(archive.read(name), path.read_bytes(), name)
+            konto = PdfReader(io.BytesIO(archive.read('31_Forderungskonto_Arbeitsstand_20250705.pdf')))
+            self.assertEqual(len(konto.pages), 2, 'Pro Tabellenblatt wird eine zusammenhängende Druckseite erwartet')
+            ledger, receipts = (page.extract_text() for page in konto.pages)
+            for term in ('Forderungskonto', 'Summen und Buchsaldo', 'Verfahrensnotiz', 'Mahnbescheidsantrag'):
+                self.assertIn(term, ledger)
+            self.assertIn('Zahlungsbelege', receipts)
 
 
 if __name__ == '__main__':

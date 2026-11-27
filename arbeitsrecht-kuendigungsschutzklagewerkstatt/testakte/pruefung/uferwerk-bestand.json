@@ -6,10 +6,10 @@
   "format": "pdf-zip-only-user-request",
   "documents": 93,
   "index_pages": 5,
-  "pages": 185,
+  "pages": 187,
   "pdf_files": 94,
   "archive": "testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip",
-  "archive_sha256": "03c30683b46c33161e9082961178774bd22593c6a6425eaa71c3f6e41c5036ec",
+  "archive_sha256": "787f7f883e59a46d6a85463658d6d9e23b35e875da1c7814ad5179d635dc59ce",
   "files": [
     {
       "id": "V01",
@@ -18,7 +18,7 @@
       "file": "V01_2008-01-14_Bewerbung_als_Grafikdesignerin.pdf",
       "pages": 1,
       "characters": 1989,
-      "sha256": "c0c986d5b064d37b8214f29448c4a167fd93ee48ad4d445248033afc8c4d06ba"
+      "sha256": "e6a1472031e339ac7b9339ec7c17340a36803ecfdf8e3f9ea14bbd8a8027e2ce"
     },
     {
       "id": "V02",
@@ -27,7 +27,7 @@
       "file": "V02_2008-01-16_Lebenslauf_und_Erlauterung_der_Arbeitsproben.pdf",
       "pages": 2,
       "characters": 2343,
-      "sha256": "ff1179a67429292551db3b31974c7aa9537614a3843789bbefedf7f3276df6cd"
+      "sha256": "bd2838ecd69a9c7fdb68f6fcaf53c429336b6b8dd04f205d96ad27e9c4205a03"
     },
     {
       "id": "V03",
@@ -36,7 +36,7 @@
       "file": "V03_2008-01-29_Vermerk_zum_Bewerbungsgesprach.pdf",
       "pages": 1,
       "characters": 2650,
-      "sha256": "f2669ea469ef947f8220e433f242eda6e62ec0e90af1bdbacd3b2eb3787da1fd"
+      "sha256": "04bb6362082b883a431659fde3531c098e8e57afb52e4c1a047a88df678b9c8d"
     },
     {
       "id": "V04",
@@ -45,7 +45,7 @@
       "file": "V04_2008-02-05_Angebot_einer_unbefristeten_Beschaftigung.pdf",
       "pages": 1,
       "characters": 1928,
-      "sha256": "eeeceb15c3bfbf556c575661233114a65f7d305cb833566af4d20ef614cc045b"
+      "sha256": "0f9d080d98020a99408423f26cc831f9dd1786a4360339de093f51f9a1cadb5e"
     },
     {
       "id": "V05",
@@ -54,7 +54,7 @@
       "file": "V05_2008-02-08_Arbeitsvertrag_Lisa_Muster.pdf",
       "pages": 10,
       "characters": 38403,
-      "sha256": "0fb2709889b5dea0a20260118de8a94744d77edfad281aea53555e72705fa357"
+      "sha256": "8d331bf7b5bf2a70f65269108910005150f3855126f58ad789618f2ff9018bb3"
     },
     {
       "id": "V06",
@@ -63,7 +63,7 @@
       "file": "V06_2008-03-03_Einarbeitung_und_erste_Arbeitszuordnung.pdf",
       "pages": 1,
       "characters": 2147,
-      "sha256": "fc07bb4ac091678cc41b0d35ba01129e9fecf1744fe9bcd63debfc6477e41d46"
+      "sha256": "d4eead17461f2d1cbb842b08d4c5feeaacc229a2200d06a1eb21935752f2d4c1"
     },
     {
       "id": "V07",
@@ -72,7 +72,7 @@
       "file": "V07_2008-08-22_Probezeitgesprach.pdf",
       "pages": 1,
       "characters": 2174,
-      "sha256": "d1bbc6f4fbee2724b532f644e74ca8764b2c7b655876ff8931eeb1a10914b46a"
+      "sha256": "02ef1a451efc487f1c5caadc578ad17c6bebb4b9efecdba07bcf054bdfeec40f"
     },
     {
       "id": "V08",
@@ -81,7 +81,7 @@
       "file": "V08_2010-06-21_Mitteilung_zur_Eheschliessung_und_Personalanderung.pdf",
       "pages": 1,
       "characters": 1551,
-      "sha256": "0c4f063865d28c9a92b612b70290c7607c70d0c2ce91df0ee4f02db2a44f3b69"
+      "sha256": "8220379ac8e44c16b4e34f298132f0f84ce271a0281609fa8be494fa79a0f9ec"
     },
     {
       "id": "V09",
@@ -90,7 +90,7 @@
       "file": "V09_2011-12-01_Nachtrag_zur_Grundvergutung.pdf",
       "pages": 1,
       "characters": 1333,
-      "sha256": "18f50e48d0252b11ff5a0b2800977cd3c0d6e866008676e8d2609ec0a4e1666a"
+      "sha256": "cc75cbe89d6e9df23598cb9f897ef363ef4c63149da3cc528ef26195c7c8e377"
     },
     {
       "id": "V10",
@@ -99,7 +99,7 @@
       "file": "V10_2012-06-21_Bestatigung_der_Elternzeit_nach_Geburt_von_Finn.pdf",
       "pages": 1,
       "characters": 1814,
-      "sha256": "397a442460c6dbeb7a9ea29c1c72dcff3aa9a3ac14057ac415955a364cff11c4"
+      "sha256": "bfc023ee7acdf01a6e6e3938421eca80bfbab9b229f11c4742c224e1ef80e87a"
     },
     {
       "id": "V11",
@@ -108,7 +108,7 @@
       "file": "V11_2013-05-15_Vereinbarung_uber_Ruckkehr_und_befristete_Arbeitszeitverringerung.pdf",
       "pages": 1,
       "characters": 1881,
-      "sha256": "4d6e2deebb5bd341f9535230731e2fab232608ff693bd285ff13f7fa4305c24c"
+      "sha256": "e767df312ca49e94c54aee0e8c839ff5e454e164957d3f719faf3985e9a6192e"
     },
     {
       "id": "V12",
@@ -117,7 +117,7 @@
       "file": "V12_2016-09-09_Bestatigung_der_Elternzeit_nach_Geburt_von_Mila.pdf",
       "pages": 1,
       "characters": 1751,
-      "sha256": "fb3902f751074a1a6613cb73d803ced552fb3e2c4bab49b401c6827275a7bf77"
+      "sha256": "1012eb9dc1d14c27e6580a3d6f34992e61c6253bcf017bb5b3a1277d0020fb26"
     },
     {
       "id": "V13",
@@ -126,7 +126,7 @@
       "file": "V13_2024-08-19_Aktualisierung_der_Familien_und_Betreuungsangaben.pdf",
       "pages": 1,
       "characters": 1934,
-      "sha256": "99a7782cb7a0614c2194ba308a57bae827df8a70d9d9e6f9b824718ad8a814e0"
+      "sha256": "ee9f7bf9c7c207febb0266dc416fe0b27a1dc70239bea76b6e6cc605c3246828"
     },
     {
       "id": "V14",
@@ -135,7 +135,7 @@
       "file": "V14_2018-10-15_Qualifiziertes_Zwischenzeugnis.pdf",
       "pages": 1,
       "characters": 2787,
-      "sha256": "0ad29de169328e03ceba3de90fb21e9706c08d5a5f3c9c85e9cd98f6da2ad64e"
+      "sha256": "01693d47f04fa2bfeae7e4a5639fa1ffba505bb1b1cb862465800ac85da2ea18"
     },
     {
       "id": "V15",
@@ -144,7 +144,7 @@
       "file": "V15_2019-05-02_Aufgabennachtrag_und_Vergutungsanpassung.pdf",
       "pages": 1,
       "characters": 1966,
-      "sha256": "2b838bd0ac4a91cf541b4faf40d8757c07d70ce95077caff08ab8d7304ec33dd"
+      "sha256": "70e21b43e4af3015955da55b4098c3505e466e68092e3c4813130be40d15900f"
     },
     {
       "id": "V16",
@@ -153,7 +153,7 @@
       "file": "V16_2026-03-25_Entgeltabrechnung_Marz_2026_Personalaktenausfertigung.pdf",
       "pages": 1,
       "characters": 2012,
-      "sha256": "cb85deadc3884193cedcc5a92faeec4b74f70989e46894eb2544f07eb727c82a"
+      "sha256": "f5e3ed259fee370954ffa2b947f18601b99d0df1d194940f0620aebad6109c31"
     },
     {
       "id": "V17",
@@ -162,7 +162,7 @@
       "file": "V17_2020-03-16_Vereinbarung_uber_die_vorubergehende_Rotation_in_den_Vertrieb.pdf",
       "pages": 1,
       "characters": 2660,
-      "sha256": "269cf790293c10cc3363e81b01f4daedd2b2808cac7ca5f32d5575e8c08e6881"
+      "sha256": "f1a28af52a8bdac72695dd54a09d5859070230b8c6a888a80b08b5070a1583c7"
     },
     {
       "id": "V18",
@@ -171,7 +171,7 @@
       "file": "V18_2020-04-02_CRM_Zugriff_und_Einarbeitung_im_Vertriebsinnendienst.pdf",
       "pages": 2,
       "characters": 3078,
-      "sha256": "dfc7be9be18e70c33ead69b108b57b7879f153758cbd09abfeb769a3cf3d06a8"
+      "sha256": "371e062b0cb362791e69ee5121e99ec03178099120cf5cfb33d653867a86e8e7"
     },
     {
       "id": "V19",
@@ -180,7 +180,7 @@
       "file": "V19_2020-07-13_Mailfolge_zur_Handleraktion_und_eigenstandigen_Auftragsbearbeitung.pdf",
       "pages": 1,
       "characters": 2739,
-      "sha256": "998e678ea78c73ad495594b7922b035936ab054be87f1aeb11f7e47fadcd5fe6"
+      "sha256": "092fc3c2bbaa1edc8fbf574fa94bd5fe3997c23fc13a20424cbb7e6a201c3dbd"
     },
     {
       "id": "V20",
@@ -189,7 +189,7 @@
       "file": "V20_2020-12-18_Abschlussgesprach_zur_neunmonatigen_Vertriebsrotation.pdf",
       "pages": 2,
       "characters": 3207,
-      "sha256": "1a34e3f0e4843070234091626bd7a8bf681f22a92b1a87aea1683e6513056ed5"
+      "sha256": "10a1e5b5a0da39803229988b39b27c6e77a8a3783d36252f7749d2449548cab7"
     },
     {
       "id": "V21",
@@ -198,7 +198,7 @@
       "file": "V21_2024-11-08_Fortbildungsnachweise_und_Einsatz_von_Kenntnissen.pdf",
       "pages": 2,
       "characters": 2696,
-      "sha256": "6ba659333927dee502329005d9ccc1a641fe38f14cd0327ee566c2d28a07d370"
+      "sha256": "06cfab3ed0b52f33bb736e778046110e4764d9e4fc654531f047cdd1dbe2d6f5"
     },
     {
       "id": "V22",
@@ -207,7 +207,7 @@
       "file": "V22_2023-11-15_Jahresgesprach_und_Leistungsbeurteilung_2023.pdf",
       "pages": 1,
       "characters": 2740,
-      "sha256": "8b7d9a8e7065da5627873671639e74519161256401d643633daa80e9d0d59b79"
+      "sha256": "b79a2fd28e5f8b8613056700198110d3f9660a342436cf94d3bcbecd70d28711"
     },
     {
       "id": "V23",
@@ -216,7 +216,7 @@
       "file": "V23_2025-01-10_Nachtrag_zum_Grundgehalt_ab_Januar_2025.pdf",
       "pages": 1,
       "characters": 1692,
-      "sha256": "e093b7c4bb639999c61538c1b84b1b677f8014420b8f3110689b423f0dff6f58"
+      "sha256": "c0f749bd2247d9ad5b059ab03a9bb34f125eef0ca876215057e0ac5f44a1d41a"
     },
     {
       "id": "V24",
@@ -225,7 +225,7 @@
       "file": "V24_2025-09-30_Tatigkeitsaufnahme_fur_das_Programmgeschaft.pdf",
       "pages": 2,
       "characters": 2838,
-      "sha256": "e918cbf068c668f907f84b4dc5ae315766400ff82a7d2404cc8a56de18b6939c"
+      "sha256": "0716673d59280cafff62618a23dc9f8b8b61ac933a6dbecb9967f08b6f537ce5"
     },
     {
       "id": "V25",
@@ -234,7 +234,7 @@
       "file": "V25_2025-12-10_Pilotbesprechung_zur_KI_gestutzten_Gestaltung.pdf",
       "pages": 1,
       "characters": 2894,
-      "sha256": "be3b0df8c1465bb1be7be4e923b760aaf5a2f94c646c965e8c383f369c1023b8"
+      "sha256": "a4ed46e4f6cd4e9bd685b9c9ea3306850b350abf8f8b6b983ef1c2d83a673dce"
     },
     {
       "id": "V26",
@@ -243,7 +243,7 @@
       "file": "V26_2026-02-10_Geschaftsfuhrungsentscheidung_zur_Arbeitsorganisation.pdf",
       "pages": 2,
       "characters": 4419,
-      "sha256": "c7bfc97b44e74f8e31f8199b0ac64ac2753f616a38fd0c14cc4882d0b152553a"
+      "sha256": "2f13e2b9d5300c192a262399d9c0c9130f401b17777288b2a0ca0969856bb65d"
     },
     {
       "id": "V27",
@@ -252,7 +252,7 @@
       "file": "V27_2026-03-02_Interne_Ausschreibung_Sachbearbeitung_Sales_Operations.pdf",
       "pages": 2,
       "characters": 3732,
-      "sha256": "477c798f5aedaa3817c22932cadaf600b1d8316f2c9115035fa2bd5aafc1f842"
+      "sha256": "5d46f89ae7538588abf436da2cc485d8752c8ebcc8a617c2efa7708f132a4ce4"
     },
     {
       "id": "V28",
@@ -261,7 +261,7 @@
       "file": "V28_2026-03-20_Mailfolge_zur_Weiterbeschaftigung_im_Vertrieb.pdf",
       "pages": 2,
       "characters": 4786,
-      "sha256": "deb2832a1a8e18f031126af90a26f24c9e9d50216fd436b44e707997f79d763c"
+      "sha256": "30160774ac9c34bbbc375e71a5f0a9ea015b8ab6c61b1ba1f7866e7002a73296"
     },
     {
       "id": "V29",
@@ -270,7 +270,7 @@
       "file": "V29_2026-03-04_Information_und_Konsultation_des_Betriebsrats.pdf",
       "pages": 2,
       "characters": 4244,
-      "sha256": "4cec08b13ec116f834bce0764c19ae4ef6bd6e551a5f906466f786da860ef3f2"
+      "sha256": "571df4c67695b422b562d35b78a2eeaa804f00ab26fad6aaa35499eb7fcb1657"
     },
     {
       "id": "V30",
@@ -279,7 +279,7 @@
       "file": "V30_2026-03-12_Personalauszug_fur_die_Betriebsratsberatung.pdf",
       "pages": 3,
       "characters": 3982,
-      "sha256": "2e5024bbc7b3f6f0308678a71998a1c9f69affdde5b211633cbb72794d72e1bb"
+      "sha256": "0e211c6dc442f26ecb742915cf2acaea953f06e3f87c8f1eba954f413ffa3978"
     },
     {
       "id": "V31",
@@ -288,7 +288,7 @@
       "file": "V31_2026-03-18_Besetzungsentscheidung_und_Einarbeitungsplan_Sales_Operations.pdf",
       "pages": 2,
       "characters": 3225,
-      "sha256": "1c929b3674a7d31db92eac334461cdba1855b7e43f903da0aa5dd2f1e4b8041b"
+      "sha256": "620a84b4acb5af745c946deb9f12f7ef3b8225ec698268fc021986ae9c1e713f"
     },
     {
       "id": "V32",
@@ -296,8 +296,8 @@
       "title": "Abschließende Stellungnahme des Betriebsrats zur Konsultation",
       "file": "V32_2026-03-23_Abschliessende_Stellungnahme_des_Betriebsrats_zur_Konsultation.pdf",
       "pages": 2,
-      "characters": 4026,
-      "sha256": "89fe9870322f2ee6ee32fbb280254f38ba608da0b180b1b0708093fd353fc8de"
+      "characters": 4042,
+      "sha256": "604788af32c1f9147ecb13912d593caf67ba95d945828e35af59ffb4d5567745"
     },
     {
       "id": "V33",
@@ -306,7 +306,7 @@
       "file": "V33_2026-03-23_Anzeige_der_vorgesehenen_Entlassungen_Arbeitgeberausfertigung.pdf",
       "pages": 3,
       "characters": 5120,
-      "sha256": "430c42e6b4577f6a9d65f8363471331c41c3e46874ef9e6f59a16111d484c91b"
+      "sha256": "088fcfbf4f58db19a16c9a152993906281b334553e50e9977cfc85a1d4696265"
     },
     {
       "id": "V34",
@@ -315,25 +315,25 @@
       "file": "V34_2026-03-24_Erganzungsubersendung_an_die_Agentur_fur_Arbeit.pdf",
       "pages": 1,
       "characters": 2419,
-      "sha256": "0236955f1d2e72f759d219119661bc6f737980ca0152cf580f99a67cdc3955c3"
+      "sha256": "de0ec84af7e2c50daa9fc77c8970659f560ed7db702652e9105f99f9c77a8e88"
     },
     {
       "id": "V35",
       "date": "2026-03-24",
       "title": "Anhörung des Betriebsrats zur Kündigung von Lisa Muster",
       "file": "V35_2026-03-24_Anhorung_des_Betriebsrats_zur_Kundigung_von_Lisa_Muster.pdf",
-      "pages": 2,
-      "characters": 4802,
-      "sha256": "6de86c83c9c19bfc317abd5dc2b579311ade3fdd9dbf68efa335567c3b18fef3"
+      "pages": 3,
+      "characters": 6086,
+      "sha256": "6ea58411271e26ad0137da4d1366251b5fa6d61c63b2199576bf18238c9f0fc2"
     },
     {
       "id": "V36",
       "date": "2026-03-27",
       "title": "Widerspruch des Betriebsrats gegen die Kündigung von Lisa Muster",
       "file": "V36_2026-03-27_Widerspruch_des_Betriebsrats_gegen_die_Kundigung_von_Lisa_Muster.pdf",
-      "pages": 2,
-      "characters": 4380,
-      "sha256": "99309f0a0889702fc34b4f5f9cbd9c8d6dfc7d0be6304339480ea8a9a64bd584"
+      "pages": 3,
+      "characters": 5525,
+      "sha256": "e3d92cfe35d498891c947b078a61ff772711f12bc9a6cf147c324d676fe0eb40"
     },
     {
       "id": "V37",
@@ -341,8 +341,8 @@
       "title": "Ordentliche Kündigung des Arbeitsverhältnisses",
       "file": "V37_2026-03-30_Ordentliche_Kundigung_des_Arbeitsverhaltnisses.pdf",
       "pages": 1,
-      "characters": 2318,
-      "sha256": "11a1617beff1a02c1757c2103aca57e54d2344e994fa1fa23da1ddb0a0dc8705"
+      "characters": 1433,
+      "sha256": "e28dc2985c5f1af191592750f67f6606e0106f3432406ca636ee4aac65c2a145"
     },
     {
       "id": "V38",
@@ -351,7 +351,7 @@
       "file": "V38_2026-03-31_Botenvermerk_Empfangsnotiz_und_personliche_Anschlussmail.pdf",
       "pages": 2,
       "characters": 3844,
-      "sha256": "dcdd3944ff98aa0b0638d2db1cc39aefb4340bd6f205c4de09954e9eb4343a0e"
+      "sha256": "35576afd3ed1f5ae627807ca90869f6ba167cf7e05b63e7af9c08749f438485a"
     },
     {
       "id": "P01",
@@ -359,8 +359,8 @@
       "title": "Kündigungsschutzklage mit Weiterbeschäftigungsantrag",
       "file": "P01_2026-04-13_Kundigungsschutzklage_mit_Weiterbeschaftigungsantrag.pdf",
       "pages": 5,
-      "characters": 15903,
-      "sha256": "29df2998d0e64efc7d2b66a69e49ab329306a70ee05fe859ec5963535c5fe62f"
+      "characters": 16447,
+      "sha256": "131a49b5473f65688c9bd9d625b5891de3889864b650c6fe3a9b037edb2d4f9e"
     },
     {
       "id": "P02",
@@ -369,7 +369,7 @@
       "file": "P02_2026-04-13_Anlagenverzeichnis_der_Klagerin_zur_Klage.pdf",
       "pages": 2,
       "characters": 2086,
-      "sha256": "18176cc01c8dbb2108d63d5cac68623fba6ceed4a8b142a1945c1bba4acbaa63"
+      "sha256": "07b37c63e09dae6c2866af96f18e9370f92d80c3e0c106637d85c32c088d5faf"
     },
     {
       "id": "P03",
@@ -378,7 +378,7 @@
       "file": "P03_2026-04-13_Elektronischer_Eingangsvermerk_zur_Klage.pdf",
       "pages": 1,
       "characters": 838,
-      "sha256": "85d266ae44f54c5209aaa28d74160ab5d7cef84f849bf8347cfae522154e58b0"
+      "sha256": "dc808020fd4a03c7a9687d271205947c0a1844196f6be48fbae75025150ae086"
     },
     {
       "id": "P04",
@@ -387,7 +387,7 @@
       "file": "P04_2026-04-15_Terminsverfugung_zum_Gutetermin.pdf",
       "pages": 1,
       "characters": 1636,
-      "sha256": "4293b1f35da535f0c8ca5cb9998f829ec5d8fa033991950de81c631aee9e64cd"
+      "sha256": "27cec5018156b50494f427426f90e499f69a534c07f5cb66d51cb8ee0166204b"
     },
     {
       "id": "P05",
@@ -396,7 +396,7 @@
       "file": "P05_2026-04-17_Zustellungsnachweis_der_Klage_an_die_Beklagte.pdf",
       "pages": 1,
       "characters": 1093,
-      "sha256": "2b38cbd52f20cf288dbcb9baad8e0107d98df4812b4523714126f49f746286da"
+      "sha256": "5dfa415e75c2c53021c9156caa0b61b38de9c1838572f34a04d65888c61fe139"
     },
     {
       "id": "P06",
@@ -405,7 +405,7 @@
       "file": "P06_2026-04-23_Vertretungsanzeige_und_Stellungnahme_zur_Guteverhandlung.pdf",
       "pages": 1,
       "characters": 1947,
-      "sha256": "c8396f36fab59b73ae5058588d0ba245b8d971171c37fb877deb5b227223ef89"
+      "sha256": "65d761fafdd888d7c9f2e4e67804e299edf0dab54ae1b45b70ded65c74c90ec8"
     },
     {
       "id": "P07",
@@ -414,7 +414,7 @@
       "file": "P07_2026-04-27_Fruhe_Erganzung_zur_Vergleichsgruppe_und_zur_Rotation.pdf",
       "pages": 3,
       "characters": 6575,
-      "sha256": "971032b37f92b566fbf49efe703903ecc012cc5f807ec6fc82cbac0b48962a99"
+      "sha256": "ca1a8fb635a37684beca9a9ea9dc846b8310b31066a931ea3974aabe216a7188"
     },
     {
       "id": "P08",
@@ -423,7 +423,7 @@
       "file": "P08_2026-05-12_Protokoll_der_Guteverhandlung.pdf",
       "pages": 2,
       "characters": 2729,
-      "sha256": "212f88cb7368cf121cb7b15685f93e806251c84fa714ff4141b24a442b444b5b"
+      "sha256": "95773864c5a2cd3c65915dce9a0b5a774f6d1a4db8cae8061d622a786412fedb"
     },
     {
       "id": "P09",
@@ -432,7 +432,7 @@
       "file": "P09_2026-05-12_Auflagen_und_Fristenverfugung_nach_der_Guteverhandlung.pdf",
       "pages": 1,
       "characters": 2128,
-      "sha256": "2ebfd75edc98a9c79b2997feac3d5f6fc985849ac1c925580c577e24c7749eb7"
+      "sha256": "ed9dacab94e87fde0f6f185f42e6789fad7d5432555dbbaa771f7f9516eb78f3"
     },
     {
       "id": "P10",
@@ -440,8 +440,8 @@
       "title": "Klageerwiderung",
       "file": "P10_2026-06-02_Klageerwiderung.pdf",
       "pages": 5,
-      "characters": 17219,
-      "sha256": "8a7e27a95f0cfa60658dfd76917fa032e8a970cb645cca38caaf825e02ab5d51"
+      "characters": 17943,
+      "sha256": "ee84dc5086693fe06cd487b8e0378e659958cd4cff5e929aabcdba040b437c98"
     },
     {
       "id": "P11",
@@ -449,8 +449,8 @@
       "title": "Anlagenverzeichnis der Beklagten zur Klageerwiderung",
       "file": "P11_2026-06-02_Anlagenverzeichnis_der_Beklagten_zur_Klageerwiderung.pdf",
       "pages": 2,
-      "characters": 2216,
-      "sha256": "69040f3949c88587da95ed7d66ae8856065f61e826379dce782926d85123c09f"
+      "characters": 2264,
+      "sha256": "c4ce90460ec9ef1e31500ddc9884e62c0d8b6d5a6c9f87e904692e3cb75c4088"
     },
     {
       "id": "P12",
@@ -459,7 +459,7 @@
       "file": "P12_2026-06-05_Ubersendungs_und_Hinweisverfugung.pdf",
       "pages": 1,
       "characters": 1243,
-      "sha256": "85cb3a4286226a085b62afea2fd9668ba2c2d62911b0858de428c9fbd73fedbe"
+      "sha256": "855f2ed2a604af5281338779ad17a1c1d5c1d4f56e6f63f58057957aac9f9cf6"
     },
     {
       "id": "P13",
@@ -467,8 +467,8 @@
       "title": "Replik",
       "file": "P13_2026-06-30_Replik.pdf",
       "pages": 7,
-      "characters": 23180,
-      "sha256": "01a80bcfa6673cb8b8aef9c89caac64eaa7b86190fd31863fe7c094610f18b17"
+      "characters": 23798,
+      "sha256": "5f60eb7a6e44578aca676f4f355bad66afc1e818ed97e393a23b435ff201e9e2"
     },
     {
       "id": "P14",
@@ -477,7 +477,7 @@
       "file": "P14_2026-06-30_Erganzendes_Anlagenverzeichnis_der_Klagerin.pdf",
       "pages": 1,
       "characters": 1556,
-      "sha256": "8421cef756e8f9826291d385c6fad918f4bb4af05004aa05435a5a379579f4a6"
+      "sha256": "a292e3ca2a3d7193e455cc6058e3d8314bc0c04781e962a36c5655c4326f8688"
     },
     {
       "id": "P15",
@@ -486,7 +486,7 @@
       "file": "P15_2026-07-28_Duplik.pdf",
       "pages": 5,
       "characters": 16514,
-      "sha256": "9f0d63cc3cab22d4307d69871a7951e52f0198a8368eede7d3c787eae7474884"
+      "sha256": "689f3a149ace5741f9e3f7feb3e729b0d9443add5d1a167a0e41dcc798c3736d"
     },
     {
       "id": "P16",
@@ -495,7 +495,7 @@
       "file": "P16_2026-07-28_Anlagenverzeichnis_zur_Duplik.pdf",
       "pages": 2,
       "characters": 3362,
-      "sha256": "87f30957cf28e6a7be0b29307d5cdf7a3f326546b02347809c57d93657692b43"
+      "sha256": "a6432297f31ab75e92a5f3c0ae92bfafff234d4f5dad82317297d8192b6674a8"
     },
     {
       "id": "P17",
@@ -504,7 +504,7 @@
       "file": "P17_2026-08-11_Beweisbeschluss_und_gerichtlicher_Hinweis.pdf",
       "pages": 1,
       "characters": 2375,
-      "sha256": "585d0cc568ea9c0d79807fc01e3efbee1e720f4babf50b6c40cddc1769d9f376"
+      "sha256": "616d693f21384d2de4d446d555e220ec4d7905398e5904ab43083f8237e1db6e"
     },
     {
       "id": "P18",
@@ -513,7 +513,7 @@
       "file": "P18_2026-08-12_Ladung_zur_Kammerverhandlung.pdf",
       "pages": 1,
       "characters": 1614,
-      "sha256": "bde668bbaac84ac1698968450a66b2ca99c63e6a7d9eaedb746d986aab55968b"
+      "sha256": "b593ca53876d462d4e452c0d78c80316daafc1c30bf1588624271871dee045f1"
     },
     {
       "id": "P19",
@@ -522,7 +522,7 @@
       "file": "P19_2026-08-12_Zeugenladung_Lutz_Falk.pdf",
       "pages": 1,
       "characters": 1503,
-      "sha256": "339636eec8cb712abb731a066b5cf4d8cbc7ba7871ef3685fa7986ab00e4ac5b"
+      "sha256": "bf52d6f645109d8e70b55b215b26b338b7dec40da7bf0368ea697baacf7fd1a2"
     },
     {
       "id": "P20",
@@ -531,7 +531,7 @@
       "file": "P20_2026-08-12_Zeugenladung_Leonie_Seidel.pdf",
       "pages": 1,
       "characters": 1437,
-      "sha256": "32a36f76be257395d65996a5f21b37f266d6a1081bafa3c2a245e9cf026f1e1f"
+      "sha256": "fb6eb71c7491cd39e63350334b95a5f24b14b6eed626be5f9627d57ae772d6b0"
     },
     {
       "id": "P21",
@@ -540,7 +540,7 @@
       "file": "P21_2026-09-01_Triplik.pdf",
       "pages": 4,
       "characters": 13335,
-      "sha256": "2228b5ddf05525ebcca85a1d6ee49c2a358d094287284b8877823342322caf96"
+      "sha256": "f9b32185b476ed3ef8c22b7b9bdc9351304cae1a0233dd2d22c9e8f2ea0abf28"
     },
     {
       "id": "P22",
@@ -549,7 +549,7 @@
       "file": "P22_2026-09-10_Stellungnahme_zur_Triplik.pdf",
       "pages": 2,
       "characters": 5264,
-      "sha256": "5fd81b7d674736507a60dfc42a30991837d9ca6cf671d1226b53120be1468a95"
+      "sha256": "cadc64fb0c5ea6257c6ba33f908fd60a88e3c7be881f5de52ca6a97b6c9e2b43"
     },
     {
       "id": "P23",
@@ -558,7 +558,7 @@
       "file": "P23_2026-09-18_Besprechungsvermerk_zur_Vorbereitung_des_Kammertermins.pdf",
       "pages": 1,
       "characters": 1792,
-      "sha256": "8e4a304e656e778f121b05341dd0066a4b677b8d9d4c2f358c1394c079be381f"
+      "sha256": "8946b74aca07e7a818695a502144f473f69f9c17be0f56741264570010a11acd"
     },
     {
       "id": "P24",
@@ -566,8 +566,8 @@
       "title": "Protokoll der Kammerverhandlung mit Zeugenvernehmung",
       "file": "P24_2026-09-24_Protokoll_der_Kammerverhandlung_mit_Zeugenvernehmung.pdf",
       "pages": 7,
-      "characters": 22354,
-      "sha256": "d11484447a11a00dc090ec9fa4b759677f9e3b7c9dc40fc781402b4419bb1186"
+      "characters": 22356,
+      "sha256": "12e3850b823cd668a3a09ef4ac62c6b042f7da658b08786fead30905b551cd6b"
     },
     {
       "id": "P25",
@@ -576,7 +576,7 @@
       "file": "P25_2026-09-25_Stellungnahme_zum_Streitwert.pdf",
       "pages": 1,
       "characters": 1482,
-      "sha256": "203788994e7d3d2d1968025066ee054a50ab9c15f24ce4406e748feb829499dc"
+      "sha256": "0cc665860ef3a9209f6e814061e3913f615e36289ccbd92fdbaff17805e288bf"
     },
     {
       "id": "P26",
@@ -585,7 +585,7 @@
       "file": "P26_2026-09-29_Stellungnahme_der_Beklagten_zum_Streitwert.pdf",
       "pages": 1,
       "characters": 1360,
-      "sha256": "359d2e6962ae77e124512daea8edbe274f10123adeb39ab5119726a1a714c4e9"
+      "sha256": "efd8ebb81f1ced7a4934d77112fe5c4aed85f91bc4317cd68978c1526b5fca99"
     },
     {
       "id": "P27",
@@ -593,8 +593,8 @@
       "title": "Urteil im Kündigungsschutzrechtsstreit",
       "file": "P27_2026-10-08_Urteil_im_Kundigungsschutzrechtsstreit.pdf",
       "pages": 23,
-      "characters": 86459,
-      "sha256": "c24819743384dc7ef19a2342ab1d12853e131829e2ca810022ee3acc4e33d0e3"
+      "characters": 86460,
+      "sha256": "f6e466772275f5d6e104db0e6dc0d1f7f2989d9e4dcca386a41c85b1668b5191"
     },
     {
       "id": "P28",
@@ -603,7 +603,7 @@
       "file": "P28_2026-10-08_Verkundungsprotokoll.pdf",
       "pages": 1,
       "characters": 1293,
-      "sha256": "fde4ddc8151d5ea5c48986ed663b030eea41c73f0acd01b291f3c25c27d6d5cb"
+      "sha256": "c1682bbd38e54be55c2ff8ccd55c192fd308d59a0ddaf310b3e59ca93817d27d"
     },
     {
       "id": "P29",
@@ -612,7 +612,7 @@
       "file": "P29_2026-10-08_Beschluss_uber_den_Wert_fur_die_Gerichtsgebuhren.pdf",
       "pages": 1,
       "characters": 1998,
-      "sha256": "1ce3ebb3dc5d1071b3e64d24695c4ef51d6ac7e05d164028a06d2bfca517ed8e"
+      "sha256": "5d4fe964b88648c36f39b556591ec9f503f675c4bcfb9831c535fb7e50e086ae"
     },
     {
       "id": "P30",
@@ -621,7 +621,7 @@
       "file": "P30_2026-10-12_Zustellungsverfugung_nach_Absetzung_des_Urteils.pdf",
       "pages": 1,
       "characters": 991,
-      "sha256": "92319fcfdc2f27a2987c861173ad3bec0c6ee066faafc86a93b66049425b786d"
+      "sha256": "e2a9d0f495539bcc185271d7d5c3f4ef6547854533742d3775b303e34d6284e9"
     },
     {
       "id": "P31",
@@ -630,7 +630,7 @@
       "file": "P31_2026-10-14_Begleitschreiben_zur_elektronischen_Urteilszustellung.pdf",
       "pages": 1,
       "characters": 1277,
-      "sha256": "7796e4be11dff2039a3f906328b95cbd3b5f4ebf5473c0e25d239c79c1624654"
+      "sha256": "beda0eeddd917e209c266fb9d098d3f83eabad1cd879506cba38d581d7a704f0"
     },
     {
       "id": "P32",
@@ -639,7 +639,7 @@
       "file": "P32_2026-10-14_Elektronisches_Empfangsbekenntnis_der_Klagervertreterin.pdf",
       "pages": 1,
       "characters": 1103,
-      "sha256": "320f7f822c5a2fccd16cd5ecc52e7f3208dbfc1033c73339e86f985d2ef65a50"
+      "sha256": "764688ca9e664c00ecd455816b294aa8997665ec93d12171f2171f57fc1e85df"
     },
     {
       "id": "P33",
@@ -648,7 +648,7 @@
       "file": "P33_2026-10-14_Elektronisches_Empfangsbekenntnis_des_Beklagtenvertreters.pdf",
       "pages": 1,
       "characters": 1011,
-      "sha256": "86f8a3db1f61ebe4bf87d6dc01111db37e51438d3bff87ac3f406686b287e50b"
+      "sha256": "2007f3c0ea7bb8af8ce16cb6c418734c14ed0a6a740fe06406e5d1ebbcc87ae8"
     },
     {
       "id": "P34",
@@ -657,7 +657,7 @@
       "file": "P34_2026-10-14_Konsolidiertes_Anlagenverzeichnis_der_Prozessakte.pdf",
       "pages": 3,
       "characters": 4488,
-      "sha256": "9b70a7155d5e2817b57a7635a6d103926d698a49f0d2c446901cc3ce06896e4e"
+      "sha256": "61b3a5c94330ef6be01e93cef5263f7f037f1c51ccc38001782144b3031c6ca0"
     },
     {
       "id": "N01",
@@ -666,7 +666,7 @@
       "file": "N01_2026-10-14_Ubersendung_des_Urteils_und_Besprechung.pdf",
       "pages": 1,
       "characters": 1817,
-      "sha256": "7342c5fe7c49ccb48078f2273cb4e3556168919d9286a2b1ecc228a1f1b2b50c"
+      "sha256": "a2ba2ce8646fed87abadf7280545bda5db79d65f351297b47bd0e2523da8a27c"
     },
     {
       "id": "N02",
@@ -675,7 +675,7 @@
       "file": "N02_2026-10-15_Mandantinnenmail_nach_dem_Urteil.pdf",
       "pages": 1,
       "characters": 1728,
-      "sha256": "349f78c285eefe496b3a5de313f4f6fe572a533da79821ce532e98aa6d28c64c"
+      "sha256": "d7cb1c748fb0f007ad4f024cc5af9b0219af910a3574bc7a033da981615a1f19"
     },
     {
       "id": "N03",
@@ -684,7 +684,7 @@
       "file": "N03_2026-10-16_Besprechungsvermerk_und_Mandatsziele.pdf",
       "pages": 2,
       "characters": 3241,
-      "sha256": "449293bfa487bf5b6814efd5fcb633faf46a7094d7d89c78c5e6726e40957c11"
+      "sha256": "a4004a6650c4d38ffc59d66c74f86dc223e95363e9383b418fe35e2df60a8754"
     },
     {
       "id": "N04",
@@ -693,7 +693,7 @@
       "file": "N04_2026-10-16_Berufungsauftrag_und_Vollmacht.pdf",
       "pages": 1,
       "characters": 1477,
-      "sha256": "f4105ba5cac059226c55016962e3dced53db530d975caa5f41f4110ffc502a35"
+      "sha256": "9e40c805e3519de49046efe367ec0d3e56b57482e64e341b1cd3f9672b2c921c"
     },
     {
       "id": "N05",
@@ -702,7 +702,7 @@
       "file": "N05_2026-10-19_Korrespondenz_zur_Zeugenanfrage.pdf",
       "pages": 1,
       "characters": 1664,
-      "sha256": "d0e7f1b7481e22c1170f1ee1b778c92625df3e455825b1bf4a863f799a7c6160"
+      "sha256": "23892341745306f99130d827b7f788772c9e98027d2f0a3b140ab2bddea71906"
     },
     {
       "id": "N06",
@@ -711,7 +711,7 @@
       "file": "N06_2026-10-20_Schilderung_der_Kollegin_Nora_Berg.pdf",
       "pages": 1,
       "characters": 2269,
-      "sha256": "0fd0959a00a3d7cff3fdc09cfbfc9e93396da7304d8c5129e028e4c47501cc62"
+      "sha256": "37b31d6980e91ae060812a96f48cadb481ba4c4f9fa63ae02ef4efe3ec404422"
     },
     {
       "id": "N07",
@@ -720,7 +720,7 @@
       "file": "N07_2026-10-21_CRM_Rechteubersicht_und_Vertretungsplan_2020.pdf",
       "pages": 1,
       "characters": 2203,
-      "sha256": "9292a493b74fade3bb715701779009e212076ff810e417ec4f17bb9dc1ac429e"
+      "sha256": "588c4e395890e09ce53b9e95bc6ab0d17cfb3c497367bd81e6686a3055c67d28"
     },
     {
       "id": "N08",
@@ -729,7 +729,7 @@
       "file": "N08_2026-10-22_Weitere_Unterlagen_und_Herkunft_der_Dateien.pdf",
       "pages": 1,
       "characters": 1320,
-      "sha256": "e973aa4bef4a45a0e5b6d54757d736340bddd164d26d91f55da3ed2c59d63f47"
+      "sha256": "95f4f822750d16d1896a3f512e0dc527033d307698608b0a5967603d08e44e4f"
     },
     {
       "id": "N09",
@@ -738,7 +738,7 @@
       "file": "N09_2026-10-23_Ubermittlung_der_Versandnachweise_des_Betriebsrats.pdf",
       "pages": 1,
       "characters": 2001,
-      "sha256": "9bcf9cca47d8e33c172ffd2ff3e4e59f1bb9f6eab2641ca72aaa637220da001c"
+      "sha256": "62ea2477440d836251487298af343c8ede48fe9a85eb83dae5c81ade1ab0795b"
     },
     {
       "id": "N10",
@@ -746,8 +746,8 @@
       "title": "BR-Mailausdruck zur Anzeige und Nachreichung",
       "file": "N10_2026-10-23_BR_Mailausdruck_zur_Anzeige_und_Nachreichung.pdf",
       "pages": 2,
-      "characters": 2457,
-      "sha256": "1a6a187108477c085f60755655d9449c06e75f44db59ac4dd78a15691f2c33e6"
+      "characters": 2473,
+      "sha256": "e0317f7c3adf3851841f117b1960c981fd1a23e52774ef7318a1eb6d7a96eca9"
     },
     {
       "id": "N11",
@@ -756,7 +756,7 @@
       "file": "N11_2026-10-26_Erganzende_Schilderung_des_fruheren_Designleiters.pdf",
       "pages": 1,
       "characters": 2476,
-      "sha256": "74ebfb552caf51d42ddbc620e50d26dcf70f614df14de85664bd8321de04e6fb"
+      "sha256": "9cd19d7e13b3e0af0f4787f37d1dd0819a65731f350244af7008ccb583fd7457"
     },
     {
       "id": "N12",
@@ -765,7 +765,7 @@
       "file": "N12_2026-10-26_Arbeitsubersicht_Projekt_Bildbrucke_August_und_September.pdf",
       "pages": 1,
       "characters": 1825,
-      "sha256": "d7bb6e2751b4ba02321e564c91327139ffd884d90a15a1fed21facded5fc02e0"
+      "sha256": "8b5991c6a240fd710cd383929b01bd5480186be0cb6c767ebfee6a29d7fcc61c"
     },
     {
       "id": "N13",
@@ -774,7 +774,7 @@
       "file": "N13_2026-10-27_Unterlagen_zur_freien_Sales_Operations_Stelle.pdf",
       "pages": 1,
       "characters": 2073,
-      "sha256": "078b6968974c317247d7fecd8e413b2d76479ed0abee6a100429394af3f47856"
+      "sha256": "1625250b3eb389a61948122b7bb0a8a3a095b371bf7b394dd77d20172c3989dd"
     },
     {
       "id": "N14",
@@ -783,7 +783,7 @@
       "file": "N14_2026-10-27_Interne_Bewerbung_und_Einarbeitungsplan_Sales_Operations.pdf",
       "pages": 1,
       "characters": 2191,
-      "sha256": "808f5d816b33505891b1fd05743654224dc218681f964f7d487f24e014a3aa34"
+      "sha256": "63bebff2db90bd8749d65b3b13a01a6733629c5b64d8f43d612cd7c53059bf7c"
     },
     {
       "id": "N15",
@@ -792,7 +792,7 @@
       "file": "N15_2026-10-28_Bewerbungs_und_Leistungsubersicht.pdf",
       "pages": 1,
       "characters": 1924,
-      "sha256": "84ae7840f6aa11fc940e108bd354c70bb75c02304112d4ea555fbcde6557c9cd"
+      "sha256": "eb3a34fb5340f8e4c5ab40cb4c69727cdc15220de1afb742316ba5f6003df304"
     },
     {
       "id": "N16",
@@ -800,8 +800,8 @@
       "title": "Arbeitsangebot und Antwort des Arbeitgebers",
       "file": "N16_2026-10-28_Arbeitsangebot_und_Antwort_des_Arbeitgebers.pdf",
       "pages": 1,
-      "characters": 1418,
-      "sha256": "8d1c0414491a8dc0d66ec18494646bfe28f880b1389c7c668948835f4b89a605"
+      "characters": 1419,
+      "sha256": "f7489b0c4dcea6d80873786b29d0f96948c61095000490fc959cb1e652c06a80"
     },
     {
       "id": "N17",
@@ -810,7 +810,7 @@
       "file": "N17_2026-10-29_Deckungszusage_fur_das_Berufungsverfahren.pdf",
       "pages": 1,
       "characters": 1551,
-      "sha256": "d5f6e4f3cab777b0f42761dca32fb8e8eddfb7cb0212fa9852e81950062bc5a4"
+      "sha256": "e25faa8bf16a213f3dca40cf6ff10cb2d5c9c0b8911360787ca41f7520bb4e3d"
     },
     {
       "id": "N18",
@@ -819,7 +819,7 @@
       "file": "N18_2026-10-29_Fristenkontrolle_fur_die_Berufung.pdf",
       "pages": 1,
       "characters": 1951,
-      "sha256": "383eeda7de1c58c46f0d9bb57b30c21a286407b65990e5853731e9e7b49f3a92"
+      "sha256": "677b72317b537009a50339d8d1e5ade8991ff2eee2a44c4b182e7a46b95c9351"
     },
     {
       "id": "N19",
@@ -828,7 +828,7 @@
       "file": "N19_2026-10-30_Berufungsschrift.pdf",
       "pages": 1,
       "characters": 1657,
-      "sha256": "671a930e27e449976d41343a82c462afb2440d90e6f5c36e847b8bcab764b7d5"
+      "sha256": "ae5498daf586d5a041f9dd2e5c907c59cfe65b5d76711603cdca79d7b92137b1"
     },
     {
       "id": "N20",
@@ -837,7 +837,7 @@
       "file": "N20_2026-10-30_beA_Ausgangskontrolle_Berufungseinlegung.pdf",
       "pages": 1,
       "characters": 1515,
-      "sha256": "1dd91bf45f1119f79ccfc3811d0dff0e096ebca737f1afe3ed81b36247dee22a"
+      "sha256": "a44ae15e6e2b79a11ed31534fa4cfdc2d537973d2709884d15a4ff11707f7e96"
     },
     {
       "id": "N21",
@@ -846,17 +846,17 @@
       "file": "N21_2026-10-30_Mitteilung_uber_die_eingelegte_Berufung.pdf",
       "pages": 1,
       "characters": 1816,
-      "sha256": "408033d95dd23105cd26a2df3732c85365559eb307497baa9b3a5d37c2818891"
+      "sha256": "c1bde7836f4f67f010ca206c98042fd5484fa2e17ba18caa6faf98949727cb87"
     }
   ],
   "sources": [
     {
       "path": "scripts/data/uferwerk-vorgeschichte.json",
-      "sha256": "841b58a44c1ee14f1094493c3fb4804867557ea7bf13acb4b40d01e1ff496921"
+      "sha256": "de4e5d092b42d7c1a75c66cba23318d5f5e94911f0e8b09bb401dfe3a7eb756b"
     },
     {
       "path": "scripts/data/uferwerk-prozess.json",
-      "sha256": "641eb400dc265025948dbab1792b0f47372e524d8215704027fba328c9f6b238"
+      "sha256": "824947f26a0e214487f389443636f35e23a4a7d1478c3e25b90e889f556ec70a"
     },
     {
       "path": "scripts/data/uferwerk-nachurteil.json",
@@ -866,7 +866,7 @@
   "production_sources": [
     {
       "path": "scripts/uferwerk_satz.py",
-      "sha256": "1e9799994c57d01500da7c01480942f751ba6b899ec7bb7b1db5a487f18f4a20"
+      "sha256": "cefcba298355b7d3438c1ee485525193572e1c74bbe0bba8f9bb1dd6eaadde1b"
     },
     {
       "path": "scripts/build-uferwerk-berufungsakte.py",

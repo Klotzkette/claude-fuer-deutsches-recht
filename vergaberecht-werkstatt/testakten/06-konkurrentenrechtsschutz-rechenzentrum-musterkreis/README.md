@@ -27,6 +27,10 @@ Die ZIP-URL ist an den Komponentenstand gebunden. Außer README.txt mit dem Warn
 
 <!-- END gesamt-pdf-section (autogen) -->
 
+## Auftrag der Vergabestelle
+
+Öffnen Sie die E-Mail im Mailprogramm. Der Prüfauftrag und die angehängten Originalunterlagen bilden einen eigenständigen Einstieg in diesen Fall. [E-Mail mit Originalanhängen herunterladen](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis/eml/00_pruefauftrag_vergabestelle.eml)
+
 Diese Testakte gehört zum Plugin `konkurrenten-rechtsschutz`. Sie bildet einen Konkurrentenangriff im EU-weiten Vergabeverfahren für einen Rechenzentrums- und Cloud-Betrieb ab. Die unterlegene Bieterin Datacenter Westfalen GmbH will die Zuschlagserteilung an die CloudNord AG stoppen, weil die Wertung, die Referenzen des Zuschlagsprätendenten und die Behandlung einer nachgereichten Betriebsbeschreibung angreifbar sind.
 
 ## Verfahrenseckdaten

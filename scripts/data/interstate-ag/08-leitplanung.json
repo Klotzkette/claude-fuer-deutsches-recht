@@ -76,7 +76,7 @@
     {
       "phase": "Grundakte",
       "datei": "00_rueckfrage_referenz.eml",
-      "titel": "Riedtal-West – welche Erfahrung brauchen wir für die Planung am Rastplatz?",
+      "titel": "Riedtal-West – worauf stützen wir die Referenzvorgabe für die Planung am Rastplatz?",
       "datum": "2026-10-13",
       "uhrzeit": "10:20",
       "von": "Hanno Döring · Vergabestelle West",
@@ -84,9 +84,18 @@
       "absender": "einkauf.west@interstate.example",
       "empfaenger": "planung.west@interstate.example",
       "text": [
-        "Guten Morgen Frau Brecht, für die Untersuchung der Straßenführung am Rastplatz Riedtal interessiert sich das Planungsbüro Trassenschrift für den Westabschnitt. Frau Heyn hat eine Referenz eines Landesbetriebs. Unsere Antwort 04 bestätigt, dass nach Ziffer 4.2 nur Projekte im Auftrag der Deutschen Interstate AG zählen. Welche Arbeit am Rastplatz setzt voraus, dass das Büro schon einmal für uns geplant hat?",
-        "Bitte schicken Sie mir dazu die Modell- und Übergabevorgaben. Ich brauche auch Ihre Einschätzung, an welchen Stellen ein gesondert beauftragtes Umweltbüro die Kartierungen an die Verkehrsplanung übergeben könnte. Davon hängt ab, ob wir die Teilnahmebedingungen für West und Ost vor dem 4. November berichtigen und den Büros mehr Zeit geben müssen.",
+        "Guten Morgen, Frau Brecht,",
+        "Frau Heyn von Trassenschrift möchte die Varianten der Straßenführung im Abschnitt West planen. Sie fragt, ob sie einen Landesbetrieb als Referenzgeber angeben kann. Wir haben am 9. Oktober allen Büros mitgeteilt, dass nach Ziffer 4.2 ein Auftrag aus unserem eigenen Haus verlangt wird. Bevor ich weitere Auskünfte erteile, brauche ich von Ihnen den fachlichen Grund: Welche Arbeit am Übergang zwischen Rastplatz und Betriebszufahrt setzt Erfahrung gerade mit unseren Vorgaben voraus?",
+        "Ich hänge die Bekanntmachung, das Leistungsbild und meine Portalauskunft an. Bitte markieren Sie an der betreffenden Leistung, was ein Büro aus einem vergleichbaren fremden Projekt belegen müsste. Ein Referenzblatt des Büros lag der Portalfrage nicht bei. Klären Sie bitte auch mit der Umweltstelle, bei welchen Übergaben ein gesondert beauftragtes Büro Kartierungen oder Konfliktflächen zuliefern könnte. West und Ost haben eigene Honorarpositionen, müssen aber am Rastplatz aufeinanderpassen.",
+        "Schicken Sie mir bitte bis morgen Mittag einen Vorschlag für unseren Vergabevermerk und, falls eine Bedingung geändert werden muss, den konkreten Ersatzwortlaut für die Mitteilung an alle Bewerber. Die Vergabestelle verantwortet die Veröffentlichung und muss entscheiden, ob den Büros bis zum Ende der Teilnahmefrist am 4. November um 12 Uhr genügend Zeit bleibt.",
         "Vielen Dank und viele Grüße\nHanno Döring"
+      ],
+      "anlagen": [
+        "05_bekanntmachung_teilnahme.docx",
+        "03_leistungsbild_schnittstellen.docx",
+        "04_lv_honorar_abschnitte.xlsx",
+        "06_bewerberfrage_auftraggeber.eml",
+        "07_auskunft_04.txt"
       ]
     },
     {

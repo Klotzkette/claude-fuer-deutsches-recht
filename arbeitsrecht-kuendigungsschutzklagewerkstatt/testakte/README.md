@@ -1,12 +1,12 @@
 # 1. Kündigungsschutz Aktenregister
 
-Drei kleine Arbeitsakten, zwei Fassungen des großen Kündigungsschutzmandats Muster / Seewerk und eine eigenständige Uferwerk-Berufungsakte. Für die drei kleinen Arbeitsakten und die beiden Seewerk-Fassungen gibt es eine Gesamt-PDF, ein flaches ZIP mit einer PDF je tatsächlichem Dokument und ein flaches ZIP der nativen Originale. Bei Seewerk steht zusätzlich ein ausdrücklich gebündelter Anlagen-Satz mit genau K1 bis K14 bereit.
+Die drei Arbeitsakten beginnen am 22. Oktober 2026, die beiden Fassungen Muster gegen Seewerk am 23. November 2026. Bearbeiten Sie zunächst die Unterlagen zum Mandatsbeginn. In der jeweiligen Prozesslieferung folgen Schriftstücke der Betriebsparteien, die Kündigungsschutzklage und die Erwiderung. Bei Uferwerk führt die Akte von der Beschäftigung der Grafikdesignerin bis zur Berufungseinlegung.
 
-Die drei kleinen Akten haben den Aktenstand 22.10.2026 und bleiben unverändert. Die beiden Seewerk-Fassungen verwenden den simulierten Bearbeitungstag 23.11.2026. Der tatsächliche Quellenprüfstand ist 22.10.2026. Das [Referentenmaterial](../referentenmaterial/README.md) bleibt vollständig außerhalb der Akten-Downloads.
+Pro Jahrgang und Arbeitgeber unterscheiden sich die Anhörungsunterlagen, die Zugangsnachweise und die rechtserheblichen Streitpunkte. Das [Referentenmaterial](../referentenmaterial/README.md) ist getrennt erhältlich.
 
 <!-- reserved-example-contacts -->
 
-Personen, Unternehmen, Anschriften und Vorgangsnummern sind erfunden. Kontaktadressen verwenden reservierte .example-Domains. Die App-Bilder sind Rekonstruktionen einer erfundenen Oberfläche. Die fünf bisherigen Fallfassungen enthalten keine Gerichtsentscheidungen. Die Uferwerk-Akte enthält die ausdrücklich bestellte fiktive erste Instanz mit Urteil; eine Berufungsbegründung oder ein Lösungsblatt wird nicht mitgeliefert. README.txt steht in jedem ZIP zuerst; in den PDFs steht kein Warnhinweis. Alle folgenden Links führen auf vorhandene lokale Dateien.
+Personen, Unternehmen und Aktenzeichen der Fälle sind erfunden. Die ZIP-Archive enthalten den zweisprachigen Hinweis in README.txt.
 
 ## 1.1. Ottilie Riemenschneider und die Versanddisposition in Leipzig
 
@@ -24,6 +24,12 @@ Eine Kündigung nach Zusammenlegung zweier Versandlinien. Zur Akte gehören die 
 | Einzel-PDF-ZIP | [Zwölf einzelne PDF-Unterlagen](downloads/testakte-arbeitsrecht-kuendigung-betriebsbedingt-leipzig-einzelpdfs.zip) |
 | Akten-ZIP | [Originalformate DOCX, EML, CSV und TXT](downloads/testakte-arbeitsrecht-kuendigung-betriebsbedingt-leipzig.zip) |
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Prozessunterlagen mit Betriebsratsanhörung, Antwort, Klage und Erwiderung (vier DOCX und Lesefassung als ZIP)](downloads/testakte-arbeitsrecht-kuendigung-betriebsbedingt-leipzig-prozessunterlagen.zip)
+
 ## 1.2. Fridolin Karg und das fehlende Messgerät in Bonn
 
 Ein tragbares Messgerät fehlt im Laborbestand. Die Unterlagen enthalten eine Anhörung, technische Buchungen, eine Werkstattübergabe und unterschiedliche Erinnerungen an einen Transportkoffer.
@@ -40,6 +46,12 @@ Ein tragbares Messgerät fehlt im Laborbestand. Die Unterlagen enthalten eine An
 | Einzel-PDF-ZIP | [Zwölf einzelne PDF-Unterlagen](downloads/testakte-arbeitsrecht-verdachtskuendigung-bonn-einzelpdfs.zip) |
 | Akten-ZIP | [Originalformate DOCX, EML, CSV und TXT](downloads/testakte-arbeitsrecht-verdachtskuendigung-bonn.zip) |
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Prozessunterlagen mit Betriebsratsanhörung, Antwort, Klage und Erwiderung (vier DOCX und Lesefassung als ZIP)](downloads/testakte-arbeitsrecht-verdachtskuendigung-bonn-prozessunterlagen.zip)
+
 ## 1.3. Adelheid Merz und die Poststelle in Augsburg
 
 Nach einer Kündigung wird eine Schwangerschaft ärztlich festgestellt. Die Akte enthält die medizinische Bescheinigung, Nachrichten an die Personalstelle und betriebliche Aufzeichnungen über Gespräche und den Nachrichteneingang.
@@ -55,6 +67,12 @@ Nach einer Kündigung wird eine Schwangerschaft ärztlich festgestellt. Die Akte
 | Gesamt-PDF | [Gesamtakte mit Lesezeichen](downloads/arbeitsrecht-kuendigung-schwangerschaft-augsburg_gesamt.pdf) |
 | Einzel-PDF-ZIP | [Zwölf einzelne PDF-Unterlagen](downloads/testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg-einzelpdfs.zip) |
 | Akten-ZIP | [Originalformate DOCX, EML, CSV und TXT](downloads/testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg.zip) |
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Prozessunterlagen mit Betriebsratsanhörung, Antwort, Klage und Erwiderung (vier DOCX und Lesefassung als ZIP)](downloads/testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg-prozessunterlagen.zip)
 
 ## 1.4. Muster ./. Seewerk – vorlagengetreue Konzeptfassung
 
@@ -73,6 +91,12 @@ Nach einer Kündigung wird eine Schwangerschaft ärztlich festgestellt. Die Akte
 | Akten-ZIP | [Bearbeitbare Originaldateien](downloads/testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell.zip) |
 | Anlagen K1 bis K14 | [Vierzehn geordnete Anlagen-PDFs](downloads/testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell-anlagen-k1-k14.zip) |
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Prozessunterlagen mit Betriebsratsanhörung, Antwort, Klage und Erwiderung (vier DOCX und Lesefassung als ZIP)](downloads/testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell-prozessunterlagen.zip)
+
 ## 1.5. Muster ./. Seewerk – ausführliche Lebensakte
 
 44 Originale, 45 PDF-Seiten, vierzehn logische Kernanlagen. Simulierter Bearbeitungstag: 23.11.2026.
@@ -90,9 +114,15 @@ Nach einer Kündigung wird eine Schwangerschaft ärztlich festgestellt. Die Akte
 | Akten-ZIP | [Bearbeitbare Originaldateien](downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip) |
 | Anlagen K1 bis K14 | [Vierzehn geordnete Anlagen-PDFs](downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell-anlagen-k1-k14.zip) |
 
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Prozessunterlagen mit Betriebsratsanhörung, Antwort, Klage und Erwiderung (vier DOCX und Lesefassung als ZIP)](downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell-prozessunterlagen.zip)
+
 ## 1.6. Muster gegen Uferwerk - Berufungsakte
 
-93 Aktenstücke und ein Aktenverzeichnis, 94 PDFs und 185 Seiten. Vom Arbeitsvertrag 2008 über die vollständige erste Instanz bis zur Berufungseinlegung und Mandantinnenkorrespondenz nach dem Urteil. Bearbeitungsstand: 30.10.2026. [Fallbeschreibung und Benutzung](uferwerk-berufung/README.md). Diese Bestellung wird ausschließlich als PDF-ZIP mit Aktenverzeichnis bereitgestellt.
+93 Aktenstücke und ein Aktenverzeichnis, 94 PDFs und 187 Seiten. Vom Arbeitsvertrag über die erste Instanz bis zur Berufungseinlegung. [Fallbeschreibung und Benutzung](uferwerk-berufung/README.md).
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

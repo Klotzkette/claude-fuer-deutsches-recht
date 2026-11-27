@@ -27,6 +27,10 @@ Die ZIP-URL ist an den Komponentenstand gebunden. Außer README.txt mit dem Warn
 
 <!-- END gesamt-pdf-section (autogen) -->
 
+## Auftrag der Vergabestelle
+
+Öffnen Sie die E-Mail im Mailprogramm. Der Prüfauftrag und die angehängten Originalunterlagen bilden einen eigenständigen Einstieg in diesen Fall. [E-Mail mit Originalanhängen herunterladen](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/03-bauleistung-stadthalle-musterstadt/eml/00_pruefauftrag_vergabestelle.eml)
+
 Bauunternehmen Hochbau Mustermann GmbH aus Musterhausen erhält eine EU-weite Auftragsbekanntmachung der Stadt Musterstadt zur Sanierung der Stadthalle (Dach Fassade Heizung). Vertragsbeginn September 2026, Bauzeit 14 Monate. Der Bieter prüft Go-No-Go, baut das Angebot, gibt es ab und rügt einen erkennbaren Mangel in der Bekanntmachung.
 
 ## Stammdaten

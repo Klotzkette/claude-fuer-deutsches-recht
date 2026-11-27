@@ -65,6 +65,9 @@ from PIL import Image, ImageDraw, ImageFont
 from pptx import Presentation
 from pptx.util import Inches, Pt as PptPt
 
+from vergabestelle_pruefauftraege import read_cases, write_request
+
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
 SKIP_DIRS = {"megaprompts", "formatvorlagen-paradebeispiele"}
@@ -1647,6 +1650,7 @@ def main() -> int:
     uebersprungen = 0
     migriert = 0
     metadaten_ergaenzt = 0
+    pruefauftraege = read_cases()
     for akte_dir in targets:
         akte = akte_dir.name
         migriert += migrate_renamed_outputs(akte_dir, akte)
@@ -1687,6 +1691,9 @@ def main() -> int:
                 write_pptx(akte_dir / "pptx" / (md.stem + ".pptx"), meta, blocks)
                 erzeugt["pptx"] += 1
         metadaten_ergaenzt += enrich_legacy_office_metadata(akte_dir, akte)
+        if akte in pruefauftraege:
+            write_request(akte_dir, pruefauftraege[akte])
+            erzeugt["eml"] += 1
     print(f"build-testakten-echtformate: {erzeugt['docx']} docx, "
           f"{erzeugt['eml']} eml, {erzeugt['xlsx']} xlsx, "
           f"{erzeugt['scan']} scan-pdf, {erzeugt['pptx']} pptx erzeugt, "

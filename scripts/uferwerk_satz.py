@@ -21,7 +21,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen import canvas
 from reportlab.platypus import (
-    BaseDocTemplate, Frame, KeepTogether, LongTable, PageBreak, PageTemplate,
+    BaseDocTemplate, Frame, KeepTogether, LongTable, NextPageTemplate, PageBreak, PageTemplate,
     Paragraph, Spacer, Table, TableStyle,
 )
 
@@ -248,6 +248,7 @@ def page_header(canv, doc, item, spec):
     sty = styles(spec)
     canv.saveState()
     mode, brand = spec["mode"], spec["brand"]
+    canv.personnel_receipt = doc.pageTemplate.id == "PersonnelReceipt"
     if doc.page > 1:
         if mode in ("judgment", "protocol", "court_letter", "court_order"):
             canv.setFont("TNR", 10)
@@ -260,8 +261,12 @@ def page_header(canv, doc, item, spec):
             label = (firm_identity(brand)["name"] if brand in ("employee_firm", "employer_firm")
                      else "Uferwerk Verlag GmbH" if brand == "employer"
                      else "E-Mail-Ausdruck" if mode == "email" else item.get("reference", "Muster ./. Uferwerk"))
-            if mode == "email":
+            if canv.personnel_receipt:
+                label = "Personalbüro · Uferwerk Verlag GmbH"
+            elif mode == "email":
                 label = "E-Mail | " + item["subject"][:65]
+            elif brand == "employer" and "Betriebsrat" in item.get("sender", ""):
+                label = "Betriebsrat der Uferwerk Verlag GmbH"
             canv.drawString(LEFT, PAGE_H - 35, clean(label)[:85])
             canv.drawRightString(PAGE_W - RIGHT, PAGE_H - 35, f"Seite {doc.page}")
             canv.setStrokeColor(PALE)
@@ -420,7 +425,7 @@ class NumberedCanvas(canvas.Canvas):
                     self.drawString(LEFT, 39, ident["role"] + " " + ident["lawyer"])
                     self.drawString(LEFT, 27, ident["address"].replace("\n", " · ") + " · " + ident["email"])
                 elif self.spec["brand"] == "employer" and mode != "email":
-                    is_br = "Betriebsrat" in self.item.get("sender", "") or self.item.get("sender", "").startswith("Cem Aydin")
+                    is_br = not self.personnel_receipt and ("Betriebsrat" in self.item.get("sender", "") or self.item.get("sender", "").startswith("Cem Aydin"))
                     self.drawString(LEFT, 38, ("Betriebsrat Uferwerk Verlag GmbH" if is_br else "Uferwerk Verlag GmbH") + " · Hafenstraße 24 · 78462 Konstanz")
                     self.drawString(LEFT, 26, "Cem Aydin · betriebsrat@uferwerk.example" if is_br else "Geschäftsführerin Dr. Mara Ufer · personal@uferwerk.example")
                 else:
@@ -552,6 +557,8 @@ def _attachments(item):
                      "P10": "B1 bis B10 gemäß gesondertem Anlagenverzeichnis.",
                      "P13": "K10 bis K14 gemäß ergänzendem Anlagenverzeichnis.",
                      "P15": "B11 bis B13 gemäß ergänzendem Anlagenverzeichnis."}
+    if "attachment_labels" in item:
+        return item["attachment_labels"]
     if item["id"] in introductions:
         return [introductions[item["id"]]]
     return [value for value in item.get("attachments", []) if not re.match(r"^[VPN]\d{2}(?:\b|/)", value)]
@@ -571,6 +578,7 @@ def build_pdf(item, output):
     document.addPageTemplates([
         PageTemplate(id="First", frames=first, onPage=lambda c, d: page_header(c, d, item, spec), autoNextPageTemplate="Later"),
         PageTemplate(id="Later", frames=later, onPage=lambda c, d: page_header(c, d, item, spec)),
+        PageTemplate(id="PersonnelReceipt", frames=later, onPage=lambda c, d: page_header(c, d, item, spec)),
     ])
     story = []
     mode = spec["mode"]
@@ -594,7 +602,7 @@ def build_pdf(item, output):
                 _metadata(story, item, sty)
         else:
             title = item["title"]
-            if item["kind"] == "pleading":
+            if item["kind"] == "pleading" and "caption_parties" not in item:
                 story.append(Paragraph("Muster ./. Uferwerk Verlag GmbH", sty["heading"]))
                 if item["id"] != "P01":
                     story.append(Paragraph("Arbeitsgericht Villingen-Schwenningen - Kammern Radolfzell · 7 Ca 87/26",
@@ -603,6 +611,10 @@ def build_pdf(item, output):
             if item["kind"] not in ("pleading",) and item.get("subject") != title:
                 story.append(Paragraph(rich(item.get("subject", "")), sty["small"]))
             story.append(Spacer(1, 7))
+    if "caption_parties" in item:
+        for role, party, representation in item["caption_parties"]:
+            story += [Paragraph(rich(role), sty["meta_key"]), Paragraph(rich(party), sty["party"]),
+                      Paragraph(rich(representation), sty["small"])]
     sections = item["sections"]
     if mode == "judgment" and not item.get("court_caption_paragraphs") and "Rubrum" in sections[0].get("heading", ""):
         sections = sections[1:]
@@ -649,7 +661,12 @@ def build_pdf(item, output):
                                            ("TOPPADDING", (0, 0), (-1, -1), 13)]))
             ending += [Spacer(1, 28), sign_table]
         else:
-            ending += [Spacer(1, 15), Paragraph(rich(item["signature"]), sty["body"])]
+            ending.append(Spacer(1, 15))
+            if item.get("signed_as"):
+                ink = ParagraphStyle("Namenszug", parent=sty["body"], fontName="TNR-Italic",
+                                     fontSize=16, leading=18, textColor=colors.HexColor("#293C54"), spaceAfter=1)
+                ending.append(Paragraph(rich(item["signed_as"]), ink))
+            ending.append(Paragraph(rich(item["signature"]), sty["body"]))
     actual_attachments = _attachments(item)
     if actual_attachments:
         ending += [Spacer(1, 8), Paragraph("Anlagen:", sty["small"])]
@@ -666,4 +683,13 @@ def build_pdf(item, output):
             if story and isinstance(story[-1], Paragraph) and story[-1].style.name == "heading":
                 tail.insert(0, story.pop())
         story.append(KeepTogether(tail + ending))
+    if "record_copy" in item:
+        receipt = item["record_copy"]
+        story += [NextPageTemplate("PersonnelReceipt"), PageBreak(), Paragraph(rich(receipt["reference"]), sty["small"]),
+                  Paragraph(rich(receipt["title"]), sty["title"])]
+        _metadata(story, item, sty, receipt["meta"])
+        story += [Paragraph(rich(receipt["intro"]), sty["body"]), Spacer(1, 6),
+                  make_table(receipt["table"], sty, spec), Spacer(1, 14),
+                  Paragraph(rich(receipt["note"]), sty["body"]),
+                  Paragraph(rich(receipt["signoff"]), sty["body"])]
     document.build(story, canvasmaker=lambda *a, **kw: NumberedCanvas(*a, item=item, spec=spec, **kw))

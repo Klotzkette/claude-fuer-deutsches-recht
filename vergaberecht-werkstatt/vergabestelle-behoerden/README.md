@@ -4,7 +4,7 @@
 
 Die Fachabteilung will ohne Wettbewerb vergeben, ein Unternehmen beanstandet die Ausschreibung oder der Wertungsvermerk liegt zur Unterschrift vor. Die acht Skills unterstützen öffentliche Auftraggeber vom ersten Beschaffungsauftrag bis zur Stellungnahme vor der Vergabekammer.
 
-Die [elf Testakten der Interstate AG, Niederlassung West](Interstate%20AG/README.md) führen vom Vergabevermerk bis zur Auseinandersetzung auf der Baustelle. Prüfen Sie anhand von Leistungsverzeichnissen, Angeboten und Eingangsbelegen, was ein Unternehmen konkret beanstandet und wie die Vergabestelle reagieren sollte. Für eine Sitzung können Sie unter anderem Leitplanung, Brückenneubau, Fahrbahnmarkierung oder IT für die Bauprüfung wählen.
+In den elf Übungsfällen der Deutschen Interstate AG eröffnet eine interne E-Mail die Grundakte. Lesen Sie den Auftrag und prüfen Sie seine Anhänge. Beim Brückenneubau gehören etwa die Wertung der Bauzeit und die Frage nach einer getrennten Vergabe des Ostanschlusses zu demselben Verfahren. Halten Sie die beiden Einwände in getrennten Antwortentwürfen auseinander. [Freigabemail der Vergabestelle](Interstate%20AG/09-brueckenneubau/Grundakte/00_freigabe_los_b.eml) · [Elf Fallakten der Niederlassung West](Interstate%20AG/README.md)
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
@@ -38,7 +38,7 @@ Hängen Sie die Unterlagen an und nennen Sie die anstehende Entscheidung oder da
 
 **1. Einmal installieren**
 
-- **Claude Desktop oder Cowork:** [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.17/vergabestelle-behoerden.zip) herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen eines eigenen Plugins wählen.
+- **Claude im Browser, in der Desktop-App oder in Cowork.** Laden Sie das [Rollen-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.17/vergabestelle-behoerden.zip) herunter. Öffnen Sie `Customize` → `Plugins` und wählen Sie den Upload eines eigenen Plugins, wenn Ihr Konto ihn anbietet. Für Cowork öffnen Sie zuerst den Bereich `Cowork`.
 - **Claude Code:**
 
 ```text
@@ -48,6 +48,8 @@ Hängen Sie die Unterlagen an und nennen Sie die anstehende Entscheidung oder da
 ```
 
 Die Marketplace-Zeile ist nur beim ersten Plugin nötig. [Offizielle Installationshinweise](https://support.claude.com/en/articles/13837440-use-plugins-in-claude).
+
+**ChatGPT oder ein anderer Chat ohne Rollenplugin.** Fügen Sie den [Arbeitsprompt für Ihre Rolle](../vergaberecht-arbeitsprompt-vergabestelle.md) als Text ein oder hängen Sie die Datei mit den verfügbaren Aktenstücken an. [Anleitung für Chat und ChatGPT-Projekt](../README.md#mit-claude-chatgpt-oder-einem-anderen-system-arbeiten)
 
 **2. Fallunterlagen anhängen**
 

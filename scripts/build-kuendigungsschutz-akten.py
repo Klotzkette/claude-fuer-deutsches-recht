@@ -23,14 +23,15 @@ from docx.shared import Pt
 from pypdf import PdfReader, PdfWriter
 from reportlab.platypus import Table
 
+from urllib.parse import unquote, urlsplit
+
+from release_routing import RAW_MAIN
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_MARKDOWN, pdf_content_errors
 from testakte_office_pdf import render_office_batch
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "scripts/data/kuendigungsschutz-akten.json"
 TARGET = ROOT / "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte"
-TAG = "arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.0.0"
-BASE = f"https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/{TAG}"
 CUTOFF = date(2026, 10, 22)
 SLUGS = (
     "arbeitsrecht-kuendigung-betriebsbedingt-leipzig",
@@ -115,10 +116,10 @@ def clean_office_metadata(path, item):
         path.write_bytes(output.getvalue())
 
 
-def download_table(case, central=False):
+def download_table(case):
     slug = case["slug"]
-    prefix = BASE + "/" if central else "downloads/"
-    total = f"gesamt-pdf/{slug}_gesamt.pdf" if central else prefix + f"{slug}_gesamt.pdf"
+    prefix = "downloads/"
+    total = prefix + f"{slug}_gesamt.pdf"
     return f"""{NOTICE_MARKDOWN}
 
 | Format | Download |
@@ -126,6 +127,12 @@ def download_table(case, central=False):
 | Gesamt-PDF | [Gesamtakte mit Lesezeichen]({total}) |
 | Einzel-PDF-ZIP | [Zwölf einzelne PDF-Unterlagen]({prefix}testakte-{slug}-einzelpdfs.zip) |
 | Akten-ZIP | [Originalformate DOCX, EML, CSV und TXT]({prefix}testakte-{slug}.zip) |"""
+
+
+def process_download(slug, prefix):
+    return (f"{NOTICE_MARKDOWN}\n\n"
+            f"[Prozessunterlagen mit Betriebsratsanhörung, Antwort, Klage und Erwiderung "
+            f"(vier DOCX und Lesefassung als ZIP)]({prefix}testakte-{slug}-prozessunterlagen.zip)")
 
 
 def configure_office_fonts():
@@ -210,11 +217,15 @@ def validate_outputs(cases, report):
         if notices.missing_notice_positions(text):
             raise ValueError(f"Hinweisposition: {path}")
         for target in re.findall(r"\]\(([^)]+)\)", text):
-            if "://" in target:
-                if not target.startswith(BASE + "/") or not (TARGET / "downloads" / target.rsplit("/", 1)[1]).is_file():
-                    raise ValueError(f"Kein versionsgleicher Akten-Asset: {target}")
-            elif not (path.parent / target).is_file():
-                raise ValueError(f"Kein funktionierendes lokales Linkziel: {target}")
+            if target.startswith(RAW_MAIN + "/"):
+                linked = ROOT / unquote(urlsplit(target[len(RAW_MAIN) + 1:]).path)
+            elif "://" in target:
+                raise ValueError(f"Unbekannter Downloadpfad: {target}")
+            else:
+                linked = path.parent / unquote(urlsplit(target).path)
+            if not linked.resolve().is_relative_to(ROOT) or not linked.is_file():
+                raise ValueError(f"Kein funktionierendes Linkziel: {target}")
+
 
 
 def build():
@@ -308,21 +319,21 @@ def build():
 
 ## 1.1. Benutzung und Bestand
 
-Für die anwaltliche Arbeit an Kündigungsschutzmandaten. Die Unterlagen sind in Dateireihenfolge lesbar oder in ihren Originalformaten bearbeitbar. Aktenstand: 22.10.2026. Zwölf Originale mit {len(writer.pages)} PDF-Seiten: acht DOCX, zwei EML, ein Entgeltkonto als CSV mit vier Datenzeilen und ein persönlicher Textvermerk. Der Arbeitsvertrag ist mehrseitig. Es sind keine Lösung, Bewertung, Musterklage oder redaktionellen Arbeitsaufträge beigelegt.
+Für die anwaltliche Arbeit an Kündigungsschutzmandaten. Die Unterlagen sind in Dateireihenfolge lesbar oder in ihren Originalformaten bearbeitbar. Aktenstand: 22.10.2026. Zwölf Originale mit {len(writer.pages)} PDF-Seiten: acht DOCX, zwei EML, ein Entgeltkonto als CSV mit vier Datenzeilen und ein persönlicher Textvermerk. Der Arbeitsvertrag ist mehrseitig. Die gesonderte Prozesslieferung setzt nach diesem Aktenstand ein.
 
 <!-- reserved-example-contacts -->
 
 Alle Personen, Unternehmen, Praxen, Geschäftsanschriften und Vorgangsnummern sind erfunden. Die Orte bilden nur den geografischen Rahmen. Kontaktadressen verwenden reservierte .example-Domains. Die medizinischen Angaben betreffen keine realen Patientinnen oder Patienten.
 
-<!-- BEGIN gesamt-pdf-section (autogen) -->
+{module("inject-gesamt-pdf-section").section_block(case["slug"], "gesamt-pdf/" + case["slug"] + "_gesamt.pdf", True).strip()}
 
-## 1.2. Downloads
+Das Akten-ZIP enthält die zwölf Originale. Im Einzel-PDF-ZIP steht jede Unterlage als eigene Lesefassung. Die lose abgelegten Anhänge stimmen bytegenau mit den Anlagen der E-Mails überein.
 
-{download_table(case, central=True)}
+### Prozessunterlagen
 
-<!-- END gesamt-pdf-section (autogen) -->
+Nach der Grundakte können Sie den Parteivortrag mit den Kopien aus der Betriebsratsakte vergleichen.
 
-Beide ZIPs sind flach; README.txt steht zuerst und enthält den unveränderten zweisprachigen Hinweis. Das Originalformat-ZIP enthält ausschließlich die zwölf Originale und README.txt. Das Einzel-PDF-ZIP enthält ein PDF je Original und README.txt. Mailanlagen sind bytegleich zusätzlich als eigenständige Originale abgelegt und werden in der Lesefassung nicht doppelt gezählt. Die PDFs enthalten keine Warnhinweise. Die ZIP-Links gehören zum Komponentenrelease `{TAG}`. Die lokalen ZIPs und das Gesamt-PDF liegen auch im Plugin-Aktenregister bereit; die Veröffentlichung ist nicht Bestandteil dieses Builds.
+{process_download(case['slug'], '../../arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/')}
 
 ## 1.3. Unterlagen
 
@@ -345,7 +356,7 @@ Die Arbeitsverträge sind vollständig ausformuliert und mehrseitig. E-Mails sin
 
 <!-- reserved-example-contacts -->
 
-Alle Personen, Unternehmen, Praxen, Anschriften und Vorgangsnummern sind erfunden; die Orte dienen als geografischer Rahmen. Kontaktadressen verwenden reservierte .example-Domains. Es werden keine realen Patientendaten verwendet. Beide ZIP-Varianten sind flach, ohne Markdown, mit README.txt als erstem Eintrag. Die PDFs enthalten keinen Warnhinweis. Alle folgenden Downloadlinks sind relativ und führen auf vorhandene lokale Dateien. Die neun Dateien in `downloads/` sind zugleich die Akten-Assets für den Komponentenrelease `{TAG}`; dessen Veröffentlichung ist nicht Bestandteil dieses Builds.
+Alle Personen, Unternehmen, Praxen, Anschriften und Vorgangsnummern sind erfunden; die Orte dienen als geografischer Rahmen. Kontaktadressen verwenden reservierte .example-Domains. Es werden keine realen Patientendaten verwendet. Beide ZIP-Varianten sind flach, ohne Markdown, mit README.txt als erstem Eintrag. Die PDFs enthalten keinen Warnhinweis. Alle folgenden Downloadlinks sind relativ und führen auf vorhandene lokale Dateien.
 
 {sections}
 """, encoding="utf-8")

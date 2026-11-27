@@ -7,9 +7,13 @@ Date: Wed, 14 Oct 2026 09:35:00 +0200
 Message-ID: <56b42c4a60610f1a9430700c@fallpost.example>
 Subject: Antwort auf Markterkundung =?utf-8?q?=C2=B7?= 35.000 Einheiten aus
  Gescher
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-5ca54be27b0d664af37eec57"
+
+--interstate-alt-5ca54be27b0d664af37eec57
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 F=C3=BCr Ma=C3=9Fnahmenblatt G-61, Gemarkung Gescher, Flur 19, St=C3=BCck 42,=
  k=C3=B6nnen wir bis 23. Oktober, 16:00 Uhr, eine Teilmenge von h=C3=B6chsten=
@@ -24,3 +28,25 @@ em Ma=C3=9Fnahmenblatt, das die Beh=C3=B6rde bezogen auf Ihren Eingriff noch =
 nicht bewertet hat. F=C3=BCr Neuanlage oder weitere Pflege auf Weisung der AG=
  kalkulieren wir nicht. Bitte best=C3=A4tigen Sie nur den Erhalt; eine Buchun=
 g nehmen wir erst gegen gesonderte schriftliche Beauftragung vor.
+
+--interstate-alt-5ca54be27b0d664af37eec57
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #2C=
+6155;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>F=C3=BCr Ma=C3=
+=9Fnahmenblatt G-61, Gemarkung Gescher, Flur 19, St=C3=BCck 42, k=C3=B6nnen w=
+ir bis 23. Oktober, 16:00 Uhr, eine Teilmenge von h=C3=B6chstens 35.000 Werte=
+inheiten zu 2,20 Euro netto je zugeordneter Einheit anbieten. Es handelt sich=
+ um seit 2024 extensiv genutztes Gr=C3=BCnland; unser eigener Kontoauszug vom=
+ 30. September nennt 41.000 noch nicht abgebuchte Einheiten. F=C3=BCr einen N=
+achbarn sind intern 6.000 gesperrt.</p><p>Wir lassen die Zuordnung von der Ko=
+ntostelle best=C3=A4tigen, sobald Ihre konkrete Eingriffsnummer vorliegt. Uns=
+ere Angabe zur Biotopfunktion beruht auf dem Ma=C3=9Fnahmenblatt, das die Beh=
+=C3=B6rde bezogen auf Ihren Eingriff noch nicht bewertet hat. F=C3=BCr Neuanl=
+age oder weitere Pflege auf Weisung der AG kalkulieren wir nicht. Bitte best=
+=C3=A4tigen Sie nur den Erhalt; eine Buchung nehmen wir erst gegen gesonderte=
+ schriftliche Beauftragung vor.</p></div></body></html>
+
+--interstate-alt-5ca54be27b0d664af37eec57--

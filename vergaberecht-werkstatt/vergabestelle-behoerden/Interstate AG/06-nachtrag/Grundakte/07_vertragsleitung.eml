@@ -6,9 +6,13 @@ To: Lisa =?utf-8?q?T=C3=BCrk_=C2=B7_Tiefbau_Wiesenfeld_GmbH=2C_kaufm=C3=A4nn?=
 Date: Tue, 10 Nov 2026 10:03:00 +0100
 Message-ID: <345c4b812c4e4c722e777c69@fallpost.example>
 Subject: Ihre Bitte um =?utf-8?q?Best=C3=A4tigung_f=C3=BCr?= Nachtrag 7
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-fd71586ed1a4ed42f69c8007"
+
+--interstate-alt-fd71586ed1a4ed42f69c8007
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Frau T=C3=BCrk, Ihre Nachricht von gestern um 18.16 Uhr mit dem Hinweis, dass=
  Sie die technische Freigabe als Auftrag auffassen, habe ich erhalten. Wir pr=
@@ -24,3 +28,26 @@ lgraben und erweiterten Graben vor. Bitte weisen Sie die geplanten sechs zus=
 =C3=A4tzlichen Nachtsicherungen einer Station und einer Sperranordnung zu. De=
 r Bau=C3=BCberwachung habe ich Gelegenheit zur gemeinsamen Aufnahme gegeben. =
 Eine Stilllegung der gesamten Baustelle haben wir nicht verlangt.
+
+--interstate-alt-fd71586ed1a4ed42f69c8007
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #17=
+4A61;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Frau T=C3=BCrk, =
+Ihre Nachricht von gestern um 18.16 Uhr mit dem Hinweis, dass Sie die technis=
+che Freigabe als Auftrag auffassen, habe ich erhalten. Wir pr=C3=BCfen Ihre v=
+ier Preispositionen noch. Ich habe in der Nachtragsliste neben =E2=80=9Etechn=
+isch erforderlich=E2=80=9C nur =E2=80=9EKosten offen=E2=80=9C eingetragen. Di=
+e zwischen mir und Frau Evers vorgesehene gemeinsame Erkl=C3=A4rung ist bishe=
+r nicht abgegeben. Den Eingang unserer Mitteilung zu den Vollmachten vom 13. =
+August haben Sie laut Empfangsvermerk im Projektpostfach am 13. August um 15.=
+18 Uhr best=C3=A4tigt.</p><p>Bitte legen Sie schon f=C3=BCr die erste Nacht g=
+etrennte Mengen f=C3=BCr Regelgraben und erweiterten Graben vor. Bitte weisen=
+ Sie die geplanten sechs zus=C3=A4tzlichen Nachtsicherungen einer Station und=
+ einer Sperranordnung zu. Der Bau=C3=BCberwachung habe ich Gelegenheit zur ge=
+meinsamen Aufnahme gegeben. Eine Stilllegung der gesamten Baustelle haben wir=
+ nicht verlangt.</p></div></body></html>
+
+--interstate-alt-fd71586ed1a4ed42f69c8007--

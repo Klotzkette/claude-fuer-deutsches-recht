@@ -4,7 +4,7 @@ Nach einer Kündigung wird eine Schwangerschaft ärztlich festgestellt. Die Akte
 
 ## 1.1. Benutzung und Bestand
 
-Für die anwaltliche Arbeit an Kündigungsschutzmandaten. Die Unterlagen sind in Dateireihenfolge lesbar oder in ihren Originalformaten bearbeitbar. Aktenstand: 22.10.2026. Zwölf Originale mit 13 PDF-Seiten: acht DOCX, zwei EML, ein Entgeltkonto als CSV mit vier Datenzeilen und ein persönlicher Textvermerk. Der Arbeitsvertrag ist mehrseitig. Es sind keine Lösung, Bewertung, Musterklage oder redaktionellen Arbeitsaufträge beigelegt.
+Für die anwaltliche Arbeit an Kündigungsschutzmandaten. Die Unterlagen sind in Dateireihenfolge lesbar oder in ihren Originalformaten bearbeitbar. Aktenstand: 22.10.2026. Zwölf Originale mit 13 PDF-Seiten: acht DOCX, zwei EML, ein Entgeltkonto als CSV mit vier Datenzeilen und ein persönlicher Textvermerk. Der Arbeitsvertrag ist mehrseitig. Die gesonderte Prozesslieferung setzt nach diesem Aktenstand ein.
 
 <!-- reserved-example-contacts -->
 
@@ -15,7 +15,7 @@ Alle Personen, Unternehmen, Praxen, Geschäftsanschriften und Vorgangsnummern si
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den Ordner `Grundakte`. Dort stehen die ausgewählten Eingangsunterlagen und Belege. Falls ein Rechtsbehelf vorzubereiten ist, kann der zugrunde liegende Ausgangsbescheid dazugehören. Die weiteren Aktenstücke liegen außerhalb der Grundakte. Die vollständige Lesefassung ist separat abrufbar. Das Einzel-PDF-ZIP dient der Durchsicht der vollständigen Akte.
+Öffnen Sie für das erste Mandantengespräch das Arbeits-ZIP mit Eingangspost. Unter `Grundakte/00_Posteingang` stehen die ersten Nachrichten und Belege. Die Prozessunterlagen in der Vollakte dienen der späteren Bearbeitung. Das kleinere Akten-ZIP enthält den ursprünglichen Unterlagenbestand mit einem eigenen Ordner für die Grundakte.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -23,18 +23,28 @@ Entpacken Sie das Akten-ZIP und laden Sie für den ersten Arbeitsauftrag nur den
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg.zip) · [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg.zip) |
+| **Vollakte mit Eingangspost** | ZIP | [Arbeits-ZIP mit Eingangspost](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/kuendigungsschutz/lebensakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg.zip) · [Druckfassungen dieses Falls](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/kuendigungsschutz/druckakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg.zip) |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/arbeitsrecht-kuendigung-schwangerschaft-augsburg_gesamt.pdf`](gesamt-pdf/arbeitsrecht-kuendigung-schwangerschaft-augsburg_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.0.0/testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg.zip](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/kuendigungsschutz/testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg-einzelpdfs.zip](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg-einzelpdfs.zip) |
 
-Die ZIP-Links führen zu den veröffentlichten Aktenfassungen. Die Gesamt-PDF steht für die Nachbesprechung getrennt bereit.
+Das Druckpaket umfasst die vollständige Fallakte als Gesamt-PDF und als einzelne Lesefassungen.
 
-English: Start with the `Grundakte` folder in the original-format ZIP. It contains the selected intake records. Later procedural documents are outside that folder. Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP. Choose the individual-PDF ZIP to review each document separately.
+English: Start with the correspondence under `Grundakte/00_Posteingang` in the complete working file. The smaller source ZIP contains the original records. The print bundle includes the complete case.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Beide ZIPs sind flach; README.txt steht zuerst und enthält den unveränderten zweisprachigen Hinweis. Das Originalformat-ZIP enthält ausschließlich die zwölf Originale und README.txt. Das Einzel-PDF-ZIP enthält ein PDF je Original und README.txt. Mailanlagen sind bytegleich zusätzlich als eigenständige Originale abgelegt und werden in der Lesefassung nicht doppelt gezählt. Die PDFs enthalten keine Warnhinweise. Die ZIP-Links gehören zum Komponentenrelease `arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.0.0`. Die lokalen ZIPs und das Gesamt-PDF liegen auch im Plugin-Aktenregister bereit; die Veröffentlichung ist nicht Bestandteil dieses Builds.
+Das Akten-ZIP enthält die zwölf Originale. Im Einzel-PDF-ZIP steht jede Unterlage als eigene Lesefassung. Die lose abgelegten Anhänge stimmen bytegenau mit den Anlagen der E-Mails überein.
+
+### Prozessunterlagen
+
+Nach der Grundakte können Sie den Parteivortrag mit den Kopien aus der Betriebsratsakte vergleichen.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Prozessunterlagen mit Betriebsratsanhörung, Antwort, Klage und Erwiderung (vier DOCX und Lesefassung als ZIP)](../../arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg-prozessunterlagen.zip)
 
 ## 1.3. Unterlagen
 

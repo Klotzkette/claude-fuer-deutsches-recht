@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Creates only the new workbook. Previews and native recalculation stay in a temporary directory.
+// Build and recalculate the workbook before installing it in the case folder.
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import { constants } from 'node:fs';
@@ -13,14 +13,21 @@ import { promisify } from 'node:util';
 const run = promisify(execFile);
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const runtime = path.join(process.env.HOME, '.cache/codex-runtimes/codex-primary-runtime/dependencies');
-const python = path.join(runtime, 'python/bin/python3');
-const office = path.join(runtime, 'native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice');
+async function executable(override, bundled, fallback) {
+  if (override) return override;
+  return (await fs.access(bundled, constants.X_OK).then(() => true, () => false)) ? bundled : fallback;
+}
+const python = await executable(process.env.PYTHON, path.join(runtime, 'python/bin/python3'), 'python3');
+const office = await executable(process.env.SOFFICE,
+  path.join(runtime, 'native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice'), 'soffice');
 const caseDir = path.join(root, 'testakten/inkasso-zahlungsklage-modefuchs');
 const filename = '31_Forderungskonto_Arbeitsstand_20250705.xlsx';
 const target = path.join(caseDir, filename);
 const qaOnly = process.argv.includes('--qa-only');
-assert(process.argv.slice(2).every(arg => arg === '--qa-only'), 'Only --qa-only is supported.');
-if (!qaOnly) {
+const replace = process.argv.includes('--replace');
+assert(process.argv.slice(2).every(arg => arg === '--qa-only' || arg === '--replace') && !(replace && qaOnly),
+  'Choose --replace or --qa-only.');
+if (!qaOnly && !replace) {
   await assert.rejects(fs.access(target), { code: 'ENOENT' }, 'Existing workbooks are never overwritten.');
 }
 const qaDir = await fs.mkdtemp(path.join(tmpdir(), 'modefuchs-forderungskonto-'));
@@ -71,8 +78,8 @@ assert(JSON.stringify(correspondence).includes('am 30.06. ungekürzt an die Inka
 const workbook = Workbook.create();
 const ledger = workbook.worksheets.add('Forderungskonto');
 const notes = workbook.worksheets.add('Zahlungsbelege');
-const colors = { ink: '#252B29', muted: '#58605D', header: '#40544B', line: '#CFD6D2', total: '#E8EEEA', input: '#24548A' };
-const currency = '#,##0.00;(#,##0.00);0.00';
+const colors = { ink: '#17394D', muted: '#496068', header: '#214554', line: '#BBCED0', total: '#DEEEEA', input: '#24548A' };
+const currency = '[$-407]#,##0.00;([$-407]#,##0.00);[$-407]0.00';
 const date = value => new Date(`${value}T00:00:00.000Z`);
 function cell(sheet, address, value) { sheet.getRange(address).values = [[value]]; }
 function base(sheet, range, widths) {
@@ -92,12 +99,18 @@ function header(sheet, range) {
 }
 base(ledger, 'A1:H27', { A: 135, B: 220, C: 174, D: 132, E: 132, F: 120, G: 18, H: 265 });
 // Keep the ledger total with its column headings in the native print layout.
-ledger.getRange('A4:H4').format.rowHeight = 8;
-ledger.getRange('A9:H9').format.rowHeight = 8;
+ledger.getRange('A4:H4').format.rowHeight = 3;
+ledger.getRange('A9:H9').format.rowHeight = 3;
+ledger.getRange('A10:H10').format.rowHeight = 17;
+ledger.getRange('A5:H8').format.rowHeight = 15;
+ledger.getRange('A18:H25').format.rowHeight = 15;
+for (const row of [18, 22, 26, 27]) ledger.getRange(`A${row}:H${row}`).format.rowHeight = 6;
 ledger.tabColor = colors.header;
 cell(ledger, 'A2', 'InkassoZentrale GmbH');
 cell(ledger, 'A3', 'Forderungskonto');
-ledger.getRange('A2').format.font = { size: 16, bold: true };
+ledger.getRange('A2:H2').format.fill = colors.header;
+ledger.getRange('A2:H2').merge();
+ledger.getRange('A2').format.font = { size: 16, bold: true, color: '#FFFFFF' };
 ledger.getRange('A3').format.font = { size: 14, bold: true };
 ledger.getRange('A3:H3').format.borders = { bottom: { style: 'thin', color: colors.line } };
 for (const [address, value] of Object.entries({
@@ -107,13 +120,13 @@ for (const [address, value] of Object.entries({
   A8: 'Auftraggeberin', B8: facts.original_creditor.name, C8: 'Bearbeitung', D8: 'Denise Radtke',
   A10: 'Übernommene Belastungen und eingegangene Gutschriften. Zahlung unaufgeteilt gebucht.',
 })) cell(ledger, address, value);
-ledger.getRange('B5').setNumberFormat('yyyy-mm-dd');
+ledger.getRange('B5').setNumberFormat('dd.mm.yyyy');
 ledger.getRange('B5').format.horizontalAlignment = 'left';
 ledger.getRange('A5:A8').format.font.color = colors.muted;
 ledger.getRange('C5:C8').format.font.color = colors.muted;
 ledger.getRange('A10').format.font = { italic: true, color: colors.muted };
 ledger.getRange('A11:F16').values = [
-  ['Belegdatum', 'Buchungstext', 'Beleg', 'Angeforderte\nBelastungen (EUR)', 'Eingegangene\nGutschriften (EUR)', 'Buchsaldo (EUR)'],
+  ['Belegdatum', 'Buchungstext', 'Beleg', 'Belastung\n(EUR)', 'Gutschrift\n(EUR)', 'Buchsaldo (EUR)'],
   [date('2025-06-08'), 'Übernahme Hauptforderung', facts.invoice.number, charges[0], 0, null],
   [date('2025-06-08'), 'Mahngebühren, Vorbestand', 'Mahnung 04.05.2025', charges[1], 0, null],
   [date('2025-06-08'), 'Zinsen, Vorbestand', 'Abtretung 08.06.2025', charges[2], 0, null],
@@ -130,7 +143,7 @@ ledger.getRange('H12:H16').values = [
   ['12 Gebührenrechnung, S. 1'],
   ['15 Zahlungsnotiz, S. 1'],
 ];
-ledger.getRange('A12:A16').setNumberFormat('yyyy-mm-dd');
+ledger.getRange('A12:A16').setNumberFormat('dd.mm.yyyy');
 ledger.getRange('A12:A16').format.horizontalAlignment = 'left';
 ledger.getRange('D12:F17').setNumberFormat(currency);
 ledger.getRange('D12:E16').format.font.color = colors.input;
@@ -138,8 +151,9 @@ ledger.getRange('D12:F17').format.horizontalAlignment = 'right';
 ledger.getRange('F12').formulas = [['=ROUND(D12-E12,2)']];
 ledger.getRange('F13').formulas = [['=ROUND(SUM(F12,D13)-E13,2)']];
 ledger.getRange('F13:F16').fillDown();
-ledger.getRange('A11:H11').format.rowHeight = 48;
-ledger.getRange('A12:H16').format.rowHeight = 42;
+ledger.getRange('A11:H11').format.rowHeight = 29;
+ledger.getRange('A12:H16').format.rowHeight = 34;
+ledger.getRange('A16:H16').format.rowHeight = 40;
 ledger.getRange('B12:C16').format.wrapText = true;
 ledger.getRange('H12:H16').format.wrapText = true;
 ledger.getRange('H12:H16').format.font = { size: 10, color: colors.muted };
@@ -162,7 +176,9 @@ ledger.getRange('A25').format.font = { size: 10, color: colors.muted };
 
 base(notes, 'A1:F23', { A: 105, B: 190, C: 133, D: 370, E: 18, F: 260, G: 18 });
 cell(notes, 'A2', 'Zahlungsbelege');
-notes.getRange('A2').format.font = { size: 16, bold: true };
+notes.getRange('A2:F2').format.fill = colors.header;
+notes.getRange('A2:F2').merge();
+notes.getRange('A2').format.font = { size: 16, bold: true, color: '#FFFFFF' };
 cell(notes, 'A3', 'InkassoZentrale GmbH');
 notes.getRange('A3:F3').format.borders = { bottom: { style: 'thin', color: colors.line } };
 cell(notes, 'A5', 'Vorgang');
@@ -170,7 +186,7 @@ cell(notes, 'B5', 'IZ-MF-2025-1749');
 cell(notes, 'D5', 'Rechnung R-20250406-3098');
 cell(notes, 'A6', 'Arbeitsstand');
 cell(notes, 'B6', date('2025-07-05'));
-notes.getRange('B6').setNumberFormat('yyyy-mm-dd');
+notes.getRange('B6').setNumberFormat('dd.mm.yyyy');
 notes.getRange('B6').format.horizontalAlignment = 'left';
 notes.getRange('A8:D12').values = [
   ['Belegdatum', 'Beleg', 'Betrag (EUR)', 'Vermerk'],
@@ -190,10 +206,10 @@ notes.getRange('F9:F12').values = [
   ['19 Kontoauszug Altenhausen, S. 1'], ['27 Zahlungsbestätigung 30.06.2025, S. 1'],
   ['Weiterleitung_Direktzahlung_1749.eml, 01.07.2025'], ['15 Zahlungsnotiz 01.07.2025, S. 1'],
 ];
-notes.getRange('A9:A12').setNumberFormat('yyyy-mm-dd');
+notes.getRange('A9:A12').setNumberFormat('dd.mm.yyyy');
 notes.getRange('A9:A12').format.horizontalAlignment = 'left';
 // Literal display padding separates the amount from the adjacent note without changing its value.
-notes.getRange('C9:C12').setNumberFormat('#,##0.00"   ";(#,##0.00)"   ";0.00"   "');
+notes.getRange('C9:C12').setNumberFormat('[$-407]#,##0.00"   ";([$-407]#,##0.00)"   ";[$-407]0.00"   "');
 notes.getRange('C9:C12').format.horizontalAlignment = 'right';
 notes.getRange('A8:F8').format.rowHeight = 32;
 notes.getRange('A9:F12').format.rowHeight = 72;
@@ -282,5 +298,15 @@ await fs.writeFile(path.join(qaDir, 'verification.json'), JSON.stringify({
   sourcePdfs: pdfNames, nativeCommand: office,
   nativeOutput: native.stdout.trim(), recalculation: JSON.parse(validation),
 }, null, 2));
-if (!qaOnly) await fs.copyFile(exported, target, constants.COPYFILE_EXCL);
+if (replace) {
+  const staged = path.join(caseDir, `.${path.basename(qaDir)}.tmp`);
+  try {
+    await fs.copyFile(exported, staged, constants.COPYFILE_EXCL);
+    await fs.rename(staged, target);
+  } finally {
+    await fs.rm(staged, { force: true });
+  }
+} else if (!qaOnly) {
+  await fs.copyFile(exported, target, constants.COPYFILE_EXCL);
+}
 console.log(JSON.stringify({ mode: qaOnly ? 'qa-only' : 'created', workbook: qaOnly ? exported : target, qaDir, nativeRecalculation: 'passed' }));

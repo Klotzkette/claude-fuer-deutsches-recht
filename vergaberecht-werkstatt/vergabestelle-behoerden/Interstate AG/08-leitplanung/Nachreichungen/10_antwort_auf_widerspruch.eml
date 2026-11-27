@@ -6,9 +6,13 @@ Date: Mon, 19 Oct 2026 14:16:00 +0200
 Message-ID: <388724ee2780ba222dd8f5ec@fallpost.example>
 Subject: Nachricht West zur Referenzvorgabe und zur =?utf-8?q?Lospr=C3=BCfun?=
  =?utf-8?q?g?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-e7123e21a019028f0e6ab6ae"
+
+--interstate-alt-e7123e21a019028f0e6ab6ae
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Sehr geehrte Frau Heyn, nach R=C3=BCcksprache mit der Fachleitung halten wir =
 an Bedingung 4.2 fest. Ihrem Begehren, Referenzen anderer Auftraggeber zuzula=
@@ -20,3 +24,22 @@ Zur Trennung der Umweltuntersuchung hat die Umweltstelle den =C3=9Cbergabeauf=
 wand noch nicht beziffert. Wir pr=C3=BCfen diesen Teil Ihres Schreibens weite=
 r und werden uns dazu gesondert =C3=A4u=C3=9Fern. Eine Fristverl=C3=A4ngerung=
  ist bislang nicht ver=C3=B6ffentlicht. Hanno D=C3=B6ring.
+
+--interstate-alt-e7123e21a019028f0e6ab6ae
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #17=
+4A61;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Sehr geehrte Fra=
+u Heyn, nach R=C3=BCcksprache mit der Fachleitung halten wir an Bedingung 4.2=
+ fest. Ihrem Begehren, Referenzen anderer Auftraggeber zuzulassen, helfen wir=
+ nicht ab. Das Team braucht f=C3=BCr diesen Korridor B=C3=BCros, die unsere i=
+nternen Modellkonventionen kennen. F=C3=BCr das Verfahren bleibt es bei der v=
+er=C3=B6ffentlichten Vorgabe.</p><p>Zur Trennung der Umweltuntersuchung hat d=
+ie Umweltstelle den =C3=9Cbergabeaufwand noch nicht beziffert. Wir pr=C3=BCfe=
+n diesen Teil Ihres Schreibens weiter und werden uns dazu gesondert =C3=A4u=
+=C3=9Fern. Eine Fristverl=C3=A4ngerung ist bislang nicht ver=C3=B6ffentlicht.=
+ Hanno D=C3=B6ring.</p></div></body></html>
+
+--interstate-alt-e7123e21a019028f0e6ab6ae--

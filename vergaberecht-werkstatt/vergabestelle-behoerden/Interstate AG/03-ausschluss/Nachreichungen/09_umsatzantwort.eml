@@ -6,9 +6,13 @@ Date: Thu, 10 Sep 2026 08:34:00 +0200
 Message-ID: <ae72c5508edeb914825a967a@fallpost.example>
 Subject: Antwort im Nachrichtenfach E3 =?utf-8?q?=C2=B7?= 10. September, 08:34
  Uhr
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-b100ca2069be73ec2a72e4c9"
+
+--interstate-alt-b100ca2069be73ec2a72e4c9
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Zur Nachricht vom 8. September reichen wir die Erkl=C3=A4rung der Gesch=C3=A4=
 ftsf=C3=BChrung nach. Das zum 31. Dezember abgeschlossene Gesch=C3=A4ftsjahr =
@@ -20,3 +24,21 @@ gen.
 Ich best=C3=A4tige die Zahlen im Auftrag der Gesch=C3=A4ftsf=C3=BChrung und b=
 itte um Zuordnung ausschlie=C3=9Flich zur Nachforderung E3. Preis und technis=
 che Eintr=C3=A4ge sind nicht Gegenstand dieser Nachricht.
+
+--interstate-alt-b100ca2069be73ec2a72e4c9
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #13=
+5D79;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Zur Nachricht vo=
+m 8. September reichen wir die Erkl=C3=A4rung der Gesch=C3=A4ftsf=C3=BChrung =
+nach. Das zum 31. Dezember abgeschlossene Gesch=C3=A4ftsjahr ist unser satzun=
+gsm=C3=A4=C3=9Figes Gesch=C3=A4ftsjahr. Unsere Ums=C3=A4tze mit Messstationen=
+ betrugen 2023 2.160.000 Euro, 2024 2.440.000 Euro und 2025 2.610.000 Euro ne=
+tto. Die Werte stammen aus den abgezeichneten Jahresauswertungen.</p><p>Ich b=
+est=C3=A4tige die Zahlen im Auftrag der Gesch=C3=A4ftsf=C3=BChrung und bitte =
+um Zuordnung ausschlie=C3=9Flich zur Nachforderung E3. Preis und technische E=
+intr=C3=A4ge sind nicht Gegenstand dieser Nachricht.</p></div></body></html>
+
+--interstate-alt-b100ca2069be73ec2a72e4c9--

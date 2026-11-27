@@ -2,6 +2,12 @@
 
 Sie arbeiten für die Vergabestelle der Deutschen Interstate AG, einer fiktiven öffentlich beherrschten Fernstraßengesellschaft. In elf Fällen braucht die Niederlassung West Ihre Entscheidung. Darf ein Unternehmen sich auf ein einzelnes Los bewerben? Hat eine im Angebot genannte Verkürzung der Bauzeit die Rangfolge verändert? Was lässt sich aus einem Portalprotokoll über den Zugang eines Schreibens ableiten? Wählen Sie einen Fall und beginnen Sie mit seiner Grundakte.
 
+## Mit einer Akte arbeiten
+
+1. Wählen Sie einen Fall. Öffnen Sie im Ordner `Grundakte` die erste Datei, eine interne E-Mail. Darin schildert das Projektteam oder der Fachbereich den Anlass und bittet die Vergabestelle um eine Entscheidung. Am Beispiel der Riedangerbrücke können Sie direkt mit der [E-Mail zur Freigabe von Los B](09-brueckenneubau/Grundakte/00_freigabe_los_b.eml) beginnen.
+2. Lesen Sie die beigefügten Originalunterlagen und ziehen Sie bei Bedarf weitere Dokumente aus derselben Grundakte heran. Die Anhänge liegen dort auch einzeln. Entwerfen Sie den erbetenen Vermerk oder die Antwort. Halten Sie fest, worauf Ihre Einschätzung beruht, was eine Partei behauptet und was Sie noch klären müssen.
+3. Öffnen Sie anschließend `Nachreichungen`. Arbeiten Sie die später eingegangenen Unterlagen nach Datum ein. Nennen Sie bei jeder Änderung Ihres Entwurfs die Unterlage, die den Ausschlag gibt.
+
 | Fall | Was auf dem Schreibtisch liegt | Was die Vergabestelle braucht |
 | --- | --- | --- |
 | [1. Alleinstellung bei einer Archivmigration](01-alleinstellung/README.md) | Der Fachbereich will nur den bisherigen Anbieter einladen. Ein zweites Unternehmen widerspricht und verlangt Zugang zu einem Datenmuster. | Anhand von Altvertrag, Datenrechten und Posteingang prüfen, ob die Alternativen hinreichend untersucht sind. |
@@ -32,7 +38,9 @@ Für eine eigene Kalkulation speichern Sie eine Kopie der Excel-Datei und tragen
 
 ## Alle Akten herunterladen
 
-Das Sammelpaket enthält den leeren Prüfbogen und für jedes der elf Projekte die Originalunterlagen nach Aktenstand, die zusammenhängende Lesefassung und die Einzel-PDFs. Öffnen Sie nach dem Entpacken den gewünschten Fall. Wer nur ein Projekt bearbeiten möchte, kann oben die jeweilige Fallseite wählen.
+Im Sammel-ZIP finden Sie den leeren Excel-Prüfbogen und elf Fallordner. Jeder enthält die Originaldateien in `Grundakte` und `Nachreichungen`, eine Gesamt-PDF mit Lesezeichen und ein ZIP mit Einzel-PDFs. Nach dem Entpacken können Sie alle Unterlagen offline bearbeiten.
+
+Für einen einzelnen Fall bietet die jeweilige Fallseite drei Downloads. Das **Originalformat-ZIP** enthält die E-Mail mit ihren Anlagen und die übrigen Originalunterlagen beider Aktenstände. Die **Gesamt-PDF** eignet sich zum fortlaufenden Lesen, das **Einzel-PDF-ZIP** zum Verteilen oder Drucken ausgewählter Aktenstücke.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -40,15 +48,9 @@ Das Sammelpaket enthält den leeren Prüfbogen und für jedes der elf Projekte d
 
 [Elf Testakten mit Prüfbogen als ZIP herunterladen](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/interstate-ag-nl-west-testakten.zip)
 
-## Mit einer Akte arbeiten
+## Mit dem Plugin arbeiten
 
-1. Öffnen Sie die Fallseite und lesen Sie den Auftrag. Für eine erste Bearbeitung laden Sie die Originalunterlagen herunter und verwenden ausschließlich den Ordner `Grundakte`. Darin finden Sie die Unterlagen, die der Vergabestelle am Anfang vorliegen.
-2. Halten Sie fest, was bereits belegt ist, welche Angabe nur von einer Partei stammt und welche Unterlage die Entscheidung ändern könnte. Legen Sie Ihre erste Fassung des angeforderten Vermerks, Schreibens oder Prüfberichts ab.
-3. Öffnen Sie erst danach `Nachreichungen`. Überarbeiten Sie dieselbe Fassung und benennen Sie die Belege, die Ihre Einschätzung geändert oder bestätigt haben. Zum Lesen oder Ausdrucken steht jede Akte außerdem als Gesamt-PDF und mit einzeln auswählbaren PDFs bereit.
-
-**Einstieg für das Plugin**
-
-> Sie beraten die Vergabestelle der Deutschen Interstate AG, Niederlassung West. Bearbeiten Sie den Auftrag aus der Grundakte. Belegen Sie entscheidende Tatsachen mit Aktenstück und Datum, geben Sie den Stand des Verfahrens an und formulieren Sie die Entscheidung, die das Projektteam jetzt braucht. Arbeiten Sie für jedes streitige Schreiben das Begehren, den Eingangsbeleg und eine mögliche Frist heraus. Begründen Sie den nächsten Schritt und kennzeichnen Sie offene Tatsachenfragen. Wenn ich später weitere Unterlagen übergebe, führen Sie Ihre erste Fassung fort.
+> Sie beraten die Vergabestelle der Deutschen Interstate AG, Niederlassung West. Lesen Sie die erste E-Mail in der Grundakte und ihre Anhänge. Bearbeiten Sie den darin erteilten Auftrag anhand der zu diesem Zeitpunkt vorliegenden Unterlagen. Belegen Sie entscheidende Tatsachen mit Aktenstück und Datum, geben Sie den Stand des Verfahrens an und formulieren Sie die Entscheidung, die das Projektteam jetzt braucht. Arbeiten Sie für jedes streitige Schreiben das Begehren, den Eingangsbeleg und eine mögliche Frist heraus. Begründen Sie den nächsten Schritt und kennzeichnen Sie offene Tatsachenfragen. Wenn ich später weitere Unterlagen übergebe, führen Sie Ihre erste Fassung fort.
 
 Die Fälle und die darin verwendeten Korrespondenzen sind erfunden. Amtliche Rechtsquellen für die eigenständige Prüfung stehen auf der jeweiligen Fallseite.
 

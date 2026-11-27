@@ -38,7 +38,7 @@
     {
       "phase": "Grundakte",
       "datei": "00_disposition_kolonnen.eml",
-      "titel": "Markierungen Uferhöhe – brauchen wir in einer Sperrnacht zwei Kolonnen?",
+      "titel": "Markierungen Uferhöhe – welche Sperrung erfordert zwei Kolonnen im selben Los?",
       "datum": "2026-10-09",
       "uhrzeit": "12:15",
       "von": "Maren Ortner · Vergabestelle West",
@@ -46,9 +46,17 @@
       "absender": "beschaffung@interstate-west.example",
       "empfaenger": "sperrzeiten@interstate-west.example",
       "text": [
-        "Frau Rade, können Sie mir für die Erneuerung der Fahrbahnmarkierungen in Uferhöhe die Sperrreservierungen für die Hauptstrecke und die Nebenrampe heraussuchen? Auch ein Betrieb, der nur Uferhöhe anbietet, muss nach K3 zwei Markiermaschinen mit Mannschaft gleichzeitig stellen können. Herr Kernau sieht im Arbeitsplan einen noch unbestätigten zweiten Einsatz. Ich brauche die Strecken, Uhrzeiten und den Buchungsstand, um zu entscheiden, ob wir die Bedingung so aufrechterhalten können.",
-        "Linienwerk Edera hat für sein Angebot nach den Arbeitszeiten in Uferhöhe gefragt. Veröffentlicht sind rund 22 Nachtschichten je Saison, in der Regel von 20 bis 5 Uhr. Das sagt uns noch nicht, ob zwei Trupps in derselben Nacht in diesem Los arbeiten. Bitte kennzeichnen Sie Einsätze im getrennten Los Kammweg gesondert. Die Angebotsfrist endet am 19. Oktober.",
+        "Guten Tag, Frau Rade,",
+        "wir verlangen für die Erneuerung der Fahrbahnmarkierungen zwei gleichzeitig einsatzfähige Kolonnen, auch wenn ein Betrieb sich nur um Uferhöhe bewirbt. Herr Kernau fragt, ob das mit unseren Abrufen zusammenpasst. Im Arbeitsplan sieht er einen parallelen Einsatz in zwei Regionen und einen noch unbestätigten Termin innerhalb einer Region. Bevor ich die Bieterunterlagen weiter so bereitstelle, brauche ich Ihre Auskunft als Sperrzeitenkoordinatorin.",
+        "Ich schicke Ihnen die Bedingung K3, das Preisblatt und die Nachricht aus dem Betrieb. Linienwerk Edera hat nach der Dauer der Nachtschichten in Uferhöhe gefragt. Wir haben rund 22 Nächte je Saison, in der Regel von 20 bis 5 Uhr, veröffentlicht. Das beschreibt die Arbeitszeit. Was mir fehlt, ist der Nachweis, ob zwei Mannschaften in derselben Nacht innerhalb dieses Loses arbeiten müssen.",
+        "Bitte schicken Sie mir zum Kalenderabgleich Anfang nächster Woche einen kurzen Vermerk mit Datum, Strecke, Uhrzeit und Buchungsstand je Sperrfenster. Kennzeichnen Sie getrennt, was auf Kammweg entfällt und was sich noch verschieben lässt. Daraus muss ich für die Einkaufsleitung ableiten können, ob K3 unverändert gelten kann oder welcher Abruftext und welche Angebotsfrist allen Unternehmen mitzuteilen wären. Die Angebotsfrist endet am Montag, 19. Oktober, um 10 Uhr.",
         "Viele Grüße\nMaren Ortner"
+      ],
+      "anlagen": [
+        "02_auszug_bekanntmachung.docx",
+        "03_lv_markierungsarbeiten.xlsx",
+        "05a_nachricht_betriebshaltung.eml",
+        "05_auskunft_an_alle.txt"
       ]
     },
     {

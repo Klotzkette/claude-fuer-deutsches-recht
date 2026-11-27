@@ -27,6 +27,10 @@ Die ZIP-URL ist an den Komponentenstand gebunden. Außer README.txt mit dem Warn
 
 <!-- END gesamt-pdf-section (autogen) -->
 
+## Auftrag der Vergabestelle
+
+Öffnen Sie die E-Mail im Mailprogramm. Der Prüfauftrag und die angehängten Originalunterlagen bilden einen eigenständigen Einstieg in diesen Fall. [E-Mail mit Originalanhängen herunterladen](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/02-laptopbeschaffung-landesamt-musterland/eml/00_pruefauftrag_vergabestelle.eml)
+
 EU-weites offenes Verfahren des Landesamtes für Digitalisierung Musterland zur Lieferung von 800 Bürolaptops mit dreijährigem Vor-Ort-Service. Komplexität liegt in Produktneutralität, Servicewertung und der Grenze zulässiger Aufklärung.
 
 ## Stammdaten
