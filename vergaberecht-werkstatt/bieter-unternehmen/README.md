@@ -19,7 +19,7 @@ Arbeiten Sie mit den veröffentlichten Vergabeunterlagen, den Mitteilungen an Ih
 
 **1. Einmal installieren**
 
-- **Claude im Browser, in der Desktop-App oder in Cowork.** Laden Sie das [Rollen-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/bieter-unternehmen.zip) herunter. Öffnen Sie `Customize` → `Plugins` und wählen Sie den Upload eines eigenen Plugins, wenn Ihr Konto ihn anbietet. Für Cowork öffnen Sie zuerst den Bereich `Cowork`.
+- **Claude im Browser, in der Desktop-App oder in Cowork.** Laden Sie das [Rollen-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.19/bieter-unternehmen.zip) herunter. Öffnen Sie `Customize` → `Plugins` und wählen Sie den Upload eines eigenen Plugins, wenn Ihr Konto ihn anbietet. Für Cowork öffnen Sie zuerst den Bereich `Cowork`.
 - **Claude Code:**
 
 ```text
@@ -49,7 +49,7 @@ Die folgenden Dateien sind Alternativen für Chats ohne installiertes Plugin ode
 | --- | --- | --- |
 | Werkstatt (Markdown) | [bieter-unternehmen-werkstatt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-werkstatt.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-werkstatt.md" download="bieter-unternehmen-werkstatt.md">Markdown herunterladen</a> |
 | Schnellstart (Markdown) | [bieter-unternehmen-schnellstart.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-schnellstart.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-schnellstart.md" download="bieter-unternehmen-schnellstart.md">Markdown herunterladen</a> |
-| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`bieter-unternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/bieter-unternehmen.zip) |
+| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`bieter-unternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.19/bieter-unternehmen.zip) |
 | Alle Skills dieser Marktrolle | [Skill-Detailseite](../skills-index/bieter-unternehmen.md) | [`bieter-unternehmen-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-skills-markdown.zip) |
 | Autarker Vollworkflow | [Arbeitsprompt](../vergaberecht-arbeitsprompt-bieter.md) | [`vergaberecht-arbeitsprompt-bieter.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergaberecht-arbeitsprompt-bieter.md) |
 | Autarker Kurzprompt mit vertiefter Fallprüfung | [Kurzprompt](../vergaberecht-kurzprompt-bieter.md) | [`vergaberecht-kurzprompt-bieter.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergaberecht-kurzprompt-bieter.md) |

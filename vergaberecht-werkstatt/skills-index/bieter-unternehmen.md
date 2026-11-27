@@ -2,7 +2,7 @@
 
 [Repo-Start](../README.md) | [Dateikatalog](../README.md#dateikatalog) | [Vergabestelle](../vergabestelle-behoerden/README.md) | [Bieter](../bieter-unternehmen/README.md) | [Konkurrent](../konkurrenten-rechtsschutz/README.md) | [Alle Skills](../SKILLS.md) | [Plugin-Index](./README.md) | [Testakten](../testakten/README.md) | [Rechtsprechung](../references/leitentscheidungen-anker.md)
 
-8 aktive Skills · Pluginstand `v445.36.9` · Rolle: Bieter
+8 aktive Skills · Pluginstand `v445.36.19` · Rolle: Bieter
 
 Das Plugin-ZIP enthält die aktuelle aktive Auswahl samt vollständigen Fachmodulen. Die separaten Markdown- und Sammelarchive bleiben im veröffentlichten Stand `v445.33.1` mit der damaligen Skillaufteilung erhalten.
 
@@ -10,7 +10,7 @@ Das Plugin-ZIP enthält die aktuelle aktive Auswahl samt vollständigen Fachmodu
 
 | Bedarf | Link |
 | --- | --- |
-| Installierbares Plugin | [bieter-unternehmen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/bieter-unternehmen.zip) |
+| Installierbares Plugin | [bieter-unternehmen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.19/bieter-unternehmen.zip) |
 | Alle Skills als Markdown | [bieter-unternehmen-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-skills-markdown.zip) |
 | Kompakter Ein-Datei-Start | [bieter-unternehmen-unified-mini-prompt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/unified-mini-prompts/bieter-unternehmen.md) |
 | Vollworkflow-Arbeitsprompt | [vergaberecht-arbeitsprompt-bieter.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergaberecht-arbeitsprompt-bieter.md) |
@@ -23,7 +23,7 @@ Das Plugin-ZIP enthält die aktuelle aktive Auswahl samt vollständigen Fachmodu
 | --- | --- | --- |
 | Unified Mini Prompt | Eine einzelne Markdown-Datei bis 7.500 Zeichen: Sparversion des Plugin-Workflows für Chatbots ohne Plugin-Installation | [bieter-unternehmen-unified-mini-prompt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/unified-mini-prompts/bieter-unternehmen.md) |
 | Markdown-ZIP | Alle `SKILL.md`-Dateien als reine Markdown — echter Datei-Download für ChatGPT, Gemini, Mistral, Le Chat usw. | [bieter-unternehmen-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-skills-markdown.zip) |
-| Plugin-ZIP | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Prüfrastern + Vorlagen) | [bieter-unternehmen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/bieter-unternehmen.zip) |
+| Plugin-ZIP | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Prüfrastern + Vorlagen) | [bieter-unternehmen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.19/bieter-unternehmen.zip) |
 
 ## So benutzt man einen Skill
 

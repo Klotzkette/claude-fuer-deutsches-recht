@@ -17,7 +17,7 @@ Im Rechenzentrumsfall erhält Datacenter Westfalen 86,4 Punkte, CloudNord 91,2. 
 
 **1. Einmal installieren**
 
-- **Claude im Browser, in der Desktop-App oder in Cowork.** Laden Sie das [Rollen-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/konkurrenten-rechtsschutz.zip) herunter. Öffnen Sie `Customize` → `Plugins` und wählen Sie den Upload eines eigenen Plugins, wenn Ihr Konto ihn anbietet. Für Cowork öffnen Sie zuerst den Bereich `Cowork`.
+- **Claude im Browser, in der Desktop-App oder in Cowork.** Laden Sie das [Rollen-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.19/konkurrenten-rechtsschutz.zip) herunter. Öffnen Sie `Customize` → `Plugins` und wählen Sie den Upload eines eigenen Plugins, wenn Ihr Konto ihn anbietet. Für Cowork öffnen Sie zuerst den Bereich `Cowork`.
 - **Claude Code:**
 
 ```text
@@ -47,7 +47,7 @@ Die folgenden Dateien sind Alternativen für Chats ohne installiertes Plugin ode
 | --- | --- | --- |
 | Werkstatt (Markdown) | [konkurrenten-rechtsschutz-werkstatt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-werkstatt.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-werkstatt.md" download="konkurrenten-rechtsschutz-werkstatt.md">Markdown herunterladen</a> |
 | Schnellstart (Markdown) | [konkurrenten-rechtsschutz-schnellstart.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-schnellstart.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-schnellstart.md" download="konkurrenten-rechtsschutz-schnellstart.md">Markdown herunterladen</a> |
-| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`konkurrenten-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/konkurrenten-rechtsschutz.zip) |
+| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`konkurrenten-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.19/konkurrenten-rechtsschutz.zip) |
 | Alle Skills dieser Marktrolle | [Skill-Detailseite](../skills-index/konkurrenten-rechtsschutz.md) | [`konkurrenten-rechtsschutz-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-skills-markdown.zip) |
 | Autarker Vollworkflow | [Arbeitsprompt](../vergaberecht-arbeitsprompt-konkurrenten.md) | [`vergaberecht-arbeitsprompt-konkurrenten.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergaberecht-arbeitsprompt-konkurrenten.md) |
 | Autarker Kurzprompt mit vertiefter Fallprüfung | [Kurzprompt](../vergaberecht-kurzprompt-konkurrenten.md) | [`vergaberecht-kurzprompt-konkurrenten.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergaberecht-kurzprompt-konkurrenten.md) |
