@@ -27,7 +27,8 @@ import re
 import sys
 from pathlib import Path
 
-from public_release import RAW_BASE, RELEASE_BASE, RELEASE_TAG, REPOSITORY, plugin_download
+from public_release import (COMPONENT_RELEASE_BASE as RELEASE_BASE, COMPONENT_RELEASE_TAG as RELEASE_TAG,
+                            RAW_BASE, REPOSITORY, plugin_download)
 from testakte_notices import with_case_warnings
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -159,9 +160,9 @@ def build_section() -> str:
     lines.append("| Lage | Einstieg | Link |")
     lines.append("| --- | --- | --- |")
     lines.append("| Ich suche eine bestimmte Repo-Datei | Vollständigen Dateikatalog oder GitHub-Dateibaum öffnen | [Dateikatalog](#dateikatalog) |")
-    lines.append("| Ich arbeite in Claude Desktop oder Cowork | Rollenpassendes Plugin-ZIP in `Customize`, `Plugins`, `+` hochladen | [Plugin-ZIPs](#plugins-installation) |")
+    lines.append("| Ich arbeite im Claude-Chat oder in Cowork | Wenn eigene Plugins verfügbar sind, das Rollen-ZIP unter `Customize` → `Plugins` hochladen | [Plugin-ZIPs](#plugins-installation) |")
     lines.append("| Ich arbeite in Claude Code | Repo als Marketplace hinzufügen und genau ein Rollenplugin installieren | [Installationsbefehle](#plugins-installation) |")
-    lines.append("| Ich arbeite ohne Plugin in einem normalen Chatbot | Arbeitsprompt als empfohlene Vollfassung anhängen | [Arbeitsprompts](#arbeits--und-kurzprompts-je-marktseite-einzelne-markdown-dateien) |")
+    lines.append("| Ich arbeite in ChatGPT oder einem anderen Chat | Rollenprompt als Text einfügen oder Datei anhängen und die Unterlagen für den Arbeitsstand mitgeben | [Arbeitsprompts](#arbeits--und-kurzprompts-je-marktseite-einzelne-markdown-dateien) |")
     lines.append("| Mein Chat hat wenig Kontextplatz | Rollenpassenden Unified Mini Prompt anhängen | [Mini-Prompts](unified-mini-prompts/README.md) |")
     lines.append("| Ich will nur einzelne Spezialfähigkeiten nutzen | Skills-Markdown-ZIP nehmen oder einzelne `SKILL.md` aus dem Index öffnen | [SKILLS.md](SKILLS.md) |")
     lines.append("| Ich will realistische Unterlagen testen | Testakte als ZIP laden oder Gesamt-PDF lesen | [Testakten](testakten/README.md) |")
@@ -171,15 +172,15 @@ def build_section() -> str:
     # ---------- Plugins ----------
     lines.append('<a id="plugins-installation"></a>')
     lines.append("")
-    lines.append("### Plugins für Claude Code, Desktop und Cowork")
+    lines.append("### Rollen-Plugins für Claude, Cowork und Claude Code")
     lines.append("")
     lines.append(
         "In Claude Code zuerst einmal `/plugin marketplace add "
         "Klotzkette/claude-fuer-deutsches-recht` ausführen, danach `/plugin install "
         "[plugin-name]@klotzkette-german-legal-skills` und `/reload-plugins`. In Claude "
-        "Desktop oder Cowork das Plugin-ZIP über `Customize`, `Plugins`, `+` "
-        "hochladen. Danach weder einen Arbeitsprompt zusätzlich laden noch einen "
-        "Skill auswählen: Fallunterlagen anhängen und den Startsatz oben senden. "
+        "im Browser, in der Desktop-App oder in Cowork das Rollen-ZIP unter `Customize` → `Plugins` "
+        "als eigenes Plugin hochladen, sofern Ihr Konto dies erlaubt. Danach Aktenunterlagen bereitstellen "
+        "und die benötigte Entscheidung oder das Schreiben benennen. "
         "[Offizielle Installationshinweise](https://support.claude.com/en/articles/13837440-use-plugins-in-claude)."
     )
     lines.append("")
@@ -213,8 +214,8 @@ def build_section() -> str:
     lines.append("")
     lines.append(
         "Jeder Prompt ist eine einzelne `.md`-Datei zum direkten Datei-Download. "
-        "In jedem Chatbot (ChatGPT, Mistral, Gemini, DeepSeek, Le Chat, Perplexity, "
-        "Claude) als Anhang nutzbar oder per Copy & Paste."
+        "Öffnen Sie die Datei und kopieren Sie den Text in einen eigenen Chat. "
+        "Bei unterstütztem Dateiupload können Sie den Prompt zusammen mit der Grundakte anhängen."
     )
     lines.append(
         "Der Kurzprompt ist ein ausführlicher Fachworkflow ohne starres Zeichenlimit. "
@@ -241,7 +242,7 @@ def build_section() -> str:
     lines.append("")
 
     # ---------- Testakten ----------
-    lines.append("### Testakten (anonymisierte Demonstrations-Vergabeakten)")
+    lines.append("### Testakten (fiktive Vergabeverfahren)")
     lines.append("")
     lines.append("| Akte | Aktenübersicht | PDF ansehen | PDF herunterladen | Akten-ZIP | Einzel-PDF-ZIP |")
     lines.append("| --- | --- | --- | --- | --- | --- |")

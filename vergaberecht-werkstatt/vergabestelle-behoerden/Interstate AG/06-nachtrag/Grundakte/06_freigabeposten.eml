@@ -6,9 +6,13 @@ Date: Fri, 06 Nov 2026 13:12:00 +0100
 Message-ID: <6783b04ad0df7a9b992916ba@fallpost.example>
 Subject: Sperrnacht am 9. November =?utf-8?q?=C2=B7_=C3=9Cbergabe?= der
  Arbeitsstelle KF3
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-ef9f74a9ab6fda2fe84c1d21"
+
+--interstate-alt-ef9f74a9ab6fda2fe84c1d21
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Frau T=C3=BCrk, das Verkehrsfenster f=C3=BCr Montag, 9. November, 20 Uhr, ist=
  best=C3=A4tigt. Die Kolonne kann in der ersten Engstelle nach Revision 2 mit=
@@ -22,3 +26,23 @@ etrifft die sichere =C3=9Cbergabe der Fl=C3=A4che. Von der kaufm=C3=A4nnische=
 n Vertragsleitung liegt mir noch keine Antwort auf Ihr Angebot vor. Bitte tei=
 len Sie uns die Materialcharge und die anwesende Mannschaft vor dem Abladen m=
 it.
+
+--interstate-alt-ef9f74a9ab6fda2fe84c1d21
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #2C=
+6155;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Frau T=C3=BCrk, =
+das Verkehrsfenster f=C3=BCr Montag, 9. November, 20 Uhr, ist best=C3=A4tigt.=
+ Die Kolonne kann in der ersten Engstelle nach Revision 2 mit dem Mantel begi=
+nnen. Ich habe den Standort der ersten Absperrung auf dem Lageplan markiert. =
+Wenn Sie dort ohne Schutz bis an den Wandfu=C3=9F heran m=C3=BCssten, unterbr=
+echen Sie und rufen mich an.</p><p>Frau Evers hat den Einbau in der morgendli=
+chen Runde als dringend bezeichnet. Herr Kemper war nicht anwesend. Meine Unt=
+erschrift im heutigen Schichtbuch betrifft die sichere =C3=9Cbergabe der Fl=
+=C3=A4che. Von der kaufm=C3=A4nnischen Vertragsleitung liegt mir noch keine A=
+ntwort auf Ihr Angebot vor. Bitte teilen Sie uns die Materialcharge und die a=
+nwesende Mannschaft vor dem Abladen mit.</p></div></body></html>
+
+--interstate-alt-ef9f74a9ab6fda2fe84c1d21--

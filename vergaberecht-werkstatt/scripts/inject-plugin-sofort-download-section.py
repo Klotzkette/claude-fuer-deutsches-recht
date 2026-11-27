@@ -181,9 +181,9 @@ def build_section(plugin_name: str, akten_slugs: list[str]) -> str:
     lines.append("**1. Einmal installieren**")
     lines.append("")
     lines.append(
-        f"- **Claude Desktop oder Cowork:** [`{plugin_name}.zip`]({plugin_download(plugin_name)}) "
-        "herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen "
-        "eines eigenen Plugins wählen."
+        f"- **Claude im Browser, in der Desktop-App oder in Cowork.** Laden Sie das [Rollen-ZIP]({plugin_download(plugin_name)}) "
+        "herunter. Öffnen Sie `Customize` → `Plugins` und wählen Sie den Upload eines eigenen Plugins, "
+        "wenn Ihr Konto ihn anbietet. Für Cowork öffnen Sie zuerst den Bereich `Cowork`."
     )
     lines.append("- **Claude Code:**")
     lines.append("")
@@ -197,6 +197,10 @@ def build_section(plugin_name: str, akten_slugs: list[str]) -> str:
         "Die Marketplace-Zeile ist nur beim ersten Plugin nötig. "
         "[Offizielle Installationshinweise](https://support.claude.com/en/articles/13837440-use-plugins-in-claude)."
     )
+    lines.append("")
+    lines.append(f"**ChatGPT oder ein anderer Chat ohne Rollenplugin.** Fügen Sie den [Arbeitsprompt für Ihre Rolle](../vergaberecht-arbeitsprompt-{PLUGIN_PROMPT_SUFFIX[plugin_name]}.md) "
+                 "als Text ein oder hängen Sie die Datei mit den verfügbaren Aktenstücken an. "
+                 "[Anleitung für Chat und ChatGPT-Projekt](../README.md#mit-claude-chatgpt-oder-einem-anderen-system-arbeiten)")
     lines.append("")
     lines.append("**2. Fallunterlagen anhängen**")
     lines.append("")
@@ -305,8 +309,9 @@ def inject_section(readme: Path, plugin_name: str, akten_slugs: list[str]) -> st
     new_block = build_section(plugin_name, akten_slugs)
 
     def insert_quickstart(current_text: str) -> str:
-        menu_end = "<!-- END FACHMODULE-NAVIGATION -->"
-        if plugin_name == "vergabestelle-behoerden" and menu_end in current_text:
+        menu_end = ("<!-- END FACHMODULE-NAVIGATION -->" if plugin_name == "vergabestelle-behoerden"
+                    else "<!-- END rollen-einstieg -->")
+        if menu_end in current_text:
             before, _, after = current_text.partition(menu_end)
             return before + menu_end + "\n\n" + new_block + "\n\n" + after.lstrip("\n")
         h1 = H1_RE.search(current_text)

@@ -172,6 +172,21 @@ def check():
         index_text = "\n".join(page.extract_text() or "" for page in index.pages)
         require(all(entry["id"] in index_text for entry in inventory["files"]), "Aktenverzeichnis unvollständig")
     check_pdf_recipient_areas(documents, recipient_texts)
+    for doc_id in ("V35", "V36"):
+        receipt = by_id[doc_id]["record_copy"]
+        entry = next(row for row in inventory["files"] if row["id"] == doc_id)
+        with zipfile.ZipFile(archive_path) as archive:
+            page = PdfReader(BytesIO(archive.read(entry["file"]))).pages[-1].extract_text()
+        flat = " ".join(page.split())
+        for text in [receipt["title"], receipt["meta"][0][1], receipt["meta"][1][1],
+                     *(row[0] for row in receipt["table"]["rows"])]:
+            require(text in flat, "Empfangsnachweis nicht in der Akte: " + text)
+        require("Personalbüro · Uferwerk Verlag GmbH" in flat, "Fremder Briefkopf auf dem Personalbeleg")
+    for doc_id, tokens in {"P01": ("Klägerin", "Beklagte", "Rheinsteig 8", "K6 bis K8"),
+                           "V37": ("30. September 2026", "M. Ufer", "Abschrift der Stellungnahme"),
+                           "V38": ("10:42 Uhr", "Abschrift des Betriebsratswiderspruchs")}.items():
+        page_text = " ".join(pdf_texts[doc_id].split())
+        require(all(token in page_text for token in tokens), "Prozess- oder Zustellbezug fehlt: " + doc_id)
     # Inhaltserhalt über den Satz hinweg: Absatztext darf durch Gattungsprofile
     # oder Umbrüche nicht verschwinden. Das gesondert gesetzte Rubrum wird
     # stattdessen anhand seiner entscheidenden Identitätsdaten geprüft.

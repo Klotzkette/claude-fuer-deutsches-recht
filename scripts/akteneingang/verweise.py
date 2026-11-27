@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from functools import lru_cache
-from release_routing import REPOSITORY, scoped_asset_url
+from release_routing import KUENDIGUNG_DOWNLOADS, KUENDIGUNG_ZENTRAL, RAW_MAIN, UFERWERK, scoped_asset_url
 
 from .quellen import URL, catalogs
 from .vertiefung import TAG as FACHTAG
@@ -36,8 +36,9 @@ def fachpfade():
 
 def links(key, historisch=False):
     slug, group = all_routes()[key]
-    if not historisch and slug == "inkasso-zahlungsklage-modefuchs":
-        base = f"https://raw.githubusercontent.com/{REPOSITORY}/main/docs/downloads/modefuchs/"
+    if not historisch and (slug in KUENDIGUNG_ZENTRAL or slug in (UFERWERK, "inkasso-zahlungsklage-modefuchs")):
+        folder = "docs/downloads/modefuchs" if slug == "inkasso-zahlungsklage-modefuchs" else KUENDIGUNG_DOWNLOADS
+        base = f"{RAW_MAIN}/{folder}/"
         return (
             f"[Arbeits-ZIP mit Eingangspost]({base}lebensakte-{slug}.zip)",
             f"[Druckfassungen dieses Falls]({base}druckakte-{slug}.zip)",

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Baut die zwei vollständigen Workshopfassungen aus den historischen Akten und sechs neuen Belegen."""
 import argparse
+import hashlib
 from email import policy
 from email.message import EmailMessage
 from io import BytesIO
@@ -76,12 +77,19 @@ def seewerk(dist):
 
 def uferwerk(dist):
     register_fonts()
-    with ZipFile(STOCK / f"testakte-{UFER}-einzelpdfs.zip") as old:
+    inventory = json.loads((STOCK.parent / "pruefung/uferwerk-bestand.json").read_bytes())
+    source = STOCK / f"testakte-{UFER}-einzelpdfs.zip"
+    if inventory["archive"] != source.name or hashlib.sha256(source.read_bytes()).hexdigest() != inventory["archive_sha256"]:
+        raise ValueError("Uferwerk-Grundbestand und Bestandsnachweis weichen ab.")
+    with ZipFile(source) as old:
         members = {name: old.read(name) for name in old.namelist()}
-    if len(members) != 95 or any("/" in name for name in members):
-        raise ValueError("Historischen Uferwerk-Bestand prüfen.")
+    if len(members) != inventory["pdf_files"] + 1 or any("/" in name for name in members):
+        raise ValueError("Uferwerk-Grundbestand prüfen.")
     items = json.loads((SOURCE / "uferwerk.json").read_text())
-    readme = members["README.txt"].decode().replace("93 Aktenunterlagen", "Grundbestand: 93 Aktenunterlagen", 1)
+    count = str(inventory["documents"]) + " Aktenunterlagen"
+    readme = members["README.txt"].decode().replace(count, "Grundbestand: " + count, 1)
+    pages = inventory["pages"]
+    index = []
     with TemporaryDirectory() as scratch:
         for item in items:
             name = item["filename"]
@@ -91,14 +99,16 @@ def uferwerk(dist):
             build_pdf(item, path)
             data = path.read_bytes()
             reader = PdfReader(BytesIO(data))
-            if len(reader.pages) != 1 or "per beA" in reader.pages[0].extract_text():
+            length = len(reader.pages)
+            if not length or any("per beA" in page.extract_text() for page in reader.pages):
                 raise ValueError(f"Satz oder Versandvermerk prüfen: {name}")
+            pages += length
+            index.append(f"{item['id']}   {item['title']} ({length} {'Seite' if length == 1 else 'Seiten'})")
             members[name] = data
-    index = "\n".join(f"{item['id']}   {item['title']} (1 Seite)" for item in items)
     members["README.txt"] = (readme + "\nArbeitsfassung mit Nachtrag | 30. Oktober 2026\n"
                              "Das PDF-Aktenverzeichnis dokumentiert den Grundbestand. "
-                             "Am Nachmittag gehen folgende Unterlagen zur Handakte ein:\n" + index +
-                             "\nGesamtumfang: 97 PDFs, 188 Seiten.\n").encode()
+                             "Am Nachmittag gehen folgende Unterlagen zur Handakte ein:\n" + "\n".join(index) +
+                             f"\nGesamtumfang: {inventory['pdf_files'] + len(items)} PDFs, {pages} Seiten.\n").encode()
     write_package(dist, UFER, members)
 
 

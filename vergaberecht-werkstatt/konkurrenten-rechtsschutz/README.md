@@ -1,6 +1,12 @@
-# konkurrenten-rechtsschutz
+<a id="konkurrenten-rechtsschutz"></a>
 
-Für unterlegene Bieter und andere Wettbewerber: Prüfe Vergabeunterlagen, Ausschluss, Wertung oder Zuschlag und formuliere die beauftragte Rüge, den Nachprüfungsantrag oder die Beschwerde. Ausgangspunkt sind die vorliegende Akte und die drohende Frist; ein klarer Rechtsschutzauftrag benötigt weder ein vorgeschaltetes Dashboard noch eine erneute vollständige Fallaufnahme.
+# Vergaberechtsschutz für übergangene Unternehmen
+
+**Ihrem Unternehmen droht ein Ausschluss oder der Zuschlag an einen Mitbewerber?** Beginnen Sie mit dem eingegangenen Schreiben samt Versand- und Zugangsnachweis, den veröffentlichten Wertungsregeln und Ihrem eigenen Angebot. Daraus lässt sich prüfen, was nach der Akte angreifbar ist, welche Frist läuft und was Sie von der Vergabestelle verlangen können.
+
+Im Rechenzentrumsfall erhält Datacenter Westfalen 86,4 Punkte, CloudNord 91,2. Die Vorabinformation nennt die Ausfallsicherheit und das Betriebskonzept. Geben Sie zunächst eine mit Fundstellen belegte Rüge zur Prüfung in Auftrag. Ziehen Sie Nichtabhilfe, Akteneinsicht und Kammerentscheidung erst im jeweiligen Verfahrensstand hinzu. [Vorabinformation und Auswertung](../testakten/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis/03_134_schreiben_auswertung.md) · [Fall Rechenzentrum](../testakten/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis/README.md)
+
+<!-- END rollen-einstieg -->
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 [Öffentliche Startseite](../../README.md) | [Gesamtkatalog](../../SKILLS.md) | [Öffentlicher Skill-Index](../../skills-index/konkurrenten-rechtsschutz.md) | [Download-Index](../../ASSET_INDEX.md) | [Alle Testakten](../../testakten/README.md) | [Plugin-Dateien](.)
@@ -11,7 +17,7 @@ Für unterlegene Bieter und andere Wettbewerber: Prüfe Vergabeunterlagen, Aussc
 
 **1. Einmal installieren**
 
-- **Claude Desktop oder Cowork:** [`konkurrenten-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/konkurrenten-rechtsschutz.zip) herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen eines eigenen Plugins wählen.
+- **Claude im Browser, in der Desktop-App oder in Cowork.** Laden Sie das [Rollen-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/konkurrenten-rechtsschutz.zip) herunter. Öffnen Sie `Customize` → `Plugins` und wählen Sie den Upload eines eigenen Plugins, wenn Ihr Konto ihn anbietet. Für Cowork öffnen Sie zuerst den Bereich `Cowork`.
 - **Claude Code:**
 
 ```text
@@ -21,6 +27,8 @@ Für unterlegene Bieter und andere Wettbewerber: Prüfe Vergabeunterlagen, Aussc
 ```
 
 Die Marketplace-Zeile ist nur beim ersten Plugin nötig. [Offizielle Installationshinweise](https://support.claude.com/en/articles/13837440-use-plugins-in-claude).
+
+**ChatGPT oder ein anderer Chat ohne Rollenplugin.** Fügen Sie den [Arbeitsprompt für Ihre Rolle](../vergaberecht-arbeitsprompt-konkurrenten.md) als Text ein oder hängen Sie die Datei mit den verfügbaren Aktenstücken an. [Anleitung für Chat und ChatGPT-Projekt](../README.md#mit-claude-chatgpt-oder-einem-anderen-system-arbeiten)
 
 **2. Fallunterlagen anhängen**
 

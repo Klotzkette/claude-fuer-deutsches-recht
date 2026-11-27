@@ -5,9 +5,13 @@ To: Maren Ortner =?utf-8?q?=C2=B7?= Vergabestelle West
 Date: Fri, 09 Oct 2026 11:10:00 +0200
 Message-ID: <fa124b89885b65d50fb65dcc@fallpost.example>
 Subject: Anfrage der Betriebsleitung zum Sperrkalender
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-0ed58a477146565c3633afff"
+
+--interstate-alt-0ed58a477146565c3633afff
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 F=C3=BCr die Angebotsphase brauche ich die Erl=C3=A4uterung, ob wir die zwei =
 Kolonnen aus K3 pro Abschnitt oder =C3=BCber beide Regionen zusammen ben=C3=
@@ -19,3 +23,22 @@ Die Projektmeldung verlangt zwei Maschinen je angebotenem Los. Die Kalenderf=
 =C3=BChrerin kann den Stand Anfang n=C3=A4chster Woche mit dem betreffenden S=
 treckenbetrieb abgleichen. Wollen Sie die Unterlagen f=C3=BCr Uferh=C3=B6he b=
 is dahin unver=C3=A4ndert im Portal lassen?
+
+--interstate-alt-0ed58a477146565c3633afff
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #17=
+4A61;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>F=C3=BCr die Ang=
+ebotsphase brauche ich die Erl=C3=A4uterung, ob wir die zwei Kolonnen aus K3 =
+pro Abschnitt oder =C3=BCber beide Regionen zusammen ben=C3=B6tigen. Ich find=
+e im Arbeitsplan einen parallelen Einsatz in zwei Regionen und einen noch unb=
+est=C3=A4tigten Termin in einer Region. Die endg=C3=BCltige Disposition f=C3=
+=BCr die Nebenrampe liegt mir nicht vor.</p><p>Die Projektmeldung verlangt zw=
+ei Maschinen je angebotenem Los. Die Kalenderf=C3=BChrerin kann den Stand Anf=
+ang n=C3=A4chster Woche mit dem betreffenden Streckenbetrieb abgleichen. Woll=
+en Sie die Unterlagen f=C3=BCr Uferh=C3=B6he bis dahin unver=C3=A4ndert im Po=
+rtal lassen?</p></div></body></html>
+
+--interstate-alt-0ed58a477146565c3633afff--

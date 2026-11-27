@@ -146,6 +146,10 @@ class RepositoryRoutingTests(unittest.TestCase):
                     url = f"{R.RELEASE_BASE}/download/{tag}/{asset}"
                     if slug == "inkasso-zahlungsklage-modefuchs":
                         url = f"https://raw.githubusercontent.com/{R.REPOSITORY}/main/docs/downloads/modefuchs/{asset}"
+                    if slug in R.KUENDIGUNG_ZENTRAL:
+                        folder = ("arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads"
+                                  if suffix else "docs/downloads/kuendigungsschutz")
+                        url = f"https://raw.githubusercontent.com/{R.REPOSITORY}/main/{folder}/{asset}"
                     self.assertEqual(R.case_asset_url(slug, suffix, version=VERSION), url)
 
 

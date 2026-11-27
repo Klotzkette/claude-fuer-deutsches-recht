@@ -56,6 +56,41 @@ def pdf_pages(data):
     return texts
 
 
+def check_process_files(small, seewerk):
+    builder = module("build-kuendigungsschutz-prozessunterlagen")
+    sources = json.loads(builder.SOURCE.read_text(encoding="utf-8"))
+    access = {c["slug"]: date.fromisoformat(c["access_date"]) for c in small}
+    access.update({c["slug"]: date(2026, 11, 6) for c in seewerk})
+    require(set(sources) == set(access), "Prozesslieferung fehlt oder ist falsch zugeordnet")
+    register = (PLUGIN / "testakte/README.md").read_text(encoding="utf-8")
+    for slug, case in sources.items():
+        docs = case["dokumente"]
+        filed, answered = [date.fromisoformat(d["date"]) for d in docs[2:]]
+        require(0 <= (filed - access[slug]).days <= 21 and filed < answered,
+                f"Klageeingang oder Erwiderung außerhalb der Chronologie: {slug}")
+        path = PLUGIN / "testakte/downloads" / f"testakte-{slug}-prozessunterlagen.zip"
+        case_readme = (ROOT / "testakten" / slug / "README.md").read_text(encoding="utf-8")
+        require(path.name in register and path.name in case_readme, f"Prozessunterlagen nicht verlinkt: {slug}")
+        with zipfile.ZipFile(path) as archive:
+            require(archive.namelist() == ["README.txt", *builder.FILENAMES, "Prozessunterlagen.pdf"],
+                    f"Unvollständige Prozesslieferung: {slug}")
+            require(archive.read("README.txt") == NOTICE_BYTES, f"Fehlender Hinweis: {slug}")
+            pdf = PdfReader(io.BytesIO(archive.read("Prozessunterlagen.pdf")))
+            require(len(pdf.outline) == 4, f"Fehlende Prozess-Lesezeichen: {slug}")
+            for i, (name, item, mark) in enumerate(zip(builder.FILENAMES, docs, pdf.outline, strict=True)):
+                data = archive.read(name)
+                if "original" in item:
+                    require(data == (ROOT / "testakten" / slug / item["original"]).read_bytes(), "Abweichende BR-Abschrift")
+                    continue
+                paragraphs = [p.text for p in Document(io.BytesIO(data)).paragraphs]
+                require(paragraphs[-len(item["paragraphs"]):] == item["paragraphs"], f"Abweichender Schriftsatz: {name}")
+                first = pdf.get_destination_page_number(mark)
+                after = pdf.get_destination_page_number(pdf.outline[i+1]) if i+1 < len(pdf.outline) else len(pdf.pages)
+                text = "".join("".join(page.extract_text().split()) for page in pdf.pages[first:after])
+                for para in item["paragraphs"]:
+                    require("".join(para.split()) in text, f"Textverlust in PDF: {slug}/{name}")
+
+
 def check(dist=None):
     paths = sorted((PLUGIN / "skills").glob("*/SKILL.md"))
     require({path.parent.name for path in paths} == SKILLS, "Fachwege fehlen oder zusätzliche Wrapper-Skills")
@@ -105,6 +140,7 @@ def check(dist=None):
     errors = []
     count = download_checks.validate_download_notices(NAME + "/README.md", (PLUGIN / "README.md").read_text(), errors)
     seewerk = json.loads((PLUGIN / "testakte/pruefung/seewerk-bestand.json").read_text(encoding="utf-8"))
+    check_process_files(cases, seewerk)
     require(count == len(cases) + len(seewerk) + 2 and not errors, f"Downloadhinweise: {errors}")
     module("build-kuendigungsschutz-akten").validate_data(cases)
     documents = pages = 0

@@ -103,6 +103,34 @@ def style_table(page, writer, number):
     page.replace_contents(content)
 
 
+# Ausschließlich die vorhandenen Flächen der Tabelle umfärben. Farben des
+# Schriftinhalts (z. B. Dezimalbeträge und Kontostand) werden nicht ersetzt.
+TABLE_FILLS = {
+    "register": {(0.913725, 0.933333, 0.960784): "CFDCE0", (0.972549, 0.980392, 0.988235): "F2F6F6"},
+    "modefuchs": {(0.960784,) * 3: "F7F1EB"},
+    "kanzlei": {(0.960784,) * 3: "EEE8E4"},
+    "bank": {(0.960784,) * 3: "F0F5F2", (1, 0.952941, 0.803922): "DFEEE7"},
+    "mail": {(0.960784,) * 3: "EFF3F5"},
+}
+
+
+def style_existing_fields(page, writer, sender):
+    palette = TABLE_FILLS.get(sender)
+    if palette is None:
+        return
+    content = ContentStream(page.get_contents(), writer, forced_encoding="bytes")
+    operations = content.operations
+    for index, (values, op) in enumerate(operations[:-3]):
+        if op != b"rg" or tuple(values) not in palette:
+            continue
+        if [command for _, command in operations[index + 1:index + 4]] != [b"n", b"re", b"f*"]:
+            continue
+        tone = palette[tuple(values)]
+        operations[index] = ([FloatObject(int(tone[pos:pos + 2], 16) / 255) for pos in (0, 2, 4)], b"rg")
+    content.operations = operations
+    page.replace_contents(content)
+
+
 def render(source, digest):
     reader = PdfReader(source)
     original_lines = reader.pages[0].extract_text().splitlines()
@@ -121,11 +149,13 @@ def render(source, digest):
             remove_letterhead(page, writer, edge, '\n'.join(original_lines[count:]))
             if document_number in (1, 4, 19):
                 style_table(page, writer, document_number)
+            style_existing_fields(page, writer, sender)
         size = float(page.mediabox.width), float(page.mediabox.height)
         overlay = BytesIO()
         canvas = Canvas(overlay, pagesize=size, invariant=1)
         draw_letterhead(canvas, sender=sender, page_number=number, page_count=len(reader.pages),
-                        page_size=size, document_kind=kind, header_lines=header if number == 1 else ())
+                        page_size=size, document_kind=kind, header_lines=header if number == 1 else (),
+                        address_window=document_number in {*range(1, 12), 20, 22, 27})
         canvas.showPage()
         canvas.save()
         page.merge_page(PdfReader(overlay).pages[0], over=False)

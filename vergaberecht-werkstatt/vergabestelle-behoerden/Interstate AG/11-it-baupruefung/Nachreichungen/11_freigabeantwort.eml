@@ -5,9 +5,13 @@ To: Selma Linde =?utf-8?q?=C2=B7?= Planquell Systeme GmbH
 Date: Thu, 12 Nov 2026 15:02:00 +0100
 Message-ID: <a235d7024271b878bd39fb5c@fallpost.example>
 Subject: Entscheidung des Einkaufs zum Einspruch
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-6cbd75f93adb5ed770add296"
+
+--interstate-alt-6cbd75f93adb5ed770add296
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Wir haben Ihre Einwendung gepr=C3=BCft. Der Erstpr=C3=BCfer hat im Hauptblatt=
  f=C3=BCr C keinen Bildverweis gefunden. Der Einkauf hilft Ihrer Beanstandung=
@@ -17,3 +21,20 @@ Wir haben Ihre Einwendung gepr=C3=BCft. Der Erstpr=C3=BCfer hat im Hauptblatt=
 Die Datei der zweiten Pr=C3=BCferin liegt in der Vergabeakte. Wir sehen keine=
 n Anlass zur Ver=C3=A4nderung der Rangfolge. Diese Entscheidung ist f=C3=BCr =
 den Einkauf freigegeben.
+
+--interstate-alt-6cbd75f93adb5ed770add296
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #17=
+4A61;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Wir haben Ihre E=
+inwendung gepr=C3=BCft. Der Erstpr=C3=BCfer hat im Hauptblatt f=C3=BCr C kein=
+en Bildverweis gefunden. Der Einkauf hilft Ihrer Beanstandung deshalb nicht a=
+b und beabsichtigt, an der mitgeteilten Wertung festzuhalten. Der in der Vora=
+binformation bezeichnete Termin bleibt vorgemerkt.</p><p>Die Datei der zweite=
+n Pr=C3=BCferin liegt in der Vergabeakte. Wir sehen keinen Anlass zur Ver=C3=
+=A4nderung der Rangfolge. Diese Entscheidung ist f=C3=BCr den Einkauf freigeg=
+eben.</p></div></body></html>
+
+--interstate-alt-6cbd75f93adb5ed770add296--

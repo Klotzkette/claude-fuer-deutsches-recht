@@ -6,4 +6,4 @@ Daniel Muster hat seiner Anwältin um 10:15 Uhr geschrieben, dass auf seine Ausk
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-[Seewerk mit Maschinenjournal herunterladen · 44 ursprüngliche und 3 zusätzliche Unterlagen (ZIP)](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/testakten-praxis-v1.0.0/arbeitsrecht-muster-seewerk-lebensakte-radolfzell-mit-nachtrag.zip)
+[Seewerk mit Maschinenjournal herunterladen · 44 ursprüngliche und 3 zusätzliche Unterlagen (ZIP)](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/kuendigungsschutz/arbeitsrecht-muster-seewerk-lebensakte-radolfzell-mit-nachtrag.zip)

@@ -5,23 +5,81 @@
   "auftrag": "Beraten Sie die Vergabestelle vor einer Einladung oder Zusage. Legen Sie der Niederlassungsleitung bis 10. November 2026 eine entscheidungsfähige Fassung des Vermerks vor. Bezeichnen Sie die zu beschaffende Leistung, den geschätzten Gesamtwert und den zulässigen Verfahrensweg. Prüfen Sie, für welche Leistungen die behauptete Alleinstellung belegt ist. Legen Sie dar, welche Aussagen von wem stammen, welche Prüfung der Vergabestelle noch fehlt und was der Einkauf den beteiligten Unternehmen jetzt mitteilen kann. Entwerfen Sie die dazu erforderlichen Schreiben.",
   "nachreichung": "Führen Sie den Vermerk zunächst nach der beobachteten Probe vom 11. November und nochmals nach dem Schreiben der bisherigen Anbieterin vom 16. November fort. Halten Sie bei jedem Stand fest, welche Feststellungen Sie beibehalten oder ändern. Die Leitung berät am 18. November erneut. Sie benötigt einen konkreten Auftrag an Einkauf und Archiv mit Verantwortlichen und Terminen. Die Nachricht von Lichtfaden trägt die Überschrift „Widerspruch“. Prüfen Sie anhand ihres Wortlauts und des Eingangsjournals, was die Firma konkret verlangt, wann die AG davon erfahren konnte und welche Abhilfe oder Aufklärung vor einer Einladung in Betracht kommt. Entwerfen Sie für die Leitung eine Antwort mit einem nachprüfbaren nächsten Schritt.",
   "quellen": [
-    ["§ 99 GWB – öffentliche Auftraggeber", "https://www.gesetze-im-internet.de/gwb/__99.html"],
-    ["§ 3 VgV – Schätzung des Auftragswerts", "https://www.gesetze-im-internet.de/vgv_2016/__3.html"],
-    ["Art. 1 Delegierte Verordnung (EU) 2025/2152 – Schwellenwerte 2026 und 2027", "https://op.europa.eu/de/publication-detail/-/publication/ed53995b-afac-11f0-b37f-01aa75ed71a1/language-de"],
-    ["§ 14 Abs. 4 Nr. 2 Buchst. b und c, Abs. 6 VgV – Wahl der Verfahrensart", "https://www.gesetze-im-internet.de/vgv_2016/__14.html"],
-    ["§ 28 VgV – Markterkundung", "https://www.gesetze-im-internet.de/vgv_2016/__28.html"],
-    ["§ 31 VgV – Leistungsbeschreibung", "https://www.gesetze-im-internet.de/vgv_2016/__31.html"],
-    ["§ 8 VgV – Dokumentation und Vergabevermerk", "https://www.gesetze-im-internet.de/vgv_2016/__8.html"],
-    ["§ 160 GWB – Antrag und Rüge im Nachprüfungsverfahren", "https://www.gesetze-im-internet.de/gwb/__160.html"]
+    [
+      "§ 99 GWB – öffentliche Auftraggeber",
+      "https://www.gesetze-im-internet.de/gwb/__99.html"
+    ],
+    [
+      "§ 3 VgV – Schätzung des Auftragswerts",
+      "https://www.gesetze-im-internet.de/vgv_2016/__3.html"
+    ],
+    [
+      "Art. 1 Delegierte Verordnung (EU) 2025/2152 – Schwellenwerte 2026 und 2027",
+      "https://op.europa.eu/de/publication-detail/-/publication/ed53995b-afac-11f0-b37f-01aa75ed71a1/language-de"
+    ],
+    [
+      "§ 14 Abs. 4 Nr. 2 Buchst. b und c, Abs. 6 VgV – Wahl der Verfahrensart",
+      "https://www.gesetze-im-internet.de/vgv_2016/__14.html"
+    ],
+    [
+      "§ 28 VgV – Markterkundung",
+      "https://www.gesetze-im-internet.de/vgv_2016/__28.html"
+    ],
+    [
+      "§ 31 VgV – Leistungsbeschreibung",
+      "https://www.gesetze-im-internet.de/vgv_2016/__31.html"
+    ],
+    [
+      "§ 8 VgV – Dokumentation und Vergabevermerk",
+      "https://www.gesetze-im-internet.de/vgv_2016/__8.html"
+    ],
+    [
+      "§ 160 GWB – Antrag und Rüge im Nachprüfungsverfahren",
+      "https://www.gesetze-im-internet.de/gwb/__160.html"
+    ]
   ],
   "einwendungspruefung": [
-    {"eingabe": "09_widerspruch_lichtfaden.eml", "gegenpruefung": "07_protokoll_musteruebernahme.docx"},
-    {"eingabe": "09_widerspruch_lichtfaden.eml", "gegenpruefung": "10_eingang_und_einladungsstand.txt"}
+    {
+      "eingabe": "09_widerspruch_lichtfaden.eml",
+      "gegenpruefung": "07_protokoll_musteruebernahme.docx"
+    },
+    {
+      "eingabe": "09_widerspruch_lichtfaden.eml",
+      "gegenpruefung": "10_eingang_und_einladungsstand.txt"
+    }
   ],
   "dokumente": [
     {
-      "phase": "Grundakte", "datei": "01_bedarf_und_freigabe.docx", "titel": "Fotoarchiv West – Anbieterwahl vor Ablauf des Archivvertrags", "datum": "2026-10-20",
-      "von": "Silke Ebert · Leitung Dokumentation, Deutsche Interstate AG, Niederlassung West", "an": "Benno Harms · Einkauf, Niederlassung West",
+      "phase": "Grundakte",
+      "datei": "00_pruefauftrag_archivdienst.eml",
+      "datum": "2026-11-09",
+      "uhrzeit": "08:30",
+      "von": "Rita Yen · Leitung Vergabestelle, Deutsche Interstate AG, Niederlassung West",
+      "an": "Benno Harms · Einkauf, Deutsche Interstate AG, Niederlassung West",
+      "absender": "r.yen@interstate.example",
+      "empfaenger": "b.harms@interstate.example",
+      "titel": "Fotoarchiv West – kann ich die Einladung an Albumstrom freigeben?",
+      "text": [
+        "Guten Morgen, Herr Harms,",
+        "Frau Ebert will nur Albumstrom zur Übernahme und zum Betrieb unseres Fotoarchivs einladen. Am 31. März endet der bisherige Vertrag. Für die Ausstellung ab 12. April müssen 180 Serien in der richtigen Bildfolge mit Bildunterschriften und Freigabevermerken abrufbar sein. Die Niederlassungsleitung entscheidet am Dienstag, 10. November. Den Einladungsentwurf habe ich noch nicht freigegeben.",
+        "Anbei der Vermerk der Dokumentation, der Vertragsauszug, Ihre Marktübersicht und die Nachricht von Lichtfaden. Frau Ebert fürchtet nach dem Fehler im letzten Katalog, dass bei einem Umzug Bilder der falschen Freigabe zugeordnet werden. Lichtfaden möchte die Übernahme an einer Stichprobe zeigen. Welche Daten dürfen wir dafür herausgeben, und welchen Teil der Leistung kann nach Aktenlage tatsächlich nur Albumstrom erbringen?",
+        "Bitte legen Sie mir für die Sitzung einen zeichnungsreifen Vermerk zur Anbieterwahl vor. Vergleichen Sie dabei denselben Leistungsumfang über vier Jahre und mit beiden Verlängerungen. Ich brauche außerdem einen Antwortentwurf an Lichtfaden und eine konkrete Bitte an die Bildredaktion, falls die Rohdaten noch nicht ausreichen. Eine Auskunft oder Zusage an die Unternehmen geht über den Einkauf.",
+        "Viele Grüße\nRita Yen"
+      ],
+      "anlagen": [
+        "06_vermerk_dokumentation_entwurf.docx",
+        "02_vertragsauszug_archivdienst.txt",
+        "04_marktkontakte.xlsx",
+        "05_antwort_lichtfaden.eml"
+      ]
+    },
+    {
+      "phase": "Grundakte",
+      "datei": "01_bedarf_und_freigabe.docx",
+      "titel": "Fotoarchiv West – Anbieterwahl vor Ablauf des Archivvertrags",
+      "datum": "2026-10-20",
+      "von": "Silke Ebert · Leitung Dokumentation, Deutsche Interstate AG, Niederlassung West",
+      "an": "Benno Harms · Einkauf, Niederlassung West",
       "text": [
         "Am 31. März 2027 endet unser Vertrag mit Albumstrom. Für die Frühjahrsausstellung braucht die Redaktion ab 12. April Zugriff auf 180 ausgewählte Bildserien. Unser Vorschlag ist, den Archivdienst bei Albumstrom fortzuführen. Bitte klären Sie, ob wir ausschließlich mit Albumstrom verhandeln dürfen. Welche Daten könnten wir einem anderen Anbieter für eine Übernahme zur Verfügung stellen?",
         "Im Archiv liegen 19.400 Aufnahmen aus der Unternehmensgeschichte in 2.440 nummerierten Serien, vor allem von Werkstattjubiläen, Ausstellungen und früheren Berufsbildern. Für den Satz eines Ausstellungskatalogs müssen Reihenfolge, Bildunterschrift und Freigabevermerk zu jedem Bild erhalten bleiben. Bilder mit ungeklärter Freigabe bleiben gesperrt. Aus dem Archiv werden keine Anlagen bedient. Die Redaktion hat für die Ausstellung bis zum 30. April Zeit. Die übrigen Serien braucht sie im laufenden Jahr für Einzelanfragen.",
@@ -29,8 +87,12 @@
       ]
     },
     {
-      "phase": "Grundakte", "datei": "02_vertragsauszug_archivdienst.txt", "titel": "Archivdienst 2021 – von der Vertragsstelle bestätigter Auszug", "datum": "2026-10-22",
-      "von": "Anne Loos · Vertragsverwaltung West", "an": "Benno Harms · Einkauf West",
+      "phase": "Grundakte",
+      "datei": "02_vertragsauszug_archivdienst.txt",
+      "titel": "Archivdienst 2021 – von der Vertragsstelle bestätigter Auszug",
+      "datum": "2026-10-22",
+      "von": "Anne Loos · Vertragsverwaltung West",
+      "an": "Benno Harms · Einkauf West",
       "text": [
         "Abschrift aus Vertrag W-21-009 vom 18. Februar 2021, Ziff. 7.2: Die Auftraggeberin kann jederzeit die von ihr eingebrachten Bilddateien und die im Verzeichnis ausdrücklich genannten beschreibenden Felder einschließlich Freigabetext verlangen. Ein vollständiger Export zum Vertragsende ist mit dem vereinbarten Entgelt abgegolten. Die übergebenen Dateien dürfen Dritten zur weiteren Bearbeitung für die Auftraggeberin bereitgestellt werden.",
         "Ziff. 7.3: Zu jeder Serie wird eine Zuordnungsliste mit Seriennummer und Bildnummer übergeben. Die grafische Anordnung der Vorschaubilder sowie die Programmoberfläche verbleiben beim Auftragnehmer. Für vor dem 1. Juli 2021 angelegte Serien mit individuellen Ordnungsmerkmalen nennt Anlage 3 eine Umsetzung nach gesonderter Abstimmung. Umfang, Frist und Preis sind dort offengelassen.",
@@ -38,40 +100,88 @@
       ]
     },
     {
-      "phase": "Grundakte", "datei": "03_auskunft_altanbieter.eml", "titel": "Ihre Frage zur Übernahme der Serienfolge", "datum": "2026-10-26", "uhrzeit": "10:24",
-      "von": "Marta Ilg · Kundenbetreuung, Albumstrom Archivdienst GmbH", "an": "Silke Ebert · Leitung Dokumentation West",
-      "absender": "m.ilg@albumstrom.example", "empfaenger": "s.ebert@interstate.example",
+      "phase": "Grundakte",
+      "datei": "03_auskunft_altanbieter.eml",
+      "titel": "Ihre Frage zur Übernahme der Serienfolge",
+      "datum": "2026-10-26",
+      "uhrzeit": "10:24",
+      "von": "Marta Ilg · Kundenbetreuung, Albumstrom Archivdienst GmbH",
+      "an": "Silke Ebert · Leitung Dokumentation West",
+      "absender": "m.ilg@albumstrom.example",
+      "empfaenger": "s.ebert@interstate.example",
       "text": [
         "Guten Tag Frau Ebert, die individuell eingerichteten Reihenfolgen stammen aus unserer damaligen Erfassung. Unsere eigene Arbeitsumgebung kann sie ohne Neuerfassung fortführen. Für eine sechsjährige Fortführung kalkulieren wir vorläufig 154.000 EUR einmalig für Übernahme und Einrichtung und 43.000 EUR jährlich für Betreuung und Nutzung. Die jährliche Rate gilt auch für beide Optionsjahre. Sämtliche Beträge sind netto. Eine Erklärung zur Vollständigkeit bei Übernahme mit unseren eigenen Mitteln können wir vertraglich abgeben.",
         "Bei einem Wechsel liefern wir die vereinbarten Exporte. Eine Zusage, dass eine andere Anwendung daraus dieselbe Bildschirmdarstellung erzeugt, können wir naturgemäß nicht geben. Uns sind keine von uns autorisierten Drittanbieter für die Pflege unserer Software bekannt. Ob jemand auf Basis des Exports eine andere Lösung betreiben kann, haben wir nicht untersucht. Wenn Sie möchten, reserviere ich Ihnen einen Gesprächstermin. Eine Bestellung geht aus dieser Nachricht nicht hervor."
       ]
     },
     {
-      "phase": "Grundakte", "datei": "04_marktkontakte.xlsx", "titel": "Markterkundung – Rückläufe zur Übergabe", "datum": "2026-11-02",
-      "von": "Benno Harms · Einkauf West", "an": "Rita Yen · Leitung Vergabestelle West",
+      "phase": "Grundakte",
+      "datei": "04_marktkontakte.xlsx",
+      "titel": "Markterkundung – Rückläufe zur Übergabe",
+      "datum": "2026-11-02",
+      "von": "Benno Harms · Einkauf West",
+      "an": "Rita Yen · Leitung Vergabestelle West",
       "text": [
         "Am 27. Oktober gingen identische Anfragen an die drei uns bekannten Anbieter. Abgefragt wurden vier Jahre betreuter Archivdienst, zwei Optionsjahre, ein Übergabenachweis für alle Serien und eine getrennte Preisangabe für die Migration. Als Anlage diente eine leere Feldliste. Kein Unternehmen hat bislang einen vollständigen Export erhalten. Eine offene Bekanntgabe der Markterkundung ist nicht erfolgt.",
         "Die Werte sind unverbindliche Marktangaben in EUR netto. Der Vergleich über vier und sechs Jahre enthält Einrichtung und laufenden Dienst. Der mögliche Altserienzuschlag der Konkurrentin ist noch offen. Für die 180 Ausstellungsserien wurde keine gesonderte Leistung bepreist."
       ],
       "tabelle": [
-        ["Unternehmen", "Kontaktstand", "Einmalig EUR", "Pro Jahr EUR", "4 Jahre EUR", "6 Jahre EUR"],
-        ["Albumstrom Archivdienst", "26.10. Vorabauskunft, am 28.10. bestätigt", 154000, 43000, 326000, 412000],
-        ["Lichtfaden Medienregister", "30.10. orientierende Auskunft, Altserien offen", 188000, 36000, 332000, 404000],
-        ["Kataloghaus Mitte", "02.11. dieses Quartal keine Kapazität zur Bemusterung", "offen", "offen", "offen", "offen"]
+        [
+          "Unternehmen",
+          "Kontaktstand",
+          "Einmalig EUR",
+          "Pro Jahr EUR",
+          "4 Jahre EUR",
+          "6 Jahre EUR"
+        ],
+        [
+          "Albumstrom Archivdienst",
+          "26.10. Vorabauskunft, am 28.10. bestätigt",
+          154000,
+          43000,
+          326000,
+          412000
+        ],
+        [
+          "Lichtfaden Medienregister",
+          "30.10. orientierende Auskunft, Altserien offen",
+          188000,
+          36000,
+          332000,
+          404000
+        ],
+        [
+          "Kataloghaus Mitte",
+          "02.11. dieses Quartal keine Kapazität zur Bemusterung",
+          "offen",
+          "offen",
+          "offen",
+          "offen"
+        ]
       ]
     },
     {
-      "phase": "Grundakte", "datei": "05_antwort_lichtfaden.eml", "titel": "Übernahme aus Listenexport – Bitte um eine repräsentative Probe", "datum": "2026-11-03", "uhrzeit": "14:36",
-      "von": "Evin Werner · Projektleitung Migration, Lichtfaden Medienregister eG", "an": "Benno Harms · Einkauf West",
-      "absender": "e.werner@lichtfaden.example", "empfaenger": "b.harms@interstate.example",
+      "phase": "Grundakte",
+      "datei": "05_antwort_lichtfaden.eml",
+      "titel": "Übernahme aus Listenexport – Bitte um eine repräsentative Probe",
+      "datum": "2026-11-03",
+      "uhrzeit": "14:36",
+      "von": "Evin Werner · Projektleitung Migration, Lichtfaden Medienregister eG",
+      "an": "Benno Harms · Einkauf West",
+      "absender": "e.werner@lichtfaden.example",
+      "empfaenger": "b.harms@interstate.example",
       "text": [
         "Herr Harms, wir haben die Feldliste Ihrer Anfrage mit zwei früheren Sammlungsumzügen abgeglichen. Eine belegte Bildnummer mit Serien- und Positionsangabe genügt für die Reihenfolge. Der Name des früher eingesetzten Programms ist dafür unerheblich. Unklar bleibt, ob die Positionen in den älteren Serien tatsächlich durchgehend gefüllt sind und ob sich Bildunterschriften und Freigaben eindeutig dem Einzelbild zuordnen lassen.",
         "Wir bieten eine unentgeltliche einmalige Sichtung von 40 ausgewählten Serien unter denselben Bedingungen an, die Sie anderen Interessenten gewähren. Für eine belastbare Zeitangabe benötigen wir darunter mindestens zehn ältere Serien mit individuellen Ordnungsmerkmalen. Die Preise vom 30. Oktober decken die regelbasierte Übernahme ab. Eine händische Aufarbeitung fehlender Informationen haben wir mangels Kenntnis des Bestandes nicht eingepreist. Bitte übermitteln Sie zu Testzwecken ausschließlich freigegebene Bildmuster mit erfundenen Namen."
       ]
     },
     {
-      "phase": "Grundakte", "datei": "06_vermerk_dokumentation_entwurf.docx", "titel": "Entwurf der Dokumentation für die Leitungssitzung am 10. November", "datum": "2026-11-06",
-      "von": "Silke Ebert · Leitung Dokumentation West", "an": "Rita Yen · Leitung Vergabestelle West",
+      "phase": "Grundakte",
+      "datei": "06_vermerk_dokumentation_entwurf.docx",
+      "titel": "Entwurf der Dokumentation für die Leitungssitzung am 10. November",
+      "datum": "2026-11-06",
+      "von": "Silke Ebert · Leitung Dokumentation West",
+      "an": "Rita Yen · Leitung Vergabestelle West",
       "text": [
         "Ich beantrage die Freigabe, ausschließlich Albumstrom zu Verhandlungen über Übernahme, Archivdienst und Optionen einzuladen. Die frühere Hängung und die zugehörige Freigabe sind Teil der Benutzbarkeit unseres Bestands. 2023 mussten wir einen bereits fertig gesetzten Katalog korrigieren, weil ein Ersatzfoto in einer Serie eine alte Freigabe übernommen hatte. Das hat uns knapp eine Woche gekostet. Auf diese Abhängigkeit stütze ich meinen Vorschlag.",
         "Albumstrom kann die Serien in der bisherigen Oberfläche fortführen und will für die Vollständigkeit einstehen. Lichtfaden hat bislang nur unsere leere Feldliste gesehen. Ihr Grundpreis liegt über vier Jahre um 6.000 EUR höher, ohne etwaige Einzelnacharbeiten. Das Team kann zwischen März und April weder sämtliche 2.440 Serien noch eine unbekannte Zahl schlecht lesbarer Altbeschreibungen manuell prüfen. Aus meiner Sicht spricht das für einen durchgehenden Auftrag an das vertraute Haus.",
@@ -79,8 +189,12 @@
       ]
     },
     {
-      "phase": "Nachreichungen", "datei": "07_protokoll_musteruebernahme.docx", "titel": "Beobachtete Musterübernahme in der Dokumentation", "datum": "2026-11-11",
-      "von": "Lara Bartels · Archivarin West, Protokollführung", "an": "Silke Ebert und Benno Harms · Dokumentation und Einkauf West",
+      "phase": "Nachreichungen",
+      "datei": "07_protokoll_musteruebernahme.docx",
+      "titel": "Beobachtete Musterübernahme in der Dokumentation",
+      "datum": "2026-11-11",
+      "von": "Lara Bartels · Archivarin West, Protokollführung",
+      "an": "Silke Ebert und Benno Harms · Dokumentation und Einkauf West",
       "text": [
         "Von 09.15 bis 11.10 Uhr verglichen Frau Werner und ich die Übergabe von Lichtfaden mit unserer ausgedruckten Reihenfolgeliste. Ich hatte 28 neuere und zwölf vor Juli 2021 erfasste Serien aus verschiedenen Jahrgängen zusammengestellt. Die Bildfreigaben wurden für diese Probe durch markierte Testtexte ersetzt. Die Auswahl erfasst ausdrücklich auch schwierige Altserien. Eine Hochrechnung aus ihrem Anteil an den 40 Serien ist nicht vereinbart.",
         "Bei allen 28 neueren und neun der zwölf alten Serien deckten sich Folge, Beschreibung und Freigabetext mit meiner Vorlage. Bei zwei alten Serien fehlte im übertragenen Datensatz die auf dem Papier vorhandene Bildunterschrift. Bei einer dritten Altserie war die Reihenfolge zweier Bilder vertauscht. Die Freigabetexte blieben bei diesen drei Serien den richtigen Bildnummern zugeordnet. Ich habe die drei Serienkürzel AL-04, AL-08 und AL-11 im Abnahmeheft vermerkt.",
@@ -88,9 +202,15 @@
       ]
     },
     {
-      "phase": "Nachreichungen", "datei": "08_ueberbrueckung_angebot.eml", "titel": "Bestandsauskunft und befristeter Lesezugang nach Vertragsende", "datum": "2026-11-16", "uhrzeit": "09:18",
-      "von": "Marta Ilg · Kundenbetreuung, Albumstrom Archivdienst GmbH", "an": "Benno Harms · Einkauf West",
-      "absender": "m.ilg@albumstrom.example", "empfaenger": "b.harms@interstate.example",
+      "phase": "Nachreichungen",
+      "datei": "08_ueberbrueckung_angebot.eml",
+      "titel": "Bestandsauskunft und befristeter Lesezugang nach Vertragsende",
+      "datum": "2026-11-16",
+      "uhrzeit": "09:18",
+      "von": "Marta Ilg · Kundenbetreuung, Albumstrom Archivdienst GmbH",
+      "an": "Benno Harms · Einkauf West",
+      "absender": "m.ilg@albumstrom.example",
+      "empfaenger": "b.harms@interstate.example",
       "text": [
         "Guten Tag Herr Harms, unsere Zählung ergibt 168 vor Juli 2021 angelegte Serien mit mindestens einem individuellen Ordnungsmerkmal. Unter Ihren 180 für die Ausstellung vorgemerkten Serien befinden sich elf aus dieser Gruppe. Der Bericht zählt Merkmale. Ob bei jedem betroffenen Datensatz die Reihenfolge im Standardexport fehlt, ist daraus nicht abzulesen. Für AL-04 und AL-08 vergleichen wir gerade die Exportliste mit den Bildkarten. AL-11 bedarf einer Rückfrage bei Ihrer Redaktion.",
         "Für die Monate April und Mai 2027 können wir Ihnen einen schreibgeschützten Lesezugang zum Altbestand für zusammen 18.000 EUR netto anbieten. Die Nutzung erfordert eine gesonderte Vereinbarung bis 15. Dezember. Die Vertragsverwaltung hat uns auf den bereits geschuldeten Endexport hingewiesen. Dieser ist im Betrag nicht enthalten und wird nicht nochmals berechnet. Für die Frühjahrsausstellung wäre ein Abruf aus dem Altbestand damit technisch möglich. Eine nachträgliche Freigabebearbeitung im alten Bestand ist mit dem Lesezugang ausgeschlossen.",

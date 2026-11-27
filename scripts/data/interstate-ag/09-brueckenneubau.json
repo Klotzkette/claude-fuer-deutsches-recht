@@ -62,7 +62,7 @@
     {
       "phase": "Grundakte",
       "datei": "00_freigabe_los_b.eml",
-      "titel": "Brücke Riedanger – Freigabe für beide Straßenanschlüsse",
+      "titel": "Brücke Riedanger – kann ich Los B nach Talbogens Widerspruch zur Freigabe vorlegen?",
       "datum": "2026-11-09",
       "uhrzeit": "10:35",
       "von": "Kian Loh · Leitung Einkauf, Deutsche Interstate AG, NL West",
@@ -70,9 +70,18 @@
       "absender": "einkauf@interstate.example",
       "empfaenger": "vergabe.west@interstate.example",
       "text": [
-        "Frau Jost, bevor ich den Auftrag für die Straßenanschlüsse der neuen Brücke Riedanger freigebe, brauche ich die verbindlichen Zeitangebote. Wir haben Furchenweg für den Zuschlag vorgesehen. Talbogen bietet günstiger an und fragt heute, ob die zehn Tage Bauzeitverkürzung des Wettbewerbers auch im verbindlichen Formblatt B-Z stehen. Im Wertungsbogen ist als Quelle das Ablaufkonzept angegeben. Bitte lassen Sie sich die beiden eingereichten Formblätter für den Vergleich vorlegen.",
-        "Getrennt davon liegt der Einspruch von Nordsaum vor. Der Betrieb will nur die kurze Ostzufahrt asphaltieren. Unsere Antwort vom 28. Oktober betrifft die gemeinsame Vergabe mit dem Westanschluss. Bitte bringen Sie den getrennten Bauablauf und die vorgesehene Übergabe beider Seiten an die Geländermontage zum Freigabegespräch mit. Als frühester Vertragsschluss für Los B ist der 17. November vorgemerkt.",
+        "Guten Morgen, Frau Jost,",
+        "für die beiden Straßenanschlüsse der Brücke ist Furchenweg vorgesehen. Talbogen hat heute um 09.08 Uhr widersprochen. Sein Angebot ist günstiger. Die zehn Tage, mit denen Furchenweg vor Talbogen liegt, stammen laut Wertungsbogen aus dem Ablaufkonzept. Nach den veröffentlichten Bedingungen zählt die verbindliche Zusage im Formblatt B-Z. Können wir die Vorinformation vom Freitag auf dieser Grundlage stehen lassen?",
+        "Anbei die Wertungsbedingungen, der Bogen und beide Schreiben zur vorgesehenen Vergabe. Bitte fordern Sie bei der Registratur die unverändert eingereichten Formblätter und Konzepte beider Bieter an. Vor deren Vergleich möchte ich wissen, welchen Rang die vorhandenen Belege tragen und wie eine andere verbindliche Tageszahl den Zuschlag verändern könnte.",
+        "Der Vorgang Nordsaum betrifft den Loszuschnitt. Der Betrieb wollte nur den kürzeren Ostanschluss bauen. Unsere Antwort vom 28. Oktober hat seinen Einspruch bereits beschieden. Bitte prüfen Sie anhand der beiden Baufelder und ihrer Übergabe an die Geländermontage, ob wir daran festhalten können. Für das Freigabegespräch morgen brauche ich den Vermerk zu Los B, einen Antwortentwurf an Talbogen und einen gesonderten Vorschlag zur Korrespondenz mit Nordsaum. Für Los B ist als frühester Vertragsschluss der 17. November vorgemerkt. Bitte vermerken Sie auch, ob Rohbau und Schutzeinrichtungen von einem weiteren Schritt betroffen wären.",
         "Viele Grüße\nKian Loh"
+      ],
+      "anlagen": [
+        "02_bekanntmachung_und_wertung.docx",
+        "08_wertung_los_b.xlsx",
+        "09_vorinformation_talbogen.eml",
+        "10_widerspruch_talbogen.eml",
+        "07_antwort_nordsaum.eml"
       ]
     },
     {

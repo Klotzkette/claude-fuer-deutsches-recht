@@ -37,17 +37,26 @@
       "EuGH, 11.05.2017, C-131/16, Archus und Gama · Aufklärung und Austausch eines ursprünglich eingereichten Musters im damaligen Sektorenrecht",
       "https://op.europa.eu/de/publication-detail/-/publication/962a0cba-3624-11e7-a08e-01aa75ed71a1/language-de"
     ],
-    ["§ 169 GWB – Wirkungen der Nachprüfung", "https://www.gesetze-im-internet.de/gwb/__169.html"]
+    [
+      "§ 169 GWB – Wirkungen der Nachprüfung",
+      "https://www.gesetze-im-internet.de/gwb/__169.html"
+    ]
   ],
   "einwendungspruefung": [
-    {"eingabe": "11_bieterstellungnahme.eml", "gegenpruefung": "10_schluesselkarte.docx"},
-    {"eingabe": "13_ruege_zuschlagstermin.eml", "gegenpruefung": "14_versandjournal_w668.txt"}
+    {
+      "eingabe": "11_bieterstellungnahme.eml",
+      "gegenpruefung": "10_schluesselkarte.docx"
+    },
+    {
+      "eingabe": "13_ruege_zuschlagstermin.eml",
+      "gegenpruefung": "14_versandjournal_w668.txt"
+    }
   ],
   "dokumente": [
     {
       "phase": "Grundakte",
       "datei": "00_pruefbitte_wertung_w668.eml",
-      "titel": "24 Pegelstationen Kiebitzrinne – bitte um Mitprüfung des Ausschlusses von Flutzeichen",
+      "titel": "Pegelstationen Kiebitzrinne – Mitzeichnung für Ausschluss W-668 vorgelegt",
       "datum": "2026-09-09",
       "uhrzeit": "14:42",
       "von": "Mara Ilg · Deutsche Interstate AG, Niederlassung West, Vergabestelle",
@@ -55,11 +64,19 @@
       "absender": "vergabe@interstate-west.example",
       "empfaenger": "rechtsdienst@interstate-west.example",
       "text": [
-        "Guten Tag zusammen, Herr Korte hat mir heute um 14:20 Uhr seinen Ausschlussvermerk für das Angebot W-668 vorgelegt. Für die 24 Pegelstationen ist Flutzeichen mit 418.800 Euro netto die günstigste Bieterin. Unser Messnetzbetrieb bezweifelt, dass ihre Station vier Tage bei −5 °C misst und sendet. Fällt das Angebot aus der Wertung, liegt Uferpuls mit 434.400 Euro vorn.",
-        "Im Formblatt T bestätigt Flutzeichen die Laufzeit für P16/07. Das Serienblatt nennt 72 Stunden mit einem Einschub und 102 mit zweien. Seine Schlüsseltabelle endet aber bei /06. Auf meine Frage von heute Morgen zur angebotenen Ausführung kann Flutzeichen noch bis Freitag, 11. September, 12:00 Uhr antworten. Für die fehlende Umsatzerklärung E3 läuft eine eigene Nachforderung.",
-        "Bitte geben Sie mir den Vermerk mit Ihren Anmerkungen für die Vergabeleitung zurück. Reichen die bisherigen Unterlagen für den vorgeschlagenen Ausschluss? Worauf kommt es bei der ausstehenden Antwort an, und wie behandeln wir E3? Der Entscheidungstermin ist für den 15. September vorgesehen.",
-        "Viele Grüße",
-        "Mara Ilg"
+        "Guten Tag zusammen,",
+        "Herr Korte hat mir um 14.20 Uhr den beigefügten Ausschlussvermerk zur Mitzeichnung gegeben. Für die 24 Pegelstationen hat Flutzeichen mit 418.800 Euro netto den niedrigsten Preis angeboten. Der Messnetzbetrieb bezweifelt, dass die Station vier Tage bei −5 °C ohne Unterbrechung messen und senden kann. Bei einem Ausschluss läge Uferpuls mit 434.400 Euro preislich vorn. Ich habe noch keine Entscheidung an die Bieter versandt.",
+        "Können Sie im Vermerk die Stelle kennzeichnen, an der das Angebot die geforderte Bestückung erkennen lässt? Im Formblatt T steht P16/07 und „ja“. Das Serienblatt nennt 72 Stunden mit einem Einschub und 102 mit zweien, erklärt Schlüssel aber nur bis /06. Beigefügt sind das ausgegebene und das eingereichte Preisblatt. Mir ist wichtig, was sich aus dem Gesamtpreis für die Einbauten tatsächlich ablesen lässt.",
+        "Für meine technische Rückfrage und für die gesondert nachgeforderte Umsatzerklärung E3 läuft die Frist jeweils bis Freitag, 11. September, 12 Uhr. Bitte geben Sie mir vor Fristablauf einen mitgezeichneten oder korrigierten Vermerk und den Text der nächsten Bieternachricht als Entwurf. Vermerken Sie getrennt, welche der noch möglichen Antworten am technischen Ergebnis oder an der Eignungsprüfung etwas ändern würde. Die Vergabeleitung entscheidet am 15. September.",
+        "Viele Grüße\nMara Ilg"
+      ],
+      "anlagen": [
+        "08_vermerk_wertung.docx",
+        "02a_bieter_lv_messstationen.xlsx",
+        "04_angebot_flutzeichen.docx",
+        "04a_preisblatt_w668.xlsx",
+        "06_nachforderung_e3.eml",
+        "07_technische_rueckfrage.eml"
       ]
     },
     {

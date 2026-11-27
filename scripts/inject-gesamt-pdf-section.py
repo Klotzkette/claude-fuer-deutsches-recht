@@ -21,7 +21,7 @@ import re
 import sys
 from pathlib import Path
 
-from release_routing import case_asset_url, companion_cases, rewrite_case_asset_urls
+from release_routing import KUENDIGUNG_PLUGIN_DOWNLOADS, KUENDIGUNG_ZENTRAL, RAW_MAIN, case_asset_url, companion_cases, rewrite_case_asset_urls
 from testakte_einzelpdf_common import expected_arcnames
 from testakte_disclaimer import NOTICE_MARKDOWN
 from testakte_grundakte import selection
@@ -243,6 +243,17 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
         english = ("English: Start with the intake records in `Grundakte` and use `Nachreichungen` "
                    "for the later negotiations. The print files contain these two sets of records. "
                    "The original-format ZIP also includes editable Word and Excel templates in `Arbeitsvorlagen`.")
+    if slug in KUENDIGUNG_ZENTRAL:
+        intro = ("Öffnen Sie für das erste Mandantengespräch das Arbeits-ZIP mit Eingangspost. Unter "
+                 "`Grundakte/00_Posteingang` stehen die ersten Nachrichten und Belege. Die Prozessunterlagen "
+                 "in der Vollakte dienen der späteren Bearbeitung. Das kleinere Akten-ZIP enthält den "
+                 "ursprünglichen Unterlagenbestand mit einem eigenen Ordner für die Grundakte.")
+        trailer = "Das Druckpaket umfasst die vollständige Fallakte als Gesamt-PDF und als einzelne Lesefassungen."
+        english = ("English: Start with the correspondence under `Grundakte/00_Posteingang` in the complete working file. "
+                   "The smaller source ZIP contains the original records. The print bundle includes the complete case.")
+        if slug.startswith("arbeitsrecht-muster-seewerk-"):
+            url = f"{RAW_MAIN}/{KUENDIGUNG_PLUGIN_DOWNLOADS}/testakte-{slug}-anlagen-k1-k14.zip"
+            rows += f"\n| Anlagen K1 bis K14 | ZIP | [Vierzehn geordnete Anlagen-PDFs]({url}) |"
     intake_row = central_row(slug)
     if intake_row:
         rows = intake_row + "\n" + rows

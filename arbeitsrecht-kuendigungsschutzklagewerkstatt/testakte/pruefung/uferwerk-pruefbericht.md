@@ -1,49 +1,19 @@
-# 1. Technischer und redaktioneller Prüfstand Uferwerk
+# Prüfbericht zur Berufungsakte Muster gegen Uferwerk
 
-Prüfdatum: 1. November 2026. Aktenstand: 30. Oktober 2026. Die Fallfiktion dient der eigenen Prüfung einer Berufung; das klageabweisende Urteil ist bewusst angreifbar.
+Die Akte endet am 30. Oktober 2026 mit Einlegung der Berufung. Das Teilnehmerpaket enthält 38 Unterlagen der Vorgeschichte, 34 Dokumente der ersten Instanz und 21 Unterlagen für das Berufungsmandat. Mit dem Aktenverzeichnis sind es 94 PDF-Dateien mit 187 Seiten. Die README.txt steht im Stammverzeichnis des ZIP.
 
-## 1.1. Bestand und Ausgabe
+## Dokumente und Beweisfragen
 
-38 Unterlagen der Vorgeschichte, 34 Dokumente der ersten Instanz und 21 Dokumente nach dem Urteil ergeben 93 Aktenstücke. Mit dem fünfseitigen Aktenverzeichnis umfasst das Paket 94 PDFs und 185 Seiten. Der Arbeitsvertrag hat zehn, das Urteil dreiundzwanzig, die Zeugenvernehmung sieben Seiten. Das ZIP enthält daneben ausschließlich die vorgeschriebene README.txt auf Wurzelebene. Originalformate, Gesamt-PDF, Berufungsbegründung, fertige Erfolgsaussichtenprüfung und Lösungsblatt sind nicht enthalten.
+| Vorgang | Beleg in der Akte | Prüfbare Frage |
+| --- | --- | --- |
+| Einzelanhörung | V35 mit Übergabebogen vom 24. März um 11:05 Uhr | Welche Angaben und Unterlagen erreichten den Vorsitzenden? Wie unterscheiden sich die Rotationsunterlagen von einem Auszug der damaligen CRM-Berechtigungen? |
+| Stellungnahme | V36 mit Postbucheintrag vom 27. März um 13:40 Uhr | Hat der Betriebsrat sich abschließend geäußert und welche Weiterbeschäftigung hat er angesprochen? |
+| Kündigung und Zugang | V37 und V38 | Welche Kündigung hat die Geschäftsführerin erklärt, wann ging sie zu und welche Abschrift lag bei? |
+| Erste Instanz | P01, P02, P10 mit P11 und P13 | Was kann die Klägerin bei Klageerhebung selbst bezeugen? In welchen Punkten ändert die Vorlage der Anhörung den Streitstoff? |
+| Berufung | P27 und N01 bis N21 | Welche erstinstanzlichen Feststellungen und später bekannt gewordenen Unterlagen muss die Prozessvertretung würdigen? |
 
-Der Bestandsnachweis `uferwerk-bestand.json` enthält Seitenzahlen und SHA-256-Prüfsummen der drei Aktenquellen, des Builders, des Satzmoduls, des Quellenledgers, jeder PDF und des ZIP. README.txt beginnt wortgetreu mit dem deutschen und englischen Pflichthinweis; die PDFs enthalten diesen Hinweis nicht. Die Archive sind flach, durchsuchbar und technisch geprüft. Fiktive Kontakte verwenden reservierte .example-Domains.
+## Technische Prüfung
 
-## 1.2. Redaktioneller und rechtlicher Abgleich
+Der [Bestandsnachweis](uferwerk-bestand.json) führt alle Quellen, Produktionsdateien und PDFs mit SHA-256 auf. Die Paketprüfung vergleicht die Dateien mit diesen Werten. Sie prüft außerdem das gerichtliche Rubrum, Anträge, Rechtsmittelfristen, die Belegkette zur Anhörung, den Inhalt der Einzelabsätze, den Empfängerbereich der Kanzleibriefe und die eingebettete Grundschrift. Die beiden Empfangsbelege, das Kündigungsschreiben und der Beginn der Klage wurden zusätzlich als gesetzte Seiten gesichtet.
 
-Der Tatsachenkern des Flyers ist erhalten: Uferwerk, 140 Arbeitnehmer in einem Betrieb, fünfzehn entfallende Designstellen, Lisa Muster mit achtzehn Jahren Betriebszugehörigkeit und zwei Kindern, Vertriebsbeschäftigung und Massenentlassungsverfahren. Anbahnung, Familien- und Erwerbsverlauf, Qualifikation, Stellenbesetzung, Betriebsrat, Kündigung, Prozess und Nachurteilskorrespondenz sind aus der jeweiligen Dokumentperspektive ausgestaltet.
-
-Der Vertrag umfasst rund 4.300 Wörter in zwanzig Ziffern. Anfangsgehalt von 2.800 EUR, Beginn am 1. März 2008, 40 Wochenstunden, Konstanz und der gleichwertige kaufmännische Einsatzrahmen bleiben erhalten. Spätere Gehaltsanpassungen stehen in den Nachträgen. Die Ausarbeitung des Verlagsalltags enthält keine rückdatierte DSGVO-, MiLoG- oder eAU-Regelung. Die für die Bearbeitung maßgeblichen Freistellungs- und Kündigungsregelungen werden als damaliger Vertragsinhalt erhalten.
-
-Neun Prozessdokumente sind substanziell vertieft: Klage, frühe Ergänzung, Erwiderung, Replik, Duplik, Triplik, weitere Stellungnahme, Kammerprotokoll und Urteil. Tatsachen, Beweisangebote, abgestufte Darlegung, Unternehmerentscheidung und tatsächlicher Arbeitswegfall, Vergleichbarkeit, freie Beschäftigung sowie die unterschiedlichen Weiterbeschäftigungsgrundlagen werden getrennt behandelt. Die Beweisaufnahme enthält konkrete Vorhalte und Antworten beider Zeugen. Unbeabsichtigte Behauptungen einer vorhandenen Dateinamenliste wurden korrigiert; die Akte enthält gerade keinen solchen Beleg zum ersten Anzeigeeingang. Die vorgesehenen unzutreffenden gerichtlichen Anwendungen bleiben als Bearbeitungsstoff erhalten.
-
-Vierzehn Entscheidungen und fünf tatsächlich gelesene Literaturtexte sind im gesonderten Vertiefungsledger mit Fundstelle, Zugangsstatus, Verfügbarkeit und Aussagegrenze dokumentiert. Die rechtlichen Nachweise und die zeitliche Verfügbarkeit wurden unabhängig gegengeprüft. Es gibt keine fingierten ErfK-, KR- oder Schaub-Fundstellen. Knapp paraphrasierte Literatur wird sparsam verwendet; auch bei vorsichtiger Zurechnung vollständiger belegter Absätze bleibt jeder der fünf Texte unter zweihundert Wörtern. Es wurden keine eigenständigen wörtlichen Literaturübernahmen festgestellt. Volltextrandnummern der Entscheidungen 2026 erscheinen erst nach ihrer amtlichen Bereitstellung.
-
-Die Gerichtszuordnung und die Bezeichnung der 7. Kammer passen zum Verfahrensort; das Aktenzeichen ist erfunden. Das Urteil wurde vollständig am 14. Oktober 2026 zugestellt. Die Fristnotiz nennt die Einlegungsfrist bis Montag, 16. November, und die Begründungsfrist bis 14. Dezember 2026. Die Berufungsschrift vom 30. Oktober wahrt nur die Einlegungsfrist. Herkunft, frühere Beschaffungsversuche und tatsächliche Verfügbarkeit weiterer Unterlagen bleiben nachvollziehbar.
-
-## 1.3. Satz- und Sichtprüfung
-
-Times New Roman 11 pt ist die Grundschrift. Tabellen verwenden ein gesondertes lesbares Layout. Beide Kanzleien besitzen eigene Wortmarken; Urteil, Niederschriften, gerichtliche Post, interne Verfügung, Vertrag, Unternehmensunterlagen, Mailausdrucke und elektronische Empfangsvermerke haben passende Satzformen. Das Urteilsrubrum steht außerhalb der dezimalen Sachgliederung. Archivkennzeichen V/P/N werden nicht zu angeblichen historischen gerichtlichen Anlagen umetikettiert. Echte Unterschriften, Dienstsiegel und technische Transportzertifikate werden nicht imitiert.
-
-Alle 185 Seiten wurden gerendert und auf sechzehn Kontaktbögen visuell geprüft. Einzelansichten betreffen insbesondere Urteilsanfang und -schluss, Zeugenvernehmung, Vertragsschluss, Anträge, Mailfolgen und Personal-/Einarbeitungstabellen. Erkannte Satzfehler wurden behoben: getrennte Datumsbestandteile, unpassende BR-Absenderfüße, ein vom Nachrichtentext abgetrennter Mailkopf, Inline-Mailtext im Datumsfeld, unsaubere Mailadressentrennung und doppelte Namensabschlüsse. Im Schlussdurchgang wurden alle neun geänderten PDFs erneut gerendert; die übrigen fünfundachtzig PDFs sind bytegleich mit dem bereits vollständig gesichteten Stand. Der Koordinatenabgleich prüft zusätzlich Text außerhalb der Seitenränder.
-
-## 1.4. Automatisierte Prüfung und Reichweite
-
-`scripts/test-uferwerk-berufungsakte.py` prüft Archivbestand und Formatwahl, Quellen-/Produktions-/PDF-Prüfsummen, Seitenzahlen, lesbare Texte, Grundschrift, vollständigen Absatzinhalt nach dem Satz, Quellenledger, zeitgerechte Volltextzitate, Urteilsaufbau und Rubrumsidentitäten, Fristübergaben und das Fehlen eines Begründungsschriftsatzes. Strukturierte Mailfelder werden nach ihrer Aufteilung auf Kopf und Nachrichtentext abgeglichen. Seitenköpfe und Fußzeilen werden bei diesem Absatzvergleich ausgeblendet.
-
-`scripts/test-kuendigungsschutzklagewerkstatt.py` bindet die Akte in den vorhandenen Elf-Skill-/Prompt-/Aktenbestand ein. Der Komponentenrelease umfasst 37 Dateien; das PDF-ZIP entspricht dem geprüften Bestand. Begleitprompts und Fallakten bleiben außerhalb des installierbaren Plugin-ZIP. Die fünf früheren Fallfassungen behalten ihre Dateien und Formate.
-
-Die Prüfung belegt redaktionellen Abgleich, technische Konsistenz und visuelle Qualität. Sie ist kein tatsächlicher Modelllauf mit einer verfassten Berufungsbegründung und kein Testat materieller Richtigkeit des bewusst angreifbaren Urteils.
-
-## 1.5. Versandkorrektur 1.3.1 vom 2. November 2026
-
-Die Korrektur übernimmt „per beA“ ausschließlich aus eigenständigen Zeilen des rohen Empfängerfelds. Die Erkennung erfolgt vor der Adressformatierung; ein erst dabei eingefügter Zeilenumbruch ist kein Versandnachweis. Eine Bitte um künftige eingehende beA-Zustellungen im Text von P06 wird nicht auf den eigenen Versand übertragen. Die ursprünglichen Akten-JSONs, Fall- und Rechtsstandsdaten sowie der Workshoptermin am 12. November 2026 bleiben unverändert.
-
-Der Neubau wurde in der ursprünglichen macOS-Umgebung mit allen vier tatsächlich vorhandenen Times-New-Roman-TTFs unter `/System/Library/Fonts/Supplemental` ausgeführt. Die Regular-, Bold-, Italic- und BoldItalic-Face-Namen wurden geprüft; `UFERWERK_FONT_DIR` bezeichnet dieses Verzeichnis. Es wurde weder eine Ersatzschrift verwendet noch die Schriftprüfung verändert. ZIP und Bestandsnachweis wurden vollständig durch `build-uferwerk-berufungsakte.py` erzeugt, nicht durch manuelles Ändern von Prüfsummen.
-
-Das Archiv enthält weiterhin 94 PDFs mit 185 Seiten und ausschließlich die vorgeschriebene README.txt daneben. ZIP-Struktur, Pflichtwortlaut und Workshopdatum wurden geprüft. Genau zwölf PDFs unterscheiden sich von 1.3.0: N01, N21, P01, P06, P07, P10, P13, P15, P21, P22, P25 und P26. Der Vergleich aller Seiten dieser Dokumente bestätigt unveränderte Seitenzahlen, Texte, Signaturen, Schrift- und Zeichenpositionen außerhalb des entfernten Vermerks. Die übrigen 82 PDFs einschließlich N19 und Aktenverzeichnis sind bytegleich. N19 bleibt die positive Kontrolle mit genau einem Versandvermerk. README.txt und alle drei inhaltlichen Satzquellen sind ebenfalls unverändert.
-
-Alle zwölf betroffenen PDFs sowie N19 wurden vollständig gerendert: 37 Seiten auf vier Kontaktbögen. N01, N21 und N19 wurden zusätzlich einzeln groß geprüft. Kein verbleibender Layoutmangel wurde festgestellt. Die Rendererregression umfasst 26 Fälle einschließlich bloßer Inline-Erwähnungen, anderer Versandarten, Betreff-/Textangaben, beider Kanzleiprofile, Rand-Leerraum, Schreibweisen, mehrfacher Versandzeilen und verschiedener Zeilentrenner. Die alte pauschale Rendererfunktion scheitert an N01; die erste PR-Fassung mit Erkennung nach der Adressformatierung scheitert an der Inline-Anschrift. Die tatsächliche PDF-Empfängerbereichsprüfung weist sämtliche zwölf alten PDFs zurück und akzeptiert die neu erzeugten Fassungen. Die vorhandenen Quellen-, Produktions- und Archiv-SHA-Prüfungen bleiben vollständig aktiv.
-
-Lokal bestanden: Uferwerk-, Komponenten-, Seewerk- und Releasepaketprüfung, Marketplace-Import, YAML-Frontmatter, Pluginstruktur, zentrale Gesamt-PDF-Prüfung, README-Übersicht, Testakten-Downloads, Quality-Audit und Scoped-Release-Routing. Der vollständige Komponentenbau umfasst 37 Dateien; die Prüfsummenliste deckt alle 36 Nutzdateien ab. Die vier unveränderten `needs_review`-Hinweise des Quality-Audits betreffen andere Plugins und sind keine Fehler dieser Korrektur. Der zuvor rote CI-Lauf für den noch nicht regenerierten Stand scheiterte erwartungsgemäß am veralteten Produktionsquellenhash.
-
-SHA-256 des neu erzeugten Uferwerk-ZIP: `03c30683b46c33161e9082961178774bd22593c6a6425eaa71c3f6e41c5036ec`. Veröffentlichung und unabhängiger Downloadabgleich erfolgen über den vorhandenen Komponentenworkflow mit neuem Tag; Version 1.3.0 und ihre Assets werden nicht überschrieben.
+Die Angaben zum Akteninhalt, zum Quellenstand der Rechtsprechung und zu den Prozesspositionen haben unterschiedliche Bezugspunkte. Die Abschnitte V, P und N bezeichnen Aktenstücke, die Anlagenkürzel K und B den jeweiligen Parteivortrag. [Früherer Satz- und Quellennachweis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/673191a67/arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/pruefung/uferwerk-pruefbericht.md)

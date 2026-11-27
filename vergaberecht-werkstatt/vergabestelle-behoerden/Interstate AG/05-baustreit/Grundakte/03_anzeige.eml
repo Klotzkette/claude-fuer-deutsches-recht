@@ -7,9 +7,13 @@ Date: Mon, 07 Sep 2026 07:08:00 +0200
 Message-ID: <b9e4f1627f9f489ddd9e3b9e@fallpost.example>
 Subject: W17-B =?utf-8?q?=C2=B7?= Kolonne ab Montag am Widerlager, Freigabe
  fehlt
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-20c348ad948f475cbed33b89"
+
+--interstate-alt-20c348ad948f475cbed33b89
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Frau R=C3=B6der, heute um 06.52 Uhr war im Projektpostfach weiterhin nur die =
 als Entwurf gekennzeichnete Revision 2 vorhanden. Die Anschlusseisen =C3=A4nd=
@@ -23,3 +27,24 @@ ls der Zufahrtsstreifen frei bleibt, reicht das nach seiner Sch=C3=A4tzung f=
 =C3=BCr zwei Stunden. F=C3=BCr die anschlie=C3=9Fenden Schichten haben wir do=
 rt noch keine Einweisung. Wir werden die Eins=C3=A4tze im Tagesbericht auswei=
 sen und machen die Folgen der ausstehenden Mitwirkung dem Grunde nach geltend.
+
+--interstate-alt-20c348ad948f475cbed33b89
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #3A=
+5571;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Frau R=C3=B6der,=
+ heute um 06.52 Uhr war im Projektpostfach weiterhin nur die als Entwurf geke=
+nnzeichnete Revision 2 vorhanden. Die Anschlusseisen =C3=A4ndern sich am Rand=
+ um mehrere Zentimeter. Wir setzen sie erst nach Ihrer Freigabe. Die drei Mit=
+arbeiter der Westkolonne, die Schalung und der Kran stehen am Bauwerk. Wir bi=
+eten die Arbeiten f=C3=BCr die vereinbarte Schicht an und bitten bis 09.00 Uh=
+r um den freigegebenen Stand.</p><p>Unser Polier versucht zwischenzeitlich, R=
+inge am Schacht Ost vorzuziehen. Falls der Zufahrtsstreifen frei bleibt, reic=
+ht das nach seiner Sch=C3=A4tzung f=C3=BCr zwei Stunden. F=C3=BCr die anschli=
+e=C3=9Fenden Schichten haben wir dort noch keine Einweisung. Wir werden die E=
+ins=C3=A4tze im Tagesbericht ausweisen und machen die Folgen der ausstehenden=
+ Mitwirkung dem Grunde nach geltend.</p></div></body></html>
+
+--interstate-alt-20c348ad948f475cbed33b89--

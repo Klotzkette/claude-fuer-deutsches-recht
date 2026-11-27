@@ -37,30 +37,47 @@
       "§ 287 ZPO – Schadensermittlung",
       "https://www.gesetze-im-internet.de/zpo/__287.html"
     ],
-    ["§ 296 ZPO – Zurückweisung verspäteten Vorbringens", "https://www.gesetze-im-internet.de/zpo/__296.html"]
+    [
+      "§ 296 ZPO – Zurückweisung verspäteten Vorbringens",
+      "https://www.gesetze-im-internet.de/zpo/__296.html"
+    ]
   ],
   "einwendungspruefung": [
-    {"eingabe": "11_schriftsatz_klaegerin_kran.docx", "gegenpruefung": "13_monteur_zur_sperre.eml"},
-    {"eingabe": "11_schriftsatz_klaegerin_kran.docx", "gegenpruefung": "12_gericht_weiterleitung.txt"}
+    {
+      "eingabe": "11_schriftsatz_klaegerin_kran.docx",
+      "gegenpruefung": "13_monteur_zur_sperre.eml"
+    },
+    {
+      "eingabe": "11_schriftsatz_klaegerin_kran.docx",
+      "gegenpruefung": "12_gericht_weiterleitung.txt"
+    }
   ],
   "dokumente": [
     {
       "phase": "Grundakte",
       "datei": "00_klageerwiderung_beweisangebote.eml",
-      "titel": "Schieferbachbrücke · 4 O 217/26 · Wer kann die Einsätze der Westkolonne bezeugen?",
+      "titel": "LG Essen – Erwiderung der AG auf die fünf Warteschichten an der Schieferbachbrücke",
       "datum": "2026-11-16",
-      "von": "Rechtsanwalt Kerem Ünal · Kanzlei Ünal, Prozessbevollmächtigter der Deutschen Interstate AG",
-      "an": "Anke Röder · Deutsche Interstate AG, Niederlassung West, Projektleitung Schieferbachbrücke",
+      "von": "Anke Röder · Deutsche Interstate AG, Niederlassung West, Projektleitung Schieferbachbrücke",
+      "an": "Rechtsanwalt Kerem Ünal · Kanzlei Ünal, Prozessbevollmächtigter der Deutschen Interstate AG",
       "text": [
-        "Guten Tag, Frau Röder,",
-        "Steinbogen verklagt die AG vor dem Landgericht Essen auf 13.787,00 Euro. Der Firma fehlte die Bewehrungszeichnung für das westliche Widerlager. Sie verlangt Geld für fünf Schichten mit Mannschaft, Kran und Schalung sowie für drei weitere Tage Baustelleneinrichtung. Die Verteidigungsanzeige ist am 12. November bei Gericht eingegangen. Die Klageerwiderung ist bis zum 2. Dezember einzureichen.",
-        "Sie bestätigen in Ihrer Stellungnahme den Eingang der freigegebenen Zeichnung am 11. September nach Schichtende. Für die fünf Wartetage ergibt sich kein einheitliches Bild. Herr Kall hat am Mittwoch die Anweisung zum Umladen am Ostschacht über Funk gehört. Wer war dort und kann sagen, ob tatsächlich der für das Widerlager eingeplante Kran eingesetzt wurde? Bitte vermitteln Sie mir den Kontakt und vereinbaren Sie auch mit Herrn Kall einen Rückruf zu seinen eigenen Rundgängen.",
-        "Bitte leiten Sie mir auch die Eingangsbestätigung zur Planfreigabe und, sobald sie eintreffen, die Geräteunterlagen des Vermieters zu. Für den Ansatz von 420 Euro pro Tag brauche ich gesondert Ihre Angaben dazu, wer den Baucontainer nach dem 21. September tatsächlich nutzte. Bitte halten Sie diese Punkte auseinander, wenn Sie im Projektteam nachfragen.",
-        "Mit freundlichen Grüßen\nKerem Ünal"
+        "Guten Tag, Herr Ünal,",
+        "Steinbogen verlangt von uns 13.787,00 Euro für Mannschaft, Kran, Schalung und die längere Baustelleneinrichtung. Die Bewehrungszeichnung für das westliche Widerlager kam am 11. September erst nach Schichtende frei. Das kann ich anhand des Projektpostfachs bestätigen. Ob die Klägerin in jeder der fünf beanspruchten Schichten mit genau diesem Personal und Gerät am Widerlager hätte arbeiten können, kann ich nicht bestätigen.",
+        "Anbei meine heutige Stellungnahme, der vorgesehene Ablauf, die Schichteinträge, die Kostenaufstellung und die gerichtliche Verfügung. Am Mittwoch hat Herr Kall die Anweisung zum Umladen am Ostschacht über Funk gehört. Was er selbst beim Rundgang gesehen hat und wer den Kran dort bedient hat, möchte ich auseinanderhalten. Die Unterlagen des Vermieters sind angefordert. Für die drei zusätzlichen Tage Baustelleneinrichtung müssen wir klären, wer den Container nach dem 21. September tatsächlich nutzte.",
+        "Die Verteidigungsanzeige ist am 12. November bei Gericht eingegangen. Können Sie uns bis 25. November einen Entwurf der Klageerwiderung zur Abstimmung schicken? Die Gerichtsfrist endet am 2. Dezember. Bitte ordnen Sie jeder streitigen Schicht Kosten und Beweisangebote zu. Für die Projektleitung brauche ich daneben Ihre Einschätzung, welchen Betrag die Akte trägt und welche Rückfragen ich mit Herrn Kall und dem Projektteam vor Einreichung klären muss.",
+        "Mit freundlichen Grüßen\nAnke Röder"
       ],
-      "absender": "k.uenal@kanzlei-uenal.example",
-      "empfaenger": "a.roeder@interstate.example",
-      "uhrzeit": "16:45"
+      "absender": "a.roeder@interstate.example",
+      "empfaenger": "k.uenal@kanzlei-uenal.example",
+      "uhrzeit": "16:45",
+      "anlagen": [
+        "06_klage.docx",
+        "07_verfuegung.docx",
+        "08_erwiderung_projektteam.docx",
+        "02_sollablauf.xlsx",
+        "04_schichten.xlsx",
+        "05_kostennachweis.xlsx"
+      ]
     },
     {
       "phase": "Grundakte",

@@ -75,12 +75,43 @@ def _fox(canvas):
     nose.close()
     canvas.drawPath(nose, fill=1, stroke=0)
     canvas.circle(33.9, 28.7, 0.7, stroke=0, fill=1)
+    # Ein gewebtes Halstuch betont die Schulterlinie und die aufrechte Silhouette.
+    _ink(canvas, "#633829")
+    scarf = canvas.beginPath()
+    scarf.moveTo(18.6, 24.8)
+    scarf.curveTo(23, 23.0, 27.2, 21.7, 30.7, 22.0)
+    scarf.lineTo(30.0, 20.6)
+    scarf.curveTo(26, 20.1, 22.3, 21.0, 18.9, 22.6)
+    scarf.lineTo(14.1, 17.5)
+    scarf.lineTo(15.0, 21.7)
+    scarf.close()
+    canvas.drawPath(scarf, fill=1, stroke=0)
+    canvas.setStrokeColor(colors.HexColor("#C97449"))
+    canvas.setLineWidth(0.8)
+    tail = canvas.beginPath()
+    tail.moveTo(7.0, 12.0)
+    tail.curveTo(10.1, 8.2, 16.8, 7.1, 21.8, 9.0)
+    canvas.drawPath(tail)
 
 
 def _iz(canvas):
     # Die Negativform des Z bleibt auch im Schwarzweiß-Ausdruck sichtbar.
     _ink(canvas, "#17394D")
-    canvas.roundRect(2, 4, 35, 34, 2, stroke=0, fill=1)
+    folder = canvas.beginPath()
+    folder.moveTo(2, 4)
+    folder.lineTo(2, 37.5)
+    folder.lineTo(28, 37.5)
+    folder.lineTo(37, 28.5)
+    folder.lineTo(37, 4)
+    folder.close()
+    canvas.drawPath(folder, stroke=0, fill=1)
+    _ink(canvas, "#72B6AE")
+    fold = canvas.beginPath()
+    fold.moveTo(28, 37.5)
+    fold.lineTo(28, 29)
+    fold.lineTo(36.5, 29)
+    fold.close()
+    canvas.drawPath(fold, stroke=0, fill=1)
     _ink(canvas, "#FFFFFF")
     canvas.rect(8, 11, 3.1, 19, stroke=0, fill=1)
     zed = canvas.beginPath()
@@ -97,10 +128,12 @@ def _iz(canvas):
     zed.close()
     canvas.drawPath(zed, fill=1, stroke=0)
     _ink(canvas, "#287C80")
-    canvas.rect(38.5, 4, 2.3, 34, stroke=0, fill=1)
+    canvas.rect(2, 2, 35, 1.5, stroke=0, fill=1)
 
 
 def _bc(canvas):
+    _ink(canvas, "#F3EEEA")
+    canvas.roundRect(0.7, 0.8, 41, 40, 2.0, fill=1, stroke=0)
     # Zwei gezeichnete Initialen: durchgehender Stamm des B, offener Bogen des C.
     canvas.setLineCap(1)
     canvas.setLineWidth(1.7)
@@ -171,53 +204,101 @@ def _write(canvas, x, y, text, font, size, color):
     canvas.drawString(x, y, text)
 
 
-def draw_letterhead(canvas, *, sender, page_number, page_count, page_size, document_kind, header_lines):
-    """Ersetzt den Originalkopf; Adressfenster und Textkörper zeichnet der Aufrufer."""
+def _block(canvas, x, y, width, height, color):
+    _ink(canvas, color)
+    canvas.rect(x, y, width, height, fill=1, stroke=0)
+
+
+def _footer(canvas, lines, left, right, accent, tinted):
+    if not lines:
+        return
+    _block(canvas, left - 8, 18, 2.2, 29, accent)
+    _rule(canvas, left, right, 54, tinted)
+    for index, line in enumerate(lines):
+        _write(canvas, left, 42 - index * 10.3, line, "Helvetica", 7.7, GREY)
+
+
+def _fold_marks(canvas, height):
+    # Falt- und Lochmarke liegen außerhalb des Fenster- und Textbereichs.
+    for from_top, length in ((297.6, 10), (height / 2, 14), (595.3, 10)):
+        _rule(canvas, 16, 16 + length, height - from_top, "#A7AEAD", 0.5)
+
+
+def draw_letterhead(canvas, *, sender, page_number, page_count, page_size, document_kind, header_lines,
+                    address_window=False):
+    """Setzt Register, Korrespondenz, Kanzleibogen oder internen Formularbogen."""
     width, height = page_size
     left, right = 77, width - 77
     lines = tuple(header_lines)
     canvas.saveState()
     if page_number > 1:
-        name, ink, _ = BRANDS.get(sender, ("", DARK, PALE))
-        _write(canvas, left, height - 41, name, "Helvetica", 9, ink)
-        _rule(canvas, left, right, height - 49, PALE)
+        name, ink, accent = BRANDS[sender]
+        draw_signet(canvas, sender, left - 1, height - 51, 0.47)
+        _write(canvas, left + 27, height - 42, name, "Helvetica", 9, ink)
+        _rule(canvas, left, right, height - 58, PALE)
+        _rule(canvas, right - 44, right, height - 58, accent, 1.4)
     elif document_kind == "email":
-        # Druckansicht des Postfachs: unabhängig vom Absender der E-Mail.
-        canvas.setLineWidth(1)
-        canvas.setStrokeColor(colors.HexColor(GREY))
-        y = height - 68
-        canvas.rect(left, y, 16, 11)
+        y = height - 72
+        _block(canvas, left, y - 13, right - left, 46, "#F0F3F5")
+        _block(canvas, left, y - 13, 3, 46, "#587486")
+        canvas.setLineWidth(0.9)
+        canvas.setStrokeColor(colors.HexColor("#465C6B"))
+        canvas.roundRect(left + 13, y + 3, 19, 13, 1.2)
         fold = canvas.beginPath()
-        fold.moveTo(left, y + 11)
-        fold.lineTo(left + 8, y + 4.5)
-        fold.lineTo(left + 16, y + 11)
+        fold.moveTo(left + 13, y + 16)
+        fold.lineTo(left + 22.5, y + 8.5)
+        fold.lineTo(left + 32, y + 16)
         canvas.drawPath(fold)
-        _write(canvas, left + 26, y, lines[0], "Helvetica-Bold", 14, DARK)
-        for index, line in enumerate(lines[1:]):
-            _write(canvas, left, y - 12 - 9 * index, line, "Helvetica", 8, GREY)
-        _rule(canvas, left, right, height - 91, PALE)
+        _write(canvas, left + 45, y + 2, lines[0], "Helvetica-Bold", 15, DARK)
     elif document_kind == "register":
-        # Titel und Geschäftszeichen entsprechen dem bestehenden Aktenverzeichnis.
-        _rule(canvas, left, right, height - 44, DARK, 1.2)
-        _write(canvas, left, height - 71, lines[0], "Times-Bold", 18, DARK)
-        for index, line in enumerate(lines[1:]):
-            _write(canvas, left, height - 92 - 11 * index, line, "Helvetica", 9, GREY)
+        _block(canvas, 42, height - 108, width - 84, 68, "#F0F3F4")
+        _block(canvas, 42, height - 108, 4, 68, "#375361")
+        _write(canvas, 59, height - 69, lines[0], "Times-Bold", 18, DARK)
+        _write(canvas, 59, height - 90, lines[1], "Helvetica", 9.3, GREY)
     else:
         _, ink, accent = BRANDS[sender]
-        # Im Geschäftsbrief tritt die Marke stärker hervor als in Vermerk und Schriftsatz.
-        scale = 0.88 if document_kind in ("prozess", "intern") else 1.08
-        draw_brand(canvas, sender, left, height - 84, scale, label=lines[0])
-        _rule(canvas, left, right, height - 99, PALE)
-        _rule(canvas, left, left + 34, height - 99, accent, 1.7)
-        # Anschrift unter dem Logo, Geschäfts- und Zahlungsangaben im Fuß des Blatts.
+        if document_kind == "intern":
+            # Der schmale Ablagekopf lässt die fallbezogenen Felder des Vermerks dominieren.
+            tint = "#EAF0F2" if sender == "inkasso" else "#F4EFEC"
+            _block(canvas, left - 10, height - 92, right - left + 20, 52, tint)
+            _block(canvas, left - 10, height - 92, 3, 52, accent)
+            draw_brand(canvas, sender, left + 2, height - 83, 0.88, lines[0])
+        elif sender == "modefuchs":
+            # Briefpapier des Modehauses mit der Nahtlinie der Wortbildmarke.
+            _block(canvas, 0, height - 98, width, 98, "#F8F2E9")
+            _rule(canvas, 0, width, height - 98, "#D3AB92", 0.55)
+            canvas.saveState()
+            canvas.setDash(3, 3)
+            _rule(canvas, 0, width, height - 94, "#DFC8B7", 0.45)
+            canvas.restoreState()
+            draw_brand(canvas, sender, left - 5, height - 80, 1.29, lines[0])
+        elif sender == "inkasso":
+            _block(canvas, left, height - 84, 4, 45, accent)
+            draw_brand(canvas, sender, left + 12, height - 84, 1.05, lines[0])
+            _rule(canvas, left, right, height - 96, "#C5D4D8")
+        elif sender == "kanzlei":
+            # Klassischer zweifarbig gesetzter Kanzleibogen.
+            draw_brand(canvas, sender, left - 2, height - 85, 1.11, lines[0])
+            _rule(canvas, left, right, height - 96, accent, 0.9)
+            _rule(canvas, left, right, height - 99, "#BEB0A8", 0.35)
+        else:
+            _block(canvas, left, height - 89, right - left, 51, "#EAF2ED")
+            _block(canvas, left, height - 89, right - left, 2.3, accent)
+            draw_brand(canvas, sender, left + 10, height - 83, 0.96, lines[0])
+
         header_count = 3 if sender == "kanzlei" else 2
-        for index, line in enumerate(lines[1:header_count]):
-            _write(canvas, left, height - 113 - index * 12, line, "Helvetica", 8.6, ink)
-        footer = lines[header_count:]
-        if footer:
-            _rule(canvas, left, right, 55, PALE)
-            for index, line in enumerate(footer):
-                _write(canvas, left, 42 - index * 10.4, line, "Helvetica", 7.4, GREY)
+        # Die unveränderte Adress-/Registerzeile sitzt beim Geschäftsbrief direkt
+        # über dem Empfängerfenster. Sie ist zugleich die Rücksendeangabe.
+        for index, line in enumerate(lines[1:header_count], start=1):
+            if address_window and index == header_count - 1:
+                size = 7.6
+                _write(canvas, left, height - 146, line, "Helvetica", size, ink)
+                _rule(canvas, left, left + canvas.stringWidth(line, "Helvetica", size), height - 150, PALE)
+            else:
+                _write(canvas, left, height - 114 - 12 * (index - 1), line, "Helvetica", 8.6, ink)
+        if document_kind in ("brief", "prozess"):
+            _fold_marks(canvas, height)
+        _footer(canvas, lines[header_count:], left, right, accent, "#CDD2D0")
     if page_count > 1:
         canvas.setFont("Helvetica", 7.5)
         _ink(canvas, GREY)

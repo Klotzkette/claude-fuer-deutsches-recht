@@ -7,9 +7,13 @@ Date: Mon, 12 Oct 2026 11:20:00 +0200
 Message-ID: <647fef09c18d8b54b631a412@fallpost.example>
 Subject: =?utf-8?q?Ma=C3=9Fnahmenblatt_Werkhof_=C2=B7_R=C3=BCckmeldung?= zur
  Voranfrage am 12. Oktober
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-2bc0857e66fc8653479478aa"
+
+--interstate-alt-2bc0857e66fc8653479478aa
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Das Ma=C3=9Fnahmenblatt VS-17 passt nach hiesiger Vorpr=C3=BCfung r=C3=A4umli=
 ch und funktional grunds=C3=A4tzlich zum Gr=C3=BCnlandbedarf. Eine Zuordnung =
@@ -27,3 +31,28 @@ plan, langfristige Sicherung und fachlich best=C3=A4tigter Aufwertungsumfang.=
  Ausf=C3=BChrung und Einbuchung sind nicht best=C3=A4tigt. Bitte legen Sie un=
 sere Stellungnahme der Bauaufsicht der Stadt Borken vor. =C3=9Cber die Nebenb=
 estimmung ihrer Baugenehmigung entscheidet die Stadt.
+
+--interstate-alt-2bc0857e66fc8653479478aa
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #38=
+4C64;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Das Ma=C3=9Fnahm=
+enblatt VS-17 passt nach hiesiger Vorpr=C3=BCfung r=C3=A4umlich und funktiona=
+l grunds=C3=A4tzlich zum Gr=C3=BCnlandbedarf. Eine Zuordnung ist noch nicht v=
+ollzogen; wir ben=C3=B6tigen Zustimmung der Eigent=C3=BCmerin, frei verf=C3=
+=BCgbaren Saldo und genaue Angabe der Teilmengen. Der Kontostand von Septembe=
+r best=C3=A4tigt allein noch keine Verf=C3=BCgungsbefugnis =C3=BCber 180.000 =
+Einheiten.</p><p>Gescher und Velen liegen wie Borken in K 01. Der in der Erku=
+ndung genannte Standort Bocholt liegt in K 02. Eine von benachbarten Kreisen =
+bzw. kreisfreien St=C3=A4dten getragene abweichende projektbezogene Festlegun=
+g f=C3=BCr Grenzlagen ist f=C3=BCr dieses Projekt nicht dokumentiert. F=C3=BC=
+r Gescher fehlen uns Flurst=C3=BCck und Ma=C3=9Fnahmenkennung. Bei Velen fehl=
+en Ma=C3=9Fnahmenplan, langfristige Sicherung und fachlich best=C3=A4tigter A=
+ufwertungsumfang. Ausf=C3=BChrung und Einbuchung sind nicht best=C3=A4tigt. B=
+itte legen Sie unsere Stellungnahme der Bauaufsicht der Stadt Borken vor. =C3=
+=9Cber die Nebenbestimmung ihrer Baugenehmigung entscheidet die Stadt.</p></d=
+iv></body></html>
+
+--interstate-alt-2bc0857e66fc8653479478aa--

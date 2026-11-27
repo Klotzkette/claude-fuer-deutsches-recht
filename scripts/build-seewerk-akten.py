@@ -41,8 +41,6 @@ ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "arbeitsrecht-kuendigungsschutzklagewerkstatt"
 DATA = ROOT / "scripts/data/seewerk-kern.json"
 EXPANSION = ROOT / "scripts/data/seewerk-ergaenzungen.json"
-TAG = "arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0"
-BASE = f"https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/{TAG}"
 SLUGS = ["arbeitsrecht-muster-seewerk-konzept-radolfzell", "arbeitsrecht-muster-seewerk-lebensakte-radolfzell"]
 STAMP = (2026, 10, 22, 12, 0, 0)
 FONTS = Path(os.environ.get("CISG_FONT_DIR", "/System/Library/Fonts/Supplemental"))
@@ -355,7 +353,7 @@ def annex_pdf(writer, number):
     return stream.getvalue()
 
 
-def downloads(slug, prefix=BASE+"/"):
+def downloads(slug, prefix="downloads/"):
     total = prefix + slug + "_gesamt.pdf" if prefix == "downloads/" else "gesamt-pdf/" + slug + "_gesamt.pdf"
     return f"""{NOTICE_MARKDOWN}
 
@@ -371,27 +369,36 @@ def write_register():
     small = json.loads((ROOT / "scripts/data/kuendigungsschutz-akten.json").read_text(encoding="utf-8"))
     reports = json.loads((PLUGIN / "testakte/pruefung/seewerk-bestand.json").read_text(encoding="utf-8"))
     sections = []
+    basis = module("build-kuendigungsschutz-akten")
     for number, case in enumerate(small, 1):
         slug = case["slug"]
         sections.append(f"## 1.{number}. {case['title']}\n\n{case['summary']}\n\n"
                         f"[Originale und Verzeichnis](../../testakten/{slug}/README.md)\n\n"
-                        + module("build-kuendigungsschutz-akten").download_table(case))
+                        + basis.download_table(case) + "\n\n" + basis.process_download(slug, "downloads/"))
     for number, report in enumerate(reports, 4):
         slug = report["slug"]
         sections.append(f"## 1.{number}. {report['title']}\n\n"
                         f"{report['documents']} Originale, {report['pages']} PDF-Seiten, vierzehn logische Kernanlagen. "
                         "Simulierter Bearbeitungstag: 23.11.2026.\n\n"
                         f"[Originale und Dokumentenverzeichnis](../../testakten/{slug}/README.md)\n\n"
-                        + downloads(slug, "downloads/"))
+                        + downloads(slug, "downloads/") + "\n\n" + basis.process_download(slug, "downloads/"))
+    ufer = json.loads((PLUGIN / "testakte/pruefung/uferwerk-bestand.json").read_text(encoding="utf-8"))
+    sections.append(
+        "## 1.6. Muster gegen Uferwerk - Berufungsakte\n\n"
+        f"{ufer['documents']} Aktenstücke und ein Aktenverzeichnis, {ufer['pdf_files']} PDFs und "
+        f"{ufer['pages']} Seiten. Vom Arbeitsvertrag über die erste Instanz bis zur Berufungseinlegung. "
+        "[Fallbeschreibung und Benutzung](uferwerk-berufung/README.md).\n\n"
+        + NOTICE_MARKDOWN + "\n\n[Uferwerk-PDF-Akte als ZIP](downloads/testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip)"
+    )
     text = """# 1. Kündigungsschutz Aktenregister
 
-Drei kleine Arbeitsakten und zwei Fassungen des großen Kündigungsschutzmandats Muster / Seewerk. Jede Fassung liefert eine Gesamt-PDF, ein flaches ZIP mit einer PDF je tatsächlichem Dokument und ein flaches ZIP der nativen Originale. Bei Seewerk steht zusätzlich ein ausdrücklich gebündelter Anlagen-Satz mit genau K1 bis K14 bereit.
+Die drei Arbeitsakten beginnen am 22. Oktober 2026, die beiden Fassungen Muster gegen Seewerk am 23. November 2026. Bearbeiten Sie zunächst die Unterlagen zum Mandatsbeginn. In der jeweiligen Prozesslieferung folgen Schriftstücke der Betriebsparteien, die Kündigungsschutzklage und die Erwiderung. Bei Uferwerk führt die Akte von der Beschäftigung der Grafikdesignerin bis zur Berufungseinlegung.
 
-Die drei kleinen Akten haben den Aktenstand 22.10.2026 und bleiben unverändert. Die beiden Seewerk-Fassungen verwenden den simulierten Bearbeitungstag 23.11.2026. Der tatsächliche Quellenprüfstand ist 22.10.2026. Das [Referentenmaterial](../referentenmaterial/README.md) bleibt vollständig außerhalb der Akten-Downloads.
+Pro Jahrgang und Arbeitgeber unterscheiden sich die Anhörungsunterlagen, die Zugangsnachweise und die rechtserheblichen Streitpunkte. Das [Referentenmaterial](../referentenmaterial/README.md) ist getrennt erhältlich.
 
 <!-- reserved-example-contacts -->
 
-Personen, Unternehmen, Anschriften und Vorgangsnummern sind erfunden. Kontaktadressen verwenden reservierte .example-Domains. Die App-Bilder sind Rekonstruktionen einer erfundenen Oberfläche. Kein Download enthält Lösungsblätter oder nachträglich erfundene Gerichtsentscheidungen. README.txt steht in jedem ZIP zuerst; in den PDFs steht kein Warnhinweis. Alle folgenden Links führen auf vorhandene lokale Dateien.
+Personen, Unternehmen und Aktenzeichen der Fälle sind erfunden. Die ZIP-Archive enthalten den zweisprachigen Hinweis in README.txt.
 
 """ + "\n\n".join(sections) + "\n"
     (PLUGIN / "testakte/README.md").write_text(text, encoding="utf-8")
@@ -400,6 +407,7 @@ Personen, Unternehmen, Anschriften und Vorgangsnummern sind erfunden. Kontaktadr
 def build():
     source=json.loads(DATA.read_text(encoding="utf-8"))
     expanded=json.loads(EXPANSION.read_text(encoding="utf-8"))
+    reviewed = json.loads((ROOT / "quality/seewerk-quellenauszuege.json").read_text(encoding="utf-8"))["documents"]
     basis=module("build-kuendigungsschutz-akten")
     fonts=basis.configure_office_fonts()
     cisg=module("build-cisg-akten")
@@ -433,6 +441,8 @@ def build():
             path=directory/item["filename"]
             suffix=path.suffix
             additions=expanded["core_additions"].get(item["key"],[]) if variant else []
+            if item["key"] == "K11_Kuendigung":
+                additions = [*additions, "Die gesonderte Anhörung des Betriebsrats zur beabsichtigten Beendigung haben wir am 2. November eingeleitet. Die Personalabteilung führt das Anhörungsschreiben und die Antwort in der Personalakte."]
             if suffix==".docx":
                 write_docx(path,item,additions)
             elif suffix==".eml":
@@ -442,7 +452,14 @@ def build():
             elif suffix==".txt":
                 path.write_text(item["sender"]+"\n"+item["title"]+"\n"+item["date"]+"\n\n"+"\n\n".join(block["text"] for block in item["blocks"])+"\n",encoding="utf-8")
             elif suffix==".pdf":
-                path.write_bytes(paragraph_pdf(item))
+                seal = reviewed.get(path.relative_to(ROOT).as_posix())
+                if seal:
+                    # Ein archivierter PDF-Beleg ist selbst die Quelle. Ein neuer
+                    # PDF-Satz würde seine dokumentierte Byteidentität aufheben.
+                    if hashlib.sha256(path.read_bytes()).hexdigest() != seal["sha256"]:
+                        raise ValueError(f"Geprüfter PDF-Quellbeleg verändert: {path}")
+                else:
+                    path.write_bytes(paragraph_pdf(item))
             elif suffix==".csv":
                 with path.open("w",encoding="utf-8-sig",newline="") as stream:
                     csv.writer(stream,delimiter=";").writerows(item["rows"])
@@ -492,21 +509,21 @@ Arbeitsunterlagen zum Kündigungsschutzmandat eines Schichtleiters in Radolfzell
 
 {len(items)} Originaldateien, {len(writer.pages)} PDF-Seiten, vierzehn logische Kernanlagen. Im Einzel-PDF-ZIP ist jedes eigenständige Dokument eine eigene PDF-Datei. Der zusätzliche Anlagen-Satz bündelt dagegen bewusst genau K1 bis K14; Ergänzungen außerhalb dieser Nummerierung sind dort nicht enthalten. Der Gesamtband enthält alle Dokumente in der unten bezeichneten Reihenfolge.
 
-Die persönlichen Zusatzangaben aus dem Mandantengespräch und die rechtliche Gegenprüfung stehen nur im getrennten Referentenmaterial des Plugins. Sie werden keinem dieser Downloads beigelegt. Es sind keine Musterklage, Bewertung, Lösungsmatrix oder späteren Gerichtsentscheidungen enthalten. Eine Anlagenzuordnung ist kein vorweggenommener Klageentwurf.
+Die persönlichen Zusatzangaben aus dem Mandantengespräch und die rechtliche Gegenprüfung stehen nur im getrennten Referentenmaterial des Plugins. Sie werden keinem dieser Downloads beigelegt. Der Parteivortrag zur Kündigung folgt in der gesonderten Prozesslieferung.
 
 <!-- reserved-example-contacts -->
 
 Alle Personen, Unternehmen, Anschriften und Vorgangsnummern sind erfunden. Kontaktadressen verwenden reservierte .example-Domains. Die App-Ansichten sind Rekonstruktionen einer erfundenen Oberfläche und keine Aufnahmen eines realen Kontos. Originale und PDFs enthalten bewusst die unterschiedlichen Tatsachenbehauptungen ihrer jeweiligen Absender.
 
-<!-- BEGIN gesamt-pdf-section (autogen) -->
-
-## 1.2. Downloads
-
-{downloads(slug)}
-
-<!-- END gesamt-pdf-section (autogen) -->
+{module("inject-gesamt-pdf-section").section_block(slug, "gesamt-pdf/" + slug + "_gesamt.pdf", True).strip()}
 
 Die Einzel-PDF- und Anlagen-ZIPs haben ein flaches Verzeichnis. README.txt steht zuerst und enthält den zweisprachigen Hinweis. PDFs enthalten weder Warnhinweis noch Lösungsseiten. Native Dateien sind zusätzlich einzeln unten zugänglich; der Gehaltsstand von 2025 ist nicht in die unterschriebene Änderungsvereinbarung von 2019 hineindatiert.
+
+### Prozessunterlagen
+
+Die Prozesslieferung enthält die Kopien aus der Betriebsratsakte sowie den wechselseitigen Parteivortrag vor dem Arbeitsgericht Villingen-Schwenningen, Kammern Radolfzell.
+
+{basis.process_download(slug, '../../arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads/')}
 
 ## 1.3. Dokumentenverzeichnis
 

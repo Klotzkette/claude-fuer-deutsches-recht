@@ -6,9 +6,13 @@ Date: Mon, 23 Nov 2026 16:18:00 +0100
 Message-ID: <6b184bc3d0357bb361c684d4@fallpost.example>
 Subject: Abschlag 4 =?utf-8?q?=C2=B7_vorl=C3=A4ufiger_Pr=C3=BCfansatz_f?=
  =?utf-8?q?=C3=BCr?= die Besprechung
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-0331b94269ebc94a1bc97add"
+
+--interstate-alt-0331b94269ebc94a1bc97add
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Frau T=C3=BCrk, wir haben die am 19. November aufgenommenen 124 m Mantel und =
 44 m Verbreiterung f=C3=BCr die Rechenpr=C3=BCfung =C3=BCbernommen. F=C3=BCr =
@@ -26,3 +30,26 @@ Status des angeforderten Abschlags. Eine Schlusszahlung oder eine Freigabe f=
 worten Sie unmittelbar an die Vertragsleitung.
 
 Farid Kemper
+
+--interstate-alt-0331b94269ebc94a1bc97add
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #17=
+4A61;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Frau T=C3=BCrk, =
+wir haben die am 19. November aufgenommenen 124 m Mantel und 44 m Verbreiteru=
+ng f=C3=BCr die Rechenpr=C3=BCfung =C3=BCbernommen. F=C3=BCr die zus=C3=A4tzl=
+iche Sicherung k=C3=B6nnen wir derzeit nur die zweite mobile Tafel am 13. Nov=
+ember verfolgen. Weder bei den =C3=BCbrigen N=C3=A4chten noch bei den 16 Ger=
+=C3=A4testunden kann die Abrechnung alle im Nachtrags-LV angesetzten Kosten v=
+on Leistungen des Hauptauftrags trennen. Vor einer vorl=C3=A4ufigen Freigabe =
+brauchen wir Ihre Zuordnung.</p><p>Die vier Grundsicherungen aus Position 01.=
+40 bleiben im Pr=C3=BCflauf der Hauptrechnung. Die Abrechnungsstelle hat den =
+Nachtragsanteil von 16.950,40 EUR bis zur Besprechung auf =E2=80=9ER=C3=BCckf=
+rage=E2=80=9C gesetzt. Das ist der Status des angeforderten Abschlags. Eine S=
+chlusszahlung oder eine Freigabe f=C3=BCr die n=C3=A4chste Schicht habe ich d=
+amit nicht erkl=C3=A4rt. Bitte antworten Sie unmittelbar an die Vertragsleitu=
+ng.</p><p>Farid Kemper</p></div></body></html>
+
+--interstate-alt-0331b94269ebc94a1bc97add--

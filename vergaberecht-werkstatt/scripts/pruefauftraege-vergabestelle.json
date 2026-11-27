@@ -1,0 +1,123 @@
+{
+  "01-reinigung-grundschule-musterstadt": {
+    "zeit": "2026-08-17T15:20",
+    "von": "Zentrale Vergabestelle der Stadt Musterstadt <vergabe@stadt-musterstadt.example>",
+    "an": "Rechtsamt der Stadt Musterstadt <rechtsamt@stadt-musterstadt.example>",
+    "betreff": "Schulreinigung · VS-2026-RE-014 · Rüge wegen 0,67 Punkten Vorsprung",
+    "text": [
+      "Guten Tag ins Rechtsamt,",
+      "wir haben StadtGlanz am 13. August mitgeteilt, dass CleanCampus die Grundschule reinigen soll. Heute beanstandet die Kanzlei der Zweitplatzierten die Punkte für die Vertretung bei Personalausfall und die gemeinsamen Qualitätsbegehungen. Im Vermerk liegen beide Unternehmen nur 0,67 Punkte auseinander. Die Schulleitung möchte den Beginn der Reinigung disponieren. Einen Auftrag habe ich nicht ausgelöst.",
+      "Ich schicke Ihnen die Rüge, unsere Vorabinformation und die Wertungsmatrix. Bitte geben Sie mir bis morgen Mittag eine mitzeichnungsfähige Stellungnahme. Wo lässt sich in den veröffentlichten Vorgaben und den Einzelbewertungen nachweisen, was wir für die Reservebesetzung oder den Begehungsturnus verlangt haben? Benennen Sie die Stelle, die ich bei der Wertungsgruppe noch anfordern muss, wenn der Auszug das nicht trägt.",
+      "Für die Antwort an StadtGlanz brauche ich einen Text, der den Einwand zur Punktevergabe konkret beantwortet. Bitte sagen Sie mir zugleich, ob die vorgesehene Zuschlagsentscheidung bestehen kann und wann wir darüber wieder befinden dürfen.",
+      "Viele Grüße\nZentrale Vergabestelle · Stadt Musterstadt"
+    ],
+    "anlagen": [
+      "eml/08_ruege_wertungsdokumentation.eml",
+      "eml/07_informationsschreiben_134_gwb.eml",
+      "xlsx/06_wertungsmatrix_vergabevermerk.xlsx"
+    ]
+  },
+  "02-laptopbeschaffung-landesamt-musterland": {
+    "zeit": "2026-07-03T09:05",
+    "von": "Vergabestelle des Landesamts für Digitalisierung <vergabe@lad-musterland.example>",
+    "an": "Fachbereich IT-Betrieb des Landesamts <it-betrieb@lad-musterland.example>",
+    "betreff": "800 Dienstlaptops · LAD-IT-2026-044 · Servicepunkte vor Versand gegenlesen",
+    "text": [
+      "Guten Morgen in den IT-Betrieb,",
+      "wir bereiten die Zuschlagsentscheidung für die 800 Dienstlaptops mit Docking und 36 Monaten Vor-Ort-Service vor. Im Wertungsvermerk vom 2. Juli liegen NordDevice mit 93,45 und OfficeTech mit 93,40 Punkten fast gleichauf. Für eine tragfähige Entscheidung brauche ich vor allem die zugesagten Austauschzeiten und die Ersatzteilbevorratung für unsere Außenstellen.",
+      "Bitte prüfen Sie bis Montag, 6. Juli, 12 Uhr, die Servicepunkte in der angehängten Tabelle gegen die verbindlichen Angebotsstellen und den Maßstab der Leistungsbeschreibung. Unsere veröffentlichte Antwort zur Gleichwertigkeit der Dockinglösung liegt bei. Wenn bei den Geräten ein Unterschied gewertet wurde, brauche ich die genaue technische Anforderung und den angebotenen Nachweis.",
+      "Bitte stellen Sie im Vermerk je Unternehmen den zugesagten Service, den Punktansatz und die Auswirkung einer erforderlichen Korrektur gegenüber. Die Vergabestelle entscheidet anschließend, welche Wertung sie freigibt und welche Gründe sie den unterlegenen Bietern mitteilt.",
+      "Freundliche Grüße\nEinkauf IT · Landesamt für Digitalisierung Musterland"
+    ],
+    "anlagen": [
+      "xlsx/05_pruefvermerk_angebote_wertung.xlsx",
+      "docx/02_leistungsbeschreibung_produktneutral.docx",
+      "eml/04_bieterfrage_markenbezug.eml"
+    ]
+  },
+  "03-bauleistung-stadthalle-musterstadt": {
+    "zeit": "2026-06-22T09:15",
+    "von": "Vergabestelle Hochbau der Stadt Musterstadt <vergabe@hochbau-musterstadt.example>",
+    "an": "Fachplanung Dach und Ausbau <fachplanung@hochbau-musterstadt.example>",
+    "betreff": "Stadthalle · HB-STH-2026-019 · Dachfensterposition vor Ablauf der Angebotsfrist",
+    "text": [
+      "Guten Morgen,",
+      "Hochbau Mustermann hat am Samstag die Dachfenstervorgabe für die Sanierung der Stadthalle gerügt. In Pos. 03.02.140 des Loses Trockenbau und Dachfenster stehen 24 Stück des Typs Velux GGU MK08. Die Firma möchte ein anderes System kalkulieren und fragt, nach welchen Merkmalen wir dessen Eignung beurteilen würden. Die Angebotsfrist endet am 15. Juli um 12 Uhr.",
+      "Sie erhalten die eingegangene Rüge und den X83-Auszug zum Los. Bitte schicken Sie mir bis Mittwoch, 24. Juni, die aus dem Bestand folgenden Einbaumaße und die technisch notwendigen Anforderungen an Anschluss, Wärme- und Brandschutz. An welcher Zeichnung oder Aufnahme können wir das belegen? Wo besteht Spielraum für ein anderes Fabrikat?",
+      "Für die Vergabestelle brauche ich eine begründete Stellungnahme und, falls der Text anzupassen ist, den vollständigen Ersatz für diese LV-Position. Bitte weisen Sie aus, was dann in der Bieterantwort, in der Datei für alle Unternehmen und beim Angebotstermin geändert werden müsste.",
+      "Viele Grüße\nStadt Musterstadt · Fachbereich Hochbau"
+    ],
+    "anlagen": [
+      "eml/03_ruegeschreiben_markenbezug.eml",
+      "gaeb/lv_stadthalle_x83.xml"
+    ]
+  },
+  "04-it-beratung-ministerium-musterland": {
+    "zeit": "2026-07-13T09:10",
+    "von": "Vergabestelle des Ministeriums <vergabestelle@innen-musterland.example>",
+    "an": "Referat Informationssicherheit und Rechtsreferat <vergabepruefung@innen-musterland.example>",
+    "betreff": "IT-Sicherheitsberatung · Bewerberauswahl nach Entfernung zum Ministerium",
+    "text": [
+      "Guten Morgen zusammen,",
+      "Beratung Mustertal hat am Freitag beanstandet, dass wir im Teilnahmewettbewerb zehn Prozent der Auswahlpunkte für einen Unternehmenssitz im Umkreis von 200 Kilometern vergeben wollen. Die Firma verlangt, stattdessen die tatsächliche Verfügbarkeit der Beratung zu bewerten und die Teilnahmefrist zu verlängern. Die Rüge leite ich im Original weiter.",
+      "An die Informationssicherheit habe ich eine konkrete Frage. Bei welchen Einsätzen müssen die Berater tatsächlich vor Ort sein, wie schnell und mit welchen Personen? Bitte geben Sie dem Rechtsreferat ein Beispiel aus dem Bereitschaftsdienst und erläutern Sie, wie wir die Zusage eines Bewerbers nachprüfen könnten.",
+      "Bitte legen Sie mir bis Mittwoch, 15. Juli, gemeinsam eine Entscheidungsvorlage zur Bewerberauswahl vor. Falls der Maßstab geändert werden muss, brauche ich den ausformulierten Ersatz einschließlich Gewicht und messbarem Nachweis sowie die Auskunft, wie wir alle Interessenten erreichen. Über die Antwort an Mustertal und den weiteren Termin entscheide ich nach Ihrer Rückmeldung.",
+      "Mit freundlichen Grüßen\nVergabestelle · Ministerium für Inneres und Digitalisierung Musterland"
+    ],
+    "anlagen": [
+      "eml/03_ruegeschreiben_sitzkriterium.eml"
+    ]
+  },
+  "05-insolvenz-auftragnehmerwechsel-132-gwb": {
+    "zeit": "2026-11-02T08:20",
+    "von": "Beschaffungsstelle der Stadt Hafenburg <beschaffung@hafenburg.example>",
+    "an": "Rechtsamt und IT-Vertragsmanagement <vertragspruefung@hafenburg.example>",
+    "betreff": "HB-IT-SERVICE-2026 · Wer darf nach der Insolvenz den städtischen IT-Support übernehmen?",
+    "text": [
+      "Guten Morgen,",
+      "NordSys Services betreut seit April unsere kommunalen Fachverfahren. Nach dem Insolvenzantrag will eine Erwerbergesellschaft den Vertrag zu unveränderten Konditionen fortführen. Sie schreibt, 38 von 42 Supportkräften wechselten zu ihr. Wir sollen ihrem Eintritt zustimmen, hilfsweise einem dreimonatigen Übergang. Der laufende Bereitschaftsdienst muss besetzt bleiben.",
+      "Ich sende die Chronologie der Vertragsstelle und den Fortführungsantrag vom Freitag. Welche Betriebsmittel, Personen und Nutzungsrechte gehen nachweislich über? Bitte prüfen Sie den behaupteten Übergang und die ursprünglichen Anforderungen an Referenzen, Informationssicherheit und Haftpflicht getrennt. Für den Betrieb muss ich wissen, wer in der Zwischenzeit für einen Störfall einsteht.",
+      "Bitte geben Sie mir bis 4. November mittags einen Beschlussvorschlag für die Amtsleitung sowie einen konkreten Brief an die Erwerberin mit den noch erforderlichen Nachweisen. Der Brief soll deutlich machen, ob wir bereits zustimmen können und welche eng begrenzte Übergangslösung wir andernfalls prüfen müssten.",
+      "Viele Grüße\nStadt Hafenburg · Amt für Digitalisierung"
+    ],
+    "anlagen": [
+      "docx/01_sachverhalt_auftragnehmerinsolvenz.docx",
+      "docx/03_erwerber_fortfuehrungsantrag.docx"
+    ]
+  },
+  "06-konkurrentenrechtsschutz-rechenzentrum-musterkreis": {
+    "zeit": "2026-09-25T08:30",
+    "von": "Vergabestelle Musterkreis IT-Service <vergabe@musterkreis-it.example>",
+    "an": "Rechtsdienst und Leitung Rechenzentrum <rechtsdienst-it@musterkreis.example>",
+    "betreff": "VK W 23-48/26 · welche Teile der Rechenzentrumsakte gehen in den Datenraum?",
+    "text": [
+      "Guten Morgen,",
+      "die Vergabekammer hat gestern über die Akteneinsicht von Datacenter Westfalen entschieden. Das Unternehmen greift die Ausfallsicherheitswertung von CloudNord an und bezweifelt, dass deren zweite Betriebsstätte bei Angebotsabgabe schon feststand. Der Datenraum ist bis Samstag, 26. September, 18 Uhr vorgesehen. Der ergänzende Vortrag der Antragstellerin ist bis Montag, 28. September, 12 Uhr zulässig.",
+      "Ich leite die Verfügung weiter. Bitte bereiten Sie mir heute bis 15 Uhr ein Verzeichnis der einzustellenden Unterlagen vor. Welche Passagen aus Eignungsprüfung und ZK-3-Wertung sind freigegeben? Wo müssen wir Personen oder konkrete Sicherungstechnik schützen, ohne die Begründung der Punkte unlesbar zu machen? Die Aufklärungsfrage vom 31. August und die Antwort vom 2. September sollen mit ihrem jeweiligen damaligen Inhalt erkennbar bleiben.",
+      "Der Rechtsdienst übernimmt den Kontakt zur Kammer. Bitte geben Sie ihm eine begründete Schwärzungsfassung und einen Begleittext für die Aktenvorlage. Die ungeschwärzten Originale bleiben der Kammer gesondert zugänglich. Wir protokollieren, wann welche Datei für welchen Personenkreis freigeschaltet wurde.",
+      "Viele Grüße\nVergabestelle · Musterkreis IT-Service"
+    ],
+    "anlagen": [
+      "docx/09_akteneinsichtsverfuegung_vk.docx",
+      "eml/04_ruegeschreiben_konkurrent.eml"
+    ]
+  },
+  "it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung": {
+    "zeit": "2026-04-20T08:40",
+    "von": "Yvonne Behnke · Vergabestelle SDS <vergabestelle@sds-schwerin.example>",
+    "an": "Rechtsdienst der Landeshauptstadt Schwerin <rechtsdienst@schwerin.example>",
+    "betreff": "Nahverkehr Schwerin · Ausschluss von CyberShield im Verfahren LH-SN-Cyber-SOC-NSV-2026",
+    "text": [
+      "Guten Morgen in den Rechtsdienst,",
+      "am Freitag hat die Kanzlei Bährens im Namen von CyberShield verlangt, den Ausschluss ihres Angebots bis Donnerstag, 23. April, 16 Uhr zurückzunehmen. Wir beschaffen für den Nahverkehr einen betreuten Sicherheitsleitstand und die Beratung zur Informationssicherheit. Im Ausschlussschreiben vom 14. April haben wir uns auf die Referenzanforderung T-2 gestützt. Der Anwalt hält uns die Formulierung „bevorzugt im Sektor Verkehr“ entgegen.",
+      "Ich schicke Ihnen seinen Eingang, unseren Kriterienkatalog und das Ausschlussschreiben. Bitte gleichen Sie den veröffentlichten Wortlaut mit den Gründen ab, die wir dem Unternehmen tatsächlich genannt haben. Welche Angaben zu den eingereichten Referenzen müssten wir beim Fachteam oder bei den Referenzgebern überprüfen, bevor wir über Abhilfe entscheiden?",
+      "Für meine Rücksprache mit der Nahverkehrsgesellschaft am Mittwochvormittag brauche ich einen Rügevermerk und den Entwurf unserer Antwort. Bitte weisen Sie aus, welche Verfahrensschritte bis zur Klärung vertretbar sind und welche Auswirkungen eine Korrektur auf die übrigen Angebote hätte. Wie wir mit der Rüge umgehen, möchte ich vor Ablauf der von der Kanzlei gesetzten Frist selbst freigeben.",
+      "Freundliche Grüße\nYvonne Behnke\nVergabestelle SDS · Landeshauptstadt Schwerin"
+    ],
+    "anlagen": [
+      "eml/02_ruege_uebersendung_baehrens.eml",
+      "docx/03_eignungsanforderungen_kriterienkatalog.docx",
+      "eml/01_ausschlussschreiben_vergabestelle.eml"
+    ]
+  }
+}

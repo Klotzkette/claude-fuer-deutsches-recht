@@ -24,6 +24,7 @@ Beginnen Sie mit diesen Unterlagen.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
+| 09.11.2026 | [Fotoarchiv West – kann ich die Einladung an Albumstrom freigeben?](Grundakte/00_pruefauftrag_archivdienst.eml) | EML |
 | 20.10.2026 | [Fotoarchiv West – Anbieterwahl vor Ablauf des Archivvertrags](Grundakte/01_bedarf_und_freigabe.docx) | DOCX |
 | 22.10.2026 | [Archivdienst 2021 – von der Vertragsstelle bestätigter Auszug](Grundakte/02_vertragsauszug_archivdienst.txt) | TXT |
 | 26.10.2026 | [Ihre Frage zur Übernahme der Serienfolge](Grundakte/03_auskunft_altanbieter.eml) | EML |

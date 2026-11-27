@@ -52,12 +52,12 @@ def add_shop_mail_html(message, row, body, signet):
                          for part in body.strip().split('\n\n'))
     mark_id = 'signet.' + row['id'].strip('<>')
     html = f'''<!doctype html>
-<html lang="de"><body style="margin:0;padding:24px;color:#292621;background:white">
-<div style="max-width:620px;font:16px/1.55 Arial,sans-serif">
-<div style="padding:0 0 14px;border-bottom:1px solid #9c7057">
+<html lang="de"><body style="margin:0;padding:24px 12px;color:#352826;background:#f5f1eb">
+<div style="max-width:620px;margin:0 auto;padding:24px 28px;background:#fff;font:16px/1.55 Arial,sans-serif">
+<div style="padding:8px 0 18px;border-bottom:2px solid #aa6849">
 <img src="cid:{mark_id}" width="44" height="42" alt="" style="vertical-align:middle">
 <span style="vertical-align:middle;font:30px Georgia,serif">ModeFuchs</span></div>
-<h1 style="font:22px/1.25 Georgia,serif">{escape(row['subject'])}</h1>
+<h1 style="margin:24px 0 20px;font:25px/1.25 Georgia,serif">{escape(row['subject'])}</h1>
 {paragraphs}</div></body></html>'''
     message.add_alternative(html, subtype='html', charset='utf-8', cte='quoted-printable')
     boundary = '=_modefuchs_' + Path(row['file']).stem

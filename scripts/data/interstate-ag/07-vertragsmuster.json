@@ -75,29 +75,41 @@
     ]
   ],
   "einwendungspruefung": [
-    {"eingabe": "11_widerspruch_abruftrennung.eml", "gegenpruefung": "06_freigabewerte_k17.xlsx"},
-    {"eingabe": "11_widerspruch_abruftrennung.eml", "gegenpruefung": "12_postfach_und_telefonnotiz.txt"}
+    {
+      "eingabe": "11_widerspruch_abruftrennung.eml",
+      "gegenpruefung": "06_freigabewerte_k17.xlsx"
+    },
+    {
+      "eingabe": "11_widerspruch_abruftrennung.eml",
+      "gegenpruefung": "12_postfach_und_telefonnotiz.txt"
+    }
   ],
   "dokumente": [
     {
       "phase": "Grundakte",
       "datei": "01_pruefbitte_einkauf.eml",
-      "titel": "Westtor K17 · Freigabe von Rahmenvertrag und erstem Abruf für die Verhandlung mit Rheinspur",
+      "titel": "K17 Westtor – Freigabe der Klauseln für den ersten Abruf bei Rheinspur",
       "datum": "2026-09-14",
       "von": "Nora Feld · Deutsche Interstate AG, Warengruppeneinkauf West",
       "an": "Dr. Jakob Elsen · Deutsche Interstate AG, Rechtsabteilung West",
       "text": [
         "Guten Morgen, Herr Elsen,",
-        "am Westtor wollen wir Rheinspur für sechs Tag- und zwei Nachtschichten zur Kontrolle der Baubelege einsetzen. Im ersten Abruf stehen dafür einschließlich Abschlussdossier 13.000 Euro netto. Können wir Rahmenvertrag und Abrufblatt so in die Verhandlung geben? Bitte geben Sie uns bis Mittwoch, 16. September, 12 Uhr Bescheid. Um 14 Uhr legt die Einkaufsrunde unsere Position fest.",
-        "An einer Stelle komme ich beim Ausfüllen nicht weiter. Die Bauherrin Westtor Objekt GmbH erwartet die Belege zu 24 Bauteilen für ihre Objektakte. Rheinspurs Bedingungen erlauben uns die Weitergabe nur mit schriftlicher Zustimmung. Bis wann und mit welchen Nutzungsrechten muss das Dossier vorliegen, damit wir es ihr beim Übergabetermin am 27. Oktober zeigen und überlassen können?",
-        "Bitte schicken Sie uns die nötigen Ersatzklauseln mit Ziffer für die beiden Word-Dateien. Ins Abrufblatt gehört eine Zeichnungsregel, mit der die Projektleitung abends einen Einsatz verschieben kann und der Einkauf erkennt, wann zusätzliche Schichten Geld binden. Für Haftung und Zahlungsplan brauche ich auch eine Rückfallposition, falls Rheinspur unseren Vorschlag ablehnt.",
-        "Rahmenvertrag und Abrufblatt sollen bei mindestens sechs Projekten zum Einsatz kommen. Beide Texte stammen von uns und lagen Rheinspur zur Kommentierung vor. Für K17 haben wir die Projektdaten und die Preise aus dem Preisbrief eingesetzt. Preis und Termine bleiben Gegenstand der Verhandlung. Frau Köhler fragt gerade bei den Teilnehmenden nach den Vermerken zum Preisgespräch. Bitte kennzeichnen Sie, was wir für K17 vereinbaren können und was vor einer Serienfreigabe noch zur Leitung muss.",
-        "Vertragspartnerin und Rechnungsempfängerin ist die Deutsche Interstate AG. Unsere öffentlichen Träger haben sie für nichtgewerbliche Aufgaben der Straßenverwaltung im Allgemeininteresse gegründet, finanzieren ihren Betrieb überwiegend und bestellen die Mehrheit des Aufsichtsrats. Wir führen sie im Einkauf als öffentliche Auftraggeberin. Die Unterschriften und die Bestellung für K17 stehen aus. Nach meinem Kenntnisstand hat Rheinspur noch keine Schicht besetzt.",
+        "am Westtor soll Rheinspur die Baubelege in sechs Tag- und zwei Nachtschichten prüfen. Für die acht Schichten und das Abschlussdossier stehen 13.000 Euro netto im Abrufblatt. Wir haben noch nichts bestellt oder unterschrieben. Können wir mit diesem Entwurf in die Verhandlung gehen, und welche Klauseln müssen vorher geändert werden? Ich brauche Ihre Fassung bis Mittwoch, 16. September, 12 Uhr. Um 14 Uhr legt die Einkaufsrunde die Verhandlungsposition fest.",
+        "Die Bauherrin Westtor Objekt GmbH erwartet am 27. Oktober das Dossier zu 24 Bauteilen für ihre Objektakte. Rheinspurs Bedingungen verlangen für die Weitergabe eine schriftliche Zustimmung. Bitte setzen Sie in die beigefügten Entwürfe ein, wann die Unterlagen vorliegen müssen, wer sie nutzen darf und wie die fachliche Abnahme erfolgt. Auch der Spätdienst muss im Abrufblatt erkennen, wer eine Schicht nur verschiebt und wer bezahlte Zusatzschichten bestellen darf.",
+        "Rahmenvertrag und Abrufblatt stammen von uns und sind für mindestens sechs Projekte vorgesehen. Für K17 haben wir die Preise aus Rheinspurs Schreiben übernommen. Ob die dort genannte Anzahlung vereinbart ist, lässt Frau Köhler bei den Gesprächsteilnehmern prüfen. Bitte nennen Sie im Rücklauf für jede strittige Klausel Ziffer und Ersatzwortlaut und für Haftung und Zahlungsplan jeweils eine verhandelbare zweite Position. Über das Muster für alle Projekte entscheidet die Leitung gesondert.",
+        "Die Deutsche Interstate AG wird Vertragspartnerin und bezahlt den Auftrag. Unsere öffentlichen Träger haben die AG für die nichtgewerbliche Straßenverwaltung im Allgemeininteresse gegründet, finanzieren sie überwiegend und bestellen die Mehrheit des Aufsichtsrats. Frau Köhler führt das Projekt, der Einkauf die Verhandlung. Meines Wissens hat Rheinspur noch keine Schicht besetzt.",
         "Viele Grüße\nNora Feld"
       ],
       "absender": "nora.feld@deutsche-interstate.example",
       "empfaenger": "jakob.elsen@deutsche-interstate.example",
-      "uhrzeit": "09:12"
+      "uhrzeit": "09:12",
+      "anlagen": [
+        "02_rahmenvertrag_kontrollleistungen.docx",
+        "03_abrufblatt_k17.docx",
+        "04_einkaufsbedingungen_di_ek.docx",
+        "05_preisbrief_rheinspur.docx",
+        "06_freigabewerte_k17.xlsx"
+      ]
     },
     {
       "phase": "Grundakte",

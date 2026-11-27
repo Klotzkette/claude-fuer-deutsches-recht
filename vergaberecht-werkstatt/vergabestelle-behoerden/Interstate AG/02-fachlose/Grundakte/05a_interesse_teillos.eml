@@ -6,9 +6,13 @@ Date: Fri, 06 Nov 2026 10:38:00 +0100
 Message-ID: <2d4cc7131e434cb02b7d0d6e@fallpost.example>
 Subject: Markterkundung =?utf-8?b?4oCTIEthcGF6aXTDpHQgZsO8cg==?= einen
  einzelnen Bauabschnitt
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-9825d2b7947f1509006fd8c5"
+
+--interstate-alt-9825d2b7947f1509006fd8c5
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Frau Velten, mit unserer vierk=C3=B6pfigen Mannschaft k=C3=B6nnen wir in dem =
 umrissenen Zeitfenster bis etwa 2.500 m=C2=B2 Hallenboden bearbeiten und die =
@@ -27,3 +31,29 @@ em f=C3=BCr S=C3=BCd beauftragten Betonunternehmen. Kann der Raum nicht =C3=
 =9Cbergabe reichen, ben=C3=B6tigen wir hierzu vorab eine Regelung. Wir haben =
 weder einen Preis erkl=C3=A4rt noch einen Termin reserviert. Bitte ver=C3=B6f=
 fentlichen Sie eine etwaige Ausschreibung auf dem vorgesehenen Vergabeportal.
+
+--interstate-alt-9825d2b7947f1509006fd8c5
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #85=
+5122;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Frau Velten, mit=
+ unserer vierk=C3=B6pfigen Mannschaft k=C3=B6nnen wir in dem umrissenen Zeitf=
+enster bis etwa 2.500 m=C2=B2 Hallenboden bearbeiten und die zugeh=C3=B6rigen=
+ Anschl=C3=BCsse selbst =C3=BCbernehmen. Der Bereich S=C3=BCd mit 2.400 m=C2=
+=B2 und 600 m Anschluss w=C3=A4re f=C3=BCr uns ein eigenst=C3=A4ndig kalkulie=
+rbarer Auftrag. Der Norden allein liegt mit 3.600 m=C2=B2 bereits =C3=BCber d=
+ieser Kapazit=C3=A4t. Wenn beide Teile zu einem einzigen Beschichtungsauftrag=
+ zusammengefasst werden, k=C3=B6nnten wir kein Angebot im eigenen Namen abgeb=
+en.</p><p>Wir brauchen vor der =C3=9Cbernahme einen abgestimmten Untergrundte=
+rmin mit dem f=C3=BCr S=C3=BCd beauftragten Betonunternehmen. Kann der Raum n=
+icht =C3=BCbernommen werden, m=C3=BCssten wir eine bereits begonnene andere B=
+austelle umplanen. Die bis dahin bereitgestellte gemeinsame Einrichtung im No=
+rden k=C3=B6nnten wir nutzen. Sollten die Vorhaltezeiten nicht bis zur letzte=
+n =C3=9Cbergabe reichen, ben=C3=B6tigen wir hierzu vorab eine Regelung. Wir h=
+aben weder einen Preis erkl=C3=A4rt noch einen Termin reserviert. Bitte ver=
+=C3=B6ffentlichen Sie eine etwaige Ausschreibung auf dem vorgesehenen Vergabe=
+portal.</p></div></body></html>
+
+--interstate-alt-9825d2b7947f1509006fd8c5--

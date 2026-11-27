@@ -10,6 +10,7 @@ from datetime import date, datetime, time
 from decimal import Decimal, ROUND_HALF_UP
 from email.headerregistry import Address
 from email.message import EmailMessage
+from email.parser import BytesParser
 from email.policy import SMTP
 from pathlib import Path
 from urllib.parse import quote
@@ -33,6 +34,7 @@ from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer, Table, Tabl
 from akteneingang.ausgabe import archive
 from akteneingang.dokumente import add_member, office_bytes, sha, simple
 from akteneingang.quellen import safe_member
+from interstate_briefpapier import AG, AMT, KANZLEI, letterhead
 from interstate_einwendungsbogen import pruefbogen
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME, NOTICE_MARKDOWN
 
@@ -42,6 +44,13 @@ OUTPUT = ROOT / "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG"
 COLLECTION_ZIP = ROOT / "docs/downloads/interstate-ag-nl-west-testakten.zip"
 PRUEFBOGEN = "Einwendungen-Pruefbogen.xlsx"
 PHASES = ("Grundakte", "Nachreichungen")
+ATTACHMENT_TYPES = {
+    ".csv": "text/csv",
+    ".docx": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    ".eml": "application/octet-stream",
+    ".txt": "text/plain",
+    ".xlsx": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+}
 ACCENT = "234C5A"
 MUTED = "4C6370"
 SECTION_HEADING = re.compile(r"(?:§\s*)?\d+(?:\.\d+)*\s+[^\n.!?;:]{2,80}")
@@ -209,66 +218,123 @@ def cached_workbook(book, cache):
 
 
 def word(doc, case):
+    from docx.enum.table import WD_CELL_VERTICAL_ALIGNMENT
+    from docx.enum.text import WD_ALIGN_PARAGRAPH
+    from docx.oxml import OxmlElement
+    from docx.oxml.ns import qn
+
     book = Document()
     book.core_properties.author = doc["von"]
     book.core_properties.title = doc["titel"]
+    organisation, unit, accent = letterhead(doc)
+    color = RGBColor.from_string(accent)
     section = book.sections[0]
     section.page_width, section.page_height = Cm(21), Cm(29.7)
-    section.left_margin, section.right_margin = Cm(2.2), Cm(2.2)
-    section.top_margin, section.bottom_margin = Cm(2.5), Cm(2.2)
+    section.left_margin, section.right_margin = Cm(2.35), Cm(2.1)
+    section.top_margin, section.bottom_margin = Cm(3.05), Cm(2.05)
+    section.header_distance, section.footer_distance = Cm(.9), Cm(.9)
+
     normal = book.styles["Normal"]
-    normal.font.name, normal.font.size = "Times New Roman", Pt(11)
-    normal.paragraph_format.space_after = Pt(8)
-    letterhead = section.header.paragraphs[0].add_run(doc["von"])
-    letterhead.bold = True
-    letterhead.font.color.rgb = RGBColor.from_string(ACCENT)
-    section.footer.paragraphs[0].text = case["zeichen"] + "    ·    " + german_date(doc)
-    book.add_paragraph("An " + doc["an"] + "\n" + german_date(doc))
+    normal.font.name, normal.font.size = "Cambria", Pt(11)
+    normal.paragraph_format.space_after = Pt(7)
+    normal.paragraph_format.line_spacing = 1.14
+    header = section.header.paragraphs[0]
+    label = header.add_run(organisation)
+    label.font.name, label.font.size, label.bold, label.font.color.rgb = "Calibri", Pt(15), True, color
+    if unit and unit.casefold() != organisation.casefold():
+        unit_name = header.add_run("\n" + unit)
+        unit_name.font.name, unit_name.font.size = "Calibri", Pt(9)
+    header.paragraph_format.space_after = Pt(0)
+    footer = section.footer.paragraphs[0]
+    footer.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+    reference = footer.add_run(f'{case["zeichen"]}    ·    {german_date(doc)}    ·    Blatt ')
+    reference.font.name, reference.font.size, reference.font.color.rgb = "Calibri", Pt(9), color
+    page = OxmlElement("w:fldSimple")
+    page.set(qn("w:instr"), "PAGE")
+    footer._p.append(page)
+
+    for caption, value in (("An", doc["an"]), ("Von", doc["von"]),
+                           ("Aktenzeichen", case["zeichen"]), ("Datum", german_date(doc))):
+        paragraph = book.add_paragraph()
+        paragraph.paragraph_format.space_after = Pt(2)
+        paragraph.paragraph_format.keep_with_next = True
+        paragraph.paragraph_format.tab_stops.add_tab_stop(Cm(2.55))
+        paragraph.paragraph_format.left_indent = Cm(2.55)
+        paragraph.paragraph_format.first_line_indent = Cm(-2.55)
+        key = paragraph.add_run(caption + "\t")
+        key.font.name, key.font.size, key.bold, key.font.color.rgb = "Calibri", Pt(9), True, color
+        value_run = paragraph.add_run(value)
+        value_run.font.name, value_run.font.size = "Calibri", Pt(10)
     title = book.add_heading(doc["titel"], level=1)
+    title.paragraph_format.space_before, title.paragraph_format.space_after = Pt(16), Pt(12)
     for run in title.runs:
-        run.font.name = "Times New Roman"
-        run.font.color.rgb = RGBColor.from_string(ACCENT)
+        run.font.name, run.font.size, run.bold, run.font.color.rgb = "Cambria", Pt(18), True, color
     for text in doc["text"]:
         paragraph = book.add_paragraph()
         run = paragraph.add_run(text)
         if SECTION_HEADING.fullmatch(text):
-            run.bold = True
+            run.bold, run.font.color.rgb = True, color
             paragraph.paragraph_format.keep_with_next = True
-            paragraph.paragraph_format.space_after = Pt(3)
+            paragraph.paragraph_format.space_before, paragraph.paragraph_format.space_after = Pt(6), Pt(3)
     rows = doc.get("tabelle", [])
     if rows:
-        table = book.add_table(rows=0, cols=len(rows[0]))
-        table.style = "Light Shading Accent 1"
-        for r in rows:
-            for cell, value in zip(table.add_row().cells, r, strict=True):
-                cell.text = str(value)
+        weights = widths(rows)
+        span = section.page_width - section.left_margin - section.right_margin
+        table = book.add_table(rows=0, cols=len(weights))
+        table.autofit = False
+        for column, weight in zip(table.columns, weights, strict=True):
+            column.width = round(span * weight / sum(weights))
+        for index, values in enumerate(rows):
+            row = table.add_row()
+            if index == 0:
+                row._tr.get_or_add_trPr().append(OxmlElement("w:tblHeader"))
+            for cell, value in zip(row.cells, values, strict=True):
+                cell.vertical_alignment = WD_CELL_VERTICAL_ALIGNMENT.CENTER
+                fill = OxmlElement("w:shd")
+                fill.set(qn("w:fill"), accent if index == 0 else ("F0F3F4" if index % 2 else "FFFFFF"))
+                cell._tc.get_or_add_tcPr().append(fill)
+                paragraph = cell.paragraphs[0]
+                paragraph.paragraph_format.space_before, paragraph.paragraph_format.space_after = Pt(3), Pt(3)
+                run = paragraph.add_run("" if value is None else str(value))
+                run.font.name, run.font.size, run.bold = "Calibri", Pt(9), index == 0
+                if index == 0:
+                    run.font.color.rgb = RGBColor.from_string("FFFFFF")
     return office_bytes(book)
 
 
 def worksheet(doc, case, lv):
+
     table = doc["tabelle"]
     spec = widths(table)
     book = Workbook()
     book.properties.title, book.properties.creator = doc["titel"], doc["von"]
+    organisation, unit, accent = letterhead(doc)
     sheet = book.active
     sheet.title = "Aufstellung"
     sheet.sheet_view.showGridLines = False
+    sheet.sheet_properties.tabColor = accent
     for ci, width in enumerate(spec, 1):
         sheet.column_dimensions[get_column_letter(ci)].width = width
-    for ri, text in enumerate([doc["titel"], f'{case["zeichen"]} · {german_date(doc)}', doc["von"] + " an " + doc["an"], *doc["text"]], 1):
+    sender_line = " · ".join(filter(None, (organisation, unit if unit != organisation else "")))
+    lines = [sender_line, doc["titel"], f'{case["zeichen"]}    ·    {german_date(doc)}',
+             f'Von  {doc["von"]}', f'An  {doc["an"]}', *doc["text"]]
+    for ri, text in enumerate(lines, 1):
         sheet.merge_cells(start_row=ri, end_row=ri, start_column=1, end_column=len(spec))
         cell = sheet.cell(ri, 1, text)
-        cell.font = Font(name="Calibri", size=15 if ri == 1 else 10, bold=ri == 1, color=ACCENT)
-        cell.alignment = Alignment(vertical="center", wrap_text=True)
-        lines = sum(max(1, math.ceil(len(line) / max(12, sum(spec) * .8))) for line in text.splitlines())
-        sheet.row_dimensions[ri].height = max(28, 10 + 15 * lines)
+        cell.font = Font(name="Calibri", size=15 if ri == 2 else 10, bold=ri <= 3,
+                         color="FFFFFF" if ri == 1 else (accent if ri <= 3 else "273640"))
+        cell.alignment = Alignment(vertical="center", wrap_text=True, indent=1)
+        if ri <= 3:
+            cell.fill = PatternFill("solid", fgColor=accent if ri == 1 else "E9EFF1")
+        count = sum(max(1, math.ceil(len(line) / max(12, sum(spec) * .77))) for line in text.splitlines())
+        sheet.row_dimensions[ri].height = max(24 if ri <= 3 else 20, 8 + (19 if ri == 2 else 15) * count)
     heading = sheet.max_row + 2
     for ri, row in enumerate(table, heading):
         for ci, value in enumerate(row, 1):
             cell = sheet.cell(ri, ci, value)
             cell.alignment = Alignment(vertical="center", wrap_text=True)
             cell.font = Font(name="Calibri", size=10, bold=ri == heading, color="FFFFFF" if ri == heading else "263944")
-            cell.fill = PatternFill("solid", fgColor=ACCENT if ri == heading else ("EFF4F5" if ri % 2 else "FFFFFF"))
+            cell.fill = PatternFill("solid", fgColor=accent if ri == heading else ("EFF4F5" if ri % 2 else "FFFFFF"))
         sheet.row_dimensions[ri].height = max(24, 7 + 15 * max(math.ceil(len(str(v)) / (w * .8)) for v, w in zip(row, spec)))
     sheet.freeze_panes = f"A{heading + 1}"
     sheet.auto_filter.ref = f"A{heading}:{get_column_letter(len(spec))}{sheet.max_row}"
@@ -278,6 +344,10 @@ def worksheet(doc, case, lv):
     sheet.page_setup.fitToWidth, sheet.page_setup.fitToHeight = 1, 0
     sheet.page_setup.paperSize = sheet.PAPERSIZE_A4
     sheet.page_setup.orientation = "landscape" if len(spec) >= 4 else "portrait"
+    sheet.page_margins.left, sheet.page_margins.right = .45, .45
+    sheet.page_margins.top, sheet.page_margins.bottom = .55, .6
+    sheet.oddFooter.left.text = case["zeichen"]
+    sheet.oddFooter.right.text = "Blatt &P / &N"
     sheet.print_area = sheet.dimensions
     return cached_workbook(book, cache) if lv else office_bytes(book)
 
@@ -311,82 +381,202 @@ def native(doc, case, name, lv):
     message["Message-ID"] = f'<{sha((case["zeichen"] + "/" + name).encode())[:24]}@fallpost.example>'
     message["Subject"] = doc["titel"]
     message.set_content(text, charset="utf-8")
+    _, _, ink = letterhead(doc)
+    paragraphs = "".join("<p>" + escape(part).replace("\n", "<br>") + "</p>" for part in doc["text"])
+    if doc.get("tabelle"):
+        paragraphs += "<table>" + "".join(
+            "<tr>" + "".join("<td>" + escape(str(cell)) + "</td>" for cell in row) + "</tr>"
+            for row in doc["tabelle"]) + "</table>"
+    message.add_alternative(
+        f'<html lang="de"><body><div style="max-width:44em;border-top:3px solid #{ink};'
+        f'font:normal 15px/1.5 Arial,sans-serif;color:#24333b">{paragraphs}</div></body></html>',
+        subtype="html", charset="utf-8",
+    )
+    message.set_boundary("interstate-alt-" + sha(name.encode())[:24])
     return message.as_bytes()
 
 
-def paragraph(text, font="Times-Roman", size=11, leading=14.5, color="24333B", after=8):
+def embed_attachments(documents, originals):
+    rows = {f"{doc['phase']}/{doc['datei']}": doc for doc in documents}
+    pending = {name for name, doc in rows.items() if doc.get("anlagen")}
+
+    def finish(name, parents):
+        if name not in pending:
+            return
+        if name in parents:
+            raise ValueError(f"Zyklische E-Mail-Anlage: {name}")
+        doc = rows[name]
+        if not name.endswith(".eml") or len(doc["anlagen"]) != len(set(doc["anlagen"])):
+            raise ValueError(f"Ungültige Anlagenliste: {name}")
+        message = BytesParser(policy=SMTP).parsebytes(originals[name])
+        for filename in doc["anlagen"]:
+            key = f"{doc['phase']}/{filename}"
+            if key not in rows or rows[key]["datum"] > doc["datum"]:
+                raise ValueError(f"{name}: Anlage fehlt im Aktenstand: {filename}")
+            item = rows[key]
+            if filename.endswith(".eml") and mail_time(item) > mail_time(doc):
+                raise ValueError(f"{name}: Anlagen-E-Mail liegt nach dem Versand: {filename}")
+            finish(key, parents | {name})
+            # RFC-822-Nachrichten als herunterladbare Datei beifügen, damit ihre
+            # Header, Zeichencodierung und ggf. weiteren MIME-Teile bytegetreu bleiben.
+            main, sub = ATTACHMENT_TYPES[Path(filename).suffix].split("/", 1)
+            message.add_attachment(originals[key], maintype=main, subtype=sub, filename=filename)
+        message.set_boundary("interstate-mixed-" + sha(name.encode())[:24])
+        originals[name] = message.as_bytes()
+        pending.remove(name)
+
+    for name in rows:
+        finish(name, set())
+
+
+def paragraph(text, font="Times-Roman", size=11, leading=14.5, color="24333B", after=8, align=0):
     style = ParagraphStyle("Beleg", fontName=font, fontSize=size, leading=leading,
-                           textColor=colors.HexColor("#" + color), spaceAfter=after,
+                           textColor=colors.HexColor("#" + color), spaceAfter=after, alignment=align,
                            allowOrphans=0, allowWidows=0)
     return Paragraph(escape(str(text)).replace("\n", "<br/>"), style)
 
 
 def reading(doc, case, name, lv):
+    ext = Path(name).suffix
+    mail = ext == ".eml"
+    sheet = ext in (".xlsx", ".csv")
     rows = lv.print_rows() if lv else doc.get("tabelle", [])
     page_size = landscape(A4) if rows and len(rows[0]) >= 4 else A4
+    organisation, department, ink = letterhead(doc)
+    formal = ext == ".docx"
+    authority = ink in (AMT, KANZLEI)
+    margin = 43 if sheet else 55
     out = io.BytesIO()
-    pdf = SimpleDocTemplate(out, pagesize=page_size, leftMargin=48, rightMargin=48,
-                            topMargin=46 if lv else 56, bottomMargin=40 if lv else 47,
-                            invariant=1, title=doc["titel"], author=doc["von"])
-    kinds = {".docx": "Schriftstück", ".xlsx": "Tabellenblatt", ".csv": "Datenexport", ".eml": "E-Mail", ".txt": "Textauszug"}
-    kind = kinds[Path(name).suffix]
+    pdf = SimpleDocTemplate(out, pagesize=page_size, leftMargin=margin, rightMargin=margin,
+                            topMargin=67 if department and not mail else 60, bottomMargin=43, invariant=1,
+                            title=doc["titel"], author=doc["von"])
+    content_width = pdf.width - 12
+    navy = colors.HexColor("#" + ink)
 
     def furniture(canvas, document):
         width, height = page_size
-        canvas.setStrokeColor(colors.HexColor("#B7C7CC"))
-        canvas.line(48, height-41, width-48, height-41)
-        canvas.line(48, 35, width-48, 35)
-        canvas.setFillColor(colors.HexColor("#" + MUTED))
-        canvas.setFont("Helvetica", 8)
-        canvas.drawString(48, height-32, case["zeichen"])
-        canvas.drawRightString(width-48, height-32, kind)
-        canvas.drawString(48, 23, german_date(doc))
-        canvas.drawRightString(width-48, 23, f"Blatt {document.page}")
+        left, right = margin + 6, width - margin - 6
+        top = height - 31
+        canvas.setFillColor(navy)
+        canvas.setStrokeColor(navy)
+        if organisation == AG and not mail:
+            # Zwei Fahrbahnen mit durchgehender Mittellinie als Zeichen der fiktiven AG.
+            symbol = canvas.beginPath()
+            for dx in (0, 9):
+                symbol.moveTo(left + dx, top - 9)
+                symbol.lineTo(left + dx + 6, top + 6)
+                symbol.lineTo(left + dx + 10, top + 6)
+                symbol.lineTo(left + dx + 4, top - 9)
+                symbol.close()
+            canvas.drawPath(symbol, fill=1, stroke=0)
+            word_x = left + 28
+        else:
+            word_x = left
+        if mail:
+            canvas.setLineWidth(0.9)
+            canvas.roundRect(left, top - 6, 14, 10, 1, stroke=1, fill=0)
+            canvas.line(left, top + 4, left + 7, top - 1)
+            canvas.line(left + 7, top - 1, left + 14, top + 4)
+            word_x = left + 20
+        elif organisation != AG and not authority:
+            canvas.roundRect(left, top - 8, 3, 17, 1, stroke=0, fill=1)
+            word_x = left + 10
+        canvas.setFont("Times-Bold" if formal and authority else "Helvetica-Bold", 12 if formal else 10)
+        canvas.drawString(word_x, top - 4, organisation)
+        rule_y = top - 15
+        if department and not mail:
+            canvas.setFont("Helvetica", 8)
+            canvas.drawString(word_x, top - 15, department)
+            rule_y -= 9
+        right_label = "E-Mail" if mail else ("Leistungsverzeichnis" if lv else case["zeichen"])
+        canvas.setFont("Helvetica", 8.4)
+        canvas.drawRightString(right, top - 3, right_label)
+        canvas.setLineWidth(1.4 if formal else 0.6)
+        canvas.line(left, rule_y, right, rule_y)
+        if formal and authority:
+            canvas.setLineWidth(0.4)
+            canvas.line(left, rule_y - 3, right, rule_y - 3)
+        canvas.setStrokeColor(colors.HexColor("#CBD2D4"))
+        canvas.setLineWidth(0.45)
+        canvas.line(left, 34, right, 34)
+        canvas.setFillColor(colors.HexColor("#4A5963"))
+        canvas.setFont("Helvetica", 8.2)
+        canvas.drawString(left, 22, f'{case["zeichen"]}    ·    {german_date(doc)}')
+        canvas.drawRightString(right, 22, f"Seite {document.page}")
 
+    title_font = "Times-Bold" if formal and authority else "Helvetica-Bold"
+    title = paragraph(doc["titel"], title_font, 17 if sheet else 18, 20 if sheet else 22, ink, 11)
     sender, recipient = doc["von"], doc["an"]
-    sent = ""
-    if Path(name).suffix == ".eml":
-        sender += f' <{mail_address(doc, "absender", "von").addr_spec}>'
-        recipient += f' <{mail_address(doc, "empfaenger", "an").addr_spec}>'
+    if mail:
         stamp = mail_time(doc)
         offset = stamp.strftime("%z")
-        sent = f'\nGesendet  {german_date(doc)}, {stamp:%H:%M} Uhr (UTC{offset[:3]}:{offset[3:]})'
-    story = [
-        paragraph(doc["titel"], "Times-Bold", 18, 21, ACCENT, 11),
-        paragraph(f"Von  {sender}\nAn    {recipient}{sent}", "Helvetica", 9.2, 13, MUTED, 14),
-    ]
+        timezone = "MESZ" if offset == "+0200" else "MEZ"
+        metadata = [
+            ("Von", f'{sender} <{mail_address(doc, "absender", "von").addr_spec}>'),
+            ("An", f'{recipient} <{mail_address(doc, "empfaenger", "an").addr_spec}>'),
+            ("Gesendet", f'{german_date(doc)}, {stamp:%H:%M} Uhr ({timezone}, UTC{offset[:3]}:{offset[3:]})'),
+        ]
+    else:
+        metadata = [("Von", sender), ("An", recipient)]
+    details = Table([[paragraph(label, "Helvetica-Bold", 8.4, 11, ink, 0),
+                      paragraph(value, "Helvetica", 9, 12, "374955", 0)] for label, value in metadata],
+                    colWidths=[53, content_width - 53], hAlign="LEFT")
+    details.setStyle(TableStyle([("VALIGN", (0, 0), (-1, -1), "TOP"),
+                                 ("LEFTPADDING", (0, 0), (-1, -1), 0),
+                                 ("TOPPADDING", (0, 0), (-1, -1), 2),
+                                 ("BOTTOMPADDING", (0, 0), (-1, -1), 2)]))
+    if mail:
+        details.setStyle(TableStyle([
+            ("BACKGROUND", (0, 0), (-1, -1), colors.HexColor("#F2F5F6")),
+            ("LINEBEFORE", (0, 0), (0, -1), 2, navy),
+            ("LEFTPADDING", (0, 0), (0, -1), 7),
+            ("TOPPADDING", (0, 0), (-1, 0), 6),
+            ("BOTTOMPADDING", (0, -1), (-1, -1), 6),
+        ]))
+    story = [title, details, Spacer(1, 12)]
     for text in doc["text"]:
         if SECTION_HEADING.fullmatch(text):
-            heading = paragraph(text, "Times-Bold", 11, 14.5, ACCENT, 3)
+            heading = paragraph(text, "Helvetica-Bold", 10.6, 14, ink, 4)
             heading.keepWithNext = True
             story.append(heading)
-        elif lv:
-            story.append(paragraph(text, size=10.5, leading=13.5, after=5))
+        elif sheet:
+            story.append(paragraph(text, "Helvetica", 10, 13.4, after=6))
+        elif mail:
+            story.append(paragraph(text, "Helvetica", 10.5, 14.6, after=9))
         else:
-            story.append(paragraph(text))
+            story.append(paragraph(text, "Times-Roman" if formal else "Helvetica",
+                                   11.4 if formal else 10.5, 15.5, after=8))
+    if doc.get("anlagen"):
+        story.append(Spacer(1, 3))
+        label = paragraph("Anlagen", "Helvetica-Bold", 9.4, 13, ink, 3)
+        label.keepWithNext = True
+        story.append(label)
+        for attachment in doc["anlagen"]:
+            story.append(paragraph(attachment, "Helvetica", 9.2, 12.5, after=2))
     if rows:
+        weights = widths(rows)
         if lv:
-            # Leave space for service descriptions; item/lot codes need only a few characters.
             weights = [max(7, min(75, max(len(str(row[i])) for row in rows) + 2)) for i in range(len(rows[0]))]
-        else:
-            weights = widths(rows)
-        available = pdf.width - 12
-        grid = Table([[paragraph(v, "Helvetica-Bold" if i == 0 else "Helvetica", 9, 11.5,
-                                 "FFFFFF" if i == 0 else "24333B", 0) for v in row]
-                      for i, row in enumerate(rows)], repeatRows=1, hAlign="LEFT",
-                     colWidths=[available*w/sum(weights) for w in weights])
+        numeric = {lv.quantity, lv.price, lv.amount} if lv else set()
+        cells = []
+        for i, row in enumerate(rows):
+            cells.append([paragraph(v, "Helvetica-Bold" if i == 0 else "Helvetica", 9, 11.5,
+                                    "FFFFFF" if i == 0 else "24333B", 0, 2 if c in numeric else 0)
+                          for c, v in enumerate(row)])
+        grid = Table(cells, repeatRows=1, hAlign="LEFT",
+                     colWidths=[content_width * w / sum(weights) for w in weights])
         grid.setStyle(TableStyle([
-            ("BACKGROUND",(0,0),(-1,0),colors.HexColor("#" + ACCENT)),
-            ("ROWBACKGROUNDS",(0,1),(-1,-1),[colors.white, colors.HexColor("#EDF3F4")]),
-            ("VALIGN",(0,0),(-1,-1),"TOP"),
-            ("TOPPADDING",(0,0),(-1,-1),6), ("BOTTOMPADDING",(0,0),(-1,-1),6),
+            ("BACKGROUND", (0, 0), (-1, 0), navy),
+            ("ROWBACKGROUNDS", (0, 1), (-1, -1), [colors.white, colors.HexColor("#F1F5F5")]),
+            ("LINEBELOW", (0, 1), (-1, -1), 0.35, colors.HexColor("#D3DDDE")),
+            ("VALIGN", (0, 0), (-1, -1), "TOP"),
+            ("TOPPADDING", (0, 0), (-1, -1), 4),
+            ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
         ]))
         if lv:
             first_total = len(lv.rows)
             grid.setStyle(TableStyle([
-                ("TOPPADDING", (0, 0), (-1, -1), 4),
-                ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
-                ("LINEABOVE", (0, first_total), (-1, first_total), 0.8, colors.HexColor("#" + ACCENT)),
+                ("LINEABOVE", (0, first_total), (-1, first_total), 0.8, navy),
                 ("BACKGROUND", (0, first_total), (-1, -1), colors.HexColor("#E1EAEC")),
                 ("NOSPLIT", (0, -2), (-1, -1)),
             ]))
@@ -476,6 +666,7 @@ def make_case(case, slug):
     combined.add_metadata({"/Title": case["titel"], "/Subject": case["zeichen"]})
     combined.write(out)
     combined.close()
+    embed_attachments(documents, originals)
     return {**originals, native_zip: archive({NOTICE_FILENAME: NOTICE_BYTES, **originals}),
             single_zip: archive({NOTICE_FILENAME: NOTICE_BYTES, **singles}), combined_pdf: out.getvalue(),
             "README.md": "\n".join(readme).encode()}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "tag": "qualitaetsrunde-v445.36.18",
+  "version": "445.36.18",
+  "title": "Verfahrensakten der Deutschen Interstate AG",
+  "plugins": [
+    {
+      "name": "vergabestelle-behoerden",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "preserved_prompts": {
+        "vergabestelle-behoerden-schnellstart.md": "d968fcf9a60093480cb32be239eee4cb954cee16216a8206b53101753360394d",
+        "vergabestelle-behoerden-werkstatt.md": "dba7494ecc173cb809ac0c2fa2d75bc18caa02e45a6db95a20df228cb97bb1eb"
+      },
+      "previous_release": {
+        "tag": "qualitaetsrunde-v445.36.17",
+        "version": "445.36.17",
+        "manifests": {
+          ".claude-plugin/plugin.json": "fd63b6f31ff7875bd932e03c1a02047499c4ce984e70a8b1cc4a1ca937654621"
+        }
+      }
+    }
+  ]
+}

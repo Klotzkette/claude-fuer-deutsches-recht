@@ -7,9 +7,13 @@ Date: Thu, 13 Aug 2026 14:43:00 +0200
 Message-ID: <5d3157c2372ff4e7b1602c99@fallpost.example>
 Subject: KF3 =?utf-8?q?=C2=B7_Wer_f=C3=BCr_die_Niederlassung_West_Erkl=C3=A4?=
  =?utf-8?q?rungen?= abgibt
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-a06595b149f55ec2c10f2a9e"
+
+--interstate-alt-a06595b149f55ec2c10f2a9e
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Frau T=C3=BCrk, f=C3=BCr KF3 d=C3=BCrfen Frau Evers und ich gemeinsam Vertrag=
 s=C3=A4nderungen und kostenwirksame Anordnungen erkl=C3=A4ren. Bei Angeboten =
@@ -24,3 +28,24 @@ us Sicherheitsgr=C3=BCnden stoppen. Er hat keine Vollmacht, zus=C3=A4tzliche =
 Verg=C3=BCtung oder abweichende Preise zu vereinbaren. Die Projektleitung kan=
 n Planst=C3=A4nde technisch freigeben. Bitte senden Sie Nachtragsangebote an =
 uns beide.
+
+--interstate-alt-a06595b149f55ec2c10f2a9e
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #17=
+4A61;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Frau T=C3=BCrk, =
+f=C3=BCr KF3 d=C3=BCrfen Frau Evers und ich gemeinsam Vertrags=C3=A4nderungen=
+ und kostenwirksame Anordnungen erkl=C3=A4ren. Bei Angeboten bis 10.000 Euro =
+netto darf ich allein schriftlich beauftragen. Bei dar=C3=BCberliegenden Ange=
+boten ben=C3=B6tigen Sie unsere gemeinsame Erkl=C3=A4rung. Eine einzelne E-Ma=
+il kann die Erkl=C3=A4rungen beider enthalten, wenn beide als Erkl=C3=A4rende=
+ erkennbar sind.</p><p>Herr Abel von der =C3=B6rtlichen Bau=C3=BCberwachung d=
+arf Aufma=C3=9F, Lage und ordnungsgem=C3=A4=C3=9Fe Ausf=C3=BChrung quittieren=
+. Er kann eine Arbeit aus Sicherheitsgr=C3=BCnden stoppen. Er hat keine Vollm=
+acht, zus=C3=A4tzliche Verg=C3=BCtung oder abweichende Preise zu vereinbaren.=
+ Die Projektleitung kann Planst=C3=A4nde technisch freigeben. Bitte senden Si=
+e Nachtragsangebote an uns beide.</p></div></body></html>
+
+--interstate-alt-a06595b149f55ec2c10f2a9e--

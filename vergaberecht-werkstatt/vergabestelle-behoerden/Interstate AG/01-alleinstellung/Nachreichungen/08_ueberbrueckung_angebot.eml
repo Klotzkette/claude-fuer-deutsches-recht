@@ -4,9 +4,13 @@ To: Benno Harms =?utf-8?q?=C2=B7?= Einkauf West <b.harms@interstate.example>
 Date: Mon, 16 Nov 2026 09:18:00 +0100
 Message-ID: <1e939df2348a8d007bf2322e@fallpost.example>
 Subject: Bestandsauskunft und befristeter Lesezugang nach Vertragsende
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-7a6ae37bbea19467f09fe161"
+
+--interstate-alt-7a6ae37bbea19467f09fe161
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Guten Tag Herr Harms, unsere Z=C3=A4hlung ergibt 168 vor Juli 2021 angelegte =
 Serien mit mindestens einem individuellen Ordnungsmerkmal. Unter Ihren 180 f=
@@ -31,3 +35,33 @@ atzbestellung, falls Sie den Altbestand nach dem 31. M=C3=A4rz weiter einsehe=
 n m=C3=B6chten. Bitte teilen Sie uns mit, ob Sie nur Muster und Felder f=C3=
 =BCr Ihren Vergleich ben=C3=B6tigen oder einen unterzeichnungsreifen Vertrags=
 entwurf w=C3=BCnschen.
+
+--interstate-alt-7a6ae37bbea19467f09fe161
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #52=
+436A;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Guten Tag Herr H=
+arms, unsere Z=C3=A4hlung ergibt 168 vor Juli 2021 angelegte Serien mit minde=
+stens einem individuellen Ordnungsmerkmal. Unter Ihren 180 f=C3=BCr die Ausst=
+ellung vorgemerkten Serien befinden sich elf aus dieser Gruppe. Der Bericht z=
+=C3=A4hlt Merkmale. Ob bei jedem betroffenen Datensatz die Reihenfolge im Sta=
+ndardexport fehlt, ist daraus nicht abzulesen. F=C3=BCr AL-04 und AL-08 vergl=
+eichen wir gerade die Exportliste mit den Bildkarten. AL-11 bedarf einer R=C3=
+=BCckfrage bei Ihrer Redaktion.</p><p>F=C3=BCr die Monate April und Mai 2027 =
+k=C3=B6nnen wir Ihnen einen schreibgesch=C3=BCtzten Lesezugang zum Altbestand=
+ f=C3=BCr zusammen 18.000 EUR netto anbieten. Die Nutzung erfordert eine geso=
+nderte Vereinbarung bis 15. Dezember. Die Vertragsverwaltung hat uns auf den =
+bereits geschuldeten Endexport hingewiesen. Dieser ist im Betrag nicht enthal=
+ten und wird nicht nochmals berechnet. F=C3=BCr die Fr=C3=BChjahrsausstellung=
+ w=C3=A4re ein Abruf aus dem Altbestand damit technisch m=C3=B6glich. Eine na=
+chtr=C3=A4gliche Freigabebearbeitung im alten Bestand ist mit dem Lesezugang =
+ausgeschlossen.</p><p>Unser Angebot f=C3=BCr die vollst=C3=A4ndige =C3=9Cbern=
+ahme bleibt bei den Zahlen aus Oktober. Der befristete Zugang w=C3=A4re eine =
+eigenst=C3=A4ndige Zusatzbestellung, falls Sie den Altbestand nach dem 31. M=
+=C3=A4rz weiter einsehen m=C3=B6chten. Bitte teilen Sie uns mit, ob Sie nur M=
+uster und Felder f=C3=BCr Ihren Vergleich ben=C3=B6tigen oder einen unterzeic=
+hnungsreifen Vertragsentwurf w=C3=BCnschen.</p></div></body></html>
+
+--interstate-alt-7a6ae37bbea19467f09fe161--

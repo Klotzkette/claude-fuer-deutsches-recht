@@ -6,9 +6,13 @@ Date: Tue, 15 Sep 2026 16:20:00 +0200
 Message-ID: <35a89a4ded3c603a13acb675@fallpost.example>
 Subject: Vorabinformation =?utf-8?q?f=C3=BCr_Flutzeichen_=C2=B7?=
  Lieferverfahren Pegelstationen
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="interstate-alt-550f0e812b4b8ee4697b91ea"
+
+--interstate-alt-550f0e812b4b8ee4697b91ea
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
-MIME-Version: 1.0
 
 Die Vergabestelle beabsichtigt, den Zuschlag der Uferpuls Instrumente KG zu e=
 rteilen. Ihr Angebot vom 7. September wurde f=C3=BCr die Zuschlagserteilung n=
@@ -26,3 +30,26 @@ ormation der Vergabestelle an Ihr Unternehmen. Die bereits eingegangene Nachr=
 icht vom 11. September befindet sich in der Akte.
 
 Mara Ilg
+
+--interstate-alt-550f0e812b4b8ee4697b91ea
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html lang=3D"de"><body><div style=3D"max-width:44em;border-top:3px solid #17=
+4A61;font:normal 15px/1.5 Arial,sans-serif;color:#24333b"><p>Die Vergabestell=
+e beabsichtigt, den Zuschlag der Uferpuls Instrumente KG zu erteilen. Ihr Ang=
+ebot vom 7. September wurde f=C3=BCr die Zuschlagserteilung nicht ber=C3=BCck=
+sichtigt. Der eingetragene Bestellschl=C3=BCssel P16/07 bezeichnet nach der v=
+orgelegten Schl=C3=BCsselkarte einen best=C3=BCckten Einschub. F=C3=BCr die g=
+eforderte Laufzeit brauchen die Stationen nach Ihrem Produktblatt zwei best=
+=C3=BCckte Einsch=C3=BCbe. Eine der Abgabe vorausgehende Sonderst=C3=BCcklist=
+e f=C3=BCr W-668 liegt uns nicht vor. Die nachgereichte Umsatzangabe E3 wurde=
+ bei der Entscheidung ber=C3=BCcksichtigt und ist kein Ausschlussgrund.</p><p=
+>Als fr=C3=BChesten Zuschlagstermin hat unser System den 25. September 2026 e=
+ingetragen. Ein Auftrag ist noch nicht erteilt. Dies ist die elektronische In=
+formation der Vergabestelle an Ihr Unternehmen. Die bereits eingegangene Nach=
+richt vom 11. September befindet sich in der Akte.</p><p>Mara Ilg</p></div></=
+body></html>
+
+--interstate-alt-550f0e812b4b8ee4697b91ea--

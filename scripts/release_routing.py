@@ -15,6 +15,17 @@ RELEASE_BASE = f"https://github.com/{REPOSITORY}/releases"
 MAX_RELEASE_ASSETS = 1000
 CENTRAL_CASE_SCOPE = "all-central"
 CENTRAL_CASE_SKIP_DIRS = {"megaprompts"}
+RAW_MAIN = f"https://raw.githubusercontent.com/{REPOSITORY}/main"
+KUENDIGUNG_DOWNLOADS = "docs/downloads/kuendigungsschutz"
+KUENDIGUNG_PLUGIN_DOWNLOADS = "arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/downloads"
+KUENDIGUNG_ZENTRAL = frozenset({
+    "arbeitsrecht-kuendigung-betriebsbedingt-leipzig",
+    "arbeitsrecht-kuendigung-schwangerschaft-augsburg",
+    "arbeitsrecht-muster-seewerk-konzept-radolfzell",
+    "arbeitsrecht-muster-seewerk-lebensakte-radolfzell",
+    "arbeitsrecht-verdachtskuendigung-bonn",
+})
+UFERWERK = "arbeitsrecht-muster-uferwerk-berufung"
 
 
 def central_case_slugs(root: Path = ROOT) -> tuple[str, ...]:
@@ -176,6 +187,9 @@ def case_asset_url(slug: str, suffix: str = "", *, version: str | None = None,
         raise ValueError(f"Unsupported case ZIP suffix: {suffix!r}")
     if slug == "inkasso-zahlungsklage-modefuchs":
         return f"https://raw.githubusercontent.com/{REPOSITORY}/main/docs/downloads/modefuchs/testakte-{slug}{suffix}.zip"
+    if slug in KUENDIGUNG_ZENTRAL:
+        directory = KUENDIGUNG_PLUGIN_DOWNLOADS if suffix else KUENDIGUNG_DOWNLOADS
+        return f"{RAW_MAIN}/{directory}/testakte-{slug}{suffix}.zip"
     pin = scoped_asset_url(f"testakte-{slug}{suffix}.zip", root=root)
     if pin:
         return pin
