@@ -61,6 +61,9 @@ jobs:
       - name: Vergabestellen-Akten und installierbares Paket prüfen
         if: contains(fromJSON('["qualitaetsrunde-v445.36.12","qualitaetsrunde-v445.36.13","qualitaetsrunde-v445.36.15","qualitaetsrunde-v445.36.16"]'), inputs.tag)
         run: |
+          RENDER_LIBS="$RUNNER_TEMP/vergabestelle-render"
+          python3 -m pip install --target "$RENDER_LIBS" -r vergaberecht-werkstatt/requirements-dev.txt
+          export PYTHONPATH="$RENDER_LIBS${PYTHONPATH:+:$PYTHONPATH}"
           python3 scripts/build-interstate-testakten.py --check
           python3 scripts/test-interstate-testakten.py
       - name: Patentanmelder-Ausgabe mit drei vollständigen Offline-Akten prüfen

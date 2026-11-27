@@ -1,7 +1,8 @@
 PyYAML>=6.0,<7
 jsonschema>=4.0,<5
 openpyxl>=3.1,<4
-pypdf>=5,<7
+# Die serialisierte Reihenfolge der PDF-Lesezeichen ist Teil des Bytevergleichs.
+pypdf==6.21.4
 python-docx>=1.1,<2
 reportlab>=4,<5
 Pillow>=10,<13
