@@ -119,7 +119,7 @@
   "cases": [
     {
       "id": "wertungsmatrix-vor-bekanntmachung",
-      "target_skill": "nachpruefung-bearbeiten",
+      "target_skill": "vergabeunterlagen-bearbeiten",
       "request": "Kuenstliche Testeingabe: Wir bereiten einen VgV-Dienstleistungsauftrag vor, es gibt weder Bekanntmachung noch echte Angebote. Der Fachbereich benoetigt kurze Wiederherstellungszeiten und eine nachweisbare Ausfallreserve. Entwurf: 40 Preispunkte nach 40 mal niedrigster Preis geteilt durch Angebotspreis, 60 Qualitaetspunkte. Rein modellierte Szenarien A, B und C haben Preise von 100000, 120000 und 110000 EUR sowie angenommene Qualitaetspunkte von 20, 55 und 45. Erstelle einen begruendeten Kriterien- und Bewertungsentwurf samt rechnerischem Stresstest. Kriterien duerfen nicht auf einen gewuenschten Anbieter zugeschnitten werden.",
       "input_files": [],
       "deliverables": [
@@ -216,6 +216,367 @@
           "text": "Stellungnahme verbindet Paragraf 165 GWB und den begrenzten Antea-Abwaegungsanker mit den konkreten Aktentypen. Behauptet weder sichere technische Schwaerzung noch Upload oder Versand und benennt die notwendige Freigabe.",
           "deliverables": [
             "kammerstellungnahme.md"
+          ]
+        }
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "id": "interstate-fotoarchiv",
+      "target_skill": "vergabe-os-master-orchestrator",
+      "request": "Die Leitung der Niederlassung West tagt am 18. November. Die Bildredaktion möchte nur Albumstrom einladen. Legen Sie entscheidungsreif vor, ob die Vergabestelle das darf und wie sie vor Ablauf des Archivvertrags den Ausstellungszugang sichern kann. Arbeiten Sie die Probe und die Eingabe von Lichtfaden in dieselbe Vorlage ein.",
+      "input_files": [
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/01-alleinstellung/Grundakte/01_bedarf_und_freigabe.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/01-alleinstellung/Grundakte/02_vertragsauszug_archivdienst.txt",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/01-alleinstellung/Grundakte/04_marktkontakte.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/01-alleinstellung/Grundakte/05_antwort_lichtfaden.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/01-alleinstellung/Grundakte/06_vermerk_dokumentation_entwurf.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/01-alleinstellung/Nachreichungen/07_protokoll_musteruebernahme.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/01-alleinstellung/Nachreichungen/08_ueberbrueckung_angebot.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/01-alleinstellung/Nachreichungen/09_widerspruch_lichtfaden.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/01-alleinstellung/Nachreichungen/10_eingang_und_einladungsstand.txt"
+      ],
+      "decode_mime_mail": true,
+      "deliverables": [
+        "entscheidung-fotoarchiv.md"
+      ],
+      "criteria": [
+        {
+          "id": "P01",
+          "text": "Prüft den konkreten Ausnahmetatbestand für technische Ausschließlichkeit und vertretbare Alternativen. Vertraglicher Endexport, gesicherte Freigaben und serienbezogene Reihenfolge sind für den Bedarf maßgeblich. Die Erfahrung des bisherigen Dienstleisters genügt für eine exklusive Einladung nicht.",
+          "deliverables": [
+            "entscheidung-fotoarchiv.md"
+          ]
+        },
+        {
+          "id": "P02",
+          "text": "Wertet die 40 Probeserien aus. Bei allen 28 neuen sowie neun der zwölf alten verlief die Übernahme ordnungsgemäß. Zwei Bildunterschriften und eine Reihenfolge sind zu klären. Die gezielte Auswahl erlaubt keine Hochrechnung auf den gesamten Altbestand.",
+          "deliverables": [
+            "entscheidung-fotoarchiv.md"
+          ]
+        },
+        {
+          "id": "P03",
+          "text": "Empfiehlt eine konkrete Entscheidung zur Einladung und nennt die nächste vergleichbare Probe. Ordnet den nur lesenden Übergang für 18.000 Euro, die bis 15. Dezember erforderliche Vereinbarung und den bereits geschuldeten Export getrennt ein. Antwort an Lichtfaden und interne Entscheidung bleiben Entwürfe.",
+          "deliverables": [
+            "entscheidung-fotoarchiv.md"
+          ]
+        }
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "id": "interstate-losentscheidung",
+      "target_skill": "vergabeart-und-schwelle-bearbeiten",
+      "request": "Bereiten Sie für den Einkauf die Entscheidung zur Aufteilung der Sanierung Weidenstück vor. Stellen Sie dem Gesamtauftrag getrennte Fach- und Teillose gegenüber. Die eingegangenen Angebote zur Koordination und Ersatzhalle müssen in die Kosten- und Terminentscheidung einfließen.",
+      "input_files": [
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/02-fachlose/Grundakte/01_bauauftrag_weidenstueck.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/02-fachlose/Grundakte/02_kostenschaetzung.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/02-fachlose/Grundakte/03a_losspiegel.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/02-fachlose/Grundakte/04_zeit_und_kostenvergleich.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/02-fachlose/Grundakte/05a_interesse_teillos.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/02-fachlose/Grundakte/06_fachvermerk_gesamtauftrag.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/02-fachlose/Nachreichungen/07_angebot_mietverlaengerung.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/02-fachlose/Nachreichungen/08_planer_stellungnahme.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/02-fachlose/Nachreichungen/09_richtpreis_gewerke.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/02-fachlose/Nachreichungen/10_einspruch_teillos_sued.eml"
+      ],
+      "decode_mime_mail": true,
+      "deliverables": [
+        "losentscheidung.md"
+      ],
+      "criteria": [
+        {
+          "id": "P01",
+          "text": "Ordnet die Bauleistung über den geschätzten Gesamtwert von 7.180.000 Euro netto ein. Die Baustelleneinrichtung ist in der Schätzung einmal enthalten. Losbildung ändert den Wertansatz für die Regimewahl nicht.",
+          "deliverables": [
+            "losentscheidung.md"
+          ]
+        },
+        {
+          "id": "P02",
+          "text": "Untersucht Beton, Oberflächenschutz und Malerarbeiten je Nord/Süd sowie das konkrete Interesse an Beschichtung Süd. Benennt die Übergabe von Beton an Beschichtung und behandelt die unabhängigen Sozialräume gesondert. Wirtschaftliche und technische Gründe für jede Bündelung werden belegt.",
+          "deliverables": [
+            "losentscheidung.md"
+          ]
+        },
+        {
+          "id": "P03",
+          "text": "Ersetzt für drei Fachlose 360 Stunden durch angebotene 220 Stunden zu 120 Euro, also 26.400 Euro. Mit der nur bis 15. September angebotenen Mietverlängerung von 13.500 Euro ergibt das bedingt 39.900 Euro. 220 Stunden und Termin 10. September sind für sechs Einzelaufträge nicht zugesagt. Bezeichnet fehlende Nutzerfreigaben und die zwei Angebotsfristen.",
+          "deliverables": [
+            "losentscheidung.md"
+          ]
+        }
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "id": "interstate-pegelstationen",
+      "target_skill": "unterlagen-und-quellen-auswerten-bearbeiten",
+      "request": "Prüfen Sie für die Vergabestelle die Beleglage zu W-668 am 11. September nach Eingang der Bieterstellungnahme. Der Fachbereich bittet um Mitzeichnung seines Ausschlussvermerks. Legen Sie ihm eine überprüfbare Gegenüberstellung von Angebotsinhalt, Umsatznachweis und späterer technischer Erklärung vor.",
+      "input_files": [
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/03-ausschluss/Grundakte/00_pruefbitte_wertung_w668.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/03-ausschluss/Grundakte/02_leistungsverzeichnis.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/03-ausschluss/Grundakte/03_bieterinformation.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/03-ausschluss/Grundakte/04_angebot_flutzeichen.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/03-ausschluss/Grundakte/05_oeffnungsprotokoll.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/03-ausschluss/Grundakte/06_nachforderung_e3.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/03-ausschluss/Grundakte/07_technische_rueckfrage.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/03-ausschluss/Grundakte/08_vermerk_wertung.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/03-ausschluss/Nachreichungen/09_umsatzantwort.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/03-ausschluss/Nachreichungen/10_schluesselkarte.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/03-ausschluss/Nachreichungen/11_bieterstellungnahme.eml"
+      ],
+      "decode_mime_mail": true,
+      "deliverables": [
+        "belegpruefung-w668.md"
+      ],
+      "criteria": [
+        {
+          "id": "P01",
+          "text": "Trennt die nachgeforderte E3-Erklärung von der technischen Konfiguration und würdigt den fristgerechten Umsatznachweis. Die drei Unternehmensumsätze belegen keinen zweiten Akkueinschub.",
+          "deliverables": [
+            "belegpruefung-w668.md"
+          ]
+        },
+        {
+          "id": "P02",
+          "text": "Gleicht die Bestätigung von 96 Stunden und den Preis von 418.800 Euro mit der Schlüsselkarte und dem leeren Kundenstücklistenfeld ab. P16/07 hatte regulär einen bestückten Einschub. Eine abweichende vorfristige Stückliste ist unbewiesen. Benennt das Gegenargument der zugesicherten Leistung.",
+          "deliverables": [
+            "belegpruefung-w668.md"
+          ]
+        },
+        {
+          "id": "P03",
+          "text": "Behandelt die angebotene Umstellung auf P16/07-D zum selben Preis gesondert als möglichen nachträglichen Austausch; würdigt, ob der ursprüngliche Angebotsinhalt bei Fristablauf schon feststand. Begründet die Entscheidung anhand von Unterlagen und Erklärungszeitpunkten.",
+          "deliverables": [
+            "belegpruefung-w668.md"
+          ]
+        }
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "id": "interstate-referenz-riedtal",
+      "target_skill": "vergabeunterlagen-bearbeiten",
+      "request": "Entwerfen Sie für West und Ost eine prüfbare Neufassung der Referenzanforderung 4.2 und den zugehörigen Portaltext. Anlass ist die konkrete Nachfrage zur Referenz für den Landesbetrieb. Kennzeichnen Sie, welche Anforderungen den eigenständigen Leistungsanteil im Vergleichsprojekt belegen.",
+      "input_files": [
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/08-leitplanung/Grundakte/00_rueckfrage_referenz.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/08-leitplanung/Grundakte/01_projektauftrag_riedtal.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/08-leitplanung/Grundakte/03_leistungsbild_schnittstellen.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/08-leitplanung/Grundakte/05_bekanntmachung_teilnahme.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/08-leitplanung/Grundakte/06_bewerberfrage_auftraggeber.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/08-leitplanung/Grundakte/07_auskunft_04.txt",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/08-leitplanung/Grundakte/08_referenzblatt_wiesenbogen.docx"
+      ],
+      "decode_mime_mail": true,
+      "deliverables": [
+        "referenzklausel-und-portaltext.md"
+      ],
+      "criteria": [
+        {
+          "id": "P01",
+          "text": "Formuliert eine auf Variantenuntersuchung, Länge, Konfliktvergleich und dokumentierte Schnittstellen bezogene Vergleichbarkeit, die auch sachlich geeignete Referenzen anderer Auftraggeber zulässt. Eine Benennung der Interstate AG als Pflichtkunde wird auf ihre Verhältnismäßigkeit geprüft.",
+          "deliverables": [
+            "referenzklausel-und-portaltext.md"
+          ]
+        },
+        {
+          "id": "P02",
+          "text": "Würdigt 8,4 Kilometer, drei Varianten, Abnahme am 12. Dezember 2025 sowie extern gelieferte Biotopkartierung. Die eigene Zusammenführung der Achs- und Umweltdaten ist zu prüfen. Weder die Zulassung noch der Ausschluss des konkreten Bewerbers wird vorweggenommen.",
+          "deliverables": [
+            "referenzklausel-und-portaltext.md"
+          ]
+        },
+        {
+          "id": "P03",
+          "text": "Unterscheidet die bereits publizierte 4.2 und Auskunft 04 von einer inhaltlichen Berichtigung. Plant eine einheitliche, dokumentierte Information und eine angemessene neue Teilnahmefrist bei wesentlicher Änderung.",
+          "deliverables": [
+            "referenzklausel-und-portaltext.md"
+          ]
+        }
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "id": "interstate-kolonnen",
+      "target_skill": "ruege-bearbeiten",
+      "request": "Am 15. Oktober liegt ein noch nicht abgesandter Antwortentwurf zu den Markierungsarbeiten vor. Bearbeiten Sie die Eingabe von Linienwerk und das Schreiben des Fachkreises aus Sicht des Einkaufs. Legen Sie intern vor, was die Vergabestelle im Portal veranlassen soll.",
+      "input_files": [
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/10-fahrbahnmarkierung/Grundakte/00_disposition_kolonnen.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/10-fahrbahnmarkierung/Grundakte/02_auszug_bekanntmachung.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/10-fahrbahnmarkierung/Grundakte/04_frage_sperrfenster.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/10-fahrbahnmarkierung/Grundakte/05_auskunft_an_alle.txt",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/10-fahrbahnmarkierung/Nachreichungen/06_widerspruch_kolonnen.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/10-fahrbahnmarkierung/Nachreichungen/07_transaktionsjournal.txt",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/10-fahrbahnmarkierung/Nachreichungen/08_kalender_parallelabrufe.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/10-fahrbahnmarkierung/Nachreichungen/09_einspruch_fachkreis.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/10-fahrbahnmarkierung/Nachreichungen/10_erwiderung_bauueberwachung.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/10-fahrbahnmarkierung/Nachreichungen/11_antwortentwurf_einkauf.docx"
+      ],
+      "decode_mime_mail": true,
+      "deliverables": [
+        "antwortentwuerfe-k3.md"
+      ],
+      "criteria": [
+        {
+          "id": "P01",
+          "text": "Ordnet die Nachricht von Linienwerk anhand des Abhilfeverlangens und der behaupteten K3-Beschränkung ein. Trennt Unterlagenabruf, Anfrage, allgemeine Antwort und dokumentierten Eingang des Widerspruchs am 12. Oktober um 16:37 Uhr. Der Abruf allein belegt keine positive Kenntnis.",
+          "deliverables": [
+            "antwortentwuerfe-k3.md"
+          ]
+        },
+        {
+          "id": "P02",
+          "text": "Vergleicht den vorläufigen Kalender und den Entwurf. R-17 und R-38 im April betreffen verschiedene Lose. R-26/R-27 im Mai sind im selben Los angesetzt, aber nur vorläufig bzw. optional. Darauf lässt sich die pauschale Zweikolonnenpflicht pro Los nicht ungeprüft stützen.",
+          "deliverables": [
+            "antwortentwuerfe-k3.md"
+          ]
+        },
+        {
+          "id": "P03",
+          "text": "Behandelt den Fachkreis ohne eigenes Angebotsinteresse separat und prüft seinen fachlichen Hinweis zur Reinigung inhaltlich. Enthält einen Antwortentwurf und einen internen Vorschlag für Berichtigung und Frist; 19. Oktober ist der veröffentlichte und 27. Oktober erst der reservierte Termin.",
+          "deliverables": [
+            "antwortentwuerfe-k3.md"
+          ]
+        }
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "id": "interstate-wertung-pruefbuch",
+      "target_skill": "arbeitsprodukt-bearbeiten",
+      "request": "Erstellen Sie für Los 1 des mobilen Prüfbuchs die Wertungsrechnung nach dem nachgereichten Testprotokoll. Halten Sie in einer für beide Prüfer nutzbaren Wertung fest, welche Beweisfrage über den Zuschlagsvorschlag entscheidet und an welchem Material sie noch geklärt werden kann.",
+      "input_files": [
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/11-it-baupruefung/Grundakte/00_wertungsunterlagen_export.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/11-it-baupruefung/Grundakte/03_veroeffentlichte_wertungsregeln.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/11-it-baupruefung/Grundakte/04_bieterfrage_und_antwort.txt",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/11-it-baupruefung/Grundakte/05_eingereichte_preise.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/11-it-baupruefung/Grundakte/06_wertungsbogen.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/11-it-baupruefung/Nachreichungen/08_einspruch_wertung.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/11-it-baupruefung/Nachreichungen/10_testprotokoll_mit_verzeichnis.docx"
+      ],
+      "decode_mime_mail": true,
+      "deliverables": [
+        "wertungsbogen-los-1.md"
+      ],
+      "criteria": [
+        {
+          "id": "P01",
+          "text": "Rechnet mit den eingereichten Preisen 380.000 und 400.000 Euro und den veröffentlichten Gewichten. Planquell hat 40 Preis- und 32 Übergabepunkte, Pultfeld 38 und 31. Für Pultfeld ergeben 20 E3-Punkte insgesamt 89.",
+          "deliverables": [
+            "wertungsbogen-los-1.md"
+          ]
+        },
+        {
+          "id": "P02",
+          "text": "Prüft Hauptblatt und Bilderliste mit der gemeinsamen Kennung C-017 und FOTO-17. Eine separate Referenztabelle ist zulässig. Die gleiche Kennung allein beweist noch keine automatische Verknüpfung ohne Nacherfassung im damaligen Export.",
+          "deliverables": [
+            "wertungsbogen-los-1.md"
+          ]
+        },
+        {
+          "id": "P03",
+          "text": "Zeigt beide entscheidungsrelevanten Varianten. Planquell erreicht 82 bei zehn oder 92 bei zwanzig E3-Punkten. Klärt den Befund am gesicherten ursprünglichen Demoexport und dokumentiert beide Prüferstimmen, ohne neue Softwareversion oder zusätzliche Wertungsstufe zuzulassen.",
+          "deliverables": [
+            "wertungsbogen-los-1.md"
+          ]
+        }
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "id": "interstate-kammer-riedanger",
+      "target_skill": "nachpruefung-bearbeiten",
+      "request": "Die Vergabekammer hat die Niederlassung am 16. November über den Antrag zu Los B unterrichtet. Bereiten Sie als Vergabestelle die Verfügung für das Zuschlagsbuch und die erste Stellungnahme an die Kammer vor. Prüfen Sie den angegriffenen Zeitvorteil selbst anhand der Originalangebote.",
+      "input_files": [
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/09-brueckenneubau/Grundakte/02_bekanntmachung_und_wertung.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/09-brueckenneubau/Grundakte/06_angebotsoeffnung.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/09-brueckenneubau/Grundakte/08_wertung_los_b.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/09-brueckenneubau/Grundakte/09_vorinformation_talbogen.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/09-brueckenneubau/Grundakte/10_widerspruch_talbogen.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/09-brueckenneubau/Nachreichungen/11_originalvergleich_zeitangebote.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/09-brueckenneubau/Nachreichungen/12_ereignisse_kommunikation.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/09-brueckenneubau/Nachreichungen/13_antwort_auf_widerspruch.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/09-brueckenneubau/Nachreichungen/14_kopie_nachpruefungsantrag.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/09-brueckenneubau/Nachreichungen/15_unterrichtung_kammer.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/09-brueckenneubau/Nachreichungen/16_zuschlagsbuch.txt"
+      ],
+      "decode_mime_mail": true,
+      "deliverables": [
+        "kammerverfuegung-los-b.md"
+      ],
+      "criteria": [
+        {
+          "id": "P01",
+          "text": "Unterscheidet Antragseingang bei der Kammer 08:41, Unternehmerkopie 08:55, amtliche Unterrichtung 12:26 und interne Zuordnung 12:31. Ordnet das Zuschlagsverbot dem amtlichen Vorgang zu. Die nur vorgemerkte Freigabe am 17. November um 09 Uhr wird für Los B gesperrt.",
+          "deliverables": [
+            "kammerverfuegung-los-b.md"
+          ]
+        },
+        {
+          "id": "P02",
+          "text": "Stellt der ursprünglichen Wertung die Daten der verbindlichen Formblätter gegenüber. Talbogen erreicht 85 + 9 = 94 Punkte. Bei Furchenweg sind vier Tage verbindlich, zehn nur bedingt. 83,11 + 6 ergibt 89,11 Punkte; das Rangverhältnis kehrt sich um.",
+          "deliverables": [
+            "kammerverfuegung-los-b.md"
+          ]
+        },
+        {
+          "id": "P03",
+          "text": "Trennt die elektronische Wartefrist zur Vorinformation vom 6. November und die selbständige Sperre gemäß § 169 Abs. 1 GWB. Veranlasst die begründete Vorlage bis 19. November um 12 Uhr mit vertraulichen Daten in gesonderter Fassung. Behandelt Abhilfe, erneute Information und die nicht angegriffenen Lose getrennt.",
+          "deliverables": [
+            "kammerverfuegung-los-b.md"
+          ]
+        }
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "id": "interstate-abschlag-kf3",
+      "target_skill": "arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten",
+      "request": "Prüfen Sie die versandte Prüfnachricht zum Nachtrag N7 gegen Aufmaß, Gerätezeiten und die Antwort vom 24. November. Die Vertragsleitung braucht vor dem Zahlungslauf eine begründete Freigabeempfehlung mit Rechenweg, verbleibender Doppelzählungsgefahr und Antwort an den Auftragnehmer.",
+      "input_files": [
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Grundakte/00_abschlag_4_zahlungslauf.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Grundakte/00_auftrags_lv_kf3.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Grundakte/01_bauvertrag.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Grundakte/02_zustaendigkeit.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Grundakte/03_aenderungsbegehren.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Grundakte/04_planfreigabe.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Grundakte/05_nachtragsangebot.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Grundakte/06_freigabeposten.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Grundakte/07_vertragsleitung.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Grundakte/08_abschlagsbegehren.docx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Nachreichungen/09_feldbuch.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Nachreichungen/10_schichtabgleich.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Nachreichungen/11_nachtrags_lv_n7.xlsx",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Nachreichungen/12_pruefmitteilung_n7.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Nachreichungen/13_widerspruch_pruefabzug.eml",
+        "vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/06-nachtrag/Nachreichungen/14_eingang_und_zahlungslauf.txt"
+      ],
+      "decode_mime_mail": true,
+      "deliverables": [
+        "kontrollvermerk-n7.md"
+      ],
+      "criteria": [
+        {
+          "id": "P01",
+          "text": "Unterscheidet das Angebot über 21.188 Euro, den verlangten Abschlag von 16.950,40 Euro und den fortgeschriebenen Zwischenstand von 12.924 Euro. Dieser folgt aus 124 × 58 + 44 × 21 + 4 × 850 + 16 × 88. Das Nachtrags-LV ist keine neue Rechnung.",
+          "deliverables": [
+            "kontrollvermerk-n7.md"
+          ]
+        },
+        {
+          "id": "P02",
+          "text": "Stellt Grundsicherung und nachgewiesene zweite Tafel RS-77 sowie Hauptbagger, sechs Stunden Regelgraben, sechs Stunden Verbreiterung und vier am Wandkopf gegenüber. Bezeichnet die Gefahr doppelter Vergütung der Verbreiterung neben dem Meterpreis und belegt, welche Mengen und Beträge vorläufig vertretbar sind.",
+          "deliverables": [
+            "kontrollvermerk-n7.md"
+          ]
+        },
+        {
+          "id": "P03",
+          "text": "Prüft Anordnung, Vertretung und Voraussetzungen des § 650c Abs. 3 BGB im konkreten Bauvertrag. Der Systemstatus Rückfrage, der Widerspruch und die angebotene Personalreservierung bis 14 Uhr sind keine Zahlungsfreigabe oder Änderungsanordnung.",
+          "deliverables": [
+            "kontrollvermerk-n7.md"
           ]
         }
       ],

@@ -11,10 +11,81 @@ ROOT=Path(__file__).resolve().parents[1]
 BEGIN='<!-- BEGIN FACHMODULE-NAVIGATION -->'
 END='<!-- END FACHMODULE-NAVIGATION -->'
 
+# Aktenaufträge für die Vergabestelle. Namen und Zuständigkeiten kommen aus den Skills und der Registry.
+VERGABESTELLE_AUFTRAEGE = {
+    'vergabe-os-master-orchestrator': ('1-direkte-einstiege-und-fachwerkzeuge', 'Morgen ist Freigaberunde. Was können wir nach Aktenlage entscheiden?', 'Entscheidungsvorlage mit Empfehlung, offenen Freigaben und nächstem Termin.'),
+    'vergabeart-und-schwelle-bearbeiten': ('2-vergabeart-und-schwelle', 'Am Betriebshof werden Beton, Beschichtung und Malerarbeiten vergeben. Können Betriebe nur für ein Gewerk oder einen Gebäudeteil anbieten?', 'Auftragswertschätzung, Vergleich der Loszuschnitte und begründete Verfahrenswahl.'),
+    'vergabeunterlagen-bearbeiten': ('3-vergabeunterlagen', 'Im Leistungsverzeichnis steht ein Fabrikat. Was muss vor der Bekanntmachung geändert werden?', 'Freigabefassung der betroffenen Position mit Leistungsanforderungen und Nachweisen für die Gleichwertigkeit.'),
+    'ruege-bearbeiten': ('4-rüge', 'Ein Betrieb beanstandet die Pflicht zu zwei Kolonnen für ein Los. Wie reagieren wir vor Ablauf der Angebotsfrist?', 'Antwortentwurf und Entscheidung über Abhilfe, Berichtigung der Unterlagen und Angebotsfrist.'),
+    'nachpruefung-bearbeiten': ('5-nachpruefung', 'Die Vergabekammer fordert die Akte und eine Stellungnahme zum geplanten Zuschlag an. Was legen wir vor?', 'Stellungnahme zu den Angriffspunkten mit Aktenfundstellen, Vorlageverzeichnis und Fristen.'),
+    'arbeitsprodukt-bearbeiten': ('6-arbeitsprodukt', 'Ein Angebot ist beim Preis besser, das andere bei der Bauzeit. Welche Wertung tragen die Formblätter?', 'Nachgerechnete Wertungsmatrix und begründeter Zuschlagsvorschlag.'),
+    'unterlagen-und-quellen-auswerten-bearbeiten': ('7-unterlagen-und-quellen-auswerten', 'Im Wertungsbogen fehlt ein Bildverweis. Welche Vorgaben und Testprotokolle belegen den Befund?', 'Belegübersicht mit Fundstellen, widersprüchlichen Angaben und gezielter Anforderung fehlender Unterlagen.'),
+    'arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten': ('8-arbeitsprodukt-ausarbeiten-und-kontrollieren', 'Der Ausschlussvermerk liegt zur Unterschrift vor. Passen Begründung, Preisblatt und Bieterantwort zusammen?', 'Gegengelesene Entscheidungsvorlage mit konkreten Korrekturen und offenen Freigabepunkten.'),
+}
+
+# Lesetitel einzelner Fachvertiefungen mit historischen Datei- und Überschriftennamen.
+VERGABESTELLE_FACHFRAGEN = {
+    '21-aufhebung-rechtssicher': 'Aufhebung der Ausschreibung begründen',
+    '30-datenschutz-bieterdaten': 'Personenbezogene Bieterdaten schützen',
+    'ausschluss-bieter-paragraf-124-gwb': 'Fakultativen Ausschluss nach § 124 GWB prüfen',
+    'inhouse-interkommunal': 'Auftrag an eine eigene Gesellschaft oder eine andere Kommune prüfen',
+    'mandat-triage-vergaberecht': 'Bei Akteneingang Fristen und anstehende Entscheidungen erkennen',
+    'oeffentlich-privat-partnerschaft': 'Öffentlich-private Partnerschaft prüfen',
+    'uvgo-fristen-form-und-zustaendigkeit': 'Unterschwellenvergabe nach UVgO auf Fristen, Form und Zuständigkeit prüfen',
+    'verg-mehrparteien-konflikt-und-interessen': 'Interessen und Zuständigkeiten mehrerer Beteiligter klären',
+    'wirklichkeitsdaten-beschaffung-steuern': 'Betriebs- und Planungsdaten für die Beschaffung prüfen',
+    'freiberufliche-leistungen-hoai': 'Planungsaufträge und andere freiberufliche Leistungen vergeben',
+    'vergaberecht-anti-korruption-paragraf-123-gwb': 'Korruptionsvorwürfe und zwingende Ausschlussgründe nach § 123 GWB prüfen',
+    'vergaberueg-paragraf-160-gwb': 'Rüge und Rügefrist nach § 160 GWB prüfen',
+    'bekanntmachung-berichtigung-und-upload-routing': 'Bekanntmachung berichtigen und den Versand im Portal nachweisen',
+    'dokumente-intake': 'Eingegangene Vergabeunterlagen erfassen und zuordnen',
+    'einstieg-routing': 'Bearbeitungsstand und nächsten Auftrag klären',
+    'quellen-livecheck': 'Geltung und Fundstelle der Rechtsgrundlagen prüfen',
+    'sektvo-dokumentenmatrix-und-lueckenliste': 'Fehlende Unterlagen in der Sektorenvergabe bestimmen',
+    'vergabesenat-quellenkarte': 'Entscheidungen des Vergabesenats mit Fundstellen zusammenstellen',
+    'workflow-kaltstart-und-routing': 'Einzelunterlage sichten und die konkrete Vergabefrage bestimmen',
+    'konzvgv-risikoampel-und-gegenargumente': 'Risiken und Gegenargumente einer Konzessionsvergabe prüfen',
+    'orientierung-fehlerkatalog': 'Typische Fehler im Verfahrensentwurf erkennen',
+    'output-waehlen': 'Benötigten Vermerk, Antwortbrief oder Schriftsatz bestimmen',
+    'spezial-orientierung-red-team-und-qualitaetskontrolle': 'Entwurf aus Sicht eines Einwenders gegenprüfen',
+}
+
 def title(path):
     text=path.read_text(encoding='utf-8')
     heading=re.search(r'^#\s+(.+)$',text,re.M)
     return (heading[1] if heading else path.parent.name).replace('[','').replace(']','')
+
+def vergabestellen_navigation(plugin, directory, count):
+    main, = plugin['keep']
+    routes = [(main, title(directory/'skills'/main/'SKILL.md'), plugin['keep'])]
+    routes.extend((route['slug'], route['title'], route['members']) for route in plugin['routes'])
+    if {slug for slug, _, _ in routes} != set(VERGABESTELLE_AUFTRAEGE):
+        raise ValueError('Die Auftragsauswahl muss jeden aktiven Behörden-Skill enthalten.')
+    menu = [BEGIN, '', '<a id="skills"></a>', '', '## Welcher Auftrag liegt auf Ihrem Tisch?', '',
+            'Hängen Sie die Unterlagen an und nennen Sie die anstehende Entscheidung oder das gewünschte Schreiben. '
+            'Für einen ganzen Vorgang beginnen Sie mit dem ersten Arbeitsweg.', '',
+            '| Arbeitsweg | Auftrag aus der Praxis | Was Sie erhalten |', '| --- | --- | --- |']
+    catalog = ['<a id="fachmodule-und-arbeitswege"></a>', '', '# Fachmodule für die Vergabestelle', '',
+               f'Die {len(routes)} Arbeitswege erschließen den Hauptskill und {count - 1} Fachvertiefungen. Wählen Sie einen Arbeitsweg, wenn Sie eine Entscheidung '
+               'oder einen Entwurf brauchen. Für eine einzelne Fachfrage können Sie direkt zum passenden Prüfschritt oder Rechtsgebiet springen.', '',
+               '[Aufträge und Beispiele im Plugin-Einstieg](README.md#skills)', '']
+    source = directory.relative_to(ROOT).as_posix()
+    for number, (slug, name, _) in enumerate(routes, 1):
+        anchor, example, result = VERGABESTELLE_AUFTRAEGE[slug]
+        download = f"https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path={source}/skills/{slug}/SKILL.md"
+        menu.append(f'| [{name}]({download}) | {example} | {result} |')
+        catalog.append(f'{number}. [{name}](#{anchor})')
+    for number, (slug, name, members) in enumerate(routes, 1):
+        anchor, _, result = VERGABESTELLE_AUFTRAEGE[slug]
+        catalog.extend(['', f'<a id="{anchor}"></a>', '', f'## {number}. {name}', '', result, '',
+                        f'[Arbeitsweg öffnen](skills/{slug}/SKILL.md)', ''])
+        for member in members:
+            if member != main:
+                path = directory/'skills'/member/'FACHINHALT.md'
+                label = VERGABESTELLE_FACHFRAGEN.get(member) or title(path)
+                catalog.append(f'- [{label}](skills/{member}/FACHINHALT.md)')
+    menu.extend(['', f'[Hauptskill und {count - 1} Fachvertiefungen nach Arbeitsweg](FACHMODULE.md)', '', END])
+    return '\n'.join(catalog).rstrip()+'\n', '\n'.join(menu)
 
 def outputs(plugin):
     replacement = replacements().get(plugin['name'])
@@ -53,6 +124,8 @@ def outputs(plugin):
     lines[4]='[Plugin-Einstieg](README.md)'
     index='\n'.join(lines)
     block=f'{BEGIN}\n\nDas Plugin bietet **{active} auswählbare Skills**. Die **{count} vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.\n\n{END}'
+    if plugin['name'] == 'vergabestelle-behoerden':
+        index, block = vergabestellen_navigation(plugin, directory, count)
     path=directory/'README.md';readme=path.read_text()
     if BEGIN in readme:
         start,end=readme.index(BEGIN),readme.index(END)+len(END);readme=readme[:start]+block+readme[end:]

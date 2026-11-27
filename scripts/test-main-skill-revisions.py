@@ -8,6 +8,7 @@ from unittest.mock import patch
 
 import main_skill_revisions as rev
 import quality_lab as lab
+import vergabestelle_revision as vergabe
 from release_routing import RELEASE_BASE, plugin_asset_url
 
 
@@ -16,6 +17,44 @@ def put(root, path, data):
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_bytes(data if isinstance(data, bytes) else json.dumps(data).encode())
     return target
+
+
+class VergabestellenRevisionTests(unittest.TestCase):
+    def test_genauer_veroeffentlichter_vorstand_und_rueckrollschutz(self):
+        root = Path(__file__).resolve().parents[1]
+        record = json.loads((root / vergabe.EVIDENCE / "bestand.json").read_bytes())["dateien"]
+        vergabepfade = vergabe.SKILLS | {vergabe.MEGAPROMPT, vergabe.REGISTRY}
+        self.assertEqual(set(record), vergabepfade)
+        for name in sorted(vergabepfade):
+            with self.subTest(name=name):
+                current = (root / name).read_bytes()
+                prior = vergabe.previous(root, name, current)
+                self.assertEqual(rev.digest(prior), record[name]["vorher"])
+                self.assertEqual(rev.digest(current), record[name]["nachher"])
+                self.assertNotEqual(prior, current)
+                for changed in (prior, current + b"ungepruefter Zusatz"):
+                    with self.assertRaises(ValueError):
+                        vergabe.previous(root, name, changed)
+        skill = sorted(vergabepfade - {vergabe.REGISTRY, vergabe.MEGAPROMPT})[0]
+        with self.assertRaises(ValueError):
+            vergabe.previous(root, skill, (root / skill).read_bytes(), plugin="bieter-unternehmen")
+
+    def test_ungeprueftes_register_und_archiv_werden_zurueckgewiesen(self):
+        root = Path(__file__).resolve().parents[1]
+        name = sorted(vergabe.SKILLS)[0]
+        live = (root / name).read_bytes()
+        with tempfile.TemporaryDirectory() as folder:
+            testcase = Path(folder)
+            for file in ("bestand.json", "vorfassungen.zip"):
+                put(testcase, vergabe.EVIDENCE / file, (root / vergabe.EVIDENCE / file).read_bytes())
+            archive = testcase / vergabe.EVIDENCE / "vorfassungen.zip"
+            archive.write_bytes(archive.read_bytes() + b"geandert")
+            with self.assertRaisesRegex(ValueError, "Archiv"):
+                vergabe.previous(testcase, name, live)
+            register = testcase / vergabe.EVIDENCE / "bestand.json"
+            register.write_bytes(register.read_bytes() + b" ")
+            with self.assertRaisesRegex(ValueError, "Prüfnachweis"):
+                vergabe.previous(testcase, name, live)
 
 
 class FachkorrekturTests(unittest.TestCase):

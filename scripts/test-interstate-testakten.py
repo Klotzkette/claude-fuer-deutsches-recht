@@ -325,7 +325,7 @@ class InterstateLeistungsverzeichnisTests(unittest.TestCase):
 
 class InterstatePluginTests(unittest.TestCase):
     def test_installierbares_desktop_paket(self):
-        scope = ROOT / "scripts/data/qualitaetsrunde-v445.36.16-scope.json"
+        scope = ROOT / "scripts/data/qualitaetsrunde-v445.36.17-scope.json"
         edition = json.loads(scope.read_text())
         tag = edition["tag"]
         with tempfile.TemporaryDirectory() as output:
@@ -333,6 +333,15 @@ class InterstatePluginTests(unittest.TestCase):
                             "--scope", str(scope), "--dist", output], cwd=ROOT, check=True)
             name = "vergabestelle-behoerden.zip"
             with ZipFile(Path(output) / name) as package:
+                from skill_sources import original_skill_sources
+                plugin = COLLECTION.parent
+                active = sorted((plugin / "skills").glob("*/SKILL.md"))
+                modules = original_skill_sources(plugin)
+                self.assertEqual(len(active), 8)
+                self.assertEqual(len(modules), 122)
+                for path in set(active) | set(modules):
+                    member = path.relative_to(plugin).as_posix()
+                    self.assertEqual(package.read(member), path.read_bytes(), member)
                 readme = package.read("README.md").decode()
                 self.assertIn(f"/releases/download/{tag}/{name}", readme)
                 self.assertNotIn(f"/releases/download/{edition['plugins'][0]['previous_release']['tag']}/{name}", readme)

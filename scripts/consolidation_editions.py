@@ -6,6 +6,8 @@ import json
 from pathlib import Path
 from zipfile import ZipFile
 
+from vergabestelle_revision import previous as before_vergabestelle
+
 PROOF = Path("quality/plugin-consolidation/2026-11-25")
 REGISTER_SHA256 = "9d33ff39da3923ea5f8c611e4b82afff006e11fa6e313709028e669b431c2b67"
 BASE = "d8ec1bfd281f0ab56e801fc750d643b40afbb3df"
@@ -55,8 +57,10 @@ def archived(root, proof, key):
     return data
 
 
-def previous(root, name, content, *, stage="edition"):
+def previous(root, name, content, *, stage="edition", plugin=None):
     """Eine registrierte Ausgabe ergibt nur bei identischem Pfad und Endhash ihren Vorgänger."""
+    if stage == "edition":
+        content = before_vergabestelle(root, name, content, plugin=plugin)
     proof = register(root)
     row = proof.get(stage, {}).get(name)
     if row is None:

@@ -1,38 +1,36 @@
 ---
 name: vergabeart-und-schwelle-bearbeiten
-description: "Plant für öffentliche Auftraggeber Bedarf, Auftragswert, Lose und Vergabeart. Ordnet Sonderregime, Bekanntmachung, Angebotsprüfung und Zuschlagsvorbereitung dem konkreten Beschaffungsverfahren zu."
+description: "Erstellt für die Vergabestelle einen Verfahrenswahlvermerk mit Nettoauftragswert, Losen, einschlägigem Schwellenwert und begründeter Verfahrensart."
 ---
 
-# Vergabeart und Schwelle
+# Auftragswert schätzen und Vergabeverfahren wählen
 
 ## 1. Zweck und Anwendungsfall
 
-Vergabeart und Schwelle: Auftraggeber, Auftragsgegenstand, Schaetzung, Verfahrensart und Fristen klaeren.
-
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+Die Fachabteilung meldet einen Bedarf an. Die Vergabestelle muss entscheiden, welchen Auftrag sie auf welchem Weg ausschreiben kann. Erstelle den Vermerk, mit dem die zuständige Leitung den Verfahrensstart freigeben kann. Ist die wirtschaftliche Abgrenzung streitig, zeige, welche Position den Ausschlag gibt und auf welcher Grundlage sie einbezogen wird.
 
 ## 2. Eingaben
 
-- Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.
-- Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen.
+- Entnimm dem Bedarfsantrag den Rechtsträger, den Zweck, den Leistungsort, den vorgesehenen Beginn und die Entscheidung, die der Vergabestelle vorliegt. Bei einer Gesellschaft können Satzung, öffentliche Finanzierung oder die konkret ausgeübte Tätigkeit für die Einordnung erheblich sein.
+- Werte Kostenberechnung, Mengen- und Losplanung, Vertragslaufzeit, Verlängerungsrechte, Optionen und Preisquellen mit ihrem jeweiligen Stand aus. Für wiederkehrende Beschaffungen können Vorgängeraufträge Anhaltspunkte geben. Für den Unterschwellenbereich benötigst du auch die auf diese Stelle anwendbaren Haushalts- und Ausführungsregeln.
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Beschaffungsgegenstand und Auftraggeber bestimmen
 
-Vergabeart und Schwelle: Auftraggeber, Auftragsgegenstand, Schaetzung, Verfahrensart und Fristen klaeren.
+Beschreibe zuerst, was die AG, Gemeinde oder Behörde von wem gegen welche Gegenleistung beschaffen will. Ordne Auftraggebereigenschaft und Leistungsart anhand des konkreten Vorhabens ein. Bei einem Unternehmen der öffentlichen Hand prüfe die Verbindung des Auftrags zu einer Sektorentätigkeit. Bei Einnahmen aus der Nutzung kläre, wer das Betriebsrisiko trägt. Diese Feststellungen entscheiden mit darüber, welche Wertregel gilt.
 
-### 3.2. Arbeitsschritt
+### 3.2. Den Nettowert aus den Belegen herleiten
 
-Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
+Lege den für die Schätzung maßgeblichen Zeitpunkt fest. Rechne Mengen, Nettopreise, Laufzeit, Optionen und Verlängerungen nachvollziehbar zusammen. Weise jedes Los und jede gemeinsam genutzte Position einmal aus und begründe, welche Leistungen zu demselben Vorhaben gehören. Trenne die Zusammenrechnung für den Schwellenwert von der späteren Entscheidung über Fach- und Teillose. Bei einer Preisspanne rechne beide Enden und nenne die Preisquelle, die vor Freigabe zu aktualisieren ist. [§ 3 VgV](https://www.gesetze-im-internet.de/vgv_2016/__3.html)
 
-### 3.3. Arbeitsschritt
+### 3.3. Den einschlägigen Verfahrensweg bestimmen
 
-Ist der Auftraggeber und Auftragswert vergaberechtlich gebunden.
+Vergleiche den Gesamtwert mit dem zum Stichtag für Auftraggeber, Auftragsart und gegebenenfalls Sonderregime geltenden EU-Schwellenwert. Belege Zahl, Geltungszeitraum und Kategorie mit der einschlägigen Unionsverordnung. Bei Erreichen der Schwelle ordne etwa eine klassische Lieferung der VgV, einen klassischen Bauauftrag den einschlägigen Regeln der VOB/A-EU zu. Unterhalb der Schwelle ermittle die für diesen Träger eingeführte UVgO oder VOB/A Abschnitt 1 sowie die einschlägigen Wertgrenzen. Prüfe Sektoren-, Konzessions- oder Sicherheitsbeschaffungen nach ihrem eigenen Regelwerk. [§ 106 GWB](https://www.gesetze-im-internet.de/gwb/__106.html)
 
-### 3.4. Arbeitsschritt
+### 3.4. Der Leitung eine begründete Entscheidung vorlegen
 
-Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten.
+Vergleiche die im ermittelten Regime eröffneten Verfahrensarten nach Wettbewerb, Fristen und Erfüllbarkeit des Bedarfs. Will die Fachabteilung nur einen Anbieter ansprechen, bezeichne die geltend gemachte Ausnahme und prüfe die tatsächlich verfügbaren Alternativen anhand der Markterkundung. Halte fest, wer noch welchen Nachweis beibringen muss und wie sich das auf die Ausschreibung auswirkt. Bezeichne das Verfahren als vorgeschlagen, bis die zuständige Stelle entschieden hat. [§ 14 VgV für klassische Liefer- und Dienstleistungsaufträge](https://www.gesetze-im-internet.de/vgv_2016/__14.html)
 
 ### 3.5. Fachvertiefungen gezielt laden
 
@@ -104,12 +102,12 @@ Schriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 
 
 <!-- END output-format-block (autogen) -->
 
-- Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „Vergabeart und Schwelle“, mit konkreten Belegstellen und erkennbaren offenen Punkten.
-- Nur soweit hilfreich: eine Vergleichstabelle, Zeitleiste oder grafische Übersicht zusätzlich zum vollständigen Text.
+- Verfahrenswahlvermerk mit Entscheidungssatz, Auftraggeber, Gegenstand, Schätzstichtag, beabsichtigter Losstruktur, EU-Schwellenwert samt Fundstelle, anwendbaren Regeln und begründeter Verfahrensart.
+- Rechentabelle mit Position, Menge oder Laufzeit, Nettobetrag, Option, Los und Belegstelle. Schließe den Vermerk mit Freigabeempfehlung, verbleibendem Klärungsbedarf, verantwortlicher Stelle und nächstem Verfahrensschritt.
 
 Liefere das beauftragte Dokument vollständig in ausformuliertem Text mit Dezimalgliederung. Für juristische Schriftsätze und Gutachten ist die Zieltypografie Times New Roman 11 pt; Tabellen und Grafiken ergänzen die Begründung. Wähle zur Aufgabe passende Vergleiche, Zeitleisten oder andere Visualisierungen. Nutze eine interaktive Ansicht nur, wenn die Laufzeit sie tatsächlich bereitstellt; stelle sonst eine unmittelbar lesbare Tabelle oder Grafik bereit. Kennzeichne fehlende Daten und offene Prüfungen an der betroffenen Stelle und schließe mit dem konkreten nächsten Arbeitsschritt.
 
 ## 6. Beispiele
 
-- Ein Auftrag zu „Bedarfsermittlung“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
-- Ein Auftrag zu „Auftragswertschätzung“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
+- Betriebshof Weidenstück, DI-W/BAU-26-073. Die Kostenberechnung vom 23. Oktober weist 4.080.000 Euro Betoninstandsetzung, 200.000 Euro gemeinsame Baustelleneinrichtung, 2.100.000 Euro Oberflächenschutz und 800.000 Euro Malerarbeiten aus. Stelle für die Leitung die 7.180.000 Euro netto dem einschlägigen Bauschwellenwert gegenüber. Behandle die getrennte Angebotsmöglichkeit für die Beschichtung Süd anschließend als eigene Losentscheidung. [Grundakte Weidenstück](../../Interstate%20AG/02-fachlose/README.md)
+- Leitplanung Riedtal, DI-W/PLAN-26-184. Die Honorarübersicht vom 23. September enthält Ansätze für West und Ost sowie zwei optionale Variantenschleifen. Rechne die Abschnitte jeweils mit ihrer Option und zusammen. Zeige mit Bezug auf Projektauftrag und Schnittstellenbeschreibung, warum die Vergabestelle diese Abgrenzung für die Verfahrenswahl verwendet. [Grundakte Leitplanung](../../Interstate%20AG/08-leitplanung/README.md)

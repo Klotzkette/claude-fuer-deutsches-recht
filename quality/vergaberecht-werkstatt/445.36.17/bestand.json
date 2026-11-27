@@ -1,0 +1,47 @@
+{
+  "vorgaenger": "qualitaetsrunde-v445.36.16",
+  "paket_sha256": "4a6bcac1e6c5a499e93c26cdb6fb795844a26eea5114c39c6eccc52d3f68f465",
+  "archiv_sha256": "58e98dd59b8ac739325dbf150b7fd1e6a81df4f0848195d359b0f4acb336ed80",
+  "dateien": {
+    "vergaberecht-werkstatt/vergabestelle-behoerden/skills/arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md": {
+      "vorher": "33196158e9ffc6e0e208cef2e6c69eb3b1d2a227b4e00efd0dfb00967bf40600",
+      "nachher": "9640fc8d487df32706d6668e23353c10bb29813fca7aad1c440dba9bdf2bec12"
+    },
+    "vergaberecht-werkstatt/vergabestelle-behoerden/skills/arbeitsprodukt-bearbeiten/SKILL.md": {
+      "vorher": "d20846e3efd95b00a9fb78cbbc2b677220e77e83b46fbd117393b0273932a19f",
+      "nachher": "5751c3fec36d554d4e52ebe9aa28c1de8b7b271ad1a0d123e89f19856117351c"
+    },
+    "vergaberecht-werkstatt/vergabestelle-behoerden/skills/nachpruefung-bearbeiten/SKILL.md": {
+      "vorher": "e3b668f963e879a3dcb66dd0e7cd6efa095b65a1c1634b2ed1cf88d8f7420917",
+      "nachher": "3f7fbb0b4742303d81e0ae70b2448b73a728a8b49b18a2d9133ff2e862a3902d"
+    },
+    "vergaberecht-werkstatt/vergabestelle-behoerden/skills/ruege-bearbeiten/SKILL.md": {
+      "vorher": "af90245d33748eb457a86cf8737732937382c2f64a32658276793588d2900a2e",
+      "nachher": "dc54f32a0b362000b9b25bd10490961b7bd18e9e9141b830d49781fb137128ce"
+    },
+    "vergaberecht-werkstatt/vergabestelle-behoerden/skills/unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md": {
+      "vorher": "627b53835de2825c833e325e04018691172345d436302b8fe7aa273166573390",
+      "nachher": "9abba3791a28f2dddb51d851a68fa35bae6d7b0cc1ef6764773a5160cf277d30"
+    },
+    "vergaberecht-werkstatt/vergabestelle-behoerden/skills/vergabe-os-master-orchestrator/SKILL.md": {
+      "vorher": "381f1a817cfb4b3464094f2f5d6238013cb706eb5e8dae1ad943606179c94345",
+      "nachher": "567c214d4250d1bf834cddfdd6995eb86b4c5e622a759b8bb3f93a23808c867f"
+    },
+    "vergaberecht-werkstatt/vergabestelle-behoerden/skills/vergabeart-und-schwelle-bearbeiten/SKILL.md": {
+      "vorher": "15363da9a7af947247edacfb6f6db680742189066f5a3c3e1026cfe238fe98c9",
+      "nachher": "5f566784048a918b2747651668c45a2ced531496b30386d32d3c7c8e9339d0fb"
+    },
+    "vergaberecht-werkstatt/vergabestelle-behoerden/skills/vergabeunterlagen-bearbeiten/SKILL.md": {
+      "vorher": "4e63f7d0b6449fbbf8f52f4c75288e32b929968d10ab0634ffb33771bc817e16",
+      "nachher": "8a64912c128735b07ee72912abfeafd138f1dcdb3f258fb9700b6ab4bef0f706"
+    },
+    "vergaberecht-werkstatt/testakten/megaprompts/vergabestelle-behoerden.md": {
+      "vorher": "ef26ba4f1d7c27a8130553ed708cb9211a9983fd164aac852cffef17427ea12f",
+      "nachher": "0148ad2eea630f32b5171e6ae6fd8263716c2c827784549f1b34233ae9f2e321"
+    },
+    "scripts/data/skill-cap-registry.json": {
+      "vorher": "3b3e22bbb13a5737ea0a3786a20d7468b32a31eafee58ebeaf5e2933334e2fff",
+      "nachher": "d3f04d934cd60284a01e42e355dada471384de40ea3a21345bee62fc5d37d685"
+    }
+  }
+}

@@ -205,6 +205,10 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         f"| Alle Skills als Markdown | [{name}-skills-markdown.zip]({md_zip}) |",
         f"| Kompakter Ein-Datei-Start | [{name}-unified-mini-prompt.md]({mini_prompt}) |",
     ]
+    if name == "vergabestelle-behoerden":
+        lines[2:2] = [
+            "[Die acht Aufträge der Vergabestelle](../vergabestelle-behoerden/README.md#skills) · [Fachfragen nachschlagen](../vergabestelle-behoerden/FACHMODULE.md)", "",
+        ]
     if root_prompt:
         lines.append(f"| Vollworkflow-Arbeitsprompt | [{root_prompt}]({GH_RELEASE}/{root_prompt}) |")
     if short_prompt:

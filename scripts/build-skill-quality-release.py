@@ -16,6 +16,7 @@ import io
 import json
 import os
 from pathlib import Path
+from urllib.parse import unquote
 import re
 import shutil
 import stat
@@ -321,7 +322,7 @@ def verify_reachability(files: dict[str, Path]) -> list[str]:
             target = raw.partition("#")[0]
             if not target or ":" in target or target.startswith("/"):
                 continue
-            resolved = os.path.normpath(os.path.join(os.path.dirname(name), target)).replace(os.sep, "/")
+            resolved = os.path.normpath(os.path.join(os.path.dirname(name), unquote(target))).replace(os.sep, "/")
             if resolved.startswith("../") or (resolved not in files and not any(n.startswith(resolved.rstrip("/") + "/") for n in files)):
                 raise ValueError(f"Paketverweis fehlt oder verlässt das Plugin: {name} -> {raw}")
             targets.append(resolved)

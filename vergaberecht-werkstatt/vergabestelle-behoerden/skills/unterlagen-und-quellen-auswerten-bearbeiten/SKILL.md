@@ -1,38 +1,37 @@
 ---
 name: unterlagen-und-quellen-auswerten-bearbeiten
-description: "Ordnet die Behördenakte, Quellen, Bieterfragen und Aufklärungsunterlagen. Sichert Datenherkunft, Nachforderung, Losbildung und Besonderheiten des Unterschwellenrechts für die Vergabestelle."
+description: "Ordnet für die Vergabestelle widersprüchliche Aktenstände, Angebote und Nachweise. Erstellt eine belegte Chronologie, gezielte Rückfragen und einen Sachverhalt für die Entscheidung oder Prozessvertretung."
 ---
 
-# Unterlagen und Quellen auswerten
+# Vergabeakte auswerten und Beleglücken klären
 
 ## 1. Zweck und Anwendungsfall
 
-Unterlagen und Quellen auswerten: Akte, Belege, Chronologie, Recherche und entscheidende Lücken für den konkreten Fachauftrag nachvollziehbar erschließen.
-
-Bearbeite den konkreten Auftrag bis zum nutzbaren Arbeitsprodukt. Übernimm bereits vorliegende Angaben, benenne entscheidungserhebliche Lücken und arbeite an den davon unabhängigen Teilen weiter.
+„Die Firma schildert den Ablauf anders als unser Projektteam. Was können wir belegen?“ Nutze diesen Arbeitsweg für solche Aufträge ebenso wie für unklare Versionen im Vergabeportal oder einen lückenhaften Vermerk der Fachabteilung. Der Empfänger soll jede entscheidende Aussage in den Originalunterlagen wiederfinden und sehen, was sich mit einer gezielten Rückfrage klären lässt.
 
 ## 2. Eingaben
 
-- Den konkreten Auftrag und das gewünschte Dokument aus dem Gespräch übernehmen.
-- Bereits vorliegende Fachunterlagen, Fassungen, Belege und zeitliche Angaben zuerst lesen; nur entscheidende Lücken erfragen.
+- Übernimm aus der Eingangsmail die zu treffende Entscheidung, den Empfänger und einen etwaigen Abgabe- oder Gerichtstermin. Sichere Fristbeginn und Zugang anhand des zugehörigen Belegs.
+- Lies die Unterlagen beider Seiten. Suche die freigegebene Fassung, zugehörige Anlagen und Übermittlungsbelege. Nutze bei Tabellen die betreffende Zeile, bei E-Mails Absender, Zeit und Anlage.
+- Erfasse nachgereichte Unterlagen mit dem tatsächlichen Eingangsdatum. Halte getrennt fest, was die Stelle damals wusste und was sie erst rückblickend belegen kann.
 
 ## 3. Ablauf
 
-### 3.1. Arbeitsschritt
+### 3.1. Von der Entscheidung zurück zur Beweisfrage
 
-Unterlagen und Quellen auswerten: Akte, Belege, Chronologie, Recherche und entscheidende Lücken für den konkreten Fachauftrag nachvollziehbar erschließen.
+Formuliere die Tatsachenfrage so eng, dass sie sich nachprüfen lässt. Bei einer Portalberichtigung etwa: Welche Fassung des Preisblatts war vor Fristablauf für alle Bieter zugänglich? Bei einem Bauprozess: Welche Kolonne oder welches Gerät war in welcher Schicht am strittigen Ort verfügbar? Halte die maßgeblichen Ereignisse mit Datum, Uhrzeit und Quelle fest.
 
-### 3.2. Arbeitsschritt
+### 3.2. Widersprüche an der Originalstelle auflösen
 
-Den passenden Fachinhalt unten anhand des konkreten Gegenstands auswählen und vollständig lesen. Mehrere betroffene Themen gemeinsam behandeln; nicht bei einer bloßen Menüauswahl stehen bleiben.
+Stelle Behauptung, Gegenangabe und tatsächlichen Befund nebeneinander. Ein Solltermin belegt eine Planung. Eine Mietabrechnung belegt eine Abrechnung. Ob das Gerät vor Ort einsatzbereit war, klären Tagesbericht, Maschinenjournal und eigene Wahrnehmung einer benannten Person. Bei Zahlen Menge, Einheit und Rechenweg ausweisen. Bleiben zwei Lesarten möglich, benenne die Auswirkung jeder Lesart auf den Vorschlag.
 
-### 3.3. Arbeitsschritt
+### 3.3. Gezielt nachfragen und unabhängig davon weiterarbeiten
 
-Welcher Antrag vor Vergabekammer verhindert oder korrigiert den Zuschlag.
+Formuliere eine versandfertige interne Bitte mit Aktenzeichen, konkreter Frage, gesuchtem Original und benötigtem Rücklauftermin. Frage etwa die Bauleitung, wer den Kraneinsatz an welchem Tag selbst gesehen hat. Soll ein Unternehmen Auskunft geben, prüfe dafür vorab den zulässigen Kommunikationsweg und die verfahrensrechtlichen Grenzen der Aufklärung oder Nachforderung.
 
-### 3.4. Arbeitsschritt
+### 3.4. Den Sachverhalt zur Weitergabe formulieren
 
-Belegte Tatsachen, maßgebliche Quellen, Gegenposition und Unsicherheit am jeweiligen Ergebnis ausweisen. Änderungen in derselben Fassung fortführen und das bestellte Arbeitsprodukt ausarbeiten.
+Erstelle den bestellten Vermerk oder Sachverhaltsabschnitt. Unterscheide unstreitige Tatsachen, Parteivortrag, eigene Berechnung und offene Beweisfragen. Gib für jede streitige Tatsache das passende Beweismittel an. Für eine rechtliche Folgerung prüfe die maßgebliche Primärquelle und ihre zeitliche Fassung. Sobald eine Nachreichung eingeht, aktualisiere die betroffenen Feststellungen samt Konsequenz.
 
 ### 3.5. Fachvertiefungen gezielt laden
 
@@ -71,12 +70,12 @@ Schriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 
 
 <!-- END output-format-block (autogen) -->
 
-- Das im Auftrag verlangte, ausgearbeitete Ergebnis zu „Unterlagen und Quellen auswerten“, mit konkreten Belegstellen und erkennbaren offenen Punkten.
-- Nur soweit hilfreich: eine Vergleichstabelle, Zeitleiste oder grafische Übersicht zusätzlich zum vollständigen Text.
+- Ein kurzer Sachverhalt für Vergabestelle, Leitung oder Prozessvertretung, mit den tragenden Aktenstellen unmittelbar bei der Aussage.
+- Bei widersprüchlichen Unterlagen eine Belegtabelle mit den Spalten „Tatsache | Quelle und Fundstelle | Gegenangabe | Beweiswert | Auswirkung“. Bei entscheidenden Lücken eine ausformulierte Rückfrage mit Empfänger und Termin.
 
 Liefere das beauftragte Dokument vollständig in ausformuliertem Text mit Dezimalgliederung. Für juristische Schriftsätze und Gutachten ist die Zieltypografie Times New Roman 11 pt; Tabellen und Grafiken ergänzen die Begründung. Wähle zur Aufgabe passende Vergleiche, Zeitleisten oder andere Visualisierungen. Nutze eine interaktive Ansicht nur, wenn die Laufzeit sie tatsächlich bereitstellt; stelle sonst eine unmittelbar lesbare Tabelle oder Grafik bereit. Kennzeichne fehlende Daten und offene Prüfungen an der betroffenen Stelle und schließe mit dem konkreten nächsten Arbeitsschritt.
 
 ## 6. Beispiele
 
-- Ein Auftrag zu „Architektenrecht: Compliance-Dokumentation und Aktenvermerk“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
-- Ein Auftrag zu „Aufklärung und Nachforderung nach § 56 VgV steuern“: die zugehörige Fachvertiefung lesen, vorhandene Belege auswerten und das verlangte Ergebnis ausarbeiten.
+- [Schieferbachbrücke – fünf Wartetage](../../Interstate%20AG/05-baustreit/README.md). Vergleiche die fünf Schichten in 02_sollablauf.xlsx und 04_schichten.xlsx mit der Erwiderung des Projektteams. Wer meldet einen Einsatz am Ostschacht aus eigener Wahrnehmung, wer kennt ihn nur vom Funk? Ordne nach Eingang von 09_kranexport.csv und 10_mietabrechnung.eml jede Änderung der betroffenen Schicht und Kostenposition zu.
+- [Ökopunkte für den Werkhof](../../Interstate%20AG/04-oekopunkte/README.md). Gleiche Nebenbestimmung, Ökokontoauszug, Bestandsangebot und Entwicklungsangebot ab. Ermittle, welche Punkte anerkannt, für den Werkhof zugeordnet, nur angeboten oder vorgemerkt sind. Formuliere die noch offene Zuordnungsfrage für die zuständige Naturschutzbehörde und arbeite die Beschaffungsalternativen für den Einkauf heraus.

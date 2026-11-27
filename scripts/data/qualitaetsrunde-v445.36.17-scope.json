@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "tag": "qualitaetsrunde-v445.36.17",
+  "version": "445.36.17",
+  "title": "Acht Arbeitswege für öffentliche Vergabestellen",
+  "plugins": [
+    {
+      "name": "vergabestelle-behoerden",
+      "variants": [
+        "native"
+      ],
+      "prompts": [],
+      "preserved_prompts": {
+        "vergabestelle-behoerden-schnellstart.md": "d968fcf9a60093480cb32be239eee4cb954cee16216a8206b53101753360394d",
+        "vergabestelle-behoerden-werkstatt.md": "dba7494ecc173cb809ac0c2fa2d75bc18caa02e45a6db95a20df228cb97bb1eb"
+      },
+      "previous_release": {
+        "tag": "qualitaetsrunde-v445.36.16",
+        "version": "445.36.16",
+        "manifests": {
+          ".claude-plugin/plugin.json": "9b83fa3a90e4af849fc6fd50585caf0db73142566c315d2f6263d68761c46e5f"
+        }
+      }
+    }
+  ]
+}

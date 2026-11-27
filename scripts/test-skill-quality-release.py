@@ -407,6 +407,22 @@ class QualityReleaseTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "1 bis 21 echte SKILL.md-Dateien, gefunden: 22"):
             B.build(self.dist.with_name("too-many"), self.scope, self.root)
 
+    def test_local_skill_links_resolve_encoded_paths_inside_package(self):
+        directory = self.root / self.source
+        skill = directory / "skills/vertrag-pruefen/SKILL.md"
+        original = skill.read_text()
+        self.write(f"{self.source}/references/Fälle mit Anlagen.md", "# Fall")
+        for relative, valid in (("../../references/F%C3%A4lle%20mit%20Anlagen.md", True),
+                                ("../../references/Falsche%20Anlagen.md", False),
+                                ("../../%2E%2E/ausserhalb.md", False)):
+            skill.write_text(original + f"\n[Akte]({relative}#fall)\n")
+            with self.subTest(relative=relative):
+                if valid:
+                    B.verify_reachability(B.source_files(self.root, directory))
+                else:
+                    with self.assertRaisesRegex(ValueError, "Paketverweis fehlt oder verlässt"):
+                        B.verify_reachability(B.source_files(self.root, directory))
+
     def test_orphaned_fachtext_cannot_ship(self):
         directory = self.root / self.source
         self.write(f"{self.source}/skills/verwaist/FACHINHALT.md", "# Verwaist\n")

@@ -1,11 +1,58 @@
 ---
 name: vergabe-os-master-orchestrator
-description: "Übernimmt Vergabeakten als Ordner, ZIP oder Portalexport ohne Skillwahl. Führt die Vergabestelle von Bedarf und Verfahrensstand über Regime, Fristen und passende Fachprüfungen zum begründeten Vergabevermerk oder Bieterschreiben; arbeitet neue Belege in dasselbe Ergebnis ein."
+description: "Übernimmt für die Vergabestelle einen Ordner, ein ZIP oder eine konkrete Beschaffungsfrage ohne Skillwahl. Erstellt aus der Akte den benötigten Vermerk, eine Bieterantwort oder eine begründete Vorlage zur Freigabe."
 ---
 
-# Vergabestelle vom Beschaffungsstand zur begründeten Verfahrensentscheidung führen
+# Beschaffungsvorgang übernehmen und entscheiden
 
-**Arbeitsname:** Neuer Vergabestellenfall automatisch vorbereiten, ordnen und in den ersten Behördenoutput führen.
+Die Fachabteilung bittet um Mitzeichnung, ein Unternehmen beanstandet das Leistungsverzeichnis oder die Leitung erwartet heute einen Zuschlagsvorschlag. Beginne mit der Entscheidung, die bei der Vergabestelle ansteht. Entnimm den Unterlagen, wer sie bis wann braucht und welche Fassung gilt. Liegt ein klarer Einzelauftrag vor, liefere direkt den Vermerk, die Antwort oder die überarbeitete Passage. Einen ganzen Vorgang kannst du mit „Hier ist die Akte, bitte übernehmen“ starten.
+
+## Was liegt auf dem Tisch?
+
+| Auftrag aus der täglichen Arbeit | Fachweg und Ergebnis |
+| --- | --- |
+| „Können wir West und Ost zusammen ausschreiben? Die Fachabteilung möchte alles aus einer Hand.“ | [Auftragswert, Teil- und Fachlose, Verfahrenswahl](../vergabeart-und-schwelle-bearbeiten/SKILL.md) – rechne die Optionen ein und begründe, welche Aufteilung oder Zusammenfassung die Akte trägt. |
+| „Position 2.4 im LV passt nicht zum Preisblatt. Die Angebotsfrist läuft.“ | [Vergabeunterlagen prüfen und berichtigen](../vergabeunterlagen-bearbeiten/SKILL.md) – entwirf Ersatztext, gleiche Fassungen ab und prüfe, wer wie zu informieren ist und ob sich die Frist ändern muss. |
+| „Die Wertungsgruppe ist sich bei zehn Qualitätspunkten uneinig.“ | [Angebote werten und Entscheidung begründen](../arbeitsprodukt-bearbeiten/SKILL.md) – wende den veröffentlichten Maßstab auf beide Angebote an, rechne die Rangfolge nach und formuliere den Wertungsvermerk. |
+| „Ein Unternehmen schreibt im Portal, die Vorgabe lasse nur ein Fabrikat zu.“ | [Bieterfragen und Rügen bearbeiten](../ruege-bearbeiten/SKILL.md) – ordne das Schreiben nach seinem Inhalt ein, entwirf die Antwort und bereite eine etwaige Berichtigung für alle Unternehmen vor. |
+| „Die Vergabekammer hat uns über einen Nachprüfungsantrag unterrichtet.“ | [Nachprüfungsverfahren führen](../nachpruefung-bearbeiten/SKILL.md) – sichere Unterrichtung und Fristen, informiere die Zuschlagsverantwortlichen und bereite Aktenvorlage und Stellungnahme vor. |
+| „Schriftsatz und Baustellenjournal widersprechen einander. Was können wir für welche Schicht belegen?“ | [Vergabeakte auswerten und Beleglücken klären](../unterlagen-und-quellen-auswerten-bearbeiten/SKILL.md) – ermittle den belegten Ablauf, ordne Beweisangebote zu und formuliere die fehlende Rückfrage. |
+| „Ist der Alleinstellungsvermerk zeichnungsreif? Können wir den Nachtrag freigeben? Hält diese Vertragsklausel?“ | [Vorlagen prüfen und zur Entscheidung vorlegen](../arbeitsprodukt-ausarbeiten-und-kontrollieren-bearbeiten/SKILL.md) – prüfe die konkrete Begründung und liefere Ersatztext, Freigabevorschlag oder eine gezielte Rückgabe an die Fachabteilung. |
+
+## So entsteht das bestellte Dokument
+
+1. **Auftrag festlegen.** Benenne Beschaffungsgegenstand, zuständige Stelle, Stand des Vorgangs und Empfänger. Trenne die Position der Fachabteilung vom bereits gefassten Beschluss. Bei Fristdruck sichere Eingang, Fristauslöser, Berechnung und erforderliche Handlung.
+2. **Maßstab bestimmen.** Prüfe Auftragsart, geschätzten Nettogesamtwert, Beginn und anwendbares Recht. Unterhalb der EU-Schwelle sind auch Rechtsträger, Landesrecht und gegebenenfalls Zuwendungsbedingungen entscheidend. Nach Zuschlag können Vertragsrecht und Vergaberecht unterschiedliche Fragen beantworten.
+3. **Am Original prüfen.** Nenne die betreffende LV-Position, Angebotsseite, Portalzeit oder Tabellenzeile direkt bei der Aussage. Würdige den stärksten Einwand. Zeige bei Zahlen, ob eine zweite vertretbare Annahme Rangfolge, Freigabebetrag oder weiteres Vorgehen verändert. Fehlende Belege gehören an die offene Entscheidung.
+4. **Zur Verwendung schreiben.** Beginne eine Leitungsvorlage mit dem Beschlussvorschlag. Erläutere im internen Vermerk Gründe, Gegenargument und verbleibendes Risiko. Sprich im externen Entwurf den konkreten Einwand an und schütze vertrauliche Angaben anderer Unternehmen. Schließe mit Zuständigkeit, Termin und den noch erforderlichen Freigaben.
+
+### Beispiel aus der Akte Knoten Feldrain
+
+„Können wir den Stahlmantel mit dem vierten Abschlag bezahlen?“ Der Nachtrag nennt 21.188,00 Euro netto. 80 Prozent ergeben rechnerisch 16.950,40 Euro. Für den Zahlungslauf braucht die Vertragsleitung zusätzlich die vertragliche Grundlage, den Beleg für die Erklärung der zuständigen Person sowie Aufmaß und Abgrenzung zu bereits bepreisten Positionen des Hauptauftrags. Stelle im Vermerk je Position den geforderten, den belegten und den noch offenen Betrag gegenüber. Prüfe daneben, soweit einschlägig, ob die Änderung des vergebenen Auftrags nach § 132 GWB zulässig ist. [Akte Knoten Feldrain](../../Interstate%20AG/06-nachtrag/README.md) · [§ 132 GWB](https://www.gesetze-im-internet.de/gwb/__132.html)
+
+### Wenn vor Zuschlag ein Schreiben eingeht
+
+Eine Bieternachricht, die Wartefrist nach § 134 GWB und die Unterrichtung durch die Vergabekammer haben unterschiedliche Folgen. Ermittle für jeden Vorgang Inhalt, Absender, Zugang und Verfahrensbeginn. Lege beim Übergang zum 1. Juli 2026 zuerst die anwendbare Fassung nach § 187 Abs. 2 GWB fest. Gib der zeichnenden Stelle ausdrücklich an, ob sie heute den Zuschlag erteilen darf, welches Ereignis die Beurteilung ändern würde und wer den Portalstand überwacht. [§ 134 GWB](https://www.gesetze-im-internet.de/gwb/__134.html) · [§ 169 GWB](https://www.gesetze-im-internet.de/gwb/__169.html) · [§ 173 GWB](https://www.gesetze-im-internet.de/gwb/__173.html) · [§ 187 GWB](https://www.gesetze-im-internet.de/gwb/__187.html)
+
+## Ordnerfall-Kaltstart ohne Skillwahl
+
+Beginne mit Eingangsmail, jüngster Verfügung, maßgeblicher Unterlagenfassung und Beleg des frühesten Termins. Erkennst du einen Datenkonflikt zwischen Portal, AVA, GAEB, Tabellenblatt oder PDF, sichere Fassung, Einheit, Quelle und Freigabe des strittigen Feldes. Bei mehreren Aufträgen bearbeite zuerst die fristgebundene Entscheidung. Das [Startprotokoll für einen Projektordner](../../assets/templates/ordnerfall-startprotokoll.md) hilft bei umfangreichen Übergaben.
+
+## Null-Konfigurations-Vertrag
+
+Eine Bitte wie „neuer Fall, bitte vorbereiten“ genügt. Lies vorhandene Angaben aus und arbeite mit kenntlich gemachten Annahmen weiter. Höchstens drei echte Blockerfragen gebündelt stellen. Jede Frage benennt die konkrete Entscheidung, für die der Beleg fehlt.
+
+## 90-Sekunden-Erstantwort
+
+Bei einer unübersichtlichen Gesamtakte genügen zunächst fünf Zeilen: `Lage | Rot | Akte | Rechtsweiche | Jetzt`. Nenne Verfahren und Phase, früheste belegte Frist oder Sperre, tragende Unterlagen, maßgebliche Rechtsfrage und ersten Arbeitsschritt mit verantwortlicher Stelle. Fehlt das Auslösedatum, bleibt die Frist offen. Bei einem klaren Einzelauftrag gehören diese Angaben, soweit erheblich, direkt ins bestellte Dokument.
+
+## Routingbudget
+
+Nutze je Durchgang höchstens drei Fachskills. Wähle nur die für die anstehende Entscheidung einschlägigen Vertiefungen. Führe die Ergebnisse im selben Vermerk oder Schreiben zusammen.
+
+## Stabiler Großakten- und Fortsetzungsmodus
+
+Ab 50 Dateien oder 250 MB zuerst Metadaten und fristgebundene Unterlagen sichten. Danach in Paketen bis 20 Dateien oder 100 MB arbeiten. Im Checkpoint-Register Dateiname, Hash, Bearbeitungsstand, Befund und nächsten Schritt festhalten. Eine unlesbare Datei gezielt nachfordern. Nach einer Unterbrechung beim letzten geprüften Paket fortsetzen.
 
 <!-- BEGIN output-format-block (autogen) -->
 
@@ -28,125 +75,6 @@ Einen übergebenen Ordner, ein ZIP oder einen Portalexport selbständig als Verg
 Schriftart Times New Roman, Schriftgrad 11 pt. Dezimalgliederung 1, 1.1, 1.1.1, 2, 2.1 fortlaufend ohne Lücken, maximal vier Ebenen. Aufzählungen mit Spiegelstrich oder Bullet. Hervorhebung nur durch Kursivsetzung bei Gesetzes- und Aktenzeichenfundstellen, kein Fettdruck, keine Unterstreichung. Vollständige Regeln in [`references/OUTPUT-FORMAT.md`](../../references/OUTPUT-FORMAT.md). Bei abweichenden Vorgaben der Stelle (Portal, Gericht, Kammer) gilt die Stelle.
 
 <!-- END output-format-block (autogen) -->
-
-Fokus: Vergabestellen-Cockpit für Bedarf, datenbasierte Priorisierung, Bündelung, Bekanntmachung, LV-Formate, Wertung, Rügeabwehr, VK-/OLG-Verteidigung, Berichtigung und Uploadpaket.
-
-## Abgrenzung
-
-Dieser Master ist der automatische Einstieg für einen vollständigen Ordner, ein ZIP, einen Portal-/DMS-Export, mehrere Dokumente oder mehrere miteinander verbundene Arbeitsfragen. Für genau ein Dokument oder eine konkrete Einzelfrage genügt `workflow-kaltstart-und-routing`; ohne Unterlagen und nur zur ersten Rollen-/Regimeorientierung gilt `einstieg-routing`.
-
-## Null-Konfigurations-Vertrag
-
-1. Formulierungen wie `neuer Fall`, `bitte vorbereiten`, `prüfe alles` oder `mach, was nötig ist` sind ein vollständiger Arbeitsauftrag. Nicht nach einem Skill, Modus oder Ausgabeformat fragen.
-2. Zuerst alle sichtbaren Datei-, Portal- und Systemangaben auslesen. Bereits erkennbare Rolle, Frist, Auftragsgegenstand, Verfahrensstand oder Ziel nicht erneut erfragen.
-3. Noch vor der Tiefenprüfung die fünf Zeilen `Lage | Rot | Akte | Rechtsweiche | Jetzt` ausgeben. Bei Unsicherheit mit gekennzeichneter Arbeitshypothese fortfahren.
-4. Höchstens drei echte Blockerfragen gesammelt und erst nach dem ersten Arbeitsstand stellen. Jede Frage muss benennen, welche Behördenentscheidung ohne die Antwort offenbleibt.
-5. Bei größeren Beständen vor dem vertieften Auslesen kurz Paketumfang, Prioritätsdateien und nächsten Checkpoint nennen. So bleibt der Fortschritt sichtbar und fortsetzbar.
-
-## Routingbudget
-
-Pro Arbeitsdurchgang diesen Master und höchstens drei Fachskills einsetzen: einen für die leitende Rechtsfrage, einen für Beleg oder Format und einen für den konkret zu erstellenden Output. Nicht den gesamten Skillbestand laden. Zu jedem geladenen Fachskill in einem Halbsatz nennen, welche Entscheidung oder Datei er in diesem Durchgang erzeugt; weitere Skills erst in einem späteren Durchgang nach einem neuen Tatsachenbefund ergänzen.
-
-## 90-Sekunden-Erstantwort
-
-Noch vor jeder längeren Prüfung genau diese fünf Zeilen liefern:
-
-| Feld | Vergabestellenantwort |
-|---|---|
-| Lage | Verfahren, Phase, Auftraggeberrolle und erkannter Hauptkonflikt in einem Satz |
-| Rot | früheste belastbare Frist oder Sperre mit Startpunkt und Aktenbeleg; sonst ausdrücklich `nicht berechenbar` |
-| Akte | drei tragende Dateien/Felder und die wichtigste fehlende Unterlage |
-| Rechtsweiche | anwendbares Regime plus eine entscheidende Norm oder verifizierte Leitentscheidung |
-| Jetzt | genau ein erster Behördenoutput und genau eine verantwortliche Bedienhandlung |
-
-### Vergabe-OS Master-Orchestrator
-
-## Bedienbarkeitsregel
-
-Jeder Lauf startet mit einer Ein-Bildschirm-Lage und endet mit einer Bedienhandlung: Entscheidung, Freigabe, Datei, Upload, Schriftsatz oder Aktenvermerk. Genau einen Output empfehlen, höchstens zwei Alternativen nennen und keine längere Begründung ohne Dashboard, Matrix oder Checkliste beginnen.
-
-## Startbildschirm
-
-Beginne komplexe Fälle als geführte Oberfläche, nicht als Textgutachten. Kläre in dieser Reihenfolge:
-
-1. Was liegt vor? Bedarfsanforderung, Bekanntmachung, Unterlagen, LV, GAEB, XML, Excel, PDF, Bestands-/Zustandsdaten, PMS/BMS, Planungsdaten, Bestandsplan, BIM/Fachmodell, Kosten-/Nachtragsdaten, Genehmigungsplattform, Netz-, Klima-/Umweltdaten, Normen, Bieterfrage, Rüge, VK-Schriftstück, Beschluss oder Portalnachweis.
-2. Welche Rolle? Vergabestelle, Fachbereich, Justiziariat, Zentrale Vergabestelle, Fördermittelempfänger, Beigeladene oder beauftragte Stelle.
-3. Welcher Verfahrensstand? Planung, Bekanntmachung, Angebotsphase, Wertung, § 134 GWB, Nachprüfung, OLG, Vertrag oder Interimsbedarf.
-4. Welches Ziel? Portfolio priorisieren, Bündelung prüfen, schneller beauftragen, LV bauen, Bestangebot sichern, Risiko navigieren, Abhilfe leisten, Verfahren verteidigen, Berichtigung veröffentlichen oder Kostenrisiko begrenzen.
-5. Welcher Output? Vermerk, Entscheidungsvorlage, Rügeerwiderung, VK-Stellungnahme, OLG-Erwiderung, Tabelle, Checkliste oder Uploadpaket.
-
-Wenn Dateien vorliegen, beantworte diese fünf Punkte soweit möglich selbst und frage nur echte Lücken ab.
-
-## Ordnerfall-Kaltstart ohne Skillwahl
-
-Wenn der Nutzer nur einen Projektordner, ZIP, DMS-Export, Portalexport oder Dateistapel mit einer Formulierung wie `neuer Fall`, `bitte vorbereiten` oder `mach, was nötig ist` übergibt, nicht nach einem Skill fragen. Arbeite den Fall selbst an und route erst danach intern.
-
-1. Datei- und Quelleninventar bilden: Dateiname, Typ, Datum, Version, Urheber, Portalzeitstempel, Hash, Bezug zu Bekanntmachung, LV, Angebot, Wertung, Rüge, VK/OLG oder Vertrag.
-2. Marktrolle und Verfahrensstand aus Unterlagen ableiten: Vergabestelle, Fachbereich, Zentrale Vergabestelle, Justiziariat, Fördermittelempfänger oder beauftragte Stelle; Planung, Bekanntmachung, Angebotsphase, Wertung, § 134 GWB, Nachprüfung, OLG oder Vertragsphase.
-3. Rote Fristen und Sperren zuerst sichern: Angebotsfrist, Bieterfragenfrist, Rüge, Nichtabhilfe, Zuschlagssperre, Beschwerdefrist, § 135 GWB, Fördermittel- oder Gremienfrist.
-4. Daten- und Formatlage erkennen: GAEB, XML, Excel, PDF, BIM, SAP/ERP/AVA/DMS, PMS/BMS, Portal, API, MCP, eForms/TED/DVAL, Uploadquittung, Rückkanal. Für jedes tragende Feld führende Quelle, Stichtag, Einheit, Transformation und Fachfreigabe bestimmen.
-5. Erste Output-Weiche setzen: Verfahren reparieren, Unterlagen/LV bauen, Bestangebot sichern, Bieterfrage beantworten, Rüge abhelfen/nicht abhelfen, VK verteidigen, OLG vorbereiten, Berichtigung/Uploadpaket erstellen.
-
-Pflichtausgabe beim Ordnerfall: Fallkarte, Fristenampel, Dokumentenmatrix, Belegmatrix, Lückenliste, Quellenstatus, empfohlener erster Behördenoutput und genau eine nächste Bedienhandlung. Nutze `assets/templates/ordnerfall-startprotokoll.md` und `assets/templates/fallkarte-output-weiche.md`.
-
-## Stabiler Großakten- und Fortsetzungsmodus
-
-1. Ab 50 Dateien oder 250 MB zuerst einen reinen Metadatenlauf ausführen; Bekanntmachung, Fristdokumente, Rügen und Beschlüsse priorisieren.
-2. Danach Pakete von höchstens 20 Dateien oder 100 MB verarbeiten. Große PDF-, Office-, GAEB- oder BIM-Dateien einzeln öffnen; nicht gleichzeitig rendern, konvertieren und exportieren.
-3. Nach jedem Paket ein Checkpoint-Register `Datei | Hash | Status | Ergebnis | Fehler | nächster Lauf` fortschreiben. Eine Datei mit unverändertem Hash nicht erneut auslesen.
-4. Beschädigte, verschlüsselte oder nicht unterstützte Dateien als Lücke mit Ersatzanforderung protokollieren. Der übrige Fall wird weiterbearbeitet.
-5. Bei Abbruch am letzten vollständigen Checkpoint fortsetzen. Upload-, PDF- und Gesamtpakete erst nach fachlicher Freigabe der zugrunde liegenden Einzelprodukte erzeugen.
-
-## Sofortmodus
-
-1. Rolle klären: Vergabestelle, Fachbereich, Justiziariat, Zentrale Vergabestelle, Fördermittelempfänger, Beigeladene oder beauftragte Stelle.
-2. Verfahrensstand klären: Markterkundung, Bekanntmachung, Angebotsphase, Wertung, § 134 GWB, Zuschlag, Vertrag, Nachprüfung, Beschwerde oder Schadensersatz.
-3. Schwellenwert und Rechtsweg prüfen: Oberschwelle, Unterschwelle, Sektoren, Konzession, Verteidigung/Sicherheit, Fördermittel oder Sonderregime.
-4. Quellen- und Systemlage prüfen: Bauwerksregister, PMS/BMS, Planungsdaten, Bestandspläne, BIM, Nachträge, Kosten, Behördenfeedback, Bundesvergabe, Genehmigungsplattformen, Netzdaten, Klima-/Umweltdaten, Normen, Rechtsprechung, SAP/ERP/AVA/DMS, Portal, API oder MCP. Tatsache, Annahme und Entscheidung getrennt führen.
-5. Fristen sichern: Rüge, Angebotsfrist, Stillhaltefrist, 15-Kalendertage-Frist nach Nichtabhilfe, Beschwerdefrist, § 135 GWB-Fristen.
-6. Erst danach in die materielle Prüfung gehen.
-
-## Pflicht-Output
-
-- Entscheidungssatz mit Go, Go unter Auflage oder Stop.
-- Fristen-, Akten- und Freigabeampel.
-- Prüfmatrix aus Tatsache, Norm, Aktenbeleg, Gegenargument und Rechtsfolge.
-- Vollständiges Arbeitsprodukt plus verantwortlicher nächster Schritt.
-- Keine Textwüste: vor längerer Begründung zuerst eine Tabelle, ein Dashboard oder ein Output-Menü liefern.
-
-## Antwortstandard
-
-Starte umfangreiche Antworten in dieser Struktur:
-
-| Abschnitt | Inhalt |
-|---|---|
-| Kurzlage | drei Sätze zu Verfahren, Stand, Behördenziel |
-| Rote Fristen | Frist, Startpunkt, Ablauf, Aktenbeleg, Sofortmaßnahme |
-| Arbeitsdashboard | relevante Applets mit wichtigstem Befund, Aktenlücke, nächstem Schritt |
-| Output-Auswahl | eine Empfehlung und maximal zwei Alternativen |
-
-## Dashboard- und Applet-Modus
-
-Wenn der Fall mehr als einen Rügepunkt, mehrere Lose, mehrere Datenformate oder ein laufendes VK-/OLG-Verfahren betrifft, nicht mit Fließtext starten. Zuerst ein kompaktes Arbeits-Dashboard ausgeben:
-
-| Kachel | Inhalt |
-|---|---|
-| Fristenampel | Angebotsfrist, Bieterfragen, Rügen, § 134 GWB, Nichtabhilfe, Zuschlagssperre, OLG-Beschwerde, § 135 GWB |
-| Dokumentenmatrix | Bekanntmachung, Vergabeunterlagen, LV/GAEB/XML/Excel/PDF, Angebote, Wertung, Portalprotokolle, Anlagen |
-| Belegmatrix | Entscheidung, Aktenstelle, Datei, Seite/Position, Begründung, Nachweiswert, Lücke |
-| Wirklichkeitsdaten | Quelle/Feldautorität, Originalschlüssel, Objekt, Befund, Stand/Einheit, Transformation, Datenqualität, Vergabefolge, Fachfreigabe |
-| Portfolio | Objekt, Zustand, Ausfallwirkung, Korridor, Budget, Priorität, Bündelung |
-| Beschleunigung | Auftragswert, Landeswertgrenze, Anbieterfeld, Dringlichkeit, Binnenmarktrelevanz, Dokumentation |
-| Mobilität/Tragfähigkeit | Bauwerk, Netz, Korridor, Tragfähigkeit, Sperrfenster, Nutzungsrisiko |
-| Varianten | Einzelvergabe, Bündelung, Rahmen, ÖPP, CAPEX, Fertigteil/Serie, Lebenszyklus |
-| Angriffslinien | Rügepunkt, Tatsache, Norm, behauptete Kausalität, begehrte Abhilfe, Eilrisiko |
-| Verteidigungslinien | Dokumentationsbeleg, Wertungsspielraum, Gleichbehandlung, Transparenz, Präklusion, Heilung |
-| Wertungsmatrix | Kriterium, Gewicht, Bewertung, Dokumentation, Fehlerverdacht, Reparaturpfad |
-| Legacy-/MCP-Integrationscheck | Herkunft, Quellsystem, Feldautorität, Schlüssel, Stand/Zeitzone, Schema/Einheit, Hash, Transformation, Rechtszweck, Zielsystem, Freigabe, Rückmeldung |
-| Upload-/Formatexport-Check | Zielformat, Portal, Feldliste, Dateiname, Hash, Freigabe, Uploadnachweis |
-| Output-Weiche | Abhilfe, Nichtabhilfe, Berichtigung, Fristverlängerung, Stellungnahme VK, Vergleich, OLG-Erwiderung, Uploadauftrag |
-
-Nutze für umfangreiche Fälle `assets/templates/ordnerfall-startprotokoll.md`, `assets/templates/fallkarte-output-weiche.md`, `assets/templates/startbildschirm-applet-dashboard.md`, `assets/templates/vergabe-master-padlet.md` oder `assets/templates/vk-olg-streitdashboard.md` als Vorlage. Das Dashboard ist ein Arbeitsprodukt, kein dekorativer Zusatz.
 
 ## Aktuelle Rechtsprechungsweichen
 
@@ -175,7 +103,7 @@ Nutze für umfangreiche Fälle `assets/templates/ordnerfall-startprotokoll.md`, 
 
 ## Rechtsprechungsfeste Hauptarbeit
 
-Diese Weichen sind nicht nur Fundstellen. Jede Antwort muss sie in eine behördliche Prüfhandlung übersetzen:
+Bei einem passenden Sachverhalt helfen diese Fragen, den Prüfauftrag und das benötigte Dokument zu bestimmen. Prüfe die zeitliche Fassung und die Übertragbarkeit der angeführten Entscheidung.
 
 | Arbeitslage | Normen | Prüffrage | Behördenoutput |
 |---|---|---|---|
@@ -193,71 +121,9 @@ Diese Weichen sind nicht nur Fundstellen. Jede Antwort muss sie in eine behördl
 | Bus-ÖPNV-Direktvergabe | Art. 5 Abs. 1 und 2 VO (EG) 1370/2007; § 108 GWB; EuGH C-856/24 Sad Trasporto Locale II | Geht echtes Nachfrage-, Kosten-, Erlös- oder Verlustrisiko über; welche Direktvergabe- oder Inhouse-Route wird tatsächlich genutzt? | Risikotransfer-, Rechtsweg- und Direktvergabe-Vermerk |
 | EU-Förderkorrektur | konkreter Förderrechtsakt, Bescheid, Vergaberecht und Vertragsklausel; EuGH C-186/25 Institut po ribni resursi Varna | Sind Pflicht, Vollzugsverstoß, Finanzbezug, Korrekturmethode und Verhältnismäßigkeit konkret belegt; verändert die Nichtdurchsetzung einer Vertragsstrafe die Gesamtart? | individualisierte Korrektur- und Verteidigungsmatrix ohne pauschale §-132- oder Rückforderungsfolge |
 
-## VK-/OLG-Streitführung
-
-Bei Streit vor Vergabekammer oder OLG immer zuerst diese Weichen sichern:
-
-1. Zulässigkeit: Schwellenwert, zuständige Vergabekammer, Antragsbefugnis, Rügeobliegenheit, Frist.
-2. Begründetheit: Rügepunkt, Aktenstelle, Dokumentationsbeleg, Wertungsspielraum, Kausalität, mögliche Heilung.
-3. Eilbedarf: VK-Unterrichtung, Zuschlagsverbot und Ausnahmeantrag nach § 169 GWB, Interimsbedarf, Beschleunigungsinteresse und Beschwerdeausgang nach § 173 GWB.
-4. Akteneinsicht und Geheimnisschutz: Aktenverzeichnis, Schwärzungen, Geschäftsgeheimnisse, Beigeladene.
-5. Eskalation: Vergleichsfenster, sofortige Beschwerde, Schadensersatz, Kostenrisiko und Gremienfreigabe.
-
-## Juristische Argumentationsarchitektur
-
-Jede behördliche Entscheidung in dieser Reihenfolge schreiben:
-
-1. Rechtsgrund und veröffentlichter Maßstab.
-2. zum Entscheidungszeitpunkt festgestellte Tatsache mit Aktenfundstelle.
-3. Subsumtion und fachliche Würdigung.
-4. gleicher Maßstab für die Vergleichsgruppe.
-5. stärkstes Bieterargument und aktenbasierte Antwort.
-6. mildere Alternative, Kausalität und vollziehbare Rechtsfolge.
-
-Jede entscheidende Fundstelle zusätzlich als `Quellenstatus | Aussagegehalt und Bindungsstatus | Tatsachenvergleich | Übertragungsgrenze | Aktenanschluss | Behördenfolge` ausweisen. Bei einem anhängigen Verfahren ohne Entscheidung nur Vorlagefrage und Verfahrensstand angeben. Eine unverifizierte Quelle oder bloße Sekundärwiedergabe wird zum Rechercheauftrag.
+## Erläuterung einer früheren Wertungsentscheidung
 
 Prozessvortrag darf vorhandene Erwägungen und damalige Tatsachengrundlagen erläutern und Dokumentationslücken fallbezogen ergänzen. Die in BGH X ZB 4/10, Rn. 73, als gerichtlicher Hinweis entwickelte und in OLG Düsseldorf VII-Verg 28/14 als obiter dictum eingeordnete sowie angewandte Linie verlangt dabei Transparenz, Gleichbehandlung, Manipulationsschutz und wettbewerbskonforme Auftragserteilung; ein neues Unterkriterium, eine erst im Streit gebildete Entscheidung oder eine manipulativ nachgeschobene Tatsache bleiben unzulässig. Für diese Prüfung `vergaberecht-tatbestand-beweis-und-belege` laden.
-
-## Typische Outputs
-
-Kurzbild, Startbildschirm, Phasenkarte, Fristenampel, Dokumentenmatrix, Belegmatrix, Streitdashboard, Arbeitsrouting, Arbeitsplan, Vergabevermerk, Stellungnahme VK, OLG-Erwiderung, Uploadpaket, nächster Behörden-/Justiziariatsschritt.
-
-## Daten- und Szenario-Weiche
-
-Wenn vorhandene Datenquellen Bedarf, Priorisierung, Bündelung, LV, Budget oder Qualitätskriterien beeinflussen, `wirklichkeitsdaten-beschaffung-steuern` laden. Danach immer ausgeben:
-
-- Quellen- und Datenqualitätsmatrix.
-- Szenariovergleich mit Einzelvergabe, Bündelung, Rahmenvereinbarung, Abruf oder Verschiebung.
-- Applet-Auswahl: Portfolio/Planung, beschleunigte Beauftragung, Vergaberechtsnavigation, Mobilität/Tragfähigkeit, Ausschreibungsstudio, ÖPP/CAPEX oder Fertigteil/Serie.
-- Vergaberechtliche Wirkung: Bedarf, Schätzung, Losbildung, Leistungsbeschreibung, Eignung, Zuschlag oder Dokumentation.
-- Nächster Freigabe- und Portalschritt.
-
-## Nutzungscheck
-
-- Ist die rote Frist berechnet oder als Lücke markiert?
-- Ist der Freigabeinhaber benannt?
-- Ist die nächste Datei, Aktenstelle oder Portalhandlung klar?
-- Ist der empfohlene Output sofort als Vermerk, Tabelle, Schriftsatz oder Uploadauftrag nutzbar?
-
-## Qualitätsgates
-
-- Nur veröffentlichte Maßstäbe und nachweisbare Tatsachen verwenden.
-- Rechtsstand, Fristen und tragende Entscheidungen gegen prüfbare Quellen absichern.
-- Gleichbehandlung und dokumentierte Vergleichsgruppe kontrollieren.
-- Freigabe erst bei reproduzierbarer Entscheidung und vollständigem Rückkanal.
-
-## Anschlussmodule
-
-- `vergabe-os-master-orchestrator` für Gesamtsteuerung.
-- `quellen-livecheck`, `schnittstelle-zahlen-schwellen-und-berechnung` und `schwellenwerte-2026-2027-livecheck` für tragende Normen, Rechtsprechung, Beträge, Lose, Wertgrenzen und Rechtsweg.
-- `workflow-chronologie-und-belegmatrix` für Aktenarbeit.
-- `legacy-systeme-integration` für Feldautorität, SAP, ERP, AVA, DMS, Bauwerks-/PMS-/BIM-Daten, Portal, API, MCP, Datenumschlag, Entscheidungsbrücke, Hash, Delta, Freigabe und Rückkanal.
-- `wirklichkeitsdaten-beschaffung-steuern` für Quelleninventar, gemeinsame Fachsprache, Priorisierung, Bündelung, Szenario, LV, Kriterien und Aktenvermerk.
-- `bestangebot-durchsetzen`, `10-zuschlagsmatrix-aufbauen`, `17-wertung-leistung-preis` und `18-wertungsvermerk-erstellen` für Bestwertung statt Preisautomatismus.
-- `vergabeunterlagen-lv-datenformate-bereitstellen`, `05-bekanntmachung-erstellen` und `bekanntmachung-berichtigung-und-upload-routing` für Unterlagen, eForms/TED/DVAL, Plattformen, Berichtigung und Quittung.
-- `bieterfragen-antworten-management`, `22-ruegeerwiderung`, `23-stellungnahme-vergabekammer`, `26-akteneinsicht-vergabekammer` und `24-vorlage-an-den-vergabesenat` für Rüge, VK, Akteneinsicht, OLG und Vergleichslage.
-- `markterkundung-und-vorbefassung`, `losbildung-mittelstandsfoerderung`, `rahmenvereinbarung-abrufe-mini-wettbewerb` und `inhouse-interkommunal` für Vorbereitung, Bündelung und Beschaffungsstruktur.
-- `uvgo-unterschwellenvergabe`, `sektorenvergabe-sektvo`, `konzessionsvergabe-konzvgv` und `vob-a-bauvergabe` für Sonderregime.
 
 ## Entscheidungsanker für diesen Arbeitsweg
 
