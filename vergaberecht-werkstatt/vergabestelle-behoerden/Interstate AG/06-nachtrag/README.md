@@ -24,6 +24,7 @@ Beginnen Sie mit diesen Unterlagen.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
+| 16.11.2026 | [Knoten Feldrain · 16.950,40 Euro für den Stahlmantel im vierten Abschlag](Grundakte/00_abschlag_4_zahlungslauf.eml) | EML |
 | 31.07.2026 | [Auftragsleistungsverzeichnis KF3 · bepreister Bieterrücklauf](Grundakte/00_auftrags_lv_kf3.xlsx) | XLSX |
 | 13.08.2026 | [Bauvertrag KF3 · Vertragsurkunde und Leistungsverzeichnis](Grundakte/01_bauvertrag.docx) | DOCX |
 | 13.08.2026 | [KF3 · Wer für die Niederlassung West Erklärungen abgibt](Grundakte/02_zustaendigkeit.eml) | EML |

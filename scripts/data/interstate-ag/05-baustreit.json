@@ -46,6 +46,24 @@
   "dokumente": [
     {
       "phase": "Grundakte",
+      "datei": "00_klageerwiderung_beweisangebote.eml",
+      "titel": "Schieferbachbrücke · 4 O 217/26 · Wer kann die Einsätze der Westkolonne bezeugen?",
+      "datum": "2026-11-16",
+      "von": "Rechtsanwalt Kerem Ünal · Kanzlei Ünal, Prozessbevollmächtigter der Deutschen Interstate AG",
+      "an": "Anke Röder · Deutsche Interstate AG, Niederlassung West, Projektleitung Schieferbachbrücke",
+      "text": [
+        "Guten Tag, Frau Röder,",
+        "Steinbogen verklagt die AG vor dem Landgericht Essen auf 13.787,00 Euro. Der Firma fehlte die Bewehrungszeichnung für das westliche Widerlager. Sie verlangt Geld für fünf Schichten mit Mannschaft, Kran und Schalung sowie für drei weitere Tage Baustelleneinrichtung. Die Verteidigungsanzeige ist am 12. November bei Gericht eingegangen. Die Klageerwiderung ist bis zum 2. Dezember einzureichen.",
+        "Sie bestätigen in Ihrer Stellungnahme den Eingang der freigegebenen Zeichnung am 11. September nach Schichtende. Für die fünf Wartetage ergibt sich kein einheitliches Bild. Herr Kall hat am Mittwoch die Anweisung zum Umladen am Ostschacht über Funk gehört. Wer war dort und kann sagen, ob tatsächlich der für das Widerlager eingeplante Kran eingesetzt wurde? Bitte vermitteln Sie mir den Kontakt und vereinbaren Sie auch mit Herrn Kall einen Rückruf zu seinen eigenen Rundgängen.",
+        "Bitte leiten Sie mir auch die Eingangsbestätigung zur Planfreigabe und, sobald sie eintreffen, die Geräteunterlagen des Vermieters zu. Für den Ansatz von 420 Euro pro Tag brauche ich gesondert Ihre Angaben dazu, wer den Baucontainer nach dem 21. September tatsächlich nutzte. Bitte halten Sie diese Punkte auseinander, wenn Sie im Projektteam nachfragen.",
+        "Mit freundlichen Grüßen\nKerem Ünal"
+      ],
+      "absender": "k.uenal@kanzlei-uenal.example",
+      "empfaenger": "a.roeder@interstate.example",
+      "uhrzeit": "16:45"
+    },
+    {
+      "phase": "Grundakte",
       "datei": "01_vertragsauszug.docx",
       "titel": "Unterzeichneter Bauvertrag BW 17 · Freigabe und Ausführung",
       "datum": "2026-06-12",

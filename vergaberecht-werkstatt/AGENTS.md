@@ -46,6 +46,8 @@ Description-Felder dürfen keine Abruf-/Auslese-Wörter aus der verbotenen Wortf
 
 ## Fallakten der Deutschen Interstate AG
 
+Die Grundakte beginnt mit dem Aktenstück, das die Bearbeitung auslöst. Wer etwa eine Prüfbitte, eine Weiterleitung oder einen Projektauftrag öffnet, erfährt in den ersten Sätzen, um welches Vorhaben es geht, was geschehen ist und welche Entscheidung ansteht. Maßgeblich ist, was Absender und Empfänger an diesem Tag wissen konnten. Die Reihenfolge im Ordner und in der Gesamt-PDF führt zum selben Einstieg.
+
 Jede Akte enthält eine konkrete Eingabe eines Beteiligten und ein zweites Aktenstück, an dem sich die Behauptung prüfen lässt. Absender, Empfänger, Begehren und Verfahrensstand müssen aus den Unterlagen hervorgehen. Spielt eine Frist eine Rolle, enthält die Akte Versand- und Eingangsbelege oder bezeichnet die offene Nachweisfrage. Vor dem Zuschlag eignen sich etwa eine Bieterfrage und eine Rüge, während der Vertragsausführung ein Einwand gegen ein Aufmaß oder ein Zahlungsvorbehalt. Der Auftrag überlässt Einordnung und Antwort der bearbeitenden Person.
 
 ## Autorenkontakt

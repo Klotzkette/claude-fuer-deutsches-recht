@@ -24,6 +24,7 @@ Beginnen Sie mit diesen Unterlagen.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
+| 09.09.2026 | [24 Pegelstationen Kiebitzrinne – bitte um Mitprüfung des Ausschlusses von Flutzeichen](Grundakte/00_pruefbitte_wertung_w668.eml) | EML |
 | 28.07.2026 | [Beschaffungsfreigabe für das Messnetz Kiebitzrinne](Grundakte/01_beschaffungsfreigabe.docx) | DOCX |
 | 11.08.2026 | [Leistungsverzeichnis und Angebotsbedingungen · bereitgestellte Fassung 2](Grundakte/02_leistungsverzeichnis.docx) | DOCX |
 | 11.08.2026 | [Bieter-LV Kiebitzrinne · Preisblatt zur Fassung 2](Grundakte/02a_bieter_lv_messstationen.xlsx) | XLSX |

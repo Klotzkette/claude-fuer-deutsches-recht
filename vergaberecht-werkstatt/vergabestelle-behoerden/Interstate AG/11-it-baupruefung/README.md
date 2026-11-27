@@ -24,6 +24,7 @@ Beginnen Sie mit diesen Unterlagen.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
+| 09.11.2026 | [Mobiles Bauprüfbuch – bitte den Export zu Testvorgang C belegen](Grundakte/00_wertungsunterlagen_export.eml) | EML |
 | 24.08.2026 | [Beschaffungsauftrag für digitale Bauprüfprotokolle](Grundakte/01_verfahrensauftrag_pruefbuch.docx) | DOCX |
 | 25.08.2026 | [Preisblatt für Anwendung und unabhängige Abnahmeprüfung](Grundakte/02_lv_pruefbuch.xlsx) | XLSX |
 | 25.08.2026 | [Wertungsregel E3 und Testauftrag](Grundakte/03_veroeffentlichte_wertungsregeln.docx) | DOCX |

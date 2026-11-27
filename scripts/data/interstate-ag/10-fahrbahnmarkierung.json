@@ -37,6 +37,22 @@
   "dokumente": [
     {
       "phase": "Grundakte",
+      "datei": "00_disposition_kolonnen.eml",
+      "titel": "Markierungen Uferhöhe – brauchen wir in einer Sperrnacht zwei Kolonnen?",
+      "datum": "2026-10-09",
+      "uhrzeit": "12:15",
+      "von": "Maren Ortner · Vergabestelle West",
+      "an": "Elif Rade · Sperrzeitenkoordination West",
+      "absender": "beschaffung@interstate-west.example",
+      "empfaenger": "sperrzeiten@interstate-west.example",
+      "text": [
+        "Frau Rade, können Sie mir für die Erneuerung der Fahrbahnmarkierungen in Uferhöhe die Sperrreservierungen für die Hauptstrecke und die Nebenrampe heraussuchen? Auch ein Betrieb, der nur Uferhöhe anbietet, muss nach K3 zwei Markiermaschinen mit Mannschaft gleichzeitig stellen können. Herr Kernau sieht im Arbeitsplan einen noch unbestätigten zweiten Einsatz. Ich brauche die Strecken, Uhrzeiten und den Buchungsstand, um zu entscheiden, ob wir die Bedingung so aufrechterhalten können.",
+        "Linienwerk Edera hat für sein Angebot nach den Arbeitszeiten in Uferhöhe gefragt. Veröffentlicht sind rund 22 Nachtschichten je Saison, in der Regel von 20 bis 5 Uhr. Das sagt uns noch nicht, ob zwei Trupps in derselben Nacht in diesem Los arbeiten. Bitte kennzeichnen Sie Einsätze im getrennten Los Kammweg gesondert. Die Angebotsfrist endet am 19. Oktober.",
+        "Viele Grüße\nMaren Ortner"
+      ]
+    },
+    {
+      "phase": "Grundakte",
       "datei": "01_auftrag_und_auftragswert.docx",
       "titel": "Abrufbedarf für drei Markierungssaisons",
       "datum": "2026-09-07",

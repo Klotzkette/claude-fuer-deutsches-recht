@@ -24,6 +24,7 @@ Beginnen Sie mit diesen Unterlagen.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
+| 09.10.2026 | [Markierungen Uferhöhe – brauchen wir in einer Sperrnacht zwei Kolonnen?](Grundakte/00_disposition_kolonnen.eml) | EML |
 | 07.09.2026 | [Abrufbedarf für drei Markierungssaisons](Grundakte/01_auftrag_und_auftragswert.docx) | DOCX |
 | 14.09.2026 | [Bekanntmachung und Bedingung K3](Grundakte/02_auszug_bekanntmachung.docx) | DOCX |
 | 14.09.2026 | [Preisblatt für Uferhöhe und Kammweg](Grundakte/03_lv_markierungsarbeiten.xlsx) | XLSX |

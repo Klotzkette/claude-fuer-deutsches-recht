@@ -24,6 +24,7 @@ Beginnen Sie mit diesen Unterlagen.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
+| 16.11.2026 | [Schieferbachbrücke · 4 O 217/26 · Wer kann die Einsätze der Westkolonne bezeugen?](Grundakte/00_klageerwiderung_beweisangebote.eml) | EML |
 | 12.06.2026 | [Unterzeichneter Bauvertrag BW 17 · Freigabe und Ausführung](Grundakte/01_vertragsauszug.docx) | DOCX |
 | 28.08.2026 | [Terminplan S2 · freigegebener Stand für Widerlager und Folgetakt](Grundakte/02_sollablauf.xlsx) | XLSX |
 | 07.09.2026 | [W17-B · Kolonne ab Montag am Widerlager, Freigabe fehlt](Grundakte/03_anzeige.eml) | EML |

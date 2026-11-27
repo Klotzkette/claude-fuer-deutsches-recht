@@ -24,7 +24,7 @@ Beginnen Sie mit diesen Unterlagen.
 
 | Datum | Unterlage | Format |
 | --- | --- | --- |
-| 14.09.2026 | [K17 · Vor der Freigabe der Kontrollverträge](Grundakte/01_pruefbitte_einkauf.eml) | EML |
+| 14.09.2026 | [Westtor K17 · Freigabe von Rahmenvertrag und erstem Abruf für die Verhandlung mit Rheinspur](Grundakte/01_pruefbitte_einkauf.eml) | EML |
 | 08.09.2026 | [Rahmenvertrag über baubegleitende Kontrollleistungen · Einkaufsmuster RV-K 3.2](Grundakte/02_rahmenvertrag_kontrollleistungen.docx) | DOCX |
 | 10.09.2026 | [Projektabruf K17-01 mit Änderungsverfahren · Projektmuster PA-K 2.0](Grundakte/03_abrufblatt_k17.docx) | DOCX |
 | 02.09.2026 | [Einkaufsbedingungen für Kontrolldienstleistungen · DI-EK 4.1](Grundakte/04_einkaufsbedingungen_di_ek.docx) | DOCX |
