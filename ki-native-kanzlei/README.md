@@ -105,14 +105,14 @@ Vom Kanzleistart zum laufenden Mandat: Organisation einrichten, Posteingänge zu
 
 ## 0. Downloads und Verwendung
 
-Stand: v445.35.2. Quellenstand der jeweiligen Fachprüfung steht im Skill beziehungsweise im Prüfbericht; die Ergänzungen zur Dokumentenproduktion sind vom 9. Oktober 2026.
+Den Quellenstand der jeweiligen Fachprüfung finden Sie im Skill oder im zugehörigen Prüfbericht.
 
-Das Plugin unterstützt die Organisation und Mandatsbearbeitung einer Kanzlei mit 30 aufeinander abgestimmten Arbeitsanleitungen, den Skills. Es hilft beim Einrichten der Kanzlei, beim Zuordnen der Post, bei Fristen, juristischen Entwürfen, Kommunikation und Abrechnung. Sie können einen einzelnen Auftrag bearbeiten oder mehrere Schritte eines Mandats verbinden. Gespeicherte Arbeitsstände ermöglichen die Fortsetzung nach einer Unterbrechung; vor einem erneuten Versand wird der tatsächliche Status geprüft. Computerzugang allein ersetzt keine Einsatzfreigabe.
+Acht auswählbare Skills führen durch die Organisation und Mandatsbearbeitung der Kanzlei. Sie greifen auf 30 Fachmodule zurück. Es hilft beim Einrichten der Kanzlei, beim Zuordnen der Post, bei Fristen, juristischen Entwürfen, Kommunikation und Abrechnung. Sie können einen einzelnen Auftrag bearbeiten oder mehrere Schritte eines Mandats verbinden. Gespeicherte Arbeitsstände ermöglichen die Fortsetzung nach einer Unterbrechung; vor einem erneuten Versand wird der tatsächliche Status geprüft. Computerzugang allein ersetzt keine Einsatzfreigabe.
 
 | Bestandteil | Direktdownload |
 | --- | --- |
-| Claude/Codex – Plugin mit 30 Fachmodule in 8 Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.20/ki-native-kanzlei.zip) |
-| Portables Agent-Plugins-Paket (Vorfassung 445.35.0) | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.20/ki-native-kanzlei-portable.zip) |
+| Plugin für Claude und Codex mit 30 Fachmodulen in acht Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.20/ki-native-kanzlei.zip) |
+| Portables Agent-Plugins-Paket | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.20/ki-native-kanzlei-portable.zip) |
 | Alle 30 Fachmodule mit Übersicht der acht Arbeitswege | [PDF herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/ki-native-kanzlei-skills-handbuch.pdf) · [Einzel-PDFs als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/ki-native-kanzlei-skills-einzelpdfs.zip) |
 | Großer Werkstatt-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-werkstatt.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-werkstatt.txt) |
 | Mini-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-schnellstart.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-schnellstart.txt) |
