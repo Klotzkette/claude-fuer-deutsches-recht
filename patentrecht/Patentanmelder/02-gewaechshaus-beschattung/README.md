@@ -5,7 +5,7 @@
 Ein Hersteller liefert Austauschregler, ein externer Dienst Zielwerte und eine Gärtnerei die vorhandenen Antriebe. Abnahmeprotokoll und Bildschirmfoto beschreiben unterschiedliche Ebenen. Für die Anmeldung ist zu klären, wer einen Fahrbefehl geben kann und wo die zweite Anfahrt tatsächlich freigegeben wird.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-patentanmelder-02-gewaechshaus-beschattung)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-patentanmelder-02-gewaechshaus-beschattung)
 <!-- END Aktenarbeit -->
 
 ## Erste Bearbeitung

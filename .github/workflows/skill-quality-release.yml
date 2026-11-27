@@ -28,7 +28,7 @@ jobs:
     env:
       TAG: ${{ inputs.tag }}
       EXPECTED_COMMIT: ${{ inputs.expected_commit }}
-      SCOPE: ${{ inputs.tag == 'qualitaetsrunde-v445.36.12' && 'scripts/data/interstate-ag-release-scope.json' || inputs.tag == 'qualitaetsrunde-v445.36.13' && 'scripts/data/qualitaetsrunde-v445.36.13-scope.json' || contains(fromJSON('["qualitaetsrunde-v445.36.14","qualitaetsrunde-v445.36.15","qualitaetsrunde-v445.36.16","qualitaetsrunde-v445.36.17","qualitaetsrunde-v445.36.18","qualitaetsrunde-v445.36.19"]'), inputs.tag) && format('scripts/data/{0}-scope.json', inputs.tag) || 'scripts/data/skill-quality-release-scope.json' }}
+      SCOPE: ${{ inputs.tag == 'qualitaetsrunde-v445.36.12' && 'scripts/data/interstate-ag-release-scope.json' || inputs.tag == 'qualitaetsrunde-v445.36.13' && 'scripts/data/qualitaetsrunde-v445.36.13-scope.json' || contains(fromJSON('["qualitaetsrunde-v445.36.14","qualitaetsrunde-v445.36.15","qualitaetsrunde-v445.36.16","qualitaetsrunde-v445.36.17","qualitaetsrunde-v445.36.18","qualitaetsrunde-v445.36.19","qualitaetsrunde-v445.36.20"]'), inputs.tag) && format('scripts/data/{0}-scope.json', inputs.tag) || 'scripts/data/skill-quality-release-scope.json' }}
     steps:
       - name: Nur geprüften Main-Workflow zulassen
         if: github.ref != 'refs/heads/main'
@@ -106,6 +106,7 @@ jobs:
           python3 scripts/test-marketplace-import.py
           python3 scripts/test-skill-quality-release.py
           python3 scripts/test-vergabe-rollen-release.py
+          python3 scripts/test-verwaltungsgericht-quellen-release.py
           python3 scripts/test-jugendmedien-paket.py
           python3 scripts/test-prompt-openings.py
           python3 scripts/test-prompt-workflow-preservation.py

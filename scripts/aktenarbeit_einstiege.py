@@ -7,7 +7,7 @@ import os
 from pathlib import Path
 import re
 
-from aktenarbeit_katalog import VERZEICHNIS, kapitel
+from aktenarbeit_katalog import GITHUB, VERZEICHNIS, kapitel
 from aktenbestand import ROOT, fallquellen
 
 BEGIN = "<!-- BEGIN Aktenarbeit -->"
@@ -54,7 +54,11 @@ def mit_verweisen(inhalt, seite, kennungen):
             break
     position = min(position, len(original))
     pfad = Path(seite)
-    ziel = Path(os.path.relpath(VERZEICHNIS, pfad.parent)).as_posix()
+    if pfad.parts[0] == "testakten":
+        ziel = Path(os.path.relpath(VERZEICHNIS, pfad.parent)).as_posix()
+    else:
+        # Die Fachakten werden auch als eigenständige Pakete geöffnet.
+        ziel = f"{GITHUB}/blob/main/{VERZEICHNIS.as_posix()}"
     links = []
     for kennung in kennungen:
         if len(kennungen) == 1:

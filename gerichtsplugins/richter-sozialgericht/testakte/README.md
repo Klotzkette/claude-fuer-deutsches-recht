@@ -3,7 +3,7 @@
 Aus Richtersicht. Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Anschriften, Versicherungsnummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen ist Zufall.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-sozialgericht)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-sozialgericht)
 <!-- END Aktenarbeit -->
 
 ## Kurzbeschreibung

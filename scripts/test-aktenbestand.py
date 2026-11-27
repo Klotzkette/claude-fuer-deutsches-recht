@@ -6,10 +6,25 @@ import tempfile
 import unittest
 from zipfile import ZipFile
 
+from aktenarbeit_einstiege import mit_verweisen, ohne_verweise
 from aktenbestand import fallquellen, pruefe_fundstellen, zaehlung
 
 
 class InventurTests(unittest.TestCase):
+    def test_fachseiten_im_einzelpaket_und_zentrale_fallseiten(self):
+        original = "# Fallakte\n\nÖffnen Sie die Eingangsunterlagen.\n\n## Auftrag\n"
+        anker = "faelle-g-k.md#fall-interstate-01-alleinstellung"
+        for seite, ziel in (
+            ("vergaberecht-werkstatt/vergabestelle-behoerden/Interstate AG/01-alleinstellung/README.md",
+             "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/"),
+            ("testakten/fall/README.md", "../../docs/downloads/aktenarbeit/"),
+        ):
+            with self.subTest(seite=seite):
+                text = mit_verweisen(original, seite, ["interstate-01-alleinstellung"])
+                self.assertIn("](" + ziel + anker + ")", text)
+                self.assertEqual(mit_verweisen(text, seite, ["interstate-01-alleinstellung"]), text)
+                self.assertEqual(ohne_verweise(text), original)
+
     def test_unabhaengig_von_gesamtdruck_und_downloadzahl(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

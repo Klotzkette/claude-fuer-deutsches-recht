@@ -5,7 +5,7 @@
 Ein Prüfstand soll schadhafte Kisten trotz driftender Beleuchtung aussortieren. Die Patentkoordination legt eine deutsche Prioritätsanmeldung, einen fehlerhaften europäischen Anspruchsentwurf und ein Laborjournal vor. Eine zweite Unterlage wurde zwischen dem Prioritätstag und der geplanten europäischen Einreichung öffentlich.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-patentanmelder-03-fruchtkisten-pruefstand)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-patentanmelder-03-fruchtkisten-pruefstand)
 <!-- END Aktenarbeit -->
 
 ## Erste Bearbeitung

@@ -7,16 +7,16 @@ Diese zehn Personalakten enthalten die Rohdaten und HR-Notizen, die ein Arbeitge
 <!-- BEGIN Aktenarbeit -->
 Arbeitsvermerke und Korrespondenz zu den einzelnen Fällen
 
-- [01 Gunhilde Brachvogel-Riemenschneider, PTA](../../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-01-gunhilde-brachvogel-riemenschneider-pta)
-- [02 Volkmar Eitel-Hartung, Rechtsanwalt](../../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-02-volkmar-eitel-hartung-rechtsanwalt)
-- [03 Edelgard Schwerdtfeger, MTA Radiologie](../../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-03-edelgard-schwerdtfeger-mta-radiologie)
-- [04 Friedhelm Poettering, Lagermeister](../../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-04-friedhelm-poettering-lagermeister)
-- [05 Walpurga Dietrichsen-Hofstätter, ZFA](../../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-05-walpurga-dietrichsen-hofstaetter-zfa)
-- [06 Reinhilde Eisenträger, Filialleiterin Sparkasse](../../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-06-reinhilde-eisentraeger-filialleiterin-sparkasse)
-- [07 Dietram Auerwald-Bornhoeft, Spedition](../../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-07-dietram-auerwald-bornhoeft-spedition)
-- [08 Hartmut Greifenklau, Hotel-Empfangsleiter](../../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-08-hartmut-greifenklau-hotel-empfangsleiter)
-- [09 Ortrud Falckenstein, Altenpflegerin](../../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-09-ortrud-falckenstein-altenpflegerin)
-- [10 Burchard Holzapfel, Industriemechaniker](../../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-10-burchard-holzapfel-industriemechaniker)
+- [01 Gunhilde Brachvogel-Riemenschneider, PTA](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-01-gunhilde-brachvogel-riemenschneider-pta)
+- [02 Volkmar Eitel-Hartung, Rechtsanwalt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-02-volkmar-eitel-hartung-rechtsanwalt)
+- [03 Edelgard Schwerdtfeger, MTA Radiologie](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-03-edelgard-schwerdtfeger-mta-radiologie)
+- [04 Friedhelm Poettering, Lagermeister](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-04-friedhelm-poettering-lagermeister)
+- [05 Walpurga Dietrichsen-Hofstätter, ZFA](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-05-walpurga-dietrichsen-hofstaetter-zfa)
+- [06 Reinhilde Eisenträger, Filialleiterin Sparkasse](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-06-reinhilde-eisentraeger-filialleiterin-sparkasse)
+- [07 Dietram Auerwald-Bornhoeft, Spedition](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-07-dietram-auerwald-bornhoeft-spedition)
+- [08 Hartmut Greifenklau, Hotel-Empfangsleiter](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-08-hartmut-greifenklau-hotel-empfangsleiter)
+- [09 Ortrud Falckenstein, Altenpflegerin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-09-ortrud-falckenstein-altenpflegerin)
+- [10 Burchard Holzapfel, Industriemechaniker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-personalakte-10-burchard-holzapfel-industriemechaniker)
 <!-- END Aktenarbeit -->
 
 Mitarbeiter:

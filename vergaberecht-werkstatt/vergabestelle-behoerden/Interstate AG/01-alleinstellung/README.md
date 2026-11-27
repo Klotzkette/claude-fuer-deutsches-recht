@@ -5,7 +5,7 @@
 Beim Umzug des Fotoarchivs der Deutschen Interstate AG, Niederlassung West, müssen nummerierte Bildserien zusammenbleiben. Die Fachabteilung möchte den Auftrag mit dem bisherigen Anbieter aushandeln. Ein zweites Unternehmen hat sich gemeldet. Am 6. November 2026 geht der noch ungezeichnete Vergabevermerk bei Ihnen ein. Die AG, das Archiv und alle Unternehmen und Vorgänge dieser Akte sind fiktiv.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-01-alleinstellung)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-01-alleinstellung)
 <!-- END Aktenarbeit -->
 
 ## Arbeitsauftrag

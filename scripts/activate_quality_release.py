@@ -28,24 +28,33 @@ SOURCE_GROUPS[VERGABE_TAG] = tuple(Path("vergaberecht-werkstatt") / name for nam
     "bieter-unternehmen", "konkurrenten-rechtsschutz", "vergabestelle-behoerden",
 ))
 
+QUELLEN_TAG = "qualitaetsrunde-v445.36.20"
+SOURCE_GROUPS[QUELLEN_TAG] = (Path("ki-native-kanzlei"), Path("gerichtsplugins/richter-verwaltungsgericht"))
+
+
+def archives(plugin):
+    """Dateinamen und Manifestpräfix im bereits angebotenen Format."""
+    name = plugin["name"]
+    formats = {"native": (name + ".zip", ""), "portable": (name + "-portable.zip", name + "/")}
+    return dict(formats[variant] for variant in plugin["variants"])
+
 
 def plugin_changes(root, scope, report, plugin, source_path, updates, successors):
     name, version = plugin["name"], scope["version"]
     predecessor = plugin["previous_release"]
     if name != source_path.name or not BUILDER.SLUG.fullmatch(name) or set(predecessor["manifests"]) - set(BUILDER.MANIFESTS):
         raise ValueError("Unzulässiger Plugin- oder Manifestname im Freigabeplan")
-    asset = name + ".zip"
+    packages = archives(plugin)
     evidence = report["plugins"][name]
-    if evidence["source"] != "./" + source_path.as_posix() or set(evidence["archives"]) != {asset}:
+    if evidence["source"] != "./" + source_path.as_posix() or set(evidence["archives"]) != set(packages):
         raise ValueError(f"{name}: Pluginquelle oder Archivbestand weicht vom Freigabeplan ab")
-    proof = evidence["archives"][asset]
     for filename in plugin["prompts"]:
         if (not re.fullmatch(re.escape(name) + r"-(?:werkstatt|schnellstart|hauptproblem)\.(?:md|txt)", filename)
                 or hashlib.sha256((root / source_path / filename).read_bytes()).hexdigest() != report["prompts"][filename]):
             raise ValueError(f"{filename}: lokaler Prompt weicht vom veröffentlichten Stand ab")
     market_filename = Path(".claude-plugin/marketplace.json")
     markets = {market_filename: "./" + source_path.as_posix()}
-    if source_path.parent != Path("."):
+    if source_path.parent == Path("vergaberecht-werkstatt"):
         markets[source_path.parent / market_filename] = "./" + name
     for relative, source in markets.items():
         path = root / relative
@@ -59,20 +68,23 @@ def plugin_changes(root, scope, report, plugin, source_path, updates, successors
         path = root / source_path / member
         obj = json.loads(path.read_bytes())
         target = BUILDER.versioned_manifest(obj, version)
-        allowed = {old_hash, hashlib.sha256(target).hexdigest()}
+        target_hash = hashlib.sha256(target).hexdigest()
+        allowed = {old_hash, target_hash}
         if (obj["name"] != name or hashlib.sha256(path.read_bytes()).hexdigest() not in allowed
-                or hashlib.sha256(target).hexdigest() != proof[member]):
+                or any(evidence["archives"][asset].get(prefix + member) != target_hash
+                       for asset, prefix in packages.items())):
             raise ValueError(f"{member}: Manifest des veröffentlichten Pakets weicht ab")
         updates[path] = target
-    if asset in successors:
-        previous = successors[asset]["tag"]
-        if previous not in (predecessor["tag"], scope["tag"]):
-            raise ValueError(f"{EDITION}: unerwartete Nachfolge für {asset}")
-        successors[asset]["tag"] = scope["tag"]
-    else:
-        if predecessor["tag"] != f"{EDITION}-v{predecessor['version']}":
-            raise ValueError(f"{EDITION}: Vorgängereintrag für {asset} fehlt")
-        successors[asset] = {"ausgabeversion": predecessor["version"], "tag": scope["tag"]}
+    for asset in packages:
+        if asset in successors:
+            previous = successors[asset]["tag"]
+            if previous not in (predecessor["tag"], scope["tag"]):
+                raise ValueError(f"{EDITION}: unerwartete Nachfolge für {asset}")
+            successors[asset]["tag"] = scope["tag"]
+        else:
+            if predecessor["tag"] != f"{EDITION}-v{predecessor['version']}":
+                raise ValueError(f"{EDITION}: Vorgängereintrag für {asset} fehlt")
+            successors[asset] = {"ausgabeversion": predecessor["version"], "tag": scope["tag"]}
 
 
 def metadata_changes(root, scope, report):
@@ -115,8 +127,8 @@ def main(default_tag=None):
     recorded = subprocess.check_output(["git", "show", f"{args.expected_commit}:{scope_path}"], cwd=ROOT)
     if scope != json.loads(recorded) or scope["tag"] != args.tag:
         raise ValueError("Lokaler Ausgabeplan weicht vom freigegebenen Quellcommit ab")
-    routes = {plugin["name"] + ".zip": (plugin["previous_release"]["tag"], scope["tag"])
-              for plugin in scope["plugins"]}
+    routes = {asset: (plugin["previous_release"]["tag"], scope["tag"])
+              for plugin in scope["plugins"] for asset in archives(plugin)}
     publisher = BUILDER.load_module("publish-skill-quality-release.py")
     verifier = BUILDER.load_module("paketpflege.py")
     # Prompt snapshots are public release assets. Pages also serves their editable Markdown source.
@@ -128,7 +140,7 @@ def main(default_tag=None):
         if path.read_bytes() != contents:
             path.write_bytes(contents)
     generators = ["scripts/generate-root-plugin-catalog.py", "scripts/generate-skills-md.py"]
-    if any(path.parent != Path(".") for path in SOURCE_GROUPS[scope["tag"]]):
+    if any(path.parent == Path("vergaberecht-werkstatt") for path in SOURCE_GROUPS[scope["tag"]]):
         generators.append("vergaberecht-werkstatt/scripts/generate-skills-md.py")
     for generator in generators:
         subprocess.run([sys.executable, str(ROOT / generator)], cwd=ROOT, check=True)

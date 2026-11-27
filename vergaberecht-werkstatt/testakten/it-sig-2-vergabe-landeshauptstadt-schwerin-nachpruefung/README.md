@@ -1,7 +1,7 @@
 # IT-Sicherheitsvergabe Landeshauptstadt Schwerin - Nachprüfungsverfahren
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../docs/downloads/aktenarbeit/faelle-t-z.md#fall-vergabewerkstatt-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-t-z.md#fall-vergabewerkstatt-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung)
 <!-- END Aktenarbeit -->
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.

@@ -5,8 +5,9 @@ import json
 from functools import lru_cache
 from pathlib import Path
 
-PROOF = Path("quality/werkstattpruefung-2026-11-27/vorfassungen.json.gz")
-PROOF_SHA256 = "21d8ed7348ec6f66fa900fb83083ea564a1603e87fe4ad7173c90cf7cb4f5431"
+PIN = json.loads((Path(__file__).parent / "data/werkstatt-vorfassungen-20261127.json").read_bytes())
+PROOF = Path(PIN["path"])
+PROOF_SHA256 = PIN["sha256"]
 
 
 def digest(content):

@@ -5,7 +5,7 @@
 Ein Zubehörhersteller will seinen nachrüstbaren Fuß vor einem Händlertermin schützen. Der Vertrieb verspricht eine selbsttätige Sperre unter Last. Die Werkstattzeichnungen und die ersten Messergebnisse erlauben mehrere Deutungen.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-patentanmelder-01-moebel-schnappfuss)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-patentanmelder-01-moebel-schnappfuss)
 <!-- END Aktenarbeit -->
 
 ## Erste Bearbeitung

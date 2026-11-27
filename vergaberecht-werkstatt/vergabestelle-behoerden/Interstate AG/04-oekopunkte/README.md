@@ -5,7 +5,7 @@
 Die Niederlassung West will für ihr Werkhofgrundstück im Stadtgebiet Borken bis Jahresende die Kompensation nachweisen. Ein Flächenpool bietet die Zuordnung bereits durchgeführter Maßnahmen an. Ein zweiter Betrieb möchte eine Wiese erst anlegen und über Jahrzehnte pflegen. Beide schreiben auf die erste Seite „180.000 Ökopunkte“. Im Einkauf wartet eine vorbereitete Bestellung über 342.000 Euro.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-04-oekopunkte)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-04-oekopunkte)
 <!-- END Aktenarbeit -->
 
 ## Arbeitsauftrag

@@ -3,7 +3,7 @@
 Der Verein Hafenklang hat beim Kulturwochenende einen Raum weniger bespielt als geplant. Eine Ehrenamtliche bringt den vorderen Teil eines Rückforderungsbescheids in die Kanzlei. Sie hat beim Aufräumen auch Umschläge aus dem Vereinsbüro mitgenommen.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../docs/downloads/aktenarbeit/faelle-c-f.md#fall-foerderakte-hafenklang)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-c-f.md#fall-foerderakte-hafenklang)
 <!-- END Aktenarbeit -->
 
 Eröffnen Sie den anwaltlichen Prüfvorgang für den Verein. Halten Sie die Reichweite der Beauftragung, die Vertretung und die vorsorglich zu sichernde Frist auseinander. Überarbeiten Sie den Fristenvermerk nach Eingang der nachgereichten Post.

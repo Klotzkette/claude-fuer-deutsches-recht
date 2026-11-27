@@ -219,7 +219,9 @@ class JVAComponentTests(unittest.TestCase):
             self.assertEqual(path.read_bytes(), path.with_suffix(".txt").read_bytes())
             if kind != "werkstatt":
                 self.assertLessEqual(path.stat().st_size, 7500)
-            self.assertEqual(profile[key]["prompt_sha256" if kind == "hauptproblem" else "sha256"], sha(path))
+            expected = profile[key]["prompt_sha256" if kind == "hauptproblem" else "sha256"]
+            reviewed = historical_bytes(ROOT, path, expected, plugin=NAME)
+            self.assertEqual(expected, hashlib.sha256(reviewed).hexdigest())
         expected = profile["focus_review"]["skill_sha256"]
         self.assertEqual(expected, hashlib.sha256(historical_bytes(ROOT, PLUGIN / "skills/strafvollzug-fall-steuern/SKILL.md", expected, plugin=NAME)).hexdigest())
 

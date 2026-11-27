@@ -13,7 +13,7 @@ from urllib.parse import unquote
 
 from public_release import (COMPONENT_RELEASE_BASE as RELEASE_BASE, COMPONENT_RELEASE_TAG as RELEASE_TAG,
                             PROMPT_SUFFIXES, RAW_BASE, REPOSITORY,
-                            check_plugin_version, component_release, markdown_download, plugin_download)
+                            check_plugin_version, component_release, markdown_download, mini_download, plugin_download)
 
 REPO = Path(__file__).resolve().parent.parent
 SKIP_TESTAKTEN = {"formatvorlagen-paradebeispiele", "megaprompts"}
@@ -29,6 +29,15 @@ FIXED_ASSETS = {
 }
 
 
+# Die historischen Release-Assetnamen dienen auch als Beschriftung der
+# Downloadtabelle. Einzelprompts öffnen die fachlich gepflegte Markdown-Quelle.
+PROMPT_DOWNLOADS = {f"{role}-unified-mini-prompt.md": mini_download(role) for role in PROMPT_SUFFIXES}
+for suffix in PROMPT_SUFFIXES.values():
+    for art in ("arbeitsprompt", "kurzprompt"):
+        prompt = f"vergaberecht-{art}-{suffix}.md"
+        PROMPT_DOWNLOADS[prompt] = markdown_download(prompt)
+
+
 def asset_download(name: str) -> str:
     """Rollenpakete folgen ihrem Pin; eigene Akten und Spezialassets ihrer Edition.
 
@@ -38,7 +47,7 @@ def asset_download(name: str) -> str:
     for role in PROMPT_SUFFIXES:
         if name == f"{role}.zip":
             return plugin_download(role)
-    return f"{RELEASE_BASE}/{name}"
+    return PROMPT_DOWNLOADS.get(name, f"{RELEASE_BASE}/{name}")
 
 
 def plugin_names() -> list[str]:
@@ -81,6 +90,7 @@ def linked_release_assets(text: str) -> set[str]:
     prefix = f"{RELEASE_BASE}/"
     assets = {target.removeprefix(prefix) for target in targets if target.startswith(prefix)}
     assets.update(f"{name}.zip" for name in PROMPT_SUFFIXES if asset_download(f"{name}.zip") in targets)
+    assets.update(name for name, url in PROMPT_DOWNLOADS.items() if url in targets)
     return assets
 
 
@@ -195,7 +205,7 @@ def validate_plugins(plugins: list[str], errors: list[str]) -> None:
             f"{RAW_BASE}/testakten/megaprompts/{plugin}.md",
             plugin_download(plugin),
             f"{RELEASE_BASE}/{plugin}-skills-markdown.zip",
-            f"{RELEASE_BASE}/{plugin}-unified-mini-prompt.md",
+            mini_download(plugin),
             f"/plugin install {plugin}@klotzkette-german-legal-skills",
             "Autarker Kurzprompt mit vertiefter Fallprüfung",
             "Autarker Mini-Schnellstart bis 7.500 Zeichen",
@@ -344,7 +354,7 @@ def validate_mini_prompts(plugins: list[str], errors: list[str]) -> None:
         require(text, f"./{plugin}.md", "unified-mini-prompts/README.md", errors)
         require(
             text,
-            f"{RELEASE_BASE}/{plugin}-unified-mini-prompt.md",
+            mini_download(plugin),
             "unified-mini-prompts/README.md",
             errors,
         )

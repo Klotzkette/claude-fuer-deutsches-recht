@@ -5,7 +5,7 @@
 Für das Widerlager der Schieferbachbrücke fehlte eine freigegebene Bewehrungszeichnung. Die Steinbogen Ingenieurbau GmbH verlangt 13.787,00 Euro. Ihr Terminplan sieht einen Kran und drei Fachkräfte am Widerlager vor. Im Bautagebuch tauchen dieselben Ressourcen an anderer Stelle auf. Die Niederlassung West begleitet als Auftraggeberin einen laufenden Zivilprozess.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-05-baustreit)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-05-baustreit)
 <!-- END Aktenarbeit -->
 
 ## Arbeitsauftrag

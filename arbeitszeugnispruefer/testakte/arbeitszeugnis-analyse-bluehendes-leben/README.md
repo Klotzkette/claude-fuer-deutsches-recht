@@ -3,7 +3,7 @@
 Diese Aktenmappe begleitet das Plugin [`arbeitszeugnispruefer`](../../README.md) mit zehn Arbeitszeugnissen aus verschiedenen Branchen und Berufen. Die Unterlagen sind formal freundlich, im üblichen Wohlwollens-Stil verfasst und enthalten bewusst unterschiedliche Noten- und Signalebenen.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../docs/downloads/aktenarbeit/faelle-a-b.md#fall-arbeitszeugnis-floristik-kassenabschluss)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-a-b.md#fall-arbeitszeugnis-floristik-kassenabschluss)
 <!-- END Aktenarbeit -->
 
 ## Vollakte mit Originalbelegen und Nachreichungen

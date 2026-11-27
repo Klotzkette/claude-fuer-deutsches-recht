@@ -225,6 +225,10 @@ def main() -> int:
                 errors.append(f"{prompt_label}: Blocker- oder Routinggrenze fehlt")
             if prompt_path.parent.name != "unified-mini-prompts" and "## Null-Konfigurations-Start" not in prompt_text:
                 errors.append(f"{prompt_label}: Null-Konfigurations-Start fehlt")
+            if prompt_path.name.startswith("vergaberecht-arbeitsprompt-"):
+                start = re.search(r"^## Null-Konfigurations-Start$\n(.*?)(?=^## |\Z)", prompt_text, re.M | re.S)
+                if start and ROLE_STARTERS[plugin] not in start[1]:
+                    errors.append(f"{prompt_label}: Rollenstartsatz fehlt im Null-Konfigurations-Start")
 
     for relative, markers in POST_INVENTORY_SKILLS.items():
         try:

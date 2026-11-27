@@ -5,7 +5,7 @@
 Die Bauprüfer der Deutschen Interstate AG wollen Befunde und Fotos auf der Baustelle mobil aufnehmen und als zusammengehörigen Vorgang übergeben. Zwei Anbieter zeigen an aufeinanderfolgenden Prüftagen unterschiedliche Exportwege. Die Bewertungstabelle führt einen Datensatz als fehlgeschlagen. Die Vergabestelle hat die Vorabinformation für das Anwendungs-Los elektronisch versandt. Welche Unterlage belegt, ob sie für beide Lösungen die angekündigte Wertungsregel angewendet hat?
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-11-it-baupruefung)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-11-it-baupruefung)
 <!-- END Aktenarbeit -->
 
 ## Arbeitsauftrag

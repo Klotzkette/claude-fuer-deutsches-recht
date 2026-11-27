@@ -3,7 +3,7 @@
 Die Betriebsleiterin Rika Hellmann möchte die Mehrheit an der Haseufer Feinlehren GmbH übernehmen. Der Gründer hat seinem Team den Jahreswechsel als Übergabetag genannt. Der Vertrag soll schon im November zum Notar. Eine abweichende Liste im Datenraum, die Zustimmungsklausel und 40.000 Euro gestundeter Kaufpreis lassen offen, welcher Nachweis die Übergabe tatsächlich auslösen soll.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../docs/downloads/aktenarbeit/faelle-l-p.md#fall-notariat-anteilskauf-osnabrueck)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-l-p.md#fall-notariat-anteilskauf-osnabrueck)
 <!-- END Aktenarbeit -->
 
 Klären Sie mit allen Beteiligten Anteilsgegenstand, Zustimmung, Kaufpreisweg, Wirksamkeit der Abtretung und den getrennten Wechsel der Geschäftsführung. Erstellen Sie einen verhandlungsfähigen Entwurf mit konkreten offenen Punkten sowie eine fallbezogene Vollzugsanweisung für die Gesellschafterliste.

@@ -318,7 +318,7 @@ def validate_docx_pdf_fonts(path: Path) -> list[str]:
 def build(output: Path, font_dir: Path, xlsx_source: Path | None = None, docx_renderer: Path | None = None, qa_dir: Path | None = None) -> dict:
     from pypdf import PdfReader, PdfWriter
     from aktenarbeit_einstiege import mit_verweisen
-from testakte_disclaimer import NOTICE_BYTES, NOTICE_MARKDOWN
+    from testakte_disclaimer import NOTICE_BYTES, NOTICE_MARKDOWN
 
     payload = json.loads(FIXTURE.read_text())
     validate_documents(payload)

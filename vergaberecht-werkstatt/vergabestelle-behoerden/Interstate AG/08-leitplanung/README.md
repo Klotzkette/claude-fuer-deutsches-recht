@@ -5,7 +5,7 @@
 Die Deutsche Interstate AG lässt auf 14,2 Kilometern Fernstraße die künftige Verkehrsführung untersuchen. Im Westen liegen ein Rastplatz und eine Betriebszufahrt, im Osten muss die Anschlussplanung daran anknüpfen. Die Vergabestelle verlangt eine Referenz aus ihrem eigenen Haus. Ein Büro mit vergleichbarer Erfahrung bei einem Landesbetrieb möchte sich für West bewerben. Sie erhalten die Ausschreibungsunterlagen und die erste Bewerberfrage. Projekt, Unternehmen, Vorgang und beteiligte Personen sind fiktiv.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-08-leitplanung)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-08-leitplanung)
 <!-- END Aktenarbeit -->
 
 ## Arbeitsauftrag

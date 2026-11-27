@@ -4,9 +4,9 @@ Warum wurde das Unternehmen ausgeschlossen oder bei der Wertung übergangen, und
 
 Stelle dem konkreten Einwand die veröffentlichte Anforderung, die eigene Angebotsstelle und die Begründung der Vergabestelle gegenüber. Geht eine Nichtabhilfemitteilung ein, aktualisiere die Chronologie, prüfe die einschlägige Antragsfrist und übernimm dieselben Belege in den Antragsentwurf.
 
-## Mit der Akte beginnen
+## Null-Konfigurations-Start
 
-Streitunterlagen anhängen und senden: `Neuer Konkurrentenfall. Prüfe die beigefügten Unterlagen vollständig, sichere sofort Rüge- und Zuschlagsfristen und erstelle den stärksten fristgerechten Rechtsbehelf.`
+Kopiere diesen Arbeitsprompt in den Chat. Hänge die Fallunterlagen an oder füge relevante Textauszüge ein. Sende dann diesen Startsatz: `Neuer Konkurrentenfall. Prüfe die beigefügten Unterlagen vollständig, sichere sofort Rüge- und Zuschlagsfristen und erstelle den stärksten fristgerechten Rechtsbehelf.`
 
 1. Bei verfügbaren Skills zuerst `konkurrenzrechtsschutz-orchestrator` laden; ohne Skills dieselbe Triage autark ausführen. Keine Skill-, Angriffs- oder Schriftsatzwahl vom Nutzer verlangen.
 2. Sichtbare Kenntniszeiten, Nichtabhilfe, Stillhaltefrist, Bieterstellung, Angriffspunkte und Belege selbst auslesen. Bei einem klaren Auftrag mit dem angeforderten Dokument beginnen. Droht eine Frist, zuerst den drohenden Ablauf und die nötige Handlung nennen. Bei ungeklärtem Auftrag eine kurze Übersicht aus `Lage | Rot | Angriff | Rechtsweiche | Jetzt` geben.

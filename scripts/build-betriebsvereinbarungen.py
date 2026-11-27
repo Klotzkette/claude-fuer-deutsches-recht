@@ -10,6 +10,8 @@ from pathlib import Path
 from pypdf import PdfReader, PdfWriter
 
 from akteneingang.ausgabe import archive
+from akteneingang.belegdaten import body
+from betriebsvereinbarungen_aktensatz import native as native_document, reading
 from akteneingang.quellen import safe_member
 from package_readme import render_readme
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
@@ -21,7 +23,6 @@ CASE = "betriebsvereinbarung-copilot-maschinenbau-kassel"
 RELEASE = "betriebsvereinbarungen-v1.0.0"
 DOWNLOADS = ROOT / "docs/downloads"
 PHASES = ("Grundakte", "Nachreichungen")
-DOCUMENTS = import_module("build-interstate-testakten")
 FORMS = import_module("build-insolvenz-arbeitsvorlagen")
 
 
@@ -46,7 +47,7 @@ def report_csv(doc):
     output = io.StringIO(newline="")
     writer = csv.writer(output, delimiter=";", lineterminator="\r\n")
     writer.writerow([*table[0], "Exportvermerk"])
-    provenance = " · ".join(" ".join(text.splitlines()) for text in DOCUMENTS.body(doc))
+    provenance = " · ".join(" ".join(text.splitlines()) for text in body(doc))
     for index, row in enumerate(table[1:]):
         cells = [" ".join(value.splitlines()) if isinstance(value, str) else value for value in row]
         writer.writerow([*cells, provenance if index == 0 else ""])
@@ -64,10 +65,10 @@ def render_case():
         pdf_member = str(Path(member).with_suffix(".pdf"))
         if phase not in PHASES or "/" in name or member in native or pdf_member in printed:
             raise ValueError("Ungültiger Aktenpfad: " + member)
-        native[member] = report_csv(doc) if name.endswith(".csv") else DOCUMENTS.native(doc, case, name, None)
+        native[member] = report_csv(doc) if name.endswith(".csv") else native_document(doc, case, name)
         if phase == "Grundakte":
             check_intake_member(name, native[member])
-        printed[pdf_member] = DOCUMENTS.reading(doc, case, name, None)
+        printed[pdf_member] = reading(doc, case, name)
         page = len(writer.pages)
         writer.append(PdfReader(io.BytesIO(printed[pdf_member])), import_outline=False)
         if phase not in parents:

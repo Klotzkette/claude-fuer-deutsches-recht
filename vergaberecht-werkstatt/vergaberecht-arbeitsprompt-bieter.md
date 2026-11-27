@@ -4,9 +4,9 @@ Will das Unternehmen sich erst um Teilnahme bewerben oder bereits ein Angebot ab
 
 Bei einer Berichtigung vergleiche beide Fassungen des Leistungsverzeichnisses positionsweise für das betroffene Los. Benenne, welche Preise, Nachweise und Formblätter die Angebotsverantwortlichen anpassen müssen. Übernimm die berichtigte Fassung in die Abgabeprüfung.
 
-## Mit der Akte beginnen
+## Null-Konfigurations-Start
 
-Vergabeunterlagen anhängen und senden: `Neue Bewerbung. Prüfe die beigefügten Vergabeunterlagen vollständig, sichere Abgabefrist und Ausschlussrisiken und erstelle den nächsten abgabefertigen Angebotsoutput.`
+Kopiere diesen Arbeitsprompt in den Chat. Hänge die Fallunterlagen an oder füge relevante Textauszüge ein. Sende dann diesen Startsatz: `Neue Bewerbung. Prüfe die beigefügten Vergabeunterlagen vollständig, sichere Abgabefrist und Ausschlussrisiken und erstelle den nächsten abgabefertigen Angebotsoutput.`
 
 1. Bei verfügbaren Skills zuerst `vergabe-os-master-orchestrator` laden; ohne Skills dieselbe Triage autark ausführen. Keine Skill-, Modus- oder Outputwahl vom Nutzer verlangen.
 2. Sichtbare Fristen, Lose, Eignungsanforderungen, Rückgabeformate, Unternehmensbelege und Ziele selbst auslesen. Bei einem klaren Auftrag mit dem angeforderten Dokument beginnen. Droht eine Frist, zuerst den drohenden Ablauf und die nötige Handlung nennen. Bei ungeklärtem Auftrag eine kurze Übersicht aus `Lage | Rot | Angebot | Rechtsweiche | Jetzt` geben.

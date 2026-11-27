@@ -70,10 +70,23 @@ class NavigationParserTests(unittest.TestCase):
         with patch.object(navigation, "plugin_download", return_value=current) as resolver:
             self.assertEqual(navigation.asset_download(f"{role}.zip"), current)
             resolver.assert_called_once_with(role)
-            for asset in ("alle-skills-markdown.zip", "bieter-unternehmen-unified-mini-prompt.md",
+            for asset in ("alle-skills-markdown.zip",
                           "testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip"):
                 self.assertEqual(navigation.asset_download(asset), f"{navigation.RELEASE_BASE}/{asset}")
             resolver.assert_called_once_with(role)
+
+    def test_einzelprompts_fuehren_zur_bearbeitbaren_datei_ihrer_rolle(self):
+        for role, suffix in navigation.PROMPT_SUFFIXES.items():
+            for name, source in (
+                (f"{role}-unified-mini-prompt.md", f"unified-mini-prompts/{role}.md"),
+                (f"vergaberecht-arbeitsprompt-{suffix}.md", f"vergaberecht-arbeitsprompt-{suffix}.md"),
+                (f"vergaberecht-kurzprompt-{suffix}.md", f"vergaberecht-kurzprompt-{suffix}.md"),
+            ):
+                with self.subTest(asset=name):
+                    url = navigation.markdown_download(source)
+                    self.assertTrue((ROOT / source).is_file())
+                    self.assertEqual(navigation.asset_download(name), url)
+                    self.assertEqual(navigation.linked_release_assets(f"[Datei]({url})"), {name})
 
     def test_source_edition_rejects_foreign_tag_duplicate_cases_or_missing_role(self):
         source = json.loads((ROOT / "source-import.json").read_text())

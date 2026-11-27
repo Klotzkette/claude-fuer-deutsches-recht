@@ -5,7 +5,7 @@
 Die Deutsche Interstate AG, Niederlassung West, will eine Brücke mit zwei Straßenanschlüssen bauen. Rohbau, Anschlüsse und Schutzeinrichtungen sind getrennt ausgeschrieben. Ein Straßenbaubetrieb wollte nur den kompakten Ostanschluss anbieten. Die Bieterin auf Rang zwei des Anschlussloses hält dagegen die Wertung der Bauzeit für fehlerhaft. Am 9. November liegt ihr als Widerspruch bezeichnetes Schreiben bei der Vergabestelle. Keines der Lose ist vergeben. Vorhaben, Unternehmen, Personen und Verfahrensaktenzeichen sind fiktiv.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-09-brueckenneubau)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-09-brueckenneubau)
 <!-- END Aktenarbeit -->
 
 ## Arbeitsauftrag

@@ -1,7 +1,7 @@
 # Testakte 05: Insolvenz und Auftragnehmerwechsel nach § 132 GWB
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../docs/downloads/aktenarbeit/faelle-t-z.md#fall-vergabewerkstatt-05-insolvenz-auftragnehmerwechsel-132-gwb)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-t-z.md#fall-vergabewerkstatt-05-insolvenz-auftragnehmerwechsel-132-gwb)
 <!-- END Aktenarbeit -->
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.

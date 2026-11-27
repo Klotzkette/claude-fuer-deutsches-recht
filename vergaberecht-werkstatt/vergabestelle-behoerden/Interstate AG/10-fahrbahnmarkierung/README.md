@@ -5,7 +5,7 @@
 Im Markierungsprogramm Wiesenbogen können Betriebe einzeln für Uferhöhe und Kammweg anbieten. Die Anlagen zur Bekanntmachung verlangen selbst für ein einzelnes Los zwei gleichzeitig einsatzfähige Markierungskolonnen. Ein Betrieb mit einer eigenen Kolonne kalkuliert für Uferhöhe. Aus den Planungsunterlagen geht nicht hervor, ob die zweite Kolonne in diesem Los gleichzeitig gebraucht wird.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-10-fahrbahnmarkierung)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-10-fahrbahnmarkierung)
 <!-- END Aktenarbeit -->
 
 ## Arbeitsauftrag

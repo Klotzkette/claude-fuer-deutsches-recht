@@ -5,7 +5,7 @@
 Die Einkaufsrunde der Niederlassung West soll ein wiederverwendbares Vertragsset für Kontrollleistungen freigeben. Für das erste Projekt K17 hat der Einkauf den Rahmen ausgefüllt, die Projektleitung den Abruf. Die Daten des Lieferanten sind bereits eingetragen. Vor den Oktoberterminen will die Bauherrin wissen, wer ihr die Belege überlassen darf.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-07-vertragsmuster)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-07-vertragsmuster)
 <!-- END Aktenarbeit -->
 
 ## Arbeitsauftrag

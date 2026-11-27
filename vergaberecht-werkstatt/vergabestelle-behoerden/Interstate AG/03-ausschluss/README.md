@@ -5,7 +5,7 @@
 Auf dem Angebotsblatt steht „96 Stunden eingehalten“. Das beigelegte Datenblatt verspricht für die Grundausführung 72 Stunden. Nach einem Unwetter muss das Messnetz Kiebitzrinne vier Tage ohne Zugang zu den Stationen auskommen. Der günstigste Bieter liegt 15.600 Euro vor dem nächsten. Am 9. September liegt der Vorgang erstmals beim Rechtsdienst.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-03-ausschluss)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-interstate-03-ausschluss)
 <!-- END Aktenarbeit -->
 
 ## Arbeitsauftrag

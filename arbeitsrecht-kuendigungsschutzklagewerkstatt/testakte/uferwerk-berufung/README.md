@@ -3,7 +3,7 @@
 Die Arbeitsakte begleitet Lisa Muster vom Eintritt in den Uferwerk Verlag im Jahr 2008 bis zum klageabweisenden Urteil und der fristwahrenden Berufungseinlegung am 30. Oktober 2026. Sie dient der Vorbereitung einer eigenen anwaltlichen Einschätzung und Berufungsbegründung im Workshop am 12. November 2026. Eine Berufungsbegründung und ein Lösungsblatt sind nicht enthalten.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../docs/downloads/aktenarbeit/faelle-a-b.md#fall-arbeitsrecht-muster-uferwerk-berufung)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-a-b.md#fall-arbeitsrecht-muster-uferwerk-berufung)
 <!-- END Aktenarbeit -->
 
 Der Verlag beschäftigt in einem Betrieb 140 Arbeitnehmer und baut seine fünfzehn Designstellen im Zuge eines KI-Projekts ab. Die Unterlagen umfassen Anbahnung, Arbeitsvertrag und Nachträge, Familie und Elternzeiten, Vertriebsrotation, Qualifikation, Stellenbesetzung, Betriebsrat und Arbeitsagentur, Kündigung, vollständigen erstinstanzlichen Schriftwechsel, Verfügungen, Verhandlungsprotokolle mit Zeugenvernehmung, Urteil und Zustellung. Die Nachurteilskorrespondenz dokumentiert zusätzliche Angaben, die Herkunft von Belegen und den Zeitpunkt ihrer Verfügbarkeit.

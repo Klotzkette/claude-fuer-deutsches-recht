@@ -1,0 +1,6 @@
+# Die Fachbereichsprüfung vergleicht die ausgelieferten Office-Dateien und PDFs byteweise.
+openpyxl==3.1.5
+python-docx==1.2.0
+lxml==6.1.1
+reportlab==4.4.9
+pypdf==6.21.4

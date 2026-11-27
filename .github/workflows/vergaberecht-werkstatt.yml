@@ -6,6 +6,7 @@ on:
       - 'vergaberecht-werkstatt/**'
       - 'scripts/*vergaberecht-import*'
       - 'scripts/*interstate*'
+      - 'scripts/akteneingang/belegdaten.py'
       - 'scripts/data/interstate-ag/**'
       - 'scripts/package-vergaberecht-werkstatt.py'
       - '.github/workflows/vergaberecht-werkstatt.yml'

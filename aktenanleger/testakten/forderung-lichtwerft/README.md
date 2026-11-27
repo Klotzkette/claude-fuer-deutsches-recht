@@ -3,7 +3,7 @@
 In der Werkstatt der Lichtwerft fehlen 6.426 Euro für eine Leuchtschrift. Buchhaltung, Einkaufsbestellung und Zahlung nennen drei leicht verwechselbare Firmennamen. Die Geschäftsführerin möchte erst wissen, gegen wen und wegen welcher Summe die Kanzlei überhaupt vorgehen kann.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../docs/downloads/aktenarbeit/faelle-c-f.md#fall-forderung-lichtwerft)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-c-f.md#fall-forderung-lichtwerft)
 <!-- END Aktenarbeit -->
 
 Legen Sie den anwaltlichen Eingang an. Schreiben Sie die Forderungen beider Projekte auseinander, bestimmen Sie den möglichen Auftraggeber der Kanzlei und setzen Sie eine Wiedervorlage für den offenen Buchungsbeleg. Die Geschäftsführerin hat zunächst nur eine Prüfung bestellt.

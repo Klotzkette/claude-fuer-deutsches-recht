@@ -20,6 +20,7 @@ from openpyxl import load_workbook
 from bauvergabe_falldaten import CASES, PLUGINS, STAGES, total
 from bauvergabe_aktentexte import documents
 from prompt_profiles import validate_files
+from main_skill_revisions import historical_bytes
 from quality_lab import validate_profile
 from release_routing import validate_plugin_version
 from testakte_zip_common import working_dump_archive_pairs, preserves_directories, source_zip_includes_gesamt_pdf
@@ -74,9 +75,12 @@ class Bauvergabe(unittest.TestCase):
                 validate_profile(profile,slug,p,ROOT)
                 self.assertEqual({x['target_skill'] for x in profile['cases']},{x.parent.name for x in skills})
                 for kind,key in [('werkstatt','workshop_review'),('schnellstart','mini_review')]:
-                    b=(p/f'{slug}-{kind}.md').read_bytes()
-                    self.assertEqual(hashlib.sha256(b).hexdigest(),profile[key]['sha256'])
-                    if kind=='schnellstart':self.assertLessEqual(len(b),7500)
+                    prompt = p / f'{slug}-{kind}.md'
+                    expected = profile[key]['sha256']
+                    reviewed = historical_bytes(ROOT, prompt, expected, plugin=slug)
+                    self.assertEqual(hashlib.sha256(reviewed).hexdigest(), expected)
+                    if kind == 'schnellstart':
+                        self.assertLessEqual(prompt.stat().st_size, 7500)
                 for skill in skills:
                     for target in re.findall(r'\]\(([^\s)]+)\)',skill.read_text()):
                         if '://' not in target and not target.startswith('#'):

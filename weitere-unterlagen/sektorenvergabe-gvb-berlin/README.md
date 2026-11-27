@@ -3,7 +3,7 @@
 Zehn einzeln verwendbare Markdown-Workflows und eine zusammenhängende Vergabeakte. Die GVB Gemeinsame Verkehrsbetriebe Berlin ist im Fall eine vom Land Berlin getragene Anstalt öffentlichen Rechts mit U-Bahn, Straßenbahn und Busverkehr. Sie vergibt Reinigungsleistungen ab Januar 2027. Die Detailakte begleitet Los 1, Stationen und Betriebsräume, bis zur Korrespondenz im Nachprüfungsverfahren am 9. Oktober 2026. Fahrzeug- und Glasreinigung erscheinen zur Abgrenzung und Auftragswertberechnung; ihre weiteren Vergabeverfahren sind nicht Gegenstand dieser Akte.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../docs/downloads/aktenarbeit/faelle-q-s.md#fall-sektorenvergabe-gvb-berlin)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-q-s.md#fall-sektorenvergabe-gvb-berlin)
 <!-- END Aktenarbeit -->
 
 Diese Zusatzunterlagen sind kein Plugin. Sie werden weder im Marketplace registriert noch bei einer Plugin-Installation geladen. Die Workflows können einzeln in eine andere Oberfläche übernommen werden. Jede Datei bleibt einschließlich Leerzeichen und Markdown unter 7.500 Zeichen; auch UTF-8-Dateigröße und Windows-Zeilenumbrüche werden geprüft.

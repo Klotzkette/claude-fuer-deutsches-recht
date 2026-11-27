@@ -29,3 +29,7 @@ Die zehn weiteren Quellen umfassen sechs weiterhin erreichbare Werkstätten für
 `python scripts/werkstatt_lesbarkeit.py --details` gibt für jeden Text die Länge, den Umfang des ersten Absatzes, die Zahl der Hauptabschnitte und auffindbare Textstellen zu den vier Arbeitsmerkmalen aus. Der gemeinsame Visualisierungsbaustein zählt bei der Suche nach diesen Stellen nicht mit. `python scripts/test-prompt-openings.py` prüft unter anderem den Fließtext vor der ersten Tabelle und erfasst auch die drei eigenständigen Vergabe-Vollworkflows.
 
 Die Fundstellen machen die Durchsicht nachvollziehbar. Ob ein Modell aus einer bestimmten Akte die richtige Klage, Vergabeentscheidung oder Anmeldung erstellt, lässt sich nur an der konkreten Antwort prüfen. Für diese Bestandsaufnahme wurden keine vergleichenden Modellläufe in Claude, ChatGPT oder Pandektes durchgeführt.
+
+### Zusätzliche Fachtests und ihre Reichweite
+
+Ein Vergleich mit dem Ausgangscommit `6b17784f4` ergab bei vier Fachtests dieselben Fehlermeldungen vor und nach der Redaktion. Betroffen sind die Enteignungs- und Vergesellschaftungswerkzeuge (Art. 14 und 15 GG), der Transparenzprüfer zur KI-Verordnung und die Aktenprüfung zu Art. 5 KI-VO. Zu den Befunden gehören abweichende Erwartungen an die Gliederung einzelner Skills und an Hervorhebungen. Diese Fachtests geben für die betroffenen Funktionen keine Freigabe. Die Word-/PDF-Prüfung der ergänzenden Schriftstücke und die Lesbarkeitsprüfung der Werkstatttexte sind eigenständige Prüfungen.

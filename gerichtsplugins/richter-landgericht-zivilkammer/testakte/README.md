@@ -3,7 +3,7 @@
 Aus Richtersicht (Vorsitzender der Zivilkammer am Landgericht). Experimentelles Plugin im Ordner gerichtsplugins/. Sämtliche Personen, Firmen, Anschriften, Kontonummern und Aktenzeichen sind frei erfunden; jede Ähnlichkeit mit echten Fällen oder Unternehmen ist Zufall.
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-landgericht-zivilkammer)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-gericht-richter-landgericht-zivilkammer)
 <!-- END Aktenarbeit -->
 
 ## Kurzbeschreibung

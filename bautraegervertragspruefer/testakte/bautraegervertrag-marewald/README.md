@@ -3,7 +3,7 @@
 Der Vertrag Marewald enthält eigene Regelungen zur Bauleistung, Zahlung und Vertragsabwicklung. Einen weiteren, unabhängigen Vertragsbestand enthält die [Akte Hohenwartshofen](../bautraegervertrag/README.md). Zur [Übersicht](../README.md).
 
 <!-- BEGIN Aktenarbeit -->
-[Arbeitsvermerk und Korrespondenz zu diesem Fall](../../../docs/downloads/aktenarbeit/faelle-a-b.md#fall-bautraeger-bautraegervertrag-marewald)
+[Arbeitsvermerk und Korrespondenz zu diesem Fall](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-a-b.md#fall-bautraeger-bautraegervertrag-marewald)
 <!-- END Aktenarbeit -->
 
 Dieses Verzeichnis enthält ein eigenständiges Vertragsdokument in den Gesamtfassungen und als Akten-ZIP mit getrennten Einzel-PDFs:

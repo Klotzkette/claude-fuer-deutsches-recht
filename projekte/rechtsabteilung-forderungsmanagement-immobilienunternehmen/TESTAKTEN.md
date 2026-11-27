@@ -7,15 +7,15 @@ Neun Übungsfälle und der Berliner Mietspiegel als Referenz. Für einen eigenen
 <!-- BEGIN Aktenarbeit -->
 Arbeitsvermerke und Korrespondenz zu den einzelnen Fällen
 
-- [Becker: Mieterhöhung](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-mieterhoehung-becker-tempelhof)
-- [Schulz: Schimmelklage](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-mieterklage-schimmel-schulz-verteidigung)
-- [Demir: fünf offene Mieten](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-mietrueckstand-demir-fuenf-raten-absichtlich)
-- [Lange: Bankwechsel und Kulanz](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-mietrueckstand-lange-zwei-raten-versehen)
-- [Meier: Mietrückstand](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-mietrueckstand-meier-wilhelmstrasse)
-- [Braun: Betriebskostennachforderung](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-nebenkosten-braun-nachzahlung-unbezahlt)
-- [Kowalska: Räumung und Zahlung](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-raeumungsklage-kowalski-friedrichshain)
-- [Riedel: gebrochener Ratenplan](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-ratenplan-riedel-gebrochen)
-- [Krüger: Titel und Teilzahlung](../../docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-vollstreckung-krueger-titel-teilzahlung)
+- [Becker: Mieterhöhung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-mieterhoehung-becker-tempelhof)
+- [Schulz: Schimmelklage](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-mieterklage-schimmel-schulz-verteidigung)
+- [Demir: fünf offene Mieten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-mietrueckstand-demir-fuenf-raten-absichtlich)
+- [Lange: Bankwechsel und Kulanz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-mietrueckstand-lange-zwei-raten-versehen)
+- [Meier: Mietrückstand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-mietrueckstand-meier-wilhelmstrasse)
+- [Braun: Betriebskostennachforderung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-nebenkosten-braun-nachzahlung-unbezahlt)
+- [Kowalska: Räumung und Zahlung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-raeumungsklage-kowalski-friedrichshain)
+- [Riedel: gebrochener Ratenplan](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-ratenplan-riedel-gebrochen)
+- [Krüger: Titel und Teilzahlung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/downloads/aktenarbeit/faelle-g-k.md#fall-immobilien-vollstreckung-krueger-titel-teilzahlung)
 <!-- END Aktenarbeit -->
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.

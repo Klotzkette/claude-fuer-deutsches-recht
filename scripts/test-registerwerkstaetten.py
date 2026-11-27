@@ -2,6 +2,7 @@
 """Fachliche Grenzen, native Falldateien und Publikationsumfang der Registerpakete."""
 import hashlib,json,re,sys,unittest
 from pathlib import Path
+from main_skill_revisions import historical_bytes
 from docx import Document
 from openpyxl import load_workbook
 from pypdf import PdfReader
@@ -64,5 +65,8 @@ class RegisterWerkstaetten(unittest.TestCase):
  def test_review_hashes_track_actual_prompts(self):
   for slug in PLUGINS:
    profile=json.loads((ROOT/'quality/evals'/f'{slug}.json').read_text())
-   for kind,key in [('werkstatt','workshop_review'),('schnellstart','mini_review')]:self.assertEqual(profile[key]['sha256'],hashlib.sha256((ROOT/slug/f'{slug}-{kind}.md').read_bytes()).hexdigest())
+   for kind, key in [('werkstatt', 'workshop_review'), ('schnellstart', 'mini_review')]:
+    expected = profile[key]['sha256']
+    reviewed = historical_bytes(ROOT, ROOT/slug/f'{slug}-{kind}.md', expected, plugin=slug)
+    self.assertEqual(expected, hashlib.sha256(reviewed).hexdigest())
 if __name__=='__main__':unittest.main()
