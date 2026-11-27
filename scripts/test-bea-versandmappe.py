@@ -84,12 +84,13 @@ def check_modefuchs_eval_inputs() -> None:
         (REPO / "scripts" / "fixtures" / "modefuchs" / "originale-sha256.json")
         .read_text(encoding="utf-8")
     )
-    originals = set((case_dir / "originale").glob("*.pdf"))
-    if len(hashes) != 28 or {path.name for path in originals} != set(hashes):
-        raise AssertionError("Genau die 28 erhaltenen ModeFuchs-Original-PDFs erwartet")
-    for path in originals:
+    archive = REPO / "scripts/fixtures/modefuchs/quellbelege"
+    issued = {path.name for path in (case_dir / "originale").glob("*.pdf")}
+    if len(hashes) != 28 or {path.name for path in archive.iterdir()} != set(hashes) or issued != set(hashes):
+        raise AssertionError("28 archivierte ModeFuchs-Quellbelege und 28 namensgleiche Nutzfassungen erwartet")
+    for path in archive.iterdir():
         if hashlib.sha256(path.read_bytes()).hexdigest() != hashes[path.name]:
-            raise AssertionError(f"ModeFuchs-Original veraendert: {path.name}")
+            raise AssertionError(f"Archivierter ModeFuchs-Quellbeleg veraendert: {path.name}")
 
 
 def main() -> int:
@@ -167,7 +168,7 @@ def main() -> int:
             raise AssertionError("Preflight enthält unerwartete Stop- oder Warnbefunde")
 
     print(
-        "test-bea-versandmappe OK (47 ModeFuchs-Arbeitsdateien, 28 Original-Hashes; "
+        "test-bea-versandmappe OK (47 ModeFuchs-Arbeitsdateien, 28 Quellbeleg-Hashes; "
         "3 Versanddateien, 4 gestempelte Anlagenseiten)"
     )
     return 0

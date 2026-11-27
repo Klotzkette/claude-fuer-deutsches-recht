@@ -174,6 +174,14 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
                    "für die Nachbesprechung getrennt bereit.")
         english = ("English: Start with the `Grundakte` folder in the original-format ZIP. It contains "
                    "the selected intake records. Later procedural documents are outside that folder.")
+    if slug == 'inkasso-zahlungsklage-modefuchs':
+        intro = ('Öffnen Sie im Originalformat-ZIP zuerst `Grundakte`. Dort liegen die Rechnung über '
+                 '698 Euro, die Mahnungen, die Abtretung und die Zahlungsbelege. Vergleichen Sie die '
+                 'Empfänger und Verwendungszwecke mit den E-Mails zur Weiterleitung. Die Schriftsätze '
+                 'und das bearbeitbare Forderungskonto finden Sie außerhalb der Grundakte.')
+        english = ('English: Start with `Grundakte` in the original-format ZIP. Match the invoice for '
+                   '698 euros to the reminders, assignment, payment records and forwarding emails. '
+                   'The pleadings and editable account are outside that folder.')
     if slug == 'bauunternehmer-einkauf-brandschutztueren-krimpfort':
         intro = ('Öffnen Sie im Originalformat-ZIP zuerst `Grundakte`. Unter `00_LV_Entstehung` liegen '
                  'Planung, Markterkundung und LV-Freigabe. In der Grundakte finden Sie außerdem das gemeinsame '

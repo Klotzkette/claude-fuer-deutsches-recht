@@ -143,8 +143,10 @@ class RepositoryRoutingTests(unittest.TestCase):
                     asset = f"testakte-{slug}{suffix}.zip"
                     part = expected.index(slug) // 499 + 1
                     tag = scoped.get(asset, TAG if part == 1 else f"akten-{part}-v{VERSION}")
-                    self.assertEqual(R.case_asset_url(slug, suffix, version=VERSION),
-                                     f"{R.RELEASE_BASE}/download/{tag}/{asset}")
+                    url = f"{R.RELEASE_BASE}/download/{tag}/{asset}"
+                    if slug == "inkasso-zahlungsklage-modefuchs":
+                        url = f"https://raw.githubusercontent.com/{R.REPOSITORY}/main/docs/downloads/modefuchs/{asset}"
+                    self.assertEqual(R.case_asset_url(slug, suffix, version=VERSION), url)
 
 
 class RoutingTests(Fixture):

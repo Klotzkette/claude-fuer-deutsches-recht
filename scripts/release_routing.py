@@ -174,6 +174,8 @@ def case_asset_url(slug: str, suffix: str = "", *, version: str | None = None,
                    root: Path = ROOT, config: Path = CONFIG) -> str:
     if suffix not in ("", "-einzelpdfs"):
         raise ValueError(f"Unsupported case ZIP suffix: {suffix!r}")
+    if slug == "inkasso-zahlungsklage-modefuchs":
+        return f"https://raw.githubusercontent.com/{REPOSITORY}/main/docs/downloads/modefuchs/testakte-{slug}{suffix}.zip"
     pin = scoped_asset_url(f"testakte-{slug}{suffix}.zip", root=root)
     if pin:
         return pin

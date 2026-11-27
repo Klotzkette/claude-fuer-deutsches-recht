@@ -101,7 +101,7 @@ Die [zentrale Sammlung](./testakten/README.md) lässt sich [nach Rechtsgebiet](.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-Das [Originalformat-ZIP der ModeFuchs-Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-pflegerecht-v1.0.0/testakte-inkasso-zahlungsklage-modefuchs.zip) enthält die Belege für den [Beispielauftrag](#beispiel-für-den-ersten-auftrag).
+Das [Originalformat-ZIP der ModeFuchs-Akte](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/downloads/modefuchs/testakte-inkasso-zahlungsklage-modefuchs.zip) enthält die Belege für den [Beispielauftrag](#beispiel-für-den-ersten-auftrag).
 
 ## ChatGPT und die ChatGPT-App
 
